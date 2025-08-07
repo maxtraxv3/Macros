@@ -1,4 +1,4 @@
-// Auto Thanker by Magnic 1.5 (WIP)
+// Auto Thanker by Magnic 2.8 (WIP)
 // can only add 5 people to a thank list for now.
 // /thanks enables it and disabled it(disable may not work atm)
 // Ctrl + Shift + Right click on someone to add them to list
