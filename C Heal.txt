@@ -1,3 +1,14 @@
+// C heal 1.9
+// /hi to set what evers in your right hand to the healer item the macro will use to heal people with
+// c heal <name> heals person wiht that name
+// c heal me heals you
+// c pet heals your pet or the pet closest to you
+// c self self heal
+// c lock <name> lock healing to that person
+// /feedback gives more information about your actions
+// /mov enables <yourname> <speed> <direction> IE jess run southeast
+// /share enable share backs.
+
 setglobal Right_H "asklepian staff"
 
 @login
@@ -450,44 +461,6 @@ if @my.right_item != Right_H
 end if
 "/use /lock " guy " \r"
 message "* Auto Locking" guy ""
-}
-
-"/area" // radium healing
-{
-label top
-pause 3
-set logck @env.textLog
-if logck >= "c area"
-	if @my.right_item != Right_H
-		"/equip " Right_H " \r"
-end if
-		pause 1
-		"/use \r"
-	message "*Raidum Healing"
-	end if
-goto top
-}
-
-"/moon"
-{
-label top
-set logck @env.textLog
-if logck >= "c self"
-		"/equip moonstone \r"
-end if
-}
-
-"/lkme"
-{
-label top
-set logck @env.textLog
-set guy @env.textLog.word[2]
-if logck >= "c lock me"
-	"/select " guy " \r"
-		"/use /lock " @selplayer.simple_name " \r"
-				"/select \r"
-end if
-goto top
 }
 
 "/feedback"
