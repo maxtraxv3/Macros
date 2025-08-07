@@ -1,3 +1,7 @@
+
+setglobal dotname @my.name
+setglobal dotname + "."
+
 @login
 {
 if @my.name.num_words == 1
