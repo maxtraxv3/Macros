@@ -1,0 +1,63 @@
+//WINDOWS ONLY VERSION! (mac one below)
+"/pro"
+{
+label loop
+set logck @env.textlog
+	if logck >= "is becoming frustrated with your lack of progress"
+		message "* |══════════| -0%"
+	end if
+	if logck >= "you have a difficult task ahead of you"
+		message "* |══════════| 0%"
+	end if
+	if logck >= "you have just begun to"
+		message "* |▰═════════| 0%-13%"
+	end if
+	if logck >= "you are starting to learn, but"
+		message "* |▰▰▰═══════| 13%-38%"
+	end if
+	if logck >= "you are making progress."
+		message "* |▰▰▰▰▰═════| 38%-62%"
+	end if
+	if logck >= "you are well on your way to enlightenment"
+		message "* |▰▰▰▰▰▰════ | 62%-75%"
+	end if
+	if logck >= "you are close to mastering"
+		message "* |▰▰▰▰▰▰▰═══| 75%-88%"
+	end if
+	if logck >= "you are almost ready for a breakthrough"
+		message "* |▰▰▰▰▰▰▰▰▰═| 88%-100%"
+	end if
+goto loop
+}
+
+//Mac Version
+"/pro"
+{
+label loop
+set logck @env.textlog
+	if logck >= "is becoming frustrated with your lack of progress"
+		message "* |♡♡♡♡♡♡♡♡♡♡| -0%"
+	end if
+	if logck >= "you have a difficult task ahead of you"
+		message "* |♡♡♡♡♡♡♡♡♡♡| 0%"
+	end if
+	if logck >= "you have just begun to"
+		message "* |♥︎♡♡♡♡♡♡♡♡♡| 0%-13%"
+	end if
+	if logck >= "you are starting to learn, but"
+		message "* |♥︎♥︎♥︎♡♡♡♡♡♡♡♡| 13%-38%"
+	end if
+	if logck >= "you are making progress."
+		message "* |♥︎♥︎♥︎♥︎♥︎♡♡♡♡♡| 38%-62%"
+	end if
+	if logck >= "you are well on your way to enlightenment"
+		message "* |♥︎♥︎♥︎♥︎♥︎♡♡♡♡♡| 62%-75%"
+	end if
+	if logck >= "you are close to mastering"
+		message "* |♥︎♥︎♥︎♥︎♥︎♥︎♥︎♡♡♡| 75%-88%"
+	end if
+	if logck >= "you are almost ready for a breakthrough"
+		message "* |♥︎♥︎♥︎♥︎♥︎♥︎♥︎♥︎♥︎♡| 88%-100%"
+	end if
+goto loop
+}
