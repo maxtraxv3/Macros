@@ -1,0 +1,22 @@
+@login
+{
+set shsu 0
+set logck @env.textlog
+label top
+if shsu == 0
+	"/who \r"
+		pause 3
+			if logck >= "suu"
+				"/share /lock SuuubIII\r"
+					set shsu 1
+						goto karmaloop
+			else
+				pause 500
+					goto top
+			end if
+end if
+label karmaloop
+	"/thank SuuubIII\r"
+		pause 1800
+			goto karmaloop
+} 
