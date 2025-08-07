@@ -1,0 +1,259 @@
+// C heal 2.1
+// /hi to set what evers in your right hand to the healer item the macro will use to heal people with
+// c heal <name> heals person wiht that name
+// c heal me heals you
+// c pet heals your pet or the pet closest to you
+// c self self heal
+// c lock <name> lock healing to that person
+
+setglobal Right_H "asklepian staff"
+
+@login
+{
+call sethealeritem
+}
+
+"/hi"
+{
+call sethealeritem
+}
+
+sethealeritem
+{
+set Right_H @my.right_item
+message "* Healer Item set to" Right_H ""
+if Right_H >= asklepian
+	SETGLOBAL Rad 1
+end if
+}
+
+"/ah"
+{
+set logck @env.textLog
+if @my.name.num_words == 1
+	setglobal namenum 1
+else if @my.name.num_words == 2
+	setglobal namenum 2
+else if @my.name.num_words == 3
+	setglobal namenum 3
+end if
+message "C Heal Online"
+if logck.word[2] >= "C"
+	setglobal textLog 2
+else
+	setglobal textLog 1
+end if
+label top
+if logck >= "says,
+	call sayit
+else if logck >= "growls,"
+	call sayit
+else if logck >= "yells,"
+	call sayit
+end if
+goto top
+}
+
+sayit
+{
+if textLog == 1
+	if namenum == 1
+		if logck >= "c heal me"
+			setglobal guy logck.word[0]
+				call autoH
+		else if logck >= "c heal"
+			setglobal guy logck.word[4]
+					call autoH
+		else if logck >= "c self"
+			call autoS
+		else if logck >= "c pet"
+			call autoP
+		else if logck >= "c area"
+			call autoA
+		else if logck >= "c lock me"
+			setglobal guy logck.word[0]
+				call autoL
+		else if logck >= "c lock"
+			setglobal guy logck.word[4]
+				call autoL
+		end if
+	else if namenum == 2
+		if logck >= "c heal me"
+			setglobal guy logck.word[0]
+			setglobal guy + " "
+			setglobal guy + logck.word[1]
+				call autoH
+		else if logck >= "c heal"
+			setglobal guy logck.word[5]
+				call autoH
+		else if logck >= "c self"
+			call autoS
+		else if logck >= "c pet"
+			call autoP
+		else if logck >= "c area"
+			call autoA
+		else if logck >= "c lock me"
+			setglobal guy logck.word[0]
+			setglobal guy + " "
+			setglobal guy + logck.word[1]
+				call autoL
+		else if logck >= "c lock"
+			setglobal guy logck.word[5]
+				call autoL
+		end if
+	else if namenum == 3
+		if logck >= "c heal me"
+			setglobal guy logck.word[0]
+			setglobal guy + " "
+			setglobal guy + logck.word[1]
+			setglobal guy + " "
+			setglobal guy + logck.word[2]
+				call autoH
+		else if logck >= "c heal"
+			setglobal guy logck.word[6]
+				call autoH
+		else if logck >= "c self"
+			call autoS
+		else if logck >= "c pet"
+			call autoP
+		else if logck >= "c area"
+			call autoA
+		else if logck >= "c lock me"
+			setglobal guy logck.word[0]
+			setglobal guy + " "
+			setglobal guy + logck.word[2]
+			setglobal guy + " "
+			setglobal guy + logck.word[3]
+				call autoL
+		else if logck >= "c lock"
+			setglobal guy logck.word[6]
+				call autoL
+		end if
+	end if
+else if textLog == 2
+	if namenum == 1
+		if logck >= "c heal me"
+			setglobal guy logck.word[2]
+				call autoH
+		else if logck >= "c heal"
+			setglobal guy logck.word[6]
+					call autoH
+		else if logck >= "c self"
+			call autoS
+		else if logck >= "c pet"
+			call autoP
+		else if logck >= "c area"
+			call autoA
+		else if logck >= "c lock me"
+			setglobal guy logck.word[2]
+				call autoL
+		else if logck >= "c lock"
+			setglobal guy logck.word[6]
+				call autoL
+		end if
+	else if namenum == 2
+		if logck >= "c heal me"
+			setglobal guy logck.word[2]
+			setglobal guy + " "
+			setglobal guy + logck.word[3]
+				call autoH
+		else if logck >= "c heal"
+			setglobal guy logck.word[7]
+				call autoH
+		else if logck >= "c self"
+			call autoS
+		else if logck >= "c pet"
+			call autoP
+		else if logck >= "c area"
+			call autoA
+		else if logck >= "c lock me"
+			setglobal guy logck.word[2]
+			setglobal guy + " "
+			setglobal guy + logck.word[3]
+				call autoL
+		else if logck >= "c lock"
+			setglobal guy logck.word[7]
+				call autoL
+		end if
+	else if namenum == 3
+		if logck >= "c heal me"
+			setglobal guy logck.word[2]
+			setglobal guy + " "
+			setglobal guy + logck.word[3]
+			setglobal guy + " "
+			setglobal guy + logck.word[4]
+				call autoH
+		else if logck >= "c heal"
+			setglobal guy logck.word[8]
+				call autoH
+		else if logck >= "c self"
+			call autoS
+		else if logck >= "c pet"
+			call autoP
+		else if logck >= "c area"
+			call autoA
+		else if logck >= "c lock me"
+			setglobal guy logck.word[2]
+			setglobal guy + " "
+			setglobal guy + logck.word[3]
+			setglobal guy + " "
+			setglobal guy + logck.word[4]
+				call autoL
+		else if logck >= "c lock"
+			setglobal guy logck.word[8]
+				call autoL
+		end if
+	end if
+end if
+}
+
+autoH
+{
+if @my.right_item != Right_H
+	"/equip " Right_H " \r"
+end if
+"/use " guy " \r"
+message "* Auto Healing" guy ""
+}
+
+autoA
+{
+if Rad == 1
+if @my.right_item != Right_H
+	"/equip " Right_H " \r"
+end if
+"/use \r"
+else if Rad == 0
+message "* Sorry Dave, i cannot let you do that."
+end if
+}
+
+autoP
+{
+if @my.right_item != Right_H
+	"/equip " Right_H " \r"
+end if
+"/use /pet \r"
+message "* Auto Healing Pet"
+}
+
+autoS
+{
+if @my.right_item != moonstone
+	"/equip moonstone \r"
+end if
+message "* self healing mode"
+label loopmoon
+"/use \r"
+pause 1
+goto loopmoon
+}
+
+autoL
+{
+if @my.right_item != Right_H
+	"/equip " Right_H " \r"
+end if
+"/use /lock " guy " \r"
+message "* Auto Locking" guy ""
+}
