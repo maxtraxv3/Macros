@@ -1,3 +1,5 @@
+// some of this needs to be re-witten.
+
 // C heal 1.9
 // /hi to set what evers in your right hand to the healer item the macro will use to heal people with
 // c heal <name> heals person wiht that name
@@ -21,7 +23,7 @@ call sethealeritem
 call sethealeritem
 }
 
-//sethealeritem
+sethealeritem
 {
 set Right_H @my.right_item
 message "* Healer Item set to" Right_H ""
