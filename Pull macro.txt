@@ -1,0 +1,5 @@
+shift-click
+{
+"/whisper excuse me" @click.name " \r"
+"/pull " @click.simple_name " \r"
+}

@@ -1,0 +1,177 @@
+"/trp"
+{
+label looper
+set logck @env.textlog
+	if logck >= "You have much to learn."
+		message "*" nameck ": 0-9."
+	end if
+	if logck >= "It is good to see you."
+		message "*" nameck ": 10-19."
+	end if
+	if logck >= "Your persistence is paying off."
+		message "*" nameck ": 20-29."
+	end if
+	if logck >= "You are progressing well."
+		message "*" nameck ": 30-39."
+	end if
+	if logck >= "You are a good pupil of mine."
+		message "*" nameck ": 40-49."
+	end if
+	if logck >= "You are one of my better pupils."
+		message "*" nameck ": 50-99."
+	end if
+	if logck >= "You keep me on my toes."
+		message "*" nameck ": 100-149."
+	end if
+	if logck >= "It is hard to find more to teach you."
+		message "*" nameck ": 150-199."
+	end if
+	if logck >= "Teaching you is a challenge."
+		message "*" nameck ": 200-249."
+	end if
+	if logck >= "There is not much more I can teach you."
+		message "*" nameck ": 250-299."
+	end if
+	if logck >= "Teaching you has taught me much."
+		message "*" nameck ": 300-349."
+	end if
+	if logck >= "You have attained tremendous skill."
+		message "*" nameck ": 350-399."
+	end if
+	if logck >= "We are nearly equals."
+		message "*" nameck ": 400-449."
+	end if
+	if logck >= "You may be proud of your accomplishment."
+		message "*" nameck ": 450-499."
+	end if
+	if logck >= "You are becoming a master of our art."
+		message "*" nameck ": 500-549."
+	end if
+	if logck >= "Your dedication is commendable."
+		message "*" nameck ": 550-599."
+	end if
+	if logck >= "You show great devotion to your studies."
+		message "*" nameck ": 600-649."
+	end if
+	if logck >= "You are a credit to our craft."
+		message "*" nameck ": 650-699."
+	end if
+	if logck >= "Few indeed are your peers."
+		message "*" nameck ": 700-749."
+	end if
+	if logck >= "Your devotion to the craft is exemplary."
+		message "*" nameck ": 750-799."
+	end if
+	if logck >= "It is always good to greet a respected colleague."
+		message "*" nameck ": 800-899."
+	end if
+	if logck >= "You are truly a grand master."
+		message "*" nameck ": 900-999."
+	end if
+	if logck >= "Let us search for more we might learn together."
+		message "*" nameck ": 1000-1249."
+	end if
+	if logck >= "Your persistence is an example to us all."
+		message "*" nameck ": 1250-1499."
+	end if
+	if logck >= "Your skill astounds me."
+		message "*" nameck ": 1500-1749."
+	end if
+	if logck >= "You have progressed further than most."
+		message "*" nameck ": 1750-1999."
+	end if
+	if logck >= "You are nearly peerless."
+		message "*" nameck ": 2000–2249."
+	end if
+	if logck >= "You are a model of dedication."
+		message "*" nameck ": 2250–2499."
+	end if
+	if logck >= "You have achieved mastery."
+		message "*" nameck ": 2500–2749."
+	end if
+	if logck >= "You are enlightened."
+		message "*" nameck ": 2750–2999."
+	end if
+	if logck >= "Your command of our craft is inspiring."
+		message "*" nameck ": 3000–3249."
+	end if
+	if logck >= "All commend your dedication to our craft."
+		message "*" nameck ": 3250–3499."
+	end if
+	if logck >= "I marvel at your skill."
+		message "*" nameck ": 3500–3749."
+	end if
+	if logck >= "You walk where few have tread."
+		message "*" nameck ": 3750–3999."
+	end if
+	if logck >= "Few stones are unturned in your path."
+		message "*" nameck ": 4000–4249."
+	end if
+	if logck >= "Your footsteps guide the dedicated."
+		message "*" nameck ": 4250–4499."
+	end if
+	if logck >= "You chart a way through the unknown."
+		message "*" nameck ": 4500–4749."
+	end if
+	if logck >= "Your path illuminates the wilderness."
+		message "*" nameck ": 4750–4999."
+	end if
+	if logck >= "Your skill casts a long shadow."
+		message "*" nameck ": 5000-5249."
+	end if
+	if logck >= "You are a luminary of our art."
+		message "*" nameck ": 5250-5499."
+	end if
+	if logck >= "Your path is ablaze with glory."
+		message "*" nameck ": 6000+."
+	end if
+	if logck >= "You are enlightened beyond measure."
+		message "*" nameck ": 7000+."
+	end if
+	if logck >= "There is nothing I can teach you."
+		message "*" nameck ": MAXED."
+	end if
+	//extra weapon messages
+	if logck >= "You feel you have much to learn."
+		message "*" @my.name ": 0-9"
+	end if
+	if logck >= "You feel tolerably skilled."
+		message "*" @my.name ": 10-19"
+	end if
+	if logck >= "You are becoming proficient."
+		message "*" @my.name ": 40-49"
+	end if
+	if logck >= "You have learned much."
+		message "*" @my.name ": 50-99"
+	end if
+	if logck >= "You have become skilled."
+		message "*" @my.name ": 100-149"
+	end if
+	if logck >= "You have become very skilled."
+		message "*" @my.name ": 150-199"
+	end if
+	if logck >= "Learning more is a challenge."
+		message "*" @my.name ": 200-249"
+	end if
+	if logck >= "You have attained great skill."
+		message "*" @my.name ": 250-299"
+	end if
+	if logck >= "You are becoming an expert."
+		message "*" @my.name ": 300-349"
+	end if
+	if logck >= "You are close to attaining mastery."
+		message "*" @my.name ": 400-449"
+	end if
+	//missing 600- message
+	if logck >= "Your expertise is unquestionable."
+		message "*" @my.name ": 800-899"
+	end if
+	if logck >= "Few if any are your equal."
+		message "*" @my.name ": 1000-1249"
+	end if
+	if logck >= "Your skill astounds me."
+		message "*" @my.name ": 1500-1749"
+	end if
+pause 3
+goto looper
+}

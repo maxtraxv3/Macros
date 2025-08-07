@@ -1,0 +1,30 @@
+SETGLOBAL CHAINING 0
+
+control-click
+{
+if CHAINING == 0
+	if @my.right_item != ""
+		setglobal swaoback @my.right_item
+	end if
+end if
+	if @my.right_item != chain
+			setglobal CHAINING 1
+				"/equip " chain "\r"
+					"/use " @click.simple_name " \r"
+	else
+	if @my.right_item == chain
+			setglobal CHAINING 1
+				"/use " @click.simple_name " \r"
+	end if
+end if
+}
+
+control-F1
+{
+if CHAINING == 1
+	setglobal CHAINING 0 
+		if swaoback != ""
+			"/equip " swaoback "\r"
+		end if
+end if
+}

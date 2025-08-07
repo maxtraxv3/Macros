@@ -1,0 +1,19 @@
+@login
+{
+label start
+if logck >= "thinks to you"
+	if logck.word[3] == "thinks"
+		setglobal Areply logck.word[2]
+	else if logck.word[1] == "thinks"
+		setglobal Areply logck.word[0]
+	end if
+end if
+goto start
+}
+
+"/r"
+{
+if Areply != ""
+"/thinkto " Areply " " @text "\r"
+end if
+}

@@ -1,0 +1,38 @@
+version 1
+
+numpad-1
+{
+"/pose leanleft \r"
+}
+numpad-2
+{
+"/pose akimbo \r"
+}
+numpad-3
+{
+"/pose leanright \r"
+}
+numpad-4
+{
+"/pose kneel \r"
+}
+numpad-5
+{
+"/pose sit \r"
+}
+numpad-6
+{
+"/pose angry \r"
+}
+numpad-7
+{
+"/pose lie \r"
+}
+numpad-8
+{
+"/pose seated \r"
+}
+numpad-9
+{
+"/pose celebrate \r"
+}

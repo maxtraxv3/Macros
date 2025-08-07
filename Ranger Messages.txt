@@ -1,0 +1,40 @@
+"/mess"
+{
+label top
+set logck @env.textlog
+if logck >= "You have a vast amount to learn about"
+	"/ponder Vast amount to learn! 800-1300 to go! \r"
+end if
+if logck >= "You have a lot to learn about"
+	"/ponder A lot to learn! 510-700 to go! \r"
+end if
+if logck >= "You have much to learn about"
+	"/ponder Much to learn! 300-480 to go! \r"
+end if
+if logck >= "You have many things to learn"
+	"/ponder Many thing to learn! 160-280 to go! \r"
+end if
+if logck >= "You have some things to learn"
+	"/ponder Some things to learn! 72-144 to go! \r"
+end if
+if logck >= "You have more than a few things to learn"
+	"/ponder More than a few! 35-63 to go! \r"
+end if
+if logck >= "You have a few things to learn"
+	"/ponder Few! 15-27 to go! \r"
+end if
+if logck >= "You have almost nothing left to learn"
+	"/ponder SO CLOSE! 2-12 to go! \r"
+end if
+if logck >= "You learn to fight the"
+	"/ponder Movements DONE! \r"
+end if
+if logck >= "You learn to befriend the"
+	"/ponder Befriend Finshed! \r"
+end if
+if logck >= "You learn to assume the form of the"
+	"/ponder Morph COMPLETED! \r"
+end if
+pause 3
+goto top
+}

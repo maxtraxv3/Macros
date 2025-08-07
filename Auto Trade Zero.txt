@@ -1,0 +1,76 @@
+// Auto Trade Zero by Magnic 1.8
+// will accept any trade that cost 0 coins
+// /atz turns it on and off
+
+
+"/atz"
+{
+if trademe == 0
+	setglobal trademe 1
+		message "*Auto Trade Zero ON!"
+	end if
+else
+	setglobal trademe 0
+		message "*Auto Trade Zero OFF!"
+end if
+}
+
+setglobal trademe 0
+
+@login
+{
+label tradeloop
+if trademe == 1
+	if logck.word[0] == "To"
+			if logck >= "To accept, \BUY 0"
+				setglobal namenumb logck.num_words
+					if namenumb == 7
+						setglobal tradername logck.word[4]
+					else if namenumb == 8
+						setglobal tradername logck.word[4]
+						setglobal tradername + " "
+						setglobal tradername + logck.word[5]
+					else if namenumb == 9
+						setglobal tradername logck.word[4]
+						setglobal tradername + " "
+						setglobal tradername + logck.word[5]
+						setglobal tradername + " "
+						setglobal tradername + logck.word[6]
+					end if
+						call buyish
+			end if
+	else if logck.word[2] == "To"
+			if logck >= "To accept, \BUY 0"
+				setglobal namenumb logck.num_words
+					if namenumb == 7
+						setglobal tradername logck.word[6]
+					else if namenumb == 8
+						setglobal tradername logck.word[6]
+						setglobal tradername + " "
+						setglobal tradername + logck.word[7]
+					else if namenumb == 9
+						setglobal tradername logck.word[6]
+						setglobal tradername + " "
+						setglobal tradername + logck.word[7]
+						setglobal tradername + " "
+						setglobal tradername + logck.word[8]
+					end if
+						call buyish
+			end if
+	end if
+end if
+pause 3
+goto tradeloop
+}
+
+buyish
+{
+if tradername != "Nothing"
+	if tradername != ""
+		"/buy 0 " tradername " \r"
+			message "* Accepted Item From:" tradername ""
+				setglobal tradername ""
+					pause 1
+	end if
+end if
+}

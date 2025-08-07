@@ -1,0 +1,166 @@
+@login
+{
+if @my.name.num_words == 1
+	setglobal namenum 1
+else if @my.name.num_words == 2
+	setglobal namenum 2
+else if @my.name.num_words == 3
+	setglobal namenum 3
+end if
+label boatloop
+if logck.word[3] >= "Ah,"
+		if logck >= "My fine boats"
+			if namenum == 1
+				if logck.word[4] == dotname
+					"/whisper yes \r"
+				end if
+			else if namenum == 2
+				set Bname logck.word[4]
+				set Bname + " "
+				set Bname + logck.word[5]
+					if Bname == dotname
+						"/whisper yes \r"
+					end if
+			else if namenum == 3
+				set Bname logck.word[4]
+				set Bname + " "
+				set Bname + logck.word[5]
+				set Bname + " "
+				set Bname + logck.word[6]
+					if Bname == dotname
+						"/whisper yes \r"
+					end if
+			end if
+		pause 3
+		end if
+	else if logck.word[5] >= "Ah,"
+		if logck >= "My fine boats"
+			if namenum == 1
+				if logck.word[6] == dotname
+					"/whisper yes \r"
+				end if
+			else if namenum == 2
+				set Bname logck.word[6]
+				set Bname + " "
+				set Bname + logck.word[7]
+					if Bname == dotname
+						"/whisper yes \r"
+					end if
+			else if namenum == 3
+				set Bname logck.word[6]
+				set Bname + " "
+				set Bname + logck.word[7]
+				set Bname + " "
+				set Bname + logck.word[8]
+					if Bname == dotname
+						"/whisper yes \r"
+					end if
+			end if
+		pause 3
+		end if
+	else if logck.word[4] >= "Ah,"
+		if logck >= "My fine boats"
+			if namenum == 1
+				if logck.word[5] == dotname
+					"/whisper yes \r"
+				end if
+			else if namenum == 2
+				set Bname logck.word[5]
+				set Bname + " "
+				set Bname + logck.word[6]
+					if Bname == dotname
+						"/whisper yes \r"
+					end if
+			else if namenum == 3
+				set Bname logck.word[5]
+				set Bname + " "
+				set Bname + logck.word[6]
+				set Bname + " "
+				set Bname + logck.word[7]
+					if Bname == dotname
+						"/whisper yes \r"
+					end if
+			end if
+		pause 3
+		end if
+	end if
+//skiff
+	if logck.word[2] >= "Hello,"
+		if logck >= "river skiff. Interested?"
+			if namenum == 1
+				if logck.word[3] == dotname
+					"/whisper yes \r"
+				end if
+			else if namenum == 2
+				set Bname logck.word[3]
+				set Bname + " "
+				set Bname + logck.word[4]
+					if Bname == dotname
+						"/whisper yes \r"
+					end if
+			else if namenum == 3
+				set Bname logck.word[3]
+				set Bname + " "
+				set Bname + logck.word[4]
+				set Bname + " "
+				set Bname + logck.word[5]
+					if Bname == dotname
+						"/whisper yes \r"
+					end if
+			end if
+		pause 3
+		end if
+	else if logck.word[3] >= "Hello,"
+		if logck >= "river skiff. Interested?"
+			if namenum == 1
+				if logck.word[4] == dotname
+					"/whisper yes \r"
+				end if
+			else if namenum == 2
+				set Bname logck.word[4]
+				set Bname + " "
+				set Bname + logck.word[5]
+					if Bname == dotname
+						"/whisper yes \r"
+					end if
+			else if namenum == 3
+				set Bname logck.word[4]
+				set Bname + " "
+				set Bname + logck.word[5]
+				set Bname + " "
+				set Bname + logck.word[6]
+					if Bname == dotname
+						"/whisper yes \r"
+					end if
+			end if
+		pause 3
+		end if
+	else if logck.word[4] >= "Hello,"
+		if logck >= "river skiff. Interested?"
+			if namenum == 1
+				if logck.word[5] == dotname
+					"/whisper yes \r"
+				end if
+			else if namenum == 2
+				set Bname logck.word[5]
+				set Bname + " "
+				set Bname + logck.word[6]
+					if Bname == dotname
+						"/whisper yes \r"
+					end if
+			else if namenum == 3
+				set Bname logck.word[5]
+				set Bname + " "
+				set Bname + logck.word[6]
+				set Bname + " "
+				set Bname + logck.word[7]
+					if Bname == dotname
+						"/whisper yes \r"
+					end if
+			end if
+		pause 3
+		end if
+	end if
+end if
+goto boatloop
+}

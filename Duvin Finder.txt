@@ -1,0 +1,37 @@
+"/duv"
+{
+label top
+set logck @env.textlog
+if logck.word[2] == "Garre"
+	if logck.word[4] == "says,"
+		call sayings
+	end if
+else if logck.word[0] == "Garre"
+	if logck.word[2] == "says,"
+		call sayings
+	end if
+end if
+goto top
+}
+
+sayings
+{
+if logck >= "You should speak"
+	"/ponder No Duvin to Study with\r"
+else if logck >= "most familiar"
+	"/ponder 1-2 Duvin\r"
+else if logck >= "familiar creatures,"
+	"/ponder 3-4 Duvin\r"
+else if logck >= "unusual creatures."
+	"/ponder 5-14 Duvin\r"
+else if logck >= "several creatures."
+	"/ponder 15-24 Duvin\r"
+else if logck >= "quite a few creatures."
+ 	"/ponder 25-34 Duvin\r"
+else if logck >= "many creatures."
+ 	"/ponder 35-49 Duvin\r"
+else if logck >= "great variety of creatures."
+	"/ponder 50-99+ Duvin\r"
+end if
+pause 3
+}
