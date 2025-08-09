@@ -1,13 +1,18 @@
 "/duv"
 {
 label top
+label top
 set logck @env.textlog
 if logck.word[2] == "Garre"
 	if logck.word[4] == "says,"
 		call sayings
+	else if logck.word[4] == "exclaims,"
+		call sayings
 	end if
 else if logck.word[0] == "Garre"
 	if logck.word[2] == "says,"
+		call sayings
+	else if logck.word[2] == "exclaims,"
 		call sayings
 	end if
 end if
