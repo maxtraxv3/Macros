@@ -1,5 +1,23 @@
+//pull
 shift-click
 {
+$any_click
+if @click.name != ""
 "/whisper excuse me" @click.name " \r"
 "/pull " @click.simple_name " \r"
+else
+"/pull /critter\r"
+end if
+}
+
+//push
+shift-click2
+{
+$any_click
+if @click.name != ""
+"/whisper excuse me" @click.name " \r"
+"/push " @click.simple_name " \r"
+else
+"/push /critter\r"
+end if
 }

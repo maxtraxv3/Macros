@@ -45,6 +45,7 @@ end if
 
 "/ah"
 {
+// heh, there gotta be a better way to do this part xD
 set logck @env.textlog
 message "* C Heal Online"
 if logck.word[0] >= "*"
@@ -74,6 +75,7 @@ goto top
 
 sayit
 {
+// and this part
 SET HealM trigger_W
 SET HealM + " "
 SET HealM + "heal"
@@ -120,25 +122,25 @@ set logck @env.textlog
 		setglobal guy2 logck.word[Timysampsw6]
 	end if
 set logck @env.textlog
-		if logck >= HealM
-			set guyH guy
-				call autoH
-		else if logck >= HealU
-			setglobal guyH guy2
-				call autoH
-		else if logck >= Cself
-			call autoS
-		else if logck >= Cpet
-			call autoP
-		else if logck >= Carea
-			call autoA
-		else if logck >= lockM
-			setglobal guyH guy
-				call autoL
-		else if logck >= lockU
-			setglobal guyH guy2
-				call autoL
-		end if
+	if logck >= HealM
+		set guyH guy
+			call autoH
+	else if logck >= HealU
+		setglobal guyH guy2
+			call autoH
+	else if logck >= Cself
+		call autoS
+	else if logck >= Cpet
+		call autoP
+	else if logck >= Carea
+		call autoA
+	else if logck >= lockM
+		setglobal guyH guy
+			call autoL
+	else if logck >= lockU
+		setglobal guyH guy2
+			call autoL
+	end if
 }
 
 autoH
@@ -146,7 +148,7 @@ autoH
 if @my.right_item != Right_H
 	"/equip " Right_H " \r"
 end if
-"/use " guyH " \r"
+	"/use " guyH " \r"
 message "* Auto Healing" guy ""
 pause 3
 }
@@ -157,9 +159,9 @@ if Rad == 1
 if @my.right_item != Right_H
 	"/equip " Right_H " \r"
 end if
-"/use \r"
+	"/use \r"
 else if Rad == 0
-message "* Sorry Dave, i cannot let you do that."
+	message "* Sorry Dave, i cannot let you do that."
 end if
 }
 
@@ -168,7 +170,7 @@ autoP
 if @my.right_item != Right_H
 	"/equip " Right_H " \r"
 end if
-"/use /pet \r"
+	"/use /pet \r"
 message "* Auto Healing Pet"
 }
 
@@ -179,7 +181,7 @@ if @my.right_item != moonstone
 end if
 message "* self healing mode"
 label loopmoon
-"/use \r"
+	"/use \r"
 pause 1
 goto loopmoon
 }
@@ -189,6 +191,6 @@ autoL
 if @my.right_item != Right_H
 	"/equip " Right_H " \r"
 end if
-"/use /lock " guyH " \r"
+	"/use /lock " guyH " \r"
 message "* Auto Locking" guy ""
 }
