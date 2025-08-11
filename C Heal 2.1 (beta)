@@ -71,7 +71,7 @@ sayit
 		setglobal guy logck.word[Timysampsw0]
 		setglobal guy + " "
 		setglobal guy + logck.word[Timysampsw2]
-		setglobal guy2 logck.word[5]
+		setglobal guy2 logck.word[Timysampsw5]
 	else if logck.word[Timysampsw4] == trigger_W
 		setglobal guy logck.word[Timysampsw0]
 		setglobal guy + " "
