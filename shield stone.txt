@@ -1,0 +1,17 @@
+F4
+{
+set logck @env.textlog
+label tryagain
+if @my.finger_item != "Shieldstone"
+	"/equip shieldstone\r"
+end if
+if logck >= "You have no"
+message "* out of Shield Stone's"
+	goto end
+else
+	"/useitem shieldstone\r" 
+		if logck >= "Your Shieldstone goes inert"
+			goto tryagain
+end if
+label end
+}
