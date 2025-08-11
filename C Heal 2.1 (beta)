@@ -8,7 +8,7 @@
 
 //change "C heal" to whatever trigger word you like 
 //I.E for it to act like squibs one: "" @my.name "heal" or just "j" would be j <name> to heal someone
-setglobal trigger_W "C Heal"
+setglobal trigger_W "C"
 
 setglobal Right_H "asklepian staff"
 SETGLOBAL Timysampsw0 0
@@ -18,6 +18,10 @@ SETGLOBAL Timysampsw3 3
 SETGLOBAL Timysampsw4 4
 SETGLOBAL Timysampsw5 5
 SETGLOBAL Timysampsw6 6
+SETGLOBAL Timysampsw7 7
+SETGLOBAL TimysampsT4 4
+SETGLOBAL TimysampsT5 5
+SETGLOBAL TimysampsT6 6
 
 @login
 {
@@ -41,8 +45,8 @@ end if
 "/ah"
 {
 set logck @env.textlog
-message "C Heal Online"
-if logck.word[0] >= 0
+message "* C Heal Online"
+if logck.word[0] >= "*"
 SETGLOBAL Timysampsw0 + 2
 	SETGLOBAL Timysampsw1 + 2
 		SETGLOBAL Timysampsw2 + 2
@@ -50,9 +54,14 @@ SETGLOBAL Timysampsw0 + 2
 				SETGLOBAL Timysampsw4 + 2
 					SETGLOBAL Timysampsw5 + 2
 						SETGLOBAL Timysampsw6 + 2
+							SETGLOBAL Timysampsw7 + 2
+								SETGLOBAL TimysampsT4 - 2
+									SETGLOBAL TimysampsT5 - 2
+										SETGLOBAL TimysampsT6 - 2
 end if
 label top
-if logck >= "says,
+set logck @env.textlog
+if logck >= "says,"
 	call sayit
 else if logck >= "growls,"
 	call sayit
@@ -64,39 +73,68 @@ goto top
 
 sayit
 {
-	if logck.word[Timysampsw0] == trigger_W
+SET HealM trigger_W
+SET HealM + " "
+SET HealM + "heal"
+SET HealM + " "
+SET HealM + "me"
+SET HealU trigger_W
+SET HealU + " "
+SET HealU + "heal"
+SET Cself trigger_W
+SET Cself + " "
+SET Cself + "self"
+SET Cpet trigger_W
+SET Cpet + " "
+SET Cpet + "pet"
+SET Carea trigger_W
+SET Carea + " "
+SET Carea + "area"
+SET Carea trigger_W
+SET Carea + " "
+SET Carea + "area"
+SET Carea trigger_W
+SET Carea + " "
+SET Carea + "area"
+SET lockM trigger_W
+SET lockM + " "
+SET lockM + "lock"
+SET lockM + " "
+SET lockM + "me"
+SET lockU trigger_W
+SET lockU + " "
+SET lockU + "lock"
+set logck @env.textlog
+	if logck.word[TimysampsT4] >= trigger_W
 		setglobal guy logck.word[Timysampsw0]
 		setglobal guy2 logck.word[Timysampsw4]
-	else if logck.word[Timysampsw3] == trigger_W
-		setglobal guy logck.word[Timysampsw0]
-		setglobal guy + " "
-		setglobal guy + logck.word[Timysampsw2]
-		setglobal guy2 logck.word[Timysampsw5]
-	else if logck.word[Timysampsw4] == trigger_W
-		setglobal guy logck.word[Timysampsw0]
-		setglobal guy + " "
-		setglobal guy + logck.word[Timysampsw2]
-		setglobal guy + " "
+	else if logck.word[TimysampsT5] >= trigger_W
+		setglobal guy logck.word[Timysampsw2]
 		setglobal guy + logck.word[Timysampsw3]
+		setglobal guy2 logck.word[Timysampsw7]
+	else if logck.word[TimysampswT6] >= trigger_W
+		setglobal guy logck.word[Timysampsw0]
+		setglobal guy + logck.word[Timysampsw1]
+		setglobal guy + logck.word[Timysampsw2]
 		setglobal guy2 logck.word[Timysampsw6]
 	end if
-		if logck >= "" trigger_W "me"
-				setglobal guyH guy
-					call autoH
-			end if
-		else if logck >= "" trigger_W ""
+set logck @env.textlog
+		if logck >= HealM
+			set guyH guy
+				call autoH
+		else if logck >= HealU
 			setglobal guyH guy2
 				call autoH
-		else if logck >= "" trigger_W "self"
+		else if logck >= Cself
 			call autoS
-		else if logck >= "" trigger_W "pet"
+		else if logck >= Cpet
 			call autoP
-		else if logck >= "" trigger_W "area"
+		else if logck >= Carea
 			call autoA
-		else if logck >= "" trigger_W "lock me"
-				setglobal guyH guy
-					call autoL
-		else if logck >= "" trigger_W "lock"
+		else if logck >= lockM
+			setglobal guyH guy
+				call autoL
+		else if logck >= lockU
 			setglobal guyH guy2
 				call autoL
 		end if
@@ -109,6 +147,7 @@ if @my.right_item != Right_H
 end if
 "/use " guyH " \r"
 message "* Auto Healing" guy ""
+pause 3
 }
 
 autoA
@@ -117,7 +156,7 @@ if Rad == 1
 if @my.right_item != Right_H
 	"/equip " Right_H " \r"
 end if
-"/use /on\r"
+"/use \r"
 else if Rad == 0
 message "* Sorry Dave, i cannot let you do that."
 end if
