@@ -6,7 +6,18 @@
 // c self self heal
 // c lock <name> lock healing to that person
 
+//change "C heal" to whatever trigger word you like 
+//I.E for it to act like squibs one: "" @my.name "heal" or just "j" would be j <name> to heal someone
+setglobal trigger_W "C Heal"
+
 setglobal Right_H "asklepian staff"
+SETGLOBAL Timysampsw0 0
+SETGLOBAL Timysampsw1 1
+SETGLOBAL Timysampsw2 2
+SETGLOBAL Timysampsw3 3
+SETGLOBAL Timysampsw4 4
+SETGLOBAL Timysampsw5 5
+SETGLOBAL Timysampsw6 6
 
 @login
 {
@@ -29,19 +40,16 @@ end if
 
 "/ah"
 {
-set logck @env.textLog
-if @my.name.num_words == 1
-	setglobal namenum 1
-else if @my.name.num_words == 2
-	setglobal namenum 2
-else if @my.name.num_words == 3
-	setglobal namenum 3
-end if
+set logck @env.textlog
 message "C Heal Online"
-if logck.word[2] >= "C"
-	setglobal textLog 2
-else
-	setglobal textLog 1
+if logck.word[0] >= 0
+SETGLOBAL Timysampsw0 + 2
+	SETGLOBAL Timysampsw1 + 2
+		SETGLOBAL Timysampsw2 + 2
+			SETGLOBAL Timysampsw3 + 2
+				SETGLOBAL Timysampsw4 + 2
+					SETGLOBAL Timysampsw5 + 2
+						SETGLOBAL Timysampsw6 + 2
 end if
 label top
 if logck >= "says,
@@ -56,155 +64,42 @@ goto top
 
 sayit
 {
-if textLog == 1
-	if namenum == 1
-		if logck >= "c heal me"
-			setglobal guy logck.word[0]
-				call autoH
-		else if logck >= "c heal"
-			setglobal guy logck.word[4]
-					call autoH
-		else if logck >= "c self"
-			call autoS
-		else if logck >= "c pet"
-			call autoP
-		else if logck >= "c area"
-			call autoA
-		else if logck >= "c lock me"
-			setglobal guy logck.word[0]
-				call autoL
-		else if logck >= "c lock"
-			setglobal guy logck.word[4]
-				call autoL
-		end if
-	else if namenum == 2
-		if logck >= "c heal me"
-			setglobal guy logck.word[0]
-			setglobal guy + " "
-			setglobal guy + logck.word[1]
-				call autoH
-		else if logck >= "c heal"
-			setglobal guy logck.word[5]
-				call autoH
-		else if logck >= "c self"
-			call autoS
-		else if logck >= "c pet"
-			call autoP
-		else if logck >= "c area"
-			call autoA
-		else if logck >= "c lock me"
-			setglobal guy logck.word[0]
-			setglobal guy + " "
-			setglobal guy + logck.word[1]
-				call autoL
-		else if logck >= "c lock"
-			setglobal guy logck.word[5]
-				call autoL
-		end if
-	else if namenum == 3
-		if logck >= "c heal me"
-			setglobal guy logck.word[0]
-			setglobal guy + " "
-			setglobal guy + logck.word[1]
-			setglobal guy + " "
-			setglobal guy + logck.word[2]
-				call autoH
-		else if logck >= "c heal"
-			setglobal guy logck.word[6]
-				call autoH
-		else if logck >= "c self"
-			call autoS
-		else if logck >= "c pet"
-			call autoP
-		else if logck >= "c area"
-			call autoA
-		else if logck >= "c lock me"
-			setglobal guy logck.word[0]
-			setglobal guy + " "
-			setglobal guy + logck.word[2]
-			setglobal guy + " "
-			setglobal guy + logck.word[3]
-				call autoL
-		else if logck >= "c lock"
-			setglobal guy logck.word[6]
-				call autoL
-		end if
+	if logck.word[Timysampsw0] == trigger_W
+		setglobal guy logck.word[Timysampsw0]
+		setglobal guy2 logck.word[Timysampsw4]
+	else if logck.word[Timysampsw3] == trigger_W
+		setglobal guy logck.word[Timysampsw0]
+		setglobal guy + " "
+		setglobal guy + logck.word[Timysampsw2]
+		setglobal guy2 logck.word[5]
+	else if logck.word[Timysampsw4] == trigger_W
+		setglobal guy logck.word[Timysampsw0]
+		setglobal guy + " "
+		setglobal guy + logck.word[Timysampsw2]
+		setglobal guy + " "
+		setglobal guy + logck.word[Timysampsw3]
+		setglobal guy2 logck.word[Timysampsw6]
 	end if
-else if textLog == 2
-	if namenum == 1
-		if logck >= "c heal me"
-			setglobal guy logck.word[2]
-				call autoH
-		else if logck >= "c heal"
-			setglobal guy logck.word[6]
+		if logck >= "" trigger_W "me"
+				setglobal guyH guy
 					call autoH
-		else if logck >= "c self"
+			end if
+		else if logck >= "" trigger_W ""
+			setglobal guyH guy2
+				call autoH
+		else if logck >= "" trigger_W "self"
 			call autoS
-		else if logck >= "c pet"
+		else if logck >= "" trigger_W "pet"
 			call autoP
-		else if logck >= "c area"
+		else if logck >= "" trigger_W "area"
 			call autoA
-		else if logck >= "c lock me"
-			setglobal guy logck.word[2]
-				call autoL
-		else if logck >= "c lock"
-			setglobal guy logck.word[6]
+		else if logck >= "" trigger_W "lock me"
+				setglobal guyH guy
+					call autoL
+		else if logck >= "" trigger_W "lock"
+			setglobal guyH guy2
 				call autoL
 		end if
-	else if namenum == 2
-		if logck >= "c heal me"
-			setglobal guy logck.word[2]
-			setglobal guy + " "
-			setglobal guy + logck.word[3]
-				call autoH
-		else if logck >= "c heal"
-			setglobal guy logck.word[7]
-				call autoH
-		else if logck >= "c self"
-			call autoS
-		else if logck >= "c pet"
-			call autoP
-		else if logck >= "c area"
-			call autoA
-		else if logck >= "c lock me"
-			setglobal guy logck.word[2]
-			setglobal guy + " "
-			setglobal guy + logck.word[3]
-				call autoL
-		else if logck >= "c lock"
-			setglobal guy logck.word[7]
-				call autoL
-		end if
-	else if namenum == 3
-		if logck >= "c heal me"
-			setglobal guy logck.word[2]
-			setglobal guy + " "
-			setglobal guy + logck.word[3]
-			setglobal guy + " "
-			setglobal guy + logck.word[4]
-				call autoH
-		else if logck >= "c heal"
-			setglobal guy logck.word[8]
-				call autoH
-		else if logck >= "c self"
-			call autoS
-		else if logck >= "c pet"
-			call autoP
-		else if logck >= "c area"
-			call autoA
-		else if logck >= "c lock me"
-			setglobal guy logck.word[2]
-			setglobal guy + " "
-			setglobal guy + logck.word[3]
-			setglobal guy + " "
-			setglobal guy + logck.word[4]
-				call autoL
-		else if logck >= "c lock"
-			setglobal guy logck.word[8]
-				call autoL
-		end if
-	end if
-end if
 }
 
 autoH
@@ -212,7 +107,7 @@ autoH
 if @my.right_item != Right_H
 	"/equip " Right_H " \r"
 end if
-"/use " guy " \r"
+"/use " guyH " \r"
 message "* Auto Healing" guy ""
 }
 
@@ -222,7 +117,7 @@ if Rad == 1
 if @my.right_item != Right_H
 	"/equip " Right_H " \r"
 end if
-"/use \r"
+"/use /on\r"
 else if Rad == 0
 message "* Sorry Dave, i cannot let you do that."
 end if
@@ -254,6 +149,6 @@ autoL
 if @my.right_item != Right_H
 	"/equip " Right_H " \r"
 end if
-"/use /lock " guy " \r"
+"/use /lock " guyH " \r"
 message "* Auto Locking" guy ""
 }
