@@ -115,6 +115,9 @@ end if
 
 @login
 {
+message "Type /ranger for commands"
+label rangerloop
+set logck @env.textlog
 set hasfallen @my.name 
 set hasfallen + " has fallen to a"
 if logck >= "You return"
@@ -167,7 +170,8 @@ if logck >= "You slow down"
 			goto uneq
 	end if
 end if
-goto top
+goto rangerloop
+}
 
 uneq
 {
