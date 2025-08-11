@@ -1,0 +1,196 @@
+//change "Giant Carnivorous Plankton" to whatever creature you can morph into 
+//note you need to have " at the end and begining of the creatures name as you can see below
+SETGLOBAL FirstMorphName "Giant Carnivorous Plankton"
+SETGLOBAL SecondMorphName "Young Sasquatch"
+
+//dont change this
+SETGLOBAL speeding 0
+SETGLOBAL isMorphed 0
+SETGLOBAL whatShape 0
+SETGLOBAL swaobackL ""
+
+"/ranger"
+{
+message "F1 = First morph (toggle-able)"
+pause 1
+message "F2 = second morph (toggle-able)"
+pause 1
+message "F3 = HeartWood Charm (toggle-able)"
+pause 1
+message "F5 = Befriend"
+pause 1
+message "F6 = Control Befriend'ed"
+pause 1
+message "F7 = Dismiss Friend"
+pause 1
+message "/reflect = Use's Belt to reflect what you have learned"
+pause 1
+message "F10 = Return and reset macro numbers"
+}
+
+F1
+{
+if @my.waist_item != "belt of the wild"
+	"/equip beltofthewild\r"
+end if 
+if isMorphed == 0
+	SETGLOBAL whatShape 1
+		SETGLOBAL isMorphed 1
+			"/useitem beltofthewild /shape " FirstMorphName " \r"
+else 
+	if isMorphed == 1
+		if whatShape != 1
+			SETGLOBAL whatShape 1
+				SETGLOBAL isMorphed 1
+					"/useitem beltofthewild /shape " FirstMorphName " \r"
+else
+	if isMorphed == 1
+		if whatShape == 1
+			"/useitem beltofthewild /return\r"
+				SETGLOBAL whatShape 0
+					SETGLOBAL isMorphed 0
+					end if
+				end if
+			end if
+		end if
+	end if
+end if
+}
+
+F2
+{
+if @my.waist_item != "belt of the wild"
+	"/equip beltofthewild\r"
+end if
+if isMorphed == 0
+		"/useitem beltofthewild /shape " SecondMorphName " \r"
+			SETGLOBAL whatShape 2
+				SETGLOBAL isMorphed 1
+else 
+	if isMorphed == 1
+		if whatShape != 2
+			"/useitem beltofthewild /shape " SecondMorphName " \r"
+				SETGLOBAL whatShape 2
+					SETGLOBAL isMorphed 1
+else
+	if isMorphed == 1
+		if whatShape == 2
+			"/useitem beltofthewild /return\r"
+				SETGLOBAL whatShape 0
+					SETGLOBAL isMorphed 0
+					end if
+				end if
+			end if
+		end if
+	end if
+end if
+}
+
+
+F3
+{
+if speeding == 0
+	if @my.left_item != "Nothing"
+		if @my.left_item != "Heartwood Charm"
+			setglobal swaobackL @my.left_item
+		end if
+	end if
+	if @my.left_item != "Heartwood Charm"
+		"/equip heartwood\r"
+	end if
+			SETGLOBAL speeding 1		
+				"/useitem left\r"
+else
+	if speeding == 1
+		SETGLOBAL speeding 0
+			if @my.left_item == "Heartwood Charm"
+				"/useitem heartwood /slow \r"
+					call uneq
+				end if
+			end if
+		end if
+	end if
+end if
+}
+
+@login
+{
+set hasfallen @my.name 
+set hasfallen + " has fallen to a"
+if logck >= "You return"
+	SETGLOBAL isMorphed 0
+		SETGLOBAL whatShape 0
+end if
+if logck >= "Using /SHARE to create a spirit link"
+	if isMorphed == 1
+		SETGLOBAL keepspeed 1
+			SETGLOBAL isMorphed 0
+				SETGLOBAL whatShape 0
+	end if
+	if keepspeed == 0
+		if speeding == 1
+			SETGLOBAL speeding 0
+				goto uneq
+		end if
+	end if
+end if
+if logck >= "You are already in"
+	SETGLOBAL isMorphed 0
+		SETGLOBAL whatShape 0
+end if
+if logck >= "cannot possibly use"
+	if isMorphed == 1
+		SETGLOBAL isMorphed 0
+			SETGLOBAL whatShape 0
+	end if
+	if speeding == 1
+		SETGLOBAL speeding 0
+			goto uneq
+	end if
+end if
+if logck >= hasfallen
+	if isMorphed == 1
+		SETGLOBAL keepspeed 1
+			SETGLOBAL isMorphed 0
+				SETGLOBAL whatShape 0
+	end if
+	if keepspeed == 0
+		if speeding == 1
+			SETGLOBAL speeding 0
+				goto uneq
+		end if
+	end if
+end if
+if logck >= "You slow down"
+	if speeding == 1
+		SETGLOBAL speeding 0
+			goto uneq
+	end if
+end if
+goto top
+
+uneq
+{
+if swaobackL != "Heartwood Charm"
+	if swaobackL != ""
+		message "* swapping left hand back to" swaobackL " "
+			"/equip " swaobackL " \r"
+				SETGLOBAL swaobackL ""
+					setglobal keepspeed 0
+	else 
+		"/unequip heartwood \r"
+			setglobal keepspeed 0
+	end if
+end if
+}
+
+F10
+{
+"/useitem beltofthewild /return\r"
+"/unequip heartwood \r"
+SETGLOBAL speeding 0
+SETGLOBAL isMorphed 0
+SETGLOBAL whatShape 0
+SETGLOBAL swaobackL ""
+SETGLOBAL keepspeed 0
+}
