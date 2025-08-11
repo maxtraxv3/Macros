@@ -69,7 +69,6 @@ if logck.word[1] == "says,"
 else if logck.word[2] == "says,"
 	if logck >= "c heal me"
 	 setglobal guy logck.word[0]
-	 setglobal guy + " "
 	 setglobal guy + logck.word[1]
 		call autoH
 	else if logck >= "c heal"
@@ -83,7 +82,6 @@ else if logck.word[2] == "says,"
 		call autoA
 	else if logck >= "c lock me"
 	 setglobal guy logck.word[0]
-	 setglobal guy + " "
 	 setglobal guy + logck.word[1]
 		call autoL
 	else if logck >= "c lock"
@@ -113,7 +111,6 @@ else if logck.word[3] == "says,"
 else if logck.word[4] == "says,"
 	if logck >= "c heal me"
 	 setglobal guy logck.word[2]
-	 setglobal guy + " "
 	 setglobal guy + logck.word[3]
 		call autoH
 	else if logck >= "c heal"
@@ -127,7 +124,6 @@ else if logck.word[4] == "says,"
 		call autoA
 	else if logck >= "c lock me"
 	 setglobal guy logck.word[2]
-	 setglobal guy + " "
 	 setglobal guy + logck.word[3]
 		call autoL
 	else if logck >= "c lock"
@@ -137,9 +133,7 @@ else if logck.word[4] == "says,"
 else if logck.word[5] == "says,"
 	if logck >= "c heal me"
 	 setglobal guy logck.word[2]
-	 setglobal guy + " "
 	 setglobal guy + logck.word[3]
-	 setglobal guy + " "
 	 setglobal guy + logck.word[4]
 		call autoH
 	else if logck >= "c heal"
@@ -153,9 +147,7 @@ else if logck.word[5] == "says,"
 		call autoA
 	else if logck >= "c lock me"
 	 setglobal guy logck.word[2]
-	 setglobal guy + " "
 	 setglobal guy + logck.word[3]
-	 setglobal guy + " "
 	 setglobal guy + logck.word[4]
 		call autoL
 	else if logck >= "c lock"
@@ -185,7 +177,6 @@ else if logck.word[1] == "growls,"
 else if logck.word[2] == "growls,"
 	if logck >= "c heal me"
 	 setglobal guy logck.word[0]
-	 setglobal guy + " "
 	 setglobal guy + logck.word[1]
 		call autoH
 	else if logck >= "c heal"
@@ -229,7 +220,6 @@ else if logck.word[3] == "growls,"
 else if logck.word[4] == "growls,"
 	if logck >= "c heal me"
 	 setglobal guy logck.word[2]
-	 setglobal guy + " "
 	 setglobal guy + logck.word[3]
 		call autoH
 	else if logck >= "c heal"
@@ -243,7 +233,6 @@ else if logck.word[4] == "growls,"
 		call autoA
 	else if logck >= "c lock me"
 	 setglobal guy logck.word[2]
-	 setglobal guy + " "
 	 setglobal guy + logck.word[3]
 		call autoL
 	else if logck >= "c lock"
@@ -253,9 +242,7 @@ else if logck.word[4] == "growls,"
 else if logck.word[5] == "growls,"
 	if logck >= "c heal me"
 	 setglobal guy logck.word[2]
-	 setglobal guy + " "
 	 setglobal guy + logck.word[3]
-	 setglobal guy + " "
 	 setglobal guy + logck.word[4]
 		call autoH
 	else if logck >= "c heal"
@@ -269,9 +256,7 @@ else if logck.word[5] == "growls,"
 		call autoA
 	else if logck >= "c lock me"
 	 setglobal guy logck.word[2]
-	 setglobal guy + " "
 	 setglobal guy + logck.word[3]
-	 setglobal guy + " "
 	 setglobal guy + logck.word[4]
 		call autoL
 	else if logck >= "c lock"
@@ -301,7 +286,6 @@ else if logck.word[1] == "yells,"
 else if logck.word[2] == "yells,"
 	if logck >= "c heal me"
 	 setglobal guy logck.word[0]
-	 setglobal guy + " "
 	 setglobal guy + logck.word[1]
 		call autoH
 	else if logck >= "c heal"
@@ -315,7 +299,6 @@ else if logck.word[2] == "yells,"
 		call autoA
 	else if logck >= "c lock me"
 	 setglobal guy logck.word[0]
-	 setglobal guy + " "
 	 setglobal guy + logck.word[1]
 		call autoL
 	else if logck >= "c lock"
@@ -345,7 +328,6 @@ else if logck.word[3] == "yells,"
 else if logck.word[4] == "yells,"
 	if logck >= "c heal me"
 	 setglobal guy logck.word[2]
-	 setglobal guy + " "
 	 setglobal guy + logck.word[3]
 		call autoH
 	else if logck >= "c heal"
@@ -359,7 +341,6 @@ else if logck.word[4] == "yells,"
 		call autoA
 	else if logck >= "c lock me"
 	 setglobal guy logck.word[2]
-	 setglobal guy + " "
 	 setglobal guy + logck.word[3]
 		call autoL
 	else if logck >= "c lock"
@@ -369,9 +350,7 @@ else if logck.word[4] == "yells,"
 else if logck.word[5] == "yells,"
 	if logck >= "c heal me"
 	 setglobal guy logck.word[2]
-	 setglobal guy + " "
 	 setglobal guy + logck.word[3]
-	 setglobal guy + " "
 	 setglobal guy + logck.word[4]
 		call autoH
 	else if logck >= "c heal"
