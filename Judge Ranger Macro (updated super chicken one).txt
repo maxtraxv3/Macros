@@ -1,0 +1,49 @@
+"/judge"
+{
+if @my.waist_item != "belt of the wild"
+	"/equip beltofthewild\r"
+end if
+if @text.word[0] != ""
+setglobal theJudged @text.word[0]
+"/useitem belt /judge " theJudged "\r"
+call judgemenot
+else if @text.word[0] == ""
+message "* judge not that ye be not judged"
+end if
+}
+
+judgemenot
+{
+pause 3
+set logck @env.textlog
+if logck >= "has barely begun to learn about the earth."
+	"/ponder " theJudged " has barely begun to learn about the earth."
+		message "* 8 more messages to go."
+else if logck >= "has begun to learn about the earth."
+	"/ponder " theJudged " has begun to learn about the earth."
+		message "* 7 more messages to go."
+else if logck >= "still has much to learn about the earth."
+	"/ponder " theJudged " still has much to learn about the earth."
+		message "* 6 more messages to go."
+else if logck >= "is making progress towards becoming a Ranger."
+	"/ponder " theJudged " is making progress towards becoming a Ranger."
+		message "* 5 more messages to go."
+else if logck >= "is making good progress towards becoming a Ranger."
+	"/ponder " theJudged " is making good progress towards becoming a Ranger."
+		message "* 4 more messages to go."
+else if logck >= "is making excellent progress towards becoming a Ranger."
+	"/ponder " theJudged " is making excellent progress towards becoming a Ranger."
+		message "* 3 more messages to go."
+else if logck >= "is knowledgeable about the earth."
+	"/ponder " theJudged " is knowledgeable about the earth."
+		message "* 2 more messages to go."
+else if logck >= "is very knowledgeable about the earth."
+	"/ponder " theJudged " is very knowledgeable about the earth."
+		message "* 1 more message to go."
+else if logck >= "is nearly ready to become a Ranger."
+	"/ponder " theJudged " is nearly ready to become a Ranger."
+		message "* Ready for Rangerhood."
+else if logck >= "has chosen another path and cannot become a Ranger."
+	"/ponder " theJudged " has chosen another path and cannot become a Ranger."
+end if
+}
