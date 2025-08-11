@@ -6,8 +6,9 @@
 // c self self heal
 // c lock <name> lock healing to that person
 
-//change "C heal" to whatever trigger word you like 
-//I.E for it to act like squibs one: "" @my.name "heal" or just "j" would be j <name> to heal someone
+//change "C" to whatever trigger word you like 
+//I.E for it to act like squibs one: setglobal trigger_W @my.name 
+//or just "j" would be j <name> to heal someone
 setglobal trigger_W "C"
 
 setglobal Right_H "asklepian staff"
