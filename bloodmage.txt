@@ -1,0 +1,97 @@
+// F1 = Absorb and report what you have Absorbed
+// F2 = disable
+// F3 = "Wombo combo" disable, hamstring, cripple.
+// Shift-F2 = cripple
+// Shift-F3 = hamstring
+// F4 = Fiegn Death
+// F5 = whisper magic word (change the magic word to your one)
+
+F1
+{
+if @my.right_item != "Bloodblade"
+	"/equip bloodblade\r"
+end if
+    "/use /absorb\r"
+		pause 3
+            "/use /absorb /report\r"
+}
+
+F2
+{
+if @my.right_item != "Bloodblade"
+	"/equip bloodblade\r"
+end if
+    "/use /disable\r"
+}
+
+F3
+{
+if @my.right_item != "Bloodblade"
+	"/equip bloodblade\r"
+end if
+"/use /disable\r"
+"/use /hamstring\r"
+"/use /cripple\r"
+}
+
+shift-F3
+{
+if @my.right_item != "Bloodblade"
+	"/equip bloodblade\r"
+end if
+"/use /hamstring\r"
+}
+
+shift-F2
+{
+if @my.right_item != "Bloodblade"
+	"/equip bloodblade\r"
+end if
+"/use /cripple\r"
+}
+
+F4
+{
+"/useitem bloodstonering /dead \r"
+}
+
+//replace "arise" with your magic word
+F5
+{
+"/whisper arise \r"
+}
+
+
+// altante way to do fiegn death (less chatty in game mode, more message spammy though)
+// becuase it relient on chat log its less reliable, also depends on the speed of your training for reliablity.
+// not recomended to use.
+
+SETGLOBAL alive 0
+
+@login
+{
+SET hasfallen @my.name
+SET hasfallen + " has fallen to a"
+label chek
+set checkD @env.textLog
+	if checkD >= "Using /SHARE to create a spirit link"
+	    SETGLOBAL alive 0
+end if
+	if checkD >= "cannot possibly"
+	    SETGLOBAL alive 0
+end if
+	if checkD >= hasfallen
+	    SETGLOBAL alive 0
+end if
+goto chek
+}
+
+F4
+{
+if alive == 0
+"/useitem bloodstonering /dead \r"
+else if alive == 1
+"/unequip bloodstonering \r"
+pause 1
+"/equip bloodstonering \r"
+}
