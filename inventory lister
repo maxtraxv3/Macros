@@ -3,10 +3,10 @@
 
 "/if"
 {
-set fn 1
+set fndr 1
 label gofind
 set logck @env.textlog
-"/selectitem " find[fn] "\r"
+"/selectitem " find[fndr] "\r"
 pause 3
 if logck != "No item"
 	setglobal item[nls] @my.selected_item
@@ -14,7 +14,7 @@ if logck != "No item"
 			set matchnum nls
 				call findagain
 					if matchnum == nls
-						if nls < 33
+						if nls < 32
 							setglobal nls + 1
 						else
 							goto end
@@ -26,7 +26,7 @@ if logck != "No item"
 			set matchnum nls
 				call findagain
 					if matchnum == nls
-						if nls < 33
+						if nls < 32
 							setglobal nls + 1
 						else
 							goto end
@@ -37,8 +37,8 @@ if logck != "No item"
 		end if
 end if
 label gonext
-if fn < 27
-	set fn + 1
+if fndr < 26
+	set fndr + 1
 else
 	call printlist
 end if
@@ -46,11 +46,11 @@ goto gofind
 label end
 }
 
-finagain
+findagain
 {
 set num 2
 label anotherone
-"selectitem " item[nls] "<#" num "\r"
+"/selectitem " item[nls] "<#" num "\r"
 	pause 3
 		if logck != "No item"
 			goto exit
@@ -70,9 +70,9 @@ label exit
 printlist
 {
 set numby 1
-message "* Karma List:"
+message "* Inventory List:"
 label top
-if numby < 33
+if numby < 32
 	if item[numby] != "Nothing"
 		if item[numby] != ""
 			message "" item[numby] ""
@@ -86,7 +86,7 @@ if numby < 33
 			goto top
 	end if
 goto top
-else if numby > 33
+else if numby > 32
 		goto end
 end if
 label end
@@ -94,61 +94,61 @@ label end
 }
 
 setglobal nls 1
-setgloabal find[1] a
-setgloabal find[2] b
-setgloabal find[3] c
-setgloabal find[4] d
-setgloabal find[5] e
-setgloabal find[6] f
-setgloabal find[7] g
-setgloabal find[8] h
-setgloabal find[9] i
-setgloabal find[10] j
-setgloabal find[11] k
-setgloabal find[12] l
-setgloabal find[13] m
-setgloabal find[14] n
-setgloabal find[15] o
-setgloabal find[16] p
-setgloabal find[17] q
-setgloabal find[18] r
-setgloabal find[19] s
-setgloabal find[20] t
-setgloabal find[21] u
-setgloabal find[22] v
-setgloabal find[23] w
-setgloabal find[24] x
-setgloabal find[25] y
-setgloabal find[26] z
-setgloabal item[1] ""
-setgloabal item[2] ""
-setgloabal item[3] ""
-setgloabal item[4] ""
-setgloabal item[5] ""
-setgloabal item[6] ""
-setgloabal item[7] ""
-setgloabal item[8] ""
-setgloabal item[9] ""
-setgloabal item[10] ""
-setgloabal item[11] ""
-setgloabal item[12] ""
-setgloabal item[13] ""
-setgloabal item[14] ""
-setgloabal item[15] ""
-setgloabal item[16] ""
-setgloabal item[17] ""
-setgloabal item[18] ""
-setgloabal item[19] ""
-setgloabal item[20] ""
-setgloabal item[21] ""
-setgloabal item[22] ""
-setgloabal item[23] ""
-setgloabal item[24] ""
-setgloabal item[25] ""
-setgloabal item[26] ""
-setgloabal item[27] ""
-setgloabal item[28] ""
-setgloabal item[29] ""
-setgloabal item[30] ""
-setgloabal item[31] ""
-setgloabal item[32] ""
+setglobal find[1] a
+setglobal find[2] b
+setglobal find[3] c
+setglobal find[4] d
+setglobal find[5] e
+setglobal find[6] f
+setglobal find[7] g
+setglobal find[8] h
+setglobal find[9] i
+setglobal find[10] j
+setglobal find[11] k
+setglobal find[12] l
+setglobal find[13] m
+setglobal find[14] n
+setglobal find[15] o
+setglobal find[16] p
+setglobal find[17] q
+setglobal find[18] r
+setglobal find[19] s
+setglobal find[20] t
+setglobal find[21] u
+setglobal find[22] v
+setglobal find[23] w
+setglobal find[24] x
+setglobal find[25] y
+setglobal find[26] z
+setglobal item[1] ""
+setglobal item[2] ""
+setglobal item[3] ""
+setglobal item[4] ""
+setglobal item[5] ""
+setglobal item[6] ""
+setglobal item[7] ""
+setglobal item[8] ""
+setglobal item[9] ""
+setglobal item[10] ""
+setglobal item[11] ""
+setglobal item[12] ""
+setglobal item[13] ""
+setglobal item[14] ""
+setglobal item[15] ""
+setglobal item[16] ""
+setglobal item[17] ""
+setglobal item[18] ""
+setglobal item[19] ""
+setglobal item[20] ""
+setglobal item[21] ""
+setglobal item[22] ""
+setglobal item[23] ""
+setglobal item[24] ""
+setglobal item[25] ""
+setglobal item[26] ""
+setglobal item[27] ""
+setglobal item[28] ""
+setglobal item[29] ""
+setglobal item[30] ""
+setglobal item[31] ""
+setglobal item[32] ""
