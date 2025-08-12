@@ -1,0 +1,110 @@
+
+//not finshed.
+
+"/if"
+{
+set fn 1
+label gofind
+set logck @env.textlog
+"/selectitem " find[fn] "\r"
+pause 3
+if logck != "No item"
+	setglobal item[nls] @my.selected_item
+		if @my.selected_item >= "<#"
+			call findagain
+		end if
+		if nls < 33
+			setglobal nls + 1
+		else
+			goto end
+		end if
+end if
+if fn < 27
+	set fn + 1
+else
+	goto end
+end if
+goto gofind
+label end
+}
+
+finagain
+{
+set num 2
+label anotherone
+"selectitem " item[nls] "<#" num "\r"
+	pause 3
+		if logck != "No item"
+			goto exit
+		else
+			if nls < 33
+				setglobal nls + 1
+			else
+				goto exit
+			end if
+				setglobal item[nls] @my.selected_item
+					goto anotherone
+						set num + 1
+		end if
+label exit
+}
+
+setglobal nls 1
+setgloabal find[1] a
+setgloabal find[2] b
+setgloabal find[3] c
+setgloabal find[4] d
+setgloabal find[5] e
+setgloabal find[6] f
+setgloabal find[7] g
+setgloabal find[8] h
+setgloabal find[9] i
+setgloabal find[10] j
+setgloabal find[11] k
+setgloabal find[12] l
+setgloabal find[13] m
+setgloabal find[14] n
+setgloabal find[15] o
+setgloabal find[16] p
+setgloabal find[17] q
+setgloabal find[18] r
+setgloabal find[19] s
+setgloabal find[20] t
+setgloabal find[21] u
+setgloabal find[22] v
+setgloabal find[23] w
+setgloabal find[24] x
+setgloabal find[25] y
+setgloabal find[26] z
+setgloabal item[1] ""
+setgloabal item[2] ""
+setgloabal item[3] ""
+setgloabal item[4] ""
+setgloabal item[5] ""
+setgloabal item[6] ""
+setgloabal item[7] ""
+setgloabal item[8] ""
+setgloabal item[9] ""
+setgloabal item[10] ""
+setgloabal item[11] ""
+setgloabal item[12] ""
+setgloabal item[13] ""
+setgloabal item[14] ""
+setgloabal item[15] ""
+setgloabal item[16] ""
+setgloabal item[17] ""
+setgloabal item[18] ""
+setgloabal item[19] ""
+setgloabal item[20] ""
+setgloabal item[21] ""
+setgloabal item[22] ""
+setgloabal item[23] ""
+setgloabal item[24] ""
+setgloabal item[25] ""
+setgloabal item[26] ""
+setgloabal item[27] ""
+setgloabal item[28] ""
+setgloabal item[29] ""
+setgloabal item[30] ""
+setgloabal item[31] ""
+setgloabal item[32] ""

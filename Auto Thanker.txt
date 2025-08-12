@@ -22,7 +22,7 @@ setglobal failname 0
 
 control-shift-click2
 {
-setglobal exlie @click.name
+setglobal exlie @click.simple_name
 call nameadd
 }
 
@@ -158,31 +158,31 @@ setglobal failname 0
 {
 if @text.word[0] != ""
 	"/select @text.word[0] \r"
-		setglobal exlie @selplayer.name
+		setglobal exlie @selplayer.simple_name
 			call nameadd
 				"/select \r"
 end if
 if @text.word[1] != ""
 	"/select @text.word[1] \r"
-		setglobal exlie @selplayer.name
+		setglobal exlie @selplayer.simple_name
 			call nameadd
 				"/select \r"
 end if
 if @text.word[2] != ""
 	"/select @text.word[2] \r"
-		setglobal exlie @selplayer.name
+		setglobal exlie @selplayer.simple_name
 			call nameadd
 				"/select \r"
 end if
 if @text.word[3] != ""
 	"/select @text.word[3] \r"
-		setglobal exlie @selplayer.name
+		setglobal exlie @selplayer.simple_name
 			call nameadd
 				"/select \r"
 end if
 if @text.word[4] != ""
 	"/select @text.word[4] \r"
-		setglobal exlie @selplayer.name
+		setglobal exlie @selplayer.simple_name
 			call nameadd
 				"/select \r"
 end if
