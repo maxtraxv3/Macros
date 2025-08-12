@@ -11,18 +11,36 @@ pause 3
 if logck != "No item"
 	setglobal item[nls] @my.selected_item
 		if @my.selected_item >= "<#"
-			call findagain
-		end if
-		if nls < 33
-			setglobal nls + 1
-		else
-			goto end
+			set matchnum nls
+				call findagain
+					if matchnum == nls
+						if nls < 33
+							setglobal nls + 1
+						else
+							goto end
+						end if
+							goto gonext
+						end if
+					end if
+		else if @my.selected_item >= "("
+			set matchnum nls
+				call findagain
+					if matchnum == nls
+						if nls < 33
+							setglobal nls + 1
+						else
+							goto end
+						end if
+							goto gonext
+						end if
+					end if
 		end if
 end if
+label gonext
 if fn < 27
 	set fn + 1
 else
-	goto end
+	call printlist
 end if
 goto gofind
 label end
@@ -43,10 +61,36 @@ label anotherone
 				goto exit
 			end if
 				setglobal item[nls] @my.selected_item
-					goto anotherone
-						set num + 1
+					set num + 1
+						goto anotherone
 		end if
 label exit
+}
+
+printlist
+{
+set numby 1
+message "* Karma List:"
+label top
+if numby < 33
+	if item[numby] != "Nothing"
+		if item[numby] != ""
+			message "" item[numby] ""
+				set numby + 1
+		else
+			set numby + 1
+				goto top
+		end if
+	else
+		set numby + 1
+			goto top
+	end if
+goto top
+else if numby > 33
+		goto end
+end if
+label end
+	message "* ------end------ *"
 }
 
 setglobal nls 1
