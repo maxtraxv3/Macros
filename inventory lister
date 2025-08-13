@@ -1,101 +1,6 @@
 
 //not finshed.
 
-"/if"
-{
-set fndr 1
-label gofind
-set logck @env.textlog
-"/selectitem " find[fndr] "\r"
-pause 3
-if logck != "No item"
-	setglobal item[nls] @my.selected_item
-		if @my.selected_item >= "<#"
-			set matchnum nls
-				call findagain
-					if matchnum == nls
-						if nls < 32
-							setglobal nls + 1
-						else
-							goto end
-						end if
-							goto gonext
-						end if
-					end if
-		else if @my.selected_item >= "("
-			set matchnum nls
-				message "place holder" selected_item ""
-					if matchnum == nls
-						if nls < 32
-							setglobal nls + 1
-						else
-							goto end
-						end if
-							goto gonext
-						end if
-					end if
-		end if
-end if
-label gonext
-if fndr < 26
-	set fndr + 1
-else
-	call printlist
-end if
-goto gofind
-label end
-}
-
-findagain
-{
-set whatnumb 2
-label anotherone
-set actulthing item[nls].word[0]
-	if item[nls].word[1] != "<#"
-		set actulthing + " "
-		set actulthing + item[nls].word[1]
-	end if
-	if item[nls].word[2] != "<#"
-		set actulthing + " "
-		set actulthing + item[nls].word[2]
-	end if
-set actulthing + " "
-set actulthing + <#
-set actulthing + whatnumb
-"/selectitem "" actulthing "" \r"
-	pause 3
-		if logck != "No item"
-			goto exit
-		else
-			setglobal nls + 1
-		end if
-			setglobal item[nls] @my.selected_item
-				set whatnumb + 1
-					goto anotherone
-}
-
-
-printlist
-{
-set numby 1
-message "* Inventory List:"
-label top
-if numby < 32
-	if item[numby] != ""
-		message "" item[numby] ""
-			set numby + 1
-	else
-		set numby + 1
-			goto top
-	end if
-goto top
-else if numby > 32
-		goto end
-end if
-label end
-	message "* ------end------ *"
-}
-
 setglobal nls 1
 setglobal find[1] a
 setglobal find[2] b
@@ -123,35 +28,154 @@ setglobal find[23] w
 setglobal find[24] x
 setglobal find[25] y
 setglobal find[26] z
-setglobal item[1] ""
-setglobal item[2] ""
-setglobal item[3] ""
-setglobal item[4] ""
-setglobal item[5] ""
-setglobal item[6] ""
-setglobal item[7] ""
-setglobal item[8] ""
-setglobal item[9] ""
-setglobal item[10] ""
-setglobal item[11] ""
-setglobal item[12] ""
-setglobal item[13] ""
-setglobal item[14] ""
-setglobal item[15] ""
-setglobal item[16] ""
-setglobal item[17] ""
-setglobal item[18] ""
-setglobal item[19] ""
-setglobal item[20] ""
-setglobal item[21] ""
-setglobal item[22] ""
-setglobal item[23] ""
-setglobal item[24] ""
-setglobal item[25] ""
-setglobal item[26] ""
-setglobal item[27] ""
-setglobal item[28] ""
-setglobal item[29] ""
-setglobal item[30] ""
-setglobal item[31] ""
-setglobal item[32] ""
+setglobal iteml[1] ""
+setglobal iteml[2] ""
+setglobal iteml[3] ""
+setglobal iteml[4] ""
+setglobal iteml[5] ""
+setglobal iteml[6] ""
+setglobal iteml[7] ""
+setglobal iteml[8] ""
+setglobal iteml[9] ""
+setglobal iteml[10] ""
+setglobal iteml[11] ""
+setglobal iteml[12] ""
+setglobal iteml[13] ""
+setglobal iteml[14] ""
+setglobal iteml[15] ""
+setglobal iteml[16] ""
+setglobal iteml[17] ""
+setglobal iteml[18] ""
+setglobal iteml[19] ""
+setglobal iteml[20] ""
+setglobal iteml[21] ""
+setglobal iteml[22] ""
+setglobal iteml[23] ""
+setglobal iteml[24] ""
+setglobal iteml[25] ""
+setglobal iteml[26] ""
+setglobal iteml[27] ""
+setglobal iteml[28] ""
+setglobal iteml[29] ""
+setglobal iteml[30] ""
+setglobal iteml[31] ""
+setglobal iteml[32] ""
+
+"/if"
+{
+set fndr 1
+
+label gofind
+set logck @env.textlog
+pause 1
+"/selectitem " find[fndr] "\r"
+pause 3
+if logck != "No item"
+	setglobal iteml[nls] @my.selected_item
+	pause 1
+	message "" iteml[nls] "" nls ""
+	pause 1
+		if @my.selected_item >= "<#"
+			set matchnum nls
+				call findagain
+					if matchnum == nls
+					message ping1
+						if nls < 32
+							setglobal nls + 1
+								goto gonext
+						else
+							goto end
+						end if
+					end if
+		else if @my.selected_item >= "("
+			set matchnum nls
+				message "place holder" selected_iteml ""
+					if matchnum == nls
+						if nls < 32
+							setglobal nls + 1
+								goto gonext
+						else
+							goto end	
+						end if
+					end if
+		end if
+end if
+if nls < 32
+	setglobal nls + 1
+else
+	goto end
+end if
+label gonext
+if fndr < 26
+	set fndr + 1
+		goto gofind
+else
+	goto end
+end if
+label end
+	call printlist
+}
+
+findagain
+{
+set whatnumb 2
+label anotherone
+message "" iteml[nls] "" nls ""
+set itemname iteml[nls]
+message "*" itemname ""
+set actulthing itemname.word[0]
+	if itemname.word[1] >= "<#"
+		goto skip
+	else
+		set actulthing + " "
+		set actulthing + itemname.word[1]
+	end if
+	if iteml[nls].word[2] >= "<#"
+		goto skip
+	else
+		set actulthing + " "
+		set actulthing + itemname.word[2]
+	end if
+label skip
+set actulthing + " "
+set actulthing + <#
+set actulthing + whatnumb
+"/selectitem "\" actulthing "\" \r"
+	pause 3
+		if logck != "No item"
+			goto exit
+		else
+			setglobal nls + 1
+				setglobal iteml[nls] @my.selected_item
+					set whatnumb + 1
+						goto anotherone
+		end if
+label exit
+}
+
+
+printlist
+{
+set numby 1
+message "* Inventory List:"
+label top
+if numby < 32
+	if iteml[numby] != "Nothing"
+		if iteml[numby] != ""
+			message "" iteml[numby] ""
+				set numby + 1
+		else
+			set numby + 1
+				goto top
+		end if
+	else
+		set numby + 1
+			goto top
+	end if
+goto top
+else if numby > 32
+		goto end
+end if
+label end
+	message "* ------end------ *"
+}
