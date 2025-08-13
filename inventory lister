@@ -62,7 +62,7 @@ set actulthing item[nls].word[0]
 set actulthing + " "
 set actulthing + <#
 set actulthing + whatnumb
-"/selectitem actulthing \r"
+"/selectitem "" actulthing "" \r"
 	pause 3
 		if logck != "No item"
 			goto exit
