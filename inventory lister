@@ -120,9 +120,8 @@ findagain
 {
 set whatnumb 2
 label anotherone
-message "" iteml[nls] "" nls ""
+set logck @env.textlog
 set itemname iteml[nls]
-message "*" itemname ""
 set actulthing itemname.word[0]
 	if itemname.word[1] >= "<#"
 		goto skip
@@ -136,19 +135,27 @@ set actulthing itemname.word[0]
 		set actulthing + " "
 		set actulthing + itemname.word[2]
 	end if
+	if iteml[nls].word[3] >= "<#"
+		goto skip
+	else
+		set actulthing + " "
+		set actulthing + itemname.word[2]
+	end if
 label skip
 set actulthing + " "
 set actulthing + <#
 set actulthing + whatnumb
+pause 1
 "/selectitem "\" actulthing "\" \r"
 	pause 3
-		if logck != "No item"
+		if logck >= "No item"
 			goto exit
 		else
 			setglobal nls + 1
 				setglobal iteml[nls] @my.selected_item
 					set whatnumb + 1
 						goto anotherone
+			
 		end if
 label exit
 }
@@ -179,3 +186,4 @@ end if
 label end
 	message "* ------end------ *"
 }
+
