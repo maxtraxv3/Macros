@@ -23,6 +23,7 @@ setglobal failname 0
 control-shift-click2
 {
 setglobal exlie @click.simple_name
+setglobal exlieR @click.name
 call nameadd
 }
 

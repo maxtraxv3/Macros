@@ -45,6 +45,7 @@ click2
 {
 $any_click
 set click2ck @clicksplayer
+set playrealname @click.name
 if @my.right_item >= "chain"
 	message "* Disabled chain Equiped !" 
 		goto end
@@ -54,7 +55,7 @@ else
 			"/equip " Right_H "\r" 
 	end if
 		"/use " click2ck " \r"
-			message "* Healing" click2ck ""
+			message "* Healing" playrealname ""
 	else 
 	if @my.right_item != Right_H
 		"/equip " Right_H "\r" 
@@ -147,6 +148,7 @@ setglobal healname ""
 alt-shift-click2
 {
 setglobal healname @click.simple_name
+setglobal realname @click.name
 	call nameaddr
 }
  

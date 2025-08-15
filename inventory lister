@@ -122,7 +122,11 @@ set whatnumb 2
 label anotherone
 set logck @env.textlog
 set itemname iteml[nls]
-set actulthing itemname.word[0]
+	if itemname.word[0] >= "<#"
+		goto exit
+	else
+		set actulthing itemname.word[0]
+	end if
 	if itemname.word[1] >= "<#"
 		goto skip
 	else
