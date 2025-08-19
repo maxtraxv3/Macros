@@ -23,10 +23,26 @@ SETGLOBAL Timysampsw7 7
 SETGLOBAL TimysampsT4 4
 SETGLOBAL TimysampsT5 5
 SETGLOBAL TimysampsT6 6
+setglobal frame 27
+setglobal useses 3
 
 @login
 {
 call sethealeritem
+}
+
+"/usetime"
+{
+if @text.word[0] != ""
+	setglobal useses @text.word[0]
+end if
+}
+
+"/frames"
+{
+if @text.word[0] != ""
+	setglobal frame @text.word[0]
+end if
 }
 
 "/hi"
@@ -107,6 +123,9 @@ SET lockM + "me"
 SET lockU trigger_W
 SET lockU + " "
 SET lockU + "lock"
+SET CareaF trigger_W
+SET CareaF + " "
+SET CareaF + "farea"
 set logck @env.textlog
 	if logck.word[TimysampsT4] >= trigger_W
 		setglobal guy logck.word[Timysampsw0]
@@ -140,6 +159,8 @@ set logck @env.textlog
 	else if logck >= lockU
 		setglobal guyH guy2
 			call autoL
+	else if logck >= "c looparea"
+		call autoAF
 	end if
 }
 
@@ -193,4 +214,26 @@ if @my.right_item != Right_H
 end if
 	"/use /lock " guyH " \r"
 message "* Auto Locking" guy ""
+}
+
+autoAF
+{
+label area
+set usemetimes useses
+if @my.right_item != Right_H
+	"/equip " Right_H " \r"
+end if
+"/use \r"
+pause frame
+if @my.right_item == Right_H
+	"/equip moonstone \r"
+end if
+label usemeloop
+	if usemetimes < 1
+		"/use \r"
+			goto usemeloop
+				setglobal usemetimes - 1
+	else
+			goto area
+	end if
 }
