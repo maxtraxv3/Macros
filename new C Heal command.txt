@@ -1,5 +1,5 @@
 setglobal frame 27
-setglobal usemetimes 3
+setglobal useses 3
 
 	else if logck >= "c looparea"
 		call autoAF
@@ -7,6 +7,7 @@ setglobal usemetimes 3
 autoAF
 {
 label area
+set usemetimes useses
 if @my.right_item != Right_H
 	"/equip " Right_H " \r"
 end if
@@ -19,15 +20,16 @@ label usemeloop
 	if usemetimes < 1
 		"/use \r"
 			goto usemeloop
+				setglobal usemetimes - 1
 	else
-		goto area
+			goto area
 	end if
 }
 
 "/usetime"
 {
 if @text.word[0] != ""
-	setglobal usemetimes @text.word[0]
+	setglobal useses @text.word[0]
 end if
 }
 
