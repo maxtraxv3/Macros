@@ -1,0 +1,39 @@
+setglobal frame 27
+setglobal usemetimes 3
+
+	else if logck >= "c looparea"
+		call autoAF
+
+autoAF
+{
+label area
+if @my.right_item != Right_H
+	"/equip " Right_H " \r"
+end if
+"/use \r"
+pause frame
+if @my.right_item == Right_H
+	"/equip moonstone \r"
+end if
+label usemeloop
+	if usemetimes < 1
+		"/use \r"
+			goto usemeloop
+	else
+		goto area
+	end if
+}
+
+"/usetime"
+{
+if @text.word[0] != ""
+	setglobal usemetimes @text.word[0]
+end if
+}
+
+"/frames"
+{
+if @text.word[0] != ""
+	setglobal frame @text.word[0]
+end if
+}
