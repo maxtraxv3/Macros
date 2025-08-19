@@ -5,6 +5,10 @@
 // c pet heals your pet or the pet closest to you
 // c self self heal
 // c lock <name> lock healing to that person
+// c area Radium heal
+// c farea Radium + self heal loop witch will keep going untill you give it another command
+// /frames <number> how long radium heals for, before switching to self heal.
+// /usetime <number> for how many time you self heal before going back to radium healing.
 
 //change "C" to whatever trigger word you like 
 //I.E for it to act like squibs one: setglobal trigger_W @my.name 
