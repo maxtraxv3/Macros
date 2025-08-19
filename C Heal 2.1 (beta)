@@ -163,7 +163,7 @@ set logck @env.textlog
 	else if logck >= lockU
 		setglobal guyH guy2
 			call autoL
-	else if logck >= "c looparea"
+	else if logck >= "CareaF"
 		call autoAF
 	end if
 }
