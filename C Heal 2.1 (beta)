@@ -14,7 +14,7 @@
 //I.E for it to act like squibs one: setglobal trigger_W @my.name 
 //or just "j" would be j heal <name> to heal someone
 // if you set this to "" it will skip the trigger word B, so insted of saying "b heal <name>" you would say "heal <name>"
-setglobal trigger_W "B"
+setglobal trigger_W ""
 // the trigger word for area heals
 setglobal trigger_A "area"
 // the trigger word for pet heals
@@ -81,7 +81,7 @@ end if
 // heh, there gotta be a better way to do this part xD
 set logck @env.textlog
 message "* C Heal Online"
-if logck.word[0] >= "*"
+if logck.word[2] >= "*"
 SETGLOBAL Timysampsw0 + 2
 	SETGLOBAL Timysampsw1 + 2
 		SETGLOBAL Timysampsw2 + 2
@@ -90,9 +90,10 @@ SETGLOBAL Timysampsw0 + 2
 					SETGLOBAL Timysampsw5 + 2
 						SETGLOBAL Timysampsw6 + 2
 							SETGLOBAL Timysampsw7 + 2
+else
 								SETGLOBAL TimysampsT4 - 2
 									SETGLOBAL TimysampsT5 - 2
-										SETGLOBAL TimysampsT6 - 2
+										SETGLOBAL TimysampsT6 - 2										
 end if
 label top
 set logck @env.textlog
@@ -108,6 +109,7 @@ goto top
 
 sayit
 {
+set logck @env.textlog
 SET HealM trigger_H
 SET HealM + " "
 SET HealM + "me"
@@ -115,26 +117,23 @@ SET lockM trigger_L
 SET lockM + " "
 SET lockM + "me"
 if trigger_W != ""
-set logck @env.textlog
 	if logck.word[TimysampsT4] >= trigger_W
-		set correctme 1
 		setglobal guy logck.word[Timysampsw0]
-		setglobal guy2 logck.word[Timysampsw4]
+		setglobal 2guy logck.word[Timysampsw4]
 	else if logck.word[TimysampsT5] >= trigger_W
-		set correctme 1
 		setglobal guy logck.word[Timysampsw2]
 		setglobal guy + "" logck.word[Timysampsw3] ""
-		setglobal guy2 logck.word[Timysampsw7]
+		setglobal 2guy logck.word[Timysampsw6]
 	else if logck.word[TimysampswT6] >= trigger_W
-		set correctme 1
 		setglobal guy logck.word[Timysampsw0]
 		setglobal guy + "" logck.word[Timysampsw1] ""
 		setglobal guy + "" logck.word[Timysampsw2] ""
-		setglobal guy2 logck.word[Timysampsw6]
+		setglobal 2guy logck.word[Timysampsw7]
 	end if
 end if
 set logck @env.textlog
 	if logck >= HealM
+	message ping11
 		if trigger_W == ""
 			set cName HealM
 				call Nguy
@@ -146,7 +145,7 @@ set logck @env.textlog
 			set cName trigger_H
 				call Nguy
 		end if
-		setglobal guyH guy2
+		set guyH 2guy
 				call autoH
 	else if logck >= trigger_S
 			call autoS
@@ -159,14 +158,14 @@ set logck @env.textlog
 			set cName lockM
 				call Nguy
 		end if
-		setglobal guyH guy
+		set guyH guy
 				call autoL
 	else if logck >= trigger_L
 		if trigger_W == ""
 			set cName trigger_L
 				call Nguy
 		end if
-		setglobal guyH guy2
+		set guyH 2guy
 				call autoL
 	else if logck >= trigger_AF
 			call autoAF
@@ -176,18 +175,19 @@ end if
 
 Nguy
 {
+set logck @env.textlog
 if logck.word[TimysampswT5] >= cName.word[0]
 	setglobal guy logck.word[Timysampsw0]
-	setglobal guy2 logck.word[Timysampsw4]
+	setglobal 2guy logck.word[Timysampsw3]
 else if logck.word[TimysampswT6] >= cName.word[0]
 	setglobal guy logck.word[Timysampsw2]
 	setglobal guy + "" logck.word[Timysampsw3] ""
-	setglobal guy2 logck.word[Timysampsw7]
+	setglobal 2guy logck.word[Timysampsw5]
 else if logck.word[TimysampswT7] >= cName.word[0]
 	setglobal guy logck.word[Timysampsw0]
 	setglobal guy + "" logck.word[Timysampsw1] ""
 	setglobal guy + "" logck.word[Timysampsw2] ""
-	setglobal guy2 logck.word[Timysampsw6]
+	setglobal 2guy logck.word[Timysampsw6]
 end if
 }
 
@@ -197,7 +197,9 @@ if @my.right_item != Right_H
 	"/equip " Right_H " \r"
 end if
 	"/use " guyH " \r"
-message "* Auto Healing" guy ""
+		"/select " guyH " \r"
+			message "* Auto Healing" @selplayer.name ""
+				"/select\r"
 pause 3
 }
 
@@ -240,7 +242,9 @@ if @my.right_item != Right_H
 	"/equip " Right_H " \r"
 end if
 	"/use /lock " guyH " \r"
-message "* Auto Locking" guy ""
+		"/select " guyH " \r"
+			message "* Auto Locking" @selplayer.name ""
+				"/select\r"
 }
 
 autoAF
