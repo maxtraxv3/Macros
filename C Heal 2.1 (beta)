@@ -149,7 +149,7 @@ set logck @env.textlog
 	else if logck >= trigger_A
 		set correctme 0
 			call autoA
-	else if logck >= trigger_L
+	else if logck >= lockM
 		setglobal guyH guy
 			set correctme 0
 				call autoL
