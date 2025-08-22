@@ -132,40 +132,62 @@ set logck @env.textlog
 		setglobal guy + "" logck.word[Timysampsw2] ""
 		setglobal guy2 logck.word[Timysampsw6]
 	end if
-else
-set correctme 1
 end if
-if correctme == 1
 set logck @env.textlog
 	if logck >= HealM
-		set guyH guy
-			set correctme 0
+		if trigger_W == ""
+			set cName HealM
+				call Nguy
+		end if
+			set guyH guy
 				call autoH
 	else if logck >= trigger_H
+		if trigger_W == ""
+			set cName trigger_H
+				call Nguy
+		end if
 		setglobal guyH guy2
-			set correctme 0
 				call autoH
 	else if logck >= trigger_S
-		set correctme 0
 			call autoS
 	else if logck >= trigger_P
-		set correctme 0
 			call autoP
 	else if logck >= trigger_A
-		set correctme 0
 			call autoA
 	else if logck >= lockM
+		if trigger_W == ""
+			set cName lockM
+				call Nguy
+		end if
 		setglobal guyH guy
-			set correctme 0
 				call autoL
 	else if logck >= trigger_L
+		if trigger_W == ""
+			set cName trigger_L
+				call Nguy
+		end if
 		setglobal guyH guy2
-			set correctme 0
 				call autoL
 	else if logck >= trigger_AF
-		set correctme 0
 			call autoAF
 	end if
+end if
+}
+
+Nguy
+{
+if logck.word[TimysampswT5] >= cName.word[0]
+	setglobal guy logck.word[Timysampsw0]
+	setglobal guy2 logck.word[Timysampsw4]
+else if logck.word[TimysampswT6] >= cName.word[0]
+	setglobal guy logck.word[Timysampsw2]
+	setglobal guy + "" logck.word[Timysampsw3] ""
+	setglobal guy2 logck.word[Timysampsw7]
+else if logck.word[TimysampswT7] >= cName.word[0]
+	setglobal guy logck.word[Timysampsw0]
+	setglobal guy + "" logck.word[Timysampsw1] ""
+	setglobal guy + "" logck.word[Timysampsw2] ""
+	setglobal guy2 logck.word[Timysampsw6]
 end if
 }
 
