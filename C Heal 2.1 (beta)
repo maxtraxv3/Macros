@@ -13,6 +13,7 @@
 //change "C" to whatever trigger word you like 
 //I.E for it to act like squibs one: setglobal trigger_W @my.name 
 //or just "j" would be j heal <name> to heal someone
+// if you set this to "" it will skip the trigger word B, so insted of saying "b heal <name>" you would say "heal <name>"
 setglobal trigger_W "B"
 // the trigger word for area heals
 setglobal trigger_A "area"
@@ -113,6 +114,7 @@ SET HealM + "me"
 SET lockM trigger_L
 SET lockM + " "
 SET lockM + "me"
+if trigger_W != ""
 set logck @env.textlog
 	if logck.word[TimysampsT4] >= trigger_W
 		set correctme 1
@@ -130,6 +132,9 @@ set logck @env.textlog
 		setglobal guy + "" logck.word[Timysampsw2] ""
 		setglobal guy2 logck.word[Timysampsw6]
 	end if
+else
+set correctme 1
+end if
 if correctme == 1
 set logck @env.textlog
 	if logck >= HealM
@@ -237,5 +242,3 @@ label usemeloop
 			goto area
 	end if
 }
-
-// if you set this to "" it will skip the trigger word B, so insted of saying "b heal <name>" you would say "heal <name>"
