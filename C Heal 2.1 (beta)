@@ -107,87 +107,61 @@ goto top
 
 sayit
 {
-// and this part
-if trigger_W == ""
-SET HealM trigger_W
-SET HealM + " "
-end if
-SET HealM + trigger_H
+SET HealM trigger_H
 SET HealM + " "
 SET HealM + "me"
-if trigger_W == ""
-SET HealU trigger_W
-SET HealU + " "
-end if
-SET HealU + trigger_H
-if trigger_W == ""
-SET Cself trigger_W
-SET Cself + " "
-end if
-SET Cself + trigger_S
-if trigger_W == ""
-SET Cpet trigger_W
-SET Cpet + " "
-end if
-SET Cpet + trigger_P
-if trigger_W == ""
-SET Carea trigger_W
-SET Carea + " "
-end if
-SET Carea + trigger_A
-if trigger_W == ""
-SET lockM trigger_W
-SET lockM + " "
-end if
-SET lockM + trigger_L
+SET lockM trigger_L
 SET lockM + " "
 SET lockM + "me"
-if trigger_W == ""
-SET lockU trigger_W
-SET lockU + " "
-end if
-SET lockU + trigger_L
-if trigger_W == ""
-SET CareaF trigger_W
-SET CareaF + " "
-end if
-SET CareaF + trigger_AF
 set logck @env.textlog
 	if logck.word[TimysampsT4] >= trigger_W
+		set correctme 1
 		setglobal guy logck.word[Timysampsw0]
 		setglobal guy2 logck.word[Timysampsw4]
 	else if logck.word[TimysampsT5] >= trigger_W
+		set correctme 1
 		setglobal guy logck.word[Timysampsw2]
-		setglobal guy + logck.word[Timysampsw3]
+		setglobal guy + "" logck.word[Timysampsw3] ""
 		setglobal guy2 logck.word[Timysampsw7]
 	else if logck.word[TimysampswT6] >= trigger_W
+		set correctme 1
 		setglobal guy logck.word[Timysampsw0]
-		setglobal guy + logck.word[Timysampsw1]
-		setglobal guy + logck.word[Timysampsw2]
+		setglobal guy + "" logck.word[Timysampsw1] ""
+		setglobal guy + "" logck.word[Timysampsw2] ""
 		setglobal guy2 logck.word[Timysampsw6]
 	end if
+if correctme == 1
 set logck @env.textlog
 	if logck >= HealM
 		set guyH guy
-			call autoH
-	else if logck >= HealU
+			set correctme 0
+				call autoH
+	else if logck >= trigger_H
 		setglobal guyH guy2
-			call autoH
-	else if logck >= Cself
-		call autoS
-	else if logck >= Cpet
-		call autoP
-	else if logck >= Carea
-		call autoA
-	else if logck >= lockM
+			set correctme 0
+				call autoH
+	else if logck >= trigger_S
+		set correctme 0
+			call autoS
+	else if logck >= trigger_P
+		set correctme 0
+			call autoP
+	else if logck >= trigger_A
+		set correctme 0
+			call autoA
+	else if logck >= trigger_L
 		setglobal guyH guy
-			call autoL
-	else if logck >= lockU
+			set correctme 0
+				call autoL
+	else if logck >= trigger_L
 		setglobal guyH guy2
-			call autoL
-	else if logck >= "CareaF"
-		call autoAF
+			set correctme 0
+				call autoL
+	else if logck >= trigger_AF
+		set correctme 0
+			call autoAF
 	end if
+end if
 }
 
 autoH
