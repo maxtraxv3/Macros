@@ -2,70 +2,58 @@ package main
 
 import (
     "strings"
+    "gt"
 )
 
-var PluginName = "Magnic's Ranger Macro"
+var PluginName = "Ranger Macro"
 
 var (
-    FirstMorphName = "Giant Carnivorous Plankton"
+    FirstMorphName  = "Giant Carnivorous Plankton"
     SecondMorphName = "Young Sasquatch"
 
-    speeding   int
-    isMorphed  int
-    whatShape  int
-    swaobackL  string
-    keepspeed  int
+    speeding  int
+    isMorphed int
+    whatShape int
+    swaobackL string
+    keepspeed int
 )
 
-func main() {
-    // Setup commands/help
-    AddCommand("/ranger", func(args string) {
-        lines := []string{
-            "F1 = First morph (toggle-able)",
-            "F2 = Second morph (toggle-able)",
-            "F3 = HeartWood Charm (toggle-able)",
-            "F5 = Befriend",
-            "F6 = Control Befriend'ed",
-            "F7 = Dismiss Friend",
-            "/reflect = Uses Belt to reflect what you have learned",
-            "F10 = Return and reset macro numbers",
-        }
-        for _, l := range lines {
-            ShowNotification(l)
-        }
+func init() {
+    // Help text
+    gt.RegisterCommand("ranger", func(args string) {
+        gt.Console("F1 = First morph (toggle-able)")
+        gt.Console("F2 = Second morph (toggle-able)")
+        gt.Console("F3 = HeartWood Charm (toggle-able)")
+        gt.Console("F10 = Return and reset macro numbers")
     })
 
-    // Hotkeys
-    AddHotkey("F1", "firstMorph")
-    AddCommand("firstMorph", func(args string) { toggleMorph(1, FirstMorphName) })
+    // Hotkey bindings
+    gt.AddHotkey("F1", "/_firstMorph")
+    gt.RegisterCommand("_firstMorph", func(string) { toggleMorph(1, FirstMorphName) })
 
-    AddHotkey("F2", "secondMorph")
-    AddCommand("secondMorph", func(args string) { toggleMorph(2, SecondMorphName) })
+    gt.AddHotkey("F2", "/_secondMorph")
+    gt.RegisterCommand("_secondMorph", func(string) { toggleMorph(2, SecondMorphName) })
 
-    AddHotkey("F3", "toggleHeartwood")
-    AddCommand("toggleHeartwood", func(args string) { toggleHeartwoodCharm() })
+    gt.AddHotkey("F3", "/_toggleHeartwood")
+    gt.RegisterCommand("_toggleHeartwood", func(string) { toggleHeartwoodCharm() })
 
-    AddHotkey("F10", "resetAll")
-    AddCommand("resetAll", func(args string) { resetState() })
+    gt.AddHotkey("F10", "/_resetAll")
+    gt.RegisterCommand("_resetAll", func(string) { resetState() })
 
-    // Chat/event monitoring — mimic @login rangerloop
-    GetChat(func(name, messageType, message string) {
-        checkLogEvents(message)
-    })
+    // Hook chat log events
+    gt.RegisterChatHandler(func(msg string) { checkLogEvents(msg) })
 }
 
 func toggleMorph(shape int, name string) {
-    // Ensure belt equipped
-    if !EqualAnycase(getWaistItem(), "belt of the wild") {
-        EquipItem("beltofthewild")
+    if !IgnoreCase(getWaistItem(), "belt of the wild") {
+        equipByName("beltofthewild")
     }
-
     if isMorphed == 0 || (isMorphed == 1 && whatShape != shape) {
         whatShape = shape
         isMorphed = 1
-        SendNow(`/useitem beltofthewild /shape "` + name + `"`)
+        gt.RunCommand(`/useitem beltofthewild /shape "` + name + `"`)
     } else if isMorphed == 1 && whatShape == shape {
-        SendNow("/useitem beltofthewild /return")
+        gt.RunCommand("/useitem beltofthewild /return")
         whatShape = 0
         isMorphed = 0
     }
@@ -73,25 +61,33 @@ func toggleMorph(shape int, name string) {
 
 func toggleHeartwoodCharm() {
     if speeding == 0 {
-        if li := getLeftItem(); !EqualAnycase(li, "Nothing") && !EqualAnycase(li, "Heartwood Charm") {
+        li := getLeftItem()
+        if !IgnoreCase(li, "Nothing") && !IgnoreCase(li, "Heartwood Charm") {
             swaobackL = li
         }
-        if !EqualAnycase(getLeftItem(), "Heartwood Charm") {
-            EquipItem("heartwood")
+        if !IgnoreCase(li, "Heartwood Charm") {
+            equipByName("heartwood")
         }
         speeding = 1
-        SendNow("/useitem left")
+        gt.RunCommand("/useitem left")
     } else {
         speeding = 0
-        if EqualAnycase(getLeftItem(), "Heartwood Charm") {
-            SendNow("/useitem heartwood /slow")
+        if IgnoreCase(getLeftItem(), "Heartwood Charm") {
+            gt.RunCommand("/useitem heartwood /slow")
             uneq()
         }
     }
 }
 
+func resetState() {
+    gt.RunCommand("/useitem beltofthewild /return")
+    unequipByName("heartwood")
+    speeding, isMorphed, whatShape, keepspeed = 0, 0, 0, 0
+    swaobackL = ""
+}
+
 func checkLogEvents(log string) {
-    player := PlayerName()
+    player := gt.PlayerName()
     hasFallen := player + " has fallen to a"
 
     switch {
@@ -124,32 +120,40 @@ func checkLogEvents(log string) {
 }
 
 func uneq() {
-    if !EqualAnycase(swaobackL, "Heartwood Charm") {
+    if !IgnoreCase(swaobackL, "Heartwood Charm") {
         if swaobackL != "" {
-            ShowNotification("* swapping left hand back to " + swaobackL)
-            EquipItem(swaobackL)
+            gt.ShowNotification("* swapping left hand back to " + swaobackL)
+            equipByName(swaobackL)
             swaobackL = ""
             keepspeed = 0
         } else {
-            UnequipItem("heartwood")
+            unequipByName("heartwood")
             keepspeed = 0
         }
     }
 }
 
-func resetState() {
-    SendNow("/useitem beltofthewild /return")
-    UnequipItem("heartwood")
-    speeding = 0
-    isMorphed = 0
-    whatShape = 0
-    swaobackL = ""
-    keepspeed = 0
+// Inventory helpers
+func equipByName(name string) {
+    for _, item := range gt.Inventory() {
+        if IgnoreCase(item.Name, name) {
+            gt.Equip(item.ID)
+            return
+        }
+    }
 }
 
-// Helpers to mimic @my.<slot> checks
+func unequipByName(name string) {
+    for _, item := range gt.Inventory() {
+        if IgnoreCase(item.Name, name) {
+            gt.Unequip(item.ID)
+            return
+        }
+    }
+}
+
 func getWaistItem() string {
-    for _, item := range GetEquippedItems() {
+    for _, item := range gt.EquippedItems() {
         if strings.Contains(strings.ToLower(item.Name), "belt") {
             return item.Name
         }
@@ -158,12 +162,15 @@ func getWaistItem() string {
 }
 
 func getLeftItem() string {
-    // You might need an API call if "left hand" is trackable separately
-    // Placeholder: scan equipped items
-    for _, item := range GetEquippedItems() {
+    // Assumes "Heartwood" only ever appears in left-hand slot; adapt if needed
+    for _, item := range gt.EquippedItems() {
         if strings.Contains(strings.ToLower(item.Name), "heartwood") {
             return item.Name
         }
     }
     return "Nothing"
+}
+
+func IgnoreCase(a, b string) bool {
+    return strings.EqualFold(a, b)
 }
