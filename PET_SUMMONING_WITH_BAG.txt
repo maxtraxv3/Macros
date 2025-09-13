@@ -1,0 +1,32 @@
+//to use /cp <petsname>
+//or /callpet <petsname>
+
+//PET SUMMONING WITH BAG//
+//modified Hashaks macro by Magnic//
+
+"/callpet" call pulloutpet
+"/cp" call pulloutpet
+
+pulloutpet
+{
+	set myRight ""
+    "/bag /remove /exact shadow bell\r"
+    pause 3
+	if @my.right_item != ""
+		set myRight @my.right_item
+			goto summon
+	else
+		goto summon
+	end if
+	label summon
+    "/equip shadow bell\r"
+    "/use " @text.word[0] "\r"
+	pause 3
+	if myRight != ""
+		"/equip " myRight "\r"
+	end if
+    pause 3
+    "/selectitem Shadow bell\r"
+    pause 3
+    "/bag /add\r"
+}

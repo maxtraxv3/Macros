@@ -25,7 +25,7 @@ call sethealeritem
 
 sethealeritem
 {
-set Right_H @my.right_item
+setglobal Right_H @my.right_item
 message "* Healer Item set to" Right_H ""
 if Right_H >= asklepian
 	SETGLOBAL Rad 1
