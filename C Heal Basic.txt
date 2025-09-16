@@ -6,6 +6,34 @@
 // c self self heal
 // c lock <name> lock healing to that person
 
+setglobal Right_H "asklepian staff"
+
+@login
+{
+call sethealeritem
+}
+
+"/hi" // incase you where not holding your main healing item when you loged in.
+{
+call sethealeritem
+}
+
+sethealeritem
+{
+setglobal Right_H @my.right_item
+message "* Healer Item set to" Right_H ""
+if Right_H >= asklepian
+	SETGLOBAL Rad 1
+end if
+}
+
+setglobal guy nope
+
+"/ah"
+{
+call ahealck
+}
+
 ahealck
 {
 message "* Auto Healer ON!"
