@@ -1,0 +1,268 @@
+// C heal Basic 0.1
+// /hi to set what evers in your right hand to the healer item the macro will use to heal people with
+// c heal <name> heals person wiht that name
+// c heal me heals you
+// c pet heals your pet or the pet closest to you
+// c self self heal
+// c lock <name> lock healing to that person
+
+ahealck
+{
+message "* Auto Healer ON!"
+label quickloop
+set logck @env.textLog
+if logck.word[1] == "says,"
+	call command1
+else if logck.word[1] == "growls,"
+	call command1
+else if logck.word[1] == "yells,"
+	call command1
+else if logck.word[2] == "says,"
+	call command2
+else if logck.word[2] == "growls,"
+	call command2
+else if logck.word[2] == "yells,"
+	call command2
+else if logck.word[3] == "says,"
+	call command3
+else if logck.word[3] == "growls,"
+	call command3
+else if logck.word[3] == "yells,"
+	call command3
+else if logck.word[4] == "says,"
+	call command4
+else if logck.word[4] == "growls,"
+	call command4
+else if logck.word[4] == "yells,"
+	call command4
+else if logck.word[5] == "says,"
+	call command5
+else if logck.word[5] == "growls,"
+	call command5
+else if logck.word[5] == "yells,"
+	call command5
+end if
+if logck >= "this name is not"
+	"/ponder this name is not unique \r"
+end if
+if logck >= "•You must specify a player in the game."
+	"/ponder i can not find this person \r"
+end if
+if logger >= "•You do not have enough spiritual energy"
+		"/ponder out of spirt \r"
+end if
+if logger >= "•The player must be in the same area"
+	"/ponder out of range \r"
+end if
+if logger >= "is too far away"
+	"/ponder out of range \r"
+end if
+pause 1
+goto quickloop
+}
+
+command1
+{
+	if logck >= "c heal me"
+	 setglobal guy logck.word[0]
+		call autoH
+	else if logck >= "c heal"
+	 setglobal guy logck.word[4]
+		call autoH
+	else if logck >= "c self"
+		call autoS
+	else if logck >= "c pet"
+		call autoP
+	else if logck >= "c area"
+		call autoA
+	else if logck >= "c lock me"
+	 setglobal guy logck.word[0]
+		call autoL
+	else if logck >= "c lock"
+	 setglobal guy logck.word[4]
+		call autoL
+	else if logck >= "c farea"
+		call autoAF
+	end if
+}
+
+command2
+{
+	if logck >= "c heal me"
+	 setglobal guy logck.word[0]
+	 setglobal guy + logck.word[1]
+		call autoH
+	else if logck >= "c heal"
+	 setglobal guy logck.word[5]
+		call autoH
+	else if logck >= "c self"
+		call autoS
+	else if logck >= "c pet"
+		call autoP
+	else if logck >= "c area"
+		call autoA
+	else if logck >= "c lock me"
+	 setglobal guy logck.word[0]
+	 setglobal guy + logck.word[1]
+		call autoL
+	else if logck >= "c lock"
+	 setglobal guy logck.word[5]
+		call autoL
+	else if logck >= "c farea"
+		call autoAF
+	end if
+}
+
+command3
+{
+	if logck >= "c heal me"
+	 setglobal guy logck.word[2]
+		call autoH
+	else if logck >= "c heal"
+	 setglobal guy logck.word[6]
+		call autoH
+	else if logck >= "c self"
+		call autoS
+	else if logck >= "c pet"
+		call autoP
+	else if logck >= "c area"
+		call autoA
+	else if logck >= "c lock me"
+	 setglobal guy logck.word[2]
+		call autoL
+	else if logck >= "c lock"
+	 setglobal guy logck.word[6]
+		call autoL
+	else if logck >= "c farea"
+		call autoAF
+	end if
+}
+
+command4
+{
+	if logck >= "c heal me"
+	 setglobal guy logck.word[2]
+	 setglobal guy + logck.word[3]
+		call autoH
+	else if logck >= "c heal"
+	 setglobal guy logck.word[7]
+		call autoH
+	else if logck >= "c self"
+		call autoS
+	else if logck >= "c pet"
+		call autoP
+	else if logck >= "c area"
+		call autoA
+	else if logck >= "c lock me"
+	 setglobal guy logck.word[2]
+	 setglobal guy + logck.word[3]
+		call autoL
+	else if logck >= "c lock"
+	 setglobal guy logck.word[7]
+		call autoL
+	else if logck >= "c farea"
+		call autoAF
+	end if
+}
+
+command5
+{
+	if logck >= "c heal me"
+	 setglobal guy logck.word[2]
+	 setglobal guy + logck.word[3]
+	 setglobal guy + logck.word[4]
+		call autoH
+	else if logck >= "c heal"
+	 setglobal guy logck.word[8]
+		call autoH
+	else if logck >= "c self"
+		call autoS
+	else if logck >= "c pet"
+		call autoP
+	else if logck >= "c area"
+		call autoA
+	else if logck >= "c lock me"
+	 setglobal guy logck.word[2]
+	 setglobal guy + logck.word[3]
+	 setglobal guy + logck.word[4]
+		call autoL
+	else if logck >= "c lock"
+	 setglobal guy logck.word[8]
+		call autoL
+	else if logck >= "c farea"
+		call autoAF
+	end if
+}
+
+autoH
+{
+if @my.right_item != Right_H
+	"/equip " Right_H " \r"
+end if
+"/use " guy " \r"
+message "* Auto Healing" guy ""
+}
+
+autoA
+{
+if Rad == 1
+if @my.right_item != Right_H
+	"/equip " Right_H " \r"
+end if
+"/use \r"
+else if Rad == 0
+message "* Sorry Dave, i cannot let you do that."
+end if
+}
+
+autoP
+{
+if @my.right_item != Right_H
+	"/equip " Right_H " \r"
+end if
+"/use /pet \r"
+message "* Auto Healing Pet"
+}
+
+autoS
+{
+if @my.right_item != moonstone
+	"/equip moonstone \r"
+end if
+message "* self healing mode"
+label loopmoon
+"/use \r"
+pause 1
+goto loopmoon
+}
+
+autoL
+{
+if @my.right_item != Right_H
+	"/equip " Right_H " \r"
+end if
+"/use /lock " guy " \r"
+message "* Auto Locking" guy ""
+}
+
+autoAF
+{
+label area
+set usemetimes useses
+if @my.right_item != Right_H
+	"/equip " Right_H " \r"
+end if
+"/use \r"
+pause frame
+if @my.right_item == Right_H
+	"/equip moonstone \r"
+end if
+label usemeloop
+	if usemetimes < 1
+		"/use \r"
+			goto usemeloop
+				setglobal usemetimes - 1
+	else
+			goto area
+	end if
+}

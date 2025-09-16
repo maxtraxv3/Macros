@@ -448,13 +448,6 @@ message "* Auto Locking" guy ""
 {
 label top
 set logger @env.textlog
-if logger >= "•Your healing is blocked"
-	if logger >= "Blocked.."
-		goto top
-	end if
-    "/ponder Blocked.. \r"
-		pause 1
-end if
 if logger >= "•You do not have enough spiritual energy"
 	if logger >= "out of spirt"
 		goto top
@@ -467,20 +460,6 @@ if logger >= "• There is nobody nearby enough to continue radius healing."
 		goto top
 	end if
 	"/ponder no one left for raidum healing. \r"
-		pause 1
-end if
-if logger >= "•The player must be in the same area"
-	if logger >= "out of range"
-		goto top
-	end if
-	"/ponder out of range \r"
-		pause 1
-end if
-if logger >= "is too far away"
-	if logger >= "out of range"
-		goto top
-	end if
-	"/ponder out of range \r"
 		pause 1
 end if
 if logger >= " •You do not have enough in you."

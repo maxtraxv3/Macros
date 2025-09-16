@@ -12,10 +12,10 @@
 
 //change "C" to whatever trigger word you like 
 //I.E for it to act like squibs one: setglobal trigger_W @my.name 
-//or just "j" would be j heal <name> to heal someone
+//or just "\"j" would be j heal <name> to heal someone
 // if you set this to "" it will skip the trigger word B, so insted of saying "b heal <name>" you would say "heal <name>"
 // the trigger word is typically used so don't accidentally make it heal your in normal convosation
-setglobal trigger_W ""
+setglobal trigger_W "\"b"
 // the trigger word for area heals
 setglobal trigger_A "area"
 // the trigger word for pet heals
@@ -98,9 +98,9 @@ SETGLOBAL Timysampsw0 + 2
 						SETGLOBAL Timysampsw6 + 2
 							SETGLOBAL Timysampsw7 + 2
 else
-								SETGLOBAL TimysampsT4 - 2
-									SETGLOBAL TimysampsT5 - 2
-										SETGLOBAL TimysampsT6 - 2										
+	SETGLOBAL TimysampsT4 - 2
+		SETGLOBAL TimysampsT5 - 2
+			SETGLOBAL TimysampsT6 - 2										
 end if
 label top
 set logck @env.textlog
@@ -124,14 +124,14 @@ SET lockM trigger_L
 SET lockM + " "
 SET lockM + "me"
 if trigger_W != ""
-	if logck.word[TimysampsT4] >= trigger_W
+	if logck.word[TimysampsT4] == trigger_W
 		setglobal guy logck.word[Timysampsw0]
 		setglobal 2guy logck.word[Timysampsw4]
-	else if logck.word[TimysampsT5] >= trigger_W
+	else if logck.word[TimysampsT5] == trigger_W
 		setglobal guy logck.word[Timysampsw2]
 		setglobal guy + "" logck.word[Timysampsw3] ""
 		setglobal 2guy logck.word[Timysampsw6]
-	else if logck.word[TimysampswT6] >= trigger_W
+	else if logck.word[TimysampswT6] == trigger_W
 		setglobal guy logck.word[Timysampsw0]
 		setglobal guy + "" logck.word[Timysampsw1] ""
 		setglobal guy + "" logck.word[Timysampsw2] ""
