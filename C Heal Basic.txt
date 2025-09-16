@@ -5,6 +5,9 @@
 // c pet heals your pet or the pet closest to you
 // c self self heal
 // c lock <name> lock healing to that person
+// c farea Radium + self heal loop witch will keep going untill you give it another command
+// /frames <number> how long radium heals for, before switching to self heal.
+// /usetime <number> for how many time you self heal before going back to radium healing.
 
 setglobal Right_H "asklepian staff"
 
@@ -27,6 +30,20 @@ if Right_H >= asklepian
 end if
 }
 
+"/usetime"
+{
+if @text.word[0] != ""
+	setglobal useses @text.word[0]
+end if
+}
+
+"/frames"
+{
+if @text.word[0] != ""
+	setglobal frame @text.word[0]
+end if
+}
+
 setglobal guy nope
 
 "/ah"
@@ -34,6 +51,9 @@ setglobal guy nope
 call ahealck
 }
 
+// since there only really 4 commands that need different veriable depending on who speaking (how long your name is, where your name is, where the person you want to heal's name is depending on how long you name is)
+// i think i can make this a bit smaller, and gett it closer to b heals one, (though might still be longer then b heal as this to comisate for not caring if you have timestamps on or off.)
+// maybe later i updated it some better with c heal beta thing, once i understand how to make that alot smaller as well, (or not?)
 ahealck
 {
 message "* Auto Healer ON!"

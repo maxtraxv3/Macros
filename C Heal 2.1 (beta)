@@ -1,4 +1,4 @@
-// C heal 2.1
+// C heal 2.2
 // /hi to set what evers in your right hand to the healer item the macro will use to heal people with
 // c heal <name> heals person wiht that name
 // c heal me heals you
@@ -140,7 +140,6 @@ if trigger_W != ""
 end if
 set logck @env.textlog
 	if logck >= HealM
-	message ping11
 		if trigger_W == ""
 			set cName HealM
 				call Nguy
