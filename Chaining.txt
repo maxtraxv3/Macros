@@ -5,6 +5,7 @@ SETGLOBAL CHAINING 0
 
 control-click
 {
+set logck @env.textlog
 if CHAINING == 0
 	if @my.right_item != ""
 		setglobal swaoback @my.right_item
@@ -39,6 +40,7 @@ end if
 @login
 {
 label recheck
+set logck @env.textlog
 if CHAINING == 1
 	if logck >= "You have no \'chain\' to equip."
 		"/bag /remove /exact chain \r"
