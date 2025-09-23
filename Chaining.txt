@@ -1,3 +1,6 @@
+// control-click on someone to chain them
+// right click self to swapback to the item you where holding before chain was equiped
+
 SETGLOBAL CHAINING 0
 
 control-click
@@ -9,22 +12,55 @@ if CHAINING == 0
 end if
 	if @my.right_item != chain
 			setglobal CHAINING 1
-				"/equip " chain "\r"
-					"/use " @click.simple_name " \r"
+				label chainer
+					"/equip " chain "\r"
+						"/use " @click.simple_name " \r"
+							pause 3
+								label check1
+									if logck >= "You have no \'chain\' to equip."
+										"/bag /remove /exact chain \r"
+											pause 3
+												if logck >= "* Could not find an item named \"chain\"."
+													message "* NO CHAINS LEFT TO USE!"
+														setglobal CHAINING 0
+												else
+													goto chainer
+												end if
+								end if
+	end if
+end if
 	else
 	if @my.right_item == chain
 			setglobal CHAINING 1
 				"/use " @click.simple_name " \r"
 	end if
-end if
 }
 
-control-F1
+@login
 {
+label recheck
 if CHAINING == 1
-	setglobal CHAINING 0 
-		if swaoback != ""
-			"/equip " swaoback "\r"
-		end if
+	if logck >= "You have no \'chain\' to equip."
+		"/bag /remove /exact chain \r"
+			pause 3
+				if logck >= "* Could not find an item named \"chain\"."
+					message "* NO CHAINS LEFT TO USE!"
+						setglobal CHAINING 0
+	end if
+end if
+pause 3
+goto recheck
+}
+
+click2
+{
+set click2ck @clicksplayer
+if CHAINING == 1
+	if click2ck == @my.simple_name
+		setglobal CHAINING 0 
+			if swaoback != ""
+				"/equip " swaoback "\r"
+			end if
+	end if
 end if
 }
