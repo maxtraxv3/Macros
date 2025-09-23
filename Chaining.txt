@@ -27,13 +27,13 @@ end if
 												else
 													goto chainer
 												end if
-								end if
+									end if
 	end if
-end if
 	else
-	if @my.right_item == chain
-			setglobal CHAINING 1
-				"/use " @click.simple_name " \r"
+		if @my.right_item == chain
+				setglobal CHAINING 1
+					"/use " @click.simple_name " \r"
+		end if
 	end if
 }
 
