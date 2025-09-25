@@ -1,9 +1,39 @@
-// control-click on someone to chain them
-// right click self to swapback to the item you where holding before chain was equiped
+//	control-right click on someone to chain them
+//	control-right click on someone a second time to pull them (if you have them on chain)
+//	control-right click on self to swapback to the item you where holding before chain was equiped
 
 SETGLOBAL CHAINING 0
 
-control-click
+@login
+{
+message "Chain break cheaker ON!"
+label constantcheck
+set logck @env.textlog
+if CHAINING == 1
+	if logck >= "A link in your chain shatters."
+		goto newchain
+	else if logck >= "Your chain breaks as you try to use it."
+		goto newchain
+	end if
+	goto constantcheck
+label newchain
+message "* New Chain"
+	"/equip " chain "\r"
+		"/use \r"
+			pause 3
+				if logck >= "You have no \'chain\' to equip."
+					"/bag /remove /exact chain \r"
+						pause 3
+							if logck >= "* Could not find an item named \"chain\"."
+								message "* NO CHAINS!"
+									setglobal CHAINING 0
+	end if
+end if
+pause 3
+	goto constantcheck
+}
+
+control-click2
 {
 set logck @env.textlog
 if CHAINING == 0
@@ -16,28 +46,34 @@ end if
 				label chainer
 					"/equip " chain "\r"
 						"/use " @click.simple_name " \r"
-							pause 3
-								label check1
-									if logck >= "You have no \'chain\' to equip."
-										"/bag /remove /exact chain \r"
-											pause 3
-												if logck >= "* Could not find an item named \"chain\"."
-													message "* NO CHAINS LEFT TO USE!"
-														setglobal CHAINING 0
-												else
-													goto chainer
-												end if
+							set lastclicked @click.simple_name
+								pause 3
+									label check1
+										if logck >= "You have no \'chain\' to equip."
+											"/bag /remove /exact chain \r"
+												pause 3
+													if logck >= "* Could not find an item named \"chain\"."
+														message "* NO CHAINS LEFT TO USE!"
+															setglobal CHAINING 0
+													else
+														goto chainer
+													end if
 									end if
 	end if
 	else
 		if @my.right_item == chain
 				setglobal CHAINING 1
-					"/use " @click.simple_name " \r"
+				if lastclicked == @click.simple_name
+					"/pull " lastclicked " \r"
+					else
+						"/use " @click.simple_name " \r"
+							set lastclicked @click.simple_name
+				end if
 		end if
 	end if
 }
 
-click2
+control-click2
 {
 set click2ck @clicksplayer
 if CHAINING == 1
