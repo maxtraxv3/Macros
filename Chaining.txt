@@ -14,6 +14,8 @@ if CHAINING == 1
 		goto newchain
 	else if logck >= "Your chain breaks as you try to use it."
 		goto newchain
+	else if logck >= "Your chain flies apart from the stress."
+		goto newchain
 	else if logck >= "is already on a chain."
 		goto pullme
 	end if
