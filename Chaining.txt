@@ -14,6 +14,8 @@ if CHAINING == 1
 		goto newchain
 	else if logck >= "Your chain breaks as you try to use it."
 		goto newchain
+	else if logck >= "is already on a chain."
+		goto pullme
 	end if
 	goto constantcheck
 label newchain
@@ -27,10 +29,13 @@ message "* New Chain"
 							if logck >= "* Could not find an item named \"chain\"."
 								message "* NO CHAINS!"
 									setglobal CHAINING 0
-	end if
-end if
+							end if
+				end if
 pause 3
 	goto constantcheck
+label pullme
+	"/pull " @click.simple_name " \r"
+goto constantcheck
 }
 
 control-click2
