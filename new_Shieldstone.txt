@@ -21,7 +21,8 @@ Equip
 bagpull
 {
 "/bag /remove /exact shieldstone \r"
-	call Equip
+	pause 4
+		call Equip
 }
 
 F4
