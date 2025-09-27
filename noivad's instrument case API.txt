@@ -121,7 +121,7 @@ if @my.right_item != songInstrument
     "/useitem instrument case /remove " songInstrument "\r"
 		//pause 3
 			//if @env.textLog >= "<insert no instrument message here>"
-			//	goto end
+			//	goto endnoitem
 			//end if
     setglobal rSave @my.right_item
     "/equip " songInstrument "\r"
@@ -133,6 +133,8 @@ if @my.right_item != songInstrument
 end if
 label end
 message "instrument case needs to be in your inventory"
+label endnoitem
+message "no instrument found in your inventory"
 }
 
 storeInstrument
