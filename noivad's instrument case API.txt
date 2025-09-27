@@ -151,7 +151,7 @@ if @my.left_item != "instrument case"
 						end if
 			end if
     "/useitem instrument case /add " songInstrument "\r"
-	if lSave != ""
+	if rSave != ""
 		if rSave != "Nothing"
 			"/equip " rSave "\r"
 		end if
