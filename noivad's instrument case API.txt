@@ -1,5 +1,22 @@
-// noivad's instrument case API 0.2
+// noivad's instrument case API 0.3
 // Modifyed by Magnic
+
+// how to use
+// rSave and lSave are right and left items
+// witch are saved when using most of these commands.
+// so "/equip " rSave "\r" would re-equip right hand item.
+
+// "grabInstrument" call will get any item "setglobal" as the songInstrument I.E: setglobal songInstrument "pine flute" 
+// and equip it, saving left hand and right hand item, if you need to swapback to it after I.E: "/equip " rSave "\r"
+
+// "storeInstrument" will store the "songInstrument" you "setglobal" to your instrument case, given instrument case exists in your inventory.
+
+// "/remove <item name>" will remove any instrument from a instrument case, given it exists in the instrument case.
+
+// "/add <item name>" will add it to any instrument in your inventory to a instrument case, given instrument case exists in your inventory.
+
+// "/store" will automadicly store the instrument in your hand to your instrument case, given instrument case exists in your inventory.
+
 /* ** Instrument Case Uses ** /
 /
 "/remove" call REMOVE
@@ -17,17 +34,21 @@ if @my.left_item != "instrument case"
 							goto end
 						end if
 			end if
-	if text != ""
+	if @text != ""
     "/useitem instrument case /remove " @text "\r"
     pause 10
-    "/equip " lSave "\r"
+	if lSave != ""
+		if lSave != "Nothing"
+			"/equip " lSave "\r"
+		end if
+    end if
     "/equip " @text "\r"
 	else
 		message " reminder: /remove <item name>"
 	end if
 end if
 label end
-message "instrument needs to be in your inventory"
+message "instrument case needs to be in your inventory"
 }
 
 "/add" call ADD
@@ -47,10 +68,14 @@ if @my.left_item != "instrument case"
 			end if
     "/useitem instrument case /add " @text "\r"
     pause 10
-    "/equip " lSave "\r"
+	if lSave != ""
+		if lSave != "Nothing"
+			"/equip " lSave "\r"
+		end if
+    end if
 end if
 label end
-message "instrument needs to be in your inventory"
+message "instrument case needs to be in your inventory"
 }
 
 "/store" call STORE //Stores what instrument is in your hand
@@ -58,7 +83,7 @@ message "instrument needs to be in your inventory"
 STORE
 {
 if @my.left_item != "instrument case"
-    setglobal lSave @my.left_item
+	setglobal lSave @my.left_item
     "/equip instrument case\r"
 		pause 3
 			if @env.textLog >= "You have no \'instrument case\' to equip."
@@ -70,10 +95,14 @@ if @my.left_item != "instrument case"
 			end if
     "/useitem instrument case /add " @my.right_item "\r"
     pause 10
-    "/equip " lSave "\r"
+	if lSave != ""
+		if lSave != "Nothing"
+			"/equip " lSave "\r"
+		end if
+    end if
 end if
 label end
-message "instrument needs to be in your inventory"
+message "instrument case needs to be in your inventory"
 }
 
 grabInstrument
@@ -96,10 +125,14 @@ if @my.right_item != songInstrument
 			//end if
     setglobal rSave @my.right_item
     "/equip " songInstrument "\r"
-    "/equip " lSave " \r"
+	if lSave != ""
+		if lSave != "Nothing"
+			"/equip " lSave "\r"
+		end if
+    end if
 end if
 label end
-message "instrument needs to be in your inventory"
+message "instrument case needs to be in your inventory"
 }
 
 storeInstrument
@@ -116,16 +149,20 @@ if @my.left_item != "instrument case"
 						end if
 			end if
     "/useitem instrument case /add " songInstrument "\r"
-    if rSave != "Nothing"
-        "/equip " rSave "\r"
+	if lSave != ""
+		if rSave != "Nothing"
+			"/equip " rSave "\r"
+		end if
     end if
     pause 5
-    if lSave != "Nothing"
-        "/equip " lSave "\r"
+	if lSave != ""
+		if lSave != "Nothing"
+			"/equip " lSave "\r"
+		end if
     end if
 end if
 label end
-message "instrument needs to be in your inventory"
+message "instrument case needs to be in your inventory"
 }
 
 findinbag
