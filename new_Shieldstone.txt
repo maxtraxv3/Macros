@@ -1,0 +1,35 @@
+@login
+{
+label start
+set lock @env.textLog
+if logck >= "Your Shieldstone goes inert"
+	call Equip
+else if logck >= "You have no \'Shieldstone\' to equip."
+	call bagpull
+else if logck >= "* Could not find an item named \"shieldstone\"."
+	message "* out of shieldstone\'s"
+end if
+goto start
+}
+
+Equip
+{
+"/equip shieldstone\r"
+"/useitem shieldstone\r"
+}
+
+bagpull
+{
+"/bag /remove /exact shieldstone \r"
+	call Equip
+}
+
+F4
+{
+if @my.finger_item != "Shieldstone"
+	"/equip shieldstone\r"
+		call Equip
+else if @my.finger_item == "Shieldstone"
+	"/unequip shieldstone\r"
+end if
+}
