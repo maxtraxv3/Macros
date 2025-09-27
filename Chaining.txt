@@ -58,7 +58,7 @@ end if
 									label check1
 										if logck >= "You have no \'chain\' to equip."
 											"/bag /remove /exact chain \r"
-												pause 3
+												pause 4
 													if logck >= "* Could not find an item named \"chain\"."
 														message "* NO CHAINS LEFT TO USE!"
 															setglobal CHAINING 0
