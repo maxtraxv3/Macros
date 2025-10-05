@@ -143,7 +143,8 @@ if chklog == 1
 	if logck >= "There is nothing I can teach you."
 		message "*" nameck ": MAXED."
 	end if
-		goto lestart
+		pause 1 // this will need to be set to 2 on mac.
+			goto lestart
 else
 	goto end
 end if
