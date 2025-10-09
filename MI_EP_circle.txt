@@ -1,0 +1,10 @@
+"/conf"
+{
+message "* Conference Circle:"
+message "* North - Tenebrion (TI)"
+message "* Northeast - Umbrion (KI)"
+message "* Southeast - Lugubrion (Main island, Marsh)"
+message "* South - Melabrion (MI)"
+message "* Southwest - Sombrion (above BP to the north)"
+message "* Northwest - Cimmbrion (CI)"
+}
