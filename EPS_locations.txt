@@ -1,0 +1,504 @@
+setglobal portalloc 10
+setglobal tetheredloc 14
+setglobal tetherednum 18
+
+"/eps"
+{
+message "* EPS locations Started"
+if logck.word[2] >= "*"
+	setglobal portalloc 8
+	setglobal tetheredloc 12
+	setglobal tetherednum 16
+end if
+label loopstart
+set logck @env.textlog
+if logck >= "You open an ethereal portal to current sector of the"
+	message "* Kyuem Snell"
+	pause 3
+end if
+if logck >= "You open an ethereal portal to the Ruby sector"
+	if logck.word[10] == first
+		message "* Ruby: 1"
+	else if logck.word[10] == second
+		message "* Ruby: 2"
+	else if logck.word[10] == third
+		message "* Ruby: 3"
+	else if logck.word[10] == fourth
+		message "* Ruby: 4"
+	else if logck.word[10] == fifth
+		message "* Ruby: 5"
+	else if logck.word[10] == sixth
+		message "* Ruby: 6"
+	else if logck.word[10] == seventh
+		message "* Ruby: 7"
+		message "* Ash Kyuem -> NW is TI Kyuem"
+	else if logck.word[10] == eighth
+		message "* Ruby: 8"
+	else if logck.word[10] == ninth
+		message "* Ruby: 9"
+	end if
+	pause 3
+end if
+if logck >= "You open an ethereal portal to the Garnet sector"
+	if logck.word[10] == first
+		message "* Garnet: 1"
+	else if logck.word[10] == second
+		message "* Garnet: 2"
+	else if logck.word[10] == third
+		message "* Garnet: 3"
+		message "* Dal'Noth Kyuem"
+	else if logck.word[10] == fourth
+		message "* Garnet: 4"
+		message "* Gungla Kyuem"
+	else if logck.word[10] == fifth
+		message "* Garnet: 5"
+	else if logck.word[10] == sixth
+		message "* Garnet: 6"
+	else if logck.word[10] == seventh
+		message "* Garnet: 7"
+	else if logck.word[10] == eighth
+		message "* Garnet: 8"
+	else if logck.word[10] == ninth
+		message "* Garnet: 9"
+	end if
+	pause 3
+end if
+if logck >= "You open an ethereal portal to the Amethyst sector"
+	if logck.word[10] == first
+		message "* Amethyst: 1"
+	else if logck.word[10] == second
+		message "* Amethyst: 2"
+	else if logck.word[10] == third
+		message "* Amethyst: 3"
+		message "* CD Kyuem"
+	else if logck.word[10] == fourth
+		message "* Amethyst: 4"
+	else if logck.word[10] == fifth
+		message "* Amethyst: 5"
+	else if logck.word[10] == sixth
+		message "* Amethyst: 6"
+	else if logck.word[10] == seventh
+		message "* Amethyst: 7"
+	else if logck.word[10] == eighth
+		message "* Amethyst: 8"
+	else if logck.word[10] == ninth
+		message "* Amethyst: 9"
+	end if
+	pause 3
+end if
+if logck >= "You open an ethereal portal to the Diamond sector"
+	if logck.word[10] == first
+		message "* Diamond: 1"
+	else if logck.word[10] == second
+		message "* Diamond: 2"
+	else if logck.word[10] == third
+		message "* Diamond: 3"
+	else if logck.word[10] == fourth
+		message "* Diamond: 4"
+	else if logck.word[10] == fifth
+		message "* Diamond: 5"
+	else if logck.word[10] == sixth
+		message "* Diamond: 6"
+	else if logck.word[10] == seventh
+		message "* Diamond: 7"
+	else if logck.word[10] == eighth
+		message "* Diamond: 8"
+	else if logck.word[10] == ninth
+		message "* Diamond: 9"
+	end if
+	pause 3
+end if
+if logck >= "You open an ethereal portal to the Sapphire sector"
+	if logck.word[10] == first
+		message "* Sapphire: 1"
+	else if logck.word[10] == second
+		message "* Sapphire: 2"
+	else if logck.word[10] == third
+		message "* Sapphire: 3"
+		message "* Ethereal Forge"
+	else if logck.word[10] == fourth
+		message "* Sapphire: 4"
+		message "* Portal Island"
+	else if logck.word[10] == fifth
+		message "* Sapphire: 5"
+		message "* Trading Post"
+	else if logck.word[10] == sixth
+		message "* Sapphire: 6"
+		message "* SF Kyuem"
+	else if logck.word[10] == seventh
+		message "* Sapphire: 7"
+	else if logck.word[10] == eighth
+		message "* Sapphire: 8"
+	else if logck.word[10] == ninth
+		message "* Sapphire: 9"
+		message "* Kizmia Kyuem"
+	end if
+	pause 3
+end if
+if logck >= "You open an ethereal portal to the Emerald sector"
+	if logck.word[10] == first
+		message "* Emerald: 1"
+	else if logck.word[10] == second
+		message "* Emerald: 2"
+	else if logck.word[10] == third
+		message "* Emerald: 3"
+	else if logck.word[10] == fourth
+		message "* Emerald: 4"
+	else if logck.word[10] == fifth
+		message "* Emerald: 5"
+		message "* GMV Kyuem"
+	else if logck.word[10] == sixth
+		message "* Emerald: 6"
+	else if logck.word[10] == seventh
+		message "* Emerald: 7"
+	else if logck.word[10] == eighth
+		message "* Emerald: 8"
+	else if logck.word[10] == ninth
+		message "* Emerald: 9"
+	end if
+	pause 3
+end if
+if logck >= "You open an ethereal portal to the Onyx sector"
+	if logck.word[10] == first
+		message "* Onyx: 1"
+	else if logck.word[10] == second
+		message "* Onyx: 2"
+	else if logck.word[10] == third
+		message "* Onyx: 3"
+		message "* Devil Kyuem"
+	else if logck.word[10] == fourth
+		message "* Onyx: 4"
+	else if logck.word[10] == fifth
+		message "* Onyx: 5"
+	else if logck.word[10] == sixth
+		message "* Onyx: 6"
+	else if logck.word[10] == seventh
+		message "* Onyx: 7"
+	else if logck.word[10] == eighth
+		message "* Onyx: 8"
+	else if logck.word[10] == ninth
+		message "* Onyx: 9"
+	end if
+	pause 3
+end if
+if logck >= "You open an ethereal portal to the Opal sector"
+	if logck.word[10] == first
+		message "* Opal: 1"
+	else if logck.word[10] == second
+		message "* Opal: 2"
+	else if logck.word[10] == third
+		message "* Opal: 3"
+	else if logck.word[10] == fourth
+		message "* Opal: 4"
+	else if logck.word[10] == fifth
+		message "* Opal: 5"
+	else if logck.word[10] == sixth
+		message "* Opal: 6"
+	else if logck.word[10] == seventh
+		message "* Opal: 7"
+	else if logck.word[10] == eighth
+		message "* Opal: 8"
+	else if logck.word[10] == ninth
+		message "* Opal: 9"
+	end if
+	pause 3
+end if
+if logck >= "You open an ethereal portal to the Topaz sector"
+	if logck.word[10] == first
+		message "* Topaz: 1"
+	else if logck.word[10] == second
+		message "* Topaz: 2"
+	else if logck.word[10] == third
+		message "* Topaz: 3"
+	else if logck.word[10] == fourth
+		message "* Topaz: 4"
+	else if logck.word[10] == fifth
+		message "* Topaz: 5"
+	else if logck.word[10] == sixth
+		message "* Topaz: 6"
+	else if logck.word[10] == seventh
+		message "* Topaz: 7"
+		message "* TI Kyuem -> SE is Ash Kyuem"
+	else if logck.word[10] == eighth
+		message "* Topaz: 8"
+		message "* Metz Kyuem"
+	else if logck.word[10] == ninth
+		message "* Topaz: 9"
+	end if
+	pause 3
+end if
+//tethers
+if logck >= "You open a portal tethered to your location"
+	if logck.word[tetheredloc] == Ruby
+		if logck.word[tetherednum] == first
+			message "* Ruby: 1"
+			message "* Ethereal Tower"
+		else if logck.word[tetherednum] == second
+			message "* Ruby: 2"
+			message "* Skull Square and CD Kyuem"
+		else if logck.word[tetherednum] == third
+			message "* Ruby: 3"
+			message "* Noth and DI Kyuems"
+		else if logck.word[tetherednum] == fourth
+			message "* Ruby: 4"
+			message "* NW of PI Entrance"
+		else if logck.word[tetherednum] == fifth
+			message "* Ruby: 5"
+			message "* GMV Kyuem"
+		else if logck.word[tetherednum] == sixth
+			message "* Ruby: 6"
+			message "* South Forest Kyuem"
+		else if logck.word[tetherednum] == seventh
+			message "* Ruby: 7"
+			message "* Ash and TI Kyuems"
+		else if logck.word[tetherednum] == eighth
+			message "* Ruby: 8"
+			message "* Metz Kyuem"
+		else if logck.word[tetherednum] == ninth
+			message "* Ruby: 9"
+			message "* Kizmia Kyuem"
+		end if
+	else if logck.word[tetheredloc] == Garnet
+		if logck.word[tetherednum] == first
+			message "* Garnet: 1"
+			message "* Ethereal Tower"
+		else if logck.word[tetherednum] == second
+			message "* Garnet: 2"
+			message "* Skull Square and CD Kyuem"
+		else if logck.word[tetherednum] == third
+			message "* Garnet: 3"
+			message "* Noth and DI Kyuems"
+		else if logck.word[tetherednum] == fourth
+			message "* Garnet: 4"
+			message "* N of PI Entrance"
+		else if logck.word[tetherednum] == fifth
+			message "* Garnet: 5"
+			message "* GMV Kyuem"
+		else if logck.word[tetherednum] == sixth
+			message "* Garnet: 6"
+			message "* South Forest Kyuem"
+		else if logck.word[tetherednum] == seventh
+			message "* Garnet: 7"
+			message "* Ash and TI Kyuems"
+		else if logck.word[tetherednum] == eighth
+			message "* Garnet: 8"
+			message "* Metz Kyuem"
+		else if logck.word[tetherednum] == ninth
+			message "* Garnet: 9"
+			message "* Kizmia Kyuem"
+		end if
+	end if
+	else if logck.word[tetheredloc] == Amethyst
+		if logck.word[tetheredloc] == first
+			message "* Amethyst: 1"
+			message "* Ethereal Tower"
+		else if logck.word[tetherednum] == second
+			message "* Amethyst: 2"
+			message "* Skull Square and CD Kyuem"
+		else if logck.word[tetherednum] == third
+			message "* Amethyst: 3"
+			message "* Noth and DI Kyuems"
+		else if logck.word[tetherednum] == fourth
+			message "* Amethyst: 4"
+			message "* NE of PI Entrance"
+		else if logck.word[tetherednum] == fifth
+			message "* Amethyst: 5"
+			message "* GMV Kyuem"
+		else if logck.word[tetherednum] == sixth
+			message "* Amethyst: 6"
+			message "* South Forest Kyuem"
+		else if logck.word[tetherednum] == seventh
+			message "* Amethyst: 7"
+			message "* Ash and TI Kyuems"
+		else if logck.word[tetherednum] == eighth
+			message "* Amethyst: 8"
+			message "* Metz Kyuem"
+		else if logck.word[tetherednum] == ninth
+			message "* Amethyst: 9"
+			message "* Kizmia Kyuem"
+		end if
+	end if
+	else if logck.word[tetheredloc] == Diamond
+		if logck.word[tetherednum] == first
+			message "* Diamond: 1"
+			message "* Ethereal Tower"
+		else if logck.word[tetherednum] == second
+			message "* Diamond: 2"
+			message "* Skull Square and CD Kyuem"
+		else if logck.word[tetherednum] == third
+			message "* Diamond: 3"
+			message "* Noth and DI Kyuems"
+		else if logck.word[tetherednum] == fourth
+			message "* Diamond: 4"
+			message "* W of PI Entrance"
+		else if logck.word[tetherednum] == fifth
+			message "* Diamond: 5"
+			message "* GMV Kyuem"
+		else if logck.word[tetherednum] == sixth
+			message "* Diamond: 6"
+			message "* South Forest Kyuem"
+		else if logck.word[tetherednum] == seventh
+			message "* Diamond: 7"
+			message "* Ash and TI Kyuems"
+		else if logck.word[tetherednum] == eighth
+			message "* Diamond: 8"
+			message "* Metz Kyuem"
+		else if logck.word[tetherednum] == ninth
+			message "* Diamond: 9"
+			message "* Kizmia Kyuem"
+		end if
+	end if
+	else if logck.word[tetheredloc] == Sapphire
+		if logck.word[tetherednum] == first
+			message "* Sapphire: 1"
+			message "* Ethereal Tower"
+		else if logck.word[tetherednum] == second
+			message "* Sapphire: 2"
+			message "* Skull Square and CD Kyuem"
+		else if logck.word[tetherednum] == third
+			message "* Sapphire: 3"
+			message "* Noth and DI Kyuems"
+		else if logck.word[tetherednum] == fourth
+			message "* Sapphire: 4"
+			message "* At PI Entrance"
+		else if logck.word[tetherednum] == fifth
+			message "* Sapphire: 5"
+			message "* GMV Kyuem"
+		else if logck.word[tetherednum] == sixth
+			message "* Sapphire: 6"
+			message "* South Forest Kyuem"
+		else if logck.word[tetherednum] == seventh
+			message "* Sapphire: 7"
+			message "* Ash and TI Kyuems"
+		else if logck.word[tetherednum] == eighth
+			message "* Sapphire: 8"
+			message "* Metz Kyuem"
+		else if logck.word[tetherednum] == ninth
+			message "* Sapphire: 9"
+			message "* Kizmia Kyuem"
+		end if
+	end if
+	else if logck.word[tetheredloc] == Emerald
+		if logck.word[tetherednum] == first
+			message "* Emerald: 1"
+			message "* Ethereal Tower"
+		else if logck.word[tetherednum] == second
+			message "* Emerald: 2"
+			message "* Skull Square and CD Kyuem"
+		else if logck.word[tetherednum] == third
+			message "* Emerald: 3"
+			message "* Noth and DI Kyuems"
+		else if logck.word[tetherednum] == fourth
+			message "* Emerald: 4"
+			message "* E of PI Entrance"
+		else if logck.word[tetherednum] == fifth
+			message "* Emerald: 5"
+			message "* GMV Kyuem"
+		else if logck.word[tetherednum] == sixth
+			message "* Emerald: 6"
+			message "* South Forest Kyuem"
+		else if logck.word[tetherednum] == seventh
+			message "* Emerald: 7"
+			message "* Ash and TI Kyuems"
+		else if logck.word[tetherednum] == eighth
+			message "* Emerald: 8"
+			message "* Metz Kyuem"
+		else if logck.word[tetherednum] == ninth
+			message "* Emerald: 9"
+			message "* Kizmia Kyuem"
+		end if
+	end if
+	else if logck.word[tetheredloc] == Onyx
+		if logck.word[tetherednum] == first
+			message "* Onyx: 1"
+			message "* Ethereal Tower"
+		else if logck.word[tetherednum] == second
+			message "* Onyx: 2"
+			message "* Skull Square and CD Kyuem"
+		else if logck.word[tetherednum] == third
+			message "* Onyx: 3"
+			message "* Noth and DI Kyuems"
+		else if logck.word[tetherednum] == fourth
+			message "* Onyx: 4"
+			message "* SW of PI Entrance"
+		else if logck.word[tetherednum] == fifth
+			message "* Onyx: 5"
+			message "* GMV Kyuem"
+		else if logck.word[tetherednum] == sixth
+			message "* Onyx: 6"
+			message "* South Forest Kyuem"
+		else if logck.word[tetherednum] == seventh
+			message "* Onyx: 7"
+			message "* Ash and TI Kyuems"
+		else if logck.word[tetherednum] == eighth
+			message "* Onyx: 8"
+			message "* Metz Kyuem"
+		else if logck.word[tetherednum] == ninth
+			message "* Onyx: 9"
+			message "* Kizmia Kyuem"
+		end if
+	end if
+	else if logck.word[tetheredloc] == Opal
+		if logck.word[tetherednum] == first
+			message "* Opal: 1"
+			message "* Ethereal Tower"
+		else if logck.word[tetherednum] == second
+			message "* Opal: 2"
+			message "* Skull Square and CD Kyuem"
+		else if logck.word[tetherednum] == third
+			message "* Opal: 3"
+			message "* Noth and DI Kyuems"
+		else if logck.word[tetherednum] == fourth
+			message "* Opal: 4"
+			message "* S of PI Entrance"
+		else if logck.word[tetherednum] == fifth
+			message "* Opal: 5"
+			message "* GMV Kyuem"
+		else if logck.word[tetherednum] == sixth
+			message "* Opal: 6"
+			message "* South Forest Kyuem"
+		else if logck.word[tetherednum] == seventh
+			message "* Opal: 7"
+			message "* Ash and TI Kyuems"
+		else if logck.word[tetherednum] == eighth
+			message "* Opal: 8"
+			message "* Metz Kyuem"
+		else if logck.word[tetherednum] == ninth
+			message "* Opal: 9"
+			message "* Kizmia Kyuem"
+		end if
+	end if
+	else if logck.word[tetheredloc] == "Topaz"
+		if logck.word[tetherednum] == "first"
+			message "* Topaz: 1"
+			message "* Ethereal Tower"
+		else if logck.word[tetherednum] == second
+			message "* Topaz: 2"
+			message "* Skull Square and CD Kyuem"
+		else if logck.word[tetherednum] == third
+			message "* Topaz: 3"
+			message "* Noth and DI Kyuems"
+		else if logck.word[tetherednum] == fourth
+			message "* Topaz: 4"
+			message "* SE of PI Entrance"
+		else if logck.word[tetherednum] == fifth
+			message "* Topaz: 5"
+			message "* GMV Kyuem"
+		else if logck.word[tetherednum] == sixth
+			message "* Topaz: 6"
+			message "* South Forest Kyuem"
+		else if logck.word[tetherednum] == seventh
+			message "* Topaz: 7"
+			message "* Ash and TI Kyuems"
+		else if logck.word[tetherednum] == eighth
+			message "* Topaz: 8"
+			message "* Metz Kyuem"
+		else if logck.word[tetherednum] == ninth
+			message "* Topaz: 9"
+			message "* Kizmia Kyuem"
+		end if
+	end if
+	pause 3
+end if
+goto loopstart
+}
