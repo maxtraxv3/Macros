@@ -10,6 +10,7 @@ else if chklog == 0
 end if
 label lestart
 set logck @env.textLog
+set nameck @env.textLog.word[2]
 if chklog == 1
 	if logck >= "You have much to learn."
 		message "*" nameck ": 0-9."
@@ -132,13 +133,34 @@ if chklog == 1
 		message "*" nameck ": 5250-5499."
 	end if
 	if logck >= "Your skill is a beacon to all."
-		message "*" nameck ": 5500-5750."
+		message "*" nameck ": 5500-5749."
+	end if
+	if logck >= "You are an icon of greatness."
+		message "*" nameck ": 5750-5999."
 	end if
 	if logck >= "Your path is ablaze with glory."
-		message "*" nameck ": 6000+."
+		message "*" nameck ": 6000-6499."
 	end if
-	if logck >= "You are enlightened beyond measure."
-		message "*" nameck ": 7000+."
+	if logck >= "Your prowess is legendary."
+		message "*" nameck ": 6500-6999."
+	end if
+	if logck >= "Myths are made by your mastery."
+		message "*" nameck ": 7000-7499."
+	end if
+	if logck >= "We whisper with wonder at your name."
+		message "*" nameck ": 7500-7999."
+	end if
+	if logck >= "Your skill surpasses my own."
+		message "*" nameck ": 8000-8499."
+	end if
+	if logck >= "I am humbled to have taught you."
+		message "*" nameck ": 8500-8999."
+	end if
+	if logck >= "You know the deepest secrets of our craft."
+		message "*" nameck ": 9000-9999."
+	end if
+	if logck >= "You know the deepest secrets of our craft."
+		message "*" nameck ": 10000-????."
 	end if
 	if logck >= "There is nothing I can teach you."
 		message "*" nameck ": MAXED."
