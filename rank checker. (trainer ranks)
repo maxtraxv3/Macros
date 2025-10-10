@@ -5,7 +5,7 @@ set logck @env.textLog
 if chklog == 1
 	setglobal chklog 0
 		goto end
-else if chklog == 0
+else
 	setglobal chklog 1
 		message "* !-rank check on-!"
 			if logck.word[0] >= "*"
@@ -175,7 +175,7 @@ if chklog == 1
 		message "*" nameck ": MAXED."
 	end if
 // weapon messages that are not already in main part
-		if logck >= "You feel you have much to learn."
+	if logck >= "You feel you have much to learn."
 		message "*" nameck ": 0-9"
 	end if
 	if logck >= "You feel tolerably skilled."
