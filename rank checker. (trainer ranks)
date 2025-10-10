@@ -1,19 +1,24 @@
 "/rankck"
 {
+set wordnumb 2
+set logck @env.textLog
 if chklog == 1
 	setglobal chklog 0
 		goto end
 else if chklog == 0
 	setglobal chklog 1
 		message "* !-rank check on-!"
-			goto lestart
+			if logck.word[0] >= "*"
+				set wordnumb 0
+			end if
+				goto lestart
 end if
 label lestart
 set logck @env.textLog
-if @env.textLog.word[2] >= nameck
+if @env.textLog.word[wordnumb] >= nameck
 	set nameck @my.right_item
 else
-	set nameck @env.textLog.word[2]
+	set nameck @env.textLog.word[wordnumb]
 end if
 if chklog == 1
 	if logck >= "You have much to learn."
