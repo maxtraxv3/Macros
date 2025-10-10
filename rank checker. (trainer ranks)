@@ -10,7 +10,11 @@ else if chklog == 0
 end if
 label lestart
 set logck @env.textLog
-set nameck @env.textLog.word[2]
+if @env.textLog.word[2] >= nameck
+	set nameck @my.right_item
+else
+	set nameck @env.textLog.word[2]
+end if
 if chklog == 1
 	if logck >= "You have much to learn."
 		message "*" nameck ": 0-9."
@@ -164,6 +168,46 @@ if chklog == 1
 	end if
 	if logck >= "There is nothing I can teach you."
 		message "*" nameck ": MAXED."
+	end if
+// weapon messages that are not already in main part
+		if logck >= "You feel you have much to learn."
+		message "*" nameck ": 0-9"
+	end if
+	if logck >= "You feel tolerably skilled."
+		message "*" nameck ": 10-19"
+	end if
+	if logck >= "You are becoming proficient."
+		message "*" nameck ": 40-49"
+	end if
+	if logck >= "You have learned much."
+		message "*" nameck ": 50-99"
+	end if
+	if logck >= "You have become skilled."
+		message "*" nameck ": 100-149"
+	end if
+	if logck >= "You have become very skilled."
+		message "*" nameck ": 150-199"
+	end if
+	if logck >= "Learning more is a challenge."
+		message "*" nameck ": 200-249"
+	end if
+	if logck >= "You have attained great skill."
+		message "*" nameck ": 250-299"
+	end if
+	if logck >= "You are becoming an expert."
+		message "*" nameck ": 300-349"
+	end if
+	if logck >= "You are close to attaining mastery."
+		message "*" nameck ": 400-449"
+	end if
+	if logck >= "Your expertise is unquestionable."
+		message "*" nameck ": 800-899"
+	end if
+	if logck >= "Few if any are your equal."
+		message "*" nameck ": 1000-1249"
+	end if
+	if logck >= "Your skill astounds me."
+		message "*" nameck ": 1500-1749"
 	end if
 		pause 1 // this will need to be set to 2 on mac.
 			goto lestart
