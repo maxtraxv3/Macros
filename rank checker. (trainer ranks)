@@ -205,6 +205,18 @@ if chklog == 1
 	if logck >= "You are close to attaining mastery."
 		message "*" nameck ": 400-449"
 	end if
+	if logck >= "You are becoming a master of your art."
+		message "*" nameck ": 500-549"
+	end if
+	if logck >= "You are a credit to your craft."
+		message "*" nameck ": 650-699"
+	end if
+	if logck >= "Your devotion to your craft is exemplary."
+		message "*" nameck ": 750-799"
+	end if
+	if logck >= "Your devotion to your craft is exemplary."
+		message "*" nameck ": 750-799"
+	end if
 	if logck >= "Your expertise is unquestionable."
 		message "*" nameck ": 800-899"
 	end if
