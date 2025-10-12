@@ -1,0 +1,281 @@
+
+5/2/25 7:16:50a * Your healer's shirt is in very good condition.
+5/2/25 7:16:50a * Your pair of second-circle pants named “white” is in very good condition.
+5/2/25 7:16:50a Welcome to Clan Lord, Cat Food!
+5/2/25 7:16:50a Type \HELP for a list of commands.
+5/2/25 7:16:50a • You gain experience from your recent studies.
+5/2/25 7:16:50a *Healer Mode
+5/2/25 7:16:50a *Type /hi help for more info
+5/2/25 7:16:50a The healing spell has started.
+5/2/25 7:16:50a You have been studying for 11 days, 20 hours, 47 minutes.
+5/2/25 7:16:53a It's 1:57am on Merdi, day 70 of Spring, 641.
+5/2/25 7:16:54a There are three members of Black Phoenix clanning: Grando, Mimo and you.
+5/2/25 7:16:54a • What’s New: https://deltatao.com/clanlord/news
+5/2/25 7:16:56a Friends online: none.
+5/2/25 7:17:04a * Tip of the day: The fairgrounds, southwest of town center, is a good place to hold out-of-character conversations. (Use /OPTIONS to turn tips off.)
+5/2/25 7:17:15a Shelka exclaims, "The things that come out of the well are disgusting!"
+5/2/25 7:18:04a •You seem to recover spiritual energy faster.
+5/2/25 7:18:04a * You need a breath of air!
+5/2/25 7:18:56a Grando is sharing experiences with you.
+5/2/25 7:19:21a Grando says, "c heal me"
+5/2/25 7:19:22a You have no 'asklepian staff' to equip.
+5/2/25 7:19:22a * Auto Healing Grando 
+5/2/25 7:19:23a * Auto Healing  
+5/2/25 7:19:23a • You begin radius healing.
+5/2/25 7:19:32a Grando says, "c heal grando"
+5/2/25 7:19:32a No player named 'healing.' found in the player list.
+5/2/25 7:19:32a You have no 'asklepian staff' to equip.
+5/2/25 7:19:32a * Auto Healing  
+5/2/25 7:19:33a • You stop radius healing.
+5/2/25 7:19:39a You have no 'asklepian staff' to equip.
+5/2/25 7:19:39a * Healing Grando 
+5/2/25 7:20:04a Grando says, "c heal grando"
+5/2/25 7:20:04a You have no 'asklepian staff' to equip.
+5/2/25 7:20:05a You have no 'asklepian staff' to equip.
+5/2/25 7:20:05a * Auto Healing Grando 
+5/2/25 7:20:05a You have 128 coins.
+5/2/25 7:20:38a Grando says, "c heal grando"
+5/2/25 7:20:38a No player named 'heal' found in the player list.
+5/2/25 7:20:38a You have no 'asklepian staff' to equip.
+5/2/25 7:20:38a * Auto Healing  
+5/2/25 7:20:38a • You begin radius healing.
+5/2/25 7:20:43a You have no 'asklepian staff' to equip.
+5/2/25 7:20:43a * Healing Grando 
+5/2/25 7:21:08a You have no 'asklepian staff' to equip.
+5/2/25 7:21:08a * Healing Mimo 
+5/2/25 7:21:23a Grando says, "c heal grando"
+5/2/25 7:21:24a You have no 'asklepian staff' to equip.
+5/2/25 7:21:24a You have no 'asklepian staff' to equip.
+5/2/25 7:21:24a * Auto Healing Grando 
+5/2/25 7:21:58a Grando says, "c heal grando"
+5/2/25 7:21:58a No player named 'heal' found in the player list.
+5/2/25 7:21:58a You have no 'asklepian staff' to equip.
+5/2/25 7:21:58a * Auto Healing  
+5/2/25 7:21:59a • You begin radius healing.
+5/2/25 7:22:02a Grando says, "c heal grando"
+5/2/25 7:22:02a No player named 'healing.' found in the player list.
+5/2/25 7:22:02a You have no 'asklepian staff' to equip.
+5/2/25 7:22:02a * Auto Healing  
+5/2/25 7:22:02a • You stop radius healing.
+5/2/25 7:22:05a Grando says, "c heal grando"
+5/2/25 7:22:05a No player named 'healing.' found in the player list.
+5/2/25 7:22:05a You have no 'asklepian staff' to equip.
+5/2/25 7:22:05a * Auto Healing  
+5/2/25 7:22:05a • You begin radius healing.
+5/2/25 7:22:10a * Healer Item set to asklepian 
+5/2/25 7:22:37a • There is nobody nearby enough to continue radius healing.
+5/2/25 7:23:16a You have 128 coins.
+5/2/25 7:23:23a Grando says, "c heal grando"
+5/2/25 7:23:23a No player named 'heal' found in the player list.
+5/2/25 7:23:24a * Auto Healing  
+5/2/25 7:23:24a • You begin radius healing.
+5/2/25 7:23:30a Grando says, "c heal grando"
+5/2/25 7:23:31a * Auto Healing Grando 
+5/2/25 7:23:33a Grando says, "c heal grando"
+5/2/25 7:23:34a * Auto Healing Grando 
+5/2/25 7:25:42a Grando says, "c heal grando"
+5/2/25 7:25:42a No player named 'heal' found in the player list.
+5/2/25 7:25:42a * Auto Healing  
+5/2/25 7:25:42a • You begin radius healing.
+5/2/25 7:25:45a Grando says, "c heal grando"
+5/2/25 7:25:45a * Auto Healing Grando 
+5/2/25 7:26:26a Grando says, "c heal grando"
+5/2/25 7:26:26a No player named 'heal' found in the player list.
+5/2/25 7:26:26a You have 128 coins.
+5/2/25 7:26:26a * Auto Healing  
+5/2/25 7:26:26a • You begin radius healing.
+5/2/25 7:26:32a * Healing Grando 
+5/2/25 7:27:04a Grando says, "c heal grando"
+5/2/25 7:27:05a * Auto Healing Grando 
+5/2/25 7:27:46a Grando says, "c heal grando"
+5/2/25 7:27:46a No player named 'heal' found in the player list.
+5/2/25 7:27:46a * Auto Healing  
+5/2/25 7:27:47a • You begin radius healing.
+5/2/25 7:27:50a Grando says, "c heal grando"
+5/2/25 7:27:50a No player named 'healing.' found in the player list.
+5/2/25 7:27:50a * Auto Healing  
+5/2/25 7:27:51a • You stop radius healing.
+5/2/25 7:27:53a Grando says, "c heal grando"
+5/2/25 7:27:53a * Auto Healing Grando 
+5/2/25 7:28:50a Grando says, "c heal grando"
+5/2/25 7:28:51a No player named 'heal' found in the player list.
+5/2/25 7:28:51a * Auto Healing  
+5/2/25 7:28:51a • You begin radius healing.
+5/2/25 7:28:55a * Healing Grando 
+5/2/25 7:29:14a * Healing Mimo 
+5/2/25 7:29:37a You have 128 coins.
+5/2/25 7:29:47a Grando says, "c heal grando"
+5/2/25 7:29:47a No player named 'coins.' found in the player list.
+5/2/25 7:29:48a * Auto Healing  
+5/2/25 7:29:48a • You begin radius healing.
+5/2/25 7:29:53a * Healing Grando 
+5/2/25 7:31:04a Grando says, "c heal grando"
+5/2/25 7:31:04a * Auto Healing Grando 
+5/2/25 7:32:00a Grando says, "c heal grando"
+5/2/25 7:32:00a * Auto Healing Grando 
+5/2/25 7:32:32a Grando says, "c heal grando"
+5/2/25 7:32:32a * Auto Healing Grando 
+5/2/25 7:32:49a You have 128 coins.
+5/2/25 7:32:57a Catan thinks, "fekk asleep I must have crossed witouht wiling"
+5/2/25 7:33:29a Grando says, "c heal grando"
+5/2/25 7:33:29a * Auto Healing Grando 
+5/2/25 7:34:00a * Healing Mimo 
+5/2/25 7:34:36a Grando says, "c heal grando"
+5/2/25 7:34:37a * Auto Healing Grando 
+5/2/25 7:35:23a Grando says, "c heal grando"
+5/2/25 7:35:24a * Auto Healing Grando 
+5/2/25 7:36:01a You have 128 coins.
+5/2/25 7:39:16a You have 128 coins.
+5/2/25 7:41:52a •The Sun rises.
+5/2/25 7:42:31a You have 128 coins.
+5/2/25 7:43:45a Grando says, "c heal grando"
+5/2/25 7:43:45a No player named 'heal' found in the player list.
+5/2/25 7:43:45a * Auto Healing  
+5/2/25 7:43:46a • You begin radius healing.
+5/2/25 7:43:51a * Healing Grando 
+5/2/25 7:44:55a Grando says, "c heal grando"
+5/2/25 7:44:56a * Auto Healing Grando 
+5/2/25 7:45:45a You have 128 coins.
+5/2/25 7:46:23a Grando says, "c heal grando"
+5/2/25 7:46:23a No player named 'heal' found in the player list.
+5/2/25 7:46:23a * Auto Healing  
+5/2/25 7:46:23a • You begin radius healing.
+5/2/25 7:46:26a Grando says, "c heal grando"
+5/2/25 7:46:27a No player named 'healing.' found in the player list.
+5/2/25 7:46:27a * Auto Healing  
+5/2/25 7:46:27a • You stop radius healing.
+5/2/25 7:46:28a Grando says, "c heal grando"
+5/2/25 7:46:29a * Auto Healing Grando 
+5/2/25 7:48:11a Grando says, "c heal grando"
+5/2/25 7:48:11a No player named 'heal' found in the player list.
+5/2/25 7:48:12a * Auto Healing  
+5/2/25 7:48:12a • You begin radius healing.
+5/2/25 7:48:16a Grando says, "c heal grando"
+5/2/25 7:48:17a No player named 'healing.' found in the player list.
+5/2/25 7:48:17a * Auto Healing  
+5/2/25 7:48:17a • You stop radius healing.
+5/2/25 7:48:22a Grando says, "c heal grando"
+5/2/25 7:48:22a No player named 'healing.' found in the player list.
+5/2/25 7:48:22a * Auto Healing  
+5/2/25 7:48:22a • You begin radius healing.
+5/2/25 7:48:24a Grando says, "c heal grando"
+5/2/25 7:48:24a * Auto Healing Grando 
+5/2/25 7:48:58a You have 128 coins.
+5/2/25 7:49:40a Grando says, "c heal grando"
+5/2/25 7:49:40a No player named 'heal' found in the player list.
+5/2/25 7:49:41a * Auto Healing  
+5/2/25 7:49:41a • You begin radius healing.
+5/2/25 7:49:43a Grando says, "c heal grando"
+5/2/25 7:49:43a * Auto Healing Grando 
+5/2/25 7:50:48a Grando says, "c heal grando"
+5/2/25 7:50:48a * Auto Healing Grando 
+5/2/25 7:51:42a * Healing Mimo 
+5/2/25 7:52:05a Grando says, "c heal grando"
+5/2/25 7:52:06a * Auto Healing Grando 
+5/2/25 7:52:09a You have 128 coins.
+5/2/25 7:52:58a Grando says, "c heal grando"
+5/2/25 7:52:58a No player named 'heal' found in the player list.
+5/2/25 7:52:58a * Auto Healing  
+5/2/25 7:52:58a • You begin radius healing.
+5/2/25 7:53:04a * Healing Grando 
+5/2/25 7:53:51a Grando says, "c heal grando"
+5/2/25 7:53:51a * Auto Healing Grando 
+5/2/25 7:55:20a You have 128 coins.
+5/2/25 7:58:33a You have 128 coins.
+5/2/25 8:01:46a You have 128 coins.
+5/2/25 8:04:59a You have 128 coins.
+5/2/25 8:08:12a You have 128 coins.
+5/2/25 8:09:40a Grando says, "c heal grando"
+5/2/25 8:09:40a No player named 'coins.' found in the player list.
+5/2/25 8:09:40a * Auto Healing  
+5/2/25 8:09:40a • You begin radius healing.
+5/2/25 8:09:44a Grando says, "c heal grando"
+5/2/25 8:09:44a No player named 'healing.' found in the player list.
+5/2/25 8:09:44a * Auto Healing  
+5/2/25 8:09:45a • You stop radius healing.
+5/2/25 8:09:46a Grando says, "c heal grando"
+5/2/25 8:09:47a No player named 'healing.' found in the player list.
+5/2/25 8:09:47a * Auto Healing  
+5/2/25 8:09:47a • You begin radius healing.
+5/2/25 8:09:49a Grando says, "c heal grando"
+5/2/25 8:09:49a No player named 'healing.' found in the player list.
+5/2/25 8:09:49a * Auto Healing  
+5/2/25 8:09:49a • You stop radius healing.
+5/2/25 8:09:51a Grando says, "c heal grando"
+5/2/25 8:09:51a * Auto Healing Grando 
+5/2/25 8:09:54a Grando says, "c heal grando"
+5/2/25 8:09:54a No player named 'heal' found in the player list.
+5/2/25 8:09:54a * Auto Healing  
+5/2/25 8:09:54a • You begin radius healing.
+5/2/25 8:10:02a * Healing Grando 
+5/2/25 8:11:24a You have 128 coins.
+5/2/25 8:11:26a Daerdain thinks, "stupid portal"
+5/2/25 8:14:35a You have 128 coins.
+5/2/25 8:17:40a Daerdain thinks, "when I fall I'll be in the marsh at nw DI. :-)"
+5/2/25 8:17:49a You have 128 coins.
+5/2/25 8:21:02a You have 128 coins.
+5/2/25 8:23:03a Daerdain thinks, "first (I think) 'you experiment with a new fighting style'"
+5/2/25 8:23:39a Grando thinks, "haha keep going :P"
+5/2/25 8:23:59a Azriel thinks, "then you keep doing that bunch more times .."
+5/2/25 8:24:19a You have 128 coins.
+5/2/25 8:25:04a Daerdain thinks, "yeah. one hitting stuff is ranger style? I'm also fighting on low health which is I think bloodmage style"
+5/2/25 8:25:07a Grando says, "c heal grando"
+5/2/25 8:25:08a * Auto Healing Grando 
+5/2/25 8:25:09a •You gain experience.
+5/2/25 8:27:39a You have 128 coins.
+5/2/25 8:28:25a Daerdain thinks, "lotta leeches in here. not as many as there were when I got here though. :-)"
+5/2/25 8:31:04a You have 128 coins.
+5/2/25 8:33:25a Daerdain thinks, "found a cave in the southern part of DI marsh. there's what looks like a gap in the wall, with a skull on it. gonna take a look"
+5/2/25 8:33:52a Daerdain thinks, "dark in here"
+5/2/25 8:34:29a You have 128 coins.
+5/2/25 8:34:54a Daerdain thinks, "rats, bats, snakes, spiders"
+5/2/25 8:36:01a Daerdain thinks, "think I covered it all, no big surprises, no treasure. :-("
+5/2/25 8:37:50a You have 128 coins.
+5/2/25 8:41:07a You have 128 coins.
+5/2/25 8:44:26a You have 128 coins.
+5/2/25 8:47:45a You have 128 coins.
+5/2/25 8:51:01a You have 128 coins.
+5/2/25 8:54:20a You have 128 coins.
+5/2/25 8:57:39a You have 128 coins.
+5/2/25 8:58:53a Daerdain thinks, "that's enough leech-killin' for one day"
+5/2/25 9:00:16a •You gain experience.
+5/2/25 9:00:56a You have 128 coins.
+5/2/25 9:04:13a You have 128 coins.
+5/2/25 9:05:12a Grando says, "c heal grando"
+5/2/25 9:05:12a No player named 'heal' found in the player list.
+5/2/25 9:05:12a * Auto Healing  
+5/2/25 9:05:12a • You begin radius healing.
+5/2/25 9:05:17a Grando says, "c heal grando"
+5/2/25 9:05:17a No player named 'healing.' found in the player list.
+5/2/25 9:05:17a * Auto Healing  
+5/2/25 9:05:17a • You stop radius healing.
+5/2/25 9:05:19a Grando says, "c heal grando"
+5/2/25 9:05:19a * Auto Healing Grando 
+5/2/25 9:07:27a You have 128 coins.
+5/2/25 9:10:42a You have 128 coins.
+5/2/25 9:13:57a You have 128 coins.
+5/2/25 9:17:13a You have 128 coins.
+5/2/25 9:20:32a You have 128 coins.
+5/2/25 9:23:48a You have 128 coins.
+5/2/25 9:24:11a Grando says, "c heal grando"
+5/2/25 9:24:11a No player named 'heal' found in the player list.
+5/2/25 9:24:11a * Auto Healing  
+5/2/25 9:24:11a • You begin radius healing.
+5/2/25 9:24:32a * Healing Grando 
+5/2/25 9:25:30a Grando says, "c heal grando"
+5/2/25 9:25:30a * Auto Healing Grando 
+5/2/25 9:27:02a You have 128 coins.
+5/2/25 9:27:46a Grando says, "c heal grando"
+5/2/25 9:27:47a * Auto Healing Grando 
+5/2/25 9:30:14a You have 128 coins.
+5/2/25 9:32:33a DragonClaw thinks, "Anyone with Omega?"
+5/2/25 9:32:47a Omega thinks, "nope"
+5/2/25 9:33:29a You have 128 coins.
+5/2/25 9:34:12a Omega thinks, "HUNTER!!!"
+5/2/25 9:34:12a Omega thinks, "HUNTER!!!"
+5/2/25 9:36:42a You have 128 coins.
+5/2/25 9:38:11a • /SLEEP when you wish to begin studying.
+5/2/25 9:38:15a Use \SLEEP again when you return.
+5/2/25 9:38:15a You are done adventuring for a while and will be staying here.
+5/2/25 9:38:16a You have been disconnected from Clan Lord.
+5/2/25 9:38:16a •

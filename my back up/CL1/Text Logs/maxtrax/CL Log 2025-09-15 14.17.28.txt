@@ -1,0 +1,778 @@
+
+9/15/25 2:17:28p * Your pair of pants named “tangleberry-dyed blue” is in pretty good shape.
+9/15/25 2:17:28p * Your cloak named “grey” is in very good condition.
+9/15/25 2:17:28p Welcome to Clan Lord, Maxtrax!
+9/15/25 2:17:28p Type \HELP for a list of commands.
+9/15/25 2:17:28p • You have been charged 53 coins for advanced studies.
+9/15/25 2:17:28p • You gain experience from your recent studies.
+9/15/25 2:17:28p Maxtrax is now Clanning.
+9/15/25 2:17:28p You have been studying for one day, 17 hours, 58 minutes.
+9/15/25 2:17:31p It's 3:22pm on Lundi, day 87 of Autumn, 642.
+9/15/25 2:17:33p You are the only member of Black Phoenix clanning.
+9/15/25 2:17:33p • What’s New: https://deltatao.com/clanlord/news
+9/15/25 2:17:35p Friends online: none.
+9/15/25 2:17:43p * Tip of the day: Type /HELP to see a list of commands, and /HELP <command> to see help for that one. (Use /OPTIONS to turn tips off.)
+9/15/25 2:18:21p Raul is no longer Clanning.
+9/15/25 2:18:28p Onya is no longer Clanning.
+9/15/25 2:18:40p Nug is now Clanning.
+9/15/25 2:19:39p Sentinel yells, "The Sentinel is here for your security."
+9/15/25 2:20:20p You have 12029 coins.
+9/15/25 2:21:09p Amos Moses is no longer Clanning.
+9/15/25 2:21:50p Koppi yells, "Hashak reports: Attention! Rivers are crazy!"
+9/15/25 2:22:20p Tsune is now Clanning.
+9/15/25 2:23:10p You have 12029 coins.
+9/15/25 2:24:09p Markus is now Clanning.
+9/15/25 2:24:55p Ironfist is now Clanning.
+9/15/25 2:25:08p Markus repairs an iron breastplate.
+9/15/25 2:25:08p Markus repairs an iron shield.
+9/15/25 2:25:09p Markus repairs an iron helmet.
+9/15/25 2:25:14p Ironfist is no longer Clanning.
+9/15/25 2:25:33p Ironfist is now Clanning.
+9/15/25 2:25:40p Ironfist is no longer Clanning.
+9/15/25 2:26:01p You have 12029 coins.
+9/15/25 2:26:07p Irongrip is now Clanning.
+9/15/25 2:26:44p Crius yells, "It’s 4 o’clock, and all’s well."
+9/15/25 2:26:49p Crius yells, "There’s good hunting in the Greymyr Village."
+9/15/25 2:26:50p Markus is no longer Clanning.
+9/15/25 2:27:01p Koppi yells, "Hashak reports: Attention! Rivers are crazy!"
+9/15/25 2:28:09p Irongrip is no longer Clanning.
+9/15/25 2:28:57p You have 12029 coins.
+9/15/25 2:29:38p Giben is no longer Clanning.
+9/15/25 2:31:51p You have 12029 coins.
+9/15/25 2:32:12p Koppi yells, "Hashak reports: Attention! Rivers are crazy!"
+9/15/25 2:34:11p Pelthias is now Clanning.
+9/15/25 2:34:49p You have 12029 coins.
+9/15/25 2:36:41p Pelthias is no longer Clanning.
+9/15/25 2:36:47p Ly'fender is now Clanning.
+9/15/25 2:36:58p Tai Shara is no longer Clanning.
+9/15/25 2:37:23p Koppi yells, "Hashak reports: Attention! Rivers are crazy!"
+9/15/25 2:37:37p Ly'fender is no longer Clanning.
+9/15/25 2:37:43p You have 12029 coins.
+9/15/25 2:40:34p Tsune is no longer Clanning.
+9/15/25 2:40:39p You have 12029 coins.
+9/15/25 2:41:27p Crius yells, "It’s 5 o’clock, and all’s well."
+9/15/25 2:41:32p Crius yells, "There’s good hunting in Puddleby."
+9/15/25 2:41:41p Balangar is now Clanning.
+9/15/25 2:41:56p Nug is no longer Clanning.
+9/15/25 2:42:07p Balangar says, "Strim"
+9/15/25 2:42:34p Koppi yells, "Hashak reports: Attention! Rivers are crazy!"
+9/15/25 2:42:38p (Maxtrax waves)
+9/15/25 2:42:40p You begin sharing your experiences with Balangar.
+9/15/25 2:42:41p  Balangar  added to Karma list
+9/15/25 2:42:48p * Karma Message set to  . 
+9/15/25 2:43:27p You have 12029 coins.
+9/15/25 2:44:15p Lorikeet is now Clanning.
+9/15/25 2:44:20p You begin sharing your experiences with Lorikeet.
+9/15/25 2:44:20p You are sharing experiences with Lorikeet and Balangar.
+9/15/25 2:44:20p Saevinar is now Clanning.
+9/15/25 2:44:57p (Lorikeet waves.)
+9/15/25 2:44:59p (Saevinar waves)
+9/15/25 2:45:04p You hand Saevinar 300 coins. You have 11729 remaining.
+9/15/25 2:45:17p MysticalHealer is now Clanning.
+9/15/25 2:45:26p  Lorikeet  added to Karma list
+9/15/25 2:45:52p Saevinar whispers, "I'm Alive!"
+9/15/25 2:45:58p D'mitrius is now Clanning.
+9/15/25 2:46:08p Maxtrax says, "i think you can find some copper in toks from what i hear"
+9/15/25 2:46:14p You have 11729 coins.
+9/15/25 2:46:20p Saevinar says, "tin and copper both spawn there i believe, its just random"
+9/15/25 2:46:29p Saevinar ponders, "and gold?"
+9/15/25 2:46:36p Lorikeet says, "yeah gold and tin"
+9/15/25 2:46:43p Lorikeet says, "don't think I saw copper there"
+9/15/25 2:46:53p Saevinar says, "maybe the bramble mines or something, deeper in"
+9/15/25 2:46:55p D'mitrius says, "sry only 1"
+9/15/25 2:46:56p Raul is now Clanning.
+9/15/25 2:46:58p Saevinar says, "OOC ill ask mork later"
+9/15/25 2:47:19p D'mitrius says, ":-)"
+9/15/25 2:47:27p Lorikeet says, "hi Raul"
+9/15/25 2:47:30p (Saevinar waves)
+9/15/25 2:47:32p Raul says, "hi"
+9/15/25 2:47:35p (Maxtrax waves)
+9/15/25 2:47:37p Lorikeet says, "Now I just need one ;)"
+9/15/25 2:47:45p Koppi yells, "Hashak reports: Attention! Rivers are crazy!"
+9/15/25 2:47:51p Saevinar says, "oh copper"
+9/15/25 2:47:54p Saevinar says, "lemme go dig around"
+9/15/25 2:48:02p Saevinar is no longer Clanning.
+9/15/25 2:48:12p Hammertime is now Clanning.
+9/15/25 2:48:17p D'mitrius is no longer Clanning.
+9/15/25 2:48:20p Hammertime ponders, "nope thats tin"
+9/15/25 2:48:26p Hammertime is no longer Clanning.
+9/15/25 2:48:28p Lorikeet says, "Heh"
+9/15/25 2:48:33p Raul says, "can probably grab some from pit"
+9/15/25 2:48:36p Aviara is now Clanning.
+9/15/25 2:48:40p Aviara is no longer Clanning.
+9/15/25 2:48:50p HushWing is no longer Clanning.
+9/15/25 2:48:51p Lorikeet asks, "Oh the snake pit ?"
+9/15/25 2:48:55p Raul says, "on gi"
+9/15/25 2:48:59p Raul says, "ya"
+9/15/25 2:49:00p Arylin is now Clanning.
+9/15/25 2:49:03p Arylin is no longer Clanning.
+9/15/25 2:49:07p Lorikeet asks, "west of the landing?"
+9/15/25 2:49:10p You have 11729 coins.
+9/15/25 2:49:10p Raul says, "yes"
+9/15/25 2:49:18p Ceowulf is now Clanning.
+9/15/25 2:49:25p Ceowulf is no longer Clanning.
+9/15/25 2:49:34p Foot is now Clanning.
+9/15/25 2:49:35p Lorikeet asks, "You and Max want to solo village?"
+9/15/25 2:49:46p Raul says, "not sure"
+9/15/25 2:49:47p Lorikeet says, "Otherwise I don't know what to do ;)"
+9/15/25 2:49:51p Maxtrax says, "sure :P"
+9/15/25 2:49:56p Lorikeet says, "heh"
+9/15/25 2:50:04p Grand Master is no longer Clanning.
+9/15/25 2:50:06p Balangar says, "it's a tie, toss a coin"
+9/15/25 2:50:18p Lorikeet says, "Hah it doesn't work like that :D"
+9/15/25 2:50:19p Fayeri is now Clanning.
+9/15/25 2:50:25p Fayeri is no longer Clanning.
+9/15/25 2:50:27p Balangar asks, "oh ?"
+9/15/25 2:50:38p (Balangar smile)
+9/15/25 2:50:41p Lorikeet says, ":D"
+9/15/25 2:50:56p Vaerin is now Clanning.
+9/15/25 2:51:12p Vaerin says, "ive checked all me pockets"
+9/15/25 2:51:14p Vaerin says, "and no coper"
+9/15/25 2:51:17p Vaerin says, "copper*"
+9/15/25 2:51:21p Lorikeet says, "thank you for looking"
+9/15/25 2:51:24p Lorikeet says, ":D"
+9/15/25 2:51:27p Vaerin says, "i blame mork"
+9/15/25 2:51:31p Lorikeet says, "Heh"
+9/15/25 2:51:34p Vaerin says, "hes probably eating it for snacks"
+9/15/25 2:51:46p Maxtrax says, "i fed chat gpt 5 alot of clanlord data it said the best dps thats not a blood mage would be a fen champion with a larbys :P"
+9/15/25 2:52:04p You have 11729 coins.
+9/15/25 2:52:07p Lorikeet says, "That's what you get for wasting your time with AI"
+9/15/25 2:52:14p Lorikeet says, ";)"
+9/15/25 2:52:17p Vaerin ponders, "it lies, the best dps is very clearly a mystic with a healer backpack"
+9/15/25 2:52:21p Maxtrax says, "even gave me a step by step guide"
+9/15/25 2:52:31p Raul says, "heh"
+9/15/25 2:52:41p Maxtrax says, "https://github.com/maxtraxv3/Macros/blob/main/chatgpt_5_fen_champ_larbys_under5rankplan_setp_by_step.txt"
+9/15/25 2:52:56p Koppi yells, "Hashak reports: Attention! Rivers are crazy!"
+9/15/25 2:53:15p Balangar ponders, "must be too old, can get to "speak" with AI"
+9/15/25 2:53:19p Vaerin says, "its not... that wrong? from what i can see"
+9/15/25 2:53:25p Vaerin says, "in terms of step by step"
+9/15/25 2:53:37p Raul says, "best dps depends on lots of things"
+9/15/25 2:53:42p Vaerin says, "but it doesnt have 500 detha so its wrong."
+9/15/25 2:53:43p Lorikeet says, "I don't know. I'm not interested in it. Too old to use it already"
+9/15/25 2:53:50p Raul says, "well mainly how much atkus you need"
+9/15/25 2:53:55p Vaerin says, "says 200"
+9/15/25 2:54:04p Lorikeet says, "Maybe I'll go look for copper in the pit"
+9/15/25 2:54:07p Vaerin says, "for a fen i think with timing 160 is highest needed to hit the rage"
+9/15/25 2:54:37p Raul says, "probably some there"
+9/15/25 2:54:37p Foot is no longer Clanning.
+9/15/25 2:54:41p Lorikeet says, "Welcome to come if you want"
+9/15/25 2:54:46p Vaerin is no longer Clanning.
+9/15/25 2:54:56p Puddleby Beautification made possibly by Kalian the Tawny
+9/15/25 2:54:56p Saevinar is now Clanning.
+9/15/25 2:55:03p You have 11729 coins.
+9/15/25 2:55:15p Shadowpuss growls, "Zzzzzz."
+9/15/25 2:55:16p Balangar says, "yes"
+9/15/25 2:55:16p Captain Barnac asks, "Ah, Lorikeet. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+9/15/25 2:55:17p Fird Lirden asks, "Ah, Maxtrax. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+9/15/25 2:55:17p Maxtrax whispers, "yes"
+9/15/25 2:55:17p Lorikeet says, "yes"
+9/15/25 2:55:28p You slaughtered a Shredder.
+9/15/25 2:55:44p You slaughtered a Shredder.
+9/15/25 2:55:45p * The turbulent waters toss you about.
+9/15/25 2:55:46p You helped slaughter a Shredder.
+9/15/25 2:55:47p You slaughtered a Shredder.
+9/15/25 2:55:58p Saevinar lands ashore and jumps out of his boat.
+9/15/25 2:55:59p Maxtrax lands ashore and jumps out of his boat.
+9/15/25 2:56:00p Balangar's boat crashes to the shore, and splinters.
+9/15/25 2:56:00p Saevinar is sharing experiences with you.
+9/15/25 2:56:02p Lorikeet lands ashore and jumps out of her boat.
+9/15/25 2:56:05p Balangar is sharing experiences with you.
+9/15/25 2:56:09p You begin sharing your experiences with Saevinar.
+9/15/25 2:56:09p You are sharing experiences with Saevinar, Lorikeet and Balangar.
+9/15/25 2:56:24p Fury is now Clanning.
+9/15/25 2:56:24p You helped slaughter a Green Meshra.
+9/15/25 2:56:33p Zhargon is now Clanning.
+9/15/25 2:56:37p Balangar yells, "Strim !"
+9/15/25 2:56:38p You slaughtered a Co'Acha.
+9/15/25 2:56:41p Saevinar yells, "BEER"
+9/15/25 2:56:46p You slaughtered a Deadly Adder.
+9/15/25 2:56:48p Nisse is now Clanning.
+9/15/25 2:56:48p Tuzar Bloodblade is now Clanning.
+9/15/25 2:56:49p Glaurung is now Clanning.
+9/15/25 2:56:52p You helped slaughter a Cave Maha Ruknee.
+9/15/25 2:56:52p * Balangar recovers the Cave Maha Ruknee fur, worth 18c. Your share is 3c.
+9/15/25 2:57:01p You helped slaughter a Swamp Feral.
+9/15/25 2:57:08p You slaughtered a Swamp Feral.
+9/15/25 2:57:10p Slith says, "I’m sorry, Lorikeet, but it seems you’ve already completed my challenge. Please allow others a chance."
+9/15/25 2:57:14p Slith exclaims, "So, Balangar, you’d like to try my challenge? Great!"
+9/15/25 2:57:15p You slaughtered a Deadly Adder.
+9/15/25 2:57:16p You slaughtered a Deadly Adder.
+9/15/25 2:57:23p Gro is now Clanning.
+9/15/25 2:57:25p You slaughtered a Co'Acha.
+9/15/25 2:57:35p You slaughtered a Co'Acha.
+9/15/25 2:57:36p Raul says, "hmm"
+9/15/25 2:57:52p You have 11727 coins.
+9/15/25 2:57:55p Lorikeet says, "Have to try another time :D"
+9/15/25 2:57:58p Raul says, "think theres more caves deeper but don't remember"
+9/15/25 2:58:07p Lorikeet says, "I thought there was only one here"
+9/15/25 2:58:16p You slaughtered a Leech.
+9/15/25 2:58:18p Saevinar says, "mork says he probably has some but hes OOC at a first aid training course"
+9/15/25 2:58:19p Raul says, "past feather or tinder"
+9/15/25 2:58:30p You slaughtered a Green Meshra.
+9/15/25 2:58:32p Raul asks, "anyone have a feather?"
+9/15/25 2:58:35p Lorikeet says, "Oh"
+9/15/25 2:58:40p You slaughtered a Crawler.
+9/15/25 2:58:45p You drop your scavenger bird feather.
+9/15/25 2:58:47p You pick up a scavenger bird feather.
+9/15/25 2:58:53p Saevinar yells, "we have a feather"
+9/15/25 2:59:07p You helped slaughter a Wild Boar.
+9/15/25 2:59:16p You slaughtered a Crota Winder.
+9/15/25 2:59:17p Shadowfire is now Clanning.
+9/15/25 2:59:19p Raul says, "can see how sara is these days"
+9/15/25 2:59:20p You slaughtered a Boma Winder.
+9/15/25 2:59:39p You slaughtered a Leech.
+9/15/25 2:59:50p You slaughtered a Raste Winder.
+9/15/25 2:59:55p You slaughtered a Green Meshra.
+9/15/25 3:00:03p You slaughtered a Leech.
+9/15/25 3:00:06p You slaughtered a Deadly Adder.
+9/15/25 3:00:08p Lorikeet yells, "raul?"
+9/15/25 3:00:20p Saevinar says, "east i think"
+9/15/25 3:00:22p You slaughtered a Boma Winder.
+9/15/25 3:00:29p You slaughtered a Boma Winder.
+9/15/25 3:00:34p You slaughtered a Boma Winder.
+9/15/25 3:00:34p Balangar yells, "Strim !"
+9/15/25 3:00:42p You have 11727 coins.
+9/15/25 3:00:43p Saevinar yells, "he went to crossing"
+9/15/25 3:00:48p You slaughtered a Leech.
+9/15/25 3:00:49p Lorikeet yells, "for what?"
+9/15/25 3:00:50p You slaughtered an Orga.
+9/15/25 3:00:53p Maxtrax yells, "1 n"
+9/15/25 3:01:18p You slaughtered a Boma Winder.
+9/15/25 3:01:30p Maxtrax yells, "?"
+9/15/25 3:01:50p Maxtrax yells, "?"
+9/15/25 3:02:57p You slaughtered a Deadly Adder.
+9/15/25 3:02:58p You slaughtered an Artak Cougar.
+9/15/25 3:02:59p You slaughtered an Orga.
+9/15/25 3:03:03p Lorikeet thinks to you, "going south to where we entered, take boat out"
+9/15/25 3:03:14p You slaughtered a Raste Winder.
+9/15/25 3:03:31p You have 11727 coins.
+9/15/25 3:03:45p * The turbulent waters toss you about.
+9/15/25 3:03:54p You slaughtered a Shredder.
+9/15/25 3:04:05p * The turbulent waters toss you about.
+9/15/25 3:04:14p You slaughtered a Shredder.
+9/15/25 3:04:16p Saevinar yells, "!"
+9/15/25 3:04:23p You slaughtered a Shredder.
+9/15/25 3:04:25p * The turbulent waters toss you about.
+9/15/25 3:04:25p MysticalHealer is no longer Clanning.
+9/15/25 3:04:28p You helped slaughter a Shredder.
+9/15/25 3:04:30p You slaughtered a Shredder.
+9/15/25 3:04:53p You slaughtered a Scavenger Bird.
+9/15/25 3:05:18p Armorer is now Clanning.
+9/15/25 3:05:19p Maxtrax asks, "?"
+9/15/25 3:05:34p Maxtrax says, "i think she went town"
+9/15/25 3:05:35p Maxtrax says, "i think she went town"
+9/15/25 3:05:43p Balangar says, "OK"
+9/15/25 3:05:47p Balangar says, "I heard village"
+9/15/25 3:05:53p Maxtrax says, "oh there comming here now"
+9/15/25 3:06:00p Armorer is no longer Clanning.
+9/15/25 3:06:01p Maxtrax says, ":P"
+9/15/25 3:06:04p •You sense healing energy from Balangar.
+9/15/25 3:06:05p Lorikeet thinks to you, "we are going to village now"
+9/15/25 3:06:08p (Shadowfire waves.)
+9/15/25 3:06:13p You begin sharing your experiences with Shadowfire.
+9/15/25 3:06:13p You are sharing experiences with Shadowfire, Saevinar, Lorikeet and Balangar.
+9/15/25 3:06:14p Shadowfire says, "l lori"
+9/15/25 3:06:15p  Shadowfire  added to Karma list
+9/15/25 3:06:18p * Auto Thanker Online!
+9/15/25 3:06:18p You gave signed good karma to Balangar, .
+9/15/25 3:06:21p Fury is no longer Clanning.
+9/15/25 3:06:21p You have 11727 coins.
+9/15/25 3:06:36p Darth Wader is now Clanning.
+9/15/25 3:06:57p Darth Wader is no longer Clanning.
+9/15/25 3:07:27p (Shadowfire waves cheerily.)
+9/15/25 3:07:30p (Saevinar waves)
+9/15/25 3:07:33p Saevinar says, "Seesol"
+9/15/25 3:07:34p Zhargon is no longer Clanning.
+9/15/25 3:07:34p Lorikeet says, "Oh you are here already"
+9/15/25 3:07:35p Saevinar is no longer sharing experiences with you.
+9/15/25 3:07:41p Balangar exclaims, "here we cometh, ruining hunt again !!"
+9/15/25 3:07:41p Glaurung is no longer Clanning.
+9/15/25 3:07:42p Shadowfire says, "I was on cloud so all I had to do was go to this mirror"
+9/15/25 3:07:45p Shadowfire says, "xD"
+9/15/25 3:07:46p You are no longer sharing experiences with Saevinar.
+9/15/25 3:07:46p You are sharing experiences with Shadowfire, Lorikeet and Balangar.
+9/15/25 3:07:47p You are still too mentally fatigued to change spirit links.
+9/15/25 3:07:48p Cecil says, "yea I took a break, then no one was here, so I came back for lastying"
+9/15/25 3:07:49p You begin sharing your experiences with Cecil.
+9/15/25 3:07:49p You are sharing experiences with Cecil, Shadowfire, Lorikeet and Balangar.
+9/15/25 3:07:56p You slip your Dethite into your backpack.
+9/15/25 3:08:02p Saevinar asks, "any lasts?"
+9/15/25 3:08:05p Lorikeet says, "Raul is lastying MP"
+9/15/25 3:08:05p You begin sharing your experiences with Raul.
+9/15/25 3:08:05p You are sharing experiences with Raul, Cecil, Shadowfire, Lorikeet and Balangar.
+9/15/25 3:08:13p Raul is sharing experiences with you.
+9/15/25 3:08:19p You helped vanquish a Crookbeak Kestrel.
+9/15/25 3:08:21p Lorikeet says, "Deathless is on everything"
+9/15/25 3:08:30p Gro is no longer Clanning.
+9/15/25 3:08:31p Raul says, "mp dr pig"
+9/15/25 3:08:36p Tuzar Bloodblade is no longer Clanning.
+9/15/25 3:08:40p Saevinar says, "ok"
+9/15/25 3:08:41p Nisse is no longer Clanning.
+9/15/25 3:08:51p Cecil says, "gonna break til youre done"
+9/15/25 3:08:55p Shadowfire says, "√"
+9/15/25 3:08:57p (Saevinar waves)
+9/15/25 3:09:03p Shadowfire says, "We appreciate :>"
+9/15/25 3:09:05p Lorikeet says, "k"
+9/15/25 3:09:09p You have 11727 coins.
+9/15/25 3:09:17p •You sense healing energy from Balangar.
+9/15/25 3:09:20p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+9/15/25 3:09:20p Maxtrax has fallen to a Dark Recluse.
+9/15/25 3:09:30p You helped vanquish a Dark Recluse.
+9/15/25 3:09:30p * Balangar recovers the Dark Recluse mandibles, worth 31c. Your share is 3c.
+9/15/25 3:09:33p * Balangar recovers the Dark Recluse mandibles, worth 26c. Your share is 3c.
+9/15/25 3:09:35p Deathless says, "ok now break"
+9/15/25 3:09:35p Shadowfire says, "woot"
+9/15/25 3:09:36p Deathless says, "thanks"
+9/15/25 3:09:38p Shadowfire says, "npnp"
+9/15/25 3:09:41p Saevinar says, "hehe"
+9/15/25 3:09:44p •You sense healing energy from Balangar.
+9/15/25 3:09:46p * Shadowfire is already on the Karma list.
+9/15/25 3:09:46p click them again to remove them.
+9/15/25 3:10:50p You helped vanquish a Crookbeak Kestrel.
+9/15/25 3:10:52p You helped vanquish a Lowland Panther.
+9/15/25 3:10:52p * Reisa recovers the Lowland Panther fur, worth 146c. Your share is 16c.
+9/15/25 3:11:52p * Reisa recovers the Utsanna Tawny Yorilla fur, worth 85c. Your share is 10c.
+9/15/25 3:12:00p You have 11759 coins.
+9/15/25 3:12:19p You gave signed good karma to Lorikeet, .
+9/15/25 3:12:46p You helped vanquish an Utsanna Tawny Yorilla.
+9/15/25 3:12:46p * Balangar recovers the Utsanna Tawny Yorilla fur, worth 32c. Your share is 3c.
+9/15/25 3:12:48p You helped vanquish a Tawny Yorilla.
+9/15/25 3:12:48p * Nuckin Futz recovers the Tawny Yorilla fur, worth 103c. Your share is 11c.
+9/15/25 3:12:49p You helped vanquish a Fledgling Kestrel.
+9/15/25 3:12:50p •You sense healing energy from Balangar.
+9/15/25 3:12:50p * Nuckin Futz recovers the Tawny Yorilla fur, worth 98c. Your share is 11c.
+9/15/25 3:13:14p Saevinar says, "ty"
+9/15/25 3:13:28p Saevinar ponders, "i have blood again"
+9/15/25 3:13:37p Saevinar whispers, "I'm Alive!"
+9/15/25 3:13:42p You helped vanquish a Tawny Yorilla.
+9/15/25 3:13:42p You helped vanquish a Lowland Panther.
+9/15/25 3:13:42p * Nuckin Futz recovers the Tawny Yorilla fur, worth 148c. Your share is 16c.
+9/15/25 3:13:43p * You recover the Lowland Panther fur, worth 63c. Your share is 7c.
+9/15/25 3:13:47p * Nuckin Futz recovers the Hungry Hell Boar fur, worth 18c. Your share is 2c.
+9/15/25 3:13:47p Balangar says, "b heal balangar"
+9/15/25 3:14:24p •You sense healing energy from Balangar.
+9/15/25 3:14:49p You helped vanquish a Dark Recluse.
+9/15/25 3:14:49p * Balangar recovers the Dark Recluse mandibles, worth 26c. Your share is 3c.
+9/15/25 3:14:51p You have 11812 coins.
+9/15/25 3:14:53p Saevinar ponders, "rude"
+9/15/25 3:15:03p Saevinar ponders, "time to get 2k histia instead"
+9/15/25 3:15:08p Balangar says, "at least my dentir is of use."
+9/15/25 3:15:10p Lorikeet asks, "You want to stay red?"
+9/15/25 3:15:17p • You gain experience from your clanmate.
+9/15/25 3:15:21p Saevinar says, "yeah sadly still on bb"
+9/15/25 3:15:29p Saevinar says, "need more bb to hunt on yellow here"
+9/15/25 3:15:33p Lorikeet says, "ah"
+9/15/25 3:15:39p Raul says, "hmhm"
+9/15/25 3:15:51p You helped vanquish a Lowland Panther.
+9/15/25 3:15:51p •You sense healing energy from Balangar.
+9/15/25 3:16:02p Saevinar has fallen to a Lowland Panther.
+9/15/25 3:16:04p Saevinar is no longer fallen.
+9/15/25 3:16:08p * Nuckin Futz recovers the Utsanna Tawny Yorilla fur, worth 76c. Your share is 9c.
+9/15/25 3:16:20p •You sense healing energy from Balangar.
+9/15/25 3:16:41p You helped vanquish a Lowland Panther.
+9/15/25 3:16:41p * Nuckin Futz recovers the Lowland Panther fur, worth 121c. Your share is 13c.
+9/15/25 3:16:53p Maxtrax whispers, "excuse me"
+9/15/25 3:16:57p •You sense healing energy from Balangar.
+9/15/25 3:17:01p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+9/15/25 3:17:02p Maxtrax has fallen to a Shadowcat Warqueen.
+9/15/25 3:17:05p Shadowfire says, "b heal Saevinar"
+9/15/25 3:17:06p •You sense healing energy from Balangar.
+9/15/25 3:17:17p You helped vanquish a Shadowcat Warqueen.
+9/15/25 3:17:18p Balangar has fallen to a Fledgling Kestrel.
+9/15/25 3:17:23p You helped vanquish an Utsanna Tawny Yorilla.
+9/15/25 3:17:23p * Nuckin Futz recovers the Utsanna Tawny Yorilla fur, worth 216c. Your share is 24c.
+9/15/25 3:17:30p You helped vanquish a Fledgling Kestrel.
+9/15/25 3:17:33p Balangar is no longer fallen.
+9/15/25 3:17:37p Shadowfire says, "b heal Balangar"
+9/15/25 3:17:41p You have 11858 coins.
+9/15/25 3:17:48p •You sense healing energy from Balangar.
+9/15/25 3:18:03p •You seem to fight more effectively now.
+9/15/25 3:18:12p Saevinar says, "yay 500 bb"
+9/15/25 3:18:16p Shadowfire says, ":D"
+9/15/25 3:18:16p Saevinar says, "no to triple that"
+9/15/25 3:18:19p Saevinar says, "now*"
+9/15/25 3:18:20p You gave signed good karma to Shadowfire, .
+9/15/25 3:18:27p Maxtrax says, "now spend it all on hista"
+9/15/25 3:18:30p •You sense healing energy from Balangar.
+9/15/25 3:18:32p Saevinar says, "no after"
+9/15/25 3:18:32p Maxtrax says, ":D"
+9/15/25 3:18:39p Saevinar says, "ill get 3k histia 3k bb 3k regia"
+9/15/25 3:18:44p Saevinar says, "ezmode"
+9/15/25 3:19:28p Saevinar whispers, "I'm Alive!"
+9/15/25 3:19:29p Lorikeet says, "Sure is weird not to worry about inventory space"
+9/15/25 3:19:36p Shadowfire says, "lol"
+9/15/25 3:19:42p You helped vanquish a Shadowcat Warqueen.
+9/15/25 3:19:42p * You recover the Shadowcat Warqueen fur, worth 45c. Your share is 5c.
+9/15/25 3:19:43p Shadowfire says, "I'll get back to you in another 8 slots"
+9/15/25 3:19:55p You helped vanquish a Lowland Panther.
+9/15/25 3:19:56p * Nuckin Futz recovers the Lowland Panther fur, worth 109c. Your share is 12c.
+9/15/25 3:19:56p Lorikeet says, "I only have 7"
+9/15/25 3:20:02p You helped vanquish a Lowland Panther.
+9/15/25 3:20:03p * Raul recovers the Lowland Panther fur, worth 153c. Your share is 17c.
+9/15/25 3:20:05p Raul says, "any other game and it would cost $10"
+9/15/25 3:20:11p Shadowfire says, "Think I'm at 8"
+9/15/25 3:20:12p Lorikeet says, "heh"
+9/15/25 3:20:17p Shadowfire says, "Still need more, champion woes"
+9/15/25 3:20:29p You have 11892 coins.
+9/15/25 3:21:08p Lorikeet says, "I don't think anyone has more than 8"
+9/15/25 3:21:11p You helped vanquish an Utsanna Tawny Yorilla.
+9/15/25 3:21:11p * Nuckin Futz recovers the Utsanna Tawny Yorilla fur, worth 193c. Your share is 21c.
+9/15/25 3:21:18p Raul says, "I have 9"
+9/15/25 3:21:19p Lorikeet says, "there were only 4 places so far"
+9/15/25 3:21:22p Lorikeet says, "oh"
+9/15/25 3:21:26p Balangar says, "bag size ? only 2 here"
+9/15/25 3:21:27p Lorikeet says, "You found another place then"
+9/15/25 3:21:33p Balangar says, "err 6"
+9/15/25 3:21:34p Shadowfire says, "afaik 10 is possible but I have not been keeping extremely close track"
+9/15/25 3:21:36p Lorikeet says, "your bag starts at 5"
+9/15/25 3:21:37p Raul says, "west ti, ti river, storenna, east field well, wetlands"
+9/15/25 3:21:48p Lorikeet asks, "storenna has one?"
+9/15/25 3:21:52p Raul says, "had"
+9/15/25 3:22:05p Raul says, "day after the first ones were found"
+9/15/25 3:22:09p Lorikeet says, "I missed he west ti one too"
+9/15/25 3:22:18p Raul says, "west ti was first one found I think"
+9/15/25 3:22:27p Lorikeet says, "The first one is the most important anyway"
+9/15/25 3:22:32p Lorikeet says, "cause that gives you five"
+9/15/25 3:22:33p You helped vanquish a Fledgling Kestrel.
+9/15/25 3:22:34p Balangar says, "east field gobne too"
+9/15/25 3:22:40p Raul says, "yes"
+9/15/25 3:22:44p •You sense healing energy from Balangar.
+9/15/25 3:22:48p You helped vanquish a Fledgling Kestrel.
+9/15/25 3:23:00p Saevinar has fallen to a Fledgling Kestrel.
+9/15/25 3:23:02p Lorikeet says, "East TI was there yesterday and wetlands was there this morning"
+9/15/25 3:23:03p You helped vanquish a Fledgling Kestrel.
+9/15/25 3:23:06p Saevinar is no longer fallen.
+9/15/25 3:23:10p You helped vanquish a Crookbeak Kestrel.
+9/15/25 3:23:15p Raul asks, "east ti the river?"
+9/15/25 3:23:17p You have 11913 coins.
+9/15/25 3:23:21p Lorikeet says, "yes"
+9/15/25 3:23:30p Raul says, "that was there for a while"
+9/15/25 3:23:31p •You sense healing energy from Balangar.
+9/15/25 3:23:37p Maxtrax says, "still there"
+9/15/25 3:23:37p Lorikeet says, "yes"
+9/15/25 3:23:37p Raul says, "found during lore I think"
+9/15/25 3:23:55p Raul says, "been looking for more but havent found any"
+9/15/25 3:24:08p Lorikeet says, "I haven't heard of any more yet"
+9/15/25 3:24:21p You gave signed good karma to Balangar, .
+9/15/25 3:24:29p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+9/15/25 3:24:30p Maxtrax has fallen to a Fledgling Kestrel.
+9/15/25 3:24:30p You helped vanquish a Fledgling Kestrel.
+9/15/25 3:24:36p Balangar exclaims, "thanks max !"
+9/15/25 3:24:37p •You sense healing energy from Balangar.
+9/15/25 3:24:50p You helped vanquish a Crookbeak Kestrel.
+9/15/25 3:24:53p You just received good karma from Balangar, didn't want that much !!
+9/15/25 3:24:57p •You sense healing energy from Balangar.
+9/15/25 3:25:24p Raul says, "need to like make a list of places to check"
+9/15/25 3:25:38p Lorikeet says, "Well there are so few"
+9/15/25 3:25:40p Raul says, "and people can cross off an area they check each day"
+9/15/25 3:25:43p Balangar says, "can do it on clump"
+9/15/25 3:25:48p Raul says, "I mean to find new ones"
+9/15/25 3:26:09p You have 11913 coins.
+9/15/25 3:26:22p You helped vanquish an Utsanna Tawny Yorilla.
+9/15/25 3:26:23p * You recover the Utsanna Tawny Yorilla fur, worth 168c. Your share is 28c.
+9/15/25 3:26:24p * Nuckin Futz recovers the Shadowcat Warqueen fur, worth 110c. Your share is 12c.
+9/15/25 3:26:26p You helped vanquish a Hungry Hell Boar.
+9/15/25 3:26:27p •You sense healing energy from Balangar.
+9/15/25 3:26:28p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+9/15/25 3:26:29p Maxtrax has fallen to a pebble.
+9/15/25 3:26:32p You helped vanquish a Tawny Yorilla.
+9/15/25 3:26:40p • You gain experience from your clanmate.
+9/15/25 3:26:51p Lorikeet says, "I could get fancy and have all my alts get it too, but I haven't"
+9/15/25 3:26:52p •You sense healing energy from Balangar.
+9/15/25 3:26:52p Raul growls, "someone said theres an east coast?"
+9/15/25 3:27:01p Raul growls, "ye"
+9/15/25 3:27:03p Lorikeet asks, "east coast?"
+9/15/25 3:27:10p (Raul shrugs)
+9/15/25 3:27:11p Shadowfire says, "Seems like a lot of work"
+9/15/25 3:27:19p •You sense healing energy from Balangar.
+9/15/25 3:27:25p Raul growls, "my blacksmithing alt has 9 iron in bag now"
+9/15/25 3:27:28p Balangar says, "b heal max"
+9/15/25 3:27:29p •You sense healing energy from Garfield.
+9/15/25 3:27:29p •You sense healing energy from Reisa.
+9/15/25 3:27:41p Saevinar says, "4/useitem bloodstone /dead"
+9/15/25 3:28:09p You helped vanquish a Hungry Hell Boar.
+9/15/25 3:28:09p * Reisa recovers the Hungry Hell Boar fur, worth 21c. Your share is 2c.
+9/15/25 3:28:13p You helped vanquish a Tawny Yorilla.
+9/15/25 3:28:13p * Nuckin Futz recovers the Tawny Yorilla fur, worth 115c. Your share is 12c.
+9/15/25 3:28:22p Saevinar whispers, "I'm Alive!"
+9/15/25 3:28:37p Raul says, "south coast is big"
+9/15/25 3:28:48p Lorikeet asks, "south coast of what?"
+9/15/25 3:28:53p Raul says, "puddleby"
+9/15/25 3:28:59p You have 11967 coins.
+9/15/25 3:29:02p Lorikeet says, "oh"
+9/15/25 3:29:13p Raul says, "brambles to est"
+9/15/25 3:29:21p Lorikeet asks, "you mean the ocean on the way from brambles to estuary?"
+9/15/25 3:29:23p Lorikeet ponders, "yes"
+9/15/25 3:29:40p Saevinar whispers, "I'm Alive!"
+9/15/25 3:29:54p You helped vanquish a Hungry Hell Boar.
+9/15/25 3:29:54p * Shadowfire recovers the Hungry Hell Boar fur, worth 24c. Your share is 2c.
+9/15/25 3:29:55p You helped vanquish a Hungry Hell Boar.
+9/15/25 3:29:56p * Reisa recovers the Hungry Hell Boar fur, worth 7c. Your share is 1c.
+9/15/25 3:29:56p You helped vanquish a Hungry Hell Boar.
+9/15/25 3:29:56p * Nuckin Futz recovers the Hungry Hell Boar fur, worth 27c. Your share is 3c.
+9/15/25 3:30:19p Raul says, "then all of est"
+9/15/25 3:30:21p You gave signed good karma to Lorikeet, .
+9/15/25 3:30:35p Raul says, "est probably good spot for mimics"
+9/15/25 3:30:40p Saevinar whispers, "I'm Alive!"
+9/15/25 3:30:41p Saevinar whispers, "I'm Alive!"
+9/15/25 3:30:51p Raul says, "tons of water"
+9/15/25 3:31:08p Lorikeet says, "oop sorry"
+9/15/25 3:31:13p Saevinar says, "all good"
+9/15/25 3:31:21p Saevinar says, "it drains me low enough even if you get me to yellow"
+9/15/25 3:31:28p You helped vanquish a Hungry Hell Boar.
+9/15/25 3:31:28p * Balangar recovers the Hungry Hell Boar fur, worth 32c. Your share is 4c.
+9/15/25 3:31:48p You have 11977 coins.
+9/15/25 3:31:48p Saevinar says, "505 bb, finally stopped getting lib ranks"
+9/15/25 3:32:05p You helped vanquish an Utsanna Tawny Yorilla.
+9/15/25 3:32:05p * Nuckin Futz recovers the Utsanna Tawny Yorilla fur, worth 90c. Your share is 10c.
+9/15/25 3:32:50p You helped vanquish an Utsanna Tawny Yorilla.
+9/15/25 3:32:50p * Balangar recovers the Utsanna Tawny Yorilla fur, worth 15c. Your share is 3c.
+9/15/25 3:33:03p Saevinar ponders, "evidence gone"
+9/15/25 3:33:06p Saevinar ponders, "she will never know!"
+9/15/25 3:33:19p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+9/15/25 3:33:19p Maxtrax has fallen to a Dark Recluse.
+9/15/25 3:33:19p You helped vanquish a Lowland Panther.
+9/15/25 3:33:20p * Nuckin Futz recovers the Lowland Panther fur, worth 42c. Your share is 5c.
+9/15/25 3:33:26p You helped vanquish a Dark Recluse.
+9/15/25 3:33:26p Lorikeet has fallen to a Crookbeak Kestrel.
+9/15/25 3:33:26p * Balangar recovers the Dark Recluse mandibles, worth 14c. Your share is 2c.
+9/15/25 3:33:30p Lorikeet says, "sorry"
+9/15/25 3:33:30p Shadowfire says, "b heal Lorikeet"
+9/15/25 3:33:33p Lorikeet says, "fell asleep"
+9/15/25 3:33:33p Lorikeet is no longer fallen.
+9/15/25 3:33:36p Shadowfire says, "x}"
+9/15/25 3:33:47p Lorikeet says, "closed eyes doesn't help"
+9/15/25 3:33:54p Shadowfire says, "b heal Maxtrax"
+9/15/25 3:33:55p •You sense healing energy from Garfield.
+9/15/25 3:33:55p •You sense healing energy from Reisa.
+9/15/25 3:33:59p •You sense healing energy from Balangar.
+9/15/25 3:34:06p You helped vanquish a Hungry Hell Boar.
+9/15/25 3:34:06p * Balangar recovers the Hungry Hell Boar fur, worth 18c. Your share is 2c.
+9/15/25 3:34:27p Saevinar has fallen to a Dark Recluse.
+9/15/25 3:34:30p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+9/15/25 3:34:30p You helped vanquish a Dark Recluse.
+9/15/25 3:34:30p Maxtrax has fallen to a Dark Recluse.
+9/15/25 3:34:30p * Balangar recovers the Dark Recluse mandibles, worth 32c. Your share is 4c.
+9/15/25 3:34:38p You have 12003 coins.
+9/15/25 3:34:39p •You sense healing energy from Balangar.
+9/15/25 3:35:00p Shadowfire says, "b heal Saevinar"
+9/15/25 3:35:02p Saevinar is no longer fallen.
+9/15/25 3:35:04p You helped vanquish a Dark Recluse.
+9/15/25 3:35:04p * Balangar recovers the Dark Recluse mandibles, worth 26c. Your share is 3c.
+9/15/25 3:35:56p Lorikeet says, "traul lasty"
+9/15/25 3:36:09p Lorikeet says, "I fell asleep and lured a lasty"
+9/15/25 3:36:10p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+9/15/25 3:36:10p * Reisa recovers the Mountain Panther fur, worth 94c. Your share is 11c.
+9/15/25 3:36:10p •You sense healing energy from Balangar.
+9/15/25 3:36:10p Maxtrax has fallen to a Hungry Hell Boar.
+9/15/25 3:36:14p Shadowfire says, "xD"
+9/15/25 3:36:14p Raul says, ":)"
+9/15/25 3:36:22p You gave signed good karma to Shadowfire, .
+9/15/25 3:36:33p You helped vanquish a Hungry Hell Boar.
+9/15/25 3:36:33p * Shadowfire recovers the Hungry Hell Boar fur, worth 10c. Your share is 1c.
+9/15/25 3:37:17p You helped vanquish an Utsanna Tawny Yorilla.
+9/15/25 3:37:17p * Nuckin Futz recovers the Utsanna Tawny Yorilla fur, worth 25c. Your share is 3c.
+9/15/25 3:37:29p You have 12021 coins.
+9/15/25 3:38:48p You helped vanquish a Lowland Panther.
+9/15/25 3:38:48p * Nuckin Futz recovers the Lowland Panther fur, worth 127c. Your share is 15c.
+9/15/25 3:39:32p You helped vanquish a Fledgling Kestrel.
+9/15/25 3:39:35p •You sense healing energy from Balangar.
+9/15/25 3:39:47p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+9/15/25 3:39:47p Maxtrax has fallen to a Mountain Panther.
+9/15/25 3:39:49p You helped vanquish a Mountain Panther.
+9/15/25 3:39:50p * Nuckin Futz recovers the Mountain Panther fur, worth 106c. Your share is 12c.
+9/15/25 3:39:50p (Shadowfire enters the competition, zoning out and running into these 2 lasties!)
+9/15/25 3:39:55p Lorikeet says, "=)"
+9/15/25 3:40:00p Lorikeet says, "YOu were twice as good"
+9/15/25 3:40:03p * Nuckin Futz recovers the Mountain Panther fur, worth 124c. Your share is 14c.
+9/15/25 3:40:03p Shadowfire says, "lol xD"
+9/15/25 3:40:19p You have 12062 coins.
+9/15/25 3:41:17p * Balangar recovers the Dark Recluse mandibles, worth 12c. Your share is 1c.
+9/15/25 3:41:32p Balangar ponders, "a mere 12c ?"
+9/15/25 3:41:41p Saevinar ponders, "quick pull out more of its teeth"
+9/15/25 3:41:54p (Balangar smile)
+9/15/25 3:42:07p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+9/15/25 3:42:08p Maxtrax has fallen to a Dark Recluse.
+9/15/25 3:42:11p * Balangar recovers the Dark Recluse mandibles, worth 24c. Your share is 5c.
+9/15/25 3:42:12p •You sense healing energy from Balangar.
+9/15/25 3:42:19p Saevinar says, "worth"
+9/15/25 3:42:23p You have no karma to give.
+9/15/25 3:42:23p Saevinar says, "DR are rough for bm"
+9/15/25 3:42:24p Balangar says, "yes better"
+9/15/25 3:42:39p Saevinar says, "i need 5k histia maybe instead"
+9/15/25 3:42:49p * Balangar recovers the Dark Recluse mandibles, worth 20c. Your share is 2c.
+9/15/25 3:42:57p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+9/15/25 3:42:58p Maxtrax has fallen to a Dark Recluse.
+9/15/25 3:43:07p Saevinar says, "so many spiders"
+9/15/25 3:43:09p Shadowfire says, "b heal Saevinar"
+9/15/25 3:43:10p Saevinar says, "what is this, australia"
+9/15/25 3:43:12p You have 12070 coins.
+9/15/25 3:43:16p Shadowfire says, "too dead I think"
+9/15/25 3:43:23p You helped vanquish a Hungry Hell Boar.
+9/15/25 3:43:23p * Reisa recovers the Hungry Hell Boar fur, worth 16c. Your share is 2c.
+9/15/25 3:43:38p Saevinar says, "rank!@"
+9/15/25 3:43:40p Shadowfire says, "b heal Maxtrax"
+9/15/25 3:43:47p Balangar has fallen to a Fledgling Kestrel.
+9/15/25 3:43:54p * Nuckin Futz recovers the Lowland Panther fur, worth 171c. Your share is 19c.
+9/15/25 3:43:55p You helped vanquish a Hungry Hell Boar.
+9/15/25 3:43:55p * Nuckin Futz recovers the Hungry Hell Boar fur, worth 41c. Your share is 5c.
+9/15/25 3:43:57p Shadowfire starts dragging you.
+9/15/25 3:44:00p Balangar is no longer fallen.
+9/15/25 3:44:02p •You sense healing energy from Balangar.
+9/15/25 3:44:18p Raul growls, ":)"
+9/15/25 3:46:06p You have 12096 coins.
+9/15/25 3:46:35p You helped vanquish a Shadowcat Warqueen.
+9/15/25 3:46:50p >^_^<
+9/15/25 3:46:54p You helped vanquish a Fledgling Kestrel.
+9/15/25 3:47:20p Shadowfire says, "b heal Shadowfire"
+9/15/25 3:47:23p Saevinar whispers, "I'm Alive!"
+9/15/25 3:47:23p You helped vanquish a Hungry Hell Boar.
+9/15/25 3:47:23p * Saevinar recovers the Hungry Hell Boar fur, worth 8c. Your share is 1c.
+9/15/25 3:47:24p Saevinar has fallen to a Dark Recluse.
+9/15/25 3:47:28p You helped vanquish a Shadowcat Warqueen.
+9/15/25 3:47:28p * Nuckin Futz recovers the Shadowcat Warqueen fur, worth 124c. Your share is 14c.
+9/15/25 3:47:28p You helped vanquish a Dark Recluse.
+9/15/25 3:47:28p * Balangar recovers the Dark Recluse mandibles, worth 22c. Your share is 3c.
+9/15/25 3:47:59p Saevinar says, "b heal sae"
+9/15/25 3:48:16p Saevinar is no longer fallen.
+9/15/25 3:48:20p You helped vanquish a Lowland Panther.
+9/15/25 3:48:20p * Reisa recovers the Lowland Panther fur, worth 41c. Your share is 4c.
+9/15/25 3:48:24p You gave signed good karma to Lorikeet, .
+9/15/25 3:48:37p Saevinar says, "b heal sae"
+9/15/25 3:49:05p You helped vanquish a Tawny Yorilla.
+9/15/25 3:49:09p You have 12118 coins.
+9/15/25 3:49:11p Lorikeet says, "=)"
+9/15/25 3:49:20p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+9/15/25 3:49:20p Maxtrax has fallen to a Lowland Panther.
+9/15/25 3:49:22p •You sense healing energy from Balangar.
+9/15/25 3:49:24p You helped vanquish a Lowland Panther.
+9/15/25 3:49:24p * Balangar recovers the Lowland Panther fur, worth 43c. Your share is 7c.
+9/15/25 3:49:27p * Lorikeet recovers the Hungry Hell Boar fur, worth 1c. Your share is 1c.
+9/15/25 3:49:34p Balangar says, "b heal max"
+9/15/25 3:49:35p •You seem to fight more effectively now.
+9/15/25 3:49:35p •You sense healing energy from Garfield.
+9/15/25 3:49:35p •You sense healing energy from Reisa.
+9/15/25 3:49:54p Saevinar says, "oh there goesthe lori afklure"
+9/15/25 3:49:58p Lorikeet says, "sigh"
+9/15/25 3:50:16p You helped vanquish a Tawny Yorilla.
+9/15/25 3:50:17p * Nuckin Futz recovers the Tawny Yorilla fur, worth 122c. Your share is 14c.
+9/15/25 3:50:27p * Nuckin Futz recovers the Tawny Yorilla fur, worth 91c. Your share is 10c.
+9/15/25 3:50:29p Saevinar whispers, "I'm Alive!"
+9/15/25 3:50:38p Saevinar ponders, "blood ore!"
+9/15/25 3:51:08p You helped vanquish a Dark Recluse.
+9/15/25 3:51:08p * Balangar recovers the Dark Recluse mandibles, worth 31c. Your share is 4c.
+9/15/25 3:51:21p You helped vanquish a Lowland Panther.
+9/15/25 3:51:50p Saevinar says, "b heal bala"
+9/15/25 3:52:11p You have 12154 coins.
+9/15/25 3:52:13p * Nuckin Futz recovers the Shadowcat Warqueen fur, worth 135c. Your share is 15c.
+9/15/25 3:52:31p Reye is now Clanning.
+9/15/25 3:52:35p Reye is no longer Clanning.
+9/15/25 3:52:37p Reye is now Clanning.
+9/15/25 3:53:58p You helped vanquish a Fledgling Kestrel.
+9/15/25 3:53:58p •You sense healing energy from Balangar.
+9/15/25 3:54:04p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+9/15/25 3:54:04p Maxtrax has fallen to a Lowland Panther.
+9/15/25 3:54:13p You helped vanquish a Lowland Panther.
+9/15/25 3:54:13p * Nuckin Futz recovers the Lowland Panther fur, worth 10c. Your share is 1c.
+9/15/25 3:54:14p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+9/15/25 3:54:14p Maxtrax has fallen to an Utsanna Tawny Yorilla.
+9/15/25 3:54:18p Balangar has fallen to a Shadowcat Warqueen.
+9/15/25 3:54:20p Saevinar ponders, "wiffed!"
+9/15/25 3:54:20p * Nuckin Futz recovers the Shadowcat Warqueen fur, worth 122c. Your share is 14c.
+9/15/25 3:54:22p You helped vanquish an Utsanna Tawny Yorilla.
+9/15/25 3:54:22p * Nuckin Futz recovers the Utsanna Tawny Yorilla fur, worth 158c. Your share is 18c.
+9/15/25 3:54:24p You gave signed good karma to Shadowfire, .
+9/15/25 3:54:33p Saevinar says, "b heal bala"
+9/15/25 3:54:38p Balangar is no longer fallen.
+9/15/25 3:54:44p Balangar exclaims, "what a proximus !!"
+9/15/25 3:54:46p Saevinar says, "b heal max"
+9/15/25 3:54:47p •You sense healing energy from Garfield.
+9/15/25 3:54:47p •You sense healing energy from Reisa.
+9/15/25 3:54:49p •You sense healing energy from Balangar.
+9/15/25 3:54:50p Shadowfire says, "xD"
+9/15/25 3:55:07p Saevinar says, "b heal bala"
+9/15/25 3:55:18p You have 12202 coins.
+9/15/25 3:55:31p Shadowfire says, "still another MP out there somewhere"
+9/15/25 3:55:48p Lorikeet asks, "Raul able to find where it is?"
+9/15/25 3:55:55p Raul says, "umm"
+9/15/25 3:55:55p Shadowfire says, "Presumably"
+9/15/25 3:55:57p Raul says, "maybe"
+9/15/25 3:55:57p Shadowfire says, "xD"
+9/15/25 3:56:00p Lorikeet asks, "no tracking?"
+9/15/25 3:56:01p Raul says, "I have a strange leaf"
+9/15/25 3:56:10p Lorikeet says, "oh heh"
+9/15/25 3:56:20p Lorikeet says, "She'll find it eventually"
+9/15/25 3:56:24p Lorikeet says, "Or I can fall asleep"
+9/15/25 3:56:29p (Saevinar grins)
+9/15/25 3:57:27p Saevinar has fallen to a Lowland Panther.
+9/15/25 3:57:27p You helped vanquish a Lowland Panther.
+9/15/25 3:57:30p Saevinar says, "rude"
+9/15/25 3:57:35p You helped vanquish a Lowland Panther.
+9/15/25 3:57:35p * Balangar recovers the Lowland Panther fur, worth 26c. Your share is 5c.
+9/15/25 3:57:35p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+9/15/25 3:57:35p Maxtrax has fallen to a Lowland Panther.
+9/15/25 3:57:45p Saevinar says, "b heal lori"
+9/15/25 3:57:54p * Nuckin Futz recovers the Lowland Panther fur, worth 123c. Your share is 14c.
+9/15/25 3:57:58p Raul has fallen to a Fledgling Kestrel.
+9/15/25 3:57:59p * Reisa recovers the Shadowcat Warqueen fur, worth 56c. Your share is 6c.
+9/15/25 3:58:18p •You sense healing energy from Balangar.
+9/15/25 3:58:22p You have 12227 coins.
+9/15/25 3:58:25p Saevinar is no longer fallen.
+9/15/25 3:58:25p Shadowfire turns to stone.
+9/15/25 3:58:39p •You sense healing energy from Balangar.
+9/15/25 3:58:45p Shadowfire says, "b heal Raul"
+9/15/25 3:58:48p Raul is no longer fallen.
+9/15/25 3:58:58p Saevinar says, "b heal balan"
+9/15/25 3:59:09p Saevinar ponders, "radium rod ;)"
+9/15/25 3:59:10p Shadowfire says, "Ok one more look then we bounce"
+9/15/25 3:59:15p •You sense healing energy from Balangar.
+9/15/25 4:00:25p You have given this character as much good karma as is allowed. Wait for it to decay.
+9/15/25 4:00:26p *  Balangar  is unable to recive karma, removing name.
+9/15/25 4:00:26p You gave signed good karma to Lorikeet, .
+9/15/25 4:00:27p •You sense healing energy from Balangar.
+9/15/25 4:00:34p You helped vanquish an Utsanna Tawny Yorilla.
+9/15/25 4:00:35p * Balangar recovers the Utsanna Tawny Yorilla fur, worth 45c. Your share is 11c.
+9/15/25 4:00:52p You helped vanquish a Shadowcat Warqueen.
+9/15/25 4:01:06p You helped vanquish a Hungry Hell Boar.
+9/15/25 4:01:06p * Reisa recovers the Hungry Hell Boar fur, worth 27c. Your share is 3c.
+9/15/25 4:01:07p Raul has fallen to a Dark Recluse.
+9/15/25 4:01:08p You helped vanquish an Utsanna Tawny Yorilla.
+9/15/25 4:01:08p * Balangar recovers the Utsanna Tawny Yorilla fur, worth 8c. Your share is 1c.
+9/15/25 4:01:16p You have 12242 coins.
+9/15/25 4:01:17p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+9/15/25 4:01:17p Maxtrax has fallen to a Dark Recluse.
+9/15/25 4:01:19p Saevinar says, "b heal shad"
+9/15/25 4:01:24p You helped vanquish a Lowland Panther.
+9/15/25 4:01:24p * Nuckin Futz recovers the Lowland Panther fur, worth 169c. Your share is 21c.
+9/15/25 4:01:38p Balangar has fallen to a Dark Recluse.
+9/15/25 4:01:42p Balangar says, "crap"
+9/15/25 4:02:04p Saevinar says, "we win"
+9/15/25 4:02:08p Shadowfire says, "ss if there's a BS or I don't know you are already fighting"
+9/15/25 4:02:09p Balangar is no longer fallen.
+9/15/25 4:02:09p Lorikeet says, "=)"
+9/15/25 4:02:09p Balangar says, "sort of ..."
+9/15/25 4:02:10p Shadowfire says, "xD"
+9/15/25 4:02:19p Raul says, "I was looking for mp too :)"
+9/15/25 4:02:20p Saevinar says, "b heal gar"
+9/15/25 4:02:29p Raul says, "leaf didnt find it n"
+9/15/25 4:02:31p Shadowfire says, "Found it n,e(ne), n"
+9/15/25 4:02:37p •You sense healing energy from Balangar.
+9/15/25 4:02:38p Shadowfire says, "But it gave me the slip changing snells"
+9/15/25 4:02:40p Lorikeet says, "hah"
+9/15/25 4:02:42p Raul is no longer fallen.
+9/15/25 4:02:53p Shadowfire says, "ah well, there will be more"
+9/15/25 4:02:57p Raul says, "ye"
+9/15/25 4:03:03p Raul says, "ty"
+9/15/25 4:03:08p Saevinar says, "ty for the hunt"
+9/15/25 4:03:10p Lorikeet says, "Okay time to go"
+9/15/25 4:03:11p Shadowfire exclaims, "Tanks folks!"
+9/15/25 4:03:13p Balangar says, "yes, thanks all"
+9/15/25 4:03:15p Lorikeet says, "thanks all"
+9/15/25 4:03:20p •You sense healing energy from Balangar.
+9/15/25 4:04:11p You have 12263 coins.
+9/15/25 4:04:25p Raul is no longer Clanning.
+9/15/25 4:04:42p Lightfrost is now Clanning.
+9/15/25 4:04:42p • /SLEEP when you wish to begin studying.
+9/15/25 4:04:44p • /SLEEP when you wish to begin studying.
+9/15/25 4:04:47p Use \SLEEP again when you return.
+9/15/25 4:04:47p You are done adventuring for a while and will be stud

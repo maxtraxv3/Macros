@@ -1,0 +1,124 @@
+
+4/14/25 8:16:35p * Your healer's cloak is in very good condition.
+4/14/25 8:16:35p Welcome to Clan Lord, Unholy!
+4/14/25 8:16:35p Type \HELP for a list of commands.
+4/14/25 8:16:35p • You have been charged 94 coins for advanced studies.
+4/14/25 8:16:35p • You gain experience from your recent studies.
+4/14/25 8:16:35p * auto moonstone ON!
+4/14/25 8:16:35p The healing spell has started.
+4/14/25 8:16:35p You have been studying for 3 days, 2 hours, 23 minutes.
+4/14/25 8:16:38p It's 3:51pm on Gradi, day 88 of Winter, 641.
+4/14/25 8:16:39p Friends online: none.
+4/14/25 8:16:39p There are three members of Black Phoenix clanning: Magnic, ZipLock and you.
+4/14/25 8:16:39p • What’s New: https://deltatao.com/clanlord/news
+4/14/25 8:16:49p * Tip of the day: Visit the tutorial building in the fairgrounds for more information and advice. (Use /OPTIONS to turn tips off.)
+4/14/25 8:16:51p •You seem to heal from further away now.
+4/14/25 8:17:13p You have no 'asklepian staff' to equip.
+4/14/25 8:17:13p * Healing Unholy 
+4/14/25 8:17:13p •You cannot use your caduceus on yourself.
+4/14/25 8:17:14p You equip your moonstone.
+4/14/25 8:17:55p You equip your caduceus.
+4/14/25 8:17:56p * Healing ZipLock 
+4/14/25 8:18:05p ZipLock is sharing experiences with you.
+4/14/25 8:18:05p You begin sharing your experiences with ZipLock.
+4/14/25 8:18:05p You are already sharing with ZipLock.
+4/14/25 8:21:29p Magnic is sharing experiences with you.
+4/14/25 8:21:29p You begin sharing your experiences with Magnic.
+4/14/25 8:21:29p You are sharing experiences with Magnic and ZipLock.
+4/14/25 8:21:30p You are already sharing with Magnic.
+4/14/25 8:21:30p You are sharing experiences with Magnic and ZipLock.
+4/14/25 8:22:05p Magnic says, "c heal me"
+4/14/25 8:22:06p *Healing Magnic 
+4/14/25 8:22:23p Catan is sharing experiences with you.
+4/14/25 8:22:23p You begin sharing your experiences with Catan.
+4/14/25 8:22:23p You are sharing experiences with Catan, Magnic and ZipLock.
+4/14/25 8:22:24p You are already sharing with Catan.
+4/14/25 8:22:24p You are sharing experiences with Catan, Magnic and ZipLock.
+4/14/25 8:22:25p Magnic says, "c heal me"
+4/14/25 8:22:26p *Healing Magnic 
+4/14/25 8:23:26p Catan says, "lastie if possible"
+4/14/25 8:23:30p Catan says, "on tree"
+4/14/25 8:23:33p Catan says, "lol"
+4/14/25 8:23:51p * Healing Catan 
+4/14/25 8:23:51p •Catan’s injuries are a little more serious than you can heal.
+4/14/25 8:23:58p •Catan’s injuries are a little more serious than you can heal.
+4/14/25 8:24:01p Catan says, "Woolfe coming"
+4/14/25 8:24:04p •Catan’s injuries are a little more serious than you can heal.
+4/14/25 8:24:11p •Catan’s injuries are a little more serious than you can heal.
+4/14/25 8:24:18p •Catan’s injuries are a little more serious than you can heal.
+4/14/25 8:24:24p •Catan’s injuries are a little more serious than you can heal.
+4/14/25 8:24:31p •Catan’s injuries are a little more serious than you can heal.
+4/14/25 8:24:37p •Catan’s injuries are a little more serious than you can heal.
+4/14/25 8:24:44p •Catan’s injuries are a little more serious than you can heal.
+4/14/25 8:24:51p •Catan’s injuries are a little more serious than you can heal.
+4/14/25 8:24:57p •Catan’s injuries are a little more serious than you can heal.
+4/14/25 8:24:58p Woolf is sharing experiences with you.
+4/14/25 8:24:58p You begin sharing your experiences with Woolf.
+4/14/25 8:24:58p You are sharing experiences with Woolf, Catan, Magnic and ZipLock.
+4/14/25 8:24:59p You are already sharing with Woolf.
+4/14/25 8:24:59p You are sharing experiences with Woolf, Catan, Magnic and ZipLock.
+4/14/25 8:25:01p Magnic says, "one more comming"
+4/14/25 8:25:04p •Catan’s injuries are a little more serious than you can heal.
+4/14/25 8:25:10p •Catan’s injuries were grave.
+4/14/25 8:25:18p Ulric says, "1k horus :D"
+4/14/25 8:25:55p Ulric says, "oh"
+4/14/25 8:26:12p Catan asks, "What?"
+4/14/25 8:26:13p Ulric says, "no afk timer on this client :P"
+4/14/25 8:26:17p Ulric says, "heh"
+4/14/25 8:26:38p * Healing Woolf 
+4/14/25 8:28:29p Magnic growls, "c heal catan"
+4/14/25 8:28:30p *Healing Catan 
+4/14/25 8:28:41p Catan says, "we not strong. enough"
+4/14/25 8:28:57p Magnic says, "c heal me"
+4/14/25 8:28:57p *Healing  
+4/14/25 8:28:57p •To heal from a distance, type: \USE <person>
+4/14/25 8:28:57p •To lock your healing to someone, type: \USE /lock or \USE /lock <person>
+4/14/25 8:28:57p •To unlock your healing, heal someone else or type: \USE /unlock or \USE /lock /off
+4/14/25 8:28:57p •To stop healing, unequip this, or type: \USE /off
+4/14/25 8:29:01p Magnic says, "c heal me"
+4/14/25 8:29:02p *Healing Magnic 
+4/14/25 8:29:18p Magnic says, "c heal catan"
+4/14/25 8:29:18p *Healing Catan 
+4/14/25 8:29:19p •Catan’s body has been maimed more severely than you can heal.
+4/14/25 8:29:26p •Catan’s body has been maimed more severely than you can heal.
+4/14/25 8:29:32p •Catan’s wounds are much more severe than you can heal.
+4/14/25 8:29:33p Magnic says, "u got a chain"
+4/14/25 8:29:39p •Catan’s body has been maimed more severely than you can heal.
+4/14/25 8:29:41p Woolf says, "y/eq ch"
+4/14/25 8:29:45p •Catan’s body has been maimed more severely than you can heal.
+4/14/25 8:29:51p •The player must be in the same area.
+4/14/25 8:29:52p Unholy ponders, "out of range"
+4/14/25 8:30:18p ZipLock turns to stone.
+4/14/25 8:30:29p * Healing Catan 
+4/14/25 8:30:29p •Catan’s body is far too mangled for you to heal.
+4/14/25 8:30:36p •Catan’s body is far too mangled for you to heal.
+4/14/25 8:30:43p •Catan’s body is far too mangled for you to heal.
+4/14/25 8:30:49p •Catan’s body is far too mangled for you to heal.
+4/14/25 8:30:55p Woolf says, "mangled"
+4/14/25 8:30:56p •Catan’s body is far too mangled for you to heal.
+4/14/25 8:31:02p •Catan’s body is far too mangled for you to heal.
+4/14/25 8:31:04p Magnic says, "dumb tree"
+4/14/25 8:31:09p •Catan’s body is far too mangled for you to heal.
+4/14/25 8:31:10p Catan says, "You warned me"
+4/14/25 8:31:16p •Catan’s body is far too mangled for you to heal.
+4/14/25 8:31:20p Catan says, "abotu the fact taht trees"
+4/14/25 8:31:22p •Catan’s body is far too mangled for you to heal.
+4/14/25 8:31:29p •Catan’s body is far too mangled for you to heal.
+4/14/25 8:31:31p Unholy says, "i got this ill get cat food"
+4/14/25 8:31:32p Catan says, "would ruin our fun if found here"
+4/14/25 8:31:35p •Catan’s body is far too mangled for you to heal.
+4/14/25 8:31:42p •Catan’s body is far too mangled for you to heal.
+4/14/25 8:31:43p •The player must be in the same area.
+4/14/25 8:31:44p Unholy ponders, "out of range"
+4/14/25 8:31:54p * Healing Unholy 
+4/14/25 8:31:54p •You cannot use your caduceus on yourself.
+4/14/25 8:31:54p You equip your moonstone.
+4/14/25 8:32:13p * You gain experience.
+4/14/25 8:32:13p * Your new pet will be waiting for you back at the stables with all their friends.
+4/14/25 8:32:13p The cat seems hungry.
+4/14/25 8:32:30p • /SLEEP when you wish to begin studying.
+4/14/25 8:32:33p Use \SLEEP again when you return.
+4/14/25 8:32:34p You are done adventuring for a while and will be staying here.
+4/14/25 8:32:34p You have been disconnected from Clan Lord.
+4/14/25 8:32:35p • You will benefit from staying here while you are off-line.
+4/14/25 8:32:35p *** We are no longer connected to the Clan Lord game server. ***

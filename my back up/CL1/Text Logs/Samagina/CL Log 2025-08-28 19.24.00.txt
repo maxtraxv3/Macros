@@ -1,0 +1,185 @@
+
+8/28/25 7:24:01p * Your shirt named “dark grey” is in very good condition.
+8/28/25 7:24:01p * Your pair of pants named “dark grey” is in very good condition.
+8/28/25 7:24:01p Welcome to Clan Lord, Samagina!
+8/28/25 7:24:01p Type \HELP for a list of commands.
+8/28/25 7:24:01p • You gain experience from your recent studies.
+8/28/25 7:24:01p Samagina is now Clanning.
+8/28/25 7:24:01p You have been studying for 2 days, 23 hours, 26 minutes.
+8/28/25 7:24:01p • Your ship has arrived at the Far Western Isles.
+8/28/25 7:24:04p It's 9:00pm on Fordi, day 14 of Autumn, 642.
+8/28/25 7:24:04p Friends online: none.
+8/28/25 7:24:05p •Your study of creatures is progressing.
+8/28/25 7:24:05p You are the only member of Black Phoenix clanning.
+8/28/25 7:24:05p • What’s New: https://deltatao.com/clanlord/news
+8/28/25 7:24:15p * Tip of the day: Client commands must be typed in full. Other commands can be abbreviated to the shortest unique piece. (Use /OPTIONS to turn tips off.)
+8/28/25 7:24:15p Sardock exclaims, "Bah! Paradise? My foot!"
+8/28/25 7:24:21p Liffey says, "Hello, Samagina. Would you like to go diving in our lagoon? It costs 5 coins."
+8/28/25 7:24:24p Sardock exclaims, "Sardock do this. Sardock do that. Sardock shut up. But I can't. Someone must speak out!"
+8/28/25 7:24:25p Liffey asks, "Would you like to go diving in our lagoon?"
+8/28/25 7:24:26p Samagina says, "yes"
+8/28/25 7:24:33p You equip your water breathing potion bandolier named “8”.
+8/28/25 7:24:47p * Your water breathing potion bandolier now contains 7 potions of water breathing.
+8/28/25 7:24:51p You equip your potion of water breathing.
+8/28/25 7:24:59p You drink a potion.
+8/28/25 7:25:07p * You need a breath of air!
+8/28/25 7:25:15p * You need a breath of air!
+8/28/25 7:25:30p You report, "8/28/25 7:24:25p Liffey asks, "Would you like to go diving in our lagoon?"
+8/28/25 7:24:26p Samagina says, "yes"
+8/28/25 7:24:33p You equip your water breathing potion bandolier named “8”.
+8/28/25 7:24:47p * Your water breathing potion bandolier now contains 7 potions of water breathing.
+8/28/25 7:24:51p You equip your potion of water breathing.
+8/28/25 7:24:59p You drink a potion.
+8/28/25 7:25:07p * You need a breath of air!
+8/28/25 7:25:15p * You need a breath of air!"
+8/28/25 7:25:31p Your bug report has been recorded, and will be reviewed by a Game Master within two to four weeks.
+8/28/25 7:25:31p While it is rarely practical for GMs to respond to a bug report, please be assured that your contributions are appreciated.
+8/28/25 7:25:31p Samagina says, "8/28/25 7:24:26p Samagina says, "yes""
+8/28/25 7:25:31p Samagina says, "8/28/25 7:24:33p You equip your water breathing potion bandolier named “8”."
+8/28/25 7:25:32p Samagina says, "8/28/25 7:24:47p * Your water breathing potion bandolier now contains 7 potions of water breathing."
+8/28/25 7:25:32p Samagina says, "8/28/25 7:24:51p You equip your potion of water breathing."
+8/28/25 7:25:33p Samagina says, "8/28/25 7:24:59p You drink a potion."
+8/28/25 7:25:33p Samagina exclaims, "8/28/25 7:25:07p * You need a breath of air!"
+8/28/25 7:25:33p Samagina exclaims, "8/28/25 7:25:15p * You need a breath of air!"
+8/28/25 7:26:39p You report, "8/28/25 7:24:25p Liffey asks, "Would you like to go diving in our lagoon?"8/28/25 7:24:26p Samagina says, "yes"8/28/25 7:24:33p You equip your water breathing potion bandolier named “8”.8/28/25 7:24:47p * Your water breathing potion bandolier now contains 7 potions of water breathing.8/28/25 7:24:51p You equip your potion of water breathing.8/28/25 7:24:59p You drink a potion.8/28/25 7:25:07p * You need a breath of air!8/28/25 7:25:15p * You need a breath of air!"
+8/28/25 7:26:39p Your bug report has been recorded, and will be reviewed by a Game Master within two to four weeks.
+8/28/25 7:26:39p While it is rarely practical for GMs to respond to a bug report, please be assured that your contributions are appreciated.
+8/28/25 7:26:50p * Your water breathing potion bandolier now contains 6 potions of water breathing.
+8/28/25 7:26:54p You equip your potion of water breathing.
+8/28/25 7:26:58p You drink a potion.
+8/28/25 7:27:01p You have 1258 coins.
+8/28/25 7:27:14p You equip your gossamer.
+8/28/25 7:28:24p You found a piece of coral!
+8/28/25 7:28:37p You slaughtered a Cod.
+8/28/25 7:29:58p You have 1258 coins.
+8/28/25 7:30:31p * Your water breathing potion bandolier now contains 5 potions of water breathing.
+8/28/25 7:30:34p You equip your potion of water breathing.
+8/28/25 7:30:36p You drink a potion.
+8/28/25 7:30:38p You equip your gossamer.
+8/28/25 7:31:04p You slaughtered a Cod.
+8/28/25 7:32:51p You slaughtered a Shredder.
+8/28/25 7:32:55p You have 1258 coins.
+8/28/25 7:33:10p You slaughtered a Cod.
+8/28/25 7:33:24p You found a piece of coral!
+8/28/25 7:33:47p You found a brown sand dollar!
+8/28/25 7:34:07p * You can't hold your breath for much longer!
+8/28/25 7:34:18p You slaughtered a Barracuda.
+8/28/25 7:34:28p * Your water breathing potion bandolier now contains 4 potions of water breathing.
+8/28/25 7:34:29p * You can't hold your breath for much longer!
+8/28/25 7:34:39p You slaughtered a Shredder.
+8/28/25 7:34:40p * You need a breath of air!
+8/28/25 7:34:46p You slaughtered a Barracuda.
+8/28/25 7:34:48p * You need a breath of air!
+8/28/25 7:34:51p You equip your potion of water breathing.
+8/28/25 7:34:52p You drink a potion.
+8/28/25 7:34:55p You equip your gossamer.
+8/28/25 7:35:08p You slaughtered a Barracuda.
+8/28/25 7:35:20p You slaughtered a Shredder.
+8/28/25 7:35:40p You found a white sand dollar!
+8/28/25 7:35:52p You have 1258 coins.
+8/28/25 7:36:08p Trying to store that in Davy Jones’ Locker?
+8/28/25 7:36:28p An engraved metal plaque reads, "In honor of the first travelers from Peaceton. Rest in peace."
+8/28/25 7:37:05p A strong current pushes you back.
+8/28/25 7:37:52p You slaughtered a Barracuda.
+8/28/25 7:38:01p You slaughtered a Barracuda.
+8/28/25 7:38:13p * You can't hold your breath for much longer!
+8/28/25 7:38:28p You slaughtered a Shredder.
+8/28/25 7:38:39p * Your water breathing potion bandolier now contains 3 potions of water breathing.
+8/28/25 7:38:51p You have 1258 coins.
+8/28/25 7:38:52p * You can't hold your breath for much longer!
+8/28/25 7:38:54p For help, type “/use ?”
+8/28/25 7:38:56p * You need a breath of air!
+8/28/25 7:39:00p You equip your potion of water breathing.
+8/28/25 7:39:01p You drink a potion.
+8/28/25 7:39:29p You equip your gossamer.
+8/28/25 7:39:39p You slaughtered a Barracuda.
+8/28/25 7:39:49p You slaughtered a Shredder.
+8/28/25 7:41:48p You have 1258 coins.
+8/28/25 7:41:54p Trying to store that in Davy Jones’ Locker?
+8/28/25 7:42:00p Trying to store that in Davy Jones’ Locker?
+8/28/25 7:42:30p You report, "cant drop item on this island becuase it consided underwater."
+8/28/25 7:42:31p Your bug report has been recorded, and will be reviewed by a Game Master within two to four weeks.
+8/28/25 7:42:31p While it is rarely practical for GMs to respond to a bug report, please be assured that your contributions are appreciated.
+8/28/25 7:43:24p You drop your bottle.
+8/28/25 7:43:26p You can't take things out of your pack that quickly.
+8/28/25 7:43:27p You can't take things out of your pack that quickly.
+8/28/25 7:43:29p You drop your bottle.
+8/28/25 7:43:30p You equip your bottle.
+8/28/25 7:43:31p You can't take things out of your pack that quickly.
+8/28/25 7:43:33p You equip your gossamer.
+8/28/25 7:43:34p You drop your bottle.
+8/28/25 7:43:41p You drop your bottle.
+8/28/25 7:43:43p You can't take things out of your pack that quickly.
+8/28/25 7:43:46p You drop your bottle.
+8/28/25 7:44:05p The doors are barred shut.
+8/28/25 7:44:05p You slaughtered a Winged Snake.
+8/28/25 7:44:43p Distortions is now Clanning.
+8/28/25 7:44:47p You have 1258 coins.
+8/28/25 7:44:55p Hunter says, "Hello, Samagina. Would you care to go hunting? It costs 5 coins."
+8/28/25 7:44:58p Samagina says, "yes"
+8/28/25 7:45:01p You slaughtered a Savannah Maha.
+8/28/25 7:45:02p * You recover the Savannah Maha fur, worth 3c. Your share is 3c.
+8/28/25 7:45:07p You slaughtered an Artak Cougar.
+8/28/25 7:45:07p * You recover the Artak Cougar fur, worth 6c. Your share is 6c.
+8/28/25 7:45:09p You slaughtered an Artak Cougar.
+8/28/25 7:45:10p You slaughtered a Carin Viper.
+8/28/25 7:45:12p You slaughtered a Carin Viper.
+8/28/25 7:45:15p You slaughtered a Savannah Maha.
+8/28/25 7:45:15p * You recover the Savannah Maha fur, worth 2c. Your share is 2c.
+8/28/25 7:45:17p You slaughtered a Co'Acha.
+8/28/25 7:45:17p You slaughtered a Crota Winder.
+8/28/25 7:45:22p You slaughtered a Savannah Maha.
+8/28/25 7:45:22p * You recover the Savannah Maha fur, worth 9c. Your share is 9c.
+8/28/25 7:45:24p You slaughtered an Island Panther.
+8/28/25 7:45:25p * You recover the Island Panther fur, worth 2c. Your share is 2c.
+8/28/25 7:45:33p You slaughtered a Savannah Maha.
+8/28/25 7:45:34p * You recover the Savannah Maha fur, worth 4c. Your share is 4c.
+8/28/25 7:45:37p You slaughtered a Carin Viper.
+8/28/25 7:45:41p You slaughtered a Raste Winder.
+8/28/25 7:45:51p You slaughtered a Starbuck.
+8/28/25 7:45:51p * You recover the Starbuck fur, worth 1c. Your share is 1c.
+8/28/25 7:45:52p You slaughtered an Island Panther.
+8/28/25 7:45:53p * You recover the Island Panther fur, worth 2c. Your share is 2c.
+8/28/25 7:45:58p You slaughtered an Island Panther.
+8/28/25 7:45:58p * You recover the Island Panther fur, worth 3c. Your share is 3c.
+8/28/25 7:46:03p You slaughtered an Island Panther.
+8/28/25 7:46:03p * You recover the Island Panther fur, worth 3c. Your share is 3c.
+8/28/25 7:46:03p You slaughtered an Island Panther.
+8/28/25 7:46:04p * You recover the Island Panther fur, worth 2c. Your share is 2c.
+8/28/25 7:46:10p You slaughtered an Artak Cougar.
+8/28/25 7:46:10p * You recover the Artak Cougar fur, worth 6c. Your share is 6c.
+8/28/25 7:46:14p You slaughtered an Island Panther.
+8/28/25 7:46:14p * You recover the Island Panther fur, worth 2c. Your share is 2c.
+8/28/25 7:46:15p You slaughtered an Artak Cougar.
+8/28/25 7:46:16p * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+8/28/25 7:46:18p You slaughtered an Artak Cougar.
+8/28/25 7:46:18p * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+8/28/25 7:46:25p You slaughtered a Venomous Boma Winder.
+8/28/25 7:46:32p You slaughtered a Crota Winder.
+8/28/25 7:46:33p You slaughtered a Crota Winder.
+8/28/25 7:46:53p You slaughtered a Maha Ruknee.
+8/28/25 7:46:53p * You recover the Maha Ruknee fur, worth 3c. Your share is 3c.
+8/28/25 7:47:00p You slaughtered a Savannah Maha.
+8/28/25 7:47:01p * You recover the Savannah Maha fur, worth 3c. Your share is 3c.
+8/28/25 7:47:03p • You need more training to continue your study of the movements of the Boma Winder.
+8/28/25 7:47:03p You slaughtered a Boma Winder.
+8/28/25 7:47:44p You drop your herpetid hide.
+8/28/25 7:47:45p You pick up a herpetid hide.
+8/28/25 7:47:46p You have 1310 coins.
+8/28/25 7:48:18p T'Nerr says, "Greetings, Lord Samagina."
+8/28/25 7:48:18p T'Nerr says, "A ship travels from here to Puddleby and back."
+8/28/25 7:48:18p T'Nerr says, "The trip costs 35c one-way, and takes less than two days in each direction."
+8/28/25 7:48:19p T'Nerr says, "The ship stays in port for a quarter of a day at each end of the voyage."
+8/28/25 7:48:19p T'Nerr says, "Greetings, Lord Samagina."
+8/28/25 7:48:20p T'Nerr says, "A ship travels from here to Puddleby and back."
+8/28/25 7:48:20p T'Nerr says, "The trip costs 35c one-way, and takes less than two days in each direction."
+8/28/25 7:48:21p T'Nerr says, "The ship stays in port for a quarter of a day at each end of the voyage."
+8/28/25 7:48:23p T'Kett says, "Greetings, Lord Samagina. The ship is currently headed for Puddleby."
+8/28/25 7:48:24p T'Kett says, "It should be arriving here in one day, 9 hours, 31 minutes."
+8/28/25 7:48:24p T'Kett asks, "Would you like to buy a ticket now, for 35 coins?"
+8/28/25 7:48:26p Samagina says, "yes"
+8/28/25 7:48:27p T'Kett says, "Have a pleasant journey."
+8/28/25 7:48:34p Use \SLEEP again when you return.
+8/28/25 7:48:34p You are done adventuring for a while and will be resting here.
+8/28/25 7:48:35p You have been disconnected from Clan Lord.
+8/28/25 7:48:35p • You will benefit from resting here while you are off-li

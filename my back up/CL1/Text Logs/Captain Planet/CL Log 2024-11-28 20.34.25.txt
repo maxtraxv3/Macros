@@ -1,0 +1,577 @@
+
+11/28/24 8:34:25p * Your pair of shoes named “white” is in very good condition.
+11/28/24 8:34:25p * Your shirt named “Dark Red” is in very good condition.
+11/28/24 8:34:25p * Your pair of fourth-circle pants named “turquoise” is in very good condition.
+11/28/24 8:34:25p Welcome to Clan Lord, Captain Planet!
+11/28/24 8:34:25p Type \HELP for a list of commands.
+11/28/24 8:34:25p • You gain experience from your recent studies.
+11/28/24 8:34:25p Type /healer for commands if you forget
+11/28/24 8:34:25p Captain Planet is now Clanning.
+11/28/24 8:34:25p The healing spell has started.
+11/28/24 8:34:25p You have been studying for 5 days, 22 hours, 35 minutes.
+11/28/24 8:34:28p It's 6:09am on Gradi, day 68 of Summer, 639.
+11/28/24 8:34:28p Friends online: none.
+11/28/24 8:34:29p You are the only member of Black Phoenix clanning.
+11/28/24 8:34:29p • What's New: Missing exploration experience announced for this version was eaten by server hamsters. This will instead take effect at the next Chaos Storm. For other news, see https://deltatao.com/clanlord/news/
+11/28/24 8:34:39p * Tip of the day: You can’t be pushed if you’re asleep. (Use /OPTIONS to turn tips off.)
+11/28/24 8:34:49p •You notice yourself recovering your energy and healing others faster.
+11/28/24 8:35:01p Booboo growls, "Zzzzzz."
+11/28/24 8:35:02p You equip your moonstone.
+11/28/24 8:35:07p You equip your asklepian staff.
+11/28/24 8:35:19p Pete McGyver says, "Hi Captain Planet! Let me know the name of the pet you'd like to get from the stables."
+11/28/24 8:35:20p Captain Planet says, "s"
+11/28/24 8:35:20p Pete McGyver says, "I don't seem to have a pet named S..."
+11/28/24 8:35:21p Pete McGyver says, "Let's see here, you've got Skirbbles..."
+11/28/24 8:35:22p Pete McGyver says, "Let's see here, you've got Cheeser..."
+11/28/24 8:35:23p Pete McGyver says, "And that's all you've got! Let me know if I can get one of them."
+11/28/24 8:35:36p Pete McGyver says, "Hi Captain Planet! Let me know the name of the pet you'd like to get from the stables."
+11/28/24 8:35:36p Captain Planet says, "Skirbbles"
+11/28/24 8:35:36p Pete McGyver exclaims, "There you go! Enjoy!"
+11/28/24 8:35:39p Captain Planet whispers, "Attack"
+11/28/24 8:35:41p You slaughtered a Rat.
+11/28/24 8:35:41p Skirbbles slaughtered a Rat.
+11/28/24 8:36:23p You slaughtered a Vermine.
+11/28/24 8:36:23p Skirbbles slaughtered a Vermine.
+11/28/24 8:36:25p You slaughtered a Vermine.
+11/28/24 8:36:25p Skirbbles slaughtered a Vermine.
+11/28/24 8:36:26p You slaughtered a Vermine.
+11/28/24 8:36:26p Skirbbles slaughtered a Vermine.
+11/28/24 8:36:30p You slaughtered a Rat.
+11/28/24 8:36:30p Skirbbles slaughtered a Rat.
+11/28/24 8:36:31p You slaughtered a Vermine.
+11/28/24 8:36:31p Skirbbles slaughtered a Vermine.
+11/28/24 8:36:32p You slaughtered a Rat.
+11/28/24 8:36:33p Skirbbles slaughtered a Rat.
+11/28/24 8:36:35p You slaughtered a Vermine.
+11/28/24 8:36:35p Skirbbles slaughtered a Vermine.
+11/28/24 8:36:36p You slaughtered a Vermine.
+11/28/24 8:36:36p Skirbbles slaughtered a Vermine.
+11/28/24 8:36:40p You slaughtered a Vermine.
+11/28/24 8:36:40p Skirbbles slaughtered a Vermine.
+11/28/24 8:36:41p You slaughtered a Vermine.
+11/28/24 8:36:41p Skirbbles slaughtered a Vermine.
+11/28/24 8:36:42p You slaughtered a Rat.
+11/28/24 8:36:42p Skirbbles slaughtered a Rat.
+11/28/24 8:36:43p You slaughtered a Vermine.
+11/28/24 8:36:43p Skirbbles slaughtered a Vermine.
+11/28/24 8:36:51p You slaughtered a Vermine.
+11/28/24 8:36:51p Skirbbles slaughtered a Vermine.
+11/28/24 8:36:58p You slaughtered a Corpse Warrior.
+11/28/24 8:36:59p Skirbbles killed a Corpse Warrior.
+11/28/24 8:37:00p You slaughtered a Vermine.
+11/28/24 8:37:00p Skirbbles slaughtered a Vermine.
+11/28/24 8:37:02p You slaughtered a Vermine.
+11/28/24 8:37:02p Skirbbles slaughtered a Vermine.
+11/28/24 8:37:04p You slaughtered a Rat.
+11/28/24 8:37:04p Skirbbles slaughtered a Rat.
+11/28/24 8:37:06p You slaughtered a Vermine.
+11/28/24 8:37:06p Skirbbles slaughtered a Vermine.
+11/28/24 8:37:14p You slaughtered a Rat.
+11/28/24 8:37:14p Skirbbles slaughtered a Rat.
+11/28/24 8:37:15p You slaughtered a Vermine.
+11/28/24 8:37:16p Skirbbles slaughtered a Vermine.
+11/28/24 8:37:17p You slaughtered a Vermine.
+11/28/24 8:37:17p Skirbbles slaughtered a Vermine.
+11/28/24 8:37:23p You slaughtered a Giant Vermine.
+11/28/24 8:37:23p Skirbbles killed a Giant Vermine.
+11/28/24 8:37:23p * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+11/28/24 8:37:25p You slaughtered a Vermine.
+11/28/24 8:37:25p Skirbbles slaughtered a Vermine.
+11/28/24 8:37:29p You slaughtered a Rat.
+11/28/24 8:37:29p Skirbbles slaughtered a Rat.
+11/28/24 8:37:36p You slaughtered a Vermine.
+11/28/24 8:37:36p Skirbbles slaughtered a Vermine.
+11/28/24 8:37:38p You slaughtered a Vermine.
+11/28/24 8:37:38p Skirbbles slaughtered a Vermine.
+11/28/24 8:37:40p You slaughtered a Vermine.
+11/28/24 8:37:40p Skirbbles slaughtered a Vermine.
+11/28/24 8:37:42p You slaughtered a Giant Vermine.
+11/28/24 8:37:42p Skirbbles killed a Giant Vermine.
+11/28/24 8:37:42p * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+11/28/24 8:37:45p You slaughtered a Vermine.
+11/28/24 8:37:46p Skirbbles slaughtered a Vermine.
+11/28/24 8:37:49p You slaughtered a Vermine.
+11/28/24 8:37:49p Skirbbles slaughtered a Vermine.
+11/28/24 8:37:51p You slaughtered a Rat.
+11/28/24 8:37:52p Skirbbles slaughtered a Rat.
+11/28/24 8:37:53p You slaughtered a Vermine.
+11/28/24 8:37:53p Skirbbles slaughtered a Vermine.
+11/28/24 8:37:57p You slaughtered a Rat.
+11/28/24 8:37:57p Skirbbles slaughtered a Rat.
+11/28/24 8:37:58p You slaughtered a Vermine.
+11/28/24 8:37:58p Skirbbles slaughtered a Vermine.
+11/28/24 8:37:58p * You recover the Vermine fur, worth 1c. Your share is 1c.
+11/28/24 8:37:59p You slaughtered a Vermine.
+11/28/24 8:37:59p Skirbbles slaughtered a Vermine.
+11/28/24 8:38:00p You slaughtered a Vermine.
+11/28/24 8:38:01p Skirbbles slaughtered a Vermine.
+11/28/24 8:38:03p A monster growls, "Meh."
+11/28/24 8:38:03p You slaughtered a Vermine.
+11/28/24 8:38:03p Skirbbles slaughtered a Vermine.
+11/28/24 8:38:08p You slaughtered a Vermine.
+11/28/24 8:38:09p Skirbbles slaughtered a Vermine.
+11/28/24 8:38:09p * You recover the Vermine fur, worth 1c. Your share is 1c.
+11/28/24 8:38:19p You slaughtered a T'rool.
+11/28/24 8:38:19p Skirbbles killed a T'rool.
+11/28/24 8:38:21p You slaughtered a Vermine.
+11/28/24 8:38:21p Skirbbles slaughtered a Vermine.
+11/28/24 8:38:31p You vault the wall.
+11/28/24 8:39:07p Skirbbles twitches his tail.
+11/28/24 8:39:34p Optimus Phoenix is now Clanning.
+11/28/24 8:40:04p * You gain experience.
+11/28/24 8:40:04p The cat seems hungry.
+11/28/24 8:40:14p You have 1260 coins.
+11/28/24 8:40:31p Optimus Phoenix is no longer Clanning.
+11/28/24 8:40:46p Vivo Ladi is now Clanning.
+11/28/24 8:40:48p You slaughtered an Island Panther.
+11/28/24 8:40:48p Skirbbles killed an Island Panther.
+11/28/24 8:40:52p You slaughtered a Vermine.
+11/28/24 8:40:52p Skirbbles slaughtered a Vermine.
+11/28/24 8:41:04p You slaughtered a Giant Slug.
+11/28/24 8:41:04p Skirbbles slaughtered a Giant Slug.
+11/28/24 8:41:09p You slaughtered a Rat.
+11/28/24 8:41:09p Skirbbles slaughtered a Rat.
+11/28/24 8:41:16p You slaughtered a Rat.
+11/28/24 8:41:16p Skirbbles slaughtered a Rat.
+11/28/24 8:41:40p You slaughtered an Artak Cougar.
+11/28/24 8:41:41p Skirbbles vanquished an Artak Cougar!
+11/28/24 8:41:41p * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+11/28/24 8:41:48p You slaughtered an Island Panther.
+11/28/24 8:41:48p Skirbbles killed an Island Panther.
+11/28/24 8:42:00p You slaughtered a Young Rockodile.
+11/28/24 8:42:00p Skirbbles killed a Young Rockodile.
+11/28/24 8:42:00p You slaughtered a Rat.
+11/28/24 8:42:01p Skirbbles slaughtered a Rat.
+11/28/24 8:42:01p You equip your moonstone.
+11/28/24 8:42:01p •The healing spell has been broken.
+11/28/24 8:42:11p You slaughtered an Artak Cougar.
+11/28/24 8:42:11p Skirbbles killed an Artak Cougar.
+11/28/24 8:42:12p You slaughtered an Artak Cougar.
+11/28/24 8:42:13p Skirbbles killed an Artak Cougar.
+11/28/24 8:42:21p You slaughtered an Artak Cougar.
+11/28/24 8:42:21p Skirbbles vanquished an Artak Cougar!
+11/28/24 8:42:26p Vivo Ladi is no longer Clanning.
+11/28/24 8:42:33p You slaughtered an Artak Cougar.
+11/28/24 8:42:34p Skirbbles vanquished an Artak Cougar!
+11/28/24 8:42:47p You slaughtered a Rat.
+11/28/24 8:42:47p Skirbbles slaughtered a Rat.
+11/28/24 8:42:52p You equip your asklepian staff.
+11/28/24 8:42:59p You equip your moonstone.
+11/28/24 8:43:05p Skirbbles swats Captain Planet playfully.
+11/28/24 8:43:06p You slaughtered an Artak Cougar.
+11/28/24 8:43:06p Skirbbles killed an Artak Cougar.
+11/28/24 8:43:11p You slaughtered a Vermine.
+11/28/24 8:43:11p Skirbbles slaughtered a Vermine.
+11/28/24 8:43:21p You slaughtered an Island Panther.
+11/28/24 8:43:22p Skirbbles slaughtered an Island Panther.
+11/28/24 8:43:38p You slaughtered a Rat.
+11/28/24 8:43:38p Skirbbles slaughtered a Rat.
+11/28/24 8:43:46p You slaughtered an Island Panther.
+11/28/24 8:43:47p Skirbbles slaughtered an Island Panther.
+11/28/24 8:43:59p You slaughtered an Island Panther.
+11/28/24 8:44:00p Skirbbles dispatched an Island Panther.
+11/28/24 8:44:00p * You recover the Island Panther fur, worth 2c. Your share is 2c.
+11/28/24 8:44:02p You slaughtered an Artak Cougar.
+11/28/24 8:44:02p Skirbbles killed an Artak Cougar.
+11/28/24 8:44:03p You slaughtered a Vermine.
+11/28/24 8:44:03p Skirbbles slaughtered a Vermine.
+11/28/24 8:44:10p You slaughtered an Island Panther.
+11/28/24 8:44:10p Skirbbles slaughtered an Island Panther.
+11/28/24 8:44:10p * You recover the Island Panther fur, worth 4c. Your share is 4c.
+11/28/24 8:44:27p You slaughtered a Vermine.
+11/28/24 8:44:27p Skirbbles slaughtered a Vermine.
+11/28/24 8:44:35p You slaughtered an Orga.
+11/28/24 8:44:35p Skirbbles slaughtered an Orga.
+11/28/24 8:44:37p You slaughtered a Rat.
+11/28/24 8:44:38p Skirbbles slaughtered a Rat.
+11/28/24 8:44:39p You slaughtered a Rat.
+11/28/24 8:44:39p Skirbbles slaughtered a Rat.
+11/28/24 8:44:41p You slaughtered a Rat.
+11/28/24 8:44:41p Skirbbles slaughtered a Rat.
+11/28/24 8:44:45p You slaughtered an Orga.
+11/28/24 8:44:45p Skirbbles slaughtered an Orga.
+11/28/24 8:44:57p You slaughtered a Large Vermine.
+11/28/24 8:44:57p Skirbbles slaughtered a Large Vermine.
+11/28/24 8:45:02p You slaughtered an Emerald Scorp.
+11/28/24 8:45:02p Skirbbles slaughtered an Emerald Scorp.
+11/28/24 8:45:16p You equip your asklepian staff.
+11/28/24 8:45:16p Skirbbles catches his tail.
+11/28/24 8:45:17p You slaughtered a Bolok Cougar.
+11/28/24 8:45:18p Skirbbles vanquished a Bolok Cougar!
+11/28/24 8:45:24p You slaughtered a Large Vermine.
+11/28/24 8:45:24p Skirbbles dispatched a Large Vermine.
+11/28/24 8:45:26p You slaughtered a Rat.
+11/28/24 8:45:26p Skirbbles slaughtered a Rat.
+11/28/24 8:45:31p You equip your moonstone.
+11/28/24 8:45:36p You slaughtered a Large Vermine.
+11/28/24 8:45:36p Skirbbles killed a Large Vermine.
+11/28/24 8:45:42p You slaughtered an Artak Cougar.
+11/28/24 8:45:42p Skirbbles killed an Artak Cougar.
+11/28/24 8:45:42p * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+11/28/24 8:45:50p You equip your asklepian staff.
+11/28/24 8:45:51p You slaughtered an Island Panther.
+11/28/24 8:45:51p Skirbbles killed an Island Panther.
+11/28/24 8:45:55p You equip your moonstone.
+11/28/24 8:45:55p •The healing spell has been broken.
+11/28/24 8:45:55p You slaughtered a Vermine.
+11/28/24 8:45:55p Skirbbles slaughtered a Vermine.
+11/28/24 8:45:57p You slaughtered a Rat.
+11/28/24 8:45:57p Skirbbles slaughtered a Rat.
+11/28/24 8:45:59p You slaughtered a Vermine.
+11/28/24 8:45:59p Skirbbles slaughtered a Vermine.
+11/28/24 8:46:06p You slaughtered an Artak Cougar.
+11/28/24 8:46:07p Skirbbles killed an Artak Cougar.
+11/28/24 8:46:07p * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+11/28/24 8:46:10p You slaughtered a Giant Vermine.
+11/28/24 8:46:10p Skirbbles dispatched a Giant Vermine.
+11/28/24 8:46:13p You slaughtered a Vermine.
+11/28/24 8:46:13p Skirbbles slaughtered a Vermine.
+11/28/24 8:46:19p You slaughtered a Large Vermine.
+11/28/24 8:46:19p Skirbbles slaughtered a Large Vermine.
+11/28/24 8:46:19p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+11/28/24 8:46:20p You slaughtered a Vermine.
+11/28/24 8:46:20p Skirbbles slaughtered a Vermine.
+11/28/24 8:46:24p You slaughtered an Artak Cougar.
+11/28/24 8:46:24p Skirbbles killed an Artak Cougar.
+11/28/24 8:46:30p Ebigano is no longer Clanning.
+11/28/24 8:46:30p You slaughtered a Large Vermine.
+11/28/24 8:46:30p Skirbbles killed a Large Vermine.
+11/28/24 8:46:30p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+11/28/24 8:46:32p You equip your asklepian staff.
+11/28/24 8:46:38p You slaughtered a Giant Vermine.
+11/28/24 8:46:38p Skirbbles killed a Giant Vermine.
+11/28/24 8:46:38p * You recover the Giant Vermine fur, worth 3c. Your share is 3c.
+11/28/24 8:46:39p You slaughtered a Vermine.
+11/28/24 8:46:39p Skirbbles slaughtered a Vermine.
+11/28/24 8:46:51p You slaughtered an Artak Cougar.
+11/28/24 8:46:51p Skirbbles killed an Artak Cougar.
+11/28/24 8:46:59p You slaughtered a Rat.
+11/28/24 8:46:59p Skirbbles slaughtered a Rat.
+11/28/24 8:47:01p You slaughtered a Vermine.
+11/28/24 8:47:01p Skirbbles slaughtered a Vermine.
+11/28/24 8:47:07p You slaughtered an Island Panther.
+11/28/24 8:47:07p Skirbbles killed an Island Panther.
+11/28/24 8:47:09p You slaughtered an Island Panther.
+11/28/24 8:47:09p Skirbbles killed an Island Panther.
+11/28/24 8:47:09p * You recover the Island Panther fur, worth 4c. Your share is 4c.
+11/28/24 8:47:13p You slaughtered a Giant Vermine.
+11/28/24 8:47:13p Skirbbles killed a Giant Vermine.
+11/28/24 8:47:15p You equip your moonstone.
+11/28/24 8:47:23p Trasken is now Clanning.
+11/28/24 8:47:24p You slaughtered a Giant Vermine.
+11/28/24 8:47:24p Skirbbles killed a Giant Vermine.
+11/28/24 8:47:29p You slaughtered a Vermine.
+11/28/24 8:47:29p Skirbbles slaughtered a Vermine.
+11/28/24 8:47:33p You slaughtered an Island Panther.
+11/28/24 8:47:33p Skirbbles killed an Island Panther.
+11/28/24 8:47:37p You slaughtered a Vermine.
+11/28/24 8:47:37p You equip your asklepian staff.
+11/28/24 8:47:37p Skirbbles slaughtered a Vermine.
+11/28/24 8:47:38p Trasken is no longer Clanning.
+11/28/24 8:47:42p You slaughtered a Large Vermine.
+11/28/24 8:47:43p Skirbbles killed a Large Vermine.
+11/28/24 8:47:50p You slaughtered a Large Vermine.
+11/28/24 8:47:50p Skirbbles dispatched a Large Vermine.
+11/28/24 8:47:52p You slaughtered an Artak Cougar.
+11/28/24 8:47:52p Skirbbles vanquished an Artak Cougar!
+11/28/24 8:47:54p You slaughtered a Large Vermine.
+11/28/24 8:47:54p Skirbbles killed a Large Vermine.
+11/28/24 8:47:55p Tommy Pulmfinga is now Clanning.
+11/28/24 8:47:56p You slaughtered a Rat.
+11/28/24 8:47:56p Skirbbles slaughtered a Rat.
+11/28/24 8:47:58p You slaughtered a Rat.
+11/28/24 8:47:58p Skirbbles slaughtered a Rat.
+11/28/24 8:48:05p You slaughtered an Island Panther.
+11/28/24 8:48:05p Skirbbles killed an Island Panther.
+11/28/24 8:48:06p Skirbbles swats Captain Planet playfully.
+11/28/24 8:48:13p Tommy Pulmfinga is no longer Clanning.
+11/28/24 8:48:14p You slaughtered a Giant Vermine.
+11/28/24 8:48:15p Skirbbles killed a Giant Vermine.
+11/28/24 8:48:18p You slaughtered a Vermine.
+11/28/24 8:48:18p Skirbbles slaughtered a Vermine.
+11/28/24 8:48:19p You equip your moonstone.
+11/28/24 8:48:19p •The healing spell has been broken.
+11/28/24 8:48:23p You slaughtered an Artak Cougar.
+11/28/24 8:48:23p Skirbbles vanquished an Artak Cougar!
+11/28/24 8:48:27p Slomo is now Clanning.
+11/28/24 8:48:32p You slaughtered an Artak Cougar.
+11/28/24 8:48:32p Skirbbles killed an Artak Cougar.
+11/28/24 8:48:38p You slaughtered a Large Vermine.
+11/28/24 8:48:39p Skirbbles killed a Large Vermine.
+11/28/24 8:48:40p You slaughtered a Giant Vermine.
+11/28/24 8:48:41p Slomo is no longer Clanning.
+11/28/24 8:48:41p Skirbbles killed a Giant Vermine.
+11/28/24 8:48:41p * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+11/28/24 8:48:44p You slaughtered an Island Panther.
+11/28/24 8:48:44p Skirbbles killed an Island Panther.
+11/28/24 8:48:46p You slaughtered a Large Vermine.
+11/28/24 8:48:46p Skirbbles killed a Large Vermine.
+11/28/24 8:48:49p You slaughtered a Giant Vermine.
+11/28/24 8:48:49p Skirbbles killed a Giant Vermine.
+11/28/24 8:48:49p * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+11/28/24 8:49:08p You slaughtered a Large Vermine.
+11/28/24 8:49:08p Skirbbles killed a Large Vermine.
+11/28/24 8:49:08p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+11/28/24 8:49:15p You slaughtered a Vermine.
+11/28/24 8:49:15p Skirbbles slaughtered a Vermine.
+11/28/24 8:49:38p You slaughtered an Artak Cougar.
+11/28/24 8:49:38p Skirbbles killed an Artak Cougar.
+11/28/24 8:49:51p You equip your asklepian staff.
+11/28/24 8:50:10p You equip your moonstone.
+11/28/24 8:50:13p You slaughtered a Large Vermine.
+11/28/24 8:50:13p Skirbbles dispatched a Large Vermine.
+11/28/24 8:50:15p You slaughtered a Large Vermine.
+11/28/24 8:50:15p Skirbbles killed a Large Vermine.
+11/28/24 8:50:19p You slaughtered a Large Vermine.
+11/28/24 8:50:19p Skirbbles killed a Large Vermine.
+11/28/24 8:50:20p You slaughtered a Large Vermine.
+11/28/24 8:50:20p Skirbbles slaughtered a Large Vermine.
+11/28/24 8:50:23p You slaughtered a Large Vermine.
+11/28/24 8:50:23p Skirbbles slaughtered a Large Vermine.
+11/28/24 8:50:27p You slaughtered a Rat.
+11/28/24 8:50:27p Skirbbles slaughtered a Rat.
+11/28/24 8:50:29p You equip your asklepian staff.
+11/28/24 8:50:30p You slaughtered a Vermine.
+11/28/24 8:50:30p Skirbbles slaughtered a Vermine.
+11/28/24 8:50:31p You slaughtered a Large Vermine.
+11/28/24 8:50:31p Skirbbles slaughtered a Large Vermine.
+11/28/24 8:50:34p You slaughtered a Vermine.
+11/28/24 8:50:34p Skirbbles slaughtered a Vermine.
+11/28/24 8:50:37p You slaughtered a Large Vermine.
+11/28/24 8:50:37p Skirbbles killed a Large Vermine.
+11/28/24 8:50:37p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+11/28/24 8:50:43p You slaughtered an Island Panther.
+11/28/24 8:50:44p Skirbbles dispatched an Island Panther.
+11/28/24 8:50:44p * You recover the Island Panther fur, worth 1c. Your share is 1c.
+11/28/24 8:50:45p You equip your moonstone.
+11/28/24 8:50:53p Skirbbles swats Captain Planet playfully.
+11/28/24 8:50:56p You slaughtered a Myrm Scout.
+11/28/24 8:50:56p Skirbbles dispatched a Myrm Scout.
+11/28/24 8:51:02p You slaughtered an Island Panther.
+11/28/24 8:51:02p Skirbbles killed an Island Panther.
+11/28/24 8:51:02p * For recovering the fur, you gain experience.
+11/28/24 8:51:02p * You recover the Island Panther fur, worth 3c. Your share is 3c.
+11/28/24 8:51:10p You slaughtered a Large Vermine.
+11/28/24 8:51:10p Skirbbles killed a Large Vermine.
+11/28/24 8:51:10p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+11/28/24 8:51:17p You equip your asklepian staff.
+11/28/24 8:51:20p You slaughtered an Artak Cougar.
+11/28/24 8:51:21p Skirbbles vanquished an Artak Cougar!
+11/28/24 8:51:21p * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+11/28/24 8:51:26p You slaughtered an Island Panther.
+11/28/24 8:51:26p Skirbbles slaughtered an Island Panther.
+11/28/24 8:51:36p A monster growls, "Die!"
+11/28/24 8:51:47p You equip your moonstone.
+11/28/24 8:51:49p You slaughtered a Bolok Cougar.
+11/28/24 8:51:49p Skirbbles vanquished a Bolok Cougar!
+11/28/24 8:51:49p * You recover the Bolok Cougar fur, worth 3c. Your share is 3c.
+11/28/24 8:51:57p You slaughtered an Artak Cougar.
+11/28/24 8:51:57p Skirbbles killed an Artak Cougar.
+11/28/24 8:52:00p You slaughtered an Orga.
+11/28/24 8:52:01p Skirbbles slaughtered an Orga.
+11/28/24 8:52:09p You slaughtered an Ona Chigger.
+11/28/24 8:52:10p Skirbbles slaughtered an Ona Chigger.
+11/28/24 8:52:21p You slaughtered an Island Panther.
+11/28/24 8:52:21p Skirbbles slaughtered an Island Panther.
+11/28/24 8:52:21p * You recover the Island Panther fur, worth 3c. Your share is 3c.
+11/28/24 8:52:24p You slaughtered an Artak Cougar.
+11/28/24 8:52:25p Skirbbles killed an Artak Cougar.
+11/28/24 8:52:28p You slaughtered a Large Vermine.
+11/28/24 8:52:28p Skirbbles killed a Large Vermine.
+11/28/24 8:52:41p You slaughtered an Artak Cougar.
+11/28/24 8:52:41p Skirbbles killed an Artak Cougar.
+11/28/24 8:52:45p You slaughtered an Island Panther.
+11/28/24 8:52:45p Skirbbles killed an Island Panther.
+11/28/24 8:52:47p You slaughtered a Large Vermine.
+11/28/24 8:52:48p Skirbbles slaughtered a Large Vermine.
+11/28/24 8:52:57p You slaughtered an Artak Cougar.
+11/28/24 8:52:57p Skirbbles killed an Artak Cougar.
+11/28/24 8:53:06p You slaughtered an Artak Cougar.
+11/28/24 8:53:06p Skirbbles killed an Artak Cougar.
+11/28/24 8:53:16p You slaughtered an Artak Cougar.
+11/28/24 8:53:16p Skirbbles killed an Artak Cougar.
+11/28/24 8:53:19p A monster growls, "Mioaw!"
+11/28/24 8:54:09p You slaughtered an Artak Cougar.
+11/28/24 8:54:09p Skirbbles vanquished an Artak Cougar!
+11/28/24 8:54:13p You equip your asklepian staff.
+11/28/24 8:54:16p Mr Moop is now Clanning.
+11/28/24 8:55:02p You slaughtered a Large Vermine.
+11/28/24 8:55:02p Skirbbles killed a Large Vermine.
+11/28/24 8:55:24p Mr Moop is no longer Clanning.
+11/28/24 8:55:42p You slaughtered a Cloud Maha.
+11/28/24 8:55:42p Skirbbles vanquished a Cloud Maha!
+11/28/24 8:55:42p * You recover the Cloud Maha fur, worth 3c. Your share is 3c.
+11/28/24 8:55:45p Aldor is no longer Clanning.
+11/28/24 8:55:49p You slaughtered a Cloud Maha.
+11/28/24 8:55:49p Skirbbles vanquished a Cloud Maha!
+11/28/24 8:55:49p * You recover the Cloud Maha fur, worth 1c. Your share is 1c.
+11/28/24 8:55:53p •The player must be in the same area.
+11/28/24 8:56:01p Skirbbles nuzzles Captain Planet.
+11/28/24 8:56:35p You slaughtered a Rat.
+11/28/24 8:56:35p Skirbbles slaughtered a Rat.
+11/28/24 8:57:08p You slaughtered a Large Vermine.
+11/28/24 8:57:08p Skirbbles killed a Large Vermine.
+11/28/24 8:57:10p You slaughtered a Rat.
+11/28/24 8:57:10p Skirbbles slaughtered a Rat.
+11/28/24 8:57:52p Captain Planet whispers, "Attack"
+11/28/24 8:57:52p You slaughtered a Corpse Warrior.
+11/28/24 8:57:53p Skirbbles killed a Corpse Warrior.
+11/28/24 8:57:59p You equip your moonstone.
+11/28/24 8:58:12p You slaughtered a Corpse Warrior.
+11/28/24 8:58:12p Skirbbles killed a Corpse Warrior.
+11/28/24 8:58:32p You equip your asklepian staff.
+11/28/24 8:58:38p You equip your moonstone.
+11/28/24 8:58:38p •The healing spell has been broken.
+11/28/24 8:58:52p A monster growls, "Hiss!"
+11/28/24 8:58:53p You slaughtered a Detached Spirit.
+11/28/24 8:58:53p Skirbbles vanquished a Detached Spirit!
+11/28/24 8:58:58p You slaughtered a Corpse Warrior.
+11/28/24 8:58:58p Skirbbles killed a Corpse Warrior.
+11/28/24 8:59:08p You slaughtered a Corpse Warrior.
+11/28/24 8:59:08p Skirbbles vanquished a Corpse Warrior!
+11/28/24 8:59:10p You equip your asklepian staff.
+11/28/24 8:59:14p •The player must be in the same area.
+11/28/24 8:59:22p You slaughtered a Vermine.
+11/28/24 8:59:22p Skirbbles slaughtered a Vermine.
+11/28/24 8:59:34p You slaughtered a Myrm Scout.
+11/28/24 8:59:35p Skirbbles killed a Myrm Scout.
+11/28/24 8:59:40p You slaughtered a Vermine.
+11/28/24 8:59:40p Skirbbles slaughtered a Vermine.
+11/28/24 8:59:50p You equip your moonstone.
+11/28/24 8:59:54p You slaughtered a Myrm Farmer.
+11/28/24 8:59:55p Skirbbles slaughtered a Myrm Farmer.
+11/28/24 9:00:01p You slaughtered a Myrm Farmer.
+11/28/24 9:00:01p Skirbbles slaughtered a Myrm Farmer.
+11/28/24 9:00:05p You slaughtered a Myrm Farmer.
+11/28/24 9:00:05p Skirbbles slaughtered a Myrm Farmer.
+11/28/24 9:00:13p You slaughtered a Myrm Farmer.
+11/28/24 9:00:13p Skirbbles slaughtered a Myrm Farmer.
+11/28/24 9:00:24p You slaughtered a Large Vermine.
+11/28/24 9:00:24p Skirbbles killed a Large Vermine.
+11/28/24 9:00:28p You slaughtered a Myrm Protector.
+11/28/24 9:00:28p Skirbbles dispatched a Myrm Protector.
+11/28/24 9:00:32p You slaughtered a Myrm Farmer.
+11/28/24 9:00:32p Skirbbles slaughtered a Myrm Farmer.
+11/28/24 9:00:42p You slaughtered a Feral.
+11/28/24 9:00:42p Skirbbles killed a Feral.
+11/28/24 9:00:48p You slaughtered a Myrm Farmer.
+11/28/24 9:00:48p Skirbbles slaughtered a Myrm Farmer.
+11/28/24 9:00:53p You slaughtered a Myrm Farmer.
+11/28/24 9:00:53p Skirbbles slaughtered a Myrm Farmer.
+11/28/24 9:00:58p You slaughtered a Myrm Farmer.
+11/28/24 9:00:59p Skirbbles slaughtered a Myrm Farmer.
+11/28/24 9:01:32p You slaughtered a Myrm Farmer.
+11/28/24 9:01:32p Skirbbles slaughtered a Myrm Farmer.
+11/28/24 9:01:36p You slaughtered a Myrm Farmer.
+11/28/24 9:01:36p Skirbbles slaughtered a Myrm Farmer.
+11/28/24 9:01:38p You slaughtered a Myrm Farmer.
+11/28/24 9:01:38p Skirbbles slaughtered a Myrm Farmer.
+11/28/24 9:01:41p You slaughtered a Myrm Farmer.
+11/28/24 9:01:41p Skirbbles slaughtered a Myrm Farmer.
+11/28/24 9:01:47p You slaughtered a Myrm Farmer.
+11/28/24 9:01:48p Skirbbles slaughtered a Myrm Farmer.
+11/28/24 9:01:55p You slaughtered a Myrm Worker.
+11/28/24 9:01:56p Skirbbles slaughtered a Myrm Worker.
+11/28/24 9:02:01p You slaughtered a Myrm Farmer.
+11/28/24 9:02:01p Skirbbles slaughtered a Myrm Farmer.
+11/28/24 9:02:09p You slaughtered a Myrm Worker.
+11/28/24 9:02:10p Skirbbles slaughtered a Myrm Worker.
+11/28/24 9:02:18p You slaughtered a Myrm Worker.
+11/28/24 9:02:18p Skirbbles slaughtered a Myrm Worker.
+11/28/24 9:02:23p You slaughtered a Myrm Farmer.
+11/28/24 9:02:23p Skirbbles slaughtered a Myrm Farmer.
+11/28/24 9:02:31p You slaughtered a Myrm Farmer.
+11/28/24 9:02:31p Skirbbles slaughtered a Myrm Farmer.
+11/28/24 9:02:39p You slaughtered a Myrm Farmer.
+11/28/24 9:02:40p Skirbbles slaughtered a Myrm Farmer.
+11/28/24 9:02:40p * You recover the Myrm Farmer mandibles, worth 1c. Your share is 1c.
+11/28/24 9:03:00p You slaughtered a Myrm Farmer.
+11/28/24 9:03:00p Skirbbles slaughtered a Myrm Farmer.
+11/28/24 9:03:13p You slaughtered a Myrm Farmer.
+11/28/24 9:03:14p Skirbbles slaughtered a Myrm Farmer.
+11/28/24 9:03:27p You slaughtered a Myrm Farmer.
+11/28/24 9:03:27p Skirbbles slaughtered a Myrm Farmer.
+11/28/24 9:03:32p You slaughtered a Myrm Farmer.
+11/28/24 9:03:32p Skirbbles slaughtered a Myrm Farmer.
+11/28/24 9:03:43p You slaughtered a Myrm Worker.
+11/28/24 9:03:44p Skirbbles slaughtered a Myrm Worker.
+11/28/24 9:04:02p You slaughtered a Myrm Worker.
+11/28/24 9:04:02p Skirbbles slaughtered a Myrm Worker.
+11/28/24 9:04:12p You slaughtered a Warrior Myrm.
+11/28/24 9:04:12p Skirbbles killed a Warrior Myrm.
+11/28/24 9:04:12p * You recover the Warrior Myrm mandibles, worth 1c. Your share is 1c.
+11/28/24 9:04:23p You slaughtered a Warrior Myrm.
+11/28/24 9:04:23p Skirbbles killed a Warrior Myrm.
+11/28/24 9:04:29p You equip your asklepian staff.
+11/28/24 9:04:29p You slaughtered a Warrior Myrm.
+11/28/24 9:04:29p Skirbbles killed a Warrior Myrm.
+11/28/24 9:04:29p * You recover the Warrior Myrm mandibles, worth 1c. Your share is 1c.
+11/28/24 9:04:34p •You do not have enough spiritual energy.
+11/28/24 9:04:40p You equip your Purgatory pendant.
+11/28/24 9:04:41p You attempt to project into another plane.
+11/28/24 9:04:48p • Your concentration is broken.
+11/28/24 9:04:50p You attempt to project into another plane.
+11/28/24 9:04:54p Lanskar is now Clanning.
+11/28/24 9:05:01p • Your concentration is broken.
+11/28/24 9:05:02p You attempt to project into another plane.
+11/28/24 9:05:05p You slip your Purgatory pendant into your backpack.
+11/28/24 9:05:05p • You feel a strong disturbance in your spirit.
+11/28/24 9:05:07p You equip your Purgatory pendant.
+11/28/24 9:05:07p You attempt to project into another plane.
+11/28/24 9:05:13p • Your concentration is broken.
+11/28/24 9:05:15p You slip your Purgatory pendant into your backpack.
+11/28/24 9:05:15p You equip your Purgatory pendant.
+11/28/24 9:05:16p You attempt to project into another plane.
+11/28/24 9:05:22p • Your concentration is broken.
+11/28/24 9:05:25p You attempt to project into another plane.
+11/28/24 9:05:26p • Your concentration is broken.
+11/28/24 9:05:26p You slip your Purgatory pendant into your backpack.
+11/28/24 9:05:26p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+11/28/24 9:05:27p Captain Planet has fallen to a Male Myrm.
+11/28/24 9:05:27p •You are too wounded to be healed easily.
+11/28/24 9:06:04p ZipLock is now Clanning.
+11/28/24 9:06:12p ZipLock is no longer Clanning.
+11/28/24 9:06:35p Samagina is now Clanning.
+11/28/24 9:09:27p •••
+11/28/24 9:09:27p You have been idle for too long.
+11/28/24 9:09:27p Please do something to avoid being disconnected.
+11/28/24 9:09:27p •••
+11/28/24 9:09:29p You helped slaughter a Noble Myrm.
+11/28/24 9:09:29p * Samagina recovers the Noble Myrm mandibles, worth 1c. Your share is 1c.
+11/28/24 9:09:32p You have 1306 coins.
+11/28/24 9:09:48p You helped slaughter a Myrm Worker.
+11/28/24 9:10:54p You have 1306 coins.
+11/28/24 9:11:05p Samagina starts dragging you.
+11/28/24 9:11:09p Samagina finds an unusual myrm egg.
+11/28/24 9:11:11p Samagina found a myrm egg!
+11/28/24 9:11:15p Samagina finds an unusual myrm egg.
+11/28/24 9:11:17p Samagina found a myrm egg!
+11/28/24 9:11:22p Samagina finds an unusual myrm egg.
+11/28/24 9:11:24p Samagina found a myrm egg!
+11/28/24 9:12:14p You have 1306 coins.
+11/28/24 9:12:23p Lanskar thinks, "buying ethercles"
+11/28/24 9:13:34p You have 1306 coins.
+11/28/24 9:14:12p Samagina vaults the wall.
+11/28/24 9:14:31p You begin sharing your experiences with Squib.
+11/28/24 9:14:32p * Skirbbles fell and can't be healed! You can retrieve your pet from the stable.
+11/28/24 9:14:34p Squib is sharing experiences with you.
+11/28/24 9:14:45p Samagina says, "squib heal cap"
+11/28/24 9:14:46p •You sense healing energy from Squib.
+11/28/24 9:14:49p Koppi yells, "Omega reports: Seeking help aquiring Dark Dream Spell pages 2 thru 9."
+11/28/24 9:14:55p You have 1306 coins.
+11/28/24 9:16:06p Crius yells, "It’s 9 o’clock, and all’s well."
+11/28/24 9:16:11p Crius yells, "There’s good hunting on Kizmia's Island."
+11/28/24 9:16:15p You have 1306 coins.
+11/28/24 9:16:50p Shadowmutt growls, "Woof!"
+11/28/24 9:17:35p You have 1306 coins.
+11/28/24 9:18:55p You have 1306 coins.
+11/28/24 9:19:22p Samagina is no longer Clanning.
+11/28/24 9:20:00p Koppi yells, "Shakyamuni reports: Don't believe the Darshak lies! Gnomes are not Greedy! Save the Gnomes"
+11/28/24 9:20:15p You have 1306 coins.
+11/28/24 9:20:17p • /SLEEP when you wish to begin studying.
+11/28/24 9:20:20p 'cap/sl' is not in the lands.
+11/28/24 9:20:22p Use \SLEEP again when you return.
+11/28/24 9:20:22p You are done adventuring for a while and will be staying here.
+11/28/24 9:20:23p You have been disconnected from Clan Lord.
+11/28/24 9:20:23p • You will benefit from staying here while you are off-line.
+11/28/24 9:20:24p *** We are no longer connected to the Clan Lord game server. ***

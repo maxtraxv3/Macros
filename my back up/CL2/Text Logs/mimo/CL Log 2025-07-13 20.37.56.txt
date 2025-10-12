@@ -1,0 +1,323 @@
+
+7/13/25 8:37:56p * Your healer's cloak is in pretty good shape.
+7/13/25 8:37:56p Welcome to Clan Lord, Mimo!
+7/13/25 8:37:56p Type \HELP for a list of commands.
+7/13/25 8:37:56p • You gain experience from your recent studies.
+7/13/25 8:37:57p *Healer Mode
+7/13/25 8:37:57p * Healer Item set to asklepian staff 
+7/13/25 8:37:57p The healing spell has started.
+7/13/25 8:37:57p You have been studying for one day, 7 hours, 51 minutes.
+7/13/25 8:37:59p It's 9:41pm on Sombdi, day 6 of Spring, 642.
+7/13/25 8:38:00p Friends online: none.
+7/13/25 8:38:01p There are two members of Black Phoenix clanning: Grando and you.
+7/13/25 8:38:01p • What’s New: https://deltatao.com/clanlord/news
+7/13/25 8:38:11p * Tip of the day: /REPORT <PERSON> <REASON> lodges a complaint against someone who is behaving offensively. Please don’t abuse it. (Use /OPTIONS to turn tips off.)
+7/13/25 8:38:25p •The healing spell has been broken.
+7/13/25 8:38:27p Shelka exclaims, "This well is infested with crawling things!"
+7/13/25 8:39:05p * You need a breath of air!
+7/13/25 8:39:12p •The healing spell has been broken.
+7/13/25 8:39:13p * You need a breath of air!
+7/13/25 8:39:59p * Auto Healer ON!
+7/13/25 8:41:02p You have 15 coins.
+7/13/25 8:42:15p Grando is sharing experiences with you.
+7/13/25 8:43:25p Grando says, "c heal me"
+7/13/25 8:43:26p * Auto Healing Grando 
+7/13/25 8:43:50p * Karma Message set to  . 
+7/13/25 8:43:58p  Katreesa added to Karma list
+7/13/25 8:44:01p  Mork added to Karma list
+7/13/25 8:44:02p  Silky added to Karma list
+7/13/25 8:44:04p  Tasus added to Karma list
+7/13/25 8:44:19p  Catan added to Karma list
+7/13/25 8:44:23p You have 15 coins.
+7/13/25 8:45:23p * Auto Thanker Online!
+7/13/25 8:45:23p Katreesa is too far away for your explanation.
+7/13/25 8:45:23p You gave signed good karma to Katreesa.
+7/13/25 8:45:53p Grando says, "c heal me"
+7/13/25 8:45:54p * Auto Healing Grando 
+7/13/25 8:46:28p Grando says, "c heal me"
+7/13/25 8:46:28p * Auto Healing Grando 
+7/13/25 8:47:06p Grando says, "c area"
+7/13/25 8:47:06p • You begin radius healing.
+7/13/25 8:48:05p You have 15 coins.
+7/13/25 8:48:25p • There is nobody nearby enough to continue radius healing.
+7/13/25 8:49:02p Grando says, "c heal me"
+7/13/25 8:49:03p * Auto Healing Grando 
+7/13/25 8:49:44p Grando says, "c area"
+7/13/25 8:49:45p • You begin radius healing.
+7/13/25 8:50:18p • There is nobody nearby enough to continue radius healing.
+7/13/25 8:50:30p Grando says, "c heal me"
+7/13/25 8:50:30p * Auto Healing Grando 
+7/13/25 8:51:07p Grando says, "c area"
+7/13/25 8:51:07p • You begin radius healing.
+7/13/25 8:51:28p Mork is too far away for your explanation.
+7/13/25 8:51:28p You gave signed good karma to Mork.
+7/13/25 8:51:34p Grando says, "c heal me"
+7/13/25 8:51:34p * Auto Healing Grando 
+7/13/25 8:51:55p You have 15 coins.
+7/13/25 8:52:01p Grando says, "c area"
+7/13/25 8:52:02p • You begin radius healing.
+7/13/25 8:52:24p • There is nobody nearby enough to continue radius healing.
+7/13/25 8:53:05p Grando says, "c heal me"
+7/13/25 8:53:05p * Auto Healing Grando 
+7/13/25 8:53:39p Grando says, "c area"
+7/13/25 8:53:39p • You begin radius healing.
+7/13/25 8:54:04p • There is nobody nearby enough to continue radius healing.
+7/13/25 8:54:22p Grando says, "c heal me"
+7/13/25 8:54:22p * Auto Healing Grando 
+7/13/25 8:54:56p Grando says, "c area"
+7/13/25 8:54:56p • You begin radius healing.
+7/13/25 8:55:40p You have 15 coins.
+7/13/25 8:55:57p • There is nobody nearby enough to continue radius healing.
+7/13/25 8:56:33p Grando says, "c heal me"
+7/13/25 8:56:34p * Auto Healing Grando 
+7/13/25 8:56:57p Grando says, "c area"
+7/13/25 8:56:57p • You begin radius healing.
+7/13/25 8:57:19p • There is nobody nearby enough to continue radius healing.
+7/13/25 8:57:28p You have no karma to give.
+7/13/25 8:57:41p Grando says, "c heal me"
+7/13/25 8:57:41p * Auto Healing Grando 
+7/13/25 8:58:02p Grando says, "c area"
+7/13/25 8:58:03p • You begin radius healing.
+7/13/25 8:58:03p • There is nobody nearby enough to continue radius healing.
+7/13/25 8:58:56p Grando says, "c heal me"
+7/13/25 8:58:56p * Auto Healing Grando 
+7/13/25 8:59:25p You have 15 coins.
+7/13/25 8:59:47p Grando says, "c area"
+7/13/25 8:59:47p • You begin radius healing.
+7/13/25 8:59:47p • There is nobody nearby enough to continue radius healing.
+7/13/25 9:00:24p Grando says, "c heal me"
+7/13/25 9:00:24p * Auto Healing Grando 
+7/13/25 9:03:09p You have 15 coins.
+7/13/25 9:03:29p Tasus is too far away for your explanation.
+7/13/25 9:03:29p You gave signed good karma to Tasus.
+7/13/25 9:06:52p You have 15 coins.
+7/13/25 9:09:30p Catan is too far away for your explanation.
+7/13/25 9:09:30p You gave signed good karma to Catan.
+7/13/25 9:10:41p You have 15 coins.
+7/13/25 9:11:00p Dracula thinks, "beer"
+7/13/25 9:11:09p Grando thinks, "Cod!"
+7/13/25 9:12:05p • It’s Midnight on Soldi, the 7th day of Spring in the 642nd year of the Ascendancy, and all’s well.
+7/13/25 9:14:39p You have 15 coins.
+7/13/25 9:15:31p 'Katreesa' is not in the lands.
+7/13/25 9:15:31p * Katreesa will be removed from Karma list.
+7/13/25 9:15:32p Silky is too far away for your explanation.
+7/13/25 9:15:32p You gave signed good karma to Silky.
+7/13/25 9:17:44p Grando says, "c heal me"
+7/13/25 9:17:44p * Auto Healing Grando 
+7/13/25 9:19:01p You have 15 coins.
+7/13/25 9:21:32p Tasus is too far away for your explanation.
+7/13/25 9:21:32p You gave signed good karma to Tasus.
+7/13/25 9:23:04p You have 15 coins.
+7/13/25 9:23:42p Grando says, "c heal me"
+7/13/25 9:23:42p * Auto Healing Grando 
+7/13/25 9:26:53p You have 15 coins.
+7/13/25 9:27:33p Catan is too far away for your explanation.
+7/13/25 9:27:33p You gave signed good karma to Catan.
+7/13/25 9:30:27p Grando says, "c heal me"
+7/13/25 9:30:27p * Auto Healing Grando 
+7/13/25 9:30:37p You have 15 coins.
+7/13/25 9:33:34p Mork is too far away for your explanation.
+7/13/25 9:33:34p You gave signed good karma to Mork.
+7/13/25 9:34:30p You have 15 coins.
+7/13/25 9:38:30p You have 15 coins.
+7/13/25 9:38:36p Grando says, "c heal me"
+7/13/25 9:38:36p * Auto Healing Grando 
+7/13/25 9:39:35p Silky is too far away for your explanation.
+7/13/25 9:39:35p You gave signed good karma to Silky.
+7/13/25 9:42:31p You have 15 coins.
+7/13/25 9:44:59p Grando says, "c heal me"
+7/13/25 9:44:59p * Auto Healing Grando 
+7/13/25 9:45:36p Tasus is too far away for your explanation.
+7/13/25 9:45:36p You gave signed good karma to Tasus.
+7/13/25 9:46:34p You have 15 coins.
+7/13/25 9:49:03p Grando says, "c heal me"
+7/13/25 9:49:03p * Auto Healing Grando 
+7/13/25 9:50:27p You have 15 coins.
+7/13/25 9:51:36p Catan is too far away for your explanation.
+7/13/25 9:51:36p You gave signed good karma to Catan.
+7/13/25 9:54:14p You have 15 coins.
+7/13/25 9:57:31p Grando says, "c heal me"
+7/13/25 9:57:32p * Auto Healing Grando 
+7/13/25 9:57:37p You have no karma to give.
+7/13/25 9:58:00p You have 15 coins.
+7/13/25 9:58:23p Grando says, "c area"
+7/13/25 9:58:24p • You begin radius healing.
+7/13/25 9:58:24p • There is nobody nearby enough to continue radius healing.
+7/13/25 9:58:57p Grando says, "c heal me"
+7/13/25 9:58:57p * Auto Healing Grando 
+7/13/25 10:01:41p You have 15 coins.
+7/13/25 10:03:38p Silky is too far away for your explanation.
+7/13/25 10:03:38p You gave signed good karma to Silky.
+7/13/25 10:05:26p You have 15 coins.
+7/13/25 10:07:28p Grando says, "c heal me"
+7/13/25 10:07:29p * Auto Healing Grando 
+7/13/25 10:07:59p Grando says, "c area"
+7/13/25 10:07:59p • You begin radius healing.
+7/13/25 10:08:18p Grando says, "c heal me"
+7/13/25 10:08:18p * Auto Healing Grando 
+7/13/25 10:08:54p Grando says, "c area"
+7/13/25 10:08:54p • You begin radius healing.
+7/13/25 10:09:13p You have 15 coins.
+7/13/25 10:09:18p Grando says, "c heal me"
+7/13/25 10:09:18p * Auto Healing Grando 
+7/13/25 10:09:39p You have no karma to give.
+7/13/25 10:09:41p Grando says, "c area"
+7/13/25 10:09:42p • You begin radius healing.
+7/13/25 10:10:30p Grando says, "c heal me"
+7/13/25 10:10:30p * Auto Healing Grando 
+7/13/25 10:10:42p Grando says, "c area"
+7/13/25 10:10:42p • You begin radius healing.
+7/13/25 10:10:55p • There is nobody nearby enough to continue radius healing.
+7/13/25 10:11:30p Grando says, "c heal me"
+7/13/25 10:11:30p * Auto Healing Grando 
+7/13/25 10:12:05p Grando says, "c area"
+7/13/25 10:12:05p • You begin radius healing.
+7/13/25 10:12:26p Grando says, "c heal me"
+7/13/25 10:12:27p * Auto Healing Grando 
+7/13/25 10:12:54p Grando says, "c area"
+7/13/25 10:12:54p • You begin radius healing.
+7/13/25 10:12:58p You have 15 coins.
+7/13/25 10:13:13p • There is nobody nearby enough to continue radius healing.
+7/13/25 10:14:02p Grando says, "c heal me"
+7/13/25 10:14:02p * Auto Healing Grando 
+7/13/25 10:15:40p Catan is too far away for your explanation.
+7/13/25 10:15:40p You gave signed good karma to Catan.
+7/13/25 10:15:58p Grando says, "c heal me"
+7/13/25 10:15:58p * Auto Healing Grando 
+7/13/25 10:16:41p You have 15 coins.
+7/13/25 10:17:48p Grando says, "c heal me"
+7/13/25 10:17:48p * Auto Healing Grando 
+7/13/25 10:20:21p You have 15 coins.
+7/13/25 10:21:40p Mork is too far away for your explanation.
+7/13/25 10:21:40p You gave signed good karma to Mork.
+7/13/25 10:24:03p You have 15 coins.
+7/13/25 10:27:41p Silky is too far away for your explanation.
+7/13/25 10:27:41p You gave signed good karma to Silky.
+7/13/25 10:27:43p You have 15 coins.
+7/13/25 10:31:15p You have 15 coins.
+7/13/25 10:33:42p Tasus is too far away for your explanation.
+7/13/25 10:33:42p You gave signed good karma to Tasus.
+7/13/25 10:34:54p You have 15 coins.
+7/13/25 10:36:39p •The Sun rises.
+7/13/25 10:38:39p You have 15 coins.
+7/13/25 10:39:43p Catan is too far away for your explanation.
+7/13/25 10:39:43p You gave signed good karma to Catan.
+7/13/25 10:42:10p Grando says, "c heal me"
+7/13/25 10:42:10p * Auto Healing Grando 
+7/13/25 10:42:27p You have 15 coins.
+7/13/25 10:42:50p Grando says, "c heal me"
+7/13/25 10:42:51p * Auto Healing Grando 
+7/13/25 10:43:25p Grando says, "c heal me"
+7/13/25 10:43:25p * Auto Healing Grando 
+7/13/25 10:44:26p Grando says, "c heal me"
+7/13/25 10:44:26p * Auto Healing Grando 
+7/13/25 10:44:59p Grando says, "c area"
+7/13/25 10:44:59p • You begin radius healing.
+7/13/25 10:45:25p • There is nobody nearby enough to continue radius healing.
+7/13/25 10:45:43p Mork is too far away for your explanation.
+7/13/25 10:45:43p You gave signed good karma to Mork.
+7/13/25 10:46:11p You have 15 coins.
+7/13/25 10:46:16p Grando says, "c heal me"
+7/13/25 10:46:17p * Auto Healing Grando 
+7/13/25 10:47:01p Grando says, "c area"
+7/13/25 10:47:01p • You begin radius healing.
+7/13/25 10:47:01p • There is nobody nearby enough to continue radius healing.
+7/13/25 10:47:55p Grando says, "c heal me"
+7/13/25 10:47:56p * Auto Healing Grando 
+7/13/25 10:48:24p Grando says, "c area"
+7/13/25 10:48:25p • You begin radius healing.
+7/13/25 10:48:41p • There is nobody nearby enough to continue radius healing.
+7/13/25 10:49:48p Grando says, "c heal me"
+7/13/25 10:49:49p * Auto Healing Grando 
+7/13/25 10:49:57p You have 15 coins.
+7/13/25 10:51:44p Silky is too far away for your explanation.
+7/13/25 10:51:44p You gave signed good karma to Silky.
+7/13/25 10:53:44p You have 15 coins.
+7/13/25 10:57:44p •••
+7/13/25 10:57:44p You have been idle for too long.
+7/13/25 10:57:44p Please do something to avoid being disconnected.
+7/13/25 10:57:44p •••
+7/13/25 10:57:45p Tasus is too far away for your explanation.
+7/13/25 10:57:45p You gave signed good karma to Tasus.
+7/13/25 10:57:46p You have 15 coins.
+7/13/25 11:01:45p You have 15 coins.
+7/13/25 11:03:46p Catan is too far away for your explanation.
+7/13/25 11:03:46p You gave signed good karma to Catan.
+7/13/25 11:05:35p You have 15 coins.
+7/13/25 11:09:00p Grando says, "c heal me"
+7/13/25 11:09:00p * Auto Healing Grando 
+7/13/25 11:09:19p You have 15 coins.
+7/13/25 11:09:47p You have no karma to give.
+7/13/25 11:13:22p You have 15 coins.
+7/13/25 11:15:47p Silky is too far away for your explanation.
+7/13/25 11:15:47p You gave signed good karma to Silky.
+7/13/25 11:17:19p Grando says, "c heal me"
+7/13/25 11:17:19p * Auto Healing Grando 
+7/13/25 11:17:20p You have 15 coins.
+7/13/25 11:21:06p You have 15 coins.
+7/13/25 11:21:48p Tasus is too far away for your explanation.
+7/13/25 11:21:48p You gave signed good karma to Tasus.
+7/13/25 11:23:59p Biro thinks, "BIG FRU"
+7/13/25 11:24:00p Dracula thinks, "NAFEROOOOOO"
+7/13/25 11:25:05p You have 15 coins.
+7/13/25 11:25:54p Grando says, "c heal me"
+7/13/25 11:25:54p * Auto Healing Grando 
+7/13/25 11:27:34p Grando says, "c heal me"
+7/13/25 11:27:34p * Auto Healing Grando 
+7/13/25 11:27:49p Catan is too far away for your explanation.
+7/13/25 11:27:49p You gave signed good karma to Catan.
+7/13/25 11:28:54p Grando says, "c heal me"
+7/13/25 11:28:54p * Auto Healing Grando 
+7/13/25 11:29:01p You have 15 coins.
+7/13/25 11:32:16p Grando says, "c heal me"
+7/13/25 11:32:16p * Auto Healing Grando 
+7/13/25 11:32:47p Grando says, "c area"
+7/13/25 11:32:47p • You begin radius healing.
+7/13/25 11:33:05p You have 15 coins.
+7/13/25 11:33:06p • There is nobody nearby enough to continue radius healing.
+7/13/25 11:33:38p Grando says, "c heal me"
+7/13/25 11:33:39p * Auto Healing Grando 
+7/13/25 11:33:50p Mork is too far away for your explanation.
+7/13/25 11:33:50p You gave signed good karma to Mork.
+7/13/25 11:37:16p You have 15 coins.
+7/13/25 11:38:30p Grando says, "c heal me"
+7/13/25 11:38:30p * Auto Healing Grando 
+7/13/25 11:39:51p Silky is too far away for your explanation.
+7/13/25 11:39:51p You gave signed good karma to Silky.
+7/13/25 11:40:17p Grando says, "c heal me"
+7/13/25 11:40:17p * Auto Healing Grando 
+7/13/25 11:40:42p Grando says, "c area"
+7/13/25 11:40:42p • You begin radius healing.
+7/13/25 11:40:59p Grando says, "c heal me"
+7/13/25 11:40:59p * Auto Healing Grando 
+7/13/25 11:41:25p You have 15 coins.
+7/13/25 11:41:38p Grando says, "c area"
+7/13/25 11:41:39p • You begin radius healing.
+7/13/25 11:41:39p • There is nobody nearby enough to continue radius healing.
+7/13/25 11:42:02p Grando says, "c heal me"
+7/13/25 11:42:02p * Auto Healing Grando 
+7/13/25 11:42:25p Grando says, "c area"
+7/13/25 11:42:25p • You begin radius healing.
+7/13/25 11:42:50p • There is nobody nearby enough to continue radius healing.
+7/13/25 11:45:26p You have 15 coins.
+7/13/25 11:45:51p You have no karma to give.
+7/13/25 11:49:19p You have 15 coins.
+7/13/25 11:51:06p Grando says, "c heal me"
+7/13/25 11:51:07p * Auto Healing Grando 
+7/13/25 11:51:52p Catan is too far away for your explanation.
+7/13/25 11:51:52p You gave signed good karma to Catan.
+7/13/25 11:53:24p You have 15 coins.
+7/13/25 11:57:15p You have 15 coins.
+7/13/25 11:57:53p Mork is too far away for your explanation.
+7/13/25 11:57:53p You gave signed good karma to Mork.
+7/14/25 12:01:07a You have 15 coins.
+7/14/25 12:03:21a Biro thinks, "good hunt, thanks :D"
+7/14/25 12:03:32a Dracula thinks, "thanks all :D nice hunt"
+7/14/25 12:03:54a You have no karma to give.
+7/14/25 12:04:56a You have 15 coins.
+7/14/25 12:05:02a •The healing spell has been broken.
+7/14/25 12:05:32a •The healing spell has been broken.
+7/14/25 12:05:43a The rat squeaks pitiably.
+7/14/25 12:05:46a You equip your moonstone.
+7/14/25 12:05:48a * You gain experience.
+7/1

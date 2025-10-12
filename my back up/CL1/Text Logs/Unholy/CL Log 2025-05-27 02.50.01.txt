@@ -1,0 +1,1752 @@
+
+5/27/25 2:50:02a * Your healer's cloak is in very good condition.
+5/27/25 2:50:02a Welcome to Clan Lord, Unholy!
+5/27/25 2:50:02a Type \HELP for a list of commands.
+5/27/25 2:50:02a • You gain experience from your recent studies.
+5/27/25 2:50:02a *Healer Mode
+5/27/25 2:50:02a * Healer Item set to caduceus 
+5/27/25 2:50:02a Unholy is now Clanning.
+5/27/25 2:50:02a The healing spell has started.
+5/27/25 2:50:02a You have been studying for 22 days, 10 hours, 45 minutes.
+5/27/25 2:50:05a It's 2:19pm on Soldi, day 81 of Summer, 641.
+5/27/25 2:50:05a Friends online: none.
+5/27/25 2:50:06a You are the only member of Black Phoenix clanning.
+5/27/25 2:50:06a • What’s New: https://deltatao.com/clanlord/news
+5/27/25 2:50:11a Shadowfire is sharing experiences with you.
+5/27/25 2:50:12a Donk says, "i'll catch up, gotta get bluebery dump cake out of the oven."
+5/27/25 2:50:14a Ilonos says, "I'll try to tag a bit, just tell me if a healer is needed."
+5/27/25 2:50:16a * Tip of the day: The standard macros listed in the Default file in your Macros folder are available to all your characters. (Use /OPTIONS to turn tips off.)
+5/27/25 2:50:20a (Shadowfire nods)
+5/27/25 2:50:20a You begin sharing your experiences with Shadowfire.
+5/27/25 2:50:21a  Shadowfire added to Karma list
+5/27/25 2:50:23a •You seem to heal from further away now.
+5/27/25 2:50:23a  Dae Fenris added to Karma list
+5/27/25 2:50:24a  Sycamore added to Karma list
+5/27/25 2:50:25a Shadowfire says, "Looks fine now I think"
+5/27/25 2:50:29a Giben says, ":)"
+5/27/25 2:50:30a Donk is sharing experiences with you.
+5/27/25 2:50:30a Leyenda asks, "you can still have banana's?"
+5/27/25 2:50:35a Ilonos ponders, "musr progress a fighter"
+5/27/25 2:50:35a Leyenda is sharing experiences with you.
+5/27/25 2:50:35a Shadowfire yells, "Fie upon the Weeder, glory to the Beast!"
+5/27/25 2:50:37a Noivad says, "just 1"
+5/27/25 2:50:40a Noivad says, "a day"
+5/27/25 2:50:47a Puddleby Beautification made possibly by Kalian the Tawny
+5/27/25 2:50:52a Sycamore is sharing experiences with you.
+5/27/25 2:50:53a Eirian Caldwell is sharing experiences with you.
+5/27/25 2:51:04a Dae Fenris is sharing experiences with you.
+5/27/25 2:51:04a Giben says, "yes"
+5/27/25 2:51:05a Captain Barnac asks, "Ah, Rocky. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+5/27/25 2:51:05a Rocky says, "yes"
+5/27/25 2:51:06a Captain Barnac asks, "Ah, Ilonos. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+5/27/25 2:51:07a Fird Lirden asks, "Ah, Unholy. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+5/27/25 2:51:07a Bear Knuckle asks, "Ah, Eirian Caldwell. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+5/27/25 2:51:07a Unholy whispers, "yes"
+5/27/25 2:51:21a You begin sharing your experiences with Dae Fenris.
+5/27/25 2:51:21a You are sharing experiences with Dae Fenris and Shadowfire.
+5/27/25 2:51:23a You are still too mentally fatigued to change spirit links.
+5/27/25 2:51:24a Shadowfire says, "Can pf"
+5/27/25 2:51:24a You begin sharing your experiences with Sycamore.
+5/27/25 2:51:24a You are sharing experiences with Sycamore, Dae Fenris and Shadowfire.
+5/27/25 2:51:27a Leyenda rows through the roaring surf.
+5/27/25 2:51:29a Giben is sharing experiences with you.
+5/27/25 2:51:32a * Healing Leyenda 
+5/27/25 2:51:41a * Healing EirianCaldwell 
+5/27/25 2:51:42a Rocky is sharing experiences with you.
+5/27/25 2:51:44a Ilonos is sharing experiences with you.
+5/27/25 2:51:48a •You do not have enough spiritual energy.
+5/27/25 2:51:50a Grand Master is no longer Clanning.
+5/27/25 2:51:53a •You seem to heal from further away now.
+5/27/25 2:51:53a * Healing EirianCaldwell 
+5/27/25 2:51:59a * Healing DaeFenris 
+5/27/25 2:52:13a * Healing Leyenda 
+5/27/25 2:52:14a * Healing Leyenda 
+5/27/25 2:52:15a Shadowfire yells, "lerabe hornets"
+5/27/25 2:52:18a Shadowfire says, "leave*"
+5/27/25 2:52:19a * Healing EirianCaldwell 
+5/27/25 2:52:21a * Shadowfire recovers the Spicy Mander blood, worth 10c. Your share is 2c.
+5/27/25 2:52:21a Ilonos has fallen to a Flotsam Meshra.
+5/27/25 2:52:23a * Healing Ilonos 
+5/27/25 2:52:24a •You don't quite have the training to heal Ilonos’s injuries.
+5/27/25 2:52:25a * Healing Leyenda 
+5/27/25 2:52:30a * Leyenda recovers the Flotsam Meshra blood, worth 7c. Your share is 1c.
+5/27/25 2:52:30a Shadowfire yells, "do not kill hornets please"
+5/27/25 2:52:30a Ilonos is no longer fallen.
+5/27/25 2:52:31a * Healing Ilonos 
+5/27/25 2:52:36a * Healing DaeFenris 
+5/27/25 2:52:41a * Healing Sycamore 
+5/27/25 2:52:42a Shadowfire yells, "w,n"
+5/27/25 2:52:48a * Healing Giben 
+5/27/25 2:52:49a Grand Master is now Clanning.
+5/27/25 2:52:53a * Healing Leyenda 
+5/27/25 2:52:54a •The player must be in the same area.
+5/27/25 2:53:00a * Healing Unholy 
+5/27/25 2:53:01a •You cannot use your caduceus on yourself.
+5/27/25 2:53:01a You equip your moonstone.
+5/27/25 2:53:03a * Healing Rocky 
+5/27/25 2:53:03a You equip your caduceus.
+5/27/25 2:53:03a * Healing Rocky 
+5/27/25 2:53:03a You must equip your moonstone before it can be used.
+5/27/25 2:53:04a Your caduceus is already equipped.
+5/27/25 2:53:04a •The player must be in the same area.
+5/27/25 2:53:05a •The player must be in the same area.
+5/27/25 2:53:06a * Healing DaeFenris 
+5/27/25 2:53:11a * Healing Rocky 
+5/27/25 2:53:22a You have 297 coins.
+5/27/25 2:53:24a * Healing EirianCaldwell 
+5/27/25 2:53:29a * Healing Unholy 
+5/27/25 2:53:29a •You cannot use your caduceus on yourself.
+5/27/25 2:53:29a You equip your moonstone.
+5/27/25 2:53:29a •The healing spell has been broken.
+5/27/25 2:53:31a * Healing EirianCaldwell 
+5/27/25 2:53:31a You equip your caduceus.
+5/27/25 2:53:31a You must equip your moonstone before it can be used.
+5/27/25 2:53:35a •The player must be in the same area.
+5/27/25 2:53:37a * Healing EirianCaldwell 
+5/27/25 2:53:41a Balangar is no longer Clanning.
+5/27/25 2:53:45a * You need a breath of air!
+5/27/25 2:53:49a •The player must be in the same area.
+5/27/25 2:53:54a * Healing Rocky 
+5/27/25 2:54:07a Shadowfire thinks, "gather @ mountain entry"
+5/27/25 2:54:18a •The player must be in the same area.
+5/27/25 2:54:19a •The healing spell has been broken.
+5/27/25 2:54:22a •The healing spell has been broken.
+5/27/25 2:54:25a * Healing Rocky 
+5/27/25 2:54:32a •The player must be in the same area.
+5/27/25 2:54:34a * Healing EirianCaldwell 
+5/27/25 2:54:43a Leyenda growls, "o fortuna"
+5/27/25 2:54:45a * Healing Donk 
+5/27/25 2:54:46a Shadowfire asks, "3h, me, and you or noi, whoever has worse slaughter?"
+5/27/25 2:54:48a Shadowfire yells, "By the Burbles of the Beast!"
+5/27/25 2:54:52a * Healing DaeFenris 
+5/27/25 2:54:59a The ground is scorched and pitted.
+5/27/25 2:55:00a * Healing Giben 
+5/27/25 2:55:03a •The healing spell has been broken.
+5/27/25 2:55:06a * Healing Ilonos 
+5/27/25 2:55:12a * Healing Rocky 
+5/27/25 2:55:19a Shadowfire yells, "Gather north!"
+5/27/25 2:55:22a * Healing Sycamore 
+5/27/25 2:55:29a * Healing EirianCaldwell 
+5/27/25 2:55:29a Shadowfire yells, "For the glory of Cone Beast!"
+5/27/25 2:55:33a •The player must be in the same area.
+5/27/25 2:55:35a •The healing spell has been broken.
+5/27/25 2:55:36a •The healing spell has been broken.
+5/27/25 2:55:39a * Healing EirianCaldwell 
+5/27/25 2:55:44a * Healing Noivad 
+5/27/25 2:55:49a * Healing DaeFenris 
+5/27/25 2:55:53a * Healing Rocky 
+5/27/25 2:55:54a Noivad growls, "thx dae"
+5/27/25 2:55:55a Shadowfire thinks, "n pls"
+5/27/25 2:55:57a •The player must be in the same area.
+5/27/25 2:56:03a * Healing Ilonos 
+5/27/25 2:56:05a * Healing Sycamore 
+5/27/25 2:56:07a * Healing Rocky 
+5/27/25 2:56:08a Lion-O is now Clanning.
+5/27/25 2:56:27a •You do not have enough spiritual energy.
+5/27/25 2:56:32a Unholy asks, "hmm?"
+5/27/25 2:56:33a * Leyenda recovers the Reedcat Stalker fur, worth 73c. Your share is 9c.
+5/27/25 2:56:37a * Healing Sycamore 
+5/27/25 2:56:38a You have 306 coins.
+5/27/25 2:56:40a •The healing spell has been broken.
+5/27/25 2:56:41a * Healing Rocky 
+5/27/25 2:56:52a Shadowfire asks, "Donk still get xp in snowy?"
+5/27/25 2:56:52a * Healing Sycamore 
+5/27/25 2:56:56a •The healing spell has been broken.
+5/27/25 2:56:57a * Shadowfire recovers the Flotsam Meshra blood, worth 4c. Your share is nothing. Nada. Zip. A big doughnut.
+5/27/25 2:57:07a * Healing DaeFenris 
+5/27/25 2:57:12a * Donk recovers the Fickle Foxweir fur, worth 28c. Your share is 4c.
+5/27/25 2:57:16a Noivad is sharing experiences with you.
+5/27/25 2:57:16a Shadowfire yells, "For the glory of Cone Beast!"
+5/27/25 2:57:18a * Healing Giben 
+5/27/25 2:57:21a •The player must be in the same area.
+5/27/25 2:57:22a •The healing spell has been broken.
+5/27/25 2:57:26a * Healing Giben 
+5/27/25 2:57:31a * Leyenda recovers the Fleet Foxweir fur, worth 57c. Your share is 7c.
+5/27/25 2:57:33a * Healing Sycamore 
+5/27/25 2:57:38a * Healing Rocky 
+5/27/25 2:57:40a Shayla is no longer Clanning.
+5/27/25 2:57:42a •You do not have enough spiritual energy.
+5/27/25 2:57:48a * Healing Giben 
+5/27/25 2:57:49a Shadowfire yells, "Gather east!"
+5/27/25 2:57:52a * Healing Sycamore 
+5/27/25 2:57:54a * Healing Rocky 
+5/27/25 2:57:57a * Healing Ilonos 
+5/27/25 2:57:59a •The healing spell has been broken.
+5/27/25 2:58:00a Dae Fenris yells, "beeeeees"
+5/27/25 2:58:00a * Healing EirianCaldwell 
+5/27/25 2:58:01a Sycamore yells, "bees!"
+5/27/25 2:58:04a * Healing Ilonos 
+5/27/25 2:58:07a * Healing Sycamore 
+5/27/25 2:58:10a Catan is now Clanning.
+5/27/25 2:58:12a * Healing Ilonos 
+5/27/25 2:58:14a * Healing EirianCaldwell 
+5/27/25 2:58:25a Shadowfire yells, "Gather east!"
+5/27/25 2:58:27a * Healing Leyenda 
+5/27/25 2:58:28a Leyenda growls, "pesky"
+5/27/25 2:58:32a Noivad yells, "moof!"
+5/27/25 2:58:34a •You do not have enough spiritual energy.
+5/27/25 2:58:37a * Healing Noivad 
+5/27/25 2:58:45a * Healing Leyenda 
+5/27/25 2:58:51a Shadowfire thinks, "e pls"
+5/27/25 2:58:52a * Healing Giben 
+5/27/25 2:58:54a * Leyenda recovers the Wild Stallion fur, worth 47c. Your share is 9c.
+5/27/25 2:58:55a •The player must be in the same area.
+5/27/25 2:58:58a •The player must be in the same area.
+5/27/25 2:59:02a * Leyenda recovers the Wild Stallion fur, worth 43c. Your share is 4c.
+5/27/25 2:59:02a •The healing spell has been broken.
+5/27/25 2:59:07a Rocky is no longer fallen.
+5/27/25 2:59:10a Leyenda growls, "hehe"
+5/27/25 2:59:10a * Healing EirianCaldwell 
+5/27/25 2:59:17a * Healing Ilonos 
+5/27/25 2:59:19a * Leyenda recovers the Shadowcat fur, worth 94c. Your share is 10c.
+5/27/25 2:59:23a * Healing EirianCaldwell 
+5/27/25 2:59:25a •You seem to heal from further away now.
+5/27/25 2:59:25a Shadowfire yells, "Gather east!"
+5/27/25 2:59:28a * Karma Message set to  . 
+5/27/25 2:59:30a * Auto Thanker Online!
+5/27/25 2:59:30a You gave signed good karma to Shadowfire, .
+5/27/25 2:59:31a •You do not have enough spiritual energy.
+5/27/25 2:59:33a * Healing Noivad 
+5/27/25 2:59:39a •You do not have enough spiritual energy.
+5/27/25 2:59:40a * Healing EirianCaldwell 
+5/27/25 2:59:42a * Leyenda recovers the Shadowcat fur, worth 50c. Your share is 6c.
+5/27/25 2:59:42a * Healing Rocky 
+5/27/25 2:59:47a Snarkle is now Clanning.
+5/27/25 2:59:50a Shadowfire says, "one sec letting Catan in"
+5/27/25 2:59:51a * Healing EirianCaldwell 
+5/27/25 2:59:53a You have 346 coins.
+5/27/25 2:59:57a * Healing Giben 
+5/27/25 3:00:03a * Healing Sycamore 
+5/27/25 3:00:04a * Leyenda recovers the Shadowcat Huntress fur, worth 104c. Your share is 15c.
+5/27/25 3:00:05a * Leyenda recovers the Wild Stallion fur, worth 57c. Your share is 6c.
+5/27/25 3:00:07a Rocky is no longer fallen.
+5/27/25 3:00:09a * Healing Rocky 
+5/27/25 3:00:14a •The healing spell has been broken.
+5/27/25 3:00:15a Ilonos has fallen to a Swarm of Bees.
+5/27/25 3:00:15a * Healing Ilonos 
+5/27/25 3:00:17a * Leyenda recovers the Shadowcat Huntress fur, worth 34c. Your share is 4c.
+5/27/25 3:00:17a Ilonos is no longer fallen.
+5/27/25 3:00:21a * Healing Giben 
+5/27/25 3:00:32a * Healing Sycamore 
+5/27/25 3:00:35a * Healing Ilonos 
+5/27/25 3:00:35a Ilonos has fallen to a Mountain Bison.
+5/27/25 3:00:35a •Ilonos’s injuries are a little more serious than you can heal.
+5/27/25 3:00:37a * Healing Ilonos 
+5/27/25 3:00:40a * Healing Rocky 
+5/27/25 3:00:45a * Shadowfire recovers the Mountain Bison fur, worth 53c. Your share is 6c.
+5/27/25 3:00:46a * Healing Noivad 
+5/27/25 3:00:47a * Healing Noivad 
+5/27/25 3:00:49a Leyenda says, "nom"
+5/27/25 3:00:51a Leyenda growls, "nom"
+5/27/25 3:00:52a •The healing spell has been broken.
+5/27/25 3:00:52a Donk yells, "chest"
+5/27/25 3:00:54a Rocky is no longer fallen.
+5/27/25 3:00:56a Noivad yells, "drop on shadow"
+5/27/25 3:00:56a •The healing spell has been broken.
+5/27/25 3:00:56a * Healing Giben 
+5/27/25 3:01:00a * Healing Rocky 
+5/27/25 3:01:03a Leyenda has fallen to a Lost Bear.
+5/27/25 3:01:03a •The healing spell has been broken.
+5/27/25 3:01:06a * Healing Ilonos 
+5/27/25 3:01:09a Ilonos is no longer fallen.
+5/27/25 3:01:12a * Healing Leyenda 
+5/27/25 3:01:12a •Leyenda’s injuries are significantly more serious than you can heal.
+5/27/25 3:01:15a •Leyenda’s wounds were severe.
+5/27/25 3:01:21a Leyenda is no longer fallen.
+5/27/25 3:01:25a * Healing Rocky 
+5/27/25 3:01:29a Talin is now Clanning.
+5/27/25 3:01:31a * Healing Giben 
+5/27/25 3:01:41a Noivad growls, "kil time"
+5/27/25 3:01:42a * Healing Noivad 
+5/27/25 3:01:45a * Leyenda recovers the Lost Bear fur, worth 37c. Your share is 4c.
+5/27/25 3:01:46a * You pick up 114 coins.
+5/27/25 3:01:46a * You gain experience.
+5/27/25 3:01:48a Leyenda says, "nomnom"
+5/27/25 3:01:49a * Healing Ilonos 
+5/27/25 3:01:53a (Eirian Caldwell chuckles.)
+5/27/25 3:01:54a * Healing Rocky 
+5/27/25 3:01:56a Snarkle is no longer Clanning.
+5/27/25 3:01:58a Leyenda growls, "nomnom"
+5/27/25 3:01:59a Woolf is now Clanning.
+5/27/25 3:02:01a •The player must be in the same area.
+5/27/25 3:02:04a * Healing Rocky 
+5/27/25 3:02:06a Donk thinks, "east"
+5/27/25 3:02:09a * Healing Sycamore 
+5/27/25 3:02:15a * Healing Noivad 
+5/27/25 3:02:21a * Healing Rocky 
+5/27/25 3:02:23a Noivad yells, "bridge or snowy>"
+5/27/25 3:02:29a * Healing Giben 
+5/27/25 3:02:29a Donk growls, "smpwy"
+5/27/25 3:02:35a Shadowfire thinks, "getting Catan brb"
+5/27/25 3:02:41a * Rocky recovers the Shadowcat Huntress fur, worth 71c. Your share is 7c.
+5/27/25 3:02:43a Donk growls, "snowy"
+5/27/25 3:02:46a * Healing Sycamore 
+5/27/25 3:02:49a Donk yells, "cleariang op first"
+5/27/25 3:02:58a •The healing spell has been broken.
+5/27/25 3:03:00a * Healing Leyenda 
+5/27/25 3:03:03a Noivad growls, "3 wasps"
+5/27/25 3:03:07a * Healing EirianCaldwell 
+5/27/25 3:03:09a You have 502 coins.
+5/27/25 3:03:16a * Healing Noivad 
+5/27/25 3:03:21a * Healing Leyenda 
+5/27/25 3:03:27a * Leyenda recovers the Sky Bison fur, worth 78c. Your share is 9c.
+5/27/25 3:03:30a * Healing EirianCaldwell 
+5/27/25 3:03:37a * Donk recovers the Sky Bison fur, worth 9c. Your share is 1c.
+5/27/25 3:03:38a * Healing Sycamore 
+5/27/25 3:03:47a * Healing DaeFenris 
+5/27/25 3:03:51a * Healing Noivad 
+5/27/25 3:03:57a * Healing Rocky 
+5/27/25 3:03:59a * Healing EirianCaldwell 
+5/27/25 3:04:01a Rocky asks, "Can I lasty Sky Bison?"
+5/27/25 3:04:07a * Healing Giben 
+5/27/25 3:04:13a * Healing Sycamore 
+5/27/25 3:04:13a * Leyenda recovers the Mountain Bison fur, worth 41c. Your share is 7c.
+5/27/25 3:04:15a Noivad has fallen to a Sky Bison.
+5/27/25 3:04:15a Sazerac!
+5/27/25 3:04:18a (Noivad laughs)
+5/27/25 3:04:18a Ilonos has fallen to a Shadowcat Huntress.
+5/27/25 3:04:18a * Leyenda recovers the Sky Bison fur, worth 101c. Your share is 15c.
+5/27/25 3:04:19a * Healing Ilonos 
+5/27/25 3:04:19a •Ilonos’s wounds are much more severe than you can heal.
+5/27/25 3:04:22a * Leyenda recovers the Sky Bison fur, worth 93c. Your share is 9c.
+5/27/25 3:04:23a * Healing Rocky 
+5/27/25 3:04:25a * Healing Giben 
+5/27/25 3:04:28a * You recover the Shadowcat Huntress fur, worth 78c. Your share is 9c.
+5/27/25 3:04:30a * Healing Noivad 
+5/27/25 3:04:33a Noivad is no longer fallen.
+5/27/25 3:04:36a * Healing Unholy 
+5/27/25 3:04:36a •You cannot use your caduceus on yourself.
+5/27/25 3:04:36a You equip your moonstone.
+5/27/25 3:04:36a •The healing spell has been broken.
+5/27/25 3:04:39a * Healing Noivad 
+5/27/25 3:04:39a You equip your caduceus.
+5/27/25 3:04:40a You must equip your moonstone before it can be used.
+5/27/25 3:04:42a * Healing Giben 
+5/27/25 3:04:52a Sycamore says, "ilonons is q for me"
+5/27/25 3:04:53a Noivad says, "I could have scraped it off on to Syc, but that would not be cool"
+5/27/25 3:04:55a * Healing Ilonos 
+5/27/25 3:05:01a Ilonos is no longer fallen.
+5/27/25 3:05:05a Sycamore says, "hehe I woulda taken a hit"
+5/27/25 3:05:06a * Healing Giben 
+5/27/25 3:05:07a * Healing DaeFenris 
+5/27/25 3:05:08a You just received anonymous good karma.
+5/27/25 3:05:11a Sycamore says, "maybe 2..."
+5/27/25 3:05:14a Ilonos has fallen to a Sky Bison.
+5/27/25 3:05:16a * Healing Unholy 
+5/27/25 3:05:16a •You cannot use your caduceus on yourself.
+5/27/25 3:05:16a You equip your moonstone.
+5/27/25 3:05:16a •The healing spell has been broken.
+5/27/25 3:05:20a * Healing Sycamore 
+5/27/25 3:05:20a You equip your caduceus.
+5/27/25 3:05:21a You must equip your moonstone before it can be used.
+5/27/25 3:05:22a •The healing spell has been broken.
+5/27/25 3:05:23a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+5/27/25 3:05:23a Unholy has fallen to a Sky Bison.
+5/27/25 3:05:23a •Your injuries are grave.
+5/27/25 3:05:23a * Healing EirianCaldwell 
+5/27/25 3:05:23a Eirian Caldwell has fallen to a Sky Bison.
+5/27/25 3:05:23a You cannot possibly use anything in your current condition.
+5/27/25 3:05:25a * Healing Rocky 
+5/27/25 3:05:25a You cannot possibly use anything in your current condition.
+5/27/25 3:05:28a •You sense healing energy from Sycamore.
+5/27/25 3:05:29a Giben has fallen to a Sky Bison.
+5/27/25 3:05:30a You gave signed good karma to Dae Fenris, .
+5/27/25 3:05:31a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+5/27/25 3:05:31a Unholy has fallen to a Sky Bison.
+5/27/25 3:05:31a •You are easily healable.
+5/27/25 3:05:36a * Leyenda recovers the Sky Bison fur, worth 49c. Your share is 7c.
+5/27/25 3:05:40a * Healing Unholy 
+5/27/25 3:05:40a You equip your moonstone.
+5/27/25 3:05:42a * Leyenda recovers the Sky Bison fur, worth 54c. Your share is 9c.
+5/27/25 3:05:44a * Healing Leyenda 
+5/27/25 3:05:45a You equip your caduceus.
+5/27/25 3:05:46a You must equip your moonstone before it can be used.
+5/27/25 3:05:51a * Healing Noivad 
+5/27/25 3:05:51a * Healing Ilonos 
+5/27/25 3:05:52a •Ilonos’s wounds are much more severe than you can heal.
+5/27/25 3:05:53a * Healing EirianCaldwell 
+5/27/25 3:05:56a Eirian Caldwell is no longer fallen.
+5/27/25 3:05:58a Rocky says, "Can I lasty the skybison pls"
+5/27/25 3:06:01a * Healing Ilonos 
+5/27/25 3:06:02a •Ilonos’s wounds are much more severe than you can heal.
+5/27/25 3:06:04a Donk says, "k"
+5/27/25 3:06:04a * Healing Giben 
+5/27/25 3:06:06a Giben is no longer fallen.
+5/27/25 3:06:10a * Healing Unholy 
+5/27/25 3:06:10a •You cannot use your caduceus on yourself.
+5/27/25 3:06:10a You equip your moonstone.
+5/27/25 3:06:10a •The healing spell has been broken.
+5/27/25 3:06:13a * Healing DaeFenris 
+5/27/25 3:06:14a You equip your caduceus.
+5/27/25 3:06:15a You must equip your moonstone before it can be used.
+5/27/25 3:06:17a * Healing Ilonos 
+5/27/25 3:06:18a Donk yells, "sky bison lasty"
+5/27/25 3:06:19a Rocky says, "I already got movements so easy to hit"
+5/27/25 3:06:23a Ilonos is no longer fallen.
+5/27/25 3:06:26a Noivad says, "oh sorry"
+5/27/25 3:06:27a You have 568 coins.
+5/27/25 3:06:27a Donk says, "easy to trap tho"
+5/27/25 3:06:28a * Healing EirianCaldwell 
+5/27/25 3:06:40a * Healing Rocky 
+5/27/25 3:06:41a * Healing Noivad 
+5/27/25 3:06:55a * Healing Catan 
+5/27/25 3:06:56a •You don't quite have the training to heal Catan’s injuries.
+5/27/25 3:06:58a * Healing EirianCaldwell 
+5/27/25 3:07:01a * Sycamore recovers the Mountain Bison fur, worth 71c. Your share is 9c.
+5/27/25 3:07:03a Shadowfire says, "oop"
+5/27/25 3:07:05a Catan says, "hello everyone"
+5/27/25 3:07:05a * Healing Catan 
+5/27/25 3:07:09a Rocky yells, "Sky bison lasty"
+5/27/25 3:07:10a (Eirian Caldwell waves)
+5/27/25 3:07:10a Sycamore exclaims, "Hello!"
+5/27/25 3:07:12a Noivad says, "Hi Catan"
+5/27/25 3:07:14a Shayla is now Clanning.
+5/27/25 3:07:16a * Healing Sycamore 
+5/27/25 3:07:20a * Healing Catan 
+5/27/25 3:07:22a Rocky says, "Hey Catan"
+5/27/25 3:07:23a Catan is sharing experiences with you.
+5/27/25 3:07:24a * Healing DaeFenris 
+5/27/25 3:07:27a * Healing EirianCaldwell 
+5/27/25 3:07:34a * Healing Sycamore 
+5/27/25 3:07:36a Catan exclaims, "long time rocky!"
+5/27/25 3:07:43a * Healing Noivad 
+5/27/25 3:07:45a (Rocky smiles)
+5/27/25 3:07:48a Donk thinks, "OP clear , head south"
+5/27/25 3:07:53a Shadowfire yells, "Gather south!"
+5/27/25 3:07:53a * Healing Sycamore 
+5/27/25 3:07:54a Noivad says, "dismissing in 3 seconds"
+5/27/25 3:07:56a Donk has fallen to an Ebb Meshra.
+5/27/25 3:08:00a •The healing spell has been broken.
+5/27/25 3:08:01a •The healing spell has been broken.
+5/27/25 3:08:05a •The healing spell has been broken.
+5/27/25 3:08:05a * Shadowfire recovers the Ebb Meshra blood, worth 4c. Your share is 1c.
+5/27/25 3:08:05a * Healing Catan 
+5/27/25 3:08:06a * Leyenda recovers the Mountain Bison fur, worth 50c. Your share is 6c.
+5/27/25 3:08:07a Donk says, ":D"
+5/27/25 3:08:08a * Healing Unholy 
+5/27/25 3:08:08a •You cannot use your caduceus on yourself.
+5/27/25 3:08:08a You equip your moonstone.
+5/27/25 3:08:08a •The healing spell has been broken.
+5/27/25 3:08:10a Ilonos has fallen to an Ebb Meshra.
+5/27/25 3:08:12a * Healing Ilonos 
+5/27/25 3:08:12a You equip your caduceus.
+5/27/25 3:08:12a You must equip your moonstone before it can be used.
+5/27/25 3:08:13a •Ilonos was too wounded to be healed easily.
+5/27/25 3:08:14a * Healing EirianCaldwell 
+5/27/25 3:08:15a * Leyenda recovers the Sky Bison fur, worth 108c. Your share is 13c.
+5/27/25 3:08:18a •The healing spell has been broken.
+5/27/25 3:08:19a * Healing Noivad 
+5/27/25 3:08:19a * Leyenda recovers the Shadowcat Huntress fur, worth 23c. Your share is 4c.
+5/27/25 3:08:22a Ilonos is no longer fallen.
+5/27/25 3:08:24a * Healing Ilonos 
+5/27/25 3:08:25a Catan has fallen to a Shadowcat Huntress.
+5/27/25 3:08:25a * Leyenda recovers the Shadowcat Huntress fur, worth 108c. Your share is 12c.
+5/27/25 3:08:26a Catan is no longer fallen.
+5/27/25 3:08:29a * Healing Catan 
+5/27/25 3:08:29a Donk is no longer fallen.
+5/27/25 3:08:32a Eirian Caldwell says, "ooh nice fur"
+5/27/25 3:08:33a * Healing Unholy 
+5/27/25 3:08:34a •You cannot use your caduceus on yourself.
+5/27/25 3:08:34a You equip your moonstone.
+5/27/25 3:08:34a •The healing spell has been broken.
+5/27/25 3:08:34a Shadowfire yells, "Gather south!"
+5/27/25 3:08:36a * Healing Catan 
+5/27/25 3:08:36a You equip your caduceus.
+5/27/25 3:08:37a You must equip your moonstone before it can be used.
+5/27/25 3:08:41a •You do not have enough spiritual energy.
+5/27/25 3:08:45a * Healing Donk 
+5/27/25 3:09:03a Noivad yells, "lasts"
+5/27/25 3:09:03a * Healing EirianCaldwell 
+5/27/25 3:09:08a * Healing Leyenda 
+5/27/25 3:09:10a Ilonos has fallen to a Sky Bison.
+5/27/25 3:09:14a * Healing Ilonos 
+5/27/25 3:09:14a •Ilonos’s body has been maimed more severely than you can heal.
+5/27/25 3:09:16a * Healing EirianCaldwell 
+5/27/25 3:09:21a * Healing Catan 
+5/27/25 3:09:21a * Leyenda recovers the Sky Bison fur, worth 88c. Your share is 9c.
+5/27/25 3:09:24a * Healing Leyenda 
+5/27/25 3:09:30a •You gain experience.
+5/27/25 3:09:31a * Healing DaeFenris 
+5/27/25 3:09:36a •The healing spell has been broken.
+5/27/25 3:09:37a * Healing Giben 
+5/27/25 3:09:38a * Leyenda recovers the Wild Stallion fur, worth 62c. Your share is 7c.
+5/27/25 3:09:40a * Leyenda recovers the Sky Bison fur, worth 54c. Your share is 6c.
+5/27/25 3:09:41a * Healing Ilonos 
+5/27/25 3:09:43a You have 635 coins.
+5/27/25 3:09:43a Ilonos is no longer fallen.
+5/27/25 3:09:45a * Healing Giben 
+5/27/25 3:09:50a * Healing Catan 
+5/27/25 3:09:55a * Healing DaeFenris 
+5/27/25 3:09:58a Catan asks, "Shad and Noivad for fighter shares?"
+5/27/25 3:10:08a * Healing Leyenda 
+5/27/25 3:10:11a •The healing spell has been broken.
+5/27/25 3:10:12a * Healing Rocky 
+5/27/25 3:10:15a * Leyenda recovers the Sky Bison fur, worth 30c. Your share is 3c.
+5/27/25 3:10:15a Noivad says, "give Ley my share"
+5/27/25 3:10:16a * Healing DaeFenris 
+5/27/25 3:10:18a * Healing Sycamore 
+5/27/25 3:10:20a * Leyenda recovers the Sky Bison fur, worth 123c. Your share is 14c.
+5/27/25 3:10:21a * Healing Leyenda 
+5/27/25 3:10:22a * Donk recovers the Wild Stallion fur, worth 37c. Your share is 4c.
+5/27/25 3:10:25a * Healing Unholy 
+5/27/25 3:10:25a •You cannot use your caduceus on yourself.
+5/27/25 3:10:26a You equip your moonstone.
+5/27/25 3:10:26a •The healing spell has been broken.
+5/27/25 3:10:30a •To heal yourself, type: \USE
+5/27/25 3:10:30a •To heal yourself three times, type: \USE 3
+5/27/25 3:10:31a * Healing EirianCaldwell 
+5/27/25 3:10:32a You equip your caduceus.
+5/27/25 3:10:32a You must equip your moonstone before it can be used.
+5/27/25 3:10:33a You must equip your moonstone before it can be used.
+5/27/25 3:10:34a * Healing Giben 
+5/27/25 3:10:39a * Leyenda recovers the Mountain Bison fur, worth 64c. Your share is 6c.
+5/27/25 3:10:40a Leyenda growls, "Have yours ;)"
+5/27/25 3:10:40a * Healing Sycamore 
+5/27/25 3:10:43a Shadowfire yells, "I'm talkin' bout the Beast! What Beast? The Beast with the power! What power? The power of Cones!"
+5/27/25 3:10:47a * Healing Giben 
+5/27/25 3:10:51a •The player must be in the same area.
+5/27/25 3:10:54a * Healing Rocky 
+5/27/25 3:11:00a * Healing DaeFenris 
+5/27/25 3:11:02a * Healing Rocky 
+5/27/25 3:11:05a * Healing Catan 
+5/27/25 3:11:10a * Leyenda recovers the Sky Bison fur, worth 61c. Your share is 8c.
+5/27/25 3:11:11a •You do not have enough spiritual energy.
+5/27/25 3:11:13a * Healing Leyenda 
+5/27/25 3:11:16a Shadowfire yells, "Gather south!"
+5/27/25 3:11:17a •You do not have enough spiritual energy.
+5/27/25 3:11:23a Giben steps on a rotten tangleberry.
+5/27/25 3:11:24a * Healing Donk 
+5/27/25 3:11:28a Shadowfire says, "busy"
+5/27/25 3:11:30a You gave signed good karma to Sycamore, .
+5/27/25 3:11:37a Rocky is no longer fallen.
+5/27/25 3:11:40a * Shadowfire recovers the Wild Stallion fur, worth 14c. Your share is 2c.
+5/27/25 3:11:41a * Leyenda recovers the Mountain Bison fur, worth 74c. Your share is 8c.
+5/27/25 3:11:41a * Healing Giben 
+5/27/25 3:11:43a * Healing Leyenda 
+5/27/25 3:11:46a * Healing EirianCaldwell 
+5/27/25 3:11:51a * Leyenda recovers the Mountain Bison fur, worth 57c. Your share is 5c.
+5/27/25 3:12:00a •The healing spell has been broken.
+5/27/25 3:12:01a •The healing spell has been broken.
+5/27/25 3:12:02a * Healing Giben 
+5/27/25 3:12:04a * Shadowfire recovers the Wild Stallion fur, worth 8c. Your share is 1c.
+5/27/25 3:12:10a •The healing spell has been broken.
+5/27/25 3:12:10a * Leyenda recovers the Shadowcat Huntress fur, worth 43c. Your share is 5c.
+5/27/25 3:12:11a * Healing EirianCaldwell 
+5/27/25 3:12:17a Woolf is no longer Clanning.
+5/27/25 3:12:17a Catan asks, "only lastie is SB?"
+5/27/25 3:12:23a Noivad says, "think so"
+5/27/25 3:12:23a Leyenda growls, "So far"
+5/27/25 3:12:31a * Healing EirianCaldwell 
+5/27/25 3:12:36a Shadowfire thinks, "s pls"
+5/27/25 3:12:37a * Healing Sycamore 
+5/27/25 3:12:39a * Healing DaeFenris 
+5/27/25 3:12:42a •The player must be in the same area.
+5/27/25 3:12:45a •The healing spell has been broken.
+5/27/25 3:12:47a * Healing EirianCaldwell 
+5/27/25 3:12:51a •The healing spell has been broken.
+5/27/25 3:12:52a * Leyenda recovers the Mountain Bison fur, worth 36c. Your share is 4c.
+5/27/25 3:12:52a * Healing Catan 
+5/27/25 3:13:00a You have 695 coins.
+5/27/25 3:13:07a * Healing Leyenda 
+5/27/25 3:13:08a * Donk recovers the Mountain Bison fur, worth 23c. Your share is 2c.
+5/27/25 3:13:08a * Healing Ilonos 
+5/27/25 3:13:12a * Healing EirianCaldwell 
+5/27/25 3:13:15a * Healing Noivad 
+5/27/25 3:13:22a Lion-O thinks, "If I die, I'm in Noids"
+5/27/25 3:13:28a Noivad says, "we are healing let them tag"
+5/27/25 3:13:29a Shadowfire thinks, "√"
+5/27/25 3:13:31a Eirian Caldwell thinks, "ok"
+5/27/25 3:13:35a Donk thinks, "that'x a noiding."
+5/27/25 3:13:35a * Leyenda recovers the Wild Stallion fur, worth 37c. Your share is 3c.
+5/27/25 3:13:40a * Healing DaeFenris 
+5/27/25 3:13:43a •The healing spell has been broken.
+5/27/25 3:13:47a * Healing Sycamore 
+5/27/25 3:13:50a Eirian Caldwell yells, "stag lasties"
+5/27/25 3:13:53a * Healing Donk 
+5/27/25 3:13:57a Catan says, "lasztie M/istral kESTREL"
+5/27/25 3:13:59a Shadowfire says, "ok lasty review"
+5/27/25 3:14:01a Noivad yells, "ok so in snowy we kill fast if we are outgunned otherwise 1 tag"
+5/27/25 3:14:07a * Healing Sycamore 
+5/27/25 3:14:07a Donk yells, "mistral and stag lasty"
+5/27/25 3:14:09a Shadowfire says, "mistral, stag"
+5/27/25 3:14:11a * Healing Donk 
+5/27/25 3:14:16a Shadowfire asks, "Anything else?"
+5/27/25 3:14:16a Noivad says, "Mistral Kestrel stag"
+5/27/25 3:14:23a * Healing DaeFenris 
+5/27/25 3:14:24a * Healing Sycamore 
+5/27/25 3:14:27a * Healing Noivad 
+5/27/25 3:14:29a Dae Fenris exclaims, "And my axe!"
+5/27/25 3:14:31a * Healing Sycamore 
+5/27/25 3:14:32a * Healing Rocky 
+5/27/25 3:14:33a Shadowfire says, "taking that as a no"
+5/27/25 3:14:35a (Eirian Caldwell laughs.)
+5/27/25 3:14:38a Shadowfire yells, "Onward, in Her Holy Pawprints!"
+5/27/25 3:14:39a Dae Fenris says, "How rude"
+5/27/25 3:14:52a * Healing Ilonos 
+5/27/25 3:14:56a Catan is no longer fallen.
+5/27/25 3:15:01a •The healing spell has been broken.
+5/27/25 3:15:02a •The healing spell has been broken.
+5/27/25 3:15:03a * Healing Giben 
+5/27/25 3:15:08a * Healing Giben 
+5/27/25 3:15:13a * Healing Catan 
+5/27/25 3:15:13a * Leyenda recovers the Frost Foxweir fur, worth 40c. Your share is 4c.
+5/27/25 3:15:21a Catan says, "RED I PELZASE"
+5/27/25 3:15:21a * Healing Ilonos 
+5/27/25 3:15:25a * Healing DaeFenris 
+5/27/25 3:15:27a * Donk recovers the Glacier Bear Cub fur, worth 27c. Your share is 2c.
+5/27/25 3:15:30a Shadowfire asks, "someone with less darkus red it?"
+5/27/25 3:15:33a Shadowfire says, "oho nice Donk"
+5/27/25 3:15:34a Leyenda growls, "red kes <"
+5/27/25 3:15:34a Noivad yells, "1"
+5/27/25 3:15:40a * Healing Giben 
+5/27/25 3:15:41a Leyenda growls, "another one >"
+5/27/25 3:15:44a Noivad has fallen to a Mistral Kestrel.
+5/27/25 3:15:54a Ilonos has fallen to a Mistral Kestrel.
+5/27/25 3:15:55a * Healing Ilonos 
+5/27/25 3:15:55a •Ilonos’s injuries are a little more serious than you can heal.
+5/27/25 3:15:57a Noivad is no longer fallen.
+5/27/25 3:15:58a * Healing Rocky 
+5/27/25 3:16:00a * Healing Leyenda 
+5/27/25 3:16:01a Leyenda has fallen to a Mistral Kestrel.
+5/27/25 3:16:01a •Leyenda’s injuries were serious.
+5/27/25 3:16:05a Leyenda is no longer fallen.
+5/27/25 3:16:15a You have 706 coins.
+5/27/25 3:16:18a * Healing Ilonos 
+5/27/25 3:16:22a Ilonos is no longer fallen.
+5/27/25 3:16:25a Shadowfire says, "nice"
+5/27/25 3:16:27a * Healing Leyenda 
+5/27/25 3:16:27a Leyenda says, "Btw, I'm also on Mistral alsties, so if we need to kill in a hurry, I can finish em off without wasting the lasties"
+5/27/25 3:16:28a Catan yells, "done !"
+5/27/25 3:16:30a * Healing Giben 
+5/27/25 3:16:33a Noivad asks, "catna on Mistral Kestrel?"
+5/27/25 3:16:34a (Shadowfire nods)
+5/27/25 3:16:39a Leyenda says, "Oh"
+5/27/25 3:16:41a Catan yells, "Mistral ompleted"
+5/27/25 3:16:42a Eirian Caldwell growls, "all you, Leya"
+5/27/25 3:16:42a Shadowfire exclaims, "Looks like Catan just finished!"
+5/27/25 3:16:44a * Healing Noivad 
+5/27/25 3:16:44a Leyenda asks, "anyone else still on Mistral?"
+5/27/25 3:16:47a Donk says, "nice"
+5/27/25 3:16:51a * Healing Rocky 
+5/27/25 3:16:51a * Healing Sycamore 
+5/27/25 3:16:55a Noivad says, "Mistral Kestrel are all your Ley"
+5/27/25 3:16:55a * Healing Rocky 
+5/27/25 3:16:56a Donk says, "just you Ley"
+5/27/25 3:16:59a Leyenda says, "Then I'd like to claim them yes"
+5/27/25 3:17:00a Satris is now Clanning.
+5/27/25 3:17:02a Catan ponders, "did I hear a sigh of relief ffrom many here?"
+5/27/25 3:17:05a * Healing DaeFenris 
+5/27/25 3:17:05a Satris is no longer Clanning.
+5/27/25 3:17:06a Leyenda growls, "Then I'd like to claim them yes"
+5/27/25 3:17:06a Donk says, "lol"
+5/27/25 3:17:08a Donk says, "not me"
+5/27/25 3:17:13a * Healing Shadowfire 
+5/27/25 3:17:15a Catan says, ": D"
+5/27/25 3:17:17a * Healing Sycamore 
+5/27/25 3:17:24a * Healing Rocky 
+5/27/25 3:17:24a Donk says, "Noi and I can bf em"
+5/27/25 3:17:25a Satris is now Clanning.
+5/27/25 3:17:27a Shayla is no longer Clanning.
+5/27/25 3:17:29a Leyenda says, "cool"
+5/27/25 3:17:31a You gave signed good karma to Shadowfire, .
+5/27/25 3:17:34a Leyenda says, "And you have the morph I see"
+5/27/25 3:17:36a * Healing Sycamore 
+5/27/25 3:17:38a •The healing spell has been broken.
+5/27/25 3:17:41a Ilonos has fallen to a Frost Foxweir.
+5/27/25 3:17:43a * Healing Ilonos 
+5/27/25 3:17:44a •Ilonos’s injuries are a little more serious than you can heal.
+5/27/25 3:17:46a * Healing Noivad 
+5/27/25 3:17:47a * Noivad recovers the Glacier Bear Cub fur, worth 17c. Your share is 2c.
+5/27/25 3:17:50a * Healing EirianCaldwell 
+5/27/25 3:17:51a * Healing EirianCaldwell 
+5/27/25 3:17:52a Rocky is no longer fallen.
+5/27/25 3:17:54a * Noivad recovers the Snowstag fur, worth 21c. Your share is 3c.
+5/27/25 3:17:54a * Leyenda recovers the Frost Foxweir fur, worth 38c. Your share is 5c.
+5/27/25 3:17:55a * Healing Rocky 
+5/27/25 3:18:02a * Donk recovers the Alpine Timber Feral fur, worth 15c. Your share is 1c.
+5/27/25 3:18:02a Rocky has fallen to a Glacier Bear.
+5/27/25 3:18:02a •Rocky’s wounds are much more severe than you can heal.
+5/27/25 3:18:03a Ilonos is no longer fallen.
+5/27/25 3:18:04a •The healing spell has been broken.
+5/27/25 3:18:05a * Leyenda recovers the Snowstag fur, worth 42c. Your share is 5c.
+5/27/25 3:18:06a * Healing Unholy 
+5/27/25 3:18:06a •You cannot use your caduceus on yourself.
+5/27/25 3:18:07a You equip your moonstone.
+5/27/25 3:18:08a * Noivad recovers the Glacier Bear fur, worth 8c. Your share is 1c.
+5/27/25 3:18:08a •You sense healing energy from Sycamore.
+5/27/25 3:18:11a * Healing Catan 
+5/27/25 3:18:11a You equip your caduceus.
+5/27/25 3:18:11a You must equip your moonstone before it can be used.
+5/27/25 3:18:12a Rocky says, "I got to go :( sorry guys"
+5/27/25 3:18:13a Noivad growls, "stag lasts"
+5/27/25 3:18:15a Rocky is no longer fallen.
+5/27/25 3:18:15a Shadowfire exclaims, "eep!"
+5/27/25 3:18:17a * Healing Leyenda 
+5/27/25 3:18:18a Noivad growls, "aw"
+5/27/25 3:18:22a Leyenda says, "Ohw"
+5/27/25 3:18:24a Shadowfire thinks, "Thanks for coming out Rocky! :}"
+5/27/25 3:18:24a Leyenda says, "Sorry"
+5/27/25 3:18:25a Eirian Caldwell says, "I think I got them"
+5/27/25 3:18:29a Leyenda says, "I'm always so bad at this"
+5/27/25 3:18:36a Leyenda says, "Double noted"
+5/27/25 3:18:39a * Healing Donk 
+5/27/25 3:18:41a Shadowfire thinks, "w pls"
+5/27/25 3:18:43a Leyenda growls, "Double noted"
+5/27/25 3:18:44a •The player must be in the same area.
+5/27/25 3:18:49a * Healing Catan 
+5/27/25 3:18:57a * Donk recovers the Abominable Snow Yorilla fur, worth 33c. Your share is 3c.
+5/27/25 3:18:59a * Healing EirianCaldwell 
+5/27/25 3:19:02a * Healing Donk 
+5/27/25 3:19:08a * Shadowfire recovers the Frost Foxweir fur, worth 23c. Your share is 2c.
+5/27/25 3:19:09a * Healing Ilonos 
+5/27/25 3:19:12a Rocky is no longer Clanning.
+5/27/25 3:19:13a * Healing Sycamore 
+5/27/25 3:19:16a Ilonos has fallen to a Glacier Bear Cub.
+5/27/25 3:19:17a * Healing Ilonos 
+5/27/25 3:19:17a •Ilonos’s injuries are significantly more serious than you can heal.
+5/27/25 3:19:20a * Leyenda recovers the Glacier Bear Cub fur, worth 44c. Your share is 5c.
+5/27/25 3:19:21a •Ilonos’s body was severely maimed.
+5/27/25 3:19:28a Ilonos is no longer fallen.
+5/27/25 3:19:31a Noivad says, "hey ley, check this out"
+5/27/25 3:19:32a * Healing Donk 
+5/27/25 3:19:32a You have 733 coins.
+5/27/25 3:19:33a * Leyenda recovers the Glacier Bear Cub fur, worth 53c. Your share is 5c.
+5/27/25 3:19:37a Noivad growls, "hey ley, check this out"
+5/27/25 3:19:39a Leyenda growls, "!!"
+5/27/25 3:19:43a * Healing Noivad 
+5/27/25 3:19:46a * Donk recovers the Frost Yorilla fur, worth 20c. Your share is 2c.
+5/27/25 3:19:48a Leyenda growls, "Very primal"
+5/27/25 3:19:49a * Leyenda recovers the Frost Yorilla fur, worth 44c. Your share is 5c.
+5/27/25 3:19:53a Leyenda growls, "I like it"
+5/27/25 3:19:54a * Leyenda recovers the Alpine Timber Feral fur, worth 64c. Your share is 7c.
+5/27/25 3:19:55a •The healing spell has been broken.
+5/27/25 3:19:56a * Healing Donk 
+5/27/25 3:20:01a * Leyenda recovers the Abominable Snow Yorilla fur, worth 62c. Your share is 6c.
+5/27/25 3:20:03a Leyenda growls, "whats that, like 900?"
+5/27/25 3:20:05a You just received anonymous good karma.
+5/27/25 3:20:06a * Healing Noivad 
+5/27/25 3:20:06a Leyenda growls, "1k?"
+5/27/25 3:20:12a Malakar is now Clanning.
+5/27/25 3:20:13a Noivad growls, "by her holy mewl"
+5/27/25 3:20:17a * Healing Donk 
+5/27/25 3:20:20a * Healing Noivad 
+5/27/25 3:20:23a * Healing Sycamore 
+5/27/25 3:20:28a * Healing Noivad 
+5/27/25 3:20:31a Noivad growls, "I have to get another drink"
+5/27/25 3:20:32a * Healing Donk 
+5/27/25 3:20:38a Noivad growls, "but I'll do that next healing round"
+5/27/25 3:20:44a Donk asks, "banana milkshake?"
+5/27/25 3:20:45a Shadowfire says, "qaew"
+5/27/25 3:20:46a •The healing spell has been broken.
+5/27/25 3:20:47a Shadowfire yells, "Gather north!"
+5/27/25 3:20:48a Sycamore says, "lol"
+5/27/25 3:20:49a * Healing Sycamore 
+5/27/25 3:20:49a (Leyenda laughs)
+5/27/25 3:20:53a * Healing Leyenda 
+5/27/25 3:20:55a Noivad yells, "last en route"
+5/27/25 3:20:55a Leyenda growls, "pick your poison"
+5/27/25 3:20:56a * Leyenda recovers the Glacier Bear Cub fur, worth 40c. Your share is 5c.
+5/27/25 3:20:57a Donk asks, "banana milkshake?"
+5/27/25 3:21:00a Shadowfire says, "UTS is 930"
+5/27/25 3:21:00a * Healing Leyenda 
+5/27/25 3:21:02a * Healing Noivad 
+5/27/25 3:21:04a * Healing Donk 
+5/27/25 3:21:11a •The healing spell has been broken.
+5/27/25 3:21:12a •The healing spell has been broken.
+5/27/25 3:21:13a * Healing Catan 
+5/27/25 3:21:13a Shadowfire says, "no fighting in ice please x}"
+5/27/25 3:21:16a * Healing EirianCaldwell 
+5/27/25 3:21:23a Donk exclaims, "makes it fun!"
+5/27/25 3:21:26a (Donk grins.)
+5/27/25 3:21:27a Shadowfire thinks, "n pls"
+5/27/25 3:21:33a * Healing Sycamore 
+5/27/25 3:21:34a •The player must be in the same area.
+5/27/25 3:21:39a * Healing Giben 
+5/27/25 3:21:41a •The healing spell has been broken.
+5/27/25 3:21:42a * Healing Shadowfire 
+5/27/25 3:21:43a * Healing Catan 
+5/27/25 3:21:46a Leyenda yells, "rocky"
+5/27/25 3:21:57a * Healing EirianCaldwell 
+5/27/25 3:22:00a Donk yells, "goat lasty"
+5/27/25 3:22:01a * Healing Giben 
+5/27/25 3:22:01a Shayla is now Clanning.
+5/27/25 3:22:06a * Healing Shadowfire 
+5/27/25 3:22:11a Noivad yells, "what else?"
+5/27/25 3:22:16a * Healing Sycamore 
+5/27/25 3:22:18a Shadowfire asks, "That it?"
+5/27/25 3:22:20a * Healing Shadowfire 
+5/27/25 3:22:21a Catan asks, "er Ice Kin?"
+5/27/25 3:22:23a Shadowfire yells, "For the glory of Cone Beast!"
+5/27/25 3:22:27a •The player must be in the same area.
+5/27/25 3:22:32a * Healing Donk 
+5/27/25 3:22:36a * Healing Giben 
+5/27/25 3:22:37a Ilonos has fallen to an Ice'kin.
+5/27/25 3:22:39a * Healing Ilonos 
+5/27/25 3:22:39a •Ilonos’s wounds are much more severe than you can heal.
+5/27/25 3:22:42a * Healing Donk 
+5/27/25 3:22:43a * Leyenda recovers the Glacier Bear fur, worth 20c. Your share is 2c.
+5/27/25 3:22:46a Donk growls, "pun is on icekin"
+5/27/25 3:22:48a You have 765 coins.
+5/27/25 3:22:50a * Healing Ilonos 
+5/27/25 3:22:50a Eli thinks, "any waterbreathing illusion breaking mystics around"
+5/27/25 3:22:57a Ilonos is no longer fallen.
+5/27/25 3:22:58a Eirian Caldwell says, "I think Catan wants movements"
+5/27/25 3:23:02a * Healing Catan 
+5/27/25 3:23:05a Urria is now Clanning.
+5/27/25 3:23:09a Shadowfire says, "it's pretty hard to last these without a fair amount of darkus/regia"
+5/27/25 3:23:16a * Healing EirianCaldwell 
+5/27/25 3:23:16a Catan asks, "er Ice Kin?"
+5/27/25 3:23:17a Shadowfire says, "kin I mean"
+5/27/25 3:23:18a * Healing Ilonos 
+5/27/25 3:23:24a Leyenda growls, "Who's on ice kin?"
+5/27/25 3:23:25a * Leyenda recovers the Frost Foxweir fur, worth 41c. Your share is 5c.
+5/27/25 3:23:26a Eirian Caldwell says, "I know, I just did them and it took 5 hunts"
+5/27/25 3:23:26a * Healing EirianCaldwell 
+5/27/25 3:23:29a * Healing Noivad 
+5/27/25 3:23:31a You gave signed good karma to Dae Fenris, .
+5/27/25 3:23:34a Shadowfire yells, "Gather north!"
+5/27/25 3:23:34a Sazerac!
+5/27/25 3:23:38a Cinder is now Clanning.
+5/27/25 3:23:42a * Healing Sycamore 
+5/27/25 3:23:45a * Healing Donk 
+5/27/25 3:23:51a Leyenda yells, "bear"
+5/27/25 3:23:56a •The healing spell has been broken.
+5/27/25 3:23:58a * Healing EirianCaldwell 
+5/27/25 3:23:58a Catan says, "I studied all the Glen kin"
+5/27/25 3:24:00a Ilonos has fallen to a Glacier Bear.
+5/27/25 3:24:04a * Healing Ilonos 
+5/27/25 3:24:05a Ilonos is no longer fallen.
+5/27/25 3:24:10a * Giben recovers the Glacier Bear fur, worth 47c. Your share is 5c.
+5/27/25 3:24:10a Eirian Caldwell says, "maybe easier for you then :)"
+5/27/25 3:24:11a * Healing EirianCaldwell 
+5/27/25 3:24:25a * Healing Donk 
+5/27/25 3:24:27a Catan says, "er 4 of theùm"
+5/27/25 3:24:28a Sycamore says, "try a few and let's see how hard they are"
+5/27/25 3:24:32a * Healing EirianCaldwell 
+5/27/25 3:24:33a * Leyenda recovers the Frost Foxweir fur, worth 85c. Your share is 8c.
+5/27/25 3:24:34a * Healing Giben 
+5/27/25 3:24:46a * Healing Sycamore 
+5/27/25 3:24:50a * Healing Leyenda 
+5/27/25 3:24:54a * Healing Sycamore 
+5/27/25 3:24:54a Ilonos has fallen to a Mauling Spirit.
+5/27/25 3:24:57a •The healing spell has been broken.
+5/27/25 3:25:01a * Healing Donk 
+5/27/25 3:25:03a * Healing DaeFenris 
+5/27/25 3:25:03a * Healing EirianCaldwell 
+5/27/25 3:25:08a * Healing Ilonos 
+5/27/25 3:25:09a Ilonos is no longer fallen.
+5/27/25 3:25:12a •The healing spell has been broken.
+5/27/25 3:25:14a * Healing Donk 
+5/27/25 3:25:15a You just received anonymous good karma.
+5/27/25 3:25:33a (Shadowfire cackles)
+5/27/25 3:25:40a * Healing Noivad 
+5/27/25 3:25:42a * Healing Donk 
+5/27/25 3:25:48a * Healing DaeFenris 
+5/27/25 3:25:50a * Healing Noivad 
+5/27/25 3:25:55a * Healing Sycamore 
+5/27/25 3:25:58a * Healing Donk 
+5/27/25 3:26:00a * Healing Shadowfire 
+5/27/25 3:26:03a You have 783 coins.
+5/27/25 3:26:07a * Healing Sycamore 
+5/27/25 3:26:10a * Healing Shadowfire 
+5/27/25 3:26:15a * Healing Donk 
+5/27/25 3:26:20a * Healing Catan 
+5/27/25 3:26:25a * Healing Donk 
+5/27/25 3:26:27a * Healing Giben 
+5/27/25 3:26:30a Noivad says, "afk"
+5/27/25 3:26:32a * Healing Catan 
+5/27/25 3:26:32a * Healing Catan 
+5/27/25 3:26:39a * Healing DaeFenris 
+5/27/25 3:26:41a * Healing Donk 
+5/27/25 3:26:45a * Healing Shadowfire 
+5/27/25 3:26:51a * Healing Catan 
+5/27/25 3:26:53a * Healing Shadowfire 
+5/27/25 3:26:55a * Healing Catan 
+5/27/25 3:26:56a (Eirian Caldwell has flashbacks)
+5/27/25 3:26:58a * Healing Shadowfire 
+5/27/25 3:27:01a * Healing Donk 
+5/27/25 3:27:02a Catan says, "leave it"
+5/27/25 3:27:03a * Healing Catan 
+5/27/25 3:27:12a * Healing Shadowfire 
+5/27/25 3:27:13a * Healing Sycamore 
+5/27/25 3:27:15a Catan says, "need other kin study"
+5/27/25 3:27:19a Shadowfire says, "moar goss"
+5/27/25 3:27:20a Eirian Caldwell says, "it was just as bad for me; don't worry! :D"
+5/27/25 3:27:20a Leyenda growls, "Needs a mystic and some more darkus"
+5/27/25 3:27:22a Shayla is no longer Clanning.
+5/27/25 3:27:30a Sycamore says, "or maybe a mystic or bm to help"
+5/27/25 3:27:33a Unholy says, "need darkus"
+5/27/25 3:27:33a Catan says, "also no mpore spirit"
+5/27/25 3:27:43a * Healing Donk 
+5/27/25 3:27:52a •The healing spell has been broken.
+5/27/25 3:27:53a * Leyenda recovers the Glacier Bear Cub fur, worth 36c. Your share is 4c.
+5/27/25 3:27:59a * Healing Catan 
+5/27/25 3:28:02a * Healing Sycamore 
+5/27/25 3:28:02a Catan says, "study staerted"
+5/27/25 3:28:03a You just received good karma from Eirian Caldwell, :)
+5/27/25 3:28:04a * Healing Giben 
+5/27/25 3:28:10a * Healing Catan 
+5/27/25 3:28:13a * Healing Donk 
+5/27/25 3:28:18a * Healing Ilonos 
+5/27/25 3:28:25a * Healing EirianCaldwell 
+5/27/25 3:28:31a * Healing Ilonos 
+5/27/25 3:28:33a * Healing Sycamore 
+5/27/25 3:28:38a * Healing Giben 
+5/27/25 3:28:40a * Healing Shadowfire 
+5/27/25 3:28:43a Noivad says, "the advantage of bluetooth headphones is I can go all gre way to my fridge and get a drink and hear what's going on"
+5/27/25 3:28:44a * Healing Noivad 
+5/27/25 3:28:46a * Healing DaeFenris 
+5/27/25 3:28:50a (Shadowfire grins)
+5/27/25 3:28:51a (Leyenda grins)
+5/27/25 3:28:51a * Healing Leyenda 
+5/27/25 3:28:54a Sycamore says, "hehe"
+5/27/25 3:28:54a Noivad thinks, "the advantage of bluetooth headphones is I can go all gre way to my fridge and get a drink and hear what's going on"
+5/27/25 3:29:04a * Healing Catan 
+5/27/25 3:29:08a * Leyenda recovers the Glacier Bear Cub fur, worth 93c. Your share is 9c.
+5/27/25 3:29:14a * Healing Leyenda 
+5/27/25 3:29:17a Lion-O thinks, "does it have text to speech"
+5/27/25 3:29:19a You have 796 coins.
+5/27/25 3:29:19a Leyenda growls, "The downside, your friend thinks its a good idea to go to the toilet with a BT headset"
+5/27/25 3:29:21a Noivad says, "than Unholy"
+5/27/25 3:29:24a Donk thinks, "same, but with my cochlear implants. :D"
+5/27/25 3:29:31a You gave signed good karma to Sycamore, .
+5/27/25 3:29:37a * Healing DaeFenris 
+5/27/25 3:29:41a * Healing Unholy 
+5/27/25 3:29:41a •You cannot use your caduceus on yourself.
+5/27/25 3:29:42a You equip your moonstone.
+5/27/25 3:29:44a * Healing Shadowfire 
+5/27/25 3:29:44a You equip your caduceus.
+5/27/25 3:29:45a You must equip your moonstone before it can be used.
+5/27/25 3:29:48a * Healing EirianCaldwell 
+5/27/25 3:29:52a * Healing Unholy 
+5/27/25 3:29:52a •You cannot use your caduceus on yourself.
+5/27/25 3:29:53a You equip your moonstone.
+5/27/25 3:29:53a •The healing spell has been broken.
+5/27/25 3:29:55a •You sense healing energy from Sycamore.
+5/27/25 3:30:06a * Healing Sycamore 
+5/27/25 3:30:06a You equip your caduceus.
+5/27/25 3:30:07a You must equip your moonstone before it can be used.
+5/27/25 3:30:11a * Healing EirianCaldwell 
+5/27/25 3:30:19a * Healing Sycamore 
+5/27/25 3:30:30a Ilonos ponders, "noway"
+5/27/25 3:30:48a Catan says, "ok kill"
+5/27/25 3:30:50a * Healing Shadowfire 
+5/27/25 3:30:57a Shadowfire yells, "By the Floof of the Fur!"
+5/27/25 3:31:04a * Healing Noivad 
+5/27/25 3:31:09a * Leyenda recovers the Glacier Bear Cub fur, worth 95c. Your share is 10c.
+5/27/25 3:31:10a * Sycamore recovers the Frost Foxweir fur, worth 71c. Your share is 12c.
+5/27/25 3:31:13a * Healing Leyenda 
+5/27/25 3:31:19a * Healing Catan 
+5/27/25 3:31:29a •The healing spell has been broken.
+5/27/25 3:31:30a * Healing Catan 
+5/27/25 3:31:39a * Healing Sycamore 
+5/27/25 3:31:42a •The healing spell has been broken.
+5/27/25 3:31:44a * Healing Ilonos 
+5/27/25 3:31:46a Catan has fallen to an Ice'kin.
+5/27/25 3:31:47a Ilonos has fallen to an Ice'kin.
+5/27/25 3:31:47a •Ilonos’s wounds are much more severe than you can heal.
+5/27/25 3:31:47a * Eirian Caldwell recovers the Ice'kin blood, worth 3c. Your share is 1c.
+5/27/25 3:31:49a * Healing Catan 
+5/27/25 3:31:51a * Healing Leyenda 
+5/27/25 3:31:53a * Donk recovers the Alpine Timber Feral fur, worth 31c. Your share is 4c.
+5/27/25 3:32:00a * Healing Ilonos 
+5/27/25 3:32:00a •Ilonos’s injuries are significantly more serious than you can heal.
+5/27/25 3:32:02a * Healing Catan 
+5/27/25 3:32:04a Catan is no longer fallen.
+5/27/25 3:32:09a Donk growls, "drats"
+5/27/25 3:32:09a * Healing Ilonos 
+5/27/25 3:32:09a •Ilonos’s injuries are significantly more serious than you can heal.
+5/27/25 3:32:09a •Ilonos’s body was severely maimed.
+5/27/25 3:32:11a Noivad has fallen to a Glacier Bear.
+5/27/25 3:32:12a Catan says, "Gooos at 400np"
+5/27/25 3:32:16a Ilonos is no longer fallen.
+5/27/25 3:32:16a Giben has fallen to a Glacier Bear.
+5/27/25 3:32:17a Catan says, "nnp"
+5/27/25 3:32:18a Catan has fallen to a Glacier Bear.
+5/27/25 3:32:19a Noivad yells, "rocker out there"
+5/27/25 3:32:21a * Healing DaeFenris 
+5/27/25 3:32:22a * Healing Sycamore 
+5/27/25 3:32:24a Eirian Caldwell has fallen to a Glacier Bear.
+5/27/25 3:32:25a * Healing Catan 
+5/27/25 3:32:25a •Catan’s injuries were serious.
+5/27/25 3:32:27a * Leyenda recovers the Glacier Bear fur, worth 29c. Your share is 3c.
+5/27/25 3:32:29a Catan is no longer fallen.
+5/27/25 3:32:30a Noivad yells, "stay away from fallen"
+5/27/25 3:32:31a Giben is no longer fallen.
+5/27/25 3:32:32a * Healing Giben 
+5/27/25 3:32:33a Catan says, "I need to do antoehr Kin study"
+5/27/25 3:32:35a •You seem to heal from further away now.
+5/27/25 3:32:37a You have 826 coins.
+5/27/25 3:32:39a * Healing EirianCaldwell 
+5/27/25 3:32:40a •You don't quite have the training to heal Eirian Caldwell’s injuries.
+5/27/25 3:32:41a Donk is no longer fallen.
+5/27/25 3:32:43a * Healing Noivad 
+5/27/25 3:32:44a * Leyenda recovers the Glacier Bear fur, worth 45c. Your share is 5c.
+5/27/25 3:32:46a •Noivad’s injuries are a little more serious than you can heal.
+5/27/25 3:32:47a •The healing spell has been broken.
+5/27/25 3:32:53a •The healing spell has been broken.
+5/27/25 3:32:54a Shadowfire yells, "For the glory of Cone Beast!"
+5/27/25 3:32:54a * Healing Donk 
+5/27/25 3:32:55a Eirian Caldwell is no longer fallen.
+5/27/25 3:32:58a * Healing EirianCaldwell 
+5/27/25 3:32:58a Leyenda has fallen to a Glacier Bear.
+5/27/25 3:33:00a * Donk recovers the Glacier Bear fur, worth 22c. Your share is 3c.
+5/27/25 3:33:02a Dae Fenris says, "Shadow has myr"
+5/27/25 3:33:03a * Healing Noivad 
+5/27/25 3:33:05a Donk has fallen to a Damaged Spirit.
+5/27/25 3:33:06a Noivad is no longer fallen.
+5/27/25 3:33:08a Noivad says, "k"
+5/27/25 3:33:11a Donk says, "lol"
+5/27/25 3:33:17a * Healing Leyenda 
+5/27/25 3:33:18a •You don't quite have the training to heal Leyenda’s injuries.
+5/27/25 3:33:19a •Leyenda’s injuries were serious.
+5/27/25 3:33:20a * Healing Ilonos 
+5/27/25 3:33:21a Leyenda is no longer fallen.
+5/27/25 3:33:23a * Healing Leyenda 
+5/27/25 3:33:26a Eirian Caldwell has fallen to a Damaged Spirit.
+5/27/25 3:33:28a Eirian Caldwell says, "ow"
+5/27/25 3:33:29a * Healing Ilonos 
+5/27/25 3:33:32a Donk is no longer fallen.
+5/27/25 3:33:33a * Healing Donk 
+5/27/25 3:33:38a Shadowfire yells, "gather s and heal up"
+5/27/25 3:33:41a * Healing Catan 
+5/27/25 3:33:51a * Healing EirianCaldwell 
+5/27/25 3:33:51a •Eirian Caldwell’s injuries were serious.
+5/27/25 3:33:53a Catan says, "sorry afk 1 or 2 min"
+5/27/25 3:33:54a Eirian Caldwell is no longer fallen.
+5/27/25 3:33:56a Shadowfire says, "npnp"
+5/27/25 3:34:02a You just received good karma from Noivad, a GK a day keeps the departs away :)
+5/27/25 3:34:04a * Healing Sycamore 
+5/27/25 3:34:12a * Healing Shadowfire 
+5/27/25 3:34:21a * Healing EirianCaldwell 
+5/27/25 3:34:23a •You gain experience.
+5/27/25 3:34:28a * Healing Giben 
+5/27/25 3:34:36a * Healing Sycamore 
+5/27/25 3:34:39a * Healing Leyenda 
+5/27/25 3:34:41a Noivad growls, "I got these new 66Audio BT headphones and while the audio Suuucks (too much mid-bass) the range is great!"
+5/27/25 3:34:51a Shadowfire says, ":D"
+5/27/25 3:34:52a * Healing Sycamore 
+5/27/25 3:34:56a * Healing Donk 
+5/27/25 3:35:04a * Healing Leyenda 
+5/27/25 3:35:06a * Healing Ilonos 
+5/27/25 3:35:14a * Healing Leyenda 
+5/27/25 3:35:16a * Healing Sycamore 
+5/27/25 3:35:16a Catan is no longer fallen.
+5/27/25 3:35:19a * Healing DaeFenris 
+5/27/25 3:35:21a * Healing Leyenda 
+5/27/25 3:35:28a * Healing Sycamore 
+5/27/25 3:35:30a * Healing Leyenda 
+5/27/25 3:35:31a You gave signed good karma to Shadowfire, .
+5/27/25 3:35:32a (Sycamore smiles.)
+5/27/25 3:35:32a * Healing Shadowfire 
+5/27/25 3:35:35a * Healing Leyenda 
+5/27/25 3:35:37a Noivad growls, "woo teamwrok exp is the best exp"
+5/27/25 3:35:42a * Healing DaeFenris 
+5/27/25 3:35:42a Shadowfire says, "x}"
+5/27/25 3:35:44a * Healing Noivad 
+5/27/25 3:35:47a Noivad growls, "it's like a little bonus"
+5/27/25 3:35:49a Shadowfire yells, "All glory to Cone Beast!"
+5/27/25 3:35:49a * Healing Sycamore 
+5/27/25 3:35:51a Catan asks, "how many ranks needed for Book 1 guys pelease?"
+5/27/25 3:35:52a You have 834 coins.
+5/27/25 3:36:02a Donk yells, "yay goatz"
+5/27/25 3:36:03a * Healing Catan 
+5/27/25 3:36:05a Eirian Caldwell thinks, "goat"
+5/27/25 3:36:06a Shadowfire yells, "For the glory of Cone Beast!"
+5/27/25 3:36:06a Sycamore says, "goat outside and serac"
+5/27/25 3:36:10a Eirian Caldwell has fallen to a Serac Wyrm.
+5/27/25 3:36:12a * Healing Shadowfire 
+5/27/25 3:36:21a * Healing Catan 
+5/27/25 3:36:21a * Leyenda recovers the Glacier Bear fur, worth 57c. Your share is 7c.
+5/27/25 3:36:27a * Leyenda recovers the Frost Foxweir fur, worth 37c. Your share is 6c.
+5/27/25 3:36:30a Catan says, "I maxed gemrit"
+5/27/25 3:36:30a * Healing EirianCaldwell 
+5/27/25 3:36:30a •Eirian Caldwell was too wounded to be healed easily.
+5/27/25 3:36:33a Eirian Caldwell is no longer fallen.
+5/27/25 3:36:34a * Donk recovers the Glacier Bear fur, worth 23c. Your share is 3c.
+5/27/25 3:36:34a Ilonos has fallen to a Glacier Bear.
+5/27/25 3:36:34a Eirian Caldwell says, "goat back there"
+5/27/25 3:36:40a * Healing Ilonos 
+5/27/25 3:36:40a Catan says, "I maxed hermit"
+5/27/25 3:36:41a Ilonos is no longer fallen.
+5/27/25 3:36:45a Noivad yells, "goat lasty"
+5/27/25 3:36:50a * Healing EirianCaldwell 
+5/27/25 3:36:51a Noivad thinks, "goat lasty"
+5/27/25 3:36:54a * Healing Sycamore 
+5/27/25 3:36:54a Shadowfire says, "Let me guess, you tunnel visioned and suicided into it? ;}"
+5/27/25 3:36:56a * Healing EirianCaldwell 
+5/27/25 3:37:04a * Healing Giben 
+5/27/25 3:37:08a •The healing spell has been broken.
+5/27/25 3:37:08a Catan is no longer fallen.
+5/27/25 3:37:10a * Healing Catan 
+5/27/25 3:37:13a Leyenda growls, "Donk Lastie?"
+5/27/25 3:37:13a * Healing Giben 
+5/27/25 3:37:17a Donk growls, "yes"
+5/27/25 3:37:18a * Healing EirianCaldwell 
+5/27/25 3:37:21a * Healing Catan 
+5/27/25 3:37:23a Leyenda growls, "How far in?"
+5/27/25 3:37:29a Horobups is no longer Clanning.
+5/27/25 3:37:31a * Healing Shadowfire 
+5/27/25 3:37:31a Donk growls, "many for morph"
+5/27/25 3:37:32a * Healing Donk 
+5/27/25 3:37:34a * Leyenda recovers the Alpine Goat fur, worth 49c. Your share is 5c.
+5/27/25 3:37:35a Leyenda growls, "ooh nice"
+5/27/25 3:37:38a Unholy says, "nice"
+5/27/25 3:37:47a * Healing Noivad 
+5/27/25 3:37:54a Shadowfire yells, "By the Burbles of the Beast!"
+5/27/25 3:38:00a * Healing Leyenda 
+5/27/25 3:38:04a * Leyenda recovers the Frost Foxweir fur, worth 80c. Your share is 10c.
+5/27/25 3:38:07a * Healing Donk 
+5/27/25 3:38:09a * Healing Shadowfire 
+5/27/25 3:38:10a * Healing EirianCaldwell 
+5/27/25 3:38:17a * Healing Donk 
+5/27/25 3:38:20a * Catan recovers the Frost Foxweir fur, worth 81c. Your share is 9c.
+5/27/25 3:38:22a * Healing Ilonos 
+5/27/25 3:38:25a * Leyenda recovers the Frost Foxweir fur, worth 71c. Your share is 9c.
+5/27/25 3:38:29a Catan is no longer fallen.
+5/27/25 3:38:35a Catan is no longer fallen.
+5/27/25 3:38:37a * Healing Catan 
+5/27/25 3:38:39a * Leyenda recovers the Alpine Goat fur, worth 119c. Your share is 12c.
+5/27/25 3:38:53a * Healing Donk 
+5/27/25 3:38:55a * Leyenda recovers the Frost Foxweir fur, worth 67c. Your share is 7c.
+5/27/25 3:38:58a Shadowfire says, "hold here and someone feeling froggy lure"
+5/27/25 3:38:59a * Healing Giben 
+5/27/25 3:39:02a * Healing Donk 
+5/27/25 3:39:04a Shadowfire yells, "hold here and someone feeling froggy lure"
+5/27/25 3:39:06a Lion-O is no longer Clanning.
+5/27/25 3:39:08a You have 902 coins.
+5/27/25 3:39:12a Noivad yells, "3"
+5/27/25 3:39:12a * Healing Giben 
+5/27/25 3:39:18a Donk growls, "no more goat"
+5/27/25 3:39:21a •The healing spell has been broken.
+5/27/25 3:39:22a * Healing Noivad 
+5/27/25 3:39:27a * Healing Ilonos 
+5/27/25 3:39:29a * Healing Noivad 
+5/27/25 3:39:40a * Leyenda recovers the Glacier Bear fur, worth 45c. Your share is 4c.
+5/27/25 3:39:41a * Healing Catan 
+5/27/25 3:39:44a * Healing Noivad 
+5/27/25 3:39:46a * Healing Donk 
+5/27/25 3:39:48a Donk is no longer fallen.
+5/27/25 3:39:52a Shadowfire says, "don't pin her on a wall please so everyone can swing"
+5/27/25 3:39:54a Catan has fallen to Giayl.
+5/27/25 3:39:58a * Healing Noivad 
+5/27/25 3:40:01a * Shadowfire recovers the Frost Foxweir fur, worth 13c. Your share is 1c.
+5/27/25 3:40:03a * Healing Donk 
+5/27/25 3:40:12a * Healing Noivad 
+5/27/25 3:40:15a Eirian Caldwell is no longer fallen.
+5/27/25 3:40:20a Catan is no longer fallen.
+5/27/25 3:40:24a * Healing Unholy 
+5/27/25 3:40:24a •You cannot use your caduceus on yourself.
+5/27/25 3:40:25a You equip your moonstone.
+5/27/25 3:40:25a •The healing spell has been broken.
+5/27/25 3:40:28a * Healing Noivad 
+5/27/25 3:40:28a You equip your caduceus.
+5/27/25 3:40:29a You must equip your moonstone before it can be used.
+5/27/25 3:40:34a Leyenda growls, "someone still needs a tag?"
+5/27/25 3:40:35a * Healing Unholy 
+5/27/25 3:40:35a •You cannot use your caduceus on yourself.
+5/27/25 3:40:35a You equip your moonstone.
+5/27/25 3:40:35a •The healing spell has been broken.
+5/27/25 3:40:37a * Healing Catan 
+5/27/25 3:40:37a You equip your caduceus.
+5/27/25 3:40:38a You must equip your moonstone before it can be used.
+5/27/25 3:40:41a Eirian Caldwell says, "no"
+5/27/25 3:40:42a * Healing EirianCaldwell 
+5/27/25 3:40:44a Shadowfire says, "not now it seems"
+5/27/25 3:40:47a * Healing Noivad 
+5/27/25 3:40:48a * You pick up 231 coins.
+5/27/25 3:40:48a * You gain experience.
+5/27/25 3:40:49a Noivad yells, "vhest"
+5/27/25 3:40:50a Shadowfire says, "$$"
+5/27/25 3:40:51a Donk says, "nice"
+5/27/25 3:40:52a Dae Fenris exclaims, "Hoorah!"
+5/27/25 3:40:53a Eirian Caldwell says, "nice"
+5/27/25 3:40:54a Leyenda growls, "<3"
+5/27/25 3:40:55a * Healing Sycamore 
+5/27/25 3:40:55a Noivad says, "one lsast check"
+5/27/25 3:40:59a Sycamore says, "nice"
+5/27/25 3:41:02a Shadowfire exclaims, "nice job folks!"
+5/27/25 3:41:03a * Healing Donk 
+5/27/25 3:41:05a Noivad yells, "checking"
+5/27/25 3:41:08a Donk yells, "no goat here"
+5/27/25 3:41:10a * Healing Unholy 
+5/27/25 3:41:10a •You cannot use your caduceus on yourself.
+5/27/25 3:41:11a You equip your moonstone.
+5/27/25 3:41:11a •The healing spell has been broken.
+5/27/25 3:41:13a •To heal yourself, type: \USE
+5/27/25 3:41:13a •To heal yourself three times, type: \USE 3
+5/27/25 3:41:18a * Healing Catan 
+5/27/25 3:41:19a You equip your caduceus.
+5/27/25 3:41:19a You must equip your moonstone before it can be used.
+5/27/25 3:41:20a You must equip your moonstone before it can be used.
+5/27/25 3:41:24a * Healing Sycamore 
+5/27/25 3:41:29a * Leyenda recovers the Frost Foxweir fur, worth 27c. Your share is 4c.
+5/27/25 3:41:31a You gave signed good karma to Dae Fenris, .
+5/27/25 3:41:36a * Healing Sycamore 
+5/27/25 3:41:45a * Healing Noivad 
+5/27/25 3:41:55a * Healing Sycamore 
+5/27/25 3:41:58a * Healing DaeFenris 
+5/27/25 3:42:01a * Healing Giben 
+5/27/25 3:42:02a Ilonos has fallen to a Glacier Bear.
+5/27/25 3:42:03a * Healing Leyenda 
+5/27/25 3:42:03a Urria is no longer Clanning.
+5/27/25 3:42:04a Eli thinks, "k"
+5/27/25 3:42:04a * Leyenda recovers the Glacier Bear Cub fur, worth 49c. Your share is 6c.
+5/27/25 3:42:06a Leyenda has fallen to a Glacier Bear Cub.
+5/27/25 3:42:06a •You don't quite have the training to heal Leyenda’s injuries.
+5/27/25 3:42:07a * Donk recovers the Glacier Bear Cub fur, worth 21c. Your share is 2c.
+5/27/25 3:42:07a •Leyenda’s injuries were serious.
+5/27/25 3:42:07a •Leyenda’s injuries were serious.
+5/27/25 3:42:08a Catan has fallen to a Glacier Bear.
+5/27/25 3:42:09a Leyenda is no longer fallen.
+5/27/25 3:42:14a * Healing Sycamore 
+5/27/25 3:42:20a * Leyenda recovers the Glacier Bear fur, worth 42c. Your share is 4c.
+5/27/25 3:42:25a Ilonos is no longer fallen.
+5/27/25 3:42:25a * Healing Leyenda 
+5/27/25 3:42:25a You have 1154 coins.
+5/27/25 3:42:27a Buzz is now Clanning.
+5/27/25 3:42:30a * Healing Catan 
+5/27/25 3:42:32a Catan is no longer fallen.
+5/27/25 3:42:39a Dare is now Clanning.
+5/27/25 3:42:39a * Healing Sycamore 
+5/27/25 3:42:39a (Leyenda purr)
+5/27/25 3:42:40a (Leyenda purrs)
+5/27/25 3:42:42a * Healing DaeFenris 
+5/27/25 3:42:47a Catan says, ": D"
+5/27/25 3:42:49a * Healing EirianCaldwell 
+5/27/25 3:43:03a Shadowfire yells, "Dassit, reversi!"
+5/27/25 3:43:05a * Healing Donk 
+5/27/25 3:43:09a * Healing EirianCaldwell 
+5/27/25 3:43:15a •The healing spell has been broken.
+5/27/25 3:43:18a * Healing Leyenda 
+5/27/25 3:43:38a * Healing Donk 
+5/27/25 3:43:41a * Healing Shadowfire 
+5/27/25 3:43:46a * Healing EirianCaldwell 
+5/27/25 3:43:48a Ilonos yells, "???"
+5/27/25 3:43:48a * Healing Donk 
+5/27/25 3:43:51a Leyenda yells, "!"
+5/27/25 3:43:55a Noivad yells, "hi"
+5/27/25 3:44:11a * Healing Catan 
+5/27/25 3:44:13a * Healing Donk 
+5/27/25 3:44:15a •The healing spell has been broken.
+5/27/25 3:44:25a Noivad thinks, "5/26/25 10:42:16 >>My thank group is currently: [ 1 ] Shadowfire [ 2 ] Sycamore[ 3 ] DaeFenris[ 4 ] Unholy[ 5 ] Leyenda [ 6 ] Donk [ 7 ]* Catan [ 8 ] Giben[ 9 ] EirianCaldwell[ 10 ] Ilonos hehe"
+5/27/25 3:44:40a Sycamore thinks, "ilonos not moving"
+5/27/25 3:44:43a Catan says, "kill it"
+5/27/25 3:44:47a Donk thinks, "hipaa violation! :P"
+5/27/25 3:44:50a * Giben recovers the Ice'kin blood, worth 10c. Your share is 1c.
+5/27/25 3:44:58a Shadowfire yells, "Illonos?"
+5/27/25 3:45:00a •The healing spell has been broken.
+5/27/25 3:45:02a * Healing Shadowfire 
+5/27/25 3:45:07a Dae Fenris yells, "He's been hypnotized by the ice"
+5/27/25 3:45:10a •You sense healing energy from Sycamore.
+5/27/25 3:45:20a Shadowfire says, "looking for a mob to kill him, we'll chain along"
+5/27/25 3:45:20a You just received anonymous good karma.
+5/27/25 3:45:20a Noivad yells, "push him here"
+5/27/25 3:45:21a Dare is no longer Clanning.
+5/27/25 3:45:28a Eirian Caldwell yells, "find something to drop on him and chain?"
+5/27/25 3:45:33a Noivad yells, "1"
+5/27/25 3:45:36a Shadowfire yells, "that is the plan"
+5/27/25 3:45:41a You have 1155 coins.
+5/27/25 3:45:44a Noivad thinks, "kin"
+5/27/25 3:45:47a Noivad yells, "kin"
+5/27/25 3:45:48a Donk yells, "icekin"
+5/27/25 3:45:53a Shadowfire yells, "bring it here"
+5/27/25 3:45:57a Omega is now Clanning.
+5/27/25 3:45:58a Unholy asks, "back?"
+5/27/25 3:46:00a Ilonos says, "oh thank"
+5/27/25 3:46:04a Shadowfire yells, "nm"
+5/27/25 3:46:04a Dae Fenris yells, "He lives"
+5/27/25 3:46:06a Sycamore yells, "ok he's back"
+5/27/25 3:46:08a Buzz is no longer Clanning.
+5/27/25 3:46:11a •The healing spell has been broken.
+5/27/25 3:46:12a •The healing spell has been broken.
+5/27/25 3:46:12a Buzza is now Clanning.
+5/27/25 3:46:17a Leyenda says, "oop"
+5/27/25 3:46:18a (Eirian Caldwell chuckles.)
+5/27/25 3:46:18a Catan asks, "for kicking you in the butt?"
+5/27/25 3:46:27a Ilonos asks, "do you ?"
+5/27/25 3:46:29a Catan yells, "youre welcome Ilo"
+5/27/25 3:46:30a Shadowfire yells, "By the Floof of the Fur!"
+5/27/25 3:46:37a * Healing Ilonos 
+5/27/25 3:46:44a •The healing spell has been broken.
+5/27/25 3:46:48a * Healing EirianCaldwell 
+5/27/25 3:46:54a * Healing Giben 
+5/27/25 3:47:01a * Healing EirianCaldwell 
+5/27/25 3:47:09a * Healing Sycamore 
+5/27/25 3:47:11a * Healing Leyenda 
+5/27/25 3:47:18a Ilonos has fallen to an Ice'kin.
+5/27/25 3:47:23a Catan is no longer fallen.
+5/27/25 3:47:24a * Healing Ilonos 
+5/27/25 3:47:24a •Ilonos’s injuries are a little more serious than you can heal.
+5/27/25 3:47:26a •The healing spell has been broken.
+5/27/25 3:47:29a * Healing EirianCaldwell 
+5/27/25 3:47:30a Eli thinks, "sw"
+5/27/25 3:47:32a You gave signed good karma to Sycamore, .
+5/27/25 3:47:32a * Healing Leyenda 
+5/27/25 3:47:34a * Healing Giben 
+5/27/25 3:47:39a * Leyenda recovers the Alpine Goat fur, worth 115c. Your share is 13c.
+5/27/25 3:47:44a Donk growls, "bah"
+5/27/25 3:47:44a Eirian Caldwell growls, "oop"
+5/27/25 3:47:46a * Healing DaeFenris 
+5/27/25 3:47:50a * Healing Giben 
+5/27/25 3:47:50a (Eirian Caldwell laughs.)
+5/27/25 3:47:51a Catan says, "np"
+5/27/25 3:47:51a Ilonos is no longer fallen.
+5/27/25 3:47:53a * Healing Unholy 
+5/27/25 3:47:53a •You cannot use your caduceus on yourself.
+5/27/25 3:47:53a You equip your moonstone.
+5/27/25 3:47:53a •The healing spell has been broken.
+5/27/25 3:47:53a Shadowfire yells, "Gather south!"
+5/27/25 3:47:55a * Healing Giben 
+5/27/25 3:47:55a You equip your caduceus.
+5/27/25 3:47:55a You must equip your moonstone before it can be used.
+5/27/25 3:47:56a * Healing Ilonos 
+5/27/25 3:48:01a * Healing Sycamore 
+5/27/25 3:48:10a •The healing spell has been broken.
+5/27/25 3:48:11a Noivad thinks, "nada"
+5/27/25 3:48:12a Shadowfire yells, "For the glory of Cone Beast!"
+5/27/25 3:48:13a * Healing Catan 
+5/27/25 3:48:17a •The player must be in the same area.
+5/27/25 3:48:17a You just received anonymous good karma.
+5/27/25 3:48:22a Noivad yells, "1"
+5/27/25 3:48:22a * Healing Shadowfire 
+5/27/25 3:48:24a Catan is no longer fallen.
+5/27/25 3:48:26a •The Sun sets.
+5/27/25 3:48:31a * Healing Ilonos 
+5/27/25 3:48:40a Omega is no longer Clanning.
+5/27/25 3:48:42a * Leyenda recovers the Glacier Bear fur, worth 45c. Your share is 4c.
+5/27/25 3:48:42a •The healing spell has been broken.
+5/27/25 3:48:48a •The healing spell has been broken.
+5/27/25 3:48:49a * Healing Noivad 
+5/27/25 3:48:55a •You do not have enough spiritual energy.
+5/27/25 3:48:55a * Healing DaeFenris 
+5/27/25 3:48:56a * Healing EirianCaldwell 
+5/27/25 3:48:57a You have 1172 coins.
+5/27/25 3:48:58a Eli thinks, "ty all"
+5/27/25 3:49:02a Noivad yells, "sec"
+5/27/25 3:49:06a Darth Wader thinks, "thx, fun stuff"
+5/27/25 3:49:08a * Healing Sycamore 
+5/27/25 3:49:10a You just received good karma from Eirian Caldwell, :)
+5/27/25 3:49:10a * Healing Catan 
+5/27/25 3:49:15a Noivad yells, "ilonos not moving again"
+5/27/25 3:49:16a * Healing Unholy 
+5/27/25 3:49:16a •You cannot use your caduceus on yourself.
+5/27/25 3:49:17a You equip your moonstone.
+5/27/25 3:49:20a * Healing Sycamore 
+5/27/25 3:49:20a You equip your caduceus.
+5/27/25 3:49:21a You must equip your moonstone before it can be used.
+5/27/25 3:49:24a * Healing Donk 
+5/27/25 3:49:28a Catan says, "butt kicking time"
+5/27/25 3:49:35a * Healing Unholy 
+5/27/25 3:49:35a •You cannot use your caduceus on yourself.
+5/27/25 3:49:35a You equip your moonstone.
+5/27/25 3:49:36a •You sense healing energy from Sycamore.
+5/27/25 3:49:37a * Healing DaeFenris 
+5/27/25 3:49:37a You equip your caduceus.
+5/27/25 3:49:38a You must equip your moonstone before it can be used.
+5/27/25 3:49:38a * Healing Sycamore 
+5/27/25 3:49:39a Shadowfire yells, "pull chain, we're on a timeline"
+5/27/25 3:49:41a * Healing Giben 
+5/27/25 3:49:42a * Healing EirianCaldwell 
+5/27/25 3:49:49a * Healing Noivad 
+5/27/25 3:50:05a * Healing Unholy 
+5/27/25 3:50:05a •You cannot use your caduceus on yourself.
+5/27/25 3:50:06a You equip your moonstone.
+5/27/25 3:50:06a •The healing spell has been broken.
+5/27/25 3:50:07a Shadowfire says, "gogo"
+5/27/25 3:50:14a * Healing Ilonos 
+5/27/25 3:50:14a You equip your caduceus.
+5/27/25 3:50:14a You must equip your moonstone before it can be used.
+5/27/25 3:50:19a * Healing EirianCaldwell 
+5/27/25 3:50:25a Noivad yells, "move awqay from Ilo"
+5/27/25 3:50:25a Leyenda says, "Ah yeah"
+5/27/25 3:50:25a Eli is no longer Clanning.
+5/27/25 3:50:28a Leyenda says, "drop it on him"
+5/27/25 3:50:34a Bronko is no longer Clanning.
+5/27/25 3:50:37a Ilonos has fallen to a Mistral Kestrel.
+5/27/25 3:50:42a Talin is no longer Clanning.
+5/27/25 3:50:43a * Healing Donk 
+5/27/25 3:50:43a Loke is no longer Clanning.
+5/27/25 3:50:46a Darth Wader is no longer Clanning.
+5/27/25 3:50:49a Shadowfire yells, "For the glory of Cone Beast!"
+5/27/25 3:50:51a Pookoiko is no longer Clanning.
+5/27/25 3:50:52a •The player must be in the same area.
+5/27/25 3:50:56a * Healing Donk 
+5/27/25 3:51:05a * Shadowfire recovers the Glacier Bear Cub fur, worth 16c. Your share is 2c.
+5/27/25 3:51:12a * Healing Catan 
+5/27/25 3:51:12a Noivad yells, "last"
+5/27/25 3:51:15a * Leyenda recovers the Frost Yorilla fur, worth 56c. Your share is 6c.
+5/27/25 3:51:16a * Leyenda recovers the Snowstag fur, worth 18c. Your share is 2c.
+5/27/25 3:51:20a * Noivad recovers the Glacier Bear Cub fur, worth 19c. Your share is 3c.
+5/27/25 3:51:23a * Healing Donk 
+5/27/25 3:51:27a Shadowfire yells, "By the Burbles of the Beast!"
+5/27/25 3:51:31a * Healing Unholy 
+5/27/25 3:51:31a •You cannot use your caduceus on yourself.
+5/27/25 3:51:31a You equip your moonstone.
+5/27/25 3:51:31a •The healing spell has been broken.
+5/27/25 3:51:39a * Healing Catan 
+5/27/25 3:51:39a You equip your caduceus.
+5/27/25 3:51:40a You must equip your moonstone before it can be used.
+5/27/25 3:51:40a * Donk recovers the Glacier Bear Cub fur, worth 8c. Your share is 1c.
+5/27/25 3:51:42a * Healing Catan 
+5/27/25 3:51:43a * Leyenda recovers the Glacier Bear fur, worth 57c. Your share is 7c.
+5/27/25 3:51:43a * Leyenda recovers the Glacier Bear Cub fur, worth 73c. Your share is 9c.
+5/27/25 3:51:47a Catan has fallen to a Frost Yorilla.
+5/27/25 3:51:47a •You don't quite have the training to heal Catan’s injuries.
+5/27/25 3:51:49a * Leyenda recovers the Frost Yorilla fur, worth 93c. Your share is 13c.
+5/27/25 3:51:50a * Healing Leyenda 
+5/27/25 3:51:51a * Healing Unholy 
+5/27/25 3:51:52a •You cannot use your caduceus on yourself.
+5/27/25 3:51:52a You equip your moonstone.
+5/27/25 3:51:52a •The healing spell has been broken.
+5/27/25 3:51:55a * Healing Leyenda 
+5/27/25 3:51:55a You equip your caduceus.
+5/27/25 3:51:56a Catan is no longer fallen.
+5/27/25 3:51:56a You must equip your moonstone before it can be used.
+5/27/25 3:51:58a * Healing Catan 
+5/27/25 3:51:58a Shadowfire yells, "For the glory of Cone Beast!"
+5/27/25 3:52:06a •The player must be in the same area.
+5/27/25 3:52:06a •The healing spell has been broken.
+5/27/25 3:52:12a * Healing DaeFenris 
+5/27/25 3:52:12a * Leyenda recovers the Frost Foxweir fur, worth 26c. Your share is 3c.
+5/27/25 3:52:17a * Healing Sycamore 
+5/27/25 3:52:17a You have 1218 coins.
+5/27/25 3:52:19a Donk has fallen to a Glacier Bear Cub.
+5/27/25 3:52:20a * Healing Leyenda 
+5/27/25 3:52:21a •The healing spell has been broken.
+5/27/25 3:52:23a Giben has fallen to a Glacier Bear.
+5/27/25 3:52:23a •The healing spell has been broken.
+5/27/25 3:52:23a Donk says, "lol"
+5/27/25 3:52:27a Buzza is no longer Clanning.
+5/27/25 3:52:29a * Healing Giben 
+5/27/25 3:52:30a * Leyenda recovers the Glacier Bear fur, worth 49c. Your share is 5c.
+5/27/25 3:52:30a •Giben’s injuries are significantly more serious than you can heal.
+5/27/25 3:52:31a Catan has fallen to a Glacier Bear Cub.
+5/27/25 3:52:32a * Healing Noivad 
+5/27/25 3:52:32a •Donk’s injuries were serious.
+5/27/25 3:52:32a * Shadowfire recovers the Snowstag fur, worth 24c. Your share is 3c.
+5/27/25 3:52:33a Donk is no longer fallen.
+5/27/25 3:52:34a •The healing spell has been broken.
+5/27/25 3:52:35a * Healing Donk 
+5/27/25 3:52:35a * Leyenda recovers the Glacier Bear Cub fur, worth 84c. Your share is 12c.
+5/27/25 3:52:37a * Leyenda recovers the Glacier Bear fur, worth 26c. Your share is 3c.
+5/27/25 3:52:41a Donk says, "thanks"
+5/27/25 3:52:42a Catan says, "dont rasie me afk 2 MIN"
+5/27/25 3:52:45a * Healing Catan 
+5/27/25 3:52:46a •Catan’s injuries are a little more serious than you can heal.
+5/27/25 3:52:48a * Healing Giben 
+5/27/25 3:52:49a Catan says, "THX"
+5/27/25 3:52:52a Giben is no longer fallen.
+5/27/25 3:52:52a Shadowfire yells, "gather se"
+5/27/25 3:52:58a Donk growls, "thanks"
+5/27/25 3:52:58a * Healing EirianCaldwell 
+5/27/25 3:53:06a * Healing Giben 
+5/27/25 3:53:11a * Healing Sycamore 
+5/27/25 3:53:13a * Healing Giben 
+5/27/25 3:53:14a * Donk recovers the Glacier Bear fur, worth 28c. Your share is 3c.
+5/27/25 3:53:19a * Healing Noivad 
+5/27/25 3:53:20a Shadowfire yells, "For the glory of Cone Beast!"
+5/27/25 3:53:26a •The player must be in the same area.
+5/27/25 3:53:28a * Healing Noivad 
+5/27/25 3:53:29a Balangar is now Clanning.
+5/27/25 3:53:32a You gave signed good karma to Shadowfire, .
+5/27/25 3:53:36a Ilonos is still fallen to a Mistral Kestrel.
+5/27/25 3:53:39a * Donk recovers the Sky Bison fur, worth 32c. Your share is 4c.
+5/27/25 3:53:42a •The healing spell has been broken.
+5/27/25 3:53:43a * Healing Giben 
+5/27/25 3:53:49a * Healing Leyenda 
+5/27/25 3:53:51a Eirian Caldwell is no longer fallen.
+5/27/25 3:53:52a Shadowfire yells, "gather sw"
+5/27/25 3:53:52a Eirian Caldwell has fallen to a Sky Bison.
+5/27/25 3:53:53a * Healing EirianCaldwell 
+5/27/25 3:53:53a Noivad yells, "S"
+5/27/25 3:53:54a •Eirian Caldwell’s injuries are a little more serious than you can heal.
+5/27/25 3:53:55a * Healing Giben 
+5/27/25 3:53:58a * Healing Leyenda 
+5/27/25 3:53:58a * Leyenda recovers the Sky Bison fur, worth 57c. Your share is 7c.
+5/27/25 3:54:01a •The healing spell has been broken.
+5/27/25 3:54:05a •The healing spell has been broken.
+5/27/25 3:54:08a Dae Fenris yells, "Ilonos back, raise"
+5/27/25 3:54:09a Leyenda growls, "=)"
+5/27/25 3:54:11a * Healing Noivad 
+5/27/25 3:54:13a * Leyenda recovers the Shadowcat Huntress fur, worth 74c. Your share is 11c.
+5/27/25 3:54:17a * Leyenda recovers the Shadowcat Huntress fur, worth 94c. Your share is 11c.
+5/27/25 3:54:18a * Leyenda recovers the Shadowcat Huntress fur, worth 68c. Your share is 11c.
+5/27/25 3:54:19a * Healing Leyenda 
+5/27/25 3:54:23a * Healing Donk 
+5/27/25 3:54:23a Catan says, "BACK"
+5/27/25 3:54:28a * Leyenda recovers the Shadowcat Huntress fur, worth 65c. Your share is 8c.
+5/27/25 3:54:29a Ilonos is no longer fallen.
+5/27/25 3:54:30a * Healing Ilonos 
+5/27/25 3:54:31a * Leyenda recovers the Shadowcat Huntress fur, worth 38c. Your share is 6c.
+5/27/25 3:54:35a * Healing Catan 
+5/27/25 3:54:35a * Dae Fenris recovers the Shadowcat Huntress fur, worth 71c. Your share is 12c.
+5/27/25 3:54:36a •You don't quite have the training to heal Catan’s injuries.
+5/27/25 3:54:36a * Leyenda recovers the Shadowcat Huntress fur, worth 69c. Your share is 8c.
+5/27/25 3:54:37a * Healing Donk 
+5/27/25 3:54:39a Shadowfire says, "cat convention"
+5/27/25 3:54:40a Eirian Caldwell is no longer fallen.
+5/27/25 3:54:42a * Leyenda recovers the Shadowcat Huntress fur, worth 60c. Your share is 8c.
+5/27/25 3:54:45a Noivad growls, "yeah"
+5/27/25 3:54:48a Catan is no longer fallen.
+5/27/25 3:54:51a Shadowfire says, "wow"
+5/27/25 3:54:52a Shadowfire says, "more a lot more"
+5/27/25 3:54:54a * Healing EirianCaldwell 
+5/27/25 3:54:56a Eirian Caldwell has fallen to a Shadowcat Huntress.
+5/27/25 3:54:56a •You don't quite have the training to heal Eirian Caldwell’s injuries.
+5/27/25 3:54:58a * Healing Shadowfire 
+5/27/25 3:54:58a * Leyenda recovers the Shadowcat Huntress fur, worth 45c. Your share is 5c.
+5/27/25 3:54:59a (Eirian Caldwell sticks out her tongue.)
+5/27/25 3:55:00a * Leyenda recovers the Shadowcat Huntress fur, worth 26c. Your share is 4c.
+5/27/25 3:55:01a * Healing Unholy 
+5/27/25 3:55:01a •You cannot use your caduceus on yourself.
+5/27/25 3:55:02a You equip your moonstone.
+5/27/25 3:55:02a •The healing spell has been broken.
+5/27/25 3:55:05a Bianca is now Clanning.
+5/27/25 3:55:08a * Healing Ilonos 
+5/27/25 3:55:08a You equip your caduceus.
+5/27/25 3:55:08a Ilonos has fallen to a Shadowcat Huntress.
+5/27/25 3:55:08a * Leyenda recovers the Shadowcat Huntress fur, worth 45c. Your share is 7c.
+5/27/25 3:55:09a * Donk recovers the Shadowcat Huntress fur, worth 13c. Your share is 2c.
+5/27/25 3:55:09a You must equip your moonstone before it can be used.
+5/27/25 3:55:09a •Ilonos’s injuries are a little more serious than you can heal.
+5/27/25 3:55:10a •You sense healing energy from Sycamore.
+5/27/25 3:55:10a Noivad growls, "new england clam clouder!"
+5/27/25 3:55:11a Catan has fallen to a Hungry Mountain Bear.
+5/27/25 3:55:12a * Healing Sycamore 
+5/27/25 3:55:15a (Eirian Caldwell laughs.)
+5/27/25 3:55:18a * Healing Ilonos 
+5/27/25 3:55:22a Ilonos is no longer fallen.
+5/27/25 3:55:27a * Healing Donk 
+5/27/25 3:55:29a Eirian Caldwell is no longer fallen.
+5/27/25 3:55:31a * Healing EirianCaldwell 
+5/27/25 3:55:33a * Healing Donk 
+5/27/25 3:55:33a * Leyenda recovers the Shadowcat Huntress fur, worth 66c. Your share is 8c.
+5/27/25 3:55:34a You have 1356 coins.
+5/27/25 3:55:34a Catan asks, "Cat is a con? How dare you Shadowfire?"
+5/27/25 3:55:37a * Leyenda recovers the Shadowcat Huntress fur, worth 72c. Your share is 10c.
+5/27/25 3:55:38a •The healing spell has been broken.
+5/27/25 3:55:40a * Leyenda recovers the Shadowcat Huntress fur, worth 108c. Your share is 15c.
+5/27/25 3:55:40a * Healing Noivad 
+5/27/25 3:55:45a Catan is no longer fallen.
+5/27/25 3:55:51a * Leyenda recovers the Shadowcat Huntress fur, worth 82c. Your share is 9c.
+5/27/25 3:55:54a * Healing Donk 
+5/27/25 3:55:54a Shadowfire says, "You forgot the vention."
+5/27/25 3:56:04a Catan has fallen to a Shadowcat Huntress.
+5/27/25 3:56:07a * Healing Leyenda 
+5/27/25 3:56:09a Donk has fallen to a Shadowcat Huntress.
+5/27/25 3:56:10a * Healing Donk 
+5/27/25 3:56:11a •Donk’s wounds are much more severe than you can heal.
+5/27/25 3:56:14a * Healing Noivad 
+5/27/25 3:56:19a Catan is no longer fallen.
+5/27/25 3:56:21a * Healing Sycamore 
+5/27/25 3:56:23a * Healing Noivad 
+5/27/25 3:56:26a * Healing Donk 
+5/27/25 3:56:28a Donk is no longer fallen.
+5/27/25 3:56:33a Catan has fallen to a Giant River Lizard.
+5/27/25 3:56:36a •The healing spell has been broken.
+5/27/25 3:56:37a * Healing Giben 
+5/27/25 3:56:38a * Leyenda recovers the Shadowcat Huntress fur, worth 63c. Your share is 7c.
+5/27/25 3:56:41a * Healing Donk 
+5/27/25 3:56:50a * Healing DaeFenris 
+5/27/25 3:56:51a Catan ponders, "maybe I shoudl have stayed fallren?"
+5/27/25 3:56:55a Catan is no longer fallen.
+5/27/25 3:56:55a Sycamore says, "hehe"
+5/27/25 3:56:57a * Healing Sycamore 
+5/27/25 3:57:03a You just received good karma from Eirian Caldwell, :)
+5/27/25 3:57:04a * Healing EirianCaldwell 
+5/27/25 3:57:12a * Healing Shadowfire 
+5/27/25 3:57:16a * Leyenda recovers the Shadowcat Huntress fur, worth 84c. Your share is 10c.
+5/27/25 3:57:23a Noivad growls, "ok now"
+5/27/25 3:57:32a * Healing Catan 
+5/27/25 3:57:35a * Leyenda recovers the Shadowcat Huntress fur, worth 102c. Your share is 10c.
+5/27/25 3:57:35a Noivad growls, "we good SF"
+5/27/25 3:57:39a * Healing Shadowfire 
+5/27/25 3:57:40a •The player must be in the same area.
+5/27/25 3:57:41a * Healing EirianCaldwell 
+5/27/25 3:57:45a * Healing Sycamore 
+5/27/25 3:57:46a Shadowfire thinks, "sw pls"
+5/27/25 3:57:47a * Healing DaeFenris 
+5/27/25 3:57:49a * Healing Catan 
+5/27/25 3:57:52a •The player must be in the same area.
+5/27/25 3:57:54a * Healing Catan 
+5/27/25 3:57:54a * Leyenda recovers the Shadowcat Huntress fur, worth 32c. Your share is 6c.
+5/27/25 3:57:56a Donk has fallen to a Shadowcat Huntress.
+5/27/25 3:57:56a * Sycamore recovers the Shadowcat Huntress fur, worth 94c. Your share is 13c.
+5/27/25 3:57:57a •You gain experience.
+5/27/25 3:58:00a •The healing spell has been broken.
+5/27/25 3:58:02a * Healing Donk 
+5/27/25 3:58:02a •Donk’s injuries were serious.
+5/27/25 3:58:03a Donk is no longer fallen.
+5/27/25 3:58:05a * Leyenda recovers the Mountain Bison fur, worth 81c. Your share is 10c.
+5/27/25 3:58:13a * Leyenda recovers the Shadowcat Huntress fur, worth 67c. Your share is 8c.
+5/27/25 3:58:17a * Noivad recovers the Shadowcat Huntress fur, worth 24c. Your share is 4c.
+5/27/25 3:58:17a * Leyenda recovers the Shadowcat Huntress fur, worth 41c. Your share is 7c.
+5/27/25 3:58:18a Kong is now Clanning.
+5/27/25 3:58:19a * Healing Ilonos 
+5/27/25 3:58:21a * Shadowfire recovers the Violène Arachne mandibles, worth 4c. Your share is 1c.
+5/27/25 3:58:22a * Healing Donk 
+5/27/25 3:58:30a * Healing Unholy 
+5/27/25 3:58:30a •You cannot use your caduceus on yourself.
+5/27/25 3:58:30a You equip your moonstone.
+5/27/25 3:58:30a •The healing spell has been broken.
+5/27/25 3:58:36a * Healing Shadowfire 
+5/27/25 3:58:36a Shadowfire says, "hopefully not 72 cats"
+5/27/25 3:58:36a You equip your caduceus.
+5/27/25 3:58:37a You must equip your moonstone before it can be used.
+5/27/25 3:58:43a Giben has fallen to a Sky Bison.
+5/27/25 3:58:43a * Healing Giben 
+5/27/25 3:58:43a Balangar is no longer Clanning.
+5/27/25 3:58:43a •Giben was too wounded to be healed easily.
+5/27/25 3:58:47a Giben is no longer fallen.
+5/27/25 3:58:51a •The healing spell has been broken.
+5/27/25 3:58:52a * Healing Giben 
+5/27/25 3:58:52a You have 1466 coins.
+5/27/25 3:58:54a * Healing Catan 
+5/27/25 3:58:57a * Leyenda recovers the Sky Bison fur, worth 105c. Your share is 12c.
+5/27/25 3:59:02a * Healing Donk 
+5/27/25 3:59:05a You just received good karma from Giben, thanks!
+5/27/25 3:59:05a * Healing EirianCaldwell 
+5/27/25 3:59:09a * Healing Donk 
+5/27/25 3:59:15a Shadowfire thinks, "w pls"
+5/27/25 3:59:17a •The player must be in the same area.
+5/27/25 3:59:17a * Healing Sycamore 
+5/27/25 3:59:19a * Healing DaeFenris 
+5/27/25 3:59:20a Eirian Caldwell asks, "Ley, how much skea?"
+5/27/25 3:59:21a * Healing EirianCaldwell 
+5/27/25 3:59:23a •The player must be in the same area.
+5/27/25 3:59:26a •The healing spell has been broken.
+5/27/25 3:59:26a * Healing Giben 
+5/27/25 3:59:31a * Healing Shadowfire 
+5/27/25 3:59:32a You gave signed good karma to Dae Fenris, .
+5/27/25 3:59:33a Noivad yells, "i'll go last"
+5/27/25 3:59:35a Shadowfire yells, "<< PF please << I am last"
+5/27/25 3:59:36a Giben slides through the grumbling rubble.
+5/27/25 3:59:41a •You do not have enough spiritual energy.
+5/27/25 3:59:41a * Healing Catan 
+5/27/25 3:59:42a •You seem to heal from further away now.
+5/27/25 3:59:46a * Healing Unholy 
+5/27/25 3:59:46a •You cannot use your caduceus on yourself.
+5/27/25 3:59:47a You equip your moonstone.
+5/27/25 3:59:47a •The healing spell has been broken.
+5/27/25 3:59:53a Sazerac!
+5/27/25 3:59:53a Shadowfire yells, "May her floofy paws guide us on our path!"
+5/27/25 3:59:54a * Healing Ilonos 
+5/27/25 3:59:55a You equip your caduceus.
+5/27/25 3:59:55a Eirian Caldwell asks, "Ley, how much skea?"
+5/27/25 3:59:56a You must equip your moonstone before it can be used.
+5/27/25 3:59:59a •The player must be in the same area.
+5/27/25 4:00:01a * Healing Catan 
+5/27/25 4:00:04a * You recover the Ebb Meshra blood, worth 7c. Your share is 1c.
+5/27/25 4:00:08a Shadowfire thinks, "Cone Beast reminds you to doff armor prior to embracing the Grim Weeder, praise be!"
+5/27/25 4:00:08a Shadowfire yells, "Tanks everyone!"
+5/27/25 4:00:08a Eirian Caldwell asks, "Ley, how much skea?"
+5/27/25 4:00:09a * Healing Shadowfire 
+5/27/25 4:00:11a •The player must be in the same area.
+5/27/25 4:00:13a Bianca is no longer Clanning.
+5/27/25 4:00:14a •The healing spell has been broken.
+5/27/25 4:00:15a * Healing EirianCaldwell 
+5/27/25 4:00:15a Leyenda says, "400"
+5/27/25 4:00:19a Eirian Caldwell exclaims, "nice!"
+5/27/25 4:00:20a Donk thinks, "npc east"
+5/27/25 4:00:22a •The player must be in the same area.
+5/27/25 4:00:23a * Healing Shadowfire 
+5/27/25 4:00:24a Donk has fallen to a Violène Arachne.
+5/27/25 4:00:27a * Giben recovers the Ebb Meshra blood, worth 1c. Your share is 1c.
+5/27/25 4:00:28a •The player must be in the same area.
+5/27/25 4:00:29a * Healing Giben 
+5/27/25 4:00:30a •The player must be in the same area.
+5/27/25 4:00:33a •The healing spell has been broken.
+5/27/25 4:00:33a * Healing Catan 
+5/27/25 4:00:43a Sycamore thinks, "ilonos stuck in entry snell"
+5/27/25 4:00:46a •The player must be in the same area.
+5/27/25 4:00:49a * Healing Giben 
+5/27/25 4:00:56a * Healing Shadowfire 
+5/27/25 4:00:59a Giben has fallen to a tangleweed.
+5/27/25 4:01:04a Ilonos has fallen to a Starstag.
+5/27/25 4:01:07a * Shadowfire recovers the Reedcat fur, worth 12c. Your share is 6c.
+5/27/25 4:01:10a Noivad is poisoned.
+5/27/25 4:01:10a Noivad has fallen to a tangleweed.
+5/27/25 4:01:13a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+5/27/25 4:01:14a •You do not have enough in you.
+5/27/25 4:01:14a Unholy has fallen to a tangleweed.
+5/27/25 4:01:14a •You are too wounded to be healed easily.
+5/27/25 4:01:15a Shadowfire starts dragging you.
+5/27/25 4:01:17a Sycamore thinks, "bringing to weeed"
+5/27/25 4:01:31a Eirian Caldwell thinks, "I'm at Phoebe"
+5/27/25 4:01:41a Sycamore exclaims, "will huit, thanks everyone!"
+5/27/25 4:01:41a Catan says, "I lvoe weed"
+5/27/25 4:01:43a Catan is poisoned.
+5/27/25 4:01:45a (Noivad laughs)
+5/27/25 4:01:46a Catan has fallen to a tangleweed.
+5/27/25 4:01:52a Shadowfire starts dragging you.
+5/27/25 4:01:52a Shadowfire's chain breaks as she tries to use it.
+5/27/25 4:01:53a Balangar is now Clanning.
+5/27/25 4:01:56a Dae Fenris says, "Boooo"
+5/27/25 4:01:56a Catan bounces over a piece of iron.
+5/27/25 4:01:56a Shadowfire starts dragging you.
+5/27/25 4:02:04a Donk yells, "get the metal"
+5/27/25 4:02:04a Dae Fenris picks up a piece of iron.
+5/27/25 4:02:07a Noivad yells, "all aboard! trak SF"
+5/27/25 4:02:09a Shadowfire picks up a training ledger.
+5/27/25 4:02:09a You have 1486 coins.
+5/27/25 4:02:34a Shadowfire says, "gogo"
+5/27/25 4:02:37a Phoebe says, "Hello, Leyenda. I can sell you a river skiff. Interested? It costs 100 coins."
+5/27/25 4:02:38a Leyenda says, "yes"
+5/27/25 4:02:39a Phoebe says, "Hello, Eirian Caldwell. I can sell you a river skiff. Interested? It costs 100 coins."
+5/27/25 4:02:40a Eirian Caldwell says, "yes"
+5/27/25 4:02:46a Phoebe says, "Hello, Shadowfire. I can sell you a river skiff. Interested? It costs 100 coins."
+5/27/25 4:02:46a Shadowfire says, "uyes"
+5/27/25 4:02:47a Shadowfire says, "yes"
+5/27/25 4:02:50a Shadowfire thinks, "out with 8, purg em if you got 'em"
+5/27/25 4:03:12a Puddleby Beautification made possibly by Kalian the Tawny
+5/27/25 4:03:24a Donk is still fallen to a Violène Arachne.
+5/27/25 4:03:27a Catan asks, "cant they nerf the poor darshaks that keep doing kamikaze missions in tc?"
+5/27/25 4:03:27a Eirian Caldwell thinks, "thanks all :)"
+5/27/25 4:03:34a Catan is no longer fallen.
+5/27/25 4:03:34a A small plaque reads:
+5/27/25 4:03:37a The Bell of Charity: In Gratitude To Puddleby's Healers
+5/27/25 4:03:46a * Healing Ilonos 
+5/27/25 4:03:46a •Ilonos’s injuries are a little more serious than you can heal.
+5/27/25 4:03:47a Koppi yells, "Coriakin reports: Bard concert at Lugubrion's Keep next weekend! Saturday, May 31st at 11AM pacific time. Come on out and hear some organ music!"
+5/27/25 4:03:48a Catan thinks, "Thanks a lot everyone"
+5/27/25 4:03:49a * Healing Donk 
+5/27/25 4:03:49a Giben is no longer fallen.
+5/27/25 4:03:49a Shadowfire says, "x}"
+5/27/25 4:03:51a * Healing Noivad 
+5/27/25 4:03:51a •Noivad’s body was mangled.
+5/27/25 4:03:54a Noivad says, "hey Balangar"
+5/27/25 4:03:56a Noivad is no longer fallen.
+5/27/25 4:03:57a Giben says, "thanks all"
+5/27/25 4:03:58a * Healing Donk 
+5/27/25 4:04:00a Donk says, "b heal donk"
+5/27/25 4:04:00a Donk is no longer fallen.
+5/27/25 4:04:01a Balangar says, "hello"
+5/27/25 4:04:01a Leyenda thinks, "Thank you"
+5/27/25 4:04:03a (Sycamore smiles.)
+5/27/25 4:04:03a Shadowfire hands you 50 coins.
+5/27/25 4:04:04a Ilonos is still fallen to a Starstag.
+5/27/25 4:04:06a * Healing Ilonos 
+5/27/25 4:04:07a Noivad says, "good to see you"
+5/27/25 4:04:10a Eirian Caldwell thinks, "later, everyone"
+5/27/25 4:04:10a Ilonos is no longer fallen.
+5/27/25 4:04:13a * Healing Giben 
+5/27/25 4:04:13a Dae Fenris says, "Iron"
+5/27/25 4:04:14a Shadowfire thinks, ":D"
+5/27/25 4:04:18a Shadowfire says, "ah yers"
+5/27/25 4:04:20a Ilonos says, "thank you, and sorry for D/C"
+5/27/25 4:04:23a Shadowfire says, "oh right"
+5/27/25 4:04:23a * Healing Noivad 
+5/27/25 4:04:24a Shadowfire says, "one sec"
+5/27/25 4:04:27a Dae Fenris picks up a piece of iron.
+5/27/25 4:04:30a Eirian Caldwell is no longer Clanning.
+5/27/25 4:04:32a * Healing Noivad 
+5/27/25 4:04:33a Noivad says, "we managed"
+5/27/25 4:04:38a Shadowfire says, "gotta play inventory lord"
+5/27/25 4:04:39a Afrodo is now Clanning.
+5/27/25 4:04:44a * Healing Donk 
+5/27/25 4:04:44a Afrodo is no longer Clanning.
+5/27/25 4:05:04a Cogito is now Clanning.
+5/27/25 4:05:04a Donk says, "thanks all"
+5/27/25 4:05:07a Ilonos says, "I hope I'll had internet tomorrow, else I had to go to work ..."
+5/27/25 4:05:12a (Noivad tosses coins into the poo

@@ -1,0 +1,905 @@
+
+2/19/25 12:49:58a * Your pair of shoes named “red” is starting to look a little worn.
+2/19/25 12:49:58a * Your shirt named “dark grey” is in pretty good shape.
+2/19/25 12:49:58a * Your pair of pants named “dark grey” is in pretty good shape.
+2/19/25 12:49:58a Welcome to Clan Lord, Magnic!
+2/19/25 12:49:58a Type \HELP for a list of commands.
+2/19/25 12:49:58a • You have been charged 20 coins for advanced studies.
+2/19/25 12:49:58a • You gain experience from your recent studies.
+2/19/25 12:49:59a Magnic is now Clanning.
+2/19/25 12:49:59a You have been studying for 15 hours, 43 minutes.
+2/19/25 12:50:01a It's 10:29am on Gradi, day 44 of Summer, 640.
+2/19/25 12:50:02a Friends online: none.
+2/19/25 12:50:03a You are the only member of Black Phoenix clanning.
+2/19/25 12:50:03a • What’s New: https://deltatao.com/clanlord/news • Shieldstones can now be toggled on-and-off in the usual way again. 
+2/19/25 12:50:05a Catan is sharing experiences with you.
+2/19/25 12:50:12a Lithia Akka says, "Greetings, Brahma. I am collecting building materials and coins for a beautiful fountain for town center."
+2/19/25 12:50:13a * Tip of the day: Starting your /BUG report with a keyword will help us handle it sooner. Type /BUG ? for a list of keywords. (Use /OPTIONS to turn tips off.)
+2/19/25 12:50:33a Captain Barnac asks, "Ah, Magnic. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+2/19/25 12:50:34a Magnic whispers, "yes"
+2/19/25 12:50:46a You slaughtered a Sand Wurm.
+2/19/25 12:51:22a Lafiadem is now Clanning.
+2/19/25 12:51:40a You slaughtered a Giant Vermine.
+2/19/25 12:51:41a * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+2/19/25 12:51:41a You slaughtered a Vermine.
+2/19/25 12:52:10a You slaughtered a Bat.
+2/19/25 12:52:20a You equip your heartwood charm.
+2/19/25 12:52:20a • You gather your energy.
+2/19/25 12:52:23a • You speed up.
+2/19/25 12:52:36a Magnic skips across the rock.
+2/19/25 12:53:02a You slaughtered a Skeletal.
+2/19/25 12:53:07a Webbi is now Clanning.
+2/19/25 12:53:18a You slaughtered a Crawler.
+2/19/25 12:53:22a Magnic finds a low hanging branch and swings across.
+2/19/25 12:53:25a Webbi is no longer Clanning.
+2/19/25 12:53:27a You have 7475 coins.
+2/19/25 12:54:05a You slaughtered a Vermine.
+2/19/25 12:54:09a • You slow down to normal speed.
+2/19/25 12:54:09a You slip your heartwood charm into your backpack.
+2/19/25 12:54:38a Provolone is now Clanning.
+2/19/25 12:54:48a You slaughtered an Island Panther.
+2/19/25 12:54:55a You slaughtered an Island Panther.
+2/19/25 12:54:55a * You recover the Island Panther fur, worth 8c. Your share is 8c.
+2/19/25 12:55:00a Lafiadem is no longer Clanning.
+2/19/25 12:55:03a You slaughtered an Island Panther.
+2/19/25 12:55:12a You slaughtered a Bloodthorn.
+2/19/25 12:55:14a You slaughtered an Island Panther.
+2/19/25 12:55:19a You slaughtered a Large Vermine.
+2/19/25 12:55:19a You slaughtered a Bolok Cougar.
+2/19/25 12:55:19a * You recover the Bolok Cougar fur, worth 7c. Your share is 7c.
+2/19/25 12:55:23a You slaughtered an Island Panther.
+2/19/25 12:55:23a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+2/19/25 12:55:31a You slaughtered an Orga.
+2/19/25 12:55:33a You slaughtered an Orga.
+2/19/25 12:55:33a Provolone is no longer Clanning.
+2/19/25 12:55:38a You slaughtered a Giant Vermine.
+2/19/25 12:55:38a * You recover the Giant Vermine fur, worth 3c. Your share is 3c.
+2/19/25 12:55:44a You slaughtered a Large Vermine.
+2/19/25 12:56:05a Magnic whispers, "ash"
+2/19/25 12:56:05a Something whispers, "It's good to see you, Magnic. Please go on in."
+2/19/25 12:56:22a Respin Verminbane says, "Hail, Magnic. You are one of my better pupils."
+2/19/25 12:56:22a * Respin : 50-99.
+2/19/25 12:56:22a Respin Verminbane says, "I can teach you to channel energy from the world more efficiently."
+2/19/25 12:56:22a Respin Verminbane says, "You will learn as you practice."
+2/19/25 12:56:54a You have 7496 coins.
+2/19/25 12:56:58a You slaughtered a Large Vermine.
+2/19/25 12:56:58a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+2/19/25 12:57:02a You slaughtered a Large Vermine.
+2/19/25 12:57:02a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+2/19/25 12:57:13a You slaughtered an Island Panther.
+2/19/25 12:57:13a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+2/19/25 12:57:19a You slaughtered an Island Panther.
+2/19/25 12:57:20a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+2/19/25 12:57:23a You slaughtered a Large Vermine.
+2/19/25 12:57:23a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+2/19/25 12:57:30a You slaughtered a Bolok Cougar.
+2/19/25 12:57:30a * You recover the Bolok Cougar fur, worth 4c. Your share is 4c.
+2/19/25 12:57:32a You slaughtered an Island Panther.
+2/19/25 12:57:33a * For recovering the fur, you gain experience.
+2/19/25 12:57:33a * You recover the Island Panther fur, worth 5c. Your share is 5c.
+2/19/25 12:57:37a You slaughtered an Island Panther.
+2/19/25 12:57:37a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+2/19/25 12:57:38a You slaughtered an Island Panther.
+2/19/25 12:57:42a You slaughtered an Artak Cougar.
+2/19/25 12:57:42a * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+2/19/25 12:57:44a You slaughtered an Island Panther.
+2/19/25 12:57:45a * You recover the Island Panther fur, worth 5c. Your share is 5c.
+2/19/25 12:57:52a Selucreh is now Clanning.
+2/19/25 12:57:56a You slaughtered an Adult Rockodile.
+2/19/25 12:57:58a You slaughtered an Adult Rockodile.
+2/19/25 12:58:03a You slaughtered an Adult Rockodile.
+2/19/25 12:58:03a You slaughtered an Adult Rockodile.
+2/19/25 12:58:05a You slaughtered an Adult Rockodile.
+2/19/25 12:58:10a Selucreh is no longer Clanning.
+2/19/25 12:58:13a You slaughtered an Adult Rockodile.
+2/19/25 12:58:13a You slaughtered a Grey Feral.
+2/19/25 12:58:13a * You recover the Grey Feral fur, worth 1c. Your share is 1c.
+2/19/25 12:58:15a You slaughtered an Adult Rockodile.
+2/19/25 12:58:17a You slaughtered an Adult Rockodile.
+2/19/25 12:58:17a You slaughtered an Adult Rockodile.
+2/19/25 12:58:19a You slaughtered an Adult Rockodile.
+2/19/25 12:58:32a You slaughtered an Adult Rockodile.
+2/19/25 12:58:35a Nemo asks, "Ah, Magnic. My fine boats cost 20 copper pennies. Would you like to rent one now?"
+2/19/25 12:58:35a Magnic whispers, "yes"
+2/19/25 1:00:19a You have 7503 coins.
+2/19/25 1:00:49a You slaughtered an Orc.
+2/19/25 1:00:49a You slaughtered a Large Vermine.
+2/19/25 1:00:49a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+2/19/25 1:00:51a You slaughtered an Artak Cougar.
+2/19/25 1:00:52a * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+2/19/25 1:00:52a You slaughtered a Scavenger Bird.
+2/19/25 1:00:53a You slaughtered a Large Vermine.
+2/19/25 1:00:53a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+2/19/25 1:00:56a You slaughtered a Giant Vermine.
+2/19/25 1:00:56a * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+2/19/25 1:00:56a You slaughtered a Vermine.
+2/19/25 1:00:57a You slaughtered a Large Vermine.
+2/19/25 1:01:03a You slaughtered a Large Vermine.
+2/19/25 1:01:05a You slaughtered a Vermine.
+2/19/25 1:01:15a You slaughtered a Scavenger Bird.
+2/19/25 1:01:19a You slaughtered an Orga Warrior.
+2/19/25 1:01:24a You slaughtered a Feral.
+2/19/25 1:01:25a * You recover the Feral fur, worth 1c. Your share is 1c.
+2/19/25 1:01:26a You slaughtered an Orga Warrior.
+2/19/25 1:01:30a You slaughtered a Giant Vermine.
+2/19/25 1:01:30a * For recovering the fur, you gain experience.
+2/19/25 1:01:30a * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+2/19/25 1:01:30a You slaughtered a Vermine.
+2/19/25 1:01:31a You slaughtered an Island Panther.
+2/19/25 1:01:31a * You recover the Island Panther fur, worth 4c. Your share is 4c.
+2/19/25 1:01:32a You slaughtered a Detached Spirit.
+2/19/25 1:01:33a You slaughtered a Rat.
+2/19/25 1:01:33a You slaughtered an Island Panther.
+2/19/25 1:01:33a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+2/19/25 1:01:34a You slaughtered a Rat.
+2/19/25 1:01:36a You slaughtered an Artak Cougar.
+2/19/25 1:01:36a * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+2/19/25 1:01:40a You slaughtered an Island Panther.
+2/19/25 1:01:40a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+2/19/25 1:01:41a You slaughtered a Rat.
+2/19/25 1:01:42a You slaughtered an Island Panther.
+2/19/25 1:01:42a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+2/19/25 1:01:43a You slaughtered an Island Panther.
+2/19/25 1:01:44a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+2/19/25 1:01:48a You slaughtered a Giant Vermine.
+2/19/25 1:01:49a You slaughtered a Giant Vermine.
+2/19/25 1:01:49a * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+2/19/25 1:01:50a You slaughtered a Maha Ruknee.
+2/19/25 1:01:57a You slaughtered an Island Panther.
+2/19/25 1:01:57a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+2/19/25 1:01:58a You slaughtered an Island Panther.
+2/19/25 1:01:59a You slaughtered an Island Panther.
+2/19/25 1:02:02a You slaughtered a Vermine.
+2/19/25 1:02:03a You slaughtered a Large Feral.
+2/19/25 1:02:04a You slaughtered a Vermine.
+2/19/25 1:02:09a You slaughtered an Island Panther.
+2/19/25 1:02:09a * You recover the Island Panther fur, worth 5c. Your share is 5c.
+2/19/25 1:02:10a You slaughtered an Orga.
+2/19/25 1:02:10a You slaughtered an Orga.
+2/19/25 1:02:11a You slaughtered an Island Panther.
+2/19/25 1:02:11a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+2/19/25 1:02:15a You slaughtered an Island Panther.
+2/19/25 1:02:16a You slaughtered a Large Vermine.
+2/19/25 1:02:16a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+2/19/25 1:02:16a You slaughtered a Bolok Cougar.
+2/19/25 1:02:17a * You recover the Bolok Cougar fur, worth 1c. Your share is 1c.
+2/19/25 1:02:17a You slaughtered a Maha Ruknee.
+2/19/25 1:02:17a You slaughtered an Island Panther.
+2/19/25 1:02:17a * You recover the Island Panther fur, worth 4c. Your share is 4c.
+2/19/25 1:02:17a You slaughtered an Artak Cougar.
+2/19/25 1:02:18a * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+2/19/25 1:02:19a You slaughtered a Feral.
+2/19/25 1:02:19a * You recover the Feral fur, worth 1c. Your share is 1c.
+2/19/25 1:02:19a You slaughtered an Island Panther.
+2/19/25 1:02:20a You slaughtered an Island Panther.
+2/19/25 1:02:20a * For recovering the fur, you gain experience.
+2/19/25 1:02:20a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+2/19/25 1:02:21a You slaughtered a Grey Feral.
+2/19/25 1:02:21a * You recover the Grey Feral fur, worth 2c. Your share is 2c.
+2/19/25 1:02:21a You slaughtered an Island Panther.
+2/19/25 1:02:22a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+2/19/25 1:02:23a You slaughtered an Island Panther.
+2/19/25 1:02:23a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+2/19/25 1:02:26a You slaughtered an Island Panther.
+2/19/25 1:02:27a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+2/19/25 1:02:28a You slaughtered a Vermine.
+2/19/25 1:02:28a You slaughtered a Large Vermine.
+2/19/25 1:02:28a You slaughtered a Vermine.
+2/19/25 1:02:29a You slaughtered a Large Vermine.
+2/19/25 1:02:29a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+2/19/25 1:02:29a You slaughtered a Large Vermine.
+2/19/25 1:02:30a You slaughtered an Adult Rockodile.
+2/19/25 1:02:32a You slaughtered a Grey Feral.
+2/19/25 1:02:32a You slaughtered a Grey Feral.
+2/19/25 1:02:33a * You recover the Grey Feral fur, worth 2c. Your share is 2c.
+2/19/25 1:02:33a You slaughtered an Island Panther.
+2/19/25 1:02:33a * You recover the Island Panther fur, worth 6c. Your share is 6c.
+2/19/25 1:02:35a You slaughtered an Island Panther.
+2/19/25 1:02:35a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+2/19/25 1:02:36a You slaughtered an Island Panther.
+2/19/25 1:02:36a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+2/19/25 1:02:40a You slaughtered an Island Panther.
+2/19/25 1:02:41a * You recover the Island Panther fur, worth 4c. Your share is 4c.
+2/19/25 1:02:41a You slaughtered a Feral.
+2/19/25 1:02:41a * You recover the Feral fur, worth 2c. Your share is 2c.
+2/19/25 1:02:42a You slaughtered an Island Panther.
+2/19/25 1:02:43a * You recover the Island Panther fur, worth 5c. Your share is 5c.
+2/19/25 1:02:49a You slaughtered an Island Panther.
+2/19/25 1:02:49a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+2/19/25 1:02:50a You slaughtered a Feral.
+2/19/25 1:02:51a You slaughtered a Grey Feral.
+2/19/25 1:02:51a You slaughtered a Large Vermine.
+2/19/25 1:02:51a * You recover the Grey Feral fur, worth 1c. Your share is 1c.
+2/19/25 1:02:51a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+2/19/25 1:02:52a You slaughtered a Large Vermine.
+2/19/25 1:02:52a * For recovering the fur, you gain experience.
+2/19/25 1:02:52a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+2/19/25 1:02:54a You slaughtered an Orga.
+2/19/25 1:02:56a You slaughtered an Island Panther.
+2/19/25 1:02:56a You slaughtered a Vermine.
+2/19/25 1:02:56a * You recover the Island Panther fur, worth 4c. Your share is 4c.
+2/19/25 1:02:57a You slaughtered a Large Vermine.
+2/19/25 1:02:57a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+2/19/25 1:02:57a You slaughtered a Large Vermine.
+2/19/25 1:02:58a You slaughtered a Feral.
+2/19/25 1:02:58a * You recover the Feral fur, worth 1c. Your share is 1c.
+2/19/25 1:02:58a You slaughtered a Large Vermine.
+2/19/25 1:02:59a You slaughtered a Grey Feral.
+2/19/25 1:02:59a * You recover the Grey Feral fur, worth 2c. Your share is 2c.
+2/19/25 1:02:59a You slaughtered a Giant Vermine.
+2/19/25 1:03:02a You slaughtered an Island Panther.
+2/19/25 1:03:02a * You recover the Island Panther fur, worth 6c. Your share is 6c.
+2/19/25 1:03:03a You slaughtered a Grey Feral.
+2/19/25 1:03:03a * You recover the Grey Feral fur, worth 6c. Your share is 6c.
+2/19/25 1:03:05a You slaughtered an Island Panther.
+2/19/25 1:03:05a * You recover the Island Panther fur, worth 4c. Your share is 4c.
+2/19/25 1:03:05a You slaughtered an Island Panther.
+2/19/25 1:03:05a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+2/19/25 1:03:05a You slaughtered a Vermine.
+2/19/25 1:03:07a You slaughtered a Grey Feral.
+2/19/25 1:03:07a * You recover the Grey Feral fur, worth 2c. Your share is 2c.
+2/19/25 1:03:08a You slaughtered a Grey Feral.
+2/19/25 1:03:08a * You recover the Grey Feral fur, worth 2c. Your share is 2c.
+2/19/25 1:03:09a You slaughtered a Bolok Cougar.
+2/19/25 1:03:10a You slaughtered a Large Vermine.
+2/19/25 1:03:10a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+2/19/25 1:03:11a You slaughtered a Vermine.
+2/19/25 1:03:13a You slaughtered an Island Panther.
+2/19/25 1:03:14a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+2/19/25 1:03:15a You slaughtered a Giant Skeletal.
+2/19/25 1:03:17a You slaughtered an Island Panther.
+2/19/25 1:03:17a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+2/19/25 1:03:18a You slaughtered a Grey Feral.
+2/19/25 1:03:18a * You recover the Grey Feral fur, worth 3c. Your share is 3c.
+2/19/25 1:03:23a You slaughtered a Vermine.
+2/19/25 1:03:32a You slaughtered a Feral.
+2/19/25 1:03:32a * You recover the Feral fur, worth 2c. Your share is 2c.
+2/19/25 1:03:38a You slaughtered a Large Vermine.
+2/19/25 1:03:38a * You recover the Large Vermine fur, worth 3c. Your share is 3c.
+2/19/25 1:03:39a You slaughtered a Large Vermine.
+2/19/25 1:03:43a You have 7632 coins.
+2/19/25 1:03:47a You slaughtered an Island Panther.
+2/19/25 1:03:53a You slaughtered an Island Panther.
+2/19/25 1:03:54a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+2/19/25 1:03:58a You slaughtered a Grey Feral.
+2/19/25 1:03:58a * You recover the Grey Feral fur, worth 1c. Your share is 1c.
+2/19/25 1:04:02a You slaughtered a Scavenger Bird.
+2/19/25 1:04:02a You slaughtered a Vermine.
+2/19/25 1:04:09a You slaughtered a Feral.
+2/19/25 1:04:10a * You recover the Feral fur, worth 1c. Your share is 1c.
+2/19/25 1:04:11a You slaughtered a Giant Vermine.
+2/19/25 1:04:24a You slaughtered a Large Feral.
+2/19/25 1:04:27a You slaughtered a Feral.
+2/19/25 1:04:27a * You recover the Feral fur, worth 1c. Your share is 1c.
+2/19/25 1:04:37a You slaughtered a Large Vermine.
+2/19/25 1:04:38a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+2/19/25 1:04:47a You slaughtered a Large Vermine.
+2/19/25 1:04:48a You slaughtered a Vermine.
+2/19/25 1:04:48a You slaughtered a Large Vermine.
+2/19/25 1:04:49a You slaughtered a Rat.
+2/19/25 1:04:56a You vault the wall.
+2/19/25 1:07:06a You have 7639 coins.
+2/19/25 1:07:43a Faticus is now Clanning.
+2/19/25 1:07:52a Koppi yells, "Semie reports: Move zig move zig move zig move zig"
+2/19/25 1:08:59a Tom Joad is now Clanning.
+2/19/25 1:09:19a Tom Joad is no longer Clanning.
+2/19/25 1:09:24a Naferu is now Clanning.
+2/19/25 1:10:44a You have 7639 coins.
+2/19/25 1:11:50a You offer a cluster of mutated spores to Faticus for free.
+2/19/25 1:11:50a \SELL /cancel to cancel the offer.
+2/19/25 1:11:51a You hand Faticus a cluster of mutated spores.
+2/19/25 1:11:52a You offer a cluster of mutated spores to Faticus for free.
+2/19/25 1:11:52a \SELL /cancel to cancel the offer.
+2/19/25 1:11:53a You hand Faticus a cluster of mutated spores.
+2/19/25 1:11:54a You offer a cluster of mutated spores to Faticus for free.
+2/19/25 1:11:54a \SELL /cancel to cancel the offer.
+2/19/25 1:11:54a You hand Faticus a cluster of mutated spores.
+2/19/25 1:11:56a You offer a cluster of mutated spores to Faticus for free.
+2/19/25 1:11:56a \SELL /cancel to cancel the offer.
+2/19/25 1:11:56a You hand Faticus a cluster of mutated spores.
+2/19/25 1:11:57a You offer a cluster of mutated spores to Faticus for free.
+2/19/25 1:11:57a \SELL /cancel to cancel the offer.
+2/19/25 1:11:58a You hand Faticus a cluster of mutated spores.
+2/19/25 1:11:59a You offer a cluster of mutated spores to Faticus for free.
+2/19/25 1:11:59a \SELL /cancel to cancel the offer.
+2/19/25 1:12:00a You hand Faticus a cluster of mutated spores.
+2/19/25 1:12:09a Crius yells, "It’s Noon on Gradi, the 44th day of Summer in the 640th year of the Ascendancy, and all’s well."
+2/19/25 1:12:30a Faticus is no longer Clanning.
+2/19/25 1:13:03a Koppi yells, "Bashak reports: LA™ Spring Break in PEACETON! brought to you by LA™"
+2/19/25 1:14:25a You have 7639 coins.
+2/19/25 1:15:55a Cassius is now Clanning.
+2/19/25 1:16:08a Cassius is no longer Clanning.
+2/19/25 1:16:32a Jeepers is now Clanning.
+2/19/25 1:16:34a Catan has fallen to a Hooded Corpse.
+2/19/25 1:16:34a (Squib looks a bit worried for Catan)
+2/19/25 1:17:31a Shadowmutt growls, "Grrr."
+2/19/25 1:17:36a Catan is no longer fallen.
+2/19/25 1:17:46a Shadowmutt curls up and takes a nap.
+2/19/25 1:17:52a Kahn St'ple nods and smiles at Magnic.
+2/19/25 1:17:57a You have 7639 coins.
+2/19/25 1:18:14a Koppi yells, "Semie reports: Move zig move zig move zig move zig"
+2/19/25 1:18:36a Shadowmutt growls, "Zzzzzz."
+2/19/25 1:18:45a Naferu is no longer Clanning.
+2/19/25 1:18:45a Nyarlathotep is now Clanning.
+2/19/25 1:18:52a Tom Joad is now Clanning.
+2/19/25 1:19:01a Nyarlathotep says, "squib heal me"
+2/19/25 1:19:20a Magnic says, "hmm"
+2/19/25 1:19:21a Sentinel yells, "All subjects love and obey the Emperor."
+2/19/25 1:19:31a You concentrate on sending your message to Catan.
+2/19/25 1:19:31a You think to Catan, "are you ok?"
+2/19/25 1:19:55a Catan thinks to you, "Yes , thanks"
+2/19/25 1:20:36a Shadowmutt growls, "Zzzzzz."
+2/19/25 1:21:24a You have 7639 coins.
+2/19/25 1:21:37a Nyarlathotep is no longer Clanning.
+2/19/25 1:22:36a Shadowmutt growls, "Zzzzzz."
+2/19/25 1:22:39a Ajahn is now Clanning.
+2/19/25 1:23:25a Koppi yells, "Shakyamuni reports: The Darshak are holding our friends the gnomes Hostage.. We must help them!!"
+2/19/25 1:24:23a Ajahn is no longer Clanning.
+2/19/25 1:24:36a Shadowmutt growls, "Zzzzzz."
+2/19/25 1:24:54a You have 7639 coins.
+2/19/25 1:26:36a Shadowmutt growls, "Zzzzzz."
+2/19/25 1:26:44a Crius yells, "It’s 1 o’clock, and all’s well."
+2/19/25 1:26:48a Crius yells, "It looks pretty quiet in the mountains of Kizmia's Island."
+2/19/25 1:27:21a Catan thinks, "trapped"
+2/19/25 1:27:22a Ulric is now Clanning.
+2/19/25 1:27:39a Catan has fallen to a Giant Skeletal.
+2/19/25 1:28:03a Catan is no longer fallen.
+2/19/25 1:28:24a You have 7639 coins.
+2/19/25 1:28:36a Koppi yells, "Bashak reports: LA™ Spring Break in PEACETON! brought to you by LA™"
+2/19/25 1:28:36a Shadowmutt growls, "Zzzzzz."
+2/19/25 1:28:41a Tom Joad is no longer Clanning.
+2/19/25 1:29:55a Catan is a Human, is male, is a Fighter, and is not wearing the symbol of any clan.
+2/19/25 1:30:16a Ulric is no longer Clanning.
+2/19/25 1:30:36a Shadowmutt growls, "Zzzzzz."
+2/19/25 1:30:59a Samagina is now Clanning.
+2/19/25 1:31:50a Tom Joad is now Clanning.
+2/19/25 1:31:52a You have 7639 coins.
+2/19/25 1:32:36a Shadowmutt awakens, yawning.
+2/19/25 1:32:43a Sentinel yells, "There is only one punishment for treason."
+2/19/25 1:32:50a Shadowmutt growls, "Grrr."
+2/19/25 1:33:32a Shadowmutt growls, "Grrr."
+2/19/25 1:33:47a Koppi yells, "Shakyamuni reports: The Darshak are holding our friends the gnomes Hostage.. We must help them!!"
+2/19/25 1:34:01a Jeepers is no longer Clanning.
+2/19/25 1:34:47a Tom Joad is no longer Clanning.
+2/19/25 1:34:58a Selucreh is now Clanning.
+2/19/25 1:35:15a Selucreh is no longer Clanning.
+2/19/25 1:35:19a You have 7639 coins.
+2/19/25 1:36:57a Lithia Akka says, "Greetings, Brahma. I am collecting building materials and coins for a beautiful fountain for town center."
+2/19/25 1:36:59a Lithia Akka says, "It looks like we’re pretty close to done. We’ll just add the finishing touches, and then we should be ready to open up."
+2/19/25 1:37:01a Lithia Akka says, "To donate materials, hold out a piece of wood, stone or metal, or hold your money- purse to donate 500 coins."
+2/19/25 1:37:03a Lithia Akka asks, "How many of your stones do you want to donate?"
+2/19/25 1:37:04a Brahma says, "10"
+2/19/25 1:37:04a Lithia Akka gives Brahma 17 coins for the stone.
+2/19/25 1:37:05a Lithia Akka says, "Excellent! This will help our building efforts along."
+2/19/25 1:37:07a Lithia Akka says, "Any more help you could provide would be greatly appreciated."
+2/19/25 1:37:29a Provolone is now Clanning.
+2/19/25 1:38:04a Provolone is no longer Clanning.
+2/19/25 1:38:32a Brahma is no longer Clanning.
+2/19/25 1:38:47a You have 7639 coins.
+2/19/25 1:38:53a Gauntlet is no longer Clanning.
+2/19/25 1:38:58a Koppi yells, "Semie reports: Move zig move zig move zig move zig"
+2/19/25 1:40:47a Samagina is no longer Clanning.
+2/19/25 1:41:04a Mimo is now Clanning.
+2/19/25 1:41:15a EBow is sharing experiences with you.
+2/19/25 1:41:26a Crius yells, "It’s 2 o’clock, and all’s well."
+2/19/25 1:41:30a Crius yells, "It looks pretty quiet in the mountains of Kizmia's Island."
+2/19/25 1:42:17a You have 7639 coins.
+2/19/25 1:44:09a Koppi yells, "Semie reports: Move zig move zig move zig move zig"
+2/19/25 1:44:17a Mimo is no longer Clanning.
+2/19/25 1:44:36a Maxtrax is now Clanning.
+2/19/25 1:45:45a You have 7639 coins.
+2/19/25 1:46:12a You slaughtered a Bloodthorn.
+2/19/25 1:46:47a Maxtrax is no longer Clanning.
+2/19/25 1:47:04a ZipLock is now Clanning.
+2/19/25 1:48:01a Shadowmutt growls, "Grrr."
+2/19/25 1:48:14a Shadowmutt growls, "Grrr."
+2/19/25 1:48:23a Kahn St'ple nods and smiles at Squib.
+2/19/25 1:49:08a Shadowmutt growls, "Grrr."
+2/19/25 1:49:14a You have 7639 coins.
+2/19/25 1:49:20a Koppi yells, "Lion-O reports: HOW ARE YOU GENTLEMEN"
+2/19/25 1:50:42a Shadowmutt growls, "Grrr."
+2/19/25 1:50:53a Shadowmutt growls, "Grrr."
+2/19/25 1:52:00a ZipLock is no longer Clanning.
+2/19/25 1:52:24a Omega Phoenix is now Clanning.
+2/19/25 1:52:39a You have 7639 coins.
+2/19/25 1:52:52a Shadowmutt growls, "Grrr."
+2/19/25 1:53:08a Shadowmutt growls, "Woof!"
+2/19/25 1:53:47a Catan thinks, "trapped"
+2/19/25 1:54:31a Koppi yells, "Bashak reports: LA™ Spring Break in PEACETON! brought to you by LA™"
+2/19/25 1:56:07a Crius yells, "It’s 3 o’clock, and all’s well."
+2/19/25 1:56:12a Crius yells, "It looks pretty quiet in the mountains of Kizmia's Island."
+2/19/25 1:56:13a You have 7639 coins.
+2/19/25 1:56:44a Omega Phoenix has fallen to a Captured Orga Frenzy.
+2/19/25 1:56:46a Omega Phoenix is no longer fallen.
+2/19/25 1:57:32a Omega Phoenix is no longer Clanning.
+2/19/25 1:58:22a Cat Food is now Clanning.
+2/19/25 1:58:24a Shadrock is now Clanning.
+2/19/25 1:58:48a Bashak is now Clanning.
+2/19/25 1:59:41a Koppi yells, "Lion-O reports: HOW ARE YOU GENTLEMEN"
+2/19/25 1:59:54a You have 7639 coins.
+2/19/25 2:00:28a Kahn St'ple nods and smiles at Magnic.
+2/19/25 2:00:46a Cat Food is no longer Clanning.
+2/19/25 2:03:32a You slaughtered a Myrm Farmer.
+2/19/25 2:03:32a * You recover the Myrm Farmer mandibles, worth 1c. Your share is 1c.
+2/19/25 2:03:34a You have 7640 coins.
+2/19/25 2:03:38a You slaughtered a Rat.
+2/19/25 2:03:38a You examine the log to see if it has useful wood.
+2/19/25 2:03:39a You slaughtered a Large Vermine.
+2/19/25 2:03:39a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+2/19/25 2:03:40a You examine the log to see if it has useful wood.
+2/19/25 2:03:41a You examine the log to see if it has useful wood.
+2/19/25 2:03:44a You find that the wood is useless.
+2/19/25 2:03:51a You slaughtered a Large Vermine.
+2/19/25 2:03:51a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+2/19/25 2:03:56a You slaughtered an Ona Chigger.
+2/19/25 2:03:58a You examine the log to see if it has useful wood.
+2/19/25 2:04:02a You begin to chop the wood from the log.
+2/19/25 2:04:08a You take the wood.
+2/19/25 2:04:09a You slaughtered a Rat.
+2/19/25 2:04:10a You slaughtered a Rat.
+2/19/25 2:05:01a You slaughtered a Vermine.
+2/19/25 2:05:03a You slaughtered an Ona Chigger.
+2/19/25 2:05:14a You slaughtered a Giant Vermine.
+2/19/25 2:05:14a * You recover the Giant Vermine fur, worth 4c. Your share is 4c.
+2/19/25 2:05:15a You slaughtered an Island Panther.
+2/19/25 2:05:15a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+2/19/25 2:05:21a You slaughtered a Giant Vermine.
+2/19/25 2:05:21a * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+2/19/25 2:05:23a You slaughtered an Island Panther.
+2/19/25 2:05:24a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+2/19/25 2:05:24a You slaughtered an Island Panther.
+2/19/25 2:05:25a You slaughtered a Brown Feral.
+2/19/25 2:05:25a You slaughtered a Vermine.
+2/19/25 2:05:33a You slaughtered an Artak Cougar.
+2/19/25 2:05:33a * You recover the Artak Cougar fur, worth 5c. Your share is 5c.
+2/19/25 2:05:34a You slaughtered a Large Vermine.
+2/19/25 2:05:36a You slaughtered an Island Panther.
+2/19/25 2:05:36a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+2/19/25 2:05:36a You slaughtered a Rat.
+2/19/25 2:05:39a You slaughtered a Grey Feral.
+2/19/25 2:05:39a * For recovering the fur, you gain experience.
+2/19/25 2:05:39a * You recover the Grey Feral fur, worth 3c. Your share is 3c.
+2/19/25 2:05:43a You slaughtered a Rat.
+2/19/25 2:05:44a You slaughtered an Island Panther.
+2/19/25 2:05:44a * You recover the Island Panther fur, worth 7c. Your share is 7c.
+2/19/25 2:05:45a You slaughtered a Feral.
+2/19/25 2:05:45a * You recover the Feral fur, worth 2c. Your share is 2c.
+2/19/25 2:05:46a You slaughtered a Grey Feral.
+2/19/25 2:05:46a * You recover the Grey Feral fur, worth 4c. Your share is 4c.
+2/19/25 2:05:50a You slaughtered a Large Vermine.
+2/19/25 2:05:50a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+2/19/25 2:05:50a You slaughtered an Island Panther.
+2/19/25 2:05:51a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+2/19/25 2:05:52a You slaughtered a Vermine.
+2/19/25 2:05:52a You slaughtered an Artak Cougar.
+2/19/25 2:05:52a * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+2/19/25 2:05:53a You slaughtered a Grey Feral.
+2/19/25 2:05:54a * For recovering the fur, you gain experience.
+2/19/25 2:05:54a * You recover the Grey Feral fur, worth 1c. Your share is 1c.
+2/19/25 2:05:56a You slaughtered a Rat.
+2/19/25 2:05:56a You slaughtered an Artak Cougar.
+2/19/25 2:05:57a You slaughtered a Bolok Cougar.
+2/19/25 2:05:58a * You recover the Bolok Cougar fur, worth 5c. Your share is 5c.
+2/19/25 2:05:58a You slaughtered a Grey Feral.
+2/19/25 2:05:58a * You recover the Grey Feral fur, worth 3c. Your share is 3c.
+2/19/25 2:05:59a You slaughtered an Island Panther.
+2/19/25 2:05:59a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+2/19/25 2:06:09a You slaughtered a Large Vermine.
+2/19/25 2:06:09a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+2/19/25 2:06:09a You slaughtered a Large Vermine.
+2/19/25 2:06:09a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+2/19/25 2:06:10a You slaughtered an Artak Cougar.
+2/19/25 2:06:10a You slaughtered an Island Panther.
+2/19/25 2:06:11a You slaughtered a Feral.
+2/19/25 2:06:12a You slaughtered a Feral.
+2/19/25 2:06:12a You slaughtered an Artak Cougar.
+2/19/25 2:06:13a * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+2/19/25 2:06:13a You slaughtered a Rat.
+2/19/25 2:06:13a You slaughtered an Artak Cougar.
+2/19/25 2:06:14a * You recover the Artak Cougar fur, worth 5c. Your share is 5c.
+2/19/25 2:06:16a You slaughtered an Island Panther.
+2/19/25 2:06:16a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+2/19/25 2:06:19a You slaughtered an Artak Cougar.
+2/19/25 2:06:19a * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+2/19/25 2:06:21a You slaughtered a Feral.
+2/19/25 2:06:21a You slaughtered an Artak Cougar.
+2/19/25 2:06:21a * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+2/19/25 2:06:25a You slaughtered an Artak Cougar.
+2/19/25 2:06:25a * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+2/19/25 2:06:26a You slaughtered an Artak Cougar.
+2/19/25 2:06:26a * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+2/19/25 2:06:29a You slaughtered a Grey Feral.
+2/19/25 2:06:29a * You recover the Grey Feral fur, worth 1c. Your share is 1c.
+2/19/25 2:06:29a You slaughtered a Large Vermine.
+2/19/25 2:06:31a You slaughtered a Vermine.
+2/19/25 2:06:32a You slaughtered a Detached Spirit.
+2/19/25 2:06:32a You slaughtered an Artak Cougar.
+2/19/25 2:06:33a * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+2/19/25 2:06:35a You slaughtered a Feral.
+2/19/25 2:06:36a * You recover the Feral fur, worth 2c. Your share is 2c.
+2/19/25 2:06:43a You slaughtered a Bolok Cougar.
+2/19/25 2:06:45a You slaughtered a Rat.
+2/19/25 2:06:45a You slaughtered a Feral.
+2/19/25 2:06:45a * You recover the Feral fur, worth 2c. Your share is 2c.
+2/19/25 2:06:51a You slaughtered an Artak Cougar.
+2/19/25 2:06:51a * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+2/19/25 2:06:52a You slaughtered a Feral.
+2/19/25 2:06:52a * You recover the Feral fur, worth 1c. Your share is 1c.
+2/19/25 2:06:54a You slaughtered a Large Vermine.
+2/19/25 2:06:55a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+2/19/25 2:06:57a You slaughtered an Orga.
+2/19/25 2:06:58a You slaughtered a Large Vermine.
+2/19/25 2:06:59a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+2/19/25 2:06:59a You slaughtered an Island Panther.
+2/19/25 2:07:03a You have 7728 coins.
+2/19/25 2:07:07a You slaughtered a Feral.
+2/19/25 2:07:09a You slaughtered an Island Panther.
+2/19/25 2:07:18a You slaughtered an Island Panther.
+2/19/25 2:07:18a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+2/19/25 2:07:24a You slaughtered a Vermine.
+2/19/25 2:07:25a You slaughtered an Orc.
+2/19/25 2:07:29a You slaughtered an Island Panther.
+2/19/25 2:07:29a * You recover the Island Panther fur, worth 4c. Your share is 4c.
+2/19/25 2:07:29a You slaughtered a Rat.
+2/19/25 2:07:30a Julia is now Clanning.
+2/19/25 2:07:40a You slaughtered a Large Vermine.
+2/19/25 2:07:40a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+2/19/25 2:07:41a You slaughtered a Feral.
+2/19/25 2:07:41a * You recover the Feral fur, worth 2c. Your share is 2c.
+2/19/25 2:07:42a You slaughtered a Large Vermine.
+2/19/25 2:07:42a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+2/19/25 2:07:45a You slaughtered a Large Vermine.
+2/19/25 2:07:45a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+2/19/25 2:07:49a You slaughtered a Feral.
+2/19/25 2:07:49a * You recover the Feral fur, worth 1c. Your share is 1c.
+2/19/25 2:07:59a You slaughtered a Large Vermine.
+2/19/25 2:07:59a * You recover the Large Vermine fur, worth 3c. Your share is 3c.
+2/19/25 2:08:07a You slaughtered a Vermine.
+2/19/25 2:08:07a You slaughtered a Large Vermine.
+2/19/25 2:08:07a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+2/19/25 2:08:14a You vault the wall.
+2/19/25 2:08:32a Shadrock is no longer Clanning.
+2/19/25 2:08:40a Captain Barnac asks, "Ah, Magnic. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+2/19/25 2:08:40a Magnic whispers, "yes"
+2/19/25 2:08:54a You slaughtered a Young Rockodile.
+2/19/25 2:08:58a You slaughtered a Crawler.
+2/19/25 2:09:20a You slaughtered an Ebon Scorp.
+2/19/25 2:09:37a You slaughtered a Vermine.
+2/19/25 2:10:02a You equip your heartwood charm.
+2/19/25 2:10:02a • You gather your energy.
+2/19/25 2:10:05a • You speed up.
+2/19/25 2:10:15a You found a darkstone shard!
+2/19/25 2:10:25a You have 7740 coins.
+2/19/25 2:10:47a You slaughtered a Giant Vermine.
+2/19/25 2:10:48a * For recovering the fur, you gain experience.
+2/19/25 2:10:48a * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+2/19/25 2:10:49a You slaughtered a Giant Vermine.
+2/19/25 2:10:53a Magnic skips across the rock.
+2/19/25 2:10:55a You slaughtered a Darshak Thug.
+2/19/25 2:11:18a You slaughtered a Darshak Marine.
+2/19/25 2:11:18a * You recover the Darshak Marine bounty worth 1c.
+2/19/25 2:11:34a You slaughtered a Young Rockodile.
+2/19/25 2:11:37a Cirnahl thinks, "In"
+2/19/25 2:11:42a Magnic finds a low hanging branch and swings across.
+2/19/25 2:12:01a • You slow down to normal speed.
+2/19/25 2:12:01a You slip your heartwood charm into your backpack.
+2/19/25 2:12:03a Bashak thinks, "oh I went to a pf to the north"
+2/19/25 2:12:14a You slaughtered a Detached Spirit.
+2/19/25 2:12:20a Bashak thinks, "uh oh now I can't go back!"
+2/19/25 2:12:29a You slaughtered a Vermine.
+2/19/25 2:12:29a You slaughtered a Vermine.
+2/19/25 2:12:34a You slaughtered a Large Vermine.
+2/19/25 2:12:35a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+2/19/25 2:12:40a You slaughtered a Rat.
+2/19/25 2:12:41a You slaughtered a Vermine.
+2/19/25 2:12:43a Catan thinks, "I amin a tunnel yes"
+2/19/25 2:12:48a You slaughtered a Young Rockodile.
+2/19/25 2:12:49a You slaughtered a Vermine.
+2/19/25 2:13:16a Cirnahl thinks, "Bashak, I'll come for you in a bit"
+2/19/25 2:13:18a You slaughtered a Rat.
+2/19/25 2:13:31a Hashak is now Clanning.
+2/19/25 2:13:45a You concentrate on sending your message to Bashak.
+2/19/25 2:13:45a You think to Bashak, "need help?"
+2/19/25 2:13:48a You have 7745 coins.
+2/19/25 2:14:00a Hashak thinks to you, "come to Undine :)"
+2/19/25 2:14:29a You equip your heartwood charm.
+2/19/25 2:14:29a • You gather your energy.
+2/19/25 2:14:31a • You speed up.
+2/19/25 2:14:32a •You assume the shape of a Giant Carnivorous Plankton.
+2/19/25 2:14:47a • You slow down to normal speed.
+2/19/25 2:14:48a • You return to your normal form.
+2/19/25 2:14:48a You slip your heartwood charm into your backpack.
+2/19/25 2:14:57a Hashak exclaims, "I dsidnt know a guy would be throwing rocks in there!"
+2/19/25 2:15:13a Magnic asks, "there is?"
+2/19/25 2:15:15a Hashak says, "went in the cave, then N to a pf"
+2/19/25 2:15:23a Magnic says, "sw"
+2/19/25 2:15:31a Hashak asks, "?"
+2/19/25 2:15:32a Magnic says, "or se"
+2/19/25 2:15:34a Jeepers is now Clanning.
+2/19/25 2:15:36a Magnic says, "or nw"
+2/19/25 2:15:40a Hashak says, "nw"
+2/19/25 2:15:42a Magnic says, "there 2"
+2/19/25 2:15:44a Hashak says, "it's a tiny tunnel"
+2/19/25 2:15:54a Magnic asks, "stuck?"
+2/19/25 2:16:04a Hashak says, "yea no room to dodge with a bunch of unded in the wa"
+2/19/25 2:16:15a You helped slaughter a Hooded Corpse.
+2/19/25 2:16:23a Hashak yells, "HAMBONE!"
+2/19/25 2:16:24a You slaughtered a Hooded Corpse.
+2/19/25 2:16:36a You slaughtered a Detached Spirit.
+2/19/25 2:16:36a You helped slaughter a Shambling Corpse.
+2/19/25 2:16:38a You slaughtered a Corpse Warrior.
+2/19/25 2:16:39a You slaughtered a Faithless.
+2/19/25 2:16:45a You slaughtered a Corpse Warrior.
+2/19/25 2:16:47a You slaughtered a Faithless.
+2/19/25 2:16:54a •You assume the shape of a Young Sasquatch.
+2/19/25 2:16:55a •You do not have enough balance to take full advantage of your gossamer training.
+2/19/25 2:16:58a • You return to your normal form.
+2/19/25 2:16:58a You slaughtered a Faithless.
+2/19/25 2:17:00a You slaughtered a Detached Spirit.
+2/19/25 2:17:00a You slaughtered a Corpse Warrior.
+2/19/25 2:17:01a You slaughtered a Faithless.
+2/19/25 2:17:02a You slaughtered a Detached Spirit.
+2/19/25 2:17:03a Willikers looks at Hashak expectantly.
+2/19/25 2:17:03a You slaughtered a Faithless.
+2/19/25 2:17:05a You slaughtered a Corpse Warrior.
+2/19/25 2:17:11a You have 7745 coins.
+2/19/25 2:17:31a EBow is no longer Clanning.
+2/19/25 2:17:44a You slaughtered a Corpse Warrior.
+2/19/25 2:17:46a You slaughtered a Detached Spirit.
+2/19/25 2:17:47a You slaughtered a Skeletal.
+2/19/25 2:17:47a You slaughtered a Hooded Corpse.
+2/19/25 2:17:49a You slaughtered a Corpse Warrior.
+2/19/25 2:17:49a You slaughtered a Shambling Corpse.
+2/19/25 2:17:50a You slaughtered a Corpse Warrior.
+2/19/25 2:17:50a You slaughtered a Corpse Warrior.
+2/19/25 2:17:50a You slaughtered a Corpse Warrior.
+2/19/25 2:17:51a You slaughtered a Hooded Corpse.
+2/19/25 2:17:51a You slaughtered a Corpse Warrior.
+2/19/25 2:17:52a You slaughtered a Corpse Warrior.
+2/19/25 2:17:53a You slaughtered a Corpse Warrior.
+2/19/25 2:17:55a You slaughtered a Corpse Warrior.
+2/19/25 2:17:55a You slaughtered a Skeletal.
+2/19/25 2:17:58a You slaughtered a Corpse Warrior.
+2/19/25 2:17:58a You slaughtered a Detached Spirit.
+2/19/25 2:17:58a You slaughtered a Corpse Warrior.
+2/19/25 2:17:59a You helped slaughter a Corpse Warrior.
+2/19/25 2:17:59a You slaughtered a Hooded Corpse.
+2/19/25 2:18:00a You slaughtered a Shambling Corpse.
+2/19/25 2:18:01a Bashak yells, "For Willikers!"
+2/19/25 2:18:02a You slaughtered a Skeletal.
+2/19/25 2:18:05a You slaughtered a Skeletal.
+2/19/25 2:18:06a You slaughtered a Skeletal.
+2/19/25 2:18:10a You slaughtered a Skeletal.
+2/19/25 2:18:11a You slaughtered a Skeletal.
+2/19/25 2:18:12a You slaughtered a Skeletal.
+2/19/25 2:18:13a You slaughtered a Skeletal.
+2/19/25 2:18:16a You slaughtered a Skeletal.
+2/19/25 2:18:46a Jeepers is no longer Clanning.
+2/19/25 2:18:51a You knock some spores free.
+2/19/25 2:18:53a You found a cluster of mutated spores!
+2/19/25 2:19:14a Bashak asks, "and how do we leave here now?"
+2/19/25 2:19:14a Magnic says, "thewre a pf here that only open at 11 to 12 at night"
+2/19/25 2:19:19a A monster growls, "Mreow!"
+2/19/25 2:19:30a Magnic says, "oh i thinkt here a hidden on in a rock"
+2/19/25 2:19:37a You slaughtered a Detached Spirit.
+2/19/25 2:19:39a You slaughtered a Skeletal.
+2/19/25 2:19:59a You slaughtered a Skeletal.
+2/19/25 2:20:05a You slaughtered a Skeletal.
+2/19/25 2:20:16a Bashak asks, "so we're stuck here?"
+2/19/25 2:20:26a Magnic asks, "maybe we can go back?"
+2/19/25 2:20:29a You have 7745 coins.
+2/19/25 2:20:32a Bashak says, "let se"
+2/19/25 2:20:34a Bashak says, "let see"
+2/19/25 2:20:55a Magnic whispers, "excuse me"
+2/19/25 2:20:57a Bashak says, "nope we're screwedlol"
+2/19/25 2:21:05a Magnic says, "odd"
+2/19/25 2:21:07a You slaughtered a Corpse Warrior.
+2/19/25 2:21:24a Bashak slips into the darkness.
+2/19/25 2:21:28a You slaughtered a Hooded Corpse.
+2/19/25 2:21:37a Bashak asks, "well nuis when's midnight?"
+2/19/25 2:21:44a Smashak is now Clanning.
+2/19/25 2:21:53a Smashak is no longer Clanning.
+2/19/25 2:21:57a EBow is now Clanning.
+2/19/25 2:22:02a Bashak says, "it's 4:45 game time"
+2/19/25 2:22:07a Magnic says, "i think its 4 or 5 am atm"
+2/19/25 2:22:12a Magnic says, "yeah"
+2/19/25 2:22:19a Smashak is now Clanning.
+2/19/25 2:22:27a Tom Joad is now Clanning.
+2/19/25 2:22:27a Bashak says, "pm"
+2/19/25 2:22:31a Magnic says, "but that pf for something else not the exit"
+2/19/25 2:22:32a Bashak says, "jees this was a bad idea"
+2/19/25 2:22:32a Tom Joad is no longer Clanning.
+2/19/25 2:22:39a Naferu is now Clanning.
+2/19/25 2:22:42a Magnic says, "exit is always open"
+2/19/25 2:22:44a Smashak is no longer Clanning.
+2/19/25 2:22:49a Bashak says, "hmm"
+2/19/25 2:23:09a Magnic says, "https://www.tidyup.co.uk/clanlord/site/SDC/images/undinecomplex.gif"
+2/19/25 2:23:17a Magnic says, "this is exit"
+2/19/25 2:23:30a Bashak says, "oh danf there's lots more"
+2/19/25 2:23:48a You have 7745 coins.
+2/19/25 2:24:02a Magnic says, "<--"
+2/19/25 2:24:13a Magnic says, "but only open 11pm"
+2/19/25 2:24:14a You slaughtered a Skeletal.
+2/19/25 2:24:16a Naferu is no longer Clanning.
+2/19/25 2:24:18a Bashak says, "oh there's another"
+2/19/25 2:24:28a •You gain experience.
+2/19/25 2:24:29a Bashak slips into the darkness.
+2/19/25 2:24:32a You slaughtered a Hooded Corpse.
+2/19/25 2:24:32a Bashak says, "lol"
+2/19/25 2:24:35a You slaughtered a Hooded Corpse.
+2/19/25 2:24:35a You slaughtered a Hooded Corpse.
+2/19/25 2:24:35a You slaughtered a Hooded Corpse.
+2/19/25 2:24:36a You slaughtered a Hooded Corpse.
+2/19/25 2:24:38a You slaughtered a Hooded Corpse.
+2/19/25 2:24:47a Magnic says, "i dont have the pf for that one"
+2/19/25 2:24:50a You helped slaughter a Hooded Corpse.
+2/19/25 2:24:56a Hashak says, "ahh"
+2/19/25 2:24:59a You slaughtered a Faithless.
+2/19/25 2:25:12a Hashak says, "I didn't realize it was there as I was standing by it.."
+2/19/25 2:25:15a (Hashak facepalms)
+2/19/25 2:25:25a Magnic says, "any way i found the rarest darkstone shard 2 day"
+2/19/25 2:25:30a You helped slaughter a Hooded Corpse.
+2/19/25 2:25:33a Bashak exclaims, "nice!"
+2/19/25 2:25:36a Hashak exclaims, "See ya!"
+2/19/25 2:25:37a Hashak attempts to project into another plane.
+2/19/25 2:25:44a Farmer Gronmad says, "Catan, you'd sniff the armpit of a slimy meshra spawn."
+2/19/25 2:25:53a Farmer Gronmad says, "Catan, you'd sniff the armpit of a slimy meshra spawn."
+2/19/25 2:25:53a (Cirnahl waves.)
+2/19/25 2:26:09a You slaughtered a Large Vermine.
+2/19/25 2:26:09a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+2/19/25 2:26:10a You slaughtered a Scavenger Bird.
+2/19/25 2:26:19a You vault the wall.
+2/19/25 2:26:54a Bashak says, "I would like to explore the rest of that at some point.."
+2/19/25 2:27:05a You have 7746 coins.
+2/19/25 2:27:09a (Bashak makes a note)
+2/19/25 2:27:11a Magnic says, "yeah thats alot of short cuts in that maze"
+2/19/25 2:27:26a Magnic says, "and leads to ash barrons i think"
+2/19/25 2:27:37a Magnic says, "or ash city"
+2/19/25 2:27:44a Magnic says, "somethign like that"
+2/19/25 2:27:45a Bashak says, "ohhh interesting"
+2/19/25 2:27:51a Magnic says, "used to be one way"
+2/19/25 2:28:01a Bashak says, "gotta find that pumpkin liche again"
+2/19/25 2:28:07a Magnic says, "heh"
+2/19/25 2:28:19a Bashak exclaims, "it needs the pretzels!"
+2/19/25 2:28:21a Magnic says, "gonna get the rat people morph"
+2/19/25 2:28:32a Magnic says, "heh"
+2/19/25 2:28:32a Bashak says, "there's rat people"
+2/19/25 2:28:33a Bashak asks, "there's rat people?"
+2/19/25 2:28:37a Magnic says, "eh"
+2/19/25 2:28:45a Magnic says, "theres sprites for them"
+2/19/25 2:28:51a Magnic says, "i havent seen one yet"
+2/19/25 2:28:54a Bashak growls, "I'm a rat people"
+2/19/25 2:29:04a Bashak says, "I see"
+2/19/25 2:29:32a Magnic says, "maybe in upcomming lore tours"
+2/19/25 2:29:52a Bashak says, "I've never cracked open the assets since coming back. I think I did it once back in version -2 or whatever"
+2/19/25 2:30:08a Magnic says, "really cool stuff in there"
+2/19/25 2:30:14a Bashak exclaims, "but spoilers!"
+2/19/25 2:30:23a You have 7746 coins.
+2/19/25 2:30:24a Magnic says, "not really"
+2/19/25 2:30:38a Magnic says, "there no code or names on things"
+2/19/25 2:30:47a Koppi yells, "Semie reports: Move zig move zig move zig move zig"
+2/19/25 2:30:52a (Bashak nods)
+2/19/25 2:30:52a Magnic says, "so most of it probbly props"
+2/19/25 2:31:06a Magnic says, "alot old unused stuff"
+2/19/25 2:31:25a Hashak is sharing experiences with you.
+2/19/25 2:31:28a Bashak is sharing experiences with you.
+2/19/25 2:31:29a Magnic says, "alot of mapp assets"
+2/19/25 2:31:45a Magnic says, "but wihtout it in the game it just parts"
+2/19/25 2:31:47a Bashak says, "oh yea could steal those for D&D"
+2/19/25 2:31:52a Magnic says, "heh"
+2/19/25 2:32:05a Magnic says, "i think someone did try to make a game using them"
+2/19/25 2:32:23a Catan is no longer Clanning.
+2/19/25 2:32:49a Bashak says, "it's just maps. I could tell people Puddleby is Phandalin or something"
+2/19/25 2:33:14a Magnic says, "hehe"
+2/19/25 2:33:20a Magnic says, "yeah there no maps"
+2/19/25 2:33:21a Bashak says, "(cuz that's the main town in our campaign)"
+2/19/25 2:33:33a Bashak says, "bummer"
+2/19/25 2:33:43a You have 7746 coins.
+2/19/25 2:34:08a Magnic says, "yeah im not looking for spoilers any way"
+2/19/25 2:35:01a Smeti is now Clanning.
+2/19/25 2:35:19a You offer a darkstone shard to Smeti for free.
+2/19/25 2:35:19a \SELL /cancel to cancel the offer.
+2/19/25 2:35:20a You hand Smeti a darkstone shard.
+2/19/25 2:35:45a Smeti is no longer Clanning.
+2/19/25 2:35:58a Koppi yells, "Bashak reports: LA™ Spring Break in PEACETON! brought to you by LA™"
+2/19/25 2:36:14a ZipLock is now Clanning.
+2/19/25 2:36:29a Bashak asks, "so why is that little tunnel called Alchemists Folley?"
+2/19/25 2:37:02a You have 7746 coins.
+2/19/25 2:38:06a Hashak says, "it attack"
+2/19/25 2:38:10a Willikers hunts a shadow.
+2/19/25 2:38:12a Hashak yells, "LA™ Like a good luck curse!"
+2/19/25 2:38:15a Hashak says, "oops"
+2/19/25 2:38:16a * You recover the Rat fur, worth 1c.
+2/19/25 2:38:41a Catan is now Clanning.
+2/19/25 2:38:49a Morn is now Clanning.
+2/19/25 2:39:09a Catan is sharing experiences with you.
+2/19/25 2:40:05a Crius yells, "It’s 6 o’clock on Gradi, the 44th day of Summer in the 640th year of the Ascendancy, and all’s well."
+2/19/25 2:40:22a You have 7746 coins.
+2/19/25 2:41:09a Koppi yells, "Shakyamuni reports: The Darshak are holding our friends the gnomes Hostage.. We must help them!!"
+2/19/25 2:41:30a Willikers grooms himself.
+2/19/25 2:42:39a Julia is no longer Clanning.
+2/19/25 2:42:53a Magnic says, "ah"
+2/19/25 2:42:54a Willikers twines around Hashak's ankles.
+2/19/25 2:43:01a Gauntlet is now Clanning.
+2/19/25 2:43:11a Magnic says, "becuase on tour i think we kill the alecemist that owned it"
+2/19/25 2:43:20a Magnic says, "a daskshark guy"
+2/19/25 2:43:34a Magnic says, "and on a more recent one we got his son"
+2/19/25 2:43:35a Shadowmutt pants.
+2/19/25 2:43:36a Magnic says, "to tc"
+2/19/25 2:43:41a You have 7746 coins.
+2/19/25 2:44:08a Shadowmutt growls, "Grrr."
+2/19/25 2:46:20a Koppi yells, "Lion-O reports: HOW ARE YOU GENTLEMEN"
+2/19/25 2:46:22a Willikers's ears perk up.
+2/19/25 2:46:59a You have 7746 coins.
+2/19/25 2:47:11a *Auto Trade Zero ON!
+2/19/25 2:47:19a • ZipLock offers you a stone for free.
+2/19/25 2:47:19a To accept, \BUY 0 ZipLock.
+2/19/25 2:47:19a * Traded: ZipLock 
+2/19/25 2:47:19a ZipLock hands you a stone.
+2/19/25 2:47:23a You offer a lump of iron ore to ZipLock for free.
+2/19/25 2:47:23a \SELL /cancel to cancel the offer.
+2/19/25 2:47:29a You hand ZipLock a lump of iron ore.
+2/19/25 2:47:31a Willikers looks at Hashak expectantly.
+2/19/25 2:48:12a Bashak says, "ohhh neato"
+2/19/25 2:48:31a • ZipLock offers you a stone for free.
+2/19/25 2:48:31a To accept, \BUY 0 ZipLock.
+2/19/25 2:48:31a * Traded: ZipLock 
+2/19/25 2:48:31a ZipLock hands you a stone.
+2/19/25 2:48:42a You offer a brittle grey rock to ZipLock for free.
+2/19/25 2:48:42a \SELL /cancel to cancel the offer.
+2/19/25 2:48:43a You hand ZipLock a brittle grey rock.
+2/19/25 2:48:46a You offer a cluster of mutated spores to ZipLock for free.
+2/19/25 2:48:46a \SELL /cancel to cancel the offer.
+2/19/25 2:48:46a You hand ZipLock a cluster of mutated spores.
+2/19/25 2:49:03a ZipLock is no longer Clanning.
+2/19/25 2:49:50a Willikers brings Hashak a vermine.
+2/19/25 2:50:25a You have 7746 coins.
+2/19/25 2:50:51a Kahn St'ple says, "Greetings, Lord Bashak."
+2/19/25 2:50:54a Magnic says, "oh btw by "got his son" i mean he sleeps in tor hotel"
+2/19/25 2:51:06a Bashak asks, "ohhhh???"
+2/19/25 2:51:10a Bashak asks, "should we go kill him?"
+2/19/25 2:51:13a Yulopo is now Clanning.
+2/19/25 2:51:16a Magnic says, "no ono"
+2/19/25 2:51:25a Yulopo is no longer Clanning.
+2/19/25 2:51:25a Bashak says, "oh ok"
+2/19/25 2:51:31a Magnic says, "seem might be the mystic son also"
+2/19/25 2:51:31a Koppi yells, "Bashak reports: LA™ Spring Break in PEACETON! brought to you by LA™"
+2/19/25 2:51:32a Palan is now Clanning.
+2/19/25 2:51:47a Palan is no longer Clanning.
+2/19/25 2:52:06a Magnic says, "plus last time in there was a hint there was a new boss mabye"
+2/19/25 2:52:33a Willikers twitches his tail.
+2/19/25 2:52:36a Bashak asks, "oh, well we should kill HIM then, right?"
+2/19/25 2:52:44a Elenis Reyav is now Clanning.
+2/19/25 2:52:57a Magnic asks, "you want a full mystic mad at you?"
+2/19/25 2:53:00a Morn is no longer Clanning.
+2/19/25 2:53:01a Magnic says, ":P"
+2/19/25 2:53:06a Bashak asks, "yes?"
+2/19/25 2:53:25a Magnic says, "im not sure he still there i think he left"
+2/19/25 2:53:26a Bashak says, "mm k I'm gonna go make food before Lorihunt"
+2/19/25 2:53:39a Magnic says, "smort"
+2/19/25 2:53:49a You have 7746 coins.
+2/19/25 2:53:55a Bashak says, "yea I've been sick and couldn't eat yesterday"
+2/19/25 2:54:02a Bashak exclaims, "I think I can do it today!"
+2/19/25 2:54:14a Magnic says, "that sucks, hope ya getting better"
+2/19/25 2:54:25a Hashak is no longer Clanning.
+2/19/25 2:54:34a Bashak says, "yea I feel better today, but still not great"
+2/19/25 2:54:44a Crius yells, "It’s 7 o’clock, and all’s well."
+2/19/25 2:55:07a Arlana is now Clanning.
+2/19/25 2:55:15a Magnic says, "remeber to drink all the water you can find in the world"
+2/19/25 2:55:24a Magnic says, ":P"
+2/19/25 2:55:34a Bashak says, "I love the water"
+2/19/25 2:55:42a Bashak says, "it came out my butt this morning"
+2/19/25 2:55:58a Magnic says, "ah ok..."
+2/19/25 2:56:01a Bashak says, "I'm in the full-flush stage I think"
+2/19/25 2:56:06a Bashak says, "haha ok tmi"
+2/19/25 2:56:17a Magnic says, "nar its fine"
+2/19/25 2:56:42a Koppi yells, "Semie reports: Move zig move zig move zig move zig"
+2/19/25 2:57:19a You have 7746 coins.
+2/19/25 2:59:08a ZipLock is now Clanning.
+2/19/25 2:59:11a • /SLEEP when you wish to begin studying.
+2/19/25 2:59:14a • /SLEEP when you wish to begin studying.
+2/19/25 2:59:17a Use \SLEEP again when you return.
+2/19/25 2:59:17a You are done adventuring for a while and will be studying here.
+2/19/25 2:59:18a You have been disconnected from Clan Lord.
+2/19/25 2:59:18a • You will benefit from studying here while you are off-line.
+2/19/25 2:59:19a *** We are no longer connected to the Clan Lord game server. ***

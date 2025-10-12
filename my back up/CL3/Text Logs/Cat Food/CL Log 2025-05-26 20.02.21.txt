@@ -1,0 +1,419 @@
+
+5/26/25 8:02:22p * Your healer's shirt is in very good condition.
+5/26/25 8:02:22p * Your pair of second-circle pants named “white” is in very good condition.
+5/26/25 8:02:22p Welcome to Clan Lord, Cat Food!
+5/26/25 8:02:22p Type \HELP for a list of commands.
+5/26/25 8:02:22p • You gain experience from your recent studies.
+5/26/25 8:02:22p *Healer Mode
+5/26/25 8:02:22p * Healer Item set to asklepian 
+5/26/25 8:02:22p The healing spell has started.
+5/26/25 8:02:22p You have been studying for 12 days, 12 minutes.
+5/26/25 8:02:25p It's 10:31am on Sombdi, day 80 of Summer, 641.
+5/26/25 8:02:25p Friends online: none.
+5/26/25 8:02:26p There are three members of Black Phoenix clanning: Grando, Mimo and you.
+5/26/25 8:02:26p • What’s New: https://deltatao.com/clanlord/news
+5/26/25 8:02:37p * Tip of the day: Visit the tutorial building in the fairgrounds for more information and advice. (Use /OPTIONS to turn tips off.)
+5/26/25 8:02:39p •You have more purgatory pendant knowledge.
+5/26/25 8:03:34p * You need a breath of air!
+5/26/25 8:04:09p •You have more purgatory pendant knowledge.
+5/26/25 8:05:09p Grando says, "c heal me"
+5/26/25 8:05:28p Grando is sharing experiences with you.
+5/26/25 8:05:47p You have 331 coins.
+5/26/25 8:06:03p Grando says, "c area"
+5/26/25 8:06:23p Grando says, "c heal me"
+5/26/25 8:07:03p Grando says, "c area"
+5/26/25 8:07:19p * Auto Healer ON!
+5/26/25 8:07:19p • You begin radius healing.
+5/26/25 8:07:47p Grando says, "c heal me"
+5/26/25 8:07:47p * Auto Healing Grando 
+5/26/25 8:08:20p Grando says, "c area"
+5/26/25 8:08:21p • You begin radius healing.
+5/26/25 8:08:45p You equip your chain.
+5/26/25 8:08:45p • You stop radius healing.
+5/26/25 8:09:11p You have 331 coins.
+5/26/25 8:09:15p You start dragging Grando.
+5/26/25 8:09:19p You equip your asklepian.
+5/26/25 8:09:19p * Healing Grando 
+5/26/25 8:09:20p •Grando’s injuries were serious.
+5/26/25 8:10:26p •The player must be in the same area.
+5/26/25 8:10:47p Grando says, "c area"
+5/26/25 8:10:47p • You begin radius healing.
+5/26/25 8:11:58p • There is nobody nearby enough to continue radius healing.
+5/26/25 8:12:18p Grando says, "c heal me"
+5/26/25 8:12:18p * Auto Healing Grando 
+5/26/25 8:12:36p You have 331 coins.
+5/26/25 8:12:38p Grando says, "c area"
+5/26/25 8:12:39p • You begin radius healing.
+5/26/25 8:12:52p • There is nobody nearby enough to continue radius healing.
+5/26/25 8:12:59p Grando says, "c heal me"
+5/26/25 8:13:00p * Auto Healing Grando 
+5/26/25 8:14:25p Grando says, "c heal me"
+5/26/25 8:14:25p * Auto Healing Grando 
+5/26/25 8:14:50p Grando says, "c heal me"
+5/26/25 8:14:50p * Auto Healing Grando 
+5/26/25 8:14:51p •Grando was too wounded to be healed easily.
+5/26/25 8:15:42p Grando says, "c area"
+5/26/25 8:15:42p • You begin radius healing.
+5/26/25 8:15:56p Grando says, "c heal me"
+5/26/25 8:15:56p * Auto Healing Grando 
+5/26/25 8:16:03p You have 331 coins.
+5/26/25 8:16:28p Grando says, "c area"
+5/26/25 8:16:28p • You begin radius healing.
+5/26/25 8:16:46p Grando says, "c heal me"
+5/26/25 8:16:46p * Auto Healing Grando 
+5/26/25 8:17:06p Grando says, "c area"
+5/26/25 8:17:06p • You begin radius healing.
+5/26/25 8:17:15p Grando says, "c area"
+5/26/25 8:17:16p • You stop radius healing.
+5/26/25 8:17:22p Grando says, "c heal me"
+5/26/25 8:17:22p * Auto Healing Grando 
+5/26/25 8:17:25p Grando says, "c area"
+5/26/25 8:17:25p • You begin radius healing.
+5/26/25 8:17:50p Grando says, "c heal me"
+5/26/25 8:17:50p * Auto Healing Grando 
+5/26/25 8:18:27p Grando says, "c area"
+5/26/25 8:18:27p • You begin radius healing.
+5/26/25 8:19:01p Grando says, "c heal me"
+5/26/25 8:19:01p * Auto Healing Grando 
+5/26/25 8:19:27p You have 331 coins.
+5/26/25 8:19:52p Grando says, "c area"
+5/26/25 8:19:52p • You begin radius healing.
+5/26/25 8:22:07p Grando says, "c heal me"
+5/26/25 8:22:07p * Auto Healing Grando 
+5/26/25 8:22:14p Forbeen says, "Honored guest, Master Lugubrion regretfully informs me that you are not permitted beyond this point."
+5/26/25 8:22:28p Grando says, "c heal me"
+5/26/25 8:22:28p * Auto Healing Grando 
+5/26/25 8:22:53p You have 331 coins.
+5/26/25 8:22:57p Grando says, "c area"
+5/26/25 8:22:57p • You begin radius healing.
+5/26/25 8:23:09p • There is nobody nearby enough to continue radius healing.
+5/26/25 8:24:04p Grando says, "c heal me"
+5/26/25 8:24:04p * Auto Healing Grando 
+5/26/25 8:25:04p Grando says, "c heal me"
+5/26/25 8:25:04p * Auto Healing Grando 
+5/26/25 8:25:36p Grando says, "c area"
+5/26/25 8:25:37p • You begin radius healing.
+5/26/25 8:25:58p • There is nobody nearby enough to continue radius healing.
+5/26/25 8:26:19p Grando says, "c heal me"
+5/26/25 8:26:19p * Auto Healing Grando 
+5/26/25 8:26:19p You have 331 coins.
+5/26/25 8:27:10p Grando says, "c heal me"
+5/26/25 8:27:10p * Auto Healing Grando 
+5/26/25 8:28:35p Grando says, "c heal me"
+5/26/25 8:28:36p * Auto Healing Grando 
+5/26/25 8:29:46p You have 331 coins.
+5/26/25 8:31:17p Grando says, "c heal me"
+5/26/25 8:31:17p * Auto Healing Grando 
+5/26/25 8:33:13p You have 331 coins.
+5/26/25 8:36:45p You have 331 coins.
+5/26/25 8:40:15p You have 331 coins.
+5/26/25 8:43:51p You have 331 coins.
+5/26/25 8:47:20p You have 331 coins.
+5/26/25 8:50:51p You have 331 coins.
+5/26/25 8:54:12p Grando says, "c heal me"
+5/26/25 8:54:12p * Auto Healing Grando 
+5/26/25 8:54:22p You have 331 coins.
+5/26/25 8:55:20p  Grand Master added to Karma list
+5/26/25 8:55:24p  Serius added to Karma list
+5/26/25 8:55:25p  Silky added to Karma list
+5/26/25 8:55:29p * Karma Message set to  . 
+5/26/25 8:55:31p * Auto Thanker Online!
+5/26/25 8:55:32p Grand Master is too far away for your explanation.
+5/26/25 8:55:32p You gave signed good karma to Grand Master.
+5/26/25 8:57:47p You have 331 coins.
+5/26/25 8:59:00p Grando says, "c heal me"
+5/26/25 8:59:00p * Auto Healing Grando 
+5/26/25 9:00:12p Grando says, "c heal me"
+5/26/25 9:00:12p * Auto Healing Grando 
+5/26/25 9:01:22p You have 331 coins.
+5/26/25 9:01:32p Serius is too far away for your explanation.
+5/26/25 9:01:32p You gave signed good karma to Serius.
+5/26/25 9:02:10p Catan is sharing experiences with you.
+5/26/25 9:03:33p Grando says, "c heal me"
+5/26/25 9:03:34p * Auto Healing Grando 
+5/26/25 9:04:55p You have 331 coins.
+5/26/25 9:05:35p Grando says, "c heal me"
+5/26/25 9:05:35p * Auto Healing Grando 
+5/26/25 9:07:16p Grando says, "c heal me"
+5/26/25 9:07:16p * Auto Healing Grando 
+5/26/25 9:07:32p You have no karma to give.
+5/26/25 9:08:25p You have 331 coins.
+5/26/25 9:08:56p Grando says, "c heal me"
+5/26/25 9:08:56p * Auto Healing Grando 
+5/26/25 9:09:39p Honor thinks, "Congratulations go out to Ayako, who has just passed the third circle fighter test."
+5/26/25 9:09:43p Bingro thinks, "Congrats!"
+5/26/25 9:09:47p Leyenda thinks, "grats =)"
+5/26/25 9:09:47p Catan thinks, "congrzt!"
+5/26/25 9:09:53p Ayako thinks, "sad how a wooden shield helped...."
+5/26/25 9:10:03p Grando thinks, "haha"
+5/26/25 9:10:58p Grando says, "c heal me"
+5/26/25 9:10:58p * Auto Healing Grando 
+5/26/25 9:11:55p You have 331 coins.
+5/26/25 9:13:32p Grand Master is too far away for your explanation.
+5/26/25 9:13:32p You gave signed good karma to Grand Master.
+5/26/25 9:15:28p You have 331 coins.
+5/26/25 9:19:03p You have 331 coins.
+5/26/25 9:19:14p Grando says, "c heal me"
+5/26/25 9:19:14p * Auto Healing Grando 
+5/26/25 9:19:32p Serius is too far away for your explanation.
+5/26/25 9:19:32p You gave signed good karma to Serius.
+5/26/25 9:22:09p Grando says, "c heal me"
+5/26/25 9:22:09p * Auto Healing Grando 
+5/26/25 9:22:32p You have 331 coins.
+5/26/25 9:25:33p Silky is too far away for your explanation.
+5/26/25 9:25:33p You gave signed good karma to Silky.
+5/26/25 9:26:11p You have 331 coins.
+5/26/25 9:29:46p You have 331 coins.
+5/26/25 9:31:33p Grand Master is too far away for your explanation.
+5/26/25 9:31:33p You gave signed good karma to Grand Master.
+5/26/25 9:33:14p You have 331 coins.
+5/26/25 9:36:43p You have 331 coins.
+5/26/25 9:37:33p Serius is too far away for your explanation.
+5/26/25 9:37:33p You gave signed good karma to Serius.
+5/26/25 9:40:08p You have 331 coins.
+5/26/25 9:43:33p Silky is too far away for your explanation.
+5/26/25 9:43:33p You gave signed good karma to Silky.
+5/26/25 9:43:37p You have 331 coins.
+5/26/25 9:45:47p Grando says, "c heal me"
+5/26/25 9:45:47p * Auto Healing Grando 
+5/26/25 9:47:05p You have 331 coins.
+5/26/25 9:49:33p You have no karma to give.
+5/26/25 9:50:34p You have 331 coins.
+5/26/25 9:52:03p • It’s Sombdi night, and the Coliseum will open soon.
+5/26/25 9:54:04p You have 331 coins.
+5/26/25 9:55:34p Serius is too far away for your explanation.
+5/26/25 9:55:34p You gave signed good karma to Serius.
+5/26/25 9:55:46p Grando says, "c heal me"
+5/26/25 9:55:46p * Auto Healing Grando 
+5/26/25 9:56:57p •The Sun sets.
+5/26/25 9:57:39p You have 331 coins.
+5/26/25 10:01:11p You have 331 coins.
+5/26/25 10:01:34p You have no karma to give.
+5/26/25 10:04:34p You have 331 coins.
+5/26/25 10:06:40p • The Coliseum is now open. Win fabulous prizes!
+5/26/25 10:07:34p Grand Master is too far away for your explanation.
+5/26/25 10:07:34p You gave signed good karma to Grand Master.
+5/26/25 10:07:59p You have 331 coins.
+5/26/25 10:11:28p You have 331 coins.
+5/26/25 10:13:34p Serius is too far away for your explanation.
+5/26/25 10:13:34p You gave signed good karma to Serius.
+5/26/25 10:14:57p You have 331 coins.
+5/26/25 10:16:25p Dracula thinks, "beer!"
+5/26/25 10:16:36p Poplar thinks, "dracula!"
+5/26/25 10:16:46p Dracula thinks, "popula!"
+5/26/25 10:17:54p Grando says, "c heal me"
+5/26/25 10:17:54p * Auto Healing Grando 
+5/26/25 10:17:54p •Grando’s injuries were serious.
+5/26/25 10:18:22p You have 331 coins.
+5/26/25 10:18:47p Grando says, "c area"
+5/26/25 10:18:47p • You begin radius healing.
+5/26/25 10:19:20p • There is nobody nearby enough to continue radius healing.
+5/26/25 10:19:27p Grando says, "c heal me"
+5/26/25 10:19:27p * Auto Healing Grando 
+5/26/25 10:19:34p Silky is too far away for your explanation.
+5/26/25 10:19:34p You gave signed good karma to Silky.
+5/26/25 10:20:08p Grando says, "c heal me"
+5/26/25 10:20:08p * Auto Healing Grando 
+5/26/25 10:20:40p Grando says, "c area"
+5/26/25 10:20:40p • You begin radius healing.
+5/26/25 10:21:09p • There is nobody nearby enough to continue radius healing.
+5/26/25 10:21:45p You have 331 coins.
+5/26/25 10:23:35p  Dracula added to Karma list
+5/26/25 10:24:55p Grando thinks, "hmm did it get colder in here?"
+5/26/25 10:25:07p Grando says, "c heal me"
+5/26/25 10:25:07p * Auto Healing Grando 
+5/26/25 10:25:09p You have 331 coins.
+5/26/25 10:25:35p Dracula is too far away for your explanation.
+5/26/25 10:25:35p You gave signed good karma to Dracula.
+5/26/25 10:27:48p •You gain experience.
+5/26/25 10:28:32p You have 331 coins.
+5/26/25 10:31:35p Grand Master is too far away for your explanation.
+5/26/25 10:31:35p You gave signed good karma to Grand Master.
+5/26/25 10:31:59p You have 331 coins.
+5/26/25 10:35:27p You have 331 coins.
+5/26/25 10:37:35p Serius is too far away for your explanation.
+5/26/25 10:37:35p You gave signed good karma to Serius.
+5/26/25 10:37:47p Brooke Britney thinks, "Help us with The Puddleby Civic Beautification Society. Best prices given for your construction materials!"
+5/26/25 10:39:06p You have 331 coins.
+5/26/25 10:42:30p •You gain experience.
+5/26/25 10:42:37p You have 331 coins.
+5/26/25 10:43:23p Grando says, "c heal me"
+5/26/25 10:43:23p * Auto Healing Grando 
+5/26/25 10:43:35p Silky is too far away for your explanation.
+5/26/25 10:43:35p You gave signed good karma to Silky.
+5/26/25 10:46:00p You have 331 coins.
+5/26/25 10:49:27p You have 331 coins.
+5/26/25 10:49:35p Dracula is too far away for your explanation.
+5/26/25 10:49:35p You gave signed good karma to Dracula.
+5/26/25 10:52:50p You have 331 coins.
+5/26/25 10:55:36p Grand Master is too far away for your explanation.
+5/26/25 10:55:36p You gave signed good karma to Grand Master.
+5/26/25 10:55:46p Grando says, "c heal me"
+5/26/25 10:55:46p * Auto Healing Grando 
+5/26/25 10:56:17p You have 331 coins.
+5/26/25 10:57:23p Grando says, "c heal me"
+5/26/25 10:57:23p * Auto Healing Grando 
+5/26/25 10:58:52p Grando says, "c heal me"
+5/26/25 10:58:52p * Auto Healing Grando 
+5/26/25 10:59:41p You have 331 coins.
+5/26/25 11:00:07p Grando says, "c heal me"
+5/26/25 11:00:07p * Auto Healing Grando 
+5/26/25 11:00:36p Grando says, "c area"
+5/26/25 11:00:37p • You begin radius healing.
+5/26/25 11:00:53p • There is nobody nearby enough to continue radius healing.
+5/26/25 11:01:20p Grando says, "c heal me"
+5/26/25 11:01:21p * Auto Healing Grando 
+5/26/25 11:01:36p Serius is too far away for your explanation.
+5/26/25 11:01:36p You gave signed good karma to Serius.
+5/26/25 11:03:06p You have 331 coins.
+5/26/25 11:06:38p You have 331 coins.
+5/26/25 11:06:41p •You gain experience.
+5/26/25 11:07:36p Silky is too far away for your explanation.
+5/26/25 11:07:36p You gave signed good karma to Silky.
+5/26/25 11:08:37p Grando says, "c heal me"
+5/26/25 11:08:38p * Auto Healing Grando 
+5/26/25 11:10:04p You have 331 coins.
+5/26/25 11:10:32p Grando says, "c heal me"
+5/26/25 11:10:32p * Auto Healing Grando 
+5/26/25 11:13:30p You have 331 coins.
+5/26/25 11:13:36p 'Dracula' is not in the lands.
+5/26/25 11:16:50p You have 331 coins.
+5/26/25 11:19:36p Grand Master is too far away for your explanation.
+5/26/25 11:19:36p You gave signed good karma to Grand Master.
+5/26/25 11:20:05p • It’s Midnight on Soldi, the 81st day of Summer in the 641st year of the Ascendancy, and all’s well.
+5/26/25 11:20:20p You have 331 coins.
+5/26/25 11:23:51p You have 331 coins.
+5/26/25 11:25:37p Serius is too far away for your explanation.
+5/26/25 11:25:37p You gave signed good karma to Serius.
+5/26/25 11:27:20p You have 331 coins.
+5/26/25 11:29:45p Grando says, "c heal me"
+5/26/25 11:29:45p * Auto Healing Grando 
+5/26/25 11:30:47p You have 331 coins.
+5/26/25 11:31:09p Grando says, "c heal me"
+5/26/25 11:31:09p * Auto Healing Grando 
+5/26/25 11:31:37p Silky is too far away for your explanation.
+5/26/25 11:31:37p You gave signed good karma to Silky.
+5/26/25 11:34:11p You have 331 coins.
+5/26/25 11:37:37p 'Dracula' is not in the lands.
+5/26/25 11:37:42p You have 331 coins.
+5/26/25 11:38:03p Sycamore thinks, "1"
+5/26/25 11:41:12p You have 331 coins.
+5/26/25 11:43:37p Grand Master is too far away for your explanation.
+5/26/25 11:43:37p You gave signed good karma to Grand Master.
+5/26/25 11:44:42p You have 331 coins.
+5/26/25 11:46:10p Grando says, "c heal me"
+5/26/25 11:46:10p * Auto Healing Grando 
+5/26/25 11:48:12p You have 331 coins.
+5/26/25 11:49:12p Grando says, "c heal me"
+5/26/25 11:49:12p * Auto Healing Grando 
+5/26/25 11:49:37p Serius is too far away for your explanation.
+5/26/25 11:49:37p You gave signed good karma to Serius.
+5/26/25 11:50:19p Grando says, "c heal me"
+5/26/25 11:50:19p * Auto Healing Grando 
+5/26/25 11:51:24p Grando says, "c heal me"
+5/26/25 11:51:25p * Auto Healing Grando 
+5/26/25 11:51:41p You have 331 coins.
+5/26/25 11:52:10p Catan thinks, "anyone with Sycamore?"
+5/26/25 11:52:16p Leyenda thinks, "yes =)"
+5/26/25 11:52:43p Tezikil thinks, "edge and I in lilyponds atm"
+5/26/25 11:52:58p Edge StormCrow thinks, "Tezikil and i are in lillipod if we fall"
+5/26/25 11:55:07p Eli thinks, "Sycamore have help"
+5/26/25 11:55:14p You have 331 coins.
+5/26/25 11:55:35p Grando says, "c heal me"
+5/26/25 11:55:35p * Auto Healing Grando 
+5/26/25 11:55:38p You have no karma to give.
+5/26/25 11:56:05p Leyenda thinks, "Yes, got her on chain, hope I don't get earthquacked to death though"
+5/26/25 11:56:36p Leyenda thinks, "in case we do, we're at scarmis N KI"
+5/26/25 11:58:43p You have 331 coins.
+5/26/25 11:59:59p Grando says, "c heal me"
+5/26/25 11:59:59p * Auto Healing Grando 
+5/27/25 12:01:38a 'Dracula' is not in the lands.
+5/27/25 12:02:11a You have 331 coins.
+5/27/25 12:03:43a Grando says, "c heal me"
+5/27/25 12:03:44a * Auto Healing Grando 
+5/27/25 12:05:40a You have 331 coins.
+5/27/25 12:06:32a Leyenda thinks, "I cannot chain syca into the water, any healer available to make a quick KI run?"
+5/27/25 12:07:38a Grand Master is too far away for your explanation.
+5/27/25 12:07:38a You gave signed good karma to Grand Master.
+5/27/25 12:08:40a Leyenda thinks, "someone with good horus?"
+5/27/25 12:09:10a You have 331 coins.
+5/27/25 12:10:25a Grando says, "c heal me"
+5/27/25 12:10:25a * Auto Healing Grando 
+5/27/25 12:12:29a Grando says, "c heal me"
+5/27/25 12:12:29a * Auto Healing Grando 
+5/27/25 12:12:38a You have 331 coins.
+5/27/25 12:13:38a Serius is too far away for your explanation.
+5/27/25 12:13:38a You gave signed good karma to Serius.
+5/27/25 12:15:40a Grando says, "c heal me"
+5/27/25 12:15:41a * Auto Healing Grando 
+5/27/25 12:16:06a You have 331 coins.
+5/27/25 12:16:08a •You gain experience.
+5/27/25 12:16:40a Grando says, "c heal me"
+5/27/25 12:16:40a * Auto Healing Grando 
+5/27/25 12:17:50a Grando says, "c heal me"
+5/27/25 12:17:50a * Auto Healing Grando 
+5/27/25 12:19:30a You have 331 coins.
+5/27/25 12:19:38a Silky is too far away for your explanation.
+5/27/25 12:19:38a You gave signed good karma to Silky.
+5/27/25 12:21:31a Catan thinks, "Leyenda where is Sycamore?"
+5/27/25 12:22:10a Desmond thinks, "dead on KI, trieng to rescue"
+5/27/25 12:22:56a You have 331 coins.
+5/27/25 12:24:33a Grando says, "c heal me"
+5/27/25 12:24:34a * Auto Healing Grando 
+5/27/25 12:25:35a Grando says, "c heal me"
+5/27/25 12:25:35a * Auto Healing Grando 
+5/27/25 12:25:38a 'Dracula' is not in the lands.
+5/27/25 12:26:23a You have 331 coins.
+5/27/25 12:27:27a Grando says, "c heal me"
+5/27/25 12:27:27a * Auto Healing Grando 
+5/27/25 12:29:54a You have 331 coins.
+5/27/25 12:31:39a Grand Master is too far away for your explanation.
+5/27/25 12:31:39a You gave signed good karma to Grand Master.
+5/27/25 12:33:22a You have 331 coins.
+5/27/25 12:36:52a You have 331 coins.
+5/27/25 12:37:39a You have given this character as much good karma as is allowed. Wait for it to decay.
+5/27/25 12:38:20a Leyenda thinks, "Syca far too mangled at KI exit, anyone with that much horus available?"
+5/27/25 12:39:29a Sauver thinks, "any healer can come raise Eli who is quite in the well through porta"
+5/27/25 12:40:23a You have 331 coins.
+5/27/25 12:43:29a Grando says, "c heal me"
+5/27/25 12:43:29a * Auto Healing Grando 
+5/27/25 12:43:39a •The Sun rises.
+5/27/25 12:43:39a Silky is too far away for your explanation.
+5/27/25 12:43:39a You gave signed good karma to Silky.
+5/27/25 12:43:50a You have 331 coins.
+5/27/25 12:47:00a Grando says, "c heal me"
+5/27/25 12:47:00a * Auto Healing Grando 
+5/27/25 12:47:20a You have 331 coins.
+5/27/25 12:47:41a Desmond thinks, "need 1 cadder with very little horus n shore of KI, then we can raise Syca"
+5/27/25 12:48:10a Grando says, "c heal me"
+5/27/25 12:48:10a * Auto Healing Grando 
+5/27/25 12:49:09a Leyenda thinks, "Can anyone assist? Requires one minute =)"
+5/27/25 12:49:33a Captain Planet thinks, "sure just point me where 2"
+5/27/25 12:49:39a 'Dracula' is not in the lands.
+5/27/25 12:50:46a You have 331 coins.
+5/27/25 12:51:27a Leyenda thinks, "Thanks all for Saving Sycamore"
+5/27/25 12:53:49a Grando says, "c heal me"
+5/27/25 12:53:49a * Auto Healing Grando 
+5/27/25 12:54:10a You have 331 coins.
+5/27/25 12:55:39a You have given this character as much good karma as is allowed. Wait for it to decay.
+5/27/25 12:57:39a You have 331 coins.
+5/27/25 1:01:07a You have 331 coins.
+5/27/25 1:01:40a You have given this character as much good karma as is allowed. Wait for it to decay.
+5/27/25 1:04:35a You have 331 coins.
+5/27/25 1:07:40a Silky is too far away for your explanation.
+5/27/25 1:07:40a You gave signed good karma to Silky.
+5/27/25 1:08:04a You have 331 coins.
+5/27/25 1:11:37a You have 331 coins.
+5/27/25 1:13:40a 'Dracula' is not in the lands.
+5/27/25 1:13:55a Grando says, "c heal me"
+5/27/25 1:13:55a * Auto Healing Grando 
+5/27/25 1:15:08a You have 331 coins.
+5/27/25 1:18:37a You have 331 coins.
+5/27/25 1:19:40a You have given this character as much good karma as is allowed. Wait for it to decay.
+5/27/25 1:22:04a You have 331 coins.
+5/27/25 1:25:36a You have 331 coins.
+5/27/25 1:25:40a You have given this character as much good karma as is allowed. Wait for it to decay.
+5/27/25 1:27:02a •The healing spell has been broken.
+5/27/25 1:27:15a •The healing spell has been broken.
+5/27/25 1:27:38a Telsa yells, "Shoo! Vermine!"
+5/27/25 1:27:44a Shelka exclaims

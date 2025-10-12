@@ -1,0 +1,44 @@
+
+3/31/25 8:06:34p * Your shirt named “dark grey” is in pretty good shape.
+3/31/25 8:06:34p * Your pair of pants named “dark grey” is in nearly perfect condition.
+3/31/25 8:06:34p Welcome to Clan Lord, Ajahn!
+3/31/25 8:06:34p Type \HELP for a list of commands.
+3/31/25 8:06:34p • You have been charged 129 coins for advanced studies.
+3/31/25 8:06:34p • You gain experience from your recent studies.
+3/31/25 8:06:34p You have been studying for 8 days, 2 hours, 14 minutes.
+3/31/25 8:06:34p Friends online: none.
+3/31/25 8:06:37p It's 8:37am on Lundi, day 31 of Winter, 641.
+3/31/25 8:06:38p There are two members of Black Phoenix clanning: Magnic and you.
+3/31/25 8:06:38p • What’s New: https://deltatao.com/clanlord/news
+3/31/25 8:06:41p •You seem to attack more precisely now.
+3/31/25 8:06:48p * Tip of the day: Select an item in your Inventory window and type space to remove its command-# hotkey. (Use /OPTIONS to turn tips off.)
+3/31/25 8:07:30p • Magnic offers you an average scroll in fair condition for free.
+3/31/25 8:07:30p To accept, \BUY 0 Magnic.
+3/31/25 8:07:30p 1  Magnic. 
+3/31/25 8:07:31p Magnic hands you a scroll.
+3/31/25 8:07:32p • Magnic offers you a thick scroll in good condition for free.
+3/31/25 8:07:32p To accept, \BUY 0 Magnic.
+3/31/25 8:07:32p 1  Magnic. 
+3/31/25 8:07:33p Magnic hands you a scroll.
+3/31/25 8:07:35p • Magnic offers you a large book in bad condition for free.
+3/31/25 8:07:35p To accept, \BUY 0 Magnic.
+3/31/25 8:07:35p 1  Magnic. 
+3/31/25 8:07:36p Magnic hands you a book.
+3/31/25 8:08:03p Shadowmutt growls, "Grrr."
+3/31/25 8:08:11p •You seem to attack more precisely now.
+3/31/25 8:08:20p You offer a scroll to Warawonda for free.
+3/31/25 8:08:20p \SELL /cancel to cancel the offer.
+3/31/25 8:08:20p You hand Warawonda a scroll.
+3/31/25 8:08:24p You offer a scroll to Warawonda for free.
+3/31/25 8:08:24p \SELL /cancel to cancel the offer.
+3/31/25 8:08:24p You hand Warawonda a scroll.
+3/31/25 8:08:28p You offer a book to Warawonda for free.
+3/31/25 8:08:28p \SELL /cancel to cancel the offer.
+3/31/25 8:08:29p You hand Warawonda a book.
+3/31/25 8:08:34p • /SLEEP when you wish to begin studying.
+3/31/25 8:08:38p You have no coins.
+3/31/25 8:08:40p Use \SLEEP again when you return.
+3/31/25 8:08:41p You are done adventuring for a while and will be staying here.
+3/31/25 8:08:41p You have been disconnected from Clan Lord.
+3/31/25 8:08:42p • You will benefit from staying here while you are off-line.
+3/31/25 8:08:42p *** We are no longer connected to the Clan Lord game server. ***

@@ -1,0 +1,210 @@
+
+10/12/25 3:11:38a * Your cloak named “royal purple” is in pretty good shape.
+10/12/25 3:11:38a Welcome to Clan Lord, Unholy!
+10/12/25 3:11:38a Type \HELP for a list of commands.
+10/12/25 3:11:38a • You gain experience from your recent studies.
+10/12/25 3:11:38a *Healer Mode
+10/12/25 3:11:38a * Healer Item set to asklepian staff 
+10/12/25 3:11:38a The healing spell has started.
+10/12/25 3:11:38a You have been studying for 6 days, 36 minutes.
+10/12/25 3:11:41a It's 12:47am on Fordi, day 16 of Spring, 643.
+10/12/25 3:11:42a There are two members of Black Phoenix clanning: Warawonda and you.
+10/12/25 3:11:42a • There was a problem with the update and we had to revert to a previous snapshot. We've attempted to give 25 ranks as compensation, but have reports of people missing it. We're investigating.
+10/12/25 3:11:42a •What's New: https://deltatao.com/clanlord/news/
+10/12/25 3:11:45a Friends online: none.
+10/12/25 3:11:52a * Tip of the day: The fairgrounds, southwest of town center, is a good place to hold out-of-character conversations. (Use /OPTIONS to turn tips off.)
+10/12/25 3:12:03a You begin sharing your experiences with Vylarian.
+10/12/25 3:12:06a Vylarian is sharing experiences with you.
+10/12/25 3:12:18a Vylarian says, "lets do reg noids first"
+10/12/25 3:12:28a Vylarian vaults the wall.
+10/12/25 3:12:30a Vylarian hops over the fence.
+10/12/25 3:12:49a Vylarian says, "and thank you"
+10/12/25 3:13:00a Unholy says, "np"
+10/12/25 3:13:12a * You recover the Large Vermine fur, worth 1c.
+10/12/25 3:13:15a Vylarian enters a tunnel under the tree.
+10/12/25 3:13:35a * You recover the Arachne mandibles, worth 1c. Your share is 1c.
+10/12/25 3:13:56a * You recover the Arachne mandibles, worth 1c.
+10/12/25 3:13:58a * Healing Vylarian 
+10/12/25 3:13:59a * Healing Vylarian 
+10/12/25 3:14:00a •The healing spell has been broken.
+10/12/25 3:14:03a * You recover the Purple Arachnoid mandibles, worth 3c. Your share is 1c.
+10/12/25 3:14:07a * Healing Vylarian 
+10/12/25 3:14:26a * Vylarian recovers the Purple Arachnoid mandibles, worth 2c. Your share is 1c.
+10/12/25 3:14:33a Vylarian says, "heh low on spirit"
+10/12/25 3:14:42a You have 1268 coins.
+10/12/25 3:14:48a * You recover the Arachne mandibles, worth 1c. Your share is 1c.
+10/12/25 3:15:24a * Vylarian recovers the Grey Arachnoid mandibles, worth 1c. Your share is 1c.
+10/12/25 3:15:32a Vylarian says, "lets n a sec"
+10/12/25 3:15:35a Vylarian says, "let me recharge spirit"
+10/12/25 3:15:41a * Healing Vylarian 
+10/12/25 3:15:43a * Healing Unholy 
+10/12/25 3:15:43a •You cannot use your asklepian staff on yourself.
+10/12/25 3:15:44a You equip your moonstone.
+10/12/25 3:15:46a •To heal yourself, type: \USE
+10/12/25 3:15:46a •To heal yourself three times, type: \USE 3
+10/12/25 3:15:47a * Healing Vylarian 
+10/12/25 3:15:48a You equip your asklepian staff.
+10/12/25 3:15:48a You must equip your moonstone before it can be used.
+10/12/25 3:15:49a You must equip your moonstone before it can be used.
+10/12/25 3:16:15a Vylarian says, "trying for greens, i have studies on grey, striped and purple"
+10/12/25 3:16:34a Vylarian says, "k"
+10/12/25 3:16:41a * Vylarian recovers the Purple Arachnoid mandibles, worth 3c. Your share is 1c.
+10/12/25 3:16:45a * Vylarian recovers the Purple Arachnoid mandibles, worth 4c. Your share is 2c.
+10/12/25 3:16:56a * You recover the Striped Arachnoid mandibles, worth 3c. Your share is 1c.
+10/12/25 3:17:06a * Healing Vylarian 
+10/12/25 3:17:34a * You recover the Grey Arachnoid mandibles, worth 1c.
+10/12/25 3:17:42a * Healing Unholy 
+10/12/25 3:17:42a •You cannot use your asklepian staff on yourself.
+10/12/25 3:17:42a You equip your moonstone.
+10/12/25 3:17:47a You have 1274 coins.
+10/12/25 3:17:56a * You recover the Green Arachnoid mandibles, worth 2c. Your share is 1c.
+10/12/25 3:17:58a * Healing Vylarian 
+10/12/25 3:17:58a You equip your asklepian staff.
+10/12/25 3:17:59a You must equip your moonstone before it can be used.
+10/12/25 3:17:59a You must equip your moonstone before it can be used.
+10/12/25 3:18:00a * Healing Unholy 
+10/12/25 3:18:01a •You cannot use your asklepian staff on yourself.
+10/12/25 3:18:01a You equip your moonstone.
+10/12/25 3:18:15a * Healing Vylarian 
+10/12/25 3:18:15a You equip your asklepian staff.
+10/12/25 3:18:16a You must equip your moonstone before it can be used.
+10/12/25 3:18:17a * Healing Vylarian 
+10/12/25 3:18:20a * Healing Unholy 
+10/12/25 3:18:20a •You cannot use your asklepian staff on yourself.
+10/12/25 3:18:20a You equip your moonstone.
+10/12/25 3:18:29a * Healing Vylarian 
+10/12/25 3:18:29a You equip your asklepian staff.
+10/12/25 3:18:30a You must equip your moonstone before it can be used.
+10/12/25 3:18:38a * Healing Unholy 
+10/12/25 3:18:38a •You cannot use your asklepian staff on yourself.
+10/12/25 3:18:38a You equip your moonstone.
+10/12/25 3:18:38a •The healing spell has been broken.
+10/12/25 3:19:25a •To heal yourself, type: \USE
+10/12/25 3:19:25a •To heal yourself three times, type: \USE 3
+10/12/25 3:19:26a •To heal yourself, type: \USE
+10/12/25 3:19:26a •To heal yourself three times, type: \USE 3
+10/12/25 3:19:28a * Healing Vylarian 
+10/12/25 3:19:29a You equip your asklepian staff.
+10/12/25 3:19:30a You must equip your moonstone before it can be used.
+10/12/25 3:19:30a You must equip your moonstone before it can be used.
+10/12/25 3:19:31a You must equip your moonstone before it can be used.
+10/12/25 3:19:31a * You recover the Grey Arachnoid mandibles, worth 3c. Your share is 2c.
+10/12/25 3:19:37a * Healing Unholy 
+10/12/25 3:19:38a •You cannot use your asklepian staff on yourself.
+10/12/25 3:19:38a You equip your moonstone.
+10/12/25 3:19:51a •To heal yourself, type: \USE
+10/12/25 3:19:51a •To heal yourself three times, type: \USE 3
+10/12/25 3:19:53a * Healing Vylarian 
+10/12/25 3:19:54a You equip your asklepian staff.
+10/12/25 3:19:55a You must equip your moonstone before it can be used.
+10/12/25 3:19:55a You must equip your moonstone before it can be used.
+10/12/25 3:20:10a * You recover the Blue Arachnoid mandibles, worth 3c. Your share is 2c.
+10/12/25 3:20:13a * Healing Unholy 
+10/12/25 3:20:14a •You cannot use your asklepian staff on yourself.
+10/12/25 3:20:14a You equip your moonstone.
+10/12/25 3:20:21a * Healing Vylarian 
+10/12/25 3:20:21a You equip your asklepian staff.
+10/12/25 3:20:22a You must equip your moonstone before it can be used.
+10/12/25 3:20:23a * You recover the Purple Arachnoid mandibles, worth 12c. Your share is 6c.
+10/12/25 3:20:29a * Healing Unholy 
+10/12/25 3:20:30a •You cannot use your asklepian staff on yourself.
+10/12/25 3:20:30a You equip your moonstone.
+10/12/25 3:20:33a * You recover the Purple Arachnoid mandibles, worth 4c. Your share is 2c.
+10/12/25 3:20:34a * Healing Vylarian 
+10/12/25 3:20:34a You equip your asklepian staff.
+10/12/25 3:20:35a You must equip your moonstone before it can be used.
+10/12/25 3:20:40a * Healing Unholy 
+10/12/25 3:20:40a •You cannot use your asklepian staff on yourself.
+10/12/25 3:20:41a You equip your moonstone.
+10/12/25 3:20:51a * Healing Vylarian 
+10/12/25 3:20:51a You equip your asklepian staff.
+10/12/25 3:20:52a You must equip your moonstone before it can be used.
+10/12/25 3:21:01a * Healing Unholy 
+10/12/25 3:21:01a •You cannot use your asklepian staff on yourself.
+10/12/25 3:21:01a You equip your moonstone.
+10/12/25 3:21:04a * Healing Vylarian 
+10/12/25 3:21:04a You equip your asklepian staff.
+10/12/25 3:21:05a You must equip your moonstone before it can be used.
+10/12/25 3:21:08a * Healing Unholy 
+10/12/25 3:21:09a •You cannot use your asklepian staff on yourself.
+10/12/25 3:21:09a You equip your moonstone.
+10/12/25 3:21:11a You have 1287 coins.
+10/12/25 3:21:17a * Healing Vylarian 
+10/12/25 3:21:17a You equip your asklepian staff.
+10/12/25 3:21:18a You must equip your moonstone before it can be used.
+10/12/25 3:21:19a You must equip your moonstone before it can be used.
+10/12/25 3:21:25a * Healing Unholy 
+10/12/25 3:21:25a •You cannot use your asklepian staff on yourself.
+10/12/25 3:21:25a You equip your moonstone.
+10/12/25 3:21:29a * You recover the Green Arachnoid mandibles, worth 5c. Your share is 3c.
+10/12/25 3:21:31a * Healing Vylarian 
+10/12/25 3:21:32a You equip your asklepian staff.
+10/12/25 3:21:32a You must equip your moonstone before it can be used.
+10/12/25 3:21:36a * Healing Unholy 
+10/12/25 3:21:36a •You cannot use your asklepian staff on yourself.
+10/12/25 3:21:37a You equip your moonstone.
+10/12/25 3:21:40a * You recover the Striped Arachnoid mandibles, worth 3c. Your share is 1c.
+10/12/25 3:21:51a * Healing Vylarian 
+10/12/25 3:21:51a You equip your asklepian staff.
+10/12/25 3:21:51a You must equip your moonstone before it can be used.
+10/12/25 3:22:01a * Healing Unholy 
+10/12/25 3:22:02a •You cannot use your asklepian staff on yourself.
+10/12/25 3:22:02a You equip your moonstone.
+10/12/25 3:22:10a * Vylarian recovers the Purple Arachnoid mandibles, worth 4c. Your share is 2c.
+10/12/25 3:22:16a * Healing Vylarian 
+10/12/25 3:22:16a You equip your asklepian staff.
+10/12/25 3:22:16a You must equip your moonstone before it can be used.
+10/12/25 3:22:26a Vylarian says, "bit of spirit recharge"
+10/12/25 3:22:35a Vylarian says, "good number of greens so far"
+10/12/25 3:23:03a Vylarian says, "i'll do jade as my last in family"
+10/12/25 3:23:25a Vylarian says, "k"
+10/12/25 3:23:26a Unholy says, ":/"
+10/12/25 3:23:29a Unholy says, ":)"
+10/12/25 3:23:34a Beer thinks, "heading to the champ place if I can find it"
+10/12/25 3:23:47a * Healing Unholy 
+10/12/25 3:23:47a •You cannot use your asklepian staff on yourself.
+10/12/25 3:23:48a You equip your moonstone.
+10/12/25 3:23:48a * Vylarian recovers the Blue Arachnoid mandibles, worth 3c. Your share is 1c.
+10/12/25 3:23:50a * Healing Vylarian 
+10/12/25 3:23:51a You equip your asklepian staff.
+10/12/25 3:23:51a You must equip your moonstone before it can be used.
+10/12/25 3:23:53a * Healing Vylarian 
+10/12/25 3:23:58a * Healing Unholy 
+10/12/25 3:23:58a •You cannot use your asklepian staff on yourself.
+10/12/25 3:23:58a You equip your moonstone.
+10/12/25 3:24:07a * Healing Vylarian 
+10/12/25 3:24:08a You equip your asklepian staff.
+10/12/25 3:24:08a You must equip your moonstone before it can be used.
+10/12/25 3:24:23a You have 1294 coins.
+10/12/25 3:24:30a * Healing Vylarian 
+10/12/25 3:25:11a * Vylarian recovers the Purple Arachnoid mandibles, worth 4c. Your share is 2c.
+10/12/25 3:25:20a •The healing spell has been broken.
+10/12/25 3:25:21a * Vylarian recovers the Striped Arachnoid mandibles, worth 2c. Your share is 1c.
+10/12/25 3:25:25a * You recover the Grey Arachnoid mandibles, worth 4c. Your share is 2c.
+10/12/25 3:25:25a * Healing Vylarian 
+10/12/25 3:25:40a * Healing Vylarian 
+10/12/25 3:26:06a * Healing Vylarian 
+10/12/25 3:26:12a * You recover the Green Arachnoid mandibles, worth 2c. Your share is 1c.
+10/12/25 3:26:16a Vylarian says, "done"
+10/12/25 3:26:19a Unholy says, "nice"
+10/12/25 3:26:24a * Healing Vylarian 
+10/12/25 3:26:29a * You recover the Arachne mandibles, worth 1c.
+10/12/25 3:26:35a * Vylarian recovers the Arachne mandibles, worth 1c. Your share is 1c.
+10/12/25 3:26:36a * You recover the Arachne mandibles, worth 1c.
+10/12/25 3:26:38a * Vylarian recovers the Arachne mandibles, worth 1c. Your share is 1c.
+10/12/25 3:26:43a Arachnoid says, "You should go back, the Kthk-t'kel is unhealthy to your kind."
+10/12/25 3:26:44a * You recover the Arachne mandibles, worth 1c.
+10/12/25 3:26:49a * You recover the Arachne mandibles, worth 1c.
+10/12/25 3:27:19a Vylarian asks, "you got time for a bit OC?"
+10/12/25 3:27:27a You have 1302 coins.
+10/12/25 3:27:37a Unholy says, "not really"
+10/12/25 3:27:40a Vylarian ponders, "lore tour soon"
+10/12/25 3:27:42a Vylarian says, "ok"
+10/12/25 3:27:44a Unholy says, "yeah"
+10/12/25 3:27:53a Vylarian enters a tunnel under the tree.
+10/12/25 3:28:01a * Vylarian recovers the Giant Vermine fur, worth 3c. Your share is 2c.
+10/12/25 3:28:03a * Vylarian recovers the Large Vermine fur, worth 1c. Your share is 1c.
+10/12/25 3:28:18a * You recover the Giant Vermine fur, worth 1c.
+10/12/25 3:28:33a Vylarian hops over the fence.
+10/12/25 3:28:35a Vylarian vaults the wall.
+10/12/25 3:28:54a • /SLEEP when you wish to begin studying

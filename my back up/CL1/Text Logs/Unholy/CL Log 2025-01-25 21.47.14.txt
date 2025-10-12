@@ -1,0 +1,2456 @@
+
+1/25/25 9:47:14p * Your healer's cloak is in very good condition.
+1/25/25 9:47:14p Welcome to Clan Lord, Unholy!
+1/25/25 9:47:14p Type \HELP for a list of commands.
+1/25/25 9:47:14p • You have been charged 52 coins for advanced studies.
+1/25/25 9:47:14p • You gain experience from your recent studies.
+1/25/25 9:47:14p Type /healer for commands if you forget
+1/25/25 9:47:15p Unholy is now Clanning.
+1/25/25 9:47:15p The healing spell has started.
+1/25/25 9:47:15p You have been studying for one day, 17 hours, 20 minutes.
+1/25/25 9:47:15p Friends online: none.
+1/25/25 9:47:17p It's 5:40pm on Lundi, day 35 of Spring, 640.
+1/25/25 9:47:19p There are two members of Black Phoenix clanning: Ceara and you.
+1/25/25 9:47:19p • What’s New: https://deltatao.com/clanlord/news
+1/25/25 9:47:28p * Tip of the day: /USEITEM pairofpants, /USEITEM "pair of pants", and /USEITEM LEGS all do the same thing. (Use /OPTIONS to turn tips off.)
+1/25/25 9:48:04p Pete McGyver says, "Hi Unholy! Let me know the name of the pet you'd like to get from the stables."
+1/25/25 9:48:04p Unholy says, "joel'kin"
+1/25/25 9:48:05p Pete McGyver exclaims, "There you go! Enjoy!"
+1/25/25 9:48:05p Pete McGyver says, "Hi Unholy! Let me know the name of the pet you'd like to get from the stables."
+1/25/25 9:48:06p Pete McGyver says, "Don't worry. Your pet will be happy here."
+1/25/25 9:48:07p Unholy whispers, "Attack"
+1/25/25 9:48:30p You slaughtered a Scavenger Bird.
+1/25/25 9:48:30p Joel'kin dispatched a Scavenger Bird.
+1/25/25 9:48:52p Kennod Barkle says, "I wonder what could be causing them."
+1/25/25 9:49:03p You slaughtered a Giant Slug.
+1/25/25 9:49:03p Joel'kin killed a Giant Slug.
+1/25/25 9:49:09p You have no 'asklepianstaff' to equip.
+1/25/25 9:49:20p You slaughtered a Rat.
+1/25/25 9:49:21p Joel'kin killed a Rat.
+1/25/25 9:49:22p You have no 'asklepianstaff' to equip.
+1/25/25 9:49:25p You slaughtered a Giant Slug.
+1/25/25 9:49:25p Joel'kin vanquished a Giant Slug!
+1/25/25 9:49:28p You slaughtered a Rat.
+1/25/25 9:49:28p Joel'kin killed a Rat.
+1/25/25 9:49:29p You slaughtered a Rat.
+1/25/25 9:49:29p Joel'kin killed a Rat.
+1/25/25 9:49:35p You slaughtered a Large Vermine.
+1/25/25 9:49:36p Joel'kin vanquished a Large Vermine!
+1/25/25 9:49:36p * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/25/25 9:49:38p You slaughtered a Rat.
+1/25/25 9:49:38p Joel'kin slaughtered a Rat.
+1/25/25 9:49:38p You slaughtered a Rat.
+1/25/25 9:49:38p Joel'kin slaughtered a Rat.
+1/25/25 9:49:47p You equip your moonstone.
+1/25/25 9:49:54p You slaughtered a Giant Vermine.
+1/25/25 9:49:54p Joel'kin vanquished a Giant Vermine!
+1/25/25 9:50:04p You have no 'asklepianstaff' to equip.
+1/25/25 9:50:04p •To heal yourself, type: \USE
+1/25/25 9:50:04p •To heal yourself three times, type: \USE 3
+1/25/25 9:50:07p You have no 'asklepianstaff' to equip.
+1/25/25 9:50:08p •To heal yourself, type: \USE
+1/25/25 9:50:08p •To heal yourself three times, type: \USE 3
+1/25/25 9:50:12p You equip your caduceus.
+1/25/25 9:50:13p You have no 'asklepianstaff' to equip.
+1/25/25 9:50:26p You slaughtered a Hooded Corpse.
+1/25/25 9:50:26p Joel'kin vanquished a Hooded Corpse!
+1/25/25 9:50:32p You equip your moonstone.
+1/25/25 9:50:32p •The healing spell has been broken.
+1/25/25 9:50:34p You slaughtered a Large Vermine.
+1/25/25 9:50:34p Joel'kin killed a Large Vermine.
+1/25/25 9:50:35p Joel'kin smells a quarry nearby.
+1/25/25 9:50:36p You have no 'asklepianstaff' to equip.
+1/25/25 9:50:37p •To heal yourself, type: \USE
+1/25/25 9:50:37p •To heal yourself three times, type: \USE 3
+1/25/25 9:50:40p You equip your caduceus.
+1/25/25 9:50:41p You have no 'asklepianstaff' to equip.
+1/25/25 9:50:44p You slaughtered a Large Vermine.
+1/25/25 9:50:44p Joel'kin vanquished a Large Vermine!
+1/25/25 9:50:44p * For recovering the fur, you gain experience.
+1/25/25 9:50:44p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/25/25 9:50:48p You slaughtered a Large Vermine.
+1/25/25 9:50:48p Joel'kin vanquished a Large Vermine!
+1/25/25 9:50:48p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/25/25 9:50:49p You equip your moonstone.
+1/25/25 9:50:49p •The healing spell has been broken.
+1/25/25 9:50:54p You slaughtered a Giant Vermine.
+1/25/25 9:50:55p Joel'kin vanquished a Giant Vermine!
+1/25/25 9:51:04p You slaughtered a Rat.
+1/25/25 9:51:04p Joel'kin killed a Rat.
+1/25/25 9:51:09p You slaughtered a Hooded Corpse.
+1/25/25 9:51:09p Joel'kin vanquished a Hooded Corpse!
+1/25/25 9:51:10p You slaughtered a Large Vermine.
+1/25/25 9:51:11p Joel'kin vanquished a Large Vermine!
+1/25/25 9:51:13p You slaughtered a Large Vermine.
+1/25/25 9:51:13p Joel'kin vanquished a Large Vermine!
+1/25/25 9:51:13p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/25/25 9:51:23p You slaughtered a Hooded Corpse.
+1/25/25 9:51:24p Joel'kin vanquished a Hooded Corpse!
+1/25/25 9:51:42p You have no 'asklepianstaff' to equip.
+1/25/25 9:51:43p •To heal yourself, type: \USE
+1/25/25 9:51:43p •To heal yourself three times, type: \USE 3
+1/25/25 9:51:45p You equip your caduceus.
+1/25/25 9:51:45p You have no 'asklepianstaff' to equip.
+1/25/25 9:51:52p You slaughtered a Rat.
+1/25/25 9:51:52p Joel'kin dispatched a Rat.
+1/25/25 9:51:58p You slaughtered a Hooded Corpse.
+1/25/25 9:51:58p Joel'kin vanquished a Hooded Corpse!
+1/25/25 9:51:59p You equip your moonstone.
+1/25/25 9:52:05p You slaughtered a Large Vermine.
+1/25/25 9:52:05p Joel'kin killed a Large Vermine.
+1/25/25 9:52:06p You slaughtered a Hooded Corpse.
+1/25/25 9:52:06p Joel'kin vanquished a Hooded Corpse!
+1/25/25 9:52:07p You slaughtered a Vermine.
+1/25/25 9:52:07p Joel'kin killed a Vermine.
+1/25/25 9:52:11p You slaughtered a Large Vermine.
+1/25/25 9:52:11p Joel'kin killed a Large Vermine.
+1/25/25 9:52:15p You have no 'asklepianstaff' to equip.
+1/25/25 9:52:15p •To heal yourself, type: \USE
+1/25/25 9:52:15p •To heal yourself three times, type: \USE 3
+1/25/25 9:52:17p You equip your caduceus.
+1/25/25 9:52:18p You have no 'asklepianstaff' to equip.
+1/25/25 9:52:35p You slaughtered a Large Vermine.
+1/25/25 9:52:35p Joel'kin killed a Large Vermine.
+1/25/25 9:53:27p ZipLock is now Clanning.
+1/25/25 9:53:35p You have 1290 coins.
+1/25/25 9:54:19p Joel'kin sharpens a rock.
+1/25/25 9:54:53p You have 1290 coins.
+1/25/25 9:55:00p •To heal from a distance, type: \USE <person>
+1/25/25 9:55:00p •To lock your healing to someone, type: \USE /lock or \USE /lock <person>
+1/25/25 9:55:00p •To unlock your healing, heal someone else or type: \USE /unlock or \USE /lock /off
+1/25/25 9:55:00p •To stop healing, unequip this, or type: \USE /off
+1/25/25 9:55:01p You slaughtered a Corpse Warrior.
+1/25/25 9:55:02p Joel'kin vanquished a Corpse Warrior!
+1/25/25 9:55:08p •You lock your healing to Joel'kin.
+1/25/25 9:55:24p You slaughtered a Detached Spirit.
+1/25/25 9:55:24p Joel'kin vanquished a Detached Spirit!
+1/25/25 9:55:25p Bastion is now Clanning.
+1/25/25 9:55:35p You slaughtered a Detached Spirit.
+1/25/25 9:55:36p Joel'kin vanquished a Detached Spirit!
+1/25/25 9:55:37p You slaughtered a Skeletal.
+1/25/25 9:55:37p Joel'kin killed a Skeletal.
+1/25/25 9:55:37p * Joel'kin grows stronger.
+1/25/25 9:55:44p You slaughtered a Detached Spirit.
+1/25/25 9:55:44p Joel'kin vanquished a Detached Spirit!
+1/25/25 9:55:55p You slaughtered a Skeletal.
+1/25/25 9:55:55p Joel'kin killed a Skeletal.
+1/25/25 9:56:02p You begin sharing your experiences with ZipLock.
+1/25/25 9:56:14p You have 1290 coins.
+1/25/25 9:57:34p You have 1290 coins.
+1/25/25 9:57:43p You slaughtered a Skeletal.
+1/25/25 9:57:43p Joel'kin vanquished a Skeletal!
+1/25/25 9:58:36p Joel'kin headbutts Unholy playfully.
+1/25/25 9:58:54p You have 1290 coins.
+1/25/25 9:59:52p You slaughtered an Ona Chigger.
+1/25/25 9:59:52p Joel'kin killed an Ona Chigger.
+1/25/25 10:00:14p You have 1290 coins.
+1/25/25 10:00:40p You slaughtered a Skeletal.
+1/25/25 10:00:40p Joel'kin killed a Skeletal.
+1/25/25 10:00:40p Joel'kin polishes his horns.
+1/25/25 10:00:43p You slaughtered a Skeletal.
+1/25/25 10:00:43p Joel'kin killed a Skeletal.
+1/25/25 10:01:34p You have 1290 coins.
+1/25/25 10:01:50p You slaughtered a Skeletal.
+1/25/25 10:01:50p Joel'kin killed a Skeletal.
+1/25/25 10:01:50p You slaughtered a Skeletal.
+1/25/25 10:01:51p Joel'kin killed a Skeletal.
+1/25/25 10:01:59p You slaughtered a Skeletal.
+1/25/25 10:01:59p Joel'kin vanquished a Skeletal!
+1/25/25 10:02:01p You slaughtered a Skeletal.
+1/25/25 10:02:02p Joel'kin killed a Skeletal.
+1/25/25 10:02:07p You slaughtered a Skeletal.
+1/25/25 10:02:07p Joel'kin killed a Skeletal.
+1/25/25 10:02:10p You slaughtered a Skeletal.
+1/25/25 10:02:10p Joel'kin vanquished a Skeletal!
+1/25/25 10:02:15p You slaughtered a Skeletal.
+1/25/25 10:02:15p Joel'kin killed a Skeletal.
+1/25/25 10:02:26p You slaughtered a Skeletal.
+1/25/25 10:02:26p Joel'kin killed a Skeletal.
+1/25/25 10:02:30p You slaughtered a Skeletal.
+1/25/25 10:02:31p Joel'kin killed a Skeletal.
+1/25/25 10:02:42p You slaughtered a Skeletal.
+1/25/25 10:02:42p Joel'kin killed a Skeletal.
+1/25/25 10:02:45p You slaughtered a Skeletal.
+1/25/25 10:02:45p Joel'kin vanquished a Skeletal!
+1/25/25 10:02:51p You slaughtered a Skeletal.
+1/25/25 10:02:51p Joel'kin vanquished a Skeletal!
+1/25/25 10:02:55p You have 1290 coins.
+1/25/25 10:02:55p You slaughtered a Skeletal.
+1/25/25 10:02:56p Joel'kin vanquished a Skeletal!
+1/25/25 10:03:06p You slaughtered a Skeletal.
+1/25/25 10:03:06p Joel'kin killed a Skeletal.
+1/25/25 10:03:12p You slaughtered a Skeletal.
+1/25/25 10:03:12p Joel'kin vanquished a Skeletal!
+1/25/25 10:03:21p You slaughtered a Skeletal.
+1/25/25 10:03:22p Joel'kin vanquished a Skeletal!
+1/25/25 10:03:27p You slaughtered a Skeletal.
+1/25/25 10:03:27p Joel'kin killed a Skeletal.
+1/25/25 10:03:40p You slaughtered a Skeletal.
+1/25/25 10:03:40p Joel'kin killed a Skeletal.
+1/25/25 10:03:42p You slaughtered a Skeletal.
+1/25/25 10:03:42p Joel'kin vanquished a Skeletal!
+1/25/25 10:03:49p You slaughtered a Skeletal.
+1/25/25 10:03:49p Joel'kin killed a Skeletal.
+1/25/25 10:03:49p A monster growls, "..."
+1/25/25 10:04:06p You slaughtered a Skeletal.
+1/25/25 10:04:06p Joel'kin killed a Skeletal.
+1/25/25 10:04:15p You have 1290 coins.
+1/25/25 10:04:23p You slaughtered a Detached Spirit.
+1/25/25 10:04:23p Joel'kin vanquished a Detached Spirit!
+1/25/25 10:04:29p You slaughtered a Skeletal.
+1/25/25 10:04:30p Joel'kin killed a Skeletal.
+1/25/25 10:04:38p Bastion is no longer Clanning.
+1/25/25 10:05:35p You have 1290 coins.
+1/25/25 10:05:43p A monster growls, "..."
+1/25/25 10:06:15p You slaughtered a Detached Spirit.
+1/25/25 10:06:15p Joel'kin vanquished a Detached Spirit!
+1/25/25 10:06:28p You slaughtered a Skeletal.
+1/25/25 10:06:28p Joel'kin killed a Skeletal.
+1/25/25 10:06:34p You slaughtered a Skeletal.
+1/25/25 10:06:34p Joel'kin killed a Skeletal.
+1/25/25 10:06:50p You slaughtered a Skeletal.
+1/25/25 10:06:50p Joel'kin killed a Skeletal.
+1/25/25 10:06:55p You have 1290 coins.
+1/25/25 10:06:58p You slaughtered a Skeletal.
+1/25/25 10:06:58p Joel'kin killed a Skeletal.
+1/25/25 10:07:02p You slaughtered a Skeletal.
+1/25/25 10:07:02p Joel'kin vanquished a Skeletal!
+1/25/25 10:07:35p You slaughtered a Skeletal.
+1/25/25 10:07:35p Joel'kin killed a Skeletal.
+1/25/25 10:07:35p Joel'kin emits a strong musky smell.
+1/25/25 10:08:13p You slaughtered a Hooded Corpse.
+1/25/25 10:08:13p Joel'kin vanquished a Hooded Corpse!
+1/25/25 10:08:15p You have 1290 coins.
+1/25/25 10:08:25p You slaughtered a Hooded Corpse.
+1/25/25 10:08:26p Joel'kin vanquished a Hooded Corpse!
+1/25/25 10:08:34p You slaughtered a Hooded Corpse.
+1/25/25 10:08:34p Joel'kin vanquished a Hooded Corpse!
+1/25/25 10:08:54p You slaughtered a Corpse Warrior.
+1/25/25 10:08:54p Joel'kin vanquished a Corpse Warrior!
+1/25/25 10:09:10p •The Sun sets.
+1/25/25 10:09:10p Joel'kin bangs on one of Unholy's cookpots.
+1/25/25 10:09:36p You have 1290 coins.
+1/25/25 10:10:56p You have 1290 coins.
+1/25/25 10:12:16p You have 1290 coins.
+1/25/25 10:12:17p •You do not have enough in you.
+1/25/25 10:13:36p You have 1290 coins.
+1/25/25 10:14:27p You equip your moonstone.
+1/25/25 10:14:56p You have 1290 coins.
+1/25/25 10:15:00p Unholy says, "come"
+1/25/25 10:15:05p You have no 'asklepianstaff' to equip.
+1/25/25 10:15:05p •To heal yourself, type: \USE
+1/25/25 10:15:05p •To heal yourself three times, type: \USE 3
+1/25/25 10:15:06p You equip your caduceus.
+1/25/25 10:15:07p You have no 'asklepianstaff' to equip.
+1/25/25 10:15:10p Unholy says, "come"
+1/25/25 10:15:11p Unholy says, "come"
+1/25/25 10:15:22p Unholy whispers, "Attack"
+1/25/25 10:15:22p Joel'kin stares at a pretty seashell.
+1/25/25 10:15:34p •You lock your healing to Joel'kin.
+1/25/25 10:15:36p You slaughtered a Corpse Warrior.
+1/25/25 10:15:36p Joel'kin vanquished a Corpse Warrior!
+1/25/25 10:15:49p You slaughtered a Skeletal.
+1/25/25 10:15:49p Joel'kin killed a Skeletal.
+1/25/25 10:15:56p You slaughtered a Hooded Corpse.
+1/25/25 10:15:57p Joel'kin vanquished a Hooded Corpse!
+1/25/25 10:16:17p You have 1290 coins.
+1/25/25 10:16:52p You slaughtered a Giant Skeletal.
+1/25/25 10:16:52p Joel'kin vanquished a Giant Skeletal!
+1/25/25 10:17:16p You slaughtered a Corpse Warrior.
+1/25/25 10:17:16p Joel'kin vanquished a Corpse Warrior!
+1/25/25 10:17:26p You slaughtered a Hooded Corpse.
+1/25/25 10:17:26p Joel'kin vanquished a Hooded Corpse!
+1/25/25 10:17:37p You have 1290 coins.
+1/25/25 10:17:39p Joel'kin smells a quarry nearby.
+1/25/25 10:17:52p You slaughtered a Corpse Warrior.
+1/25/25 10:17:52p Joel'kin vanquished a Corpse Warrior!
+1/25/25 10:18:02p You slaughtered a Hooded Corpse.
+1/25/25 10:18:02p Joel'kin vanquished a Hooded Corpse!
+1/25/25 10:18:07p You slaughtered a Skeletal.
+1/25/25 10:18:07p Joel'kin killed a Skeletal.
+1/25/25 10:18:26p You slaughtered a Skeletal.
+1/25/25 10:18:26p Joel'kin vanquished a Skeletal!
+1/25/25 10:18:31p You slaughtered a Hooded Corpse.
+1/25/25 10:18:31p Joel'kin vanquished a Hooded Corpse!
+1/25/25 10:18:44p You slaughtered a Skeletal.
+1/25/25 10:18:44p Joel'kin vanquished a Skeletal!
+1/25/25 10:18:57p You have 1290 coins.
+1/25/25 10:19:18p You slaughtered a Hooded Corpse.
+1/25/25 10:19:18p Joel'kin vanquished a Hooded Corpse!
+1/25/25 10:19:21p You slaughtered a Hooded Corpse.
+1/25/25 10:19:21p Joel'kin vanquished a Hooded Corpse!
+1/25/25 10:19:45p You slaughtered a Hooded Corpse.
+1/25/25 10:19:46p Joel'kin vanquished a Hooded Corpse!
+1/25/25 10:19:46p You slaughtered a Hooded Corpse.
+1/25/25 10:19:47p Joel'kin vanquished a Hooded Corpse!
+1/25/25 10:19:47p You slaughtered a Skeletal.
+1/25/25 10:19:48p Joel'kin vanquished a Skeletal!
+1/25/25 10:20:01p You slaughtered a Hooded Corpse.
+1/25/25 10:20:01p Joel'kin vanquished a Hooded Corpse!
+1/25/25 10:20:04p Snake is now Clanning.
+1/25/25 10:20:10p You slaughtered a Hooded Corpse.
+1/25/25 10:20:10p Joel'kin vanquished a Hooded Corpse!
+1/25/25 10:20:17p You have 1290 coins.
+1/25/25 10:20:42p Briol is no longer Clanning.
+1/25/25 10:20:49p You slaughtered a Corpse Warrior.
+1/25/25 10:20:50p Joel'kin vanquished a Corpse Warrior!
+1/25/25 10:20:50p You slaughtered a Corpse Warrior.
+1/25/25 10:20:51p Joel'kin vanquished a Corpse Warrior!
+1/25/25 10:21:08p You slaughtered a Corpse Warrior.
+1/25/25 10:21:08p Joel'kin vanquished a Corpse Warrior!
+1/25/25 10:21:18p You slaughtered a Skeletal.
+1/25/25 10:21:18p Joel'kin killed a Skeletal.
+1/25/25 10:21:21p You slaughtered a Skeletal.
+1/25/25 10:21:21p Joel'kin killed a Skeletal.
+1/25/25 10:21:24p Joel'kin grunts a simple song.
+1/25/25 10:21:37p You have 1290 coins.
+1/25/25 10:22:08p You slaughtered a Hooded Corpse.
+1/25/25 10:22:08p Joel'kin vanquished a Hooded Corpse!
+1/25/25 10:22:15p You slaughtered a Hooded Corpse.
+1/25/25 10:22:15p Joel'kin killed a Hooded Corpse.
+1/25/25 10:22:44p You slaughtered a Skeletal.
+1/25/25 10:22:44p Joel'kin vanquished a Skeletal!
+1/25/25 10:22:50p You slaughtered a Skeletal.
+1/25/25 10:22:50p Joel'kin killed a Skeletal.
+1/25/25 10:22:58p You slaughtered a Skeletal.
+1/25/25 10:22:58p You have 1290 coins.
+1/25/25 10:22:58p Joel'kin killed a Skeletal.
+1/25/25 10:23:04p You slaughtered a Skeletal.
+1/25/25 10:23:04p Joel'kin killed a Skeletal.
+1/25/25 10:23:13p You slaughtered a Skeletal.
+1/25/25 10:23:14p Joel'kin killed a Skeletal.
+1/25/25 10:23:15p You slaughtered a Skeletal.
+1/25/25 10:23:15p Joel'kin killed a Skeletal.
+1/25/25 10:23:45p You slaughtered a Detached Spirit.
+1/25/25 10:23:45p Joel'kin vanquished a Detached Spirit!
+1/25/25 10:23:51p Joel'kin grunts a simple song.
+1/25/25 10:23:52p You slaughtered a Detached Spirit.
+1/25/25 10:23:52p Joel'kin vanquished a Detached Spirit!
+1/25/25 10:23:58p You slaughtered a Hooded Corpse.
+1/25/25 10:23:59p Joel'kin killed a Hooded Corpse.
+1/25/25 10:24:05p You slaughtered a Skeletal.
+1/25/25 10:24:05p Joel'kin vanquished a Skeletal!
+1/25/25 10:24:11p You slaughtered a Skeletal.
+1/25/25 10:24:12p Joel'kin killed a Skeletal.
+1/25/25 10:24:12p * Joel'kin grows much stronger! (But you must go to the stable to train more.)
+1/25/25 10:24:18p You have 1290 coins.
+1/25/25 10:24:19p You slaughtered a Skeletal.
+1/25/25 10:24:19p Joel'kin killed a Skeletal.
+1/25/25 10:24:25p You slaughtered a Skeletal.
+1/25/25 10:24:25p Joel'kin killed a Skeletal.
+1/25/25 10:24:56p Joel'kin bangs two rocks together.
+1/25/25 10:24:59p You slaughtered a Skeletal.
+1/25/25 10:24:59p Joel'kin vanquished a Skeletal!
+1/25/25 10:25:20p •Joel'kin is too far away.
+1/25/25 10:25:38p You have 1290 coins.
+1/25/25 10:26:11p Unholy whispers, "Go home"
+1/25/25 10:26:15p Pete McGyver says, "Hi Unholy! Let me know the name of the pet you'd like to get from the stables."
+1/25/25 10:26:16p Unholy says, "joel'kin"
+1/25/25 10:26:16p Pete McGyver exclaims, "There you go! Enjoy!"
+1/25/25 10:26:17p Pete McGyver says, "Hi Unholy! Let me know the name of the pet you'd like to get from the stables."
+1/25/25 10:26:18p Pete McGyver says, "Don't worry. Your pet will be happy here."
+1/25/25 10:26:28p You slaughtered a Large Vermine.
+1/25/25 10:26:28p Joel'kin killed a Large Vermine.
+1/25/25 10:26:28p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/25/25 10:26:46p Unholy whispers, "Attack"
+1/25/25 10:26:48p You slaughtered a Large Vermine.
+1/25/25 10:26:48p Joel'kin dispatched a Large Vermine.
+1/25/25 10:26:56p You slaughtered a Vermine.
+1/25/25 10:26:56p Joel'kin slaughtered a Vermine.
+1/25/25 10:26:58p You have 1291 coins.
+1/25/25 10:26:59p •You lock your healing to Joel'kin.
+1/25/25 10:26:59p You slaughtered a Feral.
+1/25/25 10:26:59p Joel'kin killed a Feral.
+1/25/25 10:27:16p You slaughtered a Giant Slug.
+1/25/25 10:27:16p Joel'kin killed a Giant Slug.
+1/25/25 10:27:20p You slaughtered a Giant Slug.
+1/25/25 10:27:20p Joel'kin killed a Giant Slug.
+1/25/25 10:27:24p You slaughtered a Giant Vermine.
+1/25/25 10:27:24p Joel'kin killed a Giant Vermine.
+1/25/25 10:27:24p * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+1/25/25 10:27:28p You slaughtered a Large Vermine.
+1/25/25 10:27:28p Joel'kin killed a Large Vermine.
+1/25/25 10:27:29p You slaughtered a Rat.
+1/25/25 10:27:29p Joel'kin slaughtered a Rat.
+1/25/25 10:27:33p You slaughtered a Large Vermine.
+1/25/25 10:27:33p Joel'kin killed a Large Vermine.
+1/25/25 10:27:33p * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/25/25 10:27:48p You slaughtered a Large Vermine.
+1/25/25 10:27:48p Joel'kin dispatched a Large Vermine.
+1/25/25 10:27:53p •You do not have enough spiritual energy.
+1/25/25 10:27:58p •You lock your healing to Joel'kin.
+1/25/25 10:28:11p You slaughtered a Detached Spirit.
+1/25/25 10:28:11p Joel'kin killed a Detached Spirit.
+1/25/25 10:28:18p You have 1294 coins.
+1/25/25 10:28:20p •You gain experience.
+1/25/25 10:28:36p You slaughtered a Hooded Corpse.
+1/25/25 10:28:36p Joel'kin killed a Hooded Corpse.
+1/25/25 10:28:41p You slaughtered a Hooded Corpse.
+1/25/25 10:28:41p Joel'kin killed a Hooded Corpse.
+1/25/25 10:28:46p You slaughtered a Hooded Corpse.
+1/25/25 10:28:46p Joel'kin killed a Hooded Corpse.
+1/25/25 10:29:08p Joel'kin admires a pretty rock.
+1/25/25 10:29:09p You slaughtered a Hooded Corpse.
+1/25/25 10:29:09p Joel'kin killed a Hooded Corpse.
+1/25/25 10:29:14p You slaughtered a Hooded Corpse.
+1/25/25 10:29:14p Joel'kin killed a Hooded Corpse.
+1/25/25 10:29:19p You slaughtered a Hooded Corpse.
+1/25/25 10:29:19p Joel'kin killed a Hooded Corpse.
+1/25/25 10:29:23p You slaughtered a Large Vermine.
+1/25/25 10:29:24p Joel'kin killed a Large Vermine.
+1/25/25 10:29:29p You slaughtered a Skeletal.
+1/25/25 10:29:29p Joel'kin killed a Skeletal.
+1/25/25 10:29:34p You slaughtered a Skeletal.
+1/25/25 10:29:34p Joel'kin killed a Skeletal.
+1/25/25 10:29:39p You have 1294 coins.
+1/25/25 10:29:41p You slaughtered a Hooded Corpse.
+1/25/25 10:29:42p Joel'kin killed a Hooded Corpse.
+1/25/25 10:29:51p You slaughtered a Hooded Corpse.
+1/25/25 10:29:51p Joel'kin killed a Hooded Corpse.
+1/25/25 10:30:17p Lightbringer is now Clanning.
+1/25/25 10:30:36p You slaughtered a Detached Spirit.
+1/25/25 10:30:37p Joel'kin killed a Detached Spirit.
+1/25/25 10:30:37p Pendarric is now Clanning.
+1/25/25 10:30:39p Big Boy is now Clanning.
+1/25/25 10:30:59p You have 1294 coins.
+1/25/25 10:31:03p You slaughtered a Corpse Warrior.
+1/25/25 10:31:04p Joel'kin killed a Corpse Warrior.
+1/25/25 10:31:09p You slaughtered a Detached Spirit.
+1/25/25 10:31:09p Joel'kin vanquished a Detached Spirit!
+1/25/25 10:31:31p You slaughtered a Skeletal.
+1/25/25 10:31:31p Joel'kin killed a Skeletal.
+1/25/25 10:32:19p You have 1294 coins.
+1/25/25 10:32:30p You slaughtered a Corpse Warrior.
+1/25/25 10:32:30p Joel'kin vanquished a Corpse Warrior!
+1/25/25 10:32:57p You slaughtered a Giant Skeletal.
+1/25/25 10:32:58p Joel'kin vanquished a Giant Skeletal!
+1/25/25 10:32:58p Joel'kin keeps watch for danger.
+1/25/25 10:33:08p You slaughtered a Giant Skeletal.
+1/25/25 10:33:08p Joel'kin killed a Giant Skeletal.
+1/25/25 10:33:16p You slaughtered a Giant Skeletal.
+1/25/25 10:33:16p Joel'kin killed a Giant Skeletal.
+1/25/25 10:33:30p You slaughtered a Giant Skeletal.
+1/25/25 10:33:30p Joel'kin killed a Giant Skeletal.
+1/25/25 10:33:36p You slaughtered a Giant Skeletal.
+1/25/25 10:33:36p Joel'kin killed a Giant Skeletal.
+1/25/25 10:33:39p You have 1294 coins.
+1/25/25 10:33:41p You slaughtered a Corpse Warrior.
+1/25/25 10:33:41p Joel'kin killed a Corpse Warrior.
+1/25/25 10:33:51p You slaughtered a Giant Skeletal.
+1/25/25 10:33:51p Joel'kin vanquished a Giant Skeletal!
+1/25/25 10:34:06p You slaughtered a Corpse Warrior.
+1/25/25 10:34:06p Joel'kin vanquished a Corpse Warrior!
+1/25/25 10:34:30p You slaughtered a Hooded Corpse.
+1/25/25 10:34:30p Joel'kin killed a Hooded Corpse.
+1/25/25 10:34:33p You slaughtered a Hooded Corpse.
+1/25/25 10:34:33p Joel'kin killed a Hooded Corpse.
+1/25/25 10:34:42p You slaughtered a Hooded Corpse.
+1/25/25 10:34:43p Joel'kin slaughtered a Hooded Corpse.
+1/25/25 10:34:49p Joel'kin juggles small pebbles.
+1/25/25 10:34:59p You have 1294 coins.
+1/25/25 10:35:12p You slaughtered a Corpse Warrior.
+1/25/25 10:35:13p Joel'kin vanquished a Corpse Warrior!
+1/25/25 10:35:19p You slaughtered a Corpse Warrior.
+1/25/25 10:35:19p Joel'kin vanquished a Corpse Warrior!
+1/25/25 10:35:35p You slaughtered a Corpse Warrior.
+1/25/25 10:35:35p Joel'kin killed a Corpse Warrior.
+1/25/25 10:35:37p You slaughtered a Hooded Corpse.
+1/25/25 10:35:38p Joel'kin killed a Hooded Corpse.
+1/25/25 10:35:47p You slaughtered a Corpse Warrior.
+1/25/25 10:35:47p Joel'kin killed a Corpse Warrior.
+1/25/25 10:36:09p You slaughtered a Hooded Corpse.
+1/25/25 10:36:09p Joel'kin killed a Hooded Corpse.
+1/25/25 10:36:20p You have 1294 coins.
+1/25/25 10:36:39p You slaughtered a Giant Skeletal.
+1/25/25 10:36:39p Joel'kin killed a Giant Skeletal.
+1/25/25 10:36:53p You slaughtered a Giant Skeletal.
+1/25/25 10:36:53p Joel'kin killed a Giant Skeletal.
+1/25/25 10:37:18p You slaughtered a Giant Skeletal.
+1/25/25 10:37:18p Joel'kin killed a Giant Skeletal.
+1/25/25 10:37:20p Joel'kin polishes his horns.
+1/25/25 10:37:39p You slaughtered a Corpse Warrior.
+1/25/25 10:37:39p Joel'kin killed a Corpse Warrior.
+1/25/25 10:37:40p You have 1294 coins.
+1/25/25 10:37:45p You slaughtered a Corpse Warrior.
+1/25/25 10:37:45p Joel'kin vanquished a Corpse Warrior!
+1/25/25 10:37:58p You slaughtered a Hooded Corpse.
+1/25/25 10:37:59p Joel'kin killed a Hooded Corpse.
+1/25/25 10:38:12p You slaughtered a Corpse Warrior.
+1/25/25 10:38:12p Joel'kin killed a Corpse Warrior.
+1/25/25 10:38:18p You slaughtered a Hooded Corpse.
+1/25/25 10:38:18p Joel'kin slaughtered a Hooded Corpse.
+1/25/25 10:38:33p You slaughtered a Corpse Warrior.
+1/25/25 10:38:33p Joel'kin killed a Corpse Warrior.
+1/25/25 10:38:39p You slaughtered a Hooded Corpse.
+1/25/25 10:38:39p Joel'kin killed a Hooded Corpse.
+1/25/25 10:38:42p Joel'kin picks his nose.
+1/25/25 10:39:00p You have 1294 coins.
+1/25/25 10:39:50p You slaughtered a Hooded Corpse.
+1/25/25 10:39:51p Joel'kin killed a Hooded Corpse.
+1/25/25 10:40:20p You have 1294 coins.
+1/25/25 10:40:31p You slaughtered a Hooded Corpse.
+1/25/25 10:40:31p Joel'kin killed a Hooded Corpse.
+1/25/25 10:40:49p You slaughtered a Hooded Corpse.
+1/25/25 10:40:50p Joel'kin killed a Hooded Corpse.
+1/25/25 10:41:14p You slaughtered a Hooded Corpse.
+1/25/25 10:41:14p Joel'kin killed a Hooded Corpse.
+1/25/25 10:41:23p You slaughtered a Skeletal.
+1/25/25 10:41:23p Joel'kin dispatched a Skeletal.
+1/25/25 10:41:26p You slaughtered a Hooded Corpse.
+1/25/25 10:41:26p Joel'kin dispatched a Hooded Corpse.
+1/25/25 10:41:28p You slaughtered a Hooded Corpse.
+1/25/25 10:41:29p Joel'kin killed a Hooded Corpse.
+1/25/25 10:41:40p You have 1294 coins.
+1/25/25 10:42:33p You slaughtered a Corpse Warrior.
+1/25/25 10:42:33p Joel'kin killed a Corpse Warrior.
+1/25/25 10:42:46p You slaughtered a Corpse Warrior.
+1/25/25 10:42:47p Joel'kin vanquished a Corpse Warrior!
+1/25/25 10:42:58p You slaughtered a Corpse Warrior.
+1/25/25 10:42:58p Joel'kin killed a Corpse Warrior.
+1/25/25 10:43:01p You have 1294 coins.
+1/25/25 10:43:12p You slaughtered a Skeletal.
+1/25/25 10:43:12p Joel'kin slaughtered a Skeletal.
+1/25/25 10:43:39p You slaughtered a Skeletal.
+1/25/25 10:43:39p Joel'kin slaughtered a Skeletal.
+1/25/25 10:44:09p Jeepers is now Clanning.
+1/25/25 10:44:21p You have 1294 coins.
+1/25/25 10:44:27p Jeepers is no longer Clanning.
+1/25/25 10:44:56p You slaughtered a Corpse Warrior.
+1/25/25 10:44:56p Joel'kin killed a Corpse Warrior.
+1/25/25 10:45:05p You slaughtered a Corpse Warrior.
+1/25/25 10:45:05p Joel'kin vanquished a Corpse Warrior!
+1/25/25 10:45:28p You slaughtered a Corpse Warrior.
+1/25/25 10:45:28p Joel'kin killed a Corpse Warrior.
+1/25/25 10:45:30p You slaughtered a Hooded Corpse.
+1/25/25 10:45:30p Joel'kin killed a Hooded Corpse.
+1/25/25 10:45:41p You have 1294 coins.
+1/25/25 10:46:22p You slaughtered a Hooded Corpse.
+1/25/25 10:46:23p Joel'kin killed a Hooded Corpse.
+1/25/25 10:46:29p You slaughtered a Hooded Corpse.
+1/25/25 10:46:30p Joel'kin killed a Hooded Corpse.
+1/25/25 10:46:43p Joel'kin lifts his nose to the wind.
+1/25/25 10:46:51p You slaughtered a Hooded Corpse.
+1/25/25 10:46:51p Joel'kin killed a Hooded Corpse.
+1/25/25 10:46:56p You slaughtered a Skeletal.
+1/25/25 10:46:57p Joel'kin dispatched a Skeletal.
+1/25/25 10:47:01p You have 1294 coins.
+1/25/25 10:47:02p You slaughtered a Hooded Corpse.
+1/25/25 10:47:02p Joel'kin killed a Hooded Corpse.
+1/25/25 10:47:06p You slaughtered a Skeletal.
+1/25/25 10:47:06p Joel'kin slaughtered a Skeletal.
+1/25/25 10:47:11p You slaughtered a Skeletal.
+1/25/25 10:47:12p Joel'kin killed a Skeletal.
+1/25/25 10:47:19p You slaughtered a Hooded Corpse.
+1/25/25 10:47:20p Joel'kin killed a Hooded Corpse.
+1/25/25 10:47:29p You slaughtered a Hooded Corpse.
+1/25/25 10:47:29p Joel'kin killed a Hooded Corpse.
+1/25/25 10:47:42p You slaughtered a Corpse Warrior.
+1/25/25 10:47:43p Joel'kin vanquished a Corpse Warrior!
+1/25/25 10:47:58p You slaughtered a Corpse Warrior.
+1/25/25 10:47:59p Joel'kin vanquished a Corpse Warrior!
+1/25/25 10:48:08p You slaughtered a Corpse Warrior.
+1/25/25 10:48:08p Joel'kin killed a Corpse Warrior.
+1/25/25 10:48:21p You slaughtered a Hooded Corpse.
+1/25/25 10:48:21p Joel'kin killed a Hooded Corpse.
+1/25/25 10:48:21p You have 1294 coins.
+1/25/25 10:48:32p You slaughtered a Hooded Corpse.
+1/25/25 10:48:32p Joel'kin killed a Hooded Corpse.
+1/25/25 10:48:32p Joel'kin emits a strong musky smell.
+1/25/25 10:48:53p You slaughtered a Corpse Warrior.
+1/25/25 10:48:53p Joel'kin vanquished a Corpse Warrior!
+1/25/25 10:49:02p You slaughtered a Corpse Warrior.
+1/25/25 10:49:02p Joel'kin vanquished a Corpse Warrior!
+1/25/25 10:49:08p Karina is now Clanning.
+1/25/25 10:49:42p You have 1294 coins.
+1/25/25 10:50:07p Karina is no longer Clanning.
+1/25/25 10:50:59p You slaughtered a Detached Spirit.
+1/25/25 10:50:59p Joel'kin killed a Detached Spirit.
+1/25/25 10:51:02p You have 1294 coins.
+1/25/25 10:51:20p You slaughtered a Skeletal.
+1/25/25 10:51:21p Joel'kin dispatched a Skeletal.
+1/25/25 10:51:39p Joel'kin sharpens a rock.
+1/25/25 10:52:04p You slaughtered a Hooded Corpse.
+1/25/25 10:52:04p Joel'kin killed a Hooded Corpse.
+1/25/25 10:52:13p You slaughtered a Hooded Corpse.
+1/25/25 10:52:13p Joel'kin killed a Hooded Corpse.
+1/25/25 10:52:21p You slaughtered a Hooded Corpse.
+1/25/25 10:52:21p Joel'kin killed a Hooded Corpse.
+1/25/25 10:52:22p You have 1294 coins.
+1/25/25 10:52:42p Pendarric is no longer Clanning.
+1/25/25 10:52:44p You slaughtered a Hooded Corpse.
+1/25/25 10:52:44p Joel'kin killed a Hooded Corpse.
+1/25/25 10:53:00p Lightbringer is no longer Clanning.
+1/25/25 10:53:16p You slaughtered a Hooded Corpse.
+1/25/25 10:53:16p Joel'kin killed a Hooded Corpse.
+1/25/25 10:53:42p You have 1294 coins.
+1/25/25 10:53:43p You slaughtered a Hooded Corpse.
+1/25/25 10:53:43p Joel'kin killed a Hooded Corpse.
+1/25/25 10:53:49p You slaughtered a Hooded Corpse.
+1/25/25 10:53:49p Joel'kin killed a Hooded Corpse.
+1/25/25 10:53:54p You slaughtered a Hooded Corpse.
+1/25/25 10:53:54p Joel'kin killed a Hooded Corpse.
+1/25/25 10:54:01p You slaughtered a Hooded Corpse.
+1/25/25 10:54:01p Joel'kin killed a Hooded Corpse.
+1/25/25 10:54:05p You slaughtered a Hooded Corpse.
+1/25/25 10:54:05p Joel'kin dispatched a Hooded Corpse.
+1/25/25 10:54:13p Bastion is now Clanning.
+1/25/25 10:54:35p Joel'kin keeps watch for danger.
+1/25/25 10:54:36p You slaughtered a Hooded Corpse.
+1/25/25 10:54:36p Joel'kin killed a Hooded Corpse.
+1/25/25 10:54:47p You slaughtered a Hooded Corpse.
+1/25/25 10:54:48p Joel'kin killed a Hooded Corpse.
+1/25/25 10:55:02p You have 1294 coins.
+1/25/25 10:55:11p You slaughtered a Hooded Corpse.
+1/25/25 10:55:11p Joel'kin vanquished a Hooded Corpse!
+1/25/25 10:55:25p You slaughtered a Hooded Corpse.
+1/25/25 10:55:26p Joel'kin killed a Hooded Corpse.
+1/25/25 10:55:31p You slaughtered a Hooded Corpse.
+1/25/25 10:55:31p Joel'kin killed a Hooded Corpse.
+1/25/25 10:55:46p You slaughtered a Hooded Corpse.
+1/25/25 10:55:47p Joel'kin killed a Hooded Corpse.
+1/25/25 10:55:59p You slaughtered a Hooded Corpse.
+1/25/25 10:55:59p Joel'kin killed a Hooded Corpse.
+1/25/25 10:56:09p Joel'kin lifts his nose to the wind.
+1/25/25 10:56:23p You have 1294 coins.
+1/25/25 10:56:23p You slaughtered a Hooded Corpse.
+1/25/25 10:56:24p Joel'kin dispatched a Hooded Corpse.
+1/25/25 10:56:37p You slaughtered a Hooded Corpse.
+1/25/25 10:56:38p Joel'kin killed a Hooded Corpse.
+1/25/25 10:56:56p You slaughtered a Hooded Corpse.
+1/25/25 10:56:56p Joel'kin killed a Hooded Corpse.
+1/25/25 10:57:08p You slaughtered a Hooded Corpse.
+1/25/25 10:57:08p Joel'kin killed a Hooded Corpse.
+1/25/25 10:57:18p You slaughtered a Hooded Corpse.
+1/25/25 10:57:18p Joel'kin killed a Hooded Corpse.
+1/25/25 10:57:30p You slaughtered a Hooded Corpse.
+1/25/25 10:57:31p Joel'kin killed a Hooded Corpse.
+1/25/25 10:57:43p You have 1294 coins.
+1/25/25 10:59:03p You have 1294 coins.
+1/25/25 10:59:15p You slaughtered a Hooded Corpse.
+1/25/25 10:59:15p Joel'kin killed a Hooded Corpse.
+1/25/25 10:59:20p You slaughtered a Hooded Corpse.
+1/25/25 10:59:21p Joel'kin killed a Hooded Corpse.
+1/25/25 10:59:25p You slaughtered a Hooded Corpse.
+1/25/25 10:59:25p Joel'kin dispatched a Hooded Corpse.
+1/25/25 10:59:27p •You gain experience.
+1/25/25 10:59:35p Eli is now Clanning.
+1/25/25 10:59:37p You slaughtered a Hooded Corpse.
+1/25/25 10:59:37p Joel'kin killed a Hooded Corpse.
+1/25/25 10:59:37p Joel'kin emits a strong musky smell.
+1/25/25 10:59:47p You slaughtered a Hooded Corpse.
+1/25/25 10:59:47p Joel'kin killed a Hooded Corpse.
+1/25/25 11:00:02p Bingro is now Clanning.
+1/25/25 11:00:15p You slaughtered a Hooded Corpse.
+1/25/25 11:00:15p Joel'kin killed a Hooded Corpse.
+1/25/25 11:00:23p You have 1294 coins.
+1/25/25 11:00:29p You slaughtered a Hooded Corpse.
+1/25/25 11:00:29p Joel'kin killed a Hooded Corpse.
+1/25/25 11:00:31p Lanskar is no longer Clanning.
+1/25/25 11:00:42p You slaughtered a Hooded Corpse.
+1/25/25 11:00:42p Joel'kin killed a Hooded Corpse.
+1/25/25 11:00:46p You slaughtered a Detached Spirit.
+1/25/25 11:00:46p Joel'kin killed a Detached Spirit.
+1/25/25 11:00:46p Dracula thinks, "buying fox cloak 100k! :P"
+1/25/25 11:00:58p You slaughtered a Hooded Corpse.
+1/25/25 11:00:58p Joel'kin killed a Hooded Corpse.
+1/25/25 11:01:05p Joel'kin bangs on one of Unholy's cookpots.
+1/25/25 11:01:07p You slaughtered a Hooded Corpse.
+1/25/25 11:01:08p Joel'kin killed a Hooded Corpse.
+1/25/25 11:01:18p You slaughtered a Hooded Corpse.
+1/25/25 11:01:18p Joel'kin killed a Hooded Corpse.
+1/25/25 11:01:23p You slaughtered a Hooded Corpse.
+1/25/25 11:01:23p Joel'kin killed a Hooded Corpse.
+1/25/25 11:01:35p You slaughtered a Hooded Corpse.
+1/25/25 11:01:35p Joel'kin killed a Hooded Corpse.
+1/25/25 11:01:43p You have 1294 coins.
+1/25/25 11:01:48p You slaughtered a Hooded Corpse.
+1/25/25 11:01:48p Joel'kin killed a Hooded Corpse.
+1/25/25 11:01:58p You slaughtered a Hooded Corpse.
+1/25/25 11:01:58p Joel'kin killed a Hooded Corpse.
+1/25/25 11:02:07p You slaughtered a Skeletal.
+1/25/25 11:02:07p Joel'kin killed a Skeletal.
+1/25/25 11:02:40p You slaughtered a Skeletal.
+1/25/25 11:02:41p Joel'kin killed a Skeletal.
+1/25/25 11:03:04p You have 1294 coins.
+1/25/25 11:03:09p You slaughtered a Detached Spirit.
+1/25/25 11:03:09p Joel'kin killed a Detached Spirit.
+1/25/25 11:03:24p Joel'kin stares at a pretty seashell.
+1/25/25 11:04:14p Big Boy is no longer Clanning.
+1/25/25 11:04:24p You have 1294 coins.
+1/25/25 11:04:59p You slaughtered a Corpse Warrior.
+1/25/25 11:04:59p Joel'kin killed a Corpse Warrior.
+1/25/25 11:05:17p You slaughtered a Corpse Warrior.
+1/25/25 11:05:17p Joel'kin vanquished a Corpse Warrior!
+1/25/25 11:05:30p You slaughtered a Corpse Warrior.
+1/25/25 11:05:30p Joel'kin vanquished a Corpse Warrior!
+1/25/25 11:05:44p You have 1294 coins.
+1/25/25 11:06:11p Joel'kin displays his tusks.
+1/25/25 11:07:04p You slaughtered a Giant Skeletal.
+1/25/25 11:07:04p Joel'kin killed a Giant Skeletal.
+1/25/25 11:07:04p You have 1294 coins.
+1/25/25 11:07:06p You slaughtered a Giant Skeletal.
+1/25/25 11:07:06p Joel'kin killed a Giant Skeletal.
+1/25/25 11:07:23p Joel'kin stares at a pretty seashell.
+1/25/25 11:07:25p You slaughtered a Hooded Corpse.
+1/25/25 11:07:25p Joel'kin killed a Hooded Corpse.
+1/25/25 11:07:34p You slaughtered a Hooded Corpse.
+1/25/25 11:07:34p Joel'kin killed a Hooded Corpse.
+1/25/25 11:07:45p You slaughtered a Hooded Corpse.
+1/25/25 11:07:46p Joel'kin killed a Hooded Corpse.
+1/25/25 11:07:59p You slaughtered a Hooded Corpse.
+1/25/25 11:07:59p Joel'kin killed a Hooded Corpse.
+1/25/25 11:08:02p Bastion is no longer Clanning.
+1/25/25 11:08:11p You slaughtered a Hooded Corpse.
+1/25/25 11:08:11p Joel'kin killed a Hooded Corpse.
+1/25/25 11:08:24p You have 1294 coins.
+1/25/25 11:08:27p You slaughtered a Hooded Corpse.
+1/25/25 11:08:27p Joel'kin killed a Hooded Corpse.
+1/25/25 11:09:11p You slaughtered a Hooded Corpse.
+1/25/25 11:09:11p Joel'kin killed a Hooded Corpse.
+1/25/25 11:09:26p You slaughtered a Hooded Corpse.
+1/25/25 11:09:26p Joel'kin killed a Hooded Corpse.
+1/25/25 11:09:30p You slaughtered a Hooded Corpse.
+1/25/25 11:09:31p Joel'kin killed a Hooded Corpse.
+1/25/25 11:09:36p Eli is no longer Clanning.
+1/25/25 11:09:44p You slaughtered a Hooded Corpse.
+1/25/25 11:09:44p Joel'kin killed a Hooded Corpse.
+1/25/25 11:09:45p You have 1294 coins.
+1/25/25 11:09:49p Joel'kin grunts.
+1/25/25 11:10:04p You slaughtered a Giant Skeletal.
+1/25/25 11:10:05p Joel'kin killed a Giant Skeletal.
+1/25/25 11:10:20p You slaughtered a Hooded Corpse.
+1/25/25 11:10:20p Joel'kin killed a Hooded Corpse.
+1/25/25 11:10:53p You slaughtered a Hooded Corpse.
+1/25/25 11:10:53p Joel'kin killed a Hooded Corpse.
+1/25/25 11:10:53p * Joel'kin grows stronger.
+1/25/25 11:10:57p You slaughtered a Hooded Corpse.
+1/25/25 11:10:57p Joel'kin killed a Hooded Corpse.
+1/25/25 11:11:05p You have 1294 coins.
+1/25/25 11:11:25p Joel'kin lifts his nose to the wind.
+1/25/25 11:11:27p You slaughtered a Hooded Corpse.
+1/25/25 11:11:27p Joel'kin killed a Hooded Corpse.
+1/25/25 11:11:29p You slaughtered a Hooded Corpse.
+1/25/25 11:11:30p Joel'kin killed a Hooded Corpse.
+1/25/25 11:11:35p You slaughtered a Hooded Corpse.
+1/25/25 11:11:35p Joel'kin killed a Hooded Corpse.
+1/25/25 11:11:38p You slaughtered a Hooded Corpse.
+1/25/25 11:11:38p Joel'kin killed a Hooded Corpse.
+1/25/25 11:11:50p You slaughtered a Giant Skeletal.
+1/25/25 11:11:50p Joel'kin killed a Giant Skeletal.
+1/25/25 11:11:56p You slaughtered a Hooded Corpse.
+1/25/25 11:11:56p Joel'kin killed a Hooded Corpse.
+1/25/25 11:12:06p You slaughtered a Giant Skeletal.
+1/25/25 11:12:06p Joel'kin killed a Giant Skeletal.
+1/25/25 11:12:12p You slaughtered a Skeletal.
+1/25/25 11:12:12p Joel'kin killed a Skeletal.
+1/25/25 11:12:17p You slaughtered a Skeletal.
+1/25/25 11:12:17p Joel'kin killed a Skeletal.
+1/25/25 11:12:25p Joel'kin emits a strong musky smell.
+1/25/25 11:12:25p You have 1294 coins.
+1/25/25 11:12:28p You slaughtered a Skeletal.
+1/25/25 11:12:28p Joel'kin slaughtered a Skeletal.
+1/25/25 11:12:44p You slaughtered a Skeletal.
+1/25/25 11:12:44p Joel'kin slaughtered a Skeletal.
+1/25/25 11:13:03p You slaughtered a Hooded Corpse.
+1/25/25 11:13:03p Joel'kin killed a Hooded Corpse.
+1/25/25 11:13:15p You slaughtered a Hooded Corpse.
+1/25/25 11:13:15p Joel'kin slaughtered a Hooded Corpse.
+1/25/25 11:13:26p You slaughtered a Hooded Corpse.
+1/25/25 11:13:26p Joel'kin vanquished a Hooded Corpse!
+1/25/25 11:13:33p You slaughtered a Hooded Corpse.
+1/25/25 11:13:34p Joel'kin killed a Hooded Corpse.
+1/25/25 11:13:45p You have 1294 coins.
+1/25/25 11:13:50p You slaughtered a Hooded Corpse.
+1/25/25 11:13:50p Joel'kin killed a Hooded Corpse.
+1/25/25 11:13:54p You slaughtered a Giant Skeletal.
+1/25/25 11:13:54p Joel'kin killed a Giant Skeletal.
+1/25/25 11:13:57p You slaughtered a Hooded Corpse.
+1/25/25 11:13:57p Joel'kin dispatched a Hooded Corpse.
+1/25/25 11:15:05p You have 1294 coins.
+1/25/25 11:15:20p You slaughtered a Detached Spirit.
+1/25/25 11:15:20p Joel'kin killed a Detached Spirit.
+1/25/25 11:15:20p Joel'kin juggles small pebbles.
+1/25/25 11:15:22p You slaughtered a Skeletal.
+1/25/25 11:15:22p Joel'kin killed a Skeletal.
+1/25/25 11:15:27p You slaughtered a Skeletal.
+1/25/25 11:15:28p Joel'kin killed a Skeletal.
+1/25/25 11:15:34p You slaughtered a Skeletal.
+1/25/25 11:15:34p Joel'kin killed a Skeletal.
+1/25/25 11:15:35p You slaughtered a Skeletal.
+1/25/25 11:15:35p Joel'kin slaughtered a Skeletal.
+1/25/25 11:15:39p You slaughtered a Skeletal.
+1/25/25 11:15:39p Joel'kin slaughtered a Skeletal.
+1/25/25 11:15:46p You slaughtered a Skeletal.
+1/25/25 11:15:46p Joel'kin slaughtered a Skeletal.
+1/25/25 11:15:52p You slaughtered a Skeletal.
+1/25/25 11:15:52p Joel'kin slaughtered a Skeletal.
+1/25/25 11:16:00p You slaughtered a Skeletal.
+1/25/25 11:16:00p Joel'kin slaughtered a Skeletal.
+1/25/25 11:16:21p You slaughtered a Detached Spirit.
+1/25/25 11:16:21p Joel'kin killed a Detached Spirit.
+1/25/25 11:16:22p You slaughtered a Detached Spirit.
+1/25/25 11:16:23p Joel'kin killed a Detached Spirit.
+1/25/25 11:16:26p You have 1294 coins.
+1/25/25 11:16:29p You slaughtered a Skeletal.
+1/25/25 11:16:30p Joel'kin killed a Skeletal.
+1/25/25 11:16:33p You slaughtered a Skeletal.
+1/25/25 11:16:33p Joel'kin dispatched a Skeletal.
+1/25/25 11:16:35p You slaughtered a Skeletal.
+1/25/25 11:16:35p Joel'kin dispatched a Skeletal.
+1/25/25 11:16:40p You slaughtered a Skeletal.
+1/25/25 11:16:40p Joel'kin killed a Skeletal.
+1/25/25 11:17:35p You slaughtered a Hooded Corpse.
+1/25/25 11:17:35p Joel'kin slaughtered a Hooded Corpse.
+1/25/25 11:17:37p Joel'kin looks out for trouble.
+1/25/25 11:17:46p You have 1294 coins.
+1/25/25 11:17:57p You slaughtered a Hooded Corpse.
+1/25/25 11:17:57p Joel'kin killed a Hooded Corpse.
+1/25/25 11:18:00p You slaughtered a Hooded Corpse.
+1/25/25 11:18:01p Joel'kin killed a Hooded Corpse.
+1/25/25 11:18:08p You slaughtered a Hooded Corpse.
+1/25/25 11:18:08p Joel'kin killed a Hooded Corpse.
+1/25/25 11:18:26p You slaughtered a Hooded Corpse.
+1/25/25 11:18:26p Joel'kin killed a Hooded Corpse.
+1/25/25 11:18:39p You slaughtered a Hooded Corpse.
+1/25/25 11:18:39p Joel'kin slaughtered a Hooded Corpse.
+1/25/25 11:18:46p Bastion is now Clanning.
+1/25/25 11:18:54p • You gain experience from your clanmates.
+1/25/25 11:19:06p You have 1294 coins.
+1/25/25 11:19:07p Joel'kin picks his nose.
+1/25/25 11:19:23p You slaughtered a Skeletal.
+1/25/25 11:19:23p Joel'kin slaughtered a Skeletal.
+1/25/25 11:19:57p •You understand the walking self-heal technique better.
+1/25/25 11:20:08p • It’s Midnight on Gradi, the 36th day of Spring in the 640th year of the Ascendancy, and all’s well.
+1/25/25 11:20:10p You slaughtered a Hooded Corpse.
+1/25/25 11:20:11p Joel'kin killed a Hooded Corpse.
+1/25/25 11:20:12p You slaughtered a Hooded Corpse.
+1/25/25 11:20:12p Joel'kin killed a Hooded Corpse.
+1/25/25 11:20:23p You slaughtered a Hooded Corpse.
+1/25/25 11:20:23p Joel'kin killed a Hooded Corpse.
+1/25/25 11:20:26p You have 1294 coins.
+1/25/25 11:20:35p You slaughtered a Hooded Corpse.
+1/25/25 11:20:35p Joel'kin killed a Hooded Corpse.
+1/25/25 11:20:39p You slaughtered a Hooded Corpse.
+1/25/25 11:20:39p Joel'kin killed a Hooded Corpse.
+1/25/25 11:20:54p You slaughtered a Hooded Corpse.
+1/25/25 11:20:54p Joel'kin slaughtered a Hooded Corpse.
+1/25/25 11:20:55p You slaughtered a Skeletal.
+1/25/25 11:20:56p Joel'kin killed a Skeletal.
+1/25/25 11:21:04p You slaughtered a Skeletal.
+1/25/25 11:21:04p Joel'kin killed a Skeletal.
+1/25/25 11:21:05p Joel'kin smells a quarry nearby.
+1/25/25 11:21:14p You slaughtered a Hooded Corpse.
+1/25/25 11:21:14p Joel'kin killed a Hooded Corpse.
+1/25/25 11:21:23p You slaughtered a Skeletal.
+1/25/25 11:21:23p Joel'kin slaughtered a Skeletal.
+1/25/25 11:21:26p You slaughtered a Corpse Warrior.
+1/25/25 11:21:26p Joel'kin killed a Corpse Warrior.
+1/25/25 11:21:28p You slaughtered a Skeletal.
+1/25/25 11:21:28p Joel'kin killed a Skeletal.
+1/25/25 11:21:30p You slaughtered a Skeletal.
+1/25/25 11:21:30p Joel'kin dispatched a Skeletal.
+1/25/25 11:21:35p You slaughtered a Skeletal.
+1/25/25 11:21:35p Joel'kin slaughtered a Skeletal.
+1/25/25 11:21:45p You slaughtered a Corpse Warrior.
+1/25/25 11:21:46p Joel'kin killed a Corpse Warrior.
+1/25/25 11:21:46p You have 1294 coins.
+1/25/25 11:21:47p You slaughtered a Hooded Corpse.
+1/25/25 11:21:48p Joel'kin killed a Hooded Corpse.
+1/25/25 11:23:07p You have 1294 coins.
+1/25/25 11:24:27p You have 1294 coins.
+1/25/25 11:25:32p * Joel'kin starts following your hand signals.
+1/25/25 11:25:32p Unholy whispers, "Obey"
+1/25/25 11:25:36p Unholy whispers, "Attack"
+1/25/25 11:25:36p Joel'kin wanders in circles.
+1/25/25 11:25:43p You slaughtered a Hooded Corpse.
+1/25/25 11:25:43p Joel'kin killed a Hooded Corpse.
+1/25/25 11:25:47p You have 1294 coins.
+1/25/25 11:25:49p •Your healing is already locked to Joel'kin.
+1/25/25 11:26:11p You slaughtered a Detached Spirit.
+1/25/25 11:26:11p Joel'kin killed a Detached Spirit.
+1/25/25 11:26:18p You slaughtered a Hooded Corpse.
+1/25/25 11:26:18p Joel'kin killed a Hooded Corpse.
+1/25/25 11:26:34p You slaughtered a Hooded Corpse.
+1/25/25 11:26:34p Joel'kin killed a Hooded Corpse.
+1/25/25 11:26:36p * Joel'kin starts following your hand signals.
+1/25/25 11:26:36p Unholy whispers, "Obey"
+1/25/25 11:26:49p You slaughtered a Hooded Corpse.
+1/25/25 11:26:49p Joel'kin vanquished a Hooded Corpse!
+1/25/25 11:26:53p You slaughtered a Detached Spirit.
+1/25/25 11:26:53p Joel'kin vanquished a Detached Spirit!
+1/25/25 11:27:04p You slaughtered a Hooded Corpse.
+1/25/25 11:27:04p Joel'kin killed a Hooded Corpse.
+1/25/25 11:27:07p Unholy whispers, "Attack"
+1/25/25 11:27:07p You have 1294 coins.
+1/25/25 11:27:12p You slaughtered a Hooded Corpse.
+1/25/25 11:27:12p Joel'kin killed a Hooded Corpse.
+1/25/25 11:27:18p You slaughtered a Skeletal.
+1/25/25 11:27:19p Joel'kin slaughtered a Skeletal.
+1/25/25 11:27:28p You slaughtered a Hooded Corpse.
+1/25/25 11:27:28p Joel'kin slaughtered a Hooded Corpse.
+1/25/25 11:27:36p You slaughtered a Hooded Corpse.
+1/25/25 11:27:37p Joel'kin killed a Hooded Corpse.
+1/25/25 11:27:39p A monster growls, "..."
+1/25/25 11:27:55p You slaughtered a Hooded Corpse.
+1/25/25 11:27:56p Joel'kin killed a Hooded Corpse.
+1/25/25 11:28:03p You slaughtered a Hooded Corpse.
+1/25/25 11:28:04p Joel'kin killed a Hooded Corpse.
+1/25/25 11:28:12p You slaughtered a Skeletal.
+1/25/25 11:28:12p Joel'kin dispatched a Skeletal.
+1/25/25 11:28:14p You slaughtered a Skeletal.
+1/25/25 11:28:15p Joel'kin slaughtered a Skeletal.
+1/25/25 11:28:23p Joel'kin headbutts Unholy playfully.
+1/25/25 11:28:27p You have 1294 coins.
+1/25/25 11:28:30p You slaughtered a Detached Spirit.
+1/25/25 11:28:31p Joel'kin killed a Detached Spirit.
+1/25/25 11:28:31p You slaughtered a Skeletal.
+1/25/25 11:28:32p Joel'kin slaughtered a Skeletal.
+1/25/25 11:28:35p You slaughtered a Skeletal.
+1/25/25 11:28:36p Joel'kin slaughtered a Skeletal.
+1/25/25 11:29:48p You have 1294 coins.
+1/25/25 11:31:08p You have 1294 coins.
+1/25/25 11:32:28p You have 1294 coins.
+1/25/25 11:33:48p You have 1294 coins.
+1/25/25 11:35:08p You have 1294 coins.
+1/25/25 11:35:29p Big Boy is now Clanning.
+1/25/25 11:35:52p Cirnahl is no longer Clanning.
+1/25/25 11:35:57p Heracles is no longer Clanning.
+1/25/25 11:36:01p Agrehk is no longer Clanning.
+1/25/25 11:36:04p Pendarric is now Clanning.
+1/25/25 11:36:06p Lightbringer is now Clanning.
+1/25/25 11:36:06p Flint is no longer Clanning.
+1/25/25 11:36:07p Unholy says, "come"
+1/25/25 11:36:08p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+1/25/25 11:36:08p •You do not have enough in you.
+1/25/25 11:36:08p Unholy has fallen to a Detached Spirit.
+1/25/25 11:36:08p •You are easily healable.
+1/25/25 11:36:10p Unholy whispers, "Attack"
+1/25/25 11:36:10p Joel'kin growls.
+1/25/25 11:36:29p You have 1294 coins.
+1/25/25 11:36:39p You helped slaughter a Hooded Corpse.
+1/25/25 11:36:48p You helped slaughter a Hooded Corpse.
+1/25/25 11:36:57p You helped slaughter a Hooded Corpse.
+1/25/25 11:37:49p You have 1294 coins.
+1/25/25 11:39:09p You have 1294 coins.
+1/25/25 11:39:34p Fury is now Clanning.
+1/25/25 11:39:34p ZipLock starts dragging you.
+1/25/25 11:39:34p Zhargon is now Clanning.
+1/25/25 11:39:37p Nisse is now Clanning.
+1/25/25 11:39:38p Tuzar Bloodblade is now Clanning.
+1/25/25 11:40:15p ZipLock vaults the wall.
+1/25/25 11:40:29p You have 1294 coins.
+1/25/25 11:40:38p You begin sharing your experiences with Squib.
+1/25/25 11:40:38p You are sharing experiences with Squib and ZipLock.
+1/25/25 11:40:42p Squib is sharing experiences with you.
+1/25/25 11:40:47p Unholy says, "squib heal me"
+1/25/25 11:40:48p •You sense healing energy from Squib.
+1/25/25 11:40:52p You have no 'asklepianstaff' to equip.
+1/25/25 11:40:54p Joel'kin admires a pretty rock.
+1/25/25 11:40:56p You slaughtered a Rat.
+1/25/25 11:40:57p Joel'kin slaughtered a Rat.
+1/25/25 11:40:58p You slaughtered an Island Locust.
+1/25/25 11:40:59p Joel'kin slaughtered an Island Locust.
+1/25/25 11:41:02p You slaughtered an Island Locust.
+1/25/25 11:41:02p Joel'kin slaughtered an Island Locust.
+1/25/25 11:41:09p Unholy whispers, "Attack"
+1/25/25 11:41:16p You slaughtered an Island Locust.
+1/25/25 11:41:16p Joel'kin slaughtered an Island Locust.
+1/25/25 11:41:17p Unholy says, "nice ai"
+1/25/25 11:41:18p You slaughtered an Island Locust.
+1/25/25 11:41:18p Joel'kin slaughtered an Island Locust.
+1/25/25 11:41:20p Unholy says, "..."
+1/25/25 11:41:21p You slaughtered an Island Locust.
+1/25/25 11:41:21p Joel'kin slaughtered an Island Locust.
+1/25/25 11:41:29p You slaughtered an Island Locust.
+1/25/25 11:41:29p Joel'kin slaughtered an Island Locust.
+1/25/25 11:41:32p Koppi yells, "Jeepers reports: Tell me, where is Crunch? For I much desire to speak with him."
+1/25/25 11:41:43p You slaughtered a Giant Slug.
+1/25/25 11:41:43p Joel'kin slaughtered a Giant Slug.
+1/25/25 11:41:49p You have 1294 coins.
+1/25/25 11:42:00p You slaughtered an Island Locust.
+1/25/25 11:42:00p Joel'kin slaughtered an Island Locust.
+1/25/25 11:42:02p You slaughtered an Island Locust.
+1/25/25 11:42:02p Joel'kin slaughtered an Island Locust.
+1/25/25 11:42:11p Eitri is now Clanning.
+1/25/25 11:42:23p You slaughtered a Large Vermine.
+1/25/25 11:42:23p Joel'kin slaughtered a Large Vermine.
+1/25/25 11:42:25p You slaughtered a Hooded Corpse.
+1/25/25 11:42:26p Joel'kin killed a Hooded Corpse.
+1/25/25 11:42:28p •You lock your healing to Joel'kin.
+1/25/25 11:42:49p You slaughtered a Hooded Corpse.
+1/25/25 11:42:49p Joel'kin killed a Hooded Corpse.
+1/25/25 11:42:54p You slaughtered a Giant Slug.
+1/25/25 11:42:54p Joel'kin killed a Giant Slug.
+1/25/25 11:42:58p You slaughtered a Large Vermine.
+1/25/25 11:42:58p Joel'kin slaughtered a Large Vermine.
+1/25/25 11:42:58p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/25/25 11:43:04p You slaughtered a Hooded Corpse.
+1/25/25 11:43:04p Joel'kin killed a Hooded Corpse.
+1/25/25 11:43:05p You slaughtered a Rat.
+1/25/25 11:43:05p Joel'kin slaughtered a Rat.
+1/25/25 11:43:10p You have 1295 coins.
+1/25/25 11:43:10p You slaughtered a Rat.
+1/25/25 11:43:10p Joel'kin slaughtered a Rat.
+1/25/25 11:43:15p You slaughtered a Rat.
+1/25/25 11:43:15p Joel'kin slaughtered a Rat.
+1/25/25 11:43:16p You slaughtered a Large Vermine.
+1/25/25 11:43:16p Joel'kin slaughtered a Large Vermine.
+1/25/25 11:43:24p You slaughtered a Rat.
+1/25/25 11:43:24p Joel'kin slaughtered a Rat.
+1/25/25 11:43:30p You slaughtered a Large Vermine.
+1/25/25 11:43:30p Joel'kin dispatched a Large Vermine.
+1/25/25 11:43:30p * For recovering the fur, you gain experience.
+1/25/25 11:43:30p * You recover the Large Vermine fur, worth 1c.
+1/25/25 11:43:36p You slaughtered a Hooded Corpse.
+1/25/25 11:43:36p Joel'kin killed a Hooded Corpse.
+1/25/25 11:43:43p You slaughtered a Hooded Corpse.
+1/25/25 11:43:44p Joel'kin killed a Hooded Corpse.
+1/25/25 11:43:49p You slaughtered a Large Vermine.
+1/25/25 11:43:49p Joel'kin slaughtered a Large Vermine.
+1/25/25 11:43:57p You slaughtered a Rat.
+1/25/25 11:43:57p Joel'kin slaughtered a Rat.
+1/25/25 11:44:02p You slaughtered a Giant Slug.
+1/25/25 11:44:02p Joel'kin killed a Giant Slug.
+1/25/25 11:44:14p You slaughtered a Hooded Corpse.
+1/25/25 11:44:15p Joel'kin killed a Hooded Corpse.
+1/25/25 11:44:17p You slaughtered a Hooded Corpse.
+1/25/25 11:44:17p Joel'kin killed a Hooded Corpse.
+1/25/25 11:44:20p You slaughtered a Rat.
+1/25/25 11:44:21p Joel'kin slaughtered a Rat.
+1/25/25 11:44:21p Joel'kin stares at a pretty seashell.
+1/25/25 11:44:30p You have 1295 coins.
+1/25/25 11:44:36p •You gain experience.
+1/25/25 11:44:46p You slaughtered a Rat.
+1/25/25 11:44:46p Joel'kin slaughtered a Rat.
+1/25/25 11:44:48p You slaughtered a Vermine.
+1/25/25 11:44:49p Joel'kin slaughtered a Vermine.
+1/25/25 11:45:00p •The player must be in the same area.
+1/25/25 11:45:12p •You lock your healing to Joel'kin.
+1/25/25 11:45:17p You slaughtered a Hooded Corpse.
+1/25/25 11:45:17p Joel'kin killed a Hooded Corpse.
+1/25/25 11:45:36p You slaughtered a Large Vermine.
+1/25/25 11:45:37p Joel'kin dispatched a Large Vermine.
+1/25/25 11:45:37p * You recover the Large Vermine fur, worth 1c.
+1/25/25 11:45:44p You are already sharing with Squib.
+1/25/25 11:45:44p You are sharing experiences with Squib and ZipLock.
+1/25/25 11:45:48p You are no longer sharing experiences with Squib.
+1/25/25 11:45:48p You are sharing experiences with ZipLock.
+1/25/25 11:45:50p You slaughtered a Hooded Corpse.
+1/25/25 11:45:50p Joel'kin killed a Hooded Corpse.
+1/25/25 11:45:50p You have 1295 coins.
+1/25/25 11:45:52p •Your healing is already locked to Joel'kin.
+1/25/25 11:45:54p You slaughtered a Hooded Corpse.
+1/25/25 11:45:55p Joel'kin killed a Hooded Corpse.
+1/25/25 11:46:13p You slaughtered a Hooded Corpse.
+1/25/25 11:46:13p Joel'kin killed a Hooded Corpse.
+1/25/25 11:46:15p Joel'kin grunts.
+1/25/25 11:46:23p You slaughtered a Large Vermine.
+1/25/25 11:46:23p Joel'kin killed a Large Vermine.
+1/25/25 11:46:23p * ZipLock recovers the Large Vermine fur, worth 2c. Your share is 1c.
+1/25/25 11:46:24p Gro is now Clanning.
+1/25/25 11:46:24p Glaurung is now Clanning.
+1/25/25 11:46:25p Anika is now Clanning.
+1/25/25 11:46:34p You slaughtered a Corpse Warrior.
+1/25/25 11:46:35p Joel'kin vanquished a Corpse Warrior!
+1/25/25 11:46:44p You slaughtered a Hooded Corpse.
+1/25/25 11:46:44p Joel'kin killed a Hooded Corpse.
+1/25/25 11:46:58p You slaughtered a Skeletal.
+1/25/25 11:46:58p Joel'kin killed a Skeletal.
+1/25/25 11:47:05p You slaughtered a Hooded Corpse.
+1/25/25 11:47:05p Joel'kin killed a Hooded Corpse.
+1/25/25 11:47:09p You slaughtered a Skeletal.
+1/25/25 11:47:09p Joel'kin slaughtered a Skeletal.
+1/25/25 11:47:10p You have 1296 coins.
+1/25/25 11:47:14p You slaughtered a Skeletal.
+1/25/25 11:47:15p Joel'kin slaughtered a Skeletal.
+1/25/25 11:47:16p You slaughtered a Skeletal.
+1/25/25 11:47:16p Joel'kin killed a Skeletal.
+1/25/25 11:47:25p You slaughtered a Skeletal.
+1/25/25 11:47:25p Joel'kin slaughtered a Skeletal.
+1/25/25 11:47:54p You slaughtered a Corpse Warrior.
+1/25/25 11:47:54p •You do not have enough spiritual energy.
+1/25/25 11:47:55p Joel'kin vanquished a Corpse Warrior!
+1/25/25 11:48:00p You slaughtered a Hooded Corpse.
+1/25/25 11:48:01p Joel'kin killed a Hooded Corpse.
+1/25/25 11:48:06p You slaughtered a Giant Skeletal.
+1/25/25 11:48:06p Joel'kin killed a Giant Skeletal.
+1/25/25 11:48:21p You slaughtered a Corpse Warrior.
+1/25/25 11:48:21p Joel'kin killed a Corpse Warrior.
+1/25/25 11:48:21p Joel'kin grunts a simple song.
+1/25/25 11:48:30p You have 1296 coins.
+1/25/25 11:48:37p You slaughtered a Corpse Warrior.
+1/25/25 11:48:37p Joel'kin vanquished a Corpse Warrior!
+1/25/25 11:49:33p You slaughtered a Rat.
+1/25/25 11:49:34p Joel'kin slaughtered a Rat.
+1/25/25 11:49:51p You have 1296 coins.
+1/25/25 11:49:52p You slaughtered a Corpse Warrior.
+1/25/25 11:49:53p Joel'kin killed a Corpse Warrior.
+1/25/25 11:50:34p You slaughtered a Hooded Corpse.
+1/25/25 11:50:34p Joel'kin slaughtered a Hooded Corpse.
+1/25/25 11:51:11p You have 1296 coins.
+1/25/25 11:51:35p •You lock your healing to Joel'kin.
+1/25/25 11:51:39p Unholy says, "come"
+1/25/25 11:51:40p Unholy says, "come"
+1/25/25 11:51:40p Unholy says, "come"
+1/25/25 11:51:41p Unholy says, "come"
+1/25/25 11:51:42p Unholy whispers, "Attack"
+1/25/25 11:51:42p Joel'kin admires a pretty rock.
+1/25/25 11:51:44p You slaughtered a Hooded Corpse.
+1/25/25 11:51:44p Joel'kin killed a Hooded Corpse.
+1/25/25 11:51:53p * Joel'kin starts following your hand signals.
+1/25/25 11:51:53p Unholy whispers, "Obey"
+1/25/25 11:52:00p You slaughtered a Hooded Corpse.
+1/25/25 11:52:00p Joel'kin slaughtered a Hooded Corpse.
+1/25/25 11:52:05p You slaughtered a Hooded Corpse.
+1/25/25 11:52:06p Joel'kin killed a Hooded Corpse.
+1/25/25 11:52:08p Unholy whispers, "Attack"
+1/25/25 11:52:20p You slaughtered a Hooded Corpse.
+1/25/25 11:52:20p Joel'kin killed a Hooded Corpse.
+1/25/25 11:52:23p •Your healing is already locked to Joel'kin.
+1/25/25 11:52:31p You have 1296 coins.
+1/25/25 11:52:40p You slaughtered a Hooded Corpse.
+1/25/25 11:52:41p Joel'kin dispatched a Hooded Corpse.
+1/25/25 11:52:50p You slaughtered a Hooded Corpse.
+1/25/25 11:52:50p Joel'kin killed a Hooded Corpse.
+1/25/25 11:52:54p You slaughtered a Hooded Corpse.
+1/25/25 11:52:54p Joel'kin killed a Hooded Corpse.
+1/25/25 11:52:57p •Your healing is already locked to Joel'kin.
+1/25/25 11:53:07p You slaughtered a Hooded Corpse.
+1/25/25 11:53:07p Joel'kin killed a Hooded Corpse.
+1/25/25 11:53:16p You slaughtered a Skeletal.
+1/25/25 11:53:16p Joel'kin slaughtered a Skeletal.
+1/25/25 11:53:17p You slaughtered a Skeletal.
+1/25/25 11:53:17p Joel'kin killed a Skeletal.
+1/25/25 11:53:20p You slaughtered a Hooded Corpse.
+1/25/25 11:53:20p Joel'kin slaughtered a Hooded Corpse.
+1/25/25 11:53:35p You slaughtered a Hooded Corpse.
+1/25/25 11:53:35p Joel'kin killed a Hooded Corpse.
+1/25/25 11:53:44p You slaughtered a Skeletal.
+1/25/25 11:53:45p Joel'kin slaughtered a Skeletal.
+1/25/25 11:53:47p You slaughtered a Hooded Corpse.
+1/25/25 11:53:47p Joel'kin killed a Hooded Corpse.
+1/25/25 11:53:51p You have 1296 coins.
+1/25/25 11:53:59p You slaughtered a Hooded Corpse.
+1/25/25 11:54:00p Joel'kin killed a Hooded Corpse.
+1/25/25 11:54:13p You slaughtered a Giant Skeletal.
+1/25/25 11:54:13p Joel'kin killed a Giant Skeletal.
+1/25/25 11:54:38p You slaughtered a Hooded Corpse.
+1/25/25 11:54:38p Joel'kin killed a Hooded Corpse.
+1/25/25 11:54:48p You slaughtered a Hooded Corpse.
+1/25/25 11:54:49p Joel'kin killed a Hooded Corpse.
+1/25/25 11:55:11p You have 1296 coins.
+1/25/25 11:55:13p You slaughtered a Corpse Warrior.
+1/25/25 11:55:13p Joel'kin killed a Corpse Warrior.
+1/25/25 11:55:24p You slaughtered a Corpse Warrior.
+1/25/25 11:55:24p Joel'kin killed a Corpse Warrior.
+1/25/25 11:55:41p You slaughtered a Corpse Warrior.
+1/25/25 11:55:42p Joel'kin vanquished a Corpse Warrior!
+1/25/25 11:55:48p You slaughtered a Skeletal.
+1/25/25 11:55:48p Joel'kin slaughtered a Skeletal.
+1/25/25 11:56:09p You slaughtered a Corpse Warrior.
+1/25/25 11:56:09p Joel'kin vanquished a Corpse Warrior!
+1/25/25 11:56:29p You slaughtered a Skeletal.
+1/25/25 11:56:29p Joel'kin slaughtered a Skeletal.
+1/25/25 11:56:32p You have 1296 coins.
+1/25/25 11:57:11p Joel'kin grunts.
+1/25/25 11:57:52p You have 1296 coins.
+1/25/25 11:58:18p You slaughtered a Hooded Corpse.
+1/25/25 11:58:18p Joel'kin killed a Hooded Corpse.
+1/25/25 11:59:02p You slaughtered a Skeletal.
+1/25/25 11:59:02p Joel'kin slaughtered a Skeletal.
+1/25/25 11:59:11p You slaughtered a Skeletal.
+1/25/25 11:59:11p Joel'kin killed a Skeletal.
+1/25/25 11:59:12p You have 1296 coins.
+1/26/25 12:00:19a EBow is now Clanning.
+1/26/25 12:00:32a You have 1296 coins.
+1/26/25 12:01:00a You slaughtered a Corpse Warrior.
+1/26/25 12:01:00a Joel'kin vanquished a Corpse Warrior!
+1/26/25 12:01:02a You slaughtered a Corpse Warrior.
+1/26/25 12:01:03a Joel'kin vanquished a Corpse Warrior!
+1/26/25 12:01:08a You slaughtered a Corpse Warrior.
+1/26/25 12:01:08a Joel'kin killed a Corpse Warrior.
+1/26/25 12:01:08a Joel'kin growls.
+1/26/25 12:01:12a You slaughtered a Rat.
+1/26/25 12:01:12a Joel'kin slaughtered a Rat.
+1/26/25 12:01:29a You slaughtered a Corpse Warrior.
+1/26/25 12:01:29a Joel'kin killed a Corpse Warrior.
+1/26/25 12:01:52a You have 1296 coins.
+1/26/25 12:02:17a You slaughtered a Hooded Corpse.
+1/26/25 12:02:17a Joel'kin vanquished a Hooded Corpse!
+1/26/25 12:02:23a Naferu is now Clanning.
+1/26/25 12:02:27a You slaughtered a Hooded Corpse.
+1/26/25 12:02:27a Joel'kin killed a Hooded Corpse.
+1/26/25 12:03:05a You slaughtered a Hooded Corpse.
+1/26/25 12:03:05a Joel'kin dispatched a Hooded Corpse.
+1/26/25 12:03:13a You have 1296 coins.
+1/26/25 12:03:18a You slaughtered a Hooded Corpse.
+1/26/25 12:03:18a Joel'kin killed a Hooded Corpse.
+1/26/25 12:03:55a You slaughtered a Hooded Corpse.
+1/26/25 12:03:55a Joel'kin dispatched a Hooded Corpse.
+1/26/25 12:04:02a Joel'kin juggles small pebbles.
+1/26/25 12:04:08a You slaughtered a Hooded Corpse.
+1/26/25 12:04:09a Joel'kin killed a Hooded Corpse.
+1/26/25 12:04:16a You slaughtered a Hooded Corpse.
+1/26/25 12:04:17a Joel'kin killed a Hooded Corpse.
+1/26/25 12:04:33a You have 1296 coins.
+1/26/25 12:05:33a Joel'kin torments a baby vermine.
+1/26/25 12:05:53a You have 1296 coins.
+1/26/25 12:06:10a You slaughtered a Hooded Corpse.
+1/26/25 12:06:11a Joel'kin killed a Hooded Corpse.
+1/26/25 12:06:40a You slaughtered a Hooded Corpse.
+1/26/25 12:06:40a Joel'kin vanquished a Hooded Corpse!
+1/26/25 12:06:44a You slaughtered a Hooded Corpse.
+1/26/25 12:06:44a Joel'kin killed a Hooded Corpse.
+1/26/25 12:06:45a You slaughtered a Hooded Corpse.
+1/26/25 12:06:45a Joel'kin killed a Hooded Corpse.
+1/26/25 12:06:58a You slaughtered a Hooded Corpse.
+1/26/25 12:06:58a Joel'kin slaughtered a Hooded Corpse.
+1/26/25 12:06:59a Lightbringer is no longer Clanning.
+1/26/25 12:06:59a Pendarric is no longer Clanning.
+1/26/25 12:06:59a Big Boy is no longer Clanning.
+1/26/25 12:06:59a Anika is no longer Clanning.
+1/26/25 12:06:59a Eitri is no longer Clanning.
+1/26/25 12:07:13a You have 1296 coins.
+1/26/25 12:07:15a You slaughtered a Hooded Corpse.
+1/26/25 12:07:15a Joel'kin killed a Hooded Corpse.
+1/26/25 12:07:22a You slaughtered a Hooded Corpse.
+1/26/25 12:07:22a Joel'kin dispatched a Hooded Corpse.
+1/26/25 12:07:22a Joel'kin growls.
+1/26/25 12:07:26a You slaughtered a Hooded Corpse.
+1/26/25 12:07:26a Joel'kin killed a Hooded Corpse.
+1/26/25 12:08:33a You have 1296 coins.
+1/26/25 12:09:03a Naferu is no longer Clanning.
+1/26/25 12:09:05a Joel'kin bangs on one of Unholy's cookpots.
+1/26/25 12:09:07a You slaughtered a Hooded Corpse.
+1/26/25 12:09:07a Joel'kin killed a Hooded Corpse.
+1/26/25 12:09:17a You slaughtered a Hooded Corpse.
+1/26/25 12:09:17a Joel'kin slaughtered a Hooded Corpse.
+1/26/25 12:09:28a You slaughtered a Hooded Corpse.
+1/26/25 12:09:28a Joel'kin killed a Hooded Corpse.
+1/26/25 12:09:41a You slaughtered a Hooded Corpse.
+1/26/25 12:09:42a Joel'kin killed a Hooded Corpse.
+1/26/25 12:09:53a You have 1296 coins.
+1/26/25 12:09:55a You slaughtered a Hooded Corpse.
+1/26/25 12:09:55a Joel'kin killed a Hooded Corpse.
+1/26/25 12:10:17a You slaughtered a Hooded Corpse.
+1/26/25 12:10:17a Joel'kin killed a Hooded Corpse.
+1/26/25 12:10:29a You slaughtered a Hooded Corpse.
+1/26/25 12:10:30a Joel'kin killed a Hooded Corpse.
+1/26/25 12:10:36a Joel'kin wanders in circles.
+1/26/25 12:10:44a You slaughtered a Hooded Corpse.
+1/26/25 12:10:45a Joel'kin killed a Hooded Corpse.
+1/26/25 12:11:14a You have 1296 coins.
+1/26/25 12:11:27a You slaughtered a Hooded Corpse.
+1/26/25 12:11:27a Joel'kin killed a Hooded Corpse.
+1/26/25 12:11:39a Joel'kin grunts a simple song.
+1/26/25 12:11:58a Arianrhod is now Clanning.
+1/26/25 12:12:07a You slaughtered a Corpse Warrior.
+1/26/25 12:12:08a Joel'kin killed a Corpse Warrior.
+1/26/25 12:12:34a You have 1296 coins.
+1/26/25 12:12:52a You slaughtered a Hooded Corpse.
+1/26/25 12:12:52a Joel'kin killed a Hooded Corpse.
+1/26/25 12:13:12a You slaughtered a Hooded Corpse.
+1/26/25 12:13:13a Joel'kin vanquished a Hooded Corpse!
+1/26/25 12:13:30a You slaughtered a Hooded Corpse.
+1/26/25 12:13:30a Joel'kin killed a Hooded Corpse.
+1/26/25 12:13:36a You slaughtered a Hooded Corpse.
+1/26/25 12:13:37a Joel'kin killed a Hooded Corpse.
+1/26/25 12:13:48a You slaughtered a Hooded Corpse.
+1/26/25 12:13:48a Joel'kin vanquished a Hooded Corpse!
+1/26/25 12:13:54a You have 1296 coins.
+1/26/25 12:13:59a You slaughtered a Hooded Corpse.
+1/26/25 12:13:59a Joel'kin killed a Hooded Corpse.
+1/26/25 12:13:59a Joel'kin picks his nose.
+1/26/25 12:14:08a You slaughtered a Hooded Corpse.
+1/26/25 12:14:09a Joel'kin killed a Hooded Corpse.
+1/26/25 12:14:14a You slaughtered a Hooded Corpse.
+1/26/25 12:14:14a Joel'kin killed a Hooded Corpse.
+1/26/25 12:14:23a You slaughtered a Hooded Corpse.
+1/26/25 12:14:23a Joel'kin slaughtered a Hooded Corpse.
+1/26/25 12:14:31a You slaughtered a Hooded Corpse.
+1/26/25 12:14:32a Joel'kin killed a Hooded Corpse.
+1/26/25 12:14:42a You slaughtered a Hooded Corpse.
+1/26/25 12:14:43a Joel'kin killed a Hooded Corpse.
+1/26/25 12:15:09a Unholy says, "come"
+1/26/25 12:15:12a Unholy whispers, "Attack"
+1/26/25 12:15:14a You slaughtered a Hooded Corpse.
+1/26/25 12:15:14a Joel'kin dispatched a Hooded Corpse.
+1/26/25 12:15:14a You have 1296 coins.
+1/26/25 12:15:19a You slaughtered a Hooded Corpse.
+1/26/25 12:15:19a Joel'kin killed a Hooded Corpse.
+1/26/25 12:15:23a You slaughtered a Skeletal.
+1/26/25 12:15:23a Joel'kin slaughtered a Skeletal.
+1/26/25 12:15:34a You slaughtered a Skeletal.
+1/26/25 12:15:34a Joel'kin killed a Skeletal.
+1/26/25 12:15:37a You slaughtered a Skeletal.
+1/26/25 12:15:37a Joel'kin slaughtered a Skeletal.
+1/26/25 12:15:38a You slaughtered a Skeletal.
+1/26/25 12:15:38a Joel'kin killed a Skeletal.
+1/26/25 12:15:47a You slaughtered a Skeletal.
+1/26/25 12:15:48a Joel'kin killed a Skeletal.
+1/26/25 12:15:49a You slaughtered a Skeletal.
+1/26/25 12:15:50a Joel'kin slaughtered a Skeletal.
+1/26/25 12:16:34a You have 1296 coins.
+1/26/25 12:17:00a You slaughtered a Hooded Corpse.
+1/26/25 12:17:00a Joel'kin killed a Hooded Corpse.
+1/26/25 12:17:12a You slaughtered a Hooded Corpse.
+1/26/25 12:17:12a Joel'kin killed a Hooded Corpse.
+1/26/25 12:17:55a You have 1296 coins.
+1/26/25 12:18:43a EBow is no longer Clanning.
+1/26/25 12:18:43a Arianrhod is no longer Clanning.
+1/26/25 12:18:48a You slaughtered a Corpse Warrior.
+1/26/25 12:18:48a Joel'kin killed a Corpse Warrior.
+1/26/25 12:18:59a You slaughtered a Corpse Warrior.
+1/26/25 12:18:59a Joel'kin killed a Corpse Warrior.
+1/26/25 12:19:15a You have 1296 coins.
+1/26/25 12:19:32a Joel'kin smells a quarry nearby.
+1/26/25 12:20:32a You slaughtered a Hooded Corpse.
+1/26/25 12:20:32a Joel'kin killed a Hooded Corpse.
+1/26/25 12:20:35a You have 1296 coins.
+1/26/25 12:20:55a Bashak is now Clanning.
+1/26/25 12:20:58a Dracula is no longer Clanning.
+1/26/25 12:20:59a Ceara is no longer Clanning.
+1/26/25 12:21:00a Anduin Lothar is no longer Clanning.
+1/26/25 12:21:00a Bastion is no longer Clanning.
+1/26/25 12:21:44a You slaughtered a Hooded Corpse.
+1/26/25 12:21:44a Joel'kin dispatched a Hooded Corpse.
+1/26/25 12:21:48a You slaughtered a Hooded Corpse.
+1/26/25 12:21:48a Joel'kin killed a Hooded Corpse.
+1/26/25 12:21:53a You slaughtered a Hooded Corpse.
+1/26/25 12:21:53a Joel'kin killed a Hooded Corpse.
+1/26/25 12:21:55a You have 1296 coins.
+1/26/25 12:22:10a You slaughtered a Hooded Corpse.
+1/26/25 12:22:11a Joel'kin killed a Hooded Corpse.
+1/26/25 12:23:06a A monster growls, "Ugh."
+1/26/25 12:23:15a You have 1296 coins.
+1/26/25 12:23:19a Joel'kin grunts.
+1/26/25 12:24:21a You slaughtered a Hooded Corpse.
+1/26/25 12:24:21a Joel'kin killed a Hooded Corpse.
+1/26/25 12:24:30a You slaughtered a Hooded Corpse.
+1/26/25 12:24:31a Joel'kin killed a Hooded Corpse.
+1/26/25 12:24:36a You have 1296 coins.
+1/26/25 12:25:00a You slaughtered a Hooded Corpse.
+1/26/25 12:25:00a Joel'kin killed a Hooded Corpse.
+1/26/25 12:25:41a Joel'kin sharpens a rock.
+1/26/25 12:25:56a You have 1296 coins.
+1/26/25 12:27:16a You have 1296 coins.
+1/26/25 12:27:40a Fury is no longer Clanning.
+1/26/25 12:28:11a PangZa is now Clanning.
+1/26/25 12:28:29a Joel'kin headbutts Unholy playfully.
+1/26/25 12:28:36a You have 1296 coins.
+1/26/25 12:29:37a PangZa is no longer Clanning.
+1/26/25 12:29:56a You have 1296 coins.
+1/26/25 12:30:25a •Joel'kin is too far away.
+1/26/25 12:30:27a •The Sun rises.
+1/26/25 12:30:32a You slaughtered a Large Vermine.
+1/26/25 12:30:32a Joel'kin killed a Large Vermine.
+1/26/25 12:30:32a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/26/25 12:30:34a You slaughtered a Large Vermine.
+1/26/25 12:30:35a Joel'kin killed a Large Vermine.
+1/26/25 12:30:35a •You lock your healing to Joel'kin.
+1/26/25 12:30:38a You slaughtered a Large Vermine.
+1/26/25 12:30:38a Joel'kin killed a Large Vermine.
+1/26/25 12:30:45a You slaughtered a Large Vermine.
+1/26/25 12:30:45a Joel'kin slaughtered a Large Vermine.
+1/26/25 12:30:50a You slaughtered an Orga.
+1/26/25 12:30:50a Joel'kin slaughtered an Orga.
+1/26/25 12:30:55a •The player must be in the same area.
+1/26/25 12:30:58a You slaughtered a Giant Vermine.
+1/26/25 12:30:58a Joel'kin killed a Giant Vermine.
+1/26/25 12:31:01a You slaughtered a Vermine.
+1/26/25 12:31:01a Joel'kin slaughtered a Vermine.
+1/26/25 12:31:03a You slaughtered a Vermine.
+1/26/25 12:31:03a Joel'kin slaughtered a Vermine.
+1/26/25 12:31:09a Nisse is no longer Clanning.
+1/26/25 12:31:12a You slaughtered a Vermine.
+1/26/25 12:31:12a Tuzar Bloodblade is no longer Clanning.
+1/26/25 12:31:12a Joel'kin slaughtered a Vermine.
+1/26/25 12:31:13a You slaughtered an Island Locust.
+1/26/25 12:31:13a Joel'kin slaughtered an Island Locust.
+1/26/25 12:31:17a You have 1297 coins.
+1/26/25 12:31:21a You slaughtered an Island Locust.
+1/26/25 12:31:21a Joel'kin slaughtered an Island Locust.
+1/26/25 12:31:22a You slaughtered an Island Locust.
+1/26/25 12:31:22a Joel'kin slaughtered an Island Locust.
+1/26/25 12:31:23a You vault the wall.
+1/26/25 12:31:38a You slaughtered a Rat.
+1/26/25 12:31:38a Joel'kin slaughtered a Rat.
+1/26/25 12:31:43a You slaughtered an Island Locust.
+1/26/25 12:31:43a Joel'kin slaughtered an Island Locust.
+1/26/25 12:31:44a You slaughtered a Vermine.
+1/26/25 12:31:44a Joel'kin slaughtered a Vermine.
+1/26/25 12:31:57a You slaughtered an Island Locust.
+1/26/25 12:31:57a Joel'kin slaughtered an Island Locust.
+1/26/25 12:32:28a Lithia Akka says, "Greetings, Gro. I am collecting building materials and coins for a beautiful fountain for town center."
+1/26/25 12:32:29a Lithia Akka says, "It’s going well; you can pretty much see the final shape now."
+1/26/25 12:32:29a Lithia Akka says, "To donate materials, hold out a piece of wood, stone or metal, or hold your money- purse to donate 500 coins."
+1/26/25 12:32:29a Gro says, "2"
+1/26/25 12:32:29a Lithia Akka asks, "How many of your lumps of iron ore do you want to donate?"
+1/26/25 12:32:31a Lithia Akka gives Gro 2 coins for the iron ore.
+1/26/25 12:32:31a Gro says, "2"
+1/26/25 12:32:31a Lithia Akka says, "Excellent! This will help our building efforts along."
+1/26/25 12:32:31a Lithia Akka says, "Any more help you could provide would be greatly appreciated."
+1/26/25 12:32:37a You have 1297 coins.
+1/26/25 12:32:53a Joel'kin growls.
+1/26/25 12:33:15a You slaughtered an Island Locust.
+1/26/25 12:33:16a Joel'kin slaughtered an Island Locust.
+1/26/25 12:33:21a Koppi yells, "Coriakin reports: Bard concert at 11am Pacific on Jan. 25th. Entries for Azriels' contest will be played, so come enjoy the new music!"
+1/26/25 12:33:24a ZipLock is no longer Clanning.
+1/26/25 12:33:24a Crius yells, "It’s 5 o’clock, and all’s well."
+1/26/25 12:33:28a You slaughtered a Scavenger Bird.
+1/26/25 12:33:28a Joel'kin slaughtered a Scavenger Bird.
+1/26/25 12:33:29a Crius yells, "There’s good hunting in the Eastern Mountains."
+1/26/25 12:33:41a Bashak says, "whoa ugly pet :P"
+1/26/25 12:33:46a You have no 'asklepianstaff' to equip.
+1/26/25 12:33:46a *  Bashak  
+1/26/25 12:33:57a You have 1297 coins.
+1/26/25 12:33:57a Unholy says, "thanks :P"
+1/26/25 12:34:00a Bashak is sharing experiences with you.
+1/26/25 12:34:02a Bashak says, ":D"
+1/26/25 12:34:24a You slaughtered a Rat.
+1/26/25 12:34:24a Joel'kin slaughtered a Rat.
+1/26/25 12:34:24a Bashak says, "well, pre-coffee vermine tree run done... time to make coffee."
+1/26/25 12:34:35a Bashak ponders, "one day I'll be a ranger"
+1/26/25 12:34:38a Unholy asks, "going for ranger?"
+1/26/25 12:34:41a Unholy says, "oh"
+1/26/25 12:34:45a Bashak says, "yup"
+1/26/25 12:34:58a Joel'kin lifts his nose to the wind.
+1/26/25 12:34:59a Bashak says, "one of these days it'll pop"
+1/26/25 12:35:04a Bashak says, "I'm on the last message"
+1/26/25 12:35:17a You have 1297 coins.
+1/26/25 12:35:50a EBow is now Clanning.
+1/26/25 12:36:20a * Joel'kin starts following your hand signals.
+1/26/25 12:36:20a Unholy whispers, "Obey"
+1/26/25 12:36:23a Unholy whispers, "Stay"
+1/26/25 12:36:34a Glaurung is no longer Clanning.
+1/26/25 12:36:37a You have 1297 coins.
+1/26/25 12:36:58a Gro is no longer Clanning.
+1/26/25 12:37:55a Zhargon is no longer Clanning.
+1/26/25 12:37:58a You have 1297 coins.
+1/26/25 12:38:32a Koppi yells, "Coriakin reports: Bard concert at 11am Pacific on Jan. 25th. Entries for Azriels' contest will be played, so come enjoy the new music!"
+1/26/25 12:39:16a Eli is now Clanning.
+1/26/25 12:39:18a You have 1297 coins.
+1/26/25 12:40:38a You have 1297 coins.
+1/26/25 12:41:49a Jeepers is now Clanning.
+1/26/25 12:41:52a * Joel'kin starts following your hand signals.
+1/26/25 12:41:52a Unholy whispers, "Obey"
+1/26/25 12:41:58a You have 1297 coins.
+1/26/25 12:42:16a Eli says, "yo"
+1/26/25 12:42:23a Unholy whispers, "Stay"
+1/26/25 12:43:07a ZipLock is now Clanning.
+1/26/25 12:43:18a You have 1297 coins.
+1/26/25 12:43:36a EBow is no longer Clanning.
+1/26/25 12:43:43a Koppi yells, "Jeepers reports: Tell me, where is Crunch? For I much desire to speak with him."
+1/26/25 12:43:52a The Wanderer is now Clanning.
+1/26/25 12:44:31a Joel'kin bangs two rocks together.
+1/26/25 12:44:31a Unholy whispers, "Attack"
+1/26/25 12:44:39a You have 1297 coins.
+1/26/25 12:44:56a You slaughtered a Vermine.
+1/26/25 12:44:56a Joel'kin slaughtered a Vermine.
+1/26/25 12:45:42a You slaughtered an Island Panther.
+1/26/25 12:45:42a Joel'kin slaughtered an Island Panther.
+1/26/25 12:45:46a You slaughtered an Island Panther.
+1/26/25 12:45:46a Joel'kin killed an Island Panther.
+1/26/25 12:45:46a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/26/25 12:45:46a * Joel'kin grows stronger.
+1/26/25 12:45:51a •You lock your healing to Joel'kin.
+1/26/25 12:45:56a •You gain experience.
+1/26/25 12:45:59a You have 1299 coins.
+1/26/25 12:46:02a You slaughtered a Maha Ruknee.
+1/26/25 12:46:02a Joel'kin vanquished a Maha Ruknee!
+1/26/25 12:46:02a * You recover the Maha Ruknee fur, worth 6c. Your share is 6c.
+1/26/25 12:46:05a You slaughtered a Vermine.
+1/26/25 12:46:05a Joel'kin slaughtered a Vermine.
+1/26/25 12:46:12a You slaughtered an Artak Cougar.
+1/26/25 12:46:12a Joel'kin killed an Artak Cougar.
+1/26/25 12:46:20a You slaughtered an Artak Cougar.
+1/26/25 12:46:21a Joel'kin killed an Artak Cougar.
+1/26/25 12:46:21a * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+1/26/25 12:46:23a Joel'kin growls.
+1/26/25 12:46:25a You slaughtered an Artak Cougar.
+1/26/25 12:46:25a Joel'kin vanquished an Artak Cougar!
+1/26/25 12:46:40a •The player must be in the same area.
+1/26/25 12:47:19a You have 1306 coins.
+1/26/25 12:48:39a You have 1306 coins.
+1/26/25 12:49:25a You slaughtered a Vermine.
+1/26/25 12:49:26a Joel'kin slaughtered a Vermine.
+1/26/25 12:49:26a You slaughtered a Vermine.
+1/26/25 12:49:26a Joel'kin slaughtered a Vermine.
+1/26/25 12:49:34a You slaughtered an Island Panther.
+1/26/25 12:49:35a Joel'kin killed an Island Panther.
+1/26/25 12:49:38a You slaughtered a Rat.
+1/26/25 12:49:38a Joel'kin slaughtered a Rat.
+1/26/25 12:49:40a Joel'kin grunts a simple song.
+1/26/25 12:49:46a You slaughtered a Myrm Scout.
+1/26/25 12:49:47a Joel'kin killed a Myrm Scout.
+1/26/25 12:49:59a You have 1306 coins.
+1/26/25 12:50:20a •You gain experience.
+1/26/25 12:50:20a Hrothgrim is now Clanning.
+1/26/25 12:50:34a You slaughtered a Rat.
+1/26/25 12:50:35a Joel'kin slaughtered a Rat.
+1/26/25 12:50:35a * You recover the Rat fur, worth 1c. Your share is 1c.
+1/26/25 12:50:45a You slaughtered a Large Vermine.
+1/26/25 12:50:45a Joel'kin slaughtered a Large Vermine.
+1/26/25 12:50:47a You slaughtered a Large Vermine.
+1/26/25 12:50:47a Joel'kin killed a Large Vermine.
+1/26/25 12:50:53a You slaughtered a Giant Slug.
+1/26/25 12:50:53a Joel'kin killed a Giant Slug.
+1/26/25 12:51:15a You slaughtered a Hooded Corpse.
+1/26/25 12:51:15a Joel'kin slaughtered a Hooded Corpse.
+1/26/25 12:51:19a You slaughtered a Skeletal.
+1/26/25 12:51:19a Joel'kin slaughtered a Skeletal.
+1/26/25 12:51:19a •You lock your healing to Joel'kin.
+1/26/25 12:51:20a You have 1307 coins.
+1/26/25 12:51:30a You slaughtered a Giant Skeletal.
+1/26/25 12:51:30a Joel'kin vanquished a Giant Skeletal!
+1/26/25 12:51:52a Abox is now Clanning.
+1/26/25 12:51:53a You slaughtered a Hooded Corpse.
+1/26/25 12:51:54a Joel'kin killed a Hooded Corpse.
+1/26/25 12:52:00a You slaughtered a Skeletal.
+1/26/25 12:52:00a Joel'kin killed a Skeletal.
+1/26/25 12:52:01a You slaughtered a Skeletal.
+1/26/25 12:52:01a Joel'kin dispatched a Skeletal.
+1/26/25 12:52:05a You slaughtered a Skeletal.
+1/26/25 12:52:05a Joel'kin killed a Skeletal.
+1/26/25 12:52:10a You slaughtered a Skeletal.
+1/26/25 12:52:10a Joel'kin slaughtered a Skeletal.
+1/26/25 12:52:13a Joel'kin sharpens a rock.
+1/26/25 12:52:14a You slaughtered a Skeletal.
+1/26/25 12:52:15a Joel'kin slaughtered a Skeletal.
+1/26/25 12:52:21a You slaughtered a Skeletal.
+1/26/25 12:52:21a Joel'kin slaughtered a Skeletal.
+1/26/25 12:52:27a You slaughtered a Skeletal.
+1/26/25 12:52:27a Joel'kin slaughtered a Skeletal.
+1/26/25 12:52:31a You slaughtered a Skeletal.
+1/26/25 12:52:31a Joel'kin slaughtered a Skeletal.
+1/26/25 12:52:37a Noivad is now Clanning.
+1/26/25 12:52:40a You have 1307 coins.
+1/26/25 12:52:54a Klur is now Clanning.
+1/26/25 12:53:00a Valadorei is now Clanning.
+1/26/25 12:53:35a You slaughtered a Corpse Warrior.
+1/26/25 12:53:35a Joel'kin killed a Corpse Warrior.
+1/26/25 12:53:51a You slaughtered a Corpse Warrior.
+1/26/25 12:53:51a Joel'kin killed a Corpse Warrior.
+1/26/25 12:53:52a You slaughtered a Skeletal.
+1/26/25 12:53:52a Joel'kin killed a Skeletal.
+1/26/25 12:54:00a You have 1307 coins.
+1/26/25 12:54:09a You slaughtered a Corpse Warrior.
+1/26/25 12:54:09a Joel'kin vanquished a Corpse Warrior!
+1/26/25 12:54:15a You slaughtered a Skeletal.
+1/26/25 12:54:15a Joel'kin slaughtered a Skeletal.
+1/26/25 12:54:16a You slaughtered a Skeletal.
+1/26/25 12:54:17a Joel'kin dispatched a Skeletal.
+1/26/25 12:54:17a Joel'kin admires a pretty rock.
+1/26/25 12:54:25a Hrothgrim is no longer Clanning.
+1/26/25 12:54:25a You slaughtered a Skeletal.
+1/26/25 12:54:26a Joel'kin slaughtered a Skeletal.
+1/26/25 12:54:29a You slaughtered a Skeletal.
+1/26/25 12:54:30a Joel'kin slaughtered a Skeletal.
+1/26/25 12:54:35a You slaughtered a Skeletal.
+1/26/25 12:54:35a Joel'kin slaughtered a Skeletal.
+1/26/25 12:54:39a You slaughtered a Giant Skeletal.
+1/26/25 12:54:39a Joel'kin killed a Giant Skeletal.
+1/26/25 12:54:48a Talin is now Clanning.
+1/26/25 12:54:50a You slaughtered a Corpse Warrior.
+1/26/25 12:54:50a Joel'kin vanquished a Corpse Warrior!
+1/26/25 12:54:59a You slaughtered a Vermine.
+1/26/25 12:54:59a Joel'kin slaughtered a Vermine.
+1/26/25 12:55:02a You slaughtered a Skeletal.
+1/26/25 12:55:03a Joel'kin killed a Skeletal.
+1/26/25 12:55:04a Cecil is now Clanning.
+1/26/25 12:55:15a You slaughtered a Hooded Corpse.
+1/26/25 12:55:15a Joel'kin killed a Hooded Corpse.
+1/26/25 12:55:20a You have 1307 coins.
+1/26/25 12:55:21a You begin sharing your experiences with ZipLock.
+1/26/25 12:55:21a You slaughtered a Hooded Corpse.
+1/26/25 12:55:21a Joel'kin slaughtered a Hooded Corpse.
+1/26/25 12:55:25a You slaughtered a Skeletal.
+1/26/25 12:55:25a Joel'kin slaughtered a Skeletal.
+1/26/25 12:55:48a You slaughtered a Hooded Corpse.
+1/26/25 12:55:49a Joel'kin dispatched a Hooded Corpse.
+1/26/25 12:55:56a Bronko is now Clanning.
+1/26/25 12:55:58a You slaughtered a Skeletal.
+1/26/25 12:55:59a Joel'kin slaughtered a Skeletal.
+1/26/25 12:56:00a You slaughtered a Hooded Corpse.
+1/26/25 12:56:00a Joel'kin killed a Hooded Corpse.
+1/26/25 12:56:21a Joel'kin smells a quarry nearby.
+1/26/25 12:56:24a You slaughtered a Hooded Corpse.
+1/26/25 12:56:25a Joel'kin killed a Hooded Corpse.
+1/26/25 12:56:28a You slaughtered a Hooded Corpse.
+1/26/25 12:56:28a Joel'kin killed a Hooded Corpse.
+1/26/25 12:56:40a Lov'sya is now Clanning.
+1/26/25 12:56:40a You have 1307 coins.
+1/26/25 12:56:43a Leonie is now Clanning.
+1/26/25 12:56:46a You slaughtered a Hooded Corpse.
+1/26/25 12:56:46a Joel'kin killed a Hooded Corpse.
+1/26/25 12:56:57a You slaughtered a Hooded Corpse.
+1/26/25 12:56:58a Joel'kin slaughtered a Hooded Corpse.
+1/26/25 12:57:08a You slaughtered a Corpse Warrior.
+1/26/25 12:57:08a Joel'kin vanquished a Corpse Warrior!
+1/26/25 12:57:28a You slaughtered a Corpse Warrior.
+1/26/25 12:57:28a Joel'kin killed a Corpse Warrior.
+1/26/25 12:57:38a You slaughtered a Corpse Warrior.
+1/26/25 12:57:38a Joel'kin killed a Corpse Warrior.
+1/26/25 12:57:41a You slaughtered a Skeletal.
+1/26/25 12:57:41a Joel'kin killed a Skeletal.
+1/26/25 12:57:46a You slaughtered a Skeletal.
+1/26/25 12:57:46a Joel'kin slaughtered a Skeletal.
+1/26/25 12:57:48a Pookoiko is now Clanning.
+1/26/25 12:57:52a You slaughtered a Skeletal.
+1/26/25 12:57:52a Joel'kin slaughtered a Skeletal.
+1/26/25 12:57:54a Leonie is no longer Clanning.
+1/26/25 12:58:00a You slaughtered a Skeletal.
+1/26/25 12:58:00a Joel'kin killed a Skeletal.
+1/26/25 12:58:00a Zog is now Clanning.
+1/26/25 12:58:01a You have 1307 coins.
+1/26/25 12:58:08a You slaughtered a Detached Spirit.
+1/26/25 12:58:08a Joel'kin killed a Detached Spirit.
+1/26/25 12:58:14a Zog is no longer Clanning.
+1/26/25 12:58:17a Fern is now Clanning.
+1/26/25 12:58:48a Aneides is now Clanning.
+1/26/25 12:58:52a You slaughtered a Hooded Corpse.
+1/26/25 12:58:53a Joel'kin killed a Hooded Corpse.
+1/26/25 12:59:02a Aneides is no longer Clanning.
+1/26/25 12:59:04a Noah is now Clanning.
+1/26/25 12:59:08a You slaughtered a Hooded Corpse.
+1/26/25 12:59:08a Joel'kin killed a Hooded Corpse.
+1/26/25 12:59:15a You slaughtered a Hooded Corpse.
+1/26/25 12:59:15a Joel'kin killed a Hooded Corpse.
+1/26/25 12:59:21a You have 1307 coins.
+1/26/25 12:59:29a You slaughtered a Hooded Corpse.
+1/26/25 12:59:29a Joel'kin killed a Hooded Corpse.
+1/26/25 12:59:39a Dandelion is now Clanning.
+1/26/25 12:59:50a You slaughtered a Hooded Corpse.
+1/26/25 12:59:51a Joel'kin killed a Hooded Corpse.
+1/26/25 12:59:51a Joel'kin torments a baby vermine.
+1/26/25 12:59:57a Sauver is now Clanning.
+1/26/25 1:00:04a You slaughtered a Hooded Corpse.
+1/26/25 1:00:04a Joel'kin killed a Hooded Corpse.
+1/26/25 1:00:10a You slaughtered a Hooded Corpse.
+1/26/25 1:00:11a Joel'kin vanquished a Hooded Corpse!
+1/26/25 1:00:15a You slaughtered a Hooded Corpse.
+1/26/25 1:00:16a Joel'kin killed a Hooded Corpse.
+1/26/25 1:00:35a You slaughtered a Hooded Corpse.
+1/26/25 1:00:35a Joel'kin killed a Hooded Corpse.
+1/26/25 1:00:38a You slaughtered a Hooded Corpse.
+1/26/25 1:00:38a Joel'kin killed a Hooded Corpse.
+1/26/25 1:00:41a You have 1307 coins.
+1/26/25 1:00:42a You slaughtered a Hooded Corpse.
+1/26/25 1:00:43a Joel'kin killed a Hooded Corpse.
+1/26/25 1:00:45a Sauver is no longer Clanning.
+1/26/25 1:00:54a You slaughtered a Hooded Corpse.
+1/26/25 1:00:54a Joel'kin killed a Hooded Corpse.
+1/26/25 1:01:02a You slaughtered a Hooded Corpse.
+1/26/25 1:01:02a Joel'kin killed a Hooded Corpse.
+1/26/25 1:01:25a You slaughtered a Hooded Corpse.
+1/26/25 1:01:25a Joel'kin killed a Hooded Corpse.
+1/26/25 1:01:30a You slaughtered a Hooded Corpse.
+1/26/25 1:01:30a Joel'kin killed a Hooded Corpse.
+1/26/25 1:01:40a You slaughtered a Hooded Corpse.
+1/26/25 1:01:40a Joel'kin killed a Hooded Corpse.
+1/26/25 1:02:00a You slaughtered a Hooded Corpse.
+1/26/25 1:02:00a Joel'kin killed a Hooded Corpse.
+1/26/25 1:02:01a You have 1307 coins.
+1/26/25 1:02:03a You slaughtered a Skeletal.
+1/26/25 1:02:04a Joel'kin killed a Skeletal.
+1/26/25 1:02:13a You slaughtered a Hooded Corpse.
+1/26/25 1:02:13a Joel'kin slaughtered a Hooded Corpse.
+1/26/25 1:02:34a You slaughtered a Hooded Corpse.
+1/26/25 1:02:34a Joel'kin killed a Hooded Corpse.
+1/26/25 1:02:37a You slaughtered a Hooded Corpse.
+1/26/25 1:02:37a Joel'kin killed a Hooded Corpse.
+1/26/25 1:02:42a You slaughtered a Hooded Corpse.
+1/26/25 1:02:42a Joel'kin killed a Hooded Corpse.
+1/26/25 1:02:57a You slaughtered a Hooded Corpse.
+1/26/25 1:02:57a Joel'kin killed a Hooded Corpse.
+1/26/25 1:03:03a Shadowfire is now Clanning.
+1/26/25 1:03:04a You slaughtered a Hooded Corpse.
+1/26/25 1:03:04a Joel'kin dispatched a Hooded Corpse.
+1/26/25 1:03:09a You slaughtered a Hooded Corpse.
+1/26/25 1:03:09a Joel'kin killed a Hooded Corpse.
+1/26/25 1:03:21a You have 1307 coins.
+1/26/25 1:03:27a You slaughtered a Hooded Corpse.
+1/26/25 1:03:27a Joel'kin killed a Hooded Corpse.
+1/26/25 1:03:53a Joel'kin grunts a simple song.
+1/26/25 1:03:58a Noah is no longer Clanning.
+1/26/25 1:04:00a Haze is now Clanning.
+1/26/25 1:04:08a You slaughtered a Skeletal.
+1/26/25 1:04:08a Joel'kin slaughtered a Skeletal.
+1/26/25 1:04:18a You slaughtered a Giant Skeletal.
+1/26/25 1:04:18a Joel'kin killed a Giant Skeletal.
+1/26/25 1:04:42a You have 1307 coins.
+1/26/25 1:05:05a You slaughtered a Detached Spirit.
+1/26/25 1:05:05a Joel'kin killed a Detached Spirit.
+1/26/25 1:05:14a You slaughtered a Large Vermine.
+1/26/25 1:05:14a Joel'kin killed a Large Vermine.
+1/26/25 1:06:02a You have 1307 coins.
+1/26/25 1:06:05a You slaughtered a Hooded Corpse.
+1/26/25 1:06:05a Joel'kin dispatched a Hooded Corpse.
+1/26/25 1:07:08a You slaughtered a Corpse Warrior.
+1/26/25 1:07:09a Joel'kin killed a Corpse Warrior.
+1/26/25 1:07:18a You slaughtered a Corpse Warrior.
+1/26/25 1:07:18a Joel'kin vanquished a Corpse Warrior!
+1/26/25 1:07:22a You have 1307 coins.
+1/26/25 1:07:32a You slaughtered a Skeletal.
+1/26/25 1:07:32a Joel'kin slaughtered a Skeletal.
+1/26/25 1:07:36a Joel'kin headbutts Unholy playfully.
+1/26/25 1:07:43a You slaughtered a Hooded Corpse.
+1/26/25 1:07:43a Joel'kin killed a Hooded Corpse.
+1/26/25 1:08:19a Joel'kin growls.
+1/26/25 1:08:42a You have 1307 coins.
+1/26/25 1:09:31a You slaughtered a Hooded Corpse.
+1/26/25 1:09:31a Joel'kin killed a Hooded Corpse.
+1/26/25 1:09:43a Darth Wader is now Clanning.
+1/26/25 1:09:53a You slaughtered a Hooded Corpse.
+1/26/25 1:09:53a Joel'kin vanquished a Hooded Corpse!
+1/26/25 1:10:02a You have 1307 coins.
+1/26/25 1:10:08a You slaughtered a Corpse Warrior.
+1/26/25 1:10:08a Joel'kin vanquished a Corpse Warrior!
+1/26/25 1:10:11a You slaughtered a Hooded Corpse.
+1/26/25 1:10:11a Joel'kin killed a Hooded Corpse.
+1/26/25 1:10:24a You slaughtered a Hooded Corpse.
+1/26/25 1:10:24a Joel'kin killed a Hooded Corpse.
+1/26/25 1:10:38a You slaughtered a Hooded Corpse.
+1/26/25 1:10:38a Joel'kin killed a Hooded Corpse.
+1/26/25 1:10:57a You slaughtered a Hooded Corpse.
+1/26/25 1:10:57a Joel'kin killed a Hooded Corpse.
+1/26/25 1:11:23a You have 1307 coins.
+1/26/25 1:11:28a You slaughtered a Hooded Corpse.
+1/26/25 1:11:28a Joel'kin killed a Hooded Corpse.
+1/26/25 1:11:47a You slaughtered a Hooded Corpse.
+1/26/25 1:11:47a Joel'kin vanquished a Hooded Corpse!
+1/26/25 1:11:51a You slaughtered a Hooded Corpse.
+1/26/25 1:11:51a Joel'kin vanquished a Hooded Corpse!
+1/26/25 1:12:10a You slaughtered a Hooded Corpse.
+1/26/25 1:12:10a Joel'kin killed a Hooded Corpse.
+1/26/25 1:12:14a Joel'kin admires a pretty rock.
+1/26/25 1:12:17a You slaughtered a Hooded Corpse.
+1/26/25 1:12:17a Joel'kin slaughtered a Hooded Corpse.
+1/26/25 1:12:25a You slaughtered a Hooded Corpse.
+1/26/25 1:12:25a Joel'kin killed a Hooded Corpse.
+1/26/25 1:12:40a You slaughtered a Hooded Corpse.
+1/26/25 1:12:40a Joel'kin slaughtered a Hooded Corpse.
+1/26/25 1:12:42a You slaughtered a Hooded Corpse.
+1/26/25 1:12:42a Joel'kin killed a Hooded Corpse.
+1/26/25 1:12:43a You have 1307 coins.
+1/26/25 1:12:44a You slaughtered a Hooded Corpse.
+1/26/25 1:12:44a Joel'kin killed a Hooded Corpse.
+1/26/25 1:12:53a You slaughtered a Hooded Corpse.
+1/26/25 1:12:53a Joel'kin slaughtered a Hooded Corpse.
+1/26/25 1:13:09a You slaughtered a Hooded Corpse.
+1/26/25 1:13:09a Joel'kin killed a Hooded Corpse.
+1/26/25 1:13:13a •You do not have enough in you.
+1/26/25 1:13:14a You slaughtered a Hooded Corpse.
+1/26/25 1:13:14a Joel'kin killed a Hooded Corpse.
+1/26/25 1:13:14a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+1/26/25 1:13:15a Unholy has fallen to a Hooded Corpse.
+1/26/25 1:13:15a •You are too wounded to be healed easily.
+1/26/25 1:13:18a You slaughtered a Hooded Corpse.
+1/26/25 1:13:18a Joel'kin slaughtered a Hooded Corpse.
+1/26/25 1:13:31a You slaughtered a Hooded Corpse.
+1/26/25 1:13:31a Joel'kin killed a Hooded Corpse.
+1/26/25 1:14:00a Unholy says, "hmm"
+1/26/25 1:14:03a You have 1307 coins.
+1/26/25 1:14:08a You helped slaughter a Hooded Corpse.
+1/26/25 1:15:23a You have 1307 coins.
+1/26/25 1:15:45a You helped slaughter a Hooded Corpse.
+1/26/25 1:15:51a You helped slaughter a Hooded Corpse.
+1/26/25 1:16:21a ZipLock starts dragging you.
+1/26/25 1:16:43a You have 1307 coins.
+1/26/25 1:16:59a ZipLock vaults the wall.
+1/26/25 1:17:18a You begin sharing your experiences with Squib.
+1/26/25 1:17:18a You are sharing experiences with Squib and ZipLock.
+1/26/25 1:17:24a Lightbringer is now Clanning.
+1/26/25 1:17:24a Crius yells, "It’s 8 o’clock, and all’s well."
+1/26/25 1:17:26a Unholy says, "squib heal me"
+1/26/25 1:17:27a •You sense healing energy from Squib.
+1/26/25 1:17:29a Pendarric is now Clanning.
+1/26/25 1:17:29a Crius yells, "There’s good hunting in the Eastern Mountains."
+1/26/25 1:17:32a •You gain experience.
+1/26/25 1:17:36a You have no 'asklepianstaff' to equip.
+1/26/25 1:17:38a Joel'kin wanders in circles.
+1/26/25 1:17:41a You slaughtered a Rat.
+1/26/25 1:17:42a Joel'kin slaughtered a Rat.
+1/26/25 1:17:47a Big Boy is now Clanning.
+1/26/25 1:18:04a You have 1307 coins.
+1/26/25 1:18:16a Eitri is now Clanning.
+1/26/25 1:18:25a Anika is now Clanning.
+1/26/25 1:18:57a Murrim is now Clanning.
+1/26/25 1:19:03a Unholy whispers, "Attack"
+1/26/25 1:19:17a You slaughtered a Rat.
+1/26/25 1:19:17a Joel'kin slaughtered a Rat.
+1/26/25 1:19:18a •You lock your healing to Joel'kin.
+1/26/25 1:19:24a You have 1307 coins.
+1/26/25 1:19:33a You slaughtered a Hooded Corpse.
+1/26/25 1:19:33a Joel'kin vanquished a Hooded Corpse!
+1/26/25 1:19:35a You slaughtered a Large Vermine.
+1/26/25 1:19:35a Joel'kin slaughtered a Large Vermine.
+1/26/25 1:19:52a You slaughtered a Hooded Corpse.
+1/26/25 1:19:53a Joel'kin killed a Hooded Corpse.
+1/26/25 1:19:56a You slaughtered a Large Vermine.
+1/26/25 1:19:56a Joel'kin killed a Large Vermine.
+1/26/25 1:19:56a * You recover the Large Vermine fur, worth 1c.
+1/26/25 1:19:59a Darth Wader is no longer Clanning.
+1/26/25 1:19:59a You slaughtered a Vermine.
+1/26/25 1:19:59a Joel'kin slaughtered a Vermine.
+1/26/25 1:20:01a You slaughtered a Large Vermine.
+1/26/25 1:20:01a Joel'kin slaughtered a Large Vermine.
+1/26/25 1:20:01a * You recover the Large Vermine fur, worth 1c.
+1/26/25 1:20:12a You slaughtered a Hooded Corpse.
+1/26/25 1:20:12a Joel'kin vanquished a Hooded Corpse!
+1/26/25 1:20:17a You slaughtered a Large Vermine.
+1/26/25 1:20:17a Joel'kin slaughtered a Large Vermine.
+1/26/25 1:20:17a * ZipLock recovers the Large Vermine fur, worth 1c. Your share is 1c.
+1/26/25 1:20:24a A monster growls, "..."
+1/26/25 1:20:31a You slaughtered a Hooded Corpse.
+1/26/25 1:20:32a Joel'kin vanquished a Hooded Corpse!
+1/26/25 1:20:37a You slaughtered a Large Vermine.
+1/26/25 1:20:37a Joel'kin killed a Large Vermine.
+1/26/25 1:20:40a You slaughtered a Large Vermine.
+1/26/25 1:20:40a Joel'kin killed a Large Vermine.
+1/26/25 1:20:40a * ZipLock recovers the Large Vermine fur, worth 1c. Your share is 1c.
+1/26/25 1:20:43a You slaughtered a Large Vermine.
+1/26/25 1:20:43a Joel'kin slaughtered a Large Vermine.
+1/26/25 1:20:44a You have 1309 coins.
+1/26/25 1:20:44a You slaughtered a Rat.
+1/26/25 1:20:45a Joel'kin slaughtered a Rat.
+1/26/25 1:20:48a You slaughtered a Large Vermine.
+1/26/25 1:20:48a Joel'kin killed a Large Vermine.
+1/26/25 1:20:48a * You recover the Large Vermine fur, worth 1c.
+1/26/25 1:20:51a You helped slaughter a Hooded Corpse.
+1/26/25 1:20:51a Joel'kin killed a Hooded Corpse.
+1/26/25 1:20:55a Fern is no longer Clanning.
+1/26/25 1:21:01a You slaughtered a Hooded Corpse.
+1/26/25 1:21:01a Joel'kin killed a Hooded Corpse.
+1/26/25 1:21:06a You slaughtered a Large Vermine.
+1/26/25 1:21:06a Joel'kin killed a Large Vermine.
+1/26/25 1:21:08a You slaughtered a Rat.
+1/26/25 1:21:08a Joel'kin slaughtered a Rat.
+1/26/25 1:21:14a You slaughtered a Large Vermine.
+1/26/25 1:21:14a Valadorei thinks, "Which way? S?"
+1/26/25 1:21:15a Joel'kin killed a Large Vermine.
+1/26/25 1:21:15a * ZipLock recovers the Large Vermine fur, worth 2c. Your share is 1c.
+1/26/25 1:21:17a You slaughtered a Rat.
+1/26/25 1:21:17a Joel'kin slaughtered a Rat.
+1/26/25 1:21:34a EBow is now Clanning.
+1/26/25 1:21:36a You slaughtered a Giant Slug.
+1/26/25 1:21:36a Joel'kin dispatched a Giant Slug.
+1/26/25 1:21:42a •The player must be in the same area.
+1/26/25 1:21:46a •You lock your healing to Joel'kin.
+1/26/25 1:21:46a •Joel'kin is too far away.
+1/26/25 1:21:48a Azriel is now Clanning.
+1/26/25 1:21:50a •You lock your healing to Joel'kin.
+1/26/25 1:21:55a Saz is now Clanning.
+1/26/25 1:22:04a You have 1310 coins.
+1/26/25 1:22:08a You slaughtered a Hooded Corpse.
+1/26/25 1:22:08a Joel'kin killed a Hooded Corpse.
+1/26/25 1:22:12a You slaughtered a Hooded Corpse.
+1/26/25 1:22:12a Joel'kin killed a Hooded Corpse.
+1/26/25 1:22:24a You slaughtered a Corpse Warrior.
+1/26/25 1:22:25a Joel'kin killed a Corpse Warrior.
+1/26/25 1:22:36a You slaughtered a Hooded Corpse.
+1/26/25 1:22:37a Joel'kin killed a Hooded Corpse.
+1/26/25 1:22:47a You slaughtered a Skeletal.
+1/26/25 1:22:47a Joel'kin killed a Skeletal.
+1/26/25 1:22:53a You slaughtered a Hooded Corpse.
+1/26/25 1:22:54a Joel'kin killed a Hooded Corpse.
+1/26/25 1:22:57a Saz is no longer Clanning.
+1/26/25 1:22:59a You slaughtered a Skeletal.
+1/26/25 1:22:59a Joel'kin killed a Skeletal.
+1/26/25 1:23:00a Rose is now Clanning.
+1/26/25 1:23:12a You slaughtered a Hooded Corpse.
+1/26/25 1:23:12a Joel'kin killed a Hooded Corpse.
+1/26/25 1:23:16a Joel'kin keeps watch for danger.
+1/26/25 1:23:17a Rose is no longer Clanning.
+1/26/25 1:23:20a Qzix is now Clanning.
+1/26/25 1:23:24a You have 1310 coins.
+1/26/25 1:23:28a You slaughtered a Hooded Corpse.
+1/26/25 1:23:28a Joel'kin killed a Hooded Corpse.
+1/26/25 1:23:32a Qzix is no longer Clanning.
+1/26/25 1:23:35a Julia is now Clanning.
+1/26/25 1:23:43a You slaughtered a Hooded Corpse.
+1/26/25 1:23:43a Joel'kin killed a Hooded Corpse.
+1/26/25 1:23:50a You slaughtered a Hooded Corpse.
+1/26/25 1:23:50a Joel'kin killed a Hooded Corpse.
+1/26/25 1:24:00a You helped slaughter a Corpse Warrior.
+1/26/25 1:24:00a Joel'kin vanquished a Corpse Warrior!
+1/26/25 1:24:12a You slaughtered a Skeletal.
+1/26/25 1:24:12a Joel'kin dispatched a Skeletal.
+1/26/25 1:24:45a You have 1310 coins.
+1/26/25 1:24:45a You slaughtered a Hooded Corpse.
+1/26/25 1:24:46a Joel'kin killed a Hooded Corpse.
+1/26/25 1:24:57a You slaughtered a Hooded Corpse.
+1/26/25 1:24:58a Joel'kin killed a Hooded Corpse.
+1/26/25 1:26:05a Joel'kin wanders in circles.
+1/26/25 1:26:05a You have 1310 coins.
+1/26/25 1:26:35a You slaughtered a Hooded Corpse.
+1/26/25 1:26:35a Joel'kin killed a Hooded Corpse.
+1/26/25 1:26:46a EBow is no longer Clanning.
+1/26/25 1:26:50a You slaughtered a Hooded Corpse.
+1/26/25 1:26:50a Joel'kin killed a Hooded Corpse.
+1/26/25 1:27:12a You slaughtered a Detached Spirit.
+1/26/25 1:27:12a Joel'kin killed a Detached Spirit.
+1/26/25 1:27:25a You have 1310 coins.
+1/26/25 1:27:28a Joel'kin bangs two rocks together.
+1/26/25 1:27:42a You slaughtered a Giant Skeletal.
+1/26/25 1:27:43a Joel'kin killed a Giant Skeletal.
+1/26/25 1:28:45a You have 1310 coins.
+1/26/25 1:28:54a You slaughtered a Hooded Corpse.
+1/26/25 1:28:54a Joel'kin killed a Hooded Corpse.
+1/26/25 1:29:05a Joel'kin polishes his horns.
+1/26/25 1:29:06a You slaughtered a Hooded Corpse.
+1/26/25 1:29:07a Joel'kin killed a Hooded Corpse.
+1/26/25 1:29:11a You slaughtered a Hooded Corpse.
+1/26/25 1:29:11a Joel'kin killed a Hooded Corpse.
+1/26/25 1:29:24a You slaughtered a Hooded Corpse.
+1/26/25 1:29:24a Joel'kin killed a Hooded Corpse.
+1/26/25 1:29:44a You slaughtered a Skeletal.
+1/26/25 1:29:44a Joel'kin slaughtered a Skeletal.
+1/26/25 1:30:05a You have 1310 coins.
+1/26/25 1:31:20a Joel'kin wanders in circles.
+1/26/25 1:31:26a You have 1310 coins.
+1/26/25 1:32:01a You slaughtered a Skeletal.
+1/26/25 1:32:02a Joel'kin slaughtered a Skeletal.
+1/26/25 1:32:11a Shamhat is now Clanning.
+1/26/25 1:32:17a You slaughtered a Hooded Corpse.
+1/26/25 1:32:17a Joel'kin killed a Hooded Corpse.
+1/26/25 1:32:18a You slaughtered a Skeletal.
+1/26/25 1:32:19a Joel'kin slaughtered a Skeletal.
+1/26/25 1:32:41a Joel'kin wanders in circles.
+1/26/25 1:32:46a You have 1310 coins.
+1/26/25 1:34:06a You have 1310 coins.
+1/26/25 1:34:17a You slaughtered a Hooded Corpse.
+1/26/25 1:34:17a Joel'kin killed a Hooded Corpse.
+1/26/25 1:34:39a You slaughtered a Hooded Corpse.
+1/26/25 1:34:39a Joel'kin killed a Hooded Corpse.
+1/26/25 1:34:48a You slaughtered a Hooded Corpse.
+1/26/25 1:34:49a Joel'kin killed a Hooded Corpse.
+1/26/25 1:35:03a You slaughtered a Hooded Corpse.
+1/26/25 1:35:04a Joel'kin killed a Hooded Corpse.
+1/26/25 1:35:09a You slaughtered a Hooded Corpse.
+1/26/25 1:35:09a Joel'kin killed a Hooded Corpse.
+1/26/25 1:35:21a You slaughtered a Hooded Corpse.
+1/26/25 1:35:22a Joel'kin killed a Hooded Corpse.
+1/26/25 1:35:26a You have 1310 coins.
+1/26/25 1:36:20a Joel'kin lifts his nose to the wind.
+1/26/25 1:36:42a Abox thinks, "Snacks is not here"
+1/26/25 1:36:46a You have 1310 coins.
+1/26/25 1:38:07a You have 1310 coins.
+1/26/25 1:38:18a You slaughtered a Detached Spirit.
+1/26/25 1:38:18a Joel'kin killed a Detached Spirit.
+1/26/25 1:39:27a You have 1310 coins.
+1/26/25 1:39:31a You slaughtered a Hooded Corpse.
+1/26/25 1:39:31a Joel'kin killed a Hooded Corpse.
+1/26/25 1:39:41a You slaughtered a Hooded Corpse.
+1/26/25 1:39:41a Joel'kin slaughtered a Hooded Corpse.
+1/26/25 1:39:57a You slaughtered a Hooded Corpse.
+1/26/25 1:39:57a Joel'kin killed a Hooded Corpse.
+1/26/25 1:40:09a You slaughtered a Hooded Corpse.
+1/26/25 1:40:10a Joel'kin slaughtered a Hooded Corpse.
+1/26/25 1:40:22a Joel'kin picks his nose.
+1/26/25 1:40:28a You slaughtered a Hooded Corpse.
+1/26/25 1:40:28a Joel'kin killed a Hooded Corpse.
+1/26/25 1:40:32a You slaughtered a Hooded Corpse.
+1/26/25 1:40:33a Joel'kin killed a Hooded Corpse.
+1/26/25 1:40:44a You slaughtered a Hooded Corpse.
+1/26/25 1:40:44a Joel'kin killed a Hooded Corpse.
+1/26/25 1:40:47a You have 1310 coins.
+1/26/25 1:40:57a You slaughtered a Hooded Corpse.
+1/26/25 1:40:57a Joel'kin killed a Hooded Corpse.
+1/26/25 1:41:19a You slaughtered a Hooded Corpse.
+1/26/25 1:41:19a Joel'kin killed a Hooded Corpse.
+1/26/25 1:41:21a You slaughtered a Hooded Corpse.
+1/26/25 1:41:21a Joel'kin killed a Hooded Corpse.
+1/26/25 1:41:35a You slaughtered a Hooded Corpse.
+1/26/25 1:41:35a Joel'kin killed a Hooded Corpse.
+1/26/25 1:41:46a You slaughtered a Hooded Corpse.
+1/26/25 1:41:46a Joel'kin killed a Hooded Corpse.
+1/26/25 1:42:07a You have 1310 coins.
+1/26/25 1:42:46a Joel'kin bangs two rocks together.
+1/26/25 1:43:27a You have 1310 coins.
+1/26/25 1:43:39a Shamhat is no longer Clanning.
+1/26/25 1:44:48a You have 1310 coins.
+1/26/25 1:45:17a Joel'kin bangs two rocks together.
+1/26/25 1:45:39a You slaughtered a Hooded Corpse.
+1/26/25 1:45:39a Joel'kin slaughtered a Hooded Corpse.
+1/26/25 1:46:08a You have 1310 coins.
+1/26/25 1:46:12a Murrim is no longer Clanning.
+1/26/25 1:46:28a L'otso is now Clanning.
+1/26/25 1:47:28a You have 1310 coins.
+1/26/25 1:47:38a Joel'kin grunts a simple song.
+1/26/25 1:48:11a You slaughtered a Hooded Corpse.
+1/26/25 1:48:11a Joel'kin killed a Hooded Corpse.
+1/26/25 1:48:38a You slaughtered a Hooded Corpse.
+1/26/25 1:48:38a Joel'kin killed a Hooded Corpse.
+1/26/25 1:48:45a Eli thinks, "bring it n"
+1/26/25 1:48:48a You slaughtered a Hooded Corpse.
+1/26/25 1:48:48a You have 1310 coins.
+1/26/25 1:48:48a Joel'kin vanquished a Hooded Corpse!
+1/26/25 1:48:55a You slaughtered a Hooded Corpse.
+1/26/25 1:48:55a Joel'kin killed a Hooded Corpse.
+1/26/25 1:49:04a You slaughtered a Hooded Corpse.
+1/26/25 1:49:04a Joel'kin killed a Hooded Corpse.
+1/26/25 1:50:08a You have 1310 coins.
+1/26/25 1:50:54a You slaughtered a Hooded Corpse.
+1/26/25 1:50:54a Joel'kin killed a Hooded Corpse.
+1/26/25 1:50:57a You slaughtered a Hooded Corpse.
+1/26/25 1:50:57a Joel'kin killed a Hooded Corpse.
+1/26/25 1:51:06a You slaughtered a Hooded Corpse.
+1/26/25 1:51:07a Joel'kin killed a Hooded Corpse.
+1/26/25 1:51:16a You slaughtered a Hooded Corpse.
+1/26/25 1:51:16a Joel'kin killed a Hooded Corpse.
+1/26/25 1:51:16a Joel'kin growls.
+1/26/25 1:51:29a You have 1310 coins.
+1/26/25 1:51:36a You slaughtered a Hooded Corpse.
+1/26/25 1:51:36a Joel'kin killed a Hooded Corpse.
+1/26/25 1:51:44a You slaughtered a Hooded Corpse.
+1/26/25 1:51:44a Joel'kin killed a Hooded Corpse.
+1/26/25 1:52:49a You have 1310 coins.
+1/26/25 1:53:15a You slaughtered a Corpse Warrior.
+1/26/25 1:53:15a Joel'kin killed a Corpse Warrior.
+1/26/25 1:53:50a Joel'kin juggles small pebbles.
+1/26/25 1:54:09a You have 1310 coins.
+1/26/25 1:55:29a You have 1310 coins.
+1/26/25 1:55:37a You slaughtered a Corpse Warrior.
+1/26/25 1:55:37a Joel'kin vanquished a Corpse Warrior!
+1/26/25 1:55:48a You slaughtered a Corpse Warrior.
+1/26/25 1:55:48a Joel'kin vanquished a Corpse Warrior!
+1/26/25 1:56:02a You slaughtered a Corpse Warrior.
+1/26/25 1:56:02a Joel'kin killed a Corpse Warrior.
+1/26/25 1:56:23a You slaughtered a Corpse Warrior.
+1/26/25 1:56:23a Joel'kin killed a Corpse Warrior.
+1/26/25 1:56:49a You have 1310 coins.
+1/26/25 1:57:02a You slaughtered a Hooded Corpse.
+1/26/25 1:57:03a Joel'kin killed a Hooded Corpse.
+1/26/25 1:57:17a You slaughtered a Hooded Corpse.
+1/26/25 1:57:17a Joel'kin killed a Hooded Corpse.
+1/26/25 1:57:24a You slaughtered a Hooded Corpse.
+1/26/25 1:57:25a Joel'kin killed a Hooded Corpse.
+1/26/25 1:57:27a You slaughtered a Hooded Corpse.
+1/26/25 1:57:27a Joel'kin killed a Hooded Corpse.
+1/26/25 1:57:36a You slaughtered a Hooded Corpse.
+1/26/25 1:57:37a Joel'kin killed a Hooded Corpse.
+1/26/25 1:57:37a * Joel'kin grows stronger.
+1/26/25 1:57:44a You slaughtered a Hooded Corpse.
+1/26/25 1:57:45a Joel'kin killed a Hooded Corpse.
+1/26/25 1:57:56a You slaughtered a Hooded Corpse.
+1/26/25 1:57:56a Joel'kin killed a Hooded Corpse.
+1/26/25 1:57:56a Joel'kin sharpens a rock.
+1/26/25 1:58:10a You have 1310 coins.
+1/26/25 1:59:30a You have 1310 coins.
+1/26/25 1:59:42a You slaughtered a Hooded Corpse.
+1/26/25 1:59:42a Joel'kin killed a Hooded Corpse.
+1/26/25 2:00:08a Joel'kin points at Unholy, then laughs.
+1/26/25 2:00:19a You slaughtered a Hooded Corpse.
+1/26/25 2:00:19a Joel'kin killed a Hooded Corpse.
+1/26/25 2:00:41a You slaughtered a Hooded Corpse.
+1/26/25 2:00:41a Joel'kin killed a Hooded Corpse.
+1/26/25 2:00:50a You have 1310 coins.
+1/26/25 2:01:00a You slaughtered a Hooded Corpse.
+1/26/25 2:01:01a Joel'kin killed a Hooded Corpse.
+1/26/25 2:01:06a You slaughtered a Hooded Corpse.
+1/26/25 2:01:07a Joel'kin slaughtered a Hooded Corpse.
+1/26/25 2:01:50a Joel'kin juggles small pebbles.
+1/26/25 2:02:10a You have 1310 coins.
+1/26/25 2:03:30a You have 1310 coins.
+1/26/25 2:03:35a You slaughtered a Corpse Warrior.
+1/26/25 2:03:35a Joel'kin vanquished a Corpse Warrior!
+1/26/25 2:03:46a Xepel is now Clanning.
+1/26/25 2:03:56a You slaughtered a Corpse Warrior.
+1/26/25 2:03:57a Joel'kin vanquished a Corpse Warrior!
+1/26/25 2:04:15a You slaughtered a Corpse Warrior.
+1/26/25 2:04:16a Joel'kin vanquished a Corpse Warrior!
+1/26/25 2:04:27a Xepel is no longer Clanning.
+1/26/25 2:04:31a You slaughtered a Corpse Warrior.
+1/26/25 2:04:31a Joel'kin vanquished a Corpse Warrior!
+1/26/25 2:04:51a You have 1310 coins.
+1/26/25 2:04:51a A monster growls, "..."
+1/26/25 2:06:11a You have 1310 coins.
+1/26/25 2:06:39a You slaughtered a Hooded Corpse.
+1/26/25 2:06:39a Joel'kin killed a Hooded Corpse.
+1/26/25 2:06:52a You slaughtered a Hooded Corpse.
+1/26/25 2:06:52a Joel'kin killed a Hooded Corpse.
+1/26/25 2:07:01a You slaughtered a Hooded Corpse.
+1/26/25 2:07:01a Joel'kin killed a Hooded Corpse.
+1/26/25 2:07:22a You slaughtered a Hooded Corpse.
+1/26/25 2:07:22a Joel'kin vanquished a Hooded Corpse!
+1/26/25 2:07:29a You slaughtered a Hooded Corpse.
+1/26/25 2:07:29a Joel'kin killed a Hooded Corpse.
+1/26/25 2:07:31a You have 1310 coins.
+1/26/25 2:07:35a You slaughtered a Hooded Corpse.
+1/26/25 2:07:35a Joel'kin killed a Hooded Corpse.
+1/26/25 2:07:59a You slaughtered a Hooded Corpse.
+1/26/25 2:07:59a Joel'kin killed a Hooded Corpse.
+1/26/25 2:08:18a You slaughtered a Hooded Corpse.
+1/26/25 2:08:19a Joel'kin killed a Hooded Corpse.
+1/26/25 2:08:20a You slaughtered a Hooded Corpse.
+1/26/25 2:08:20a Joel'kin killed a Hooded Corpse.
+1/26/25 2:08:51a You have 1310 coins.
+1/26/25 2:09:19a Joel'kin displays his tusks.
+1/26/25 2:09:29a You slaughtered a Hooded Corpse.
+1/26/25 2:09:29a Joel'kin killed a Hooded Corpse.
+1/26/25 2:09:41a You slaughtered a Hooded Corpse.
+1/26/25 2:09:41a Joel'kin killed a Hooded Corpse.
+1/26/25 2:09:51a You slaughtered a Hooded Corpse.
+1/26/25 2:09:51a Joel'kin killed a Hooded Corpse.
+1/26/25 2:09:55a You slaughtered a Hooded Corpse.
+1/26/25 2:09:56a Joel'kin killed a Hooded Corpse.
+1/26/25 2:10:00a You slaughtered a Hooded Corpse.
+1/26/25 2:10:01a Joel'kin killed a Hooded Corpse.
+1/26/25 2:10:11a You slaughtered a Hooded Corpse.
+1/26/25 2:10:11a You have 1310 coins.
+1/26/25 2:10:11a Joel'kin killed a Hooded Corpse.
+1/26/25 2:10:22a You slaughtered a Hooded Corpse.
+1/26/25 2:10:22a Joel'kin killed a Hooded Corpse.
+1/26/25 2:11:32a You have 1310 coins.
+1/26/25 2:12:02a Joel'kin smells a quarry nearby.
+1/26/25 2:12:05a You slaughtered a Hooded Corpse.
+1/26/25 2:12:05a Joel'kin slaughtered a Hooded Corpse.
+1/26/25 2:12:10a You slaughtered a Hooded Corpse.
+1/26/25 2:12:10a Joel'kin killed a Hooded Corpse.
+1/26/25 2:12:24a You slaughtered a Hooded Corpse.
+1/26/25 2:12:24a Joel'kin killed a Hooded Corpse.
+1/26/25 2:12:52a You have 1310 coins.
+1/26/25 2:14:07a You slaughtered a Corpse Warrior.
+1/26/25 2:14:07a Joel'kin vanquished a Corpse Warrior!
+1/26/25 2:14:10a You slaughtered a Corpse Warrior.
+1/26/25 2:14:10a Joel'kin killed a Corpse Warrior.
+1/26/25 2:14:12a You have 1310 coins.
+1/26/25 2:14:26a You slaughtered a Corpse Warrior.
+1/26/25 2:14:26a Joel'kin vanquished a Corpse Warrior!
+1/26/25 2:14:40a You slaughtered a Corpse Warrior.
+1/26/25 2:14:40a Joel'kin killed a Corpse Warrior.
+1/26/25 2:15:11a L'otso is no longer Clanning.
+1/26/25 2:15:26a Joel'kin looks out for trouble.
+1/26/25 2:15:32a You have 1310 coins.
+1/26/25 2:16:52a You have 1310 coins.
+1/26/25 2:17:12a Joel'kin growls.
+1/26/25 2:17:30a You slaughtered a Hooded Corpse.
+1/26/25 2:17:30a Joel'kin dispatched a Hooded Corpse.
+1/26/25 2:17:39a You slaughtered a Hooded Corpse.
+1/26/25 2:17:39a Joel'kin killed a Hooded Corpse.
+1/26/25 2:17:41a Joel'kin bangs on one of Unholy's cookpots.
+1/26/25 2:17:52a You slaughtered a Hooded Corpse.
+1/26/25 2:17:53a Joel'kin killed a Hooded Corpse.
+1/26/25 2:18:13a You have 1310 coins.
+1/26/25 2:18:50a L'otso is now Clanning.
+1/26/25 2:19:19a You have no 'asklepianstaff' to equip.
+1/26/25 2:19:19a *  Lovsya  
+1/26/25 2:19:19a •You unlock your caduceus healing.
+1/26/25 2:19:19a •The player must be in the same area.
+1/26/25 2:19:23a •You lock your healing to Joel'kin.
+1/26/25 2:19:33a You have 1310 coins.
+1/26/25 2:19:48a You slaughtered a Corpse Warrior.
+1/26/25 2:19:48a Joel'kin vanquished a Corpse Warrior!
+1/26/25 2:20:05a You slaughtered a Corpse Warrior.
+1/26/25 2:20:05a Joel'kin vanquished a Corpse Warrior!
+1/26/25 2:20:43a Joel'kin grunts.
+1/26/25 2:20:53a You have 1310 coins.
+1/26/25 2:21:13a You slaughtered a Hooded Corpse.
+1/26/25 2:21:14a Joel'kin killed a Hooded Corpse.
+1/26/25 2:21:17a You slaughtered a Hooded Corpse.
+1/26/25 2:21:17a Joel'kin killed a Hooded Corpse.
+1/26/25 2:21:17a Eli thinks, "in"
+1/26/25 2:21:32a You slaughtered a Hooded Corpse.
+1/26/25 2:21:32a Joel'kin killed a Hooded Corpse.
+1/26/25 2:21:51a You slaughtered a Hooded Corpse.
+1/26/25 2:21:51a Joel'kin killed a Hooded Corpse.
+1/26/25 2:22:05a You slaughtered a Hooded Corpse.
+1/26/25 2:22:05a Joel'kin killed a Hooded Corpse.
+1/26/25 2:22:12a You slaughtered a Hooded Corpse.
+1/26/25 2:22:12a Joel'kin slaughtered a Hooded Corpse.
+1/26/25 2:22:13a You have 1310 coins.
+1/26/25 2:22:22a You slaughtered a Hooded Corpse.
+1/26/25 2:22:22a Joel'kin slaughtered a Hooded Corpse.
+1/26/25 2:22:33a You slaughtered a Hooded Corpse.
+1/26/25 2:22:33a Joel'kin killed a Hooded Corpse.
+1/26/25 2:23:19a Anodos is now Clanning.
+1/26/25 2:23:30a You have no 'asklepianstaff' to equip.
+1/26/25 2:23:30a *  Anodos  
+1/26/25 2:23:32a •Your healing is already locked to Joel'kin.
+1/26/25 2:23:33a You have 1310 coins.
+1/26/25 2:23:37a You have no 'asklepianstaff' to equip.
+1/26/25 2:23:37a *  Anodos  
+1/26/25 2:23:40a You have no 'asklepianstaff' to equip.
+1/26/25 2:23:40a *  Azriel  
+1/26/25 2:23:41a •Your healing is already locked to Joel'kin.
+1/26/25 2:23:59a Joel'kin lifts his nose to the wind.
+1/26/25 2:24:46a You slaughtered a Corpse Warrior.
+1/26/25 2:24:46a Joel'kin killed a Corpse Warrior.
+1/26/25 2:24:54a You have 1310 coins.
+1/26/25 2:24:57a You slaughtered a Corpse Warrior.
+1/26/25 2:24:57a Joel'kin killed a Corpse Warrior.
+1/26/25 2:25:49a Joel'kin stares at a pretty seashell.
+1/26/25 2:26:01a You slaughtered a Corpse Warrior.
+1/26/25 2:26:02a Joel'kin vanquished a Corpse Warrior!
+1/26/25 2:26:14a You have 1310 coins.
+1/26/25 2:26:24a You slaughtered a Corpse Warrior.
+1/26/25 2:26:25a Joel'kin vanquished a Corpse Warrior!
+1/26/25 2:27:19a Heracles is now Clanning.
+1/26/25 2:27:32a You slaughtered a Hooded Corpse.
+1/26/25 2:27:33a Joel'kin killed a Hooded Corpse.
+1/26/25 2:27:34a You have 1310 coins.
+1/26/25 2:27:38a You slaughtered a Hooded Corpse.
+1/26/25 2:27:38a Joel'kin killed a Hooded Corpse.
+1/26/25 2:27:50a You slaughtered a Hooded Corpse.
+1/26/25 2:27:50a Joel'kin killed a Hooded Corpse.
+1/26/25 2:28:32a Joel'kin bangs on one of Unholy's cookpots.
+1/26/25 2:28:54a You have 1310 coins.
+1/26/25 2:30:13a Selucreh is now Clanning.
+1/26/25 2:30:14a You have 1310 coins.
+1/26/25 2:30:32a You slaughtered a Corpse Warrior.
+1/26/25 2:30:33a Joel'kin killed a Corpse Warrior.
+1/26/25 2:30:44a Eitri is no longer Clanning.
+1/26/25 2:30:46a Joel'kin headbutts Unholy playfully.
+1/26/25 2:31:13a Lightbringer is no longer Clanning.
+1/26/25 2:31:16a Azriel is no longer Clanning.
+1/26/25 2:31:24a You slaughtered a Hooded Corpse.
+1/26/25 2:31:24a Joel'kin killed a Hooded Corpse.
+1/26/25 2:31:27a Anika is no longer Clanning.
+1/26/25 2:31:28a You slaughtered a Hooded Corpse.
+1/26/25 2:31:28a Joel'kin killed a Hooded Corpse.
+1/26/25 2:31:35a You have 1310 coins.
+1/26/25 2:31:39a Glacial is now Clanning.
+1/26/25 2:31:40a You slaughtered a Hooded Corpse.
+1/26/25 2:31:40a Joel'kin killed a Hooded Corpse.
+1/26/25 2:31:57a Glacial thinks, "what in the world? Im not dead in snowy?!"
+1/26/25 2:32:04a You slaughtered a Hooded Corpse.
+1/26/25 2:32:05a Joel'kin killed a Hooded Corpse.
+1/26/25 2:32:08a You slaughtered a Hooded Corpse.
+1/26/25 2:32:08a Joel'kin killed a Hooded Corpse.
+1/26/25 2:32:14a Joel'kin emits a strong musky smell.
+1/26/25 2:32:22a You slaughtered a Hooded Corpse.
+1/26/25 2:32:22a Joel'kin killed a Hooded Corpse.
+1/26/25 2:32:30a Selucreh is no longer Clanning.
+1/26/25 2:32:34a You slaughtered a Hooded Corpse.
+1/26/25 2:32:34a Joel'kin killed a Hooded Corpse.
+1/26/25 2:32:43a You slaughtered a Hooded Corpse.
+1/26/25 2:32:43a Joel'kin killed a Hooded Corpse.
+1/26/25 2:32:55a You have 1310 coins.
+1/26/25 2:33:33a Big Boy is no longer Clanning.
+1/26/25 2:33:48a Marzo is now Clanning.
+1/26/25 2:33:51a You slaughtered a Corpse Warrior.
+1/26/25 2:33:51a Joel'kin vanquished a Corpse Warrior!
+1/26/25 2:34:15a You have 1310 coins.
+1/26/25 2:34:24a You slaughtered a Hooded Corpse.
+1/26/25 2:34:24a Joel'kin killed a Hooded Corpse.
+1/26/25 2:34:28a Big Boy is now Clanning.
+1/26/25 2:35:35a You have 1310 coins.
+1/26/25 2:35:39a Glacial is no longer Clanning.
+1/26/25 2:36:20a Aurelie is now Clanning.
+1/26/25 2:36:30a You slaughtered a Detached Spirit.
+1/26/25 2:36:30a Joel'kin killed a Detached Spirit.
+1/26/25 2:36:34a Anodos is no longer Clanning.
+1/26/25 2:36:55a You have 1310 coins.
+1/26/25 2:37:17a Pendarric is no longer Clanning.
+1/26/25 2:37:31a Big Boy is no longer Clanning.
+1/26/25 2:37:33a Marzo is no longer Clanning.
+1/26/25 2:37:39a You slaughtered a Hooded Corpse.
+1/26/25 2:37:39a Joel'kin killed a Hooded Corpse.
+1/26/25 2:37:47a You slaughtered a Hooded Corpse.
+1/26/25 2:37:48a Joel'kin killed a Hooded Corpse.
+1/26/25 2:38:00a You slaughtered a Hooded Corpse.
+1/26/25 2:38:00a Joel'kin killed a Hooded Corpse.
+1/26/25 2:38:04a You slaughtered a Hooded Corpse.
+1/26/25 2:38:04a Joel'kin killed a Hooded Corpse.
+1/26/25 2:38:12a You slaughtered a Hooded Corpse.
+1/26/25 2:38:12a Joel'kin killed a Hooded Corpse.
+1/26/25 2:38:16a You have 1310 coins.
+1/26/25 2:38:27a You slaughtered a Hooded Corpse.
+1/26/25 2:38:27a Joel'kin slaughtered a Hooded Corpse.
+1/26/25 2:38:35a You slaughtered a Hooded Corpse.
+1/26/25 2:38:35a Joel'kin killed a Hooded Corpse.
+1/26/25 2:38:50a You slaughtered a Hooded Corpse.
+1/26/25 2:38:51a Joel'kin killed a Hooded Corpse.
+1/26/25 2:39:36a You have 1310 coins.
+1/26/25 2:39:38a Joel'kin sharpens a rock.
+1/26/25 2:39:40a Julia is no longer Clanning.
+1/26/25 2:39:43a Saz is now Clanning.
+1/26/25 2:39:44a Ilonos is now Clanning.
+1/26/25 2:40:43a You slaughtered a Hooded Corpse.
+1/26/25 2:40:43a Joel'kin killed a Hooded Corpse.
+1/26/25 2:40:50a You slaughtered a Hooded Corpse.
+1/26/25 2:40:50a Joel'kin killed a Hooded Corpse.
+1/26/25 2:40:56a You have 1310 coins.
+1/26/25 2:41:01a You slaughtered a Hooded Corpse.
+1/26/25 2:41:01a Joel'kin killed a Hooded Corpse.
+1/26/25 2:41:12a You slaughtered a Hooded Corpse.
+1/26/25 2:41:13a Joel'kin killed a Hooded Corpse.
+1/26/25 2:41:21a Balangar is now Clanning.
+1/26/25 2:41:30a You slaughtered a Hooded Corpse.
+1/26/25 2:41:30a Joel'kin dispatched a Hooded Corpse.
+1/26/25 2:41:31a Saz is no longer Clanning.
+1/26/25 2:41:32a You slaughtered a Hooded Corpse.
+1/26/25 2:41:32a Joel'kin killed a Hooded Corpse.
+1/26/25 2:41:42a Klur is no longer Clanning.
+1/26/25 2:41:45a You slaughtered a Hooded Corpse.
+1/26/25 2:41:45a Joel'kin killed a Hooded Corpse.
+1/26/25 2:41:47a Tra is now Clanning.
+1/26/25 2:41:55a A monster growls, "Ugh."
+1/26/25 2:42:00a You slaughtered a Hooded Corpse.
+1/26/25 2:42:00a Joel'kin killed a Hooded Corpse.
+1/26/25 2:42:16a You have 1310 coins.
+1/26/25 2:43:26a You slaughtered a Corpse Warrior.
+1/26/25 2:43:26a Joel'kin killed a Corpse Warrior.
+1/26/25 2:43:32a You slaughtered a Corpse Warrior.
+1/26/25 2:43:32a Joel'kin killed a Corpse Warrior.
+1/26/25 2:43:36a You have 1310 coins.
+1/26/25 2:43:52a You slaughtered a Corpse Warrior.
+1/26/25 2:43:52a Joel'kin vanquished a Corpse Warrior!
+1/26/25 2:44:22a You slaughtered a Corpse Warrior.
+1/26/25 2:44:22a Joel'kin vanquished a Corpse Warrior!
+1/26/25 2:44:25a Joel'kin sharpens a rock.
+1/26/25 2:44:27a You slaughtered a Corpse Warrior.
+1/26/25 2:44:27a Joel'kin vanquished a Corpse Warrior!
+1/26/25 2:44:43a You slaughtered a Corpse Warrior.
+1/26/25 2:44:43a Joel'kin vanquished a Corpse Warrior!
+1/26/25 2:44:57a You have 1310 coins.
+1/26/25 2:44:59a You slaughtered a Corpse Warrior.
+1/26/25 2:44:59a Joel'kin vanquished a Corpse Warrior!
+1/26/25 2:45:35a You slaughtered a Hooded Corpse.
+1/26/25 2:45:35a Joel'kin slaughtered a Hooded Corpse.
+1/26/25 2:45:46a You slaughtered a Hooded Corpse.
+1/26/25 2:45:46a Joel'kin killed a Hooded Corpse.
+1/26/25 2:45:52a You slaughtered a Hooded Corpse.
+1/26/25 2:45:52a Joel'kin killed a Hooded Corpse.
+1/26/25 2:45:58a You slaughtered a Hooded Corpse.
+1/26/25 2:45:58a Joel'kin killed a Hooded Corpse.
+1/26/25 2:46:17a You have 1310 coins.
+1/26/25 2:46:33a Kyoko is now Clanning.
+1/26/25 2:46:37a Maekoh is now Clanning.
+1/26/25 2:46:58a You slaughtered a Detached Spirit.
+1/26/25 2:46:58a Joel'kin killed a Detached Spirit.
+1/26/25 2:47:04a You slaughtered a Hooded Corpse.
+1/26/25 2:47:04a Joel'kin slaughtered a Hooded Corpse.
+1/26/25 2:47:12a You slaughtered a Hooded Corpse.
+1/26/25 2:47:12a Joel'kin killed a Hooded Corpse.
+1/26/25 2:47:27a You slaughtered a Hooded Corpse.
+1/26/25 2:47:27a Joel'kin killed a Hooded Corpse.
+1/26/25 2:47:37a You have 1310 coins.
+1/26/25 2:47:40a You slaughtered a Hooded Corpse.
+1/26/25 2:47:40a Joel'kin killed a Hooded Corpse.
+1/26/25 2:47:42a Coriakin is now Clanning.
+1/26/25 2:47:54a You slaughtered a Hooded Corpse.
+1/26/25 2:47:54a Joel'kin killed a Hooded Corpse.
+1/26/25 2:48:00a Joel'kin picks his nose.
+1/26/25 2:48:08a You slaughtered a Hooded Corpse.
+1/26/25 2:48:08a Joel'kin slaughtered a Hooded Corpse.
+1/26/25 2:48:12a You slaughtered a Detached Spirit.
+1/26/25 2:48:13a Joel'kin killed a Detached Spirit.
+1/26/25 2:48:25a You slaughtered a Hooded Corpse.
+1/26/25 2:48:25a Joel'kin killed a Hooded Corpse.
+1/26/25 2:48:33a You slaughtered a Hooded Corpse.
+1/26/25 2:48:33a Joel'kin killed a Hooded Corpse.
+1/26/25 2:48:57a You have 1310 coins.
+1/26/25 2:49:58a You slaughtered a Corpse Warrior.
+1/26/25 2:49:58a Joel'kin vanquished a Corpse Warrior!
+1/26/25 2:50:02a Julia is now Clanning.
+1/26/25 2:50:17a You have 1310 coins.
+1/26/25 2:50:22a You slaughtered a Corpse Warrior.
+1/26/25 2:50:23a Joel'kin killed a Corpse Warrior.
+1/26/25 2:50:31a You slaughtered a Corpse Warrior.
+1/26/25 2:50:31a Joel'kin vanquished a Corpse Warrior!
+1/26/25 2:51:14a You slaughtered a Hooded Corpse.
+1/26/25 2:51:15a Joel'kin killed a Hooded Corpse.
+1/26/25 2:51:18a You slaughtered a Hooded Corpse.
+1/26/25 2:51:19a Joel'kin killed a Hooded Corpse.
+1/26/25 2:51:24a You slaughtered a Hooded Corpse.
+1/26/25 2:51:24a Joel'kin killed a Hooded Corpse.
+1/26/25 2:51:29a Julia is no longer Clanning.
+1/26/25 2:51:35a You slaughtered a Hooded Corpse.
+1/26/25 2:51:36a Joel'kin killed a Hooded Corpse.
+1/26/25 2:51:38a You have 1310 coins.
+1/26/25 2:51:44a You slaughtered a Hooded Corpse.
+1/26/25 2:51:44a Joel'kin killed a Hooded Corpse.
+1/26/25 2:51:49a You slaughtered a Hooded Corpse.
+1/26/25 2:51:49a Joel'kin slaughtered a Hooded Corpse.
+1/26/25 2:51:58a Joel'kin lifts his nose to the wind.
+1/26/25 2:52:58a You have 1310 coins.
+1/26/25 2:53:38a L'otso is no longer Clanning.
+1/26/25 2:53:40a A monster growls, "Ugh."
+1/26/25 2:53:41a You slaughtered a Hooded Corpse.
+1/26/25 2:53:42a Joel'kin killed a Hooded Corpse.
+1/26/25 2:53:49a You slaughtered a Hooded Corpse.
+1/26/25 2:53:49a Joel'kin killed a Hooded Corpse.
+1/26/25 2:53:56a Ilonos is no longer Clanning.
+1/26/25 2:54:05a You slaughtered a Hooded Corpse.
+1/26/25 2:54:06a Joel'kin killed a Hooded Corpse.
+1/26/25 2:54:18a You have 1310 coins.
+1/26/25 2:54:28a •Joel'kin is too far away.
+1/26/25 2:54:34a Joel'kin smells a quarry nearby.
+1/26/25 2:54:46a •You lock your healing to Joel'kin.
+1/26/25 2:54:50a You slaughtered a Corpse Warrior.
+1/26/25 2:54:50a Joel'kin killed a Corpse Warrior.
+1/26/25 2:54:56a •The player must be in the same area.
+1/26/25 2:55:03a Eli thinks, "tuska!"
+1/26/25 2:55:09a Noivad thinks, "tuska!"
+1/26/25 2:55:11a You slaughtered an Ona Chigger.
+1/26/25 2:55:12a Joel'kin slaughtered an Ona Chigger.
+1/26/25 2:55:13a You vault the wall.
+1/26/25 2:55:33a You slaughtered a Large Vermine.
+1/26/25 2:55:34a Joel'kin killed a Large Vermine.
+1/26/25 2:55:34a * Squib recovers the Large Vermine fur, worth 2c. Your share is 1c.
+1/26/25 2:55:38a You have 1311 coins.
+1/26/25 2:55:59a Manquilor is now Clanning.
+1/26/25 2:56:31a This bench provided by The Puddleby Civic Beautification Society.
+1/26/25 2:56:38a Joel'kin growls.
+1/26/25 2:56:55a ZipLock is no longer Clanning.
+1/26/25 2:56:58a You have 1311 coins.
+1/26/25 2:57:21a Balangar is no longer Clanning.
+1/26/25 2:57:34a Maisy is now Clanning.
+1/26/25 2:58:19a You have 1311 coins.
+1/26/25 2:58:24a Koppi yells, "Jeepers reports: Tell me, where is Crunch? For I much desire to speak with him."
+1/26/25 2:59:11a Kyoko thinks, "Bard Concert Today?! How long until start plez?? Also, help me jadey/noids please upperclassmen <3"
+1/26/25 2:59:23a Aurelie thinks, "About two hours!"
+1/26/25 2:59:24a Coriakin thinks, "Bard concert will be in two (ooc) hours from now!"
+1/26/25 2:59:37a Maekoh thinks, "thanks! help me kill spiders i give venmo ;) <3"
+1/26/25 2:59:39a You have 1311 coins.
+1/26/25 3:00:07a Crius yells, "It’s 3 o’clock, and all’s well."
+1/26/25 3:00:12a Crius yells, "Haffron is fallen in the Eastern Mountains. Healer needed. Fighters, too."
+1/26/25 3:00:14a Sentinel yells, "There is only one punishment for treason."
+1/26/25 3:00:24a Shobaffum is no longer Clanning.
+1/26/25 3:00:34a Joel'kin picks his nose.
+1/26/25 3:00:59a You have 1311 coins.
+1/26/25 3:01:59a Joel'kin points at Unholy, then laughs.
+1/26/25 3:02:19a You have 1311 coins.
+1/26/25 3:03:35a Koppi yells, "Jeepers reports: Tell me, where is Crunch? For I much desire to speak with him."
+1/26/25 3:03:39a You have 1311 coins.
+1/26/25 3:05:00a You have 1311 coins.
+1/26/25 3:06:13a Maisy is no longer Clanning.
+1/26/25 3:06:14a Joel'kin headbutts Unholy playfully.
+1/26/25 3:06:20a You have 1311 coins.
+1/26/25 3:06:55a Kyoko thinks, "free wheat/white feathers/logs of wood/"powdery white rocks" at bard concert if anyone needs in 1.7 hours <3"
+1/26/25 3:07:29a Joel'kin admires a pretty rock.
+1/26/25 3:07:40a You have 1311 coins.
+1/26/25 3:08:38a Joel'kin looks out for trouble.
+1/26/25 3:08:46a Koppi yells, "Coriakin reports: Bard concert at 11am Pacific on Jan. 25th. Entries for Azriels' contest will be played, so come enjoy the new music!"
+1/26/25 3:09:00a You have 1311 coins.
+1/26/25 3:10:20a You have 1311 coins.
+1/26/25 3:11:19a Joel'kin picks his nose.
+1/26/25 3:11:41a You have 1311 coins.
+1/26/25 3:13:01a You have 1311 coins.
+1/26/25 3:13:57a Koppi yells, "Coriakin reports: Bard concert at 11am Pacific on Jan. 25th. Entries for Azriels' contest will be played, so come enjoy the new music!"
+1/26/25 3:14:21a You have 1311 coins.
+1/26/25 3:14:47a Crius yells, "It’s 4 o’clock, and all’s well."
+1/26/25 3:14:52a Crius yells, "Haffron is fallen in the Eastern Mountains. Healer needed. Fighters, too."
+1/26/25 3:15:41a You have 1311 coins.
+1/26/25 3:16:30a Joel'kin bangs on one of Unholy's cookpots.
+1/26/25 3:16:42a Shobaffum is now Clanning.
+1/26/25 3:17:01a You have 1311 coins.
+1/26/25 3:18:08a Wolf Master is now Clanning.
+1/26/25 3:18:11a Grand Master is now Clanning.
+1/26/25 3:18:18a Sentinel says, "The Sentinel will accept your reports of suspicious activity."
+1/26/25 3:18:22a You have 1311 coins.
+1/26/25 3:19:07a Koppi yells, "Coriakin reports: Bard concert at 11am Pacific on Jan. 25th. Entries for Azriels' contest will be played, so come enjoy the new music!"
+1/26/25 3:19:11a Jiro is now Clanning.
+1/26/25 3:19:14a Joel'kin torments a baby vermine.
+1/26/25 3:19:16a Bashak is no longer Clanning.
+1/26/25 3:19:42a You have 1311 coins.
+1/26/25 3:20:20a Henryk is now Clanning.
+1/26/25 3:20:22a Heracles thinks, "Is anyone up for a "quick" Book 1 run before the bard concert?"
+1/26/25 3:20:30a • /SLEEP when you wish to begin studying.
+1/26/25 3:20:40a Use \SLEEP again when you return.
+1/26/25 3:20:40a You are done adventuring for a while and will be staying here.
+1/26/25 3:20:41a You have been disconnected from Clan Lord.
+1/26/25 3:20:41a • You will benefit from staying here while you are off-line.
+1/26/25 3:20:41a *** We are no longer connected to the Clan Lord game server. ***

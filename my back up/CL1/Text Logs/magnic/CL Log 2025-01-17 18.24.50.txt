@@ -1,0 +1,609 @@
+
+1/17/25 6:24:50p * Your shirt named “Lime Green” is in very good condition.
+1/17/25 6:24:50p * Your pair of pants named “Lime Green” is in very good condition.
+1/17/25 6:24:50p * Your pair of shoes named “red” is in very good condition.
+1/17/25 6:24:50p Welcome to Clan Lord, Magnic!
+1/17/25 6:24:50p Type \HELP for a list of commands.
+1/17/25 6:24:50p • You have been charged 169 coins for advanced studies.
+1/17/25 6:24:50p • You gain experience from your recent studies.
+1/17/25 6:24:50p Type /ranger for commands if you forget
+1/17/25 6:24:51p Magnic is now Clanning.
+1/17/25 6:24:51p You have been studying for 5 days, 13 hours, 24 minutes.
+1/17/25 6:24:53p It's 10:25am on Terrdi, day 2 of Spring, 640.
+1/17/25 6:24:54p Friends online: none.
+1/17/25 6:24:54p •You learn to channel energy from the world more efficiently.
+1/17/25 6:24:55p There are two members of Black Phoenix clanning: Mara and you.
+1/17/25 6:24:55p • What’s New: https://deltatao.com/clanlord/news
+1/17/25 6:25:04p You slaughtered a Rat.
+1/17/25 6:25:04p * Tip of the day: You can /EQUIP and /UNEQUIP an item using its custom name, if it has one. (Use /OPTIONS to turn tips off.)
+1/17/25 6:25:21p You slaughtered a Scavenger Bird.
+1/17/25 6:25:29p Captain Barnac asks, "Ah, Magnic. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+1/17/25 6:25:30p Magnic says, "yes"
+1/17/25 6:25:30p Chum ponders, "Looks like some good fishin' here..."
+1/17/25 6:25:50p You slaughtered a Rat.
+1/17/25 6:25:52p You slaughtered a Crawler.
+1/17/25 6:25:59p You slaughtered an Ebon Scorp.
+1/17/25 6:26:07p You slaughtered an Ebon Scorp.
+1/17/25 6:26:11p You slaughtered a Vermine.
+1/17/25 6:26:31p You slaughtered a Feral.
+1/17/25 6:26:37p Magnic hops over the rocks.
+1/17/25 6:26:38p You slaughtered a Winged Snake.
+1/17/25 6:26:39p You slaughtered a Rat.
+1/17/25 6:26:40p You slaughtered a Bat.
+1/17/25 6:26:47p You slaughtered a Vermine.
+1/17/25 6:26:49p You slaughtered a Vermine.
+1/17/25 6:26:50p * You recover the Vermine fur, worth 1c. Your share is 1c.
+1/17/25 6:26:53p You slaughtered a Rat.
+1/17/25 6:26:55p You equip your heartwood charm.
+1/17/25 6:26:55p • You gather your energy.
+1/17/25 6:26:58p • You speed up.
+1/17/25 6:27:41p Magnic skips across the rock.
+1/17/25 6:28:32p You slaughtered a Darshak Scout.
+1/17/25 6:28:45p • You slow down to normal speed.
+1/17/25 6:28:46p You slaughtered a Darshak Thug.
+1/17/25 6:29:23p You slaughtered a Vermine.
+1/17/25 6:29:26p You slaughtered a Large Vermine.
+1/17/25 6:29:28p You slaughtered a Rat.
+1/17/25 6:29:32p You slaughtered a Vermine.
+1/17/25 6:29:33p You slaughtered a Giant Vermine.
+1/17/25 6:29:33p * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+1/17/25 6:30:06p You slaughtered a Rat.
+1/17/25 6:30:07p You slaughtered a Vermine.
+1/17/25 6:30:12p Mara is no longer Clanning.
+1/17/25 6:30:26p You vault the wall.
+1/17/25 6:30:30p Alieshia is no longer Clanning.
+1/17/25 6:30:31p You slaughtered a Large Vermine.
+1/17/25 6:30:45p Saffron is no longer Clanning.
+1/17/25 6:30:51p You slaughtered a Giant Slug.
+1/17/25 6:31:00p Master Coronus says, "Hello, Magnic."
+1/17/25 6:31:01p Master Coronus says, "Excuse me."
+1/17/25 6:31:01p Lady Dragon is no longer Clanning.
+1/17/25 6:31:07p Articuno is no longer Clanning.
+1/17/25 6:31:08p Cerberus is now Clanning.
+1/17/25 6:31:12p You slaughtered a Wendecka.
+1/17/25 6:31:12p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+1/17/25 6:31:13p You slaughtered a Wendecka.
+1/17/25 6:31:13p * You recover the Wendecka fur, worth 4c. Your share is 4c.
+1/17/25 6:31:19p You slaughtered a Wendecka.
+1/17/25 6:31:19p * You recover the Wendecka fur, worth 4c. Your share is 4c.
+1/17/25 6:31:25p You slaughtered a Wendecka.
+1/17/25 6:31:25p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+1/17/25 6:31:27p Articuno is now Clanning.
+1/17/25 6:31:27p You slaughtered a Wendecka.
+1/17/25 6:31:27p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+1/17/25 6:31:31p You slaughtered a Bloodhawk.
+1/17/25 6:31:34p You slaughtered a Vermine.
+1/17/25 6:31:38p You slaughtered a Wendecka.
+1/17/25 6:31:44p You slaughtered a Vermine.
+1/17/25 6:31:45p You slaughtered a Bloodhawk.
+1/17/25 6:31:45p You slaughtered a Vermine.
+1/17/25 6:31:45p You slaughtered a Wendecka.
+1/17/25 6:31:46p * You recover the Wendecka fur, worth 2c. Your share is 2c.
+1/17/25 6:31:46p You slaughtered a Rat.
+1/17/25 6:31:47p You slaughtered a Wendecka.
+1/17/25 6:31:47p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+1/17/25 6:31:48p You slaughtered a Bloodhawk.
+1/17/25 6:31:50p You slaughtered a Vermine.
+1/17/25 6:31:52p Articuno is no longer Clanning.
+1/17/25 6:31:52p You slaughtered a Wendecka.
+1/17/25 6:31:52p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+1/17/25 6:31:53p You slaughtered a Wendecka.
+1/17/25 6:31:53p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+1/17/25 6:31:58p You slaughtered a Rat.
+1/17/25 6:31:59p You slaughtered a Rat.
+1/17/25 6:32:01p You slaughtered a Wendecka.
+1/17/25 6:32:02p You slaughtered a Rat.
+1/17/25 6:32:05p You slaughtered a Starbuck.
+1/17/25 6:32:05p * You recover the Starbuck fur, worth 1c. Your share is 1c.
+1/17/25 6:32:08p You slaughtered a Rat.
+1/17/25 6:32:08p Cerberus is no longer Clanning.
+1/17/25 6:32:13p You slaughtered a Night Wendecka.
+1/17/25 6:32:15p You slaughtered a Rat.
+1/17/25 6:32:20p You slaughtered a Vermine.
+1/17/25 6:32:26p You slaughtered a Wendecka.
+1/17/25 6:32:26p * You recover the Wendecka fur, worth 6c. Your share is 6c.
+1/17/25 6:32:26p You slaughtered a Wendecka.
+1/17/25 6:32:26p * You recover the Wendecka fur, worth 2c. Your share is 2c.
+1/17/25 6:32:36p You slaughtered a Wendecka.
+1/17/25 6:32:36p * You recover the Wendecka fur, worth 2c. Your share is 2c.
+1/17/25 6:32:43p You slaughtered a Wendecka.
+1/17/25 6:32:43p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+1/17/25 6:32:50p • You need more training to continue your study of the movements of the Greymyr.
+1/17/25 6:32:50p You slaughtered a Greymyr.
+1/17/25 6:32:51p * You recover the Greymyr bounty worth 2c.
+1/17/25 6:32:53p You slaughtered a Deadly Adder.
+1/17/25 6:32:56p You slaughtered a Wendecka.
+1/17/25 6:32:56p * You recover the Wendecka fur, worth 2c. Your share is 2c.
+1/17/25 6:33:11p You slaughtered a Night Wendecka.
+1/17/25 6:33:11p * You recover the Night Wendecka fur, worth 6c. Your share is 6c.
+1/17/25 6:33:14p You slaughtered a Crota Winder.
+1/17/25 6:33:24p You slaughtered a Night Wendecka.
+1/17/25 6:33:24p * You recover the Night Wendecka fur, worth 2c. Your share is 2c.
+1/17/25 6:33:26p You slaughtered a Wendecka.
+1/17/25 6:33:27p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+1/17/25 6:33:36p You slaughtered a Rat.
+1/17/25 6:33:41p You slaughtered a Giant Vermine.
+1/17/25 6:33:48p You slaughtered a Boma Winder.
+1/17/25 6:33:59p You slaughtered a Deadly Adder.
+1/17/25 6:34:10p You slaughtered a Wendecka.
+1/17/25 6:34:10p You slaughtered a Wendecka.
+1/17/25 6:34:10p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+1/17/25 6:34:15p You slaughtered a Deadly Adder.
+1/17/25 6:34:16p You slaughtered a Deadly Adder.
+1/17/25 6:34:22p You slaughtered a Grey Wyrm.
+1/17/25 6:34:24p You slaughtered a Wendecka.
+1/17/25 6:34:27p You slaughtered a Vermine.
+1/17/25 6:34:36p You slaughtered a Grey Wyrm.
+1/17/25 6:34:48p You slaughtered a Grey Wyrm.
+1/17/25 6:34:58p You slaughtered a Cave Wurm.
+1/17/25 6:35:00p You slaughtered a Whipper Wyrm.
+1/17/25 6:35:11p You slaughtered a Grey Wyrm.
+1/17/25 6:35:40p You slaughtered a Rat.
+1/17/25 6:35:59p You slaughtered a Grey Wyrm.
+1/17/25 6:36:35p You slaughtered a Grey Wyrm.
+1/17/25 6:36:51p You slaughtered a Deadly Adder.
+1/17/25 6:37:04p • You need more training to continue your study of the movements of the Greymyr.
+1/17/25 6:37:04p You slaughtered a Greymyr.
+1/17/25 6:37:04p * You recover the Greymyr bounty worth 1c.
+1/17/25 6:37:09p You slaughtered a Vermine.
+1/17/25 6:37:11p You slaughtered a Vermine.
+1/17/25 6:37:14p You slaughtered a Night Wendecka.
+1/17/25 6:37:14p You slaughtered a Bloodhawk.
+1/17/25 6:37:15p You slaughtered a Bloodhawk.
+1/17/25 6:37:22p You slaughtered a Night Wendecka.
+1/17/25 6:37:24p You slaughtered a Night Wendecka.
+1/17/25 6:37:29p You slaughtered a Night Wendecka.
+1/17/25 6:37:29p * You recover the Night Wendecka fur, worth 5c. Your share is 5c.
+1/17/25 6:37:31p You slaughtered a Vermine.
+1/17/25 6:37:50p You slaughtered a Bloodhawk.
+1/17/25 6:38:00p You slaughtered a Wendecka.
+1/17/25 6:38:00p * You recover the Wendecka fur, worth 4c. Your share is 4c.
+1/17/25 6:38:03p You slaughtered a Vermine.
+1/17/25 6:38:05p You slaughtered a Bloodhawk.
+1/17/25 6:38:05p You slaughtered a Bloodhawk.
+1/17/25 6:38:06p You slaughtered a Bloodhawk.
+1/17/25 6:38:06p You slaughtered a Bloodhawk.
+1/17/25 6:38:08p You slaughtered a Bloodhawk.
+1/17/25 6:38:08p You slaughtered a Bloodhawk.
+1/17/25 6:38:10p You slaughtered a Bloodhawk.
+1/17/25 6:38:12p You slaughtered a Vermine.
+1/17/25 6:38:12p You slaughtered a Bloodhawk.
+1/17/25 6:38:15p You slaughtered a Rat.
+1/17/25 6:38:17p You slaughtered a Rat.
+1/17/25 6:38:17p You slaughtered a Bloodhawk.
+1/17/25 6:38:19p You slaughtered a Vermine.
+1/17/25 6:38:19p You slaughtered a Rat.
+1/17/25 6:38:20p Kyoko is now Clanning.
+1/17/25 6:38:24p Maekoh is now Clanning.
+1/17/25 6:38:26p You slaughtered a Bloodhawk.
+1/17/25 6:38:28p You slaughtered a Vermine.
+1/17/25 6:38:29p You slaughtered a Starbuck.
+1/17/25 6:38:30p You slaughtered a Bloodhawk.
+1/17/25 6:38:34p You slaughtered a Wendecka.
+1/17/25 6:38:43p You slaughtered a Wendecka.
+1/17/25 6:38:45p You slaughtered a Wendecka.
+1/17/25 6:38:45p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+1/17/25 6:38:45p You slaughtered a Wendecka.
+1/17/25 6:38:45p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+1/17/25 6:38:54p You slaughtered a Wendecka.
+1/17/25 6:38:58p You slaughtered a Rat.
+1/17/25 6:39:00p You slaughtered a Starbuck.
+1/17/25 6:39:01p You slaughtered a Bloodhawk.
+1/17/25 6:39:04p You slaughtered a Vermine.
+1/17/25 6:39:06p You slaughtered a Wendecka.
+1/17/25 6:39:06p * You recover the Wendecka fur, worth 2c. Your share is 2c.
+1/17/25 6:39:08p You slaughtered a Rat.
+1/17/25 6:39:08p You slaughtered a Vermine.
+1/17/25 6:39:08p * You recover the Vermine fur, worth 1c. Your share is 1c.
+1/17/25 6:39:14p You slaughtered a Vermine.
+1/17/25 6:39:16p You slaughtered a Wendecka.
+1/17/25 6:39:16p You slaughtered a Wendecka.
+1/17/25 6:39:16p * For recovering the fur, you gain experience.
+1/17/25 6:39:16p * You recover the Wendecka fur, worth 2c. Your share is 2c.
+1/17/25 6:39:16p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+1/17/25 6:39:16p You slaughtered a Bloodhawk.
+1/17/25 6:39:16p You slaughtered a Wendecka.
+1/17/25 6:39:17p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+1/17/25 6:39:19p You slaughtered a Wendecka.
+1/17/25 6:39:19p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+1/17/25 6:39:20p You slaughtered a Wendecka.
+1/17/25 6:39:20p * You recover the Wendecka fur, worth 2c. Your share is 2c.
+1/17/25 6:39:20p You slaughtered a Wendecka.
+1/17/25 6:39:21p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+1/17/25 6:39:24p You slaughtered a Wendecka.
+1/17/25 6:39:24p You slaughtered a Wendecka.
+1/17/25 6:39:24p * You recover the Wendecka fur, worth 2c. Your share is 2c.
+1/17/25 6:39:24p * You recover the Wendecka fur, worth 2c. Your share is 2c.
+1/17/25 6:39:24p You slaughtered a Vermine.
+1/17/25 6:39:25p You slaughtered a Wendecka.
+1/17/25 6:39:25p * You recover the Wendecka fur, worth 2c. Your share is 2c.
+1/17/25 6:39:26p You slaughtered a Wendecka.
+1/17/25 6:39:27p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+1/17/25 6:39:27p You slaughtered a Wendecka.
+1/17/25 6:39:28p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+1/17/25 6:39:29p You slaughtered a Wendecka.
+1/17/25 6:39:36p You slaughtered a Rat.
+1/17/25 6:39:38p You slaughtered a Rat.
+1/17/25 6:39:59p You slaughtered a Vermine.
+1/17/25 6:40:01p You slaughtered a Vermine.
+1/17/25 6:40:02p You slaughtered a Wendecka.
+1/17/25 6:40:02p * You recover the Wendecka fur, worth 4c. Your share is 4c.
+1/17/25 6:40:12p You slaughtered a Rat.
+1/17/25 6:40:15p You slaughtered a Wendecka.
+1/17/25 6:40:15p * You recover the Wendecka fur, worth 2c. Your share is 2c.
+1/17/25 6:40:36p You slaughtered a Vermine.
+1/17/25 6:40:37p You slaughtered a Vermine.
+1/17/25 6:40:39p You slaughtered a Vermine.
+1/17/25 6:40:41p You slaughtered a Vermine.
+1/17/25 6:40:41p You slaughtered a Vermine.
+1/17/25 6:40:44p You slaughtered a Bloodhawk.
+1/17/25 6:40:45p You slaughtered a Vermine.
+1/17/25 6:40:45p You slaughtered a Vermine.
+1/17/25 6:40:46p You slaughtered a Vermine.
+1/17/25 6:40:46p You slaughtered a Vermine.
+1/17/25 6:40:47p You slaughtered a Wendecka.
+1/17/25 6:40:48p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+1/17/25 6:40:50p You slaughtered a Rat.
+1/17/25 6:40:50p You slaughtered a Wendecka.
+1/17/25 6:40:50p * For recovering the fur, you gain experience.
+1/17/25 6:40:50p * You recover the Wendecka fur, worth 2c. Your share is 2c.
+1/17/25 6:40:53p You slaughtered a Bloodhawk.
+1/17/25 6:40:53p You slaughtered a Vermine.
+1/17/25 6:40:53p You slaughtered a Vermine.
+1/17/25 6:40:54p * You recover the Vermine fur, worth 1c. Your share is 1c.
+1/17/25 6:40:55p You slaughtered a Vermine.
+1/17/25 6:40:58p You slaughtered a Vermine.
+1/17/25 6:40:59p You slaughtered a Rat.
+1/17/25 6:40:59p You slaughtered a Vermine.
+1/17/25 6:41:00p * You recover the Vermine fur, worth 1c. Your share is 1c.
+1/17/25 6:41:00p You slaughtered a Wendecka.
+1/17/25 6:41:00p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+1/17/25 6:41:04p You slaughtered a Vermine.
+1/17/25 6:41:04p You slaughtered a Vermine.
+1/17/25 6:41:05p You slaughtered a Rat.
+1/17/25 6:41:07p You slaughtered a Vermine.
+1/17/25 6:41:19p You slaughtered a Vermine.
+1/17/25 6:41:31p Loose gravel shifts underneath Magnic's feet.
+1/17/25 6:41:42p You slaughtered a Bloodhawk.
+1/17/25 6:42:07p You spot a bunch of ripe berries.
+1/17/25 6:42:23p You slaughtered a Vermine.
+1/17/25 6:42:29p You slaughtered an Orc.
+1/17/25 6:42:29p You slaughtered a Vermine.
+1/17/25 6:42:32p You slaughtered a Vermine.
+1/17/25 6:42:37p You slaughtered an Orc.
+1/17/25 6:42:40p You slaughtered an Island Panther.
+1/17/25 6:42:41p * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/17/25 6:42:58p You slaughtered a Vermine.
+1/17/25 6:42:59p You slaughtered a Vermine.
+1/17/25 6:42:59p You slaughtered a Vermine.
+1/17/25 6:43:00p You slaughtered an Orga.
+1/17/25 6:43:01p You slaughtered a Vermine.
+1/17/25 6:43:02p You slaughtered a Vermine.
+1/17/25 6:43:04p You slaughtered an Orga.
+1/17/25 6:43:06p You slaughtered a Vermine.
+1/17/25 6:43:23p You slaughtered a Death Vermine.
+1/17/25 6:43:23p * You recover the Death Vermine fur, worth 4c. Your share is 4c.
+1/17/25 6:43:23p You slaughtered a Vermine.
+1/17/25 6:43:24p You slaughtered a Vermine.
+1/17/25 6:43:24p You slaughtered a Vermine.
+1/17/25 6:43:26p You slaughtered an Orga.
+1/17/25 6:43:28p You slaughtered an Orga Shaman.
+1/17/25 6:43:29p You slaughtered an Orga.
+1/17/25 6:43:36p You slaughtered a Death Vermine.
+1/17/25 6:43:36p * You recover the Death Vermine fur, worth 3c. Your share is 3c.
+1/17/25 6:43:44p You slaughtered an Orga.
+1/17/25 6:43:44p You slaughtered an Orga.
+1/17/25 6:43:44p You slaughtered a Vermine.
+1/17/25 6:43:47p You slaughtered an Orga.
+1/17/25 6:43:49p You slaughtered an Orga.
+1/17/25 6:43:50p You slaughtered a Giant Vermine.
+1/17/25 6:43:50p * You recover the Giant Vermine fur, worth 6c. Your share is 6c.
+1/17/25 6:43:53p A monster growls, "Kill!"
+1/17/25 6:43:56p You slaughtered an Orga Berserk.
+1/17/25 6:43:56p The Orga Shaman bows its head and mutters an unholy prayer.
+1/17/25 6:43:56p You slaughtered a Death Vermine.
+1/17/25 6:43:56p * You recover the Death Vermine fur, worth 2c. Your share is 2c.
+1/17/25 6:43:58p You slaughtered an Orga Berserk.
+1/17/25 6:43:59p You slaughtered a Vermine.
+1/17/25 6:43:59p You slaughtered an Orga.
+1/17/25 6:44:01p You slaughtered an Orga.
+1/17/25 6:44:02p You slaughtered an Orga Shaman.
+1/17/25 6:44:04p You slaughtered an Orga Shaman.
+1/17/25 6:44:05p You slaughtered an Orga.
+1/17/25 6:44:07p * You pick up 4 coins.
+1/17/25 6:44:07p * You gain experience.
+1/17/25 6:44:10p You slaughtered an Orga.
+1/17/25 6:44:11p You slaughtered an Orga Warrior.
+1/17/25 6:44:13p You slaughtered an Orga Warrior.
+1/17/25 6:44:14p You slaughtered an Orga.
+1/17/25 6:44:15p You slaughtered an Orga Warrior.
+1/17/25 6:44:18p You slaughtered an Orga Warrior.
+1/17/25 6:44:18p You slaughtered a Large Vermine.
+1/17/25 6:44:18p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/17/25 6:44:19p You slaughtered a Rat.
+1/17/25 6:44:24p You slaughtered an Orga Warrior.
+1/17/25 6:44:24p You slaughtered a Large Vermine.
+1/17/25 6:44:25p You slaughtered an Orga Warrior.
+1/17/25 6:44:25p You slaughtered a Large Vermine.
+1/17/25 6:44:26p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/17/25 6:44:26p You slaughtered a Large Vermine.
+1/17/25 6:44:26p * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/17/25 6:44:27p You slaughtered an Orga Warrior.
+1/17/25 6:44:31p You slaughtered an Orga Shaman.
+1/17/25 6:44:35p * You pick up 1 coin.
+1/17/25 6:44:35p * You gain experience.
+1/17/25 6:44:37p You slaughtered an Orga.
+1/17/25 6:44:40p You slaughtered an Orga Shaman.
+1/17/25 6:44:41p You slaughtered an Orga Berserk.
+1/17/25 6:44:42p The Orga Shaman bows its head and mutters an unholy prayer.
+1/17/25 6:44:43p You slaughtered an Orga Shaman.
+1/17/25 6:44:44p You slaughtered an Orga Shaman.
+1/17/25 6:44:46p You slaughtered a Feral.
+1/17/25 6:44:46p * You recover the Feral fur, worth 1c. Your share is 1c.
+1/17/25 6:44:49p You slaughtered an Orga.
+1/17/25 6:44:50p You slaughtered an Orga.
+1/17/25 6:44:52p You slaughtered an Orga.
+1/17/25 6:44:53p You slaughtered an Orga.
+1/17/25 6:44:57p You slaughtered an Orga Warrior.
+1/17/25 6:44:59p You slaughtered a Starbuck.
+1/17/25 6:45:00p You slaughtered an Orga.
+1/17/25 6:45:00p You slaughtered a Vermine.
+1/17/25 6:45:02p You slaughtered an Orga Berserk.
+1/17/25 6:45:03p You slaughtered an Orga Warrior.
+1/17/25 6:45:04p You slaughtered an Orga.
+1/17/25 6:45:10p You slaughtered an Orga.
+1/17/25 6:45:12p You slaughtered an Orga.
+1/17/25 6:45:17p You slaughtered an Orga.
+1/17/25 6:45:17p The Orga Shaman glances at you.
+1/17/25 6:45:18p You slaughtered a Large Vermine.
+1/17/25 6:45:21p You slaughtered an Orga Warrior.
+1/17/25 6:45:24p The Orga Shaman bows its head and mutters an unholy prayer.
+1/17/25 6:45:26p You slaughtered an Orga Shaman.
+1/17/25 6:45:28p You slaughtered an Orga.
+1/17/25 6:45:33p You slaughtered an Orga.
+1/17/25 6:45:34p You slaughtered an Orga Warrior.
+1/17/25 6:45:43p You slaughtered an Orga.
+1/17/25 6:45:45p You slaughtered a Large Vermine.
+1/17/25 6:45:45p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/17/25 6:45:49p You slaughtered an Orga Berserk.
+1/17/25 6:45:57p You slaughtered an Orga.
+1/17/25 6:46:03p You slaughtered an Orga.
+1/17/25 6:46:04p You slaughtered an Orga.
+1/17/25 6:46:04p You slaughtered an Orga.
+1/17/25 6:46:06p You slaughtered an Orga.
+1/17/25 6:46:11p You slaughtered a Large Vermine.
+1/17/25 6:46:11p * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/17/25 6:46:12p You slaughtered a Large Vermine.
+1/17/25 6:46:12p * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/17/25 6:46:13p You slaughtered a Large Vermine.
+1/17/25 6:46:13p You slaughtered a Large Vermine.
+1/17/25 6:46:13p * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/17/25 6:46:13p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/17/25 6:46:14p You slaughtered an Orga.
+1/17/25 6:46:14p You slaughtered a Myrm Scout.
+1/17/25 6:46:17p You slaughtered a Large Vermine.
+1/17/25 6:46:17p You slaughtered a Large Vermine.
+1/17/25 6:46:18p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/17/25 6:46:18p You slaughtered a Vermine.
+1/17/25 6:46:20p You slaughtered an Orga.
+1/17/25 6:46:23p You slaughtered an Orga.
+1/17/25 6:46:24p You slaughtered a Vermine.
+1/17/25 6:46:25p You slaughtered a Vermine.
+1/17/25 6:46:26p You slaughtered an Orga Warrior.
+1/17/25 6:46:27p You slaughtered a Vermine.
+1/17/25 6:46:28p You slaughtered a Vermine.
+1/17/25 6:46:29p You slaughtered a Vermine.
+1/17/25 6:46:30p You slaughtered a Rat.
+1/17/25 6:46:30p You slaughtered a Vermine.
+1/17/25 6:46:31p You slaughtered an Orga.
+1/17/25 6:46:32p You slaughtered a Vermine.
+1/17/25 6:46:32p You slaughtered a Large Vermine.
+1/17/25 6:46:32p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/17/25 6:46:33p You slaughtered an Orga.
+1/17/25 6:46:33p You slaughtered a Vermine.
+1/17/25 6:46:35p You slaughtered a Vermine.
+1/17/25 6:46:35p You slaughtered a Vermine.
+1/17/25 6:46:38p You slaughtered an Orga.
+1/17/25 6:46:38p You slaughtered a Large Vermine.
+1/17/25 6:46:38p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/17/25 6:46:38p You slaughtered a Vermine.
+1/17/25 6:46:42p You slaughtered a Vermine.
+1/17/25 6:46:43p You slaughtered an Orga.
+1/17/25 6:46:43p You slaughtered a Large Vermine.
+1/17/25 6:46:44p You slaughtered a Vermine.
+1/17/25 6:46:45p You slaughtered a Vermine.
+1/17/25 6:47:05p You slaughtered a Large Vermine.
+1/17/25 6:47:05p You slaughtered a Small Arachne.
+1/17/25 6:47:12p A monster growls, "Kill!"
+1/17/25 6:47:25p You slaughtered a Vermine.
+1/17/25 6:47:26p You slaughtered a Vermine.
+1/17/25 6:47:29p You slaughtered a Giant Slug.
+1/17/25 6:47:30p You slaughtered a Giant Slug.
+1/17/25 6:47:30p A monster yells, "You'll never catch me!"
+1/17/25 6:47:31p You slaughtered a Giant Slug.
+1/17/25 6:47:33p You slaughtered a Giant Slug.
+1/17/25 6:47:39p You slaughtered a Vermine.
+1/17/25 6:47:40p You slaughtered a Vermine.
+1/17/25 6:47:42p A monster yells, "Watch this!"
+1/17/25 6:47:42p You slaughtered a Giant Slug.
+1/17/25 6:47:47p You slaughtered a Giant Slug.
+1/17/25 6:47:48p You slaughtered a Giant Slug.
+1/17/25 6:47:49p You slaughtered a Giant Slug.
+1/17/25 6:47:50p You slaughtered a Rat.
+1/17/25 6:47:57p A monster growls, "Die!"
+1/17/25 6:47:59p You slaughtered an Orga.
+1/17/25 6:48:00p You slaughtered a Giant Slug.
+1/17/25 6:48:01p You slaughtered a Large Vermine.
+1/17/25 6:48:01p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/17/25 6:48:02p You slaughtered a Giant Slug.
+1/17/25 6:48:15p You slaughtered a Large Vermine.
+1/17/25 6:48:15p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/17/25 6:48:20p You slaughtered a Vermine.
+1/17/25 6:48:21p You slaughtered a Giant Vermine.
+1/17/25 6:48:21p * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+1/17/25 6:48:22p You slaughtered a Large Vermine.
+1/17/25 6:48:22p You slaughtered a Large Vermine.
+1/17/25 6:48:22p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/17/25 6:48:22p You slaughtered a Corpse Warrior.
+1/17/25 6:48:27p You slaughtered a Vermine.
+1/17/25 6:48:31p You slaughtered a Large Vermine.
+1/17/25 6:48:33p You slaughtered a Vermine.
+1/17/25 6:48:34p You slaughtered a Vermine.
+1/17/25 6:48:36p You slaughtered an Island Panther.
+1/17/25 6:48:40p Shayndel is now Clanning.
+1/17/25 6:48:41p You slaughtered a Rat.
+1/17/25 6:48:43p You slaughtered a Vermine.
+1/17/25 6:48:43p Fluffi is now Clanning.
+1/17/25 6:48:52p You slaughtered a Vermine.
+1/17/25 6:48:54p You slaughtered a Vermine.
+1/17/25 6:49:00p You slaughtered a Large Vermine.
+1/17/25 6:49:03p You slaughtered an Orga.
+1/17/25 6:49:04p You slaughtered a Rat.
+1/17/25 6:49:05p You slaughtered a Grey Feral.
+1/17/25 6:49:05p * You recover the Grey Feral fur, worth 2c. Your share is 2c.
+1/17/25 6:49:11p You slaughtered a Scavenger Bird.
+1/17/25 6:49:13p You slaughtered an Orga.
+1/17/25 6:49:16p You slaughtered a Grey Feral.
+1/17/25 6:49:16p You slaughtered a Rat.
+1/17/25 6:49:22p You slaughtered an Artak Cougar.
+1/17/25 6:49:22p * For recovering the fur, you gain experience.
+1/17/25 6:49:22p * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+1/17/25 6:49:23p You slaughtered an Island Panther.
+1/17/25 6:49:23p * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/17/25 6:49:23p You slaughtered a Large Vermine.
+1/17/25 6:49:24p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/17/25 6:49:25p You slaughtered an Artak Cougar.
+1/17/25 6:49:25p You slaughtered an Artak Cougar.
+1/17/25 6:49:25p * For recovering the fur, you gain experience.
+1/17/25 6:49:25p * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+1/17/25 6:49:25p You slaughtered an Island Panther.
+1/17/25 6:49:26p You slaughtered an Artak Cougar.
+1/17/25 6:49:26p * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+1/17/25 6:49:26p You slaughtered an Artak Cougar.
+1/17/25 6:49:28p You slaughtered a Rat.
+1/17/25 6:49:32p You slaughtered a Large Vermine.
+1/17/25 6:49:32p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/17/25 6:49:32p You slaughtered an Artak Cougar.
+1/17/25 6:49:32p * For recovering the fur, you gain experience.
+1/17/25 6:49:32p * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+1/17/25 6:49:32p You slaughtered a Brown Feral.
+1/17/25 6:49:33p You slaughtered an Artak Cougar.
+1/17/25 6:49:33p * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+1/17/25 6:49:34p You slaughtered an Orga.
+1/17/25 6:49:34p You slaughtered an Island Panther.
+1/17/25 6:49:35p * You recover the Island Panther fur, worth 3c. Your share is 3c.
+1/17/25 6:49:36p You slaughtered an Orga.
+1/17/25 6:49:40p You slaughtered a Starbuck.
+1/17/25 6:49:41p * You recover the Starbuck fur, worth 1c. Your share is 1c.
+1/17/25 6:49:42p You slaughtered an Artak Cougar.
+1/17/25 6:49:42p * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+1/17/25 6:49:43p You slaughtered a Rat.
+1/17/25 6:49:43p You slaughtered an Artak Cougar.
+1/17/25 6:49:43p * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+1/17/25 6:49:44p You slaughtered an Orga.
+1/17/25 6:49:45p You slaughtered an Artak Cougar.
+1/17/25 6:49:45p * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+1/17/25 6:49:47p You slaughtered a Large Vermine.
+1/17/25 6:49:47p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/17/25 6:49:48p You slaughtered an Orga.
+1/17/25 6:49:48p You slaughtered an Island Panther.
+1/17/25 6:49:49p * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/17/25 6:49:53p You slaughtered a Giant Vermine.
+1/17/25 6:49:53p * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+1/17/25 6:49:53p You slaughtered a Grey Feral.
+1/17/25 6:49:54p You slaughtered a Grey Feral.
+1/17/25 6:49:55p * You recover the Grey Feral fur, worth 3c. Your share is 3c.
+1/17/25 6:50:01p You slaughtered an Island Panther.
+1/17/25 6:50:02p You slaughtered a Vermine.
+1/17/25 6:50:04p You slaughtered a Large Vermine.
+1/17/25 6:50:05p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/17/25 6:50:06p You slaughtered a Feral.
+1/17/25 6:50:06p * You recover the Feral fur, worth 1c. Your share is 1c.
+1/17/25 6:50:07p You slaughtered an Island Panther.
+1/17/25 6:50:07p * You recover the Island Panther fur, worth 3c. Your share is 3c.
+1/17/25 6:50:12p You slaughtered a Feral.
+1/17/25 6:50:13p You slaughtered an Orga.
+1/17/25 6:50:14p You slaughtered a Large Vermine.
+1/17/25 6:50:14p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/17/25 6:50:18p You slaughtered a Feral.
+1/17/25 6:50:18p * You recover the Feral fur, worth 2c. Your share is 2c.
+1/17/25 6:50:20p You slaughtered a Large Vermine.
+1/17/25 6:50:21p You slaughtered an Island Panther.
+1/17/25 6:50:21p * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/17/25 6:50:23p You slaughtered a Feral.
+1/17/25 6:50:23p * You recover the Feral fur, worth 2c. Your share is 2c.
+1/17/25 6:50:26p You slaughtered a Large Vermine.
+1/17/25 6:50:26p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/17/25 6:50:28p You slaughtered a Vermine.
+1/17/25 6:50:29p You slaughtered an Island Panther.
+1/17/25 6:50:29p * You recover the Island Panther fur, worth 3c. Your share is 3c.
+1/17/25 6:50:29p You slaughtered an Island Panther.
+1/17/25 6:50:29p * You recover the Island Panther fur, worth 4c. Your share is 4c.
+1/17/25 6:50:30p You slaughtered an Artak Cougar.
+1/17/25 6:50:30p * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+1/17/25 6:50:31p You slaughtered a Grey Feral.
+1/17/25 6:50:32p * You recover the Grey Feral fur, worth 2c. Your share is 2c.
+1/17/25 6:50:32p You slaughtered a Large Vermine.
+1/17/25 6:50:32p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/17/25 6:50:33p You slaughtered a Foxweir.
+1/17/25 6:50:33p * You recover the Foxweir fur, worth 1c. Your share is 1c.
+1/17/25 6:50:34p You slaughtered a Giant Vermine.
+1/17/25 6:50:35p You slaughtered an Island Panther.
+1/17/25 6:50:35p * You recover the Island Panther fur, worth 4c. Your share is 4c.
+1/17/25 6:50:36p You slaughtered an Island Panther.
+1/17/25 6:50:36p * You recover the Island Panther fur, worth 7c. Your share is 7c.
+1/17/25 6:50:37p You slaughtered an Artak Cougar.
+1/17/25 6:50:38p * You recover the Artak Cougar fur, worth 5c. Your share is 5c.
+1/17/25 6:50:38p You slaughtered a Brown Feral.
+1/17/25 6:50:38p * You recover the Brown Feral fur, worth 3c. Your share is 3c.
+1/17/25 6:50:42p You slaughtered a Bolok Cougar.
+1/17/25 6:50:42p You slaughtered a Large Vermine.
+1/17/25 6:50:44p You slaughtered a Large Vermine.
+1/17/25 6:50:46p You slaughtered a Grey Feral.
+1/17/25 6:50:46p * You recover the Grey Feral fur, worth 5c. Your share is 5c.
+1/17/25 6:50:47p You slaughtered an Island Panther.
+1/17/25 6:50:47p * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/17/25 6:50:50p You slaughtered an Island Panther.
+1/17/25 6:50:50p * You recover the Island Panther fur, worth 4c. Your share is 4c.
+1/17/25 6:50:51p You slaughtered a Feral.
+1/17/25 6:50:51p * You recover the Feral fur, worth 2c. Your share is 2c.
+1/17/25 6:50:53p You slaughtered an Island Panther.
+1/17/25 6:50:57p You slaughtered a Grey Feral.
+1/17/25 6:50:58p You slaughtered an Island Panther.
+1/17/25 6:50:59p * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/17/25 6:50:59p You slaughtered a Brown Feral.
+1/17/25 6:50:59p * You recover the Brown Feral fur, worth 3c. Your share is 3c.
+1/17/25 6:51:01p You slaughtered a Large Vermine.
+1/17/25 6:51:01p * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/17/25 6:51:02p You slaughtered a Feral.
+1/17/25 6:51:02p * You recover the Feral fur, worth 2c. Your share is 2c.
+1/17/25 6:51:03p You slaughtered an Orga.
+1/17/25 6:51:03p You slaughtered an Orga.
+1/17/25 6:51:04p You slaughtered a Rat.
+1/17/25 6:51:04p You slaughtered an Artak Cougar.
+1/17/25 6:51:05p You slaughtered an Island Panther.
+1/17/25 6:51:05p * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/17/25 6:51:05p You slaughtered an Artak Cougar.
+1/17/25 6:51:05p * You recover the Artak Cougar fur, worth 5c. Your share is 5c.
+1/17/25 6:51:07p You slaughtered a Large Vermine.
+1/17/25 6:51:08p You slaughtered an Artak Cougar.
+1/17/25 6:51:09p You slaughtered a Large Feral.
+1/17/25 6:51:10p You slaughtered an Island Panther.
+1/17/25 6:51:10p * You recover the Island Panther fur, worth 3c. Your share is 3c.
+1/17/25 6:51:11p You slaughtered a Brown Feral.
+1/17/25 6:51:11p * You recover the Brown Feral fur, worth 4c. Your share is 4c.
+1/17/25 6:51:13p You slaughtered an Island Panther.
+1/17/25 6:51:13p You slaughtered an Artak Cougar.
+1/17/25 6:51:13p * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/17/25 6:51:13p * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+1/17/25 6:51:15p You slaughtered an Island Panther.
+1/17/25 6:51:15p * You recover the Island Panther fur, worth 4c. Your share is 4c.
+1/17/25 6:51:17p You slaughtered a Large Vermine.
+1/17/25 6:51:17p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/17/25 6:51:18p You slaughtered a Large Feral.
+1/17/25 6:51:18p You slaughtered an Island Panther.
+1/17/25 6:51:19p * You recover the Island Panther fur, worth 3c. Your share is 3c.
+1/17/25 6:51:19p You slaughtered a Brown Feral.
+1/17/25 6:51:19p * You recover the Brown Feral fur, worth 2c. Your share is 2c.
+1/17/25 6:51:21p You slaughtered an Island Panther.
+1/17/25 6:51:22p * For recovering the fur, you gain experience

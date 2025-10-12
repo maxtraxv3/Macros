@@ -1,0 +1,589 @@
+
+5/13/25 6:49:32p •You seem to heal from further away now.
+5/13/25 6:49:32p Welcome back, Unholy!
+5/13/25 6:49:32p *Healer Mode
+5/13/25 6:49:32p *Type /hi help for more info
+5/13/25 6:49:33p Friends online: none.
+5/13/25 6:50:10p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+5/13/25 6:50:11p Unholy has fallen to a tidal surge.
+5/13/25 6:50:11p •You are easily healable.
+5/13/25 6:51:12p Dracula starts dragging you.
+5/13/25 6:51:13p Dracula's chain flies apart from the stress.
+5/13/25 6:51:15p Dracula starts dragging you.
+5/13/25 6:52:08p Captain Barnac asks, "Ah, Dracula. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+5/13/25 6:52:08p Dracula says, "aye"
+5/13/25 6:52:15p Dracula rows through the roaring surf.
+5/13/25 6:53:35p You have 313 coins.
+5/13/25 6:53:35p The ground is scorched and pitted.
+5/13/25 6:55:10p •You sense healing energy from Ceara.
+5/13/25 6:55:37p Dracula says, "area"
+5/13/25 6:55:47p Magnic is sharing experiences with you.
+5/13/25 6:56:10p * Healer Item set to caduceus 
+5/13/25 6:56:13p * Auto Healer ON!
+5/13/25 6:56:22p Magnic says, "c lock ceara"
+5/13/25 6:56:47p * Dracula recovers the Mountain Bear fur, worth 29c. Your share is 8c.
+5/13/25 6:57:01p * Dracula recovers the Mountain Bear fur, worth 6c. Your share is 1c.
+5/13/25 6:57:07p * Dracula recovers the Dire Bear fur, worth 38c. Your share is 9c.
+5/13/25 6:57:22p ZipLock is sharing experiences with you.
+5/13/25 6:57:30p You begin sharing your experiences with Ceara.
+5/13/25 6:57:32p You are still too mentally fatigued to change spirit links.
+5/13/25 6:57:33p You are still too mentally fatigued to change spirit links.
+5/13/25 6:57:33p You begin sharing your experiences with Dracula.
+5/13/25 6:57:33p You are sharing experiences with Dracula and Ceara.
+5/13/25 6:57:37p Anduin Lothar turns to stone.
+5/13/25 6:57:39p You have 331 coins.
+5/13/25 6:57:46p You begin sharing your experiences with Magnic.
+5/13/25 6:57:46p You are sharing experiences with Magnic, Dracula and Ceara.
+5/13/25 6:57:47p Ceara says, "c heal zip"
+5/13/25 6:57:47p * Auto Healing  zip" 
+5/13/25 6:58:23p •You lock your healing to Ceara.
+5/13/25 6:58:24p Dracula says, "self"
+5/13/25 6:58:39p Dracula says, "b heal self"
+5/13/25 6:58:46p Dracula says, "self"
+5/13/25 6:58:59p Dracula says, "area"
+5/13/25 6:59:03p Dracula says, "b self"
+5/13/25 6:59:35p * Magnic recovers the Albino Flying Foxweir fur, worth 5c. Your share is 1c.
+5/13/25 6:59:54p ZipLock turns to stone.
+5/13/25 7:00:04p Dracula plants a seedling.
+5/13/25 7:00:08p Dracula plants a seedling.
+5/13/25 7:00:14p Dracula plants a seedling.
+5/13/25 7:00:17p Dracula plants a seedling.
+5/13/25 7:00:26p * Magnic recovers the Albino Flying Foxweir fur, worth 4c. Your share is 1c.
+5/13/25 7:01:24p * Dracula recovers the Black Mantis mandibles, worth 49c. Your share is 12c.
+5/13/25 7:01:28p * Dracula recovers the Mountain Bear fur, worth 43c. Your share is 10c.
+5/13/25 7:01:38p You have 355 coins.
+5/13/25 7:02:04p * Dracula recovers the Dire Bear fur, worth 5c. Your share is 1c.
+5/13/25 7:02:05p * Dracula recovers the Mountain Bear fur, worth 10c. Your share is 2c.
+5/13/25 7:02:21p Anduin Lothar turns to stone.
+5/13/25 7:04:39p ZipLock turns to stone.
+5/13/25 7:04:53p * Dracula recovers the Mountain Grizzly Bear fur, worth 15c. Your share is 3c.
+5/13/25 7:05:38p •••
+5/13/25 7:05:38p You have been idle for too long.
+5/13/25 7:05:38p Please do something to avoid being disconnected.
+5/13/25 7:05:38p •••
+5/13/25 7:05:41p You have 361 coins.
+5/13/25 7:06:00p Dracula growls, "b heal mag"
+5/13/25 7:06:30p * Dracula recovers the Dire Bear fur, worth 42c. Your share is 11c.
+5/13/25 7:07:05p Anduin Lothar turns to stone.
+5/13/25 7:08:24p Dracula says, "b heal mag"
+5/13/25 7:08:32p Magnic says, "c heal me"
+5/13/25 7:08:33p * Auto Healing  Magnic 
+5/13/25 7:08:33p •You unlock your caduceus healing.
+5/13/25 7:08:33p •Magnic’s body was mangled.
+5/13/25 7:08:53p Magnic says, "c lock ceara"
+5/13/25 7:08:55p Dracula plants a seedling.
+5/13/25 7:08:59p Dracula plants a seedling.
+5/13/25 7:09:05p Dracula plants a seedling.
+5/13/25 7:09:11p •You lock your healing to Ceara.
+5/13/25 7:09:23p * Magnic recovers the Black Locust mandibles, worth 3c. Your share is 1c.
+5/13/25 7:09:23p ZipLock turns to stone.
+5/13/25 7:09:35p * Dracula recovers the Black Locust mandibles, worth 41c. Your share is 10c.
+5/13/25 7:09:40p You have 383 coins.
+5/13/25 7:09:48p Dracula says, "area"
+5/13/25 7:09:52p Stonehand thinks, "anyone need another fighter?"
+5/13/25 7:10:24p Dracula thinks, "currently in bears in mountain getting lasties with magnic if you wanna join"
+5/13/25 7:10:41p Dracula thinks, "fair warning, its lazy and slow spawns :)"
+5/13/25 7:10:51p Stonehand thinks, "I don't think i'd make it that far"
+5/13/25 7:11:32p Magnic picks up a sack of kudzu seedlings.
+5/13/25 7:11:50p Anduin Lothar turns to stone.
+5/13/25 7:13:01p Stonehand is sharing experiences with you.
+5/13/25 7:13:40p •••
+5/13/25 7:13:40p You have been idle for too long.
+5/13/25 7:13:40p Please do something to avoid being disconnected.
+5/13/25 7:13:40p •••
+5/13/25 7:13:55p You have 383 coins.
+5/13/25 7:14:07p ZipLock turns to stone.
+5/13/25 7:14:43p Dracula growls, "b heal stonehand"
+5/13/25 7:14:47p * Dracula recovers the Mountain Grizzly Bear fur, worth 45c. Your share is 9c.
+5/13/25 7:14:48p Stonehand says, "hello"
+5/13/25 7:14:59p Dracula growls, "ceara is b heal (name) and unholy is C heal (name"
+5/13/25 7:15:07p Dracula growls, "i may be afk at times"
+5/13/25 7:15:16p (Stonehand nods)
+5/13/25 7:15:19p Dracula says, "and OOC making dinner shortly"
+5/13/25 7:15:28p Magnic says, "area"
+5/13/25 7:15:39p Dracula says, "feel free to lure s/ss but dont go too far"
+5/13/25 7:15:46p Dracula says, "ill rescue if you fall :p"
+5/13/25 7:16:12p * Stonehand recovers the Dire Bear fur, worth 9c. Your share is 2c.
+5/13/25 7:16:19p * Dracula recovers the Mountain Grizzly Bear fur, worth 26c. Your share is 5c.
+5/13/25 7:16:22p Dracula says, "oh right"
+5/13/25 7:16:23p Magnic says, "tan bear lasties"
+5/13/25 7:16:25p Dracula says, "better for me to not tag"
+5/13/25 7:16:34p Anduin Lothar turns to stone.
+5/13/25 7:16:36p Dracula says, "all slaughter :D"
+5/13/25 7:16:51p Magnic picks up a kudzu seedling.
+5/13/25 7:17:00p Stonehand says, "some vanqs for me still :3"
+5/13/25 7:17:03p Dracula says, "nice"
+5/13/25 7:17:08p * Dracula recovers the Black Locust mandibles, worth 64c. Your share is 13c.
+5/13/25 7:17:17p Dracula says, "i have 300 skea and 200 dentir too :p"
+5/13/25 7:17:22p Stonehand says, "o nice"
+5/13/25 7:17:32p Stonehand says, "well I have...."
+5/13/25 7:17:35p Stonehand says, "this feather"
+5/13/25 7:17:38p Stonehand shows his agronox feather to everyone.
+5/13/25 7:17:42p Dracula says, "i got one of those"
+5/13/25 7:17:48p Dracula shows his raven skull to Stonehand.
+5/13/25 7:17:53p Stonehand exclaims, "!"
+5/13/25 7:17:55p •••
+5/13/25 7:17:55p You have been idle for too long.
+5/13/25 7:17:55p Please do something to avoid being disconnected.
+5/13/25 7:17:55p •••
+5/13/25 7:18:00p You have 412 coins.
+5/13/25 7:18:00p Dracula says, "i have this purely to show mystics"
+5/13/25 7:18:04p Stonehand says, "haha"
+5/13/25 7:18:13p Stonehand says, "i assume it's some special mystic item"
+5/13/25 7:18:23p Dracula says, "makes water breathing item or something i hear"
+5/13/25 7:18:29p Dracula says, "idk mystics are all secretive"
+5/13/25 7:18:33p Dracula says, "but they want it, so its mine"
+5/13/25 7:18:35p Stonehand says, "silly mystics"
+5/13/25 7:18:39p (Dracula nods)
+5/13/25 7:18:52p ZipLock turns to stone.
+5/13/25 7:19:02p * Magnic recovers the Mountain Grizzly Bear fur, worth 21c. Your share is 4c.
+5/13/25 7:19:11p Dracula says, "i should really farm fog more and finish icekin"
+5/13/25 7:19:24p Stonehand says, "i like the kins"
+5/13/25 7:19:32p Dracula says, "icekin is just so good"
+5/13/25 7:19:37p Stonehand says, "if I were to get a morph it would probably be that one"
+5/13/25 7:19:44p Dracula asks, "no morphs yet?"
+5/13/25 7:19:48p Stonehand says, "well some"
+5/13/25 7:20:03p Stonehand says, "but I'd have to qualify for ranger again and train goss and all that"
+5/13/25 7:20:20p * Dracula recovers the Mountain Bear fur, worth 44c. Your share is 9c.
+5/13/25 7:20:24p Dracula growls, "5/13/25 5:20:11p Stonehand is a Dwarf, is male, is a Ranger"
+5/13/25 7:20:29p Dracula growls, "???"
+5/13/25 7:20:34p Stonehand says, "I untrained"
+5/13/25 7:20:40p Dracula growls, "still a ranger though"
+5/13/25 7:20:45p Dracula growls, "so you keep all your studies"
+5/13/25 7:20:56p Stonehand says, "yeah but hard to get more"
+5/13/25 7:20:58p Magnic says, "if you dont untrain 3rd your still a ranger"
+5/13/25 7:20:59p Dracula growls, "ohhh"
+5/13/25 7:21:01p Dracula growls, "duvin hole?"
+5/13/25 7:21:05p Stonehand says, "yeah"
+5/13/25 7:21:13p Dracula growls, "how bad?"
+5/13/25 7:21:14p Magnic picks up a kudzu seedling.
+5/13/25 7:21:18p Anduin Lothar turns to stone.
+5/13/25 7:21:20p Stonehand says, "eh not the worst"
+5/13/25 7:21:23p (Dracula nods)
+5/13/25 7:21:28p Stonehand says, "but it would take like a year maybe"
+5/13/25 7:21:32p Magnic plants a seedling.
+5/13/25 7:21:33p Dracula growls, "thats not so bad"
+5/13/25 7:21:40p Magnic plants a seedling.
+5/13/25 7:21:40p Dracula growls, "get like 400 goss"
+5/13/25 7:21:43p Dracula growls, "and then train duvin as needed"
+5/13/25 7:21:50p Magnic plants a seedling.
+5/13/25 7:21:58p Dracula says, "raven had a bad one"
+5/13/25 7:22:00p •••
+5/13/25 7:22:00p You have been idle for too long.
+5/13/25 7:22:00p Please do something to avoid being disconnected.
+5/13/25 7:22:00p •••
+5/13/25 7:22:08p You have 425 coins.
+5/13/25 7:22:11p Dracula says, "but he ended up training it out after mork convinced him or something"
+5/13/25 7:22:16p Stonehand says, "I'm planning on getting 3.6k bangus instead"
+5/13/25 7:22:21p (Dracula grins)
+5/13/25 7:22:23p Dracula says, "i see"
+5/13/25 7:22:47p * Ceara recovers the Mammoth Banana Arachne mandibles, worth 33c. Your share is 7c.
+5/13/25 7:23:36p ZipLock turns to stone.
+5/13/25 7:23:37p Honor thinks, "Congratulations go out to Mr Moop, who has just passed the third circle fighter test."
+5/13/25 7:23:46p Dracula thinks, "congrats!"
+5/13/25 7:23:49p Stonehand ponders, "then I'll finally be able to hit those darn mistrals"
+5/13/25 7:23:56p Stonehand thinks, "grats"
+5/13/25 7:23:57p (Dracula grins)
+5/13/25 7:24:05p Dracula growls, "900ish atkus i think?>"
+5/13/25 7:24:08p Dracula growls, "to hit them"
+5/13/25 7:24:08p Magnic thinks, "congratz"
+5/13/25 7:24:12p Dracula growls, "some are like 1k though"
+5/13/25 7:24:19p Stonehand says, "yeah"
+5/13/25 7:24:23p Dracula growls, "its such a good morph though"
+5/13/25 7:24:29p Stonehand says, "I only have like 80 so they are kinda rough"
+5/13/25 7:24:34p Stonehand says, "850"
+5/13/25 7:24:35p (Dracula grins)
+5/13/25 7:24:38p Dracula growls, "yeah"
+5/13/25 7:24:41p Stonehand says, "my five key is dead"
+5/13/25 7:24:45p Dracula says, "haha"
+5/13/25 7:24:49p Dracula asks, "time for a new keyboard?"
+5/13/25 7:24:53p Stonehand says, "yeah"
+5/13/25 7:25:06p Stonehand says, "I got a few lying around I'll steal tomorrow"
+5/13/25 7:25:25p * Dracula recovers the Mountain Grizzly Bear fur, worth 54c. Your share is 11c.
+5/13/25 7:25:29p * Dracula recovers the Mountain Grizzly Bear fur, worth 56c. Your share is 11c.
+5/13/25 7:25:32p Dracula says, "ok"
+5/13/25 7:25:36p Dracula says, "im gonna afk and make dinner"
+5/13/25 7:25:40p Stonehand says, "or maybe fix this one for fun"
+5/13/25 7:25:48p Dracula says, "use b heal for ceara and c heal for unholy"
+5/13/25 7:25:48p * Auto Healing  heal 
+5/13/25 7:25:49p •You must specify a player in the game.
+5/13/25 7:25:49p Unholy ponders, "i can not find this person"
+5/13/25 7:25:53p Stonehand says, "yup yup"
+5/13/25 7:25:56p Dracula says, "just say "area" for ceara radium"
+5/13/25 7:25:57p Stonehand says, "er"
+5/13/25 7:25:59p Dracula says, "area"
+5/13/25 7:26:02p Dracula says, "area"
+5/13/25 7:26:02p •You lock your healing to Ceara.
+5/13/25 7:26:02p Anduin Lothar turns to stone.
+5/13/25 7:26:10p You have 454 coins.
+5/13/25 7:26:33p Stonehand says, "many jumpers"
+5/13/25 7:27:06p * Dracula recovers the Black Locust mandibles, worth 26c. Your share is 5c.
+5/13/25 7:27:13p * Dracula recovers the Black Locust mandibles, worth 45c. Your share is 9c.
+5/13/25 7:27:20p * Dracula recovers the Black Locust mandibles, worth 52c. Your share is 11c.
+5/13/25 7:27:33p Stonehand says, "oh it was a bm"
+5/13/25 7:27:56p Magnic says, "the only kills for me in this cave"
+5/13/25 7:28:18p Stonehand says, "i disped a black mamba qq"
+5/13/25 7:28:21p ZipLock turns to stone.
+5/13/25 7:28:34p * Stonehand recovers the Black Locust mandibles, worth 40c. Your share is 8c.
+5/13/25 7:28:45p * Dracula recovers the Black Locust mandibles, worth 19c. Your share is 4c.
+5/13/25 7:28:47p Stonehand says, "i disped a black mamba qq"
+5/13/25 7:29:00p * Dracula recovers the Mountain Grizzly Bear fur, worth 9c. Your share is 2c.
+5/13/25 7:29:08p Magnic says, "c heal me"
+5/13/25 7:29:08p * Auto Healing  Magnic 
+5/13/25 7:29:08p •You unlock your caduceus healing.
+5/13/25 7:29:14p Stonehand says, "B HEAL ME"
+5/13/25 7:29:19p •The Sun rises.
+5/13/25 7:29:21p Magnic says, "heh"
+5/13/25 7:29:25p Magnic says, "that doesnt work"
+5/13/25 7:29:33p Stonehand says, "ss key right next to tab ;p"
+5/13/25 7:29:33p •You do not have enough spiritual energy.
+5/13/25 7:29:35p Magnic says, "c heal stone"
+5/13/25 7:29:35p * Auto Healing  stone" 
+5/13/25 7:29:41p •You do not have enough spiritual energy.
+5/13/25 7:29:42p Magnic says, "b heal unholy"
+5/13/25 7:29:42p •You sense healing energy from Ceara.
+5/13/25 7:29:57p Magnic says, "c heal stone"
+5/13/25 7:29:57p * Auto Healing  stone" 
+5/13/25 7:30:03p Stonehand says, "eh I'll troil before the next spawn anyways"
+5/13/25 7:30:13p You have 493 coins.
+5/13/25 7:30:17p Magnic says, "area"
+5/13/25 7:30:22p •You do not have enough spiritual energy.
+5/13/25 7:30:23p •You lock your healing to Ceara.
+5/13/25 7:30:46p Anduin Lothar turns to stone.
+5/13/25 7:33:05p ZipLock turns to stone.
+5/13/25 7:34:03p Magnic plants a seedling.
+5/13/25 7:34:16p You have 493 coins.
+5/13/25 7:34:28p Magnic plants a seedling.
+5/13/25 7:34:35p Magnic plants a seedling.
+5/13/25 7:34:57p * Dracula recovers the Mountain Grizzly Bear fur, worth 56c. Your share is 11c.
+5/13/25 7:35:02p * Dracula recovers the Mountain Grizzly Bear fur, worth 17c. Your share is 4c.
+5/13/25 7:35:31p Anduin Lothar turns to stone.
+5/13/25 7:36:04p * Dracula recovers the Mountain Grizzly Bear fur, worth 55c. Your share is 11c.
+5/13/25 7:36:15p Magnic says, "b heal mag"
+5/13/25 7:36:49p Magnic says, "area"
+5/13/25 7:37:03p * Dracula recovers the Mountain Bear fur, worth 40c. Your share is 8c.
+5/13/25 7:37:18p * Stonehand recovers the Mountain Bear fur, worth 6c. Your share is 2c.
+5/13/25 7:37:49p ZipLock turns to stone.
+5/13/25 7:38:16p •••
+5/13/25 7:38:16p You have been idle for too long.
+5/13/25 7:38:16p Please do something to avoid being disconnected.
+5/13/25 7:38:16p •••
+5/13/25 7:38:20p You have 529 coins.
+5/13/25 7:39:44p * Ceara recovers the Mountain Bear fur, worth 51c. Your share is 10c.
+5/13/25 7:40:07p Magnic says, "b heal mag"
+5/13/25 7:40:15p Anduin Lothar turns to stone.
+5/13/25 7:40:38p Magnic says, "area"
+5/13/25 7:41:20p * Dracula recovers the Mountain Grizzly Bear fur, worth 25c. Your share is 5c.
+5/13/25 7:42:20p •••
+5/13/25 7:42:20p You have been idle for too long.
+5/13/25 7:42:20p Please do something to avoid being disconnected.
+5/13/25 7:42:20p •••
+5/13/25 7:42:21p You have 544 coins.
+5/13/25 7:42:34p ZipLock turns to stone.
+5/13/25 7:42:45p * Dracula recovers the Dire Bear fur, worth 38c. Your share is 7c.
+5/13/25 7:44:05p * Dracula recovers the Mountain Bear fur, worth 39c. Your share is 8c.
+5/13/25 7:44:20p Magnic says, "5th a lot"
+5/13/25 7:44:31p * Dracula recovers the Mountain Grizzly Bear fur, worth 19c. Your share is 3c.
+5/13/25 7:44:35p Stonehand asks, "th?"
+5/13/25 7:44:52p Stonehand asks, "5th?"
+5/13/25 7:44:59p Anduin Lothar turns to stone.
+5/13/25 7:45:03p Magnic says, "yes"
+5/13/25 7:45:28p Stonehand asks, "what means this?"
+5/13/25 7:45:41p Magnic plants a seedling.
+5/13/25 7:46:06p Stonehand asks, "5th of vodka?"
+5/13/25 7:46:13p Stonehand asks, "beethoven's 5th?"
+5/13/25 7:46:22p •••
+5/13/25 7:46:22p You have been idle for too long.
+5/13/25 7:46:22p Please do something to avoid being disconnected.
+5/13/25 7:46:22p •••
+5/13/25 7:46:26p You have 562 coins.
+5/13/25 7:46:30p Dracula says, "5th lot msg for studies"
+5/13/25 7:46:44p Stonehand asks, "mike tython's fith?"
+5/13/25 7:46:48p (Dracula grins)
+5/13/25 7:47:00p Magnic asks, "fithhh?"
+5/13/25 7:47:18p ZipLock turns to stone.
+5/13/25 7:47:23p Stonehand asks, "oh is that good?"
+5/13/25 7:47:27p Stonehand says, "it sounds good"
+5/13/25 7:47:43p Magnic plants a seedling.
+5/13/25 7:48:34p * Stonehand recovers the Smoky Bear fur, worth 6c. Your share is 1c.
+5/13/25 7:48:50p * Dracula recovers the Mountain Bear fur, worth 59c. Your share is 12c.
+5/13/25 7:49:18p * Dracula recovers the Albino Flying Foxweir fur, worth 6c. Your share is 1c.
+5/13/25 7:49:25p Stonehand says, "b heal mag"
+5/13/25 7:49:43p Anduin Lothar turns to stone.
+5/13/25 7:49:44p Magnic plants a seedling.
+5/13/25 7:49:54p Dracula says, "c heal stone"
+5/13/25 7:49:54p * Auto Healing  stone" 
+5/13/25 7:49:54p •You unlock your caduceus healing.
+5/13/25 7:49:55p •You don't quite have the training to heal Stonehand’s injuries.
+5/13/25 7:49:58p Dracula says, "b heal stone"
+5/13/25 7:49:59p •Stonehand’s injuries were serious.
+5/13/25 7:50:10p Magnic says, "c heal stone"
+5/13/25 7:50:10p * Auto Healing  stone" 
+5/13/25 7:50:15p Dracula says, "area"
+5/13/25 7:50:28p •You lock your healing to Ceara.
+5/13/25 7:50:29p You have 576 coins.
+5/13/25 7:51:24p Magnic plants a seedling.
+5/13/25 7:52:03p ZipLock turns to stone.
+5/13/25 7:52:17p * Dracula recovers the Black Locust mandibles, worth 13c. Your share is 2c.
+5/13/25 7:52:28p Magnic says, "b heal me"
+5/13/25 7:52:34p Magnic says, "b heal mag"
+5/13/25 7:52:55p Magnic says, "area"
+5/13/25 7:53:54p Magnic says, "b heal mag"
+5/13/25 7:53:54p Dracula says, "b heal mag"
+5/13/25 7:54:01p Dracula says, "dinner almost done :D"
+5/13/25 7:54:13p * Magnic recovers the Mountain Bear fur, worth 6c. Your share is 1c.
+5/13/25 7:54:22p Dracula says, "area"
+5/13/25 7:54:27p Anduin Lothar turns to stone.
+5/13/25 7:54:29p •••
+5/13/25 7:54:29p You have been idle for too long.
+5/13/25 7:54:29p Please do something to avoid being disconnected.
+5/13/25 7:54:29p •••
+5/13/25 7:54:31p You have 579 coins.
+5/13/25 7:54:41p Dracula says, "oh if you want some zu seeds stonehand you are welcome to some :P"
+5/13/25 7:54:47p Stonehand says, "thanks"
+5/13/25 7:56:27p * Dracula recovers the Mountain Grizzly Bear fur, worth 26c. Your share is 5c.
+5/13/25 7:56:47p ZipLock turns to stone.
+5/13/25 7:56:54p * Dracula recovers the Mountain Bear fur, worth 34c. Your share is 7c.
+5/13/25 7:57:05p * Dracula recovers the Smoky Bear fur, worth 42c. Your share is 8c.
+5/13/25 7:57:44p Magnic plants a seedling.
+5/13/25 7:58:30p You have 599 coins.
+5/13/25 7:59:12p Anduin Lothar turns to stone.
+5/13/25 7:59:15p Magnic says, "brb coffee"
+5/13/25 7:59:19p Magnic says, "wait for spawns"
+5/13/25 7:59:24p Magnic says, "waitting*"
+5/13/25 8:01:31p ZipLock turns to stone.
+5/13/25 8:02:00p Dracula says, "im back wit hdinner"
+5/13/25 8:02:07p Stonehand says, "woot woot"
+5/13/25 8:02:22p Dracula says, "this hunt might end soon though :P"
+5/13/25 8:02:31p •••
+5/13/25 8:02:31p You have been idle for too long.
+5/13/25 8:02:31p Please do something to avoid being disconnected.
+5/13/25 8:02:31p •••
+5/13/25 8:02:31p You have 599 coins.
+5/13/25 8:02:39p Dracula says, "but we will see"
+5/13/25 8:03:09p Stonehand says, "all things must end some day"
+5/13/25 8:03:34p Dracula says, "i kinda just set up wherever"
+5/13/25 8:03:48p Dracula says, "right now because no portal im doing vale with naf and biro and getting badger morph"
+5/13/25 8:03:53p Dracula says, "and helping magnic with bears"
+5/13/25 8:03:56p Anduin Lothar turns to stone.
+5/13/25 8:04:12p Stonehand says, "those are both fun hunts"
+5/13/25 8:04:22p * Dracula recovers the Black Locust mandibles, worth 25c. Your share is 5c.
+5/13/25 8:04:33p * Dracula recovers the Black Locust mandibles, worth 3c. Your share is 1c.
+5/13/25 8:04:56p Dracula says, "OOC supposed to be playing tarkov with a friend shortly but if he doesnt respond ill be going vale :p"
+5/13/25 8:05:06p Dracula says, "if i go tarkov i can leave setup here heh"
+5/13/25 8:05:16p Stonehand says, ":O"
+5/13/25 8:05:46p * Dracula recovers the Mountain Bear fur, worth 50c. Your share is 10c.
+5/13/25 8:06:16p ZipLock turns to stone.
+5/13/25 8:06:31p •••
+5/13/25 8:06:31p You have been idle for too long.
+5/13/25 8:06:31p Please do something to avoid being disconnected.
+5/13/25 8:06:31p •••
+5/13/25 8:06:37p You have 615 coins.
+5/13/25 8:06:40p * Stonehand recovers the Black Mantis mandibles, worth 26c. Your share is 5c.
+5/13/25 8:07:11p * Dracula recovers the Black Mantis mandibles, worth 32c. Your share is 7c.
+5/13/25 8:07:16p Stonehand says, "b heal me"
+5/13/25 8:07:21p Dracula says, "gotta name"
+5/13/25 8:07:24p Dracula says, "b heal stone"
+5/13/25 8:07:28p Stonehand says, "b heal stone"
+5/13/25 8:07:56p Magnic says, "the me on the b macro doesnt work on bastion version think he has an old one"
+5/13/25 8:08:25p * Dracula recovers the Mountain Bear fur, worth 36c. Your share is 7c.
+5/13/25 8:08:37p * You recover the Mountain Bear fur, worth 33c. Your share is 6c.
+5/13/25 8:08:40p Anduin Lothar turns to stone.
+5/13/25 8:08:41p * Dracula recovers the Mountain Bear fur, worth 36c. Your share is 7c.
+5/13/25 8:08:46p Dracula says, "good spawn"
+5/13/25 8:08:58p * Stonehand recovers the Mountain Bear fur, worth 13c. Your share is 3c.
+5/13/25 8:09:28p * Dracula recovers the Mountain Bear fur, worth 52c. Your share is 11c.
+5/13/25 8:09:35p Magnic says, "b heal me"
+5/13/25 8:09:55p * Stonehand recovers the Mountain Bear fur, worth 37c. Your share is 7c.
+5/13/25 8:10:04p Dracula says, "i need to fix but im incredibly lazy"
+5/13/25 8:10:37p •••
+5/13/25 8:10:37p You have been idle for too long.
+5/13/25 8:10:37p Please do something to avoid being disconnected.
+5/13/25 8:10:37p •••
+5/13/25 8:10:42p You have 668 coins.
+5/13/25 8:10:46p * Dracula recovers the Mountain Grizzly Bear fur, worth 30c. Your share is 6c.
+5/13/25 8:11:00p ZipLock turns to stone.
+5/13/25 8:11:56p * Dracula recovers the Mountain Grizzly Bear fur, worth 13c. Your share is 2c.
+5/13/25 8:13:24p Anduin Lothar turns to stone.
+5/13/25 8:14:02p Magnic plants a seedling.
+5/13/25 8:14:20p * Magnic recovers the Mountain Grizzly Bear fur, worth 2c. Your share is 1c.
+5/13/25 8:14:42p •••
+5/13/25 8:14:42p You have been idle for too long.
+5/13/25 8:14:42p Please do something to avoid being disconnected.
+5/13/25 8:14:42p •••
+5/13/25 8:14:49p You have 677 coins.
+5/13/25 8:15:17p * Stonehand recovers the Mountain Grizzly Bear fur, worth 5c. Your share is 1c.
+5/13/25 8:15:21p Magnic says, "heh"
+5/13/25 8:15:45p ZipLock turns to stone.
+5/13/25 8:17:21p * Dracula recovers the Mountain Grizzly Bear fur, worth 50c. Your share is 10c.
+5/13/25 8:17:59p Dracula says, "ok"
+5/13/25 8:18:02p Dracula says, "re zu"
+5/13/25 8:18:05p Dracula says, "and we go roam"
+5/13/25 8:18:08p Anduin Lothar turns to stone.
+5/13/25 8:18:11p Dracula growls, "b heal drac"
+5/13/25 8:18:32p Stonehand plants a seedling.
+5/13/25 8:18:49p * Magnic recovers the Mountain Bear fur, worth 7c. Your share is 1c.
+5/13/25 8:18:49p •••
+5/13/25 8:18:49p You have been idle for too long.
+5/13/25 8:18:49p Please do something to avoid being disconnected.
+5/13/25 8:18:49p •••
+5/13/25 8:18:57p You have 689 coins.
+5/13/25 8:19:38p Catan thinks, "Anyone with Stonehand?"
+5/13/25 8:20:01p Stonehand thinks, "stonehand on chain"
+5/13/25 8:20:02p Dracula thinks, "yes"
+5/13/25 8:20:05p Magnic thinks, "the living person?"
+5/13/25 8:20:29p ZipLock turns to stone.
+5/13/25 8:22:06p Dracula growls, "area"
+5/13/25 8:22:10p Dracula says, "good run"
+5/13/25 8:22:19p Magnic plants a seedling.
+5/13/25 8:22:53p Anduin Lothar turns to stone.
+5/13/25 8:22:57p •••
+5/13/25 8:22:57p You have been idle for too long.
+5/13/25 8:22:57p Please do something to avoid being disconnected.
+5/13/25 8:22:57p •••
+5/13/25 8:23:04p You have 689 coins.
+5/13/25 8:25:13p ZipLock turns to stone.
+5/13/25 8:27:04p •••
+5/13/25 8:27:04p You have been idle for too long.
+5/13/25 8:27:04p Please do something to avoid being disconnected.
+5/13/25 8:27:04p •••
+5/13/25 8:27:10p You have 689 coins.
+5/13/25 8:27:37p Anduin Lothar turns to stone.
+5/13/25 8:27:38p Dracula says, "im gonna start clearing to OP"
+5/13/25 8:28:08p Dracula says, "when i get it clear enough ill pack this up and get you guys to town"
+5/13/25 8:29:58p ZipLock turns to stone.
+5/13/25 8:30:05p Dracula growls, "was busy out there heh"
+5/13/25 8:30:14p Dracula growls, "i got a disp though!"
+5/13/25 8:30:24p * Dracula recovers the Black Mantis mandibles, worth 42c. Your share is 8c.
+5/13/25 8:30:37p * Dracula recovers the Black Mantis mandibles, worth 22c. Your share is 4c.
+5/13/25 8:30:45p * Dracula recovers the Black Mantis mandibles, worth 10c. Your share is 2c.
+5/13/25 8:30:48p * Dracula recovers the Black Mantis mandibles, worth 52c. Your share is 10c.
+5/13/25 8:31:06p Stonehand says, "it gave us one for the road"
+5/13/25 8:31:10p •••
+5/13/25 8:31:10p You have been idle for too long.
+5/13/25 8:31:10p Please do something to avoid being disconnected.
+5/13/25 8:31:10p •••
+5/13/25 8:31:19p * Dracula recovers the Black Mantis mandibles, worth 37c. Your share is 8c.
+5/13/25 8:31:20p You have 721 coins.
+5/13/25 8:31:46p * You recover the Mountain Grizzly Bear fur, worth 14c. Your share is 3c.
+5/13/25 8:32:21p Anduin Lothar turns to stone.
+5/13/25 8:33:31p Dracula says, "b heal drac"
+5/13/25 8:33:46p Dracula says, "area"
+5/13/25 8:33:47p Dracula growls, "area"
+5/13/25 8:34:41p Magnic says, "area"
+5/13/25 8:34:42p ZipLock turns to stone.
+5/13/25 8:34:47p * Stonehand recovers the Mountain Grizzly Bear fur, worth 40c. Your share is 10c.
+5/13/25 8:34:59p •The player must be in the same area.
+5/13/25 8:35:06p Magnic says, "c heal me"
+5/13/25 8:35:06p * Auto Healing  Magnic 
+5/13/25 8:35:28p You have 734 coins.
+5/13/25 8:35:31p •You do not have enough spiritual energy.
+5/13/25 8:36:14p Dracula says, "5/13/25 6:35:24p •You feel better able to store blood."
+5/13/25 8:36:18p Dracula says, "thanks guys i got a rank"
+5/13/25 8:36:22p Stonehand says, "yay"
+5/13/25 8:36:48p Dracula says, "area"
+5/13/25 8:36:51p Magnic says, "nice bloodmage spirt trainer you got there"
+5/13/25 8:36:55p (Dracula grins)
+5/13/25 8:37:00p Dracula says, "200 splash and 1 crato now"
+5/13/25 8:37:05p Anduin Lothar turns to stone.
+5/13/25 8:39:22p * Stonehand recovers the Albino Flying Foxweir fur, worth 5c. Your share is 1c.
+5/13/25 8:39:27p ZipLock turns to stone.
+5/13/25 8:39:28p •••
+5/13/25 8:39:28p You have been idle for too long.
+5/13/25 8:39:28p Please do something to avoid being disconnected.
+5/13/25 8:39:28p •••
+5/13/25 8:39:43p You have 735 coins.
+5/13/25 8:40:00p Magnic plants a seedling.
+5/13/25 8:40:04p Magnic plants a seedling.
+5/13/25 8:43:44p •••
+5/13/25 8:43:44p You have been idle for too long.
+5/13/25 8:43:44p Please do something to avoid being disconnected.
+5/13/25 8:43:44p •••
+5/13/25 8:43:46p You have 735 coins.
+5/13/25 8:44:11p ZipLock turns to stone.
+5/13/25 8:44:54p Dracula says, "b heal drac"
+5/13/25 8:44:59p Dracula says, ";)"
+5/13/25 8:45:05p Dracula says, "krait bs heh"
+5/13/25 8:45:06p Magnic says, "c heal drac"
+5/13/25 8:45:06p * Auto Healing  drac" 
+5/13/25 8:45:09p Dracula says, "im 1s of OP now"
+5/13/25 8:45:16p Honor thinks, "Congratulations go out to Moop, who has just passed the third circle fighter test."
+5/13/25 8:45:22p Dracula thinks, "nice work"
+5/13/25 8:45:31p Magnic thinks, "congratz"
+5/13/25 8:45:32p Stonehand says, "yayt grats"
+5/13/25 8:45:32p Woolf thinks, "Congrats!"
+5/13/25 8:45:35p Slyph thinks, "congratulations!"
+5/13/25 8:45:39p Stonehand thinks, "grats"
+5/13/25 8:45:46p Necrolim thinks, "Woop Woop!"
+5/13/25 8:45:47p •You lock your healing to Ceara.
+5/13/25 8:45:50p Magnic says, "area"
+5/13/25 8:46:21p * Dracula recovers the Dire Bear fur, worth 15c. Your share is 3c.
+5/13/25 8:46:32p Dracula says, "kraits dead :p"
+5/13/25 8:46:42p Stonehand says, "yay"
+5/13/25 8:47:09p Magnic says, "c heal drac"
+5/13/25 8:47:09p * Auto Healing  drac" 
+5/13/25 8:47:09p •You unlock your caduceus healing.
+5/13/25 8:47:27p •You lock your healing to Ceara.
+5/13/25 8:47:49p You have 738 coins.
+5/13/25 8:48:57p ZipLock turns to stone.
+5/13/25 8:51:02p * Dracula recovers the Black Mantis mandibles, worth 28c. Your share is 5c.
+5/13/25 8:51:05p Dracula says, "alrighty"
+5/13/25 8:51:09p Dracula says, "b heal drac"
+5/13/25 8:51:11p Dracula picks up a sack of kudzu seedlings.
+5/13/25 8:51:16p Dracula says, "time to pack up"
+5/13/25 8:51:26p * Dracula recovers the Black Mantis mandibles, worth 17c. Your share is 3c.
+5/13/25 8:51:26p Dracula says, "can die and ill chain to town"
+5/13/25 8:51:33p Dracula says, "but lemme run ceara first"
+5/13/25 8:51:38p * For recovering the fur, you gain experience.
+5/13/25 8:51:38p * You recover the Mountain Grizzly Bear fur, worth 2c.
+5/13/25 8:51:44p Magnic says, "c heal me"
+5/13/25 8:51:45p * Auto Healing  Magnic 
+5/13/25 8:51:45p •You unlock your caduceus healing.
+5/13/25 8:51:53p You have 746 coins.
+5/13/25 8:51:56p •You do not have enough spiritual energy.
+5/13/25 8:51:57p * Stonehand recovers the Mountain Bear fur, worth 13c. Your share is 3c.
+5/13/25 8:52:08p Magnic says, "c heal me"
+5/13/25 8:52:09p * Auto Healing  Magnic 
+5/13/25 8:52:18p •The player must be in the same area.
+5/13/25 8:53:25p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+5/13/25 8:53:25p Unholy has fallen to a Flotsam Meshra.
+5/13/25 8:53:25p •Your body is mangled.
+5/13/25 8:53:27p Dracula starts dragging you.
+5/13/25 8:53:53p Dracula growls, "thanks for the hunt :D"
+5/13/25 8:53:59p Stonehand says, "yes thanks :3"
+5/13/25 8:54:06p Magnic says, "thanks stoney and dracy"
+5/13/25 8:54:31p Phoebe says, "Hello, Dracula. I can sell you a river skiff. Interested? It costs 100 coins."
+5/13/25 8:54:31p Dracula growls, "yes"
+5/13/25 8:55:00p Koppi yells, "Prowl reports: Kudos to the Puddleby Civic Beautification Society for sprucing up town center and making that beautiful park! Well done! Who do I donate to?"
+5/13/25 8:55:20p Dracula growls, "squib have some friends"
+5/13/25 8:55:31p Magnic says, "squib heal unholy"
+5/13/25 8:55:32p •You sense healing energy from Squib.
+5/13/25 8:55:34p Dracula yells, "good huntin!"
+5/13/25 8:55:40p * Healing Stonehand 
+5/13/25 8:55:41p •Stonehand’s injuries are a little more serious than you can heal.
+5/13/25 8:55:42p You have 749 coins.
+5/13/25 8:55:43p * Healing ZipLock 
+5/13/25 8:55:46p Stonehand says, "squib heal zip"
+5/13/25 8:55:48p •You don't quite have the training to heal ZipLock’s injuries.
+5/13/25 8:55:54p •You don't quite have the training to heal ZipLock’s injuries.
+5/13/25 8:55:55p * Healing ZipLock 
+5/13/25 8:55:59p Stonehand says, "squib heal me"
+5/13/25 8:56:01p •You don't quite have the training to heal ZipLock’s injuries.
+5/13/25 8:56:06p Stonehand says, "squib heal mag"
+5/13/25 8:56:08p •You don't quite have the training to heal ZipLock’s injuries.
+5/13/25 8:56:14p •You don't quite have the training to heal ZipLock’s injuries.
+5/13/25 8:56:17p * Healing Magnic 
+5/13/25 8:56:22p Squib exclaims, "Stonehand is the best!"
+5/13/25 8:56:28p * Healing Stonehand 
+5/13/25 8:56:29p •Stonehand’s injuries are a little more serious than you can heal.
+5/13/25 8:56:30p Stonehand says, "squib heal me"
+5/13/25 8:56:31p •Stonehand’s wounds were severe.
+5/13/25 8:56:51p * Healing ZipLock 
+5/13/25 8:56:52p •You don't quite have the training to heal ZipLock’s injuries.
+5/13/25 8:56:59p Magnic says, "squib heal zip"
+5/13/25 8:56:59p Squib whispers, "attack"
+5/13/25 8:56:59p •You don't quite have the training to heal ZipLock’s injuries.
+5/13/25 8:57:00p •ZipLock’s wounds were severe.
+5/13/25 8:57:03p Magnic says, "squib heal zip"
+5/13/25 8:57:14p Stonehand says, "tiem to hit the books i suppose"
+5/13/25 8:57

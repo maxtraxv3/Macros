@@ -1,0 +1,821 @@
+
+3/18/25 4:33:58p * Your pair of pants named “gold” is in pretty good shape.
+3/18/25 4:33:58p * Your pair of shoes named “glossy white” is in pretty good shape.
+3/18/25 4:33:58p * Your cloak named “royal purple” is in pretty good shape.
+3/18/25 4:33:58p * Your shirt named “Midsummer Maha” is in very good condition.
+3/18/25 4:33:58p Welcome to Clan Lord, Warawonda!
+3/18/25 4:33:58p Type \HELP for a list of commands.
+3/18/25 4:33:58p • You have been charged 34 coins for advanced studies.
+3/18/25 4:33:58p • You gain experience from your recent studies.
+3/18/25 4:33:58p Warawonda is now Clanning.
+3/18/25 4:33:58p You have been studying for one day, 3 hours, 8 minutes.
+3/18/25 4:33:58p Friends online: Warawonda.
+3/18/25 4:34:00p It's 1:46pm on Terrdi, day 67 of Autumn, 640.
+3/18/25 4:34:02p You are the only member of Black Phoenix clanning.
+3/18/25 4:34:02p • What’s New: https://deltatao.com/clanlord/news
+3/18/25 4:34:06p Gern Blansden says, "Greetings, Apprentice Warawonda."
+3/18/25 4:34:07p Gern Blansden says, "When you're done adventuring for the day, go on in to Edric's library."
+3/18/25 4:34:07p Gern Blansden says, "You can study all night."
+3/18/25 4:34:07p Gern Blansden says, "Nobody will bother you in there."
+3/18/25 4:34:12p * Tip of the day: Type /HELP to see a list of commands, and /HELP <command> to see help for that one. (Use /OPTIONS to turn tips off.)
+3/18/25 4:34:13p Ankrus says, "Warawonda, you are well on your way to enlightenment. Think of Pontifen."
+3/18/25 4:34:13p * |▰▰▰▰▰▰════ | 62%-75%
+3/18/25 4:34:39p Drofund says, "Greetings, Apprentice Warawonda."
+3/18/25 4:34:40p Drofund says, "So far I’ve sold around 40 raffle tickets for Satris's ethercle at 12c each."
+3/18/25 4:34:40p Drofund says, "This raffle will be over in 4 days, 20 hours, 10 minutes."
+3/18/25 4:34:41p Drofund asks, "How many tickets would you like to buy?"
+3/18/25 4:34:41p Drofund says, "All right, come back if you change your mind."
+3/18/25 4:34:49p Rafaela says, "Greetings, Apprentice Warawonda."
+3/18/25 4:34:49p Rafaela says, "So far I’ve sold around 10 raffle tickets for Dare's lump of iron ore at 25c each."
+3/18/25 4:34:59p Terpil says, "Greetings, Apprentice Warawonda."
+3/18/25 4:34:59p Terpil says, "So far I’ve sold around 10 raffle tickets for Dare's chain at 50c each."
+3/18/25 4:34:59p Terpil says, "This raffle will be over in one day, 15 hours, exactly."
+3/18/25 4:35:00p Terpil asks, "How many tickets would you like to buy?"
+3/18/25 4:35:01p Terpil says, "All right, come back if you change your mind."
+3/18/25 4:35:09p You have 22151 coins.
+3/18/25 4:35:16p Terpil says, "Greetings, Apprentice Warawonda."
+3/18/25 4:35:16p Terpil says, "So far I’ve sold around 10 raffle tickets for Dare's chain at 50c each."
+3/18/25 4:35:17p Terpil says, "This raffle will be over in one day, 14 hours, 58 minutes."
+3/18/25 4:35:17p Terpil asks, "How many tickets would you like to buy?"
+3/18/25 4:35:18p Warawonda says, "3"
+3/18/25 4:35:19p Terpil takes Warawonda’s coins and drops several slips of parchment into a hat.
+3/18/25 4:35:19p Terpil exclaims, "Visit any raffle worker anytime after the raffle ends to see whether you’ve won!"
+3/18/25 4:35:46p You pull a switch disguised as a book.
+3/18/25 4:36:15p Eagürd nods and smiles at Warawonda.
+3/18/25 4:36:42p You equip your crowbar.
+3/18/25 4:36:44p You slaughtered a Rat.
+3/18/25 4:36:52p Use \SLEEP again when you return.
+3/18/25 4:37:08p You slip your crowbar into your backpack.
+3/18/25 4:37:16p You have 22001 coins.
+3/18/25 4:37:24p Crius yells, "It’s 2 o’clock, and we’ve got a situation... There’s a Grove Guardian here..."
+3/18/25 4:37:28p You begin sharing your experiences with Squib.
+3/18/25 4:37:31p Squib is sharing experiences with you.
+3/18/25 4:37:33p Shadowmutt scratches itself.
+3/18/25 4:37:48p Shadowmutt growls, "Grrr."
+3/18/25 4:37:50p Shadowmutt growls, "Woof!"
+3/18/25 4:38:19p Koppi yells, "Coriakin reports: Bard concert coming up on Saturday, March 29th at 11AM pacific time. Hope to see you there!"
+3/18/25 4:39:00p Elenis Reyav growls, "Squib heal Talin"
+3/18/25 4:39:16p Talin says, "ok, have to hire silky"
+3/18/25 4:39:20p (Elenis Reyav nods.)
+3/18/25 4:39:55p Talin says, "anyway, not exactly warming my heart for this game ;)"
+3/18/25 4:39:59p Shadowmutt scratches at the ground briefly.
+3/18/25 4:40:01p (Elenis Reyav grins.)
+3/18/25 4:40:13p Elenis Reyav growls, "Yeah, definitely less healer friendly."
+3/18/25 4:40:29p Shadowmutt growls, "Grrr."
+3/18/25 4:40:38p Elenis Reyav says, "If we can think of other esteem quests, or just anything you want to do instead."
+3/18/25 4:40:46p Elenis Reyav says, "We can check those out :)"
+3/18/25 4:40:50p You have 22001 coins.
+3/18/25 4:41:30p Warawonda asks, "going for centur?"
+3/18/25 4:41:34p Talin says, "nothing fun that I can think of. when I am completely bored I try to level the pet. but fun is something else ;)"
+3/18/25 4:41:43p Talin says, "Cimm"
+3/18/25 4:41:48p Talin says, "Centaur is done"
+3/18/25 4:41:53p Warawonda says, "oh"
+3/18/25 4:41:53p (Elenis Reyav grins.)
+3/18/25 4:41:57p (Elenis Reyav nods.)
+3/18/25 4:42:07p Elenis Reyav says, "Well, probably not done with centaur"
+3/18/25 4:42:11p Elenis Reyav says, "Still have to honor each season"
+3/18/25 4:42:17p Elenis Reyav says, "And also figure out the carver centaur"
+3/18/25 4:42:28p Elenis Reyav says, "But yeah.. we got to the village. FINALLY."
+3/18/25 4:42:37p Talin says, "also bravery"
+3/18/25 4:42:51p Warawonda asks, "any info to share for someone want to start it?"
+3/18/25 4:42:56p Talin says, "those might actually push carver further"
+3/18/25 4:43:03p Elenis Reyav ponders, "Right, bravery!"
+3/18/25 4:43:08p Talin says, "do boxes until you dream of them"
+3/18/25 4:43:15p Elenis Reyav says, "Start with moss scorp boxes."
+3/18/25 4:43:17p (Elenis Reyav grins.)
+3/18/25 4:43:19p Warawonda says, "thanks :)"
+3/18/25 4:43:26p Elenis Reyav says, "And raising centaur when they're nearby"
+3/18/25 4:43:30p Koppi yells, "Coriakin reports: Bard concert coming up on Saturday, March 29th at 11AM pacific time. Hope to see you there!"
+3/18/25 4:43:35p Elenis Reyav says, "And killing boss scorpions and orga bosses."
+3/18/25 4:43:41p Elenis Reyav says, "Those all give esteem."
+3/18/25 4:43:52p Talin says, "and catch sick lil orgs"
+3/18/25 4:43:56p Elenis Reyav says, "Oh, and caging sick org and returning them to the cave."
+3/18/25 4:43:58p Dinsdale is no longer Clanning.
+3/18/25 4:44:03p (Elenis Reyav nods.)
+3/18/25 4:44:20p You have 22001 coins.
+3/18/25 4:44:22p Talin ponders, "so you want to stock up on those cages, while portal is in OP"
+3/18/25 4:44:34p You show your org cage to everyone.
+3/18/25 4:44:43p (Elenis Reyav smiles.)
+3/18/25 4:45:24p Talin asks, "shall we try hijack Warawonda to get us a few extra?"
+3/18/25 4:45:33p Warawonda says, "heh"
+3/18/25 4:45:37p Talin says, "while I have 6 slots..."
+3/18/25 4:45:51p Elenis Reyav ponders, "I've got 4 slots, could get a few, yeah."
+3/18/25 4:45:55p Talin ponders, "but not easy fight out with 1 fighter"
+3/18/25 4:45:56p Elenis Reyav is sharing experiences with you.
+3/18/25 4:46:02p (Elenis Reyav nods.)
+3/18/25 4:46:12p Talin says, "could eps"
+3/18/25 4:46:16p Warawonda asks, "where do you guys get them?"
+3/18/25 4:46:23p Talin says, "in a monastery"
+3/18/25 4:46:31p You show your pine flute to everyone.
+3/18/25 4:46:40p Warawonda says, "heh"
+3/18/25 4:46:56p Talin says, "plan to get home is the thing"
+3/18/25 4:47:02p Elenis Reyav says, "Can EPS"
+3/18/25 4:47:04p Talin says, "I can pend..."
+3/18/25 4:47:09p Talin asks, "ya, got?"
+3/18/25 4:47:16p (Elenis Reyav does.)
+3/18/25 4:47:20p Elenis Reyav juggles his ethereal portal stone from one hand to the other.
+3/18/25 4:47:22p Talin says, "else i grab a few"
+3/18/25 4:47:23p Warawonda says, "got to the other mosntry and as soon as the bird picks you up logout"
+3/18/25 4:47:35p Warawonda says, "wait for actuly log out"
+3/18/25 4:47:37p Talin says, "ya, can do that"
+3/18/25 4:47:42p Warawonda says, "then you land in op"
+3/18/25 4:47:47p Warawonda says, "heh"
+3/18/25 4:47:49p (Talin nods)
+3/18/25 4:47:51p You have 22001 coins.
+3/18/25 4:47:55p Elenis Reyav ponders, "Shenanigans!"
+3/18/25 4:48:13p Elenis Reyav exclaims, "Well, I'm heading out here. :) It is late!"
+3/18/25 4:48:20p Talin says, "ah ok"
+3/18/25 4:48:26p Elenis Reyav ponders, "12 to midnight!"
+3/18/25 4:48:26p Talin says, "ya, kitty woke up"
+3/18/25 4:48:32p (Elenis Reyav waves!)
+3/18/25 4:48:34p (Talin waves)
+3/18/25 4:48:35p Warawonda says, "cya"
+3/18/25 4:48:41p Koppi yells, "Coriakin reports: Bard concert coming up on Saturday, March 29th at 11AM pacific time. Hope to see you there!"
+3/18/25 4:48:43p Elenis Reyav is no longer Clanning.
+3/18/25 4:48:47p Talin is no longer Clanning.
+3/18/25 4:51:25p You have 22001 coins.
+3/18/25 4:52:06p Crius yells, "It’s 3 o’clock, and we’ve got a situation... There’s a Grove Guardian here..."
+3/18/25 4:52:11p Crius yells, "There’s good hunting in Puddleby."
+3/18/25 4:53:52p Koppi yells, "Coriakin reports: Bard concert coming up on Saturday, March 29th at 11AM pacific time. Hope to see you there!"
+3/18/25 4:54:42p Sullin is no longer Clanning.
+3/18/25 4:55:00p You have 22001 coins.
+3/18/25 4:55:30p Semie is no longer Clanning.
+3/18/25 4:57:26p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 4:57:27p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 4:57:27p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 4:57:27p Stonehand is no longer Clanning.
+3/18/25 4:57:28p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 4:57:28p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 4:57:28p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 4:57:29p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 4:57:29p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 4:57:36p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 4:57:36p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 4:57:37p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 4:57:37p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 4:57:37p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 4:57:38p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 4:57:38p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 4:57:39p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 4:57:45p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 4:57:46p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 4:57:46p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 4:57:46p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 4:57:47p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 4:57:47p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 4:57:48p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 4:57:48p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 4:57:55p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 4:57:55p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 4:57:55p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 4:57:56p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 4:57:56p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 4:57:57p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 4:57:57p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 4:57:57p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 4:58:04p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 4:58:04p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 4:58:05p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 4:58:05p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 4:58:06p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 4:58:06p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 4:58:06p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 4:58:07p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 4:58:13p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 4:58:14p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 4:58:14p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 4:58:15p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 4:58:15p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 4:58:15p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 4:58:16p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 4:58:16p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 4:58:23p Shadowmutt scratches at the ground briefly.
+3/18/25 4:58:23p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 4:58:23p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 4:58:24p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 4:58:24p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 4:58:24p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 4:58:25p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 4:58:25p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 4:58:26p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 4:58:32p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 4:58:33p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 4:58:33p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 4:58:33p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 4:58:34p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 4:58:34p You have 22001 coins.
+3/18/25 4:58:34p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 4:58:35p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 4:58:35p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 4:58:42p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 4:58:42p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 4:58:42p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 4:58:43p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 4:58:43p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 4:58:44p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 4:58:44p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 4:58:44p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 4:58:51p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 4:58:51p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 4:58:52p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 4:58:52p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 4:58:53p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 4:58:53p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 4:58:53p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 4:58:54p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 4:58:56p You equip your crowbar.
+3/18/25 4:58:58p You slaughtered a Vermine.
+3/18/25 4:58:58p * You recover the Vermine fur, worth 1c.
+3/18/25 4:59:00p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 4:59:01p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 4:59:01p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 4:59:02p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 4:59:02p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 4:59:02p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 4:59:03p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 4:59:03p Koppi yells, "Coriakin reports: Bard concert coming up on Saturday, March 29th at 11AM pacific time. Hope to see you there!"
+3/18/25 4:59:03p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 4:59:07p Warawonda says, "squib heal me"
+3/18/25 4:59:08p •You sense healing energy from Squib.
+3/18/25 4:59:10p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 4:59:10p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 4:59:11p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 4:59:11p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 4:59:11p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 4:59:12p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 4:59:12p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 4:59:13p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 4:59:19p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 4:59:20p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 4:59:20p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 4:59:20p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 4:59:21p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 4:59:21p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 4:59:22p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 4:59:22p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 4:59:29p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 4:59:29p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 4:59:29p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 4:59:30p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 4:59:30p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 4:59:31p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 4:59:31p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 4:59:31p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 4:59:38p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 4:59:38p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 4:59:39p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 4:59:39p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 4:59:40p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 4:59:40p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 4:59:40p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 4:59:41p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 4:59:47p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 4:59:48p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 4:59:48p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 4:59:49p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 4:59:49p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 4:59:49p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 4:59:50p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 4:59:50p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 4:59:57p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 4:59:57p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 4:59:58p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 4:59:58p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 4:59:58p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 4:59:59p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 4:59:59p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 5:00:00p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 5:00:06p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 5:00:07p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 5:00:07p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 5:00:07p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 5:00:08p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 5:00:08p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 5:00:09p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 5:00:09p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 5:00:12p Haffron is now Clanning.
+3/18/25 5:00:16p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 5:00:16p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 5:00:16p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 5:00:17p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 5:00:17p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 5:00:18p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 5:00:18p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 5:00:18p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 5:00:25p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 5:00:25p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 5:00:26p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 5:00:26p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 5:00:27p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 5:00:27p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 5:00:27p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 5:00:28p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 5:00:34p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 5:00:35p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 5:00:35p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 5:00:36p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 5:00:36p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 5:00:36p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 5:00:37p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 5:00:37p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 5:00:44p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 5:00:44p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 5:00:45p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 5:00:45p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 5:00:45p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 5:00:46p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 5:00:46p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 5:00:47p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 5:00:53p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 5:00:54p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 5:00:54p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 5:00:54p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 5:00:55p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 5:00:55p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 5:00:56p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 5:00:56p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 5:01:03p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 5:01:03p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 5:01:03p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 5:01:04p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 5:01:04p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 5:01:05p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 5:01:05p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 5:01:05p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 5:01:12p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 5:01:12p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 5:01:13p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 5:01:13p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 5:01:14p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 5:01:14p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 5:01:14p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 5:01:15p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 5:01:19p Dinsdale is now Clanning.
+3/18/25 5:01:21p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 5:01:22p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 5:01:22p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 5:01:23p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 5:01:23p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 5:01:23p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 5:01:24p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 5:01:24p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 5:01:31p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 5:01:31p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 5:01:32p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 5:01:32p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 5:01:32p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 5:01:33p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 5:01:33p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 5:01:34p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 5:01:40p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 5:01:41p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 5:01:41p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 5:01:41p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 5:01:42p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 5:01:42p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 5:01:43p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 5:01:43p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 5:01:50p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 5:01:50p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 5:01:50p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 5:01:51p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 5:01:51p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 5:01:52p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 5:01:52p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 5:01:52p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 5:01:59p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 5:01:59p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 5:02:00p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 5:02:00p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 5:02:01p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 5:02:01p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 5:02:01p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 5:02:02p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 5:02:08p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 5:02:09p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 5:02:09p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 5:02:10p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 5:02:10p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 5:02:10p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 5:02:11p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 5:02:11p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 5:02:18p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 5:02:18p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 5:02:19p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 5:02:19p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 5:02:19p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 5:02:20p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 5:02:20p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 5:02:21p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 5:02:21p You have 22001 coins.
+3/18/25 5:02:27p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 5:02:28p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 5:02:28p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 5:02:28p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 5:02:29p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 5:02:29p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 5:02:30p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 5:02:30p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 5:02:37p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 5:02:37p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 5:02:37p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 5:02:38p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 5:02:38p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 5:02:39p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 5:02:39p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 5:02:39p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 5:02:46p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 5:02:46p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 5:02:47p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 5:02:47p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 5:02:48p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 5:02:48p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 5:02:48p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 5:02:49p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 5:02:55p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 5:02:56p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 5:02:56p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 5:02:57p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 5:02:57p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 5:02:57p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 5:02:58p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 5:02:58p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 5:03:05p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 5:03:05p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 5:03:06p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 5:03:06p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 5:03:06p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 5:03:07p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 5:03:07p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 5:03:08p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 5:03:14p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 5:03:15p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 5:03:15p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 5:03:15p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 5:03:16p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 5:03:16p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 5:03:17p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 5:03:17p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 5:03:17p •The Sun sets.
+3/18/25 5:03:24p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 5:03:24p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 5:03:24p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 5:03:25p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 5:03:25p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 5:03:26p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 5:03:26p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 5:03:26p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 5:03:33p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 5:03:33p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 5:03:34p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 5:03:34p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 5:03:35p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 5:03:35p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 5:03:35p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 5:03:36p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 5:03:42p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 5:03:43p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 5:03:43p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 5:03:44p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 5:03:44p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 5:03:44p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 5:03:45p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 5:03:45p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 5:03:52p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 5:03:52p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 5:03:53p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 5:03:53p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 5:03:53p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 5:03:54p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 5:03:54p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 5:03:55p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 5:04:01p Loom'Nir says, "Greetings, Lady Sabriel."
+3/18/25 5:04:02p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+3/18/25 5:04:02p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+3/18/25 5:04:02p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+3/18/25 5:04:03p Loom'Nir says, "But it looks like it's going to be a difficult task."
+3/18/25 5:04:03p Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+3/18/25 5:04:04p Loom'Nir says, "If you'd like to pitch in, you can find Loom'Bir in Lugubrion's conference room."
+3/18/25 5:04:04p Loom'Nir ponders, "I hope the bathhouse is managing without us..."
+3/18/25 5:04:14p Koppi yells, "Coriakin reports: Bard concert coming up on Saturday, March 29th at 11AM pacific time. Hope to see you there!"
+3/18/25 5:05:02p Sabriel is no longer Clanning.
+3/18/25 5:06:04p You have 22001 coins.
+3/18/25 5:06:43p Crius yells, "It’s 4 o’clock, and we’ve got a situation... There’s a Grove Guardian here..."
+3/18/25 5:06:48p Crius yells, "There’s good hunting in the Southern Estuary."
+3/18/25 5:06:57p Dinsdale is no longer Clanning.
+3/18/25 5:09:25p Koppi yells, "Coriakin reports: Bard concert coming up on Saturday, March 29th at 11AM pacific time. Hope to see you there!"
+3/18/25 5:09:32p Baker's Man is now Clanning.
+3/18/25 5:09:45p You have 22001 coins.
+3/18/25 5:10:21p Shadowmutt growls, "Grrr."
+3/18/25 5:11:55p Sullin is now Clanning.
+3/18/25 5:13:22p You have 22001 coins.
+3/18/25 5:13:56p Sullin says, "I would love to know what that looks like in the house"
+3/18/25 5:14:08p Tia asks, "Standing or attacking?"
+3/18/25 5:14:08p Sullin says, "if that was your plan"
+3/18/25 5:14:11p Sullin exclaims, "both!"
+3/18/25 5:14:26p Sullin asks, "I forget, does it look like a normal chest if its standing?"
+3/18/25 5:14:36p Koppi yells, "Coriakin reports: Bard concert coming up on Saturday, March 29th at 11AM pacific time. Hope to see you there!"
+3/18/25 5:14:37p Tia says, "Uh I think that's the point yeah"
+3/18/25 5:14:41p Sullin says, "too bad you can't liek, actually have those in your house"
+3/18/25 5:14:49p Sullin says, "well, they do a weird morph thing once you hit them. right? from what I remember"
+3/18/25 5:14:53p Sullin says, "like, they activate."
+3/18/25 5:14:56p Tia says, "Yeah"
+3/18/25 5:14:58p (Sullin): Shadhawk shrugs
+3/18/25 5:15:08p Misha is no longer Clanning.
+3/18/25 5:15:10p Tia says, "They move as a chest tho"
+3/18/25 5:15:18p Sullin says, "ah gotcha"
+3/18/25 5:15:22p Misha is now Clanning.
+3/18/25 5:15:48p Tia says, "Well I can stuff it if you want"
+3/18/25 5:15:54p Sullin exclaims, "sure! attacking!"
+3/18/25 5:17:02p You have 22001 coins.
+3/18/25 5:17:19p The Wanderer is now Clanning.
+3/18/25 5:18:19p Haffron asks, "HH?"
+3/18/25 5:18:29p StoneKyle is now Clanning.
+3/18/25 5:18:31p Haffron says, "might as well clear the hatred before i log"
+3/18/25 5:18:32p Tia asks, "Oh you want to go back there?"
+3/18/25 5:18:36p Tia says, "Cool"
+3/18/25 5:18:39p Haffron says, "ill kill the hatred before i log yea"
+3/18/25 5:18:42p StoneKyle is no longer Clanning.
+3/18/25 5:18:46p StoneKremison is now Clanning.
+3/18/25 5:18:55p StoneKremison is no longer Clanning.
+3/18/25 5:18:59p StoneKremery is now Clanning.
+3/18/25 5:19:08p StoneKremery is no longer Clanning.
+3/18/25 5:19:12p StoneKremmyson is now Clanning.
+3/18/25 5:19:21p StoneKremmyson is no longer Clanning.
+3/18/25 5:19:24p StoneKremronson is now Clanning.
+3/18/25 5:19:33p StoneKremronson is no longer Clanning.
+3/18/25 5:19:36p StoneKremron is now Clanning.
+3/18/25 5:19:44p StoneKremron is no longer Clanning.
+3/18/25 5:19:47p Koppi yells, "Coriakin reports: Bard concert coming up on Saturday, March 29th at 11AM pacific time. Hope to see you there!"
+3/18/25 5:19:47p StoneKremlinson is now Clanning.
+3/18/25 5:20:01p StoneKremlinson is no longer Clanning.
+3/18/25 5:20:04p StoneKremmy is now Clanning.
+3/18/25 5:20:12p StoneKremmy is no longer Clanning.
+3/18/25 5:20:19p StoneKremmers is now Clanning.
+3/18/25 5:20:29p StoneKremmers is no longer Clanning.
+3/18/25 5:20:30p Rowen is no longer Clanning.
+3/18/25 5:20:34p StoneKremlian is now Clanning.
+3/18/25 5:20:39p You have 22001 coins.
+3/18/25 5:20:48p StoneKremlian is no longer Clanning.
+3/18/25 5:20:51p Two River is now Clanning.
+3/18/25 5:21:00p Two River is no longer Clanning.
+3/18/25 5:21:03p Shad Krem'lin is now Clanning.
+3/18/25 5:21:13p The Wanderer is no longer Clanning.
+3/18/25 5:21:18p Oinkashi is now Clanning.
+3/18/25 5:21:26p Crius yells, "It’s 5 o’clock, and we’ve got a situation... There’s a Grove Guardian here..."
+3/18/25 5:21:29p Oinkashi is no longer Clanning.
+3/18/25 5:21:31p Crius yells, "There’s good hunting in the snagglewood."
+3/18/25 5:21:33p Hushuck is now Clanning.
+3/18/25 5:21:43p Hushuck is no longer Clanning.
+3/18/25 5:21:47p Augh'Ree'Lee is now Clanning.
+3/18/25 5:21:59p Augh'Ree'Lee is no longer Clanning.
+3/18/25 5:22:03p Elbbow is now Clanning.
+3/18/25 5:22:18p Elbbow is no longer Clanning.
+3/18/25 5:22:25p Tarereen is now Clanning.
+3/18/25 5:22:41p Tarereen is no longer Clanning.
+3/18/25 5:22:45p GlodHuck is now Clanning.
+3/18/25 5:22:58p GlodHuck is no longer Clanning.
+3/18/25 5:23:02p Snaaaaaaake is now Clanning.
+3/18/25 5:23:12p Snaaaaaaake is no longer Clanning.
+3/18/25 5:23:15p Fartuno is now Clanning.
+3/18/25 5:23:26p Fartuno is no longer Clanning.
+3/18/25 5:23:26p Shadowmutt sniffs the air.
+3/18/25 5:23:29p Dank is now Clanning.
+3/18/25 5:23:39p Shadowmutt growls, "Grrr."
+3/18/25 5:23:42p Dank is no longer Clanning.
+3/18/25 5:23:45p TheMetalist is now Clanning.
+3/18/25 5:23:55p TheMetalist is no longer Clanning.
+3/18/25 5:24:16p You have 22001 coins.
+3/18/25 5:24:58p Koppi yells, "Coriakin reports: Bard concert coming up on Saturday, March 29th at 11AM pacific time. Hope to see you there!"
+3/18/25 5:25:12p Warawonda says, "squib heal me"
+3/18/25 5:25:13p •You sense healing energy from Squib.
+3/18/25 5:25:14p You slaughtered a Rat.
+3/18/25 5:25:18p You slaughtered a Rat.
+3/18/25 5:25:25p You slip your crowbar into your backpack.
+3/18/25 5:25:27p You equip your crowbar.
+3/18/25 5:26:33p Hot Flame is now Clanning.
+3/18/25 5:26:44p Hot Flame is no longer Clanning.
+3/18/25 5:26:47p DekkyAtwood is now Clanning.
+3/18/25 5:26:57p DekkyAtwood is no longer Clanning.
+3/18/25 5:27:01p DekkyHerbert is now Clanning.
+3/18/25 5:27:11p DekkyHerbert is no longer Clanning.
+3/18/25 5:27:14p DekkyCrawford is now Clanning.
+3/18/25 5:27:24p DekkyCrawford is no longer Clanning.
+3/18/25 5:27:27p DekkySalva is now Clanning.
+3/18/25 5:27:36p DekkySalva is no longer Clanning.
+3/18/25 5:27:40p DekkyBrooks is now Clanning.
+3/18/25 5:27:51p DekkyBrooks is no longer Clanning.
+3/18/25 5:27:51p Squib whispers, "attack"
+3/18/25 5:27:54p Dekkovsky is now Clanning.
+3/18/25 5:27:55p You have 22001 coins.
+3/18/25 5:28:04p Dekkovsky is no longer Clanning.
+3/18/25 5:28:10p DekkyMartin is now Clanning.
+3/18/25 5:28:22p DekkyMartin is no longer Clanning.
+3/18/25 5:28:26p DekkyTolkien is now Clanning.
+3/18/25 5:28:36p DekkyTolkien is no longer Clanning.
+3/18/25 5:28:40p DekkyRice is now Clanning.
+3/18/25 5:28:49p DekkyRice is no longer Clanning.
+3/18/25 5:28:54p DekkyGaiman is now Clanning.
+3/18/25 5:29:03p DekkyGaiman is no longer Clanning.
+3/18/25 5:29:24p Faint Rock is now Clanning.
+3/18/25 5:29:35p Faint Rock is no longer Clanning.
+3/18/25 5:29:38p StoneMu is now Clanning.
+3/18/25 5:29:47p StoneMu is no longer Clanning.
+3/18/25 5:29:52p StoneNu is now Clanning.
+3/18/25 5:30:04p StoneNu is no longer Clanning.
+3/18/25 5:30:08p StoneXi is now Clanning.
+3/18/25 5:30:09p Koppi yells, "Coriakin reports: Bard concert coming up on Saturday, March 29th at 11AM pacific time. Hope to see you there!"
+3/18/25 5:30:17p StoneXi is no longer Clanning.
+3/18/25 5:30:21p StoneOmicron is now Clanning.
+3/18/25 5:30:28p StoneOmicron is no longer Clanning.
+3/18/25 5:31:14p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/18/25 5:31:15p Warawonda has fallen to a Vermine.
+3/18/25 5:31:38p You have 22001 coins.
+3/18/25 5:31:51p Squib whispers, "attack"
+3/18/25 5:32:11p A Rat feasts upon your toes.
+3/18/25 5:32:12p Free Berry is now Clanning.
+3/18/25 5:32:20p Free Berry is no longer Clanning.
+3/18/25 5:32:24p An'ablle is now Clanning.
+3/18/25 5:32:29p Warawonda says, "squib heal me"
+3/18/25 5:32:30p •You sense healing energy from Squib.
+3/18/25 5:32:33p An'ablle is no longer Clanning.
+3/18/25 5:32:36p You slaughtered a Vermine.
+3/18/25 5:32:36p Barry Brambles is now Clanning.
+3/18/25 5:32:38p You slaughtered a Rat.
+3/18/25 5:32:41p You slaughtered a Rat.
+3/18/25 5:32:46p Barry Brambles is no longer Clanning.
+3/18/25 5:32:50p Zuliani is now Clanning.
+3/18/25 5:33:00p Zuliani is no longer Clanning.
+3/18/25 5:33:05p Zorgaberret is now Clanning.
+3/18/25 5:33:15p Zorgaberret is no longer Clanning.
+3/18/25 5:33:19p StonePhi is now Clanning.
+3/18/25 5:33:27p StonePhi is no longer Clanning.
+3/18/25 5:33:34p Austere Feather is now Clanning.
+3/18/25 5:33:44p Austere Feather is no longer Clanning.
+3/18/25 5:33:48p StoneTheta is now Clanning.
+3/18/25 5:33:51p Squib whispers, "attack"
+3/18/25 5:33:57p StoneTheta is no longer Clanning.
+3/18/25 5:34:01p StoneIota is now Clanning.
+3/18/25 5:34:10p StoneIota is no longer Clanning.
+3/18/25 5:34:13p StoneKappa is now Clanning.
+3/18/25 5:34:23p StoneKappa is no longer Clanning.
+3/18/25 5:34:27p StoneLambda is now Clanning.
+3/18/25 5:34:36p StoneLambda is no longer Clanning.
+3/18/25 5:34:42p Guinness is now Clanning.
+3/18/25 5:34:51p Guinness is no longer Clanning.
+3/18/25 5:34:54p Wulf is now Clanning.
+3/18/25 5:35:05p Wulf is no longer Clanning.
+3/18/25 5:35:19p You have 22001 coins.
+3/18/25 5:35:20p Koppi yells, "Coriakin reports: Bard concert coming up on Saturday, March 29th at 11AM pacific time. Hope to see you there!"
+3/18/25 5:35:51p Squib whispers, "attack"
+3/18/25 5:36:03p Crius yells, "It’s 6 o’clock on Terrdi, the 67th day of Autumn in the 640th year of the Ascendancy, and we’ve got a situation... There’s a Grove Guardian here..."
+3/18/25 5:36:08p Crius yells, "There’s good hunting in Hatreds' Hollow."
+3/18/25 5:37:51p Squib whispers, "attack"
+3/18/25 5:37:52p Tuna is now Clanning.
+3/18/25 5:38:00p Misha is no longer Clanning.
+3/18/25 5:38:01p Tuna is no longer Clanning.
+3/18/25 5:38:05p True bird is now Clanning.
+3/18/25 5:38:15p True bird is no longer Clanning.
+3/18/25 5:38:20p MrPotsDelta is now Clanning.
+3/18/25 5:38:29p MrPotsDelta is no longer Clanning.
+3/18/25 5:38:32p Gob Stomp is now Clanning.
+3/18/25 5:38:43p Gob Stomp is no longer Clanning.
+3/18/25 5:38:47p StoneEta is now Clanning.
+3/18/25 5:38:57p StoneEta is no longer Clanning.
+3/18/25 5:39:01p You have 22001 coins.
+3/18/25 5:39:03p RescuedSmith is now Clanning.
+3/18/25 5:39:13p RescuedSmith is no longer Clanning.
+3/18/25 5:39:16p EpsAlpha is now Clanning.
+3/18/25 5:39:25p EpsAlpha is no longer Clanning.
+3/18/25 5:39:31p Dwayne Cena is now Clanning.
+3/18/25 5:39:42p Dwayne Cena is no longer Clanning.
+3/18/25 5:39:46p StoneDelta is now Clanning.
+3/18/25 5:39:51p Squib whispers, "attack"
+3/18/25 5:39:56p StoneDelta is no longer Clanning.
+3/18/25 5:40:00p StoneCeta is now Clanning.
+3/18/25 5:40:00p Shobaffum is no longer Clanning.
+3/18/25 5:40:03p Wolf Master is no longer Clanning.
+3/18/25 5:40:06p Jiro is no longer Clanning.
+3/18/25 5:40:10p StoneCeta is no longer Clanning.
+3/18/25 5:40:14p MrPotsCeta is now Clanning.
+3/18/25 5:40:15p Wolf Master is now Clanning.
+3/18/25 5:40:25p MrPotsCeta is no longer Clanning.
+3/18/25 5:40:29p DekkyCeta is now Clanning.
+3/18/25 5:40:31p Koppi yells, "Coriakin reports: Bard concert coming up on Saturday, March 29th at 11AM pacific time. Hope to see you there!"
+3/18/25 5:40:38p DekkyCeta is no longer Clanning.
+3/18/25 5:40:43p Lost Bite is now Clanning.
+3/18/25 5:40:44p Shobaffum is now Clanning.
+3/18/25 5:40:53p Lost Bite is no longer Clanning.
+3/18/25 5:40:57p Slyyvyarr is now Clanning.
+3/18/25 5:41:05p Slyyvyarr is no longer Clanning.
+3/18/25 5:41:15p MrpotsAlpha is now Clanning.
+3/18/25 5:41:25p MrpotsAlpha is no longer Clanning.
+3/18/25 5:41:30p WoodAlpha is now Clanning.
+3/18/25 5:41:36p Haffron is no longer Clanning.
+3/18/25 5:41:40p WoodAlpha is no longer Clanning.
+3/18/25 5:41:44p StoneAlpha is now Clanning.
+3/18/25 5:41:51p Squib whispers, "attack"
+3/18/25 5:41:53p StoneAlpha is no longer Clanning.
+3/18/25 5:41:58p DekkyBeta is now Clanning.
+3/18/25 5:42:06p DekkyBeta is no longer Clanning.
+3/18/25 5:42:10p JunkLord is now Clanning.
+3/18/25 5:42:17p JunkLord is no longer Clanning.
+3/18/25 5:42:42p You have 22001 coins.
+3/18/25 5:43:10p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/18/25 5:43:10p A Darshak Thug searches you, and takes a lot of coins.
+3/18/25 5:43:10p Warawonda has fallen to a Darshak Thug.
+3/18/25 5:43:31p TammyToole is now Clanning.
+3/18/25 5:43:41p TammyToole is no longer Clanning.
+3/18/25 5:43:45p StoneRho is now Clanning.
+3/18/25 5:43:51p Squib whispers, "attack"
+3/18/25 5:43:54p StoneRho is no longer Clanning.
+3/18/25 5:43:59p StoneTau is now Clanning.
+3/18/25 5:44:09p StoneTau is no longer Clanning.
+3/18/25 5:44:14p Tailor Astante is now Clanning.
+3/18/25 5:44:26p Tailor Astante is no longer Clanning.
+3/18/25 5:44:30p Ester Cles is now Clanning.
+3/18/25 5:44:40p Ester Cles is no longer Clanning.
+3/18/25 5:44:44p Six Chains is now Clanning.
+3/18/25 5:44:44p Jiro is now Clanning.
+3/18/25 5:44:53p Six Chains is no longer Clanning.
+3/18/25 5:44:58p Marbles is now Clanning.
+3/18/25 5:45:07p Marbles is no longer Clanning.
+3/18/25 5:45:11p DekkyEpsilon is now Clanning.
+3/18/25 5:45:22p DekkyEpsilon is no longer Clanning.
+3/18/25 5:45:25p Shaine is now Clanning.
+3/18/25 5:45:35p Shaine is no longer Clanning.
+3/18/25 5:45:39p Stonegamma is now Clanning.
+3/18/25 5:45:42p Koppi yells, "Coriakin reports: Bard concert coming up on Saturday, March 29th at 11AM pacific time. Hope to see you there!"
+3/18/25 5:45:49p Stonegamma is no longer Clanning.
+3/18/25 5:45:51p Squib whispers, "attack"
+3/18/25 5:45:53p MrPotsAlot is now Clanning.
+3/18/25 5:46:02p MrPotsAlot is no longer Clanning.
+3/18/25 5:46:05p FreedTradesman is now Clanning.
+3/18/25 5:46:13p FreedTradesman is no longer Clanning.
+3/18/25 5:46:22p Irongetti Toole is now Clanning.
+3/18/25 5:46:23p You have 21119 coins.
+3/18/25 5:46:32p Irongetti Toole is no longer Clanning.
+3/18/25 5:46:35p StoneSigma is now Clanning.
+3/18/25 5:46:44p StoneSigma is no longer Clanning.
+3/18/25 5:46:48p StonePi is now Clanning.
+3/18/25 5:46:58p StonePi is no longer Clanning.
+3/18/25 5:47:01p TihmToole is now Clanning.
+3/18/25 5:47:13p TihmToole is no longer Clanning.
+3/18/25 5:47:29p Luxe Holdor is now Clanning.
+3/18/25 5:47:38p Luxe Holdor is no longer Clanning.
+3/18/25 5:47:42p Nancy Holdor is now Clanning.
+3/18/25 5:47:51p Nancy Holdor is no longer Clanning.
+3/18/25 5:47:51p Squib whispers, "attack"
+3/18/25 5:47:55p Warrens Holdor is now Clanning.
+3/18/25 5:48:03p Warrens Holdor is no longer Clanning.
+3/18/25 5:49:14p Muddins Holdor is now Clanning.
+3/18/25 5:49:22p Muddins Holdor is no longer Clanning.
+3/18/25 5:49:26p Holdmore Holdor is now Clanning.
+3/18/25 5:49:34p Holdmore Holdor is no longer Clanning.
+3/18/25 5:49:39p Odd Holdor is now Clanning.
+3/18/25 5:49:49p Odd Holdor is no longer Clanning.
+3/18/25 5:49:51p Squib whispers, "attack"
+3/18/25 5:49:53p Holdore Holdor is now Clanning.
+3/18/25 5:49:53p A Scavenger Bird tears at your toes.
+3/18/25 5:50:02p Holdore Holdor is no longer Clanning.
+3/18/25 5:50:05p You have 21119 coins.
+3/18/25 5:50:06p Reginald Holdor is now Clanning.
+3/18/25 5:50:15p Reginald Holdor is no longer Clanning.
+3/18/25 5:50:20p Stan Valley is now Clanning.
+3/18/25 5:50:29p Stan Valley is no longer Clanning.
+3/18/25 5:50:34p The Refugee is now Clanning.
+3/18/25 5:50:34p A Scavenger Bird plucks at your gaping mouth.
+3/18/25 5:50:41p A Scavenger Bird plucks at your flesh.
+3/18/25 5:50:43p The Refugee is no longer Clanning.
+3/18/25 5:50:46p Crius yells, "It’s 7 o’clock, and we’ve got a situation... There’s a Grove Guardian here..."
+3/18/25 5:50:47p Eager Leaf is now Clanning.
+3/18/25 5:50:51p Crius yells, "It looks pretty quiet in Puddleby."
+3/18/25 5:50:51p •You sense healing energy from Grand Master.
+3/18/25 5:50:53p Koppi yells, "Coriakin reports: Bard concert coming up on Saturday, March 29th at 11AM pacific time. Hope to see you there!"
+3/18/25 5:50:54p Warawonda says, "squib heal me"
+3/18/25 5:50:55p Shobaffum discovers that the Darshak Thug was carrying a purse with a good many coins!
+3/18/25 5:50:55p •You sense healing energy from Squib.
+3/18/25 5:50:56p Eager Leaf is no longer Clanning.
+3/18/25 5:51:00p StoneZeta is now Clanning.
+3/18/25 5:51:05p * You pick up 80 coins.
+3/18/25 5:51:05p * You gain experience.
+3/18/25 5:51:08p StoneZeta is no longer Clanning.
+3/18/25 5:51:12p MrPotsbeta is now Clanning.
+3/18/25 5:51:22p MrPotsbeta is no longer Clanning.
+3/18/25 5:51:25p Wolf Master is no longer Clanning.
+3/18/25 5:51:26p BandoWbAlpha is now Clanning.
+3/18/25 5:51:28p You have 21199 coins.
+3/18/25 5:51:36p BandoWbAlpha is no longer Clanning.
+3/18/25 5:51:38p • /SLEEP when you wish to begin studying.
+3/18/25 5:51:40p • /SLEEP when you wish to begin studying.
+3/18/25 5:51:41p StoneBeta is now Clanning.
+3/18/25 5:51:43p Shobaffum is no longer Clanning.
+3/18/25 5:51:51p StoneBeta is no longer Clanning.
+3/18/25 5:51:53p Jiro is done adventuring for a while and will be studying here.
+3/18/25 5:51:54p Use \SLEEP again when you return.
+3/18/25 5:51:54p You are done adventuring for a while and will be studying here.
+3/18/25 5:51:55p Jiro is no longer Clanning.
+3/18/25 5:51:55p You have been disconnected from Clan Lord.
+3/18/25 5:51:55p • You will benefit from studying here while you are off-line.
+3/18/25 5:51:56p DekkyAlpha is now Clanning.
+3/18/25 5:51:56p *** We are no longer connected to the Clan Lord game server. ***

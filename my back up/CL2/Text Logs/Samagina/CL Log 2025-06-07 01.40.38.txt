@@ -1,0 +1,220 @@
+
+6/7/25 1:40:39a * Your shirt named “dark grey” is in very good condition.
+6/7/25 1:40:39a * Your pair of pants named “dark grey” is in very good condition.
+6/7/25 1:40:39a Welcome to Clan Lord, Samagina!
+6/7/25 1:40:39a Type \HELP for a list of commands.
+6/7/25 1:40:39a • You gain experience from your recent studies.
+6/7/25 1:40:39a You have been studying for one day, 9 hours, 17 minutes.
+6/7/25 1:40:42a It's 9:35am on Terrdi, day 36 of Autumn, 641.
+6/7/25 1:40:43a There are three members of Black Phoenix clanning: Mara, Unholy and you.
+6/7/25 1:40:43a • What’s New: https://deltatao.com/clanlord/news
+6/7/25 1:40:45a Friends online: none.
+6/7/25 1:40:53a * Tip of the day: You can’t vote for banishment in the court. The judge banishes people based on the length of their jail sentence. (Use /OPTIONS to turn tips off.)
+6/7/25 1:40:56a Cat Food has been studying for 10 hours, 51 minutes.
+6/7/25 1:41:01a *Auto Trade Zero ON!
+6/7/25 1:41:07a • Cat Food offers you a piece of iron for free.
+6/7/25 1:41:07a To accept, \BUY 0 Cat Food.
+6/7/25 1:41:07a * Traded: Cat Food 
+6/7/25 1:41:07a Cat Food hands you a piece of iron.
+6/7/25 1:41:09a • Cat Food offers you a piece of iron for free.
+6/7/25 1:41:09a To accept, \BUY 0 Cat Food.
+6/7/25 1:41:09a * Traded: Cat Food 
+6/7/25 1:41:09a Cat Food hands you a piece of iron.
+6/7/25 1:41:13a Cat Food is done adventuring for a while and will be staying here.
+6/7/25 1:41:42a Bindra says, "Greetings, Samagina."
+6/7/25 1:41:42a Bindra says, "For 500 coins, and two pieces of iron metal, I can make you a chain."
+6/7/25 1:41:43a Bindra asks, "Would you like me to do that?"
+6/7/25 1:41:44a Samagina says, "yes"
+6/7/25 1:41:44a Bindra says, "There you go. Have a nice day."
+6/7/25 1:42:16a You slaughtered a Large Vermine.
+6/7/25 1:42:16a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+6/7/25 1:42:27a You slaughtered a Rat.
+6/7/25 1:42:36a You slaughtered a Rat.
+6/7/25 1:42:45a You slaughtered a Vermine.
+6/7/25 1:42:47a You slaughtered a Giant Vermine.
+6/7/25 1:42:47a You slaughtered a Large Vermine.
+6/7/25 1:42:48a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+6/7/25 1:42:48a You slaughtered a Vermine.
+6/7/25 1:42:52a You slaughtered a Large Vermine.
+6/7/25 1:42:52a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+6/7/25 1:42:53a You slaughtered a Vermine.
+6/7/25 1:42:57a You slaughtered a Grey Feral.
+6/7/25 1:42:57a * For recovering the fur, you gain experience.
+6/7/25 1:42:57a * You recover the Grey Feral fur, worth 5c. Your share is 5c.
+6/7/25 1:42:58a You slaughtered a Vermine.
+6/7/25 1:43:00a You slaughtered an Orga Berserk.
+6/7/25 1:43:02a You slaughtered a Large Vermine.
+6/7/25 1:43:02a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+6/7/25 1:43:03a You slaughtered a Vermine.
+6/7/25 1:43:04a You slaughtered a Large Vermine.
+6/7/25 1:43:12a You slaughtered a Giant Vermine.
+6/7/25 1:43:12a * You recover the Giant Vermine fur, worth 3c. Your share is 3c.
+6/7/25 1:43:12a You slaughtered a Brown Feral.
+6/7/25 1:43:13a * You recover the Brown Feral fur, worth 1c. Your share is 1c.
+6/7/25 1:43:24a You slaughtered a Feral.
+6/7/25 1:43:34a You slaughtered a Large Vermine.
+6/7/25 1:43:35a You slaughtered a Vermine.
+6/7/25 1:43:51a You slaughtered a Grey Feral.
+6/7/25 1:43:52a * You recover the Grey Feral fur, worth 4c. Your share is 4c.
+6/7/25 1:43:55a You slaughtered a Large Vermine.
+6/7/25 1:43:55a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+6/7/25 1:44:10a You helped slaughter a Feral.
+6/7/25 1:44:11a * For recovering the fur, you gain experience.
+6/7/25 1:44:11a * You recover the Feral fur, worth 1c.
+6/7/25 1:44:12a You helped slaughter a Giant Vermine.
+6/7/25 1:44:12a * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+6/7/25 1:44:12a You slaughtered a Giant Vermine.
+6/7/25 1:44:14a You slaughtered a Giant Vermine.
+6/7/25 1:44:14a * For recovering the fur, you gain experience.
+6/7/25 1:44:14a * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+6/7/25 1:44:15a You slaughtered a Rat.
+6/7/25 1:44:15a You slaughtered a Giant Vermine.
+6/7/25 1:44:16a * You recover the Giant Vermine fur, worth 3c. Your share is 3c.
+6/7/25 1:44:17a You slaughtered a Vermine.
+6/7/25 1:44:18a You helped slaughter a Brown Feral.
+6/7/25 1:44:18a * You recover the Brown Feral fur, worth 2c. Your share is 1c.
+6/7/25 1:44:20a You slaughtered a Feral.
+6/7/25 1:44:20a * You recover the Feral fur, worth 2c. Your share is 2c.
+6/7/25 1:44:25a You begin sharing your experiences with Unholy.
+6/7/25 1:44:26a You slaughtered a Feral.
+6/7/25 1:44:27a You helped slaughter a Feral.
+6/7/25 1:44:27a * You recover the Feral fur, worth 2c. Your share is 1c.
+6/7/25 1:44:29a You slaughtered a Feral.
+6/7/25 1:44:29a * You recover the Feral fur, worth 2c. Your share is 1c.
+6/7/25 1:44:32a You slaughtered a Feral.
+6/7/25 1:44:32a * You recover the Feral fur, worth 2c. Your share is 1c.
+6/7/25 1:44:34a You slaughtered a Vermine.
+6/7/25 1:44:34a * Unholy recovers the Vermine fur, worth 1c. Your share is 1c.
+6/7/25 1:44:35a You slaughtered a Myrm Scout.
+6/7/25 1:44:36a You slaughtered a Feral.
+6/7/25 1:44:36a * You recover the Feral fur, worth 1c.
+6/7/25 1:44:37a You helped slaughter a Large Vermine.
+6/7/25 1:44:37a * You recover the Large Vermine fur, worth 1c.
+6/7/25 1:44:40a You slaughtered a Feral.
+6/7/25 1:44:40a * Unholy recovers the Feral fur, worth 2c. Your share is 1c.
+6/7/25 1:44:42a You slaughtered a Rat.
+6/7/25 1:44:43a You slaughtered a Large Vermine.
+6/7/25 1:44:43a * You recover the Large Vermine fur, worth 1c.
+6/7/25 1:44:43a You slaughtered a Rat.
+6/7/25 1:44:44a You slaughtered a Vermine.
+6/7/25 1:44:46a You slaughtered a Giant Vermine.
+6/7/25 1:44:46a * You recover the Giant Vermine fur, worth 1c.
+6/7/25 1:44:47a You have 5645 coins.
+6/7/25 1:44:48a You slaughtered a Large Vermine.
+6/7/25 1:44:49a You slaughtered a Brown Feral.
+6/7/25 1:44:50a * You recover the Brown Feral fur, worth 1c.
+6/7/25 1:45:08a You slaughtered a Giant Vermine.
+6/7/25 1:45:08a * You recover the Giant Vermine fur, worth 2c. Your share is 1c.
+6/7/25 1:45:09a You slaughtered a Vermine.
+6/7/25 1:45:10a You slaughtered a Giant Vermine.
+6/7/25 1:45:10a * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+6/7/25 1:45:13a You slaughtered a Feral.
+6/7/25 1:45:14a * You recover the Feral fur, worth 2c. Your share is 1c.
+6/7/25 1:45:15a You slaughtered a Feral.
+6/7/25 1:45:15a * You recover the Feral fur, worth 3c. Your share is 1c.
+6/7/25 1:46:08a You slaughtered a Large Vermine.
+6/7/25 1:46:08a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+6/7/25 1:46:17a You slaughtered a Grey Feral.
+6/7/25 1:46:18a * For recovering the fur, you gain experience.
+6/7/25 1:46:18a * You recover the Grey Feral fur, worth 3c. Your share is 2c.
+6/7/25 1:46:18a You slaughtered a Large Vermine.
+6/7/25 1:46:18a * Unholy recovers the Large Vermine fur, worth 1c. Your share is 1c.
+6/7/25 1:46:18a Jeepers thinks, "Ohhhh, ahhhh."
+6/7/25 1:46:19a You slaughtered a Grey Feral.
+6/7/25 1:46:20a You slaughtered a Rat.
+6/7/25 1:46:21a You slaughtered a Large Vermine.
+6/7/25 1:46:21a * You recover the Large Vermine fur, worth 2c. Your share is 1c.
+6/7/25 1:46:28a You slaughtered an Orga.
+6/7/25 1:46:29a You slaughtered a Large Vermine.
+6/7/25 1:46:30a You slaughtered a Vermine.
+6/7/25 1:46:31a You slaughtered a Large Vermine.
+6/7/25 1:46:34a You slaughtered a Grey Feral.
+6/7/25 1:46:35a * Unholy recovers the Grey Feral fur, worth 5c. Your share is 3c.
+6/7/25 1:46:42a You slaughtered a Giant Vermine.
+6/7/25 1:46:42a A monster growls, "Kill!"
+6/7/25 1:46:42a * You recover the Giant Vermine fur, worth 1c.
+6/7/25 1:46:43a You slaughtered a Feral.
+6/7/25 1:46:43a * You recover the Feral fur, worth 3c. Your share is 1c.
+6/7/25 1:46:44a You slaughtered a Grey Feral.
+6/7/25 1:46:44a * You recover the Grey Feral fur, worth 4c. Your share is 2c.
+6/7/25 1:46:45a You slaughtered a Grey Feral.
+6/7/25 1:46:49a You slaughtered a Brown Feral.
+6/7/25 1:46:49a * You recover the Brown Feral fur, worth 5c. Your share is 3c.
+6/7/25 1:46:50a You slaughtered a Giant Vermine.
+6/7/25 1:46:52a You slaughtered a Vermine.
+6/7/25 1:46:55a You slaughtered a Grey Feral.
+6/7/25 1:46:55a * You recover the Grey Feral fur, worth 2c. Your share is 1c.
+6/7/25 1:46:58a You slaughtered a Rat.
+6/7/25 1:47:00a You slaughtered a Large Vermine.
+6/7/25 1:47:00a * You recover the Large Vermine fur, worth 2c. Your share is 1c.
+6/7/25 1:47:00a You slaughtered a Large Vermine.
+6/7/25 1:47:01a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+6/7/25 1:47:05a You slaughtered a Feral.
+6/7/25 1:47:05a * You recover the Feral fur, worth 1c.
+6/7/25 1:47:07a You slaughtered a Feral.
+6/7/25 1:47:07a * You recover the Feral fur, worth 2c. Your share is 1c.
+6/7/25 1:47:08a You slaughtered a Large Vermine.
+6/7/25 1:47:09a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+6/7/25 1:47:10a You slaughtered an Orga.
+6/7/25 1:47:12a You slaughtered a Feral.
+6/7/25 1:47:12a * You recover the Feral fur, worth 1c.
+6/7/25 1:47:15a You slaughtered a Feral.
+6/7/25 1:47:16a You slaughtered a Rat.
+6/7/25 1:47:19a You slaughtered a Giant Vermine.
+6/7/25 1:47:19a * You recover the Giant Vermine fur, worth 2c. Your share is 1c.
+6/7/25 1:47:37a You slaughtered a Grey Feral.
+6/7/25 1:47:37a * You recover the Grey Feral fur, worth 2c. Your share is 2c.
+6/7/25 1:47:49a You slaughtered a Large Vermine.
+6/7/25 1:47:52a You slaughtered a Large Vermine.
+6/7/25 1:47:52a * You recover the Large Vermine fur, worth 1c.
+6/7/25 1:47:54a You slaughtered a Skeletal.
+6/7/25 1:47:55a You slaughtered a Grey Feral.
+6/7/25 1:47:58a You slaughtered a Vermine.
+6/7/25 1:48:01a You slaughtered a Large Vermine.
+6/7/25 1:48:01a * You recover the Large Vermine fur, worth 1c.
+6/7/25 1:48:02a You slaughtered a Large Vermine.
+6/7/25 1:48:02a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+6/7/25 1:48:08a You slaughtered a Vermine.
+6/7/25 1:48:10a You slaughtered a Large Vermine.
+6/7/25 1:48:10a * Unholy recovers the Large Vermine fur, worth 1c. Your share is 1c.
+6/7/25 1:48:13a You slaughtered a Feral.
+6/7/25 1:48:58a You have 5673 coins.
+6/7/25 1:49:33a You slaughtered a Vermine.
+6/7/25 1:49:34a You slaughtered a Vermine.
+6/7/25 1:49:43a You slaughtered a Grey Feral.
+6/7/25 1:49:57a You slaughtered a Vermine.
+6/7/25 1:49:58a You slaughtered a Rat.
+6/7/25 1:50:00a You slaughtered a Rat.
+6/7/25 1:50:02a You slaughtered a Brown Feral.
+6/7/25 1:50:03a * You recover the Brown Feral fur, worth 2c. Your share is 2c.
+6/7/25 1:50:03a You slaughtered a Vermine.
+6/7/25 1:50:05a You slaughtered a Large Vermine.
+6/7/25 1:50:05a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+6/7/25 1:50:05a You slaughtered a Large Vermine.
+6/7/25 1:50:06a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+6/7/25 1:50:06a You slaughtered an Island Panther.
+6/7/25 1:50:06a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+6/7/25 1:50:08a You slaughtered a Rat.
+6/7/25 1:50:11a You slaughtered a Rat.
+6/7/25 1:50:11a You slaughtered a Rat.
+6/7/25 1:50:13a You slaughtered a Giant Vermine.
+6/7/25 1:50:13a * For recovering the fur, you gain experience.
+6/7/25 1:50:13a * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+6/7/25 1:50:17a You slaughtered a Vermine.
+6/7/25 1:50:20a You slaughtered a Vermine.
+6/7/25 1:50:21a * You recover the Vermine fur, worth 1c. Your share is 1c.
+6/7/25 1:50:29a You slaughtered an Orga.
+6/7/25 1:50:32a You slaughtered a Myrm Farmer.
+6/7/25 1:50:37a You slaughtered a T'rool.
+6/7/25 1:50:37a * You recover the T'rool blood, worth 1c. Your share is 1c.
+6/7/25 1:50:38a You slaughtered a Large Vermine.
+6/7/25 1:50:38a You slaughtered a Large Vermine.
+6/7/25 1:50:39a * You recover the Large Vermine fur, worth 2c. Your share is 1c.
+6/7/25 1:50:39a You slaughtered a Large Vermine.
+6/7/25 1:50:43a You slaughtered a Large Vermine.
+6/7/25 1:50:43a You slaughtered a Rat.
+6/7/25 1:50:44a You slaughtered a Large Vermine.
+6/7/25 1:50:44a * You recover the Large Vermine fur, worth 1c.
+6/7/25 1:50:45a You slaughtered a Vermine.
+6/7/25 1:50:48a You slaughtered a Rat.
+6/7/25 1:50:49a You slaughtered

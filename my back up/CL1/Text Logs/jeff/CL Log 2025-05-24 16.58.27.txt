@@ -1,0 +1,64 @@
+
+5/24/25 4:58:28p * Your shirt named “dark grey” is in nearly perfect condition.
+5/24/25 4:58:28p * Your pair of pants named “muddy yellow” is in nearly perfect condition.
+5/24/25 4:58:28p Welcome to Clan Lord, Jeff!
+5/24/25 4:58:28p Type \HELP for a list of commands.
+5/24/25 4:58:28p • You gain experience from your recent studies.
+5/24/25 4:58:28p Jeff is now Clanning.
+5/24/25 4:58:28p You have been studying for 8 days, 21 hours, 32 minutes.
+5/24/25 4:58:31p It's 5:37pm on Merdi, day 71 of Summer, 641.
+5/24/25 4:58:32p You are the only member of Black Phoenix clanning.
+5/24/25 4:58:32p • What’s New: https://deltatao.com/clanlord/news
+5/24/25 4:58:34p Friends online: none.
+5/24/25 4:58:42p * Tip of the day: Option-click on someone to copy their name into your text entry box. (Use /OPTIONS to turn tips off.)
+5/24/25 4:58:44p Magnic II is now Clanning.
+5/24/25 4:58:53p You have 27 coins.
+5/24/25 4:59:02p •Your knowledge of blacksmithing improves.
+5/24/25 4:59:02p Koppi yells, "News yeller, here! Get your news, make the news, tell the world!"
+5/24/25 4:59:36p Forgus says, "Hail, Jeff. You keep me on my toes."
+5/24/25 4:59:36p * Forgus : 100-149.
+5/24/25 4:59:36p Forgus says, "I can teach you the art of blacksmithing."
+5/24/25 4:59:36p Forgus says, "You will learn as you practice."
+5/24/25 4:59:39p Whetka says, "Hello, Lord Jeff. I sell kits to hold repair supplies, for repairing armor."
+5/24/25 4:59:40p Whetka says, "It starts out with 10c worth of supplies. Once you have a kit, you can purchase more from me."
+5/24/25 4:59:40p Whetka asks, "Would you like to buy a blacksmith's repair kit now, for 150c?"
+5/24/25 4:59:43p Jeff says, "yes"
+5/24/25 4:59:44p Whetka says, "You'll have to come back when you have the cash, Jeff."
+5/24/25 4:59:44p Whetka says, "Hello, Lord Jeff. I sell kits to hold repair supplies, for repairing armor."
+5/24/25 4:59:45p Whetka says, "It starts out with 10c worth of supplies. Once you have a kit, you can purchase more from me."
+5/24/25 5:00:27p Magnic II hands you 200 coins.
+5/24/25 5:00:55p Whetka says, "Hello, Lord Jeff. I sell kits to hold repair supplies, for repairing armor."
+5/24/25 5:00:56p Whetka says, "It starts out with 10c worth of supplies. Once you have a kit, you can purchase more from me."
+5/24/25 5:00:56p Whetka asks, "Would you like to buy a blacksmith's repair kit now, for 150c?"
+5/24/25 5:00:57p Jeff says, "yes"
+5/24/25 5:00:57p Whetka hands you a blacksmith's repair kit.
+5/24/25 5:00:58p Whetka asks, "How many coins' worth of supplies would you like to buy for your blacksmith's repair kit now?"
+5/24/25 5:01:01p Jeff says, "50"
+5/24/25 5:01:01p Whetka hands you a bundle of supplies.
+5/24/25 5:01:01p Whetka says, "Hello, Lord Jeff."
+5/24/25 5:01:02p Whetka asks, "How many coins' worth of supplies would you like to buy for your blacksmith's repair kit now?"
+5/24/25 5:01:36p You equip your blacksmith's repair kit named “60”.
+5/24/25 5:01:42p You have 27 coins.
+5/24/25 5:01:48p * You have 60c worth of repair supplies.
+5/24/25 5:01:48p \USEITEM "blacksmith's repair kit": determine repair costs for the blacksmithed item selected in your Inventory
+5/24/25 5:01:48p \USEITEM "blacksmith's repair kit" <player>: determine repair costs for someone else's blacksmithed item.
+5/24/25 5:01:48p \USEITEM "blacksmith's repair kit" /mend: mend the armor item selected in your Inventory
+5/24/25 5:01:48p \USEITEM "blacksmith's repair kit" /combine: combine supplies in all your repair kits into one
+5/24/25 5:02:11p Magnic II's gilded breastplate doesn't need any repairs. His iron shield doesn't need any repairs. His iron helmet is in very good condition. You would need 69c worth of repair supplies to mend it. 
+5/24/25 5:02:48p Kahn St'ple nods and smiles at Magnic II.
+5/24/25 5:03:03p • Magnic II offers you the iron helmet he's wearing. The iron helmet is in very good condition, and is offered for free.
+5/24/25 5:03:03p To accept, \BUY 0 Magnic II.
+5/24/25 5:03:13p Magnic II hands you an iron helmet.
+5/24/25 5:03:31p * You have 60c worth of repair supplies.
+5/24/25 5:03:31p \USEITEM "blacksmith's repair kit": determine repair costs for the blacksmithed item selected in your Inventory
+5/24/25 5:03:31p \USEITEM "blacksmith's repair kit" <player>: determine repair costs for someone else's blacksmithed item.
+5/24/25 5:03:31p \USEITEM "blacksmith's repair kit" /mend: mend the armor item selected in your Inventory
+5/24/25 5:03:31p \USEITEM "blacksmith's repair kit" /combine: combine supplies in all your repair kits into one
+5/24/25 5:04:07p Crius yells, "It’s 6 o’clock on Merdi, the 71st day of Summer in the 641st year of the Ascendancy, and all’s well."
+5/24/25 5:04:12p Crius yells, "Chrono and others are fallen beneath Venables Island. Healers needed."
+5/24/25 5:05:04p You have 27 coins.
+5/24/25 5:05:09p You would need 69c worth of repair supplies to repair the iron helmet you have selected.
+5/24/25 5:07:09p Vivo Ladi is now Clanning.
+5/24/25 5:07:57p You offer an iron helmet named “MagnicII” to Magnic II for free.
+5/24/25 5:07:57p \SELL /cancel to cancel the offer.
+5/24/25 5:07:58

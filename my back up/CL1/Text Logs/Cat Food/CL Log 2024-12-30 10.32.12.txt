@@ -1,0 +1,566 @@
+
+12/30/24 10:32:12a * Your healer's shirt is in nearly perfect condition.
+12/30/24 10:32:12a * Your pair of second-circle pants named “white” is in nearly perfect condition.
+12/30/24 10:32:12a Welcome to Clan Lord, Cat Food!
+12/30/24 10:32:12a Type \HELP for a list of commands.
+12/30/24 10:32:12a • You gain experience from your recent studies.
+12/30/24 10:32:12a Cat Food is now Clanning.
+12/30/24 10:32:12a You have been studying for 17 years, 4 months, 19 days.
+12/30/24 10:32:15a It's 10:55am on Fordi, day 17 of Winter, 640.
+12/30/24 10:32:16a Friends online: none.
+12/30/24 10:32:17a You are the only member of Black Phoenix clanning.
+12/30/24 10:32:17a • What’s New: https://deltatao.com/clanlord/news
+12/30/24 10:32:17a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/30/24 10:32:17a Aitnos asks, "Would you like to apply some of your learning to Higgrus’s lessons?"
+12/30/24 10:32:27a * Tip of the day: Visit the tutorial building in the fairgrounds for more information and advice. (Use /OPTIONS to turn tips off.)
+12/30/24 10:32:34a Eva says, "Hail, Cat Food. You have much to learn."
+12/30/24 10:32:34a * Eva : 0-9.
+12/30/24 10:32:34a (Aurelie): 0-9
+12/30/24 10:32:35a Eva says, "I can teach a balanced healing style."
+12/30/24 10:32:35a Eva says, "You will learn as you practice."
+12/30/24 10:32:37a Faustus says, "Hail, Cat Food. There is not much more I can teach you."
+12/30/24 10:32:37a * Faustus : 250-299.
+12/30/24 10:32:37a (Aurelie): 250-299
+12/30/24 10:32:37a Faustus says, "I can teach you to improve your healing speed."
+12/30/24 10:32:38a Faustus says, "You will learn as you practice."
+12/30/24 10:32:39a Sespus says, "Hail, Cat Food. Teaching you is a challenge."
+12/30/24 10:32:39a * Sespus : 200-249.
+12/30/24 10:32:39a (Aurelie): 200-249
+12/30/24 10:32:40a Sespus says, "I can teach you to increase your spiritual energy."
+12/30/24 10:32:40a Sespus says, "You will learn as you practice."
+12/30/24 10:32:42a Respia says, "Hail, Cat Food. Teaching you is a challenge."
+12/30/24 10:32:42a * Respia : 200-249.
+12/30/24 10:32:42a (Aurelie): 200-249
+12/30/24 10:32:42a Respia says, "I can teach you to recover spiritual energy faster."
+12/30/24 10:32:43a Respia says, "You will learn as you practice."
+12/30/24 10:32:45a Higgrus says, "Hail, Cat Food."
+12/30/24 10:32:46a Higgrus bows deeply.
+12/30/24 10:32:49a Higgrus says, "Hail, Cat Food."
+12/30/24 10:32:49a Higgrus bows deeply.
+12/30/24 10:32:51a Higgrus says, "You are truly a grand master."
+12/30/24 10:32:51a * Higgrus : 900-999.
+12/30/24 10:32:51a (Aurelie): 900-999
+12/30/24 10:32:51a Higgrus says, "I can teach you to improve your physical well-being."
+12/30/24 10:32:52a Higgrus says, "You will learn as you practice."
+12/30/24 10:32:52a Higgrus asks, "Are you sure you would like to train with me?"
+12/30/24 10:32:54a Sprite says, "Hail, Cat Food."
+12/30/24 10:32:54a Sprite bows.
+12/30/24 10:32:56a Sprite says, "You are a credit to our craft."
+12/30/24 10:32:56a * Sprite : 650-699.
+12/30/24 10:32:57a Sprite says, "I can teach you how to improve your spirit for healing."
+12/30/24 10:32:57a Sprite says, "You will learn as you practice."
+12/30/24 10:32:58a Sprite asks, "Are you sure you would like to train with me?"
+12/30/24 10:32:59a •You seem to be able to take more damage now.
+12/30/24 10:33:08a Sprite says, "Hail, Cat Food."
+12/30/24 10:33:08a Sprite bows.
+12/30/24 10:33:10a Sprite says, "You are a credit to our craft."
+12/30/24 10:33:10a * Sprite : 650-699.
+12/30/24 10:33:11a Sprite says, "I can teach you how to improve your spirit for healing."
+12/30/24 10:33:11a Sprite says, "You will learn as you practice."
+12/30/24 10:33:12a Sprite asks, "Are you sure you would like to train with me?"
+12/30/24 10:33:13a Cat Food says, "yes"
+12/30/24 10:33:13a Sprite says, "Welcome aboard. Go into the world and learn what you may, while practicing our craft."
+12/30/24 10:33:14a Sprite says, "Hail, Cat Food."
+12/30/24 10:33:14a Sprite bows.
+12/30/24 10:33:24a Dinsdale is no longer Clanning.
+12/30/24 10:33:27a Horus says, "Hail, Cat Food. There is not much more I can teach you."
+12/30/24 10:33:27a * Horus : 250-299.
+12/30/24 10:33:27a Elenis Reyav is now Clanning.
+12/30/24 10:33:27a Horus says, "I can teach you how to heal those closer to death."
+12/30/24 10:33:28a Horus says, "You will learn as you practice."
+12/30/24 10:33:29a Dinsdale is now Clanning.
+12/30/24 10:33:30a Awaria says, "Hail, Cat Food. You have much to learn."
+12/30/24 10:33:30a * Awaria : 0-9.
+12/30/24 10:33:30a Awaria says, "I can teach you how to heal yourself more easily with the moonstone to an extent."
+12/30/24 10:33:34a Sylpha says, "Hail, Cat Food. You have much to learn."
+12/30/24 10:33:34a * Sylpha : 0-9.
+12/30/24 10:33:34a Sylpha says, "I can teach you to do a walking self-heal."
+12/30/24 10:33:34a Sylpha says, "You will learn as you practice."
+12/30/24 10:33:35a Sylpha asks, "Are you sure you would like to train with me?"
+12/30/24 10:33:37a Sylpha says, "Just tell me yes or no, please."
+12/30/24 10:33:37a Cat Food says, "yes"
+12/30/24 10:33:37a Sylpha says, "Welcome aboard. Go into the world and learn what you may, while practicing our craft."
+12/30/24 10:33:38a Sylpha says, "Hail, Cat Food. You have much to learn."
+12/30/24 10:33:38a * Sylpha : 0-9.
+12/30/24 10:33:45a You have 38 coins.
+12/30/24 10:33:55a • /SLEEP when you wish to begin studying.
+12/30/24 10:33:58a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/30/24 10:33:58a Aitnos asks, "Would you like to apply some of your learning to Sylpha’s lessons?"
+12/30/24 10:34:00a Cat Food says, "yes"
+12/30/24 10:34:01a Aitnos says, "Congratulations, Cat Food. You should now understand much more of Sylpha’s teachings."
+12/30/24 10:34:01a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/30/24 10:34:02a Aitnos asks, "Would you like to apply some of your learning to Sylpha’s lessons?"
+12/30/24 10:34:02a Cat Food says, "yes"
+12/30/24 10:34:04a Aitnos says, "Congratulations, Cat Food. You should now understand much more of Sylpha’s teachings."
+12/30/24 10:34:04a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/30/24 10:34:04a Aitnos asks, "Would you like to apply some of your learning to Sylpha’s lessons?"
+12/30/24 10:34:05a Cat Food says, "yes"
+12/30/24 10:34:06a Aitnos says, "Congratulations, Cat Food. You should now understand much more of Sylpha’s teachings."
+12/30/24 10:34:07a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/30/24 10:34:07a Aitnos asks, "Would you like to apply some of your learning to Sylpha’s lessons?"
+12/30/24 10:34:09a Cat Food says, "yes"
+12/30/24 10:34:10a Aitnos says, "You have completed your training with Sylpha."
+12/30/24 10:34:10a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/30/24 10:34:11a Aitnos asks, "Would you like to apply some of your learning to Sylpha’s lessons?"
+12/30/24 10:34:24a Astrooa says, "Cat Food, you can no longer train with Sylpha."
+12/30/24 10:34:26a Astrooa says, "Cat Food, you can no longer train with Sylpha."
+12/30/24 10:34:29a • You can no longer train with Sylpha.
+12/30/24 10:34:31a Astrooa says, "Aurelie, you are well on your way to enlightenment. Think of Sprite."
+12/30/24 10:34:35a Repetun says, "Greetings, Lord Cat Food."
+12/30/24 10:34:35a Repetun says, "If you wish, I can exchange your fifth-circle badge for a fourth-circle one."
+12/30/24 10:34:35a Repetun says, "You can come back to me later to have your fifth-circle badge restored."
+12/30/24 10:34:36a Repetun asks, "Would you like to be fourth circle temporarily?"
+12/30/24 10:34:36a Repetun says, "Very well, perhaps another time."
+12/30/24 10:34:46a Giben is now Clanning.
+12/30/24 10:34:48a Proximus says, "Hail, Cat Food. You may be proud of your accomplishment."
+12/30/24 10:34:48a * Proximus : 450-499.
+12/30/24 10:34:48a Proximus says, "I can teach you to heal people from further away."
+12/30/24 10:34:48a Proximus says, "You will learn as you practice."
+12/30/24 10:34:49a Proximus asks, "Are you sure you would like to train with me?"
+12/30/24 10:34:50a Cat Food says, "yes"
+12/30/24 10:34:50a Proximus says, "Welcome aboard. Go into the world and learn what you may, while practicing our craft."
+12/30/24 10:34:51a Proximus says, "Hail, Cat Food. You may be proud of your accomplishment."
+12/30/24 10:34:51a * Proximus : 450-499.
+12/30/24 10:34:51a Proximus says, "I can teach you to heal people from further away."
+12/30/24 10:35:30a Sprite says, "Hail, Cat Food."
+12/30/24 10:35:31a Sprite bows.
+12/30/24 10:35:33a Sprite says, "You are a credit to our craft."
+12/30/24 10:35:33a * Sprite : 650-699.
+12/30/24 10:35:33a Cat Food says, "yes"
+12/30/24 10:35:33a Sprite says, "I can teach you how to improve your spirit for healing."
+12/30/24 10:35:33a Sprite says, "You will learn as you practice."
+12/30/24 10:35:34a Sprite asks, "Are you sure you would like to train with me?"
+12/30/24 10:35:36a Sprite says, "Hail, Cat Food."
+12/30/24 10:35:37a Sprite bows.
+12/30/24 10:35:37a Cat Food says, "yes"
+12/30/24 10:35:38a D'Ead is now Clanning.
+12/30/24 10:35:39a Sprite says, "You are a credit to our craft."
+12/30/24 10:35:39a * Sprite : 650-699.
+12/30/24 10:35:39a Sprite says, "I can teach you how to improve your spirit for healing."
+12/30/24 10:35:39a Sprite says, "You will learn as you practice."
+12/30/24 10:35:40a Sprite asks, "Are you sure you would like to train with me?"
+12/30/24 10:35:41a Cat Food says, "yes"
+12/30/24 10:35:41a Sprite says, "Welcome aboard. Go into the world and learn what you may, while practicing our craft."
+12/30/24 10:35:46a Cat Food says, "hmm"
+12/30/24 10:36:00a •Your healing spirit improves.
+12/30/24 10:36:00a Metta Sylpha says, "Hail, Cat Food. You have much to learn."
+12/30/24 10:36:00a * Metta : 0-9.
+12/30/24 10:36:00a Metta Sylpha says, "I can teach you to improve your walking self-heal."
+12/30/24 10:36:01a Metta Sylpha says, "You will learn as you practice."
+12/30/24 10:36:01a Metta Sylpha asks, "Are you sure you would like to train with me?"
+12/30/24 10:36:02a Daerdain thinks, "/shcads"
+12/30/24 10:36:03a Metta Sylpha says, "Just tell me yes or no, please."
+12/30/24 10:36:03a Cat Food says, "yes"
+12/30/24 10:36:03a Metta Sylpha says, "Welcome aboard. Go into the world and learn what you may, while practicing our craft."
+12/30/24 10:36:04a Metta Sylpha says, "Hail, Cat Food. You have much to learn."
+12/30/24 10:36:04a * Metta : 0-9.
+12/30/24 10:36:04a Metta Sylpha says, "I can teach you to improve your walking self-heal."
+12/30/24 10:36:12a • /SLEEP when you wish to begin studying.
+12/30/24 10:36:16a • /SLEEP when you wish to begin studying.
+12/30/24 10:36:18a Teysia says, "Greetings, Lord Cat Food."
+12/30/24 10:36:18a Teysia says, "You can practice your healing skills in this workroom."
+12/30/24 10:36:18a Teysia says, "You will learn from the company of other healers."
+12/30/24 10:36:19a Teysia says, "Work as long as you like."
+12/30/24 10:36:19a Teysia says, "But remember, you cannot learn as well if you never use what you have learned."
+12/30/24 10:36:40a Cat Food asks, "does metta have a cap?"
+12/30/24 10:36:46a Ephraim is no longer Clanning.
+12/30/24 10:37:08a • /SLEEP when you wish to begin studying.
+12/30/24 10:37:14a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/30/24 10:37:14a Aitnos asks, "Would you like to apply some of your learning to Metta Sylpha’s lessons?"
+12/30/24 10:37:16a Cat Food says, "yes"
+12/30/24 10:37:17a Aitnos says, "Congratulations, Cat Food. You should now understand much more of Metta Sylpha’s teachings."
+12/30/24 10:37:18a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/30/24 10:37:18a Aitnos asks, "Would you like to apply some of your learning to Metta Sylpha’s lessons?"
+12/30/24 10:37:19a Cat Food says, "yes"
+12/30/24 10:37:20a Aitnos says, "Congratulations, Cat Food. You should now understand much more of Metta Sylpha’s teachings."
+12/30/24 10:37:21a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/30/24 10:37:21a Aitnos asks, "Would you like to apply some of your learning to Metta Sylpha’s lessons?"
+12/30/24 10:37:22a Cat Food says, "yes"
+12/30/24 10:37:23a Aitnos says, "Congratulations, Cat Food. You should now understand much more of Metta Sylpha’s teachings."
+12/30/24 10:37:24a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/30/24 10:37:24a Aitnos asks, "Would you like to apply some of your learning to Metta Sylpha’s lessons?"
+12/30/24 10:37:25a Cat Food says, "yes"
+12/30/24 10:37:25a Aitnos says, "You have completed your training with Metta Sylpha."
+12/30/24 10:37:26a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/30/24 10:37:26a Aitnos asks, "Would you like to apply some of your learning to Metta Sylpha’s lessons?"
+12/30/24 10:37:30a • You can no longer train with Metta Sylpha.
+12/30/24 10:37:42a Cat Food says, "thats a yes"
+12/30/24 10:37:51a Respia says, "Hail, Cat Food. Teaching you is a challenge."
+12/30/24 10:37:51a * Respia : 200-249.
+12/30/24 10:38:01a AnQuart Faure says, "Hail, Cat Food. There is not much more I can teach you."
+12/30/24 10:38:01a * AnQuart : 250-299.
+12/30/24 10:38:01a AnQuart Faure says, "I can teach you the best ratio of healing speed to spirit recovery, about 1:4. (Don't listen to my brothers.)"
+12/30/24 10:38:02a AnQuart Faure says, "You will learn as you practice."
+12/30/24 10:38:02a AnQuart Faure asks, "Are you sure you would like to train with me?"
+12/30/24 10:38:02a Cat Food says, "yes"
+12/30/24 10:38:03a AnQuart Faure says, "Welcome aboard. Go into the world and learn what you may, while practicing our craft."
+12/30/24 10:38:04a AnQuart Faure says, "Hail, Cat Food. There is not much more I can teach you."
+12/30/24 10:38:04a * AnQuart : 250-299.
+12/30/24 10:38:18a • /SLEEP when you wish to begin studying.
+12/30/24 10:38:22a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/30/24 10:38:22a Aitnos asks, "Would you like to apply some of your learning to AnQuart Faure’s lessons?"
+12/30/24 10:38:24a Cat Food says, "yes"
+12/30/24 10:38:25a Aitnos says, "Congratulations, Cat Food. You should now understand much more of AnQuart Faure’s teachings."
+12/30/24 10:38:25a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/30/24 10:38:26a Aitnos asks, "Would you like to apply some of your learning to AnQuart Faure’s lessons?"
+12/30/24 10:38:27a Cat Food says, "yes"
+12/30/24 10:38:28a Aitnos says, "Congratulations, Cat Food. You should now understand much more of AnQuart Faure’s teachings."
+12/30/24 10:38:28a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/30/24 10:38:29a Aitnos asks, "Would you like to apply some of your learning to AnQuart Faure’s lessons?"
+12/30/24 10:38:30a Cat Food says, "yes"
+12/30/24 10:38:31a Aitnos says, "Congratulations, Cat Food. You should now understand much more of AnQuart Faure’s teachings."
+12/30/24 10:38:31a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/30/24 10:38:32a Aitnos asks, "Would you like to apply some of your learning to AnQuart Faure’s lessons?"
+12/30/24 10:38:32a Dee Runk Er is now Clanning.
+12/30/24 10:38:32a Cat Food says, "yes"
+12/30/24 10:38:33a Aitnos says, "Congratulations, Cat Food. You should now understand much more of AnQuart Faure’s teachings."
+12/30/24 10:38:34a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/30/24 10:38:34a Aitnos asks, "Would you like to apply some of your learning to AnQuart Faure’s lessons?"
+12/30/24 10:38:35a Cat Food says, "yes"
+12/30/24 10:38:36a Aitnos says, "Congratulations, Cat Food. You should now understand much more of AnQuart Faure’s teachings."
+12/30/24 10:38:37a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/30/24 10:38:37a Aitnos asks, "Would you like to apply some of your learning to AnQuart Faure’s lessons?"
+12/30/24 10:38:38a Cat Food says, "yes"
+12/30/24 10:38:39a Aitnos says, "Congratulations, Cat Food. You should now understand much more of AnQuart Faure’s teachings."
+12/30/24 10:38:40a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/30/24 10:38:40a Aitnos asks, "Would you like to apply some of your learning to AnQuart Faure’s lessons?"
+12/30/24 10:38:41a Cat Food says, "yes"
+12/30/24 10:38:42a Aitnos says, "Congratulations, Cat Food. You should now understand much more of AnQuart Faure’s teachings."
+12/30/24 10:38:43a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/30/24 10:38:43a Aitnos asks, "Would you like to apply some of your learning to AnQuart Faure’s lessons?"
+12/30/24 10:38:44a Cat Food says, "yes"
+12/30/24 10:38:45a Aitnos says, "Congratulations, Cat Food. You should now understand much more of AnQuart Faure’s teachings."
+12/30/24 10:38:45a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/30/24 10:38:46a Aitnos asks, "Would you like to apply some of your learning to AnQuart Faure’s lessons?"
+12/30/24 10:38:46a Cat Food says, "yes"
+12/30/24 10:38:47a Aitnos says, "Congratulations, Cat Food. You should now understand much more of AnQuart Faure’s teachings."
+12/30/24 10:38:48a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/30/24 10:38:48a Aitnos asks, "Would you like to apply some of your learning to AnQuart Faure’s lessons?"
+12/30/24 10:38:49a Cat Food says, "yes"
+12/30/24 10:38:50a Aitnos says, "Congratulations, Cat Food. You should now understand much more of AnQuart Faure’s teachings."
+12/30/24 10:38:51a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/30/24 10:38:51a Aitnos asks, "Would you like to apply some of your learning to AnQuart Faure’s lessons?"
+12/30/24 10:38:52a Cat Food says, "yes"
+12/30/24 10:38:53a Aitnos says, "Congratulations, Cat Food. You should now understand much more of AnQuart Faure’s teachings."
+12/30/24 10:38:54a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/30/24 10:38:54a Aitnos asks, "Would you like to apply some of your learning to AnQuart Faure’s lessons?"
+12/30/24 10:38:55a Cat Food says, "yes"
+12/30/24 10:38:56a Aitnos says, "Congratulations, Cat Food. You should now understand much more of AnQuart Faure’s teachings."
+12/30/24 10:38:56a Cat Food says, "yes"
+12/30/24 10:38:56a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/30/24 10:38:57a Aitnos asks, "Would you like to apply some of your learning to AnQuart Faure’s lessons?"
+12/30/24 10:38:57a Cat Food says, "yes"
+12/30/24 10:38:58a Aitnos says, "Congratulations, Cat Food. You should now understand much more of AnQuart Faure’s teachings."
+12/30/24 10:38:59a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/30/24 10:38:59a Aitnos asks, "Would you like to apply some of your learning to AnQuart Faure’s lessons?"
+12/30/24 10:39:01a Cat Food says, "yes"
+12/30/24 10:39:01a •You notice yourself recovering your energy and healing others faster.
+12/30/24 10:39:01a Aitnos says, "Congratulations, Cat Food. You should now understand much more of AnQuart Faure’s teachings."
+12/30/24 10:39:02a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/30/24 10:39:02a Aitnos asks, "Would you like to apply some of your learning to AnQuart Faure’s lessons?"
+12/30/24 10:39:03a Cat Food says, "yes"
+12/30/24 10:39:04a Aitnos says, "Congratulations, Cat Food. You should now understand much more of AnQuart Faure’s teachings."
+12/30/24 10:39:05a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/30/24 10:39:05a Aitnos asks, "Would you like to apply some of your learning to AnQuart Faure’s lessons?"
+12/30/24 10:39:06a Cat Food says, "yes"
+12/30/24 10:39:07a Aitnos says, "Congratulations, Cat Food. You should now understand more of AnQuart Faure’s teachings."
+12/30/24 10:39:07a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/30/24 10:39:08a Aitnos says, "You have not yet learned enough for AnQuart Faure’s lesson."
+12/30/24 10:39:08a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/30/24 10:39:09a Cat Food says, "yes"
+12/30/24 10:39:09a Aitnos says, "You have not yet learned enough for AnQuart Faure’s lesson."
+12/30/24 10:39:09a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/30/24 10:39:10a Aitnos says, "You have not yet learned enough for AnQuart Faure’s lesson."
+12/30/24 10:39:23a Respia says, "Hail, Cat Food. Teaching you has taught me much."
+12/30/24 10:39:23a * Respia : 300-349.
+12/30/24 10:39:24a Respia says, "I can teach you to recover spiritual energy faster."
+12/30/24 10:39:24a Respia says, "You will learn as you practice."
+12/30/24 10:39:27a Faustus says, "Hail, Cat Food. There is not much more I can teach you."
+12/30/24 10:39:27a * Faustus : 250-299.
+12/30/24 10:39:27a Faustus says, "I can teach you to improve your healing speed."
+12/30/24 10:39:28a Faustus says, "You will learn as you practice."
+12/30/24 10:39:39a Cat Food says, "hmm"
+12/30/24 10:39:41a • You gain experience from your adventures.
+12/30/24 10:39:43a Higgrus says, "Hail, Cat Food."
+12/30/24 10:39:43a Higgrus bows deeply.
+12/30/24 10:39:46a Higgrus says, "Hail, Cat Food."
+12/30/24 10:39:47a Higgrus bows deeply.
+12/30/24 10:39:49a Higgrus says, "You are truly a grand master."
+12/30/24 10:39:49a * Higgrus : 900-999.
+12/30/24 10:39:49a Higgrus says, "I can teach you to improve your physical well-being."
+12/30/24 10:39:49a Higgrus says, "You will learn as you practice."
+12/30/24 10:39:51a Sprite says, "Hail, Cat Food."
+12/30/24 10:39:51a Sprite bows.
+12/30/24 10:39:53a Sprite says, "You are a credit to our craft."
+12/30/24 10:39:53a * Sprite : 650-699.
+12/30/24 10:39:53a (Aurelie): 650-699
+12/30/24 10:39:54a Sprite says, "I can teach you how to improve your spirit for healing."
+12/30/24 10:39:54a Sprite says, "You will learn as you practice."
+12/30/24 10:39:57a Respia says, "Hail, Cat Food. Teaching you has taught me much."
+12/30/24 10:39:58a * Respia : 300-349.
+12/30/24 10:39:58a (Aurelie): 300-349
+12/30/24 10:39:58a Respia says, "I can teach you to recover spiritual energy faster."
+12/30/24 10:39:58a Respia says, "You will learn as you practice."
+12/30/24 10:39:59a Respia asks, "Are you sure you would like to train with me?"
+12/30/24 10:40:00a Sespus says, "Hail, Cat Food. Teaching you is a challenge."
+12/30/24 10:40:00a * Sespus : 200-249.
+12/30/24 10:40:00a (Aurelie): 200-249
+12/30/24 10:40:01a Sespus says, "I can teach you to increase your spiritual energy."
+12/30/24 10:40:01a Sespus says, "You will learn as you practice."
+12/30/24 10:40:03a Faustus says, "Hail, Cat Food. There is not much more I can teach you."
+12/30/24 10:40:03a * Faustus : 250-299.
+12/30/24 10:40:03a Faustus says, "I can teach you to improve your healing speed."
+12/30/24 10:40:03a (Aurelie): 250-299
+12/30/24 10:40:04a Faustus says, "You will learn as you practice."
+12/30/24 10:40:05a Faustus says, "Hail, Cat Food. There is not much more I can teach you."
+12/30/24 10:40:05a * Faustus : 250-299.
+12/30/24 10:40:05a (Aurelie): 250-299
+12/30/24 10:40:30a Glory says, "Welcome to the healer testing area."
+12/30/24 10:40:30a Glory says, "In a few moments I will fall, and hostile creatures will enter."
+12/30/24 10:40:31a Glory says, "Raise me successfully and live to complete the test."
+12/30/24 10:40:31a •You notice yourself recovering your energy and healing others faster.
+12/30/24 10:40:34a Cat Food ties Glory's shoelaces together.
+12/30/24 10:40:37a Glory tries to take a step.
+12/30/24 10:40:58a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/30/24 10:40:58a Cat Food has fallen to an Ice Maha Ruknee.
+12/30/24 10:40:58a •Your injuries are serious.
+12/30/24 10:40:58a Glory yells, "So very close! You'll do it next time, I'm sure."
+12/30/24 10:41:00a Glory yells, "Regrettably, Cat Food, you have failed."
+12/30/24 10:41:00a Glory sighs.
+12/30/24 10:41:01a Glory yells, "Try again when you are a little stronger or wiser."
+12/30/24 10:41:26a Cat Food says, "heh if i had a ring would passed"
+12/30/24 10:41:30a Repetun says, "Greetings, Lord Cat Food."
+12/30/24 10:41:30a Repetun says, "If you wish, I can exchange your fifth-circle badge for a fourth-circle one."
+12/30/24 10:41:38a Cat Food says, "almost 6th"
+12/30/24 10:41:43a Aurelie asks, "You don't have a ring?"
+12/30/24 10:41:55a Cat Food says, "made this guy in 2014"
+12/30/24 10:42:02a •You notice yourself recovering your energy and healing others faster.
+12/30/24 10:42:13a Cat Food says, "its fine i can buy the stufff :P"
+12/30/24 10:42:13a Vystle is no longer Clanning.
+12/30/24 10:42:20a Aurelie picks up a sylphstone ring.
+12/30/24 10:42:24a Aurelie says, "Alriiiiight"
+12/30/24 10:42:26a (Aurelie grins.)
+12/30/24 10:42:27a Cat Food says, "thanks tho :)"
+12/30/24 10:43:10a Magnic is now Clanning.
+12/30/24 10:43:26a Magnic hands you 2000 coins.
+12/30/24 10:43:33a •You notice yourself recovering your energy and healing others faster.
+12/30/24 10:43:35a Magnic is no longer Clanning.
+12/30/24 10:43:53a Faticus is now Clanning.
+12/30/24 10:44:06a • Faticus offers you a selenite crystal for free.
+12/30/24 10:44:06a To accept, \BUY 0 Faticus.
+12/30/24 10:44:07a Faticus hands you a selenite crystal.
+12/30/24 10:44:14a Faticus is no longer Clanning.
+12/30/24 10:44:33a Sylpha says, "Hail, Cat Food. There is nothing I can teach you."
+12/30/24 10:44:33a * Sylpha : MAXED.
+12/30/24 10:44:40a Stonesa says, "I can sell you a sylphstone ring."
+12/30/24 10:44:40a Stonesa says, "You will not be able to use it until you train quite a bit with Sylpha."
+12/30/24 10:44:41a Stonesa asks, "Cat Food, would you like to buy a sylphstone ring for 240 coins?"
+12/30/24 10:44:43a Cat Food says, "yes"
+12/30/24 10:44:43a Stonesa says, "There you go, Cat Food."
+12/30/24 10:44:46a You equip your sylphstone ring.
+12/30/24 10:44:46a The healing spell has started.
+12/30/24 10:44:55a Radium says, "Hail, Cat Food. You have much to learn."
+12/30/24 10:44:55a * Radium : 0-9.
+12/30/24 10:44:55a Radium says, "I can teach you to heal multiple people in your vicinity."
+12/30/24 10:45:03a •You notice yourself recovering your energy and healing others faster.
+12/30/24 10:45:06a Evats Daret says, "Greetings, Cat Food."
+12/30/24 10:45:07a Evats Daret says, "For 300 coins, I can give you a mercurial staff in exchange for your caduceus."
+12/30/24 10:45:07a Evats Daret says, "You don't have the some raw materials I need, though."
+12/30/24 10:45:08a Evats Daret says, "Greetings, Cat Food."
+12/30/24 10:45:08a Evats Daret says, "For 300 coins, I can give you a mercurial staff in exchange for your caduceus."
+12/30/24 10:45:09a Evats Daret says, "You don't have the some raw materials I need, though."
+12/30/24 10:45:22a • You gain experience from your adventures.
+12/30/24 10:45:22a Galena says, "I can sell you a caduceus."
+12/30/24 10:45:22a Galena says, "You should train with Proximus to use it more effectively."
+12/30/24 10:45:23a Galena asks, "Cat Food, would you like to buy a caduceus for 1000 coins?"
+12/30/24 10:45:25a Cat Food says, "yes"
+12/30/24 10:45:25a Galena says, "There you go, Cat Food."
+12/30/24 10:45:32a Evats Daret says, "Greetings, Cat Food."
+12/30/24 10:45:33a Evats Daret says, "For 300 coins, I can give you a mercurial staff in exchange for your caduceus."
+12/30/24 10:45:33a Asenath is now Clanning.
+12/30/24 10:45:33a Evats Daret asks, "Would you like me to do that?"
+12/30/24 10:45:35a Cat Food says, "yes"
+12/30/24 10:45:36a Evats Daret says, "There you go. Have a nice day."
+12/30/24 10:45:40a Shreem Batoon says, "Cat Food, you already have a mercurial staff."
+12/30/24 10:45:41a Shreem Batoon says, "Cat Food, you already have a mercurial staff."
+12/30/24 10:45:42a Shreem Batoon says, "Cat Food, you already have a mercurial staff."
+12/30/24 10:45:43a Salandra thinks, "SW corner"
+12/30/24 10:45:44a Shanjeh Da'vih says, "I would be happy to trade you a caduceus for your mercurial staff."
+12/30/24 10:45:44a Shanjeh Da'vih asks, "Would you like me to do that?"
+12/30/24 10:45:51a Chiron says, "I can create an asklepian from a caduceus and a selenite crystal."
+12/30/24 10:45:52a Chiron says, "I ask 750 coins for my work."
+12/30/24 10:45:52a Chiron says, "Rady Ann can extoll the virtues of what I craft, provided your continued interest."
+12/30/24 10:45:53a Chiron asks, "Have you interest in acquisitioning my handiwork?"
+12/30/24 10:45:55a Cat Food says, "yes"
+12/30/24 10:45:55a Chiron says, "You'll need more coins first."
+12/30/24 10:45:56a Chiron says, "I can create an asklepian from a caduceus and a selenite crystal."
+12/30/24 10:45:56a Chiron says, "I ask 750 coins for my work."
+12/30/24 10:45:57a Chiron says, "Rady Ann can extoll the virtues of what I craft, provided your continued interest."
+12/30/24 10:45:57a Chiron asks, "Have you interest in acquisitioning my handiwork?"
+12/30/24 10:45:58a Chiron says, "All right, maybe later."
+12/30/24 10:46:13a You equip your selenite crystal.
+12/30/24 10:46:20a Shanjeh Da'vih says, "I would be happy to trade you a caduceus for your mercurial staff."
+12/30/24 10:46:20a Shanjeh Da'vih asks, "Would you like me to do that?"
+12/30/24 10:46:22a Cat Food says, "yes"
+12/30/24 10:46:22a Shanjeh Da'vih says, "There you go. Have a nice day."
+12/30/24 10:46:25a Chiron says, "I can create an asklepian from a caduceus and a selenite crystal."
+12/30/24 10:46:26a Chiron says, "I ask 750 coins for my work."
+12/30/24 10:46:26a Chiron says, "Rady Ann can extoll the virtues of what I craft, provided your continued interest."
+12/30/24 10:46:27a Chiron asks, "Have you interest in acquisitioning my handiwork?"
+12/30/24 10:46:28a Cat Food says, "yes"
+12/30/24 10:46:28a Chiron says, "You'll need more coins first."
+12/30/24 10:46:29a Chiron says, "I can create an asklepian from a caduceus and a selenite crystal."
+12/30/24 10:46:29a Chiron says, "I ask 750 coins for my work."
+12/30/24 10:46:30a Chiron says, "Rady Ann can extoll the virtues of what I craft, provided your continued interest."
+12/30/24 10:46:33a You have 498 coins.
+12/30/24 10:46:34a •You notice yourself recovering your energy and healing others faster.
+12/30/24 10:46:43a You slip your selenite crystal into your backpack.
+12/30/24 10:47:07a Magnic is now Clanning.
+12/30/24 10:47:13a Ravenstorm is now Clanning.
+12/30/24 10:47:27a Magnic hands you 2000 coins.
+12/30/24 10:47:33a Yalah is now Clanning.
+12/30/24 10:47:35a Pendarric is now Clanning.
+12/30/24 10:47:38a Magnic is no longer Clanning.
+12/30/24 10:47:47a Yalah is no longer Clanning.
+12/30/24 10:47:54a Chiron says, "I can create an asklepian from a caduceus and a selenite crystal."
+12/30/24 10:47:54a Chiron says, "I ask 750 coins for my work."
+12/30/24 10:47:55a Chiron says, "Rady Ann can extoll the virtues of what I craft, provided your continued interest."
+12/30/24 10:47:55a Chiron asks, "Have you interest in acquisitioning my handiwork?"
+12/30/24 10:47:59a Cat Food says, "yes"
+12/30/24 10:47:59a Chiron says, "I've finished your asklepian. May its utility mirror my pleasure in its creation."
+12/30/24 10:48:00a Chiron says, "I can create an asklepian from a caduceus and a selenite crystal."
+12/30/24 10:48:00a Salandra is no longer Clanning.
+12/30/24 10:48:00a Chiron says, "I ask 750 coins for my work."
+12/30/24 10:48:00a Chiron says, "Rady Ann can extoll the virtues of what I craft, provided your continued interest."
+12/30/24 10:48:01a Chiron asks, "Have you interest in acquisitioning my handiwork?"
+12/30/24 10:48:01a Chiron says, "All right, maybe later."
+12/30/24 10:48:02a Elaph Sisima says, "Greetings."
+12/30/24 10:48:03a Elaph Sisima says, "I can create an asklepian staff out of a mercurial staff and a selenite crystal."
+12/30/24 10:48:03a Elaph Sisima says, "I charge a nominal fee of 750 coins for my services."
+12/30/24 10:48:04a Elaph Sisima says, "What does it do? Do I look like a scholar? I just make things. Talk to Rady."
+12/30/24 10:48:04a Elaph Sisima asks, "Are you interested?"
+12/30/24 10:48:05a Elaph Sisima says, "All right, maybe later."
+12/30/24 10:48:17a Rady Ann says, "Greetings, Lord Cat Food."
+12/30/24 10:48:17a Rady Ann says, "I can tell you a bit about the asklepian, if you want to hear it."
+12/30/24 10:48:17a Rady Ann says, "An asklepian can be used to heal everyone within range of you who is also sharing you."
+12/30/24 10:48:18a Rady Ann says, "Training with Radium will improve this range."
+12/30/24 10:48:18a Rady Ann says, "The teaching of Proximus is only tangentially related, but it can also be applied to small effect."
+12/30/24 10:48:19a Rady Ann says, "A bit less than your healing speed with a moonstone is split evenly among everyone in range."
+12/30/24 10:48:41a Shreem Batoon says, "I have a supply of mercurial staves for sale."
+12/30/24 10:48:41a Shreem Batoon says, "These staves let you heal people from far away, or heal them quickly with a touch."
+12/30/24 10:48:41a Shreem Batoon says, "My colleague will trade you a mercurial staff for a caduceus, if you prefer."
+12/30/24 10:48:42a Shreem Batoon asks, "Cat Food, would you like to buy a mercurial staff for 1300 coins?"
+12/30/24 10:48:55a Elaph Sisima says, "Greetings."
+12/30/24 10:48:56a Elaph Sisima says, "I can create an asklepian staff out of a mercurial staff and a selenite crystal."
+12/30/24 10:48:56a Elaph Sisima says, "I charge a nominal fee of 750 coins for my services."
+12/30/24 10:48:57a Elaph Sisima says, "What does it do? Do I look like a scholar? I just make things. Talk to Rady."
+12/30/24 10:48:57a Elaph Sisima asks, "Are you interested?"
+12/30/24 10:49:05a Elaph Sisima says, "All right, maybe later."
+12/30/24 10:49:08a You have 1748 coins.
+12/30/24 10:49:18a Pendarric is no longer Clanning.
+12/30/24 10:49:32a Shreem Batoon says, "I have a supply of mercurial staves for sale."
+12/30/24 10:49:33a Shreem Batoon says, "These staves let you heal people from far away, or heal them quickly with a touch."
+12/30/24 10:49:33a Shreem Batoon says, "My colleague will trade you a mercurial staff for a caduceus, if you prefer."
+12/30/24 10:49:34a Shreem Batoon asks, "Cat Food, would you like to buy a mercurial staff for 1300 coins?"
+12/30/24 10:49:35a Cat Food says, "yes"
+12/30/24 10:49:35a Shreem Batoon says, "There you go, Cat Food."
+12/30/24 10:49:39a Elaph Sisima says, "Greetings."
+12/30/24 10:49:40a Elaph Sisima says, "I can create an asklepian staff out of a mercurial staff and a selenite crystal."
+12/30/24 10:49:40a Elaph Sisima says, "I charge a nominal fee of 750 coins for my services."
+12/30/24 10:49:40a Elaph Sisima says, "What does it do? Do I look like a scholar? I just make things. Talk to Rady."
+12/30/24 10:49:41a Elaph Sisima asks, "Are you interested?"
+12/30/24 10:49:44a Cat Food says, "yes"
+12/30/24 10:49:44a Elaph Sisima says, "You'll need more coins first."
+12/30/24 10:49:45a Elaph Sisima says, "Greetings."
+12/30/24 10:49:45a Elaph Sisima says, "I can create an asklepian staff out of a mercurial staff and a selenite crystal."
+12/30/24 10:49:46a Elaph Sisima says, "I charge a nominal fee of 750 coins for my services."
+12/30/24 10:49:46a Elaph Sisima says, "What does it do? Do I look like a scholar? I just make things. Talk to Rady."
+12/30/24 10:50:08a You equip your asklepian.
+12/30/24 10:50:31a Ossian is now Clanning.
+12/30/24 10:50:40a Cat Food asks, "can you upgrade a Askleplan to Askleplan Staff?"
+12/30/24 10:50:53a Kyoko is now Clanning.
+12/30/24 10:51:20a You show your dull sunpebble to everyone.
+12/30/24 10:51:28a Cat Food says, "do these still exist :P"
+12/30/24 10:51:28a Maekoh is now Clanning.
+12/30/24 10:51:32a Coroner is now Clanning.
+12/30/24 10:52:35a A monster growls, "Kill!"
+12/30/24 10:52:38a Kyoko says, "squib heal me"
+12/30/24 10:52:43a A monster growls, "Die!"
+12/30/24 10:52:47a Koppi yells, "Shakyamuni reports: There's no place like GNOME! save the gnomes"
+12/30/24 10:52:48a Naferu growls, "marathon hunt"
+12/30/24 10:53:04a Kyoko says, "squib heal me"
+12/30/24 10:53:11a •The player must be in the same area.
+12/30/24 10:53:15a A monster growls, "Die!"
+12/30/24 10:53:29a Biro growls, "another snack"
+12/30/24 10:53:41a Biro growls, "premium roadkill right here"
+12/30/24 10:53:51a •You do not have enough spiritual energy.
+12/30/24 10:53:58a Naferu growls, "good guard wasp"
+12/30/24 10:54:03a Yum is no longer Clanning.
+12/30/24 10:54:09a (Biro nods)
+12/30/24 10:54:13a •You do not have enough spiritual energy.
+12/30/24 10:54:15a Biro growls, "doesn't seem very strong"
+12/30/24 10:54:22a Biro growls, "but it does the weird toise double swing, so that is interesting"
+12/30/24 10:54:25a Naferu growls, "for how high ya"
+12/30/24 10:54:30a Naferu growls, "o?"
+12/30/24 10:54:37a Biro growls, "first 2 swing fast"
+12/30/24 10:54:38a Biro growls, "then slow"
+12/30/24 10:54:42a •You do not have enough spiritual energy.
+12/30/24 10:54:43a Naferu growls, "o"
+12/30/24 10:54:55a Biro growls, "catbear v stronk"
+12/30/24 10:54:59a Biro growls, "bit high"
+12/30/24 10:55:04a Biro growls, "maybe we qual bears around the same time lol"
+12/30/24 10:55:07a Dee Runk Er says, "are"
+12/30/24 10:55:08a Naferu says, "ya long way off"
+12/30/24 10:55:20a Biro growls, "1030 to 1220 is a reasonable jump right"
+12/30/24 10:55:27a •You sense healing energy from Bulgatra.
+12/30/24 10:55:33a (Bulgatra thooms)
+12/30/24 10:55:35a Bulgatra exclaims, "good hunt!"
+12/30/24 10:55:38a Bulgatra exclaims, "long hunt!"
+12/30/24 10:55:38a Biro growls, "8yessss"
+12/30/24 10:55:42a Biro growls, "also yes"
+12/30/24 10:55:45a Nuckin Futz is no longer Clanning.
+12/30/24 10:55:53a The aura of magic surrounding Asenath fades...
+12/30/24 10:55:53a Dee Runk Er says, "areyou guys doing a hunt"
+12/30/24 10:56:07a Ponyo is no longer Clanning.
+12/30/24 10:56:08a Bulgatra is no longer Clanning.
+12/30/24 10:56:10a Cat Food says, "i think they just finshed one"
+12/30/24 10:56:13a Biro growls, "we have been fighting giant trees for the past 12 or so hours"
+12/30/24 10:56:19a Dee Runk Er says, "oh ok"
+12/30/24 10:56:20a Naferu says, "yeah"
+12/30/24 10:56:21a Shadowmutt growls, "Grrr."
+12/30/24 10:56:34a Biro growls, "i became one with the garbage"
+12/30/24 10:56:41a Garfield is no longer Clanning.
+12/30/24 10:56:45a Naferu says, "trshbdg"
+12/30/24 10:56:45a Cecil says, "night"
+12/30/24 10:56:46a (Biro waves!)
+12/30/24 10:56:48a Jack Ironsmith is now Clanning.
+12/30/24 10:56:48a (Naferu waves)
+12/30/24 10:56:56a Biro is no longer Clanning.
+12/30/24 10:56:59a Cecil is no longer Clanning.
+12/30/24 10:57:00a Naferu is no longer Clanning.
+12/30/24 10:57:03a Cat Food asks, "can you upgrade a Askleplan to Askleplan Staff?"
+12/30/24 10:57:07a Lithia Akka says, "Greetings, Giben. I am collecting building materials and coins for a beautiful fountain for town center."
+12/30/24 10:57:07a Lithia Akka says, "It’s going well; you can pretty much see the final shape now."
+12/30/24 10:57:07a Lithia Akka says, "To donate materials, hold out a piece of wood, stone or metal, or hold your money- purse to donate 500 coins."
+12/30/24 10:57:08a Lithia Akka asks, "How many of your stones do you want to donate?"
+12/30/24 10:57:08a Lithia Akka gives Giben 3 coins for the stone.
+12/30/24 10:57:08a Giben says, "2"
+12/30/24 10:57:09a Lithia Akka says, "Excellent! This will help our building efforts along."
+12/30/24 10:57:09a Lithia Akka says, "Any more help you could provide would be greatly appreciated."
+12/30/24 10:57:27a Asenath says, "no, I dont think you can"
+12/30/24 10:57:27a Dee Runk Er says, "i was gust askig."
+12/30/24 10:57:31a Lifesaver is now Clanning.
+12/30/24 10:57:40a Shadowmutt growls, "Grrr."
+12/30/24 10:57:46a Cat Food says, "welp wasted a crystal"
+12/30/24 10:57:56a Asenath says, "try to trade someone"
+12/30/24 10:57:58a Koppi yells, "Clemence reports: Fledgling hunt on Wednesdays at 6PM PST! Come fall with us with new and old characters!"
+12/30/24 10:58:17a Jack Ironsmith asks, "something got wasted?"
+12/30/24 10:58:41a Cat Food says, "made an asklepian instead of the staff version"
+12/30/24 10:59:04a Vystle is now Clanning.
+12/30/24 10:59:21a • /SLEEP when you wish to begin studying.
+12/30/24 10:59:22a Edric says, "Greetings, Lord Cat Food."
+12/30/24 10:59:28a Use \SLEEP again when you return.
+12/30/24 10:59:29a You are done adventuring for a while and will be staying here.
+12/30/24 10:59:29a You have been disconnected from Clan Lord.
+12/30/24 10:59:30a • You will benefit from staying here while you are off-line.
+12/30/24 10:59:30a *** We are no longer connected to the Clan Lord game server. ***

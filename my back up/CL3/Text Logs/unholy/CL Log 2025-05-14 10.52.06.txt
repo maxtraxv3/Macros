@@ -1,0 +1,176 @@
+
+5/14/25 10:52:07a * Your healer's cloak is in very good condition.
+5/14/25 10:52:07a Welcome to Clan Lord, Unholy!
+5/14/25 10:52:07a Type \HELP for a list of commands.
+5/14/25 10:52:07a • You gain experience from your recent studies.
+5/14/25 10:52:07a *Healer Mode
+5/14/25 10:52:07a *Type /hi help for more info
+5/14/25 10:52:07a You have been studying for one day, 15 hours, 51 minutes.
+5/14/25 10:52:10a It's 6:49pm on Merdi, day 29 of Summer, 641.
+5/14/25 10:52:11a Friends online: none.
+5/14/25 10:52:11a There are three members of Black Phoenix clanning: Aldo Edward, Omega Phoenix and you.
+5/14/25 10:52:11a • What’s New: https://deltatao.com/clanlord/news
+5/14/25 10:52:14a * Healer Item set to moonstone 
+5/14/25 10:52:21a You equip your caduceus.
+5/14/25 10:52:21a You must equip your moonstone before it can be used.
+5/14/25 10:52:21a You must equip your moonstone before it can be used.
+5/14/25 10:52:21a * Tip of the day: Choose “Save Text Log” from the Options menu to start saving the log to a text file. (Use /OPTIONS to turn tips off.)
+5/14/25 10:52:22a * Healer Item set to caduceus 
+5/14/25 10:52:22a You must equip your moonstone before it can be used.
+5/14/25 10:52:23a You must equip your moonstone before it can be used.
+5/14/25 10:52:23a You must equip your moonstone before it can be used.
+5/14/25 10:52:50a * Healing AldoEdward 
+5/14/25 10:52:57a •Your healing is blocked.
+5/14/25 10:53:34a * Auto Healer ON!
+5/14/25 10:54:24a Aldo Edward says, "c heal me"
+5/14/25 10:54:45a Aldo Edward says, "c heal me"
+5/14/25 10:55:06a * Healing AldoEdward 
+5/14/25 10:55:11a •Aldo Edward is too far away.
+5/14/25 10:55:32a * Healing AldoEdward 
+5/14/25 10:55:37a •Aldo Edward’s injuries were serious.
+5/14/25 10:55:42a •Aldo Edward’s injuries were serious.
+5/14/25 10:55:52a You have 232 coins.
+5/14/25 10:55:58a * Healing Unholy 
+5/14/25 10:55:58a •You cannot use your caduceus on yourself.
+5/14/25 10:55:58a You equip your moonstone.
+5/14/25 10:55:58a •The healing spell has been broken.
+5/14/25 10:56:24a * Healing AldoEdward 
+5/14/25 10:56:24a You equip your caduceus.
+5/14/25 10:56:24a You must equip your moonstone before it can be used.
+5/14/25 10:56:25a •Aldo Edward was too wounded to be healed easily.
+5/14/25 10:56:30a •Aldo Edward was too wounded to be healed easily.
+5/14/25 10:56:32a •You do not have enough spiritual energy.
+5/14/25 10:56:36a •The healing spell has been broken.
+5/14/25 10:56:36a * Healing Unholy 
+5/14/25 10:56:36a •You cannot use your caduceus on yourself.
+5/14/25 10:56:37a You equip your moonstone.
+5/14/25 10:57:07a * Healing AldoEdward 
+5/14/25 10:57:08a You equip your caduceus.
+5/14/25 10:57:09a You must equip your moonstone before it can be used.
+5/14/25 10:57:09a •Aldo Edward was too wounded to be healed easily.
+5/14/25 10:57:16a •Your healing is blocked.
+5/14/25 10:58:03a * Healing AldoEdward 
+5/14/25 10:58:04a •Aldo Edward was too wounded to be healed easily.
+5/14/25 10:58:06a A Rat plucks at Aldo Edward's organs.
+5/14/25 10:58:13a •Your healing is blocked.
+5/14/25 10:58:54a * Healing AldoEdward 
+5/14/25 10:58:54a •Aldo Edward was too wounded to be healed easily.
+5/14/25 10:59:01a •The player must be in the same area.
+5/14/25 10:59:04a * Healing Unholy 
+5/14/25 10:59:05a •You cannot use your caduceus on yourself.
+5/14/25 10:59:05a You equip your moonstone.
+5/14/25 10:59:33a * Healing AldoEdward 
+5/14/25 10:59:33a You equip your caduceus.
+5/14/25 10:59:34a You must equip your moonstone before it can be used.
+5/14/25 10:59:41a •The player must be in the same area.
+5/14/25 10:59:48a You have 232 coins.
+5/14/25 11:00:29a * Healing AldoEdward 
+5/14/25 11:00:33a •Your healing is blocked.
+5/14/25 11:00:35a * Healing Unholy 
+5/14/25 11:00:36a •You cannot use your caduceus on yourself.
+5/14/25 11:00:36a You equip your moonstone.
+5/14/25 11:00:41a * Healing AldoEdward 
+5/14/25 11:00:41a You equip your caduceus.
+5/14/25 11:00:41a You must equip your moonstone before it can be used.
+5/14/25 11:00:42a •Your healing is blocked.
+5/14/25 11:01:22a Aldo Edward is sharing experiences with you.
+5/14/25 11:01:39a * Healing AldoEdward 
+5/14/25 11:01:43a •Your healing is blocked.
+5/14/25 11:01:59a Aldo Edward says, "c heal me"
+5/14/25 11:02:10a Aldo Edward says, "c heal me"
+5/14/25 11:02:34a * Healing Unholy 
+5/14/25 11:02:34a •You cannot use your caduceus on yourself.
+5/14/25 11:02:35a You equip your moonstone.
+5/14/25 11:02:38a * Healing AldoEdward 
+5/14/25 11:02:39a You equip your caduceus.
+5/14/25 11:02:40a You must equip your moonstone before it can be used.
+5/14/25 11:02:41a •Your healing is blocked.
+5/14/25 11:04:05a * Healing AldoEdward 
+5/14/25 11:04:10a •Your healing is blocked.
+5/14/25 11:04:12a You have 232 coins.
+5/14/25 11:04:13a * Healing Unholy 
+5/14/25 11:04:13a •You cannot use your caduceus on yourself.
+5/14/25 11:04:14a You equip your moonstone.
+5/14/25 11:04:24a * Healing AldoEdward 
+5/14/25 11:04:24a You equip your caduceus.
+5/14/25 11:04:25a You must equip your moonstone before it can be used.
+5/14/25 11:04:26a •Your healing is blocked.
+5/14/25 11:06:20a * Healing AldoEdward 
+5/14/25 11:06:23a •Your healing is blocked.
+5/14/25 11:06:24a * Healing Unholy 
+5/14/25 11:06:24a •You cannot use your caduceus on yourself.
+5/14/25 11:06:25a You equip your moonstone.
+5/14/25 11:06:27a * Healing AldoEdward 
+5/14/25 11:06:28a You equip your caduceus.
+5/14/25 11:06:28a You must equip your moonstone before it can be used.
+5/14/25 11:07:41a * Healing AldoEdward 
+5/14/25 11:07:44a •Your healing is blocked.
+5/14/25 11:08:22a * Healing AldoEdward 
+5/14/25 11:08:25a •Your healing is blocked.
+5/14/25 11:08:27a * Healing Unholy 
+5/14/25 11:08:28a •You cannot use your caduceus on yourself.
+5/14/25 11:08:28a You equip your moonstone.
+5/14/25 11:08:33a * Healing AldoEdward 
+5/14/25 11:08:33a You equip your caduceus.
+5/14/25 11:08:33a You have 232 coins.
+5/14/25 11:08:34a You must equip your moonstone before it can be used.
+5/14/25 11:08:34a •Your healing is blocked.
+5/14/25 11:09:53a •The Sun sets.
+5/14/25 11:10:02a * Healing AldoEdward 
+5/14/25 11:10:09a •Your healing is blocked.
+5/14/25 11:11:37a * Healing AldoEdward 
+5/14/25 11:11:41a •Your healing is blocked.
+5/14/25 11:11:43a * Healing Unholy 
+5/14/25 11:11:43a •You cannot use your caduceus on yourself.
+5/14/25 11:11:44a You equip your moonstone.
+5/14/25 11:11:47a * Healing AldoEdward 
+5/14/25 11:11:47a You equip your caduceus.
+5/14/25 11:11:47a You must equip your moonstone before it can be used.
+5/14/25 11:11:48a •Your healing is blocked.
+5/14/25 11:12:52a * Healing AldoEdward 
+5/14/25 11:12:54a •Your healing is blocked.
+5/14/25 11:12:59a You have 232 coins.
+5/14/25 11:14:01a * Healing AldoEdward 
+5/14/25 11:14:04a •Your healing is blocked.
+5/14/25 11:15:14a * Healing AldoEdward 
+5/14/25 11:15:16a •You learn from healing.
+5/14/25 11:15:19a •Aldo Edward is too far away.
+5/14/25 11:15:39a * Healing AldoEdward 
+5/14/25 11:15:46a •You do not have enough spiritual energy.
+5/14/25 11:16:09a * Healing Unholy 
+5/14/25 11:16:09a •You cannot use your caduceus on yourself.
+5/14/25 11:16:09a You equip your moonstone.
+5/14/25 11:17:34a You have 232 coins.
+5/14/25 11:17:45a * Healing AldoEdward 
+5/14/25 11:17:45a You equip your caduceus.
+5/14/25 11:17:46a You must equip your moonstone before it can be used.
+5/14/25 11:17:52a •Your healing is blocked.
+5/14/25 11:18:33a * Healing AldoEdward 
+5/14/25 11:18:39a •Your healing is blocked.
+5/14/25 11:19:06a * Healing AldoEdward 
+5/14/25 11:19:09a •Your healing is blocked.
+5/14/25 11:19:10a * Healing Unholy 
+5/14/25 11:19:10a •You cannot use your caduceus on yourself.
+5/14/25 11:19:10a You equip your moonstone.
+5/14/25 11:19:12a * Healing AldoEdward 
+5/14/25 11:19:13a You equip your caduceus.
+5/14/25 11:19:13a You must equip your moonstone before it can be used.
+5/14/25 11:20:35a Koppi yells, "Athl reports: I can safely report that there will be an inquest into Ranoora and his deceitful business practices within the halls of the casino. Ofcourse this is pure speculation, and I have no proof... But my whiskers are tinglin'."
+5/14/25 11:21:36a You have 232 coins.
+5/14/25 11:22:20a * Healing AldoEdward 
+5/14/25 11:22:24a •Your healing is blocked.
+5/14/25 11:24:03a Crius yells, "It’s 9 o’clock, and all’s well."
+5/14/25 11:24:09a Crius yells, "There’s good hunting in Puddleby."
+5/14/25 11:25:19a * Healing AldoEdward 
+5/14/25 11:25:24a •Your healing is blocked.
+5/14/25 11:25:27a Jeepers ponders, "Tuska OWE"
+5/14/25 11:25:40a Jeepers says, "Something....."
+5/14/25 11:25:46a Koppi yells, "Athl reports: I can safely report that there will be an inquest into Ranoora and his deceitful business practices within the halls of the casino. Ofcourse this is pure speculation, and I have no proof... But my whiskers are tinglin'."
+5/14/25 11:25:53a You have 232 coins.
+5/14/25 11:25:58a Jeepers says, "Something sad."
+5/14/25 11:29:19a Jeepers says, "Lovely."
+5/14/25 11:29:54a •••
+5/14/25 11:29:54a You have been idle for too long.
+5/14/25 11:29:54a Please do something to avoid being disconnected.
+5/14/25 11:29:54a •••
+5/14/25 11:29:58a You have 232 coins.

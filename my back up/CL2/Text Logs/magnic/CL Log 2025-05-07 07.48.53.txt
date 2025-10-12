@@ -1,0 +1,167 @@
+
+5/7/25 7:48:54a * Your pair of pants named “dark grey” is in very good condition.
+5/7/25 7:48:54a * Your pair of shoes named “red” is in very good condition.
+5/7/25 7:48:54a * Your shirt named “dark grey” is in very good condition.
+5/7/25 7:48:54a Welcome to Clan Lord, Magnic!
+5/7/25 7:48:54a Type \HELP for a list of commands.
+5/7/25 7:48:54a • You have been charged 251 coins for advanced studies.
+5/7/25 7:48:54a • You gain experience from your recent studies.
+5/7/25 7:48:54a You have been studying for 8 days, 5 hours, 52 minutes.
+5/7/25 7:48:57a It's 3:03pm on Terrdi, day 90 of Spring, 641.
+5/7/25 7:48:58a There are two members of Black Phoenix clanning: Magnic II and you.
+5/7/25 7:48:58a • What’s New: https://deltatao.com/clanlord/news
+5/7/25 7:49:00a Friends online: none.
+5/7/25 7:49:02a •You assume the shape of a Giant Carnivorous Plankton.
+5/7/25 7:49:03a You equip your heartwood charm.
+5/7/25 7:49:03a • You gather your energy.
+5/7/25 7:49:06a • You speed up.
+5/7/25 7:49:08a * Tip of the day: Command-click on someone to select them, for use in a command. (Use /OPTIONS to turn tips off.)
+5/7/25 7:49:23a • You slow down to normal speed.
+5/7/25 7:49:24a • You return to your normal form.
+5/7/25 7:49:24a You slip your heartwood charm into your backpack.
+5/7/25 7:49:25a Captain Barnac asks, "Ah, Magnic. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+5/7/25 7:49:25a Magnic whispers, "yes"
+5/7/25 7:49:43a Katreesa thinks, "q"
+5/7/25 7:49:48a •You learn how to better utilize your gossamer.
+5/7/25 7:49:53a You don't seem to see Catan anywhere near here.
+5/7/25 7:49:58a You don't seem to see Catan anywhere near here.
+5/7/25 7:50:08a You don't seem to see Catan anywhere near here.
+5/7/25 7:50:25a You have no 'shieldstone' to equip.
+5/7/25 7:50:25a You have no 'shieldstone' to use.
+5/7/25 7:50:30a You hand Catan a single coin. You have 1503 remaining.
+5/7/25 7:51:09a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+5/7/25 7:51:10a Magnic has fallen to a mudball.
+5/7/25 7:51:35a Magnic yells, "it switched cleints on me"
+5/7/25 7:51:55a Magnic yells, "brb"
+5/7/25 7:51:58a Your spirit has departed your body 456 times.
+5/7/25 7:52:01a \MOVE <DIRECTION> <SPEED> causes your character to move in direction at speed. Speed may be STOP, WALK, or RUN.  Subcommands: N, NORTH, NE, NORTHEAST, E, EAST, SE, SOUTHEAST, S, SOUTH, SW, SOUTHWEST, W, WEST, NW, NORTHWEST, STOP.
+5/7/25 7:52:05a You have 1503 coins.
+5/7/25 7:53:10a You just received anonymous good karma.
+5/7/25 7:53:22a You have a thimbleful of good karma, and you have given a spoonful of good karma. You have no karma to give.
+5/7/25 7:54:02a •You sense healing energy from Mimo.
+5/7/25 7:54:05a You begin sharing your experiences with Mimo.
+5/7/25 7:54:23a Tasus thinks to you, "You guys good over there?"
+5/7/25 7:54:42a •You assume the shape of a Giant Carnivorous Plankton.
+5/7/25 7:54:43a You equip your heartwood charm.
+5/7/25 7:54:43a • You gather your energy.
+5/7/25 7:54:46a • You speed up.
+5/7/25 7:55:02a Captain Barnac asks, "Ah, Magnic. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+5/7/25 7:55:02a Magnic whispers, "yes"
+5/7/25 7:55:15a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+5/7/25 7:55:16a • You return to your normal form.
+5/7/25 7:55:17a You slip your heartwood charm into your backpack.
+5/7/25 7:55:17a • You slow down to normal speed.
+5/7/25 7:55:18a You slaughtered a Giant Carnivorous Plankton.
+5/7/25 7:55:19a You slaughtered a Giant Carnivorous Plankton.
+5/7/25 7:55:19a You have 1498 coins.
+5/7/25 7:55:19a You slaughtered a Giant Carnivorous Plankton.
+5/7/25 7:55:19a You slaughtered a Giant Carnivorous Plankton.
+5/7/25 7:55:19a You slaughtered a Giant Carnivorous Plankton.
+5/7/25 7:55:20a You slaughtered a Giant Carnivorous Plankton.
+5/7/25 7:55:22a You slaughtered a Giant Carnivorous Plankton.
+5/7/25 7:55:22a You slaughtered a Giant Carnivorous Plankton.
+5/7/25 7:55:24a You slaughtered a Giant Carnivorous Plankton.
+5/7/25 7:55:32a You slaughtered an Elder Wendecka.
+5/7/25 7:55:32a * You recover the Elder Wendecka fur, worth 5c. Your share is 5c.
+5/7/25 7:55:32a You slaughtered an Elder Wendecka.
+5/7/25 7:55:33a * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+5/7/25 7:55:38a You slaughtered a Wendecka.
+5/7/25 7:55:38a * You recover the Wendecka fur, worth 3c. Your share is 3c.
+5/7/25 7:55:39a You slaughtered a Vermine.
+5/7/25 7:55:46a You slaughtered a Stinging Beetle.
+5/7/25 7:55:56a You slaughtered an Elder Wendecka.
+5/7/25 7:55:56a * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+5/7/25 7:55:57a You slaughtered an Elder Wendecka.
+5/7/25 7:55:57a * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+5/7/25 7:56:09a You slaughtered a Rat.
+5/7/25 7:56:11a You slaughtered a Rat.
+5/7/25 7:56:31a You equip your chain.
+5/7/25 7:56:42a You have no 'shieldstone' to equip.
+5/7/25 7:56:43a You have no 'shieldstone' to use.
+5/7/25 7:56:50a There is no target for your chain.
+5/7/25 7:56:58a You start dragging Woolf.
+5/7/25 7:57:00a You start dragging Catan.
+5/7/25 7:57:11a You have no 'shieldstone' to equip.
+5/7/25 7:57:11a You have no 'shieldstone' to use.
+5/7/25 7:57:18a You equip your gossamer.
+5/7/25 7:57:18a You slaughtered a Guard Veteran.
+5/7/25 7:57:21a You slaughtered a Dark Knight.
+5/7/25 7:57:22a You slaughtered a Co'Acha.
+5/7/25 7:57:31a You slaughtered a Dark Knight.
+5/7/25 7:57:33a A Co'Acha nibbles Catan's gaping mouth.
+5/7/25 7:57:34a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+5/7/25 7:57:34a Magnic has fallen to a Mud Golem.
+5/7/25 7:57:39a Your spirit has departed your body 457 times.
+5/7/25 7:58:27a You have 1511 coins.
+5/7/25 7:59:25a •You sense healing energy from Mimo.
+5/7/25 7:59:27a You begin sharing your experiences with Mimo.
+5/7/25 7:59:36a Tasus thinks, "People with Catan yet?"
+5/7/25 8:00:08a You equip your heartwood charm.
+5/7/25 8:00:09a •You assume the shape of a Giant Carnivorous Plankton.
+5/7/25 8:00:09a • You gather your energy.
+5/7/25 8:00:12a • You speed up.
+5/7/25 8:00:29a Captain Barnac asks, "Ah, Magnic. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+5/7/25 8:00:29a Magnic whispers, "yes"
+5/7/25 8:00:42a • You slow down to normal speed.
+5/7/25 8:00:42a You slip your heartwood charm into your backpack.
+5/7/25 8:00:43a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+5/7/25 8:00:44a • You return to your normal form.
+5/7/25 8:00:47a You slaughtered a Vermine.
+5/7/25 8:00:54a You just received good karma from Woolf.
+5/7/25 8:01:01a You slaughtered an Elder Wendecka.
+5/7/25 8:01:02a You slaughtered a Vermine.
+5/7/25 8:01:10a You slaughtered a Rat.
+5/7/25 8:01:17a You slaughtered a Rat.
+5/7/25 8:01:27a You equip your heartwood charm.
+5/7/25 8:01:28a • You gather your energy.
+5/7/25 8:01:30a • You speed up.
+5/7/25 8:01:39a You have 1506 coins.
+5/7/25 8:01:40a You slaughtered a Guard Veteran.
+5/7/25 8:01:40a You slaughtered a Guard Commander.
+5/7/25 8:01:40a You slaughtered a Guard Veteran.
+5/7/25 8:01:43a You have no 'shieldstone' to equip.
+5/7/25 8:01:43a You have no 'shieldstone' to use.
+5/7/25 8:01:46a You have no 'shieldstone' to equip.
+5/7/25 8:01:47a You have no 'shieldstone' to use.
+5/7/25 8:01:49a • You slow down to normal speed.
+5/7/25 8:01:49a You slip your heartwood charm into your backpack.
+5/7/25 8:01:51a You slaughtered a Guard Commander.
+5/7/25 8:01:53a You slaughtered a Castle Guard.
+5/7/25 8:01:55a A Co'Acha plucks at Catan's eye sockets.
+5/7/25 8:02:03a A Co'Acha munches on Catan's entrails.
+5/7/25 8:02:09a You slaughtered a Guard Veteran.
+5/7/25 8:02:19a You slaughtered a Web Arachne.
+5/7/25 8:02:21a You slaughtered a Web Arachne.
+5/7/25 8:02:30a You slaughtered a Guard Tosser.
+5/7/25 8:02:40a Ryno yells, "?"
+5/7/25 8:02:45a You slaughtered a Guard Veteran.
+5/7/25 8:02:49a You slaughtered a Guard Veteran.
+5/7/25 8:02:56a You slaughtered a Castle Guard.
+5/7/25 8:03:01a You equip your chain.
+5/7/25 8:03:02a You start dragging Magnic II.
+5/7/25 8:03:05a * You pick up 1 coin.
+5/7/25 8:03:42a A Co'Acha munches on Catan's toes.
+5/7/25 8:03:45a You start dragging Catan.
+5/7/25 8:03:45a You start dragging Woolf.
+5/7/25 8:03:45a Ryno yells, "?"
+5/7/25 8:03:53a You have no 'shieldstone' to equip.
+5/7/25 8:03:53a You have no 'shieldstone' to use.
+5/7/25 8:04:02a You equip your heartwood charm.
+5/7/25 8:04:03a • You gather your energy.
+5/7/25 8:04:05a Catan says, "Thankks"
+5/7/25 8:04:05a • You speed up.
+5/7/25 8:04:26a Catan says, "Bravo"
+5/7/25 8:04:45a •You assume the shape of a Giant Carnivorous Plankton.
+5/7/25 8:04:46a You have 1507 coins.
+5/7/25 8:04:58a M'at Mag'ond says, "Magnic II, I can teach you to walk in peace and not skin the earth's creatures."
+5/7/25 8:05:12a • You slow down to normal speed.
+5/7/25 8:05:13a • You return to your normal form.
+5/7/25 8:05:13a You slip your heartwood charm into your backpack.
+5/7/25 8:05:18a You equip your gossamer.
+5/7/25 8:05:23a • /SLEEP when you wish to begin studying.
+5/7/25 8:05:26a • /SLEEP when you wish to begin studying.
+5/7/25 8:05:28a Use \SLEEP again when you return.
+5/7/25 8:05:28a You are done adventuring for a while and will be studying here.
+5/7/25 8:05:29a You have been disconnected from Clan Lord.
+5/7/25 8:05:29a • You will benefit from studying here while you are off-line.
+5/7/25 8:05:30a *** We are no longer connected to the Clan Lord game server. ***

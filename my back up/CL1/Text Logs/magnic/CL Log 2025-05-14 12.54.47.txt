@@ -1,0 +1,718 @@
+
+5/14/25 12:54:48p * Your pair of pants named “dark grey” is in very good condition.
+5/14/25 12:54:48p * Your pair of shoes named “red” is in very good condition.
+5/14/25 12:54:48p * Your shirt named “dark grey” is in very good condition.
+5/14/25 12:54:48p Welcome to Clan Lord, Magnic!
+5/14/25 12:54:48p Type \HELP for a list of commands.
+5/14/25 12:54:48p • You have been charged 83 coins for advanced studies.
+5/14/25 12:54:48p • You gain experience from your recent studies.
+5/14/25 12:54:48p Magnic is now Clanning.
+5/14/25 12:54:48p You have been studying for 2 days, 17 hours, 13 minutes.
+5/14/25 12:54:51p It's 3:11am on Fordi, day 30 of Summer, 641.
+5/14/25 12:54:52p You are the only member of Black Phoenix clanning.
+5/14/25 12:54:52p • What’s New: https://deltatao.com/clanlord/news
+5/14/25 12:54:53p Draught is now Clanning.
+5/14/25 12:54:54p Friends online: none.
+5/14/25 12:54:56p Slyph asks, "i know smeti, right?"
+5/14/25 12:55:02p * Tip of the day: Select an item in your Inventory window and use /EXAMINE to see any special information about it. (Use /OPTIONS to turn tips off.)
+5/14/25 12:55:04p Connie Crete yells, "Mob - 5min , we kin git close ta mountain door in that time"
+5/14/25 12:55:07p Connie Crete says, "ocean"
+5/14/25 12:55:09p Slyph says, "like, we seriously dont nedd to come back with half us"
+5/14/25 12:55:15p Connie Crete yells, "ta tha ocean"
+5/14/25 12:55:15p Katreesa says, "oh right, need to repair chain"
+5/14/25 12:55:31p You slaughtered a Vermine.
+5/14/25 12:55:38p You vault the wall.
+5/14/25 12:55:45p •You learn how to better utilize your gossamer.
+5/14/25 12:55:52p •You assume the shape of a Giant Carnivorous Plankton.
+5/14/25 12:55:53p You equip your heartwood charm.
+5/14/25 12:55:53p • You gather your energy.
+5/14/25 12:55:55p • You speed up.
+5/14/25 12:56:07p • You return to your normal form.
+5/14/25 12:56:07p • You slow down to normal speed.
+5/14/25 12:56:08p You slip your heartwood charm into your backpack.
+5/14/25 12:56:19p You slaughtered a Wendecka.
+5/14/25 12:56:19p * You recover the Wendecka fur, worth 4c. Your share is 4c.
+5/14/25 12:56:20p You slaughtered a Bloodhawk.
+5/14/25 12:56:21p You slaughtered a Vermine.
+5/14/25 12:56:21p Tas thinks, "i will wait on ocean for stragglers?"
+5/14/25 12:56:35p You slaughtered a Wendecka.
+5/14/25 12:56:35p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+5/14/25 12:56:36p You slaughtered a Vermine.
+5/14/25 12:56:37p You slaughtered a Wendecka.
+5/14/25 12:56:37p * You recover the Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 12:56:39p You slaughtered a Wendecka.
+5/14/25 12:56:39p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 12:56:47p You slaughtered a Wendecka.
+5/14/25 12:56:47p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+5/14/25 12:56:48p You slaughtered a Wendecka.
+5/14/25 12:56:48p * You recover the Wendecka fur, worth 4c. Your share is 4c.
+5/14/25 12:56:48p You slaughtered a Wendecka.
+5/14/25 12:56:48p You slaughtered a Bloodhawk.
+5/14/25 12:56:49p You slaughtered a Rat.
+5/14/25 12:56:49p You slaughtered a Wendecka.
+5/14/25 12:56:50p * You recover the Wendecka fur, worth 4c. Your share is 4c.
+5/14/25 12:56:50p Katreesa thinks, "go where?"
+5/14/25 12:56:52p You slaughtered a Wendecka.
+5/14/25 12:56:52p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 12:56:52p You slaughtered a Rat.
+5/14/25 12:56:52p You slaughtered a Wendecka.
+5/14/25 12:56:53p * You recover the Wendecka fur, worth 4c. Your share is 4c.
+5/14/25 12:56:53p You slaughtered a Wendecka.
+5/14/25 12:56:53p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 12:56:55p You slaughtered a Wendecka.
+5/14/25 12:56:55p * You recover the Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 12:56:55p You slaughtered a Wendecka.
+5/14/25 12:56:55p * You recover the Wendecka fur, worth 4c. Your share is 4c.
+5/14/25 12:56:58p You slaughtered a Starbuck.
+5/14/25 12:57:00p Connie Crete thinks, "s-est - almost ta water"
+5/14/25 12:57:00p You slaughtered a Wendecka.
+5/14/25 12:57:01p You slaughtered a Wendecka.
+5/14/25 12:57:01p * You recover the Wendecka fur, worth 4c. Your share is 4c.
+5/14/25 12:57:01p Tas thinks, "ocean / estuary"
+5/14/25 12:57:03p You slaughtered a Wendecka.
+5/14/25 12:57:03p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 12:57:03p You slaughtered a Rat.
+5/14/25 12:57:06p Seaforth thinks, "Ocean PF Estuary"
+5/14/25 12:57:08p You slaughtered a Wendecka.
+5/14/25 12:57:08p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 12:57:08p You slaughtered a Wendecka.
+5/14/25 12:57:09p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+5/14/25 12:57:09p You slaughtered a Wendecka.
+5/14/25 12:57:09p * You recover the Wendecka fur, worth 4c. Your share is 4c.
+5/14/25 12:57:10p You slaughtered a Rat.
+5/14/25 12:57:11p You slaughtered a Wendecka.
+5/14/25 12:57:11p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+5/14/25 12:57:12p Cinder is now Clanning.
+5/14/25 12:57:12p You slaughtered a Starbuck.
+5/14/25 12:57:12p * You recover the Starbuck fur, worth 1c. Your share is 1c.
+5/14/25 12:57:18p Fortuna thinks, "save the hornets for me if you can!"
+5/14/25 12:57:19p You slaughtered a Wendecka.
+5/14/25 12:57:19p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+5/14/25 12:57:20p You slaughtered a Wendecka.
+5/14/25 12:57:21p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 12:57:21p You slaughtered a Wendecka.
+5/14/25 12:57:21p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+5/14/25 12:57:22p You slaughtered a Wendecka.
+5/14/25 12:57:22p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+5/14/25 12:57:23p You slaughtered a Wendecka.
+5/14/25 12:57:23p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 12:57:23p Tas thinks, "anyone else?"
+5/14/25 12:57:25p You slaughtered a Wendecka.
+5/14/25 12:57:26p You slaughtered a Wendecka.
+5/14/25 12:57:26p * You recover the Wendecka fur, worth 5c. Your share is 5c.
+5/14/25 12:57:30p You slaughtered a Wendecka.
+5/14/25 12:57:30p * For recovering the fur, you gain experience.
+5/14/25 12:57:30p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 12:57:30p You slaughtered a Wendecka.
+5/14/25 12:57:31p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 12:57:35p You slaughtered a Rat.
+5/14/25 12:57:35p You slaughtered a Wendecka.
+5/14/25 12:57:35p * You recover the Wendecka fur, worth 4c. Your share is 4c.
+5/14/25 12:57:36p You slaughtered a Bloodhawk.
+5/14/25 12:57:40p You slaughtered a Wendecka.
+5/14/25 12:57:40p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 12:57:41p You slaughtered a Wendecka.
+5/14/25 12:57:41p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+5/14/25 12:57:46p You slaughtered a Bloodhawk.
+5/14/25 12:57:48p You slaughtered a Vermine.
+5/14/25 12:57:48p * You recover the Vermine fur, worth 1c. Your share is 1c.
+5/14/25 12:57:49p You slaughtered a Giant Vermine.
+5/14/25 12:57:49p * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+5/14/25 12:57:49p You slaughtered a Night Wendecka.
+5/14/25 12:57:50p * You recover the Night Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 12:57:51p You have 3429 coins.
+5/14/25 12:57:52p You slaughtered a Greymyr.
+5/14/25 12:57:52p * You recover the Greymyr bounty worth 1c.
+5/14/25 12:57:55p You slaughtered a Crota Winder.
+5/14/25 12:57:56p You slaughtered a Rat.
+5/14/25 12:58:05p You slaughtered a Crota Winder.
+5/14/25 12:58:06p You slaughtered a Night Wendecka.
+5/14/25 12:58:06p * You recover the Night Wendecka fur, worth 12c. Your share is 12c.
+5/14/25 12:58:12p You slaughtered a Vermine.
+5/14/25 12:58:16p You slaughtered a Crota Winder.
+5/14/25 12:58:16p Semie thinks, "halp im lost"
+5/14/25 12:58:18p You slaughtered a Wendecka.
+5/14/25 12:58:25p Connie Crete thinks, "n till ya find a wall"
+5/14/25 12:58:27p Malakar is now Clanning.
+5/14/25 12:58:30p You slaughtered a Night Wendecka.
+5/14/25 12:58:35p You slaughtered a Giant Vermine.
+5/14/25 12:58:36p * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+5/14/25 12:58:36p You slaughtered a Night Wendecka.
+5/14/25 12:58:36p * You recover the Night Wendecka fur, worth 6c. Your share is 6c.
+5/14/25 12:58:37p You slaughtered a Bloodhawk.
+5/14/25 12:58:45p You slaughtered a Night Wendecka.
+5/14/25 12:58:46p * You recover the Night Wendecka fur, worth 6c. Your share is 6c.
+5/14/25 12:58:53p You slaughtered a Greymyr.
+5/14/25 12:58:59p You equip your heartwood charm.
+5/14/25 12:59:00p • You gather your energy.
+5/14/25 12:59:02p • You speed up.
+5/14/25 12:59:13p You slaughtered a Cave Wurm.
+5/14/25 12:59:15p You slaughtered a Large Vermine.
+5/14/25 12:59:15p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/14/25 12:59:28p Katreesa thinks, "Shun dead underwater"
+5/14/25 12:59:30p You slaughtered a Rat.
+5/14/25 12:59:38p You slaughtered a Ripper.
+5/14/25 12:59:40p Connie Crete thinks, "heal or leave - almost ta vale door"
+5/14/25 12:59:45p You slaughtered a Ripper.
+5/14/25 12:59:45p Chi is now Clanning.
+5/14/25 12:59:45p You slaughtered a Vermine.
+5/14/25 1:00:16p You slaughtered a Ripper.
+5/14/25 1:00:22p You slaughtered a Bloodhawk.
+5/14/25 1:00:25p You slaughtered a Vermine.
+5/14/25 1:00:30p You slaughtered a Wendecka.
+5/14/25 1:00:30p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:00:38p You slaughtered a Bloodhawk.
+5/14/25 1:00:49p • You slow down to normal speed.
+5/14/25 1:00:50p You slip your heartwood charm into your backpack.
+5/14/25 1:00:55p You have 3458 coins.
+5/14/25 1:01:21p You slaughtered a Night Wendecka.
+5/14/25 1:01:21p * You recover the Night Wendecka fur, worth 3c. Your share is 3c.
+5/14/25 1:01:23p You slaughtered a Night Wendecka.
+5/14/25 1:01:23p * You recover the Night Wendecka fur, worth 7c. Your share is 7c.
+5/14/25 1:01:24p You slaughtered a Raste Winder.
+5/14/25 1:01:29p You slaughtered a Night Wendecka.
+5/14/25 1:01:29p * You recover the Night Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:01:32p You slaughtered a Large Vermine.
+5/14/25 1:01:32p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/14/25 1:01:42p You slaughtered a Bloodhawk.
+5/14/25 1:01:43p You slaughtered a Bloodhawk.
+5/14/25 1:01:45p You slaughtered a Night Wendecka.
+5/14/25 1:01:45p * You recover the Night Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:01:46p You slaughtered a Vermine.
+5/14/25 1:01:48p You slaughtered a Vermine.
+5/14/25 1:01:49p You slaughtered a Night Wendecka.
+5/14/25 1:01:51p You slaughtered a Vermine.
+5/14/25 1:01:51p You slaughtered a Night Wendecka.
+5/14/25 1:01:51p * You recover the Night Wendecka fur, worth 4c. Your share is 4c.
+5/14/25 1:01:52p You slaughtered a Bloodhawk.
+5/14/25 1:01:56p You slaughtered a Vermine.
+5/14/25 1:01:57p You slaughtered a Bloodhawk.
+5/14/25 1:01:57p You slaughtered a Bloodhawk.
+5/14/25 1:01:59p You slaughtered a Night Wendecka.
+5/14/25 1:01:59p * You recover the Night Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:02:03p You slaughtered a Vermine.
+5/14/25 1:02:04p You slaughtered a Vermine.
+5/14/25 1:02:06p You slaughtered a Vermine.
+5/14/25 1:02:11p You slaughtered a Bloodhawk.
+5/14/25 1:02:13p You slaughtered a Night Wendecka.
+5/14/25 1:02:18p You slaughtered a Vermine.
+5/14/25 1:02:19p You slaughtered a Vermine.
+5/14/25 1:02:29p You slaughtered a Vermine.
+5/14/25 1:02:30p You slaughtered a Vermine.
+5/14/25 1:02:30p You slaughtered a Vermine.
+5/14/25 1:02:34p You slaughtered a Vermine.
+5/14/25 1:02:36p You slaughtered a Bloodhawk.
+5/14/25 1:02:37p You slaughtered a Bloodhawk.
+5/14/25 1:02:39p You slaughtered a Rat.
+5/14/25 1:02:46p You slaughtered a Vermine.
+5/14/25 1:02:47p You slaughtered a Bloodhawk.
+5/14/25 1:02:49p You slaughtered an Emerald Scorp.
+5/14/25 1:02:49p You slaughtered a Rat.
+5/14/25 1:02:50p You slaughtered a Starbuck.
+5/14/25 1:02:50p * You recover the Starbuck fur, worth 3c. Your share is 3c.
+5/14/25 1:02:51p You slaughtered a Rat.
+5/14/25 1:02:52p You slaughtered a Rat.
+5/14/25 1:02:52p You slaughtered a Vermine.
+5/14/25 1:02:52p * You recover the Vermine fur, worth 1c. Your share is 1c.
+5/14/25 1:02:57p Dreamer is now Clanning.
+5/14/25 1:02:59p You slaughtered a Vermine.
+5/14/25 1:03:01p You slaughtered a Bloodhawk.
+5/14/25 1:03:06p You slaughtered a Bloodhawk.
+5/14/25 1:03:09p You slaughtered a Bloodhawk.
+5/14/25 1:03:14p You slaughtered a Wendecka.
+5/14/25 1:03:14p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:03:18p You slaughtered a Starbuck.
+5/14/25 1:03:21p Cinder is no longer Clanning.
+5/14/25 1:03:28p You slaughtered a Bloodhawk.
+5/14/25 1:03:30p You slaughtered a Wendecka.
+5/14/25 1:03:33p You slaughtered a Rat.
+5/14/25 1:03:36p You slaughtered a Wendecka.
+5/14/25 1:03:37p * You recover the Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:03:38p You slaughtered a Wendecka.
+5/14/25 1:03:38p You slaughtered a Wendecka.
+5/14/25 1:03:38p * You recover the Wendecka fur, worth 5c. Your share is 5c.
+5/14/25 1:03:38p You slaughtered a Bloodhawk.
+5/14/25 1:03:41p You slaughtered a Night Wendecka.
+5/14/25 1:03:41p * You recover the Night Wendecka fur, worth 3c. Your share is 3c.
+5/14/25 1:03:42p You slaughtered a Wendecka.
+5/14/25 1:03:42p * You recover the Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:03:42p You slaughtered a Vermine.
+5/14/25 1:03:44p You slaughtered a Wendecka.
+5/14/25 1:03:44p * For recovering the fur, you gain experience.
+5/14/25 1:03:44p * You recover the Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:03:45p You slaughtered a Bloodhawk.
+5/14/25 1:03:47p You slaughtered a Vermine.
+5/14/25 1:03:47p You slaughtered a Wendecka.
+5/14/25 1:03:47p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+5/14/25 1:03:49p You slaughtered a Wendecka.
+5/14/25 1:03:49p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+5/14/25 1:03:51p You slaughtered a Wendecka.
+5/14/25 1:03:51p * You recover the Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:03:52p You slaughtered a Wendecka.
+5/14/25 1:03:52p You slaughtered a Wendecka.
+5/14/25 1:03:53p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:03:54p You slaughtered a Wendecka.
+5/14/25 1:03:54p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+5/14/25 1:03:55p You slaughtered a Vermine.
+5/14/25 1:03:56p You slaughtered a Vermine.
+5/14/25 1:03:57p You slaughtered a Wendecka.
+5/14/25 1:03:57p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:03:57p You slaughtered a Wendecka.
+5/14/25 1:03:57p * You recover the Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:03:58p You have 3510 coins.
+5/14/25 1:04:00p You slaughtered a Wendecka.
+5/14/25 1:04:00p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:04:00p You slaughtered a Night Wendecka.
+5/14/25 1:04:00p * You recover the Night Wendecka fur, worth 9c. Your share is 9c.
+5/14/25 1:04:02p You slaughtered a Rat.
+5/14/25 1:04:04p You slaughtered a Wendecka.
+5/14/25 1:04:04p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:04:06p You slaughtered a Wendecka.
+5/14/25 1:04:06p * You recover the Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:04:07p You slaughtered a Wendecka.
+5/14/25 1:04:07p * You recover the Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:04:11p You slaughtered a Giant Vermine.
+5/14/25 1:04:11p * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+5/14/25 1:04:12p You slaughtered a Wendecka.
+5/14/25 1:04:12p * You recover the Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:04:15p You slaughtered a Vermine.
+5/14/25 1:04:22p You slaughtered a Shredder.
+5/14/25 1:04:33p You slaughtered a Wendecka.
+5/14/25 1:04:34p You slaughtered a Wendecka.
+5/14/25 1:04:34p * You recover the Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:04:34p You slaughtered a Bloodhawk.
+5/14/25 1:04:34p You slaughtered a Wendecka.
+5/14/25 1:04:34p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:04:36p You slaughtered a Rat.
+5/14/25 1:04:37p You slaughtered a Wendecka.
+5/14/25 1:04:37p * You recover the Wendecka fur, worth 4c. Your share is 4c.
+5/14/25 1:04:38p You slaughtered a Wendecka.
+5/14/25 1:04:38p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:04:40p You slaughtered a Wendecka.
+5/14/25 1:04:40p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:04:41p You slaughtered a Wendecka.
+5/14/25 1:04:41p * For recovering the fur, you gain experience.
+5/14/25 1:04:41p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+5/14/25 1:04:43p You slaughtered a Wendecka.
+5/14/25 1:04:44p * You recover the Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:04:44p You slaughtered a Wendecka.
+5/14/25 1:04:46p You slaughtered a Wendecka.
+5/14/25 1:04:46p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:04:47p You slaughtered a Wendecka.
+5/14/25 1:04:47p * You recover the Wendecka fur, worth 5c. Your share is 5c.
+5/14/25 1:04:50p You slaughtered a Starbuck.
+5/14/25 1:04:51p You slaughtered a Starbuck.
+5/14/25 1:04:53p You slaughtered a Bloodhawk.
+5/14/25 1:04:55p You slaughtered a Starbuck.
+5/14/25 1:04:55p * You recover the Starbuck fur, worth 1c. Your share is 1c.
+5/14/25 1:04:56p You slaughtered a Rat.
+5/14/25 1:04:57p You slaughtered a Starbuck.
+5/14/25 1:04:58p You slaughtered a Starbuck.
+5/14/25 1:04:58p * You recover the Starbuck fur, worth 1c. Your share is 1c.
+5/14/25 1:05:05p You slaughtered a Wendecka.
+5/14/25 1:05:05p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+5/14/25 1:05:08p You slaughtered a Vermine.
+5/14/25 1:05:13p You slaughtered a Bloodhawk.
+5/14/25 1:05:18p You slaughtered a Wendecka.
+5/14/25 1:05:18p * You recover the Wendecka fur, worth 5c. Your share is 5c.
+5/14/25 1:05:20p You slaughtered a Wendecka.
+5/14/25 1:05:22p You slaughtered a Wendecka.
+5/14/25 1:05:22p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:05:22p You slaughtered a Vermine.
+5/14/25 1:05:23p You slaughtered a Giant Vermine.
+5/14/25 1:05:23p * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+5/14/25 1:05:29p You slaughtered an Elder Wendecka.
+5/14/25 1:05:30p You slaughtered an Elder Wendecka.
+5/14/25 1:05:30p * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:05:31p You slaughtered an Elder Wendecka.
+5/14/25 1:05:32p You slaughtered a Mama Wendecka.
+5/14/25 1:05:32p You slaughtered an Elder Wendecka.
+5/14/25 1:05:32p * For recovering the fur, you gain experience.
+5/14/25 1:05:32p * You recover the Mama Wendecka fur, worth 5c. Your share is 5c.
+5/14/25 1:05:32p * You recover the Elder Wendecka fur, worth 4c. Your share is 4c.
+5/14/25 1:05:33p Dreamer is no longer Clanning.
+5/14/25 1:05:36p You slaughtered an Elder Wendecka.
+5/14/25 1:05:38p You slaughtered a Mama Wendecka.
+5/14/25 1:05:38p * You recover the Mama Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:05:40p You slaughtered an Elder Wendecka.
+5/14/25 1:05:41p * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:05:41p You slaughtered a Rat.
+5/14/25 1:05:41p You slaughtered a Rat.
+5/14/25 1:05:42p You slaughtered a Mama Wendecka.
+5/14/25 1:05:42p * You recover the Mama Wendecka fur, worth 6c. Your share is 6c.
+5/14/25 1:05:45p You slaughtered a Mama Wendecka.
+5/14/25 1:05:45p * You recover the Mama Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:05:47p You slaughtered a Wendecka.
+5/14/25 1:05:48p You slaughtered a Bloodhawk.
+5/14/25 1:05:49p You slaughtered an Elder Wendecka.
+5/14/25 1:05:49p * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:05:52p You slaughtered an Elder Wendecka.
+5/14/25 1:05:52p * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:05:53p You slaughtered an Elder Wendecka.
+5/14/25 1:05:53p * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:05:57p Draught is no longer Clanning.
+5/14/25 1:05:58p You slaughtered an Elder Wendecka.
+5/14/25 1:05:59p You slaughtered a Starbuck.
+5/14/25 1:05:59p * You recover the Starbuck fur, worth 2c. Your share is 2c.
+5/14/25 1:06:02p You slaughtered a Mama Wendecka.
+5/14/25 1:06:02p * You recover the Mama Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:06:03p You slaughtered a Bloodhawk.
+5/14/25 1:06:07p You slaughtered an Elder Wendecka.
+5/14/25 1:06:07p * For recovering the fur, you gain experience.
+5/14/25 1:06:07p * You recover the Elder Wendecka fur, worth 3c. Your share is 3c.
+5/14/25 1:06:08p You slaughtered an Elder Wendecka.
+5/14/25 1:06:08p * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:06:10p You slaughtered a Wendecka.
+5/14/25 1:06:10p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:06:11p You slaughtered an Elder Wendecka.
+5/14/25 1:06:12p You slaughtered a Rat.
+5/14/25 1:06:12p You slaughtered a Mama Wendecka.
+5/14/25 1:06:16p You slaughtered an Elder Wendecka.
+5/14/25 1:06:16p * For recovering the fur, you gain experience.
+5/14/25 1:06:16p * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:06:17p You slaughtered a Wendecka.
+5/14/25 1:06:17p * You recover the Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:06:19p You slaughtered a Baby Wendecka.
+5/14/25 1:06:19p * You recover the Baby Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:06:22p You slaughtered a Wendecka.
+5/14/25 1:06:23p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:06:24p You slaughtered a Bloodhawk.
+5/14/25 1:06:24p You slaughtered an Elder Wendecka.
+5/14/25 1:06:24p * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:06:25p You slaughtered a Rat.
+5/14/25 1:06:25p You slaughtered a Bloodhawk.
+5/14/25 1:06:28p You slaughtered an Elder Wendecka.
+5/14/25 1:06:28p * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:06:29p You slaughtered an Elder Wendecka.
+5/14/25 1:06:29p * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:06:30p You slaughtered an Elder Wendecka.
+5/14/25 1:06:32p You slaughtered an Elder Wendecka.
+5/14/25 1:06:32p * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:06:35p You found a lump of iron ore!
+5/14/25 1:06:35p You slaughtered a Bloodhawk.
+5/14/25 1:06:40p You slaughtered a Bloodhawk.
+5/14/25 1:06:42p Satris is no longer Clanning.
+5/14/25 1:06:43p You slaughtered a Bloodhawk.
+5/14/25 1:06:44p Malakar is no longer Clanning.
+5/14/25 1:06:44p You slaughtered an Elder Wendecka.
+5/14/25 1:06:44p * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:06:45p You slaughtered a Bloodhawk.
+5/14/25 1:06:50p You slaughtered an Elder Wendecka.
+5/14/25 1:06:50p * You recover the Elder Wendecka fur, worth 3c. Your share is 3c.
+5/14/25 1:06:53p You slaughtered an Elder Wendecka.
+5/14/25 1:06:55p You slaughtered a Bloodhawk.
+5/14/25 1:06:56p •The Sun rises.
+5/14/25 1:06:59p You slaughtered a Rat.
+5/14/25 1:06:59p You slaughtered a Wendecka.
+5/14/25 1:07:00p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:07:03p You slaughtered a Bloodhawk.
+5/14/25 1:07:09p You have 3612 coins.
+5/14/25 1:07:09p You slaughtered a Rat.
+5/14/25 1:07:45p You slaughtered a Bloodhawk.
+5/14/25 1:07:46p You slaughtered a Bloodhawk.
+5/14/25 1:08:21p You slaughtered an Elder Wendecka.
+5/14/25 1:08:21p You slaughtered an Elder Wendecka.
+5/14/25 1:08:23p You slaughtered a Vermine.
+5/14/25 1:08:24p You slaughtered an Elder Wendecka.
+5/14/25 1:08:24p * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:08:27p You slaughtered an Elder Wendecka.
+5/14/25 1:08:27p * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:08:30p You slaughtered an Elder Wendecka.
+5/14/25 1:08:31p You slaughtered a Rat.
+5/14/25 1:08:33p You slaughtered a Rat.
+5/14/25 1:08:33p You slaughtered a Rat.
+5/14/25 1:08:37p You slaughtered an Elder Wendecka.
+5/14/25 1:08:38p * You recover the Elder Wendecka fur, worth 4c. Your share is 4c.
+5/14/25 1:08:39p You slaughtered a Vermine.
+5/14/25 1:08:40p You slaughtered an Elder Wendecka.
+5/14/25 1:08:40p * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:08:42p You slaughtered an Elder Wendecka.
+5/14/25 1:08:42p * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:08:43p You slaughtered a Vermine.
+5/14/25 1:08:43p You slaughtered a Large Vermine.
+5/14/25 1:08:44p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/14/25 1:08:46p You slaughtered a Large Vermine.
+5/14/25 1:08:46p You slaughtered an Elder Wendecka.
+5/14/25 1:08:49p You slaughtered an Elder Wendecka.
+5/14/25 1:08:49p * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:08:50p You slaughtered a Large Vermine.
+5/14/25 1:08:51p You slaughtered an Elder Wendecka.
+5/14/25 1:08:51p You slaughtered an Elder Wendecka.
+5/14/25 1:08:51p * You recover the Elder Wendecka fur, worth 4c. Your share is 4c.
+5/14/25 1:08:51p * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:08:52p You slaughtered a Large Vermine.
+5/14/25 1:08:52p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/14/25 1:08:52p You slaughtered a Wendecka.
+5/14/25 1:08:52p * For recovering the fur, you gain experience.
+5/14/25 1:08:52p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+5/14/25 1:08:53p You slaughtered a Large Vermine.
+5/14/25 1:08:53p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/14/25 1:08:53p You slaughtered an Elder Wendecka.
+5/14/25 1:08:54p You slaughtered an Elder Wendecka.
+5/14/25 1:08:54p * You recover the Elder Wendecka fur, worth 5c. Your share is 5c.
+5/14/25 1:08:54p You slaughtered a Starbuck.
+5/14/25 1:08:56p You slaughtered an Elder Wendecka.
+5/14/25 1:08:56p * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:08:56p You slaughtered an Elder Wendecka.
+5/14/25 1:08:57p * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:08:57p You slaughtered an Elder Wendecka.
+5/14/25 1:08:57p * You recover the Elder Wendecka fur, worth 3c. Your share is 3c.
+5/14/25 1:09:01p You slaughtered an Elder Wendecka.
+5/14/25 1:09:01p * You recover the Elder Wendecka fur, worth 3c. Your share is 3c.
+5/14/25 1:09:01p You slaughtered a Rat.
+5/14/25 1:09:03p You slaughtered a Vermine.
+5/14/25 1:09:05p You slaughtered a Starbuck.
+5/14/25 1:09:10p You slaughtered a Large Vermine.
+5/14/25 1:09:10p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/14/25 1:09:23p You slaughtered a Rat.
+5/14/25 1:09:26p You slaughtered a Starbuck.
+5/14/25 1:09:26p * You recover the Starbuck fur, worth 1c. Your share is 1c.
+5/14/25 1:09:29p You slaughtered an Elder Wendecka.
+5/14/25 1:09:29p * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:09:35p You slaughtered a Wendecka.
+5/14/25 1:09:36p * You recover the Wendecka fur, worth 4c. Your share is 4c.
+5/14/25 1:09:37p You slaughtered an Elder Wendecka.
+5/14/25 1:09:37p * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:09:38p You slaughtered an Elder Wendecka.
+5/14/25 1:09:39p * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:09:41p You slaughtered a Rat.
+5/14/25 1:09:42p You slaughtered a Starbuck.
+5/14/25 1:09:42p * You recover the Starbuck fur, worth 2c. Your share is 2c.
+5/14/25 1:09:43p You slaughtered a Rat.
+5/14/25 1:09:44p You slaughtered an Elder Wendecka.
+5/14/25 1:09:45p * You recover the Elder Wendecka fur, worth 3c. Your share is 3c.
+5/14/25 1:09:52p You slaughtered an Elder Wendecka.
+5/14/25 1:09:53p * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:09:55p You slaughtered a Rat.
+5/14/25 1:09:56p You slaughtered an Elder Wendecka.
+5/14/25 1:09:59p You slaughtered a Starbuck.
+5/14/25 1:09:59p * You recover the Starbuck fur, worth 1c. Your share is 1c.
+5/14/25 1:10:01p You slaughtered a Large Vermine.
+5/14/25 1:10:02p You slaughtered a Large Vermine.
+5/14/25 1:10:02p You slaughtered a Large Vermine.
+5/14/25 1:10:03p You slaughtered a Large Vermine.
+5/14/25 1:10:03p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/14/25 1:10:04p You slaughtered a Large Vermine.
+5/14/25 1:10:04p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/14/25 1:10:05p You slaughtered a Large Vermine.
+5/14/25 1:10:05p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/14/25 1:10:05p You slaughtered a Large Vermine.
+5/14/25 1:10:06p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/14/25 1:10:06p You slaughtered a Large Vermine.
+5/14/25 1:10:06p You slaughtered an Elder Wendecka.
+5/14/25 1:10:06p * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:10:06p You slaughtered a Large Vermine.
+5/14/25 1:10:07p * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+5/14/25 1:10:07p You slaughtered a Large Vermine.
+5/14/25 1:10:08p You slaughtered a Large Vermine.
+5/14/25 1:10:08p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/14/25 1:10:09p You slaughtered a Mama Wendecka.
+5/14/25 1:10:09p * For recovering the fur, you gain experience.
+5/14/25 1:10:09p * You recover the Mama Wendecka fur, worth 4c. Your share is 4c.
+5/14/25 1:10:12p You slaughtered an Elder Wendecka.
+5/14/25 1:10:12p * You recover the Elder Wendecka fur, worth 3c. Your share is 3c.
+5/14/25 1:10:12p You slaughtered a Mama Wendecka.
+5/14/25 1:10:12p * You recover the Mama Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:10:13p You slaughtered an Elder Wendecka.
+5/14/25 1:10:13p * You recover the Elder Wendecka fur, worth 3c. Your share is 3c.
+5/14/25 1:10:13p You slaughtered a Large Vermine.
+5/14/25 1:10:14p You slaughtered a Large Vermine.
+5/14/25 1:10:14p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/14/25 1:10:14p You slaughtered a Large Vermine.
+5/14/25 1:10:14p You slaughtered a Large Vermine.
+5/14/25 1:10:14p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/14/25 1:10:14p You slaughtered a Large Vermine.
+5/14/25 1:10:15p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/14/25 1:10:15p You slaughtered an Elder Wendecka.
+5/14/25 1:10:16p * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:10:16p You slaughtered a Baby Wendecka.
+5/14/25 1:10:16p * You recover the Baby Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:10:17p You slaughtered a Large Vermine.
+5/14/25 1:10:18p * You recover the Large Vermine fur, worth 3c. Your share is 3c.
+5/14/25 1:10:18p You slaughtered a Rat.
+5/14/25 1:10:18p You slaughtered a Large Vermine.
+5/14/25 1:10:19p You slaughtered a Large Vermine.
+5/14/25 1:10:19p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/14/25 1:10:19p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/14/25 1:10:20p You slaughtered an Elder Wendecka.
+5/14/25 1:10:21p You slaughtered a Rat.
+5/14/25 1:10:21p You slaughtered a Large Vermine.
+5/14/25 1:10:22p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/14/25 1:10:23p You slaughtered a Mama Wendecka.
+5/14/25 1:10:23p * You recover the Mama Wendecka fur, worth 6c. Your share is 6c.
+5/14/25 1:10:25p You have 3704 coins.
+5/14/25 1:10:27p You slaughtered a Mama Wendecka.
+5/14/25 1:10:33p You slaughtered a Baby Wendecka.
+5/14/25 1:10:39p You slaughtered an Elder Wendecka.
+5/14/25 1:10:39p * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:10:48p You slaughtered a Starbuck.
+5/14/25 1:10:48p * You recover the Starbuck fur, worth 1c. Your share is 1c.
+5/14/25 1:10:50p You slaughtered a Bloodhawk.
+5/14/25 1:10:54p You slaughtered a Rat.
+5/14/25 1:10:57p You slaughtered an Elder Wendecka.
+5/14/25 1:10:58p * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:11:09p You slaughtered a Starbuck.
+5/14/25 1:11:17p You slaughtered a Starbuck.
+5/14/25 1:11:25p You slaughtered a Rat.
+5/14/25 1:11:25p You slaughtered a Wendecka.
+5/14/25 1:11:25p * You recover the Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:11:29p You slaughtered a Wendecka.
+5/14/25 1:11:29p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:11:31p You slaughtered a Night Wendecka.
+5/14/25 1:11:33p You slaughtered a Wendecka.
+5/14/25 1:11:33p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+5/14/25 1:11:42p You slaughtered a Rat.
+5/14/25 1:11:46p You slaughtered a Night Wendecka.
+5/14/25 1:11:46p * You recover the Night Wendecka fur, worth 5c. Your share is 5c.
+5/14/25 1:11:48p You slaughtered a Night Wendecka.
+5/14/25 1:11:48p * You recover the Night Wendecka fur, worth 10c. Your share is 10c.
+5/14/25 1:11:51p You slaughtered a Rat.
+5/14/25 1:11:51p You slaughtered a Night Wendecka.
+5/14/25 1:11:52p You slaughtered a Rat.
+5/14/25 1:11:53p You slaughtered a Night Wendecka.
+5/14/25 1:11:54p * You recover the Night Wendecka fur, worth 6c. Your share is 6c.
+5/14/25 1:11:55p You slaughtered a Night Wendecka.
+5/14/25 1:11:55p * You recover the Night Wendecka fur, worth 4c. Your share is 4c.
+5/14/25 1:11:56p You slaughtered a Night Wendecka.
+5/14/25 1:11:56p * You recover the Night Wendecka fur, worth 5c. Your share is 5c.
+5/14/25 1:11:58p You slaughtered a Night Wendecka.
+5/14/25 1:11:59p You slaughtered a Rat.
+5/14/25 1:12:01p You slaughtered a Night Wendecka.
+5/14/25 1:12:01p * You recover the Night Wendecka fur, worth 4c. Your share is 4c.
+5/14/25 1:12:03p You slaughtered a Night Wendecka.
+5/14/25 1:12:03p * You recover the Night Wendecka fur, worth 7c. Your share is 7c.
+5/14/25 1:12:05p You slaughtered a Rat.
+5/14/25 1:12:06p You slaughtered a Night Wendecka.
+5/14/25 1:12:07p * You recover the Night Wendecka fur, worth 11c. Your share is 11c.
+5/14/25 1:12:08p You slaughtered a Night Wendecka.
+5/14/25 1:12:09p * You recover the Night Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:12:09p You slaughtered a Night Wendecka.
+5/14/25 1:12:09p * You recover the Night Wendecka fur, worth 7c. Your share is 7c.
+5/14/25 1:12:09p Clot is no longer Clanning.
+5/14/25 1:12:10p You slaughtered a Night Wendecka.
+5/14/25 1:12:10p * You recover the Night Wendecka fur, worth 4c. Your share is 4c.
+5/14/25 1:12:11p You slaughtered a Rat.
+5/14/25 1:12:12p Chi is no longer Clanning.
+5/14/25 1:12:16p You slaughtered a Vermine.
+5/14/25 1:12:17p You slaughtered a Night Wendecka.
+5/14/25 1:12:17p * You recover the Night Wendecka fur, worth 5c. Your share is 5c.
+5/14/25 1:12:18p You slaughtered a Vermine.
+5/14/25 1:12:19p You slaughtered a Vermine.
+5/14/25 1:12:23p You slaughtered a Vermine.
+5/14/25 1:12:24p You slaughtered a Starbuck.
+5/14/25 1:12:24p * You recover the Starbuck fur, worth 1c. Your share is 1c.
+5/14/25 1:12:28p You slaughtered a Wendecka.
+5/14/25 1:12:30p You slaughtered a Starbuck.
+5/14/25 1:12:30p * You recover the Starbuck fur, worth 1c. Your share is 1c.
+5/14/25 1:12:34p You slaughtered a Vermine.
+5/14/25 1:12:36p You slaughtered a Vermine.
+5/14/25 1:12:44p You slaughtered a Vermine.
+5/14/25 1:12:46p You slaughtered a Vermine.
+5/14/25 1:12:48p You slaughtered a Vermine.
+5/14/25 1:12:52p You slaughtered a Vermine.
+5/14/25 1:12:57p You slaughtered a Cave Wurm.
+5/14/25 1:12:58p You slaughtered a Winged Snake.
+5/14/25 1:13:17p You slaughtered a Carin Viper.
+5/14/25 1:13:30p You slaughtered a Small Arachne.
+5/14/25 1:13:33p You have 3787 coins.
+5/14/25 1:13:40p You slaughtered a Cave Arachne.
+5/14/25 1:13:45p You slaughtered a Small Arachne.
+5/14/25 1:13:52p You equip your heartwood charm.
+5/14/25 1:13:52p •You assume the shape of a Giant Carnivorous Plankton.
+5/14/25 1:13:52p • You gather your energy.
+5/14/25 1:13:55p • You speed up.
+5/14/25 1:13:57p Asenath is no longer Clanning.
+5/14/25 1:14:01p You slaughtered a Rat.
+5/14/25 1:14:02p Fern is now Clanning.
+5/14/25 1:14:04p Groon says, "Hello there, little guy..."
+5/14/25 1:14:04p Groon looks carefully at the sky.
+5/14/25 1:14:18p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+5/14/25 1:14:19p • You return to your normal form.
+5/14/25 1:14:20p You slaughtered a Night Wendecka.
+5/14/25 1:14:20p * You recover the Night Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:14:39p • You slow down to normal speed.
+5/14/25 1:14:40p You slip your heartwood charm into your backpack.
+5/14/25 1:14:47p You slaughtered a Night Wendecka.
+5/14/25 1:14:47p * You recover the Night Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:14:53p You slaughtered a Wendecka.
+5/14/25 1:14:54p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+5/14/25 1:14:55p You slaughtered a Vermine.
+5/14/25 1:15:03p You slaughtered a Wendecka.
+5/14/25 1:15:03p You slaughtered a Wendecka.
+5/14/25 1:15:03p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:15:03p * You recover the Wendecka fur, worth 2c. Your share is 2c.
+5/14/25 1:15:04p You slaughtered a Vermine.
+5/14/25 1:15:06p You slaughtered a Wendecka.
+5/14/25 1:15:06p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+5/14/25 1:15:07p You slaughtered a Wendecka.
+5/14/25 1:15:07p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+5/14/25 1:15:13p You slaughtered a Wendecka.
+5/14/25 1:15:13p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+5/14/25 1:15:15p You slaughtered a Rat.
+5/14/25 1:15:21p You slaughtered a Vermine.
+5/14/25 1:15:23p You slaughtered a Vermine.
+5/14/25 1:15:23p You slaughtered a Vermine.
+5/14/25 1:15:26p You slaughtered a Vermine.
+5/14/25 1:15:27p You slaughtered a Vermine.
+5/14/25 1:15:33p You slaughtered a Vermine.
+5/14/25 1:15:45p You slaughtered a Vermine.
+5/14/25 1:15:51p You equip your heartwood charm.
+5/14/25 1:15:52p •You assume the shape of a Giant Carnivorous Plankton.
+5/14/25 1:15:52p • You gather your energy.
+5/14/25 1:15:54p • You speed up.
+5/14/25 1:15:56p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+5/14/25 1:15:56p • You return to your normal form.
+5/14/25 1:16:04p •You assume the shape of a Giant Carnivorous Plankton.
+5/14/25 1:16:05p Fern is no longer Clanning.
+5/14/25 1:16:11p Rose is now Clanning.
+5/14/25 1:16:16p You slaughtered a Vermine.
+5/14/25 1:16:34p You vault the wall.
+5/14/25 1:16:35p Eagürd says, "Greetings, Lord Magnic."
+5/14/25 1:16:43p You have 3804 coins.
+5/14/25 1:16:47p •You assume the shape of a Giant Carnivorous Plankton.
+5/14/25 1:16:48p • You slow down to normal speed.
+5/14/25 1:16:48p You slip your heartwood charm into your backpack.
+5/14/25 1:16:50p • You return to your normal form.
+5/14/25 1:16:51p You slaughtered an Island Locust.
+5/14/25 1:16:53p You slaughtered an Island Locust.
+5/14/25 1:16:55p You slaughtered an Island Locust.
+5/14/25 1:16:56p You slaughtered an Island Locust.
+5/14/25 1:17:28p Captain Barnac asks, "Ah, Magnic. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+5/14/25 1:17:29p Magnic whispers, "yes"
+5/14/25 1:17:39p You slaughtered a Deadly Crawler.
+5/14/25 1:17:39p * For recovering the mandibles, you gain experience.
+5/14/25 1:17:39p * You recover the Deadly Crawler mandibles, worth 2c. Your share is 2c.
+5/14/25 1:17:44p You slaughtered a Crawler.
+5/14/25 1:17:52p You slaughtered a Crawler.
+5/14/25 1:17:54p You slaughtered a Vermine.
+5/14/25 1:18:05p You equip your heartwood charm.
+5/14/25 1:18:05p • You gather your energy.
+5/14/25 1:18:05p You slaughtered an Ebon Scorp.
+5/14/25 1:18:06p You slaughtered an Ebon Scorp.
+5/14/25 1:18:07p • You speed up.
+5/14/25 1:18:11p You slaughtered an Ebon Scorp.
+5/14/25 1:18:20p You slaughtered a Bloodthorn.
+5/14/25 1:18:30p You slaughtered a Vermine.
+5/14/25 1:18:34p You slaughtered a Winged Snake.
+5/14/25 1:18:35p You slaughtered a Vermine.
+5/14/25 1:18:42p Klur is no longer Clanning.
+5/14/25 1:18:42p You slaughtered a Night Wendecka.
+5/14/25 1:18:45p You slaughtered a Vermine.
+5/14/25 1:19:28p Magnic skips across the rock.
+5/14/25 1:19:46p You slaughtered a Vermine.
+5/14/25 1:19:48p • You slow down to normal speed.
+5/14/25 1:19:49p You slip your heartwood charm into your backpack.
+5/14/25 1:19:51p You have 3801 coins.
+5/14/25 1:20:06p You slaughtered a Young Rockodile.
+5/14/25 1:20:10p You slaughtered a Young Rockodile.
+5/14/25 1:20:12p You slaughtered a Young Rockodile.
+5/14/25 1:20:23p You slaughtered a Darshak Thug.
+5/14/25 1:20:45p You slaughtered a Darshak Thug.
+5/14/25 1:20:49p You slaughtered a Skeletal.
+5/14/25 1:21:06p Icy is no longer Clanning.
+5/14/25 1:21:12p You slaughtered a Crawler.
+5/14/25 1:21:20p Glacial is no longer Clanning.
+5/14/25 1:21:26p You slaughtered a Large Vermine.
+5/14/25 1:21:28p You slaughtered a Vermine.
+5/14/25 1:21:30p You slaughtered an Orga.
+5/14/25 1:2

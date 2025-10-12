@@ -1,0 +1,299 @@
+
+5/23/25 6:43:58p * Your healer's shirt is in very good condition.
+5/23/25 6:43:58p * Your pair of second-circle pants named “white” is in very good condition.
+5/23/25 6:43:58p Welcome to Clan Lord, Cat Food!
+5/23/25 6:43:58p Type \HELP for a list of commands.
+5/23/25 6:43:58p • You gain experience from your recent studies.
+5/23/25 6:43:58p *Healer Mode
+5/23/25 6:43:58p * Healer Item set to asklepian 
+5/23/25 6:43:58p The healing spell has started.
+5/23/25 6:43:58p You have been studying for 3 days, 21 hours, 7 minutes.
+5/23/25 6:44:01p It's 10:37pm on Soldi, day 67 of Summer, 641.
+5/23/25 6:44:01p Friends online: none.
+5/23/25 6:44:02p There are three members of Black Phoenix clanning: Grando, Mimo and you.
+5/23/25 6:44:02p • What’s New: https://deltatao.com/clanlord/news
+5/23/25 6:44:12p * Tip of the day: Select your purse and type /DROP <amount> to drop a pile of coins. (Use /OPTIONS to turn tips off.)
+5/23/25 6:44:24p Shelka says, "I wish some brave soul would crawl down inside and clean out the well."
+5/23/25 6:45:04p •You have more purgatory pendant knowledge.
+5/23/25 6:45:28p * You need a breath of air!
+5/23/25 6:45:29p •The healing spell has been broken.
+5/23/25 6:46:12p * Auto Healer ON!
+5/23/25 6:46:45p Grando is sharing experiences with you.
+5/23/25 6:47:21p You have 331 coins.
+5/23/25 6:48:10p * Auto thanks names set to:
+5/23/25 6:48:10p  Silky 
+5/23/25 6:48:11p  Haffron 
+5/23/25 6:48:11p  Woolf 
+5/23/25 6:48:11p  Grando 
+5/23/25 6:48:11p   
+5/23/25 6:48:18p * Karma Message set to  . 
+5/23/25 6:48:23p * Auto Thanker Online!
+5/23/25 6:48:23p You have no karma to give.
+5/23/25 6:49:03p Grando says, "c heal me"
+5/23/25 6:49:03p * Auto Healing Grando 
+5/23/25 6:49:38p Grando says, "c heal me"
+5/23/25 6:49:38p * Auto Healing Grando 
+5/23/25 6:50:12p Grando says, "c heal me"
+5/23/25 6:50:12p * Auto Healing Grando 
+5/23/25 6:50:30p Grando says, "c area"
+5/23/25 6:50:31p • You begin radius healing.
+5/23/25 6:50:44p You have 331 coins.
+5/23/25 6:51:09p Grando says, "c heal me"
+5/23/25 6:51:10p * Auto Healing Grando 
+5/23/25 6:51:31p Grando says, "c area"
+5/23/25 6:51:31p • You begin radius healing.
+5/23/25 6:51:41p Grando says, "c heal me"
+5/23/25 6:51:42p * Auto Healing Grando 
+5/23/25 6:52:12p Grando says, "c area"
+5/23/25 6:52:12p • You begin radius healing.
+5/23/25 6:52:23p Grando says, "c area"
+5/23/25 6:52:23p • You stop radius healing.
+5/23/25 6:52:25p Grando says, "c heal me"
+5/23/25 6:52:26p * Auto Healing Grando 
+5/23/25 6:52:59p Grando says, "c area"
+5/23/25 6:53:00p • You begin radius healing.
+5/23/25 6:53:10p Grando says, "c heal me"
+5/23/25 6:53:10p * Auto Healing Grando 
+5/23/25 6:53:37p Grando says, "c area"
+5/23/25 6:53:37p • You begin radius healing.
+5/23/25 6:53:49p Grando says, "c heal me"
+5/23/25 6:53:49p * Auto Healing Grando 
+5/23/25 6:54:13p You have 331 coins.
+5/23/25 6:54:23p Haffron is too far away for your explanation.
+5/23/25 6:54:23p You gave signed good karma to Haffron.
+5/23/25 6:54:39p Grando says, "c area"
+5/23/25 6:54:39p • You begin radius healing.
+5/23/25 6:54:55p Grando says, "c heal me"
+5/23/25 6:54:55p * Auto Healing Grando 
+5/23/25 6:55:24p Grando says, "c area"
+5/23/25 6:55:24p • You begin radius healing.
+5/23/25 6:55:36p Grando says, "c heal me"
+5/23/25 6:55:36p * Auto Healing Grando 
+5/23/25 6:56:23p Grando says, "c area"
+5/23/25 6:56:23p • You begin radius healing.
+5/23/25 6:56:36p Grando says, "c heal me"
+5/23/25 6:56:36p * Auto Healing Grando 
+5/23/25 6:57:10p Grando says, "c area"
+5/23/25 6:57:10p • You begin radius healing.
+5/23/25 6:57:24p Grando says, "c heal me"
+5/23/25 6:57:24p * Auto Healing Grando 
+5/23/25 6:57:41p You have 331 coins.
+5/23/25 6:58:05p Grando says, "c area"
+5/23/25 6:58:05p • You begin radius healing.
+5/23/25 6:58:31p Grando says, "c heal me"
+5/23/25 6:58:32p * Auto Healing Grando 
+5/23/25 6:58:55p Grando says, "c area"
+5/23/25 6:58:55p • You begin radius healing.
+5/23/25 6:59:09p Grando says, "c heal me"
+5/23/25 6:59:10p * Auto Healing Grando 
+5/23/25 6:59:37p Grando says, "c area"
+5/23/25 6:59:38p • You begin radius healing.
+5/23/25 6:59:56p Grando says, "c heal me"
+5/23/25 6:59:56p * Auto Healing Grando 
+5/23/25 7:00:24p Woolf is too far away for your explanation.
+5/23/25 7:00:24p You gave signed good karma to Woolf.
+5/23/25 7:00:46p Grando says, "c area"
+5/23/25 7:00:47p • You begin radius healing.
+5/23/25 7:01:08p Grando says, "c heal me"
+5/23/25 7:01:08p * Auto Healing Grando 
+5/23/25 7:01:08p You have 331 coins.
+5/23/25 7:02:03p Grando says, "c area"
+5/23/25 7:02:04p • You begin radius healing.
+5/23/25 7:02:26p Grando says, "c heal me"
+5/23/25 7:02:26p * Auto Healing Grando 
+5/23/25 7:02:41p Grando says, "c area"
+5/23/25 7:02:41p • You begin radius healing.
+5/23/25 7:02:54p • There is nobody nearby enough to continue radius healing.
+5/23/25 7:03:06p Grando says, "c heal me"
+5/23/25 7:03:06p * Auto Healing Grando 
+5/23/25 7:03:49p Grando says, "c heal me"
+5/23/25 7:03:49p * Auto Healing Grando 
+5/23/25 7:04:08p • It’s Midnight on Lundi, the 68th day of Summer in the 641st year of the Ascendancy, and all’s well.
+5/23/25 7:04:29p Grando says, "c heal me"
+5/23/25 7:04:30p * Auto Healing Grando 
+5/23/25 7:04:36p You have 331 coins.
+5/23/25 7:05:15p Grando says, "c heal me"
+5/23/25 7:05:15p * Auto Healing Grando 
+5/23/25 7:05:31p Grando says, "c area"
+5/23/25 7:05:32p • You begin radius healing.
+5/23/25 7:05:56p Grando says, "c heal me"
+5/23/25 7:05:56p * Auto Healing Grando 
+5/23/25 7:06:22p Grando says, "c area"
+5/23/25 7:06:22p • You begin radius healing.
+5/23/25 7:06:24p You have given this character as much good karma as is allowed. Wait for it to decay.
+5/23/25 7:06:42p • There is nobody nearby enough to continue radius healing.
+5/23/25 7:07:10p Grando says, "c heal me"
+5/23/25 7:07:10p * Auto Healing Grando 
+5/23/25 7:08:04p You have 331 coins.
+5/23/25 7:08:18p Grando says, "c heal me"
+5/23/25 7:08:18p * Auto Healing Grando 
+5/23/25 7:09:07p Grando says, "c heal me"
+5/23/25 7:09:07p * Auto Healing Grando 
+5/23/25 7:09:54p Grando says, "c area"
+5/23/25 7:09:54p • You begin radius healing.
+5/23/25 7:10:06p • There is nobody nearby enough to continue radius healing.
+5/23/25 7:10:29p Grando says, "c heal me"
+5/23/25 7:10:29p * Auto Healing Grando 
+5/23/25 7:11:30p You have 331 coins.
+5/23/25 7:12:01p Grando says, "c heal me"
+5/23/25 7:12:01p * Auto Healing Grando 
+5/23/25 7:12:14p Grando says, "c area"
+5/23/25 7:12:15p • You begin radius healing.
+5/23/25 7:12:24p Silky is too far away for your explanation.
+5/23/25 7:12:24p You gave signed good karma to Silky.
+5/23/25 7:12:24p • There is nobody nearby enough to continue radius healing.
+5/23/25 7:12:29p Grando says, "c heal me"
+5/23/25 7:12:29p * Auto Healing Grando 
+5/23/25 7:12:45p You just received anonymous good karma.
+5/23/25 7:13:17p Grando says, "c heal me"
+5/23/25 7:13:17p * Auto Healing Grando 
+5/23/25 7:14:04p Grando says, "c heal me"
+5/23/25 7:14:04p * Auto Healing Grando 
+5/23/25 7:14:52p You have 331 coins.
+5/23/25 7:15:24p Grando says, "c heal me"
+5/23/25 7:15:25p * Auto Healing Grando 
+5/23/25 7:15:46p You just received anonymous good karma.
+5/23/25 7:18:14p You have 331 coins.
+5/23/25 7:18:24p Haffron is too far away for your explanation.
+5/23/25 7:18:24p You gave signed good karma to Haffron.
+5/23/25 7:21:41p You have 331 coins.
+5/23/25 7:21:46p You just received anonymous good karma.
+5/23/25 7:24:24p Woolf is too far away for your explanation.
+5/23/25 7:24:24p You gave signed good karma to Woolf.
+5/23/25 7:25:01p You have 331 coins.
+5/23/25 7:27:46p You just received anonymous good karma.
+5/23/25 7:28:25p You have 331 coins.
+5/23/25 7:30:25p You have given this character as much good karma as is allowed. Wait for it to decay.
+5/23/25 7:31:48p You have 331 coins.
+5/23/25 7:33:47p You just received anonymous good karma.
+5/23/25 7:35:09p You have 331 coins.
+5/23/25 7:36:25p Silky is too far away for your explanation.
+5/23/25 7:36:25p You gave signed good karma to Silky.
+5/23/25 7:37:04p Biro thinks, "MORK"
+5/23/25 7:38:31p You have 331 coins.
+5/23/25 7:39:47p You just received anonymous good karma.
+5/23/25 7:41:52p You have 331 coins.
+5/23/25 7:42:25p Haffron is too far away for your explanation.
+5/23/25 7:42:25p You gave signed good karma to Haffron.
+5/23/25 7:45:11p You have 331 coins.
+5/23/25 7:45:47p You just received anonymous good karma.
+5/23/25 7:47:21p Grando says, "c heal me"
+5/23/25 7:47:22p * Auto Healing Grando 
+5/23/25 7:47:38p Grando says, "c heal me"
+5/23/25 7:47:39p * Auto Healing Grando 
+5/23/25 7:48:01p Grando says, "c area"
+5/23/25 7:48:01p • You begin radius healing.
+5/23/25 7:48:13p Grando says, "c heal me"
+5/23/25 7:48:14p * Auto Healing Grando 
+5/23/25 7:48:25p Woolf is too far away for your explanation.
+5/23/25 7:48:25p You gave signed good karma to Woolf.
+5/23/25 7:48:32p You have 331 coins.
+5/23/25 7:48:46p Grando says, "c area"
+5/23/25 7:48:47p • You begin radius healing.
+5/23/25 7:49:06p • There is nobody nearby enough to continue radius healing.
+5/23/25 7:49:09p Grando says, "c heal me"
+5/23/25 7:49:10p * Auto Healing Grando 
+5/23/25 7:49:59p Grando says, "c heal me"
+5/23/25 7:49:59p * Auto Healing Grando 
+5/23/25 7:50:56p Grando says, "c heal me"
+5/23/25 7:50:57p * Auto Healing Grando 
+5/23/25 7:51:42p Grando says, "c area"
+5/23/25 7:51:42p • You begin radius healing.
+5/23/25 7:51:48p You just received anonymous good karma.
+5/23/25 7:51:49p • There is nobody nearby enough to continue radius healing.
+5/23/25 7:51:55p You have 331 coins.
+5/23/25 7:52:59p Grando says, "c heal me"
+5/23/25 7:53:00p * Auto Healing Grando 
+5/23/25 7:53:11p Catan is sharing experiences with you.
+5/23/25 7:54:25p You have given this character as much good karma as is allowed. Wait for it to decay.
+5/23/25 7:55:18p You have 331 coins.
+5/23/25 7:58:40p You have 331 coins.
+5/23/25 8:00:25p Silky is too far away for your explanation.
+5/23/25 8:00:25p You gave signed good karma to Silky.
+5/23/25 8:02:00p You have 331 coins.
+5/23/25 8:05:25p You have 331 coins.
+5/23/25 8:06:26p Haffron is too far away for your explanation.
+5/23/25 8:06:26p You gave signed good karma to Haffron.
+5/23/25 8:06:49p You just received anonymous good karma.
+5/23/25 8:07:32p Grando says, "c heal me"
+5/23/25 8:07:32p * Auto Healing Grando 
+5/23/25 8:08:47p You have 331 coins.
+5/23/25 8:12:08p You have 331 coins.
+5/23/25 8:12:26p Woolf is too far away for your explanation.
+5/23/25 8:12:26p You gave signed good karma to Woolf.
+5/23/25 8:12:49p You just received anonymous good karma.
+5/23/25 8:13:19p Grando says, "c heal me"
+5/23/25 8:13:20p * Auto Healing Grando 
+5/23/25 8:15:30p You have 331 coins.
+5/23/25 8:18:26p You have given this character as much good karma as is allowed. Wait for it to decay.
+5/23/25 8:18:51p You have 331 coins.
+5/23/25 8:19:20p Grando says, "c heal me"
+5/23/25 8:19:21p * Auto Healing Grando 
+5/23/25 8:21:18p •The Sun rises.
+5/23/25 8:22:12p You have 331 coins.
+5/23/25 8:23:10p Grando says, "c heal me"
+5/23/25 8:23:10p * Auto Healing Grando 
+5/23/25 8:24:26p Silky is too far away for your explanation.
+5/23/25 8:24:26p You gave signed good karma to Silky.
+5/23/25 8:24:43p Grando says, "c heal me"
+5/23/25 8:24:44p * Auto Healing Grando 
+5/23/25 8:25:35p You have 331 coins.
+5/23/25 8:26:32p Grando says, "c heal me"
+5/23/25 8:26:32p * Auto Healing Grando 
+5/23/25 8:28:21p Grando says, "c heal me"
+5/23/25 8:28:21p * Auto Healing Grando 
+5/23/25 8:29:01p You have 331 coins.
+5/23/25 8:29:54p Catan is sharing experiences with you.
+5/23/25 8:30:26p Haffron is too far away for your explanation.
+5/23/25 8:30:26p You gave signed good karma to Haffron.
+5/23/25 8:31:16p Catan thinks, "Is there a smith available please?"
+5/23/25 8:31:52p Slyph thinks, "I will bring out Pockets for you catan, IF you load my macro. please see me in town"
+5/23/25 8:32:24p You have 331 coins.
+5/23/25 8:35:48p You have 331 coins.
+5/23/25 8:36:27p Woolf is too far away for your explanation.
+5/23/25 8:36:27p You gave signed good karma to Woolf.
+5/23/25 8:39:09p You have 331 coins.
+5/23/25 8:42:27p You have given this character as much good karma as is allowed. Wait for it to decay.
+5/23/25 8:42:31p You have 331 coins.
+5/23/25 8:45:54p You have 331 coins.
+5/23/25 8:48:27p Silky is too far away for your explanation.
+5/23/25 8:48:27p You gave signed good karma to Silky.
+5/23/25 8:49:16p You have 331 coins.
+5/23/25 8:52:42p You have 331 coins.
+5/23/25 8:54:27p Haffron is too far away for your explanation.
+5/23/25 8:54:27p You gave signed good karma to Haffron.
+5/23/25 8:56:08p You have 331 coins.
+5/23/25 8:59:30p You have 331 coins.
+5/23/25 9:00:24p Grando says, "c heal me"
+5/23/25 9:00:24p * Auto Healing Grando 
+5/23/25 9:00:27p Woolf is too far away for your explanation.
+5/23/25 9:00:27p You gave signed good karma to Woolf.
+5/23/25 9:02:58p You have 331 coins.
+5/23/25 9:06:25p You have 331 coins.
+5/23/25 9:06:28p You have given this character as much good karma as is allowed. Wait for it to decay.
+5/23/25 9:09:48p You have 331 coins.
+5/23/25 9:10:07p Jeepers thinks, "Me, whenever I get the uli flower before everyone else. https://www.youtube.com/watch?v=Juo_5158tzs"
+5/23/25 9:12:01p Grando says, "c heal me"
+5/23/25 9:12:02p * Auto Healing Grando 
+5/23/25 9:12:28p Silky is too far away for your explanation.
+5/23/25 9:12:28p You gave signed good karma to Silky.
+5/23/25 9:12:52p Grando says, "c heal me"
+5/23/25 9:12:52p * Auto Healing Grando 
+5/23/25 9:13:20p You have 331 coins.
+5/23/25 9:13:32p Grando says, "c area"
+5/23/25 9:13:33p • You begin radius healing.
+5/23/25 9:13:42p • There is nobody nearby enough to continue radius healing.
+5/23/25 9:16:41p You have 331 coins.
+5/23/25 9:18:28p Haffron is too far away for your explanation.
+5/23/25 9:18:28p You gave signed good karma to Haffron.
+5/23/25 9:20:01p You have 331 coins.
+5/23/25 9:23:23p You have 331 coins.
+5/23/25 9:24:28p Woolf is too far away for your explanation.
+5/23/25 9:24:28p You gave signed good karma to Woolf.
+5/23/25 9:26:52p You have 331 coins.
+5/23/25 9:30:15p You have 331 coins.
+5/23/25 9:30:28p You have given this character as much good karma as is allowed. Wait for it to decay.
+5/23/25 9:33:42p •The healing spell has been broken.
+5/23/25 9:33:43p You have 331 coins.
+5/23/25 9:34:22p •You gain experience.
+5/23/25

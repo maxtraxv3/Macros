@@ -1,0 +1,97 @@
+
+8/17/25 1:57:49a * Your pair of pants named “dark grey” is in very good condition.
+8/17/25 1:57:49a * Your shirt named “midnight” is in nearly perfect condition.
+8/17/25 1:57:49a Welcome to Clan Lord, Cassius!
+8/17/25 1:57:49a Type \HELP for a list of commands.
+8/17/25 1:57:49a • You gain experience from your recent studies.
+8/17/25 1:57:49a You have been studying for 43 days, 22 hours, 12 minutes.
+8/17/25 1:57:52a It's 9:40pm on Sombdi, day 56 of Summer, 642.
+8/17/25 1:57:53a There are two members of Black Phoenix clanning: Warawonda and you.
+8/17/25 1:57:53a • What’s New: https://deltatao.com/clanlord/news
+8/17/25 1:57:56a Friends online: none.
+8/17/25 1:57:59a *Auto Trade Zero ON!
+8/17/25 1:58:03a * Tip of the day: Listening doesn’t put any wear on a sunstone. (Use /OPTIONS to turn tips off.)
+8/17/25 1:58:05a • Warawonda offers you a shirt, which  is starting to look a little worn, for free.
+8/17/25 1:58:05a To accept, \BUY 0 Warawonda.
+8/17/25 1:58:05a * Accepted Item From: Warawonda. 
+8/17/25 1:58:05a Warawonda hands you a shirt.
+8/17/25 1:58:08a • Warawonda offers you a pair of pants, which  is starting to look a little worn, for free.
+8/17/25 1:58:08a To accept, \BUY 0 Warawonda.
+8/17/25 1:58:08a * Accepted Item From: Warawonda. 
+8/17/25 1:58:08a Warawonda hands you a pair of pants.
+8/17/25 1:58:10a • Warawonda offers you a pair of shoes, which  is starting to look a little worn, for free.
+8/17/25 1:58:10a To accept, \BUY 0 Warawonda.
+8/17/25 1:58:11a * Accepted Item From: Warawonda. 
+8/17/25 1:58:11a Warawonda hands you a pair of shoes.
+8/17/25 1:58:13a • Warawonda offers you the cloak she's wearing, which  is in very good condition, for free.
+8/17/25 1:58:13a To accept, \BUY 0 Warawonda.
+8/17/25 1:58:13a * Accepted Item From: Warawonda. 
+8/17/25 1:58:14a Warawonda hands you a cloak.
+8/17/25 1:58:25a Warawonda hands you 300 coins.
+8/17/25 1:58:28a Warawonda is done adventuring for a while and will be staying here.
+8/17/25 1:58:40a You have 684 coins.
+8/17/25 1:58:47a •You seem to fight more effectively now.
+8/17/25 1:59:10a You offer a cloak named “silk” to Jeff for free.
+8/17/25 1:59:10a \SELL /cancel to cancel the offer.
+8/17/25 1:59:11a You hand Jeff a cloak.
+8/17/25 1:59:15a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+8/17/25 1:59:16a You offer a pair of pants named “gold” to Jeff for free.
+8/17/25 1:59:16a \SELL /cancel to cancel the offer.
+8/17/25 1:59:16a You hand Jeff a pair of pants.
+8/17/25 1:59:16a Aitnos asks, "Would you like to apply some of your learning to Stedfustus’s lessons?"
+8/17/25 1:59:17a Cassius whispers, "yes"
+8/17/25 1:59:18a BloodSucker says, "yes"
+8/17/25 1:59:19a Aitnos says, "Congratulations, BloodSucker. You should now understand much more of Stedfustus’s teachings."
+8/17/25 1:59:21a You offer a pair of shoes named “glossy white” to Jeff for free.
+8/17/25 1:59:21a \SELL /cancel to cancel the offer.
+8/17/25 1:59:21a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+8/17/25 1:59:22a You hand Jeff a pair of shoes.
+8/17/25 1:59:22a BloodSucker says, "yes"
+8/17/25 1:59:23a Aitnos asks, "Would you like to apply some of your learning to Stedfustus’s lessons?"
+8/17/25 1:59:24a Cassius whispers, "yes"
+8/17/25 1:59:24a BloodSucker says, "yes"
+8/17/25 1:59:25a Aitnos says, "Congratulations, BloodSucker. You should now understand much more of Stedfustus’s teachings."
+8/17/25 1:59:28a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+8/17/25 1:59:29a Aitnos asks, "Would you like to apply some of your learning to Stedfustus’s lessons?"
+8/17/25 1:59:30a Cassius whispers, "yes"
+8/17/25 1:59:31a BloodSucker says, "yes"
+8/17/25 1:59:32a Aitnos says, "Congratulations, BloodSucker. You should now understand much more of Stedfustus’s teachings."
+8/17/25 1:59:33a You have 684 coins.
+8/17/25 1:59:34a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+8/17/25 1:59:43a You offer a shirt named “Midsummer Maha” to Jeff for free.
+8/17/25 1:59:43a \SELL /cancel to cancel the offer.
+8/17/25 1:59:43a You hand Jeff a shirt.
+8/17/25 2:00:07a Jeff mends a pair of shoes.
+8/17/25 2:00:10a Jeff mends a cloak.
+8/17/25 2:00:18a •You seem to fight more effectively now.
+8/17/25 2:00:18a Jeff mends a shirt.
+8/17/25 2:00:23a You have 684 coins.
+8/17/25 2:00:34a Jeff mends a pair of pants.
+8/17/25 2:00:40a • Jeff offers you a pair of pants, which is in nearly perfect condition, for free.
+8/17/25 2:00:40a To accept, \BUY 0 Jeff.
+8/17/25 2:00:40a * Accepted Item From: Jeff. 
+8/17/25 2:00:41a Jeff hands you a pair of pants.
+8/17/25 2:00:44a • Jeff offers you a shirt, which is in nearly perfect condition, for free.
+8/17/25 2:00:44a To accept, \BUY 0 Jeff.
+8/17/25 2:00:44a * Accepted Item From: Jeff. 
+8/17/25 2:00:45a Jeff hands you a shirt.
+8/17/25 2:00:47a • Jeff offers you a cloak, which is in nearly perfect condition, for free.
+8/17/25 2:00:47a To accept, \BUY 0 Jeff.
+8/17/25 2:00:48a * Accepted Item From: Jeff. 
+8/17/25 2:00:48a Jeff hands you a cloak.
+8/17/25 2:00:56a • Jeff offers you a pair of shoes, which is in nearly perfect condition, for free.
+8/17/25 2:00:56a To accept, \BUY 0 Jeff.
+8/17/25 2:00:57a * Accepted Item From: Jeff. 
+8/17/25 2:00:57a Jeff hands you a pair of shoes.
+8/17/25 2:01:14a Jeff is done adventuring for a while and will be staying here.
+8/17/25 2:01:16a You have 684 coins.
+8/17/25 2:01:37a You offer a cloak named “silk” to Warawonda for free.
+8/17/25 2:01:37a \SELL /cancel to cancel the offer.
+8/17/25 2:01:37a You hand Warawonda a cloak.
+8/17/25 2:01:47a You offer a pair of pants named “gold” to Warawonda for free.
+8/17/25 2:01:47a \SELL /cancel to cancel the offer.
+8/17/25 2:01:48a You hand Warawonda a pair of pants.
+8/17/25 2:01:49a •You seem to fight more effectively now.
+8/17/25 2:01:51a You offer a shirt named “Midsummer Maha” to Warawonda for free.
+8/17/25 2:01:51a \SELL /cancel to cancel the offer.
+8/17/25 2:01:52a You hand

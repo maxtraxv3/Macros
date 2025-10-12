@@ -1,0 +1,291 @@
+
+7/16/25 2:05:06a * Your cloak named “royal purple” is in very good condition.
+7/16/25 2:05:06a Welcome to Clan Lord, Unholy!
+7/16/25 2:05:06a Type \HELP for a list of commands.
+7/16/25 2:05:06a • You have been charged 110 coins for advanced studies.
+7/16/25 2:05:06a • You gain experience from your recent studies.
+7/16/25 2:05:06a *Healer Mode
+7/16/25 2:05:06a * Healer Item set to asklepian staff 
+7/16/25 2:05:06a Unholy is now Clanning.
+7/16/25 2:05:06a The healing spell has started.
+7/16/25 2:05:06a You have been studying for 3 days, 14 hours, 37 minutes.
+7/16/25 2:05:09a It's 12:20am on Gradi, day 16 of Spring, 642.
+7/16/25 2:05:10a Friends online: none.
+7/16/25 2:05:11a You are the only member of Black Phoenix clanning.
+7/16/25 2:05:11a • What’s New: https://deltatao.com/clanlord/news
+7/16/25 2:05:21a * Tip of the day: /USEITEM pairofpants, /USEITEM "pair of pants", and /USEITEM LEGS all do the same thing. (Use /OPTIONS to turn tips off.)
+7/16/25 2:05:34a Bulgatra is sharing experiences with you.
+7/16/25 2:05:38a You begin sharing your experiences with Bulgatra.
+7/16/25 2:05:47a Koppi yells, "Phroon reports: Traveller's Advisory: The portal is now in Village."
+7/16/25 2:05:50a •You seem to be able to take more damage now.
+7/16/25 2:05:50a Ace says, "yeah naf"
+7/16/25 2:05:50a Ace says, "agree"
+7/16/25 2:05:59a Ace says, "also they made one good movie lol then just milked it"
+7/16/25 2:06:18a Nyarlathotep ponders, "oh right i have coins now..."
+7/16/25 2:06:27a Nyarlathotep says, "hmm"
+7/16/25 2:06:29a Nyarlathotep says, "thought i was broke"
+7/16/25 2:06:35a Shadowmutt growls, "Woof!"
+7/16/25 2:06:41a (Arianrhod waves)
+7/16/25 2:07:58a You have 2801 coins.
+7/16/25 2:10:43a Shadowmutt growls, "Grrr."
+7/16/25 2:10:51a You have 2801 coins.
+7/16/25 2:10:57a Koppi yells, "Phroon reports: Traveller's Advisory: The portal is now in Village."
+7/16/25 2:13:47a You have 2801 coins.
+7/16/25 2:14:47a Crius yells, "It’s 1 o’clock, and all’s well."
+7/16/25 2:14:52a Crius yells, "It looks pretty quiet in a Windspinner Monastery."
+7/16/25 2:15:12a Poplar is now Clanning.
+7/16/25 2:15:33a (Poplar waves.)
+7/16/25 2:15:41a (Nyarlathotep waves)
+7/16/25 2:15:53a Nyarlathotep says, "biro's off in other world land beating up monsters"
+7/16/25 2:16:08a Koppi yells, "Phroon reports: Traveller's Advisory: The portal is now in Village."
+7/16/25 2:16:22a Poplar says, "weird lag today"
+7/16/25 2:16:41a You have 2801 coins.
+7/16/25 2:17:15a Agratis Mellin is now Clanning.
+7/16/25 2:17:37a Crius yells, "All welcome visitor Agratis Mellin to the lands -- Hail, Agratis Mellin!"
+7/16/25 2:17:46a Poplar exclaims, "Hello!"
+7/16/25 2:17:46a Agratis Mellin says, "woop woop"
+7/16/25 2:17:54a Agratis Mellin says, "It's Hashak"
+7/16/25 2:18:00a Unholy says, "oh hi"
+7/16/25 2:18:06a Agratis Mellin says, "I'm trying the java client"
+7/16/25 2:18:06a Poplar says, "Hi hash"
+7/16/25 2:18:10a Poplar says, "Ah"
+7/16/25 2:18:10a Unholy says, "oh.."
+7/16/25 2:18:19a Agratis Mellin says, ":)"
+7/16/25 2:18:21a Unholy asks, "have tired macros?"
+7/16/25 2:18:42a Agratis Mellin says, "No, I suppose I should go copy a file"
+7/16/25 2:19:33a You have 2801 coins.
+7/16/25 2:20:01a Unholy ponders, "also crashes on NPC that mumble, and show thigns it shouldnt"
+7/16/25 2:20:46a Agratis Mellin says, "well, I can kill rats"
+7/16/25 2:20:51a Agratis Mellin says, "thats neat"
+7/16/25 2:20:55a Poplar says, "hehehe"
+7/16/25 2:21:05a Ace says, "there is a trick to do scaling on java"
+7/16/25 2:21:11a Ace says, "if you start it from the terminal"
+7/16/25 2:21:11a Agratis Mellin asks, "oh?"
+7/16/25 2:21:19a Koppi yells, "Phroon reports: Traveller's Advisory: The portal is now in Village."
+7/16/25 2:21:34a Agratis Mellin says, "interesting"
+7/16/25 2:21:41a Ace says, "java -Dsun.java2d.uiScale=2 -jar ClanLord-0.8.5-alpha4-all.jar"
+7/16/25 2:21:46a Agratis Mellin says, "I'm on an old Thinkpad running linux"
+7/16/25 2:21:53a Ace says, "replace that with .jar with whatever the current version this"
+7/16/25 2:22:00a Ace says, "this was on a chromebook running the linux environment"
+7/16/25 2:22:13a Ace says, "but this does it 2x"
+7/16/25 2:22:25a You have 2801 coins.
+7/16/25 2:22:32a Agratis Mellin says, "hm not sure this monitor can do 2x XD"
+7/16/25 2:22:39a Ace says, "can do 1.5"
+7/16/25 2:23:19a Agratis Mellin says, "I'm usin this to make sure I have solutions before I fully switch to Linux"
+7/16/25 2:23:34a Agratis Mellin says, "so thats good to know"
+7/16/25 2:23:35a Ace says, "it's not a great a solution"
+7/16/25 2:23:48a Unholy says, "you can also run the windows client via steam"
+7/16/25 2:23:51a Ace says, "probs better to run a window vm"
+7/16/25 2:23:59a Ace asks, "oh does proton work?"
+7/16/25 2:24:03a Ace says, "ye I guess that should"
+7/16/25 2:24:06a Agratis Mellin exclaims, "ohhhh... I'll try that!"
+7/16/25 2:24:06a Unholy says, "yes"
+7/16/25 2:24:17a Ace says, "on mac I can run the window client using whisky"
+7/16/25 2:24:26a Agratis Mellin says, "I got Myth II: Soulblighter working on this machine :)"
+7/16/25 2:24:30a Unholy says, "https://www.reddit.com/r/clanlord/comments/1g4vw3l/how_to_play_clanlord_on_linux_debian_based_needs/"
+7/16/25 2:24:35a Nyarlathotep asks, "hah so why you playing clanlord?"
+7/16/25 2:24:39a Nyarlathotep says, "myth 2 >"
+7/16/25 2:24:43a Agratis Mellin says, "hehe"
+7/16/25 2:24:46a Ace says, "what"
+7/16/25 2:25:00a Agratis Mellin says, "cuz I'm playing the campaign co-op with my roommate who isnt home"
+7/16/25 2:25:08a Nyarlathotep exclaims, "ooooo nice!"
+7/16/25 2:25:14a Shadowmutt growls, "Grrr."
+7/16/25 2:25:16a You have 2801 coins.
+7/16/25 2:25:25a Agratis Mellin says, "I got 4 Thinkpads for free and they're all running Linux now with Myth on them"
+7/16/25 2:25:33a Poplar says, "haha nice"
+7/16/25 2:25:41a Agratis Mellin says, "and Command and Conquer"
+7/16/25 2:25:42a Ace says, "who is handing out free thinkpads"
+7/16/25 2:25:59a Agratis Mellin says, "haha it's a great time for scavenger nerds :D"
+7/16/25 2:26:05a Poplar says, "brb"
+7/16/25 2:26:30a Koppi yells, "Phroon reports: Traveller's Advisory: The portal is now in Village."
+7/16/25 2:27:27a Loom'Nir says, "Greetings, Lady Poplar."
+7/16/25 2:27:28a Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+7/16/25 2:27:46a Agratis Mellin asks, "is the DT website the most current windows client?"
+7/16/25 2:27:52a Unholy says, "yes"
+7/16/25 2:27:57a Agratis Mellin says, "okey doke"
+7/16/25 2:28:07a You have 2801 coins.
+7/16/25 2:28:53a Agratis Mellin says, "Clieunk is great, but I'm committing to abandoning corpo-software as much as possible"
+7/16/25 2:29:20a Agratis Mellin says, "(not Clieunk, but Mac OS)"
+7/16/25 2:29:25a Crius yells, "It’s 2 o’clock, and all’s well."
+7/16/25 2:29:29a Crius yells, "It looks pretty quiet in a Windspinner Monastery."
+7/16/25 2:30:12a Nyarlathotep turns to stone.
+7/16/25 2:30:16a Poplar says, "yeah linux is better about that itsn't it"
+7/16/25 2:30:33a * Healing Nyarlathotep 
+7/16/25 2:30:35a Agratis Mellin says, "yea and its way lighter on system resources"
+7/16/25 2:30:39a * Healing Poplar 
+7/16/25 2:31:00a You have 2801 coins.
+7/16/25 2:31:19a Agratis Mellin says, "Proton has basically all my gaming worries solved and even opens new options :)"
+7/16/25 2:31:28a (Unholy nods)
+7/16/25 2:31:37a Nyarlathotep ponders, "windows with a steam account does the same thing"
+7/16/25 2:31:39a (Nyarlathotep chuckles)
+7/16/25 2:31:41a Koppi yells, "Phroon reports: Traveller's Advisory: The portal is now in Village."
+7/16/25 2:31:48a Unholy says, "no"
+7/16/25 2:31:52a Agratis Mellin says, "yea but then I'm using windows"
+7/16/25 2:31:54a Unholy says, "no it doesnt"
+7/16/25 2:32:13a Unholy says, "you can get more preformance using steam on linux"
+7/16/25 2:32:20a Unholy says, "then on windows"
+7/16/25 2:32:23a Nyarlathotep says, "well"
+7/16/25 2:32:29a Unholy says, "even usiong proton"
+7/16/25 2:32:29a Nyarlathotep says, "linux doesnt count"
+7/16/25 2:32:31a Ace says, "yeah windows is trash"
+7/16/25 2:32:35a Nyarlathotep says, "thats for tryhard nerds"
+7/16/25 2:32:38a (Nyarlathotep chuckles)
+7/16/25 2:32:42a Agratis Mellin says, "lol"
+7/16/25 2:32:51a Agratis Mellin says, "I am trying so hard"
+7/16/25 2:32:56a Nyarlathotep says, "soooo hard"
+7/16/25 2:33:02a Unholy says, "linux isnt for nerds"
+7/16/25 2:33:02a Poplar says, "hehehe"
+7/16/25 2:33:03a Ace says, "but can just buy a better pc lol"
+7/16/25 2:33:11a Unholy says, "its super easy"
+7/16/25 2:33:21a Nyarlathotep says, "i know"
+7/16/25 2:33:27a Nyarlathotep says, "nerd joke is from 20+ years ago"
+7/16/25 2:33:29a Nyarlathotep says, "i'm old"
+7/16/25 2:33:36a Unholy says, "no longer works"
+7/16/25 2:33:41a Ace says, "i once build arch linux from scratch"
+7/16/25 2:33:43a Agratis Mellin says, "yea I'm not finding it too difficult"
+7/16/25 2:33:48a Ace says, "then I was like; yep this is good"
+7/16/25 2:33:53a Ace says, "and bought a mac"
+7/16/25 2:33:54a Agratis Mellin says, "mounting drives is still a little weird"
+7/16/25 2:33:58a You have 2801 coins.
+7/16/25 2:34:09a Unholy says, "heh"
+7/16/25 2:34:19a Unholy says, "Arch is for nerds"
+7/16/25 2:34:32a Ace says, "yea"
+7/16/25 2:34:34a Ace says, "I was bored"
+7/16/25 2:34:47a Unholy says, "hehe"
+7/16/25 2:35:07a Ace says, "I use ubuntu server for work a bunch"
+7/16/25 2:35:16a Ace says, "we have some custom software running on it"
+7/16/25 2:35:38a Sentinel says, "Obey the Emperor's law, or be destroyed."
+7/16/25 2:36:00a Unholy says, "gota plex media server offline, no paid thigns on debian and linux iso downlader as well *wink*"
+7/16/25 2:36:00a Donk is now Clanning.
+7/16/25 2:36:33a Agratis Mellin says, "I've got Jellyfin with Sonarr and Radarr running on a different free laptop I got ;)"
+7/16/25 2:36:52a Koppi yells, "Phroon reports: Traveller's Advisory: The portal is now in Village."
+7/16/25 2:37:01a You have 2801 coins.
+7/16/25 2:37:15a Taryn is now Clanning.
+7/16/25 2:37:27a Agratis Mellin asks, "ok I added ClanLord.exe as a non-Steam game but it wont launch.. whatam I missing?"
+7/16/25 2:37:36a Ace says, "proton"
+7/16/25 2:37:45a Unholy says, "gotta enable proton"
+7/16/25 2:38:12a Noivad is now Clanning.
+7/16/25 2:38:27a (Poplar waves.)
+7/16/25 2:38:28a (Noivad waves)
+7/16/25 2:38:32a Noivad says, "hello"
+7/16/25 2:38:37a Ace says, "brb fighting poplar's dog"
+7/16/25 2:38:44a Agratis Mellin says, "ah found it"
+7/16/25 2:38:56a Noivad asks, "hmm?"
+7/16/25 2:39:02a Agratis Mellin says, "selected Proton 9-whatever was highest"
+7/16/25 2:39:06a Agratis Mellin says, "hey Noiv"
+7/16/25 2:39:12a Unholy says, "you might need proton tweaks to install quicktime foe sound"
+7/16/25 2:39:15a Noivad says, "hello"
+7/16/25 2:39:22a Agratis Mellin says, "This is Hash reporting in from the Java client"
+7/16/25 2:39:23a Noivad asks, "who are you?"
+7/16/25 2:39:27a Noivad exclaims, "ah!"
+7/16/25 2:39:43a Noivad asks, "why for you not in hashak's body?"
+7/16/25 2:39:50a Agratis Mellin says, "trying to get windows client to work through steam on a linux machine"
+7/16/25 2:39:58a Unholy says, "https://www.reddit.com/r/clanlord/comments/1g4vw3l/how_to_play_clanlord_on_linux_debian_based_needs/"
+7/16/25 2:39:58a You have 2801 coins.
+7/16/25 2:40:01a Unholy says, "heh"
+7/16/25 2:40:04a Noivad is sharing experiences with you.
+7/16/25 2:40:11a Agratis Mellin says, "and I gotta leave for work soon, not hunting today"
+7/16/25 2:40:19a Naferu says, "i hab ubuntu 25.04 vm"
+7/16/25 2:40:28a Naferu says, "nad cpl dif kali"
+7/16/25 2:40:39a You begin sharing your experiences with Taryn.
+7/16/25 2:40:39a You are sharing experiences with Taryn and Bulgatra.
+7/16/25 2:40:42a  Taryn added to Karma list
+7/16/25 2:40:47a Naferu says, "broke WSL somehow"
+7/16/25 2:40:47a * Karma Message set to  :) 
+7/16/25 2:41:00a Nyarlathotep says, "man that lanlord post on clanlord reddit is pricelss"
+7/16/25 2:41:04a Naferu says, "too much tweak sindoz"
+7/16/25 2:41:04a Unholy says, "WSL isnt good for anythign other then testing code"
+7/16/25 2:41:15a Ace says, "poplar rebooting"
+7/16/25 2:41:16a Sentinel says, "Greetings, Lord Donk."
+7/16/25 2:41:18a Naferu asks, "there is a clanlord reddit?"
+7/16/25 2:41:20a Sentinel says, "The Sentinel has recorded your name in our permanent record."
+7/16/25 2:41:24a (Unholy nods)
+7/16/25 2:41:26a Sentinel says, "Obey the Emperor's law, or be destroyed."
+7/16/25 2:41:31a Sentinel says, "Greetings, Lord Donk."
+7/16/25 2:41:35a Sentinel says, "The Sentinel has recorded your name in our permanent record."
+7/16/25 2:41:41a Sentinel says, "Obey the Emperor's law, or be destroyed."
+7/16/25 2:41:41a Unholy says, "not very active"
+7/16/25 2:42:03a Koppi yells, "Phroon reports: Traveller's Advisory: The portal is now in Village."
+7/16/25 2:42:04a Agratis Goliana is now Clanning.
+7/16/25 2:42:21a Crius yells, "All welcome visitor Agratis Goliana to the lands -- Hail, Agratis Goliana!"
+7/16/25 2:42:32a (Donk waves.)
+7/16/25 2:42:33a Agratis Goliana exclaims, "windows client through steam!"
+7/16/25 2:42:37a (Biro wave)
+7/16/25 2:42:41a (Agratis Goliana chuckles)
+7/16/25 2:42:47a Nyarlathotep asks, "did ya win biro?"
+7/16/25 2:42:51a You have 2801 coins.
+7/16/25 2:42:55a Shadowmutt growls, "Grrr."
+7/16/25 2:42:57a Ace says, "i won from poplar's dog"
+7/16/25 2:43:09a Dae Fenris is now Clanning.
+7/16/25 2:43:13a Nyarlathotep says, "well ya won just by being around a doggo"
+7/16/25 2:43:16a Biro says, "yes"
+7/16/25 2:43:17a Nyarlathotep says, "lucky"
+7/16/25 2:43:28a Poplar exclaims, "2 doggos!"
+7/16/25 2:43:28a Agratis Goliana says, "OK cool I have 2 CL options to play with later, gotta get ready for work now"
+7/16/25 2:43:31a Biro says, "no hama/mudo yet, so relaxed"
+7/16/25 2:43:33a Nyarlathotep exclaims, "2?!?!"
+7/16/25 2:43:34a (Nyarlathotep cries)
+7/16/25 2:43:34a Agratis Goliana exclaims, "bye!"
+7/16/25 2:43:35a Ace says, "the challenge was get this dog from my lap so I can get my charger"
+7/16/25 2:43:38a Unholy says, "cya"
+7/16/25 2:43:38a Noivad says, "hi Dae"
+7/16/25 2:43:39a Ace says, "which was a challenge"
+7/16/25 2:43:43a  Dae Fenris added to Karma list
+7/16/25 2:43:44a (Dae Fenris waves.)
+7/16/25 2:43:44a Agratis Mellin exclaims, "bye!"
+7/16/25 2:43:47a (Poplar waves.)
+7/16/25 2:44:08a Crius yells, "It’s 3 o’clock, and all’s well."
+7/16/25 2:44:09a Nyarlathotep is sharing experiences with you.
+7/16/25 2:44:13a Crius yells, "It looks pretty quiet in a Windspinner Monastery."
+7/16/25 2:44:16a * Dae Fenris is already on the Karma list.
+7/16/25 2:44:17a You begin sharing your experiences with Dae Fenris.
+7/16/25 2:44:17a You are sharing experiences with Dae Fenris, Taryn and Bulgatra.
+7/16/25 2:45:22a Ace says, "one of the dogs is called Nicky"
+7/16/25 2:45:26a Ace says, "But I call him Licky"
+7/16/25 2:45:32a Ace says, "for his tendency to want to lick my face"
+7/16/25 2:45:36a Biro is no longer Clanning.
+7/16/25 2:45:38a Ponyo is now Clanning.
+7/16/25 2:45:42a Lorikeet is now Clanning.
+7/16/25 2:45:42a You have 2801 coins.
+7/16/25 2:45:43a Noivad exclaims, "let's all go to the village!"
+7/16/25 2:45:58a Shadowmutt growls, "Grrr."
+7/16/25 2:45:58a Unholy asks, "no lori?"
+7/16/25 2:45:58a Ace says, "free ore"
+7/16/25 2:46:02a Nyarlathotep picks up a lump of iron ore.
+7/16/25 2:46:04a Noivad says, "she's late"
+7/16/25 2:46:11a Ace says, "she is here"
+7/16/25 2:46:17a (Poplar waves.)
+7/16/25 2:46:18a Ace's caged scorp snips at the latch.
+7/16/25 2:46:20a (Donk waves.)
+7/16/25 2:46:20a (Ponyo waves)
+7/16/25 2:46:22a You begin sharing your experiences with Lorikeet.
+7/16/25 2:46:22a You are sharing experiences with Lorikeet, Dae Fenris, Taryn and Bulgatra.
+7/16/25 2:46:24a  Lorikeet added to Karma list
+7/16/25 2:46:27a * Auto Thanker Online!
+7/16/25 2:46:27a You gave signed good karma to Taryn, :).
+7/16/25 2:46:34a Taryn whispers, "yes"
+7/16/25 2:46:35a Agratis Goliana is no longer Clanning.
+7/16/25 2:46:44a Lorikeet says, "=)"
+7/16/25 2:46:45a Agratis Mellin is no longer Clanning.
+7/16/25 2:46:47a (Taryn smiles)
+7/16/25 2:46:51a Shadowfire is now Clanning.
+7/16/25 2:47:04a Ace says, "oh"
+7/16/25 2:47:05a Nyarlathotep exclaims, "piece of metal!"
+7/16/25 2:47:09a Ace says, "keep it"
+7/16/25 2:47:10a (Donk waves.)
+7/16/25 2:47:11a (Poplar waves.)
+7/16/25 2:47:12a Nyarlathotep says, "nooo"
+7/16/25 2:47:13a Nyarlathotep says, "i have no room"
+7/16/25 2:47:14a Nyarlathotep says, "take it"
+7/16/25 2:47:14a Koppi yells, "Phroon reports: Traveller's Advisory: The portal is now in Village."
+7/16/25 2:47:15a Lorikeet says, "You off today Shadow? :D"
+7/16/25 2:47:16a Nyarlathotep says, "please"
+7/16/25 2:47:17a Ace says, "me neither lmao"
+7/16/25 2:47:20a Shadowfire says, "i9o.,juhhhhhhhhhhh"
+7/16/25 2:47:21a • /SLEEP when you wish to begin studying.
+7/16/25 2:47:25a • /SLEEP when you wish to begin studying.
+7/16/25 2:47:26a Use \SLEEP again when you return.
+7/16/25 2:47:26a You are done adventuring for a while and will be studying here.
+7/16/25 2:47:27a You have been disconnected from Clan Lord.
+7/16/25 2:47:27a • You will benefit from studying here while you are off-line.
+7/16/25 2:47:28a *** We are no longer connected to the Clan Lord game server. ***

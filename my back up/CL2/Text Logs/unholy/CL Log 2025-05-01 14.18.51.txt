@@ -1,0 +1,159 @@
+
+5/1/25 2:18:51p * Your healer's cloak is in very good condition.
+5/1/25 2:18:51p Welcome to Clan Lord, Unholy!
+5/1/25 2:18:51p Type \HELP for a list of commands.
+5/1/25 2:18:51p • You have been charged 12 coins for advanced studies.
+5/1/25 2:18:51p • You gain experience from your recent studies.
+5/1/25 2:18:51p *Healer Mode
+5/1/25 2:18:51p *Type /hi help for more info
+5/1/25 2:18:51p The healing spell has started.
+5/1/25 2:18:51p You have been studying for 9 hours, 28 minutes.
+5/1/25 2:18:54p It's 4:33am on Lundi, day 67 of Spring, 641.
+5/1/25 2:18:55p Friends online: none.
+5/1/25 2:18:55p There are two members of Black Phoenix clanning: Maxtrax and you.
+5/1/25 2:18:55p • What’s New: https://deltatao.com/clanlord/news
+5/1/25 2:19:04p You begin sharing your experiences with Catan.
+5/1/25 2:19:04p Catan is sharing experiences with you.
+5/1/25 2:19:05p * Tip of the day: Better skinners have a better chance to recover a fur, but they don’t get more from a given one. (Use /OPTIONS to turn tips off.)
+5/1/25 2:19:05p You are still too mentally fatigued to change spirit links.
+5/1/25 2:19:06p Gofram is sharing experiences with you.
+5/1/25 2:19:06p You are still too mentally fatigued to change spirit links.
+5/1/25 2:19:08p You begin sharing your experiences with Gofram.
+5/1/25 2:19:08p You are sharing experiences with Gofram and Catan.
+5/1/25 2:19:14p Gofram says, "just finishing off mud golems"
+5/1/25 2:19:37p Gofram hands you 5 coins.
+5/1/25 2:19:47p Fird Lirden asks, "Ah, Unholy. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+5/1/25 2:19:47p Unholy whispers, "yes"
+5/1/25 2:19:48p Captain Barnac asks, "Ah, Gofram. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+5/1/25 2:20:02p Catan yells, "how much."
+5/1/25 2:20:15p Gofram says, "I'm full marsh hermit"
+5/1/25 2:20:40p Gofram says, "I think at least"
+5/1/25 2:20:41p Gofram says, "been ages"
+5/1/25 2:21:02p Gofram says, "we got the tower to finish up"
+5/1/25 2:21:16p \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+5/1/25 2:21:16p * Healing Catan 
+5/1/25 2:21:20p \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+5/1/25 2:21:20p * Healing Gofram 
+5/1/25 2:21:27p * Healer Item set to caduceus 
+5/1/25 2:21:31p * Healing Gofram 
+5/1/25 2:21:32p * Healing Catan 
+5/1/25 2:21:39p * Healing Gofram 
+5/1/25 2:21:51p •The healing spell has been broken.
+5/1/25 2:21:53p * Healing Gofram 
+5/1/25 2:21:55p * Healing Catan 
+5/1/25 2:22:00p * Healing Unholy 
+5/1/25 2:22:00p •You cannot use your caduceus on yourself.
+5/1/25 2:22:00p Gofram says, "sorry"
+5/1/25 2:22:00p You equip your moonstone.
+5/1/25 2:22:00p •The healing spell has been broken.
+5/1/25 2:22:02p * Healing Catan 
+5/1/25 2:22:02p You equip your caduceus.
+5/1/25 2:22:03p You must equip your moonstone before it can be used.
+5/1/25 2:22:06p * Healing Gofram 
+5/1/25 2:22:07p Gofram says, "works better if I grab a weapon :)"
+5/1/25 2:22:07p You have 2953 coins.
+5/1/25 2:22:14p Unholy says, "heh"
+5/1/25 2:22:25p * Healing Catan 
+5/1/25 2:22:27p * You pick up 2 coins.
+5/1/25 2:22:30p * You pick up 1 coin.
+5/1/25 2:22:36p * Healing Gofram 
+5/1/25 2:22:39p * You pick up 1 coin.
+5/1/25 2:22:41p * Your share in the 2c Mud Golem bounty is 1c.
+5/1/25 2:22:50p * Your share in the 2c Mud Golem bounty is 1c.
+5/1/25 2:22:52p * Healing Catan 
+5/1/25 2:23:02p * Healing Unholy 
+5/1/25 2:23:02p •You cannot use your caduceus on yourself.
+5/1/25 2:23:02p You equip your moonstone.
+5/1/25 2:23:15p * You pick up 1 coin.
+5/1/25 2:23:18p * Healing Catan 
+5/1/25 2:23:18p You equip your caduceus.
+5/1/25 2:23:19p You must equip your moonstone before it can be used.
+5/1/25 2:23:26p * You pick up 2 coins.
+5/1/25 2:23:29p * You pick up 2 coins.
+5/1/25 2:23:32p * Healing Gofram 
+5/1/25 2:23:38p * You pick up 1 coin.
+5/1/25 2:23:39p * Healing Catan 
+5/1/25 2:23:41p * You pick up 1 coin.
+5/1/25 2:23:47p * You pick up 1 coin.
+5/1/25 2:23:50p * Healing Catan 
+5/1/25 2:23:57p * Healing Gofram 
+5/1/25 2:23:59p * Healing Catan 
+5/1/25 2:24:18p * Healing Gofram 
+5/1/25 2:24:24p * Healing Catan 
+5/1/25 2:24:26p * Healing Catan 
+5/1/25 2:24:32p * You pick up 7 coins.
+5/1/25 2:24:37p * You pick up 1 coin.
+5/1/25 2:24:39p * Healing Unholy 
+5/1/25 2:24:39p •You cannot use your caduceus on yourself.
+5/1/25 2:24:39p You equip your moonstone.
+5/1/25 2:24:45p •To heal yourself, type: \USE
+5/1/25 2:24:45p •To heal yourself three times, type: \USE 3
+5/1/25 2:24:45p * Healing Gofram 
+5/1/25 2:24:46p You equip your caduceus.
+5/1/25 2:24:47p You must equip your moonstone before it can be used.
+5/1/25 2:24:47p You must equip your moonstone before it can be used.
+5/1/25 2:24:53p * Healing Catan 
+5/1/25 2:24:57p * You pick up 2 coins.
+5/1/25 2:24:57p * You gain experience.
+5/1/25 2:25:02p * Healing Gofram 
+5/1/25 2:25:03p * Healing Catan 
+5/1/25 2:25:10p * Healing Catan 
+5/1/25 2:25:20p * Healing Gofram 
+5/1/25 2:25:21p You have 2977 coins.
+5/1/25 2:25:25p •The player must be in the same area.
+5/1/25 2:25:28p * Healing Catan 
+5/1/25 2:25:30p * Healing Gofram 
+5/1/25 2:25:35p Gofram says, "ran out of tower :)"
+5/1/25 2:25:41p Catan says, "we win"
+5/1/25 2:25:49p This bookshelf contains books on Zodiac magic.
+5/1/25 2:25:50p This bookshelf contains books on randomness.
+5/1/25 2:25:58p Jeebu Gelthammer says, "Hello, Unholy. Melabrion has said that I can create a ruby ring for you if you have some gold and a ruby gem."
+5/1/25 2:26:02p Jeebu Gelthammer says, "Hello, Gofram. Melabrion has said that I can create a ruby ring for you if you have some gold and a ruby gem."
+5/1/25 2:26:15p Unholy says, "that the ss ring maker"
+5/1/25 2:26:20p Gofram says, "yup"
+5/1/25 2:26:31p Olivine says, "Hello, Unholy. Melabrion has said that I can create a ruby necklace for you if you have some gold and a ruby gem."
+5/1/25 2:26:31p Olivine asks, "I'll only charge 500 coins for my work. Are you interested?"
+5/1/25 2:26:31p Olivine says, "All right, maybe later."
+5/1/25 2:26:45p Catan asks, "ss?"
+5/1/25 2:26:46p Unholy says, "not sure what thats for"
+5/1/25 2:26:49p Gofram says, "didn't find any rubies"
+5/1/25 2:26:54p Gofram says, "shield stone"
+5/1/25 2:27:00p Unholy says, "you find unrefined gems"
+5/1/25 2:27:12p Unholy says, "trade to a guy for ruby"
+5/1/25 2:27:16p Catan says, "never got any frm MGs"
+5/1/25 2:27:27p Gofram says, "you just haven't killed enough :)"
+5/1/25 2:27:32p Unholy says, ":P"
+5/1/25 2:27:34p * Healing Gofram 
+5/1/25 2:27:38p Catan says, "hehee"
+5/1/25 2:27:42p * Healing Catan 
+5/1/25 2:27:54p Gofram says, "basement again"
+5/1/25 2:28:27p * Healing Catan 
+5/1/25 2:28:28p * Healing Gofram 
+5/1/25 2:28:28p Catan asks, "doing Lori hunt?"
+5/1/25 2:28:31p You have 2977 coins.
+5/1/25 2:28:45p * Healing Catan 
+5/1/25 2:28:53p Gofram says, "probably sleeping..."
+5/1/25 2:28:58p (Unholy nods)
+5/1/25 2:29:08p •You seem to heal from further away now.
+5/1/25 2:29:11p Catan says, "thanks al ot"
+5/1/25 2:29:19p * Gofram recovers the Elder Wendecka fur, worth 2c. Your share is 1c.
+5/1/25 2:29:24p Gofram says, "thanks for the hunt"
+5/1/25 2:29:29p * Gofram recovers the Elder Wendecka fur, worth 3c. Your share is 1c.
+5/1/25 2:29:38p Unholy says, "u 3"
+5/1/25 2:29:38p * Gofram recovers the Vermine fur, worth 1c. Your share is 1c.
+5/1/25 2:29:42p Unholy says, "hehe"
+5/1/25 2:29:59p •The healing spell has been broken.
+5/1/25 2:29:59p * Healing Catan 
+5/1/25 2:30:06p * Healing Gofram 
+5/1/25 2:30:08p * Healing Catan 
+5/1/25 2:31:02p Catan says, "likewise"
+5/1/25 2:31:04p Koppi yells, "Coriakin reports: Next bard concert will be at Lugubrion's Keep! May 31st at 11am pacific time"
+5/1/25 2:31:08p You hand Maxtrax 1000 coins. You have 1980 remaining.
+5/1/25 2:31:10p Gofram says, "Hopefully Woolf can get back ok"
+5/1/25 2:31:23p • /SLEEP when you wish to begin studying.
+5/1/25 2:31:26p • /SLEEP when you wish to begin studying.
+5/1/25 2:31:28p Use \SLEEP again when you return.
+5/1/25 2:31:28p You are done adventuring for a while and will be studying here.
+5/1/25 2:31:29p You have been disconnected from Clan Lord.
+5/1/25 2:31:29p • You will benefit from studying here while you are off-line.
+5/1/25 2:31:30p *** We are no longer connected to the Clan Lord game server. ***

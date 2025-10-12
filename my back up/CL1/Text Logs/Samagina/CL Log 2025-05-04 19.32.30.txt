@@ -1,0 +1,550 @@
+
+5/4/25 7:32:30p * Your shirt named “dark grey” is in very good condition.
+5/4/25 7:32:30p * Your pair of pants named “dark grey” is in very good condition.
+5/4/25 7:32:30p Welcome to Clan Lord, Samagina!
+5/4/25 7:32:30p Type \HELP for a list of commands.
+5/4/25 7:32:30p • You have been charged 99 coins for advanced studies.
+5/4/25 7:32:30p • You gain experience from your recent studies.
+5/4/25 7:32:30p Samagina is now Clanning.
+5/4/25 7:32:30p You have been studying for 3 days, 6 hours, 25 minutes.
+5/4/25 7:32:33p It's 8:29am on Soldi, day 80 of Spring, 641.
+5/4/25 7:32:34p Friends online: none.
+5/4/25 7:32:35p You are the only member of Black Phoenix clanning.
+5/4/25 7:32:35p • What’s New: https://deltatao.com/clanlord/news
+5/4/25 7:32:45p * Tip of the day: If you tell people where you’ll be, they’ll be able to help you if you need it. (Use /OPTIONS to turn tips off.)
+5/4/25 7:32:45p •You learn how to better utilize your gossamer.
+5/4/25 7:33:05p Captain Barnac asks, "Ah, Samagina. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+5/4/25 7:33:05p Samagina whispers, "yes"
+5/4/25 7:33:11p Catan is now Clanning.
+5/4/25 7:33:20p You slaughtered an Adult Rockodile.
+5/4/25 7:33:30p You slaughtered an Adult Rockodile.
+5/4/25 7:33:40p You slaughtered an Island Panther.
+5/4/25 7:33:40p * You recover the Island Panther fur, worth 2c. Your share is 2c.
+5/4/25 7:33:41p You slaughtered an Island Panther.
+5/4/25 7:33:42p Catan is sharing experiences with you.
+5/4/25 7:33:42p You slaughtered an Island Panther.
+5/4/25 7:33:42p * You recover the Island Panther fur, worth 2c. Your share is 2c.
+5/4/25 7:33:43p You slaughtered an Island Panther.
+5/4/25 7:33:43p * For recovering the fur, you gain experience.
+5/4/25 7:33:43p * You recover the Island Panther fur, worth 7c. Your share is 7c.
+5/4/25 7:33:51p You slaughtered an Island Panther.
+5/4/25 7:33:51p * You recover the Island Panther fur, worth 2c. Your share is 2c.
+5/4/25 7:33:54p You slaughtered an Island Panther.
+5/4/25 7:33:54p * You recover the Island Panther fur, worth 1c. Your share is 1c.
+5/4/25 7:34:02p You slaughtered an Island Panther.
+5/4/25 7:34:02p * You recover the Island Panther fur, worth 1c. Your share is 1c.
+5/4/25 7:34:04p You slaughtered an Artak Cougar.
+5/4/25 7:34:04p * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+5/4/25 7:34:08p You slaughtered an Artak Cougar.
+5/4/25 7:34:09p * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+5/4/25 7:34:11p You slaughtered a Bloodthorn.
+5/4/25 7:34:11p You begin sharing your experiences with Catan.
+5/4/25 7:34:18p You slaughtered a Rodán Panther.
+5/4/25 7:34:18p You slaughtered a Large Vermine.
+5/4/25 7:34:18p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/4/25 7:34:22p You begin sharing your experiences with Haffron.
+5/4/25 7:34:22p You are sharing experiences with Haffron and Catan.
+5/4/25 7:34:23p You slaughtered a Vermine.
+5/4/25 7:34:25p You slaughtered a Vermine.
+5/4/25 7:34:26p Haffron is sharing experiences with you.
+5/4/25 7:34:29p You begin sharing your experiences with Squib.
+5/4/25 7:34:29p You are sharing experiences with Squib, Haffron and Catan.
+5/4/25 7:34:31p You slaughtered a Large Vermine.
+5/4/25 7:34:31p You slaughtered a Large Vermine.
+5/4/25 7:34:32p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/4/25 7:34:33p Squib is sharing experiences with you.
+5/4/25 7:34:35p You slaughtered a Vermine.
+5/4/25 7:34:38p You slaughtered a Large Vermine.
+5/4/25 7:34:39p * For recovering the fur, you gain experience.
+5/4/25 7:34:39p * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+5/4/25 7:34:39p You slaughtered an Island Panther.
+5/4/25 7:34:39p * You recover the Island Panther fur, worth 2c. Your share is 2c.
+5/4/25 7:34:42p You slaughtered a Large Vermine.
+5/4/25 7:34:42p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/4/25 7:34:43p You slaughtered a Bloodthorn.
+5/4/25 7:34:52p You slaughtered a Large Vermine.
+5/4/25 7:34:52p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/4/25 7:34:53p You slaughtered a Vermine.
+5/4/25 7:34:56p You slaughtered a Vermine.
+5/4/25 7:35:08p Something whispers, "Pssst, up here! What's the password?"
+5/4/25 7:35:13p Samagina says, "roach"
+5/4/25 7:35:14p Something whispers, "Shhh! Not so loud!!"
+5/4/25 7:35:26p Garre Verminebane says, "Greetings, Samagina. I can teach you to become a Ranger."
+5/4/25 7:35:30p Garre Verminebane says, "Your Fighter experience seems sufficient, but you need more training with the Gossamer."
+5/4/25 7:35:44p You have 1435 coins.
+5/4/25 7:36:02p You slaughtered a Vermine.
+5/4/25 7:36:07p You slaughtered a Bloodthorn.
+5/4/25 7:36:08p You slaughtered an Island Panther.
+5/4/25 7:36:08p * For recovering the fur, you gain experience.
+5/4/25 7:36:08p * You recover the Island Panther fur, worth 2c. Your share is 2c.
+5/4/25 7:36:12p You slaughtered an Artak Cougar.
+5/4/25 7:36:13p You slaughtered a Bloodthorn.
+5/4/25 7:36:14p You slaughtered a Bloodthorn.
+5/4/25 7:36:15p You slaughtered an Island Panther.
+5/4/25 7:36:15p * You recover the Island Panther fur, worth 2c. Your share is 2c.
+5/4/25 7:36:22p You slaughtered an Island Panther.
+5/4/25 7:36:22p * You recover the Island Panther fur, worth 4c. Your share is 4c.
+5/4/25 7:36:48p You slaughtered a Grey Feral.
+5/4/25 7:36:48p * For recovering the fur, you gain experience.
+5/4/25 7:36:48p * You recover the Grey Feral fur, worth 2c. Your share is 2c.
+5/4/25 7:36:49p You slaughtered a Vermine.
+5/4/25 7:36:54p You slaughtered an Artak Cougar.
+5/4/25 7:36:54p * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+5/4/25 7:36:56p You slaughtered an Island Panther.
+5/4/25 7:36:56p * You recover the Island Panther fur, worth 3c. Your share is 3c.
+5/4/25 7:37:01p You slaughtered a Bloodthorn.
+5/4/25 7:37:06p You slaughtered an Artak Cougar.
+5/4/25 7:37:06p * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+5/4/25 7:37:07p You slaughtered an Artak Cougar.
+5/4/25 7:37:09p You slaughtered an Artak Cougar.
+5/4/25 7:37:09p * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+5/4/25 7:37:16p You slaughtered an Artak Cougar.
+5/4/25 7:37:16p * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+5/4/25 7:37:20p You slaughtered an Artak Cougar.
+5/4/25 7:37:23p You slaughtered an Artak Cougar.
+5/4/25 7:37:23p * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+5/4/25 7:37:24p You slaughtered a Grey Feral.
+5/4/25 7:37:24p * You recover the Grey Feral fur, worth 3c. Your share is 3c.
+5/4/25 7:37:26p You slaughtered a Grey Feral.
+5/4/25 7:37:26p * You recover the Grey Feral fur, worth 3c. Your share is 3c.
+5/4/25 7:37:30p Woolf is now Clanning.
+5/4/25 7:37:31p You slaughtered an Artak Cougar.
+5/4/25 7:37:35p You slaughtered an Artak Cougar.
+5/4/25 7:37:35p * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+5/4/25 7:37:35p You slaughtered an Artak Cougar.
+5/4/25 7:37:38p You slaughtered an Artak Cougar.
+5/4/25 7:37:38p * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+5/4/25 7:37:39p You slaughtered an Artak Cougar.
+5/4/25 7:37:39p * You recover the Artak Cougar fur, worth 7c. Your share is 7c.
+5/4/25 7:37:46p You slaughtered a Bloodthorn.
+5/4/25 7:37:47p You slaughtered an Artak Cougar.
+5/4/25 7:37:47p * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+5/4/25 7:37:48p You slaughtered an Artak Cougar.
+5/4/25 7:37:48p * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+5/4/25 7:37:53p You slaughtered an Island Panther.
+5/4/25 7:37:54p * You recover the Island Panther fur, worth 1c. Your share is 1c.
+5/4/25 7:37:54p You slaughtered an Island Panther.
+5/4/25 7:37:54p * You recover the Island Panther fur, worth 4c. Your share is 4c.
+5/4/25 7:37:57p You slaughtered a Bloodthorn.
+5/4/25 7:38:00p You slaughtered an Island Panther.
+5/4/25 7:38:01p You slaughtered a Bloodthorn.
+5/4/25 7:38:04p You slaughtered a Bloodthorn.
+5/4/25 7:38:09p You slaughtered a Giant Vermine.
+5/4/25 7:38:09p * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+5/4/25 7:38:10p You slaughtered a Vermine.
+5/4/25 7:38:13p You slaughtered an Island Panther.
+5/4/25 7:38:14p * You recover the Island Panther fur, worth 1c. Your share is 1c.
+5/4/25 7:38:14p You slaughtered a Grey Feral.
+5/4/25 7:38:15p You slaughtered a Bolok Cougar.
+5/4/25 7:38:16p * You recover the Bolok Cougar fur, worth 15c. Your share is 15c.
+5/4/25 7:38:16p You slaughtered a Giant Vermine.
+5/4/25 7:38:16p * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+5/4/25 7:38:22p You slaughtered an Artak Cougar.
+5/4/25 7:38:22p * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+5/4/25 7:38:24p You slaughtered a Giant Vermine.
+5/4/25 7:38:24p * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+5/4/25 7:38:25p You slaughtered an Island Panther.
+5/4/25 7:38:25p * You recover the Island Panther fur, worth 1c. Your share is 1c.
+5/4/25 7:38:29p You slaughtered an Island Panther.
+5/4/25 7:38:29p * You recover the Island Panther fur, worth 6c. Your share is 6c.
+5/4/25 7:38:30p You slaughtered a T'rool.
+5/4/25 7:38:30p * You recover the T'rool blood, worth 1c. Your share is 1c.
+5/4/25 7:38:48p You slaughtered an Island Panther.
+5/4/25 7:38:48p * You recover the Island Panther fur, worth 3c. Your share is 3c.
+5/4/25 7:38:49p You slaughtered an Island Panther.
+5/4/25 7:38:49p * You recover the Island Panther fur, worth 4c. Your share is 4c.
+5/4/25 7:38:50p You slaughtered a Large Vermine.
+5/4/25 7:38:50p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/4/25 7:38:53p You slaughtered a Rat.
+5/4/25 7:38:54p You slaughtered a Large Vermine.
+5/4/25 7:38:54p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/4/25 7:38:59p You have 1527 coins.
+5/4/25 7:39:02p You slaughtered an Island Panther.
+5/4/25 7:39:03p * You recover the Island Panther fur, worth 2c. Your share is 2c.
+5/4/25 7:39:08p You slaughtered a Large Vermine.
+5/4/25 7:39:08p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/4/25 7:39:15p You slaughtered a Forest Chamelopod.
+5/4/25 7:39:16p * You recover the Forest Chamelopod mandibles, worth 1c. Your share is 1c.
+5/4/25 7:39:24p You slaughtered an Island Panther.
+5/4/25 7:39:26p You slaughtered a Forest Chamelopod.
+5/4/25 7:39:26p * You recover the Forest Chamelopod mandibles, worth 4c. Your share is 4c.
+5/4/25 7:39:31p You slaughtered a Forest Chamelopod.
+5/4/25 7:39:31p * You recover the Forest Chamelopod mandibles, worth 6c. Your share is 6c.
+5/4/25 7:39:56p Samagina thinks, "dont chamelopod have sound when you hit them?"
+5/4/25 7:40:01p You slaughtered a Forest Chamelopod.
+5/4/25 7:40:01p * You recover the Forest Chamelopod mandibles, worth 3c. Your share is 3c.
+5/4/25 7:40:08p You slaughtered a Forest Chamelopod.
+5/4/25 7:40:08p * You recover the Forest Chamelopod mandibles, worth 5c. Your share is 5c.
+5/4/25 7:40:13p Haffron thinks to you, "don't remember :p"
+5/4/25 7:40:22p You slaughtered a Forest Chamelopod.
+5/4/25 7:40:22p * You recover the Forest Chamelopod mandibles, worth 6c. Your share is 6c.
+5/4/25 7:40:29p You slaughtered a Forest Chamelopod.
+5/4/25 7:40:29p * You recover the Forest Chamelopod mandibles, worth 6c. Your share is 6c.
+5/4/25 7:40:32p You slaughtered a Forest Chamelopod.
+5/4/25 7:40:32p * You recover the Forest Chamelopod mandibles, worth 3c. Your share is 3c.
+5/4/25 7:40:36p You slaughtered an Island Panther.
+5/4/25 7:40:36p * You recover the Island Panther fur, worth 1c. Your share is 1c.
+5/4/25 7:40:37p You slaughtered a Large Vermine.
+5/4/25 7:40:38p You slaughtered a Large Vermine.
+5/4/25 7:40:38p * For recovering the fur, you gain experience.
+5/4/25 7:40:38p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/4/25 7:40:40p You slaughtered an Island Panther.
+5/4/25 7:40:44p You slaughtered an Artak Cougar.
+5/4/25 7:40:44p * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+5/4/25 7:40:46p You slaughtered an Artak Cougar.
+5/4/25 7:40:46p * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+5/4/25 7:40:48p You slaughtered a Large Vermine.
+5/4/25 7:40:48p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/4/25 7:40:50p You slaughtered an Island Panther.
+5/4/25 7:40:53p You slaughtered a Large Vermine.
+5/4/25 7:40:54p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/4/25 7:40:56p You slaughtered a Large Vermine.
+5/4/25 7:40:57p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/4/25 7:41:02p You slaughtered an Artak Cougar.
+5/4/25 7:41:02p * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+5/4/25 7:41:03p You slaughtered a Large Vermine.
+5/4/25 7:41:04p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/4/25 7:41:25p You slaughtered a Cave Chamelopod.
+5/4/25 7:41:30p You slaughtered a Cave Chamelopod.
+5/4/25 7:41:31p * You recover the Cave Chamelopod mandibles, worth 30c. Your share is 30c.
+5/4/25 7:41:31p • Your knowledge grows from working with the Cave Chamelopod.
+5/4/25 7:41:56p You slaughtered a Bat.
+5/4/25 7:42:02p You slaughtered a Cave Chamelopod.
+5/4/25 7:42:02p * You recover the Cave Chamelopod mandibles, worth 29c. Your share is 29c.
+5/4/25 7:42:06p You slaughtered a Cave Chamelopod.
+5/4/25 7:42:06p * You recover the Cave Chamelopod mandibles, worth 6c. Your share is 6c.
+5/4/25 7:42:07p You slaughtered a Cave Chamelopod.
+5/4/25 7:42:07p * You recover the Cave Chamelopod mandibles, worth 10c. Your share is 10c.
+5/4/25 7:42:11p You have 1652 coins.
+5/4/25 7:42:24p You slaughtered a Bat.
+5/4/25 7:42:30p You slaughtered a Cave Chamelopod.
+5/4/25 7:42:30p * You recover the Cave Chamelopod mandibles, worth 31c. Your share is 31c.
+5/4/25 7:42:38p You slaughtered a Cave Chamelopod.
+5/4/25 7:42:38p * You recover the Cave Chamelopod mandibles, worth 14c. Your share is 14c.
+5/4/25 7:42:40p You slaughtered a Cave Chamelopod.
+5/4/25 7:42:41p * You recover the Cave Chamelopod mandibles, worth 26c. Your share is 26c.
+5/4/25 7:42:49p You slaughtered an Artak Cougar.
+5/4/25 7:42:49p * You recover the Artak Cougar fur, worth 6c. Your share is 6c.
+5/4/25 7:42:51p You slaughtered a Large Vermine.
+5/4/25 7:42:54p You slaughtered a Rat.
+5/4/25 7:42:56p You slaughtered an Island Panther.
+5/4/25 7:42:56p * You recover the Island Panther fur, worth 1c. Your share is 1c.
+5/4/25 7:43:01p You slaughtered an Island Panther.
+5/4/25 7:43:02p You slaughtered an Island Panther.
+5/4/25 7:43:11p You slaughtered a Large Vermine.
+5/4/25 7:43:24p You slaughtered a Large Vermine.
+5/4/25 7:43:31p You slaughtered an Artak Cougar.
+5/4/25 7:43:32p * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+5/4/25 7:43:33p You slaughtered a Bloodthorn.
+5/4/25 7:43:43p You slaughtered a Grey Feral.
+5/4/25 7:43:44p * You recover the Grey Feral fur, worth 2c. Your share is 2c.
+5/4/25 7:44:05p •You gain experience.
+5/4/25 7:44:08p Nemo asks, "Ah, Samagina. My fine boats cost 20 copper pennies. Would you like to rent one now?"
+5/4/25 7:44:08p Samagina whispers, "yes"
+5/4/25 7:44:32p You slaughtered a Scavenger Bird.
+5/4/25 7:44:47p Samagina says, "squib heal me"
+5/4/25 7:44:48p •You sense healing energy from Squib.
+5/4/25 7:45:00p Koppi yells, "Kyoko reports: Two moons ago, a portal was opened in south forest over the face of the land, and squib emerged saying "ah, my kingdom" and such it was in the tempest lands of puddleby,"
+5/4/25 7:45:23p You have 1713 coins.
+5/4/25 7:45:39p Squib whispers, "attack"
+5/4/25 7:45:42p Samagina says, "squib heal haffron"
+5/4/25 7:45:53p You begin sharing your experiences with Woolf.
+5/4/25 7:45:53p You are sharing experiences with Woolf, Squib, Haffron and Catan.
+5/4/25 7:46:05p You slaughtered a Vermine.
+5/4/25 7:46:29p You slaughtered an Island Panther.
+5/4/25 7:46:31p You slaughtered a Giant Vermine.
+5/4/25 7:46:31p * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+5/4/25 7:46:32p You slaughtered an Island Panther.
+5/4/25 7:46:32p * You recover the Island Panther fur, worth 6c. Your share is 6c.
+5/4/25 7:46:33p You slaughtered a Rat.
+5/4/25 7:46:37p You slaughtered an Island Panther.
+5/4/25 7:46:37p * You recover the Island Panther fur, worth 1c. Your share is 1c.
+5/4/25 7:46:41p You slaughtered a Rat.
+5/4/25 7:46:48p You slaughtered a Large Vermine.
+5/4/25 7:46:49p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/4/25 7:46:50p You slaughtered an Island Panther.
+5/4/25 7:46:59p You slaughtered an Orga.
+5/4/25 7:47:04p You slaughtered an Artak Cougar.
+5/4/25 7:47:05p * You recover the Artak Cougar fur, worth 6c. Your share is 6c.
+5/4/25 7:47:05p You slaughtered an Artak Cougar.
+5/4/25 7:47:06p * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+5/4/25 7:47:08p You slaughtered an Artak Cougar.
+5/4/25 7:47:09p * You recover the Artak Cougar fur, worth 7c. Your share is 7c.
+5/4/25 7:47:13p You slaughtered an Orga.
+5/4/25 7:47:20p You slaughtered an Artak Cougar.
+5/4/25 7:47:21p * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+5/4/25 7:47:24p You slaughtered an Artak Cougar.
+5/4/25 7:47:24p * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+5/4/25 7:47:25p You slaughtered an Island Panther.
+5/4/25 7:47:25p * You recover the Island Panther fur, worth 2c. Your share is 2c.
+5/4/25 7:47:25p You slaughtered an Orga.
+5/4/25 7:47:30p You slaughtered an Artak Cougar.
+5/4/25 7:47:31p * You recover the Artak Cougar fur, worth 5c. Your share is 5c.
+5/4/25 7:47:34p You slaughtered an Artak Cougar.
+5/4/25 7:47:34p * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+5/4/25 7:47:35p You slaughtered a Winged Snake.
+5/4/25 7:47:39p You slaughtered an Artak Cougar.
+5/4/25 7:47:39p * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+5/4/25 7:47:40p You slaughtered a Giant Vermine.
+5/4/25 7:47:48p You slaughtered a Vermine.
+5/4/25 7:47:49p You slaughtered a Giant Vermine.
+5/4/25 7:47:49p * You recover the Giant Vermine fur, worth 3c. Your share is 3c.
+5/4/25 7:47:50p You slaughtered a Rat.
+5/4/25 7:47:57p You slaughtered a Large Vermine.
+5/4/25 7:47:58p You slaughtered an Island Panther.
+5/4/25 7:47:58p * You recover the Island Panther fur, worth 5c. Your share is 5c.
+5/4/25 7:48:02p You slaughtered an Artak Cougar.
+5/4/25 7:48:02p * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+5/4/25 7:48:04p You slaughtered a Vermine.
+5/4/25 7:48:05p You slaughtered an Artak Cougar.
+5/4/25 7:48:06p * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+5/4/25 7:48:06p You slaughtered a Large Vermine.
+5/4/25 7:48:07p You slaughtered a Large Vermine.
+5/4/25 7:48:07p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/4/25 7:48:08p You slaughtered a Rat.
+5/4/25 7:48:11p Woolf is sharing experiences with you.
+5/4/25 7:48:13p You slaughtered a Large Vermine.
+5/4/25 7:48:15p You slaughtered a Vermine.
+5/4/25 7:48:18p You slaughtered an Artak Cougar.
+5/4/25 7:48:19p You slaughtered a Large Vermine.
+5/4/25 7:48:22p You slaughtered an Island Panther.
+5/4/25 7:48:22p * You recover the Island Panther fur, worth 6c. Your share is 6c.
+5/4/25 7:48:22p You slaughtered a Large Vermine.
+5/4/25 7:48:24p You slaughtered a Large Vermine.
+5/4/25 7:48:24p * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+5/4/25 7:48:25p You slaughtered an Artak Cougar.
+5/4/25 7:48:25p * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+5/4/25 7:48:28p You slaughtered an Artak Cougar.
+5/4/25 7:48:28p * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+5/4/25 7:48:32p You slaughtered an Island Panther.
+5/4/25 7:48:32p * You recover the Island Panther fur, worth 1c. Your share is 1c.
+5/4/25 7:48:33p You slaughtered a Large Vermine.
+5/4/25 7:48:36p You have 1787 coins.
+5/4/25 7:48:37p You slaughtered an Island Panther.
+5/4/25 7:48:37p * You recover the Island Panther fur, worth 3c. Your share is 3c.
+5/4/25 7:48:42p You slaughtered an Island Panther.
+5/4/25 7:48:42p * You recover the Island Panther fur, worth 1c. Your share is 1c.
+5/4/25 7:48:45p You slaughtered an Island Panther.
+5/4/25 7:48:45p * You recover the Island Panther fur, worth 1c. Your share is 1c.
+5/4/25 7:48:50p • Your blade flashes like a shooting star.
+5/4/25 7:48:50p You slaughtered an Island Panther.
+5/4/25 7:48:50p * You recover the Island Panther fur, worth 3c. Your share is 3c.
+5/4/25 7:48:51p You slaughtered an Island Panther.
+5/4/25 7:48:52p * You recover the Island Panther fur, worth 2c. Your share is 2c.
+5/4/25 7:48:53p You slaughtered a T'rool.
+5/4/25 7:49:00p You slaughtered an Island Panther.
+5/4/25 7:49:00p * You recover the Island Panther fur, worth 1c. Your share is 1c.
+5/4/25 7:49:00p You slaughtered an Island Panther.
+5/4/25 7:49:00p * You recover the Island Panther fur, worth 3c. Your share is 3c.
+5/4/25 7:49:01p You slaughtered an Orc.
+5/4/25 7:49:04p You slaughtered an Island Panther.
+5/4/25 7:49:05p * You recover the Island Panther fur, worth 6c. Your share is 6c.
+5/4/25 7:49:05p You slaughtered an Island Panther.
+5/4/25 7:49:05p * You recover the Island Panther fur, worth 1c. Your share is 1c.
+5/4/25 7:49:08p You slaughtered a T'rool.
+5/4/25 7:49:12p You slaughtered a Vermine.
+5/4/25 7:49:13p You slaughtered an Orc.
+5/4/25 7:49:13p You slaughtered an Island Panther.
+5/4/25 7:49:13p * You recover the Island Panther fur, worth 6c. Your share is 6c.
+5/4/25 7:49:14p You slaughtered an Orc.
+5/4/25 7:49:16p You slaughtered an Island Panther.
+5/4/25 7:49:18p You slaughtered an Orc.
+5/4/25 7:49:21p You slaughtered an Orc.
+5/4/25 7:49:22p You slaughtered an Orc.
+5/4/25 7:49:23p You slaughtered an Orc.
+5/4/25 7:49:23p You slaughtered an Orc.
+5/4/25 7:49:24p You slaughtered an Orc.
+5/4/25 7:49:26p You slaughtered an Orc.
+5/4/25 7:49:28p You slaughtered a T'rool.
+5/4/25 7:49:28p You slaughtered an Orc.
+5/4/25 7:49:29p You slaughtered an Island Panther.
+5/4/25 7:49:29p * You recover the Island Panther fur, worth 4c. Your share is 4c.
+5/4/25 7:49:30p You slaughtered an Orc.
+5/4/25 7:49:32p You slaughtered an Island Panther.
+5/4/25 7:49:32p * You recover the Island Panther fur, worth 5c. Your share is 5c.
+5/4/25 7:49:34p You slaughtered an Orc.
+5/4/25 7:49:39p You slaughtered an Artak Cougar.
+5/4/25 7:49:39p * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+5/4/25 7:49:40p You slaughtered an Orc.
+5/4/25 7:49:42p You slaughtered an Island Panther.
+5/4/25 7:49:42p * You recover the Island Panther fur, worth 6c. Your share is 6c.
+5/4/25 7:49:43p You slaughtered an Artak Cougar.
+5/4/25 7:49:43p * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+5/4/25 7:49:47p You slaughtered an Island Panther.
+5/4/25 7:49:47p * You recover the Island Panther fur, worth 6c. Your share is 6c.
+5/4/25 7:49:52p You slaughtered an Artak Cougar.
+5/4/25 7:49:52p * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+5/4/25 7:49:53p You slaughtered an Island Panther.
+5/4/25 7:49:53p * You recover the Island Panther fur, worth 2c. Your share is 2c.
+5/4/25 7:49:54p You slaughtered an Island Panther.
+5/4/25 7:49:54p * You recover the Island Panther fur, worth 1c. Your share is 1c.
+5/4/25 7:49:59p You slaughtered an Artak Cougar.
+5/4/25 7:49:59p * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+5/4/25 7:50:03p You slaughtered an Island Panther.
+5/4/25 7:50:26p You slaughtered an Orc.
+5/4/25 7:50:28p You slaughtered an Island Panther.
+5/4/25 7:50:28p * You recover the Island Panther fur, worth 6c. Your share is 6c.
+5/4/25 7:50:29p You slaughtered a Vermine.
+5/4/25 7:50:30p You slaughtered a Vermine.
+5/4/25 7:50:31p You slaughtered a Vermine.
+5/4/25 7:50:32p You slaughtered a Vermine.
+5/4/25 7:50:35p You slaughtered a Vermine.
+5/4/25 7:50:37p You slaughtered a Vermine.
+5/4/25 7:50:38p You slaughtered a Large Vermine.
+5/4/25 7:50:39p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/4/25 7:50:39p You slaughtered a Vermine.
+5/4/25 7:50:43p You slaughtered an Island Panther.
+5/4/25 7:50:44p * You recover the Island Panther fur, worth 4c. Your share is 4c.
+5/4/25 7:50:44p • Your knowledge grows from working with the Island Panther.
+5/4/25 7:50:46p You slaughtered a Vermine.
+5/4/25 7:50:47p You slaughtered an Orc.
+5/4/25 7:50:51p You slaughtered a T'rool.
+5/4/25 7:50:56p You slaughtered a Vermine.
+5/4/25 7:50:57p You slaughtered a Vermine.
+5/4/25 7:50:58p You slaughtered a Vermine.
+5/4/25 7:50:59p You slaughtered an Island Panther.
+5/4/25 7:51:00p You slaughtered an Artak Cougar.
+5/4/25 7:51:00p * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+5/4/25 7:51:06p You slaughtered a T'rool.
+5/4/25 7:51:08p You slaughtered a Vermine.
+5/4/25 7:51:09p You slaughtered a Vermine.
+5/4/25 7:51:13p You slaughtered a Vermine.
+5/4/25 7:51:24p You slaughtered a T'rool.
+5/4/25 7:51:26p You slaughtered a Vermine.
+5/4/25 7:51:27p You slaughtered an Orga.
+5/4/25 7:51:29p You slaughtered an Orc.
+5/4/25 7:51:32p You slaughtered a T'rool.
+5/4/25 7:51:32p * You recover the T'rool blood, worth 3c. Your share is 3c.
+5/4/25 7:51:34p You slaughtered an Orc.
+5/4/25 7:51:38p You slaughtered a Vermine.
+5/4/25 7:51:39p You slaughtered a Winged Snake.
+5/4/25 7:51:40p You slaughtered an Orc.
+5/4/25 7:51:41p You slaughtered an Artak Cougar.
+5/4/25 7:51:42p * You recover the Artak Cougar fur, worth 7c. Your share is 7c.
+5/4/25 7:51:43p You slaughtered a Winged Snake.
+5/4/25 7:51:46p You slaughtered a T'rool.
+5/4/25 7:51:47p * You recover the T'rool blood, worth 3c. Your share is 3c.
+5/4/25 7:51:50p You slaughtered a Vermine.
+5/4/25 7:51:50p You slaughtered an Island Panther.
+5/4/25 7:51:51p * You recover the Island Panther fur, worth 3c. Your share is 3c.
+5/4/25 7:51:52p You slaughtered an Island Panther.
+5/4/25 7:51:52p * You recover the Island Panther fur, worth 3c. Your share is 3c.
+5/4/25 7:51:53p You slaughtered a Vermine.
+5/4/25 7:51:56p You slaughtered a Vermine.
+5/4/25 7:51:57p You slaughtered a Vermine.
+5/4/25 7:51:58p You slaughtered an Island Panther.
+5/4/25 7:51:58p * You recover the Island Panther fur, worth 5c. Your share is 5c.
+5/4/25 7:52:00p You slaughtered a Vermine.
+5/4/25 7:52:03p You slaughtered a Vermine.
+5/4/25 7:52:06p You slaughtered an Orc.
+5/4/25 7:52:08p You slaughtered an Orc.
+5/4/25 7:52:10p You found a lump of iron ore!
+5/4/25 7:52:11p You slaughtered an Orc.
+5/4/25 7:52:12p You slaughtered a T'rool.
+5/4/25 7:52:16p You slaughtered a Vermine.
+5/4/25 7:52:21p You slaughtered a Vermine.
+5/4/25 7:52:27p You slaughtered a Small Arachne.
+5/4/25 7:52:28p You slaughtered a Large Vermine.
+5/4/25 7:52:28p You slaughtered a Vermine.
+5/4/25 7:52:29p You slaughtered a Winged Snake.
+5/4/25 7:52:31p You slaughtered a Vermine.
+5/4/25 7:52:32p You slaughtered an Island Panther.
+5/4/25 7:52:33p You slaughtered a Green Meshra.
+5/4/25 7:52:38p You slaughtered a Vermine.
+5/4/25 7:52:39p You slaughtered an Orc.
+5/4/25 7:52:43p You slaughtered an Island Panther.
+5/4/25 7:52:43p * You recover the Island Panther fur, worth 2c. Your share is 2c.
+5/4/25 7:52:50p You slaughtered a Large Vermine.
+5/4/25 7:52:51p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/4/25 7:52:51p You slaughtered an Island Panther.
+5/4/25 7:52:52p * You recover the Island Panther fur, worth 6c. Your share is 6c.
+5/4/25 7:52:53p You slaughtered an Island Panther.
+5/4/25 7:52:55p You slaughtered an Island Panther.
+5/4/25 7:52:55p * You recover the Island Panther fur, worth 2c. Your share is 2c.
+5/4/25 7:52:57p You slaughtered a Large Vermine.
+5/4/25 7:53:40p You slaughtered a Frost Orga.
+5/4/25 7:54:21p You slaughtered a Polar Bear.
+5/4/25 7:54:21p * You recover the Polar Bear fur, worth 35c. Your share is 35c.
+5/4/25 7:54:31p You slaughtered a Snow Cougar.
+5/4/25 7:54:31p * You recover the Snow Cougar fur, worth 9c. Your share is 9c.
+5/4/25 7:54:32p You slaughtered a Polar Bear.
+5/4/25 7:54:32p * For recovering the fur, you gain experience.
+5/4/25 7:54:32p * You recover the Polar Bear fur, worth 44c. Your share is 44c.
+5/4/25 7:54:41p You slaughtered a Snow Vermine.
+5/4/25 7:54:41p * You recover the Snow Vermine fur, worth 2c. Your share is 2c.
+5/4/25 7:54:50p You slaughtered a Polar Bear.
+5/4/25 7:55:08p You slaughtered a Polar Bear.
+5/4/25 7:55:10p You slaughtered a Snow Feral.
+5/4/25 7:55:10p * You recover the Snow Feral fur, worth 15c. Your share is 15c.
+5/4/25 7:55:14p You slaughtered a Snow Feral.
+5/4/25 7:55:25p You slaughtered a Snow Vermine.
+5/4/25 7:55:39p You slaughtered a Polar Bear.
+5/4/25 7:55:39p * You recover the Polar Bear fur, worth 24c. Your share is 24c.
+5/4/25 7:55:45p You slaughtered a Snow Feral.
+5/4/25 7:55:48p You slaughtered a Snow Cougar.
+5/4/25 7:55:48p * You recover the Snow Cougar fur, worth 5c. Your share is 5c.
+5/4/25 7:56:08p You slaughtered a Polar Bear.
+5/4/25 7:56:08p * You recover the Polar Bear fur, worth 36c. Your share is 36c.
+5/4/25 7:56:11p You slaughtered a Snow Feral.
+5/4/25 7:56:11p * You recover the Snow Feral fur, worth 7c. Your share is 7c.
+5/4/25 7:56:20p You slaughtered a Snow Feral.
+5/4/25 7:56:20p * You recover the Snow Feral fur, worth 19c. Your share is 19c.
+5/4/25 7:56:50p •You gain experience.
+5/4/25 7:56:52p You slaughtered a Snow Cougar.
+5/4/25 7:56:52p * You recover the Snow Cougar fur, worth 1c. Your share is 1c.
+5/4/25 7:56:52p You slaughtered a Snow Vermine.
+5/4/25 7:56:53p * You recover the Snow Vermine fur, worth 2c. Your share is 2c.
+5/4/25 7:56:53p You slaughtered a Snow Vermine.
+5/4/25 7:56:54p You slaughtered a Snow Vermine.
+5/4/25 7:56:54p * You recover the Snow Vermine fur, worth 1c. Your share is 1c.
+5/4/25 7:56:55p You slaughtered a Snow Vermine.
+5/4/25 7:56:56p * You recover the Snow Vermine fur, worth 3c. Your share is 3c.
+5/4/25 7:56:56p You slaughtered a Snow Vermine.
+5/4/25 7:56:57p * You recover the Snow Vermine fur, worth 1c. Your share is 1c.
+5/4/25 7:56:57p You slaughtered a Snow Vermine.
+5/4/25 7:56:59p You slaughtered a Snow Vermine.
+5/4/25 7:57:03p You slaughtered a Snow Vermine.
+5/4/25 7:57:03p * You recover the Snow Vermine fur, worth 3c. Your share is 3c.
+5/4/25 7:57:06p You slaughtered a Snow Vermine.
+5/4/25 7:57:07p You slaughtered a Snow Vermine.
+5/4/25 7:57:07p * You recover the Snow Vermine fur, worth 1c. Your share is 1c.
+5/4/25 7:57:10p You slaughtered a Snow Cougar.
+5/4/25 7:57:10p * You recover the Snow Cougar fur, worth 9c. Your share is 9c.
+5/4/25 7:57:11p You slaughtered a Snow Vermine.
+5/4/25 7:57:12p * You recover the Snow Vermine fur, worth 1c. Your share is 1c.
+5/4/25 7:57:16p You slaughtered a Snow Vermine.
+5/4/25 7:57:33p You slaughtered a Polar Bear.
+5/4/25 7:57:33p * You recover the Polar Bear fur, worth 23c. Your share is 23c.
+5/4/25 7:57:35p You slaughtered a Snow Cougar.
+5/4/25 7:57:35p * You recover the Snow Cougar fur, worth 7c. Your share is 7c.
+5/4/25 7:57:36p You slaughtered a Snow Vermine.
+5/4/25 7:57:38p You slaughtered a Snow Vermine.
+5/4/25 7:57:43p You slaughtered a Snow Vermine.
+5/4/25 7:57:43p You slaughtered a Snow Vermine.
+5/4/25 7:57:43p * You recover the Snow Vermine fur, worth 1c. Your share is 1c.
+5/4/25 7:57:45p You slaughtered a Snow Cougar.
+5/4/25 7:57:45p * You recover the Snow Cougar fur, worth 10c. Your share is 10c.
+5/4/25 7:57:58p You slaughtered a Snow Vermine.
+5/4/25 7:58:02p You slaughtered a Snow Cougar.
+5/4/25 7:58:02p * For recovering the fur, you gain experience.
+5/4/25 7:58:02p * You recover the Snow Cougar fur, worth 5c. Your share is 5c.
+5/4/25 7:58:06p You slaughtered a Snow Vermine.
+5/4/25 7:58:06p * You recover the Snow Vermine fur, worth 2c. Your share is 2c.
+5/4/25 7:58:08p You slaughtered a Snow Cougar.
+5/4/25 7:58:08p * For recovering the fur, you gain experience.
+5/4/25 7:58:08p * You recover the Snow Cougar fur, worth 8c. Your share is 8c.
+5/4/25 7:58:11p You slaughtered a Snow Vermine.
+5/4/25 7:58:11p * You recover the Snow Vermine fur, worth 1c. Your share is 1c.
+5/4/25 7:58:14p You slaughtered a Snow Vermine.
+5/4/25 7:58:14p * You recover the Snow Vermine fur, worth 1c. Your share is 1c.
+5/4/25 7:59:03p You slaughtered a Scavenger Bird.
+5/4/25 7:59:25p Ankrus says, "Samagina, you are well on your way to enlightenment."
+5/4/25 7:59:34p Samagina says, "hmm"
+5/4/25 7:59:44p Ankrus says, "Samagina, you are well on your way to enlightenment."
+5/4/25 7:59:44p * |▰▰▰▰▰▰════ | 62%-75%
+5/4/25 8:00:06p Sentinel yells, "There is only one punishment for treason."
+5/4/25 8:00:14p Samagina says, "squib heal me"
+5/4/25 8:00:15p •You sense healing energy from Squib.
+5/4/25 8:00:33p Koppi yells, "Coriakin reports: Next bard concert will be at Lugubrion's Keep! May 31st at 11am pacific time"
+5/4/25 8:00:39p You concentrate on sending your message to Catan.
+5/4/25 8:00:39p You think 

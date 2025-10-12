@@ -1,0 +1,1469 @@
+
+6/6/25 2:17:58a * Your pair of pants named “dark grey” is in very good condition.
+6/6/25 2:17:58a * Your pair of shoes named “red” is in very good condition.
+6/6/25 2:17:58a * Your shirt named “dark grey” is in very good condition.
+6/6/25 2:17:58a Welcome to Clan Lord, Magnic!
+6/6/25 2:17:58a Type \HELP for a list of commands.
+6/6/25 2:17:58a • You have been charged 20 coins for advanced studies.
+6/6/25 2:17:58a • You gain experience from your recent studies.
+6/6/25 2:17:58a Magnic is now Clanning.
+6/6/25 2:17:58a You have been studying for 15 hours, 48 minutes.
+6/6/25 2:18:01a It's 9:57am on Sombdi, day 32 of Autumn, 641.
+6/6/25 2:18:02a You are the only member of Black Phoenix clanning.
+6/6/25 2:18:02a • The v1436 update has been postponed to tomorrow, Thursday 5 June, due to some uppity gerbils who grew too big for their britches.
+6/6/25 2:18:02a • What’s New: https://deltatao.com/clanlord/news
+6/6/25 2:18:04a Friends online: none.
+6/6/25 2:18:12a * Tip of the day: If you change your macros while playing, use Reload Macros from the Options menu. (Use /OPTIONS to turn tips off.)
+6/6/25 2:18:21a You begin sharing your experiences with Squib.
+6/6/25 2:18:24a Squib is sharing experiences with you.
+6/6/25 2:18:25a Magnic says, "squib heal me"
+6/6/25 2:18:26a •You sense healing energy from Squib.
+6/6/25 2:18:46a Crius yells, "It’s 10 o’clock, and all’s well."
+6/6/25 2:18:54a You vault the wall.
+6/6/25 2:19:00a You equip your heartwood charm.
+6/6/25 2:19:00a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 2:19:00a • You gather your energy.
+6/6/25 2:19:03a • You speed up.
+6/6/25 2:19:21a • You slow down to normal speed.
+6/6/25 2:19:21a • You return to your normal form.
+6/6/25 2:19:21a You slip your heartwood charm into your backpack.
+6/6/25 2:19:36a You slaughtered a Vermine.
+6/6/25 2:19:39a You slaughtered a Rat.
+6/6/25 2:19:41a You slaughtered a Bloodhawk.
+6/6/25 2:19:44a You slaughtered a Rat.
+6/6/25 2:19:45a You slaughtered a Rat.
+6/6/25 2:19:55a You slaughtered a Vermine.
+6/6/25 2:19:57a You slaughtered a Night Wendecka.
+6/6/25 2:19:57a * You recover the Night Wendecka fur, worth 2c. Your share is 2c.
+6/6/25 2:19:58a You slaughtered a Vermine.
+6/6/25 2:19:59a You slaughtered a Vermine.
+6/6/25 2:20:01a You slaughtered a Night Wendecka.
+6/6/25 2:20:01a * You recover the Night Wendecka fur, worth 5c. Your share is 5c.
+6/6/25 2:20:02a You slaughtered a Night Wendecka.
+6/6/25 2:20:03a * You recover the Night Wendecka fur, worth 7c. Your share is 7c.
+6/6/25 2:20:07a You slaughtered a Mama Wendecka.
+6/6/25 2:20:08a * You recover the Mama Wendecka fur, worth 2c. Your share is 2c.
+6/6/25 2:20:11a You slaughtered a Bloodhawk.
+6/6/25 2:20:15a You slaughtered a Mama Wendecka.
+6/6/25 2:20:17a You slaughtered a Mama Wendecka.
+6/6/25 2:20:17a * You recover the Mama Wendecka fur, worth 2c. Your share is 2c.
+6/6/25 2:20:21a You slaughtered a Mama Wendecka.
+6/6/25 2:20:21a * You recover the Mama Wendecka fur, worth 3c. Your share is 3c.
+6/6/25 2:20:24a You slaughtered an Elder Wendecka.
+6/6/25 2:20:25a You slaughtered an Elder Wendecka.
+6/6/25 2:20:25a You slaughtered a Bloodhawk.
+6/6/25 2:20:26a You slaughtered an Elder Wendecka.
+6/6/25 2:20:26a * You recover the Elder Wendecka fur, worth 3c. Your share is 3c.
+6/6/25 2:20:27a You slaughtered an Elder Wendecka.
+6/6/25 2:20:27a * You recover the Elder Wendecka fur, worth 3c. Your share is 3c.
+6/6/25 2:20:27a You slaughtered an Elder Wendecka.
+6/6/25 2:20:28a You slaughtered an Elder Wendecka.
+6/6/25 2:20:28a * You recover the Elder Wendecka fur, worth 3c. Your share is 3c.
+6/6/25 2:20:28a * You recover the Elder Wendecka fur, worth 4c. Your share is 4c.
+6/6/25 2:20:30a You slaughtered an Elder Wendecka.
+6/6/25 2:20:31a You slaughtered an Elder Wendecka.
+6/6/25 2:20:31a * You recover the Elder Wendecka fur, worth 4c. Your share is 4c.
+6/6/25 2:20:32a You slaughtered a Rat.
+6/6/25 2:20:32a You slaughtered a Wendecka.
+6/6/25 2:20:33a You slaughtered an Elder Wendecka.
+6/6/25 2:20:34a * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+6/6/25 2:20:37a You slaughtered an Elder Wendecka.
+6/6/25 2:20:38a You slaughtered a Bloodhawk.
+6/6/25 2:20:41a You slaughtered a Bloodhawk.
+6/6/25 2:20:42a You slaughtered an Elder Wendecka.
+6/6/25 2:20:42a * You recover the Elder Wendecka fur, worth 3c. Your share is 3c.
+6/6/25 2:21:01a You slaughtered an Elder Wendecka.
+6/6/25 2:21:01a * You recover the Elder Wendecka fur, worth 3c. Your share is 3c.
+6/6/25 2:21:11a You have 1503 coins.
+6/6/25 2:21:12a You slaughtered a Baby Wendecka.
+6/6/25 2:21:13a * You recover the Baby Wendecka fur, worth 7c. Your share is 7c.
+6/6/25 2:21:17a You slaughtered an Elder Wendecka.
+6/6/25 2:21:19a You slaughtered a Mama Wendecka.
+6/6/25 2:21:19a * You recover the Mama Wendecka fur, worth 5c. Your share is 5c.
+6/6/25 2:21:24a You slaughtered a Rat.
+6/6/25 2:21:30a You slaughtered a Wendecka.
+6/6/25 2:21:30a * You recover the Wendecka fur, worth 1c. Your share is 1c.
+6/6/25 2:21:35a You slaughtered an Elder Wendecka.
+6/6/25 2:21:36a * You recover the Elder Wendecka fur, worth 4c. Your share is 4c.
+6/6/25 2:21:39a You slaughtered an Elder Wendecka.
+6/6/25 2:21:39a * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+6/6/25 2:21:41a You slaughtered an Elder Wendecka.
+6/6/25 2:21:42a * You recover the Elder Wendecka fur, worth 3c. Your share is 3c.
+6/6/25 2:21:42a You slaughtered a Rat.
+6/6/25 2:21:49a You slaughtered a Bloodhawk.
+6/6/25 2:21:55a You slaughtered a Starbuck.
+6/6/25 2:21:55a * You recover the Starbuck fur, worth 2c. Your share is 2c.
+6/6/25 2:21:56a You slaughtered a Bloodhawk.
+6/6/25 2:21:58a You slaughtered an Elder Wendecka.
+6/6/25 2:22:01a You slaughtered a Wendecka.
+6/6/25 2:22:01a * You recover the Wendecka fur, worth 1c. Your share is 1c.
+6/6/25 2:22:02a You slaughtered a Wendecka.
+6/6/25 2:22:02a * You recover the Wendecka fur, worth 4c. Your share is 4c.
+6/6/25 2:22:03a You slaughtered a Wendecka.
+6/6/25 2:22:03a * You recover the Wendecka fur, worth 1c. Your share is 1c.
+6/6/25 2:22:04a You slaughtered a Vermine.
+6/6/25 2:22:07a You slaughtered a Wendecka.
+6/6/25 2:22:07a You slaughtered a Vermine.
+6/6/25 2:22:07a * For recovering the fur, you gain experience.
+6/6/25 2:22:07a * You recover the Wendecka fur, worth 1c. Your share is 1c.
+6/6/25 2:22:07a You slaughtered a Wendecka.
+6/6/25 2:22:07a You slaughtered a Vermine.
+6/6/25 2:22:07a * You recover the Wendecka fur, worth 1c. Your share is 1c.
+6/6/25 2:22:09a You slaughtered a Vermine.
+6/6/25 2:22:09a You slaughtered a Wendecka.
+6/6/25 2:22:10a You slaughtered a Wendecka.
+6/6/25 2:22:11a * You recover the Wendecka fur, worth 4c. Your share is 4c.
+6/6/25 2:22:11a You slaughtered a Wendecka.
+6/6/25 2:22:11a * You recover the Wendecka fur, worth 4c. Your share is 4c.
+6/6/25 2:22:12a You slaughtered a Night Wendecka.
+6/6/25 2:22:13a * You recover the Night Wendecka fur, worth 3c. Your share is 3c.
+6/6/25 2:22:16a You slaughtered a Vermine.
+6/6/25 2:22:22a You slaughtered a Bloodhawk.
+6/6/25 2:22:23a You slaughtered a Night Wendecka.
+6/6/25 2:22:23a * You recover the Night Wendecka fur, worth 3c. Your share is 3c.
+6/6/25 2:22:23a You slaughtered a Wendecka.
+6/6/25 2:22:23a * You recover the Wendecka fur, worth 1c. Your share is 1c.
+6/6/25 2:22:23a You slaughtered a Wendecka.
+6/6/25 2:22:24a * You recover the Wendecka fur, worth 3c. Your share is 3c.
+6/6/25 2:22:24a You slaughtered a Wendecka.
+6/6/25 2:22:24a * You recover the Wendecka fur, worth 2c. Your share is 2c.
+6/6/25 2:22:24a You slaughtered a Wendecka.
+6/6/25 2:22:24a * You recover the Wendecka fur, worth 3c. Your share is 3c.
+6/6/25 2:22:25a You slaughtered a Vermine.
+6/6/25 2:22:32a You slaughtered a Vermine.
+6/6/25 2:22:32a You slaughtered a Wendecka.
+6/6/25 2:22:33a * You recover the Wendecka fur, worth 4c. Your share is 4c.
+6/6/25 2:22:34a You slaughtered a Night Wendecka.
+6/6/25 2:22:36a You slaughtered a Vermine.
+6/6/25 2:22:37a * You recover the Vermine fur, worth 1c. Your share is 1c.
+6/6/25 2:22:38a You slaughtered a Wendecka.
+6/6/25 2:22:38a * You recover the Wendecka fur, worth 3c. Your share is 3c.
+6/6/25 2:22:42a You slaughtered a Wendecka.
+6/6/25 2:22:42a You slaughtered a Wendecka.
+6/6/25 2:22:43a * You recover the Wendecka fur, worth 1c. Your share is 1c.
+6/6/25 2:22:43a You slaughtered a Wendecka.
+6/6/25 2:22:43a * You recover the Wendecka fur, worth 3c. Your share is 3c.
+6/6/25 2:22:54a You slaughtered a Vermine.
+6/6/25 2:23:10a You slaughtered a Bloodhawk.
+6/6/25 2:23:15a You slaughtered a Starbuck.
+6/6/25 2:23:15a * You recover the Starbuck fur, worth 2c. Your share is 2c.
+6/6/25 2:23:16a You slaughtered a Rat.
+6/6/25 2:23:20a You slaughtered a Starbuck.
+6/6/25 2:23:20a * You recover the Starbuck fur, worth 1c. Your share is 1c.
+6/6/25 2:23:29a You slaughtered a Bloodhawk.
+6/6/25 2:23:37a You slaughtered a Bloodhawk.
+6/6/25 2:23:43a You slaughtered an Elder Wendecka.
+6/6/25 2:23:43a You slaughtered a Wendecka.
+6/6/25 2:23:43a * You recover the Wendecka fur, worth 2c. Your share is 2c.
+6/6/25 2:23:44a You slaughtered an Elder Wendecka.
+6/6/25 2:23:44a * For recovering the fur, you gain experience.
+6/6/25 2:23:44a * You recover the Elder Wendecka fur, worth 4c. Your share is 4c.
+6/6/25 2:23:49a You slaughtered an Elder Night Wendecka.
+6/6/25 2:23:49a * You recover the Elder Night Wendecka fur, worth 6c. Your share is 6c.
+6/6/25 2:23:50a You slaughtered a Rat.
+6/6/25 2:23:54a You slaughtered an Elder Wendecka.
+6/6/25 2:23:54a * You recover the Elder Wendecka fur, worth 3c. Your share is 3c.
+6/6/25 2:23:55a You slaughtered an Elder Wendecka.
+6/6/25 2:23:56a * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+6/6/25 2:23:57a You slaughtered an Elder Wendecka.
+6/6/25 2:23:58a * You recover the Elder Wendecka fur, worth 4c. Your share is 4c.
+6/6/25 2:23:59a You slaughtered a Vermine.
+6/6/25 2:23:59a You slaughtered an Elder Wendecka.
+6/6/25 2:23:59a * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+6/6/25 2:24:00a You slaughtered an Elder Wendecka.
+6/6/25 2:24:01a * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+6/6/25 2:24:01a You slaughtered a Bloodhawk.
+6/6/25 2:24:01a You slaughtered a Vermine.
+6/6/25 2:24:05a You slaughtered a Vermine.
+6/6/25 2:24:06a You slaughtered an Elder Wendecka.
+6/6/25 2:24:06a * You recover the Elder Wendecka fur, worth 3c. Your share is 3c.
+6/6/25 2:24:08a You slaughtered an Elder Wendecka.
+6/6/25 2:24:08a * You recover the Elder Wendecka fur, worth 3c. Your share is 3c.
+6/6/25 2:24:11a You slaughtered an Elder Wendecka.
+6/6/25 2:24:11a * You recover the Elder Wendecka fur, worth 4c. Your share is 4c.
+6/6/25 2:24:13a You slaughtered an Elder Wendecka.
+6/6/25 2:24:13a * You recover the Elder Wendecka fur, worth 3c. Your share is 3c.
+6/6/25 2:24:13a You slaughtered an Elder Wendecka.
+6/6/25 2:24:13a * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+6/6/25 2:24:13a You slaughtered an Elder Wendecka.
+6/6/25 2:24:14a * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+6/6/25 2:24:14a You slaughtered an Elder Wendecka.
+6/6/25 2:24:14a * You recover the Elder Wendecka fur, worth 4c. Your share is 4c.
+6/6/25 2:24:15a You slaughtered a Vermine.
+6/6/25 2:24:15a You slaughtered a Bloodhawk.
+6/6/25 2:24:15a You slaughtered a Vermine.
+6/6/25 2:24:15a You slaughtered a Vermine.
+6/6/25 2:24:18a You slaughtered a Vermine.
+6/6/25 2:24:27a You have 1616 coins.
+6/6/25 2:24:32a You slaughtered a Bloodhawk.
+6/6/25 2:24:33a You slaughtered an Elder Wendecka.
+6/6/25 2:24:33a * You recover the Elder Wendecka fur, worth 5c. Your share is 5c.
+6/6/25 2:24:35a You slaughtered an Elder Night Wendecka.
+6/6/25 2:24:36a * You recover the Elder Night Wendecka fur, worth 3c. Your share is 3c.
+6/6/25 2:24:41a You slaughtered an Elder Wendecka.
+6/6/25 2:24:41a * You recover the Elder Wendecka fur, worth 3c. Your share is 3c.
+6/6/25 2:24:42a You slaughtered an Elder Wendecka.
+6/6/25 2:24:43a * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+6/6/25 2:24:43a You slaughtered a Rat.
+6/6/25 2:24:44a You slaughtered a Bloodhawk.
+6/6/25 2:24:48a You slaughtered a Starbuck.
+6/6/25 2:24:48a * You recover the Starbuck fur, worth 1c. Your share is 1c.
+6/6/25 2:24:52a You slaughtered a Rat.
+6/6/25 2:24:55a You slaughtered a Giant Vermine.
+6/6/25 2:24:55a * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+6/6/25 2:24:57a You slaughtered a Bloodhawk.
+6/6/25 2:25:01a You slaughtered a Bloodhawk.
+6/6/25 2:25:01a You slaughtered an Elder Wendecka.
+6/6/25 2:25:02a You slaughtered a Giant Vermine.
+6/6/25 2:25:02a * You recover the Elder Wendecka fur, worth 3c. Your share is 3c.
+6/6/25 2:25:02a You slaughtered an Elder Wendecka.
+6/6/25 2:25:02a * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+6/6/25 2:25:02a You slaughtered a Bloodhawk.
+6/6/25 2:25:04a You slaughtered a Giant Vermine.
+6/6/25 2:25:04a * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+6/6/25 2:25:07a You slaughtered a Bloodhawk.
+6/6/25 2:25:09a You slaughtered a Mama Wendecka.
+6/6/25 2:25:09a * You recover the Mama Wendecka fur, worth 3c. Your share is 3c.
+6/6/25 2:25:09a You slaughtered a Wendecka.
+6/6/25 2:25:10a * You recover the Wendecka fur, worth 1c. Your share is 1c.
+6/6/25 2:25:10a You slaughtered a Giant Vermine.
+6/6/25 2:25:10a * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+6/6/25 2:25:13a You slaughtered a Giant Vermine.
+6/6/25 2:25:17a You slaughtered a Rat.
+6/6/25 2:25:24a You slaughtered an Elder Night Wendecka.
+6/6/25 2:25:24a * You recover the Elder Night Wendecka fur, worth 7c. Your share is 7c.
+6/6/25 2:25:26a You slaughtered a Starbuck.
+6/6/25 2:25:26a * You recover the Starbuck fur, worth 1c. Your share is 1c.
+6/6/25 2:25:26a Dig is no longer Clanning.
+6/6/25 2:25:27a You slaughtered a Vermine.
+6/6/25 2:25:28a You slaughtered an Elder Night Wendecka.
+6/6/25 2:25:28a * You recover the Elder Night Wendecka fur, worth 6c. Your share is 6c.
+6/6/25 2:25:35a You slaughtered a Rat.
+6/6/25 2:25:41a You slaughtered a Wendecka.
+6/6/25 2:25:53a You slaughtered a Bloodhawk.
+6/6/25 2:25:54a You slaughtered a Bloodhawk.
+6/6/25 2:25:57a You slaughtered a Starbuck.
+6/6/25 2:25:57a * You recover the Starbuck fur, worth 1c. Your share is 1c.
+6/6/25 2:25:59a You slaughtered a Starbuck.
+6/6/25 2:25:59a * You recover the Starbuck fur, worth 1c. Your share is 1c.
+6/6/25 2:26:00a You slaughtered a Vermine.
+6/6/25 2:26:04a Grump is no longer Clanning.
+6/6/25 2:26:09a You slaughtered a Wendecka.
+6/6/25 2:26:10a You slaughtered a Rat.
+6/6/25 2:26:10a You slaughtered a Vermine.
+6/6/25 2:26:11a You slaughtered a Rat.
+6/6/25 2:26:11a You slaughtered a Wendecka.
+6/6/25 2:26:11a * You recover the Wendecka fur, worth 1c. Your share is 1c.
+6/6/25 2:26:15a You slaughtered a Wendecka.
+6/6/25 2:26:16a You slaughtered a Wendecka.
+6/6/25 2:26:17a You slaughtered a Wendecka.
+6/6/25 2:26:17a * You recover the Wendecka fur, worth 4c. Your share is 4c.
+6/6/25 2:26:17a You slaughtered a Vermine.
+6/6/25 2:26:18a * You recover the Vermine fur, worth 1c. Your share is 1c.
+6/6/25 2:26:18a You slaughtered a Wendecka.
+6/6/25 2:26:18a * You recover the Wendecka fur, worth 3c. Your share is 3c.
+6/6/25 2:26:19a You slaughtered a Wendecka.
+6/6/25 2:26:19a * You recover the Wendecka fur, worth 3c. Your share is 3c.
+6/6/25 2:26:20a You slaughtered a Bloodhawk.
+6/6/25 2:26:21a You slaughtered a Wendecka.
+6/6/25 2:26:21a * You recover the Wendecka fur, worth 4c. Your share is 4c.
+6/6/25 2:26:36a You slaughtered a Vermine.
+6/6/25 2:26:40a You slaughtered a Wendecka.
+6/6/25 2:26:40a * You recover the Wendecka fur, worth 3c. Your share is 3c.
+6/6/25 2:26:42a You slaughtered a Wendecka.
+6/6/25 2:26:44a You slaughtered a Wendecka.
+6/6/25 2:26:45a * You recover the Wendecka fur, worth 1c. Your share is 1c.
+6/6/25 2:26:47a You slaughtered a Wendecka.
+6/6/25 2:26:47a * You recover the Wendecka fur, worth 1c. Your share is 1c.
+6/6/25 2:26:47a You slaughtered a Rat.
+6/6/25 2:26:58a You slaughtered a Vermine.
+6/6/25 2:27:01a You slaughtered a Rat.
+6/6/25 2:27:03a You slaughtered a Vermine.
+6/6/25 2:27:05a You slaughtered a Vermine.
+6/6/25 2:27:05a Bashak is now Clanning.
+6/6/25 2:27:06a You slaughtered a Vermine.
+6/6/25 2:27:08a You slaughtered a Vermine.
+6/6/25 2:27:15a You slaughtered a Vermine.
+6/6/25 2:27:15a You slaughtered a Vermine.
+6/6/25 2:27:28a You slaughtered a Web Arachne.
+6/6/25 2:27:28a * You recover the Web Arachne mandibles, worth 2c. Your share is 2c.
+6/6/25 2:27:28a You slaughtered a Dust Arachne.
+6/6/25 2:27:28a * You recover the Dust Arachne mandibles, worth 1c. Your share is 1c.
+6/6/25 2:27:29a You slaughtered a Winged Snake.
+6/6/25 2:27:31a You slaughtered a Web Arachne.
+6/6/25 2:27:34a You slaughtered a Web Arachne.
+6/6/25 2:27:44a You have 1683 coins.
+6/6/25 2:27:51a You slaughtered a Deadly Adder.
+6/6/25 2:27:53a You slaughtered a Deadly Adder.
+6/6/25 2:27:54a You slaughtered a Dust Arachne.
+6/6/25 2:27:54a * You recover the Dust Arachne mandibles, worth 1c. Your share is 1c.
+6/6/25 2:27:55a You slaughtered a Cave Arachne.
+6/6/25 2:28:26a You slaughtered a Vermine.
+6/6/25 2:28:27a You slaughtered a Vermine.
+6/6/25 2:28:27a * You recover the Vermine fur, worth 1c. Your share is 1c.
+6/6/25 2:28:28a You slaughtered a Rat.
+6/6/25 2:28:29a You slaughtered a Rat.
+6/6/25 2:28:30a You slaughtered a Rat.
+6/6/25 2:28:32a You slaughtered a Wendecka.
+6/6/25 2:28:33a * You recover the Wendecka fur, worth 3c. Your share is 3c.
+6/6/25 2:28:36a You equip your heartwood charm.
+6/6/25 2:28:36a • You gather your energy.
+6/6/25 2:28:39a • You speed up.
+6/6/25 2:28:51a You slaughtered a Rat.
+6/6/25 2:28:55a You slaughtered a Rat.
+6/6/25 2:28:58a You slaughtered a Wendecka.
+6/6/25 2:29:07a You slaughtered a Wendecka.
+6/6/25 2:29:08a • You slow down to normal speed.
+6/6/25 2:29:09a You slip your heartwood charm into your backpack.
+6/6/25 2:29:09a You slaughtered a Wendecka.
+6/6/25 2:29:10a You slaughtered a Wendecka.
+6/6/25 2:29:10a * You recover the Wendecka fur, worth 2c. Your share is 2c.
+6/6/25 2:29:10a You slaughtered a Wendecka.
+6/6/25 2:29:10a You slaughtered a Wendecka.
+6/6/25 2:29:11a * You recover the Wendecka fur, worth 2c. Your share is 2c.
+6/6/25 2:29:12a You slaughtered a Wendecka.
+6/6/25 2:29:12a * You recover the Wendecka fur, worth 2c. Your share is 2c.
+6/6/25 2:29:18a You slaughtered a Bloodhawk.
+6/6/25 2:29:18a You slaughtered a Wendecka.
+6/6/25 2:29:18a * You recover the Wendecka fur, worth 1c. Your share is 1c.
+6/6/25 2:29:20a You slaughtered a Wendecka.
+6/6/25 2:29:20a * You recover the Wendecka fur, worth 1c. Your share is 1c.
+6/6/25 2:29:21a You slaughtered a Wendecka.
+6/6/25 2:29:21a * You recover the Wendecka fur, worth 2c. Your share is 2c.
+6/6/25 2:29:23a You slaughtered a Wendecka.
+6/6/25 2:29:23a * You recover the Wendecka fur, worth 1c. Your share is 1c.
+6/6/25 2:29:25a You slaughtered a Wendecka.
+6/6/25 2:29:27a You slaughtered a Vermine.
+6/6/25 2:29:28a You slaughtered a Vermine.
+6/6/25 2:29:28a * You recover the Vermine fur, worth 1c. Your share is 1c.
+6/6/25 2:29:29a Bladebringer is now Clanning.
+6/6/25 2:29:29a You slaughtered a Vermine.
+6/6/25 2:29:37a You slaughtered a Night Wendecka.
+6/6/25 2:29:37a * You recover the Night Wendecka fur, worth 3c. Your share is 3c.
+6/6/25 2:29:38a You slaughtered a Night Wendecka.
+6/6/25 2:29:38a * You recover the Night Wendecka fur, worth 3c. Your share is 3c.
+6/6/25 2:29:40a You slaughtered a Rat.
+6/6/25 2:29:42a You slaughtered a Night Wendecka.
+6/6/25 2:29:43a * You recover the Night Wendecka fur, worth 5c. Your share is 5c.
+6/6/25 2:29:56a You equip your heartwood charm.
+6/6/25 2:29:57a • You gather your energy.
+6/6/25 2:29:59a • You speed up.
+6/6/25 2:29:59a You slaughtered a Rat.
+6/6/25 2:30:15a • You slow down to normal speed.
+6/6/25 2:30:16a You slip your heartwood charm into your backpack.
+6/6/25 2:30:22a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 2:30:22a You equip your heartwood charm.
+6/6/25 2:30:23a • You gather your energy.
+6/6/25 2:30:25a • You speed up.
+6/6/25 2:30:35a Bladebringer is no longer Clanning.
+6/6/25 2:30:46a You vault the wall.
+6/6/25 2:30:57a Koppi yells, "Shakyamuni reports: existence is not political"
+6/6/25 2:30:59a You have 1711 coins.
+6/6/25 2:31:04a • You return to your normal form.
+6/6/25 2:31:04a • You slow down to normal speed.
+6/6/25 2:31:04a You slip your heartwood charm into your backpack.
+6/6/25 2:31:11a Noivad is now Clanning.
+6/6/25 2:31:30a Noivad says, "hi all"
+6/6/25 2:31:34a Magnic says, "hi"
+6/6/25 2:31:39a Leyenda says, "Hello Noivad"
+6/6/25 2:31:41a Bashak says, "hey hey"
+6/6/25 2:31:45a (Salandra waves)
+6/6/25 2:32:00a Noivad asks, "magnic what are you lasting?"
+6/6/25 2:32:06a Magnic says, "tan bear"
+6/6/25 2:32:10a Noivad says, "ok"
+6/6/25 2:32:18a Isca is no longer Clanning.
+6/6/25 2:32:22a Lassair is no longer Clanning.
+6/6/25 2:32:27a Anika is now Clanning.
+6/6/25 2:32:46a You have attained great skill.
+6/6/25 2:32:46a You are currently studying the Mountain Bear, and have much to learn.
+6/6/25 2:33:25a Crius yells, "It’s 11 o’clock, and all’s well."
+6/6/25 2:33:30a Crius yells, "It looks pretty quiet on the coast of Metzetli Island."
+6/6/25 2:34:17a You have 1711 coins.
+6/6/25 2:35:02a Magnic says, "450 til bf for tan bear."
+6/6/25 2:35:44a Spice is now Clanning.
+6/6/25 2:36:08a Koppi yells, "Hashak reports: It takes 2 wipes to realize you only needed one, but one wipe to realize you needed two."
+6/6/25 2:36:56a Spice thinks, "Galadriel won two chains"
+6/6/25 2:37:16a Ptmd is now Clanning.
+6/6/25 2:37:18a Ptmd is no longer Clanning.
+6/6/25 2:37:23a Ptmd is now Clanning.
+6/6/25 2:37:28a You have 1711 coins.
+6/6/25 2:37:57a Lom is now Clanning.
+6/6/25 2:38:25a Ptmd is no longer Clanning.
+6/6/25 2:38:26a Mumbles is now Clanning.
+6/6/25 2:38:52a Mumbles is no longer Clanning.
+6/6/25 2:38:55a Ptmd is now Clanning.
+6/6/25 2:40:04a Ptmd is no longer Clanning.
+6/6/25 2:40:12a Lom is no longer Clanning.
+6/6/25 2:40:15a Mumbles is now Clanning.
+6/6/25 2:40:20a Arianrhod is now Clanning.
+6/6/25 2:40:30a Arianrhod is no longer Clanning.
+6/6/25 2:40:34a Teddy Salad is now Clanning.
+6/6/25 2:40:41a You have 1711 coins.
+6/6/25 2:40:44a Teddy Salad is no longer Clanning.
+6/6/25 2:40:58a Arian is now Clanning.
+6/6/25 2:41:07a Arian is no longer Clanning.
+6/6/25 2:41:12a November is now Clanning.
+6/6/25 2:41:19a Koppi yells, "Hashak reports: It takes 2 wipes to realize you only needed one, but one wipe to realize you needed two."
+6/6/25 2:41:45a November is no longer Clanning.
+6/6/25 2:41:50a Biggles is now Clanning.
+6/6/25 2:41:59a Biggles is no longer Clanning.
+6/6/25 2:42:09a Amos Moses is now Clanning.
+6/6/25 2:42:16a Amos Moses is no longer Clanning.
+6/6/25 2:42:44a Mumbles is no longer Clanning.
+6/6/25 2:42:49a Ptmd is now Clanning.
+6/6/25 2:42:52a Noivad says, "once again back is the incredible, the rhyme animal, the uncannnyible…"
+6/6/25 2:42:58a Chmee is now Clanning.
+6/6/25 2:43:03a Shadowmutt growls, "Grrr."
+6/6/25 2:43:12a Magnic says, "heh"
+6/6/25 2:43:13a (Noivad tries to flick his ears in greeting)
+6/6/25 2:43:20a (Chmee flicks his ears in greeting)
+6/6/25 2:43:22a (Chmee chuckles)
+6/6/25 2:43:26a Bashak says, "I'm trying to decide if I have time to hunt or not"
+6/6/25 2:43:30a Noivad asks, "how goes Chmee?"
+6/6/25 2:43:37a Bashak says, "I gotta be out the door at :30"
+6/6/25 2:43:44a Chmee says, "goes well, considering"
+6/6/25 2:43:45a Noivad asks, "what else you got going on?"
+6/6/25 2:43:51a Bashak says, "work at noon"
+6/6/25 2:43:58a Noivad asks, "considering?"
+6/6/25 2:43:59a You have 1711 coins.
+6/6/25 2:44:04a Noivad says, "too bad Bash"
+6/6/25 2:44:09a Mer Frimmin is now Clanning.
+6/6/25 2:44:16a Noivad says, "hi Catan"
+6/6/25 2:44:20a Chmee says, "catching up on my reading"
+6/6/25 2:44:22a Catan says, "Hello everyone"
+6/6/25 2:44:22a Noivad says, "mer"
+6/6/25 2:44:24a (Mer Frimmin waves.)
+6/6/25 2:44:24a Bashak says, "but no healer so why dont I bring out Hash for 30 mins"
+6/6/25 2:44:25a Lexa is now Clanning.
+6/6/25 2:44:33a Chmee says, "Hi, Catan, Mer."
+6/6/25 2:44:37a (Magnic waves)
+6/6/25 2:44:40a Noivad says, "Hi Lexa"
+6/6/25 2:44:43a Lexa says, "howdy"
+6/6/25 2:44:48a Leyenda says, "Hi Lexa"
+6/6/25 2:44:48a Bashak is no longer Clanning.
+6/6/25 2:44:51a Catan says, "Hello hello"
+6/6/25 2:44:53a Leyenda asks, "Got your bird morph?"
+6/6/25 2:44:56a Catan says, "No healers"
+6/6/25 2:44:58a Lexa says, "should finish today"
+6/6/25 2:45:00a Lorikeet is now Clanning.
+6/6/25 2:45:02a Hashak is now Clanning.
+6/6/25 2:45:08a Noivad asks, "Mistral Kestrel morph, Lexa?"
+6/6/25 2:45:09a Leyenda says, "That's what you say everyday =D"
+6/6/25 2:45:11a Lexa says, "yea"
+6/6/25 2:45:20a Noivad asks, "just one good spawn?"
+6/6/25 2:45:22a Hashak says, "ok I'm gonna bail at :15"
+6/6/25 2:45:29a Leyenda asks, "How many more you need?"
+6/6/25 2:45:31a Lexa says, "Im an optimist"
+6/6/25 2:45:36a Lexa says, "just a couple of good spawns"
+6/6/25 2:45:38a Catan says, "thx Hash"
+6/6/25 2:45:50a Leyenda asks, "okay so like 800 to go?"
+6/6/25 2:45:52a Mer Frimmin says, "Guess I'll switch too"
+6/6/25 2:45:59a (Leyenda grins)
+6/6/25 2:46:04a Mer Frimmin is no longer Clanning.
+6/6/25 2:46:06a Lexa says, "Well you arent an optimist at all"
+6/6/25 2:46:07a Sycamore is now Clanning.
+6/6/25 2:46:16a Leyenda asks, "Realist?"
+6/6/25 2:46:24a Lexa says, "I prefer not to be myself"
+6/6/25 2:46:26a (Sycamore waves.)
+6/6/25 2:46:27a  Lorikeet added to Karma list
+6/6/25 2:46:28a You begin sharing your experiences with Lorikeet.
+6/6/25 2:46:28a You are sharing experiences with Lorikeet and Squib.
+6/6/25 2:46:30a Lorikeet asks, "?"
+6/6/25 2:46:30a  Sycamore added to Karma list
+6/6/25 2:46:30a Koppi yells, "Hashak reports: It takes 2 wipes to realize you only needed one, but one wipe to realize you needed two."
+6/6/25 2:46:31a You begin sharing your experiences with Sycamore.
+6/6/25 2:46:31a You are sharing experiences with Sycamore, Lorikeet and Squib.
+6/6/25 2:46:34a Dae Fenris is now Clanning.
+6/6/25 2:46:42a Lorikeet ponders, "I must have missed something"
+6/6/25 2:46:42a Lexa says, "a realist Lori"
+6/6/25 2:46:46a Hashak says, "I gotta leave at :15"
+6/6/25 2:47:00a You begin sharing your experiences with Dae Fenris.
+6/6/25 2:47:00a You are sharing experiences with Dae Fenris, Sycamore, Lorikeet and Squib.
+6/6/25 2:47:02a  Dae Fenris added to Karma list
+6/6/25 2:47:08a You begin sharing your experiences with Hashak.
+6/6/25 2:47:08a You are sharing experiences with Hashak, Dae Fenris, Sycamore, Lorikeet and Squib.
+6/6/25 2:47:09a You have 1711 coins.
+6/6/25 2:47:11a  Hashak added to Karma list
+6/6/25 2:47:17a * Karma Message set to  . 
+6/6/25 2:47:19a Leyenda asks, "Salandra joining?"
+6/6/25 2:47:20a Lexa asks, "Taryn MIA?"
+6/6/25 2:47:22a Catan says, "Hahsak said he leaving in 30 minutes"
+6/6/25 2:47:24a Salandra ponders, "None for me today. Bit too distracted"
+6/6/25 2:47:29a * Auto Thanker Online!
+6/6/25 2:47:29a You gave signed good karma to Lorikeet, .
+6/6/25 2:47:30a (Leyenda nods)
+6/6/25 2:47:36a You are no longer sharing experiences with Squib.
+6/6/25 2:47:36a You are sharing experiences with Hashak, Dae Fenris, Sycamore and Lorikeet.
+6/6/25 2:47:39a Lorikeet says, "Taryn usually tells me. Maybe she fell asleep"
+6/6/25 2:47:45a Lorikeet says, "Let's go to the pf"
+6/6/25 2:47:48a Leyenda says, "Sleepy cat"
+6/6/25 2:47:56a Catan asks, "Me?"
+6/6/25 2:48:04a Catan says, "I knew"
+6/6/25 2:48:12a Captain Barnac asks, "Ah, Hashak. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+6/6/25 2:48:13a Fird Lirden asks, "Ah, Lexa. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+6/6/25 2:48:13a Hashak says, "yes"
+6/6/25 2:48:13a Lexa says, "yes"
+6/6/25 2:48:14a Bear Knuckle asks, "Ah, Magnic. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+6/6/25 2:48:14a Magnic whispers, "yes"
+6/6/25 2:48:15a Captain Barnac asks, "Ah, Leyenda. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+6/6/25 2:48:20a Lexa rows through the roaring surf.
+6/6/25 2:48:32a You helped kill a Lowland Hawk.
+6/6/25 2:48:32a •You sense healing energy from Hashak.
+6/6/25 2:48:33a * Dae Fenris recovers the Lowland Hawk blood, worth 8c. Your share is 1c.
+6/6/25 2:48:40a •You sense healing energy from Sycamore.
+6/6/25 2:48:41a Hashak says, "rude"
+6/6/25 2:48:41a Catan asks, "shares?"
+6/6/25 2:48:44a Lorikeet says, "Kat and Finny in OP"
+6/6/25 2:48:51a Lexa says, "5 healers then"
+6/6/25 2:48:52a  Sycamore added to Karma list
+6/6/25 2:48:53a  Hashak added to Karma list
+6/6/25 2:48:54a  Lorikeet added to Karma list
+6/6/25 2:48:56a (Chmee nods)
+6/6/25 2:48:56a  Dae Fenris added to Karma list
+6/6/25 2:49:01a Lexa says, "easy shares"
+6/6/25 2:49:01a * Karma Message set to  . 
+6/6/25 2:49:03a Lorikeet says, "dae hash me syc and Kat soon"
+6/6/25 2:49:03a * Auto Thanker Online!
+6/6/25 2:49:04a Leyenda growls, "Me like"
+6/6/25 2:49:04a You have no karma to give.
+6/6/25 2:49:06a Noivad says, "CW0"
+6/6/25 2:49:08a •You sense healing energy from Hashak.
+6/6/25 2:49:13a * Auto thanks names:
+6/6/25 2:49:13a  Sycamore 
+6/6/25 2:49:14a  Hashak 
+6/6/25 2:49:14a  Lorikeet 
+6/6/25 2:49:14a  Dae Fenris 
+6/6/25 2:49:16a Leyenda growls, "Just run past all of this towards huts?"
+6/6/25 2:49:22a Lorikeet yells, "oh hrm there are two helaers let me check"
+6/6/25 2:49:22a You begin sharing your experiences with Chmee.
+6/6/25 2:49:22a You are sharing experiences with Chmee, Hashak, Dae Fenris, Sycamore and Lorikeet.
+6/6/25 2:49:27a Chmee yells, "NORTH"
+6/6/25 2:49:32a •You sense healing energy from Hashak.
+6/6/25 2:49:33a Hashak yells, "For Willikers!"
+6/6/25 2:50:26a You helped kill a Delta Toad.
+6/6/25 2:50:32a You equip your heartwood charm.
+6/6/25 2:50:32a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/6/25 2:50:32a You cannot possibly use anything in your current condition.
+6/6/25 2:50:32a Magnic has fallen to a Deadly Hornet.
+6/6/25 2:50:33a You slip your heartwood charm into your backpack.
+6/6/25 2:50:35a Dae Fenris starts dragging you.
+6/6/25 2:50:47a Ptmd is no longer Clanning.
+6/6/25 2:50:50a Arianrhod is now Clanning.
+6/6/25 2:50:55a Dae Fenris starts dragging you.
+6/6/25 2:51:44a Dae Fenris thinks, "Got Magnic at mtn door"
+6/6/25 2:51:57a You have 1707 coins.
+6/6/25 2:51:59a •You sense healing energy from Hashak.
+6/6/25 2:52:01a Lorikeet thinks, "k I was looking. I have Catan"
+6/6/25 2:52:04a Sycamore says, "Did we lose catan somewhere"
+6/6/25 2:52:08a Lexa says, "lori got"
+6/6/25 2:52:10a Sycamore says, "Ah"
+6/6/25 2:52:18a •You sense healing energy from Sycamore.
+6/6/25 2:52:57a Catan says, "thx Lori"
+6/6/25 2:53:07a Lorikeet says, "Tasus wants to join too. He can come when hashak leaves"
+6/6/25 2:53:16a (Chmee): • you equip your chicken wing and start eating.
+6/6/25 2:53:21a Lorikeet says, "heh"
+6/6/25 2:53:30a The ground is scorched and pitted.
+6/6/25 2:53:37a Lorikeet yells, "bear lasties?"
+6/6/25 2:53:43a You helped kill a Flotsam Meshra.
+6/6/25 2:53:51a Lorikeet asks, "that's all?"
+6/6/25 2:53:53a •You sense healing energy from Hashak.
+6/6/25 2:53:54a You helped vanquish a Fickle Foxweir.
+6/6/25 2:53:54a * Leyenda recovers the Fickle Foxweir fur, worth 64c. Your share is 7c.
+6/6/25 2:53:59a Leyenda growls, "or mtn I guess"
+6/6/25 2:54:21a Lorikeet yells, "checking bear cave for lasties first snell"
+6/6/25 2:54:48a Lorikeet says, "3 snakes a griz and one lasty"
+6/6/25 2:54:51a Chmee growls, "we done with cave"
+6/6/25 2:55:05a You gave signed good karma to Hashak, .
+6/6/25 2:55:09a You have 1714 coins.
+6/6/25 2:55:13a Chmee thinks to a group, "choke"
+6/6/25 2:55:14a Lexa thinks, "choke"
+6/6/25 2:55:15a Noivad thinks, "choke"
+6/6/25 2:55:23a You helped vanquish a Fickle Foxweir.
+6/6/25 2:55:23a * Leyenda recovers the Fickle Foxweir fur, worth 58c. Your share is 8c.
+6/6/25 2:55:45a You helped vanquish a Shadowcat.
+6/6/25 2:55:45a * Leyenda recovers the Shadowcat fur, worth 48c. Your share is 5c.
+6/6/25 2:55:52a You helped vanquish a Wild Stallion.
+6/6/25 2:55:52a * Leyenda recovers the Wild Stallion fur, worth 18c. Your share is 2c.
+6/6/25 2:55:57a You helped vanquish a Sky Bison.
+6/6/25 2:55:58a * Leyenda recovers the Sky Bison fur, worth 43c. Your share is 5c.
+6/6/25 2:56:09a Lexa thinks, "east"
+6/6/25 2:56:11a •You sense healing energy from Hashak.
+6/6/25 2:56:50a •You sense healing energy from Hashak.
+6/6/25 2:56:54a You helped vanquish a Sky Bison.
+6/6/25 2:56:54a * Hashak recovers the Sky Bison fur, worth 140c. Your share is 17c.
+6/6/25 2:57:16a Taryn is now Clanning.
+6/6/25 2:57:16a •You sense healing energy from Hashak.
+6/6/25 2:57:20a Leyenda says, "Ah"
+6/6/25 2:57:24a •You sense healing energy from Sycamore.
+6/6/25 2:57:24a Leyenda says, "There is Taryn"
+6/6/25 2:57:33a Lorikeet says, "uh oh"
+6/6/25 2:57:36a Sycamore says, "I can purg out and come back with pop"
+6/6/25 2:57:37a Chmee thinks to a group, "east"
+6/6/25 2:57:38a Leyenda says, "Syca, if you want to switch now is the time"
+6/6/25 2:57:41a (Leyenda nods)
+6/6/25 2:57:42a (Sycamore nods)
+6/6/25 2:57:43a Hashak says, "I'm leaving soon"
+6/6/25 2:58:01a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/6/25 2:58:01a Magnic has fallen to an Agronox.
+6/6/25 2:58:06a •You sense healing energy from Hashak.
+6/6/25 2:58:10a Chmee has fallen to a Sky Bison.
+6/6/25 2:58:11a You helped vanquish a Sky Bison.
+6/6/25 2:58:11a * Leyenda recovers the Sky Bison fur, worth 16c. Your share is 2c.
+6/6/25 2:58:16a Chmee is no longer fallen.
+6/6/25 2:58:21a You have 1753 coins.
+6/6/25 2:58:26a •You sense healing energy from Hashak.
+6/6/25 2:58:28a Leyenda growls, "Good thing Taryn is on her way"
+6/6/25 2:58:29a Sycamore is no longer Clanning.
+6/6/25 2:58:31a Poplar is now Clanning.
+6/6/25 2:58:33a Lorikeet asks, "because?"
+6/6/25 2:58:34a Leyenda growls, "This anarchy isn't working =D"
+6/6/25 2:58:38a Lorikeet says, "oh"
+6/6/25 2:58:40a Lorikeet says, "hah"
+6/6/25 2:58:42a •You sense healing energy from Hashak.
+6/6/25 2:58:43a (Chmee laughs)
+6/6/25 2:58:43a Anika is no longer Clanning.
+6/6/25 2:58:52a Chmee says, "da mob is da mob"
+6/6/25 2:58:59a Lorikeet asks, "Where is Kat?"
+6/6/25 2:59:04a Lexa says, "sleeping in OP"
+6/6/25 2:59:08a Tasus says, "OP said brb a moment ago"
+6/6/25 2:59:12a You helped vanquish a Mountain Bison.
+6/6/25 2:59:12a * Chmee recovers the Mountain Bison fur, worth 24c. Your share is 2c.
+6/6/25 2:59:12a (Lorikeet nods)
+6/6/25 2:59:38a Lorikeet asks, "Is north clear?"
+6/6/25 2:59:38a Lexa yells, "bees"
+6/6/25 3:00:01a Lorikeet yells, "taryn is bringing Poplar"
+6/6/25 3:00:12a You helped vanquish a Swarm of Bees.
+6/6/25 3:00:15a You helped vanquish a Swarm of Bees.
+6/6/25 3:00:25a •You sense healing energy from Tasus.
+6/6/25 3:00:28a Lorikeet says, "We have one extra healer for 15 minutes"
+6/6/25 3:00:33a You begin sharing your experiences with Tasus.
+6/6/25 3:00:33a You are sharing experiences with Tasus, Chmee, Hashak, Dae Fenris and Lorikeet.
+6/6/25 3:00:34a Hashak says, "3:)"
+6/6/25 3:00:36a Hashak says, ":)"
+6/6/25 3:00:38a •You sense healing energy from Hashak.
+6/6/25 3:00:38a •You sense healing energy from Tasus.
+6/6/25 3:00:38a Chmee yells, "GATHER SOUTH"
+6/6/25 3:00:42a You helped vanquish a Swarm of Bees.
+6/6/25 3:00:50a Lorikeet says, "Taryn coming with Poplar"
+6/6/25 3:00:50a Hashak says, "heya"
+6/6/25 3:00:54a •You sense healing energy from Tasus.
+6/6/25 3:00:54a Katreesa says, "hi"
+6/6/25 3:01:03a Catan says, "Hell o Kat"
+6/6/25 3:01:05a You gave signed good karma to Lorikeet, .
+6/6/25 3:01:08a Catan says, "Hello Kat"
+6/6/25 3:01:17a Katreesa says, "caught me, was hanging with the nephew at OP"
+6/6/25 3:01:23a Katreesa says, ";)"
+6/6/25 3:01:31a You have 1755 coins.
+6/6/25 3:01:42a Leyenda growls, "should we keep moving?"
+6/6/25 3:01:45a Lorikeet says, "sure"
+6/6/25 3:02:18a Chmee says, "I slept really well last night. bladder only woke me up once. :-)"
+6/6/25 3:02:26a Katreesa says, "nice"
+6/6/25 3:02:29a You step on a rotten tangleberry.
+6/6/25 3:02:35a Noivad thinks, "S"
+6/6/25 3:02:47a You helped vanquish a Sky Bison.
+6/6/25 3:02:47a * Leyenda recovers the Sky Bison fur, worth 100c. Your share is 10c.
+6/6/25 3:02:48a Dae Fenris says, "Taryn down"
+6/6/25 3:02:50a •You sense healing energy from Hashak.
+6/6/25 3:02:53a •You sense healing energy from Tasus.
+6/6/25 3:02:56a Lorikeet yells, "taryn fell in bear snell"
+6/6/25 3:03:00a Noivad yells, "gather when cleared"
+6/6/25 3:03:00a Leyenda growls, "ill get"
+6/6/25 3:03:01a Lexa yells, "I can get"
+6/6/25 3:03:02a Anon is no longer Clanning.
+6/6/25 3:03:04a Salandra is no longer Clanning.
+6/6/25 3:03:06a Leyenda growls, "or Lexa"
+6/6/25 3:03:07a Poplar thinks, "I'm at chiokje, tarybn fell, is busy here. will attempt rescue but lots of cats l;ioke a milloion"
+6/6/25 3:03:08a Lorikeet yells, "lexa getting"
+6/6/25 3:03:14a Lexa thinks, "coming"
+6/6/25 3:03:51a Noivad yells, "gather when clear"
+6/6/25 3:04:02a Lorikeet yells, "If lexa falls we head back"
+6/6/25 3:04:18a Noivad says, "bird last"
+6/6/25 3:04:19a Noivad says, "bird last"
+6/6/25 3:04:20a You helped vanquish a Mountain Bison.
+6/6/25 3:04:20a * Tasus recovers the Mountain Bison fur, worth 27c. Your share is 2c.
+6/6/25 3:04:21a Lexa thinks, "2 on chain"
+6/6/25 3:04:26a Catan says, "shit"
+6/6/25 3:04:29a •You sense healing energy from Tasus.
+6/6/25 3:04:30a •You sense healing energy from Hashak.
+6/6/25 3:04:36a Leyenda growls, "I got"
+6/6/25 3:04:43a You have 1767 coins.
+6/6/25 3:04:46a Lorikeet asks, "what are you getting?"
+6/6/25 3:04:51a Leyenda says, "Crooks"
+6/6/25 3:04:53a Leyenda says, "Crook lasty"
+6/6/25 3:04:54a Lorikeet says, "oh"
+6/6/25 3:05:04a Catan says, "sorry forgot Let"
+6/6/25 3:05:07a Catan says, "sorry forgot Ley"
+6/6/25 3:05:11a Leyenda says, "I got that last lasty"
+6/6/25 3:05:15a Leyenda says, "well second last"
+6/6/25 3:05:29a Katreesa says, "helps when I put nerdy reading glasses on"
+6/6/25 3:05:29a Lexa growls, "oink oink"
+6/6/25 3:05:29a Catan says, "eonjoy it while itlasts"
+6/6/25 3:05:31a Leyenda says, "oh"
+6/6/25 3:05:34a Poplar says, "whew"
+6/6/25 3:05:42a Catan says, "so hsares"
+6/6/25 3:05:42a Lexa says, "mistral last"
+6/6/25 3:05:43a Magnic says, "..."
+6/6/25 3:05:45a Lorikeet says, "Sounded like an adventure"
+6/6/25 3:05:46a Lexa says, "5 healers"
+6/6/25 3:05:47a Leyenda says, "Yay, anarchy is ove"
+6/6/25 3:05:48a Leyenda says, "Yay, anarchy is over"
+6/6/25 3:05:52a Catan says, "Myr lasties"
+6/6/25 3:05:55a Magnic asks, "who am i sharing?"
+6/6/25 3:06:00a Taryn says, "not sure how effective I'll be --"
+6/6/25 3:06:02a Catan asks, "yep shares?"
+6/6/25 3:06:03a Lexa says, "any 5 healers, one is leaving soonish"
+6/6/25 3:06:06a Lorikeet asks, "because?"
+6/6/25 3:06:06a Tasus says, "Everyone with a moonstone of sorts"
+6/6/25 3:06:08a Hashak says, "unshare me, I gotta go in ten minutes"
+6/6/25 3:06:10a Taryn says, "internet down, using WiFi on laptop"
+6/6/25 3:06:15a Lorikeet says, "oh fun times"
+6/6/25 3:06:17a You are no longer sharing experiences with Hashak.
+6/6/25 3:06:17a You are sharing experiences with Tasus, Chmee, Dae Fenris and Lorikeet.
+6/6/25 3:06:19a You are still too mentally fatigued to change spirit links.
+6/6/25 3:06:21a Hashak says, "maybe I'll just go now"
+6/6/25 3:06:23a You begin sharing your experiences with Taryn.
+6/6/25 3:06:23a You are sharing experiences with Taryn, Tasus, Chmee, Dae Fenris and Lorikeet.
+6/6/25 3:06:23a Taryn exclaims, "and had to disable screensaver, which kept logging me out!"
+6/6/25 3:06:25a Hashak says, "I could use a snack"
+6/6/25 3:06:25a Lorikeet says, "we have 6 healers for ten minutes"
+6/6/25 3:06:32a Katreesa says, "aww ok"
+6/6/25 3:06:33a Tasus says, "Some faustusss"
+6/6/25 3:06:39a Katreesa says, "Good seeing ya"
+6/6/25 3:06:58a Lorikeet asks, "bird lasty?"
+6/6/25 3:07:06a Chmee has fallen to a Frost Foxweir.
+6/6/25 3:07:06a You have no karma to give.
+6/6/25 3:07:12a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/6/25 3:07:12a You helped vanquish a Frost Foxweir.
+6/6/25 3:07:13a Magnic has fallen to a Frost Foxweir.
+6/6/25 3:07:17a You helped vanquish a Frost Foxweir.
+6/6/25 3:07:17a * Lexa recovers the Frost Foxweir fur, worth 16c. Your share is 2c.
+6/6/25 3:07:19a Hashak is no longer Clanning.
+6/6/25 3:07:19a Chmee is no longer fallen.
+6/6/25 3:07:26a You helped vanquish a Frost Foxweir.
+6/6/25 3:07:27a * Leyenda recovers the Frost Foxweir fur, worth 74c. Your share is 7c.
+6/6/25 3:07:29a •You sense healing energy from Tasus.
+6/6/25 3:07:31a •You sense healing energy from Katreesa.
+6/6/25 3:07:36a Noivad growls, "dismissing in 3 seconds"
+6/6/25 3:07:50a Catan says, "lag"
+6/6/25 3:07:56a You helped vanquish an Alpine Timber Feral.
+6/6/25 3:07:57a * Leyenda recovers the Alpine Timber Feral fur, worth 63c. Your share is 6c.
+6/6/25 3:07:57a You have 1782 coins.
+6/6/25 3:08:10a You helped vanquish an Alpine Timber Feral.
+6/6/25 3:08:11a * Leyenda recovers the Alpine Timber Feral fur, worth 12c. Your share is 1c.
+6/6/25 3:08:27a Chmee asks, "is mistral a lasty?"
+6/6/25 3:08:31a Noivad growls, "yes"
+6/6/25 3:08:31a Leyenda says, "Yes"
+6/6/25 3:08:31a Lexa says, "yes"
+6/6/25 3:08:33a Noivad growls, "x2"
+6/6/25 3:08:41a Chmee says, "so that and myr"
+6/6/25 3:08:46a Catan says, "Bilzzard Myr lastie as well"
+6/6/25 3:09:21a Taryn yells, "west"
+6/6/25 3:09:36a You helped vanquish a Frost Foxweir.
+6/6/25 3:09:36a * Lexa recovers the Frost Foxweir fur, worth 79c. Your share is 7c.
+6/6/25 3:09:39a •You sense healing energy from Tasus.
+6/6/25 3:09:46a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:09:49a • You return to your normal form.
+6/6/25 3:09:50a Tuzar Bloodblade is now Clanning.
+6/6/25 3:09:52a Nisse is now Clanning.
+6/6/25 3:09:52a You helped vanquish a Frost Yorilla.
+6/6/25 3:09:53a * Dae Fenris recovers the Frost Yorilla fur, worth 15c. Your share is 2c.
+6/6/25 3:09:55a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:09:56a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/6/25 3:09:56a • You return to your normal form.
+6/6/25 3:09:59a You helped vanquish a Glacier Bear Cub.
+6/6/25 3:09:59a * Leyenda recovers the Glacier Bear Cub fur, worth 47c. Your share is 4c.
+6/6/25 3:10:00a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:10:02a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/6/25 3:10:02a • You return to your normal form.
+6/6/25 3:10:16a Fury is now Clanning.
+6/6/25 3:10:17a Zhargon is now Clanning.
+6/6/25 3:10:17a Glaurung is now Clanning.
+6/6/25 3:10:47a Katreesa says, "yay for coffee"
+6/6/25 3:10:52a Poplar says, "hehe"
+6/6/25 3:10:55a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:11:02a • You return to your normal form.
+6/6/25 3:11:08a You helped vanquish a Mistral Kestrel.
+6/6/25 3:11:16a You have 1796 coins.
+6/6/25 3:11:21a Lexa says, "if you think coffee is effective you should try Meth"
+6/6/25 3:11:34a You helped vanquish a Glacier Bear Cub.
+6/6/25 3:11:34a * Leyenda recovers the Glacier Bear Cub fur, worth 96c. Your share is 8c.
+6/6/25 3:11:53a •You sense healing energy from Katreesa.
+6/6/25 3:11:56a Catan says, "too long kills"
+6/6/25 3:12:09a Lorikeet yells, "can lure something"
+6/6/25 3:12:13a Catan says, "kil lit"
+6/6/25 3:12:13a Lexa says, "taryn is"
+6/6/25 3:12:20a Leyenda says, "can agree to do 1 or 2 per hunt"
+6/6/25 3:12:24a Leyenda growls, "can agree to do 1 or 2 per hunt"
+6/6/25 3:12:31a You helped vanquish a Glacier Bear Cub.
+6/6/25 3:12:31a * Lexa recovers the Glacier Bear Cub fur, worth 56c. Your share is 5c.
+6/6/25 3:12:36a Magnic says, "you got dis"
+6/6/25 3:12:36a Katreesa asks, "I don't remember now, how much mentus to make death poppies powerless?"
+6/6/25 3:12:38a Leyenda says, "you have 4 slots now anyways ;)"
+6/6/25 3:12:39a •You sense healing energy from Katreesa.
+6/6/25 3:12:42a You helped vanquish a Blizzard Greymyr.
+6/6/25 3:12:45a Leyenda says, "Nice"
+6/6/25 3:12:46a Magnic says, ":)"
+6/6/25 3:12:47a Poplar says, "nice"
+6/6/25 3:12:49a Catan says, "ttedious sorry"
+6/6/25 3:12:59a You helped vanquish a Glacier Bear Cub.
+6/6/25 3:12:59a * Leyenda recovers the Glacier Bear Cub fur, worth 12c. Your share is 1c.
+6/6/25 3:13:00a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/6/25 3:13:01a •You sense healing energy from Katreesa.
+6/6/25 3:13:01a Magnic has fallen to a Glacier Bear.
+6/6/25 3:13:06a Lorikeet yells, "everyone have the correct five healers now?"
+6/6/25 3:13:07a You helped vanquish a Glacier Bear.
+6/6/25 3:13:07a 'Sycamore' is not in the lands.
+6/6/25 3:13:07a * Lexa recovers the Glacier Bear fur, worth 57c. Your share is 5c.
+6/6/25 3:13:12a •You sense healing energy from Katreesa.
+6/6/25 3:13:21a You are no longer sharing experiences with Chmee.
+6/6/25 3:13:21a You are sharing experiences with Taryn, Tasus, Dae Fenris and Lorikeet.
+6/6/25 3:13:22a Leyenda says, "ya"
+6/6/25 3:13:25a Leyenda says, "well"
+6/6/25 3:13:25a You begin sharing your experiences with Katreesa.
+6/6/25 3:13:25a You are sharing experiences with Katreesa, Taryn, Tasus, Dae Fenris and Lorikeet.
+6/6/25 3:13:26a Leyenda says, "I have"
+6/6/25 3:13:34a Leyenda asks, "Do I get a sticker?"
+6/6/25 3:13:40a Tasus says, "You get heals! :D"
+6/6/25 3:13:45a Leyenda says, "<3"
+6/6/25 3:13:47a Katreesa asks, "The poppies in bp, how much mentus to nullify?"
+6/6/25 3:13:47a Leyenda says, "Even better"
+6/6/25 3:13:49a You helped vanquish a Glacier Bear Cub.
+6/6/25 3:13:53a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:14:00a • You return to your normal form.
+6/6/25 3:14:04a You helped vanquish a Frost Yorilla.
+6/6/25 3:14:05a * Leyenda recovers the Frost Yorilla fur, worth 82c. Your share is 7c.
+6/6/25 3:14:05a Leyenda says, "50 heenslot mentus and a shieldstone"
+6/6/25 3:14:06a Lexa yells, "can gather west"
+6/6/25 3:14:07a Lorikeet asks, "10?"
+6/6/25 3:14:19a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:14:22a • You return to your normal form.
+6/6/25 3:14:24a Lorikeet says, "I am not sure"
+6/6/25 3:14:28a You helped vanquish a Glacier Bear.
+6/6/25 3:14:29a * Lexa recovers the Glacier Bear fur, worth 41c. Your share is 3c.
+6/6/25 3:14:30a You helped vanquish a Frost Yorilla.
+6/6/25 3:14:30a * Leyenda recovers the Frost Yorilla fur, worth 94c. Your share is 8c.
+6/6/25 3:14:30a You have 1833 coins.
+6/6/25 3:14:31a Katreesa says, "ah ok"
+6/6/25 3:14:34a Taryn yells, "west"
+6/6/25 3:14:39a Chmee says, "20 mentus is enough for poppies"
+6/6/25 3:15:04a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:15:09a • You return to your normal form.
+6/6/25 3:15:16a Lorikeet says, "That's what I have"
+6/6/25 3:15:16a You helped vanquish a Snowstag.
+6/6/25 3:15:17a * Lexa recovers the Snowstag fur, worth 30c. Your share is 3c.
+6/6/25 3:15:22a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:15:24a You helped vanquish a Glacier Bear Cub.
+6/6/25 3:15:24a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/6/25 3:15:24a * Leyenda recovers the Glacier Bear Cub fur, worth 83c. Your share is 7c.
+6/6/25 3:15:24a • You return to your normal form.
+6/6/25 3:15:24a Magnic has fallen to a Blizzard Greymyr.
+6/6/25 3:15:26a Katreesa says, "ah ok"
+6/6/25 3:15:28a Dae Fenris starts dragging you.
+6/6/25 3:15:39a Katreesa says, "20 would nullify portal effect I think"
+6/6/25 3:15:39a •You sense healing energy from Tasus.
+6/6/25 3:15:42a Lorikeet says, "yes"
+6/6/25 3:15:43a You helped vanquish a Blizzard Greymyr.
+6/6/25 3:15:44a Chmee says, "yes"
+6/6/25 3:15:45a Leyenda growls, "oop"
+6/6/25 3:15:45a •You are already in your normal form.
+6/6/25 3:15:46a Lorikeet says, "but 10 does half"
+6/6/25 3:15:47a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:15:47a Katreesa says, "ok cool"
+6/6/25 3:15:49a Katreesa says, "thank you"
+6/6/25 3:15:50a • You return to your normal form.
+6/6/25 3:15:56a Lorikeet says, "and ring increases ist"
+6/6/25 3:15:58a Katreesa says, "Letting Finny know"
+6/6/25 3:16:03a •You sense healing energy from Katreesa.
+6/6/25 3:16:03a You helped vanquish a Frost Yorilla.
+6/6/25 3:16:04a You helped vanquish a Glacier Bear.
+6/6/25 3:16:04a * Leyenda recovers the Glacier Bear fur, worth 49c. Your share is 4c.
+6/6/25 3:16:18a Chmee says, "15 mentus per sungem slot"
+6/6/25 3:16:26a Katreesa says, "in case he doesn't want to keep shieldstoning poppies off snell"
+6/6/25 3:16:29a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:16:31a You helped vanquish a Frost Yorilla.
+6/6/25 3:16:31a * Leyenda recovers the Frost Yorilla fur, worth 26c. Your share is 2c.
+6/6/25 3:16:32a Lexa says, "could use one of those famous 500 mistral spawns"
+6/6/25 3:16:33a • You return to your normal form.
+6/6/25 3:16:33a Chmee says, "plus some of janis' book"
+6/6/25 3:16:35a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:16:37a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/6/25 3:16:38a • You return to your normal form.
+6/6/25 3:16:41a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:16:42a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:16:43a • You return to your normal form.
+6/6/25 3:16:46a Leyenda growls, "If thats the case Lexa, we share =D"
+6/6/25 3:17:02a Catan says, "red pleas"
+6/6/25 3:17:03a Katreesa says, "so much stuff I just don't remember"
+6/6/25 3:17:07a •You sense healing energy from Katreesa.
+6/6/25 3:17:12a You helped vanquish a Glacier Bear Cub.
+6/6/25 3:17:12a * Leyenda recovers the Glacier Bear Cub fur, worth 22c. Your share is 2c.
+6/6/25 3:17:20a You helped vanquish a Frost Foxweir.
+6/6/25 3:17:20a * Leyenda recovers the Frost Foxweir fur, worth 70c. Your share is 8c.
+6/6/25 3:17:38a You helped vanquish a Blizzard Greymyr.
+6/6/25 3:17:45a You have 1859 coins.
+6/6/25 3:17:47a Tasus says, "Smack them rock cheeks"
+6/6/25 3:17:52a Katreesa says, ":)"
+6/6/25 3:17:55a Isca is now Clanning.
+6/6/25 3:17:58a Katreesa says, "hard man is good to find"
+6/6/25 3:18:26a Taryn thinks to a group, "east"
+6/6/25 3:18:35a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:18:37a Lexa growls, "I sense a Mistral Kestrel nearby"
+6/6/25 3:18:38a Lexa growls, "I sense a Mistral Kestrel nearby"
+6/6/25 3:18:41a You helped vanquish a Glacier Bear.
+6/6/25 3:18:42a * Lexa recovers the Glacier Bear fur, worth 53c. Your share is 5c.
+6/6/25 3:18:43a You helped vanquish a Frost Yorilla.
+6/6/25 3:18:43a * Leyenda recovers the Frost Yorilla fur, worth 42c. Your share is 4c.
+6/6/25 3:18:45a • You return to your normal form.
+6/6/25 3:18:46a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:18:50a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/6/25 3:18:50a • You return to your normal form.
+6/6/25 3:18:51a You helped vanquish a Frost Yorilla.
+6/6/25 3:18:51a * Lexa recovers the Frost Yorilla fur, worth 48c. Your share is 4c.
+6/6/25 3:18:55a Lassair is now Clanning.
+6/6/25 3:18:57a Lexa yells, "ne"
+6/6/25 3:19:00a Noivad yells, "1"
+6/6/25 3:19:04a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:19:08a 'Hashak' is not in the lands.
+6/6/25 3:19:08a Catan says, "ered please"
+6/6/25 3:19:12a • You return to your normal form.
+6/6/25 3:19:14a You helped vanquish a Frost Foxweir.
+6/6/25 3:19:14a * Leyenda recovers the Frost Foxweir fur, worth 73c. Your share is 9c.
+6/6/25 3:19:20a You helped vanquish a Glacier Bear Cub.
+6/6/25 3:19:20a * Leyenda recovers the Glacier Bear Cub fur, worth 87c. Your share is 9c.
+6/6/25 3:19:21a Katreesa asks, "So, Catan needs what now in terms of pf training?"
+6/6/25 3:19:34a Leyenda says, "Only Trillbane to go"
+6/6/25 3:19:41a Katreesa says, "oh nice"
+6/6/25 3:19:45a You helped vanquish a Blizzard Greymyr.
+6/6/25 3:19:50a Lexa yells, "ne"
+6/6/25 3:19:57a FriedDylan is now Clanning.
+6/6/25 3:20:07a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:20:07a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/6/25 3:20:08a • You return to your normal form.
+6/6/25 3:20:09a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:20:14a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:20:14a Lorikeet yells, "no more myr for Catan"
+6/6/25 3:20:15a • You return to your normal form.
+6/6/25 3:20:24a You helped vanquish a Snowstag.
+6/6/25 3:20:24a * Leyenda recovers the Snowstag fur, worth 62c. Your share is 7c.
+6/6/25 3:20:25a Leyenda says, "nice"
+6/6/25 3:20:26a Katreesa says, "oh nice"
+6/6/25 3:20:30a Leyenda says, "Good to be done in 6 on that study"
+6/6/25 3:20:37a Leyenda growls, "Good to be done in 6 on that study"
+6/6/25 3:20:38a Lexa growls, "yor"
+6/6/25 3:20:39a Catan says, "yy.• Youyy have I jsut heard a big sigh or relief? learn to fight the Blizzard Greymyr more effectively"
+6/6/25 3:20:42a Lexa growls, ">>"
+6/6/25 3:20:46a Leyenda says, "12 woulda been a pain =D"
+6/6/25 3:20:46a Catan yells, "have I jsut heard a big sigh or relief? learn to fight the Blizzard Greymyr more effectively"
+6/6/25 3:20:54a Leyenda growls, "12 woulda been a pain =D"
+6/6/25 3:20:54a Katreesa says, "heh"
+6/6/25 3:20:59a Lexa thinks, "east"
+6/6/25 3:21:00a Catan says, ": D"
+6/6/25 3:21:00a You have 1897 coins.
+6/6/25 3:21:05a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:21:09a • You return to your normal form.
+6/6/25 3:21:13a You helped vanquish an Abominable Snow Yorilla.
+6/6/25 3:21:14a Lexa yells, "s"
+6/6/25 3:21:21a You helped vanquish a Glacier Bear Cub.
+6/6/25 3:21:31a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:21:32a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/6/25 3:21:32a • You return to your normal form.
+6/6/25 3:21:34a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:21:35a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:21:37a • You return to your normal form.
+6/6/25 3:21:48a Lexa yells, "swing"
+6/6/25 3:21:53a Catan says, "I only needed 6 to finiish the sutdy I think"
+6/6/25 3:22:00a Taryn thinks to a group, "status? hold 2 myr north"
+6/6/25 3:22:03a Leyenda growls, "True"
+6/6/25 3:22:06a Lexa thinks, "can south taryn"
+6/6/25 3:22:09a •You sense healing energy from Tasus.
+6/6/25 3:22:10a •You sense healing energy from Katreesa.
+6/6/25 3:22:13a Poplar thinks, "we went to stairs"
+6/6/25 3:22:43a You helped vanquish a Glacier Bear Cub.
+6/6/25 3:22:43a * Leyenda recovers the Glacier Bear Cub fur, worth 74c. Your share is 8c.
+6/6/25 3:22:45a You helped vanquish a Glacier Bear Cub.
+6/6/25 3:22:57a You helped vanquish a Glacier Bear Cub.
+6/6/25 3:22:57a * You recover the Glacier Bear Cub fur, worth 3c.
+6/6/25 3:22:57a Katreesa says, "https://www.youtube.com/watch?v=aXTxoPFmL0k"
+6/6/25 3:23:00a Lorikeet yells, "Holding a plethora"
+6/6/25 3:23:10a Lorikeet thinks, "also have a fox on me"
+6/6/25 3:23:29a Lorikeet yells, "thanks"
+6/6/25 3:23:40a You helped vanquish a Frost Foxweir.
+6/6/25 3:23:50a You helped vanquish a Glacier Bear.
+6/6/25 3:23:50a * Catan recovers the Glacier Bear fur, worth 2c. Your share is 1c.
+6/6/25 3:24:20a You have 1906 coins.
+6/6/25 3:24:21a Noivad says, "thx kat"
+6/6/25 3:24:27a Katreesa says, "sure thing"
+6/6/25 3:24:28a Taryn says, "."
+6/6/25 3:24:41a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:24:43a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/6/25 3:24:43a • You return to your normal form.
+6/6/25 3:24:50a •You sense healing energy from Katreesa.
+6/6/25 3:25:00a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:25:05a Leyenda growls, "maybe this one"
+6/6/25 3:25:07a You helped vanquish a Mistral Kestrel.
+6/6/25 3:25:09a • You return to your normal form.
+6/6/25 3:25:09a You gave signed good karma to Lorikeet, .
+6/6/25 3:25:13a Lexa yells, "gather west"
+6/6/25 3:25:34a Lexa thinks, "west"
+6/6/25 3:25:41a Lexa says, "<<< in"
+6/6/25 3:25:47a Lorikeet thinks, "taryn not moving"
+6/6/25 3:25:58a You helped vanquish a Mauling Spirit.
+6/6/25 3:26:05a You helped vanquish a Mauling Spirit.
+6/6/25 3:26:07a Lexa growls, "last inside?"
+6/6/25 3:26:08a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:26:13a Katreesa asks, "should we go back to Taryn?"
+6/6/25 3:26:14a Catan says, "You would have murdered me if you had had to lag"
+6/6/25 3:26:17a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/6/25 3:26:17a • You return to your normal form.
+6/6/25 3:26:18a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:26:22a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/6/25 3:26:22a • You return to your normal form.
+6/6/25 3:26:24a You helped vanquish an Alpine Timber Feral.
+6/6/25 3:26:24a * Leyenda recovers the Alpine Timber Feral fur, worth 18c. Your share is 3c.
+6/6/25 3:26:30a Lexa growls, "goat last?"
+6/6/25 3:26:34a Chmee growls, "goats and toise for me"
+6/6/25 3:26:34a •You sense healing energy from Tasus.
+6/6/25 3:26:36a Lexa growls, "k"
+6/6/25 3:26:37a Leyenda growls, "oh"
+6/6/25 3:26:40a Leyenda growls, "Sorry"
+6/6/25 3:26:43a You helped vanquish an Alpine Goat.
+6/6/25 3:26:43a •You sense healing energy from Katreesa.
+6/6/25 3:26:43a * Leyenda recovers the Alpine Goat fur, worth 84c. Your share is 11c.
+6/6/25 3:26:46a Leyenda growls, "thought goat was Donk"
+6/6/25 3:26:56a Chmee growls, "it is, but he's not here"
+6/6/25 3:26:59a Lexa yells, "im on goat too but only if he is dead"
+6/6/25 3:27:00a (Leyenda nods)
+6/6/25 3:27:04a Leyenda growls, "well it is noted"
+6/6/25 3:27:16a •You sense healing energy from Katreesa.
+6/6/25 3:27:18a You helped vanquish a Mauling Spirit.
+6/6/25 3:27:19a Lexa says, "so go ahead and die so I can steal them all"
+6/6/25 3:27:24a Leyenda growls, ";P"
+6/6/25 3:27:24a Lexa yells, "gather N"
+6/6/25 3:27:35a Catan says, "I shold also sutdy goat as Ican only tag with gcp"
+6/6/25 3:27:37a You have 1920 coins.
+6/6/25 3:27:48a Taryn has fallen to a Glacier Bear Cub.
+6/6/25 3:27:53a You helped vanquish a Glacier Bear.
+6/6/25 3:27:53a * Lexa recovers the Glacier Bear fur, worth 46c. Your share is 5c.
+6/6/25 3:28:00a Katreesa says, "there we go, Taryn down"
+6/6/25 3:28:05a Lorikeet thinks, "don't raise taryn"
+6/6/25 3:28:13a Dae Fenris yells, "c"
+6/6/25 3:28:13a Lexa yells, "c"
+6/6/25 3:28:14a Katreesa says, "yep"
+6/6/25 3:28:16a You helped vanquish a Crushing Spirit.
+6/6/25 3:28:17a •You sense healing energy from Katreesa.
+6/6/25 3:28:18a * You pick up 35 coins.
+6/6/25 3:28:18a * You gain experience.
+6/6/25 3:28:21a Spice thinks, "poor taryn :("
+6/6/25 3:28:28a •You sense healing energy from Tasus.
+6/6/25 3:28:34a You helped vanquish a Glacier Bear.
+6/6/25 3:28:34a * Leyenda recovers the Glacier Bear fur, worth 41c. Your share is 3c.
+6/6/25 3:28:35a Lorikeet asks, "how dead is she?"
+6/6/25 3:28:39a Tasus says, "Grave"
+6/6/25 3:28:41a Lexa thinks, "can N"
+6/6/25 3:28:41a Tasus says, "ezpz"
+6/6/25 3:28:43a Lorikeet says, "oh okay"
+6/6/25 3:28:47a Lorikeet says, "Hit by a rock on red"
+6/6/25 3:28:57a Tasus says, "Accidenatlly moonstoned in entry yheh"
+6/6/25 3:29:02a You helped vanquish an Alpine Timber Feral.
+6/6/25 3:29:02a Lorikeet says, "=)"
+6/6/25 3:29:08a •You sense healing energy from Katreesa.
+6/6/25 3:29:18a You helped vanquish a Glacier Bear.
+6/6/25 3:29:18a * Lexa recovers the Glacier Bear fur, worth 57c. Your share is 5c.
+6/6/25 3:29:24a You helped vanquish a Mauling Spirit.
+6/6/25 3:29:37a Lexa yells, "5"
+6/6/25 3:30:01a •You are already in your normal form.
+6/6/25 3:30:02a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:30:02a You helped vanquish an Alpine Timber Feral.
+6/6/25 3:30:03a * Leyenda recovers the Alpine Timber Feral fur, worth 82c. Your share is 9c.
+6/6/25 3:30:06a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:30:06a Lexa yells, "c"
+6/6/25 3:30:07a • You return to your normal form.
+6/6/25 3:30:11a You helped vanquish a Glacier Bear.
+6/6/25 3:30:11a * Leyenda recovers the Glacier Bear fur, worth 54c. Your share is 5c.
+6/6/25 3:30:12a You helped vanquish a Glacier Bear.
+6/6/25 3:30:12a * Leyenda recovers the Glacier Bear fur, worth 10c. Your share is 1c.
+6/6/25 3:30:15a You helped vanquish a Crushing Spirit.
+6/6/25 3:30:19a You helped vanquish an Alpine Timber Feral.
+6/6/25 3:30:19a * Leyenda recovers the Alpine Timber Feral fur, worth 100c. Your share is 11c.
+6/6/25 3:30:19a * You pick up 36 coins.
+6/6/25 3:30:19a * You gain experience.
+6/6/25 3:30:30a Lorikeet says, "But I can pop a chest ;)"
+6/6/25 3:30:33a Lexa says, "should be fine, got plenty of healing power today"
+6/6/25 3:30:37a Poplar asks, "do you wanna run her to a huit and heal her before she poofs?"
+6/6/25 3:30:40a Lexa says, "you can also get zapped all day"
+6/6/25 3:30:41a •You sense healing energy from Katreesa.
+6/6/25 3:30:43a Noivad growls, "can popasmurf"
+6/6/25 3:30:47a Taryn is still fallen to a Glacier Bear Cub.
+6/6/25 3:30:52a You have 2030 coins.
+6/6/25 3:30:56a Noivad growls, "he gets whiny"
+6/6/25 3:30:59a Leyenda growls, "I think healing her here and now may be the best shot no?"
+6/6/25 3:31:02a Catan asks, "Taryn can't be raised???"
+6/6/25 3:31:07a Lorikeet asks, "why?"
+6/6/25 3:31:07a Leyenda growls, "If she wakes up healthy she can make a run for it"
+6/6/25 3:31:09a Lexa says, "naw we can drag for a bit"
+6/6/25 3:31:09a You gave signed good karma to Dae Fenris, .
+6/6/25 3:31:10a Poplar says, "she's afk"
+6/6/25 3:31:11a Lorikeet says, "oh"
+6/6/25 3:31:14a Leyenda growls, "well"
+6/6/25 3:31:15a Katreesa asks, "just got a call for Marjorie...any Marjories here?"
+6/6/25 3:31:16a Leyenda growls, "If she poofs now"
+6/6/25 3:31:20a Lorikeet says, "can drag unless you need me"
+6/6/25 3:31:21a Leyenda growls, "She'll be dead when she logs in"
+6/6/25 3:31:22a Katreesa says, ":P"
+6/6/25 3:31:27a Leyenda growls, "Does she not poof?"
+6/6/25 3:31:28a Lorikeet says, "she won't poof while on chain"
+6/6/25 3:31:30a Leyenda growls, "When dragging"
+6/6/25 3:31:36a Lexa yells, "gather s"
+6/6/25 3:31:37a •You sense healing energy from Katreesa.
+6/6/25 3:31:37a Leyenda growls, "ahh"
+6/6/25 3:31:38a Noivad growls, "oh neat"
+6/6/25 3:31:38a Leyenda growls, "I see"
+6/6/25 3:31:54a Lorikeet says, "THat's why I can't let go"
+6/6/25 3:32:15a Noivad thinks, "in"
+6/6/25 3:32:25a •You sense healing energy from Katreesa.
+6/6/25 3:32:28a You helped vanquish a Glacier Bear.
+6/6/25 3:32:28a * Lexa recovers the Glacier Bear fur, worth 23c. Your share is 3c.
+6/6/25 3:32:32a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:32:38a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/6/25 3:32:39a • You return to your normal form.
+6/6/25 3:32:39a •You do not have enough balance to take full advantage of your gossamer training.
+6/6/25 3:32:39a Lexa growls, "goat last"
+6/6/25 3:32:49a You helped vanquish a Glacier Bear.
+6/6/25 3:32:50a * Lexa recovers the Glacier Bear fur, worth 30c. Your share is 3c.
+6/6/25 3:32:50a You helped vanquish a Glacier Bear.
+6/6/25 3:32:50a * Lexa recovers the Glacier Bear fur, worth 31c. Your share is 3c.
+6/6/25 3:32:50a You helped vanquish a Frost Foxweir.
+6/6/25 3:32:50a * Leyenda recovers the Frost Foxweir fur, worth 33c. Your share is 3c.
+6/6/25 3:32:51a Leyenda growls, "urgh"
+6/6/25 3:32:53a Leyenda growls, "I just noted"
+6/6/25 3:32:56a Leyenda growls, "me stupid"
+6/6/25 3:33:02a Leyenda growls, "Sorry Chmee"
+6/6/25 3:33:11a Dae Fenris yells, "Giayl is in the bend, not by altar"
+6/6/25 3:33:13a Chmee says, "sokay"
+6/6/25 3:33:15a You helped vanquish a Glacier Bear.
+6/6/25 3:33:16a * Leyenda recovers the Glacier Bear fur, worth 72c. Your share is 6c.
+6/6/25 3:33:16a •You sense healing energy from Tasus.
+6/6/25 3:33:22a Lexa yells, "can move up to here"
+6/6/25 3:33:45a Lorikeet yells, "holding lightning"
+6/6/25 3:33:48a Taryn has been fallen for some time because of a Glacier Bear Cub.
+6/6/25 3:33:56a Zhargon is no longer Clanning.
+6/6/25 3:34:07a Lexa yells, "come on in lori we got boss"
+6/6/25 3:34:08a You have 2048 coins.
+6/6/25 3:34:10a You helped vanquish a Mauling Spirit.
+6/6/25 3:34:14a Glaurung is no longer Clanning.
+6/6/25 3:34:19a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:34:23a • You return to your normal form.
+6/6/25 3:34:24a Leyenda yells, "can swing"
+6/6/25 3:34:26a Lexa yells, "c"
+6/6/25 3:34:27a Nisse is no longer Clanning.
+6/6/25 3:34:30a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/6/25 3:34:30a Magnic has fallen to Giayl.
+6/6/25 3:34:30a •You sense healing energy from Katreesa.
+6/6/25 3:34:31a Tuzar Bloodblade is no longer Clanning.
+6/6/25 3:34:36a Lorikeet says, "YOu wish"
+6/6/25 3:34:42a Fury is no longer Clanning.
+6/6/25 3:34:42a •You sense healing energy from Katreesa.
+6/6/25 3:34:49a You helped vanquish Giayl.
+6/6/25 3:34:49a •You sense healing energy from Katreesa.
+6/6/25 3:34:54a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/6/25 3:34:55a Noivad yells, "bs"
+6/6/25 3:35:05a Noivad yells, "chain around bend"
+6/6/25 3:35:05a Chmee says, "she's sneaky and she hits hard"
+6/6/25 3:35:09a •You learn how to better utilize your gossamer.
+6/6/25 3:35:20a You equip your heartwood charm.
+6/6/25 3:35:21a • You gather your energy.
+6/6/25 3:35:21a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/6/25 3:35:21a • You slow down to normal speed.
+6/6/25 3:35:21a Magnic has fallen to a Damaged Spirit.
+6/6/25 3:35:21a You slip your heartwood charm into your backpack.
+6/6/25 3:35:23a Dae Fenris starts dragging you.
+6/6/25 3:35:26a Lexa yells, "r unning away"
+6/6/25 3:35:43a Lexa growls, "they all dead?"
+6/6/25 3:36:00a •You sense healing energy from Tasus.
+6/6/25 3:36:03a Dae Fenris says, "On Kat's chain, she's swinging from south"
+6/6/25 3:36:11a •You sense healing energy from Katreesa.
+6/6/25 3:36:15a Catan asks, "sorry I need to go can you chan me? please?"
+6/6/25 3:36:19a Lexa asks, "there a PF down there or something?"
+6/6/25 3:36:28a Katreesa asks, "where?"
+6/6/25 3:36:28a Chmee says, "next snell"
+6/6/25 3:36:31a Catan says, "can't postpone dinner"
+6/6/25 3:36:32a Lexa says, "ohhh"
+6/6/25 3:36:34a Dae Fenris says, "No, she went to next snell"
+6/6/25 3:36:35a Lexa says, "snell jump"
+6/6/25 3:36:43a Katreesa says, "ah that, yep"
+6/6/25 3:36:46a Lorikeet asks, "taryn?"
+6/6/25 3:36:47a Noivad yells, "let catan fall and we chain him"
+6/6/25 3:36:48a Taryn has been fallen for some time because of a Glacier Bear Cub.
+6/6/25 3:36:49a Taryn says, "mabye"
+6/6/25 3:36:52a Taryn says, "maybe"
+6/6/25 3:36:54a •You sense healing energy from Tasus.
+6/6/25 3:36:56a Catan says, "thanks"
+6/6/25 3:36:57a Katreesa asks, "oh, want up?"
+6/6/25 3:36:58a Taryn says, "having trouble with internet"
+6/6/25 3:37:01a Catan exclaims, "sorry bye everoyne!"
+6/6/25 3:37:02a Katreesa says, "ah ok"
+6/6/25 3:37:04a Leyenda growls, "Nice one Kat"
+6/6/25 3:37:04a Katreesa says, "then no"
+6/6/25 3:37:08a Lorikeet says, "gathered as much :D"
+6/6/25 3:37:09a Leyenda says, "Bye"
+6/6/25 3:37:09a Katreesa says, "Bye Catan"
+6/6/25 3:37:09a Taryn says, "seems okay for now"
+6/6/25 3:37:10a 'Sycamore' is not in the lands.
+6/6/25 3:37:11a * Sycamore will be removed from Karma list.
+6/6/25 3:37:11a You have given this character as much good karma as is allowed. Wait for it to decay.
+6/6/25 3:37:12a Katreesa says, ":)"
+6/6/25 3:37:12a * Lorikeet can no longer be thanked for now, removing form list.
+6/6/25 3:37:12a 'Hashak' is not in the lands.
+6/6/25 3:37:13a * Hashak will be removed from Karma list.
+6/6/25 3:37:13a You gave signed good karma to Dae Fenris, .
+6/6/25 3:37:14a Poplar says, "bye Catan"
+6/6/25 3:37:19a Katreesa asks, "so up?"
+6/6/25 3:37:20a You have 2048 coins.
+6/6/25 3:37:21a Lorikeet says, "Can raise taryn"
+6/6/25 3:37:23a Lexa says, "ok back to where we were"
+6/6/25 3:37:24a Taryn is no longer fallen.
+6/6/25 3:37:24a Taryn says, "for ow yes"
+6/6/25 3:37:25a Poplar says, "keep your macro on"
+6/6/25 3:37:34a Lorikeet says, "plenty of ows"
+6/6/25 3:37:39a Leyenda growls, "Bye"
+6/6/25 3:37:52a You helped vanquish a Glacier Bear.
+6/6/25 3:37:52a * Lexa recovers the Glacier Bear fur, worth 37c. Your share is 4c.
+6/6/25 3:37:55a You helped vanquish a Glacier Bear.
+6/6/25 3:37:55a * Noivad recovers the Glacier Bear fur, worth 7c. Your share is 1c.
+6/6/25 3:38:05a Dae Fenris says, "You'll be glad to know you didn't miss the chest Giayl didn't drop."
+6/6/25 3:38:18a You helped vanquish a Glacier Bear.
+6/6/25 3:38:18a * Leyenda recovers the Glacier Bear fur, worth 25c. Your share is 2c.
+6/6/25 3:38:32a Katreesa says, "Giayl so obnoxious"
+6/6/25 3:38:33a You helped vanquish a Mauling Spirit.
+6/6/25 3:38:35a You helped vanquish a Glacier Bear.
+6/6/25 3:38:36a * Leyenda recovers the Glacier Bear fur, worth 38c. Your share is 3c.
+6/6/25 3:38:46a You helped vanquish a Glacier Bear.
+6/6/25 3:38:46a * Taryn recovers the Glacier Bear fur, worth 45c. Your share is 5c.
+6/6/25 3:39:05a You helped vanquish a Glacier Bear.
+6/6/25 3:39:05a * Leyenda recovers the Glacier Bear fur, worth 60c. Your share is 5c.
+6/6/25 3:39:14a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/6/25 3:39:14a Magnic has fallen to a Mauling Spirit.
+6/6/25 3:39:21a You helped vanquish a Mauling Spirit.
+6/6/25 3:39:43a •You sense healing energy from Katreesa.
+6/6/25 3:39:46a Leyenda yells, "mt"
+6/6/25 3:40:18a Leyenda yells, "kin"
+6/6/25 3:40:19a You equip your heartwood charm.
+6/6/25 3:40:20a • You gather your energy.
+6/6/25 3:40:20a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:40:22a • You speed up.
+6/6/25 3:40:37a You have 2068 coins.
+6/6/25 3:40:39a • You slow down to normal speed.
+6/6/25 3:40:39a You slip your heartwood charm into your backpack.
+6/6/25 3:40:40a • You return to your normal form.
+6/6/25 3:40:44a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:40:56a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:40:58a • You return to your normal form.
+6/6/25 3:41:03a You helped vanquish an Ice'kin.
+6/6/25 3:41:31a Lexa yells, "exit"
+6/6/25 3:41:46a You helped vanquish a Glacier Bear Cub.
+6/6/25 3:41:46a * Dae Fenris recovers the Glacier Bear Cub fur, worth 64c. Your share is 7c.
+6/6/25 3:41:50a Katreesa says, "https://www.youtube.com/watch?v=D6TSpuCCOYQ&list=RDMM&start_radio=1&rv=f49yRhJ0NjI"
+6/6/25 3:42:01a Lexa yells, "2"
+6/6/25 3:42:08a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/6/25 3:42:08a Magnic has fallen to an Ice'kin.
+6/6/25 3:42:13a •You sense healing energy from Tasus.
+6/6/25 3:42:18a Tasus says, "Stickins"
+6/6/25 3:42:29a Dae Fenris says, "Stic'kins"
+6/6/25 3:42:33a Tasus says, "Exactly"
+6/6/25 3:42:35a Lexa yells, "gather s"
+6/6/25 3:42:45a Lexa growls, "looked busy"
+6/6/25 3:42:49a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:42:50a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/6/25 3:42:50a • You return to your normal form.
+6/6/25 3:42:53a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:42:56a You helped kill a Serac Wyrm.
+6/6/25 3:43:00a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/6/25 3:43:00a • You return to your normal form.
+6/6/25 3:43:03a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:43:03a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/6/25 3:43:03a • You return to your normal form.
+6/6/25 3:43:03a Magnic has fallen to a Crushing Spirit.
+6/6/25 3:43:07a * You pick up 21 coins.
+6/6/25 3:43:07a * You gain experience.
+6/6/25 3:43:08a •You sense healing energy from Katreesa.
+6/6/25 3:43:09a •You sense healing energy from Tasus.
+6/6/25 3:43:10a Lion-O is now Clanning.
+6/6/25 3:43:14a * You pick up 31 coins.
+6/6/25 3:43:14a * You gain experience.
+6/6/25 3:43:14a You have no karma to give.
+6/6/25 3:43:25a Lexa thinks, "can s"
+6/6/25 3:43:50a You have 2127 coins.
+6/6/25 3:43:52a Lexa yells, "exit"
+6/6/25 3:43:52a Noivad yells, "oo ee oo ah ah ah"
+6/6/25 3:44:04a You helped vanquish a Glacier Bear Cub.
+6/6/25 3:44:06a Poplar says, "walla walla bing bang"
+6/6/25 3:44:08a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:44:10a Katreesa says, "ting tang..."
+6/6/25 3:44:17a You helped vanquish a Frost Yorilla.
+6/6/25 3:44:18a • You return to your normal form.
+6/6/25 3:44:23a Lexa yells, "east"
+6/6/25 3:44:42a You helped vanquish a Frost Foxweir.
+6/6/25 3:44:42a * Leyenda recovers the Frost Foxweir fur, worth 74c. Your share is 10c.
+6/6/25 3:44:51a You helped vanquish an Alpine Timber Feral.
+6/6/25 3:44:51a * Leyenda recovers the Alpine Timber Feral fur, worth 75c. Your share is 8c.
+6/6/25 3:44:52a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:45:00a You helped vanquish a Frost Yorilla.
+6/6/25 3:45:01a * Leyenda recovers the Frost Yorilla fur, worth 35c. Your share is 4c.
+6/6/25 3:45:02a • You return to your normal form.
+6/6/25 3:45:07a You helped vanquish an Alpine Timber Feral.
+6/6/25 3:45:08a * Leyenda recovers the Alpine Timber Feral fur, worth 84c. Your share is 9c.
+6/6/25 3:45:12a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:45:13a Perrin is now Clanning.
+6/6/25 3:45:21a • You return to your normal form.
+6/6/25 3:45:26a Lexa yells, "no lasts n"
+6/6/25 3:45:33a Katreesa asks, "mind if I share with everyone, Lori?"
+6/6/25 3:45:46a Lorikeet says, "We aren't supposed to be political"
+6/6/25 3:45:47a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:45:51a • You return to your normal form.
+6/6/25 3:45:52a Katreesa says, "bah"
+6/6/25 3:45:53a You helped vanquish a Glacier Bear Cub.
+6/6/25 3:45:53a * Noivad recovers the Glacier Bear Cub fur, worth 15c. Your share is 1c.
+6/6/25 3:45:54a You helped vanquish a Glacier Bear.
+6/6/25 3:45:54a * Lexa recovers the Glacier Bear fur, worth 32c. Your share is 3c.
+6/6/25 3:45:57a Lorikeet says, "anyone who wants to hear it can ask for a sunstone :D"
+6/6/25 3:45:57a You helped vanquish a Frost Yorilla.
+6/6/25 3:45:57a * Leyenda recovers the Frost Yorilla fur, worth 76c. Your share is 8c.
+6/6/25 3:46:00a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:46:04a You helped vanquish a Blizzard Greymyr.
+6/6/25 3:46:05a • You return to your normal form.
+6/6/25 3:46:07a Lorikeet says, "seems you raised catan"
+6/6/25 3:46:07a Lexa asks, "home?"
+6/6/25 3:46:11a Lorikeet says, "He's afk"
+6/6/25 3:46:17a Lexa says, "i'll lure something for him"
+6/6/25 3:46:18a Noivad growls, "push him to edge S"
+6/6/25 3:46:19a Katreesa says, "k"
+6/6/25 3:46:20a Lorikeet yells, "need to kill catan"
+6/6/25 3:46:21a Perrin is no longer Clanning.
+6/6/25 3:46:26a •You sense healing energy from Katreesa.
+6/6/25 3:46:38a Noivad yells, "push him to S edge and we lure from there"
+6/6/25 3:46:38a Magnic asks, "???"
+6/6/25 3:46:50a Magnic says, "client broke"
+6/6/25 3:46:53a *** We are no longer connected to the Clan Lord game server. ***
+6/6/25 3:46:59a Welcome back, Magnic!
+6/6/25 3:47:03a Friends online: none.
+6/6/25 3:47:09a Lexa says, "ah"
+6/6/25 3:47:10a Lorikeet yells, "needyy don't raise him; he's down again :D"
+6/6/25 3:47:15a You helped vanquish a Frost Foxweir.
+6/6/25 3:47:15a * Leyenda recovers the Frost Foxweir fur, worth 10c. Your share is 1c.
+6/6/25 3:47:18a Lexa yells, "south"
+6/6/25 3:47:24a * Karma Message set to  . 
+6/6/25 3:47:30a * Auto Thanker Online!
+6/6/25 3:47:34a  Dae Fenris added to Karma list
+6/6/25 3:47:34a You gave signed good karma to Dae Fenris, .
+6/6/25 3:47:39a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:47:40a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/6/25 3:47:40a • You return to your normal form.
+6/6/25 3:47:45a Lorikeet says, "let hyim die"
+6/6/25 3:47:50a Lorikeet says, "you raised him again"
+6/6/25 3:47:51a  Taryn added to Karma list
+6/6/25 3:47:53a  Lorikeet added to Karma list
+6/6/25 3:47:59a Magnic says, "heh"
+6/6/25 3:48:00a Taryn says, "``oops"
+6/6/25 3:48:03a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/6/25 3:48:04a Magnic has fallen to a Glacier Bear.
+6/6/25 3:48:06a Dae Fenris starts dragging you.
+6/6/25 3:48:15a Leyenda thinks, "waiting at stairs"
+6/6/25 3:48:17a Lexa thinks, "exit"
+6/6/25 3:48:50a Lexa yells, "gather s"
+6/6/25 3:48:55a •You sense healing energy from Tasus.
+6/6/25 3:48:58a •You sense healing energy from Katreesa.
+6/6/25 3:48:58a You helped vanquish a Mountain Bison.
+6/6/25 3:48:58a * Leyenda recovers the Mountain Bison fur, worth 74c. Your share is 8c.
+6/6/25 3:49:15a  Katreesa added to Karma list
+6/6/25 3:49:16a  Tasus added to Karma list
+6/6/25 3:49:20a Lexa yells, "s"
+6/6/25 3:49:36a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/6/25 3:49:36a Magnic has fallen to a Sky Bison.
+6/6/25 3:49:37a You helped vanquish a Sky Bison.
+6/6/25 3:49:37a * Tasus recovers the Sky Bison fur, worth 55c. Your share is 8c.
+6/6/25 3:49:38a You helped kill a Nocens Winder.
+6/6/25 3:49:40a •You sense healing energy from Tasus.
+6/6/25 3:50:03a Lexa yells, "gather west"
+6/6/25 3:50:10a You have 2187 coins.
+6/6/25 3:50:22a Noivad thinks, "<<<West"
+6/6/25 3:50:30a Noivad slides through the grumbling rubble.
+6/6/25 3:50:44a You helped vanquish a Shadowcat.
+6/6/25 3:50:45a * Leyenda recovers the Shadowcat fur, worth 84c. Your share is 28c.
+6/6/25 3:50:48a You helped vanquish a Fickle Foxweir.
+6/6/25 3:50:49a * Leyenda recovers the Fickle Foxweir fur, worth 14c. Your share is 4c.
+6/6/25 3:50:53a Noivad growls, "last"
+6/6/25 3:50:54a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/6/25 3:50:54a You helped vanquish a Shadowcat.
+6/6/25 3:50:54a Magnic has fallen to a Shadowcat.
+6/6/25 3:51:00a Lion-O is no longer Clanning.
+6/6/25 3:51:07a Noivad thinks, "last here and magnic down"
+6/6/25 3:51:18a Lexa thinks, "he is down past exit"
+6/6/25 3:51:26a Dae Fenris starts dragging you.
+6/6/25 3:51:26a Dae Fenris' chain breaks as he tries to use it.
+6/6/25 3:51:29a Dae Fenris starts dragging you.
+6/6/25 3:51:42a Leyenda growls, "raise Magnic for lasty?"
+6/6/25 3:51:42a Noivad says, "raise mag he has a last"
+6/6/25 3:51:53a Lexa asks, "Taryn out?"
+6/6/25 3:52:02a You helped vanquish a Hungry Mountain Bear.
+6/6/25 3:52:04a Lorikeet says, "was this side I think"
+6/6/25 3:52:08a Magnic says, "thanks"
+6/6/25 3:52:10a Lexa says, "ok lets bail"
+6/6/25 3:52:10a Spice is no longer Clanning.
+6/6/25 3:52:13a Katreesa thinks, "thanks for hunt <3"
+6/6/25 3:52:19a Leyenda thinks, "thank you all"
+6/6/25 3:52:20a Lexa thinks, "thanks all"
+6/6/25 3:52:25a You equip your heartwood charm.
+6/6/25 3:52:25a •You assume the shape of a Giant Carnivorous Plankton.
+6/6/25 3:52:25a • You gather your energy.
+6/6/25 3:52:26a Noivad thinks, "htanks everyone"
+6/6/25 3:52:27a Chmee thinks, "thanks all"
+6/6/25 3:52:28a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/6/25 3:52:28a • You slow down to normal speed.
+6/6/25 3:52:28a • You return to your normal form.
+6/6/25 3:52:28a Magnic has fallen to a Deadly Hornet.
+6/6/25 3:52:28a You slip your heartwood charm into your backpack.
+6/6/25 3:52:31a Lexa starts dragging you.
+6/6/25 3:52:31a Magnic says, "heh"
+6/6/25 3:52:36a Lexa thinks, "magnic with me"
+6/6/25 3:52:53a Lorikeet starts dragging you.
+6/6/25 3:52:56a Noivad yells, "tom hanks all"
+6/6/25 3:52:58a Chmee is poisoned.
+6/6/25 3:53:03a Poplar exclaims, "Thanks everyone!"
+6/6/25 3:53:07a Magnic says, "heh"
+6/6/25 3:53:09a A Co'Acha feasts upon Catan's toes.
+6/6/25 3:53:14a Poplar says, "Was fun :)"
+6/6/25 3:53:18a Leyenda trips over a tangleweed.
+6/6/25 3:53:23a You have 2219 coins.
+6/6/25 3:53:24a Chmee says, "indeed"
+6/6/25 3:53:26a Leyenda says, "was undecided what to do"
+6/6/25 3:53:27a Lexa thinks, "im out, boat snell busy"
+6/6/25 3:53:35a Taryn is too far away for your explanation.
+6/6/25 3:53:35a You gave signed good karma to Taryn.
+6/6/25 3:53:41a A Co'Acha pokes at Catan's organs.
+6/6/25 3:54:09a Phoebe says, "Hello, Lorikeet. I can sell you a river skiff. Interested? It costs 100 coins."
+6/6/25 3:54:10a Lorikeet says, "yes"
+6/6/25 3:54:14a Lorikeet thinks, "all out"
+6/6/25 3:54:18a The cat mews pitifully.
+6/6/25 3:54:23a Magnic says, "heh"
+6/6/25 3:54:25a The cat mews pitifully.
+6/6/25 3:54:25a Poplar says, "lol"
+6/6/25 3:54:29a Lexa is no longer Clanning.
+6/6/25 3:54:31a The cat mews pitifully.
+6/6/25 3:54:37a The cat mews pitifully.
+6/6/25 3:55:01a A small plaque reads:
+6/6/25 3:55:03a Law'n St'ple says, "Greetings, Lady Leyenda."
+6/6/25 3:55:05a The Bell of Charity: In Gratitude To Puddleby's Healers
+6/6/25 3:55:19a Magnic thinks, "thanks for the hunt"
+6/6/25 3:55:22a Lorikeet says, "=)"
+6/6/25 3:55:33a Chmee says, "can laila come out and play/"
+6/6/25 3:55:39a Lorikeet says, "ok"
+6/6/25 3:55:39a Poplar exclaims, "Thanks everyone!"
+6/6/25 3:56:01a Asterru says, "Magnic, you are starting to learn, but your studies demand more effort."
+6/6/25 3:56:02a * |▰▰▰═══════| 13%-38%
+6/6/25 3:56:08a You have attained great skill.
+6/6/25 3:56:08a You are currently studying the Mountain Bear, and have much to learn.
+6/6/25 3:56:12a Use \SLEEP again when you return.
+6/6/25 3:56:12a You are done adventuring for a while and will be studying here.
+6/6/25 3:56:13a You have been disconnected from Clan Lord.
+6/6/25 3:56:13a • You will benefit from studying here while you are off-line.
+6/6/25 3:56:13a *** We are no longer connected to the Clan Lord game server. ***

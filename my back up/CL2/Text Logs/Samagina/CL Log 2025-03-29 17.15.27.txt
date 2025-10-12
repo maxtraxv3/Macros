@@ -1,0 +1,2502 @@
+
+3/29/25 5:15:28p * Your shirt named “dark grey” is in nearly perfect condition.
+3/29/25 5:15:28p * Your pair of pants named “dark grey” is in nearly perfect condition.
+3/29/25 5:15:28p Welcome to Clan Lord, Samagina!
+3/29/25 5:15:28p Type \HELP for a list of commands.
+3/29/25 5:15:28p • You have been charged 25 coins for advanced studies.
+3/29/25 5:15:28p • You gain experience from your recent studies.
+3/29/25 5:15:28p You have been studying for 20 hours, exactly.
+3/29/25 5:15:31p It's 4:36pm on Sombdi, day 22 of Winter, 641.
+3/29/25 5:15:31p Friends online: none.
+3/29/25 5:15:32p You are the only member of Black Phoenix clanning.
+3/29/25 5:15:32p • What’s New: https://deltatao.com/clanlord/news
+3/29/25 5:15:42p * Tip of the day: Healers can heal you more easily when you /SHARE with them. (Use /OPTIONS to turn tips off.)
+3/29/25 5:16:05p You slaughtered an Ona Chigger.
+3/29/25 5:16:15p * Your pack of kudzu seedlings now contains 2 kudzu seedlings.
+3/29/25 5:16:15p You plant a seedling.
+3/29/25 5:16:18p * Your pack of kudzu seedlings now contains one kudzu seedling.
+3/29/25 5:16:18p You plant a seedling.
+3/29/25 5:16:23p * You remove the last kudzu seedling from your pack of kudzu seedlings.
+3/29/25 5:16:23p You plant a seedling.
+3/29/25 5:16:26p No item named 'pack of kudzu seedlings <#6' found in the item list.
+3/29/25 5:16:27p No item named 'bag of kudzu seedlings <#1' found in the item list.
+3/29/25 5:16:27p No item named 'sack of kudzu seedlings <#1' found in the item list.
+3/29/25 5:16:27p You slaughtered a Rat.
+3/29/25 5:16:28p You equip your pack of kudzu seedlings named “20”.
+3/29/25 5:16:28p * Your pack of kudzu seedlings now contains 19 kudzu seedlings.
+3/29/25 5:16:28p You plant a seedling.
+3/29/25 5:16:30p You slaughtered a Rat.
+3/29/25 5:16:35p You slaughtered a Giant Vermine.
+3/29/25 5:16:35p * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+3/29/25 5:16:36p You slaughtered a Giant Vermine.
+3/29/25 5:16:37p * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+3/29/25 5:16:46p You slaughtered a Rat.
+3/29/25 5:17:05p You slaughtered a Rat.
+3/29/25 5:17:11p You slaughtered a Vermine.
+3/29/25 5:17:26p You slaughtered a Vermine.
+3/29/25 5:17:59p You slaughtered a Rat.
+3/29/25 5:18:12p You slaughtered a Bloodthorn.
+3/29/25 5:19:23p You slaughtered an Orga.
+3/29/25 5:20:24p You slaughtered a Kudzu.
+3/29/25 5:20:25p You slaughtered a Kudzu.
+3/29/25 5:20:25p * You pick up a kudzu seedling.
+3/29/25 5:20:25p You slaughtered a Kudzu.
+3/29/25 5:20:26p * You pick up a kudzu seedling.
+3/29/25 5:20:26p You slaughtered a Kudzu.
+3/29/25 5:20:27p You slaughtered a Kudzu.
+3/29/25 5:20:28p * You pick up a kudzu seedling.
+3/29/25 5:20:29p You slaughtered a Kudzu.
+3/29/25 5:20:30p You slaughtered a Kudzu.
+3/29/25 5:20:31p You slaughtered a Vermine.
+3/29/25 5:20:33p You slaughtered a Kudzu.
+3/29/25 5:20:34p You slaughtered a Kudzu.
+3/29/25 5:20:35p You slaughtered a Kudzu.
+3/29/25 5:20:37p You slaughtered a Kudzu.
+3/29/25 5:20:40p You slaughtered a Kudzu.
+3/29/25 5:20:41p You slaughtered a Kudzu.
+3/29/25 5:20:41p You slaughtered a Kudzu.
+3/29/25 5:20:42p You slaughtered a Kudzu.
+3/29/25 5:20:44p You slaughtered a Kudzu.
+3/29/25 5:20:45p You slaughtered a Kudzu.
+3/29/25 5:20:47p You slaughtered a Kudzu.
+3/29/25 5:20:48p You slaughtered a Kudzu.
+3/29/25 5:20:50p You slaughtered a Kudzu.
+3/29/25 5:20:51p You slaughtered a Kudzu.
+3/29/25 5:20:53p You slaughtered a Kudzu.
+3/29/25 5:20:55p * You pick up a kudzu seedling.
+3/29/25 5:20:59p You slaughtered a Kudzu.
+3/29/25 5:21:00p You slaughtered a Kudzu.
+3/29/25 5:21:01p You slaughtered a Kudzu.
+3/29/25 5:21:01p You slaughtered a Kudzu.
+3/29/25 5:21:03p You slaughtered a Kudzu.
+3/29/25 5:21:04p You slaughtered a Kudzu.
+3/29/25 5:21:06p You slaughtered a Kudzu.
+3/29/25 5:21:08p You slaughtered a Kudzu.
+3/29/25 5:21:09p You slaughtered a Kudzu.
+3/29/25 5:21:12p You slaughtered a Kudzu.
+3/29/25 5:21:13p You slaughtered a Kudzu.
+3/29/25 5:21:14p You slaughtered a Kudzu.
+3/29/25 5:21:15p You slaughtered a Kudzu.
+3/29/25 5:21:18p You slaughtered a Kudzu.
+3/29/25 5:21:19p You slaughtered a Kudzu.
+3/29/25 5:21:20p You slaughtered a Kudzu.
+3/29/25 5:21:20p You slaughtered a Kudzu.
+3/29/25 5:21:22p You slaughtered a Kudzu.
+3/29/25 5:21:28p You slaughtered a Kudzu.
+3/29/25 5:21:32p You slaughtered a Kudzu.
+3/29/25 5:21:53p You slaughtered a Kudzu.
+3/29/25 5:22:02p * Storing loose seedlings.
+3/29/25 5:22:03p * Your pack of kudzu seedlings now contains 20 kudzu seedlings.
+3/29/25 5:22:05p You equip your pack of kudzu seedlings named “0”.
+3/29/25 5:22:06p * Your pack of kudzu seedlings now contains one kudzu seedling.
+3/29/25 5:22:06p * Your pack of kudzu seedlings now contains 2 kudzu seedlings.
+3/29/25 5:22:07p * Your pack of kudzu seedlings now contains 3 kudzu seedlings.
+3/29/25 5:22:08p * You don't have any kudzu seedlings.
+3/29/25 5:22:08p All loose seeds stored.
+3/29/25 5:22:15p You slaughtered a Rat.
+3/29/25 5:22:19p * Your pack of kudzu seedlings now contains 2 kudzu seedlings.
+3/29/25 5:22:19p You plant a seedling.
+3/29/25 5:22:23p * Your pack of kudzu seedlings now contains one kudzu seedling.
+3/29/25 5:22:23p You plant a seedling.
+3/29/25 5:22:26p * You remove the last kudzu seedling from your pack of kudzu seedlings.
+3/29/25 5:22:26p You plant a seedling.
+3/29/25 5:22:31p No item named 'pack of kudzu seedlings <#6' found in the item list.
+3/29/25 5:22:31p No item named 'bag of kudzu seedlings <#1' found in the item list.
+3/29/25 5:22:31p No item named 'sack of kudzu seedlings <#1' found in the item list.
+3/29/25 5:22:32p You equip your pack of kudzu seedlings named “20”.
+3/29/25 5:22:33p * Your pack of kudzu seedlings now contains 19 kudzu seedlings.
+3/29/25 5:22:33p You plant a seedling.
+3/29/25 5:23:05p Ptmd is a Thoom, is male, is a Healer, and is wearing the symbol of Hunter.
+3/29/25 5:23:07p Portale has not disclosed his race, is male, is an exile, and is not wearing the symbol of any clan.
+3/29/25 5:23:09p Arianrhod is a Human, is female, is a Healer, and is wearing the symbol of Order of the Mini.
+3/29/25 5:23:28p You slaughtered a Giant Slug.
+3/29/25 5:25:48p You slaughtered a Rat.
+3/29/25 5:26:34p Catan is sharing experiences with you.
+3/29/25 5:27:42p You slaughtered a Rat.
+3/29/25 5:27:58p You slaughtered a Kudzu.
+3/29/25 5:27:58p You slaughtered a Kudzu.
+3/29/25 5:27:59p You slaughtered a Kudzu.
+3/29/25 5:27:59p * You pick up a kudzu seedling.
+3/29/25 5:28:00p You slaughtered a Kudzu.
+3/29/25 5:28:01p You slaughtered a Kudzu.
+3/29/25 5:28:04p You slaughtered a Kudzu.
+3/29/25 5:28:05p You slaughtered a Kudzu.
+3/29/25 5:28:07p You slaughtered a Kudzu.
+3/29/25 5:28:07p You slaughtered a Kudzu.
+3/29/25 5:28:08p You slaughtered a Kudzu.
+3/29/25 5:28:11p You slaughtered a Kudzu.
+3/29/25 5:28:15p You slaughtered a Kudzu.
+3/29/25 5:28:16p You slaughtered a Kudzu.
+3/29/25 5:28:17p You slaughtered a Kudzu.
+3/29/25 5:28:17p You slaughtered a Kudzu.
+3/29/25 5:28:18p You slaughtered a Kudzu.
+3/29/25 5:28:19p You slaughtered a Kudzu.
+3/29/25 5:28:19p * You pick up a kudzu seedling.
+3/29/25 5:28:20p You slaughtered a Kudzu.
+3/29/25 5:28:22p You slaughtered a Kudzu.
+3/29/25 5:28:23p You just received anonymous good karma.
+3/29/25 5:28:24p You slaughtered a Kudzu.
+3/29/25 5:28:25p You slaughtered a Kudzu.
+3/29/25 5:28:27p You slaughtered a Kudzu.
+3/29/25 5:28:27p * You pick up a kudzu seedling.
+3/29/25 5:28:28p You slaughtered a Kudzu.
+3/29/25 5:28:32p You slaughtered a Kudzu.
+3/29/25 5:28:33p You slaughtered a Kudzu.
+3/29/25 5:28:33p You slaughtered a Kudzu.
+3/29/25 5:28:34p You slaughtered a Kudzu.
+3/29/25 5:28:36p You slaughtered a Kudzu.
+3/29/25 5:28:41p You slaughtered a Kudzu.
+3/29/25 5:28:41p You slaughtered a Kudzu.
+3/29/25 5:28:42p You slaughtered a Kudzu.
+3/29/25 5:28:44p You slaughtered a Kudzu.
+3/29/25 5:28:45p You slaughtered a Kudzu.
+3/29/25 5:28:46p You slaughtered a Kudzu.
+3/29/25 5:28:50p You slaughtered a Kudzu.
+3/29/25 5:28:51p You slaughtered a Kudzu.
+3/29/25 5:28:52p You slaughtered a Kudzu.
+3/29/25 5:28:52p You slaughtered a Kudzu.
+3/29/25 5:28:56p You slaughtered a Kudzu.
+3/29/25 5:28:57p You slaughtered a Kudzu.
+3/29/25 5:28:58p You slaughtered a Kudzu.
+3/29/25 5:28:59p You slaughtered a Kudzu.
+3/29/25 5:29:00p You slaughtered a Kudzu.
+3/29/25 5:29:02p You slaughtered a Vermine.
+3/29/25 5:29:04p You slaughtered a Kudzu.
+3/29/25 5:29:05p You slaughtered a Kudzu.
+3/29/25 5:29:06p You slaughtered a Kudzu.
+3/29/25 5:29:13p You slaughtered a Kudzu.
+3/29/25 5:29:14p * You pick up a kudzu seedling.
+3/29/25 5:29:14p You slaughtered a Kudzu.
+3/29/25 5:29:15p You slaughtered a Kudzu.
+3/29/25 5:29:24p * Storing loose seedlings.
+3/29/25 5:29:24p * Your pack of kudzu seedlings now contains 20 kudzu seedlings.
+3/29/25 5:29:26p You equip your pack of kudzu seedlings named “0”.
+3/29/25 5:29:27p * Your pack of kudzu seedlings now contains one kudzu seedling.
+3/29/25 5:29:28p * Your pack of kudzu seedlings now contains 2 kudzu seedlings.
+3/29/25 5:29:29p * Your pack of kudzu seedlings now contains 3 kudzu seedlings.
+3/29/25 5:29:30p * You don't have any kudzu seedlings.
+3/29/25 5:29:30p All loose seeds stored.
+3/29/25 5:29:40p You slaughtered a Kudzu.
+3/29/25 5:29:40p * You pick up a kudzu seedling.
+3/29/25 5:29:44p * Storing loose seedlings.
+3/29/25 5:29:45p * Your pack of kudzu seedlings now contains 4 kudzu seedlings.
+3/29/25 5:29:46p * You don't have any kudzu seedlings.
+3/29/25 5:29:46p All loose seeds stored.
+3/29/25 5:29:51p * Your pack of kudzu seedlings now contains 3 kudzu seedlings.
+3/29/25 5:29:51p You plant a seedling.
+3/29/25 5:29:54p * Your pack of kudzu seedlings now contains 2 kudzu seedlings.
+3/29/25 5:29:54p You plant a seedling.
+3/29/25 5:29:57p * Your pack of kudzu seedlings now contains one kudzu seedling.
+3/29/25 5:29:57p You plant a seedling.
+3/29/25 5:29:59p * You remove the last kudzu seedling from your pack of kudzu seedlings.
+3/29/25 5:29:59p You plant a seedling.
+3/29/25 5:31:55p You slaughtered a Rat.
+3/29/25 5:31:56p You slaughtered a Rat.
+3/29/25 5:31:57p You slaughtered a Rat.
+3/29/25 5:33:01p You slaughtered a Rat.
+3/29/25 5:33:02p You slaughtered a Kudzu.
+3/29/25 5:36:00p • It’s Sombdi night, and the Coliseum will open soon.
+3/29/25 5:36:34p You slaughtered a Kudzu.
+3/29/25 5:36:35p You slaughtered a Kudzu.
+3/29/25 5:36:35p * You pick up a kudzu seedling.
+3/29/25 5:36:36p You slaughtered a Kudzu.
+3/29/25 5:36:37p You slaughtered a Kudzu.
+3/29/25 5:36:37p * You pick up a kudzu seedling.
+3/29/25 5:36:38p You slaughtered a Kudzu.
+3/29/25 5:36:39p You slaughtered a Kudzu.
+3/29/25 5:36:41p You slaughtered a Kudzu.
+3/29/25 5:36:42p You slaughtered a Kudzu.
+3/29/25 5:36:43p * You pick up a kudzu seedling.
+3/29/25 5:36:44p You slaughtered a Kudzu.
+3/29/25 5:36:45p You slaughtered a Kudzu.
+3/29/25 5:36:47p You slaughtered a Kudzu.
+3/29/25 5:36:51p You slaughtered a Kudzu.
+3/29/25 5:36:52p You slaughtered a Kudzu.
+3/29/25 5:36:53p You slaughtered a Kudzu.
+3/29/25 5:36:54p You slaughtered a Kudzu.
+3/29/25 5:36:55p * You pick up a kudzu seedling.
+3/29/25 5:36:55p You slaughtered a Kudzu.
+3/29/25 5:36:55p You slaughtered a Kudzu.
+3/29/25 5:36:56p You slaughtered a Kudzu.
+3/29/25 5:36:57p * You pick up a kudzu seedling.
+3/29/25 5:36:58p You slaughtered a Kudzu.
+3/29/25 5:36:59p You slaughtered a Kudzu.
+3/29/25 5:37:01p You slaughtered a Kudzu.
+3/29/25 5:37:02p You slaughtered a Kudzu.
+3/29/25 5:37:03p You slaughtered a Kudzu.
+3/29/25 5:37:05p You slaughtered a Kudzu.
+3/29/25 5:37:06p You slaughtered a Kudzu.
+3/29/25 5:37:07p You slaughtered a Kudzu.
+3/29/25 5:37:08p You slaughtered a Kudzu.
+3/29/25 5:37:10p You slaughtered a Kudzu.
+3/29/25 5:37:11p You slaughtered a Kudzu.
+3/29/25 5:37:13p You slaughtered a Kudzu.
+3/29/25 5:37:15p You slaughtered a Kudzu.
+3/29/25 5:37:17p You slaughtered a Kudzu.
+3/29/25 5:37:18p You slaughtered a Kudzu.
+3/29/25 5:37:20p You slaughtered a Kudzu.
+3/29/25 5:37:21p You slaughtered a Kudzu.
+3/29/25 5:37:25p You slaughtered a Kudzu.
+3/29/25 5:37:26p You slaughtered a Kudzu.
+3/29/25 5:37:27p You slaughtered a Kudzu.
+3/29/25 5:37:27p * You pick up a kudzu seedling.
+3/29/25 5:37:28p You slaughtered a Kudzu.
+3/29/25 5:37:29p You slaughtered a Kudzu.
+3/29/25 5:37:30p You slaughtered a Kudzu.
+3/29/25 5:37:32p You slaughtered a Kudzu.
+3/29/25 5:37:34p You slaughtered a Kudzu.
+3/29/25 5:37:34p * You pick up a kudzu seedling.
+3/29/25 5:37:35p You slaughtered a Kudzu.
+3/29/25 5:37:36p You slaughtered a Kudzu.
+3/29/25 5:37:38p You slaughtered a Kudzu.
+3/29/25 5:37:39p You slaughtered a Kudzu.
+3/29/25 5:37:41p You slaughtered a Kudzu.
+3/29/25 5:37:42p You slaughtered a Kudzu.
+3/29/25 5:37:43p You slaughtered a Kudzu.
+3/29/25 5:37:44p * You pick up a kudzu seedling.
+3/29/25 5:37:50p You slaughtered a Kudzu.
+3/29/25 5:37:57p * Storing loose seedlings.
+3/29/25 5:37:58p * Your pack of kudzu seedlings now contains one kudzu seedling.
+3/29/25 5:37:59p * Your pack of kudzu seedlings now contains 2 kudzu seedlings.
+3/29/25 5:38:00p * Your pack of kudzu seedlings now contains 3 kudzu seedlings.
+3/29/25 5:38:01p * Your pack of kudzu seedlings now contains 4 kudzu seedlings.
+3/29/25 5:38:02p * Your pack of kudzu seedlings now contains 5 kudzu seedlings.
+3/29/25 5:38:04p * Your pack of kudzu seedlings now contains 6 kudzu seedlings.
+3/29/25 5:38:05p * Your pack of kudzu seedlings now contains 7 kudzu seedlings.
+3/29/25 5:38:06p * Your pack of kudzu seedlings now contains 8 kudzu seedlings.
+3/29/25 5:38:07p * Your pack of kudzu seedlings now contains 9 kudzu seedlings.
+3/29/25 5:38:08p * Your pack of kudzu seedlings now contains 10 kudzu seedlings.
+3/29/25 5:38:10p * You don't have any kudzu seedlings.
+3/29/25 5:38:10p All loose seeds stored.
+3/29/25 5:38:16p * Your pack of kudzu seedlings now contains 9 kudzu seedlings.
+3/29/25 5:38:16p You plant a seedling.
+3/29/25 5:38:20p * Your pack of kudzu seedlings now contains 8 kudzu seedlings.
+3/29/25 5:38:20p You plant a seedling.
+3/29/25 5:38:23p * Your pack of kudzu seedlings now contains 7 kudzu seedlings.
+3/29/25 5:38:23p You plant a seedling.
+3/29/25 5:38:26p * Your pack of kudzu seedlings now contains 6 kudzu seedlings.
+3/29/25 5:38:26p You plant a seedling.
+3/29/25 5:39:15p You concentrate on sending your message to Catan.
+3/29/25 5:39:15p You think to Catan, "you finsh any challanges?"
+3/29/25 5:39:29p You begin sharing your experiences with Catan.
+3/29/25 5:40:19p Lom is a Sylvan, is male, is a Healer, and is wearing the symbol of Hunter.
+3/29/25 5:40:58p Catan thinks to you, "Night Wendies. I have access to rangers OP now but still 3 messages"
+3/29/25 5:41:22p You concentrate on sending your message to Catan.
+3/29/25 5:41:22p You think to Catan, "wow, nice so close now :D"
+3/29/25 5:42:20p Catan thinks to you, "NOt that close"
+3/29/25 5:42:47p You concentrate on sending your message to Catan.
+3/29/25 5:42:47p You think to Catan, "haha, have you tryed for 4th yet?"
+3/29/25 5:42:48p Catan thinks to you, "What about you? You are aiming at become what?"
+3/29/25 5:43:04p Catan thinks to you, "Failed twice"
+3/29/25 5:43:32p You concentrate on sending your message to Catan.
+3/29/25 5:43:32p You think to Catan, "ill be a study only ranger, mostly for coins 50c ish monsters"
+3/29/25 5:43:48p You slaughtered a Vermine.
+3/29/25 5:43:55p You slaughtered a Kudzu.
+3/29/25 5:43:55p You slaughtered a Kudzu.
+3/29/25 5:43:56p You slaughtered a Kudzu.
+3/29/25 5:43:57p You slaughtered a Kudzu.
+3/29/25 5:43:58p You slaughtered a Kudzu.
+3/29/25 5:44:00p You slaughtered a Kudzu.
+3/29/25 5:44:01p You slaughtered a Kudzu.
+3/29/25 5:44:02p * You pick up a kudzu seedling.
+3/29/25 5:44:02p You slaughtered a Kudzu.
+3/29/25 5:44:04p You slaughtered a Kudzu.
+3/29/25 5:44:05p * You pick up a kudzu seedling.
+3/29/25 5:44:09p You slaughtered a Kudzu.
+3/29/25 5:44:10p You slaughtered a Kudzu.
+3/29/25 5:44:11p You slaughtered a Kudzu.
+3/29/25 5:44:11p You slaughtered a Kudzu.
+3/29/25 5:44:12p * You pick up a kudzu seedling.
+3/29/25 5:44:13p You slaughtered a Kudzu.
+3/29/25 5:44:14p You slaughtered a Kudzu.
+3/29/25 5:44:16p You slaughtered a Kudzu.
+3/29/25 5:44:18p You slaughtered a Kudzu.
+3/29/25 5:44:19p You slaughtered a Kudzu.
+3/29/25 5:44:21p You slaughtered a Kudzu.
+3/29/25 5:44:22p * You pick up a kudzu seedling.
+3/29/25 5:44:22p You slaughtered a Kudzu.
+3/29/25 5:44:23p You slaughtered a Kudzu.
+3/29/25 5:44:28p You slaughtered a Kudzu.
+3/29/25 5:44:29p You slaughtered a Kudzu.
+3/29/25 5:44:29p You slaughtered a Kudzu.
+3/29/25 5:44:30p You slaughtered a Kudzu.
+3/29/25 5:44:33p You slaughtered a Vermine.
+3/29/25 5:44:36p You slaughtered a Kudzu.
+3/29/25 5:44:37p You slaughtered a Kudzu.
+3/29/25 5:44:38p You slaughtered a Kudzu.
+3/29/25 5:44:40p You slaughtered a Kudzu.
+3/29/25 5:44:41p You slaughtered a Kudzu.
+3/29/25 5:44:43p You slaughtered a Kudzu.
+3/29/25 5:44:44p * You pick up a kudzu seedling.
+3/29/25 5:44:44p You slaughtered a Kudzu.
+3/29/25 5:44:45p * You pick up a kudzu seedling.
+3/29/25 5:44:45p You slaughtered a Kudzu.
+3/29/25 5:44:47p You slaughtered a Kudzu.
+3/29/25 5:44:48p You slaughtered a Kudzu.
+3/29/25 5:44:50p You slaughtered a Kudzu.
+3/29/25 5:44:52p You slaughtered a Kudzu.
+3/29/25 5:44:53p You slaughtered a Kudzu.
+3/29/25 5:44:55p You slaughtered a Kudzu.
+3/29/25 5:44:56p You slaughtered a Kudzu.
+3/29/25 5:44:57p You slaughtered a Kudzu.
+3/29/25 5:44:59p You slaughtered a Kudzu.
+3/29/25 5:45:00p * You pick up a kudzu seedling.
+3/29/25 5:45:01p * You pick up a kudzu seedling.
+3/29/25 5:45:08p * Storing loose seedlings.
+3/29/25 5:45:09p * Your pack of kudzu seedlings now contains 7 kudzu seedlings.
+3/29/25 5:45:10p * Your pack of kudzu seedlings now contains 8 kudzu seedlings.
+3/29/25 5:45:11p * Your pack of kudzu seedlings now contains 9 kudzu seedlings.
+3/29/25 5:45:12p * Your pack of kudzu seedlings now contains 10 kudzu seedlings.
+3/29/25 5:45:13p * Your pack of kudzu seedlings now contains 11 kudzu seedlings.
+3/29/25 5:45:15p * Your pack of kudzu seedlings now contains 12 kudzu seedlings.
+3/29/25 5:45:16p * Your pack of kudzu seedlings now contains 13 kudzu seedlings.
+3/29/25 5:45:17p * Your pack of kudzu seedlings now contains 14 kudzu seedlings.
+3/29/25 5:45:18p * You don't have any kudzu seedlings.
+3/29/25 5:45:18p All loose seeds stored.
+3/29/25 5:45:57p Omega thinks, "anything new on the boardwalk?"
+3/29/25 5:46:45p You slaughtered a Rat.
+3/29/25 5:46:52p * Your pack of kudzu seedlings now contains 13 kudzu seedlings.
+3/29/25 5:46:52p You plant a seedling.
+3/29/25 5:46:55p * Your pack of kudzu seedlings now contains 12 kudzu seedlings.
+3/29/25 5:46:55p You plant a seedling.
+3/29/25 5:46:58p * Your pack of kudzu seedlings now contains 11 kudzu seedlings.
+3/29/25 5:46:58p You plant a seedling.
+3/29/25 5:47:01p * Your pack of kudzu seedlings now contains 10 kudzu seedlings.
+3/29/25 5:47:01p You plant a seedling.
+3/29/25 5:50:44p • The Coliseum is now open. Win fabulous prizes!
+3/29/25 5:51:05p •••
+3/29/25 5:51:05p You have been idle for too long.
+3/29/25 5:51:05p Please do something to avoid being disconnected.
+3/29/25 5:51:05p •••
+3/29/25 5:51:19p You slaughtered a Kudzu.
+3/29/25 5:51:20p You slaughtered a Kudzu.
+3/29/25 5:51:21p You slaughtered a Kudzu.
+3/29/25 5:51:21p * You pick up a kudzu seedling.
+3/29/25 5:51:21p You slaughtered a Kudzu.
+3/29/25 5:51:22p You slaughtered a Kudzu.
+3/29/25 5:51:24p You slaughtered a Kudzu.
+3/29/25 5:51:25p * You pick up a kudzu seedling.
+3/29/25 5:51:26p You slaughtered a Kudzu.
+3/29/25 5:51:28p You slaughtered a Kudzu.
+3/29/25 5:51:29p You slaughtered a Kudzu.
+3/29/25 5:51:31p You slaughtered a Kudzu.
+3/29/25 5:51:32p You slaughtered a Kudzu.
+3/29/25 5:51:35p You slaughtered a Kudzu.
+3/29/25 5:51:36p You slaughtered a Kudzu.
+3/29/25 5:51:37p * You pick up a kudzu seedling.
+3/29/25 5:51:38p You slaughtered a Kudzu.
+3/29/25 5:51:39p You slaughtered a Kudzu.
+3/29/25 5:51:40p You slaughtered a Kudzu.
+3/29/25 5:51:42p You slaughtered a Kudzu.
+3/29/25 5:51:45p You slaughtered a Kudzu.
+3/29/25 5:51:46p You slaughtered a Kudzu.
+3/29/25 5:51:47p * You pick up a kudzu seedling.
+3/29/25 5:51:47p You slaughtered a Kudzu.
+3/29/25 5:51:48p You slaughtered a Kudzu.
+3/29/25 5:51:50p You slaughtered a Kudzu.
+3/29/25 5:51:51p You slaughtered a Kudzu.
+3/29/25 5:51:52p You slaughtered a Kudzu.
+3/29/25 5:51:55p You slaughtered a Kudzu.
+3/29/25 5:51:56p You slaughtered a Kudzu.
+3/29/25 5:52:00p You slaughtered a Kudzu.
+3/29/25 5:52:02p You slaughtered a Kudzu.
+3/29/25 5:52:02p You slaughtered a Kudzu.
+3/29/25 5:52:04p You slaughtered a Kudzu.
+3/29/25 5:52:07p You slaughtered a Kudzu.
+3/29/25 5:52:08p You slaughtered a Kudzu.
+3/29/25 5:52:09p You slaughtered a Kudzu.
+3/29/25 5:52:10p You slaughtered a Kudzu.
+3/29/25 5:52:11p You slaughtered a Kudzu.
+3/29/25 5:52:12p You slaughtered a Kudzu.
+3/29/25 5:52:14p You slaughtered a Kudzu.
+3/29/25 5:52:17p You slaughtered a Kudzu.
+3/29/25 5:52:19p You slaughtered a Kudzu.
+3/29/25 5:52:23p * Storing loose seedlings.
+3/29/25 5:52:24p * Your pack of kudzu seedlings now contains 11 kudzu seedlings.
+3/29/25 5:52:25p * Your pack of kudzu seedlings now contains 12 kudzu seedlings.
+3/29/25 5:52:26p * Your pack of kudzu seedlings now contains 13 kudzu seedlings.
+3/29/25 5:52:27p * Your pack of kudzu seedlings now contains 14 kudzu seedlings.
+3/29/25 5:52:29p * You don't have any kudzu seedlings.
+3/29/25 5:52:29p All loose seeds stored.
+3/29/25 5:52:35p * Your pack of kudzu seedlings now contains 13 kudzu seedlings.
+3/29/25 5:52:35p You plant a seedling.
+3/29/25 5:52:39p * Your pack of kudzu seedlings now contains 12 kudzu seedlings.
+3/29/25 5:52:39p You plant a seedling.
+3/29/25 5:52:42p * Your pack of kudzu seedlings now contains 11 kudzu seedlings.
+3/29/25 5:52:42p You plant a seedling.
+3/29/25 5:52:45p * Your pack of kudzu seedlings now contains 10 kudzu seedlings.
+3/29/25 5:52:45p You plant a seedling.
+3/29/25 5:53:26p You slaughtered a Vermine.
+3/29/25 5:55:21p Woolf is sharing experiences with you.
+3/29/25 5:56:46p You slaughtered a Kudzu.
+3/29/25 5:56:48p You slaughtered a Kudzu.
+3/29/25 5:56:49p You slaughtered a Kudzu.
+3/29/25 5:56:50p You slaughtered a Kudzu.
+3/29/25 5:56:52p You slaughtered a Kudzu.
+3/29/25 5:56:54p You slaughtered a Kudzu.
+3/29/25 5:56:55p You slaughtered a Kudzu.
+3/29/25 5:56:56p You slaughtered a Kudzu.
+3/29/25 5:56:57p You slaughtered a Kudzu.
+3/29/25 5:57:00p You slaughtered a Kudzu.
+3/29/25 5:57:02p You slaughtered a Kudzu.
+3/29/25 5:57:04p You slaughtered a Kudzu.
+3/29/25 5:57:06p You slaughtered a Kudzu.
+3/29/25 5:57:07p * You pick up a kudzu seedling.
+3/29/25 5:57:07p You slaughtered a Kudzu.
+3/29/25 5:57:10p You slaughtered a Kudzu.
+3/29/25 5:57:13p You slaughtered a Kudzu.
+3/29/25 5:57:14p You slaughtered a Kudzu.
+3/29/25 5:57:16p You slaughtered a Kudzu.
+3/29/25 5:57:17p You slaughtered a Kudzu.
+3/29/25 5:57:20p You slaughtered a Kudzu.
+3/29/25 5:57:21p You slaughtered a Kudzu.
+3/29/25 5:57:22p You slaughtered a Kudzu.
+3/29/25 5:57:23p * You pick up a kudzu seedling.
+3/29/25 5:57:23p You slaughtered a Kudzu.
+3/29/25 5:57:24p You slaughtered a Kudzu.
+3/29/25 5:57:25p You slaughtered a Kudzu.
+3/29/25 5:57:26p * You pick up a kudzu seedling.
+3/29/25 5:57:27p You slaughtered a Kudzu.
+3/29/25 5:57:29p You slaughtered a Kudzu.
+3/29/25 5:57:29p * You pick up a kudzu seedling.
+3/29/25 5:57:30p You slaughtered a Kudzu.
+3/29/25 5:57:34p You slaughtered a Kudzu.
+3/29/25 5:57:37p • Your blade flashes like a shooting star.
+3/29/25 5:57:37p You slaughtered a Kudzu.
+3/29/25 5:57:38p You slaughtered a Kudzu.
+3/29/25 5:57:39p You slaughtered a Kudzu.
+3/29/25 5:57:40p You slaughtered a Kudzu.
+3/29/25 5:57:41p You slaughtered a Kudzu.
+3/29/25 5:57:43p You slaughtered a Kudzu.
+3/29/25 5:57:46p You slaughtered a Kudzu.
+3/29/25 5:57:47p You slaughtered a Kudzu.
+3/29/25 5:57:47p * You pick up a kudzu seedling.
+3/29/25 5:57:48p You slaughtered a Kudzu.
+3/29/25 5:57:49p You slaughtered a Kudzu.
+3/29/25 5:58:05p * Storing loose seedlings.
+3/29/25 5:58:05p * Your pack of kudzu seedlings now contains 11 kudzu seedlings.
+3/29/25 5:58:06p * Your pack of kudzu seedlings now contains 12 kudzu seedlings.
+3/29/25 5:58:07p * Your pack of kudzu seedlings now contains 13 kudzu seedlings.
+3/29/25 5:58:09p * Your pack of kudzu seedlings now contains 14 kudzu seedlings.
+3/29/25 5:58:10p * Your pack of kudzu seedlings now contains 15 kudzu seedlings.
+3/29/25 5:58:11p * You don't have any kudzu seedlings.
+3/29/25 5:58:11p All loose seeds stored.
+3/29/25 5:58:16p You slaughtered a Kudzu.
+3/29/25 5:58:20p You slaughtered a Kudzu.
+3/29/25 5:58:26p * Your pack of kudzu seedlings now contains 14 kudzu seedlings.
+3/29/25 5:58:26p You plant a seedling.
+3/29/25 5:58:29p * Your pack of kudzu seedlings now contains 13 kudzu seedlings.
+3/29/25 5:58:29p You plant a seedling.
+3/29/25 5:58:32p * Your pack of kudzu seedlings now contains 12 kudzu seedlings.
+3/29/25 5:58:32p You plant a seedling.
+3/29/25 5:58:35p * Your pack of kudzu seedlings now contains 11 kudzu seedlings.
+3/29/25 5:58:35p You plant a seedling.
+3/29/25 5:59:04p You slaughtered a Vermine.
+3/29/25 5:59:53p You slaughtered a Giant Slug.
+3/29/25 6:01:25p You slaughtered a Rat.
+3/29/25 6:04:15p You slaughtered a Kudzu.
+3/29/25 6:04:15p You slaughtered a Kudzu.
+3/29/25 6:04:16p * You pick up a kudzu seedling.
+3/29/25 6:04:17p You slaughtered a Kudzu.
+3/29/25 6:04:17p You slaughtered a Kudzu.
+3/29/25 6:04:18p You slaughtered a Kudzu.
+3/29/25 6:04:19p You slaughtered a Kudzu.
+3/29/25 6:04:20p * You pick up a kudzu seedling.
+3/29/25 6:04:20p You slaughtered a Kudzu.
+3/29/25 6:04:22p You slaughtered a Kudzu.
+3/29/25 6:04:24p You slaughtered a Kudzu.
+3/29/25 6:04:25p You slaughtered a Kudzu.
+3/29/25 6:04:26p * You pick up a kudzu seedling.
+3/29/25 6:04:27p You slaughtered a Kudzu.
+3/29/25 6:04:29p You slaughtered a Kudzu.
+3/29/25 6:04:32p You slaughtered a Kudzu.
+3/29/25 6:04:32p You slaughtered a Kudzu.
+3/29/25 6:04:33p You slaughtered a Kudzu.
+3/29/25 6:04:35p You slaughtered a Kudzu.
+3/29/25 6:04:36p You slaughtered a Kudzu.
+3/29/25 6:04:37p You slaughtered a Kudzu.
+3/29/25 6:04:39p You slaughtered a Kudzu.
+3/29/25 6:04:40p * You pick up a kudzu seedling.
+3/29/25 6:04:40p You slaughtered a Kudzu.
+3/29/25 6:04:42p You slaughtered a Kudzu.
+3/29/25 6:04:44p You slaughtered a Kudzu.
+3/29/25 6:04:49p You slaughtered a Kudzu.
+3/29/25 6:04:50p You slaughtered a Kudzu.
+3/29/25 6:04:51p You slaughtered a Kudzu.
+3/29/25 6:04:52p You slaughtered a Kudzu.
+3/29/25 6:04:53p You slaughtered a Kudzu.
+3/29/25 6:04:56p You slaughtered a Kudzu.
+3/29/25 6:04:57p * You pick up a kudzu seedling.
+3/29/25 6:04:57p You slaughtered a Kudzu.
+3/29/25 6:04:58p * You pick up a kudzu seedling.
+3/29/25 6:04:59p You slaughtered a Kudzu.
+3/29/25 6:04:59p You slaughtered a Kudzu.
+3/29/25 6:05:00p You slaughtered a Kudzu.
+3/29/25 6:05:01p You slaughtered a Kudzu.
+3/29/25 6:05:05p You slaughtered a Rat.
+3/29/25 6:05:08p You slaughtered a Kudzu.
+3/29/25 6:05:09p You slaughtered a Kudzu.
+3/29/25 6:05:09p You slaughtered a Kudzu.
+3/29/25 6:05:10p You slaughtered a Kudzu.
+3/29/25 6:05:11p You slaughtered a Kudzu.
+3/29/25 6:05:13p You slaughtered a Kudzu.
+3/29/25 6:05:16p You slaughtered a Kudzu.
+3/29/25 6:05:17p You slaughtered a Kudzu.
+3/29/25 6:05:18p You slaughtered a Kudzu.
+3/29/25 6:05:19p You slaughtered a Kudzu.
+3/29/25 6:05:20p * You pick up a kudzu seedling.
+3/29/25 6:05:21p You slaughtered a Kudzu.
+3/29/25 6:05:22p You slaughtered a Kudzu.
+3/29/25 6:05:23p You slaughtered a Kudzu.
+3/29/25 6:05:29p You slaughtered a Kudzu.
+3/29/25 6:05:30p You slaughtered a Kudzu.
+3/29/25 6:05:36p * Storing loose seedlings.
+3/29/25 6:05:36p * Your pack of kudzu seedlings now contains 12 kudzu seedlings.
+3/29/25 6:05:38p * Your pack of kudzu seedlings now contains 13 kudzu seedlings.
+3/29/25 6:05:39p * Your pack of kudzu seedlings now contains 14 kudzu seedlings.
+3/29/25 6:05:40p * Your pack of kudzu seedlings now contains 15 kudzu seedlings.
+3/29/25 6:05:41p * Your pack of kudzu seedlings now contains 16 kudzu seedlings.
+3/29/25 6:05:42p * Your pack of kudzu seedlings now contains 17 kudzu seedlings.
+3/29/25 6:05:44p * Your pack of kudzu seedlings now contains 18 kudzu seedlings.
+3/29/25 6:05:45p * You don't have any kudzu seedlings.
+3/29/25 6:05:45p All loose seeds stored.
+3/29/25 6:05:51p * Your pack of kudzu seedlings now contains 17 kudzu seedlings.
+3/29/25 6:05:51p You plant a seedling.
+3/29/25 6:05:54p * Your pack of kudzu seedlings now contains 16 kudzu seedlings.
+3/29/25 6:05:54p You plant a seedling.
+3/29/25 6:05:56p * Your pack of kudzu seedlings now contains 15 kudzu seedlings.
+3/29/25 6:05:56p You plant a seedling.
+3/29/25 6:05:59p * Your pack of kudzu seedlings now contains 14 kudzu seedlings.
+3/29/25 6:05:59p You plant a seedling.
+3/29/25 6:09:21p You slaughtered a Rat.
+3/29/25 6:09:22p You slaughtered a Rat.
+3/29/25 6:12:27p You slaughtered a Kudzu.
+3/29/25 6:12:28p You slaughtered a Kudzu.
+3/29/25 6:12:29p You slaughtered a Kudzu.
+3/29/25 6:12:30p You slaughtered a Kudzu.
+3/29/25 6:12:31p You slaughtered a Kudzu.
+3/29/25 6:12:33p You slaughtered a Kudzu.
+3/29/25 6:12:34p * You pick up a kudzu seedling.
+3/29/25 6:12:34p You slaughtered a Kudzu.
+3/29/25 6:12:35p You slaughtered a Kudzu.
+3/29/25 6:12:37p You slaughtered a Kudzu.
+3/29/25 6:12:38p You slaughtered a Kudzu.
+3/29/25 6:12:40p You slaughtered a Kudzu.
+3/29/25 6:12:41p You slaughtered a Kudzu.
+3/29/25 6:12:43p You slaughtered a Kudzu.
+3/29/25 6:12:44p You slaughtered a Kudzu.
+3/29/25 6:12:45p You slaughtered a Kudzu.
+3/29/25 6:12:46p * You pick up a kudzu seedling.
+3/29/25 6:12:46p You slaughtered a Kudzu.
+3/29/25 6:12:47p You just received anonymous good karma.
+3/29/25 6:12:48p You slaughtered a Kudzu.
+3/29/25 6:12:49p * You pick up a kudzu seedling.
+3/29/25 6:12:50p You slaughtered a Kudzu.
+3/29/25 6:12:51p You slaughtered a Kudzu.
+3/29/25 6:12:53p You slaughtered a Kudzu.
+3/29/25 6:12:54p You slaughtered a Kudzu.
+3/29/25 6:12:56p You slaughtered a Kudzu.
+3/29/25 6:12:58p You slaughtered a Kudzu.
+3/29/25 6:12:59p You slaughtered a Kudzu.
+3/29/25 6:13:01p You slaughtered a Rat.
+3/29/25 6:13:02p You slaughtered a Rat.
+3/29/25 6:13:07p You slaughtered a Kudzu.
+3/29/25 6:13:07p * You pick up a kudzu seedling.
+3/29/25 6:13:07p You slaughtered a Kudzu.
+3/29/25 6:13:08p You slaughtered a Kudzu.
+3/29/25 6:13:09p You slaughtered a Kudzu.
+3/29/25 6:13:11p You slaughtered a Kudzu.
+3/29/25 6:13:13p You slaughtered a Kudzu.
+3/29/25 6:13:14p You slaughtered a Kudzu.
+3/29/25 6:13:15p You slaughtered a Kudzu.
+3/29/25 6:13:16p * You pick up a kudzu seedling.
+3/29/25 6:13:17p You slaughtered a Kudzu.
+3/29/25 6:13:20p You slaughtered a Kudzu.
+3/29/25 6:13:21p * You pick up a kudzu seedling.
+3/29/25 6:13:25p You slaughtered a Kudzu.
+3/29/25 6:13:26p You slaughtered a Kudzu.
+3/29/25 6:13:27p You slaughtered a Kudzu.
+3/29/25 6:13:28p You slaughtered a Kudzu.
+3/29/25 6:13:29p You slaughtered a Kudzu.
+3/29/25 6:13:29p * You pick up a kudzu seedling.
+3/29/25 6:13:29p You slaughtered a Kudzu.
+3/29/25 6:13:30p * You pick up a kudzu seedling.
+3/29/25 6:13:33p You slaughtered a Kudzu.
+3/29/25 6:13:34p You slaughtered a Kudzu.
+3/29/25 6:13:35p You slaughtered a Kudzu.
+3/29/25 6:13:37p You slaughtered a Kudzu.
+3/29/25 6:13:39p You slaughtered a Kudzu.
+3/29/25 6:13:40p You slaughtered a Kudzu.
+3/29/25 6:13:42p You slaughtered a Kudzu.
+3/29/25 6:13:45p You slaughtered a Kudzu.
+3/29/25 6:13:50p * Storing loose seedlings.
+3/29/25 6:13:51p * Your pack of kudzu seedlings now contains 15 kudzu seedlings.
+3/29/25 6:13:52p * Your pack of kudzu seedlings now contains 16 kudzu seedlings.
+3/29/25 6:13:53p * Your pack of kudzu seedlings now contains 17 kudzu seedlings.
+3/29/25 6:13:54p * Your pack of kudzu seedlings now contains 18 kudzu seedlings.
+3/29/25 6:13:55p * Your pack of kudzu seedlings now contains 19 kudzu seedlings.
+3/29/25 6:13:57p * Your pack of kudzu seedlings now contains 20 kudzu seedlings.
+3/29/25 6:13:58p You equip your pack of kudzu seedlings.
+3/29/25 6:13:59p * Your pack of kudzu seedlings now contains one kudzu seedling.
+3/29/25 6:14:00p * Your pack of kudzu seedlings now contains 2 kudzu seedlings.
+3/29/25 6:14:01p * Your pack of kudzu seedlings now contains 3 kudzu seedlings.
+3/29/25 6:14:02p * You don't have any kudzu seedlings.
+3/29/25 6:14:02p All loose seeds stored.
+3/29/25 6:14:14p * Your pack of kudzu seedlings now contains 2 kudzu seedlings.
+3/29/25 6:14:14p You plant a seedling.
+3/29/25 6:14:18p * Your pack of kudzu seedlings now contains one kudzu seedling.
+3/29/25 6:14:18p You plant a seedling.
+3/29/25 6:14:21p * You remove the last kudzu seedling from your pack of kudzu seedlings.
+3/29/25 6:14:21p You plant a seedling.
+3/29/25 6:14:24p No item named 'pack of kudzu seedlings <#6' found in the item list.
+3/29/25 6:14:24p No item named 'bag of kudzu seedlings <#1' found in the item list.
+3/29/25 6:14:24p No item named 'sack of kudzu seedlings <#1' found in the item list.
+3/29/25 6:14:25p You equip your pack of kudzu seedlings named “20”.
+3/29/25 6:14:26p * Your pack of kudzu seedlings now contains 19 kudzu seedlings.
+3/29/25 6:14:26p You plant a seedling.
+3/29/25 6:16:11p •You gain experience.
+3/29/25 6:18:31p •••
+3/29/25 6:18:31p You have been idle for too long.
+3/29/25 6:18:31p Please do something to avoid being disconnected.
+3/29/25 6:18:31p •••
+3/29/25 6:19:01p You slaughtered a Kudzu.
+3/29/25 6:19:02p You slaughtered a Kudzu.
+3/29/25 6:19:03p You slaughtered a Kudzu.
+3/29/25 6:19:04p You slaughtered a Kudzu.
+3/29/25 6:19:05p You slaughtered a Kudzu.
+3/29/25 6:19:05p You slaughtered a Kudzu.
+3/29/25 6:19:08p You slaughtered a Kudzu.
+3/29/25 6:19:09p You slaughtered a Rat.
+3/29/25 6:19:10p You slaughtered a Kudzu.
+3/29/25 6:19:11p You slaughtered a Kudzu.
+3/29/25 6:19:12p You slaughtered a Kudzu.
+3/29/25 6:19:16p You slaughtered a Kudzu.
+3/29/25 6:19:18p You slaughtered a Kudzu.
+3/29/25 6:19:19p You slaughtered a Kudzu.
+3/29/25 6:19:19p You slaughtered a Kudzu.
+3/29/25 6:19:20p You slaughtered a Kudzu.
+3/29/25 6:19:22p You slaughtered a Kudzu.
+3/29/25 6:19:23p You slaughtered a Kudzu.
+3/29/25 6:19:25p You slaughtered a Kudzu.
+3/29/25 6:19:27p You slaughtered a Kudzu.
+3/29/25 6:19:29p You slaughtered a Kudzu.
+3/29/25 6:19:30p You slaughtered a Kudzu.
+3/29/25 6:19:32p * You pick up a kudzu seedling.
+3/29/25 6:19:33p You slaughtered a Kudzu.
+3/29/25 6:19:37p You slaughtered a Kudzu.
+3/29/25 6:19:38p You slaughtered a Kudzu.
+3/29/25 6:19:38p You slaughtered a Kudzu.
+3/29/25 6:19:39p You slaughtered a Kudzu.
+3/29/25 6:19:41p You slaughtered a Kudzu.
+3/29/25 6:19:42p You slaughtered a Kudzu.
+3/29/25 6:19:43p You slaughtered a Kudzu.
+3/29/25 6:19:47p You slaughtered a Kudzu.
+3/29/25 6:19:48p You slaughtered a Kudzu.
+3/29/25 6:19:49p You slaughtered a Kudzu.
+3/29/25 6:19:50p You slaughtered a Kudzu.
+3/29/25 6:19:50p * You pick up a kudzu seedling.
+3/29/25 6:19:54p You slaughtered a Kudzu.
+3/29/25 6:19:56p You slaughtered a Kudzu.
+3/29/25 6:19:57p You slaughtered a Kudzu.
+3/29/25 6:19:58p You slaughtered a Kudzu.
+3/29/25 6:20:00p You slaughtered a Kudzu.
+3/29/25 6:20:01p You slaughtered a Kudzu.
+3/29/25 6:20:03p You slaughtered a Kudzu.
+3/29/25 6:20:04p * You pick up a kudzu seedling.
+3/29/25 6:20:04p You slaughtered a Kudzu.
+3/29/25 6:20:05p You slaughtered a Kudzu.
+3/29/25 6:20:07p You slaughtered a Kudzu.
+3/29/25 6:20:09p You slaughtered a Kudzu.
+3/29/25 6:20:10p You slaughtered a Kudzu.
+3/29/25 6:20:11p * You pick up a kudzu seedling.
+3/29/25 6:20:12p You slaughtered a Kudzu.
+3/29/25 6:20:16p * Storing loose seedlings.
+3/29/25 6:20:16p * Your pack of kudzu seedlings now contains 20 kudzu seedlings.
+3/29/25 6:20:19p You equip your pack of kudzu seedlings named “0”.
+3/29/25 6:20:20p * Your pack of kudzu seedlings now contains one kudzu seedling.
+3/29/25 6:20:20p * Your pack of kudzu seedlings now contains 2 kudzu seedlings.
+3/29/25 6:20:21p * Your pack of kudzu seedlings now contains 3 kudzu seedlings.
+3/29/25 6:20:22p * You don't have any kudzu seedlings.
+3/29/25 6:20:22p All loose seeds stored.
+3/29/25 6:20:27p You slaughtered a Rat.
+3/29/25 6:20:32p * Your pack of kudzu seedlings now contains 2 kudzu seedlings.
+3/29/25 6:20:32p You plant a seedling.
+3/29/25 6:20:35p * Your pack of kudzu seedlings now contains one kudzu seedling.
+3/29/25 6:20:35p You plant a seedling.
+3/29/25 6:20:39p * You remove the last kudzu seedling from your pack of kudzu seedlings.
+3/29/25 6:20:39p You plant a seedling.
+3/29/25 6:20:42p No item named 'pack of kudzu seedlings <#6' found in the item list.
+3/29/25 6:20:42p No item named 'bag of kudzu seedlings <#1' found in the item list.
+3/29/25 6:20:43p No item named 'sack of kudzu seedlings <#1' found in the item list.
+3/29/25 6:20:44p You equip your pack of kudzu seedlings named “20”.
+3/29/25 6:20:44p * Your pack of kudzu seedlings now contains 19 kudzu seedlings.
+3/29/25 6:20:44p You plant a seedling.
+3/29/25 6:20:48p * Your pack of kudzu seedlings now contains 18 kudzu seedlings.
+3/29/25 6:20:48p You plant a seedling.
+3/29/25 6:20:52p * Your pack of kudzu seedlings now contains 17 kudzu seedlings.
+3/29/25 6:20:52p You plant a seedling.
+3/29/25 6:21:04p * Your pack of kudzu seedlings now contains 16 kudzu seedlings.
+3/29/25 6:21:04p You plant a seedling.
+3/29/25 6:21:08p * Your pack of kudzu seedlings now contains 15 kudzu seedlings.
+3/29/25 6:21:08p You plant a seedling.
+3/29/25 6:21:11p * Your pack of kudzu seedlings now contains 14 kudzu seedlings.
+3/29/25 6:21:11p You plant a seedling.
+3/29/25 6:21:15p * Your pack of kudzu seedlings now contains 13 kudzu seedlings.
+3/29/25 6:21:15p You plant a seedling.
+3/29/25 6:25:24p You slaughtered a Kudzu.
+3/29/25 6:25:25p You slaughtered a Kudzu.
+3/29/25 6:25:25p You slaughtered a Kudzu.
+3/29/25 6:25:26p You slaughtered a Kudzu.
+3/29/25 6:25:27p You slaughtered a Kudzu.
+3/29/25 6:25:28p You slaughtered a Kudzu.
+3/29/25 6:25:30p You slaughtered a Kudzu.
+3/29/25 6:25:31p You slaughtered a Kudzu.
+3/29/25 6:25:32p You slaughtered a Kudzu.
+3/29/25 6:25:34p You slaughtered a Kudzu.
+3/29/25 6:25:35p * You pick up a kudzu seedling.
+3/29/25 6:25:39p You slaughtered a Kudzu.
+3/29/25 6:25:40p You slaughtered a Kudzu.
+3/29/25 6:25:41p You slaughtered a Kudzu.
+3/29/25 6:25:42p You slaughtered a Kudzu.
+3/29/25 6:25:43p You slaughtered a Kudzu.
+3/29/25 6:25:44p You slaughtered a Kudzu.
+3/29/25 6:25:45p You slaughtered a Kudzu.
+3/29/25 6:25:46p You slaughtered a Kudzu.
+3/29/25 6:25:48p You slaughtered a Kudzu.
+3/29/25 6:25:50p You slaughtered a Kudzu.
+3/29/25 6:25:52p You slaughtered a Kudzu.
+3/29/25 6:25:53p You slaughtered a Kudzu.
+3/29/25 6:25:55p You slaughtered a Kudzu.
+3/29/25 6:25:55p * You pick up a kudzu seedling.
+3/29/25 6:25:56p You slaughtered a Kudzu.
+3/29/25 6:25:57p You slaughtered a Kudzu.
+3/29/25 6:26:03p You slaughtered a Kudzu.
+3/29/25 6:26:04p You slaughtered a Kudzu.
+3/29/25 6:26:04p You slaughtered a Kudzu.
+3/29/25 6:26:05p You slaughtered a Kudzu.
+3/29/25 6:26:06p You slaughtered a Kudzu.
+3/29/25 6:26:07p You slaughtered a Kudzu.
+3/29/25 6:26:08p * You pick up a kudzu seedling.
+3/29/25 6:26:09p You slaughtered a Kudzu.
+3/29/25 6:26:10p You slaughtered a Kudzu.
+3/29/25 6:26:12p You slaughtered a Kudzu.
+3/29/25 6:26:13p You slaughtered a Kudzu.
+3/29/25 6:26:18p You slaughtered a Kudzu.
+3/29/25 6:26:19p * You pick up a kudzu seedling.
+3/29/25 6:26:19p You slaughtered a Kudzu.
+3/29/25 6:26:20p You slaughtered a Kudzu.
+3/29/25 6:26:21p You slaughtered a Kudzu.
+3/29/25 6:26:21p You slaughtered a Kudzu.
+3/29/25 6:26:22p You slaughtered a Kudzu.
+3/29/25 6:26:24p You slaughtered a Kudzu.
+3/29/25 6:26:25p You slaughtered a Kudzu.
+3/29/25 6:26:27p You slaughtered a Kudzu.
+3/29/25 6:26:28p You slaughtered a Kudzu.
+3/29/25 6:26:30p You slaughtered a Kudzu.
+3/29/25 6:26:31p You slaughtered a Kudzu.
+3/29/25 6:26:39p You slaughtered a Kudzu.
+3/29/25 6:26:40p You slaughtered a Kudzu.
+3/29/25 6:26:42p You slaughtered a Kudzu.
+3/29/25 6:26:43p You slaughtered a Kudzu.
+3/29/25 6:26:44p You slaughtered a Kudzu.
+3/29/25 6:26:46p You slaughtered a Kudzu.
+3/29/25 6:26:48p You slaughtered a Kudzu.
+3/29/25 6:26:49p You slaughtered a Kudzu.
+3/29/25 6:26:51p You slaughtered a Kudzu.
+3/29/25 6:26:52p You slaughtered a Kudzu.
+3/29/25 6:26:53p You slaughtered a Kudzu.
+3/29/25 6:26:55p You slaughtered a Kudzu.
+3/29/25 6:26:59p You slaughtered a Giant Slug.
+3/29/25 6:27:03p You slaughtered a Kudzu.
+3/29/25 6:27:04p You slaughtered a Kudzu.
+3/29/25 6:27:05p You slaughtered a Kudzu.
+3/29/25 6:27:06p • Your blade flashes like a shooting star.
+3/29/25 6:27:06p You slaughtered a Kudzu.
+3/29/25 6:27:08p You slaughtered a Kudzu.
+3/29/25 6:27:09p * You pick up a kudzu seedling.
+3/29/25 6:27:09p You slaughtered a Kudzu.
+3/29/25 6:27:11p You slaughtered a Kudzu.
+3/29/25 6:27:12p You slaughtered a Kudzu.
+3/29/25 6:27:14p You slaughtered a Kudzu.
+3/29/25 6:27:15p You slaughtered a Kudzu.
+3/29/25 6:27:16p You slaughtered a Kudzu.
+3/29/25 6:27:18p You slaughtered a Kudzu.
+3/29/25 6:27:23p You slaughtered a Kudzu.
+3/29/25 6:27:24p You slaughtered a Kudzu.
+3/29/25 6:27:25p * You pick up a kudzu seedling.
+3/29/25 6:27:25p You slaughtered a Kudzu.
+3/29/25 6:27:26p You slaughtered a Kudzu.
+3/29/25 6:27:26p You slaughtered a Kudzu.
+3/29/25 6:27:28p You slaughtered a Kudzu.
+3/29/25 6:27:29p You slaughtered a Kudzu.
+3/29/25 6:27:30p You slaughtered a Kudzu.
+3/29/25 6:27:32p You slaughtered a Kudzu.
+3/29/25 6:27:33p You slaughtered a Kudzu.
+3/29/25 6:27:35p You slaughtered a Kudzu.
+3/29/25 6:27:35p * You pick up a kudzu seedling.
+3/29/25 6:27:37p You slaughtered a Kudzu.
+3/29/25 6:27:40p You slaughtered a Kudzu.
+3/29/25 6:27:41p You slaughtered a Kudzu.
+3/29/25 6:27:42p You slaughtered a Kudzu.
+3/29/25 6:27:43p You slaughtered a Kudzu.
+3/29/25 6:27:44p You slaughtered a Kudzu.
+3/29/25 6:27:49p You slaughtered a Kudzu.
+3/29/25 6:27:50p You slaughtered a Kudzu.
+3/29/25 6:27:51p You slaughtered a Kudzu.
+3/29/25 6:27:54p You slaughtered a Kudzu.
+3/29/25 6:27:56p You slaughtered a Kudzu.
+3/29/25 6:27:57p * You pick up a kudzu seedling.
+3/29/25 6:27:57p You slaughtered a Kudzu.
+3/29/25 6:27:58p You slaughtered a Kudzu.
+3/29/25 6:28:00p You slaughtered a Kudzu.
+3/29/25 6:28:02p * You pick up a kudzu seedling.
+3/29/25 6:28:02p You slaughtered a Kudzu.
+3/29/25 6:28:10p You slaughtered a Kudzu.
+3/29/25 6:28:11p You slaughtered a Kudzu.
+3/29/25 6:28:12p You slaughtered a Kudzu.
+3/29/25 6:28:13p You slaughtered a Kudzu.
+3/29/25 6:28:14p You slaughtered a Kudzu.
+3/29/25 6:28:15p You slaughtered a Kudzu.
+3/29/25 6:28:16p You slaughtered a Kudzu.
+3/29/25 6:28:19p You slaughtered a Kudzu.
+3/29/25 6:28:22p You slaughtered a Kudzu.
+3/29/25 6:28:23p You slaughtered a Kudzu.
+3/29/25 6:28:25p You slaughtered a Kudzu.
+3/29/25 6:28:26p * You pick up a kudzu seedling.
+3/29/25 6:28:26p You slaughtered a Kudzu.
+3/29/25 6:28:30p * Storing loose seedlings.
+3/29/25 6:28:31p * Your pack of kudzu seedlings now contains 14 kudzu seedlings.
+3/29/25 6:28:32p * Your pack of kudzu seedlings now contains 15 kudzu seedlings.
+3/29/25 6:28:33p * Your pack of kudzu seedlings now contains 16 kudzu seedlings.
+3/29/25 6:28:34p * Your pack of kudzu seedlings now contains 17 kudzu seedlings.
+3/29/25 6:28:35p * Your pack of kudzu seedlings now contains 18 kudzu seedlings.
+3/29/25 6:28:37p * Your pack of kudzu seedlings now contains 19 kudzu seedlings.
+3/29/25 6:28:38p * Your pack of kudzu seedlings now contains 20 kudzu seedlings.
+3/29/25 6:28:41p You equip your pack of kudzu seedlings named “0”.
+3/29/25 6:28:41p * Your pack of kudzu seedlings now contains one kudzu seedling.
+3/29/25 6:28:41p * Your pack of kudzu seedlings now contains 2 kudzu seedlings.
+3/29/25 6:28:43p * Your pack of kudzu seedlings now contains 3 kudzu seedlings.
+3/29/25 6:28:44p * You don't have any kudzu seedlings.
+3/29/25 6:28:44p All loose seeds stored.
+3/29/25 6:28:50p You slaughtered a Kudzu.
+3/29/25 6:28:51p You slaughtered a Kudzu.
+3/29/25 6:28:52p You slaughtered a Kudzu.
+3/29/25 6:28:53p You slaughtered a Kudzu.
+3/29/25 6:28:54p * You pick up a kudzu seedling.
+3/29/25 6:28:54p You slaughtered a Kudzu.
+3/29/25 6:28:55p You slaughtered a Kudzu.
+3/29/25 6:28:56p You slaughtered a Kudzu.
+3/29/25 6:28:58p You slaughtered a Kudzu.
+3/29/25 6:28:59p You slaughtered a Kudzu.
+3/29/25 6:29:00p * You pick up a kudzu seedling.
+3/29/25 6:29:00p You slaughtered a Kudzu.
+3/29/25 6:29:02p You slaughtered a Kudzu.
+3/29/25 6:29:03p You slaughtered a Kudzu.
+3/29/25 6:29:08p * Storing loose seedlings.
+3/29/25 6:29:09p * Your pack of kudzu seedlings now contains 4 kudzu seedlings.
+3/29/25 6:29:10p * Your pack of kudzu seedlings now contains 5 kudzu seedlings.
+3/29/25 6:29:11p * You don't have any kudzu seedlings.
+3/29/25 6:29:11p All loose seeds stored.
+3/29/25 6:29:20p * Your pack of kudzu seedlings now contains 4 kudzu seedlings.
+3/29/25 6:29:20p You plant a seedling.
+3/29/25 6:29:23p * Your pack of kudzu seedlings now contains 3 kudzu seedlings.
+3/29/25 6:29:23p You plant a seedling.
+3/29/25 6:29:27p * Your pack of kudzu seedlings now contains 2 kudzu seedlings.
+3/29/25 6:29:27p You plant a seedling.
+3/29/25 6:29:31p * Your pack of kudzu seedlings now contains one kudzu seedling.
+3/29/25 6:29:31p You plant a seedling.
+3/29/25 6:29:33p * You remove the last kudzu seedling from your pack of kudzu seedlings.
+3/29/25 6:29:33p You plant a seedling.
+3/29/25 6:33:51p •••
+3/29/25 6:33:51p You have been idle for too long.
+3/29/25 6:33:51p Please do something to avoid being disconnected.
+3/29/25 6:33:51p •••
+3/29/25 6:34:51p *** We are no longer connected to the Clan Lord game server. ***
+3/29/25 6:34:56p Welcome back, Samagina!
+3/29/25 6:34:57p Friends online: none.
+3/29/25 6:34:58p You slaughtered a Kudzu.
+3/29/25 6:34:59p You slaughtered a Kudzu.
+3/29/25 6:35:01p You slaughtered a Kudzu.
+3/29/25 6:35:04p You slaughtered a Kudzu.
+3/29/25 6:35:05p You slaughtered a Kudzu.
+3/29/25 6:35:05p You slaughtered a Kudzu.
+3/29/25 6:35:06p You slaughtered a Kudzu.
+3/29/25 6:35:10p You slaughtered a Kudzu.
+3/29/25 6:35:11p You slaughtered a Kudzu.
+3/29/25 6:35:13p You slaughtered a Kudzu.
+3/29/25 6:35:17p You slaughtered a Kudzu.
+3/29/25 6:35:18p You slaughtered a Kudzu.
+3/29/25 6:35:19p You slaughtered a Kudzu.
+3/29/25 6:35:20p You slaughtered a Kudzu.
+3/29/25 6:35:21p You slaughtered a Kudzu.
+3/29/25 6:35:21p You slaughtered a Kudzu.
+3/29/25 6:35:23p You slaughtered a Kudzu.
+3/29/25 6:35:24p You slaughtered a Kudzu.
+3/29/25 6:35:26p You slaughtered a Kudzu.
+3/29/25 6:35:27p You slaughtered a Kudzu.
+3/29/25 6:35:28p * You pick up a kudzu seedling.
+3/29/25 6:35:28p You slaughtered a Kudzu.
+3/29/25 6:35:30p You slaughtered a Kudzu.
+3/29/25 6:35:33p You slaughtered a Kudzu.
+3/29/25 6:35:34p You slaughtered a Kudzu.
+3/29/25 6:35:34p You slaughtered a Kudzu.
+3/29/25 6:35:36p You slaughtered a Kudzu.
+3/29/25 6:35:37p You slaughtered a Kudzu.
+3/29/25 6:35:40p You slaughtered a Kudzu.
+3/29/25 6:35:42p You slaughtered a Kudzu.
+3/29/25 6:35:44p You slaughtered a Kudzu.
+3/29/25 6:35:46p You slaughtered a Kudzu.
+3/29/25 6:35:47p You slaughtered a Kudzu.
+3/29/25 6:35:48p You slaughtered a Kudzu.
+3/29/25 6:35:53p You slaughtered a Kudzu.
+3/29/25 6:35:54p You slaughtered a Kudzu.
+3/29/25 6:35:55p You slaughtered a Kudzu.
+3/29/25 6:35:55p You slaughtered a Kudzu.
+3/29/25 6:35:56p You slaughtered a Kudzu.
+3/29/25 6:35:58p You slaughtered a Kudzu.
+3/29/25 6:35:59p You slaughtered a Kudzu.
+3/29/25 6:36:00p * You pick up a kudzu seedling.
+3/29/25 6:36:00p You slaughtered a Kudzu.
+3/29/25 6:36:02p You slaughtered a Kudzu.
+3/29/25 6:36:04p You slaughtered a Kudzu.
+3/29/25 6:36:05p You slaughtered a Kudzu.
+3/29/25 6:36:10p You slaughtered a Kudzu.
+3/29/25 6:36:11p You slaughtered a Kudzu.
+3/29/25 6:36:11p You slaughtered a Kudzu.
+3/29/25 6:36:12p You slaughtered a Kudzu.
+3/29/25 6:36:13p * You pick up a kudzu seedling.
+3/29/25 6:36:13p You slaughtered a Kudzu.
+3/29/25 6:36:14p You slaughtered a Kudzu.
+3/29/25 6:36:16p You slaughtered a Kudzu.
+3/29/25 6:36:17p You slaughtered a Kudzu.
+3/29/25 6:36:19p You slaughtered a Kudzu.
+3/29/25 6:36:21p You slaughtered a Kudzu.
+3/29/25 6:36:22p You slaughtered a Kudzu.
+3/29/25 6:36:24p You slaughtered a Kudzu.
+3/29/25 6:36:25p You slaughtered a Kudzu.
+3/29/25 6:36:27p You slaughtered a Giant Slug.
+3/29/25 6:36:35p * Storing loose seedlings.
+3/29/25 6:36:35p * Your pack of kudzu seedlings now contains one kudzu seedling.
+3/29/25 6:36:36p * Your pack of kudzu seedlings now contains 2 kudzu seedlings.
+3/29/25 6:36:38p * Your pack of kudzu seedlings now contains 3 kudzu seedlings.
+3/29/25 6:36:39p * You don't have any kudzu seedlings.
+3/29/25 6:36:39p All loose seeds stored.
+3/29/25 6:36:50p You slaughtered a Kudzu.
+3/29/25 6:37:04p You slaughtered a Vermine.
+3/29/25 6:37:05p You slaughtered a Rat.
+3/29/25 6:37:07p Mudwen Dirdrick says, "Greetings, Lord Samagina."
+3/29/25 6:37:07p Mudwen Dirdrick says, "I'm afraid I can't sell you a kudzu seedling. I'm all sold out."
+3/29/25 6:37:11p You slaughtered a Rat.
+3/29/25 6:37:12p You slaughtered a Rat.
+3/29/25 6:37:13p You slaughtered a Rat.
+3/29/25 6:37:23p You slaughtered a Rat.
+3/29/25 6:41:29p •••
+3/29/25 6:41:29p You have been idle for too long.
+3/29/25 6:41:29p Please do something to avoid being disconnected.
+3/29/25 6:41:29p •••
+3/29/25 6:42:29p *** We are no longer connected to the Clan Lord game server. ***
+3/29/25 6:46:15p Welcome back, Samagina!
+3/29/25 6:46:16p Friends online: none.
+3/29/25 6:46:25p You slaughtered a Vermine.
+3/29/25 6:46:26p You slaughtered a Rat.
+3/29/25 6:46:26p You slaughtered a Vermine.
+3/29/25 6:46:32p You slaughtered a Rat.
+3/29/25 6:46:45p * Your pack of kudzu seedlings now contains 2 kudzu seedlings.
+3/29/25 6:46:45p You plant a seedling.
+3/29/25 6:46:49p * Your pack of kudzu seedlings now contains one kudzu seedling.
+3/29/25 6:46:49p You plant a seedling.
+3/29/25 6:46:52p * You remove the last kudzu seedling from your pack of kudzu seedlings.
+3/29/25 6:46:52p You plant a seedling.
+3/29/25 6:46:59p No item named 'pack of kudzu seedlings <#6' found in the item list.
+3/29/25 6:47:00p No item named 'bag of kudzu seedlings <#1' found in the item list.
+3/29/25 6:47:00p No item named 'sack of kudzu seedlings <#1' found in the item list.
+3/29/25 6:47:01p You equip your pack of kudzu seedlings named “20”.
+3/29/25 6:47:01p * Your pack of kudzu seedlings now contains 19 kudzu seedlings.
+3/29/25 6:47:01p You plant a seedling.
+3/29/25 6:50:33p • Your blade flashes like a shooting star.
+3/29/25 6:50:33p You slaughtered a Vermine.
+3/29/25 6:51:32p You slaughtered a Kudzu.
+3/29/25 6:51:33p You slaughtered a Kudzu.
+3/29/25 6:51:34p You slaughtered a Kudzu.
+3/29/25 6:51:35p You slaughtered a Kudzu.
+3/29/25 6:51:35p * You pick up a kudzu seedling.
+3/29/25 6:51:35p You slaughtered a Kudzu.
+3/29/25 6:51:37p You slaughtered a Kudzu.
+3/29/25 6:51:38p * You pick up a kudzu seedling.
+3/29/25 6:51:38p You slaughtered a Kudzu.
+3/29/25 6:51:42p You slaughtered a Kudzu.
+3/29/25 6:51:43p You slaughtered a Kudzu.
+3/29/25 6:51:44p You slaughtered a Vermine.
+3/29/25 6:51:44p * You pick up a kudzu seedling.
+3/29/25 6:51:45p You slaughtered a Kudzu.
+3/29/25 6:51:45p You slaughtered a Kudzu.
+3/29/25 6:51:46p You slaughtered a Kudzu.
+3/29/25 6:51:48p You slaughtered a Kudzu.
+3/29/25 6:51:49p You slaughtered a Kudzu.
+3/29/25 6:51:50p * You pick up a kudzu seedling.
+3/29/25 6:51:50p You slaughtered a Kudzu.
+3/29/25 6:51:52p You slaughtered a Kudzu.
+3/29/25 6:51:53p You slaughtered a Kudzu.
+3/29/25 6:51:54p You slaughtered a Kudzu.
+3/29/25 6:51:56p You slaughtered a Kudzu.
+3/29/25 6:51:57p You slaughtered a Kudzu.
+3/29/25 6:52:02p You slaughtered a Kudzu.
+3/29/25 6:52:03p You slaughtered a Kudzu.
+3/29/25 6:52:04p You slaughtered a Kudzu.
+3/29/25 6:52:05p You slaughtered a Kudzu.
+3/29/25 6:52:07p You slaughtered a Kudzu.
+3/29/25 6:52:08p * You pick up a kudzu seedling.
+3/29/25 6:52:08p You slaughtered a Kudzu.
+3/29/25 6:52:10p You slaughtered a Kudzu.
+3/29/25 6:52:11p You slaughtered a Kudzu.
+3/29/25 6:52:12p * You pick up a kudzu seedling.
+3/29/25 6:52:13p You slaughtered a Kudzu.
+3/29/25 6:52:15p You slaughtered a Kudzu.
+3/29/25 6:52:17p You slaughtered a Kudzu.
+3/29/25 6:52:18p You slaughtered a Kudzu.
+3/29/25 6:52:19p You slaughtered a Kudzu.
+3/29/25 6:52:21p You slaughtered a Kudzu.
+3/29/25 6:52:22p You slaughtered a Kudzu.
+3/29/25 6:52:26p You slaughtered a Kudzu.
+3/29/25 6:52:27p You slaughtered a Kudzu.
+3/29/25 6:52:28p You slaughtered a Kudzu.
+3/29/25 6:52:28p You slaughtered a Kudzu.
+3/29/25 6:52:30p You slaughtered a Kudzu.
+3/29/25 6:52:35p You slaughtered a Kudzu.
+3/29/25 6:52:36p You slaughtered a Kudzu.
+3/29/25 6:52:37p You slaughtered a Kudzu.
+3/29/25 6:52:37p * You pick up a kudzu seedling.
+3/29/25 6:52:38p You slaughtered a Kudzu.
+3/29/25 6:52:45p * Storing loose seedlings.
+3/29/25 6:52:45p * Your pack of kudzu seedlings now contains 20 kudzu seedlings.
+3/29/25 6:52:48p You equip your pack of kudzu seedlings named “0”.
+3/29/25 6:52:49p * Your pack of kudzu seedlings now contains one kudzu seedling.
+3/29/25 6:52:49p * Your pack of kudzu seedlings now contains 2 kudzu seedlings.
+3/29/25 6:52:50p * Your pack of kudzu seedlings now contains 3 kudzu seedlings.
+3/29/25 6:52:51p * Your pack of kudzu seedlings now contains 4 kudzu seedlings.
+3/29/25 6:52:52p * Your pack of kudzu seedlings now contains 5 kudzu seedlings.
+3/29/25 6:52:54p * Your pack of kudzu seedlings now contains 6 kudzu seedlings.
+3/29/25 6:52:55p * You don't have any kudzu seedlings.
+3/29/25 6:52:55p All loose seeds stored.
+3/29/25 6:53:02p * Your pack of kudzu seedlings now contains 5 kudzu seedlings.
+3/29/25 6:53:02p You plant a seedling.
+3/29/25 6:53:05p * Your pack of kudzu seedlings now contains 4 kudzu seedlings.
+3/29/25 6:53:05p You plant a seedling.
+3/29/25 6:53:09p * Your pack of kudzu seedlings now contains 3 kudzu seedlings.
+3/29/25 6:53:09p You plant a seedling.
+3/29/25 6:53:11p * Your pack of kudzu seedlings now contains 2 kudzu seedlings.
+3/29/25 6:53:11p You slaughtered a Vermine.
+3/29/25 6:53:11p You plant a seedling.
+3/29/25 6:54:52p You slaughtered a Rat.
+3/29/25 6:54:53p You slaughtered a Vermine.
+3/29/25 6:56:39p You slaughtered a Vermine.
+3/29/25 6:57:28p You just received anonymous good karma.
+3/29/25 6:58:08p You slaughtered a Kudzu.
+3/29/25 6:58:09p * You pick up a kudzu seedling.
+3/29/25 6:58:09p You slaughtered a Kudzu.
+3/29/25 6:58:10p You slaughtered a Kudzu.
+3/29/25 6:58:11p You slaughtered a Kudzu.
+3/29/25 6:58:11p * You pick up a kudzu seedling.
+3/29/25 6:58:12p You slaughtered a Kudzu.
+3/29/25 6:58:13p You slaughtered a Kudzu.
+3/29/25 6:58:16p You slaughtered a Kudzu.
+3/29/25 6:58:17p You slaughtered a Kudzu.
+3/29/25 6:58:18p You slaughtered a Kudzu.
+3/29/25 6:58:19p You slaughtered a Kudzu.
+3/29/25 6:58:20p You slaughtered a Kudzu.
+3/29/25 6:58:23p You slaughtered a Kudzu.
+3/29/25 6:58:27p You slaughtered a Kudzu.
+3/29/25 6:58:27p You slaughtered a Kudzu.
+3/29/25 6:58:28p You slaughtered a Kudzu.
+3/29/25 6:58:28p You slaughtered a Kudzu.
+3/29/25 6:58:30p You slaughtered a Kudzu.
+3/29/25 6:58:32p You slaughtered a Kudzu.
+3/29/25 6:58:33p You slaughtered a Kudzu.
+3/29/25 6:58:35p You slaughtered a Kudzu.
+3/29/25 6:58:36p * You pick up a kudzu seedling.
+3/29/25 6:58:39p You slaughtered a Kudzu.
+3/29/25 6:58:40p You slaughtered a Kudzu.
+3/29/25 6:58:41p You slaughtered a Kudzu.
+3/29/25 6:58:42p You slaughtered a Kudzu.
+3/29/25 6:58:43p You slaughtered a Kudzu.
+3/29/25 6:58:44p You slaughtered a Kudzu.
+3/29/25 6:58:46p You slaughtered a Kudzu.
+3/29/25 6:58:47p You slaughtered a Kudzu.
+3/29/25 6:58:51p You slaughtered a Kudzu.
+3/29/25 6:58:52p You slaughtered a Kudzu.
+3/29/25 6:58:53p You slaughtered a Kudzu.
+3/29/25 6:58:56p You slaughtered a Kudzu.
+3/29/25 6:58:59p You slaughtered a Kudzu.
+3/29/25 6:58:59p You slaughtered a Kudzu.
+3/29/25 6:59:00p You slaughtered a Kudzu.
+3/29/25 6:59:01p You slaughtered a Kudzu.
+3/29/25 6:59:02p You slaughtered a Kudzu.
+3/29/25 6:59:04p * You pick up a kudzu seedling.
+3/29/25 6:59:04p You slaughtered a Kudzu.
+3/29/25 6:59:05p You slaughtered a Kudzu.
+3/29/25 6:59:07p You slaughtered a Kudzu.
+3/29/25 6:59:08p You slaughtered a Kudzu.
+3/29/25 6:59:09p You slaughtered a Kudzu.
+3/29/25 6:59:11p You slaughtered a Kudzu.
+3/29/25 6:59:17p * Storing loose seedlings.
+3/29/25 6:59:18p * Your pack of kudzu seedlings now contains 3 kudzu seedlings.
+3/29/25 6:59:19p * Your pack of kudzu seedlings now contains 4 kudzu seedlings.
+3/29/25 6:59:20p * Your pack of kudzu seedlings now contains 5 kudzu seedlings.
+3/29/25 6:59:21p * Your pack of kudzu seedlings now contains 6 kudzu seedlings.
+3/29/25 6:59:23p * You don't have any kudzu seedlings.
+3/29/25 6:59:23p All loose seeds stored.
+3/29/25 6:59:29p * Your pack of kudzu seedlings now contains 5 kudzu seedlings.
+3/29/25 6:59:29p You plant a seedling.
+3/29/25 6:59:32p * Your pack of kudzu seedlings now contains 4 kudzu seedlings.
+3/29/25 6:59:32p You plant a seedling.
+3/29/25 6:59:35p * Your pack of kudzu seedlings now contains 3 kudzu seedlings.
+3/29/25 6:59:35p You plant a seedling.
+3/29/25 6:59:37p * Your pack of kudzu seedlings now contains 2 kudzu seedlings.
+3/29/25 6:59:37p You plant a seedling.
+3/29/25 7:03:05p (TreeBeard waves)
+3/29/25 7:03:06p (TreeBeard waves)
+3/29/25 7:03:11p Samagina yells, "waves"
+3/29/25 7:04:05p • It’s Midnight on Soldi, the 23rd day of Winter in the 641st year of the Ascendancy, and we’ve got a situation... There’s a  Grove Guardian here...
+3/29/25 7:04:31p Samagina says, "."
+3/29/25 7:04:35p You slaughtered a Kudzu.
+3/29/25 7:04:36p * You pick up a kudzu seedling.
+3/29/25 7:04:36p You slaughtered a Kudzu.
+3/29/25 7:04:37p You slaughtered a Kudzu.
+3/29/25 7:04:37p You slaughtered a Kudzu.
+3/29/25 7:04:38p You slaughtered a Kudzu.
+3/29/25 7:04:39p You slaughtered a Kudzu.
+3/29/25 7:04:40p * You pick up a kudzu seedling.
+3/29/25 7:04:40p You slaughtered a Kudzu.
+3/29/25 7:04:42p You slaughtered a Kudzu.
+3/29/25 7:04:44p You slaughtered a Kudzu.
+3/29/25 7:04:45p You slaughtered a Kudzu.
+3/29/25 7:04:47p You slaughtered a Kudzu.
+3/29/25 7:04:48p You slaughtered a Kudzu.
+3/29/25 7:04:52p You slaughtered a Kudzu.
+3/29/25 7:04:53p * You pick up a kudzu seedling.
+3/29/25 7:04:53p You slaughtered a Kudzu.
+3/29/25 7:04:53p You slaughtered a Kudzu.
+3/29/25 7:04:54p You slaughtered a Kudzu.
+3/29/25 7:04:55p You slaughtered a Kudzu.
+3/29/25 7:04:56p * You pick up a kudzu seedling.
+3/29/25 7:04:57p You slaughtered a Kudzu.
+3/29/25 7:04:58p You slaughtered a Kudzu.
+3/29/25 7:04:59p You slaughtered a Kudzu.
+3/29/25 7:05:01p * You pick up a kudzu seedling.
+3/29/25 7:05:04p You slaughtered a Kudzu.
+3/29/25 7:05:05p * You pick up a kudzu seedling.
+3/29/25 7:05:05p You slaughtered a Kudzu.
+3/29/25 7:05:06p You slaughtered a Kudzu.
+3/29/25 7:05:07p You slaughtered a Kudzu.
+3/29/25 7:05:07p You slaughtered a Kudzu.
+3/29/25 7:05:08p * You pick up a kudzu seedling.
+3/29/25 7:05:10p You slaughtered a Kudzu.
+3/29/25 7:05:11p You slaughtered a Kudzu.
+3/29/25 7:05:12p You slaughtered a Kudzu.
+3/29/25 7:05:12p You slaughtered a Kudzu.
+3/29/25 7:05:14p You slaughtered a Kudzu.
+3/29/25 7:05:16p You slaughtered a Kudzu.
+3/29/25 7:05:23p You slaughtered a Kudzu.
+3/29/25 7:05:23p You slaughtered a Kudzu.
+3/29/25 7:05:24p You slaughtered a Kudzu.
+3/29/25 7:05:25p You slaughtered a Kudzu.
+3/29/25 7:05:26p You slaughtered a Kudzu.
+3/29/25 7:05:27p You slaughtered a Kudzu.
+3/29/25 7:05:29p You slaughtered a Kudzu.
+3/29/25 7:05:30p You slaughtered a Kudzu.
+3/29/25 7:05:32p You slaughtered a Kudzu.
+3/29/25 7:05:33p You slaughtered a Kudzu.
+3/29/25 7:05:37p You slaughtered a Kudzu.
+3/29/25 7:05:38p You slaughtered a Kudzu.
+3/29/25 7:05:39p You slaughtered a Kudzu.
+3/29/25 7:05:40p You slaughtered a Kudzu.
+3/29/25 7:05:42p * You pick up a kudzu seedling.
+3/29/25 7:05:46p You just received anonymous good karma.
+3/29/25 7:05:46p You slaughtered a Kudzu.
+3/29/25 7:05:56p * Storing loose seedlings.
+3/29/25 7:05:56p * Your pack of kudzu seedlings now contains 3 kudzu seedlings.
+3/29/25 7:05:57p * Your pack of kudzu seedlings now contains 4 kudzu seedlings.
+3/29/25 7:05:59p * Your pack of kudzu seedlings now contains 5 kudzu seedlings.
+3/29/25 7:06:00p * Your pack of kudzu seedlings now contains 6 kudzu seedlings.
+3/29/25 7:06:01p * Your pack of kudzu seedlings now contains 7 kudzu seedlings.
+3/29/25 7:06:02p * Your pack of kudzu seedlings now contains 8 kudzu seedlings.
+3/29/25 7:06:03p * Your pack of kudzu seedlings now contains 9 kudzu seedlings.
+3/29/25 7:06:05p * Your pack of kudzu seedlings now contains 10 kudzu seedlings.
+3/29/25 7:06:06p * You don't have any kudzu seedlings.
+3/29/25 7:06:06p All loose seeds stored.
+3/29/25 7:06:13p * Your pack of kudzu seedlings now contains 9 kudzu seedlings.
+3/29/25 7:06:13p You plant a seedling.
+3/29/25 7:06:17p * Your pack of kudzu seedlings now contains 8 kudzu seedlings.
+3/29/25 7:06:17p You plant a seedling.
+3/29/25 7:06:20p * Your pack of kudzu seedlings now contains 7 kudzu seedlings.
+3/29/25 7:06:20p You plant a seedling.
+3/29/25 7:06:23p * Your pack of kudzu seedlings now contains 6 kudzu seedlings.
+3/29/25 7:06:23p You plant a seedling.
+3/29/25 7:07:04p You slaughtered a Rat.
+3/29/25 7:10:31p You slaughtered a Myrm Scout.
+3/29/25 7:10:32p You slaughtered a Rat.
+3/29/25 7:10:33p You slaughtered a Rat.
+3/29/25 7:10:59p Samagina says, "."
+3/29/25 7:11:10p Samagina says, "."
+3/29/25 7:11:14p Samagina says, "."
+3/29/25 7:11:17p Samagina says, "."
+3/29/25 7:11:21p Samagina says, "."
+3/29/25 7:11:25p You slaughtered a Kudzu.
+3/29/25 7:11:26p * You pick up a kudzu seedling.
+3/29/25 7:11:26p You slaughtered a Kudzu.
+3/29/25 7:11:27p You slaughtered a Kudzu.
+3/29/25 7:11:28p You slaughtered a Kudzu.
+3/29/25 7:11:29p You slaughtered a Kudzu.
+3/29/25 7:11:32p You slaughtered a Kudzu.
+3/29/25 7:11:34p You slaughtered a Kudzu.
+3/29/25 7:11:35p You slaughtered a Myrm Protector.
+3/29/25 7:11:35p * You recover the Myrm Protector mandibles, worth 1c. Your share is 1c.
+3/29/25 7:11:37p You slaughtered a Kudzu.
+3/29/25 7:11:39p You slaughtered a Kudzu.
+3/29/25 7:11:40p You slaughtered a Kudzu.
+3/29/25 7:11:41p * You pick up a kudzu seedling.
+3/29/25 7:11:45p You slaughtered a Kudzu.
+3/29/25 7:11:46p You slaughtered a Kudzu.
+3/29/25 7:11:47p You slaughtered a Kudzu.
+3/29/25 7:11:48p • Your blade flashes like a shooting star.
+3/29/25 7:11:48p You slaughtered a Kudzu.
+3/29/25 7:11:49p You slaughtered a Kudzu.
+3/29/25 7:11:51p You slaughtered a Kudzu.
+3/29/25 7:11:52p You slaughtered a Kudzu.
+3/29/25 7:11:54p You slaughtered a Kudzu.
+3/29/25 7:11:55p You slaughtered a Kudzu.
+3/29/25 7:11:57p You slaughtered a Kudzu.
+3/29/25 7:11:58p You slaughtered a Kudzu.
+3/29/25 7:12:01p You slaughtered a Kudzu.
+3/29/25 7:12:02p You slaughtered a Kudzu.
+3/29/25 7:12:03p You slaughtered a Kudzu.
+3/29/25 7:12:04p You slaughtered a Kudzu.
+3/29/25 7:12:05p You slaughtered a Kudzu.
+3/29/25 7:12:09p You slaughtered a Kudzu.
+3/29/25 7:12:09p You slaughtered a Kudzu.
+3/29/25 7:12:10p You slaughtered a Kudzu.
+3/29/25 7:12:11p * You pick up a kudzu seedling.
+3/29/25 7:12:11p You slaughtered a Kudzu.
+3/29/25 7:12:13p You slaughtered a Kudzu.
+3/29/25 7:12:14p You slaughtered a Kudzu.
+3/29/25 7:12:16p You slaughtered a Kudzu.
+3/29/25 7:12:17p You slaughtered a Kudzu.
+3/29/25 7:12:19p * You pick up a kudzu seedling.
+3/29/25 7:12:22p You slaughtered a Kudzu.
+3/29/25 7:12:23p You slaughtered a Kudzu.
+3/29/25 7:12:24p You slaughtered a Kudzu.
+3/29/25 7:12:25p You slaughtered a Kudzu.
+3/29/25 7:12:26p * You pick up a kudzu seedling.
+3/29/25 7:12:29p You slaughtered a Kudzu.
+3/29/25 7:12:30p You slaughtered a Kudzu.
+3/29/25 7:12:30p You slaughtered a Kudzu.
+3/29/25 7:12:31p You slaughtered a Kudzu.
+3/29/25 7:12:33p You slaughtered a Kudzu.
+3/29/25 7:12:35p You slaughtered a Kudzu.
+3/29/25 7:12:36p You slaughtered a Kudzu.
+3/29/25 7:12:37p * You pick up a kudzu seedling.
+3/29/25 7:12:42p * Storing loose seedlings.
+3/29/25 7:12:42p * Your pack of kudzu seedlings now contains 7 kudzu seedlings.
+3/29/25 7:12:44p * Your pack of kudzu seedlings now contains 8 kudzu seedlings.
+3/29/25 7:12:45p * Your pack of kudzu seedlings now contains 9 kudzu seedlings.
+3/29/25 7:12:46p * Your pack of kudzu seedlings now contains 10 kudzu seedlings.
+3/29/25 7:12:47p * Your pack of kudzu seedlings now contains 11 kudzu seedlings.
+3/29/25 7:12:48p * Your pack of kudzu seedlings now contains 12 kudzu seedlings.
+3/29/25 7:12:50p * You don't have any kudzu seedlings.
+3/29/25 7:12:50p All loose seeds stored.
+3/29/25 7:12:55p * Your pack of kudzu seedlings now contains 11 kudzu seedlings.
+3/29/25 7:12:55p You plant a seedling.
+3/29/25 7:12:58p * Your pack of kudzu seedlings now contains 10 kudzu seedlings.
+3/29/25 7:12:58p You plant a seedling.
+3/29/25 7:13:00p * Your pack of kudzu seedlings now contains 9 kudzu seedlings.
+3/29/25 7:13:00p You plant a seedling.
+3/29/25 7:13:03p * Your pack of kudzu seedlings now contains 8 kudzu seedlings.
+3/29/25 7:13:03p You plant a seedling.
+3/29/25 7:16:22p You slaughtered a Vermine.
+3/29/25 7:16:23p You slaughtered a Rat.
+3/29/25 7:16:24p You slaughtered a Rat.
+3/29/25 7:16:46p Samagina says, "."
+3/29/25 7:16:57p Samagina says, "."
+3/29/25 7:17:20p You slaughtered a Kudzu.
+3/29/25 7:17:21p You slaughtered a Kudzu.
+3/29/25 7:17:21p You slaughtered a Kudzu.
+3/29/25 7:17:22p You slaughtered a Kudzu.
+3/29/25 7:17:23p You slaughtered a Kudzu.
+3/29/25 7:17:25p You slaughtered a Kudzu.
+3/29/25 7:17:26p You slaughtered a Kudzu.
+3/29/25 7:17:28p You slaughtered a Kudzu.
+3/29/25 7:17:30p You slaughtered a Kudzu.
+3/29/25 7:17:33p You slaughtered a Kudzu.
+3/29/25 7:17:34p You slaughtered a Kudzu.
+3/29/25 7:17:35p * You pick up a kudzu seedling.
+3/29/25 7:17:35p You slaughtered a Kudzu.
+3/29/25 7:17:36p You slaughtered a Kudzu.
+3/29/25 7:17:37p You slaughtered a Kudzu.
+3/29/25 7:17:38p You slaughtered a Kudzu.
+3/29/25 7:17:39p You slaughtered a Kudzu.
+3/29/25 7:17:40p You slaughtered a Kudzu.
+3/29/25 7:17:42p You slaughtered a Kudzu.
+3/29/25 7:17:43p You slaughtered a Kudzu.
+3/29/25 7:17:47p You slaughtered a Kudzu.
+3/29/25 7:17:48p * You pick up a kudzu seedling.
+3/29/25 7:17:48p You slaughtered a Kudzu.
+3/29/25 7:17:49p You slaughtered a Kudzu.
+3/29/25 7:17:50p You slaughtered a Kudzu.
+3/29/25 7:17:51p You slaughtered a Kudzu.
+3/29/25 7:17:52p You slaughtered a Kudzu.
+3/29/25 7:17:53p You slaughtered a Kudzu.
+3/29/25 7:17:55p You slaughtered a Kudzu.
+3/29/25 7:17:57p You slaughtered a Kudzu.
+3/29/25 7:17:58p You slaughtered a Kudzu.
+3/29/25 7:17:59p You slaughtered a Kudzu.
+3/29/25 7:18:01p You slaughtered a Kudzu.
+3/29/25 7:18:02p * You pick up a kudzu seedling.
+3/29/25 7:18:10p You slaughtered a Kudzu.
+3/29/25 7:18:11p You slaughtered a Kudzu.
+3/29/25 7:18:11p You slaughtered a Kudzu.
+3/29/25 7:18:12p You slaughtered a Kudzu.
+3/29/25 7:18:13p You slaughtered a Kudzu.
+3/29/25 7:18:15p You slaughtered a Kudzu.
+3/29/25 7:18:16p You slaughtered a Kudzu.
+3/29/25 7:18:17p You slaughtered a Kudzu.
+3/29/25 7:18:18p You slaughtered a Kudzu.
+3/29/25 7:18:24p * Storing loose seedlings.
+3/29/25 7:18:24p * Your pack of kudzu seedlings now contains 9 kudzu seedlings.
+3/29/25 7:18:26p * Your pack of kudzu seedlings now contains 10 kudzu seedlings.
+3/29/25 7:18:27p * Your pack of kudzu seedlings now contains 11 kudzu seedlings.
+3/29/25 7:18:28p * You don't have any kudzu seedlings.
+3/29/25 7:18:28p All loose seeds stored.
+3/29/25 7:18:51p * Your pack of kudzu seedlings now contains 10 kudzu seedlings.
+3/29/25 7:18:51p You plant a seedling.
+3/29/25 7:18:53p * Your pack of kudzu seedlings now contains 9 kudzu seedlings.
+3/29/25 7:18:53p You plant a seedling.
+3/29/25 7:18:55p * Your pack of kudzu seedlings now contains 8 kudzu seedlings.
+3/29/25 7:18:55p You plant a seedling.
+3/29/25 7:18:58p * Your pack of kudzu seedlings now contains 7 kudzu seedlings.
+3/29/25 7:18:58p You plant a seedling.
+3/29/25 7:19:13p Kel'Toff sobs.
+3/29/25 7:20:05p Kel'Toff sobs.
+3/29/25 7:20:14p Kel'Toff sobs.
+3/29/25 7:21:07p Kel'Toff yells, "Bloody vermine!"
+3/29/25 7:21:19p You just received anonymous good karma.
+3/29/25 7:21:27p Kel'Toff says, "It is no use. The vermine ate all my crops."
+3/29/25 7:21:59p Kel'Toff says, "It is no use. The vermine ate all my crops."
+3/29/25 7:22:41p Kel'Toff yells, "Bloody vermine!"
+3/29/25 7:22:50p Kel'Toff yells, "Bloody vermine!"
+3/29/25 7:22:50p You slaughtered a Kudzu.
+3/29/25 7:22:51p You slaughtered a Kudzu.
+3/29/25 7:22:52p You slaughtered a Kudzu.
+3/29/25 7:22:53p You slaughtered a Kudzu.
+3/29/25 7:22:54p You slaughtered a Kudzu.
+3/29/25 7:22:55p You slaughtered a Kudzu.
+3/29/25 7:22:56p * You pick up a kudzu seedling.
+3/29/25 7:22:56p You slaughtered a Kudzu.
+3/29/25 7:23:00p You slaughtered a Kudzu.
+3/29/25 7:23:00p You slaughtered a Kudzu.
+3/29/25 7:23:01p You slaughtered a Kudzu.
+3/29/25 7:23:02p You slaughtered a Kudzu.
+3/29/25 7:23:04p You slaughtered a Kudzu.
+3/29/25 7:23:05p You slaughtered a Kudzu.
+3/29/25 7:23:06p * You pick up a kudzu seedling.
+3/29/25 7:23:06p You slaughtered a Kudzu.
+3/29/25 7:23:08p You slaughtered a Kudzu.
+3/29/25 7:23:10p You slaughtered a Kudzu.
+3/29/25 7:23:12p You slaughtered a Kudzu.
+3/29/25 7:23:14p You slaughtered a Kudzu.
+3/29/25 7:23:15p You slaughtered a Kudzu.
+3/29/25 7:23:18p You slaughtered a Kudzu.
+3/29/25 7:23:19p * You pick up a kudzu seedling.
+3/29/25 7:23:19p You slaughtered a Kudzu.
+3/29/25 7:23:19p You slaughtered a Kudzu.
+3/29/25 7:23:20p You slaughtered a Kudzu.
+3/29/25 7:23:22p You slaughtered a Kudzu.
+3/29/25 7:23:24p You slaughtered a Kudzu.
+3/29/25 7:23:27p You slaughtered a Kudzu.
+3/29/25 7:23:28p You slaughtered a Kudzu.
+3/29/25 7:23:30p You slaughtered a Kudzu.
+3/29/25 7:23:34p You slaughtered a Kudzu.
+3/29/25 7:23:35p You slaughtered a Kudzu.
+3/29/25 7:23:35p You slaughtered a Kudzu.
+3/29/25 7:23:36p You slaughtered a Kudzu.
+3/29/25 7:23:37p * You pick up a kudzu seedling.
+3/29/25 7:23:38p You slaughtered a Kudzu.
+3/29/25 7:23:39p You slaughtered a Kudzu.
+3/29/25 7:23:40p * You pick up a kudzu seedling.
+3/29/25 7:23:42p You slaughtered a Kudzu.
+3/29/25 7:23:43p You slaughtered a Kudzu.
+3/29/25 7:23:44p You slaughtered a Kudzu.
+3/29/25 7:23:45p You slaughtered a Kudzu.
+3/29/25 7:23:51p * Storing loose seedlings.
+3/29/25 7:23:51p * Your pack of kudzu seedlings now contains 8 kudzu seedlings.
+3/29/25 7:23:52p * Your pack of kudzu seedlings now contains 9 kudzu seedlings.
+3/29/25 7:23:53p * Your pack of kudzu seedlings now contains 10 kudzu seedlings.
+3/29/25 7:23:55p * Your pack of kudzu seedlings now contains 11 kudzu seedlings.
+3/29/25 7:23:56p * Your pack of kudzu seedlings now contains 12 kudzu seedlings.
+3/29/25 7:23:57p * You don't have any kudzu seedlings.
+3/29/25 7:23:57p All loose seeds stored.
+3/29/25 7:23:58p Kel'Toff yells, "Bloody vermine!"
+3/29/25 7:24:00p You slaughtered a Rat.
+3/29/25 7:24:33p * Your pack of kudzu seedlings now contains 11 kudzu seedlings.
+3/29/25 7:24:33p You plant a seedling.
+3/29/25 7:24:37p * Your pack of kudzu seedlings now contains 10 kudzu seedlings.
+3/29/25 7:24:37p You plant a seedling.
+3/29/25 7:24:50p You slaughtered a Rat.
+3/29/25 7:24:57p You are becoming proficient.
+3/29/25 7:24:57p *weapon training; 40-49
+3/29/25 7:26:07p Kal says, "The vermine must be destroyed."
+3/29/25 7:28:23p You slaughtered a Vermine.
+3/29/25 7:29:15p You slaughtered a Kudzu.
+3/29/25 7:29:15p You slaughtered a Kudzu.
+3/29/25 7:29:16p You slaughtered a Kudzu.
+3/29/25 7:29:17p * You pick up a kudzu seedling.
+3/29/25 7:29:18p You slaughtered a Kudzu.
+3/29/25 7:29:18p You slaughtered a Kudzu.
+3/29/25 7:29:19p * You pick up a kudzu seedling.
+3/29/25 7:29:19p You slaughtered a Kudzu.
+3/29/25 7:29:20p You slaughtered a Kudzu.
+3/29/25 7:29:21p You slaughtered a Kudzu.
+3/29/25 7:29:23p You slaughtered a Kudzu.
+3/29/25 7:29:24p * You pick up a kudzu seedling.
+3/29/25 7:29:29p You slaughtered a Kudzu.
+3/29/25 7:29:30p You slaughtered a Kudzu.
+3/29/25 7:29:31p You slaughtered a Kudzu.
+3/29/25 7:29:33p You slaughtered a Kudzu.
+3/29/25 7:29:35p You slaughtered a Kudzu.
+3/29/25 7:29:36p You slaughtered a Kudzu.
+3/29/25 7:29:37p You slaughtered a Kudzu.
+3/29/25 7:29:39p You slaughtered a Kudzu.
+3/29/25 7:29:40p You slaughtered a Kudzu.
+3/29/25 7:29:42p You slaughtered a Kudzu.
+3/29/25 7:29:44p You slaughtered a Kudzu.
+3/29/25 7:29:59p * Storing loose seedlings.
+3/29/25 7:29:59p * Your pack of kudzu seedlings now contains 11 kudzu seedlings.
+3/29/25 7:30:00p * Your pack of kudzu seedlings now contains 12 kudzu seedlings.
+3/29/25 7:30:01p * Your pack of kudzu seedlings now contains 13 kudzu seedlings.
+3/29/25 7:30:03p * You don't have any kudzu seedlings.
+3/29/25 7:30:03p All loose seeds stored.
+3/29/25 7:31:50p Captain Barnac asks, "Ah, Samagina. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+3/29/25 7:31:53p Samagina says, "yes"
+3/29/25 7:32:23p You slaughtered an Elder Wendecka.
+3/29/25 7:32:23p * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+3/29/25 7:32:28p You slaughtered an Elder Wendecka.
+3/29/25 7:32:28p * You recover the Elder Wendecka fur, worth 3c. Your share is 3c.
+3/29/25 7:32:34p You slaughtered a Mama Wendecka.
+3/29/25 7:32:37p You slaughtered an Elder Wendecka.
+3/29/25 7:32:37p * You recover the Elder Wendecka fur, worth 3c. Your share is 3c.
+3/29/25 7:32:37p • Your knowledge grows from working with the Elder Wendecka.
+3/29/25 7:32:41p You slaughtered an Elder Wendecka.
+3/29/25 7:32:41p * You recover the Elder Wendecka fur, worth 4c. Your share is 4c.
+3/29/25 7:32:48p You slaughtered a Rat.
+3/29/25 7:33:13p You slaughtered a Co'Acha.
+3/29/25 7:33:22p You slaughtered a Guard Veteran.
+3/29/25 7:33:56p You slaughtered a Small Arachne.
+3/29/25 7:34:01p You slaughtered a Hooded Corpse.
+3/29/25 7:34:04p You slaughtered a Corpse Warrior.
+3/29/25 7:34:05p You slaughtered a Vermine.
+3/29/25 7:34:12p You slaughtered a Hooded Corpse.
+3/29/25 7:34:13p You slaughtered an Arachne.
+3/29/25 7:34:17p You slaughtered a Hooded Corpse.
+3/29/25 7:34:19p You slaughtered a Corpse Warrior.
+3/29/25 7:34:22p You slaughtered a Small Arachne.
+3/29/25 7:34:24p You slaughtered a Hooded Corpse.
+3/29/25 7:34:25p You slaughtered a Rat.
+3/29/25 7:34:26p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/29/25 7:34:26p An Anguished Spirit searches you, and takes a handful of coins.
+3/29/25 7:34:26p Samagina has fallen to an Anguished Spirit.
+3/29/25 7:34:30p Your spirit has departed your body 33 times.
+3/29/25 7:35:01p Loom'Bir thinks, "Help us with the restoration of Lugubrion's Keep. Best prices given for your construction materials!"
+3/29/25 7:35:23p You begin sharing your experiences with Squib.
+3/29/25 7:35:25p •You sense healing energy from Dehn.
+3/29/25 7:35:26p Squib is sharing experiences with you.
+3/29/25 7:35:28p Dehn says, "heya"
+3/29/25 7:35:29p Samagina says, "squib heal me"
+3/29/25 7:35:30p •You sense healing energy from Squib.
+3/29/25 7:35:31p Dehn says, "did u depart ? :o"
+3/29/25 7:35:31p You begin sharing your experiences with Dehn.
+3/29/25 7:35:31p You are sharing experiences with Dehn and Squib.
+3/29/25 7:35:35p Samagina says, "yeap"
+3/29/25 7:35:42p Dehn says, ":/"
+3/29/25 7:35:48p Samagina says, "no point stayin some where no one will find me"
+3/29/25 7:35:52p (Dehn nods)
+3/29/25 7:35:55p Dehn says, "true"
+3/29/25 7:35:58p Samagina says, "and at this hour"
+3/29/25 7:36:24p Dehn says, "yea.. we europeans are way to few :p"
+3/29/25 7:36:29p Samagina says, "trying to do farming on TI, keep forgetting the stairs is a death trap"
+3/29/25 7:36:37p * You can volunteer for jury duty in the court library, in South town.
+3/29/25 7:36:37p Samagina says, "im australian"
+3/29/25 7:36:38p Dehn says, "hehe :D"
+3/29/25 7:36:47p Dehn says, "oh :D"
+3/29/25 7:37:01p Samagina says, "odd"
+3/29/25 7:37:28p Eagürd nods and smiles at Samagina.
+3/29/25 7:37:51p You slaughtered a Vermine.
+3/29/25 7:37:54p * Your pack of kudzu seedlings now contains 12 kudzu seedlings.
+3/29/25 7:37:54p You plant a seedling.
+3/29/25 7:37:57p * Your pack of kudzu seedlings now contains 11 kudzu seedlings.
+3/29/25 7:37:57p You plant a seedling.
+3/29/25 7:38:00p * Your pack of kudzu seedlings now contains 10 kudzu seedlings.
+3/29/25 7:38:00p You plant a seedling.
+3/29/25 7:38:02p * Your pack of kudzu seedlings now contains 9 kudzu seedlings.
+3/29/25 7:38:02p You plant a seedling.
+3/29/25 7:38:08p * Your pack of kudzu seedlings now contains 8 kudzu seedlings.
+3/29/25 7:38:08p You plant a seedling.
+3/29/25 7:38:11p * Your pack of kudzu seedlings now contains 7 kudzu seedlings.
+3/29/25 7:38:11p You plant a seedling.
+3/29/25 7:38:16p * Your pack of kudzu seedlings now contains 6 kudzu seedlings.
+3/29/25 7:38:16p You plant a seedling.
+3/29/25 7:38:18p * Your pack of kudzu seedlings now contains 5 kudzu seedlings.
+3/29/25 7:38:18p You plant a seedling.
+3/29/25 7:38:22p * Your pack of kudzu seedlings now contains 4 kudzu seedlings.
+3/29/25 7:38:22p You plant a seedling.
+3/29/25 7:38:24p * Your pack of kudzu seedlings now contains 3 kudzu seedlings.
+3/29/25 7:38:24p You plant a seedling.
+3/29/25 7:38:26p * Your pack of kudzu seedlings now contains 2 kudzu seedlings.
+3/29/25 7:38:26p You plant a seedling.
+3/29/25 7:38:28p * Your pack of kudzu seedlings now contains one kudzu seedling.
+3/29/25 7:38:28p You plant a seedling.
+3/29/25 7:42:42p •••
+3/29/25 7:42:42p You have been idle for too long.
+3/29/25 7:42:42p Please do something to avoid being disconnected.
+3/29/25 7:42:42p •••
+3/29/25 7:43:21p You slaughtered a Kudzu.
+3/29/25 7:43:23p You slaughtered a Kudzu.
+3/29/25 7:43:23p You slaughtered a Kudzu.
+3/29/25 7:43:25p You slaughtered a Kudzu.
+3/29/25 7:43:26p You slaughtered a Kudzu.
+3/29/25 7:43:29p You slaughtered a Kudzu.
+3/29/25 7:43:30p You slaughtered a Kudzu.
+3/29/25 7:43:31p You slaughtered a Kudzu.
+3/29/25 7:43:33p You slaughtered a Kudzu.
+3/29/25 7:43:34p You slaughtered a Kudzu.
+3/29/25 7:43:35p * You pick up a kudzu seedling.
+3/29/25 7:43:39p You slaughtered a Kudzu.
+3/29/25 7:43:40p You slaughtered a Kudzu.
+3/29/25 7:43:41p You slaughtered a Kudzu.
+3/29/25 7:43:43p You slaughtered a Kudzu.
+3/29/25 7:43:43p You slaughtered a Kudzu.
+3/29/25 7:43:45p You slaughtered a Kudzu.
+3/29/25 7:43:46p You slaughtered a Kudzu.
+3/29/25 7:43:47p * You pick up a kudzu seedling.
+3/29/25 7:43:47p You slaughtered a Kudzu.
+3/29/25 7:43:48p You slaughtered a Kudzu.
+3/29/25 7:43:50p You slaughtered a Kudzu.
+3/29/25 7:43:51p You slaughtered a Kudzu.
+3/29/25 7:43:52p You slaughtered a Kudzu.
+3/29/25 7:43:58p You slaughtered a Kudzu.
+3/29/25 7:43:59p You slaughtered a Kudzu.
+3/29/25 7:44:00p You slaughtered a Kudzu.
+3/29/25 7:44:02p You slaughtered a Kudzu.
+3/29/25 7:44:03p You slaughtered a Kudzu.
+3/29/25 7:44:05p You slaughtered a Kudzu.
+3/29/25 7:44:08p You slaughtered a Kudzu.
+3/29/25 7:44:09p * You pick up a kudzu seedling.
+3/29/25 7:44:09p You slaughtered a Kudzu.
+3/29/25 7:44:11p You slaughtered a Kudzu.
+3/29/25 7:44:12p You slaughtered a Kudzu.
+3/29/25 7:44:13p * You pick up a kudzu seedling.
+3/29/25 7:44:14p You slaughtered a Kudzu.
+3/29/25 7:44:16p You slaughtered a Kudzu.
+3/29/25 7:44:18p You slaughtered a Kudzu.
+3/29/25 7:44:23p You slaughtered a Rat.
+3/29/25 7:44:26p You slaughtered a Kudzu.
+3/29/25 7:44:26p You slaughtered a Kudzu.
+3/29/25 7:44:27p You slaughtered a Kudzu.
+3/29/25 7:44:28p You slaughtered a Kudzu.
+3/29/25 7:44:29p You slaughtered a Kudzu.
+3/29/25 7:44:31p You slaughtered a Kudzu.
+3/29/25 7:44:32p You slaughtered a Kudzu.
+3/29/25 7:44:33p * You pick up a kudzu seedling.
+3/29/25 7:44:34p You slaughtered a Kudzu.
+3/29/25 7:44:36p You slaughtered a Kudzu.
+3/29/25 7:44:38p You slaughtered a Kudzu.
+3/29/25 7:44:39p You slaughtered a Kudzu.
+3/29/25 7:44:41p You slaughtered a Kudzu.
+3/29/25 7:44:42p You slaughtered a Rat.
+3/29/25 7:44:47p You slaughtered a Kudzu.
+3/29/25 7:44:48p You slaughtered a Kudzu.
+3/29/25 7:44:49p You slaughtered a Kudzu.
+3/29/25 7:44:50p You slaughtered a Kudzu.
+3/29/25 7:44:50p You slaughtered a Kudzu.
+3/29/25 7:44:51p You slaughtered a Kudzu.
+3/29/25 7:44:53p You slaughtered a Kudzu.
+3/29/25 7:44:54p You slaughtered a Kudzu.
+3/29/25 7:44:55p You slaughtered a Kudzu.
+3/29/25 7:44:57p You slaughtered a Kudzu.
+3/29/25 7:44:58p You slaughtered a Kudzu.
+3/29/25 7:45:00p * You pick up a kudzu seedling.
+3/29/25 7:45:02p You slaughtered a Kudzu.
+3/29/25 7:45:03p You slaughtered a Kudzu.
+3/29/25 7:45:04p You slaughtered a Kudzu.
+3/29/25 7:45:05p * You pick up a kudzu seedling.
+3/29/25 7:45:09p You slaughtered a Kudzu.
+3/29/25 7:45:10p You slaughtered a Kudzu.
+3/29/25 7:45:10p * You pick up a kudzu seedling.
+3/29/25 7:45:11p You slaughtered a Kudzu.
+3/29/25 7:45:13p You slaughtered a Kudzu.
+3/29/25 7:45:15p You slaughtered a Kudzu.
+3/29/25 7:45:16p You slaughtered a Kudzu.
+3/29/25 7:45:17p You slaughtered a Kudzu.
+3/29/25 7:45:19p You slaughtered a Kudzu.
+3/29/25 7:45:20p You slaughtered a Kudzu.
+3/29/25 7:45:21p You slaughtered a Kudzu.
+3/29/25 7:45:22p * You pick up a kudzu seedling.
+3/29/25 7:45:26p * Storing loose seedlings.
+3/29/25 7:45:26p * Your pack of kudzu seedlings now contains 2 kudzu seedlings.
+3/29/25 7:45:28p * Your pack of kudzu seedlings now contains 3 kudzu seedlings.
+3/29/25 7:45:29p * Your pack of kudzu seedlings now contains 4 kudzu seedlings.
+3/29/25 7:45:30p * Your pack of kudzu seedlings now contains 5 kudzu seedlings.
+3/29/25 7:45:31p * Your pack of kudzu seedlings now contains 6 kudzu seedlings.
+3/29/25 7:45:32p * Your pack of kudzu seedlings now contains 7 kudzu seedlings.
+3/29/25 7:45:34p * Your pack of kudzu seedlings now contains 8 kudzu seedlings.
+3/29/25 7:45:34p You slaughtered a Kudzu.
+3/29/25 7:45:35p You slaughtered a Kudzu.
+3/29/25 7:45:36p * Your pack of kudzu seedlings now contains 9 kudzu seedlings.
+3/29/25 7:45:36p You slaughtered a Kudzu.
+3/29/25 7:45:37p You slaughtered a Kudzu.
+3/29/25 7:45:38p You slaughtered a Kudzu.
+3/29/25 7:45:38p * Your pack of kudzu seedlings now contains 10 kudzu seedlings.
+3/29/25 7:45:39p You slaughtered a Kudzu.
+3/29/25 7:45:41p * You don't have any kudzu seedlings.
+3/29/25 7:45:41p All loose seeds stored.
+3/29/25 7:45:41p You slaughtered a Kudzu.
+3/29/25 7:45:45p You slaughtered a Kudzu.
+3/29/25 7:45:46p You slaughtered a Kudzu.
+3/29/25 7:45:46p You slaughtered a Kudzu.
+3/29/25 7:45:47p You slaughtered a Kudzu.
+3/29/25 7:45:49p You slaughtered a Kudzu.
+3/29/25 7:45:50p You slaughtered an Island Locust.
+3/29/25 7:45:52p You slaughtered a Kudzu.
+3/29/25 7:45:54p You slaughtered a Kudzu.
+3/29/25 7:45:55p You slaughtered a Kudzu.
+3/29/25 7:45:58p You slaughtered a Kudzu.
+3/29/25 7:45:58p You slaughtered a Kudzu.
+3/29/25 7:46:10p * You pick up a kudzu seedling.
+3/29/25 7:46:12p You slaughtered a Rat.
+3/29/25 7:46:15p You slaughtered a Kudzu.
+3/29/25 7:46:16p You slaughtered a Kudzu.
+3/29/25 7:46:17p You slaughtered a Kudzu.
+3/29/25 7:46:17p You slaughtered a Kudzu.
+3/29/25 7:46:19p You slaughtered a Kudzu.
+3/29/25 7:46:20p You slaughtered a Kudzu.
+3/29/25 7:46:21p You slaughtered a Kudzu.
+3/29/25 7:46:22p You slaughtered a Kudzu.
+3/29/25 7:46:23p You slaughtered a Kudzu.
+3/29/25 7:46:25p You slaughtered a Kudzu.
+3/29/25 7:46:26p You slaughtered a Kudzu.
+3/29/25 7:46:27p You slaughtered a Kudzu.
+3/29/25 7:46:31p You slaughtered a Kudzu.
+3/29/25 7:46:32p You slaughtered a Kudzu.
+3/29/25 7:46:32p You slaughtered a Kudzu.
+3/29/25 7:46:34p You slaughtered a Kudzu.
+3/29/25 7:46:35p You slaughtered a Kudzu.
+3/29/25 7:46:36p You slaughtered a Kudzu.
+3/29/25 7:46:38p You slaughtered a Kudzu.
+3/29/25 7:46:39p You slaughtered a Kudzu.
+3/29/25 7:46:42p You slaughtered a Kudzu.
+3/29/25 7:46:46p You slaughtered a Giant Slug.
+3/29/25 7:46:51p You slaughtered a Kudzu.
+3/29/25 7:46:52p You slaughtered a Kudzu.
+3/29/25 7:46:54p You slaughtered a Kudzu.
+3/29/25 7:46:55p You slaughtered a Kudzu.
+3/29/25 7:46:57p You slaughtered a Kudzu.
+3/29/25 7:46:59p * You pick up a kudzu seedling.
+3/29/25 7:47:03p You slaughtered a Kudzu.
+3/29/25 7:47:04p * You pick up a kudzu seedling.
+3/29/25 7:47:04p You slaughtered a Kudzu.
+3/29/25 7:47:04p You slaughtered a Kudzu.
+3/29/25 7:47:05p * You pick up a kudzu seedling.
+3/29/25 7:47:07p You slaughtered a Kudzu.
+3/29/25 7:47:08p You slaughtered a Kudzu.
+3/29/25 7:47:08p You slaughtered a Kudzu.
+3/29/25 7:47:09p You slaughtered a Kudzu.
+3/29/25 7:47:11p You slaughtered a Kudzu.
+3/29/25 7:47:16p You slaughtered a Kudzu.
+3/29/25 7:47:17p You slaughtered a Kudzu.
+3/29/25 7:47:18p You slaughtered a Kudzu.
+3/29/25 7:47:19p You slaughtered a Kudzu.
+3/29/25 7:47:20p You slaughtered a Kudzu.
+3/29/25 7:47:20p * You pick up a kudzu seedling.
+3/29/25 7:47:23p You slaughtered a Kudzu.
+3/29/25 7:47:23p You slaughtered a Kudzu.
+3/29/25 7:47:24p You slaughtered a Kudzu.
+3/29/25 7:47:25p * You pick up a kudzu seedling.
+3/29/25 7:47:25p You slaughtered a Kudzu.
+3/29/25 7:47:26p * You pick up a kudzu seedling.
+3/29/25 7:47:27p You slaughtered a Kudzu.
+3/29/25 7:47:30p You slaughtered a Kudzu.
+3/29/25 7:47:31p You slaughtered a Kudzu.
+3/29/25 7:47:42p You slaughtered a Giant Slug.
+3/29/25 7:47:46p * Storing loose seedlings.
+3/29/25 7:47:47p * Your pack of kudzu seedlings now contains 11 kudzu seedlings.
+3/29/25 7:47:48p * Your pack of kudzu seedlings now contains 12 kudzu seedlings.
+3/29/25 7:47:49p * Your pack of kudzu seedlings now contains 13 kudzu seedlings.
+3/29/25 7:47:50p * Your pack of kudzu seedlings now contains 14 kudzu seedlings.
+3/29/25 7:47:52p * Your pack of kudzu seedlings now contains 15 kudzu seedlings.
+3/29/25 7:47:53p * Your pack of kudzu seedlings now contains 16 kudzu seedlings.
+3/29/25 7:47:54p * Your pack of kudzu seedlings now contains 17 kudzu seedlings.
+3/29/25 7:47:55p * You don't have any kudzu seedlings.
+3/29/25 7:47:55p All loose seeds stored.
+3/29/25 7:48:16p You slaughtered a Rat.
+3/29/25 7:48:26p * Your pack of kudzu seedlings now contains 16 kudzu seedlings.
+3/29/25 7:48:26p You plant a seedling.
+3/29/25 7:48:28p You slaughtered an Island Locust.
+3/29/25 7:48:36p * Your pack of kudzu seedlings now contains 15 kudzu seedlings.
+3/29/25 7:48:36p You plant a seedling.
+3/29/25 7:48:39p * Your pack of kudzu seedlings now contains 14 kudzu seedlings.
+3/29/25 7:48:39p You plant a seedling.
+3/29/25 7:48:42p * Your pack of kudzu seedlings now contains 13 kudzu seedlings.
+3/29/25 7:48:42p You plant a seedling.
+3/29/25 7:48:46p * Your pack of kudzu seedlings now contains 12 kudzu seedlings.
+3/29/25 7:48:46p You plant a seedling.
+3/29/25 7:48:48p * Your pack of kudzu seedlings now contains 11 kudzu seedlings.
+3/29/25 7:48:48p You plant a seedling.
+3/29/25 7:48:51p * Your pack of kudzu seedlings now contains 10 kudzu seedlings.
+3/29/25 7:48:51p You plant a seedling.
+3/29/25 7:48:56p * Your pack of kudzu seedlings now contains 9 kudzu seedlings.
+3/29/25 7:48:56p You plant a seedling.
+3/29/25 7:48:56p You slaughtered a Rat.
+3/29/25 7:49:02p * Your pack of kudzu seedlings now contains 8 kudzu seedlings.
+3/29/25 7:49:02p You plant a seedling.
+3/29/25 7:49:05p * Your pack of kudzu seedlings now contains 7 kudzu seedlings.
+3/29/25 7:49:05p You plant a seedling.
+3/29/25 7:49:08p * Your pack of kudzu seedlings now contains 6 kudzu seedlings.
+3/29/25 7:49:08p You plant a seedling.
+3/29/25 7:49:10p * Your pack of kudzu seedlings now contains 5 kudzu seedlings.
+3/29/25 7:49:10p You plant a seedling.
+3/29/25 7:49:16p You slaughtered an Island Locust.
+3/29/25 7:49:23p Zukup says, "These kudzu packs are specially designed to keep up to 20 seedlings healthy."
+3/29/25 7:49:24p Zukup asks, "Would you like to buy one for 250c?"
+3/29/25 7:49:26p Samagina says, "yes"
+3/29/25 7:49:27p Zukup says, "Thank you! Come back again."
+3/29/25 7:49:28p You slaughtered a Rat.
+3/29/25 7:49:29p You slaughtered a Rat.
+3/29/25 7:49:34p You slaughtered a Rat.
+3/29/25 7:49:39p You slaughtered a Kudzu.
+3/29/25 7:49:42p You slaughtered a Kudzu.
+3/29/25 7:49:45p * Your pack of kudzu seedlings now contains 4 kudzu seedlings.
+3/29/25 7:49:45p You plant a seedling.
+3/29/25 7:53:33p You slaughtered a Kudzu.
+3/29/25 7:53:34p You slaughtered a Kudzu.
+3/29/25 7:53:35p You slaughtered a Kudzu.
+3/29/25 7:53:35p You slaughtered a Kudzu.
+3/29/25 7:53:36p You slaughtered a Kudzu.
+3/29/25 7:53:37p You slaughtered a Kudzu.
+3/29/25 7:53:39p You slaughtered a Kudzu.
+3/29/25 7:53:40p You slaughtered a Kudzu.
+3/29/25 7:53:42p You slaughtered a Kudzu.
+3/29/25 7:53:43p You slaughtered a Kudzu.
+3/29/25 7:53:45p You slaughtered a Kudzu.
+3/29/25 7:53:46p You slaughtered a Vermine.
+3/29/25 7:53:47p * You pick up a kudzu seedling.
+3/29/25 7:53:47p You slaughtered a Kudzu.
+3/29/25 7:53:49p * You pick up a kudzu seedling.
+3/29/25 7:53:50p You slaughtered a Kudzu.
+3/29/25 7:53:57p You slaughtered a Kudzu.
+3/29/25 7:53:58p You slaughtered a Kudzu.
+3/29/25 7:53:58p You slaughtered a Kudzu.
+3/29/25 7:53:59p You slaughtered a Kudzu.
+3/29/25 7:54:00p You slaughtered a Kudzu.
+3/29/25 7:54:03p You slaughtered a Kudzu.
+3/29/25 7:54:04p You slaughtered a Kudzu.
+3/29/25 7:54:05p You slaughtered a Kudzu.
+3/29/25 7:54:06p You slaughtered a Kudzu.
+3/29/25 7:54:07p You slaughtered a Kudzu.
+3/29/25 7:54:13p You slaughtered a Kudzu.
+3/29/25 7:54:15p You slaughtered a Kudzu.
+3/29/25 7:54:15p You slaughtered a Kudzu.
+3/29/25 7:54:16p You slaughtered a Kudzu.
+3/29/25 7:54:17p You slaughtered a Kudzu.
+3/29/25 7:54:19p You slaughtered a Kudzu.
+3/29/25 7:54:20p You slaughtered a Vermine.
+3/29/25 7:54:22p You slaughtered a Kudzu.
+3/29/25 7:54:23p You slaughtered a Kudzu.
+3/29/25 7:54:28p You slaughtered a Kudzu.
+3/29/25 7:54:29p You slaughtered a Kudzu.
+3/29/25 7:54:31p You slaughtered a Kudzu.
+3/29/25 7:54:32p You slaughtered a Kudzu.
+3/29/25 7:54:33p You slaughtered a Kudzu.
+3/29/25 7:54:35p You slaughtered a Kudzu.
+3/29/25 7:54:36p You slaughtered a Kudzu.
+3/29/25 7:54:38p You slaughtered a Kudzu.
+3/29/25 7:54:39p You slaughtered a Kudzu.
+3/29/25 7:54:41p You slaughtered a Kudzu.
+3/29/25 7:54:42p You slaughtered a Kudzu.
+3/29/25 7:54:45p You slaughtered a Kudzu.
+3/29/25 7:54:51p You slaughtered a Kudzu.
+3/29/25 7:54:53p You slaughtered a Kudzu.
+3/29/25 7:54:54p You slaughtered a Kudzu.
+3/29/25 7:54:55p You slaughtered a Kudzu.
+3/29/25 7:54:57p You slaughtered a Kudzu.
+3/29/25 7:54:58p * You pick up a kudzu seedling.
+3/29/25 7:55:01p You slaughtered a Kudzu.
+3/29/25 7:55:02p You slaughtered a Kudzu.
+3/29/25 7:55:03p You slaughtered a Kudzu.
+3/29/25 7:55:04p You slaughtered a Kudzu.
+3/29/25 7:55:05p You slaughtered a Kudzu.
+3/29/25 7:55:05p You slaughtered a Kudzu.
+3/29/25 7:55:06p * You pick up a kudzu seedling.
+3/29/25 7:55:07p You slaughtered a Kudzu.
+3/29/25 7:55:08p You slaughtered a Kudzu.
+3/29/25 7:55:09p You slaughtered a Kudzu.
+3/29/25 7:55:16p You slaughtered a Kudzu.
+3/29/25 7:55:17p You slaughtered a Kudzu.
+3/29/25 7:55:18p You slaughtered a Kudzu.
+3/29/25 7:55:19p You slaughtered a Kudzu.
+3/29/25 7:55:20p You slaughtered a Kudzu.
+3/29/25 7:55:20p You slaughtered a Kudzu.
+3/29/25 7:55:21p You slaughtered a Kudzu.
+3/29/25 7:55:23p You slaughtered a Kudzu.
+3/29/25 7:55:24p * You pick up a kudzu seedling.
+3/29/25 7:55:25p You slaughtered a Kudzu.
+3/29/25 7:55:26p You slaughtered a Kudzu.
+3/29/25 7:55:27p * You pick up a kudzu seedling.
+3/29/25 7:55:28p You slaughtered a Kudzu.
+3/29/25 7:55:29p You slaughtered a Kudzu.
+3/29/25 7:55:31p You slaughtered a Kudzu.
+3/29/25 7:55:35p You slaughtered a Kudzu.
+3/29/25 7:55:36p You slaughtered a Kudzu.
+3/29/25 7:55:37p You slaughtered a Kudzu.
+3/29/25 7:55:38p You slaughtered a Kudzu.
+3/29/25 7:55:39p You slaughtered a Kudzu.
+3/29/25 7:55:41p You slaughtered a Kudzu.
+3/29/25 7:55:42p You slaughtered a Kudzu.
+3/29/25 7:55:43p You slaughtered a Kudzu.
+3/29/25 7:55:44p You slaughtered a Kudzu.
+3/29/25 7:55:45p * You pick up a kudzu seedling.
+3/29/25 7:55:46p You slaughtered a Kudzu.
+3/29/25 7:55:47p You slaughtered a Kudzu.
+3/29/25 7:55:48p You slaughtered a Kudzu.
+3/29/25 7:55:51p You slaughtered a Kudzu.
+3/29/25 7:55:51p You slaughtered a Kudzu.
+3/29/25 7:55:53p You slaughtered a Kudzu.
+3/29/25 7:55:54p You slaughtered a Vermine.
+3/29/25 7:56:00p You slaughtered a Kudzu.
+3/29/25 7:56:00p You slaughtered a Kudzu.
+3/29/25 7:56:01p You slaughtered a Kudzu.
+3/29/25 7:56:02p You slaughtered a Kudzu.
+3/29/25 7:56:02p * You pick up a kudzu seedling.
+3/29/25 7:56:03p You slaughtered a Kudzu.
+3/29/25 7:56:05p You slaughtered a Kudzu.
+3/29/25 7:56:06p You slaughtered a Kudzu.
+3/29/25 7:56:09p You slaughtered a Kudzu.
+3/29/25 7:56:10p You slaughtered a Kudzu.
+3/29/25 7:56:11p You slaughtered a Kudzu.
+3/29/25 7:56:13p * You pick up a kudzu seedling.
+3/29/25 7:56:16p You slaughtered a Kudzu.
+3/29/25 7:56:17p You slaughtered a Kudzu.
+3/29/25 7:56:18p You slaughtered a Kudzu.
+3/29/25 7:56:19p You slaughtered a Kudzu.
+3/29/25 7:56:20p You slaughtered a Kudzu.
+3/29/25 7:56:25p You slaughtered a Kudzu.
+3/29/25 7:56:26p You slaughtered a Kudzu.
+3/29/25 7:56:27p You slaughtered a Kudzu.
+3/29/25 7:56:27p You slaughtered a Kudzu.
+3/29/25 7:56:28p You slaughtered a Kudzu.
+3/29/25 7:56:32p You slaughtered a Kudzu.
+3/29/25 7:56:33p You slaughtered a Kudzu.
+3/29/25 7:56:38p You slaughtered a Kudzu.
+3/29/25 7:56:38p You slaughtered a Kudzu.
+3/29/25 7:56:39p You slaughtered a Kudzu.
+3/29/25 7:56:40p * You pick up a kudzu seedling.
+3/29/25 7:56:40p You slaughtered a Kudzu.
+3/29/25 7:56:41p You slaughtered a Kudzu.
+3/29/25 7:56:44p * Storing loose seedlings.
+3/29/25 7:56:45p * Your pack of kudzu seedlings now contains 5 kudzu seedlings.
+3/29/25 7:56:46p * Your pack of kudzu seedlings now contains 6 kudzu seedlings.
+3/29/25 7:56:47p * Your pack of kudzu seedlings now contains 7 kudzu seedlings.
+3/29/25 7:56:48p * Your pack of kudzu seedlings now contains 8 kudzu seedlings.
+3/29/25 7:56:48p You slaughtered a Kudzu.
+3/29/25 7:56:49p * Your pack of kudzu seedlings now contains 9 kudzu seedlings.
+3/29/25 7:56:51p * Your pack of kudzu seedlings now contains 10 kudzu seedlings.
+3/29/25 7:56:52p * Your pack of kudzu seedlings now contains 11 kudzu seedlings.
+3/29/25 7:56:52p You slaughtered a Kudzu.
+3/29/25 7:56:54p * Your pack of kudzu seedlings now contains 12 kudzu seedlings.
+3/29/25 7:56:54p You slaughtered a Kudzu.
+3/29/25 7:56:55p You slaughtered a Kudzu.
+3/29/25 7:56:56p You slaughtered a Kudzu.
+3/29/25 7:56:57p You slaughtered a Kudzu.
+3/29/25 7:56:58p * Your pack of kudzu seedlings now contains 13 kudzu seedlings.
+3/29/25 7:56:59p * Your pack of kudzu seedlings now contains 14 kudzu seedlings.
+3/29/25 7:57:00p * You don't have any kudzu seedlings.
+3/29/25 7:57:00p All loose seeds stored.
+3/29/25 7:57:08p You slaughtered a Kudzu.
+3/29/25 7:57:09p You slaughtered a Kudzu.
+3/29/25 7:57:10p You slaughtered a Kudzu.
+3/29/25 7:57:10p You slaughtered a Kudzu.
+3/29/25 7:57:11p You slaughtered a Kudzu.
+3/29/25 7:57:12p You slaughtered a Kudzu.
+3/29/25 7:57:13p You slaughtered a Kudzu.
+3/29/25 7:57:15p * You pick up a kudzu seedling.
+3/29/25 7:57:15p You slaughtered a Kudzu.
+3/29/25 7:57:16p You slaughtered a Kudzu.
+3/29/25 7:57:18p You slaughtered a Kudzu.
+3/29/25 7:57:20p You slaughtered a Kudzu.
+3/29/25 7:57:21p * You pick up a kudzu seedling.
+3/29/25 7:57:21p You slaughtered a Kudzu.
+3/29/25 7:57:23p You slaughtered a Kudzu.
+3/29/25 7:57:24p You slaughtered a Kudzu.
+3/29/25 7:57:28p You slaughtered a Kudzu.
+3/29/25 7:57:29p * You pick up a kudzu seedling.
+3/29/25 7:57:29p You slaughtered a Kudzu.
+3/29/25 7:57:37p * Storing loose seedlings.
+3/29/25 7:57:38p * Your pack of kudzu seedlings now contains 15 kudzu seedlings.
+3/29/25 7:57:39p * Your pack of kudzu seedlings now contains 16 kudzu seedlings.
+3/29/25 7:57:40p * Your pack of kudzu seedlings now contains 17 kudzu seedlings.
+3/29/25 7:57:41p * You don't have any kudzu seedlings.
+3/29/25 7:57:41p All loose seeds stored.
+3/29/25 7:58:03p * Your pack of kudzu seedlings now contains 16 kudzu seedlings.
+3/29/25 7:58:03p You plant a seedling.
+3/29/25 7:58:06p * Your pack of kudzu seedlings now contains 15 kudzu seedlings.
+3/29/25 7:58:06p You plant a seedling.
+3/29/25 7:58:09p * Your pack of kudzu seedlings now contains 14 kudzu seedlings.
+3/29/25 7:58:09p You plant a seedling.
+3/29/25 7:58:12p * Your pack of kudzu seedlings now contains 13 kudzu seedlings.
+3/29/25 7:58:12p You plant a seedling.
+3/29/25 7:58:15p * Your pack of kudzu seedlings now contains 12 kudzu seedlings.
+3/29/25 7:58:15p You plant a seedling.
+3/29/25 7:58:19p * Your pack of kudzu seedlings now contains 11 kudzu seedlings.
+3/29/25 7:58:19p You plant a seedling.
+3/29/25 7:58:22p * Your pack of kudzu seedlings now contains 10 kudzu seedlings.
+3/29/25 7:58:22p You plant a seedling.
+3/29/25 7:58:25p * Your pack of kudzu seedlings now contains 9 kudzu seedlings.
+3/29/25 7:58:25p You plant a seedling.
+3/29/25 7:58:27p * Your pack of kudzu seedlings now contains 8 kudzu seedlings.
+3/29/25 7:58:27p You plant a seedling.
+3/29/25 7:58:33p * Your pack of kudzu seedlings now contains 7 kudzu seedlings.
+3/29/25 7:58:33p You plant a seedling.
+3/29/25 7:58:35p * Your pack of kudzu seedlings now contains 6 kudzu seedlings.
+3/29/25 7:58:35p You plant a seedling.
+3/29/25 7:58:38p * Your pack of kudzu seedlings now contains 5 kudzu seedlings.
+3/29/25 7:58:38p You plant a seedling.
+3/29/25 7:58:48p * Your pack of kudzu seedlings now contains 4 kudzu seedlings.
+3/29/25 7:58:48p You plant a seedling.
+3/29/25 7:58:51p * Your pack of kudzu seedlings now contains 3 kudzu seedlings.
+3/29/25 7:58:51p You plant a seedling.
+3/29/25 7:58:53p * Your pack of kudzu seedlings now contains 2 kudzu seedlings.
+3/29/25 7:58:53p You plant a seedling.
+3/29/25 8:00:01p You slaughtered a Giant Slug.
+3/29/25 8:01:33p You slaughtered a Giant Slug.
+3/29/25 8:02:38p You slaughtered a Kudzu.
+3/29/25 8:02:39p You slaughtered a Kudzu.
+3/29/25 8:02:40p You slaughtered a Kudzu.
+3/29/25 8:02:41p You slaughtered a Kudzu.
+3/29/25 8:02:42p You slaughtered a Kudzu.
+3/29/25 8:02:43p You slaughtered a Kudzu.
+3/29/25 8:02:47p You slaughtered a Kudzu.
+3/29/25 8:02:48p You slaughtered a Kudzu.
+3/29/25 8:02:50p You slaughtered a Kudzu.
+3/29/25 8:02:56p You slaughtered a Kudzu.
+3/29/25 8:02:57p You slaughtered a Kudzu.
+3/29/25 8:02:58p You slaughtered a Kudzu.
+3/29/25 8:02:59p You slaughtered a Kudzu.
+3/29/25 8:03:00p You slaughtered a Kudzu.
+3/29/25 8:03:01p You slaughtered a Kudzu.
+3/29/25 8:03:03p You slaughtered a Kudzu.
+3/29/25 8:03:04p You slaughtered a Kudzu.
+3/29/25 8:03:05p * You pick up a kudzu seedling.
+3/29/25 8:03:06p You slaughtered a Kudzu.
+3/29/25 8:03:07p You slaughtered a Kudzu.
+3/29/25 8:03:17p You slaughtered a Kudzu.
+3/29/25 8:03:18p You slaughtered a Kudzu.
+3/29/25 8:03:18p You slaughtered a Kudzu.
+3/29/25 8:03:19p You slaughtered a Kudzu.
+3/29/25 8:03:20p You slaughtered a Kudzu.
+3/29/25 8:03:22p You slaughtered a Kudzu.
+3/29/25 8:03:22p * You pick up a kudzu seedling.
+3/29/25 8:03:23p You slaughtered a Kudzu.
+3/29/25 8:03:25p You slaughtered a Kudzu.
+3/29/25 8:03:27p You slaughtered a Kudzu.
+3/29/25 8:03:28p You slaughtered a Kudzu.
+3/29/25 8:03:29p * You pick up a kudzu seedling.
+3/29/25 8:03:34p You slaughtered a Kudzu.
+3/29/25 8:03:35p You slaughtered a Kudzu.
+3/29/25 8:03:36p You slaughtered a Kudzu.
+3/29/25 8:03:37p * You pick up a kudzu seedling.
+3/29/25 8:03:37p You slaughtered a Kudzu.
+3/29/25 8:03:38p You slaughtered a Kudzu.
+3/29/25 8:03:38p You slaughtered a Kudzu.
+3/29/25 8:03:40p You slaughtered a Kudzu.
+3/29/25 8:03:41p You slaughtered a Kudzu.
+3/29/25 8:03:44p You slaughtered a Kudzu.
+3/29/25 8:03:46p You slaughtered a Kudzu.
+3/29/25 8:03:48p * You pick up a kudzu seedling.
+3/29/25 8:03:52p You slaughtered a Kudzu.
+3/29/25 8:03:53p You slaughtered a Kudzu.
+3/29/25 8:03:54p You slaughtered a Kudzu.
+3/29/25 8:03:55p You slaughtered a Kudzu.
+3/29/25 8:03:56p You slaughtered a Kudzu.
+3/29/25 8:03:57p You slaughtered a Kudzu.
+3/29/25 8:03:58p You slaughtered a Kudzu.
+3/29/25 8:03:59p * You pick up a kudzu seedling.
+3/29/25 8:03:59p You slaughtered a Kudzu.
+3/29/25 8:04:01p You slaughtered a Kudzu.
+3/29/25 8:04:13p You slaughtered a Kudzu.
+3/29/25 8:04:13p You slaughtered a Kudzu.
+3/29/25 8:04:14p You slaughtered a Kudzu.
+3/29/25 8:04:15p You slaughtered a Kudzu.
+3/29/25 8:04:16p You slaughtered a Kudzu.
+3/29/25 8:04:17p You slaughtered a Kudzu.
+3/29/25 8:04:18p You slaughtered a Kudzu.
+3/29/25 8:04:20p You slaughtered a Kudzu.
+3/29/25 8:04:22p You slaughtered a Kudzu.
+3/29/25 8:04:23p You slaughtered a Kudzu.
+3/29/25 8:04:34p You slaughtered a Kudzu.
+3/29/25 8:04:34p You slaughtered a Kudzu.
+3/29/25 8:04:35p You slaughtered a Kudzu.
+3/29/25 8:04:36p You slaughtered a Kudzu.
+3/29/25 8:04:38p You slaughtered a Kudzu.
+3/29/25 8:04:39p You slaughtered a Kudzu.
+3/29/25 8:04:41p You slaughtered a Kudzu.
+3/29/25 8:04:42p You slaughtered a Kudzu.
+3/29/25 8:04:45p You slaughtered a Kudzu.
+3/29/25 8:04:51p You slaughtered a Kudzu.
+3/29/25 8:04:52p You slaughtered a Kudzu.
+3/29/25 8:04:53p You slaughtered a Kudzu.
+3/29/25 8:04:54p You slaughtered a Kudzu.
+3/29/25 8:04:55p You slaughtered a Kudzu.
+3/29/25 8:04:56p You slaughtered a Kudzu.
+3/29/25 8:04:57p You slaughtered a Kudzu.
+3/29/25 8:04:59p You slaughtered a Kudzu.
+3/29/25 8:05:01p You slaughtered a Kudzu.
+3/29/25 8:05:02p You slaughtered a Kudzu.
+3/29/25 8:05:12p You slaughtered a Kudzu.
+3/29/25 8:05:13p You slaughtered a Kudzu.
+3/29/25 8:05:13p You slaughtered a Kudzu.
+3/29/25 8:05:14p You slaughtered a Kudzu.
+3/29/25 8:05:15p You slaughtered a Kudzu.
+3/29/25 8:05:17p You slaughtered a Kudzu.
+3/29/25 8:05:18p You slaughtered a Kudzu.
+3/29/25 8:05:19p You slaughtered a Kudzu.
+3/29/25 8:05:21p You slaughtered a Kudzu.
+3/29/25 8:05:22p You slaughtered a Kudzu.
+3/29/25 8:05:24p You slaughtered a Kudzu.
+3/29/25 8:05:25p You slaughtered a Kudzu.
+3/29/25 8:05:29p You slaughtered a Kudzu.
+3/29/25 8:05:30p You slaughtered a Kudzu.
+3/29/25 8:05:31p You slaughtered a Kudzu.
+3/29/25 8:05:32p You slaughtered a Kudzu.
+3/29/25 8:05:33p You slaughtered a Kudzu.
+3/29/25 8:05:34p You slaughtered a Kudzu.
+3/29/25 8:05:36p You slaughtered a Kudzu.
+3/29/25 8:05:37p You slaughtered a Kudzu.
+3/29/25 8:05:39p You slaughtered a Kudzu.
+3/29/25 8:05:44p You slaughtered a Kudzu.
+3/29/25 8:05:45p You slaughtered a Kudzu.
+3/29/25 8:05:46p You slaughtered a Kudzu.
+3/29/25 8:05:47p You slaughtered a Kudzu.
+3/29/25 8:05:51p You slaughtered a Kudzu.
+3/29/25 8:05:52p You slaughtered a Kudzu.
+3/29/25 8:05:54p You slaughtered a Kudzu.
+3/29/25 8:05:55p You slaughtered a Kudzu.
+3/29/25 8:05:56p You slaughtered a Kudzu.
+3/29/25 8:05:57p * You pick up a kudzu seedling.
+3/29/25 8:05:58p You slaughtered a Kudzu.
+3/29/25 8:05:59p You slaughtered a Kudzu.
+3/29/25 8:06:00p You slaughtered a Kudzu.
+3/29/25 8:06:01p You slaughtered a Kudzu.
+3/29/25 8:06:03p You slaughtered a Kudzu.
+3/29/25 8:06:05p You slaughtered a Kudzu.
+3/29/25 8:06:05p * You pick up a kudzu seedling.
+3/29/25 8:06:09p * Storing loose seedlings.
+3/29/25 8:06:10p * Your pack of kudzu seedlings now contains 3 kudzu seedlings.
+3/29/25 8:06:11p * Your pack of kudzu seedlings now contains 4 kudzu seedlings.
+3/29/25 8:06:12p * Your pack of kudzu seedlings now contains 5 kudzu seedlings.
+3/29/25 8:06:13p * Your pack of kudzu seedlings now contains 6 kudzu seedlings.
+3/29/25 8:06:15p * Your pack of kudzu seedlings now contains 7 kudzu seedlings.
+3/29/25 8:06:16p * Your pack of kudzu seedlings now contains 8 kudzu seedlings.
+3/29/25 8:06:17p * Your pack of kudzu seedlings now contains 9 kudzu seedlings.
+3/29/25 8:06:18p * Your pack of kudzu seedlings now contains 10 kudzu seedlings.
+3/29/25 8:06:19p * Your pack of kudzu seedlings now contains 11 kudzu seedlings.
+3/29/25 8:06:21p * You don't have any kudzu seedlings.
+3/29/25 8:06:21p All loose seeds stored.
+3/29/25 8:06:23p You slaughtered a Kudzu.
+3/29/25 8:06:24p You slaughtered a Kudzu.
+3/29/25 8:06:25p You slaughtered a Kudzu.
+3/29/25 8:06:25p You slaughtered a Kudzu.
+3/29/25 8:06:28p You slaughtered a Kudzu.
+3/29/25 8:06:28p You slaughtered a Kudzu.
+3/29/25 8:06:30p You slaughtered a Kudzu.
+3/29/25 8:06:30p You slaughtered a Kudzu.
+3/29/25 8:06:32p You slaughtered a Kudzu.
+3/29/25 8:06:34p You slaughtered a Kudzu.
+3/29/25 8:06:35p You slaughtered a Kudzu.
+3/29/25 8:06:37p You slaughtered a Kudzu.
+3/29/25 8:06:39p You slaughtered a Kudzu.
+3/29/25 8:06:40p You slaughtered a Kudzu.
+3/29/25 8:06:45p You slaughtered a Kudzu.
+3/29/25 8:06:46p You slaughtered a Kudzu.
+3/29/25 8:06:47p You slaughtered a Kudzu.
+3/29/25 8:06:47p You slaughtered a Kudzu.
+3/29/25 8:06:49p You slaughtered a Kudzu.
+3/29/25 8:06:50p You slaughtered a Kudzu.
+3/29/25 8:06:51p You slaughtered a Kudzu.
+3/29/25 8:06:52p You slaughtered a Kudzu.
+3/29/25 8:06:54p You slaughtered a Kudzu.
+3/29/25 8:06:56p You slaughtered a Kudzu.
+3/29/25 8:06:57p You slaughtered a Kudzu.
+3/29/25 8:06:58p * You pick up a kudzu seedling.
+3/29/25 8:07:00p You slaughtered a Kudzu.
+3/29/25 8:07:01p You slaughtered a Kudzu.
+3/29/25 8:07:02p You slaughtered a Kudzu.
+3/29/25 8:07:03p You slaughtered a Kudzu.
+3/29/25 8:07:04p You slaughtered a Kudzu.
+3/29/25 8:07:06p You slaughtered a Kudzu.
+3/29/25 8:07:07p You slaughtered a Kudzu.
+3/29/25 8:07:09p You slaughtered a Kudzu.
+3/29/25 8:07:11p You slaughtered a Kudzu.
+3/29/25 8:07:12p You slaughtered a Kudzu.
+3/29/25 8:07:13p You slaughtered a Kudzu.
+3/29/25 8:07:15p You slaughtered a Kudzu.
+3/29/25 8:07:16p You slaughtered a Kudzu.
+3/29/25 8:07:18p You slaughtered a Kudzu.
+3/29/25 8:07:19p You slaughtered a Bloodthorn.
+3/29/25 8:07:24p * You pick up a kudzu seedling.
+3/29/25 8:07:28p You slaughtered a Kudzu.
+3/29/25 8:07:29p You slaughtered a Kudzu.
+3/29/25 8:07:30p You slaughtered a Kudzu.
+3/29/25 8:07:31p You slaughtered a Kudzu.
+3/29/25 8:07:31p You slaughtered a Kudzu.
+3/29/25 8:07:31p * You pick up a kudzu seedling.
+3/29/25 8:07:33p You slaughtered a Kudzu.
+3/29/25 8:07:34p You slaughtered a Kudzu.
+3/29/25 8:07:35p * You pick up a kudzu seedling.
+3/29/25 8:07:35p You slaughtered a Kudzu.
+3/29/25 8:07:36p You slaughtered a Kudzu.
+3/29/25 8:07:38p You slaughtered a Kudzu.
+3/29/25 8:07:39p You slaughtered a Kudzu.
+3/29/25 8:07:40p * You pick up a kudzu seedling.
+3/29/25 8:07:40p You slaughtered a Kudzu.
+3/29/25 8:07:42p You slaughtered a Kudzu.
+3/29/25 8:07:48p * Storing loose seedlings.
+3/29/25 8:07:49p * Your pack of kudzu seedlings now contains 12 kudzu seedlings.
+3/29/25 8:07:50p * Your pack of kudzu seedlings now contains 13 kudzu seedlings.
+3/29/25 8:07:51p * Your pack of kudzu seedlings now contains 14 kudzu seedlings.
+3/29/25 8:07:52p * Your pack of kudzu seedlings now contains 15 kudzu seedlings.
+3/29/25 8:07:54p * Your pack of kudzu seedlings now contains 16 kudzu seedlings.
+3/29/25 8:07:55p * You don't have any kudzu seedlings.
+3/29/25 8:07:55p All loose seeds stored.
+3/29/25 8:08:06p * Your pack of kudzu seedlings now contains 15 kudzu seedlings.
+3/29/25 8:08:06p You plant a seedling.
+3/29/25 8:08:10p * Your pack of kudzu seedlings now contains 14 kudzu seedlings.
+3/29/25 8:08:10p You plant a seedling.
+3/29/25 8:08:13p * Your pack of kudzu seedlings now contains 13 kudzu seedlings.
+3/29/25 8:08:13p You plant a seedling.
+3/29/25 8:08:14p You found a bundle of wheat!
+3/29/25 8:08:22p * Your pack of kudzu seedlings now contains 12 kudzu seedlings.
+3/29/25 8:08:22p You plant a seedling.
+3/29/25 8:08:25p * Your pack of kudzu seedlings now contains 11 kudzu seedlings.
+3/29/25 8:08:25p You plant a seedling.
+3/29/25 8:08:27p * Your pack of kudzu seedlings now contains 10 kudzu seedlings.
+3/29/25 8:08:27p You plant a seedling.
+3/29/25 8:08:30p * Your pack of kudzu seedlings now contains 9 kudzu seedlings.
+3/29/25 8:08:30p You plant a seedling.
+3/29/25 8:08:32p * Your pack of kudzu seedlings now contains 8 kudzu seedlings.
+3/29/25 8:08:32p You plant a seedling.
+3/29/25 8:08:35p * Your pack of kudzu seedlings now contains 7 kudzu seedlings.
+3/29/25 8:08:35p You plant a seedling.
+3/29/25 8:08:38p * Your pack of kudzu seedlings now contains 6 kudzu seedlings.
+3/29/25 8:08:38p You plant a seedling.
+3/29/25 8:08:41p * Your pack of kudzu seedlings now contains 5 kudzu seedlings.
+3/29/25 8:08:41p You plant a seedling.
+3/29/25 8:08:43p * Your pack of kudzu seedlings now contains 4 kudzu seedlings.
+3/29/25 8:08:43p You plant a seedling.
+3/29/25 8:08:47p * Your pack of kudzu seedlings now contains 3 kudzu seedlings.
+3/29/25 8:08:47p You plant a seedling.
+3/29/25 8:08:50p * Your pack of kudzu seedlings now contains 2 kudzu seedlings.
+3/29/25 8:08:50p You plant a seedling.
+3/29/25 8:08:52p * Your pack of kudzu seedlings now contains one kudzu seedling.
+3/29/25 8:08:52p You plant a seedling.
+3/29/25 8:08:55p * You remove the last kudzu seedling from your pack of kudzu seedlings.
+3/29/25 8:08:55p You plant a seedling.
+3/29/25 8:08:57p No item named 'pack of kudzu seedlings <#7' found in the item list.
+3/29/25 8:08:57p No item named 'bag of kudzu seedlings <#1' found in the item list.
+3/29/25 8:08:57p No item named 'sack of kudzu seedlings <#1' found in the item list.
+3/29/25 8:08:58p You equip your pack of kudzu seedlings named “20”.
+3/29/25 8:08:58p * Your pack of kudzu seedlings now contains 19 kudzu seedlings.
+3/29/25 8:08:58p You plant a seedling.
+3/29/25 8:08:59p * Your pack of kudzu seedlings now contains 18 kudzu seedlings.
+3/29/25 8:08:59p You plant a seedling.
+3/29/25 8:13:05p * Storing loose seedlings.
+3/29/25 8:13:06p * You don't have any kudzu seedlings.
+3/29/25 8:13:06p All loose seeds stored.
+3/29/25 8:13:18p You drop your bundle of wheat.
+3/29/25 8:13:23p You slaughtered a Kudzu.
+3/29/25 8:13:24p You slaughtered a Kudzu.
+3/29/25 8:13:25p You slaughtered a Kudzu.
+3/29/25 8:13:26p You slaughtered a Kudzu.
+3/29/25 8:13:28p You slaughtered a Kudzu.
+3/29/25 8:13:29p You slaughtered a Kudzu.
+3/29/25 8:13:30p You slaughtered a Kudzu.
+3/29/25 8:13:31p You slaughtered a Kudzu.
+3/29/25 8:13:32p You slaughtered a Kudzu.
+3/29/25 8:13:34p You slaughtered a Kudzu.
+3/29/25 8:13:38p You slaughtered a Kudzu.
+3/29/25 8:13:39p You slaughtered a Kudzu.
+3/29/25 8:13:39p You slaughtered a Kudzu.
+3/29/25 8:13:42p You slaughtered a Kudzu.
+3/29/25 8:13:42p You slaughtered a Kudzu.
+3/29/25 8:13:43p You slaughtered a Kudzu.
+3/29/25 8:13:44p You slaughtered a Kudzu.
+3/29/25 8:13:45p You slaughtered a Kudzu.
+3/29/25 8:13:46p * You pick up a kudzu seedling.
+3/29/25 8:13:47p You slaughtered a Kudzu.
+3/29/25 8:13:48p * You pick up a kudzu seedling.
+3/29/25 8:13:49p You slaughtered a Kudzu.
+3/29/25 8:13:54p You slaughtered a Kudzu.
+3/29/25 8:13:55p You slaughtered a Kudzu.
+3/29/25 8:13:56p You slaughtered a Kudzu.
+3/29/25 8:13:56p * You pick up a kudzu seedling.
+3/29/25 8:13:56p You slaughtered a Kudzu.
+3/29/25 8:13:57p * You pick up a kudzu seedling.
+3/29/25 8:13:58p You slaughtered a Kudzu.
+3/29/25 8:13:59p You slaughtered a Kudzu.
+3/29/25 8:14:01p You slaughtered a Kudzu.
+3/29/25 8:14:02p You slaughtered a Kudzu.
+3/29/25 8:14:04p You slaughtered a Kudzu.
+3/29/25 8:14:05p You slaughtered a Kudzu.
+3/29/25 8:14:06p * You pick up a kudzu seedling.
+3/29/25 8:14:06p You slaughtered a Kudzu.
+3/29/25 8:14:08p You slaughtered a Kudzu.
+3/29/25 8:14:15p * Storing loose seedlings.
+3/29/25 8:14:15p * Your pack of kudzu seedlings now contains 19 kudzu seedlings.
+3/29/25 8:14:16p * Your pack of kudzu seedlings now contains 20 kudzu seedlings.
+3/29/25 8:14:19p You equip your pack of kudzu seedlings named “0”.
+3/29/25 8:14:19p * Your pack of kudzu seedlings now contains one kudzu seedling.
+3/29/25 8:14:20p * Your pack of kudzu seedlings now contains 2 kudzu seedlings.
+3/29/25 8:14:21p * Your pack of kudzu seedlings now contains 3 kudzu seedlings.
+3/29/25 8:14:22p * You don't have any kudzu seedlings.
+3/29/25 8:14:22p All loose seeds stored.
+3/29/25 8:14:24p You slaughtered a Kudzu.
+3/29/25 8:14:26p You slaughtered a Kudzu.
+3/29/25 8:14:26p You slaughtered a Kudzu.
+3/29/25 8:14:27p You slaughtered a Kudzu.
+3/29/25 8:14:28p You slaughtered a Kudzu.
+3/29/25 8:14:29p You slaughtered a Kudzu.
+3/29/25 8:14:31p You slaughtered a Kudzu.
+3/29/25 8:14:32p You slaughtered a Kudzu.
+3/29/25 8:14:34p You slaughtered a Kudzu.
+3/29/25 8:14:37p You slaughtered a Kudzu.
+3/29/25 8:14:42p You slaughtered a Kudzu.
+3/29/25 8:14:42p You slaughtered a Kudzu.
+3/29/25 8:14:43p You slaughtered a Kudzu.
+3/29/25 8:14:43p * You pick up a kudzu seedling.
+3/29/25 8:14:44p You slaughtered a Kudzu.
+3/29/25 8:14:45p You slaughtered a Kudzu.
+3/29/25 8:14:46p * You pick up a kudzu seedling.
+3/29/25 8:14:46p You slaughtered a Kudzu.
+3/29/25 8:14:48p You slaughtered a Kudzu.
+3/29/25 8:14:49p You slaughtered a Kudzu.
+3/29/25 8:14:50p You slaughtered a Kudzu.
+3/29/25 8:14:52p You slaughtered a Kudzu.
+3/29/25 8:14:55p You slaughtered a Kudzu.
+3/29/25 8:14:56p * You pick up a kudzu seedling.
+3/29/25 8:14:56p You slaughtered a Kudzu.
+3/29/25 8:14:57p You slaughtered a Kudzu.
+3/29/25 8:14:58p You slaughtered a Kudzu.
+3/29/25 8:15:00p You slaughtered a Kudzu.
+3/29/25 8:15:01p * You pick up a kudzu seedling.
+3/29/25 8:15:01p You slaughtered a Kudzu.
+3/29/25 8:15:03p You slaughtered a Kudzu.
+3/29/25 8:15:05p You slaughtered a Kudzu.
+3/29/25 8:15:07p You slaughtered a Kudzu.
+3/29/25 8:15:08p You slaughtered a Kudzu.
+3/29/25 8:15:10p You slaughtered a Kudzu.
+3/29/25 8:15:12p You slaughtered a Kudzu.
+3/29/25 8:15:13p You slaughtered a Kudzu.
+3/29/25 8:15:15p * You pick up a kudzu seedling.
+3/29/25 8:15:16p You just received anonymous good karma.
+3/29/25 8:15:20p * Storing loose seedlings.
+3/29/25 8:15:20p * Your pack of kudzu seedlings now contains 4 kudzu seedlings.
+3/29/25 8:15:21p * Your pack of kudzu seedlings now contains 5 kudzu seedlings.
+3/29/25 8:15:22p * Your pack of kudzu seedlings now contains 6 kudzu seedlings.
+3/29/25 8:15:24p * Your pack of kudzu seedlings now contains 7 kudzu seedlings.
+3/29/25 8:15:25p * Your pack of kudzu seedlings now contains 8 kudzu seedlings.
+3/29/25 8:15:26p * You don't have any kudzu seedlings.
+3/29/25 8:15:26p All loose seeds stored.
+3/29/25 8:15:28p You slaughtered a Kudzu.
+3/29/25 8:15:29p You slaughtered a Kudzu.
+3/29/25 8:15:30p You slaughtered a Kudzu.
+3/29/25 8:15:31p You slaughtered a Kudzu.
+3/29/25 8:15:33p You slaughtered a Kudzu.
+3/29/25 8:15:34p You slaughtered a Kudzu.
+3/29/25 8:15:35p * You pick up a kudzu seedling.
+3/29/25 8:15:35p You slaughtered a Kudzu.
+3/29/25 8:15:37p You slaughtered a Kudzu.
+3/29/25 8:15:38p * You pick up a kudzu seedling.
+3/29/25 8:15:38p You slaughtered a Kudzu.
+3/29/25 8:15:39p You slaughtered a Kudzu.
+3/29/25 8:15:44p You slaughtered a Kudzu.
+3/29/25 8:15:45p You slaughtered a Kudzu.
+3/29/25 8:15:46p You slaughtered a Kudzu.
+3/29/25 8:15:47p You slaughtered a Kudzu.
+3/29/25 8:15:48p You slaughtered a Kudzu.
+3/29/25 8:15:49p You slaughtered a Kudzu.
+3/29/25 8:15:51p You slaughtered a Kudzu.
+3/29/25 8:15:53p You slaughtered a Kudzu.
+3/29/25 8:15:54p You slaughtered a Kudzu.
+3/29/25 8:15:56p You slaughtered a Kudzu.
+3/29/25 8:15:57p * You pick up a kudzu seedling.
+3/29/25 8:15:58p You slaughtered a Kudzu.
+3/29/25 8:15:59p You slaughtered a Kudzu.
+3/29/25 8:16:01p You slaughtered a Kudzu.
+3/29/25 8:16:02p You slaughtered a Kudzu.
+3/29/25 8:16:08p You slaughtered a Kudzu.
+3/29/25 8:16:09p You slaughtered a Kudzu.
+3/29/25 8:16:10p You slaughtered a Kudzu.
+3/29/25 8:16:11p You slaughtered a Kudzu.
+3/29/25 8:16:12p You slaughtered a Kudzu.
+3/29/25 8:16:13p You slaughtered a Kudzu.
+3/29/25 8:16:14p You slaughtered a Kudzu.
+3/29/25 8:16:15p You slaughtered a Kudzu.
+3/29/25 8:16:17p You slaughtered a Kudzu.
+3/29/25 8:16:22p You slaughtered a Kudzu.
+3/29/25 8:16:23p You slaughtered a Kudzu.
+3/29/25 8:16:23p You slaughtered a Kudzu.
+3/29/25 8:16:24p * You pick up a kudzu seedling.
+3/29/25 8:16:24p You slaughtered a Kudzu.
+3/29/25 8:16:25p * You pick up a kudzu seedling.
+3/29/25 8:16:25p You slaughtered a Kudzu.
+3/29/25 8:16:27p You slaughtered a Kudzu.
+3/29/25 8:16:29p You slaughtered a Kudzu.
+3/29/25 8:16:33p You slaughtered a Kudzu.
+3/29/25 8:16:35p You slaughtered a Kudzu.
+3/29/25 8:16:36p You slaughtered a Kudzu.
+3/29/25 8:16:37p * You pick up a kudzu seedling.
+3/29/25 8:16:40p You slaughtered a Kudzu.
+3/29/25 8:16:41p You slaughtered a Kudzu.
+3/29/25 8:16:42p You slaughtered a Kudzu.
+3/29/25 8:16:43p You slaughtered a Kudzu.
+3/29/25 8:16:44p You slaughtered a Kudzu.
+3/29/25 8:16:45p You slaughtered a Kudzu.
+3/29/25 8:16:46p You slaughtered a Kudzu.
+3/29/25 8:16:48p You slaughtered a Kudzu.
+3/29/25 8:16:49p You slaughtered a Kudzu.
+3/29/25 8:16:51p You slaughtered a Kudzu.
+3/29/25 8:16:52p You slaughtered a Kudzu.
+3/29/25 8:16:53p * You pick up a kudzu seedling.
+3/29/25 8:16:54p You slaughtered a Kudzu.
+3/29/25 8:17:00p * Storing loose seedlings.
+3/29/25 8:17:01p * Your pack of kudzu seedlings now contains 9 kudzu seedlings.
+3/29/25 8:17:02p * Your pack of kudzu seedlings now contains 10 kudzu seedlings.
+3/29/25 8:17:03p * Your pack of kudzu seedlings now contains 11 kudzu seedlings.
+3/29/25 8:17:04p * Your pack of kudzu seedlings now contains 12 kudzu seedlings.
+3/29/25 8:17:05p * Your pack of kudzu seedlings now contains 13 kudzu seedlings.
+3/29/25 8:17:07p * Your pack of kudzu seedlings now contains 14 kudzu seedlings.
+3/29/25 8:17:08p * Your pack of kudzu seedlings now contains 15 kudzu seedlings.
+3/29/25 8:17:09p * You don't have any kudzu seedlings.
+3/29/25 8:17:09p All loose seeds stored.
+3/29/25 8:17:11p You slaughtered a Kudzu.
+3/29/25 8:17:11p You slaughtered a Kudzu.
+3/29/25 8:17:12p You slaughtered a Kudzu.
+3/29/25 8:17:13p You slaughtered a Kudzu.
+3/29/25 8:17:14p You slaughtered a Kudzu.
+3/29/25 8:17:15p You slaughtered a Kudzu.
+3/29/25 8:17:17p You slaughtered a Kudzu.
+3/29/25 8:17:18p You slaughtered a Kudzu.
+3/29/25 8:17:20p You slaughtered a Kudzu.
+3/29/25 8:17:22p You slaughtered a Kudzu.
+3/29/25 8:17:23p You slaughtered a Kudzu.
+3/29/25 8:17:28p You slaughtered a Kudzu.
+3/29/25 8:17:29p You slaughtered a Kudzu.
+3/29/25 8:17:29p * You pick up a kudzu seedling.
+3/29/25 8:17:30p You slaughtered a Kudzu.
+3/29/25 8:17:35p You slaughtered a Kudzu.
+3/29/25 8:17:36p You slaughtered a Kudzu.
+3/29/25 8:17:37p You slaughtered a Kudzu.
+3/29/25 8:17:43p You slaughtered a Kudzu.
+3/29/25 8:17:43p You slaughtered a Kudzu.
+3/29/25 8:17:44p You slaughtered a Kudzu.
+3/29/25 8:17:45p You slaughtered a Kudzu.
+3/29/25 8:17:47p You slaughtered a Kudzu.
+3/29/25 8:17:48p You slaughtered a Kudzu.
+3/29/25 8:17:54p You slaughtered a Kudzu.
+3/29/25 8:17:55p * You pick up a kudzu seedling.
+3/29/25 8:17:55p You slaughtered a Kudzu.
+3/29/25 8:17:56p You slaughtered a Kudzu.
+3/29/25 8:17:57p * You pick up a kudzu seedling.
+3/29/25 8:17:57p You slaughtered a Kudzu.
+3/29/25 8:17:58p You slaughtered a Kudzu.
+3/29/25 8:17:59p You slaughtered a Kudzu.
+3/29/25 8:18:00p You slaughtered a Kudzu.
+3/29/25 8:18:02p You slaughtered a Kudzu.
+3/29/25 8:18:03p You slaughtered a Kudzu.
+3/29/25 8:18:05p You slaughtered a Kudzu.
+3/29/25 8:18:06p You slaughtered a Kudzu.
+3/29/25 8:18:07p You slaughtered a Kudzu.
+3/29/25 8:18:12p You slaughtered a Kudzu.
+3/29/25 8:18:13p You slaughtered a Kudzu.
+3/29/25 8:18:14p You slaughtered a Kudzu.
+3/29/25 8:18:15p You slaughtered a Kudzu.
+3/29/25 8:18:16p You slaughtered a Kudzu.
+3/29/25 8:18:19p You slaughtered a Kudzu.
+3/29/25 8:18:20p You slaughtered a Kudzu.
+3/29/25 8:18:21p You slaughtered a Kudzu.
+3/29/25 8:18:22p You slaughtered a Kudzu.
+3/29/25 8:18:23p You slaughtered a Kudzu.
+3/29/25 8:18:24p You slaughtered a Kudzu.
+3/29/25 8:18:26p You slaughtered a Kudzu.
+3/29/25 8:18:31p You slaughtered a Kudzu.
+3/29/25 8:18:32p You slaughtered an Ona Chigger.
+3/29/25 8:18:33p You slaughtered a Kudzu.
+3/29/25 8:18:34p You slaughtered a Kudzu.
+3/29/25 8:18:35p You slaughtered a Kudzu.
+3/29/25 8:18:36p You slaughtered a Kudzu.
+3/29/25 8:18:39p You slaughtered a Kudzu.
+3/29/25 8:18:40p You slaughtered a Kudzu.
+3/29/25 8:18:41p You slaughtered a Kudzu.
+3/29/25 8:18:43p You slaughtered a Kudzu.
+3/29/25 8:18:44p You slaughtered a Kudzu.
+3/29/25 8:18:46p You slaughtered a Kudzu.
+3/29/25 8:18:47p * You pick up a kudzu seedling.
+3/29/25 8:18:48p You slaughtered a Kudzu.
+3/29/25 8:18:49p You slaughtered a Kudzu.
+3/29/25 8:18:52p You slaughtered a Kudzu.
+3/29/25 8:18:54p You slaughtered a Kudzu.
+3/29/25 8:19:00p You slaughtered a Kudzu.
+3/29/25 8:19:01p You slaughtered a Kudzu.
+3/29/25 8:19:01p You slaughtered a Kudzu.
+3/29/25 8:19:02p You slaughtered a Kudzu.
+3/29/25 8:19:04p You slaughtered a Kudzu.
+3/29/25 8:19:06p You slaughtered a Kudzu.
+3/29/25 8:19:08p You slaughtered a Kudzu.
+3/29/25 8:19:10p You slaughtered a Kudzu.
+3/29/25 8:19:11p You slaughtered a Kudzu.
+3/29/25 8:19:12p You slaughtered a Kudzu.
+3/29/25 8:19:13p You slaughtered a Kudzu.
+3/29/25 8:19:15p You slaughtered a Kudzu.
+3/29/25 8:19:16p You slaughtered a Kudzu.
+3/29/25 8:19:17p * You pick up a kudzu seedling.
+3/29/25 8:19:17p You slaughtered a Kudzu.
+3/29/25 8:19:18p * You pick up a kudzu seedling.
+3/29/25 8:19:18p You slaughtered a Kudzu.
+3/29/25 8:19:20p You slaughtered a Kudzu.
+3/29/25 8:19:21p You slaughtered a Vermine.
+3/29/25 8:19:30p * Storing loose seedlings.
+3/29/25 8:19:31p * Your pack of kudzu seedlings now contains 16 kudzu seedlings.
+3/29/25 8:19:32p * Your pack of kudzu seedlings now contains 17 kudzu seedlings.
+3/29/25 8:19:33p * Your pack of kudzu seedlings now contains 18 kudzu seedlings.
+3/29/25 8:19:34p * Your pack of kudzu seedlings now contains 19 kudzu seedlings.
+3/29/25 8:19:35p * Your pack of kudzu seedlings now contains 20 kudzu seedlings.
+3/29/25 8:19:37p You equip your pack of kudzu seedlings.
+3/29/25 8:19:37p * Your pack of kudzu seedlings now contains one kudzu seedling.
+3/29/25 8:19:38p * You don't have any kudzu seedlings.
+3/29/25 8:19:38p All loose seeds stored.
+3/29/25 8:20:55p Samagina asks, "how much does a full bag of zu go for?"
+3/29/25 8:21:04p (Yokaru shrugs)
+3/29/25 8:21:09p Yokaru says, "i have no idea to be honest"
+3/29/25 8:21:22p Yokaru says, "kudzus arent used as much anymore i think"
+3/29/25 8:21:38p Samagina says, "no they are"
+3/29/25 8:21:41p Samagina says, "alot"
+3/29/25 8:21:50p Yokaru says, "oh ? okay.. didnt know that"
+3/29/25 8:22:02p Samagina says, "they usethem on every mosey"
+3/29/25 8:22:35p Yokaru says, "hmm okay"
+3/29/25 8:22:40p Yokaru says, "well i mostly hunt alone so.. :p"
+3/29/25 8:22:59p Yokaru ponders, "afk a few"
+3/29/25 8:23:03p Catan is sharing experiences with you.
+3/29/25 8:23:37p (Catan waves)
+3/29/25 8:24:04p • /SLEEP when you wish to begin studying.
+3/29/25 8:24:08p • /SLEEP when you wish to begin studying.
+3/29/25 8:24:12p Use \SLEEP again when you return.
+3/29/25 8:24:12p You are done adventuring for a while and will be studying here.
+3/29/25 8:24:13p You have been disconnected from Clan Lord.
+3/29/25 8:24:13p • You will benefit from studying here while you are off-line.
+3/29/25 8:24:14p *** We are no longer connected to the Clan Lord game server. ***

@@ -1,0 +1,85 @@
+
+12/6/24 4:47:03p Welcome to Clan Lord, Faticus!
+12/6/24 4:47:03p Type \HELP for a list of commands.
+12/6/24 4:47:03p • You gain experience from your recent studies.
+12/6/24 4:47:04p Faticus is now Clanning.
+12/6/24 4:47:04p You have been studying for 19 days, 2 hours, 16 minutes.
+12/6/24 4:47:06p •You notice yourself healing others faster.
+12/6/24 4:47:06p It's 8:06am on Sombdi, day 10 of Autumn, 639.
+12/6/24 4:47:07p Friends online: none.
+12/6/24 4:47:08p You are the only member of Black Phoenix clanning.
+12/6/24 4:47:08p • What’s New: https://deltatao.com/clanlord/news
+12/6/24 4:47:18p * Tip of the day: You can usually refer to another player using the first few letters of their name. Leave out any spaces or punctuation. (Use /OPTIONS to turn tips off.)
+12/6/24 4:47:21p • /SLEEP when you wish to begin studying.
+12/6/24 4:47:28p Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/6/24 4:47:36p Aitnos asks, "Would you like to apply some of your learning to Faustus’s lessons?"
+12/6/24 4:47:40p Aitnos waits for Faticus’s answer.
+12/6/24 4:47:44p \OPTIONS <option> <value> to set your preference for that option. \OPTIONS LIST to list all options and their current values.  \OPTIONS ? <option> for help with that option.
+12/6/24 4:47:46p Aitnos says, "Never mind, then. Good luck in your studies."
+12/6/24 4:47:51p Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/6/24 4:47:52p \OPTIONS <option> <value> to set your preference for that option. \OPTIONS LIST to list all options and their current values.  \OPTIONS ? <option> for help with that option.
+12/6/24 4:48:02p \OPTIONS <option> <value> to set your preference for that option. \OPTIONS LIST to list all options and their current values.  \OPTIONS ? <option> for help with that option.
+12/6/24 4:48:08p Options: speech speed (slow), tip of the day (on), skinning (on), jury duty (off), strongWeather (on), icon (n/a).
+12/6/24 4:48:24p \OPTIONS <option> <value> to set your preference for that option. \OPTIONS LIST to list all options and their current values.  \OPTIONS ? <option> for help with that option.
+12/6/24 4:48:31p NPC speech speed set to zoom.
+12/6/24 4:48:36p •You notice yourself healing others faster.
+12/6/24 4:48:39p Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/6/24 4:48:39p Aitnos asks, "Would you like to apply some of your learning to Faustus’s lessons?"
+12/6/24 4:48:40p Faticus says, "yes"
+12/6/24 4:48:41p Aitnos says, "Congratulations, Faticus. You should now understand much more of Faustus’s teachings."
+12/6/24 4:48:42p Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/6/24 4:48:42p Aitnos asks, "Would you like to apply some of your learning to Faustus’s lessons?"
+12/6/24 4:48:43p Faticus says, "yes"
+12/6/24 4:48:44p Aitnos says, "Congratulations, Faticus. You should now understand much more of Faustus’s teachings."
+12/6/24 4:48:45p Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/6/24 4:48:45p Aitnos asks, "Would you like to apply some of your learning to Faustus’s lessons?"
+12/6/24 4:48:46p Faticus says, "yes"
+12/6/24 4:48:47p Aitnos says, "Congratulations, Faticus. You should now understand more of Faustus’s teachings."
+12/6/24 4:48:47p Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/6/24 4:48:48p Aitnos says, "You have not yet learned enough for Faustus’s lesson."
+12/6/24 4:48:48p Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+12/6/24 4:48:49p Aitnos says, "You have not yet learned enough for Faustus’s lesson."
+12/6/24 4:48:56p Asterru says, "Faticus, you are close to mastering Faustus’s lesson."
+12/6/24 4:48:56p * |[==========]....| 75%-88%
+12/6/24 4:49:13p Faustus says, "Hail, Faticus. Your persistence is paying off."
+12/6/24 4:49:13p * Faustus : 20-29.
+12/6/24 4:49:14p Faustus says, "I can teach you to improve your healing speed."
+12/6/24 4:49:14p Faustus says, "You will learn as you practice."
+12/6/24 4:49:14p Faustus asks, "Are you sure you would like to train with me?"
+12/6/24 4:49:15p Gorvin is no longer Clanning.
+12/6/24 4:49:28p You killed a Scavenger Bird.
+12/6/24 4:49:49p You killed a Rat.
+12/6/24 4:49:56p You killed a Vermine.
+12/6/24 4:50:02p You killed a Rat.
+12/6/24 4:50:06p •You notice yourself healing others faster.
+12/6/24 4:50:09p You killed a Rat.
+12/6/24 4:50:18p You killed a Rat.
+12/6/24 4:50:29p You killed a Vermine.
+12/6/24 4:50:31p You killed a Vermine.
+12/6/24 4:50:35p You killed a Rat.
+12/6/24 4:50:39p You equip your moonstone.
+12/6/24 4:51:06p You equip your roguewood club.
+12/6/24 4:51:09p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/6/24 4:51:09p Faticus has fallen to a Vermine.
+12/6/24 4:51:09p •You are easily healable.
+12/6/24 4:51:22p A Rat rips at your flesh.
+12/6/24 4:51:31p A Rat chews on your eye sockets.
+12/6/24 4:51:40p A Rat plucks at your wounds.
+12/6/24 4:51:45p Mimo is now Clanning.
+12/6/24 4:52:18p Mimo starts dragging you.
+12/6/24 4:52:33p A Rat bites your gaping mouth.
+12/6/24 4:52:44p A Rat nibbles your organs.
+12/6/24 4:52:55p Gorvin is now Clanning.
+12/6/24 4:53:04p A Rat chews on your flesh.
+12/6/24 4:53:16p Gorvin is no longer Clanning.
+12/6/24 4:53:46p A Rat bites your organs.
+12/6/24 4:54:03p Mimo starts dragging you.
+12/6/24 4:54:28p •You sense healing energy from Mimo.
+12/6/24 4:54:34p • Your clothing fades.
+12/6/24 4:55:06p Mimo is no longer Clanning.
+12/6/24 4:55:21p • /SLEEP when you wish to begin studying.
+12/6/24 4:55:25p Use \SLEEP again when you return.
+12/6/24 4:55:25p You are done adventuring for a while and will be staying here.
+12/6/24 4:55:26p You have been disconnected from Clan Lord.
+12/6/24 4:55:26p • You will benefit from staying here while you are off-line.
+12/6/24 4:55:26p *** We are no longer connected to the Clan Lord game server. ***

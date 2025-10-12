@@ -1,0 +1,851 @@
+
+6/28/25 6:48:04p * Your pair of pants named “dark grey” is in pretty good shape.
+6/28/25 6:48:04p * Your pair of shoes named “purple” is in pretty good shape.
+6/28/25 6:48:04p * Your shirt named “dark grey” is in pretty good shape.
+6/28/25 6:48:04p Welcome to Clan Lord, Grando!
+6/28/25 6:48:04p Type \HELP for a list of commands.
+6/28/25 6:48:04p • You gain experience from your recent studies.
+6/28/25 6:48:05p Grando is now Clanning.
+6/28/25 6:48:05p You have been studying for 4 days, 22 hours, 8 minutes.
+6/28/25 6:48:07p It's 5:27am on Lundi, day 35 of Winter, 642.
+6/28/25 6:48:08p Friends online: none.
+6/28/25 6:48:08p •You learn to channel energy from the world more efficiently.
+6/28/25 6:48:09p You are the only member of Black Phoenix clanning.
+6/28/25 6:48:09p • What’s New: https://deltatao.com/clanlord/news
+6/28/25 6:48:19p * Tip of the day: Watch your balance. When it’s low, beasts can hit you more easily. (Use /OPTIONS to turn tips off.)
+6/28/25 6:49:09p You slaughtered a Leech.
+6/28/25 6:49:10p You slaughtered a Leech.
+6/28/25 6:49:10p You slaughtered a Leech.
+6/28/25 6:49:11p You slaughtered a Leech.
+6/28/25 6:49:12p You slaughtered a Winged Snake.
+6/28/25 6:49:13p You slaughtered a Leech.
+6/28/25 6:49:28p * You need a breath of air!
+6/28/25 6:49:29p You slaughtered a Sand Ray.
+6/28/25 6:49:30p You slaughtered a Sand Ray.
+6/28/25 6:50:22p Mimo is now Clanning.
+6/28/25 6:50:55p You have 14 coins.
+6/28/25 6:52:52p Cat Food is now Clanning.
+6/28/25 6:53:56p You have 14 coins.
+6/28/25 6:56:04p  Katreesa added to Karma list
+6/28/25 6:56:10p  Mork added to Karma list
+6/28/25 6:56:13p  Shobaffum added to Karma list
+6/28/25 6:56:14p  Silky added to Karma list
+6/28/25 6:56:15p  Wolf Master added to Karma list
+6/28/25 6:56:27p * Karma Message set to  . 
+6/28/25 6:56:30p * Auto Thanker Online!
+6/28/25 6:56:30p Katreesa is too far away for your explanation.
+6/28/25 6:56:30p You gave signed good karma to Katreesa.
+6/28/25 6:56:42p You begin sharing your experiences with Mimo.
+6/28/25 6:56:45p You begin sharing your experiences with Cat Food.
+6/28/25 6:56:45p You are sharing experiences with Cat Food and Mimo.
+6/28/25 6:56:56p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/28/25 6:56:56p Grando has fallen to a Watery Guardian.
+6/28/25 6:57:12p You have 14 coins.
+6/28/25 6:58:07p Cat Food has fallen to a Watery Guardian.
+6/28/25 6:58:18p Cat Food is no longer fallen.
+6/28/25 7:00:47p You have 14 coins.
+6/28/25 7:01:12p Grando says, "c heal me"
+6/28/25 7:01:13p •You sense healing energy from Mimo.
+6/28/25 7:01:13p •You sense healing energy from Cat Food.
+6/28/25 7:01:56p Grando says, "c area"
+6/28/25 7:02:17p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/28/25 7:02:17p Grando has fallen to a Watery Guardian.
+6/28/25 7:02:20p Grando says, "c heal me"
+6/28/25 7:02:20p •You sense healing energy from Mimo.
+6/28/25 7:02:20p •You sense healing energy from Cat Food.
+6/28/25 7:02:31p Mork is too far away for your explanation.
+6/28/25 7:02:31p You gave signed good karma to Mork.
+6/28/25 7:02:33p Grando says, "c area"
+6/28/25 7:03:43p You have 14 coins.
+6/28/25 7:03:54p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/28/25 7:03:54p Grando has fallen to a Watery Guardian.
+6/28/25 7:04:30p Grando says, "c heal me"
+6/28/25 7:04:40p Grando says, "c area"
+6/28/25 7:06:40p Grando says, "c heal me"
+6/28/25 7:06:40p You have 14 coins.
+6/28/25 7:08:31p Shobaffum is too far away for your explanation.
+6/28/25 7:08:31p You gave signed good karma to Shobaffum.
+6/28/25 7:08:48p You slaughtered a Water Burst.
+6/28/25 7:08:48p You slaughtered a Water Burst.
+6/28/25 7:08:53p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/28/25 7:08:53p Grando has fallen to a Watery Guardian.
+6/28/25 7:09:52p Grando says, "c heal me"
+6/28/25 7:09:53p •You sense healing energy from Mimo.
+6/28/25 7:09:53p •You sense healing energy from Cat Food.
+6/28/25 7:10:02p You have 14 coins.
+6/28/25 7:10:37p Grando says, "c area"
+6/28/25 7:10:51p You killed a Watery Guardian.
+6/28/25 7:12:36p You slaughtered a Water Burst.
+6/28/25 7:12:48p Grando says, "c heal me"
+6/28/25 7:12:48p •You sense healing energy from Mimo.
+6/28/25 7:12:48p •You sense healing energy from Cat Food.
+6/28/25 7:12:52p You have 14 coins.
+6/28/25 7:13:10p You dispatched a Watery Guardian.
+6/28/25 7:13:16p Grando says, "c heal me"
+6/28/25 7:13:16p •You sense healing energy from Mimo.
+6/28/25 7:13:16p •You sense healing energy from Cat Food.
+6/28/25 7:13:17p Grando says, "c heal me"
+6/28/25 7:13:43p Grando says, "c area"
+6/28/25 7:13:52p You slaughtered a Water Burst.
+6/28/25 7:13:58p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/28/25 7:13:58p Grando has fallen to a Watery Guardian.
+6/28/25 7:14:02p Grando says, "c heal me"
+6/28/25 7:14:03p •You sense healing energy from Mimo.
+6/28/25 7:14:03p •You sense healing energy from Cat Food.
+6/28/25 7:14:32p Silky is too far away for your explanation.
+6/28/25 7:14:32p You gave signed good karma to Silky.
+6/28/25 7:14:56p Grando says, "c area"
+6/28/25 7:15:04p You dispatched a Watery Guardian.
+6/28/25 7:15:16p You killed a Watery Guardian.
+6/28/25 7:15:16p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/28/25 7:15:17p Grando has fallen to a Watery Guardian.
+6/28/25 7:15:21p Grando says, "c heal me"
+6/28/25 7:15:21p •You sense healing energy from Mimo.
+6/28/25 7:15:21p •You sense healing energy from Cat Food.
+6/28/25 7:15:42p You have 14 coins.
+6/28/25 7:16:17p Grando says, "c area"
+6/28/25 7:16:40p Grando says, "c heal me"
+6/28/25 7:16:41p •You sense healing energy from Mimo.
+6/28/25 7:16:41p •You sense healing energy from Cat Food.
+6/28/25 7:17:05p Grando says, "c area"
+6/28/25 7:17:20p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/28/25 7:17:20p Grando has fallen to a Watery Guardian.
+6/28/25 7:17:23p Grando says, "c heal me"
+6/28/25 7:17:24p •You sense healing energy from Mimo.
+6/28/25 7:17:24p •You sense healing energy from Cat Food.
+6/28/25 7:18:10p Grando says, "c area"
+6/28/25 7:18:30p You have 14 coins.
+6/28/25 7:18:46p You killed a Watery Guardian.
+6/28/25 7:18:46p You slaughtered a Water Burst.
+6/28/25 7:20:33p Wolf Master is too far away for your explanation.
+6/28/25 7:20:33p You gave signed good karma to Wolf Master.
+6/28/25 7:21:17p Grando says, "c heal me"
+6/28/25 7:21:17p You have 14 coins.
+6/28/25 7:21:17p •You sense healing energy from Mimo.
+6/28/25 7:21:17p •You sense healing energy from Cat Food.
+6/28/25 7:22:01p • You experiment with a new fighting style.
+6/28/25 7:22:01p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/28/25 7:22:02p Grando has fallen to a Watery Guardian.
+6/28/25 7:22:04p Grando says, "c heal me"
+6/28/25 7:22:05p •You sense healing energy from Mimo.
+6/28/25 7:22:05p •You sense healing energy from Cat Food.
+6/28/25 7:22:56p Grando says, "c area"
+6/28/25 7:23:00p •The Sun rises.
+6/28/25 7:23:04p You killed a Watery Guardian.
+6/28/25 7:24:05p You have 14 coins.
+6/28/25 7:24:34p Grando says, "c heal me"
+6/28/25 7:24:35p •You sense healing energy from Mimo.
+6/28/25 7:24:35p •You sense healing energy from Cat Food.
+6/28/25 7:26:34p Katreesa is too far away for your explanation.
+6/28/25 7:26:34p You gave signed good karma to Katreesa.
+6/28/25 7:26:35p You killed a Watery Guardian.
+6/28/25 7:26:39p Forbeen says, "Honored guest, Master Lugubrion regretfully informs me that you are not permitted beyond this point."
+6/28/25 7:26:40p Forbeen says, "Honored guest, Master Lugubrion regretfully informs me that you are not permitted beyond this point."
+6/28/25 7:26:44p Grando says, "c heal me"
+6/28/25 7:26:45p •You sense healing energy from Mimo.
+6/28/25 7:26:45p •You sense healing energy from Cat Food.
+6/28/25 7:26:53p You have 14 coins.
+6/28/25 7:27:05p Grando says, "c area"
+6/28/25 7:27:14p • You have some things to learn about the ways of the Watery Guardian.
+6/28/25 7:27:14p You dispatched a Watery Guardian.
+6/28/25 7:27:30p Grando says, "c heal me"
+6/28/25 7:27:31p •You sense healing energy from Mimo.
+6/28/25 7:27:31p •You sense healing energy from Cat Food.
+6/28/25 7:28:52p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/28/25 7:28:52p Grando has fallen to a Watery Guardian.
+6/28/25 7:28:54p Grando says, "c heal me"
+6/28/25 7:28:55p •You sense healing energy from Mimo.
+6/28/25 7:28:55p •You sense healing energy from Cat Food.
+6/28/25 7:29:41p You have 14 coins.
+6/28/25 7:30:42p Grando says, "c heal me"
+6/28/25 7:30:42p •You sense healing energy from Mimo.
+6/28/25 7:30:42p •You sense healing energy from Cat Food.
+6/28/25 7:31:05p Grando says, "c area"
+6/28/25 7:32:28p You have 14 coins.
+6/28/25 7:32:35p Mork is too far away for your explanation.
+6/28/25 7:32:35p You gave signed good karma to Mork.
+6/28/25 7:32:41p You killed a Watery Guardian.
+6/28/25 7:32:51p Grando says, "c heal me"
+6/28/25 7:32:51p •You sense healing energy from Mimo.
+6/28/25 7:32:51p •You sense healing energy from Cat Food.
+6/28/25 7:33:25p Grando says, "c area"
+6/28/25 7:33:29p You slaughtered a Water Burst.
+6/28/25 7:33:36p You killed a Watery Guardian.
+6/28/25 7:33:44p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/28/25 7:33:44p Grando has fallen to a Watery Guardian.
+6/28/25 7:34:10p Grando says, "c heal me"
+6/28/25 7:34:10p •You sense healing energy from Mimo.
+6/28/25 7:34:10p •You sense healing energy from Cat Food.
+6/28/25 7:35:13p Grando says, "c area"
+6/28/25 7:35:20p You killed a Watery Guardian.
+6/28/25 7:35:22p You have 14 coins.
+6/28/25 7:35:38p Grando says, "c heal me"
+6/28/25 7:35:39p •You sense healing energy from Mimo.
+6/28/25 7:35:39p •You sense healing energy from Cat Food.
+6/28/25 7:36:19p Grando says, "c area"
+6/28/25 7:36:28p You dispatched a Watery Guardian.
+6/28/25 7:38:06p You killed a Watery Guardian.
+6/28/25 7:38:13p You have 14 coins.
+6/28/25 7:38:35p Shobaffum is too far away for your explanation.
+6/28/25 7:38:35p You gave signed good karma to Shobaffum.
+6/28/25 7:38:38p You slaughtered a Water Burst.
+6/28/25 7:38:42p Grando says, "c heal me"
+6/28/25 7:38:43p •You sense healing energy from Mimo.
+6/28/25 7:38:43p •You sense healing energy from Cat Food.
+6/28/25 7:40:34p Grando says, "c heal me"
+6/28/25 7:40:34p •You sense healing energy from Mimo.
+6/28/25 7:40:34p •You sense healing energy from Cat Food.
+6/28/25 7:40:43p •You gain experience.
+6/28/25 7:41:07p You have 14 coins.
+6/28/25 7:41:22p Grando says, "c area"
+6/28/25 7:41:32p You killed a Watery Guardian.
+6/28/25 7:41:37p You dispatched a Watery Guardian.
+6/28/25 7:42:01p You dispatched a Watery Guardian.
+6/28/25 7:42:07p Grando says, "c heal me"
+6/28/25 7:42:07p •You sense healing energy from Mimo.
+6/28/25 7:42:07p •You sense healing energy from Cat Food.
+6/28/25 7:42:40p Grando says, "c area"
+6/28/25 7:43:02p Grando says, "c heal me"
+6/28/25 7:43:03p •You sense healing energy from Mimo.
+6/28/25 7:43:03p •You sense healing energy from Cat Food.
+6/28/25 7:43:46p Grando says, "c area"
+6/28/25 7:43:54p You killed a Watery Guardian.
+6/28/25 7:44:00p You have 14 coins.
+6/28/25 7:44:26p You dispatched a Watery Guardian.
+6/28/25 7:44:36p Silky is too far away for your explanation.
+6/28/25 7:44:36p You gave signed good karma to Silky.
+6/28/25 7:44:39p Grando says, "c heal me"
+6/28/25 7:44:40p •You sense healing energy from Mimo.
+6/28/25 7:44:40p •You sense healing energy from Cat Food.
+6/28/25 7:45:01p Grando says, "c area"
+6/28/25 7:45:43p You dispatched a Watery Guardian.
+6/28/25 7:46:01p Grando says, "c heal me"
+6/28/25 7:46:01p •You sense healing energy from Mimo.
+6/28/25 7:46:01p •You sense healing energy from Cat Food.
+6/28/25 7:46:48p Grando says, "c area"
+6/28/25 7:46:51p You have 14 coins.
+6/28/25 7:47:17p • You have some things to learn about the ways of the Watery Guardian.
+6/28/25 7:47:17p You killed a Watery Guardian.
+6/28/25 7:47:29p Grando says, "c heal me"
+6/28/25 7:47:29p •You sense healing energy from Mimo.
+6/28/25 7:47:29p •You sense healing energy from Cat Food.
+6/28/25 7:48:49p You slaughtered a Water Burst.
+6/28/25 7:48:50p You slaughtered a Water Burst.
+6/28/25 7:48:56p You slaughtered a Water Burst.
+6/28/25 7:49:54p You have 14 coins.
+6/28/25 7:49:55p Your toes tingle.
+6/28/25 7:49:55p You are currently studying the Watery Guardian, and have some things to learn.
+6/28/25 7:50:37p Wolf Master is too far away for your explanation.
+6/28/25 7:50:37p You gave signed good karma to Wolf Master.
+6/28/25 7:53:27p You have 14 coins.
+6/28/25 7:54:58p You killed a Watery Guardian.
+6/28/25 7:55:14p Grando says, "c heal me"
+6/28/25 7:55:14p •You sense healing energy from Mimo.
+6/28/25 7:55:14p •You sense healing energy from Cat Food.
+6/28/25 7:56:17p You have 14 coins.
+6/28/25 7:56:38p Katreesa is too far away for your explanation.
+6/28/25 7:56:38p You gave signed good karma to Katreesa.
+6/28/25 7:59:07p Grando says, "c heal me"
+6/28/25 7:59:07p •You sense healing energy from Mimo.
+6/28/25 7:59:07p •You sense healing energy from Cat Food.
+6/28/25 7:59:07p You have 14 coins.
+6/28/25 7:59:59p Grando says, "c area"
+6/28/25 8:00:02p You killed a Watery Guardian.
+6/28/25 8:00:34p Grando says, "c heal me"
+6/28/25 8:00:34p •You sense healing energy from Mimo.
+6/28/25 8:00:34p •You sense healing energy from Cat Food.
+6/28/25 8:01:10p Grando says, "c area"
+6/28/25 8:01:16p You killed a Watery Guardian.
+6/28/25 8:01:35p You slaughtered a Water Burst.
+6/28/25 8:01:36p You slaughtered a Water Burst.
+6/28/25 8:01:39p You slaughtered a Water Burst.
+6/28/25 8:01:58p You have 14 coins.
+6/28/25 8:02:39p Mork is too far away for your explanation.
+6/28/25 8:02:39p You gave signed good karma to Mork.
+6/28/25 8:04:47p You have 14 coins.
+6/28/25 8:08:02p You have 14 coins.
+6/28/25 8:08:39p Shobaffum is too far away for your explanation.
+6/28/25 8:08:39p You gave signed good karma to Shobaffum.
+6/28/25 8:10:56p Impreza has not disclosed her race, is female, is a Healer, and is not wearing the symbol of any clan.
+6/28/25 8:11:31p You have 14 coins.
+6/28/25 8:14:40p Silky is too far away for your explanation.
+6/28/25 8:14:40p You gave signed good karma to Silky.
+6/28/25 8:14:50p You have 14 coins.
+6/28/25 8:17:39p You have 14 coins.
+6/28/25 8:20:29p You have 14 coins.
+6/28/25 8:20:41p Wolf Master is too far away for your explanation.
+6/28/25 8:20:41p You gave signed good karma to Wolf Master.
+6/28/25 8:21:18p You slaughtered a Water Burst.
+6/28/25 8:21:20p You killed a Watery Guardian.
+6/28/25 8:21:33p Grando says, "c heal me"
+6/28/25 8:21:33p •You sense healing energy from Mimo.
+6/28/25 8:21:33p •You sense healing energy from Cat Food.
+6/28/25 8:21:57p Grando says, "c area"
+6/28/25 8:23:21p You have 14 coins.
+6/28/25 8:26:25p You have 14 coins.
+6/28/25 8:26:42p Katreesa is too far away for your explanation.
+6/28/25 8:26:42p You gave signed good karma to Katreesa.
+6/28/25 8:29:15p You have 14 coins.
+6/28/25 8:29:27p You killed a Watery Guardian.
+6/28/25 8:29:49p Grando says, "c heal me"
+6/28/25 8:29:49p •You sense healing energy from Mimo.
+6/28/25 8:29:49p •You sense healing energy from Cat Food.
+6/28/25 8:30:07p Grando says, "c area"
+6/28/25 8:31:53p You slaughtered a Water Burst.
+6/28/25 8:31:54p You slaughtered a Water Burst.
+6/28/25 8:32:06p You have 14 coins.
+6/28/25 8:32:36p • You gather your energy.
+6/28/25 8:32:38p • You speed up.
+6/28/25 8:32:43p Mork is too far away for your explanation.
+6/28/25 8:32:43p You gave signed good karma to Mork.
+6/28/25 8:32:47p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/28/25 8:32:47p • You slow down to normal speed.
+6/28/25 8:32:47p Grando has fallen to a Watery Guardian.
+6/28/25 8:32:48p You slip your heartwood charm into your backpack.
+6/28/25 8:33:20p •You sense healing energy from Cat Food.
+6/28/25 8:33:49p Grando says, "c heal me"
+6/28/25 8:33:49p •You sense healing energy from Mimo.
+6/28/25 8:34:07p Your spirit has departed your body 28 times.
+6/28/25 8:34:17p You slaughtered a Giant Vermine.
+6/28/25 8:34:18p You slaughtered a Giant Vermine.
+6/28/25 8:34:18p * You recover the Giant Vermine fur, worth 3c. Your share is 3c.
+6/28/25 8:34:25p You slaughtered a Giant Vermine.
+6/28/25 8:34:27p You slaughtered a Rat.
+6/28/25 8:34:30p You begin sharing your experiences with Squib.
+6/28/25 8:34:30p You are sharing experiences with Squib, Cat Food and Mimo.
+6/28/25 8:34:33p Squib is sharing experiences with you.
+6/28/25 8:34:34p Grando says, "squib heal me"
+6/28/25 8:34:35p •You sense healing energy from Squib.
+6/28/25 8:35:13p You have 17 coins.
+6/28/25 8:36:45p * You need a breath of air!
+6/28/25 8:36:48p You slaughtered a Sand Ray.
+6/28/25 8:37:33p Grando says, "c heal me"
+6/28/25 8:37:34p •You sense healing energy from Mimo.
+6/28/25 8:37:34p •You sense healing energy from Cat Food.
+6/28/25 8:38:08p Grando says, "c area"
+6/28/25 8:38:08p You have 17 coins.
+6/28/25 8:38:27p You killed a Watery Guardian.
+6/28/25 8:38:37p Grando says, "c heal me"
+6/28/25 8:38:38p •You sense healing energy from Mimo.
+6/28/25 8:38:38p •You sense healing energy from Cat Food.
+6/28/25 8:38:43p Shobaffum is too far away for your explanation.
+6/28/25 8:38:43p You gave signed good karma to Shobaffum.
+6/28/25 8:39:34p Grando says, "c area"
+6/28/25 8:40:05p Grando says, "c heal me"
+6/28/25 8:40:05p •You sense healing energy from Mimo.
+6/28/25 8:40:05p •You sense healing energy from Cat Food.
+6/28/25 8:40:39p Grando says, "c area"
+6/28/25 8:40:42p You killed a Watery Guardian.
+6/28/25 8:40:47p You killed a Watery Guardian.
+6/28/25 8:41:00p You have 17 coins.
+6/28/25 8:41:42p Grando says, "c heal me"
+6/28/25 8:41:42p •You sense healing energy from Mimo.
+6/28/25 8:41:42p •You sense healing energy from Cat Food.
+6/28/25 8:44:06p You have 17 coins.
+6/28/25 8:44:44p You have no karma to give.
+6/28/25 8:44:45p * Auto Thanker re-doing last
+6/28/25 8:46:59p You have 17 coins.
+6/28/25 8:49:47p You have 17 coins.
+6/28/25 8:50:45p Silky is too far away for your explanation.
+6/28/25 8:50:45p You gave signed good karma to Silky.
+6/28/25 8:52:33p • You have more than a few things to learn about the ways of the Watery Guardian.
+6/28/25 8:52:34p You dispatched a Watery Guardian.
+6/28/25 8:52:36p You have 17 coins.
+6/28/25 8:52:44p Grando says, "c heal me"
+6/28/25 8:52:45p •You sense healing energy from Mimo.
+6/28/25 8:52:45p •You sense healing energy from Cat Food.
+6/28/25 8:53:17p Grando says, "c area"
+6/28/25 8:53:38p You killed a Watery Guardian.
+6/28/25 8:53:47p Grando says, "c heal me"
+6/28/25 8:53:48p •You sense healing energy from Mimo.
+6/28/25 8:53:48p •You sense healing energy from Cat Food.
+6/28/25 8:54:29p Grando says, "c area"
+6/28/25 8:55:02p You killed a Watery Guardian.
+6/28/25 8:55:28p You killed a Watery Guardian.
+6/28/25 8:55:31p You have 17 coins.
+6/28/25 8:55:44p Grando says, "c heal me"
+6/28/25 8:55:44p •You sense healing energy from Mimo.
+6/28/25 8:55:44p •You sense healing energy from Cat Food.
+6/28/25 8:56:46p Wolf Master is too far away for your explanation.
+6/28/25 8:56:46p You gave signed good karma to Wolf Master.
+6/28/25 8:57:23p You dispatched a Watery Guardian.
+6/28/25 8:57:24p You slaughtered a Water Burst.
+6/28/25 8:57:26p You slaughtered a Water Burst.
+6/28/25 8:57:52p You killed a Watery Guardian.
+6/28/25 8:58:06p Grando says, "c heal me"
+6/28/25 8:58:06p •You sense healing energy from Mimo.
+6/28/25 8:58:06p •You sense healing energy from Cat Food.
+6/28/25 8:58:27p You have 17 coins.
+6/28/25 9:01:16p You have 17 coins.
+6/28/25 9:02:47p Katreesa is too far away for your explanation.
+6/28/25 9:02:47p You gave signed good karma to Katreesa.
+6/28/25 9:04:06p You have 17 coins.
+6/28/25 9:07:14p You have 17 coins.
+6/28/25 9:08:47p Mork is too far away for your explanation.
+6/28/25 9:08:47p You gave signed good karma to Mork.
+6/28/25 9:10:23p You have 17 coins.
+6/28/25 9:11:04p Shadrock is now Clanning.
+6/28/25 9:13:13p Grando says, "c heal me"
+6/28/25 9:13:13p •You sense healing energy from Mimo.
+6/28/25 9:13:13p •You sense healing energy from Cat Food.
+6/28/25 9:13:14p You have 17 coins.
+6/28/25 9:13:43p Grando says, "c area"
+6/28/25 9:14:07p Grando says, "c heal me"
+6/28/25 9:14:07p •You sense healing energy from Mimo.
+6/28/25 9:14:07p •You sense healing energy from Cat Food.
+6/28/25 9:14:31p Grando says, "c area"
+6/28/25 9:14:36p You dispatched a Watery Guardian.
+6/28/25 9:14:38p • You have more than a few things to learn about the ways of the Watery Guardian.
+6/28/25 9:14:39p You killed a Watery Guardian.
+6/28/25 9:14:48p Shobaffum is too far away for your explanation.
+6/28/25 9:14:48p You gave signed good karma to Shobaffum.
+6/28/25 9:16:08p You have 17 coins.
+6/28/25 9:19:31p You have 17 coins.
+6/28/25 9:20:49p Silky is too far away for your explanation.
+6/28/25 9:20:49p You gave signed good karma to Silky.
+6/28/25 9:21:43p Paladion is now Clanning.
+6/28/25 9:22:07p You dispatched a Watery Guardian.
+6/28/25 9:22:10p Paladion is no longer Clanning.
+6/28/25 9:22:15p Grando says, "c heal me"
+6/28/25 9:22:15p •You sense healing energy from Mimo.
+6/28/25 9:22:15p •You sense healing energy from Cat Food.
+6/28/25 9:22:43p You have 17 coins.
+6/28/25 9:22:46p Paladion is now Clanning.
+6/28/25 9:22:50p Paladion is no longer Clanning.
+6/28/25 9:23:16p You slaughtered a Water Burst.
+6/28/25 9:23:36p You killed a Watery Guardian.
+6/28/25 9:24:03p You killed a Watery Guardian.
+6/28/25 9:24:40p Grando says, "c heal me"
+6/28/25 9:24:41p •You sense healing energy from Mimo.
+6/28/25 9:24:41p •You sense healing energy from Cat Food.
+6/28/25 9:25:12p •The Sun sets.
+6/28/25 9:25:33p You have 17 coins.
+6/28/25 9:25:47p Shadrock is no longer Clanning.
+6/28/25 9:26:50p Wolf Master is too far away for your explanation.
+6/28/25 9:26:50p You gave signed good karma to Wolf Master.
+6/28/25 9:28:23p You have 17 coins.
+6/28/25 9:31:12p You have 17 coins.
+6/28/25 9:31:48p You killed a Watery Guardian.
+6/28/25 9:31:57p Grando says, "c heal me"
+6/28/25 9:31:57p •You sense healing energy from Mimo.
+6/28/25 9:31:57p •You sense healing energy from Cat Food.
+6/28/25 9:32:21p Grando says, "c area"
+6/28/25 9:32:51p You have no karma to give.
+6/28/25 9:32:51p * Auto Thanker re-doing last
+6/28/25 9:32:58p You killed a Watery Guardian.
+6/28/25 9:33:09p Grando says, "c heal me"
+6/28/25 9:33:10p •You sense healing energy from Mimo.
+6/28/25 9:33:10p •You sense healing energy from Cat Food.
+6/28/25 9:34:02p You have 17 coins.
+6/28/25 9:35:33p Grando says, "c heal me"
+6/28/25 9:35:33p •You sense healing energy from Mimo.
+6/28/25 9:35:33p •You sense healing energy from Cat Food.
+6/28/25 9:35:51p You killed a Watery Guardian.
+6/28/25 9:36:21p • You have more than a few things to learn about the ways of the Watery Guardian.
+6/28/25 9:36:21p You dispatched a Watery Guardian.
+6/28/25 9:36:43p Grando says, "c heal me"
+6/28/25 9:36:44p •You sense healing energy from Mimo.
+6/28/25 9:36:44p •You sense healing energy from Cat Food.
+6/28/25 9:36:52p You have 17 coins.
+6/28/25 9:37:06p Grando says, "c area"
+6/28/25 9:38:51p Katreesa is too far away for your explanation.
+6/28/25 9:38:51p You gave signed good karma to Katreesa.
+6/28/25 9:39:56p You have 17 coins.
+6/28/25 9:43:10p You have 17 coins.
+6/28/25 9:44:52p Mork is too far away for your explanation.
+6/28/25 9:44:52p You gave signed good karma to Mork.
+6/28/25 9:45:56p You dispatched a Watery Guardian.
+6/28/25 9:46:00p You have 17 coins.
+6/28/25 9:46:08p Grando says, "c heal me"
+6/28/25 9:46:09p •You sense healing energy from Mimo.
+6/28/25 9:46:09p •You sense healing energy from Cat Food.
+6/28/25 9:48:49p You have 17 coins.
+6/28/25 9:49:19p •You gain experience.
+6/28/25 9:50:04p You dispatched a Watery Guardian.
+6/28/25 9:50:14p Grando says, "c heal me"
+6/28/25 9:50:14p •You sense healing energy from Mimo.
+6/28/25 9:50:14p •You sense healing energy from Cat Food.
+6/28/25 9:50:53p Shobaffum is too far away for your explanation.
+6/28/25 9:50:53p You gave signed good karma to Shobaffum.
+6/28/25 9:51:09p Grando says, "c heal me"
+6/28/25 9:51:10p •You sense healing energy from Mimo.
+6/28/25 9:51:10p •You sense healing energy from Cat Food.
+6/28/25 9:51:30p You killed a Watery Guardian.
+6/28/25 9:51:40p You have 17 coins.
+6/28/25 9:52:08p Grando says, "c heal me"
+6/28/25 9:52:08p •You sense healing energy from Mimo.
+6/28/25 9:52:08p •You sense healing energy from Cat Food.
+6/28/25 9:53:12p Grando says, "c heal me"
+6/28/25 9:53:13p •You sense healing energy from Mimo.
+6/28/25 9:53:13p •You sense healing energy from Cat Food.
+6/28/25 9:54:19p Grando says, "c area"
+6/28/25 9:54:26p You killed a Watery Guardian.
+6/28/25 9:54:29p You have 17 coins.
+6/28/25 9:54:33p You dispatched a Watery Guardian.
+6/28/25 9:55:24p Grando says, "c heal me"
+6/28/25 9:55:25p •You sense healing energy from Mimo.
+6/28/25 9:55:25p •You sense healing energy from Cat Food.
+6/28/25 9:56:06p You killed a Watery Guardian.
+6/28/25 9:56:54p Silky is too far away for your explanation.
+6/28/25 9:56:54p You gave signed good karma to Silky.
+6/28/25 9:57:19p You have 17 coins.
+6/28/25 10:00:08p You have 17 coins.
+6/28/25 10:02:54p Wolf Master is too far away for your explanation.
+6/28/25 10:02:54p You gave signed good karma to Wolf Master.
+6/28/25 10:02:56p • You have more than a few things to learn about the ways of the Watery Guardian.
+6/28/25 10:02:56p You dispatched a Watery Guardian.
+6/28/25 10:02:57p You have 17 coins.
+6/28/25 10:03:19p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/28/25 10:03:19p Grando has fallen to an ice bolt.
+6/28/25 10:03:29p •You sense healing energy from Cat Food.
+6/28/25 10:04:04p Grando says, "c area"
+6/28/25 10:05:39p You killed a Watery Guardian.
+6/28/25 10:05:54p You have 17 coins.
+6/28/25 10:06:35p Grando says, "c heal me"
+6/28/25 10:06:36p •You sense healing energy from Mimo.
+6/28/25 10:06:36p •You sense healing energy from Cat Food.
+6/28/25 10:08:08p You just received good karma from Silky.
+6/28/25 10:08:55p Katreesa is too far away for your explanation.
+6/28/25 10:08:55p You gave signed good karma to Katreesa.
+6/28/25 10:09:22p You have 17 coins.
+6/28/25 10:10:02p Jaqen is now Clanning.
+6/28/25 10:11:08p You just received good karma from Silky.
+6/28/25 10:13:07p You have 17 coins.
+6/28/25 10:14:55p You dispatched a Watery Guardian.
+6/28/25 10:14:56p Mork is too far away for your explanation.
+6/28/25 10:14:56p You gave signed good karma to Mork.
+6/28/25 10:15:20p Grando says, "c heal me"
+6/28/25 10:15:20p •You sense healing energy from Mimo.
+6/28/25 10:15:20p •You sense healing energy from Cat Food.
+6/28/25 10:15:52p Grando says, "c area"
+6/28/25 10:16:10p You dispatched a Watery Guardian.
+6/28/25 10:16:15p You have 17 coins.
+6/28/25 10:17:05p Grando says, "c heal me"
+6/28/25 10:17:05p •You sense healing energy from Mimo.
+6/28/25 10:17:05p •You sense healing energy from Cat Food.
+6/28/25 10:17:09p You just received good karma from Silky.
+6/28/25 10:17:34p Azriel is now Clanning.
+6/28/25 10:19:02p You have 17 coins.
+6/28/25 10:19:13p Karina is now Clanning.
+6/28/25 10:20:57p Shobaffum is too far away for your explanation.
+6/28/25 10:20:57p You gave signed good karma to Shobaffum.
+6/28/25 10:21:51p You have 17 coins.
+6/28/25 10:23:09p You just received good karma from Silky.
+6/28/25 10:24:39p You slaughtered a Water Burst.
+6/28/25 10:24:55p You have 17 coins.
+6/28/25 10:24:55p You slaughtered a Water Burst.
+6/28/25 10:26:58p You have no karma to give.
+6/28/25 10:26:58p * Auto Thanker re-doing last
+6/28/25 10:27:55p You have 17 coins.
+6/28/25 10:29:10p You just received good karma from Silky.
+6/28/25 10:30:45p You have 17 coins.
+6/28/25 10:31:10p Eli is now Clanning.
+6/28/25 10:32:58p Silky is too far away for your explanation.
+6/28/25 10:32:58p You gave signed good karma to Silky.
+6/28/25 10:33:35p You have 17 coins.
+6/28/25 10:33:41p Paladion is now Clanning.
+6/28/25 10:34:27p Paladion is no longer Clanning.
+6/28/25 10:34:34p Grando says, "c heal me"
+6/28/25 10:34:35p •You sense healing energy from Mimo.
+6/28/25 10:34:35p •You sense healing energy from Cat Food.
+6/28/25 10:34:36p Sauver is now Clanning.
+6/28/25 10:35:08p Grando says, "c area"
+6/28/25 10:35:10p You just received good karma from Silky.
+6/28/25 10:35:16p You dispatched a Watery Guardian.
+6/28/25 10:36:06p Grando says, "c heal me"
+6/28/25 10:36:07p •You sense healing energy from Mimo.
+6/28/25 10:36:07p •You sense healing energy from Cat Food.
+6/28/25 10:36:25p You have 17 coins.
+6/28/25 10:36:54p Grando says, "c area"
+6/28/25 10:37:03p You killed a Watery Guardian.
+6/28/25 10:37:11p Grando says, "c heal me"
+6/28/25 10:37:12p •You sense healing energy from Mimo.
+6/28/25 10:37:12p •You sense healing energy from Cat Food.
+6/28/25 10:37:41p Grando says, "c area"
+6/28/25 10:37:59p Grando says, "c area"
+6/28/25 10:38:01p Grando says, "c heal me"
+6/28/25 10:38:02p •You sense healing energy from Mimo.
+6/28/25 10:38:02p •You sense healing energy from Cat Food.
+6/28/25 10:38:29p Grando says, "c area"
+6/28/25 10:38:39p You killed a Watery Guardian.
+6/28/25 10:38:46p Grando says, "c heal me"
+6/28/25 10:38:55p Sauver is no longer Clanning.
+6/28/25 10:38:59p Grando says, "c area"
+6/28/25 10:39:00p Wolf Master is too far away for your explanation.
+6/28/25 10:39:00p You gave signed good karma to Wolf Master.
+6/28/25 10:39:15p You have 17 coins.
+6/28/25 10:41:10p You just received good karma from Silky.
+6/28/25 10:41:27p Antsy is now Clanning.
+6/28/25 10:41:40p • You have more than a few things to learn about the ways of the Watery Guardian.
+6/28/25 10:41:40p You dispatched a Watery Guardian.
+6/28/25 10:41:59p Grando says, "c heal me"
+6/28/25 10:41:59p •You sense healing energy from Mimo.
+6/28/25 10:41:59p •You sense healing energy from Cat Food.
+6/28/25 10:42:04p You have 17 coins.
+6/28/25 10:42:42p Grando says, "c area"
+6/28/25 10:42:49p Anodos is now Clanning.
+6/28/25 10:42:54p You dispatched a Watery Guardian.
+6/28/25 10:42:58p Antsy is no longer Clanning.
+6/28/25 10:43:04p Grando says, "c heal me"
+6/28/25 10:43:04p •You sense healing energy from Mimo.
+6/28/25 10:43:04p •You sense healing energy from Cat Food.
+6/28/25 10:43:14p Bernard is now Clanning.
+6/28/25 10:44:13p Anodos is no longer Clanning.
+6/28/25 10:44:45p Bernard is no longer Clanning.
+6/28/25 10:45:00p Katreesa is too far away for your explanation.
+6/28/25 10:45:00p You gave signed good karma to Katreesa.
+6/28/25 10:45:01p Curator is now Clanning.
+6/28/25 10:45:01p You have 17 coins.
+6/28/25 10:46:33p Curator is no longer Clanning.
+6/28/25 10:46:49p Dennis is now Clanning.
+6/28/25 10:47:11p You just received good karma from Silky.
+6/28/25 10:48:00p You slaughtered a Water Burst.
+6/28/25 10:48:01p You slaughtered a Water Burst.
+6/28/25 10:48:03p You slaughtered a Water Burst.
+6/28/25 10:48:09p You slaughtered a Water Burst.
+6/28/25 10:48:16p You slaughtered a Water Burst.
+6/28/25 10:48:17p Dennis is no longer Clanning.
+6/28/25 10:48:23p You have 17 coins.
+6/28/25 10:48:33p Euphemia is now Clanning.
+6/28/25 10:50:12p Euphemia is no longer Clanning.
+6/28/25 10:50:28p Foamy is now Clanning.
+6/28/25 10:51:01p Mork is too far away for your explanation.
+6/28/25 10:51:01p You gave signed good karma to Mork.
+6/28/25 10:51:15p You have 17 coins.
+6/28/25 10:51:57p Foamy is no longer Clanning.
+6/28/25 10:52:12p Germaine is now Clanning.
+6/28/25 10:53:11p You just received good karma from Silky.
+6/28/25 10:53:41p Germaine is no longer Clanning.
+6/28/25 10:53:58p Huffer is now Clanning.
+6/28/25 10:54:26p You have 17 coins.
+6/28/25 10:55:46p Huffer is no longer Clanning.
+6/28/25 10:56:02p Intuition is now Clanning.
+6/28/25 10:57:02p Shobaffum is too far away for your explanation.
+6/28/25 10:57:02p You gave signed good karma to Shobaffum.
+6/28/25 10:57:25p Grando says, "c heal me"
+6/28/25 10:57:25p •You sense healing energy from Mimo.
+6/28/25 10:57:25p •You sense healing energy from Cat Food.
+6/28/25 10:57:47p Intuition is no longer Clanning.
+6/28/25 10:57:51p You have 17 coins.
+6/28/25 10:57:55p Grando says, "c area"
+6/28/25 10:58:03p Jermal is now Clanning.
+6/28/25 10:58:10p Grando says, "c heal me"
+6/28/25 10:58:11p •You sense healing energy from Mimo.
+6/28/25 10:58:11p •You sense healing energy from Cat Food.
+6/28/25 10:58:22p Grando says, "c area"
+6/28/25 10:58:25p You killed a Watery Guardian.
+6/28/25 10:58:38p Grando says, "c heal me"
+6/28/25 10:58:39p •You sense healing energy from Mimo.
+6/28/25 10:58:39p •You sense healing energy from Cat Food.
+6/28/25 10:59:01p Grando says, "c area"
+6/28/25 10:59:12p You just received good karma from Silky.
+6/28/25 10:59:13p You killed a Watery Guardian.
+6/28/25 10:59:29p Jermal is no longer Clanning.
+6/28/25 10:59:46p Kass is now Clanning.
+6/28/25 10:59:56p Grando says, "c heal me"
+6/28/25 10:59:57p •You sense healing energy from Mimo.
+6/28/25 10:59:57p •You sense healing energy from Cat Food.
+6/28/25 11:00:29p Grando says, "c area"
+6/28/25 11:00:36p You killed a Watery Guardian.
+6/28/25 11:00:45p You have 17 coins.
+6/28/25 11:01:32p Grando says, "c heal me"
+6/28/25 11:01:33p •You sense healing energy from Mimo.
+6/28/25 11:01:33p •You sense healing energy from Cat Food.
+6/28/25 11:01:39p Kass is no longer Clanning.
+6/28/25 11:01:55p Lucille is now Clanning.
+6/28/25 11:02:11p Grando says, "c area"
+6/28/25 11:02:25p You killed a Watery Guardian.
+6/28/25 11:03:02p Silky is too far away for your explanation.
+6/28/25 11:03:02p You gave signed good karma to Silky.
+6/28/25 11:03:32p Lucille is no longer Clanning.
+6/28/25 11:03:36p You have 17 coins.
+6/28/25 11:03:48p Maestro is now Clanning.
+6/28/25 11:04:27p Maestro has not disclosed his race, is male, is an exile, and is wearing the symbol of Catharsis.
+6/28/25 11:06:30p You have 17 coins.
+6/28/25 11:06:33p You killed a Watery Guardian.
+6/28/25 11:06:38p Maestro is no longer Clanning.
+6/28/25 11:06:40p Grando says, "c heal me"
+6/28/25 11:06:41p •You sense healing energy from Mimo.
+6/28/25 11:06:41p •You sense healing energy from Cat Food.
+6/28/25 11:06:54p Nini is now Clanning.
+6/28/25 11:07:13p Grando says, "c area"
+6/28/25 11:08:00p You killed a Watery Guardian.
+6/28/25 11:08:15p Grando says, "c heal me"
+6/28/25 11:08:16p •You sense healing energy from Mimo.
+6/28/25 11:08:16p •You sense healing energy from Cat Food.
+6/28/25 11:08:20p You have become skilled.
+6/28/25 11:08:20p You are currently studying the Watery Guardian, and have a few things to learn.
+6/28/25 11:08:29p Nini is no longer Clanning.
+6/28/25 11:08:54p Grando says, "c area"
+6/28/25 11:09:03p Wolf Master is too far away for your explanation.
+6/28/25 11:09:03p You gave signed good karma to Wolf Master.
+6/28/25 11:09:04p Quexacotl is now Clanning.
+6/28/25 11:09:25p You have 17 coins.
+6/28/25 11:10:40p Quexacotl is no longer Clanning.
+6/28/25 11:11:31p Ridley is now Clanning.
+6/28/25 11:11:58p Klur is now Clanning.
+6/28/25 11:12:23p You have 17 coins.
+6/28/25 11:12:29p Julia is now Clanning.
+6/28/25 11:12:44p Julia is a Sylvan, is female, is a Ranger, and is not wearing the symbol of any clan.
+6/28/25 11:12:53p Ridley is no longer Clanning.
+6/28/25 11:14:18p Hashak is now Clanning.
+6/28/25 11:14:29p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/28/25 11:14:30p Grando has fallen to an ice bolt.
+6/28/25 11:14:41p •You sense healing energy from Cat Food.
+6/28/25 11:14:55p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/28/25 11:14:55p Grando has fallen to a Watery Guardian.
+6/28/25 11:15:04p Katreesa is too far away for your explanation.
+6/28/25 11:15:04p You gave signed good karma to Katreesa.
+6/28/25 11:15:33p You have 17 coins.
+6/28/25 11:15:48p •You sense healing energy from Cat Food.
+6/28/25 11:16:07p Grando says, "c heal me"
+6/28/25 11:16:08p •You sense healing energy from Mimo.
+6/28/25 11:16:08p •You sense healing energy from Cat Food.
+6/28/25 11:16:47p Grando says, "c area"
+6/28/25 11:16:59p • You have a few things to learn about the ways of the Watery Guardian.
+6/28/25 11:16:59p You killed a Watery Guardian.
+6/28/25 11:17:12p You dispatched a Watery Guardian.
+6/28/25 11:18:41p You have 17 coins.
+6/28/25 11:18:50p Sterling is now Clanning.
+6/28/25 11:19:30p You killed a Watery Guardian.
+6/28/25 11:20:05p • It’s Midnight on Gradi, the 36th day of Winter in the 642nd year of the Ascendancy, and all’s well.
+6/28/25 11:20:13p Grando says, "c heal me"
+6/28/25 11:20:14p •You sense healing energy from Mimo.
+6/28/25 11:20:14p •You sense healing energy from Cat Food.
+6/28/25 11:20:16p Sterling is no longer Clanning.
+6/28/25 11:20:31p Timtim is now Clanning.
+6/28/25 11:20:38p Elenis Reyav is now Clanning.
+6/28/25 11:20:50p Timtim has not disclosed his race, is male, is an exile, and is wearing the symbol of Catharsis.
+6/28/25 11:21:02p Jaqen is no longer Clanning.
+6/28/25 11:21:05p Mork is too far away for your explanation.
+6/28/25 11:21:05p You gave signed good karma to Mork.
+6/28/25 11:21:34p You have 17 coins.
+6/28/25 11:21:57p Timtim is no longer Clanning.
+6/28/25 11:22:13p Union is now Clanning.
+6/28/25 11:22:31p Union has not disclosed his race, is male, is an exile, and is not wearing the symbol of any clan.
+6/28/25 11:23:37p Union is no longer Clanning.
+6/28/25 11:23:57p Vincente is now Clanning.
+6/28/25 11:24:50p You have 17 coins.
+6/28/25 11:25:10p You slaughtered a Water Burst.
+6/28/25 11:25:10p You slaughtered a Water Burst.
+6/28/25 11:25:15p You slaughtered a Water Burst.
+6/28/25 11:25:33p Vincente is no longer Clanning.
+6/28/25 11:25:49p Winonan is now Clanning.
+6/28/25 11:26:04p Winonan has not disclosed her race, is female, is an exile, and is not wearing the symbol of any clan.
+6/28/25 11:27:06p Shobaffum is too far away for your explanation.
+6/28/25 11:27:06p You gave signed good karma to Shobaffum.
+6/28/25 11:27:14p Winonan is no longer Clanning.
+6/28/25 11:27:31p Xerxer is now Clanning.
+6/28/25 11:27:57p You have 17 coins.
+6/28/25 11:28:55p Xerxer is no longer Clanning.
+6/28/25 11:29:13p Yanis is now Clanning.
+6/28/25 11:30:44p Yanis is no longer Clanning.
+6/28/25 11:31:00p Zerg is now Clanning.
+6/28/25 11:31:29p Jeepers is now Clanning.
+6/28/25 11:31:41p You have 17 coins.
+6/28/25 11:32:12p • You have a few things to learn about the ways of the Watery Guardian.
+6/28/25 11:32:13p You killed a Watery Guardian.
+6/28/25 11:32:30p Grando says, "c heal me"
+6/28/25 11:32:31p •You sense healing energy from Mimo.
+6/28/25 11:32:31p •You sense healing energy from Cat Food.
+6/28/25 11:32:35p Zerg is no longer Clanning.
+6/28/25 11:32:44p Orphelia is now Clanning.
+6/28/25 11:33:04p Grando says, "c area"
+6/28/25 11:33:06p Silky is too far away for your explanation.
+6/28/25 11:33:06p You gave signed good karma to Silky.
+6/28/25 11:34:04p Orphelia is no longer Clanning.
+6/28/25 11:34:37p You have 17 coins.
+6/28/25 11:37:29p You killed a Watery Guardian.
+6/28/25 11:37:35p Grando says, "c heal me"
+6/28/25 11:37:36p •You sense healing energy from Mimo.
+6/28/25 11:37:36p •You sense healing energy from Cat Food.
+6/28/25 11:37:41p You have 17 coins.
+6/28/25 11:38:38p You dispatched a Watery Guardian.
+6/28/25 11:39:07p Wolf Master is too far away for your explanation.
+6/28/25 11:39:07p You gave signed good karma to Wolf Master.
+6/28/25 11:39:10p You equip your heartwood charm.
+6/28/25 11:39:10p • You gather your energy.
+6/28/25 11:39:12p • You speed up.
+6/28/25 11:39:19p • You slow down to normal speed.
+6/28/25 11:39:19p You slip your heartwood charm into your backpack.
+6/28/25 11:39:23p Grando says, "c heal me"
+6/28/25 11:39:23p •You sense healing energy from Mimo.
+6/28/25 11:39:23p •You sense healing energy from Cat Food.
+6/28/25 11:39:59p Grando says, "c area"
+6/28/25 11:40:13p Grando says, "c heal me"
+6/28/25 11:40:13p •You sense healing energy from Mimo.
+6/28/25 11:40:13p •You sense healing energy from Cat Food.
+6/28/25 11:40:34p You have 17 coins.
+6/28/25 11:44:04p • You have a few things to learn about the ways of the Watery Guardian.
+6/28/25 11:44:04p You dispatched a Watery Guardian.
+6/28/25 11:44:10p Grando says, "c heal me"
+6/28/25 11:44:10p Leyenda is now Clanning.
+6/28/25 11:44:10p •You sense healing energy from Mimo.
+6/28/25 11:44:10p •You sense healing energy from Cat Food.
+6/28/25 11:44:12p You have 17 coins.
+6/28/25 11:44:56p You killed a Watery Guardian.
+6/28/25 11:45:08p Katreesa is too far away for your explanation.
+6/28/25 11:45:08p You gave signed good karma to Katreesa.
+6/28/25 11:45:12p Julia is no longer Clanning.
+6/28/25 11:45:51p Grando says, "c heal me"
+6/28/25 11:45:51p •You sense healing energy from Mimo.
+6/28/25 11:45:51p •You sense healing energy from Cat Food.
+6/28/25 11:47:02p You have 17 coins.
+6/28/25 11:48:11p Karina is no longer Clanning.
+6/28/25 11:48:47p Leyenda is no longer Clanning.
+6/28/25 11:48:54p Talin is now Clanning.
+6/28/25 11:49:13p Arlana is now Clanning.
+6/28/25 11:49:34p Soul Hunter is now Clanning.
+6/28/25 11:49:50p Olimpi is now Clanning.
+6/28/25 11:50:20p You have 17 coins.
+6/28/25 11:50:47p Eli thinks, "pf"
+6/28/25 11:50:57p You slaughtered a Water Burst.
+6/28/25 11:51:04p You slaughtered a Water Burst.
+6/28/25 11:51:09p Mork is too far away for your explanation.
+6/28/25 11:51:09p You gave signed good karma to Mork.
+6/28/25 11:51:13p Olimpi is no longer Clanning.
+6/28/25 11:51:47p Baggage is now Clanning.
+6/28/25 11:51:51p Baggage has not disclosed his race, is male, is an exile, and is not wearing the symbol of any clan.
+6/28/25 11:51:59p Jeepers thinks, "got"
+6/28/25 11:52:01p Soul Hunter has not disclosed his race, is male, is a Healer, and is wearing the symbol of Hunter.
+6/28/25 11:53:32p You have 17 coins.
+6/28/25 11:55:10p Arlana is no longer Clanning.
+6/28/25 11:55:43p Ravenstorm is now Clanning.
+6/28/25 11:56:11p Saz is now Clanning.
+6/28/25 11:56:22p You killed a Watery Guardian.
+6/28/25 11:56:41p Grando says, "c heal me"
+6/28/25 11:56:41p •You sense healing energy from Mimo.
+6/28/25 11:56:41p •You sense healing energy from Cat Food.
+6/28/25 11:56:54p You have 17 coins.
+6/28/25 11:57:01p Arlana is now Clanning.
+6/28/25 11:57:10p Shobaffum is too far away for your explanation.
+6/28/25 11:57:10p You gave signed good karma to Shobaffum.
+6/28/25 11:57:59p Arlana is no longer Clanning.
+6/28/25 11:58:36p Pendarric is now Clanning.
+6/28/25 11:58:51p Cecil is now Clanning.
+6/28/25 11:59:11p Dandelion is now Clanning.
+6/28/25 11:59:18p Blaque Smith is now Clanning.
+6/28/25 11:59:26p Pendarric is no longer Clanning.
+6/28/25 11:59:43p Walt is now Clanning.
+6/29/25 12:00:17a You have 17 coins.
+6/29/25 12:00:21a Walt is no longer Clanning.
+6/29/25 12:00:24a Gumby is now Clanning.
+6/29/25 12:00:31a Blaque Smith is no longer Clanning.
+6/29/25 12:00:35a Valadorei is now Clanning.
+6/29/25 12:00:39a Gumby is no longer Clanning.
+6/29/25 12:01:02a Julia is now Clanning.
+6/29/25 12:01:42a Julia is no longer Clanning.
+6/29/25 12:02:28a You equip your heartwood charm.
+6/29/25 12:02:28a • You gather your energy.
+6/29/25 12:02:31a • You speed up.
+6/29/25 12:03:10a Silky is too far away for your explanation.
+6/29/25 12:03:10a You gave signed good karma to Silky.
+6/29/25 12:03:14a You have 17 coins.
+6/29/25 12:03:23a You slaughtered an Artak Cougar.
+6/29/25 12:03:35a Shelka exclaims, "Ick! We need this well water to drink!"
+6/29/25 12:03:56a • /SLEEP when you wish to begin studying.
+6/29/25 12:04:00a Use \SLEEP again when you return.
+6/29/25 12:04:00a You are done adventuring for a while and will be staying here.
+6/29/25 12:04:01a You have been disconnected from Clan Lord.
+6/29/25 12:04:01a • You will benefit from staying here while you are off-line.
+6/29/25 12:04:02a *** We are no longer connected to the Clan Lord game server. ***

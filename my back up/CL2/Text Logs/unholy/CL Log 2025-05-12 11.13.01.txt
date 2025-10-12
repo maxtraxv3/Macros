@@ -1,0 +1,30 @@
+
+5/12/25 11:13:01a * Your healer's cloak is in very good condition.
+5/12/25 11:13:01a Welcome to Clan Lord, Unholy!
+5/12/25 11:13:01a Type \HELP for a list of commands.
+5/12/25 11:13:01a • You have been charged 1 coin for advanced studies.
+5/12/25 11:13:01a • You gain experience from your recent studies.
+5/12/25 11:13:02a *Healer Mode
+5/12/25 11:13:02a *Type /hi help for more info
+5/12/25 11:13:02a The healing spell has started.
+5/12/25 11:13:02a You have been studying for one hour, one minute.
+5/12/25 11:13:04a It's 3:53pm on Terrdi, day 21 of Summer, 641.
+5/12/25 11:13:06a There are two members of Black Phoenix clanning: Omega Phoenix and you.
+5/12/25 11:13:06a • What’s New: https://deltatao.com/clanlord/news
+5/12/25 11:13:08a Friends online: none.
+5/12/25 11:13:15a * Tip of the day: Chains slip off of people who are asleep. (Use /OPTIONS to turn tips off.)
+5/12/25 11:13:16a •The healing spell has been broken.
+5/12/25 11:13:26a \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+5/12/25 11:13:27a * Healing OmegaPhoenix 
+5/12/25 11:13:28a Koppi yells, "Prowl reports: Kudos to the Puddleby Civic Beautification Society for sprucing up town center and making that beautiful park! Well done! Who do I donate to?"
+5/12/25 11:13:30a •The healing spell has been broken.
+5/12/25 11:13:33a \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+5/12/25 11:13:33a * Healing OmegaPhoenix 
+5/12/25 11:13:38a •The healing spell has been broken.
+5/12/25 11:13:51a • /SLEEP when you wish to begin studying.
+5/12/25 11:13:54a • /SLEEP when you wish to begin studying.
+5/12/25 11:13:57a Use \SLEEP again when you return.
+5/12/25 11:13:57a You are done adventuring for a while and will be studying here.
+5/12/25 11:13:58a You have been disconnected from Clan Lord.
+5/12/25 11:13:58a • You will benefit from studying here while you are off-line.
+5/12/25 11:13:59a *** We are no longer connected to t

@@ -1,0 +1,299 @@
+
+2/27/25 5:11:39p * Your healer's cloak is in very good condition.
+2/27/25 5:11:39p Welcome to Clan Lord, Unholy!
+2/27/25 5:11:39p Type \HELP for a list of commands.
+2/27/25 5:11:39p • You have been charged 653 coins for advanced studies.
+2/27/25 5:11:39p • You gain experience from your recent studies.
+2/27/25 5:11:39p The healing spell has started.
+2/27/25 5:11:39p You have been studying for 21 days, 9 hours, 24 minutes.
+2/27/25 5:11:42p It's 10:53pm on Gradi, day 79 of Summer, 640.
+2/27/25 5:11:43p Friends online: none.
+2/27/25 5:11:44p You are the only member of Black Phoenix clanning.
+2/27/25 5:11:44p • What’s New: https://deltatao.com/clanlord/news • Shieldstones can now be toggled on-and-off in the usual way again. 
+2/27/25 5:11:53p * Tip of the day: Listening doesn’t put any wear on a sunstone. (Use /OPTIONS to turn tips off.)
+2/27/25 5:11:55p * Using Fighter right-click settings.
+2/27/25 5:11:55p Click timer started.
+2/27/25 5:11:55p Katreesa is too far away for you to reach.
+2/27/25 5:11:58p Katreesa is too far away for you to reach.
+2/27/25 5:11:58p Katreesa is too far away for you to reach.
+2/27/25 5:12:04p •You seem to heal from further away now.
+2/27/25 5:12:20p Unholy says, "yeah scroll wheel doesnt work"
+2/27/25 5:12:30p You have no 'chain' to equip.
+2/27/25 5:12:30p You have no 'chain' to equip.
+2/27/25 5:12:35p You have no 'chain' to equip.
+2/27/25 5:12:38p Stonehand is too far away for you to reach.
+2/27/25 5:12:56p Katreesa says, "ok back"
+2/27/25 5:13:14p Unholy says, "just copyed whole thing to a new cleint"
+2/27/25 5:13:21p Unholy says, "scroll wheel doesnt work"
+2/27/25 5:13:27p Crius yells, "It’s 11 o’clock, and all’s well."
+2/27/25 5:13:28p Unholy says, "on windows 11"
+2/27/25 5:13:34p •You seem to heal from further away now.
+2/27/25 5:13:40p Katreesa says, "weird"
+2/27/25 5:13:47p Stonehand says, "I'm guessing there's some code in the driver that disables the scroll wheel unless it's over a relevant pane"
+2/27/25 5:13:56p Unholy says, "windows 11 must be removing old 32bit stuff"
+2/27/25 5:14:09p Stonehand says, "I wouldn't put it past them"
+2/27/25 5:14:20p Katreesa says, "well shit..."
+2/27/25 5:14:22p Stonehand says, "time to swap to ubuntu"
+2/27/25 5:14:24p Unholy asks, "what is it ment to do?"
+2/27/25 5:14:32p Unholy says, "heh"
+2/27/25 5:14:36p Koppi yells, "Katreesa reports: cuz she can't, she won't, and she don't stop!"
+2/27/25 5:14:38p Katreesa says, "self heal, and chain"
+2/27/25 5:14:41p Unholy says, "just uses wine in windows 10"
+2/27/25 5:14:48p Katreesa says, "kinda important stuff"
+2/27/25 5:14:54p Stonehand says, "or you could emulate mac instead"
+2/27/25 5:15:04p •You seem to heal from further away now.
+2/27/25 5:15:04p Shadowfire says, "My mouse just has more buttons so I use those"
+2/27/25 5:15:09p Stonehand says, "or remap them to different hotkeys"
+2/27/25 5:15:22p Unholy says, "yeah but thats gorvens macro"
+2/27/25 5:15:31p Katreesa says, "no, I'm not totally relearning a new way to operate in the world"
+2/27/25 5:15:36p Katreesa says, "I'm too old for that shit"
+2/27/25 5:15:37p Unholy says, "its not simple"
+2/27/25 5:15:50p Unholy says, "never uses a fuction more then 2 times"
+2/27/25 5:16:10p You have no 'chain' to equip.
+2/27/25 5:16:10p You have no 'chain' to equip.
+2/27/25 5:16:19p Shadowfire says, "AHK could do it"
+2/27/25 5:16:30p Unholy asks, "if right clik my self is ment to equip a chain?"
+2/27/25 5:16:40p You have no 'chain' to equip.
+2/27/25 5:16:41p Shadowfire says, "Yeah that's a right clicker thing"
+2/27/25 5:16:50p (Catan waves)
+2/27/25 5:16:57p Stonehand says, "depending on how you have it set up"
+2/27/25 5:16:58p Katreesa is too far away for you to reach.
+2/27/25 5:17:07p Stonehand says, "I think that's in the fighter default set"
+2/27/25 5:17:13p Unholy asks, "how do you heal with this?"
+2/27/25 5:17:17p Unholy says, "ah"
+2/27/25 5:17:20p Unholy says, "right"
+2/27/25 5:17:21p * Using Healer right-click settings.
+2/27/25 5:17:24p You have no 'Mercurial Staff' to equip.
+2/27/25 5:17:24p * Healing Katreesa
+2/27/25 5:17:25p You have no 'Mercurial Staff' to use.
+2/27/25 5:17:27p You have no 'Mercurial Staff' to equip.
+2/27/25 5:17:27p * Healing Shadowfire
+2/27/25 5:17:27p You have no 'Mercurial Staff' to use.
+2/27/25 5:17:35p Stonehand says, "there is some setup to do"
+2/27/25 5:17:37p Unholy says, "there we go :P"
+2/27/25 5:17:45p Stonehand says, "but it's pretty simple if you just want the basics"
+2/27/25 5:17:47p You have no 'Mercurial Staff' to equip.
+2/27/25 5:17:47p * Healing Sativa
+2/27/25 5:17:47p You have no 'Mercurial Staff' to use.
+2/27/25 5:17:49p You have no 'Mercurial Staff' to equip.
+2/27/25 5:17:49p * Healing Shadowfire
+2/27/25 5:17:49p You have no 'Mercurial Staff' to use.
+2/27/25 5:18:05p Katreesa says, "ok, so the game is now just a chat room until this works again"
+2/27/25 5:18:08p Unholy says, "ill have to find out how make it so there no out put when clicking nothing"
+2/27/25 5:18:15p Shadowfire says, "Oh also"
+2/27/25 5:18:20p Shadowfire says, "If you type"
+2/27/25 5:18:23p Shadowfire says, ""/healmode""
+2/27/25 5:18:31p Shadowfire says, "And rclick on yourself"
+2/27/25 5:18:31p Unholy says, "yeah did that"
+2/27/25 5:18:35p Shadowfire says, "It turns on automoonstone"
+2/27/25 5:18:35p * You begin self healing.
+2/27/25 5:18:36p You equip your moonstone.
+2/27/25 5:18:44p Stonehand says, "you can laso set up your default healing utensil"
+2/27/25 5:18:46p Unholy says, "i already got that in mine"
+2/27/25 5:18:46p Shadowfire says, "So any time you equip moonstone you heal yourself"
+2/27/25 5:18:53p Sativa says, "I am half here :-p"
+2/27/25 5:18:55p Stonehand says, "also*"
+2/27/25 5:19:03p * Healing Stonehand
+2/27/25 5:19:03p You have no 'Mercurial Staff' to equip.
+2/27/25 5:19:03p You have no 'Mercurial Staff' to use.
+2/27/25 5:19:03p Shadowfire says, "It is also possible to make healmode the default"
+2/27/25 5:19:16p Katreesa says, "well before, all I had to do was scroll wheel up to equip and dump heal into me"
+2/27/25 5:19:27p Stonehand says, "it's possible to do pretty much anything if you want to mess around enough"
+2/27/25 5:19:40p Shadowfire says, "On my healers I have moonstone as 1 so I just hit alt+1"
+2/27/25 5:19:42p Katreesa says, "and by before, I meant earlier today on an 8.1 machine"
+2/27/25 5:19:43p Unholy says, "i mean yeah its a macro"
+2/27/25 5:19:46p Koppi yells, "Hashak reports: Kordal is cute!"
+2/27/25 5:19:53p Unholy says, "brb"
+2/27/25 5:20:07p Katreesa says, "I never remember how to assign it a number"
+2/27/25 5:20:27p Shadowfire says, "Select it and hit the number"
+2/27/25 5:20:49p Shadowfire says, "As for chaining, I have a specific button on my trackball that is for that"
+2/27/25 5:20:51p Stonehand says, "I completely forgot you could do that"
+2/27/25 5:21:33p Katreesa asks, "ok, then how do I equip using the number?"
+2/27/25 5:21:57p Shadowfire says, "On my healers I have moonstone as 1 so I just hit alt+1"
+2/27/25 5:22:14p Katreesa says, "ah alt 1"
+2/27/25 5:22:26p Katreesa says, "k"
+2/27/25 5:22:38p Katreesa says, "ok got that now"
+2/27/25 5:23:05p Katreesa says, "I resent having to learn a whole new thing for shit that was just simple on a lesser machine"
+2/27/25 5:23:16p Katreesa says, "this is such bullshit"
+2/27/25 5:23:23p Shadowfire says, "Sorry, PC client :\"
+2/27/25 5:23:31p Stonehand says, "Welcome to windows"
+2/27/25 5:23:31p Katreesa says, "I don't understand why progress means I have to do more now"
+2/27/25 5:23:48p Stonehand says, "well you could always upgrade to windows 8"
+2/27/25 5:23:53p Katreesa says, "fucking stupid shit just worked on 2 other Windows versions"
+2/27/25 5:24:11p Stonehand says, "or download autohotkey"
+2/27/25 5:24:11p Katreesa says, "but not the newest..."
+2/27/25 5:24:23p Katreesa asks, "what is that?"
+2/27/25 5:24:40p Stonehand says, "that's the thing shadowfire was talking about"
+2/27/25 5:24:53p Katreesa asks, "but what is that going to do?"
+2/27/25 5:24:53p Stonehand says, "it lets you set up macros for any program, as far as I understand"
+2/27/25 5:24:57p Koppi yells, "Jeepers reports: Ma Tota, got the ill communication. Ma Tota, got the ill communication. Ma Tota, got the ill communication. Ma Tota ... nnnnn, yaaa, hunh, hanh, return tomorrow."
+2/27/25 5:25:06p Shadowfire says, "Basically you can remap stuff"
+2/27/25 5:25:08p Katreesa says, "hmm interesting"
+2/27/25 5:25:11p Law'n St'ple ponders, "ZZZzzzz..."
+2/27/25 5:25:29p Shadowfire says, "So on your end you'll hit scrollwheel but to the computer you're hitting <somethingsomething>"
+2/27/25 5:25:29p Katreesa says, "just want this to work like it did earlier today"
+2/27/25 5:25:35p Stonehand says, "so I assume you can tell it to use the scroll wheel to trigger another macro in clanlord"
+2/27/25 5:25:41p Shadowfire says, "Yeah"
+2/27/25 5:25:48p Shadowfire says, "Like my mouse macros are virtual Fkeys"
+2/27/25 5:26:03p Law'n St'ple ponders, "ZZZzzzz..."
+2/27/25 5:26:15p Stonehand says, "I think I might have used this once before when I was playing on controller"
+2/27/25 5:26:17p Katreesa asks, "How do I un update this machine to an older version of windows?"
+2/27/25 5:26:35p Stonehand says, "well you need a usb stick and rufus"
+2/27/25 5:26:38p Katreesa says, "that seems the easiest way now"
+2/27/25 5:26:50p Law'n St'ple ponders, "ZZZzzzz..."
+2/27/25 5:27:01p Shadowfire says, "Uh"
+2/27/25 5:27:02p Shadowmutt growls, "Grrr."
+2/27/25 5:27:12p Stonehand says, "download the desired version of windows from your favourite torrent site"
+2/27/25 5:27:19p Stonehand says, "follow instructions"
+2/27/25 5:27:21p Unholy says, "dont do that"
+2/27/25 5:27:27p Unholy says, "heh"
+2/27/25 5:27:30p Shadowfire asks, "I guess get a USB device and put the windows installer on it then reformat your hard drive?"
+2/27/25 5:27:40p Shadowfire says, "I don't really know I've never done it"
+2/27/25 5:27:42p Katreesa says, "I don't torrent"
+2/27/25 5:27:48p Stonehand says, "shouldn't need to format"
+2/27/25 5:27:58p Unholy says, "download rufus it will beable to download it using that"
+2/27/25 5:28:05p Stonehand says, "There might be a download for win 8 on microsoft's website"
+2/27/25 5:28:06p Crius yells, "It’s Midnight on Terrdi, the 80th day of Summer in the 640th year of the Ascendancy, and all’s well."
+2/27/25 5:28:06p • It’s Midnight on Terrdi, the 80th day of Summer in the 640th year of the Ascendancy, and all’s well.
+2/27/25 5:28:24p Stonehand says, "oh yeah probably that is the easiest way"
+2/27/25 5:28:43p Stonehand says, "I have all the old versions on a server so I forget rufus can download them"
+2/27/25 5:29:51p Shadowmutt growls, "Grrr."
+2/27/25 5:30:08p Koppi yells, "Ramandu reports: If anyone sees Elowen, we're trying to kidnap her and make her join LA, so let us know if you see her!"
+2/27/25 5:30:41p Shadowfire says, "It does sound like massively more trouble than Autohotkey"
+2/27/25 5:30:47p Stonehand says, "yeah tbh"
+2/27/25 5:31:02p Katreesa says, "This just worked on it had to at least be Windows 10 something"
+2/27/25 5:31:05p Stonehand says, "installing a new os is not 100% risk free"
+2/27/25 5:31:16p Katreesa says, "so this makes no sense."
+2/27/25 5:31:30p Stonehand says, "computers rarely do"
+2/27/25 5:32:06p Law'n St'ple ponders, "ZZZzzzz..."
+2/27/25 5:32:10p Stonehand says, "I spent most of today trying to work out wy one of mine won't connect to the network"
+2/27/25 5:32:24p Stonehand says, "still don't know"
+2/27/25 5:32:45p Unholy says, "https://www.youtube.com/watch?v=EJHKuwBhdB4"
+2/27/25 5:32:57p •You gain experience.
+2/27/25 5:33:29p Stonehand says, "I'm on win10 and it doesn't work on mine either so II'd go for win 8 personally"
+2/27/25 5:33:50p Stonehand says, "if it's what you're used to"
+2/27/25 5:33:58p Unholy says, "no"
+2/27/25 5:34:04p Katreesa says, "no, this just worked..."
+2/27/25 5:34:04p Unholy says, "windows 8 sucks ass"
+2/27/25 5:34:11p Stonehand says, "this is true"
+2/27/25 5:34:20p Katreesa says, "and my last machine was at least 10"
+2/27/25 5:34:50p * Healing Sativa
+2/27/25 5:34:51p You have no 'Mercurial Staff' to equip.
+2/27/25 5:34:51p * Healing Katreesa
+2/27/25 5:34:51p You have no 'Mercurial Staff' to use.
+2/27/25 5:34:52p You have no 'Mercurial Staff' to equip.
+2/27/25 5:34:52p * Healing Shadowfire
+2/27/25 5:34:52p You have no 'Mercurial Staff' to use.
+2/27/25 5:34:53p You have no 'Mercurial Staff' to equip.
+2/27/25 5:34:53p * Healing Stonehand
+2/27/25 5:34:53p You have no 'Mercurial Staff' to use.
+2/27/25 5:34:53p Katreesa says, "got it in late 2022 or early 2023"
+2/27/25 5:34:54p You have no 'Mercurial Staff' to equip.
+2/27/25 5:34:54p You have no 'Mercurial Staff' to use.
+2/27/25 5:34:57p Shadowmutt growls, "Grrr."
+2/27/25 5:35:15p Unholy says, "windows 10 runs on anything"
+2/27/25 5:35:18p Stonehand says, "well I'd be interested to see if it works at least"
+2/27/25 5:35:19p Koppi yells, "LittlePrince reports: If you are recently exiled we want you! The Fledgings are your people! Elowen this means you! Find Palmeri, Fortuna, or LittlePrince! Or any Fledgling! Thank you!"
+2/27/25 5:35:41p Unholy asks, "how meny buttons does your mouse have?"
+2/27/25 5:36:00p Katreesa says, "a couple"
+2/27/25 5:36:10p Katreesa says, "basic bitch mouse"
+2/27/25 5:36:12p Unholy asks, "not 5?"
+2/27/25 5:36:14p Unholy says, "ah"
+2/27/25 5:36:18p Katreesa says, "no"
+2/27/25 5:36:23p Unholy says, "no side buttons"
+2/27/25 5:36:26p Katreesa says, "nope"
+2/27/25 5:36:45p Unholy says, "so maybe auto hot key"
+2/27/25 5:36:48p Katreesa says, "and been playing with that for quite some time now"
+2/27/25 5:36:54p Unholy says, "like shadow fire said"
+2/27/25 5:37:04p Katreesa says, "k, will look for it I guess"
+2/27/25 5:38:27p Katreesa says, "no, this makes no sense"
+2/27/25 5:39:12p Katreesa says, "my machine before had to be 11, it was only new in 2022/2023 and had newest updates"
+2/27/25 5:39:21p Shadowfire says, "Ask Gbot how he fixed it"
+2/27/25 5:39:34p Shadowfire says, "He will probably have the stuff for it so you can just paste it in"
+2/27/25 5:40:09p Katreesa says, "I just hate how everything has to fight me lately"
+2/27/25 5:40:22p Katreesa says, "fucking world sucks"
+2/27/25 5:40:30p Koppi yells, "Hashak reports: Kordal is cute!"
+2/27/25 5:40:54p Katreesa says, "ok, on that note, taking my grouchy ass to bed"
+2/27/25 5:41:02p Stonehand says, "night"
+2/27/25 5:41:03p Katreesa says, "sorry"
+2/27/25 5:41:04p Shadowfire says, "night! :}"
+2/27/25 5:41:15p Katreesa says, "good night and thanks for recommendations"
+2/27/25 5:42:45p Crius yells, "It’s 1 o’clock, and all’s well."
+2/27/25 5:44:03p Stonehand says, "welp im'a head off too"
+2/27/25 5:44:11p Stonehand says, "time to watch my stories"
+2/27/25 5:44:13p Unholy says, "heh cya"
+2/27/25 5:44:23p Stonehand is done adventuring for a while and will be studying here.
+2/27/25 5:44:29p Use \SLEEP again when you return.
+2/27/25 5:44:29p You are done adventuring for a while and will be studying here.
+2/27/25 5:44:30p You have been disconnected from Clan Lord.
+2/27/25 5:44:30p • You will benefit from studying here while you are off-line.
+2/27/25 5:44:31p *** We are no longer connected to the Clan Lord game server. ***
+2/27/25 5:52:59p * Your healer's cloak is in very good condition.
+2/27/25 5:52:59p Welcome to Clan Lord, Unholy!
+2/27/25 5:52:59p Type \HELP for a list of commands.
+2/27/25 5:52:59p • You gain experience from your recent studies.
+2/27/25 5:53:00p The healing spell has started.
+2/27/25 5:53:00p You have been studying for 34 minutes.
+2/27/25 5:53:00p Friends online: none.
+2/27/25 5:53:02p It's 1:42am on Terrdi, day 80 of Summer, 640.
+2/27/25 5:53:04p You are the only member of Black Phoenix clanning.
+2/27/25 5:53:04p • What’s New: https://deltatao.com/clanlord/news • Shieldstones can now be toggled on-and-off in the usual way again. 
+2/27/25 5:53:13p * Tip of the day: Type /HELP to see a list of commands, and /HELP <command> to see help for that one. (Use /OPTIONS to turn tips off.)
+2/27/25 5:55:23p * Using Healer right-click settings.
+2/27/25 5:55:29p Click timer started.
+2/27/25 5:55:32p * You begin self healing.
+2/27/25 5:55:43p * Healing Squib
+2/27/25 5:55:43p You have no 'Mercurial Staff' to equip.
+2/27/25 5:55:43p You have no 'Mercurial Staff' to use.
+2/27/25 5:55:46p You equip your caduceus.
+2/27/25 5:55:46p You must equip your moonstone before it can be used.
+2/27/25 5:56:03p Koppi yells, "LittlePrince reports: If you are recently exiled we want you! The Fledgings are your people! Elowen this means you! Find Palmeri, Fortuna, or LittlePrince! Or any Fledgling! Thank you!"
+2/27/25 5:57:25p Crius yells, "It’s 2 o’clock, and all’s well."
+2/27/25 5:57:30p Crius yells, "It looks pretty quiet in Melabrion's conference room."
+2/27/25 5:58:01p * Using Fighter right-click settings.
+2/27/25 5:58:01p Click timer started.
+2/27/25 5:58:02p You slip your caduceus into your backpack.
+2/27/25 5:58:05p You have no 'chain' to equip.
+2/27/25 5:58:05p You have no 'chain' to use.
+2/27/25 5:58:05p You equip your caduceus.
+2/27/25 5:58:06p You have no 'chain' to equip.
+2/27/25 5:58:06p You have no 'chain' to use.
+2/27/25 5:58:07p You slip your caduceus into your backpack.
+2/27/25 5:58:09p You have no 'chain' to equip.
+2/27/25 5:58:09p You have no 'chain' to use.
+2/27/25 5:58:10p You equip your caduceus.
+2/27/25 5:58:15p You slip your caduceus into your backpack.
+2/27/25 5:58:16p You have no 'chain' to equip.
+2/27/25 5:58:16p You have no 'chain' to use.
+2/27/25 5:58:18p You have no 'chain' to equip.
+2/27/25 5:58:18p You have no 'chain' to use.
+2/27/25 5:58:19p You equip your caduceus.
+2/27/25 5:58:25p You have no 'chain' to equip.
+2/27/25 5:58:25p You have no 'chain' to use.
+2/27/25 5:58:28p You have no 'chain' to equip.
+2/27/25 5:58:29p You have no 'chain' to equip.
+2/27/25 5:58:29p You have no 'chain' to use.
+2/27/25 5:58:29p You have no 'chain' to use.
+2/27/25 5:58:30p You have no 'chain' to equip.
+2/27/25 5:58:30p You have no 'chain' to use.
+2/27/25 5:58:31p You slip your caduceus into your backpack.
+2/27/25 5:58:32p You have no 'chain' to equip.
+2/27/25 5:58:32p You have no 'chain' to use.
+2/27/25 5:58:34p You have no 'chain' to equip.
+2/27/25 5:58:35p You have no 'chain' to equip.
+2/27/25 5:58:35p You have no 'chain' to use.
+2/27/25 5:58:35p You have no 'chain' to use.
+2/27/25 5:58:37p You equip your caduceus.
+2/27/25 5:59:51p * Using Fighter right-click settings.
+2/27/25 5:59:51p Click timer started.
+2/27/25 5:59:51p You have no 'chain' to equip.
+2/27/25 5:59:51p You have no 'chain' to use.
+2/27/25 5:59:53p You slip your caduceus into your backpack.
+2/27/25 6:01:14p Koppi yells, "Jeepers reports: Ma Tota, got the ill communication. Ma Tota, got the ill communication. Ma Tota, got the ill communication. Ma Tota ... nnnnn, yaaa, hunh, hanh, return tomorrow."
+2/27/25 6:01:56p • /SLEEP when you wish to begin studying.
+2/27/25 6:01:57p • /SLEEP when you wish to begin studying.
+2/27/25 6:02:00p Use \SLEEP again when you return.
+2/27/25 6:02:00p You are done adventuring for a while and will be studying here.
+2/27/25 6:02:01p You have been disconnected from Clan Lord.
+2/27/25 6:02:01p • You will benefit from studying here while you are off-line.
+2/27/25 6:02:01p *** We are no longer connected to the Clan Lord game server. ***

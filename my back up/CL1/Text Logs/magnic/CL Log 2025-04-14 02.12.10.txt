@@ -1,0 +1,449 @@
+
+4/14/25 2:12:11a * Your pair of shoes named “red” is looking rather worn.
+4/14/25 2:12:11a * Your shirt named “dark grey” is starting to look a little worn.
+4/14/25 2:12:11a * Your pair of pants named “dark grey” is starting to look a little worn.
+4/14/25 2:12:11a Welcome to Clan Lord, Magnic!
+4/14/25 2:12:11a Type \HELP for a list of commands.
+4/14/25 2:12:11a • You have been charged 261 coins for advanced studies.
+4/14/25 2:12:11a • You gain experience from your recent studies.
+4/14/25 2:12:11a Magnic is now Clanning.
+4/14/25 2:12:11a You have been studying for 8 days, 13 hours, 7 minutes.
+4/14/25 2:12:14a It's 1:55pm on Sombdi, day 85 of Winter, 641.
+4/14/25 2:12:14a Friends online: none.
+4/14/25 2:12:15a You are the only member of Black Phoenix clanning.
+4/14/25 2:12:15a • What’s New: https://deltatao.com/clanlord/news
+4/14/25 2:12:20a •You assume the shape of a Giant Carnivorous Plankton.
+4/14/25 2:12:25a * Tip of the day: The /NAME command lets you give a custom name to any item marked with a number like <#1>. (Use /OPTIONS to turn tips off.)
+4/14/25 2:12:28a Catan growls, "I need this as a macro"
+4/14/25 2:12:31a • You return to your normal form.
+4/14/25 2:12:52a Magnic says, "https://pastebin.com/3bfEZv8z"
+4/14/25 2:13:17a Catan growls, "Thansk Magnic"
+4/14/25 2:13:23a Crius yells, "It’s 2 o’clock, and all’s well."
+4/14/25 2:13:30a •Your study of creatures is progressing.
+4/14/25 2:13:38a Hashak says, "whoa sick"
+4/14/25 2:14:13a (Hashak changes Bash's macros)
+4/14/25 2:14:21a Hashak yells, "hi"
+4/14/25 2:14:42a Yigdal says, "I'm collecting crystals for Lithia Akka's fountain."
+4/14/25 2:14:42a Yigdal ponders, "She has such grandiose plans."
+4/14/25 2:14:43a Yigdal says, "I still need many selenite crystals."
+4/14/25 2:14:45a Loom'Nir says, "Greetings, Lord Rocky."
+4/14/25 2:14:45a Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+4/14/25 2:14:46a Loom'Nir says, "Brooke Britney hired us to renovate the place."
+4/14/25 2:14:46a Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+4/14/25 2:14:46a Loom'Nir says, "But it looks like it's going to be a difficult task."
+4/14/25 2:14:47a Loom'Nir exclaims, "The whole basement of the keep is flooded!"
+4/14/25 2:14:53a Lithia Akka says, "Greetings, Rocky. I am collecting building materials and coins for a beautiful fountain for town center."
+4/14/25 2:14:53a Lithia Akka says, "It looks like we’re pretty close to done. We’ll just add the finishing touches, and then we should be ready to open up."
+4/14/25 2:14:53a Law'n St'ple nods and smiles at Rocky.
+4/14/25 2:14:53a Lithia Akka says, "To donate materials, hold out a piece of wood, stone or metal, or hold your money- purse to donate 500 coins."
+4/14/25 2:14:54a Lithia Akka says, "Greetings, Rocky. I am collecting building materials and coins for a beautiful fountain for town center."
+4/14/25 2:14:54a Lithia Akka says, "It looks like we’re pretty close to done. We’ll just add the finishing touches, and then we should be ready to open up."
+4/14/25 2:15:07a Magnic says, "ill need to fix the old judge macro, but it works for now"
+4/14/25 2:15:18a Magnic says, "doesnt do the ponder thing"
+4/14/25 2:15:23a Rocky says, "im on clienunk and I dont know how to install macros"
+4/14/25 2:15:24a You have 9833 coins.
+4/14/25 2:15:48a Magnic says, "im on windows, so its just copy and paste for me"
+4/14/25 2:16:00a Rocky says, "yeah I have a windows pc at home its very simple"
+4/14/25 2:16:06a Rocky says, "im on a macbook pro"
+4/14/25 2:16:13a Catan says, "On Mac you have a folder in finder"
+4/14/25 2:16:21a Catan says, "under you CL file"
+4/14/25 2:16:42a Cinderella is now Clanning.
+4/14/25 2:17:06a Catan says, "Magnic I was reading waht you sent me , I need t oamend it don't I,"
+4/14/25 2:17:08a Catan asks, "Magnic I was reading waht you sent me , I need t oamend it don't I?"
+4/14/25 2:18:11a '/' is not a recognized command.
+4/14/25 2:18:19a Magnic ponders, "// change monsters names to any "You have learned to assume the shape of the following creatures" creatures"
+4/14/25 2:18:35a You have 9833 coins.
+4/14/25 2:18:42a Magnic says, "the default should be GCP"
+4/14/25 2:18:47a Magnic says, "on the first one"
+4/14/25 2:19:30a Koppi yells, "News yeller, here! Get your news, make the news, tell the world!"
+4/14/25 2:20:33a Catan says, "this bit I don't get : change monsters names to any "You have learned to assume the shape of the following creatures" creatures"
+4/14/25 2:20:38a Magnic says, "you can also change them any time temparly by useing command /setmorph <index_number> <nameofmonster>"
+4/14/25 2:21:06a Magnic says, "setglobal morphnama[1] Giant Carnivorous Plankton"
+4/14/25 2:21:16a Magnic says, "chane the name of that monster"
+4/14/25 2:21:26a Rocky asks, "Magnic what morphs do you have?"
+4/14/25 2:21:27a Magnic says, "on that line for a diffrent thing"
+4/14/25 2:21:35a Magnic says, "i only have 3"
+4/14/25 2:21:39a •You assume the shape of a Young Sasquatch.
+4/14/25 2:21:40a •You assume the shape of a Giant Carnivorous Plankton.
+4/14/25 2:21:43a • You return to your normal form.
+4/14/25 2:21:46a Magnic says, "and orga"
+4/14/25 2:21:47a You have 9833 coins.
+4/14/25 2:21:53a Rocky says, "cool =)"
+4/14/25 2:22:02a Magnic says, "yeah not really :P"
+4/14/25 2:22:03a Catan says, "Only GCP"
+4/14/25 2:22:25a Magnic says, "GCP is the best one"
+4/14/25 2:22:35a Catan says, "So gruelign to get it"
+4/14/25 2:22:38a Magnic says, "luck hits and speedy hits"
+4/14/25 2:22:45a Magnic says, "nar that easy"
+4/14/25 2:22:58a Catan says, "bwithout a helaer"
+4/14/25 2:23:11a Magnic says, "i did it"
+4/14/25 2:23:24a Magnic says, "solo and squib wasnt even a thing"
+4/14/25 2:23:39a Catan asks, "Quick Metz?"
+4/14/25 2:23:47a Magnic says, "nar lori soon"
+4/14/25 2:23:50a Catan asks, "Hash Magni ROcky?"
+4/14/25 2:24:19a Pookoiko says, "squib heal me"
+4/14/25 2:24:26a Pookoiko says, "squib heal pook"
+4/14/25 2:24:27a Rocky says, "share me catan"
+4/14/25 2:24:35a Catan asks, "why?"
+4/14/25 2:24:38a Ulric is now Clanning.
+4/14/25 2:24:46a PangZa is now Clanning.
+4/14/25 2:24:49a Woolf is now Clanning.
+4/14/25 2:24:56a Rocky says, "nvm"
+4/14/25 2:24:57a You have 9833 coins.
+4/14/25 2:25:04a Pookoiko says, "thx"
+4/14/25 2:25:17a Woolf says, "Ulric you have my chain"
+4/14/25 2:25:25a Ulric says, "oh sorry"
+4/14/25 2:25:28a PangZa is no longer Clanning.
+4/14/25 2:25:41a Rocky says, "Hi Kani"
+4/14/25 2:25:45a Kani exclaims, "H'loi Rocky!"
+4/14/25 2:25:49a Woolf says, "Thanks"
+4/14/25 2:25:54a (Rocky smiles)
+4/14/25 2:25:56a Ulric is no longer Clanning.
+4/14/25 2:26:13a Rocky says, "Kani can u show me your fighter ranks"
+4/14/25 2:26:18a Kani exclaims, "Sure!"
+4/14/25 2:26:37a Kani exclaims, "H'loi Magnic!"
+4/14/25 2:26:40a Magnic says, "hi"
+4/14/25 2:26:41a Atkus says, "Hail, Kani."
+4/14/25 2:26:41a Atkus bows deeply.
+4/14/25 2:26:43a Atkus says, "Your devotion to the craft is exemplary."
+4/14/25 2:26:43a * Atkus : 750-799.
+4/14/25 2:26:43a Atkus says, "I can teach you how to attack more effectively."
+4/14/25 2:26:49a Rocky says, "wow nice"
+4/14/25 2:26:52a Swengus says, "Hail, Kani."
+4/14/25 2:26:52a Swengus bows deeply.
+4/14/25 2:26:54a Swengus says, "You are a model of dedication."
+4/14/25 2:26:54a * Swengus : 2250–2499.
+4/14/25 2:26:54a Swengus says, "I can teach you to keep your balance while attacking."
+4/14/25 2:27:00a Histia says, "Hail, Kani. Teaching you has taught me much."
+4/14/25 2:27:00a * Histia : 300-349.
+4/14/25 2:27:01a Histia says, "I can teach you how to withstand more damage."
+4/14/25 2:27:01a Histia says, "You will learn as you practice."
+4/14/25 2:27:04a (Kani giggles.)
+4/14/25 2:27:08a Kani says, "I'm less good friends with Histia."
+4/14/25 2:27:16a Evus says, "Hail, Kani."
+4/14/25 2:27:16a Evus bows deeply.
+4/14/25 2:27:18a Evus says, "Your skill astounds me."
+4/14/25 2:27:18a * Evus : 1500-1749.
+4/14/25 2:27:18a * Magnic : 1500-1749
+4/14/25 2:27:19a Evus says, "I can teach you a well-rounded combat approach."
+4/14/25 2:27:28a Detha says, "Hail, Kani. There is not much more I can teach you."
+4/14/25 2:27:28a * Detha : 250-299.
+4/14/25 2:27:33a Balthus says, "Hail, Kani."
+4/14/25 2:27:33a Balthus bows deeply.
+4/14/25 2:27:35a Balthus says, "Your persistence is an example to us all."
+4/14/25 2:27:35a * Balthus : 1250-1499.
+4/14/25 2:27:35a Balthus says, "I can teach you to improve your stance and balance."
+4/14/25 2:27:38a Regia says, "Hail, Kani."
+4/14/25 2:27:38a Regia bows deeply.
+4/14/25 2:27:40a Regia says, "You have progressed further than most."
+4/14/25 2:27:40a * Regia : 1750-1999.
+4/14/25 2:27:40a Regia says, "I can teach you how to regain your balance after attacking."
+4/14/25 2:27:42a Darkus says, "Hail, Kani."
+4/14/25 2:27:42a Darkus bows deeply.
+4/14/25 2:27:44a Darkus says, "Your persistence is an example to us all."
+4/14/25 2:27:44a * Darkus : 1250-1499.
+4/14/25 2:27:49a (Kani smiles.)
+4/14/25 2:27:50a Darkus says, "Hail, Magnic. You may be proud of your accomplishment."
+4/14/25 2:27:50a * Darkus : 450-499.
+4/14/25 2:27:51a Darkus says, "I can teach you how to deal more damage."
+4/14/25 2:27:51a Darkus says, "You will learn as you practice."
+4/14/25 2:27:52a Regia says, "Hail, Magnic."
+4/14/25 2:27:52a Regia bows deeply.
+4/14/25 2:27:54a Regia says, "Your devotion to the craft is exemplary."
+4/14/25 2:27:54a * Regia : 750-799.
+4/14/25 2:27:55a Regia says, "I can teach you how to regain your balance after attacking."
+4/14/25 2:27:55a Regia says, "You will learn as you practice."
+4/14/25 2:27:56a Rocky says, "wow nice darkus"
+4/14/25 2:27:56a Kani says, "Very nice."
+4/14/25 2:27:57a Balthus says, "Hail, Magnic."
+4/14/25 2:27:57a Balthus bows deeply.
+4/14/25 2:27:59a Balthus says, "It is always good to greet a respected colleague."
+4/14/25 2:27:59a * Balthus : 800-899.
+4/14/25 2:28:00a Balthus says, "I can teach you to improve your stance and balance."
+4/14/25 2:28:00a Balthus says, "You will learn as you practice."
+4/14/25 2:28:00a Rocky says, "Kani"
+4/14/25 2:28:02a Detha says, "Hail, Magnic. There is not much more I can teach you."
+4/14/25 2:28:02a * Detha : 250-299.
+4/14/25 2:28:02a Detha says, "I can teach you to defend yourself from hostile intent."
+4/14/25 2:28:02a Detha says, "You will learn as you practice."
+4/14/25 2:28:07a You have 9833 coins.
+4/14/25 2:28:09a Evus says, "Hail, Magnic."
+4/14/25 2:28:09a Evus bows deeply.
+4/14/25 2:28:10a Catan thinks, "Any tailonr around please?"
+4/14/25 2:28:11a Evus says, "Your persistence is an example to us all."
+4/14/25 2:28:11a * Evus : 1250-1499.
+4/14/25 2:28:11a Evus says, "I can teach you a well-rounded combat approach."
+4/14/25 2:28:12a Evus says, "You will learn as you practice."
+4/14/25 2:28:12a Kani says, "Darkus and Regia are my specialties."
+4/14/25 2:28:13a Histia says, "Hail, Magnic. We are nearly equals."
+4/14/25 2:28:13a * Histia : 400-449.
+4/14/25 2:28:14a Histia says, "I can teach you how to withstand more damage."
+4/14/25 2:28:14a Histia says, "You will learn as you practice."
+4/14/25 2:28:15a Swengus says, "Hail, Magnic."
+4/14/25 2:28:16a Swengus bows deeply.
+4/14/25 2:28:18a Swengus says, "Your persistence is an example to us all."
+4/14/25 2:28:18a * Swengus : 1250-1499.
+4/14/25 2:28:18a Swengus says, "I can teach you to keep your balance while attacking."
+4/14/25 2:28:19a Swengus says, "You will learn as you practice."
+4/14/25 2:28:19a Atkus says, "Hail, Magnic. You have attained tremendous skill."
+4/14/25 2:28:20a * Atkus : 350-399.
+4/14/25 2:28:20a Atkus says, "I can teach you how to attack more effectively."
+4/14/25 2:28:20a Atkus says, "You will learn as you practice."
+4/14/25 2:28:25a Rocky says, "1250 darkus wtf"
+4/14/25 2:28:26a Catan thinks, "Any tailor around please?"
+4/14/25 2:28:34a Kani says, "I don't do much real rangering."
+4/14/25 2:28:39a Rocky says, "impresivve"
+4/14/25 2:28:40a Kani says, "So I don't get those study bonuses on things."
+4/14/25 2:28:42a Shadowmutt pants.
+4/14/25 2:28:46a Ace asks, "his histia?"
+4/14/25 2:28:47a Magnic says, "heh only 250 goss as well"
+4/14/25 2:28:51a (Kani laughs.)
+4/14/25 2:28:54a Magnic says, ":D"
+4/14/25 2:29:02a Ace ponders, "probs more so than mine"
+4/14/25 2:29:05a Catan asks, "Who only ha d250 goss?"
+4/14/25 2:29:11a (Kani has less than 250 goss.)
+4/14/25 2:29:16a Ace says, "ah"
+4/14/25 2:29:19a Ace says, "I just got to 350"
+4/14/25 2:29:23a Rocky says, "1250 darkus is so freaking good"
+4/14/25 2:29:25a Ace says, "Going till 500"
+4/14/25 2:29:29a Ace says, "But I also have 1000 darkus"
+4/14/25 2:29:32a Catan asks, "You on Bangus Kani?"
+4/14/25 2:29:34a Kani says, "Ace is Kani-style."
+4/14/25 2:29:41a Kani says, "Or maybe Kani is Ace-style."
+4/14/25 2:29:41a Koppi yells, "News yeller, here! Get your news, make the news, tell the world!"
+4/14/25 2:29:41a Ace says, "heh"
+4/14/25 2:29:43a Kani exclaims, "You decide!"
+4/14/25 2:29:48a Rocky says, "I want to be Kani style"
+4/14/25 2:29:48a Ace says, "We are all Mork-style"
+4/14/25 2:29:51a (Kani nods.)
+4/14/25 2:29:54a Squib whispers, "attack"
+4/14/25 2:30:10a Rocky asks, "Kani what is your rank in bangus anmash?"
+4/14/25 2:30:11a Catan asks, "You trained Bangus Kani?"
+4/14/25 2:30:24a Magnic ponders, "theres no atkia + darktur trainer"
+4/14/25 2:30:39a Catan ponders, "isn't taht Goss Magnic?"
+4/14/25 2:30:41a Kani says, "I did train Bangus."
+4/14/25 2:30:44a Bronko says, "squib heal pook"
+4/14/25 2:30:46a Kani says, "I wanted some more Troilus, which is why."
+4/14/25 2:30:48a Bronko says, "squib heal bronko"
+4/14/25 2:30:49a Ace says, "I am mostly bangus"
+4/14/25 2:30:50a Rocky says, "Bangus awesome trainer"
+4/14/25 2:30:52a Ace says, "About 2200"
+4/14/25 2:30:57a Rocky says, "wow Ace"
+4/14/25 2:31:00a Magnic says, "only 1125 bangus"
+4/14/25 2:31:05a Ace says, "But"
+4/14/25 2:31:12a Ace says, "It does greatly increase your damage variability"
+4/14/25 2:31:19a You have 9833 coins.
+4/14/25 2:31:20a Ace says, "Because it gives you more maximum than minimum damage"
+4/14/25 2:31:25a Cinderella is no longer Clanning.
+4/14/25 2:31:30a Ace says, "SO you'll be inconsitent, which can be annoying"
+4/14/25 2:31:34a Ace says, "Be aware of that"
+4/14/25 2:31:41a Rocky says, "bangus is a combo trainer like evus, he is about 31% more rank effcient than training all of his components individually"
+4/14/25 2:31:48a Rocky says, "OP"
+4/14/25 2:31:54a Squib whispers, "attack"
+4/14/25 2:31:59a Ace says, "Yes, with the asterix I just mentioned"
+4/14/25 2:32:19a Catan says, "I have not trained Bnagus yet"
+4/14/25 2:32:20a Magnic says, "more affective"
+4/14/25 2:32:28a Magnic says, "not effcient"
+4/14/25 2:32:39a Rocky says, "Kani lets pvp? I buy dueling blade items"
+4/14/25 2:32:46a Kani says, "Oh, one sec."
+4/14/25 2:32:56a (Kani needs to make room in his pack.)
+4/14/25 2:33:10a Kani asks, "Hold these?"
+4/14/25 2:33:16a Kani says, "Or don't, I suppose :D"
+4/14/25 2:33:39a Ace picks up a brambleberry cluster.
+4/14/25 2:33:54a Squib whispers, "attack"
+4/14/25 2:34:16a Catan asks, "Have you trained Farly Magnic?"
+4/14/25 2:34:29a You have 9833 coins.
+4/14/25 2:34:33a Magnic says, "she says 250 or 350"
+4/14/25 2:34:46a Rocky says, "3"
+4/14/25 2:34:48a Rocky says, "2"
+4/14/25 2:34:49a Rocky says, "1"
+4/14/25 2:34:50a Rocky says, "go"
+4/14/25 2:35:06a Rocky says, "LOL"
+4/14/25 2:35:13a Rocky says, "that damage"
+4/14/25 2:35:15a Magnic says, "rocky"
+4/14/25 2:35:19a Kani says, "Squib walk northwest"
+4/14/25 2:35:20a Magnic says, "do it in morph"
+4/14/25 2:35:25a Catan says, "SHe says 250 or 350"
+4/14/25 2:35:29a Catan asks, "SHe says 250 or 350?"
+4/14/25 2:35:31a Kani says, "Squib heal Rocky"
+4/14/25 2:35:35a Rocky asks, "GCP MORPH?"
+4/14/25 2:35:36a Magnic says, "i think so"
+4/14/25 2:35:38a Ravenstorm is now Clanning.
+4/14/25 2:35:41a Magnic says, "yes"
+4/14/25 2:35:44a Rocky says, "OK lol"
+4/14/25 2:35:45a Magnic says, "its your belt"
+4/14/25 2:35:50a Magnic says, "not your sword"
+4/14/25 2:35:54a Squib whispers, "attack"
+4/14/25 2:35:58a Rocky says, "squib heal me"
+4/14/25 2:36:09a Suu'ub III is now Clanning.
+4/14/25 2:36:20a Kani asks, "Did you want to go again, or was once enough?"
+4/14/25 2:36:29a Rocky says, "again"
+4/14/25 2:36:41a Magnic says, "let try hit you with his morph :P"
+4/14/25 2:36:57a Stormraven is now Clanning.
+4/14/25 2:37:03a Rocky says, "hahaha"
+4/14/25 2:37:12a Shadowmutt growls, "Grrr."
+4/14/25 2:37:19a Suu'ub III says, "almost got you with that 1 hit"
+4/14/25 2:37:21a Rocky says, "Damage is random"
+4/14/25 2:37:22a (Kani nods.)
+4/14/25 2:37:27a Kani says, "Nearly one-hit me, was close."
+4/14/25 2:37:29a Suu'ub III says, "<=^_^=>"
+4/14/25 2:37:43a Catan says, "Hello Lord Suu'"
+4/14/25 2:37:44a You have 9833 coins.
+4/14/25 2:37:45a Rocky says, "Your first hit was half my bar hp"
+4/14/25 2:37:47a Suu'ub III exclaims, "yo!"
+4/14/25 2:37:54a Squib whispers, "attack"
+4/14/25 2:38:01a Rocky says, "im lagging ......."
+4/14/25 2:38:05a Stormraven is no longer Clanning.
+4/14/25 2:38:15a (Squib looks a bit worried for Pookoiko)
+4/14/25 2:38:29a Rocky says, "Ur damage is so random wtf"
+4/14/25 2:38:30a Magnic ponders, "squib stop resharing"
+4/14/25 2:38:44a Rocky says, "you win Kani"
+4/14/25 2:38:49a Rocky says, "i get you next time"
+4/14/25 2:38:57a Rocky says, ":P"
+4/14/25 2:39:04a Suu'ub III asks, "u wanna see him go splat?"
+4/14/25 2:39:09a Shadowmutt growls, "Grrr."
+4/14/25 2:39:15a Kani says, "That's good, I have a bajillion ranks (which is 1/4 as many as Suu'ub's bajillion^quadruplillion"
+4/14/25 2:39:17a Kani says, "That's good, I have a bajillion ranks (which is 1/4 as many as Suu'ub's bajillion^quadruplillion)"
+4/14/25 2:39:23a Kani says, "Sure, splat me."
+4/14/25 2:39:33a Kani says, "Are you gonna summon a scavenger bird."
+4/14/25 2:39:38a Suu'ub III says, "bahaha"
+4/14/25 2:39:52a Koppi yells, "News yeller, here! Get your news, make the news, tell the world!"
+4/14/25 2:39:54a Squib whispers, "attack"
+4/14/25 2:39:54a Kani ponders, "uh oh, Ravenstorm"
+4/14/25 2:39:57a (Suu'ub III nods)
+4/14/25 2:40:24a Rocky says, "nvm"
+4/14/25 2:40:28a Ravenstorm says, "easier to hit from behind"
+4/14/25 2:40:39a Suu'ub III says, "we're waiting for you to splat him for comedic purposes raven"
+4/14/25 2:40:45a Kani says, "Please hit me, Raver. ;)"
+4/14/25 2:41:02a Rocky says, "Ok im done"
+4/14/25 2:41:05a Rocky says, "lol"
+4/14/25 2:41:06a Pendarric is now Clanning.
+4/14/25 2:41:07a Lady Dragon is now Clanning.
+4/14/25 2:41:07a You have 9833 coins.
+4/14/25 2:41:09a Kani says, "Pass Raver your gear"
+4/14/25 2:41:11a (Suu'ub III's amused)
+4/14/25 2:41:11a Kani says, "So he can smush me"
+4/14/25 2:41:28a Ravenstorm picks up a dueling glove.
+4/14/25 2:41:29a Catan says, "Unfortunately I can't stay."
+4/14/25 2:41:34a Ravenstorm picks up a dueling blade.
+4/14/25 2:41:36a Loom'Nir says, "Greetings, Lord Darth Wader."
+4/14/25 2:41:37a Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+4/14/25 2:41:37a Elenis Reyav is now Clanning.
+4/14/25 2:41:37a Loom'Nir says, "Brooke Britney hired us to renovate the place."
+4/14/25 2:41:38a Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+4/14/25 2:41:40a Suu'ub III says, "there isnt an NNK hunt right now."
+4/14/25 2:41:41a Rocky says, "kani vs raven"
+4/14/25 2:41:46a Pendarric is no longer Clanning.
+4/14/25 2:41:47a Rocky says, "3"
+4/14/25 2:41:48a Kani says, "This will end in my tears."
+4/14/25 2:41:49a Rocky says, "2"
+4/14/25 2:41:50a Rocky says, "1"
+4/14/25 2:41:51a Rocky says, "1"
+4/14/25 2:41:51a Rocky says, "go"
+4/14/25 2:41:52a Suu'ub III exclaims, "get him kani!"
+4/14/25 2:41:54a Squib whispers, "attack"
+4/14/25 2:41:54a Elenis Reyav is no longer Clanning.
+4/14/25 2:41:59a Suu'ub III says, "you can doooo eeeeet"
+4/14/25 2:42:03a (Suu'ub III laughs)
+4/14/25 2:42:04a Rocky says, "ahahahaha"
+4/14/25 2:42:08a Kani exclaims, "Grr!"
+4/14/25 2:42:11a Vielerand is now Clanning.
+4/14/25 2:42:15a Kani exclaims, "Ow!"
+4/14/25 2:42:15a Suu'ub III says, "haha"
+4/14/25 2:42:18a Kani says, "Stop it, you bully."
+4/14/25 2:42:24a Rocky says, "damn Raven wtf"
+4/14/25 2:42:24a Catan says, "Gotta be afk a few hours"
+4/14/25 2:42:26a Ravenstorm says, "getting close to 2500 detha message"
+4/14/25 2:42:28a Suu'ub III says, "i didnt expect to have this much fun out of the library on a lazy sunday afternoon"
+4/14/25 2:42:29a Ravenstorm says, "nice"
+4/14/25 2:42:31a Kani exclaims, "Ha!"
+4/14/25 2:42:37a Ravenstorm says, "good damage"
+4/14/25 2:42:39a Ravenstorm says, "1500 histia"
+4/14/25 2:42:41a Rocky says, "raven hit"
+4/14/25 2:42:42a Seaforth is now Clanning.
+4/14/25 2:42:47a Crius yells, "It’s 4 o’clock, and all’s well."
+4/14/25 2:42:53a Suu'ub III says, "im surprised he took 3"
+4/14/25 2:43:00a Suu'ub III says, "fiiiiinish him"
+4/14/25 2:43:04a Suu'ub III says, "yessss"
+4/14/25 2:43:05a Seaforth says, "lol"
+4/14/25 2:43:06a Ace says, "must have been 3 low rolls"
+4/14/25 2:43:10a Ravenstorm says, "very good damage"
+4/14/25 2:43:15a Yigdal says, "I'm collecting crystals for Lithia Akka's fountain."
+4/14/25 2:43:17a Suu'ub III says, "oh man that was quality entertainment"
+4/14/25 2:43:26a Kani says, "It was good."
+4/14/25 2:43:28a Suu'ub III says, "he took 4 raven hits, time for darkus raver"
+4/14/25 2:43:30a (Catan waves)
+4/14/25 2:43:31a Rocky says, "I want to be Raven style"
+4/14/25 2:43:32a Ravenstorm says, "Kani youre very strong..hard to hit me for real"
+4/14/25 2:43:32a (Kani extends a hand to Raven.)
+4/14/25 2:43:36a Rocky says, "bye catan"
+4/14/25 2:43:37a Ravenstorm says, "im imipressed"
+4/14/25 2:43:40a Eirian Caldwell is now Clanning.
+4/14/25 2:43:42a Ravenstorm says, "well played sir"
+4/14/25 2:43:48a Catan is no longer Clanning.
+4/14/25 2:43:49a Kani exclaims, "And you, you are the Prince of Fens!"
+4/14/25 2:43:50a Seaforth exclaims, "what the HELL is going on here!"
+4/14/25 2:43:59a (Kani slaps Seaforth with a dueling glove.)
+4/14/25 2:44:06a Suu'ub III says, "good old PvP. like CL was meant to be"
+4/14/25 2:44:08a Woolf is no longer Clanning.
+4/14/25 2:44:10a Ravenstorm says, "yes i am pretty strong ^^"
+4/14/25 2:44:14a (Eirian Caldwell chuckles.)
+4/14/25 2:44:16a You have 9833 coins.
+4/14/25 2:44:22a Rocky says, "Kani equip gloves"
+4/14/25 2:44:23a (Seaforth has Kani thrown in a dungeon)
+4/14/25 2:44:25a Ravenstorm says, "i usually dont duel but ppl asked and I am about the community ^^"
+4/14/25 2:44:31a Suu'ub III says, "heh"
+4/14/25 2:44:36a Suu'ub III says, "way2be a team player raver"
+4/14/25 2:44:36a Rocky says, "ohhh gotcha"
+4/14/25 2:44:40a Kani says, "Ravenstorm is to Kani as Kani is to Rocky."
+4/14/25 2:44:43a (Eirian Caldwell grins.)
+4/14/25 2:44:44a Lorikeet is now Clanning.
+4/14/25 2:44:55a Suu'ub III says, "beating up on weaker characters. What CL was meant to be"
+4/14/25 2:44:56a Ponyo thinks, "be nice to Kani, or he'll snap his suspenders at you!"
+4/14/25 2:45:01a Rocky asks, "Raven do you beat Silky?"
+4/14/25 2:45:03a (Kani snaps his suspenders at Ravenstorm.)
+4/14/25 2:45:06a Ravenstorm says, "i never duel"
+4/14/25 2:45:17a (Lorikeet waves.)
+4/14/25 2:45:21a (Eirian Caldwell waves)
+4/14/25 2:45:22a Ravenstorm says, "i would say Gorv Kal SIlky and myself are the strongest fighters"
+4/14/25 2:45:23a (Magnic waves)
+4/14/25 2:45:23a Seaforth says, "hello Lori"
+4/14/25 2:45:27a Ravenstorm says, "in no particular order"
+4/14/25 2:45:30a Cecil thinks, "I think I was nice to Kani one time before, it didn't suit him"
+4/14/25 2:45:30a Ravenstorm says, "hi"
+4/14/25 2:45:31a Suu'ub III says, "they're both rangers, and not really trained for PvP. they'd prolly just whiff each other to death."
+4/14/25 2:45:31a Rocky says, "kALIAN has 5000 swengus"
+4/14/25 2:45:37a Ravenstorm says, "yes"
+4/14/25 2:45:46a Ravenstorm says, "we are all trained differently but similar"
+4/14/25 2:45:52a Naferu is now Clanning.
+4/14/25 2:45:54a Rocky says, "Kalian has low detha"
+4/14/25 2:46:01a Lorikeet asks, "Is that the boardwalk?"
+4/14/25 2:46:02a Bulgatra is now Clanning.
+4/14/25 2:46:04a (Suu'ub III nods)
+4/14/25 2:46:05a Eirian Caldwell says, "yes"
+4/14/25 2:46:06a Ravenstorm says, "i am pretty balanced all around"
+4/14/25 2:46:09a Ravenstorm says, "yes"
+4/14/25 2:46:12a Lorikeet asks, "Same time as the bookfort?"
+4/14/25 2:46:19a Suu'ub III exclaims, "all kinds of entertainment options!"
+4/14/25 2:46:20a Ace says, "Didn't Kalian beat the entire community a few years ago in capture the flag"
+4/14/25 2:46:23a Lorikeet says, "Well that's interesting"
+4/14/25 2:46:26a Ravenstorm says, "probably"
+4/14/25 2:46:30a Chmee is now Clanning.
+4/14/25 2:46:30a Suu'ub III says, "plus town dueling. something for everyone."
+4/14/25 2:46:40a Rocky says, "I got a special attack"
+4/14/25 2:46:43a Lorikeet asks, "You planning to come Raven?"
+4/14/25 2:46:43a Rocky throws his boomerang.
+4/14/25 2:46:49a Magnic says, "heh"
+4/14/25 2:46:51a Suu'ub III says, "solid attempt"
+4/14/25 2:46:52a Lorikeet asks, "Or you doing something else?"
+4/14/25 2:47:13a Ravenstorm says, "i can come help wherever you all go"
+4/14/25 2:47:26a You have 9833 coins.
+4/14/25 2:47:27a Lorikeet says, "Kind of hard to figure it out today"
+4/14/25 2:47:31a Shadowmutt growls, "Grrr."
+4/14/25 2:47:34a Suu'ub III ponders, "the red and black shall rule the lands"
+4/14/25 2:47:41a (Eirian Caldwell grins.)
+4/14/25 2:47:52a Lorikeet asks, "What do you think we could do Raven?"
+4/14/25 2:47:58a Rocky says, "Pls lets go OP"
+4/14/25 2:47:58a Magnic ponders, "hmm does that mean me 3?"
+4/14/25 2:48:00a Ravenstorm says, "we can honestly do anything"
+4/14/25 2:48:10a Lorikeet says, "Don't want to waste Raven and 

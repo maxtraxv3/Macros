@@ -1,0 +1,535 @@
+
+10/7/25 2:50:36a * Your pair of shoes named “purple” is in nearly perfect condition.
+10/7/25 2:50:36a * Your shirt named “dark grey” is in pretty good shape.
+10/7/25 2:50:36a * Your pair of pants named “dark grey” is in very good condition.
+10/7/25 2:50:36a Welcome to Clan Lord, Ajahn!
+10/7/25 2:50:36a Type \HELP for a list of commands.
+10/7/25 2:50:37a Ajahn is now Clanning.
+10/7/25 2:50:39a It's 12:26pm on Fordi, day 85 of Winter, 643.
+10/7/25 2:50:41a You are the only member of Black Phoenix clanning.
+10/7/25 2:50:41a • There was a problem with the update and we had to revert to a previous snapshot. We've attempted to give 25 ranks as compensation, but have reports of people missing it. We're investigating.
+10/7/25 2:50:41a •What's New: https://deltatao.com/clanlord/news/
+10/7/25 2:50:43a Friends online: none.
+10/7/25 2:50:49a You slaughtered a Vermine.
+10/7/25 2:50:50a * Tip of the day: You can’t be pushed if you’re asleep. (Use /OPTIONS to turn tips off.)
+10/7/25 2:50:51a You slaughtered a Rat.
+10/7/25 2:50:54a You slaughtered a Rat.
+10/7/25 2:50:55a You slaughtered a Rat.
+10/7/25 2:50:58a You slaughtered a Rat.
+10/7/25 2:51:02a You slaughtered a Rat.
+10/7/25 2:51:03a You slaughtered a Rat.
+10/7/25 2:51:04a You slaughtered a Rat.
+10/7/25 2:51:05a You slaughtered a Rat.
+10/7/25 2:51:06a * You recover the Rat fur, worth 1c. Your share is 1c.
+10/7/25 2:51:12a Ace is no longer Clanning.
+10/7/25 2:51:21a Evus says, "Hail, Ajahn."
+10/7/25 2:51:21a Evus bows.
+10/7/25 2:51:22a •You seem to fight more effectively now.
+10/7/25 2:51:23a Evus says, "Your dedication is commendable."
+10/7/25 2:51:24a * Evus : 550-599.
+10/7/25 2:51:24a Evus says, "I can teach you a well-rounded combat approach."
+10/7/25 2:51:24a Evus says, "You will learn as you practice."
+10/7/25 2:51:41a You slaughtered a Rat.
+10/7/25 2:52:09a You slaughtered a Rat.
+10/7/25 2:52:14a You have 30567 coins.
+10/7/25 2:52:16a You slaughtered a Rat.
+10/7/25 2:52:17a You slaughtered a Rat.
+10/7/25 2:52:18a You slaughtered a Rat.
+10/7/25 2:52:19a You slaughtered a Rat.
+10/7/25 2:52:24a You slaughtered a Rat.
+10/7/25 2:52:25a You slaughtered a Rat.
+10/7/25 2:52:31a You slaughtered a Vermine.
+10/7/25 2:52:31a You slaughtered a Vermine.
+10/7/25 2:52:33a You slaughtered a Rat.
+10/7/25 2:52:34a You slaughtered a Rat.
+10/7/25 2:52:37a You slaughtered a Rat.
+10/7/25 2:52:39a You slaughtered a Rat.
+10/7/25 2:52:47a You slaughtered a Rat.
+10/7/25 2:52:53a •You seem to fight more effectively now.
+10/7/25 2:52:53a You slaughtered a Rat.
+10/7/25 2:52:59a You slaughtered a Vermine.
+10/7/25 2:53:01a You slaughtered a Rat.
+10/7/25 2:53:02a You slaughtered a Rat.
+10/7/25 2:53:02a • You experiment with a new fighting style.
+10/7/25 2:53:07a You slaughtered a Rat.
+10/7/25 2:53:08a You slaughtered a Rat.
+10/7/25 2:53:11a You slaughtered a Rat.
+10/7/25 2:53:16a You slaughtered a Rat.
+10/7/25 2:53:20a You slaughtered a Vermine.
+10/7/25 2:53:21a You slaughtered a Vermine.
+10/7/25 2:53:23a You slaughtered a Rat.
+10/7/25 2:53:24a You slaughtered a Rat.
+10/7/25 2:53:28a You slaughtered a Rat.
+10/7/25 2:53:31a You slaughtered a Rat.
+10/7/25 2:53:32a You slaughtered a Rat.
+10/7/25 2:53:34a You slaughtered a Rat.
+10/7/25 2:53:35a You have 30567 coins.
+10/7/25 2:53:38a You slaughtered a Rat.
+10/7/25 2:53:39a You slaughtered a Rat.
+10/7/25 2:53:48a You slaughtered a Rat.
+10/7/25 2:53:59a You slaughtered a Scavenger Bird.
+10/7/25 2:53:59a Boots toys with a bug on the ground.
+10/7/25 2:54:00a You slaughtered a Rat.
+10/7/25 2:54:02a You slaughtered a Rat.
+10/7/25 2:54:03a You slaughtered a Scavenger Bird.
+10/7/25 2:54:05a You slaughtered a Scavenger Bird.
+10/7/25 2:54:10a You slaughtered a Rat.
+10/7/25 2:54:18a You slaughtered a Rat.
+10/7/25 2:54:18a You slaughtered a Rat.
+10/7/25 2:54:19a You slaughtered a Rat.
+10/7/25 2:54:23a •You seem to fight more effectively now.
+10/7/25 2:54:24a You slaughtered a Rat.
+10/7/25 2:54:28a You slaughtered a Rat.
+10/7/25 2:54:29a You slaughtered a Rat.
+10/7/25 2:54:30a You slaughtered a Rat.
+10/7/25 2:54:32a You slaughtered a Rat.
+10/7/25 2:54:33a Brisk is no longer Clanning.
+10/7/25 2:54:34a You slaughtered a Rat.
+10/7/25 2:54:41a You slaughtered a Rat.
+10/7/25 2:54:42a You slaughtered a Rat.
+10/7/25 2:55:23a You slaughtered a Vermine.
+10/7/25 2:55:24a You slaughtered a Vermine.
+10/7/25 2:55:26a You slaughtered a Rat.
+10/7/25 2:55:27a You slaughtered a Vermine.
+10/7/25 2:55:29a You slaughtered a Vermine.
+10/7/25 2:55:31a You slaughtered a Rat.
+10/7/25 2:55:34a You slaughtered a Rat.
+10/7/25 2:55:36a You slaughtered a Rat.
+10/7/25 2:55:40a You slaughtered a Rat.
+10/7/25 2:55:44a You slaughtered a Vermine.
+10/7/25 2:55:45a You slaughtered a Rat.
+10/7/25 2:55:46a You slaughtered a Rat.
+10/7/25 2:55:53a You slaughtered a Rat.
+10/7/25 2:55:54a •You seem to fight more effectively now.
+10/7/25 2:56:13a You slaughtered a Vermine.
+10/7/25 2:56:14a You slaughtered a Rat.
+10/7/25 2:56:14a You slaughtered a Rat.
+10/7/25 2:56:16a You slaughtered a Rat.
+10/7/25 2:56:19a You slaughtered a Vermine.
+10/7/25 2:56:21a You slaughtered a Rat.
+10/7/25 2:56:24a You slaughtered a Rat.
+10/7/25 2:56:29a You slaughtered a Rat.
+10/7/25 2:56:31a You have 30567 coins.
+10/7/25 2:56:31a You slaughtered a Rat.
+10/7/25 2:56:34a You slaughtered a Rat.
+10/7/25 2:56:38a You slaughtered a Rat.
+10/7/25 2:56:43a You slaughtered a Rat.
+10/7/25 2:57:05a Evus says, "Hail, Ajahn."
+10/7/25 2:57:06a Evus bows.
+10/7/25 2:57:08a Evus says, "Your dedication is commendable."
+10/7/25 2:57:08a * Evus : 550-599.
+10/7/25 2:57:08a Evus says, "I can teach you a well-rounded combat approach."
+10/7/25 2:57:08a Evus says, "You will learn as you practice."
+10/7/25 2:57:23a You slaughtered a Rat.
+10/7/25 2:57:24a •You seem to fight more effectively now.
+10/7/25 2:57:24a You slaughtered a Rat.
+10/7/25 2:57:25a You slaughtered a Rat.
+10/7/25 2:57:29a You slaughtered a Rat.
+10/7/25 2:57:30a You slaughtered a Rat.
+10/7/25 2:57:36a You slaughtered a Rat.
+10/7/25 2:57:40a You slaughtered a Rat.
+10/7/25 2:57:57a Evus says, "Hail, Ajahn."
+10/7/25 2:57:57a Evus bows.
+10/7/25 2:57:59a Evus says, "Your dedication is commendable."
+10/7/25 2:57:59a * Evus : 550-599.
+10/7/25 2:57:59a Evus says, "I can teach you a well-rounded combat approach."
+10/7/25 2:58:00a Evus says, "You will learn as you practice."
+10/7/25 2:58:02a Aervis is no longer Clanning.
+10/7/25 2:58:05a Sullin is now Clanning.
+10/7/25 2:58:15a You slaughtered a Rat.
+10/7/25 2:58:18a You slaughtered a Rat.
+10/7/25 2:58:22a You slaughtered a Rat.
+10/7/25 2:58:23a You slaughtered a Rat.
+10/7/25 2:58:27a You slaughtered a Rat.
+10/7/25 2:58:34a You slaughtered a Rat.
+10/7/25 2:58:36a You slaughtered a Rat.
+10/7/25 2:58:38a You slaughtered a Rat.
+10/7/25 2:58:41a You slaughtered a Rat.
+10/7/25 2:58:42a You slaughtered a Rat.
+10/7/25 2:58:45a You slaughtered a Rat.
+10/7/25 2:58:54a •You seem to fight more effectively now.
+10/7/25 2:58:59a You slaughtered a Scavenger Bird.
+10/7/25 2:59:10a Evus says, "Hail, Ajahn."
+10/7/25 2:59:10a Evus bows.
+10/7/25 2:59:12a Evus says, "Your dedication is commendable."
+10/7/25 2:59:12a * Evus : 550-599.
+10/7/25 2:59:13a Evus says, "I can teach you a well-rounded combat approach."
+10/7/25 2:59:13a Evus says, "You will learn as you practice."
+10/7/25 2:59:23a You slaughtered a Rat.
+10/7/25 2:59:27a You have 30567 coins.
+10/7/25 2:59:55a You slaughtered a Rat.
+10/7/25 2:59:55a You slaughtered a Rat.
+10/7/25 2:59:57a You slaughtered a Rat.
+10/7/25 3:00:04a You slaughtered a Rat.
+10/7/25 3:00:05a You slaughtered a Rat.
+10/7/25 3:00:07a You slaughtered a Rat.
+10/7/25 3:00:16a You slaughtered a Rat.
+10/7/25 3:00:25a •You seem to fight more effectively now.
+10/7/25 3:00:27a You slaughtered a Rat.
+10/7/25 3:00:28a You slaughtered a Vermine.
+10/7/25 3:00:33a You slaughtered a Rat.
+10/7/25 3:00:38a You slaughtered a Vermine.
+10/7/25 3:00:41a You slaughtered a Vermine.
+10/7/25 3:00:42a You slaughtered a Rat.
+10/7/25 3:00:43a Aneides is no longer Clanning.
+10/7/25 3:00:49a You slaughtered a Rat.
+10/7/25 3:00:50a You slaughtered a Rat.
+10/7/25 3:01:05a You slaughtered a Rat.
+10/7/25 3:01:06a Boots growls, "Mrowr!"
+10/7/25 3:01:08a You slaughtered a Rat.
+10/7/25 3:01:08a Boots toys with a bug on the ground.
+10/7/25 3:01:12a You slaughtered a Rat.
+10/7/25 3:01:18a You slaughtered a Rat.
+10/7/25 3:01:21a You slaughtered a Rat.
+10/7/25 3:01:24a You slaughtered a Rat.
+10/7/25 3:01:25a You slaughtered a Rat.
+10/7/25 3:01:27a You slaughtered a Rat.
+10/7/25 3:01:32a You slaughtered a Rat.
+10/7/25 3:01:33a You slaughtered a Rat.
+10/7/25 3:01:43a You slaughtered a Rat.
+10/7/25 3:01:55a •You seem to fight more effectively now.
+10/7/25 3:01:57a Kara Goodwife says, "Greetings, Lady Ajahn."
+10/7/25 3:01:57a Kara Goodwife says, "The Sentinel is useless."
+10/7/25 3:01:58a Kara Goodwife says, "We depend on you exiles to protect us."
+10/7/25 3:01:58a Kara Goodwife says, "Thank you for keeping us safe."
+10/7/25 3:02:14a You slaughtered a Rat.
+10/7/25 3:02:20a You slaughtered a Rat.
+10/7/25 3:02:21a You slaughtered a Rat.
+10/7/25 3:02:25a You slaughtered a Rat.
+10/7/25 3:02:26a You slaughtered a Rat.
+10/7/25 3:02:27a You slaughtered a Rat.
+10/7/25 3:02:30a You slaughtered a Rat.
+10/7/25 3:02:30a You have 30567 coins.
+10/7/25 3:02:37a You slaughtered a Rat.
+10/7/25 3:02:53a You slaughtered a Vermine.
+10/7/25 3:03:00a You slaughtered a Rat.
+10/7/25 3:03:01a You slaughtered a Rat.
+10/7/25 3:03:06a You slaughtered a Rat.
+10/7/25 3:03:08a You slaughtered a Rat.
+10/7/25 3:03:09a You slaughtered a Rat.
+10/7/25 3:03:11a You slaughtered a Rat.
+10/7/25 3:03:13a You slaughtered a Rat.
+10/7/25 3:03:19a You slaughtered a Rat.
+10/7/25 3:03:26a •You seem to fight more effectively now.
+10/7/25 3:03:33a You slaughtered a Rat.
+10/7/25 3:03:39a You slaughtered a Rat.
+10/7/25 3:03:40a You slaughtered a Rat.
+10/7/25 3:03:50a Evus says, "Hail, Ajahn."
+10/7/25 3:03:50a Evus bows.
+10/7/25 3:03:52a Evus says, "Your dedication is commendable."
+10/7/25 3:03:52a * Evus : 550-599.
+10/7/25 3:03:53a Evus says, "I can teach you a well-rounded combat approach."
+10/7/25 3:03:53a Evus says, "You will learn as you practice."
+10/7/25 3:04:07a You slaughtered a Rat.
+10/7/25 3:04:13a You slaughtered a Rat.
+10/7/25 3:04:15a You slaughtered a Rat.
+10/7/25 3:04:17a You slaughtered a Rat.
+10/7/25 3:04:20a You slaughtered a Rat.
+10/7/25 3:04:24a You slaughtered a Rat.
+10/7/25 3:04:33a You slaughtered a Scavenger Bird.
+10/7/25 3:04:37a You slaughtered a Rat.
+10/7/25 3:04:43a You slaughtered a Rat.
+10/7/25 3:04:46a You slaughtered a Rat.
+10/7/25 3:04:47a You slaughtered a Rat.
+10/7/25 3:04:53a You slaughtered a Rat.
+10/7/25 3:04:55a You slaughtered a Rat.
+10/7/25 3:04:56a •You seem to fight more effectively now.
+10/7/25 3:04:59a You slaughtered a Rat.
+10/7/25 3:05:04a You slaughtered a Rat.
+10/7/25 3:05:05a You slaughtered a Rat.
+10/7/25 3:05:08a You slaughtered a Rat.
+10/7/25 3:05:09a You slaughtered a Rat.
+10/7/25 3:05:14a You slaughtered a Rat.
+10/7/25 3:05:36a Evus says, "Hail, Ajahn."
+10/7/25 3:05:37a Evus bows.
+10/7/25 3:05:38a You have 30567 coins.
+10/7/25 3:05:39a Evus says, "Your dedication is commendable."
+10/7/25 3:05:39a * Evus : 550-599.
+10/7/25 3:05:39a Evus says, "I can teach you a well-rounded combat approach."
+10/7/25 3:05:39a Evus says, "You will learn as you practice."
+10/7/25 3:06:07a You slaughtered a Rat.
+10/7/25 3:06:08a You slaughtered a Rat.
+10/7/25 3:06:11a You slaughtered a Rat.
+10/7/25 3:06:12a You slaughtered a Rat.
+10/7/25 3:06:15a You slaughtered a Rat.
+10/7/25 3:06:17a You slaughtered a Rat.
+10/7/25 3:06:26a •You seem to fight more effectively now.
+10/7/25 3:06:30a You slaughtered a Scavenger Bird.
+10/7/25 3:06:38a You slaughtered a Rat.
+10/7/25 3:06:43a You slaughtered a Vermine.
+10/7/25 3:06:49a You slaughtered a Rat.
+10/7/25 3:06:50a You slaughtered a Rat.
+10/7/25 3:06:53a You slaughtered a Rat.
+10/7/25 3:06:57a You slaughtered a Rat.
+10/7/25 3:07:00a You slaughtered a Rat.
+10/7/25 3:07:02a You slaughtered a Rat.
+10/7/25 3:07:11a You slaughtered a Rat.
+10/7/25 3:07:18a You slaughtered a Rat.
+10/7/25 3:07:31a You slaughtered a Vermine.
+10/7/25 3:07:31a * You recover the Vermine fur, worth 1c. Your share is 1c.
+10/7/25 3:07:38a You slaughtered a Rat.
+10/7/25 3:07:39a You slaughtered a Rat.
+10/7/25 3:07:41a You slaughtered a Rat.
+10/7/25 3:07:49a You slaughtered a Rat.
+10/7/25 3:07:50a You slaughtered a Rat.
+10/7/25 3:07:56a You slaughtered a Rat.
+10/7/25 3:07:57a •You seem to fight more effectively now.
+10/7/25 3:07:57a You slaughtered a Rat.
+10/7/25 3:07:58a You slaughtered a Rat.
+10/7/25 3:08:03a You slaughtered a Rat.
+10/7/25 3:08:04a You slaughtered a Rat.
+10/7/25 3:08:09a You slaughtered a Rat.
+10/7/25 3:08:09a * You recover the Rat fur, worth 1c. Your share is 1c.
+10/7/25 3:08:39a You have 30569 coins.
+10/7/25 3:08:43a You slaughtered a Vermine.
+10/7/25 3:08:45a You slaughtered a Rat.
+10/7/25 3:08:46a You slaughtered a Rat.
+10/7/25 3:08:53a You slaughtered a Rat.
+10/7/25 3:08:54a You slaughtered a Rat.
+10/7/25 3:08:58a You slaughtered a Rat.
+10/7/25 3:08:59a You slaughtered a Rat.
+10/7/25 3:09:00a You slaughtered a Rat.
+10/7/25 3:09:01a You slaughtered a Rat.
+10/7/25 3:09:07a You slaughtered a Rat.
+10/7/25 3:09:25a You slaughtered a Rat.
+10/7/25 3:09:27a You slaughtered a Rat.
+10/7/25 3:09:27a •You seem to fight more effectively now.
+10/7/25 3:09:30a You slaughtered a Rat.
+10/7/25 3:09:34a You slaughtered a Rat.
+10/7/25 3:09:38a You slaughtered a Rat.
+10/7/25 3:09:44a You slaughtered a Rat.
+10/7/25 3:09:45a You slaughtered a Rat.
+10/7/25 3:09:48a You slaughtered a Rat.
+10/7/25 3:09:53a You slaughtered a Rat.
+10/7/25 3:10:03a You slaughtered a Rat.
+10/7/25 3:10:16a Evus says, "Hail, Ajahn."
+10/7/25 3:10:17a Evus bows.
+10/7/25 3:10:19a Evus says, "You show great devotion to your studies."
+10/7/25 3:10:19a * Evus : 600-649.
+10/7/25 3:10:19a Evus says, "I can teach you a well-rounded combat approach."
+10/7/25 3:10:19a Evus says, "You will learn as you practice."
+10/7/25 3:10:22a Swengus says, "Hail, Ajahn. You may be proud of your accomplishment."
+10/7/25 3:10:22a * Swengus : 450-499.
+10/7/25 3:10:22a Swengus says, "I can teach you to keep your balance while attacking."
+10/7/25 3:10:22a Swengus says, "You will learn as you practice."
+10/7/25 3:10:23a Swengus asks, "Are you sure you would like to train with me?"
+10/7/25 3:10:24a Ajahn says, "yes"
+10/7/25 3:10:25a Swengus says, "Welcome aboard. Go into the world and learn what you may, while practicing our craft."
+10/7/25 3:10:26a Swengus says, "Hail, Ajahn. You may be proud of your accomplishment."
+10/7/25 3:10:26a * Swengus : 450-499.
+10/7/25 3:10:35a Kennod Barkle says, "We never used to have Chaos Storms before the recent wave of exiles."
+10/7/25 3:10:44a You slaughtered a Rat.
+10/7/25 3:10:45a You slaughtered a Rat.
+10/7/25 3:10:48a You slaughtered a Rat.
+10/7/25 3:10:49a You slaughtered a Rat.
+10/7/25 3:10:56a Kennod Barkle says, "I wonder what could be causing them."
+10/7/25 3:10:58a •You notice your balance and recovery improving.
+10/7/25 3:11:04a You slaughtered a Rat.
+10/7/25 3:11:06a You slaughtered a Vermine.
+10/7/25 3:11:07a You slaughtered a Rat.
+10/7/25 3:11:09a You slaughtered a Rat.
+10/7/25 3:11:12a You slaughtered a Vermine.
+10/7/25 3:11:33a You have 30569 coins.
+10/7/25 3:11:36a You slaughtered a Rat.
+10/7/25 3:11:37a You slaughtered a Rat.
+10/7/25 3:11:42a You slaughtered a Rat.
+10/7/25 3:11:46a You slaughtered a Vermine.
+10/7/25 3:11:47a You slaughtered a Vermine.
+10/7/25 3:11:47a You slaughtered a Rat.
+10/7/25 3:11:51a You slaughtered a Vermine.
+10/7/25 3:11:52a You slaughtered a Rat.
+10/7/25 3:11:56a You slaughtered a Rat.
+10/7/25 3:11:58a You slaughtered a Rat.
+10/7/25 3:11:59a You slaughtered a Rat.
+10/7/25 3:12:20a You slaughtered a Vermine.
+10/7/25 3:12:20a * You recover the Vermine fur, worth 1c. Your share is 1c.
+10/7/25 3:12:21a You slaughtered a Vermine.
+10/7/25 3:12:23a Satris is now Clanning.
+10/7/25 3:12:28a •You notice your balance and recovery improving.
+10/7/25 3:12:28a You slaughtered a Rat.
+10/7/25 3:12:29a You slaughtered a Rat.
+10/7/25 3:12:44a You slaughtered a Vermine.
+10/7/25 3:12:45a You slaughtered a Vermine.
+10/7/25 3:12:46a You slaughtered a Vermine.
+10/7/25 3:12:54a You slaughtered a Rat.
+10/7/25 3:12:56a You slaughtered a Rat.
+10/7/25 3:12:57a You slaughtered a Rat.
+10/7/25 3:12:57a You slaughtered a Rat.
+10/7/25 3:13:01a You slaughtered a Rat.
+10/7/25 3:13:12a You slaughtered a Scavenger Bird.
+10/7/25 3:13:18a You slaughtered a Rat.
+10/7/25 3:13:22a You slaughtered a Scavenger Bird.
+10/7/25 3:13:46a You slaughtered a Vermine.
+10/7/25 3:13:57a You slaughtered a Vermine.
+10/7/25 3:13:58a •You notice your balance and recovery improving.
+10/7/25 3:14:01a You slaughtered a Rat.
+10/7/25 3:14:02a You slaughtered a Rat.
+10/7/25 3:14:03a You slaughtered a Vermine.
+10/7/25 3:14:05a You slaughtered a Rat.
+10/7/25 3:14:07a You slaughtered a Rat.
+10/7/25 3:14:10a You slaughtered a Rat.
+10/7/25 3:14:18a You slaughtered a Rat.
+10/7/25 3:14:26a You have 30570 coins.
+10/7/25 3:14:29a You slaughtered a Rat.
+10/7/25 3:14:32a You slaughtered a Rat.
+10/7/25 3:14:37a You slaughtered a Rat.
+10/7/25 3:14:41a You slaughtered a Vermine.
+10/7/25 3:14:43a You slaughtered a Rat.
+10/7/25 3:14:44a You slaughtered a Vermine.
+10/7/25 3:14:47a You slaughtered a Rat.
+10/7/25 3:14:50a You slaughtered a Vermine.
+10/7/25 3:14:52a You slaughtered a Rat.
+10/7/25 3:14:54a You slaughtered a Rat.
+10/7/25 3:14:57a You slaughtered a Rat.
+10/7/25 3:15:03a You slaughtered a Rat.
+10/7/25 3:15:28a •You notice your balance and recovery improving.
+10/7/25 3:15:35a You slaughtered a Rat.
+10/7/25 3:15:36a You slaughtered a Rat.
+10/7/25 3:15:37a You slaughtered a Rat.
+10/7/25 3:15:38a You slaughtered a Vermine.
+10/7/25 3:15:41a You slaughtered a Rat.
+10/7/25 3:15:47a You slaughtered a Rat.
+10/7/25 3:15:48a You slaughtered a Rat.
+10/7/25 3:16:04a You slaughtered a Rat.
+10/7/25 3:16:05a You slaughtered a Rat.
+10/7/25 3:16:06a You slaughtered a Vermine.
+10/7/25 3:16:09a You slaughtered a Rat.
+10/7/25 3:16:12a You slaughtered a Rat.
+10/7/25 3:16:57a You slaughtered a Rat.
+10/7/25 3:16:58a •You notice your balance and recovery improving.
+10/7/25 3:16:59a You slaughtered a Rat.
+10/7/25 3:17:00a You slaughtered a Rat.
+10/7/25 3:17:05a You slaughtered a Rat.
+10/7/25 3:17:06a You slaughtered a Rat.
+10/7/25 3:17:18a You have 30570 coins.
+10/7/25 3:17:29a You slaughtered a Rat.
+10/7/25 3:17:36a You slaughtered a Vermine.
+10/7/25 3:17:38a You slaughtered a Rat.
+10/7/25 3:17:39a You slaughtered a Rat.
+10/7/25 3:17:40a You slaughtered a Rat.
+10/7/25 3:17:43a You slaughtered a Rat.
+10/7/25 3:17:45a You slaughtered a Rat.
+10/7/25 3:17:53a You slaughtered a Rat.
+10/7/25 3:18:07a You slaughtered a Rat.
+10/7/25 3:18:07a You slaughtered a Rat.
+10/7/25 3:18:10a You slaughtered a Rat.
+10/7/25 3:18:15a You slaughtered a Rat.
+10/7/25 3:18:16a You slaughtered a Rat.
+10/7/25 3:18:18a You slaughtered a Rat.
+10/7/25 3:18:21a You slaughtered a Rat.
+10/7/25 3:18:23a Fabric is now Clanning.
+10/7/25 3:18:29a •You notice your balance and recovery improving.
+10/7/25 3:18:38a Malakar is now Clanning.
+10/7/25 3:18:43a You slaughtered a Vermine.
+10/7/25 3:18:47a You slaughtered a Vermine.
+10/7/25 3:18:49a You slaughtered a Rat.
+10/7/25 3:18:51a You slaughtered a Rat.
+10/7/25 3:19:01a You slaughtered a Vermine.
+10/7/25 3:19:03a Chastity is now Clanning.
+10/7/25 3:19:34a You slaughtered a Vermine.
+10/7/25 3:19:37a You slaughtered a Rat.
+10/7/25 3:19:39a Shadowpuss growls, "Zzzzzz."
+10/7/25 3:19:39a You slaughtered a Rat.
+10/7/25 3:19:43a You slaughtered a Rat.
+10/7/25 3:19:48a Arlana is no longer Clanning.
+10/7/25 3:19:49a You slaughtered a Rat.
+10/7/25 3:19:53a You slaughtered a Rat.
+10/7/25 3:19:56a You slaughtered a Rat.
+10/7/25 3:19:59a •You notice your balance and recovery improving.
+10/7/25 3:20:00a You slaughtered a Rat.
+10/7/25 3:20:01a You slaughtered a Rat.
+10/7/25 3:20:07a You slaughtered a Rat.
+10/7/25 3:20:07a Shadowpuss chases after the Rat!
+10/7/25 3:20:10a You have 30570 coins.
+10/7/25 3:20:13a Cinder is now Clanning.
+10/7/25 3:20:14a You slaughtered a Vermine.
+10/7/25 3:20:18a Fabric is no longer Clanning.
+10/7/25 3:20:23a You slaughtered a Rat.
+10/7/25 3:20:29a You slaughtered a Rat.
+10/7/25 3:20:37a Botanica is now Clanning.
+10/7/25 3:20:39a You slaughtered a Rat.
+10/7/25 3:20:42a You slaughtered a Rat.
+10/7/25 3:20:44a You slaughtered a Vermine.
+10/7/25 3:20:52a You slaughtered a Rat.
+10/7/25 3:20:55a You slaughtered a Vermine.
+10/7/25 3:21:18a You slaughtered a Rat.
+10/7/25 3:21:19a You slaughtered a Rat.
+10/7/25 3:21:20a You slaughtered a Rat.
+10/7/25 3:21:21a You slaughtered a Rat.
+10/7/25 3:21:27a You slaughtered a Rat.
+10/7/25 3:21:29a •You notice your balance and recovery improving.
+10/7/25 3:21:30a You slaughtered a Rat.
+10/7/25 3:21:32a Botanica is no longer Clanning.
+10/7/25 3:21:39a Kennod Barkle says, "Now we're getting them every three months."
+10/7/25 3:21:39a Etherea is now Clanning.
+10/7/25 3:21:43a Yuko is now Clanning.
+10/7/25 3:21:58a You slaughtered a Rat.
+10/7/25 3:21:59a Arlana is now Clanning.
+10/7/25 3:22:04a You slaughtered a Rat.
+10/7/25 3:22:04a You slaughtered a Rat.
+10/7/25 3:22:05a You slaughtered a Rat.
+10/7/25 3:22:11a Aretalus is a Human, is male, is a Healer, and is not wearing the symbol of any clan.
+10/7/25 3:22:14a Ehr Wieland is a Sylvan, is male, is an exile, and is not wearing the symbol of any clan.
+10/7/25 3:22:21a Rowen is a Sylvan, is female, is a Healer, and is not wearing the symbol of any clan.
+10/7/25 3:22:25a Yuko is no longer Clanning.
+10/7/25 3:22:28a Arlana is no longer Clanning.
+10/7/25 3:22:29a You slaughtered a Rat.
+10/7/25 3:22:29a You slaughtered a Rat.
+10/7/25 3:22:32a You slaughtered a Rat.
+10/7/25 3:22:36a You slaughtered a Rat.
+10/7/25 3:22:50a Etherea is no longer Clanning.
+10/7/25 3:22:52a Balangar is now Clanning.
+10/7/25 3:23:00a •You notice your balance and recovery improving.
+10/7/25 3:23:02a You have 30570 coins.
+10/7/25 3:23:04a You slaughtered a Rat.
+10/7/25 3:23:10a You slaughtered a Rat.
+10/7/25 3:23:11a You slaughtered a Rat.
+10/7/25 3:23:14a You slaughtered a Vermine.
+10/7/25 3:23:17a You slaughtered a Rat.
+10/7/25 3:23:18a You slaughtered a Rat.
+10/7/25 3:23:28a You slaughtered a Vermine.
+10/7/25 3:23:29a You slaughtered a Rat.
+10/7/25 3:23:31a You slaughtered a Rat.
+10/7/25 3:23:33a You slaughtered a Rat.
+10/7/25 3:24:30a •You notice your balance and recovery improving.
+10/7/25 3:24:58a You slaughtered a Rat.
+10/7/25 3:25:08a You slaughtered a Rat.
+10/7/25 3:25:11a You slaughtered a Rat.
+10/7/25 3:25:14a You slaughtered a Rat.
+10/7/25 3:25:15a You slaughtered a Rat.
+10/7/25 3:25:18a You slaughtered a Rat.
+10/7/25 3:25:22a You slaughtered a Rat.
+10/7/25 3:25:27a You slaughtered a Rat.
+10/7/25 3:25:29a You slaughtered a Rat.
+10/7/25 3:25:40a You slaughtered a Rat.
+10/7/25 3:25:41a You slaughtered a Rat.
+10/7/25 3:25:55a You have 30570 coins.
+10/7/25 3:25:55a You slaughtered a Rat.
+10/7/25 3:26:00a •You notice your balance and recovery improving.
+10/7/25 3:26:02a You slaughtered a Rat.
+10/7/25 3:26:03a You slaughtered a Rat.
+10/7/25 3:26:04a You slaughtered a Rat.
+10/7/25 3:26:09a You slaughtered a Rat.
+10/7/25 3:26:48a You slaughtered a Rat.
+10/7/25 3:26:49a You slaughtered a Rat.
+10/7/25 3:26:52a Shadowpuss growls, "Zzzzzz."
+10/7/25 3:26:56a You slaughtered a Rat.
+10/7/25 3:26:57a You slaughtered a Rat.
+10/7/25 3:27:00a You slaughtered a Rat.
+10/7/25 3:27:23a You slaughtered a Rat.
+10/7/25 3:27:31a •You notice your balance and recovery improving.
+10/7/25 3:27:49a Histia says, "Hail, Ajahn. You keep me on my toes."
+10/7/25 3:27:50a * Histia : 100-149.
+10/7/25 3:27:50a Histia says, "I can teach you how to withstand more damage."
+10/7/25 3:27:51a Swengus says, "Hail, Ajahn. You may be proud of your accomplishment."
+10/7/25 3:27:52a * Swengus : 450-499.
+10/7/25 3:27:52a Swengus says, "I can teach you to keep your balance while attacking."
+10/7/25 3:27:52a Swengus says, "You will learn as you practice."
+10/7/25 3:27:53a Swengus asks, "Are you sure you would like to train with me?"
+10/7/25 3:28:05a Crius yells, "It’s 3 o’clock, and all’s well."
+10/7/25 3:28:06a • /SLEEP when you wish to begin studying.
+10/7/25 3:28:09a • /SLEEP when you wish to begin studying.
+10/7/25 3:28:12a Use \SLEEP again when you return.
+10/7/25 3:28:13a You are done adventuring for a while and will be studying here.
+10/7/25 3:28:13a You have been disconnected from Clan Lord.
+10/7/25 3:28:14a • You will benefit from studyin

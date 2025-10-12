@@ -1,0 +1,523 @@
+
+6/10/25 4:27:40a * Your pair of pants named “tangleberry-dyed blue” is in very good condition.
+6/10/25 4:27:40a * Your cloak named “grey” is in nearly perfect condition.
+6/10/25 4:27:40a * Your shirt named “midnight” is in nearly perfect condition.
+6/10/25 4:27:40a Welcome to Clan Lord, Maxtrax!
+6/10/25 4:27:40a Type \HELP for a list of commands.
+6/10/25 4:27:40a • You have been charged 60 coins for advanced studies.
+6/10/25 4:27:40a • You gain experience from your recent studies.
+6/10/25 4:27:41a Maxtrax is now Clanning.
+6/10/25 4:27:41a You have been studying for one day, 23 hours, 14 minutes.
+6/10/25 4:27:43a It's 3:31am on Gradi, day 49 of Autumn, 641.
+6/10/25 4:27:44a Friends online: none.
+6/10/25 4:27:45a There are two members of Black Phoenix clanning: Magnic II and you.
+6/10/25 4:27:45a • What’s New: https://deltatao.com/clanlord/news
+6/10/25 4:27:55a * Tip of the day: Open the Text Window from the Options menu to read a log of everything you’ve seen. (Use /OPTIONS to turn tips off.)
+6/10/25 4:28:00a *Auto Trade Zero ON!
+6/10/25 4:28:02a Bloom is now Clanning.
+6/10/25 4:28:04a • Magnic II offers you an Atkite Pauldron for free.
+6/10/25 4:28:04a To accept, \BUY 0 Magnic II.
+6/10/25 4:28:05a * Traded: Magnic II 
+6/10/25 4:28:05a Magnic II hands you an Atkite Pauldron.
+6/10/25 4:28:09a • Magnic II offers you a Darkite for free.
+6/10/25 4:28:09a To accept, \BUY 0 Magnic II.
+6/10/25 4:28:09a * Traded: Magnic II 
+6/10/25 4:28:10a Magnic II hands you a Darkite.
+6/10/25 4:28:13a Magnic II is done adventuring for a while and will be staying here.
+6/10/25 4:28:15a Magnic II is no longer Clanning.
+6/10/25 4:28:40a You vault the wall.
+6/10/25 4:28:44a You examine the patch of ground where Romanus once stood.
+6/10/25 4:28:45a You slaughtered an Orga.
+6/10/25 4:28:46a Spiegelscherbe is now Clanning.
+6/10/25 4:29:12a Honor thinks, "Congratulations go out to Anloda, who has just passed the fifth circle fighter test."
+6/10/25 4:29:19a You slaughtered a Vermine.
+6/10/25 4:29:19a TreeBeard thinks, "congrats!"
+6/10/25 4:29:21a "Cecii" is no longer Clanning.
+6/10/25 4:29:27a You slaughtered a Rat.
+6/10/25 4:29:27a A 1c bounty from K'vynn!
+6/10/25 4:29:33a You slaughtered a Vermine.
+6/10/25 4:29:34a Humbaba thinks, "beer! Congrats!"
+6/10/25 4:29:40a Maxtrax thinks, "congratz"
+6/10/25 4:29:41a Blaque Smith is now Clanning.
+6/10/25 4:29:42a Anloda thinks, "thank you =)"
+6/10/25 4:29:44a Yum is now Clanning.
+6/10/25 4:29:47a Salandra thinks, "gratz"
+6/10/25 4:30:02a You slaughtered a Bloodhawk.
+6/10/25 4:30:08a You slaughtered a Large Vermine.
+6/10/25 4:30:09a You slaughtered a Vermine.
+6/10/25 4:30:13a Topiary is now Clanning.
+6/10/25 4:30:23a You slaughtered a Rat.
+6/10/25 4:30:23a A 1c bounty from K'vynn!
+6/10/25 4:30:23a Spiegelscherbe is no longer Clanning.
+6/10/25 4:30:28a Spegelskarva is now Clanning.
+6/10/25 4:30:31a You slaughtered a Small Arachne.
+6/10/25 4:30:33a Bloom is no longer Clanning.
+6/10/25 4:30:33a You slaughtered a Rat.
+6/10/25 4:30:33a A 1c bounty from K'vynn!
+6/10/25 4:30:56a Topiary is no longer Clanning.
+6/10/25 4:31:09a Cecil thinks, "anyone have a bottle of water?"
+6/10/25 4:31:13a You slaughtered a Large Vermine.
+6/10/25 4:31:13a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+6/10/25 4:31:15a You slaughtered a Vermine.
+6/10/25 4:31:15a You slaughtered a Vermine.
+6/10/25 4:31:23a You slaughtered a Starbuck.
+6/10/25 4:31:36a You slaughtered a Large Vermine.
+6/10/25 4:31:37a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+6/10/25 4:31:39a You have 8623 coins.
+6/10/25 4:31:42a You slaughtered a Winged Snake.
+6/10/25 4:31:50a You slaughtered a Wendecka.
+6/10/25 4:31:59a Balangar is now Clanning.
+6/10/25 4:32:06a You slaughtered a Rat.
+6/10/25 4:32:07a A 1c bounty from K'vynn!
+6/10/25 4:32:08a You slaughtered a Vermine.
+6/10/25 4:32:10a You slaughtered a Vermine.
+6/10/25 4:32:13a Catan is now Clanning.
+6/10/25 4:32:26a You slaughtered a Night Wendecka.
+6/10/25 4:32:32a You slaughtered a Night Wendecka.
+6/10/25 4:32:33a * You recover the Night Wendecka fur, worth 1c. Your share is 1c.
+6/10/25 4:32:59a You slaughtered a Vermine.
+6/10/25 4:33:08a You slaughtered a Rat.
+6/10/25 4:33:08a A 1c bounty from K'vynn!
+6/10/25 4:33:11a You found a lump of iron ore!
+6/10/25 4:33:17a Yum is no longer Clanning.
+6/10/25 4:33:19a Spegelskarva is no longer Clanning.
+6/10/25 4:33:27a You slaughtered a Vermine.
+6/10/25 4:33:32a You slaughtered a Bloodhawk.
+6/10/25 4:33:33a You slaughtered a Deadly Adder.
+6/10/25 4:33:40a You slaughtered a Vermine.
+6/10/25 4:33:40a You slaughtered a Vermine.
+6/10/25 4:33:42a You slaughtered a Deadly Adder.
+6/10/25 4:33:44a G'brhr says, "Strim, Maxtrax, and welcome."
+6/10/25 4:33:44a G'brhr steps aside and escorts Maxtrax through the narrow passage.
+6/10/25 4:33:55a Valde Nixus exclaims, "So, Maxtrax, you’d like to try my challenge? Great!"
+6/10/25 4:33:56a Valde Nixus says, "Here are the rules. You shall have 60 minutes to find and kill 1 Viper Tok'Han."
+6/10/25 4:33:56a Valde Nixus says, "This kill must take place within the Tok'Han lair."
+6/10/25 4:33:56a Valde Nixus says, "The kill will not count if your quarry was recently befriended by a ranger."
+6/10/25 4:34:03a Maddy Nixus exclaims, "So, Maxtrax, you’d like to try my challenge? Great!"
+6/10/25 4:34:03a Maddy Nixus says, "Here are the rules. You shall have 120 minutes to find and kill 1 Striped Jade Arachnoid."
+6/10/25 4:34:04a Maddy Nixus says, "This kill must take place within its lair in the marsh."
+6/10/25 4:34:09a Parcur Nixus exclaims, "So, Maxtrax, you’d like to try my challenge? Great!"
+6/10/25 4:34:10a Parcur Nixus says, "Here are the rules. You shall have 240 minutes to find and kill 1 Queen Myrm."
+6/10/25 4:34:10a Parcur Nixus says, "This kill must take place within its lair, in either the hive or in the myrm highlands."
+6/10/25 4:34:10a Parcur Nixus says, "The kill will not count if your quarry was recently befriended by a ranger."
+6/10/25 4:34:11a Parcur Nixus says, "If you decline the challenge, move away now. Otherwise, get ready..."
+6/10/25 4:34:12a Parcur Nixus exclaims, "When you have succeeded, return to me promptly. Now go!"
+6/10/25 4:34:30a You slaughtered a Vermine.
+6/10/25 4:34:38a You slaughtered a Bloodhawk.
+6/10/25 4:34:56a You slaughtered a Rat.
+6/10/25 4:34:57a A 1c bounty from K'vynn!
+6/10/25 4:35:07a You found a lump of iron ore!
+6/10/25 4:35:12a You slaughtered a Rat.
+6/10/25 4:35:13a A 1c bounty from K'vynn!
+6/10/25 4:35:15a Forkalir is now Clanning.
+6/10/25 4:35:21a You slaughtered a Bloodhawk.
+6/10/25 4:35:37a You slaughtered a Vermine.
+6/10/25 4:35:38a You slaughtered a Rat.
+6/10/25 4:35:38a A 1c bounty from K'vynn!
+6/10/25 4:35:40a You slaughtered a Wendecka.
+6/10/25 4:35:40a * You recover the Wendecka fur, worth 1c. Your share is 1c.
+6/10/25 4:35:43a You slaughtered a Wendecka.
+6/10/25 4:35:44a You have 8630 coins.
+6/10/25 4:35:52a You slaughtered a Bloodhawk.
+6/10/25 4:36:08a You slaughtered a Giant Vermine.
+6/10/25 4:36:16a You slaughtered an Island Panther.
+6/10/25 4:36:26a You slaughtered a Bloodhawk.
+6/10/25 4:36:38a You slaughtered a Large Vermine.
+6/10/25 4:36:38a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+6/10/25 4:36:40a You slaughtered a Starbuck.
+6/10/25 4:36:41a You slaughtered an Ona Chigger.
+6/10/25 4:36:54a You slaughtered a Vermine.
+6/10/25 4:37:14a Shrug is now Clanning.
+6/10/25 4:37:21a You slaughtered a Vermine.
+6/10/25 4:37:26a You slaughtered a Vermine.
+6/10/25 4:37:34a You slaughtered a Vermine.
+6/10/25 4:37:35a You slaughtered a Vermine.
+6/10/25 4:37:49a You slaughtered a Vermine.
+6/10/25 4:37:50a You slaughtered a Small Arachne.
+6/10/25 4:38:18a Forkalir is no longer Clanning.
+6/10/25 4:38:37a You slaughtered a Leech.
+6/10/25 4:39:03a You slaughtered a Scavenger Bird.
+6/10/25 4:39:11a Shrug is no longer Clanning.
+6/10/25 4:39:13a Ilonos is now Clanning.
+6/10/25 4:39:14a TenderLumpling is now Clanning.
+6/10/25 4:39:24a You slaughtered a Myrm Farmer.
+6/10/25 4:39:30a You slaughtered a Myrm Farmer.
+6/10/25 4:39:50a You have 8632 coins.
+6/10/25 4:39:57a You slaughtered a Myrm Worker.
+6/10/25 4:40:02a You slaughtered a Myrm Worker.
+6/10/25 4:40:04a You slaughtered a Myrm Worker.
+6/10/25 4:40:12a You slaughtered a Myrm Worker.
+6/10/25 4:40:34a You slaughtered a Myrm Farmer.
+6/10/25 4:40:40a You slaughtered a Myrm Scout.
+6/10/25 4:41:42a You slaughtered a Warrior Myrm.
+6/10/25 4:41:43a * You recover the Warrior Myrm mandibles, worth 1c. Your share is 1c.
+6/10/25 4:41:53a You slaughtered a Warrior Myrm.
+6/10/25 4:42:09a You slaughtered a Royal Myrm.
+6/10/25 4:42:53a You slaughtered a Queen Myrm.
+6/10/25 4:42:53a * You have completed the challenge. Return to Parcur Nixus the Hunter promptly to receive your reward.
+6/10/25 4:42:53a * You recover the Queen Myrm mandibles, worth 46c. Your share is 46c.
+6/10/25 4:43:01a You slaughtered a Warrior Myrm.
+6/10/25 4:43:13a You slaughtered a Warrior Myrm.
+6/10/25 4:43:29a You slaughtered a Warrior Myrm.
+6/10/25 4:43:38a You slaughtered a Warrior Myrm.
+6/10/25 4:43:42a You slaughtered a Warrior Myrm.
+6/10/25 4:43:42a * You recover the Warrior Myrm mandibles, worth 1c. Your share is 1c.
+6/10/25 4:43:50a You slaughtered a Royal Myrm.
+6/10/25 4:43:52a You have 8680 coins.
+6/10/25 4:44:02a You slaughtered a Warrior Myrm.
+6/10/25 4:44:11a You slaughtered a Warrior Myrm.
+6/10/25 4:44:23a You slaughtered a Warrior Myrm.
+6/10/25 4:44:31a You slaughtered a Warrior Myrm.
+6/10/25 4:44:32a * You recover the Warrior Myrm mandibles, worth 1c. Your share is 1c.
+6/10/25 4:45:15a You slaughtered a Myrm Farmer.
+6/10/25 4:45:21a You slaughtered a Myrm Worker.
+6/10/25 4:45:47a You slaughtered a Vermine.
+6/10/25 4:46:05a You slaughtered a Vermine.
+6/10/25 4:46:13a You vault the wall.
+6/10/25 4:46:16a Kennod Barkle says, "Now we're getting them every three months."
+6/10/25 4:46:25a Balangar says, "in any case, thanks all for rescue ..."
+6/10/25 4:46:30a •You sense healing energy from Balangar.
+6/10/25 4:46:32a You begin sharing your experiences with Balangar.
+6/10/25 4:46:56a You gave signed good karma to Balangar, thanks.
+6/10/25 4:47:06a Koppi yells, "Salandra reports: Collecting stones, logs, and dirt. The first two will get lugged out to the builder in Lugu's Keep. The latter will go to <mumble mumble>."
+6/10/25 4:47:46a Shelka exclaims, "This well is infested with crawling things!"
+6/10/25 4:47:49a You slaughtered a Small Arachne.
+6/10/25 4:47:51a You slaughtered an Orga.
+6/10/25 4:47:56a You have 8681 coins.
+6/10/25 4:48:01a You slaughtered a Leech.
+6/10/25 4:48:08a You slaughtered an Island Panther.
+6/10/25 4:48:35a You slaughtered a Vermine.
+6/10/25 4:49:15a Blaque Smith is no longer Clanning.
+6/10/25 4:49:17a You slaughtered a Vermine.
+6/10/25 4:49:17a TreeBeard is no longer Clanning.
+6/10/25 4:49:21a You slaughtered a Rat.
+6/10/25 4:49:21a A 1c bounty from K'vynn!
+6/10/25 4:49:22a You slaughtered a Vermine.
+6/10/25 4:49:32a Ilonos is no longer Clanning.
+6/10/25 4:49:36a You slaughtered a Starbuck.
+6/10/25 4:49:36a * You recover the Starbuck fur, worth 1c. Your share is 1c.
+6/10/25 4:49:53a You slaughtered a Vermine.
+6/10/25 4:49:59a You slaughtered a Bloodhawk.
+6/10/25 4:50:00a You slaughtered a Rat.
+6/10/25 4:50:01a A 1c bounty from K'vynn!
+6/10/25 4:50:06a You slaughtered a Rat.
+6/10/25 4:50:06a A 1c bounty from K'vynn!
+6/10/25 4:50:14a You slaughtered a Vermine.
+6/10/25 4:50:20a Balangar is no longer Clanning.
+6/10/25 4:50:21a You slaughtered a Rat.
+6/10/25 4:50:22a A 1c bounty from K'vynn!
+6/10/25 4:50:37a You slaughtered a Bloodhawk.
+6/10/25 4:50:41a You slaughtered a Bloodhawk.
+6/10/25 4:50:43a You slaughtered a Vermine.
+6/10/25 4:50:48a You found a lump of iron ore!
+6/10/25 4:51:00a You slaughtered a Rat.
+6/10/25 4:51:01a A 1c bounty from K'vynn!
+6/10/25 4:51:05a You slaughtered a Rat.
+6/10/25 4:51:05a A 1c bounty from K'vynn!
+6/10/25 4:51:07a You slaughtered a Rat.
+6/10/25 4:51:08a A 1c bounty from K'vynn!
+6/10/25 4:51:08a You slaughtered a Vermine.
+6/10/25 4:51:15a You slaughtered a Rat.
+6/10/25 4:51:16a A 1c bounty from K'vynn!
+6/10/25 4:51:23a You slaughtered a Bloodhawk.
+6/10/25 4:51:28a You slaughtered a Vermine.
+6/10/25 4:51:38a You slaughtered a Rat.
+6/10/25 4:51:41a A 1c bounty from K'vynn!
+6/10/25 4:51:42a You slaughtered a Vermine.
+6/10/25 4:51:46a You slaughtered a Rat.
+6/10/25 4:51:47a A 1c bounty from K'vynn!
+6/10/25 4:51:52a You slaughtered a Vermine.
+6/10/25 4:51:56a You slaughtered a Vermine.
+6/10/25 4:52:00a You slaughtered a Vermine.
+6/10/25 4:52:01a You have 8692 coins.
+6/10/25 4:52:04a G'brhr says, "Strim, Maxtrax, and welcome."
+6/10/25 4:52:04a G'brhr steps aside and escorts Maxtrax through the narrow passage.
+6/10/25 4:52:13a • You earn experience.
+6/10/25 4:52:13a Parcur Nixus says, "Excellent work, Maxtrax! You’ve succeeded splendidly."
+6/10/25 4:52:14a Parcur Nixus smiles at Maxtrax, looking rather pleased.
+6/10/25 4:52:17a Parcur Nixus says, "I’m sorry, Maxtrax, but it seems you’ve already completed my challenge. Please allow others a chance."
+6/10/25 4:52:22a You equip your Atkite Pauldron.
+6/10/25 4:52:26a You equip your Darkite.
+6/10/25 4:52:36a You slaughtered a Wendecka.
+6/10/25 4:53:16a You slaughtered a Bloodhawk.
+6/10/25 4:53:25a You slaughtered a Rat.
+6/10/25 4:53:25a A 1c bounty from K'vynn!
+6/10/25 4:53:43a •You notice your balance improving.
+6/10/25 4:53:47a You slaughtered a Rat.
+6/10/25 4:53:47a A 1c bounty from K'vynn!
+6/10/25 4:53:56a You slaughtered an Island Panther.
+6/10/25 4:53:56a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+6/10/25 4:54:06a You slaughtered a Wendecka.
+6/10/25 4:54:15a You slaughtered a Bolok Cougar.
+6/10/25 4:54:15a * You recover the Bolok Cougar fur, worth 3c. Your share is 3c.
+6/10/25 4:55:16a Tasus thinks, "Possible r"
+6/10/25 4:55:23a You slaughtered a Myrm Scout.
+6/10/25 4:55:34a You slaughtered a Leech.
+6/10/25 4:56:04a You slaughtered an Island Locust.
+6/10/25 4:56:06a You have 8699 coins.
+6/10/25 4:57:08a Maxtrax says, "heh"
+6/10/25 4:57:47a You equip your lump of iron ore.
+6/10/25 4:57:48a Erthor says, "Greetings, Lord Maxtrax."
+6/10/25 4:57:48a Erthor says, "For 20 coins, I can help you extract Earthpower minerals from ore."
+6/10/25 4:57:48a Erthor says, "That sample contains nothing useful, but your connection to the Earth is improved."
+6/10/25 4:57:49a Erthor says, "Greetings, Lord Maxtrax."
+6/10/25 4:57:49a Erthor says, "For 20 coins, I can help you extract Earthpower minerals from ore."
+6/10/25 4:57:50a Erthor says, "You have to show me the ore you wish me to examine, though."
+6/10/25 4:57:50a You equip your lump of iron ore.
+6/10/25 4:57:50a Erthor says, "Greetings, Lord Maxtrax."
+6/10/25 4:57:51a Erthor says, "For 20 coins, I can help you extract Earthpower minerals from ore."
+6/10/25 4:57:51a Erthor says, "That sample contains nothing useful, but your connection to the Earth is improved."
+6/10/25 4:57:52a Erthor says, "Greetings, Lord Maxtrax."
+6/10/25 4:57:52a Erthor says, "For 20 coins, I can help you extract Earthpower minerals from ore."
+6/10/25 4:57:52a You equip your lump of iron ore.
+6/10/25 4:57:53a Erthor says, "That sample contains nothing useful, but your connection to the Earth is improved."
+6/10/25 4:57:53a Erthor says, "Greetings, Lord Maxtrax."
+6/10/25 4:57:54a Erthor says, "For 20 coins, I can help you extract Earthpower minerals from ore."
+6/10/25 4:57:57a You equip your Darkite.
+6/10/25 4:58:17a Brandon is now Clanning.
+6/10/25 4:59:50a Cerberal says, "You need to practice more first, Maxtrax."
+6/10/25 4:59:50a Cerberal says, "Try again in 11 days."
+6/10/25 4:59:51a Cerberal says, "Most who passed were weaker than you."
+6/10/25 5:00:07a Evus says, "Hail, Maxtrax."
+6/10/25 5:00:08a Evus bows deeply.
+6/10/25 5:00:10a Evus says, "You are truly a grand master."
+6/10/25 5:00:10a * Evus : 900-999.
+6/10/25 5:00:10a Evus says, "I can teach you a well-rounded combat approach."
+6/10/25 5:00:10a Evus says, "You will learn as you practice."
+6/10/25 5:00:11a Evus asks, "Are you sure you would like to train with me?"
+6/10/25 5:00:12a Histia says, "Hail, Maxtrax. Teaching you is a challenge."
+6/10/25 5:00:12a * Histia : 200-249.
+6/10/25 5:00:12a Histia says, "I can teach you how to withstand more damage."
+6/10/25 5:00:13a Histia says, "You will learn as you practice."
+6/10/25 5:00:13a You have 8639 coins.
+6/10/25 5:00:14a Swengus says, "Hail, Maxtrax. You are becoming a master of our art."
+6/10/25 5:00:15a * Swengus : 500-549.
+6/10/25 5:00:15a Swengus says, "I can teach you to keep your balance while attacking."
+6/10/25 5:00:15a Swengus says, "You will learn as you practice."
+6/10/25 5:00:17a Atkus says, "Hail, Maxtrax. Teaching you has taught me much."
+6/10/25 5:00:17a * Atkus : 300-349.
+6/10/25 5:00:17a Atkus says, "I can teach you how to attack more effectively."
+6/10/25 5:00:23a Detha says, "Hail, Maxtrax."
+6/10/25 5:00:23a Detha bows.
+6/10/25 5:00:25a Detha says, "Hail, Maxtrax."
+6/10/25 5:00:26a Detha bows.
+6/10/25 5:00:28a Detha says, "Your dedication is commendable."
+6/10/25 5:00:28a * Detha : 550-599.
+6/10/25 5:00:28a Detha says, "I can teach you to defend yourself from hostile intent."
+6/10/25 5:00:29a Detha says, "You will learn as you practice."
+6/10/25 5:00:29a Detha asks, "Are you sure you would like to train with me?"
+6/10/25 5:00:30a Balthus says, "Hail, Maxtrax."
+6/10/25 5:00:31a Balthus bows.
+6/10/25 5:00:33a Balthus says, "Your dedication is commendable."
+6/10/25 5:00:33a * Balthus : 550-599.
+6/10/25 5:00:33a Balthus says, "I can teach you to improve your stance and balance."
+6/10/25 5:00:34a Balthus says, "You will learn as you practice."
+6/10/25 5:00:35a Regia says, "Hail, Maxtrax. There is not much more I can teach you."
+6/10/25 5:00:35a * Regia : 250-299.
+6/10/25 5:00:35a Regia says, "I can teach you how to regain your balance after attacking."
+6/10/25 5:00:35a Regia says, "You will learn as you practice."
+6/10/25 5:00:36a Regia asks, "Are you sure you would like to train with me?"
+6/10/25 5:00:39a Darkus says, "Hail, Maxtrax. You have attained tremendous skill."
+6/10/25 5:00:39a * Darkus : 350-399.
+6/10/25 5:00:39a Darkus says, "I can teach you how to deal more damage."
+6/10/25 5:01:34a You slaughtered a Darshak Scout.
+6/10/25 5:01:40a You admire a greatsword, which costs 10625c.
+6/10/25 5:01:43a You slaughtered a Darshak Scout.
+6/10/25 5:01:47a You also admire a greataxe, priced at 6175c.
+6/10/25 5:01:53a You slaughtered a Darshak Thug.
+6/10/25 5:02:02a You slaughtered a Darshak Thug.
+6/10/25 5:02:12a Anloda is no longer Clanning.
+6/10/25 5:02:14a Bigir is now Clanning.
+6/10/25 5:02:34a Salandra thinks, "Thanks"
+6/10/25 5:02:36a Bigir is no longer Clanning.
+6/10/25 5:02:38a Anloda is now Clanning.
+6/10/25 5:02:39a Koppi yells, "Salandra reports: Collecting stones, logs, and dirt. The first two will get lugged out to the builder in Lugu's Keep. The latter will go to <mumble mumble>."
+6/10/25 5:02:51a Maxtrax asks, "i have 3 stones on me, do you want them?"
+6/10/25 5:02:51a Salandra says, "Thanks"
+6/10/25 5:02:58a Anloda says, "np"
+6/10/25 5:03:00a Salandra says, "Sure, will haul em out"
+6/10/25 5:03:06a You offer a stone to Salandra for free.
+6/10/25 5:03:06a \SELL /cancel to cancel the offer.
+6/10/25 5:03:07a You hand Salandra a stone.
+6/10/25 5:03:09a You offer a stone to Salandra for free.
+6/10/25 5:03:09a \SELL /cancel to cancel the offer.
+6/10/25 5:03:10a You hand Salandra a stone.
+6/10/25 5:03:11a You offer a stone to Salandra for free.
+6/10/25 5:03:11a \SELL /cancel to cancel the offer.
+6/10/25 5:03:12a You hand Salandra a stone.
+6/10/25 5:03:13a Gern Blansden says, "Greetings, Lord Brandon."
+6/10/25 5:03:23a Salandra says, "Thanks"
+6/10/25 5:03:28a Brandon is no longer Clanning.
+6/10/25 5:04:04a Death Stalker is now Clanning.
+6/10/25 5:04:06a Crius yells, "It’s 6 o’clock on Gradi, the 49th day of Autumn in the 641st year of the Ascendancy, and all’s well."
+6/10/25 5:04:11a Crius yells, "It looks pretty quiet in Orionwood."
+6/10/25 5:04:18a Maxtrax asks, "where does one make a tell blade?"
+6/10/25 5:04:20a You have 8639 coins.
+6/10/25 5:04:31a Salandra ponders, "hmmmm"
+6/10/25 5:04:45a Salandra says, "I dun remember. I know where the labrys is tho >.<"
+6/10/25 5:04:53a Maxtrax asks, "in estry?"
+6/10/25 5:05:12a Salandra says, "Labrys is past the bridge in BP"
+6/10/25 5:05:49a Death Stalker is no longer Clanning.
+6/10/25 5:06:02a Alkaloid is now Clanning.
+6/10/25 5:06:15a You equip your shirt named “khaki”, which is in nearly perfect condition.
+6/10/25 5:06:23a * You can't change clothing that quickly.
+6/10/25 5:06:28a You equip your shirt named “midnight”, which is in nearly perfect condition.
+6/10/25 5:06:31a You slip your cloak into your backpack.
+6/10/25 5:06:39a Ponyo picks up an indulstone.
+6/10/25 5:06:59a • Your Atkite Pauldron appears inert in your hands.
+6/10/25 5:07:17a Terpram Io is no longer Clanning.
+6/10/25 5:07:21a Maxtrax says, "oh"
+6/10/25 5:07:49a You slaughtered a Rat.
+6/10/25 5:07:49a A 1c bounty from K'vynn!
+6/10/25 5:08:26a You have 8640 coins.
+6/10/25 5:08:29a You slaughtered a Vermine.
+6/10/25 5:09:09a You slaughtered a Vermine.
+6/10/25 5:09:35a You slaughtered an Ona Chigger.
+6/10/25 5:09:59a You slaughtered a Vermine.
+6/10/25 5:10:23a You slaughtered a Bloodhawk.
+6/10/25 5:10:32a You slaughtered a Wendecka.
+6/10/25 5:10:46a You slaughtered a Rat.
+6/10/25 5:10:46a A 1c bounty from K'vynn!
+6/10/25 5:10:55a You slaughtered a Wendecka.
+6/10/25 5:11:10a Death Stalker is now Clanning.
+6/10/25 5:11:11a You slaughtered a Vermine.
+6/10/25 5:11:21a You slaughtered a Vermine.
+6/10/25 5:11:26a Satori is now Clanning.
+6/10/25 5:11:33a You slaughtered a Rat.
+6/10/25 5:11:33a A 1c bounty from K'vynn!
+6/10/25 5:11:35a Satori is no longer Clanning.
+6/10/25 5:11:40a Cinderella is now Clanning.
+6/10/25 5:11:48a G'brhr says, "Strim, Maxtrax, and welcome."
+6/10/25 5:11:48a G'brhr steps aside and escorts Maxtrax through the narrow passage.
+6/10/25 5:11:54a Qa'lorna says, "Congratulations, Maxtrax."
+6/10/25 5:11:55a Qa'lorna says, "Parcur Nixus has advised me of your achievement."
+6/10/25 5:11:55a Qa'lorna says, "As we agreed, please permit me to demonstrate how to use the pauldron."
+6/10/25 5:11:56a Qa'lorna holds a private discussion with Maxtrax.
+6/10/25 5:11:56a * Qa'lorna privately demonstrates her technique for using the pauldron. It seems so obvious – now that you know it.
+6/10/25 5:11:56a Qa'lorna says, "I shall advise the craftsmen that you are qualified to use the pauldron. May it serve you well."
+6/10/25 5:11:57a Qa'lorna says, "Go forth and bring pride to our profession."
+6/10/25 5:12:17a You slaughtered a Vermine.
+6/10/25 5:12:32a You slaughtered a Starbuck.
+6/10/25 5:12:34a You have 8642 coins.
+6/10/25 5:12:47a Humbaba is no longer Clanning.
+6/10/25 5:12:50a Cinderella is no longer Clanning.
+6/10/25 5:13:11a You slaughtered a Vermine.
+6/10/25 5:13:20a You slaughtered a Bloodhawk.
+6/10/25 5:13:48a You slaughtered a Wendecka.
+6/10/25 5:14:33a You slaughtered a Vermine.
+6/10/25 5:14:52a You slaughtered a Rat.
+6/10/25 5:14:53a A 1c bounty from K'vynn!
+6/10/25 5:15:14a You slaughtered an Island Locust.
+6/10/25 5:15:23a You slaughtered an Island Locust.
+6/10/25 5:16:17a You slaughtered a Scavenger Bird.
+6/10/25 5:16:21a Salandra is no longer Clanning.
+6/10/25 5:16:26a Salandra is now Clanning.
+6/10/25 5:16:35a You have 8643 coins.
+6/10/25 5:16:49a Biro asks, "you got your trip to OP with lori's right?"
+6/10/25 5:16:54a Salandra says, "yea"
+6/10/25 5:17:02a • You do not have enough Earthpower stored to focus on your Atkite Pauldron.
+6/10/25 5:17:02a Biro says, "nice"
+6/10/25 5:18:12a Koppi yells, "Salandra reports: Collecting stones, logs, and dirt. The first two will get lugged out to the builder in Lugu's Keep. The latter will go to <mumble mumble>."
+6/10/25 5:18:45a Crius yells, "It’s 7 o’clock, and all’s well."
+6/10/25 5:18:50a Crius yells, "It looks pretty quiet in Orionwood."
+6/10/25 5:19:06a Cinderella is now Clanning.
+6/10/25 5:19:36a Falinus is now Clanning.
+6/10/25 5:20:00a Cinderella is no longer Clanning.
+6/10/25 5:20:37a You have 8643 coins.
+6/10/25 5:20:46a Tiga is now Clanning.
+6/10/25 5:21:08a Finny thinks, "Dear pony on the stairs, please remove yourself from existence. -Signed all exiles"
+6/10/25 5:21:34a Katreesa thinks, "LOL large, roaming cannibal pony boss ftw"
+6/10/25 5:21:35a Tiga picks up an uli flower.
+6/10/25 5:22:31a Finny thinks, "You are making an epic run back to hut in BP.. would sure be a shame if 6 ponies were on the stairs..."
+6/10/25 5:22:34a Alkaloid is no longer Clanning.
+6/10/25 5:22:42a Death Stalker is no longer Clanning.
+6/10/25 5:22:43a Katreesa thinks, "LOL"
+6/10/25 5:22:50a Cecil thinks, "first day in CL? <g>"
+6/10/25 5:23:13a Finny thinks, "It feels like the first time... it feels like the very first time."
+6/10/25 5:23:14a You equip your shirt named “khaki”, which is in nearly perfect condition.
+6/10/25 5:23:18a Biro ponders, "bribe melabrion for permanent shieldstones on stairs"
+6/10/25 5:23:21a * You can't change clothing that quickly.
+6/10/25 5:23:23a Koppi yells, "Salandra reports: Collecting stones, logs, and dirt. The first two will get lugged out to the builder in Lugu's Keep. The latter will go to <mumble mumble>."
+6/10/25 5:23:24a * You can't change clothing that quickly.
+6/10/25 5:23:26a You equip your shirt named “grass-stained green”, which is in nearly perfect condition.
+6/10/25 5:23:32a Tiga is no longer Clanning.
+6/10/25 5:23:40a Falinus is no longer Clanning.
+6/10/25 5:24:06a Falinus is now Clanning.
+6/10/25 5:24:10a Falinus is no longer Clanning.
+6/10/25 5:24:38a You equip your shirt named “midnight”, which is in nearly perfect condition.
+6/10/25 5:24:42a You equip your cloak, which is in very good condition.
+6/10/25 5:24:45a Bloom is now Clanning.
+6/10/25 5:24:47a You have 8643 coins.
+6/10/25 5:24:54a Shadowmutt growls, "Grrr."
+6/10/25 5:25:25a Bloom is no longer Clanning.
+6/10/25 5:25:41a Channel Master says, "Hail, Maxtrax."
+6/10/25 5:25:41a Channel Master bows.
+6/10/25 5:25:44a Channel Master says, "Hail, Maxtrax."
+6/10/25 5:25:44a Channel Master bows.
+6/10/25 5:25:46a Channel Master says, "You show great devotion to your studies."
+6/10/25 5:25:46a * Channel : 600-649.
+6/10/25 5:25:46a Channel Master says, "I can teach you Earthpower Channeling, so you can use the Earthpower stones."
+6/10/25 5:25:47a Channel Master says, "You will learn as you practice."
+6/10/25 5:25:47a Channel Master asks, "Are you sure you would like to train with me?"
+6/10/25 5:25:50a Forvyola says, "Hail, Maxtrax. You may be proud of your accomplishment."
+6/10/25 5:25:50a * Forvyola : 450-499.
+6/10/25 5:25:51a Forvyola says, "I can teach you a mixed fighting style that combines balance recovery and personal fortitude."
+6/10/25 5:25:51a Forvyola says, "You will learn as you practice."
+6/10/25 5:25:55a Erthron says, "Hail, Maxtrax."
+6/10/25 5:25:56a Erthron bows deeply.
+6/10/25 5:25:58a Erthron says, "Let us search for more we might learn together."
+6/10/25 5:25:58a * Erthron : 1000-1249.
+6/10/25 5:25:58a Erthron says, "I can teach you a balanced combat style focused on defense."
+6/10/25 5:25:59a Erthron says, "You will learn as you practice."
+6/10/25 5:25:59a Erthron asks, "Are you sure you would like to train with me?"
+6/10/25 5:26:01a Erthron says, "Just tell me yes or no, please."
+6/10/25 5:27:42a Chi is now Clanning.
+6/10/25 5:27:48a Shadowmutt growls, "Woof!"
+6/10/25 5:28:00a •The Sun rises.
+6/10/25 5:28:34a Koppi yells, "Salandra reports: Collecting stones, logs, and dirt. The first two will get lugged out to the builder in Lugu's Keep. The latter will go to <mumble mumble>."
+6/10/25 5:28:36a Maxtrax says, "i have 600 chanel master, but forgot to back that up with balthus"
+6/10/25 5:28:41a Maxtrax says, "heh"
+6/10/25 5:28:48a You have 8643 coins.
+6/10/25 5:28:59a Salandra says, "Sounds like you have 600 balthus then :o"
+6/10/25 5:29:23a Maxtrax says, "the rarest one to find i hear"
+6/10/25 5:29:27a Salandra ponders, "You should be able to split that as well"
+6/10/25 5:29:35a Maxtrax says, "oh i am"
+6/10/25 5:29:51a Maxtrax says, "i cant swing with just atkite"
+6/10/25 5:29:57a Chi is no longer Clanning.
+6/10/25 5:30:12a Maxtrax says, "if i split it i have one swing"
+6/10/25 5:30:13a Salandra says, "I dunno if it's rarer or if it's just the one that literally everyone wants"
+6/10/25 5:30:19a Anloda asks, "Maxtrax I have a fighter 8th circle and I want to become a champion, But I need to qualify first for the fell blade what is the best method? Rockodiles?"
+6/10/25 5:30:37a Maxtrax says, "give him your blood blade"
+6/10/25 5:30:44a Maxtrax says, "go do rat towers"
+6/10/25 5:30:44a Anloda is sharing experiences with you.
+6/10/25 5:30:56a Maxtrax says, "they wioll get it within 2 hours"
+6/10/25 5:31:09a (Anloda nods)
+6/10/25 5:31:11a Maxtrax says, "they will get goss first though"
+6/10/25 5:31:43a Kin is now Clanning.
+6/10/25 5:31:50a Maxtrax says, "you also need a erthstone and 3 ores i think"
+6/10/25 5:32:01a Maxtrax says, "earthstone*"
+6/10/25 5:32:25a Maxtrax says, "to become a champion"
+6/10/25 5:32:32a Anloda says, "Ok thanks"
+6/10/25 5:32:50a You have 8643 coins.
+6/10/25 5:33:22a Crius yells, "It’s 8 o’clock, and all’s well."
+6/10/25 5:33:45a Koppi yells, "Salandra reports: Collecting stones, logs, and dirt. The first two will get lugged out to the builder in Lugu's Keep. The latter will go to <mumble mumble>."
+6/10/25 5:36:50a •••
+6/10/25 5:36:50a You have been idle for too long.
+6/10/25 5:36:50a Please do something to avoid being disconnected.
+6/10/25 5:36:50a •••
+6/10/25 5:36:56a You have 8643 coins.
+6/10/25 5:36:57a You have 8643 coins.
+6/10/25 5:38:56a Koppi yells, "Salandra reports: Collecting stones, logs, and dirt. The first two will get lugged out to the builder in Lugu's Keep. The latter will go to <mumble mumble>."
+6/10/25 5:39:50a Anloda is no longer Clanning.
+6/10/25 5:40:57a •••
+6/10/25 5:40:57a You have been idle for too long.
+6/10/25 5:40:57a Please do something to avoid being disconnected.
+6/10/25 5:40:57a •••
+6/10/25 5:41:02a You have 8643 coins.
+6/10/25 5:44:03a • /SLEEP when you wish to begin studying.
+6/10/25 5:44:05a • /SLEEP when you wish to begin studying.
+6/10/25 5:44:10a Use \SLEEP again when you return.
+6/10/25 5:44:10a You are done adventuring for a while and will be studying here.
+6/10/25 5:44:11a You have been disconnected from Clan Lord.
+6/10/25 5:44:11a • You will benefit from studying here while you are off-line.
+6/10/25 5:44:12a *** We are no longer connected to the Clan Lord game server. ***

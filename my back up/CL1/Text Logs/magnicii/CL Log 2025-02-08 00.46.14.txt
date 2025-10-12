@@ -1,0 +1,558 @@
+
+2/8/25 12:46:14a * Your pair of pants named “dark grey” is in very good condition.
+2/8/25 12:46:14a * Your pair of shoes named “red” is in nearly perfect condition.
+2/8/25 12:46:14a * Your shirt named “dark grey” is in nearly perfect condition.
+2/8/25 12:46:14a Welcome to Clan Lord, Magnic II!
+2/8/25 12:46:14a Type \HELP for a list of commands.
+2/8/25 12:46:14a • You have been charged 123 coins for advanced studies.
+2/8/25 12:46:14a • You gain experience from your recent studies.
+2/8/25 12:46:14a Magnic II is now Clanning.
+2/8/25 12:46:14a You have been studying for 4 days, 58 minutes.
+2/8/25 12:46:17a It's 10:14am on Sombdi, day 89 of Spring, 640.
+2/8/25 12:46:18a Friends online: none.
+2/8/25 12:46:19a There are two members of Black Phoenix clanning: Ceara and you.
+2/8/25 12:46:19a • What’s New: https://deltatao.com/clanlord/news
+2/8/25 12:46:19a * You begin charging.
+2/8/25 12:46:20a * You stop charging.
+2/8/25 12:46:22a * You need to wait a little bit before you try that again.
+2/8/25 12:46:27a * You don't have it in you.
+2/8/25 12:46:28a * Tip of the day: /DROP /MINE will drop the selected item and only let you pick it back up. (Use /OPTIONS to turn tips off.)
+2/8/25 12:46:31a * You don't have it in you.
+2/8/25 12:46:35a * You begin charging.
+2/8/25 12:46:36a * You stop charging.
+2/8/25 12:46:49a Koppi yells, "Sativa reports: All your base are belong to us"
+2/8/25 12:46:50a •Your Earthpower improves.
+2/8/25 12:47:19a You slaughtered a Rat.
+2/8/25 12:47:20a Big Boy is no longer Clanning.
+2/8/25 12:47:21a Adelina is no longer Clanning.
+2/8/25 12:47:30a Pendarric is no longer Clanning.
+2/8/25 12:47:53a Shadowmutt growls, "Woof!"
+2/8/25 12:47:56a Shadowmutt growls, "Grrr."
+2/8/25 12:48:35a Lexa is no longer Clanning.
+2/8/25 12:49:05a Chargus says, "Greetings, I'm Master Chargus."
+2/8/25 12:49:06a Chargus says, "I'm in charge of charging. And I can teach you to charge too."
+2/8/25 12:49:06a Chargus says, "I'll give you some charge charges, free of charge."
+2/8/25 12:49:06a * You gain 5 charge charges! /use /charge with your specialty blade to consume them.
+2/8/25 12:49:06a Chargus says, "Charge back to me when you run out."
+2/8/25 12:49:07a Chargus says, "I hear if you really want to charge your charges..."
+2/8/25 12:49:07a Chargus says, "Just charge into one of the Ancient ruins and feel the earth charging into your veins."
+2/8/25 12:49:40a You have 2050 coins.
+2/8/25 12:53:14a You have 2050 coins.
+2/8/25 12:56:10a Nem is no longer Clanning.
+2/8/25 12:56:53a You have 2050 coins.
+2/8/25 12:57:27a * Swapping Boots
+2/8/25 12:57:27a You equip your lead boots.
+2/8/25 12:57:28a * Swapping Boots
+2/8/25 12:57:29a You equip your pair of shoes named “red”, which is in nearly perfect condition.
+2/8/25 12:57:31a * You begin charging.
+2/8/25 12:57:32a * You stop charging.
+2/8/25 1:00:21a You have 2050 coins.
+2/8/25 1:02:56a * You begin charging.
+2/8/25 1:02:56a * You stop charging.
+2/8/25 1:03:54a You have 2050 coins.
+2/8/25 1:06:46a * You can't run that far!
+2/8/25 1:06:49a * You need to wait a little bit before you try that again.
+2/8/25 1:06:51a * You begin charging.
+2/8/25 1:06:52a * You stop charging.
+2/8/25 1:07:00a * You begin charging.
+2/8/25 1:07:01a * You stop charging.
+2/8/25 1:07:16a * You need more charge charges if you want to charge.
+2/8/25 1:07:18a You have 2050 coins.
+2/8/25 1:07:22a * You need more charge charges if you want to charge.
+2/8/25 1:10:49a You have 2050 coins.
+2/8/25 1:10:54a •You gain experience.
+2/8/25 1:11:51a Morn is no longer Clanning.
+2/8/25 1:13:40a Ham is no longer Clanning.
+2/8/25 1:13:56a Bratwurst is now Clanning.
+2/8/25 1:14:16a You have 2050 coins.
+2/8/25 1:14:29a Bratwurst is no longer Clanning.
+2/8/25 1:14:38a Gauntlet is no longer Clanning.
+2/8/25 1:17:55a You have 2050 coins.
+2/8/25 1:18:59a Ceara has fallen to a Glacier Bear.
+2/8/25 1:19:04a Ceara is no longer fallen.
+2/8/25 1:19:58a Elenis Reyav is now Clanning.
+2/8/25 1:21:34a You have 2050 coins.
+2/8/25 1:25:14a You have 2050 coins.
+2/8/25 1:25:57a Chargus says, "Greetings, I'm Master Chargus."
+2/8/25 1:25:57a Chargus says, "I'm in charge of charging. And I can teach you to charge too."
+2/8/25 1:25:57a Chargus says, "I'll give you some charge charges, free of charge."
+2/8/25 1:26:00a Chargus says, "Greetings, I'm Master Chargus."
+2/8/25 1:26:00a Chargus says, "I'm in charge of charging. And I can teach you to charge too."
+2/8/25 1:26:00a Chargus says, "I'll give you some charge charges, free of charge."
+2/8/25 1:26:01a * You gain 5 charge charges! /use /charge with your specialty blade to consume them.
+2/8/25 1:26:01a Chargus says, "Charge back to me when you run out."
+2/8/25 1:26:01a Chargus says, "I hear if you really want to charge your charges..."
+2/8/25 1:26:02a Chargus says, "Just charge into one of the Ancient ruins and feel the earth charging into your veins."
+2/8/25 1:26:04a Shadrock is now Clanning.
+2/8/25 1:26:28a You slaughtered a Vermine.
+2/8/25 1:26:32a You slaughtered a Vermine.
+2/8/25 1:26:45a Crius yells, "It’s 1 o’clock, and all’s well."
+2/8/25 1:26:50a Crius yells, "It looks pretty quiet in the Eastern Mountains."
+2/8/25 1:28:17a Koppi yells, "Katreesa reports: this: https://www.youtube.com/watch?v=2oRlBmwKzy4"
+2/8/25 1:28:43a You have 2050 coins.
+2/8/25 1:31:33a Foot is now Clanning.
+2/8/25 1:31:45a Shadrock is no longer Clanning.
+2/8/25 1:32:07a You have 2050 coins.
+2/8/25 1:32:20a Sullin is now Clanning.
+2/8/25 1:33:00a Chargus says, "You already have plenty of charge charges."
+2/8/25 1:33:01a Chargus says, "Go charge around a bit, then I'll top you off."
+2/8/25 1:33:01a Chargus says, "You already have plenty of charge charges."
+2/8/25 1:33:02a Chargus says, "Go charge around a bit, then I'll top you off."
+2/8/25 1:33:02a Chargus says, "You already have plenty of charge charges."
+2/8/25 1:33:03a Chargus says, "Go charge around a bit, then I'll top you off."
+2/8/25 1:33:03a Chargus says, "You already have plenty of charge charges."
+2/8/25 1:33:07a * You begin charging.
+2/8/25 1:33:07a * You stop charging.
+2/8/25 1:33:12a Chargus says, "Greetings, I'm Master Chargus."
+2/8/25 1:33:12a Chargus says, "I'm in charge of charging. And I can teach you to charge too."
+2/8/25 1:33:12a Chargus says, "I'll give you some charge charges, free of charge."
+2/8/25 1:33:13a * You gain 5 charge charges! /use /charge with your specialty blade to consume them.
+2/8/25 1:33:13a Chargus says, "Charge back to me when you run out."
+2/8/25 1:33:13a Chargus says, "I hear if you really want to charge your charges..."
+2/8/25 1:33:19a * You begin charging.
+2/8/25 1:33:19a * You stop charging.
+2/8/25 1:33:53a * You begin charging.
+2/8/25 1:33:54a * You stop charging.
+2/8/25 1:35:21a Chargus says, "Greetings, I'm Master Chargus."
+2/8/25 1:35:22a Chargus says, "I'm in charge of charging. And I can teach you to charge too."
+2/8/25 1:35:22a Chargus says, "I'll give you some charge charges, free of charge."
+2/8/25 1:35:23a * You gain 5 charge charges! /use /charge with your specialty blade to consume them.
+2/8/25 1:35:23a Chargus says, "Charge back to me when you run out."
+2/8/25 1:35:23a Chargus says, "I hear if you really want to charge your charges..."
+2/8/25 1:35:23a Chargus says, "Just charge into one of the Ancient ruins and feel the earth charging into your veins."
+2/8/25 1:35:38a Chargus says, "Greetings, I'm Master Chargus."
+2/8/25 1:35:38a Chargus says, "I'm in charge of charging. And I can teach you to charge too."
+2/8/25 1:35:39a Chargus says, "I'll give you some charge charges, free of charge."
+2/8/25 1:35:39a Chargus says, "Charge back to me when you run out."
+2/8/25 1:35:39a Chargus says, "I hear if you really want to charge your charges..."
+2/8/25 1:35:40a Chargus says, "Just charge into one of the Ancient ruins and feel the earth charging into your veins."
+2/8/25 1:36:50a * You begin charging.
+2/8/25 1:36:50a * You stop charging.
+2/8/25 1:36:53a Chargus says, "Greetings, I'm Master Chargus."
+2/8/25 1:36:53a Chargus says, "I'm in charge of charging. And I can teach you to charge too."
+2/8/25 1:36:53a Chargus says, "I'll give you some charge charges, free of charge."
+2/8/25 1:36:54a * You gain 5 charge charges! /use /charge with your specialty blade to consume them.
+2/8/25 1:36:54a Chargus says, "Charge back to me when you run out."
+2/8/25 1:36:54a Chargus says, "I hear if you really want to charge your charges..."
+2/8/25 1:36:55a Chargus says, "Just charge into one of the Ancient ruins and feel the earth charging into your veins."
+2/8/25 1:37:33a *Auto Trade Zero ON!
+2/8/25 1:37:35a *Auto Trade Zero OFF!
+2/8/25 1:38:17a * You begin charging.
+2/8/25 1:38:17a * You stop charging.
+2/8/25 1:38:20a Sullin is no longer Clanning.
+2/8/25 1:38:22a Chargus says, "Greetings, I'm Master Chargus."
+2/8/25 1:38:23a Chargus says, "I'm in charge of charging. And I can teach you to charge too."
+2/8/25 1:38:23a Chargus says, "I'll give you some charge charges, free of charge."
+2/8/25 1:38:23a * You gain 5 charge charges! /use /charge with your specialty blade to consume them.
+2/8/25 1:38:23a Chargus says, "Charge back to me when you run out."
+2/8/25 1:38:24a Chargus says, "I hear if you really want to charge your charges..."
+2/8/25 1:38:24a Chargus says, "Just charge into one of the Ancient ruins and feel the earth charging into your veins."
+2/8/25 1:38:26a Foot is no longer Clanning.
+2/8/25 1:38:28a * You begin charging.
+2/8/25 1:38:29a Anduin Lothar is no longer Clanning.
+2/8/25 1:38:29a * You stop charging.
+2/8/25 1:38:32a Ceara is no longer Clanning.
+2/8/25 1:38:36a Dracula is no longer Clanning.
+2/8/25 1:38:54a Poplar is no longer Clanning.
+2/8/25 1:38:54a Sycamore is no longer Clanning.
+2/8/25 1:39:29a Chargus says, "Greetings, I'm Master Chargus."
+2/8/25 1:39:30a Chargus says, "I'm in charge of charging. And I can teach you to charge too."
+2/8/25 1:39:30a Chargus says, "I'll give you some charge charges, free of charge."
+2/8/25 1:39:31a * You gain 5 charge charges! /use /charge with your specialty blade to consume them.
+2/8/25 1:39:31a Chargus says, "Charge back to me when you run out."
+2/8/25 1:39:31a Chargus says, "I hear if you really want to charge your charges..."
+2/8/25 1:39:31a Chargus says, "Just charge into one of the Ancient ruins and feel the earth charging into your veins."
+2/8/25 1:39:52a * You begin charging.
+2/8/25 1:39:53a * You stop charging.
+2/8/25 1:39:53a *Charges remaining: -1 
+2/8/25 1:39:53a *Charges remaining: -2 
+2/8/25 1:39:53a *Charges remaining: -3 
+2/8/25 1:39:53a *Charges remaining: -4 
+2/8/25 1:39:53a *Charges remaining: -5 
+2/8/25 1:41:17a Chargus says, "Greetings, I'm Master Chargus."
+2/8/25 1:41:17a Chargus says, "I'm in charge of charging. And I can teach you to charge too."
+2/8/25 1:41:17a Chargus says, "I'll give you some charge charges, free of charge."
+2/8/25 1:41:17a * "I'll 
+2/8/25 1:41:17a * "I'll 
+2/8/25 1:41:17a * "I'll 
+2/8/25 1:41:17a * "I'll 
+2/8/25 1:41:17a * "I'll 
+2/8/25 1:41:18a * You gain 5 charge charges! /use /charge with your specialty blade to consume them.
+2/8/25 1:41:18a Chargus says, "Charge back to me when you run out."
+2/8/25 1:41:18a Chargus says, "I hear if you really want to charge your charges..."
+2/8/25 1:43:30a * You begin charging.
+2/8/25 1:43:30a * You stop charging.
+2/8/25 1:43:30a • MACRO Syntax Error
+setglobal <value> <operation> <value>
+"I'll is not a number.
+2/8/25 1:43:30a • MACRO setglobal CHrem - 1
+2/8/25 1:43:31a *Charges remaining: "I'll 
+2/8/25 1:43:45a Chargus says, "Greetings, I'm Master Chargus."
+2/8/25 1:43:46a Chargus says, "I'm in charge of charging. And I can teach you to charge too."
+2/8/25 1:43:46a Chargus says, "I'll give you some charge charges, free of charge."
+2/8/25 1:43:46a * You gain 5 charge charges! /use /charge with your specialty blade to consume them.
+2/8/25 1:43:46a Chargus says, "Charge back to me when you run out."
+2/8/25 1:43:47a Chargus says, "I hear if you really want to charge your charges..."
+2/8/25 1:43:47a Chargus says, "Just charge into one of the Ancient ruins and feel the earth charging into your veins."
+2/8/25 1:44:09a * You begin charging.
+2/8/25 1:44:09a * You stop charging.
+2/8/25 1:44:09a *Charges remaining: -1 
+2/8/25 1:44:14a Chargus says, "Greetings, I'm Master Chargus."
+2/8/25 1:44:14a Chargus says, "I'm in charge of charging. And I can teach you to charge too."
+2/8/25 1:44:14a Chargus says, "I'll give you some charge charges, free of charge."
+2/8/25 1:44:15a * You gain 5 charge charges! /use /charge with your specialty blade to consume them.
+2/8/25 1:44:15a Chargus says, "Charge back to me when you run out."
+2/8/25 1:44:27a * You begin charging.
+2/8/25 1:44:28a * You stop charging.
+2/8/25 1:44:28a *Charges remaining: -2 
+2/8/25 1:44:34a Chargus says, "Greetings, I'm Master Chargus."
+2/8/25 1:44:34a Chargus says, "I'm in charge of charging. And I can teach you to charge too."
+2/8/25 1:44:35a Chargus says, "I'll give you some charge charges, free of charge."
+2/8/25 1:44:35a * You gain 5 charge charges! /use /charge with your specialty blade to consume them.
+2/8/25 1:44:35a Chargus says, "Charge back to me when you run out."
+2/8/25 1:44:36a Chargus says, "I hear if you really want to charge your charges..."
+2/8/25 1:44:36a Chargus says, "Just charge into one of the Ancient ruins and feel the earth charging into your veins."
+2/8/25 1:44:45a * You begin charging.
+2/8/25 1:44:45a * You stop charging.
+2/8/25 1:44:45a *Charges remaining: -1 
+2/8/25 1:45:45a Chargus says, "Greetings, I'm Master Chargus."
+2/8/25 1:45:45a Chargus says, "I'm in charge of charging. And I can teach you to charge too."
+2/8/25 1:45:46a Chargus says, "I'll give you some charge charges, free of charge."
+2/8/25 1:45:46a * You gain 5 charge charges! /use /charge with your specialty blade to consume them.
+2/8/25 1:45:46a Chargus says, "Charge back to me when you run out."
+2/8/25 1:45:47a Chargus says, "I hear if you really want to charge your charges..."
+2/8/25 1:45:47a Chargus says, "Just charge into one of the Ancient ruins and feel the earth charging into your veins."
+2/8/25 1:45:57a * You begin charging.
+2/8/25 1:45:58a * You stop charging.
+2/8/25 1:45:58a *Charges remaining: -1 
+2/8/25 1:47:07a Chargus says, "Greetings, I'm Master Chargus."
+2/8/25 1:47:07a Chargus says, "I'm in charge of charging. And I can teach you to charge too."
+2/8/25 1:47:07a Chargus says, "I'll give you some charge charges, free of charge."
+2/8/25 1:47:08a * You gain 5 charge charges! /use /charge with your specialty blade to consume them.
+2/8/25 1:47:08a Chargus says, "Charge back to me when you run out."
+2/8/25 1:47:08a Chargus says, "I hear if you really want to charge your charges..."
+2/8/25 1:47:09a Chargus says, "Just charge into one of the Ancient ruins and feel the earth charging into your veins."
+2/8/25 1:47:15a * You begin charging.
+2/8/25 1:47:15a * You stop charging.
+2/8/25 1:47:15a *Charges remaining: -1 
+2/8/25 1:49:47a Chargus says, "Greetings, I'm Master Chargus."
+2/8/25 1:49:47a Chargus says, "I'm in charge of charging. And I can teach you to charge too."
+2/8/25 1:49:48a Chargus says, "I'll give you some charge charges, free of charge."
+2/8/25 1:49:48a * You gain 5 charge charges! /use /charge with your specialty blade to consume them.
+2/8/25 1:49:48a Chargus says, "Charge back to me when you run out."
+2/8/25 1:49:48a Chargus says, "I hear if you really want to charge your charges..."
+2/8/25 1:49:49a Chargus says, "Just charge into one of the Ancient ruins and feel the earth charging into your veins."
+2/8/25 1:51:00a * You begin charging.
+2/8/25 1:51:00a * You stop charging.
+2/8/25 1:51:00a *Charges remaining: -1 
+2/8/25 1:51:03a Chargus says, "Greetings, I'm Master Chargus."
+2/8/25 1:51:03a Chargus says, "I'm in charge of charging. And I can teach you to charge too."
+2/8/25 1:51:03a Chargus says, "I'll give you some charge charges, free of charge."
+2/8/25 1:51:04a * You gain 5 charge charges! /use /charge with your specialty blade to consume them.
+2/8/25 1:51:04a Chargus says, "Charge back to me when you run out."
+2/8/25 1:51:04a Chargus says, "I hear if you really want to charge your charges..."
+2/8/25 1:51:05a Chargus says, "Just charge into one of the Ancient ruins and feel the earth charging into your veins."
+2/8/25 1:52:00a * You begin charging.
+2/8/25 1:52:00a * You stop charging.
+2/8/25 1:52:00a *Charges remaining: -2 
+2/8/25 1:52:11a Chargus says, "Greetings, I'm Master Chargus."
+2/8/25 1:52:12a Chargus says, "I'm in charge of charging. And I can teach you to charge too."
+2/8/25 1:52:12a Chargus says, "I'll give you some charge charges, free of charge."
+2/8/25 1:52:12a * You gain 5 charge charges! /use /charge with your specialty blade to consume them.
+2/8/25 1:52:12a Chargus says, "Charge back to me when you run out."
+2/8/25 1:52:13a Chargus says, "I hear if you really want to charge your charges..."
+2/8/25 1:52:13a Chargus says, "Just charge into one of the Ancient ruins and feel the earth charging into your veins."
+2/8/25 1:52:19a * You begin charging.
+2/8/25 1:52:19a * You stop charging.
+2/8/25 1:52:19a *Charges remaining: -1 
+2/8/25 1:54:32a Haffron is no longer Clanning.
+2/8/25 1:55:38a You have 2050 coins.
+2/8/25 1:55:52a \OPTIONS <option> <value> to set your preference for that option. \OPTIONS LIST to list all options and their current values.  \OPTIONS ? <option> for help with that option.
+2/8/25 1:56:02a \OPTIONS <option> <value> to set your preference for that option. \OPTIONS LIST to list all options and their current values.  \OPTIONS ? <option> for help with that option.
+2/8/25 1:56:07a \OPTIONS <option> <value> to set your preference for that option. \OPTIONS LIST to list all options and their current values.  \OPTIONS ? <option> for help with that option.
+2/8/25 1:56:12a \OPTIONS <option> <value> to set your preference for that option. \OPTIONS LIST to list all options and their current values.  \OPTIONS ? <option> for help with that option.
+2/8/25 1:56:26a Options: speech speed (zoom), tip of the day (on), skinning (on), jury duty (off), strongWeather (on), icon (n/a).
+2/8/25 1:56:38a Unknown option 'speech speed ?'.  Try \OPTIONS ? speech speed.
+2/8/25 1:56:53a \OPTIONS <option> <value> to set your preference for that option. \OPTIONS LIST to list all options and their current values.  \OPTIONS ? <option> for help with that option.
+2/8/25 1:57:01a Unknown option 'speech speed normal'.  Try \OPTIONS ? speech speed.
+2/8/25 1:57:40a Unknown option 'speech'.  Try \OPTIONS ? speech speed.
+2/8/25 1:57:50a Unknown option 'speech ?'.  Try \OPTIONS ? speech speed.
+2/8/25 1:58:04a Unknown option 'speech speed'.  Try \OPTIONS ? speech speed.
+2/8/25 1:58:11a \OPTIONS <option> <value> to set your preference for that option. \OPTIONS LIST to list all options and their current values.  \OPTIONS ? <option> for help with that option.
+2/8/25 1:58:17a \OPTIONS <option> <value> to set your preference for that option. \OPTIONS LIST to list all options and their current values.  \OPTIONS ? <option> for help with that option.
+2/8/25 1:58:21a \OPTIONS <option> <value> to set your preference for that option. \OPTIONS LIST to list all options and their current values.  \OPTIONS ? <option> for help with that option.
+2/8/25 1:58:31a \OPTIONS <option> <value> to set your preference for that option. \OPTIONS LIST to list all options and their current values.  \OPTIONS ? <option> for help with that option.
+2/8/25 1:58:35a Unknown option 'speechspeed normal'.  Try \OPTIONS ? speech speed.
+2/8/25 1:58:40a Unknown option 'speechspeed ?'.  Try \OPTIONS ? speech speed.
+2/8/25 1:58:53a speech speed <slow, medium, fast, zoom>: sets the speech speed NPCs use when talking to you.
+2/8/25 1:59:10a NPC speech speed set to medium.
+2/8/25 1:59:14a You have 2050 coins.
+2/8/25 1:59:28a * You begin charging.
+2/8/25 1:59:28a * You stop charging.
+2/8/25 1:59:28a * Charges remaining: -1 
+2/8/25 1:59:31a Chargus says, "Greetings, I'm Master Chargus."
+2/8/25 1:59:33a Chargus says, "I'm in charge of charging. And I can teach you to charge too."
+2/8/25 1:59:36a Chargus says, "I'll give you some charge charges, free of charge."
+2/8/25 1:59:39a * You gain 5 charge charges! /use /charge with your specialty blade to consume them.
+2/8/25 1:59:39a Chargus says, "Charge back to me when you run out."
+2/8/25 1:59:41a Chargus says, "I hear if you really want to charge your charges..."
+2/8/25 2:00:40a Shadrock is now Clanning.
+2/8/25 2:01:52a * You begin charging.
+2/8/25 2:01:53a * You stop charging.
+2/8/25 2:01:53a * Charges remaining: -2 
+2/8/25 2:02:08a Chargus says, "Greetings, I'm Master Chargus."
+2/8/25 2:02:10a Chargus says, "I'm in charge of charging. And I can teach you to charge too."
+2/8/25 2:02:13a Chargus says, "I'll give you some charge charges, free of charge."
+2/8/25 2:02:16a * You gain 5 charge charges! /use /charge with your specialty blade to consume them.
+2/8/25 2:02:16a Chargus says, "Charge back to me when you run out."
+2/8/25 2:04:02a Valadorei is now Clanning.
+2/8/25 2:05:25a NPC speech speed set to zoom.
+2/8/25 2:05:32a You have 2050 coins.
+2/8/25 2:06:16a Arlana is now Clanning.
+2/8/25 2:09:02a You have 2050 coins.
+2/8/25 2:09:59a Shobaffum is now Clanning.
+2/8/25 2:10:34a Shobaffum is no longer Clanning.
+2/8/25 2:11:19a Aye'Cha is now Clanning.
+2/8/25 2:11:43a Pandora is now Clanning.
+2/8/25 2:11:52a Ayelwen is now Clanning.
+2/8/25 2:11:54a Swann is now Clanning.
+2/8/25 2:11:57a Graceling is now Clanning.
+2/8/25 2:12:32a You have 2050 coins.
+2/8/25 2:12:58a •You gain experience.
+2/8/25 2:13:24a Shadrock is no longer Clanning.
+2/8/25 2:14:56a Koppi yells, "Bashak reports: Keep your ear to the ground for details about LA™'s Spring Break in Peaceton, brought to you by The Laughing Academy™"
+2/8/25 2:15:04a * You feel mentally enhanced by Valadorei...
+2/8/25 2:15:19a You slaughtered a Vermine.
+2/8/25 2:15:22a * You begin charging.
+2/8/25 2:15:22a * You stop charging.
+2/8/25 2:15:22a * Charges remaining: -1 
+2/8/25 2:15:42a Chargus says, "Greetings, I'm Master Chargus."
+2/8/25 2:15:42a Chargus says, "I'm in charge of charging. And I can teach you to charge too."
+2/8/25 2:15:43a Chargus says, "I'll give you some charge charges, free of charge."
+2/8/25 2:15:43a * You gain 5 charge charges! /use /charge with your specialty blade to consume them.
+2/8/25 2:15:43a Chargus says, "Charge back to me when you run out."
+2/8/25 2:15:44a Chargus says, "I hear if you really want to charge your charges..."
+2/8/25 2:15:44a Chargus says, "Just charge into one of the Ancient ruins and feel the earth charging into your veins."
+2/8/25 2:16:01a You have 2050 coins.
+2/8/25 2:17:12a * You begin charging.
+2/8/25 2:17:12a * You stop charging.
+2/8/25 2:17:12a * Charges remaining: -1 
+2/8/25 2:17:16a Chargus says, "Greetings, I'm Master Chargus."
+2/8/25 2:17:16a Chargus says, "I'm in charge of charging. And I can teach you to charge too."
+2/8/25 2:17:17a Chargus says, "I'll give you some charge charges, free of charge."
+2/8/25 2:17:17a * You gain 5 charge charges! /use /charge with your specialty blade to consume them.
+2/8/25 2:17:17a Chargus says, "Charge back to me when you run out."
+2/8/25 2:17:17a Chargus says, "I hear if you really want to charge your charges..."
+2/8/25 2:17:18a Chargus says, "Just charge into one of the Ancient ruins and feel the earth charging into your veins."
+2/8/25 2:17:18a * 5 
+2/8/25 2:17:18a * 5 
+2/8/25 2:17:18a * 5 
+2/8/25 2:17:18a * 5 
+2/8/25 2:17:18a * 5 
+2/8/25 2:18:20a * You begin charging.
+2/8/25 2:18:20a * You stop charging.
+2/8/25 2:18:20a * Charges remaining: 4 
+2/8/25 2:19:06a * Your mental enhancement fades.
+2/8/25 2:19:09a * Your mental enhancement fades.
+2/8/25 2:20:07a Koppi yells, "Bashak reports: Keep your ear to the ground for details about LA™'s Spring Break in Peaceton, brought to you by The Laughing Academy™"
+2/8/25 2:20:27a Captain Barnac asks, "Ah, Magnic II. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+2/8/25 2:20:30a Magnic II says, "yes"
+2/8/25 2:20:37a You have 2045 coins.
+2/8/25 2:20:52a You slaughtered a Jellyfish.
+2/8/25 2:21:05a You slaughtered a Giant Carnivorous Plankton.
+2/8/25 2:21:06a You slaughtered a Giant Carnivorous Plankton.
+2/8/25 2:21:08a You slaughtered a Giant Carnivorous Plankton.
+2/8/25 2:21:11a You slaughtered a Giant Carnivorous Plankton.
+2/8/25 2:21:13a You slaughtered a Giant Carnivorous Plankton.
+2/8/25 2:21:18a You slaughtered a Giant Carnivorous Plankton.
+2/8/25 2:21:18a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+2/8/25 2:21:18a Magnic II has fallen to a Giant Carnivorous Plankton.
+2/8/25 2:21:50a Magnic is now Clanning.
+2/8/25 2:24:10a You have 2045 coins.
+2/8/25 2:26:14a Arlana is no longer Clanning.
+2/8/25 2:27:44a You have 2045 coins.
+2/8/25 2:28:27a Mimo is now Clanning.
+2/8/25 2:28:44a Talin is now Clanning.
+2/8/25 2:29:22a Mimo is no longer Clanning.
+2/8/25 2:30:47a Magnic starts dragging you.
+2/8/25 2:30:53a * You drift in troubled waters.
+2/8/25 2:31:32a You have 2045 coins.
+2/8/25 2:31:38a Shad Krem'lin is no longer Clanning.
+2/8/25 2:32:30a Mimo is now Clanning.
+2/8/25 2:33:38a Shad Krem'lin is now Clanning.
+2/8/25 2:33:46a Mimo is no longer Clanning.
+2/8/25 2:34:11a Magnic is no longer Clanning.
+2/8/25 2:34:29a Magnic II says, "i wounder where the charge guy is on metz"
+2/8/25 2:34:46a Musashi is now Clanning.
+2/8/25 2:35:09a * You feel mentally enhanced by Valadorei...
+2/8/25 2:35:11a Katreesa says, "oh, uhm"
+2/8/25 2:35:26a You have 2045 coins.
+2/8/25 2:35:33a Katreesa asks, "there are a few of them?"
+2/8/25 2:35:40a Koppi yells, "Omega reports: How DID he get the kitty to do that!?"
+2/8/25 2:35:42a Katreesa says, "oh not that guy"
+2/8/25 2:35:47a Katreesa says, "nevermind"
+2/8/25 2:35:56a Katreesa says, "I'm sleepy and brain not engaged yet"
+2/8/25 2:36:02a Musashi picks up an iron helmet.
+2/8/25 2:36:13a Musashi repairs an iron helmet.
+2/8/25 2:36:24a Katreesa picks up an iron helmet.
+2/8/25 2:36:41a Musashi is no longer Clanning.
+2/8/25 2:36:53a Katreesa says, "bbl"
+2/8/25 2:36:57a (Katreesa waves)
+2/8/25 2:37:11a Katreesa is no longer Clanning.
+2/8/25 2:39:08a You have 2045 coins.
+2/8/25 2:39:11a * Your mental enhancement fades.
+2/8/25 2:40:01a • It’s Sombdi night, and the Coliseum will open soon.
+2/8/25 2:40:04a Crius yells, "It’s 6 o’clock on Sombdi, the 89th day of Spring in the 640th year of the Ascendancy, and all’s well."
+2/8/25 2:40:08a Crius yells, "There’s good hunting in Orionwood."
+2/8/25 2:40:51a Koppi yells, "Katreesa reports: this: https://www.youtube.com/watch?v=2oRlBmwKzy4"
+2/8/25 2:42:48a You have 2045 coins.
+2/8/25 2:43:12a * Your mental enhancement fades.
+2/8/25 2:46:02a Koppi yells, "Katreesa reports: this: https://www.youtube.com/watch?v=2oRlBmwKzy4"
+2/8/25 2:46:29a You have 2045 coins.
+2/8/25 2:47:13a * Your mental enhancement fades.
+2/8/25 2:48:07a * You begin charging.
+2/8/25 2:48:07a * You stop charging.
+2/8/25 2:48:08a * Charges remaining: 3 
+2/8/25 2:48:36a Shadowmutt growls, "Grrr."
+2/8/25 2:48:57a Shadowmutt growls, "Grrr."
+2/8/25 2:49:16a Shadowmutt growls, "Grrr."
+2/8/25 2:49:29a Shadowmutt growls, "Grrr."
+2/8/25 2:49:57a Shadowmutt growls, "Grrr."
+2/8/25 2:50:07a You have 2045 coins.
+2/8/25 2:50:07a Shadowmutt growls, "Grrr."
+2/8/25 2:50:09a Shadowmutt growls, "Woof!"
+2/8/25 2:50:10a * You begin charging.
+2/8/25 2:50:11a * You stop charging.
+2/8/25 2:50:11a * Charges remaining: 2 
+2/8/25 2:50:13a * You need to wait a little bit before you try that again.
+2/8/25 2:50:18a * You begin charging.
+2/8/25 2:50:18a * You stop charging.
+2/8/25 2:50:18a * Charges remaining: 1 
+2/8/25 2:50:20a Shadowmutt growls, "Grrr."
+2/8/25 2:50:41a * You begin charging.
+2/8/25 2:50:42a * You stop charging.
+2/8/25 2:50:42a * Charges remaining: 0 
+2/8/25 2:51:13a Koppi yells, "Sativa reports: All your base are belong to us"
+2/8/25 2:51:14a * Your mental enhancement fades.
+2/8/25 2:51:21a * You need more charge charges if you want to charge.
+2/8/25 2:51:48a Chargus says, "Greetings, I'm Master Chargus."
+2/8/25 2:51:48a Chargus says, "I'm in charge of charging. And I can teach you to charge too."
+2/8/25 2:51:48a Chargus says, "I'll give you some charge charges, free of charge."
+2/8/25 2:51:49a * You gain 5 charge charges! /use /charge with your specialty blade to consume them.
+2/8/25 2:51:49a Chargus says, "Charge back to me when you run out."
+2/8/25 2:51:49a Chargus says, "I hear if you really want to charge your charges..."
+2/8/25 2:51:50a Chargus says, "Just charge into one of the Ancient ruins and feel the earth charging into your veins."
+2/8/25 2:51:50a * 5 
+2/8/25 2:51:50a * 5 
+2/8/25 2:51:50a * 5 
+2/8/25 2:51:50a * 5 
+2/8/25 2:51:50a * 5 
+2/8/25 2:52:12a You slaughtered a Vermine.
+2/8/25 2:52:15a You slaughtered a Scavenger Bird.
+2/8/25 2:52:39a Shadowmutt growls, "Grrr."
+2/8/25 2:53:05a Shadowmutt growls, "Grrr."
+2/8/25 2:53:49a You have 2045 coins.
+2/8/25 2:54:38a • The Coliseum is now open. Win fabulous prizes!
+2/8/25 2:54:41a Crius yells, "It’s 7 o’clock, and all’s well."
+2/8/25 2:55:15a * Your mental enhancement fades.
+2/8/25 2:56:14a * You begin charging.
+2/8/25 2:56:14a * You stop charging.
+2/8/25 2:56:14a * Charges remaining: 4 
+2/8/25 2:56:20a You slaughtered a Vermine.
+2/8/25 2:57:04a • MACRO Matching " not found: ".
+FILE "Default" LINE 383
+2/8/25 2:57:04a • MACRO Matching " not found: ".
+FILE "Default" LINE 387
+2/8/25 2:57:52a Chargus says, "Greetings, I'm Master Chargus."
+2/8/25 2:57:52a Chargus says, "I'm in charge of charging. And I can teach you to charge too."
+2/8/25 2:57:52a Chargus says, "I'll give you some charge charges, free of charge."
+2/8/25 2:57:53a * You gain 5 charge charges! /use /charge with your specialty blade to consume them.
+2/8/25 2:57:53a Chargus says, "Charge back to me when you run out."
+2/8/25 2:57:53a Chargus says, "I hear if you really want to charge your charges..."
+2/8/25 2:57:54a Chargus says, "Just charge into one of the Ancient ruins and feel the earth charging into your veins."
+2/8/25 2:59:16a * Your mental enhancement fades.
+2/8/25 2:59:19a * Your mental enhancement fades.
+2/8/25 3:01:28a You have 2045 coins.
+2/8/25 3:01:41a * You begin charging.
+2/8/25 3:01:42a * You can't seem to move through here.
+2/8/25 3:01:42a * You stop charging.
+2/8/25 3:01:42a Erthron says, "Hail, Magnic II. Teaching you has taught me much."
+2/8/25 3:01:53a Chargus says, "Greetings, I'm Master Chargus."
+2/8/25 3:01:53a Chargus says, "I'm in charge of charging. And I can teach you to charge too."
+2/8/25 3:01:54a Chargus says, "I'll give you some charge charges, free of charge."
+2/8/25 3:01:54a * You gain 5 charge charges! /use /charge with your specialty blade to consume them.
+2/8/25 3:01:54a Chargus says, "Charge back to me when you run out."
+2/8/25 3:01:55a Chargus says, "I hear if you really want to charge your charges..."
+2/8/25 3:01:55a Chargus says, "Just charge into one of the Ancient ruins and feel the earth charging into your veins."
+2/8/25 3:02:04a * You begin charging.
+2/8/25 3:02:05a * You stop charging.
+2/8/25 3:03:16a * You begin charging.
+2/8/25 3:03:16a * You stop charging.
+2/8/25 3:03:17a * Charges remaining: -1 
+2/8/25 3:03:55a * You begin charging.
+2/8/25 3:03:56a * You stop charging.
+2/8/25 3:04:26a * You begin charging.
+2/8/25 3:04:27a * You stop charging.
+2/8/25 3:05:59a Chargus says, "Greetings, I'm Master Chargus."
+2/8/25 3:05:59a Chargus says, "I'm in charge of charging. And I can teach you to charge too."
+2/8/25 3:06:00a Chargus says, "I'll give you some charge charges, free of charge."
+2/8/25 3:06:00a * You gain 5 charge charges! /use /charge with your specialty blade to consume them.
+2/8/25 3:06:00a Chargus says, "Charge back to me when you run out."
+2/8/25 3:06:00a Chargus says, "I hear if you really want to charge your charges..."
+2/8/25 3:06:01a Chargus says, "Just charge into one of the Ancient ruins and feel the earth charging into your veins."
+2/8/25 3:06:21a * You begin charging.
+2/8/25 3:06:21a * You stop charging.
+2/8/25 3:06:22a * Charges remaining: -1 
+2/8/25 3:06:53a Chargus says, "Greetings, I'm Master Chargus."
+2/8/25 3:06:54a Chargus says, "I'm in charge of charging. And I can teach you to charge too."
+2/8/25 3:06:54a Chargus says, "I'll give you some charge charges, free of charge."
+2/8/25 3:06:54a * You gain 5 charge charges! /use /charge with your specialty blade to consume them.
+2/8/25 3:06:54a Chargus says, "Charge back to me when you run out."
+2/8/25 3:06:55a Chargus says, "I hear if you really want to charge your charges..."
+2/8/25 3:06:55a Chargus says, "Just charge into one of the Ancient ruins and feel the earth charging into your veins."
+2/8/25 3:07:51a * You begin charging.
+2/8/25 3:07:51a * You stop charging.
+2/8/25 3:07:51a * Charges remaining: -1 
+2/8/25 3:07:59a Chargus says, "Greetings, I'm Master Chargus."
+2/8/25 3:07:59a Chargus says, "I'm in charge of charging. And I can teach you to charge too."
+2/8/25 3:08:00a Chargus says, "I'll give you some charge charges, free of charge."
+2/8/25 3:08:00a * You gain 5 charge charges! /use /charge with your specialty blade to consume them.
+2/8/25 3:08:00a Chargus says, "Charge back to me when you run out."
+2/8/25 3:08:01a Chargus says, "I hear if you really want to charge your charges..."
+2/8/25 3:08:01a Chargus says, "Just charge into one of the Ancient ruins and feel the earth charging into your veins."
+2/8/25 3:08:07a * You begin charging.
+2/8/25 3:08:07a * You stop charging.
+2/8/25 3:08:32a * You begin charging.
+2/8/25 3:08:32a * You stop charging.
+2/8/25 3:11:25a * You begin charging.
+2/8/25 3:11:25a * You stop charging.
+2/8/25 3:11:26a * Charges remaining: -1 
+2/8/25 3:11:31a Chargus says, "Greetings, I'm Master Chargus."
+2/8/25 3:11:32a Chargus says, "I'm in charge of charging. And I can teach you to charge too."
+2/8/25 3:11:32a Chargus says, "I'll give you some charge charges, free of charge."
+2/8/25 3:11:33a * You gain 5 charge charges! /use /charge with your specialty blade to consume them.
+2/8/25 3:11:33a Chargus says, "Charge back to me when you run out."
+2/8/25 3:11:33a Chargus says, "I hear if you really want to charge your charges..."
+2/8/25 3:11:33a Chargus says, "Just charge into one of the Ancient ruins and feel the earth charging into your veins."
+2/8/25 3:11:57a Koppi yells, "Omega reports: How DID he get the kitty to do that!?"
+2/8/25 3:12:43a * You begin charging.
+2/8/25 3:12:43a * You can't seem to move through here.
+2/8/25 3:12:43a * You stop charging.
+2/8/25 3:12:44a * Charges remaining: 4 
+2/8/25 3:13:34a You equip your Atkite Pauldron.
+2/8/25 3:13:35a • You do not have enough Earthpower stored to focus on your Atkite Pauldron.
+2/8/25 3:13:38a Poplar is now Clanning.
+2/8/25 3:13:41a You slip your Atkite Pauldron into your backpack.
+2/8/25 3:13:47a You equip your Atkite.
+2/8/25 3:13:53a • Your Atkite appears inert in your hands.
+2/8/25 3:14:02a You equip your Balthite Pauldron.
+2/8/25 3:14:04a • Your Atkite appears inert in your hands.
+2/8/25 3:14:11a You slip your Atkite into your backpack.
+2/8/25 3:14:13a You slip your Balthite Pauldron into your backpack.
+2/8/25 3:14:21a • /SLEEP when you wish to begin studying.
+2/8/25 3:14:24a • /SLEEP when you wish to begin studying.
+2/8/25 3:14:27a Use \SLEEP again when you return.
+2/8/25 3:14:27a You are done adventuring for a while and will be studying here.
+2/8/25 3:14:28a You have been disconnected from Clan Lord.
+2/8/25 3:14:28a • You will benefit from studying here while you are off-line.
+2/8/25 3:14:29a *** We are no longer connected to the Clan Lord game server. ***

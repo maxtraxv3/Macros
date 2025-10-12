@@ -1,0 +1,1941 @@
+
+10/9/25 4:48:40p * Your pair of shoes named “purple” is in nearly perfect condition.
+10/9/25 4:48:40p * Your shirt named “dark grey” is in pretty good shape.
+10/9/25 4:48:40p * Your pair of pants named “dark grey” is in very good condition.
+10/9/25 4:48:40p Welcome to Clan Lord, Ajahn!
+10/9/25 4:48:40p Type \HELP for a list of commands.
+10/9/25 4:48:40p • You have been charged 319 coins for advanced studies.
+10/9/25 4:48:40p • You gain experience from your recent studies.
+10/9/25 4:48:40p You have been studying for 10 days, 10 hours, 56 minutes.
+10/9/25 4:48:43p It's 1:57am on Gradi, day 6 of Spring, 643.
+10/9/25 4:48:45p There are three members of Black Phoenix clanning: Magnic I, Mara and you.
+10/9/25 4:48:45p • There was a problem with the update and we had to revert to a previous snapshot. We've attempted to give 25 ranks as compensation, but have reports of people missing it. We're investigating.
+10/9/25 4:48:45p •What's New: https://deltatao.com/clanlord/news/
+10/9/25 4:48:47p Friends online: none.
+10/9/25 4:48:50p •You notice your balance and recovery improving.
+10/9/25 4:48:55p * Tip of the day: A /DEPART is traumatic, making it harder to learn for a while afterward. (Use /OPTIONS to turn tips off.)
+10/9/25 4:48:56p You slaughtered a Large Vermine.
+10/9/25 4:48:56p * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+10/9/25 4:49:03p You slaughtered a Vermine.
+10/9/25 4:49:03p You slaughtered a Vermine.
+10/9/25 4:49:04p You slaughtered a Rat.
+10/9/25 4:49:10p You slaughtered a Rat.
+10/9/25 4:49:11p You slaughtered a Rat.
+10/9/25 4:49:11p You slaughtered a Rat.
+10/9/25 4:49:14p You slaughtered a Rat.
+10/9/25 4:49:18p You slaughtered a Vermine.
+10/9/25 4:49:18p Shadowpuss growls, "Zzzzzz."
+10/9/25 4:49:22p You slaughtered a Rat.
+10/9/25 4:49:24p You slaughtered a Rat.
+10/9/25 4:49:25p You slaughtered a Rat.
+10/9/25 4:49:27p You slaughtered a Rat.
+10/9/25 4:49:35p You slaughtered a Vermine.
+10/9/25 4:49:37p You slaughtered a Vermine.
+10/9/25 4:49:38p You slaughtered a Rat.
+10/9/25 4:49:41p You slaughtered a Vermine.
+10/9/25 4:49:42p You slaughtered a Rat.
+10/9/25 4:49:50p You slaughtered a Rat.
+10/9/25 4:50:06p You slaughtered a Rat.
+10/9/25 4:50:08p You slaughtered a Rat.
+10/9/25 4:50:11p You slaughtered a Rat.
+10/9/25 4:50:12p You slaughtered a Rat.
+10/9/25 4:50:14p You slaughtered a Rat.
+10/9/25 4:50:20p You slaughtered an Ona Chigger.
+10/9/25 4:50:20p •You notice your balance and recovery improving.
+10/9/25 4:50:25p You slaughtered a Rat.
+10/9/25 4:50:26p You slaughtered a Rat.
+10/9/25 4:50:27p You slaughtered a Rat.
+10/9/25 4:50:29p You slaughtered a Rat.
+10/9/25 4:50:31p You slaughtered a Rat.
+10/9/25 4:50:33p You slaughtered a Rat.
+10/9/25 4:50:35p You slaughtered a Rat.
+10/9/25 4:50:38p You slaughtered a Rat.
+10/9/25 4:50:42p You slaughtered a Rat.
+10/9/25 4:50:43p You slaughtered a Rat.
+10/9/25 4:50:48p You slaughtered a Rat.
+10/9/25 4:50:52p You slaughtered a Rat.
+10/9/25 4:50:58p You slaughtered a Rat.
+10/9/25 4:51:00p You slaughtered a Rat.
+10/9/25 4:51:00p You slaughtered a Rat.
+10/9/25 4:51:02p You slaughtered a Rat.
+10/9/25 4:51:04p You slaughtered a Rat.
+10/9/25 4:51:12p You slaughtered a Large Vermine.
+10/9/25 4:51:12p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+10/9/25 4:51:14p You slaughtered a Rat.
+10/9/25 4:51:24p You have 30254 coins.
+10/9/25 4:51:31p You slaughtered a Rat.
+10/9/25 4:51:33p You slaughtered a Vermine.
+10/9/25 4:51:35p You slaughtered a Vermine.
+10/9/25 4:51:39p You slaughtered a Rat.
+10/9/25 4:51:43p You slaughtered a Rat.
+10/9/25 4:51:45p You slaughtered a Rat.
+10/9/25 4:51:47p You slaughtered a Vermine.
+10/9/25 4:51:48p You slaughtered a Vermine.
+10/9/25 4:51:49p Cecil thinks, "avo"
+10/9/25 4:51:50p You slaughtered a Rat.
+10/9/25 4:51:51p •You notice your balance and recovery improving.
+10/9/25 4:51:51p You slaughtered a Rat.
+10/9/25 4:51:54p You slaughtered a Rat.
+10/9/25 4:51:56p You slaughtered a Rat.
+10/9/25 4:51:58p You slaughtered a Rat.
+10/9/25 4:52:02p You slaughtered a Rat.
+10/9/25 4:52:03p You slaughtered a Rat.
+10/9/25 4:52:09p You slaughtered an Ona Chigger.
+10/9/25 4:52:11p You slaughtered a Rat.
+10/9/25 4:52:19p You slaughtered a Rat.
+10/9/25 4:52:33p You slaughtered a Rat.
+10/9/25 4:52:35p You slaughtered a Rat.
+10/9/25 4:52:44p You slaughtered a Vermine.
+10/9/25 4:52:45p You slaughtered a Rat.
+10/9/25 4:52:46p You slaughtered a Rat.
+10/9/25 4:52:48p You slaughtered a Rat.
+10/9/25 4:52:50p You slaughtered a Vermine.
+10/9/25 4:52:52p You slaughtered a Rat.
+10/9/25 4:52:55p You slaughtered a Rat.
+10/9/25 4:53:01p You slaughtered a Rat.
+10/9/25 4:53:02p You slaughtered a Vermine.
+10/9/25 4:53:12p Finn Orak asks, "I wonder what provoked the Drake strikes?"
+10/9/25 4:53:16p You slaughtered a Scavenger Bird.
+10/9/25 4:53:20p You slaughtered a Vermine.
+10/9/25 4:53:21p •You notice your balance and recovery improving.
+10/9/25 4:53:23p You slaughtered a Rat.
+10/9/25 4:53:24p You slaughtered a Rat.
+10/9/25 4:53:26p You slaughtered a Vermine.
+10/9/25 4:53:31p You slaughtered a Rat.
+10/9/25 4:53:35p You slaughtered a Rat.
+10/9/25 4:53:38p You slaughtered a Rat.
+10/9/25 4:53:41p You slaughtered a Rat.
+10/9/25 4:53:42p You slaughtered a Vermine.
+10/9/25 4:53:42p * You recover the Vermine fur, worth 1c. Your share is 1c.
+10/9/25 4:53:43p You slaughtered a Rat.
+10/9/25 4:53:44p You slaughtered a Rat.
+10/9/25 4:53:48p You slaughtered a Rat.
+10/9/25 4:53:49p You slaughtered a Rat.
+10/9/25 4:53:52p You slaughtered a Rat.
+10/9/25 4:53:56p You slaughtered a Rat.
+10/9/25 4:53:59p You slaughtered a Rat.
+10/9/25 4:54:01p You slaughtered a Rat.
+10/9/25 4:54:05p You slaughtered a Rat.
+10/9/25 4:54:08p You have 30255 coins.
+10/9/25 4:54:09p You slaughtered a Rat.
+10/9/25 4:54:11p You slaughtered a Rat.
+10/9/25 4:54:30p You slaughtered a Rat.
+10/9/25 4:54:32p You slaughtered a Rat.
+10/9/25 4:54:33p You slaughtered a Rat.
+10/9/25 4:54:37p You slaughtered a Rat.
+10/9/25 4:54:41p You slaughtered a Rat.
+10/9/25 4:54:48p You slaughtered a Rat.
+10/9/25 4:54:49p You slaughtered a Rat.
+10/9/25 4:54:51p You slaughtered a Rat.
+10/9/25 4:54:52p •You notice your balance and recovery improving.
+10/9/25 4:54:55p You slaughtered a Rat.
+10/9/25 4:54:58p You slaughtered a Rat.
+10/9/25 4:54:59p You slaughtered a Rat.
+10/9/25 4:55:16p You slaughtered a Scavenger Bird.
+10/9/25 4:55:19p You slaughtered a Vermine.
+10/9/25 4:55:20p You slaughtered a Vermine.
+10/9/25 4:55:22p You slaughtered a Rat.
+10/9/25 4:55:23p You slaughtered a Rat.
+10/9/25 4:55:27p You slaughtered a Scavenger Bird.
+10/9/25 4:55:30p You slaughtered a Rat.
+10/9/25 4:55:32p You slaughtered a Scavenger Bird.
+10/9/25 4:55:34p You slaughtered a Scavenger Bird.
+10/9/25 4:55:40p You slaughtered a Vermine.
+10/9/25 4:55:41p You slaughtered a Vermine.
+10/9/25 4:55:42p You slaughtered a Rat.
+10/9/25 4:55:44p You slaughtered a Vermine.
+10/9/25 4:55:44p * You recover the Vermine fur, worth 1c. Your share is 1c.
+10/9/25 4:55:46p You slaughtered a Rat.
+10/9/25 4:55:49p You slaughtered a Vermine.
+10/9/25 4:55:52p You slaughtered a Rat.
+10/9/25 4:55:57p You slaughtered a Rat.
+10/9/25 4:55:57p You slaughtered a Rat.
+10/9/25 4:55:58p You slaughtered a Rat.
+10/9/25 4:56:00p You slaughtered a Rat.
+10/9/25 4:56:03p You slaughtered a Rat.
+10/9/25 4:56:10p You slaughtered a Rat.
+10/9/25 4:56:14p You slaughtered a Rat.
+10/9/25 4:56:22p •You notice your balance and recovery improving.
+10/9/25 4:56:53p You have 30256 coins.
+10/9/25 4:57:10p You slaughtered a Vermine.
+10/9/25 4:57:11p You slaughtered a Rat.
+10/9/25 4:57:12p You slaughtered a Vermine.
+10/9/25 4:57:14p You slaughtered a Rat.
+10/9/25 4:57:16p You slaughtered a Vermine.
+10/9/25 4:57:21p You slaughtered a Rat.
+10/9/25 4:57:23p You slaughtered a Vermine.
+10/9/25 4:57:24p You slaughtered a Vermine.
+10/9/25 4:57:25p You slaughtered a Vermine.
+10/9/25 4:57:27p You slaughtered a Rat.
+10/9/25 4:57:30p You slaughtered a Rat.
+10/9/25 4:57:33p You slaughtered a Rat.
+10/9/25 4:57:37p You slaughtered a Rat.
+10/9/25 4:57:41p You slaughtered a Rat.
+10/9/25 4:57:49p You slaughtered a Rat.
+10/9/25 4:57:52p •You notice your balance and recovery improving.
+10/9/25 4:57:55p You slaughtered a Rat.
+10/9/25 4:57:59p You slaughtered a Rat.
+10/9/25 4:58:01p You slaughtered a Rat.
+10/9/25 4:58:07p You slaughtered a Vermine.
+10/9/25 4:58:18p You slaughtered a Rat.
+10/9/25 4:58:18p You slaughtered a Rat.
+10/9/25 4:58:22p You slaughtered a Rat.
+10/9/25 4:58:27p You slaughtered a Vermine.
+10/9/25 4:58:28p You slaughtered a Rat.
+10/9/25 4:58:28p You slaughtered a Rat.
+10/9/25 4:58:30p You slaughtered a Rat.
+10/9/25 4:58:32p You slaughtered a Rat.
+10/9/25 4:58:35p You slaughtered a Rat.
+10/9/25 4:58:37p You slaughtered a Rat.
+10/9/25 4:58:40p You slaughtered a Rat.
+10/9/25 4:58:41p You slaughtered a Rat.
+10/9/25 4:58:44p You slaughtered a Rat.
+10/9/25 4:58:55p You slaughtered a Large Vermine.
+10/9/25 4:58:56p You slaughtered a Rat.
+10/9/25 4:58:58p You slaughtered a Vermine.
+10/9/25 4:59:14p You slaughtered a Vermine.
+10/9/25 4:59:16p You slaughtered a Vermine.
+10/9/25 4:59:18p You slaughtered a Vermine.
+10/9/25 4:59:20p You slaughtered a Vermine.
+10/9/25 4:59:22p You slaughtered a Rat.
+10/9/25 4:59:23p •You notice your balance and recovery improving.
+10/9/25 4:59:31p You slaughtered a Vermine.
+10/9/25 4:59:32p You slaughtered a Rat.
+10/9/25 4:59:35p You slaughtered a Rat.
+10/9/25 4:59:48p You have 30256 coins.
+10/9/25 4:59:53p You slaughtered a Vermine.
+10/9/25 4:59:53p Cecil thinks, "ty"
+10/9/25 4:59:54p You slaughtered a Rat.
+10/9/25 4:59:55p You slaughtered a Rat.
+10/9/25 4:59:56p You slaughtered a Vermine.
+10/9/25 4:59:59p You slaughtered a Rat.
+10/9/25 5:00:01p You slaughtered a Rat.
+10/9/25 5:00:01p Hashak thinks, "thanks pals!"
+10/9/25 5:00:03p You slaughtered a Rat.
+10/9/25 5:00:07p Pun'isher thinks, "thanks! nite all"
+10/9/25 5:00:11p You slaughtered a Vermine.
+10/9/25 5:00:12p You slaughtered a Rat.
+10/9/25 5:00:14p You slaughtered a Rat.
+10/9/25 5:00:26p You slaughtered a Giant Slug.
+10/9/25 5:00:29p Naferu thinks, "danke nice hunt"
+10/9/25 5:00:32p Shadowfire thinks, "X}"
+10/9/25 5:00:39p You slaughtered a Rat.
+10/9/25 5:00:39p You slaughtered a Rat.
+10/9/25 5:00:40p You slaughtered a Rat.
+10/9/25 5:00:42p You slaughtered a Rat.
+10/9/25 5:00:44p You slaughtered a Rat.
+10/9/25 5:00:48p You slaughtered a Vermine.
+10/9/25 5:00:49p You slaughtered a Vermine.
+10/9/25 5:00:51p You slaughtered a Vermine.
+10/9/25 5:00:53p •You notice your balance and recovery improving.
+10/9/25 5:00:59p You slaughtered a Rat.
+10/9/25 5:01:05p You slaughtered a Rat.
+10/9/25 5:01:11p You slaughtered a Rat.
+10/9/25 5:01:19p You slaughtered a Rat.
+10/9/25 5:01:21p You slaughtered a Rat.
+10/9/25 5:01:23p You slaughtered a Vermine.
+10/9/25 5:01:26p You slaughtered a Vermine.
+10/9/25 5:01:27p You slaughtered a Vermine.
+10/9/25 5:01:29p You slaughtered a Rat.
+10/9/25 5:01:34p You slaughtered a Vermine.
+10/9/25 5:01:36p You slaughtered a Rat.
+10/9/25 5:01:39p You slaughtered a Rat.
+10/9/25 5:01:42p You slaughtered a Rat.
+10/9/25 5:01:43p SaintMiker thinks, "thank you eveyone"
+10/9/25 5:01:45p You slaughtered a Rat.
+10/9/25 5:01:50p You slaughtered a Rat.
+10/9/25 5:02:02p You slaughtered a Rat.
+10/9/25 5:02:03p You slaughtered a Rat.
+10/9/25 5:02:04p You slaughtered a Rat.
+10/9/25 5:02:05p You slaughtered a Rat.
+10/9/25 5:02:10p You slaughtered a Rat.
+10/9/25 5:02:11p You slaughtered a Rat.
+10/9/25 5:02:16p You slaughtered a Rat.
+10/9/25 5:02:18p You slaughtered a Rat.
+10/9/25 5:02:20p You slaughtered a Rat.
+10/9/25 5:02:22p You slaughtered a Rat.
+10/9/25 5:02:24p •You notice your balance and recovery improving.
+10/9/25 5:02:35p You have 30256 coins.
+10/9/25 5:02:39p You slaughtered a Rat.
+10/9/25 5:02:41p Shadowmutt growls, "Woof!"
+10/9/25 5:03:06p Smythus says, "Greetings, Lady Ajahn."
+10/9/25 5:03:06p Smythus says, "Metal is hard to come by in these parts."
+10/9/25 5:03:07p Smythus says, "If you find some ore, show it to Rafinus."
+10/9/25 5:03:07p Smythus says, "Bindra is quite good at making chains."
+10/9/25 5:03:07p Smythus says, "Katla is learning to make weapons."
+10/9/25 5:03:08p Smythus says, "Aigus has not yet learned a craft."
+10/9/25 5:03:37p You slaughtered a Vermine.
+10/9/25 5:03:38p You slaughtered a Rat.
+10/9/25 5:03:48p You slaughtered a Vermine.
+10/9/25 5:03:49p You slaughtered a Rat.
+10/9/25 5:03:51p You slaughtered a Rat.
+10/9/25 5:03:54p •You notice your balance and recovery improving.
+10/9/25 5:04:03p You slaughtered a Rat.
+10/9/25 5:04:04p You slaughtered a Rat.
+10/9/25 5:04:08p You just received anonymous good karma.
+10/9/25 5:04:20p You slaughtered a Rat.
+10/9/25 5:04:22p You slaughtered a Rat.
+10/9/25 5:04:23p You slaughtered a Rat.
+10/9/25 5:04:26p You slaughtered a Rat.
+10/9/25 5:04:28p You slaughtered a Rat.
+10/9/25 5:04:29p You slaughtered a Rat.
+10/9/25 5:04:35p You slaughtered a Rat.
+10/9/25 5:04:45p You slaughtered a Rat.
+10/9/25 5:04:55p You slaughtered a Rat.
+10/9/25 5:04:57p You slaughtered a Rat.
+10/9/25 5:05:12p You slaughtered a Rat.
+10/9/25 5:05:13p You slaughtered a Rat.
+10/9/25 5:05:13p You slaughtered a Rat.
+10/9/25 5:05:16p You slaughtered a Rat.
+10/9/25 5:05:20p You slaughtered a Rat.
+10/9/25 5:05:22p You have 30256 coins.
+10/9/25 5:05:25p •You notice your balance and recovery improving.
+10/9/25 5:05:26p You slaughtered a Rat.
+10/9/25 5:05:27p You slaughtered a Rat.
+10/9/25 5:05:29p You slaughtered a Rat.
+10/9/25 5:05:34p You slaughtered a Rat.
+10/9/25 5:05:35p You slaughtered a Rat.
+10/9/25 5:05:36p You slaughtered a Rat.
+10/9/25 5:06:01p You slaughtered a Rat.
+10/9/25 5:06:02p You slaughtered a Rat.
+10/9/25 5:06:07p You slaughtered a Rat.
+10/9/25 5:06:08p You slaughtered a Rat.
+10/9/25 5:06:09p You slaughtered a Rat.
+10/9/25 5:06:11p You slaughtered a Rat.
+10/9/25 5:06:15p You slaughtered a Rat.
+10/9/25 5:06:17p You slaughtered a Rat.
+10/9/25 5:06:23p You slaughtered a Rat.
+10/9/25 5:06:24p You slaughtered a Rat.
+10/9/25 5:06:25p You slaughtered a Rat.
+10/9/25 5:06:29p You slaughtered a Rat.
+10/9/25 5:06:30p You slaughtered a Rat.
+10/9/25 5:06:37p You slaughtered a Rat.
+10/9/25 5:06:39p You slaughtered a Rat.
+10/9/25 5:06:40p You slaughtered a Rat.
+10/9/25 5:06:41p You slaughtered a Rat.
+10/9/25 5:06:45p Stuenora says, "Ah, hello, Ajahn. I think I can repair that worn sunstone for you for 387 coins."
+10/9/25 5:06:55p •You notice your balance and recovery improving.
+10/9/25 5:07:15p You slaughtered a Vermine.
+10/9/25 5:07:16p You slaughtered a Rat.
+10/9/25 5:07:18p You slaughtered a Rat.
+10/9/25 5:07:19p You slaughtered a Rat.
+10/9/25 5:07:26p You slaughtered a Vermine.
+10/9/25 5:07:27p You slaughtered a Rat.
+10/9/25 5:08:09p You have 30256 coins.
+10/9/25 5:08:25p •You notice your balance and recovery improving.
+10/9/25 5:09:56p •You notice your balance and recovery improving.
+10/9/25 5:09:57p You slaughtered a Rat.
+10/9/25 5:09:58p You slaughtered a Rat.
+10/9/25 5:09:59p You slaughtered a Rat.
+10/9/25 5:10:05p You slaughtered a Rat.
+10/9/25 5:10:06p You slaughtered a Rat.
+10/9/25 5:10:13p You slaughtered an Emerald Scorp.
+10/9/25 5:10:14p You slaughtered a Rat.
+10/9/25 5:10:16p You slaughtered a Rat.
+10/9/25 5:10:20p You slaughtered a Rat.
+10/9/25 5:10:35p You slaughtered a Vermine.
+10/9/25 5:10:36p You slaughtered a Vermine.
+10/9/25 5:10:38p You slaughtered a Vermine.
+10/9/25 5:10:38p You slaughtered a Vermine.
+10/9/25 5:10:40p You slaughtered a Vermine.
+10/9/25 5:10:56p You have 30256 coins.
+10/9/25 5:11:26p •You notice your balance and recovery improving.
+10/9/25 5:11:55p You slaughtered a Vermine.
+10/9/25 5:11:57p You slaughtered a Vermine.
+10/9/25 5:11:58p You slaughtered a Vermine.
+10/9/25 5:12:01p You slaughtered an Ona Chigger.
+10/9/25 5:12:01p You slaughtered a Rat.
+10/9/25 5:12:11p You slaughtered a Vermine.
+10/9/25 5:12:57p •You notice your balance and recovery improving.
+10/9/25 5:13:42p You have 30256 coins.
+10/9/25 5:14:27p •You notice your balance and recovery improving.
+10/9/25 5:15:57p •You notice your balance and recovery improving.
+10/9/25 5:16:02p You slaughtered a Rat.
+10/9/25 5:16:03p You slaughtered a Rat.
+10/9/25 5:16:09p You slaughtered a Rat.
+10/9/25 5:16:09p You slaughtered a Rat.
+10/9/25 5:16:13p You slaughtered a Vermine.
+10/9/25 5:16:14p You slaughtered a Vermine.
+10/9/25 5:16:15p You slaughtered a Rat.
+10/9/25 5:16:17p You slaughtered a Rat.
+10/9/25 5:16:20p You slaughtered a Rat.
+10/9/25 5:16:25p You slaughtered a Rat.
+10/9/25 5:16:29p You have 30256 coins.
+10/9/25 5:16:31p You slaughtered a Rat.
+10/9/25 5:17:28p •You notice your balance and recovery improving.
+10/9/25 5:18:54p You slaughtered a Vermine.
+10/9/25 5:18:55p You slaughtered a Rat.
+10/9/25 5:18:58p •You notice your balance and recovery improving.
+10/9/25 5:18:59p You slaughtered a Rat.
+10/9/25 5:19:04p You slaughtered a Rat.
+10/9/25 5:19:06p You slaughtered a Rat.
+10/9/25 5:19:09p You slaughtered a Rat.
+10/9/25 5:19:10p You slaughtered a Rat.
+10/9/25 5:19:12p You slaughtered a Rat.
+10/9/25 5:19:14p You slaughtered a Scavenger Bird.
+10/9/25 5:19:16p You have 30256 coins.
+10/9/25 5:19:22p You slaughtered a Rat.
+10/9/25 5:19:25p You slaughtered a Vermine.
+10/9/25 5:19:26p You slaughtered a Vermine.
+10/9/25 5:19:27p You slaughtered a Rat.
+10/9/25 5:19:29p You slaughtered a Rat.
+10/9/25 5:19:32p You slaughtered a Rat.
+10/9/25 5:19:34p You slaughtered a Rat.
+10/9/25 5:19:50p You slaughtered a Rat.
+10/9/25 5:19:53p You slaughtered a Rat.
+10/9/25 5:19:58p You slaughtered a Rat.
+10/9/25 5:19:59p You slaughtered a Rat.
+10/9/25 5:20:00p You slaughtered a Rat.
+10/9/25 5:20:01p You slaughtered a Rat.
+10/9/25 5:20:14p You slaughtered a Scavenger Bird.
+10/9/25 5:20:29p •You notice your balance and recovery improving.
+10/9/25 5:21:59p •You notice your balance and recovery improving.
+10/9/25 5:22:02p You slaughtered a Rat.
+10/9/25 5:22:02p You have 30256 coins.
+10/9/25 5:22:03p You slaughtered a Rat.
+10/9/25 5:23:28p You slaughtered a Vermine.
+10/9/25 5:23:29p You slaughtered a Rat.
+10/9/25 5:23:29p •You notice your balance and recovery improving.
+10/9/25 5:23:32p You slaughtered a Rat.
+10/9/25 5:23:33p You slaughtered a Rat.
+10/9/25 5:23:35p You slaughtered a Rat.
+10/9/25 5:23:36p You slaughtered a Rat.
+10/9/25 5:23:44p You slaughtered a Vermine.
+10/9/25 5:23:45p You slaughtered a Rat.
+10/9/25 5:23:45p You slaughtered a Rat.
+10/9/25 5:23:52p You slaughtered a Rat.
+10/9/25 5:23:53p You slaughtered a Rat.
+10/9/25 5:24:05p You slaughtered a Rat.
+10/9/25 5:24:13p You slaughtered a Rat.
+10/9/25 5:24:14p You slaughtered a Rat.
+10/9/25 5:24:18p You slaughtered a Rat.
+10/9/25 5:24:59p You have 30256 coins.
+10/9/25 5:25:00p •You notice your balance and recovery improving.
+10/9/25 5:25:30p You slaughtered a Rat.
+10/9/25 5:25:30p You slaughtered a Rat.
+10/9/25 5:25:31p You slaughtered a Rat.
+10/9/25 5:25:36p You slaughtered a Rat.
+10/9/25 5:25:38p You slaughtered a Rat.
+10/9/25 5:25:39p You slaughtered a Rat.
+10/9/25 5:25:46p You slaughtered a Rat.
+10/9/25 5:25:48p You slaughtered a Rat.
+10/9/25 5:25:50p You slaughtered a Rat.
+10/9/25 5:25:52p You slaughtered a Rat.
+10/9/25 5:25:55p You slaughtered a Rat.
+10/9/25 5:25:59p You slaughtered a Rat.
+10/9/25 5:26:00p You slaughtered a Rat.
+10/9/25 5:26:20p You slaughtered a Rat.
+10/9/25 5:26:30p •You notice your balance and recovery improving.
+10/9/25 5:28:00p You have 30256 coins.
+10/9/25 5:28:01p •You notice your balance and recovery improving.
+10/9/25 5:28:06p You slaughtered a Rat.
+10/9/25 5:28:11p You slaughtered a Vermine.
+10/9/25 5:28:13p You slaughtered a Vermine.
+10/9/25 5:28:14p You slaughtered a Rat.
+10/9/25 5:28:18p You slaughtered a Vermine.
+10/9/25 5:28:19p You slaughtered a Vermine.
+10/9/25 5:28:21p You slaughtered a Rat.
+10/9/25 5:28:23p You slaughtered a Rat.
+10/9/25 5:28:25p You slaughtered a Rat.
+10/9/25 5:28:31p You slaughtered a Rat.
+10/9/25 5:28:59p Smythus says, "Greetings, Lady Ajahn."
+10/9/25 5:28:59p Smythus says, "Metal is hard to come by in these parts."
+10/9/25 5:28:59p Smythus says, "If you find some ore, show it to Rafinus."
+10/9/25 5:29:00p Smythus says, "Bindra is quite good at making chains."
+10/9/25 5:29:00p Smythus says, "Katla is learning to make weapons."
+10/9/25 5:29:01p Smythus says, "Aigus has not yet learned a craft."
+10/9/25 5:29:10p You slaughtered a Vermine.
+10/9/25 5:29:14p You slaughtered a Rat.
+10/9/25 5:29:15p You slaughtered a Rat.
+10/9/25 5:29:18p You slaughtered a Rat.
+10/9/25 5:29:19p You slaughtered a Rat.
+10/9/25 5:29:23p You slaughtered an Emerald Scorp.
+10/9/25 5:29:31p •You notice your balance and recovery improving.
+10/9/25 5:31:00p You have 30256 coins.
+10/9/25 5:31:01p •You notice your balance and recovery improving.
+10/9/25 5:32:32p •You notice your balance and recovery improving.
+10/9/25 5:34:00p You have 30256 coins.
+10/9/25 5:34:02p •You notice your balance and recovery improving.
+10/9/25 5:34:13p You slaughtered a Rat.
+10/9/25 5:34:14p You slaughtered a Rat.
+10/9/25 5:34:15p You slaughtered a Vermine.
+10/9/25 5:34:17p You slaughtered a Rat.
+10/9/25 5:34:18p You slaughtered a Rat.
+10/9/25 5:34:21p You slaughtered a Vermine.
+10/9/25 5:34:24p You slaughtered a Vermine.
+10/9/25 5:34:25p You slaughtered a Rat.
+10/9/25 5:34:27p You slaughtered a Rat.
+10/9/25 5:34:30p You slaughtered a Vermine.
+10/9/25 5:34:32p You slaughtered a Rat.
+10/9/25 5:34:34p You slaughtered a Rat.
+10/9/25 5:34:37p You slaughtered a Rat.
+10/9/25 5:34:39p You slaughtered a Rat.
+10/9/25 5:34:41p You slaughtered a Rat.
+10/9/25 5:34:48p You slaughtered a Rat.
+10/9/25 5:34:49p You slaughtered a Rat.
+10/9/25 5:35:17p You slaughtered a Rat.
+10/9/25 5:35:19p You slaughtered a Rat.
+10/9/25 5:35:21p You slaughtered a Rat.
+10/9/25 5:35:22p You slaughtered a Rat.
+10/9/25 5:35:26p You slaughtered a Rat.
+10/9/25 5:35:31p You slaughtered a Rat.
+10/9/25 5:35:32p You slaughtered a Rat.
+10/9/25 5:35:32p You slaughtered a Rat.
+10/9/25 5:35:33p •You notice your balance and recovery improving.
+10/9/25 5:35:36p You slaughtered a Rat.
+10/9/25 5:35:38p You slaughtered a Vermine.
+10/9/25 5:35:42p You slaughtered a Vermine.
+10/9/25 5:35:55p Ghed'rakh asks, "Nothing beats the thrill of the Hunt, don’t you agree?"
+10/9/25 5:36:02p You slaughtered a Rat.
+10/9/25 5:36:59p You have 30256 coins.
+10/9/25 5:37:03p •You notice your balance and recovery improving.
+10/9/25 5:37:03p You slaughtered a Vermine.
+10/9/25 5:37:04p You slaughtered a Vermine.
+10/9/25 5:37:08p You slaughtered a Vermine.
+10/9/25 5:37:08p You slaughtered a Rat.
+10/9/25 5:37:10p You slaughtered a Rat.
+10/9/25 5:37:18p You slaughtered a Rat.
+10/9/25 5:37:27p Finn Orak says, "It seems the dangers grow in proportion to our population."
+10/9/25 5:37:32p You vault the wall.
+10/9/25 5:38:33p •You notice your balance and recovery improving.
+10/9/25 5:39:14p You slaughtered a Rat.
+10/9/25 5:39:15p You slaughtered a Vermine.
+10/9/25 5:39:18p You slaughtered a Rat.
+10/9/25 5:39:18p • You experiment with a new fighting style.
+10/9/25 5:39:21p You slaughtered a Rat.
+10/9/25 5:39:24p You vault the wall.
+10/9/25 5:39:32p You slaughtered a Vermine.
+10/9/25 5:39:37p You slaughtered a Rat.
+10/9/25 5:39:38p You slaughtered a Vermine.
+10/9/25 5:39:47p You slaughtered a Rat.
+10/9/25 5:39:53p You slaughtered a Rat.
+10/9/25 5:39:58p You have 30256 coins.
+10/9/25 5:39:58p You slaughtered a Rat.
+10/9/25 5:40:03p You slaughtered a Vermine.
+10/9/25 5:40:04p •You notice your balance and recovery improving.
+10/9/25 5:40:04p You slaughtered a Vermine.
+10/9/25 5:40:05p You slaughtered a Vermine.
+10/9/25 5:40:48p You slaughtered a Vermine.
+10/9/25 5:40:53p You slaughtered a Vermine.
+10/9/25 5:40:54p You slaughtered a Vermine.
+10/9/25 5:40:56p You slaughtered a Rat.
+10/9/25 5:40:56p • You experiment with a new fighting style.
+10/9/25 5:40:56p You slaughtered a Rat.
+10/9/25 5:41:20p You slaughtered a Vermine.
+10/9/25 5:41:20p You slaughtered a Vermine.
+10/9/25 5:41:24p You slaughtered a Rat.
+10/9/25 5:41:27p You slaughtered a Vermine.
+10/9/25 5:41:28p You slaughtered a Rat.
+10/9/25 5:41:29p You slaughtered a Rat.
+10/9/25 5:41:34p You slaughtered a Vermine.
+10/9/25 5:41:34p •You notice your balance and recovery improving.
+10/9/25 5:41:34p You slaughtered a Vermine.
+10/9/25 5:41:36p You slaughtered a Vermine.
+10/9/25 5:41:39p You slaughtered a Rat.
+10/9/25 5:41:42p You slaughtered a Rat.
+10/9/25 5:42:57p You have 30256 coins.
+10/9/25 5:43:05p •You notice your balance and recovery improving.
+10/9/25 5:44:35p •You notice your balance and recovery improving.
+10/9/25 5:45:08p •The Sun rises.
+10/9/25 5:45:56p You have 30256 coins.
+10/9/25 5:46:05p •You notice your balance and recovery improving.
+10/9/25 5:46:11p You slaughtered a Vermine.
+10/9/25 5:46:12p You slaughtered a Rat.
+10/9/25 5:46:16p You slaughtered a Rat.
+10/9/25 5:46:17p You slaughtered a Rat.
+10/9/25 5:46:22p You slaughtered a Rat.
+10/9/25 5:46:28p You slaughtered a Rat.
+10/9/25 5:46:30p You slaughtered a Rat.
+10/9/25 5:46:31p You slaughtered a Rat.
+10/9/25 5:46:37p You slaughtered a Rat.
+10/9/25 5:46:39p You slaughtered a Rat.
+10/9/25 5:46:43p You slaughtered a Rat.
+10/9/25 5:46:50p You slaughtered a Rat.
+10/9/25 5:46:52p You slaughtered an Ona Chigger.
+10/9/25 5:46:53p You slaughtered a Rat.
+10/9/25 5:46:53p * You recover the Rat fur, worth 1c. Your share is 1c.
+10/9/25 5:47:13p You slaughtered a Rat.
+10/9/25 5:47:23p You slaughtered a Rat.
+10/9/25 5:47:26p You slaughtered a Rat.
+10/9/25 5:47:30p You slaughtered a Rat.
+10/9/25 5:47:31p You slaughtered a Rat.
+10/9/25 5:47:36p •You notice your balance and recovery improving.
+10/9/25 5:47:37p You slaughtered a Rat.
+10/9/25 5:47:38p You slaughtered a Rat.
+10/9/25 5:47:42p You slaughtered a Rat.
+10/9/25 5:47:44p You slaughtered a Rat.
+10/9/25 5:47:45p You slaughtered a Rat.
+10/9/25 5:47:48p You slaughtered a Rat.
+10/9/25 5:47:49p You slaughtered a Rat.
+10/9/25 5:47:56p You slaughtered a Rat.
+10/9/25 5:48:08p You slaughtered a Vermine.
+10/9/25 5:48:11p You slaughtered a Vermine.
+10/9/25 5:48:14p You slaughtered a Rat.
+10/9/25 5:48:18p You slaughtered a Rat.
+10/9/25 5:48:20p You slaughtered a Rat.
+10/9/25 5:48:21p You slaughtered a Vermine.
+10/9/25 5:48:24p You slaughtered a Vermine.
+10/9/25 5:48:26p You slaughtered an Emerald Scorp.
+10/9/25 5:48:29p You slaughtered a Vermine.
+10/9/25 5:48:31p You slaughtered a Rat.
+10/9/25 5:48:34p You slaughtered a Rat.
+10/9/25 5:48:35p You slaughtered a Rat.
+10/9/25 5:48:38p You slaughtered a Rat.
+10/9/25 5:48:42p You slaughtered a Rat.
+10/9/25 5:48:46p You slaughtered a Rat.
+10/9/25 5:48:55p You have 30257 coins.
+10/9/25 5:49:03p You slaughtered a Rat.
+10/9/25 5:49:05p Finn Orak says, "The Darshaks are a constant threat."
+10/9/25 5:49:06p You slaughtered a Rat.
+10/9/25 5:49:06p •You notice your balance and recovery improving.
+10/9/25 5:49:16p You slaughtered a Rat.
+10/9/25 5:49:18p You slaughtered a Rat.
+10/9/25 5:49:19p You slaughtered a Rat.
+10/9/25 5:49:21p You slaughtered a Rat.
+10/9/25 5:49:27p You slaughtered a Rat.
+10/9/25 5:49:42p You slaughtered a Rat.
+10/9/25 5:49:44p You slaughtered a Rat.
+10/9/25 5:49:45p You slaughtered a Vermine.
+10/9/25 5:49:48p You slaughtered a Vermine.
+10/9/25 5:49:49p You slaughtered a Rat.
+10/9/25 5:49:50p You slaughtered a Rat.
+10/9/25 5:49:54p You slaughtered a Rat.
+10/9/25 5:49:55p You slaughtered a Rat.
+10/9/25 5:49:57p You slaughtered a Rat.
+10/9/25 5:50:00p You slaughtered a Vermine.
+10/9/25 5:50:02p You slaughtered a Rat.
+10/9/25 5:50:16p You slaughtered a Rat.
+10/9/25 5:50:20p You slaughtered a Rat.
+10/9/25 5:50:21p You slaughtered a Rat.
+10/9/25 5:50:24p You slaughtered a Rat.
+10/9/25 5:50:24p You slaughtered a Rat.
+10/9/25 5:50:37p •You notice your balance and recovery improving.
+10/9/25 5:51:48p You slaughtered a Rat.
+10/9/25 5:51:49p You slaughtered a Rat.
+10/9/25 5:51:50p You slaughtered a Rat.
+10/9/25 5:51:53p You slaughtered a Rat.
+10/9/25 5:51:54p You have 30257 coins.
+10/9/25 5:51:56p You slaughtered a Rat.
+10/9/25 5:51:58p You slaughtered a Rat.
+10/9/25 5:52:03p You slaughtered a Rat.
+10/9/25 5:52:07p •You notice your balance and recovery improving.
+10/9/25 5:52:09p You slaughtered a Rat.
+10/9/25 5:52:10p You slaughtered a Rat.
+10/9/25 5:52:13p You slaughtered an Emerald Scorp.
+10/9/25 5:52:18p You slaughtered a Rat.
+10/9/25 5:52:28p You slaughtered a Scavenger Bird.
+10/9/25 5:53:38p •You notice your balance and recovery improving.
+10/9/25 5:54:13p Ponyo thinks, "PROFANITIES. cecil come save me in the keep pls"
+10/9/25 5:54:37p Cecil thinks, "k"
+10/9/25 5:54:54p You have 30257 coins.
+10/9/25 5:54:58p Ponyo thinks, "can we get a builder to fix melabrions roof? the rocks are falling down faster than they used to :("
+10/9/25 5:55:08p •You notice your balance and recovery improving.
+10/9/25 5:56:38p •You notice your balance and recovery improving.
+10/9/25 5:57:55p You have 30257 coins.
+10/9/25 5:58:09p •You notice your balance and recovery improving.
+10/9/25 5:58:31p Farhope thinks, "Greetings :-)"
+10/9/25 5:58:35p Shadowfire thinks, "Hihi FH!"
+10/9/25 5:59:39p •You notice your balance and recovery improving.
+10/9/25 6:00:37p You slaughtered a Rat.
+10/9/25 6:00:40p You slaughtered a Rat.
+10/9/25 6:00:41p You have 30257 coins.
+10/9/25 6:00:56p You slaughtered a Rat.
+10/9/25 6:00:57p You slaughtered a Rat.
+10/9/25 6:00:58p You slaughtered a Vermine.
+10/9/25 6:01:04p You slaughtered a Rat.
+10/9/25 6:01:05p You slaughtered a Rat.
+10/9/25 6:01:06p You slaughtered a Rat.
+10/9/25 6:01:10p •You notice your balance and recovery improving.
+10/9/25 6:01:11p You slaughtered a Rat.
+10/9/25 6:01:13p You slaughtered a Rat.
+10/9/25 6:01:14p You slaughtered a Rat.
+10/9/25 6:01:19p You slaughtered a Rat.
+10/9/25 6:01:22p You slaughtered a Rat.
+10/9/25 6:01:46p You slaughtered a Rat.
+10/9/25 6:01:51p You slaughtered a Rat.
+10/9/25 6:01:54p You slaughtered a Vermine.
+10/9/25 6:01:56p You slaughtered a Vermine.
+10/9/25 6:01:58p You slaughtered a Vermine.
+10/9/25 6:02:00p You slaughtered a Rat.
+10/9/25 6:02:00p • You experiment with a new fighting style.
+10/9/25 6:02:03p You slaughtered a Vermine.
+10/9/25 6:02:05p You slaughtered a Rat.
+10/9/25 6:02:10p You slaughtered a Rat.
+10/9/25 6:02:25p You slaughtered a Rat.
+10/9/25 6:02:27p You slaughtered a Rat.
+10/9/25 6:02:28p You slaughtered a Rat.
+10/9/25 6:02:30p You slaughtered a Vermine.
+10/9/25 6:02:30p * You recover the Vermine fur, worth 1c. Your share is 1c.
+10/9/25 6:02:37p You slaughtered a Rat.
+10/9/25 6:02:38p You slaughtered a Rat.
+10/9/25 6:02:39p You slaughtered a Rat.
+10/9/25 6:02:40p •You notice your balance and recovery improving.
+10/9/25 6:02:40p You slaughtered a Vermine.
+10/9/25 6:03:02p You slaughtered a Vermine.
+10/9/25 6:03:07p You slaughtered a Rat.
+10/9/25 6:03:09p You slaughtered a Rat.
+10/9/25 6:03:10p You slaughtered a Rat.
+10/9/25 6:03:10p You slaughtered a Rat.
+10/9/25 6:03:15p You slaughtered a Rat.
+10/9/25 6:03:16p You slaughtered a Rat.
+10/9/25 6:03:18p You slaughtered a Rat.
+10/9/25 6:03:22p You slaughtered a Rat.
+10/9/25 6:03:25p You have 30258 coins.
+10/9/25 6:03:40p You slaughtered a Rat.
+10/9/25 6:03:48p You slaughtered a Rat.
+10/9/25 6:03:49p You slaughtered a Rat.
+10/9/25 6:03:50p You slaughtered a Rat.
+10/9/25 6:03:55p You slaughtered a Rat.
+10/9/25 6:03:57p You slaughtered a Rat.
+10/9/25 6:04:02p You slaughtered a Rat.
+10/9/25 6:04:03p You slaughtered a Rat.
+10/9/25 6:04:04p You slaughtered a Rat.
+10/9/25 6:04:06p You slaughtered a Rat.
+10/9/25 6:04:07p You slaughtered a Rat.
+10/9/25 6:04:11p •You notice your balance and recovery improving.
+10/9/25 6:04:19p You slaughtered a Rat.
+10/9/25 6:04:27p You slaughtered a Rat.
+10/9/25 6:05:42p •You notice your balance and recovery improving.
+10/9/25 6:06:11p You have 30258 coins.
+10/9/25 6:06:56p You slaughtered a Rat.
+10/9/25 6:06:58p You slaughtered a Rat.
+10/9/25 6:06:59p You slaughtered a Vermine.
+10/9/25 6:07:00p You slaughtered a Rat.
+10/9/25 6:07:12p •You notice your balance and recovery improving.
+10/9/25 6:08:17p You slaughtered a Vermine.
+10/9/25 6:08:18p You slaughtered a Rat.
+10/9/25 6:08:20p You slaughtered a Rat.
+10/9/25 6:08:20p You slaughtered a Rat.
+10/9/25 6:08:24p You slaughtered a Vermine.
+10/9/25 6:08:27p You slaughtered a Rat.
+10/9/25 6:08:30p You slaughtered a Rat.
+10/9/25 6:08:43p •You notice your balance and recovery improving.
+10/9/25 6:08:56p You have 30258 coins.
+10/9/25 6:09:47p You slaughtered a Vermine.
+10/9/25 6:09:47p You slaughtered a Vermine.
+10/9/25 6:09:49p You slaughtered a Rat.
+10/9/25 6:09:58p You slaughtered a Large Vermine.
+10/9/25 6:10:14p •You notice your balance and recovery improving.
+10/9/25 6:10:22p You slaughtered a Rat.
+10/9/25 6:10:23p You slaughtered a Rat.
+10/9/25 6:10:24p You slaughtered a Rat.
+10/9/25 6:10:29p You slaughtered a Vermine.
+10/9/25 6:10:30p You slaughtered a Vermine.
+10/9/25 6:10:33p You slaughtered a Vermine.
+10/9/25 6:10:33p * You recover the Vermine fur, worth 1c. Your share is 1c.
+10/9/25 6:10:33p You slaughtered a Vermine.
+10/9/25 6:10:34p You slaughtered a Vermine.
+10/9/25 6:10:37p You slaughtered a Vermine.
+10/9/25 6:10:41p You slaughtered a Rat.
+10/9/25 6:10:49p You slaughtered a Rat.
+10/9/25 6:10:58p You slaughtered a Vermine.
+10/9/25 6:11:07p You slaughtered a Rat.
+10/9/25 6:11:09p You slaughtered a Rat.
+10/9/25 6:11:10p You slaughtered a Rat.
+10/9/25 6:11:11p You slaughtered a Rat.
+10/9/25 6:11:15p You slaughtered a Vermine.
+10/9/25 6:11:41p You have 30259 coins.
+10/9/25 6:11:44p •You notice your balance and recovery improving.
+10/9/25 6:11:50p You slaughtered a Rat.
+10/9/25 6:11:54p You slaughtered a Vermine.
+10/9/25 6:11:55p You slaughtered a Vermine.
+10/9/25 6:11:56p You slaughtered a Vermine.
+10/9/25 6:11:58p You slaughtered a Rat.
+10/9/25 6:12:00p You slaughtered a Rat.
+10/9/25 6:12:11p You slaughtered a Rat.
+10/9/25 6:12:36p You slaughtered a Rat.
+10/9/25 6:12:39p You slaughtered a Rat.
+10/9/25 6:12:42p You slaughtered a Rat.
+10/9/25 6:12:43p You slaughtered a Vermine.
+10/9/25 6:12:48p You slaughtered a Rat.
+10/9/25 6:12:50p You slaughtered a Rat.
+10/9/25 6:13:05p You slaughtered a Rat.
+10/9/25 6:13:06p You slaughtered a Rat.
+10/9/25 6:13:07p You slaughtered a Rat.
+10/9/25 6:13:09p You slaughtered a Rat.
+10/9/25 6:13:13p You slaughtered a Rat.
+10/9/25 6:13:15p •You notice your balance and recovery improving.
+10/9/25 6:13:18p You slaughtered a Rat.
+10/9/25 6:13:20p You slaughtered a Rat.
+10/9/25 6:13:24p You slaughtered a Rat.
+10/9/25 6:14:26p You have 30259 coins.
+10/9/25 6:14:46p •You notice your balance and recovery improving.
+10/9/25 6:14:52p Finn Orak says, "The Darshaks are a constant threat."
+10/9/25 6:15:03p You slaughtered a Vermine.
+10/9/25 6:15:04p You slaughtered a Vermine.
+10/9/25 6:15:07p You slaughtered a Rat.
+10/9/25 6:15:07p You slaughtered a Vermine.
+10/9/25 6:15:08p You slaughtered a Rat.
+10/9/25 6:15:12p You slaughtered a Rat.
+10/9/25 6:15:13p You slaughtered a Rat.
+10/9/25 6:15:23p You slaughtered a Rat.
+10/9/25 6:15:30p You slaughtered a Rat.
+10/9/25 6:16:16p •You notice your balance and recovery improving.
+10/9/25 6:16:42p You slaughtered a Vermine.
+10/9/25 6:16:43p You slaughtered a Vermine.
+10/9/25 6:16:44p You slaughtered a Vermine.
+10/9/25 6:16:46p You slaughtered a Vermine.
+10/9/25 6:16:54p You slaughtered a Rat.
+10/9/25 6:16:58p You slaughtered a Rat.
+10/9/25 6:16:59p You slaughtered a Rat.
+10/9/25 6:17:00p You slaughtered a Rat.
+10/9/25 6:17:02p You slaughtered a Rat.
+10/9/25 6:17:04p You slaughtered a Rat.
+10/9/25 6:17:11p You have 30259 coins.
+10/9/25 6:17:18p You slaughtered a Vermine.
+10/9/25 6:17:20p You slaughtered a Rat.
+10/9/25 6:17:21p You slaughtered a Rat.
+10/9/25 6:17:22p You slaughtered a Rat.
+10/9/25 6:17:23p You slaughtered a Rat.
+10/9/25 6:17:28p You slaughtered a Rat.
+10/9/25 6:17:28p You slaughtered a Rat.
+10/9/25 6:17:29p You slaughtered a Rat.
+10/9/25 6:17:32p You slaughtered a Rat.
+10/9/25 6:17:35p You slaughtered a Rat.
+10/9/25 6:17:47p •You notice your balance and recovery improving.
+10/9/25 6:18:14p You slaughtered a Rat.
+10/9/25 6:18:17p You slaughtered a Rat.
+10/9/25 6:18:18p You slaughtered a Rat.
+10/9/25 6:18:22p You slaughtered an Emerald Scorp.
+10/9/25 6:18:27p You slaughtered a Rat.
+10/9/25 6:18:28p You slaughtered a Rat.
+10/9/25 6:18:35p You slaughtered a Rat.
+10/9/25 6:18:35p You slaughtered a Rat.
+10/9/25 6:18:40p You slaughtered a Rat.
+10/9/25 6:19:17p •You notice your balance and recovery improving.
+10/9/25 6:19:58p You have 30259 coins.
+10/9/25 6:20:48p •You notice your balance and recovery improving.
+10/9/25 6:21:36p You slaughtered a Vermine.
+10/9/25 6:21:36p You slaughtered a Vermine.
+10/9/25 6:21:40p You slaughtered a Large Vermine.
+10/9/25 6:21:48p You slaughtered a Rat.
+10/9/25 6:21:51p You slaughtered a Rat.
+10/9/25 6:21:55p You slaughtered a Rat.
+10/9/25 6:21:56p You slaughtered a Rat.
+10/9/25 6:21:59p You slaughtered a Rat.
+10/9/25 6:22:06p You slaughtered a Vermine.
+10/9/25 6:22:07p You slaughtered a Rat.
+10/9/25 6:22:08p You slaughtered a Rat.
+10/9/25 6:22:11p You slaughtered a Rat.
+10/9/25 6:22:16p You slaughtered a Rat.
+10/9/25 6:22:17p You slaughtered a Rat.
+10/9/25 6:22:18p •You notice your balance and recovery improving.
+10/9/25 6:22:32p You slaughtered a Vermine.
+10/9/25 6:22:45p You have 30259 coins.
+10/9/25 6:22:50p You slaughtered a Rat.
+10/9/25 6:22:51p You slaughtered a Rat.
+10/9/25 6:22:52p You slaughtered a Rat.
+10/9/25 6:22:54p You slaughtered a Rat.
+10/9/25 6:22:55p You slaughtered a Rat.
+10/9/25 6:23:04p You slaughtered a Rat.
+10/9/25 6:23:09p You slaughtered a Vermine.
+10/9/25 6:23:11p You slaughtered a Rat.
+10/9/25 6:23:13p You slaughtered a Rat.
+10/9/25 6:23:16p You slaughtered a Rat.
+10/9/25 6:23:16p You slaughtered a Vermine.
+10/9/25 6:23:22p You slaughtered a Rat.
+10/9/25 6:23:27p You slaughtered a Rat.
+10/9/25 6:23:28p You slaughtered a Rat.
+10/9/25 6:23:29p You slaughtered a Rat.
+10/9/25 6:23:49p •You notice your balance and recovery improving.
+10/9/25 6:24:07p You slaughtered a Rat.
+10/9/25 6:24:10p You slaughtered a Vermine.
+10/9/25 6:24:11p You slaughtered a Vermine.
+10/9/25 6:24:29p You slaughtered a Rat.
+10/9/25 6:24:35p You slaughtered a Hooded Corpse.
+10/9/25 6:24:38p You slaughtered a Rat.
+10/9/25 6:24:43p You slaughtered a Rat.
+10/9/25 6:24:47p You slaughtered a Rat.
+10/9/25 6:24:50p You slaughtered a Rat.
+10/9/25 6:25:03p You slaughtered a Rat.
+10/9/25 6:25:06p You slaughtered a Rat.
+10/9/25 6:25:09p You slaughtered a Rat.
+10/9/25 6:25:20p •You notice your balance and recovery improving.
+10/9/25 6:25:20p You slaughtered a Rat.
+10/9/25 6:25:22p You slaughtered a Rat.
+10/9/25 6:25:24p You slaughtered a Rat.
+10/9/25 6:25:28p You slaughtered a Rat.
+10/9/25 6:25:29p You slaughtered a Rat.
+10/9/25 6:25:29p You have 30259 coins.
+10/9/25 6:25:30p You slaughtered a Rat.
+10/9/25 6:25:31p You slaughtered a Rat.
+10/9/25 6:25:39p You slaughtered a Rat.
+10/9/25 6:25:53p Koppi yells, "Stinkfist reports: Cecil challenges Sir Coriakin to a Dance Battle for the Hut!! (any and all dance squads welcome), date TBD"
+10/9/25 6:26:01p You slaughtered a Vermine.
+10/9/25 6:26:01p You slaughtered a Vermine.
+10/9/25 6:26:15p You slaughtered a Rat.
+10/9/25 6:26:20p Smythus says, "Greetings, Lady Ajahn."
+10/9/25 6:26:21p Smythus says, "Metal is hard to come by in these parts."
+10/9/25 6:26:21p Smythus says, "If you find some ore, show it to Rafinus."
+10/9/25 6:26:21p Smythus says, "Bindra is quite good at making chains."
+10/9/25 6:26:22p Smythus says, "Katla is learning to make weapons."
+10/9/25 6:26:22p Smythus says, "Aigus has not yet learned a craft."
+10/9/25 6:26:23p Smythus says, "Loovma Geer can teach you to care for your tools."
+10/9/25 6:26:35p You slaughtered a Rat.
+10/9/25 6:26:38p You slaughtered a Rat.
+10/9/25 6:26:42p You slaughtered a Vermine.
+10/9/25 6:26:43p You slaughtered a Rat.
+10/9/25 6:26:51p •You notice your balance and recovery improving.
+10/9/25 6:26:59p You slaughtered a Rat.
+10/9/25 6:27:00p You slaughtered a Rat.
+10/9/25 6:27:01p You slaughtered a Rat.
+10/9/25 6:27:04p You slaughtered a Rat.
+10/9/25 6:27:08p You slaughtered a Vermine.
+10/9/25 6:27:09p You slaughtered a Rat.
+10/9/25 6:27:11p You slaughtered a Rat.
+10/9/25 6:27:12p You slaughtered a Rat.
+10/9/25 6:27:15p You slaughtered a Rat.
+10/9/25 6:27:17p You slaughtered a Rat.
+10/9/25 6:27:17p You slaughtered a Rat.
+10/9/25 6:27:20p You slaughtered a Rat.
+10/9/25 6:27:42p You slaughtered a Rat.
+10/9/25 6:28:20p You have 30259 coins.
+10/9/25 6:28:21p •You notice your balance and recovery improving.
+10/9/25 6:29:36p You slaughtered a Vermine.
+10/9/25 6:29:37p You slaughtered a Rat.
+10/9/25 6:29:47p You slaughtered a Rat.
+10/9/25 6:29:48p You slaughtered a Rat.
+10/9/25 6:29:52p •You notice your balance and recovery improving.
+10/9/25 6:29:55p You slaughtered a Rat.
+10/9/25 6:29:56p You slaughtered a Rat.
+10/9/25 6:30:02p You slaughtered an Ona Chigger.
+10/9/25 6:30:02p You slaughtered a Rat.
+10/9/25 6:30:13p You slaughtered a Hooded Corpse.
+10/9/25 6:30:17p You slaughtered a Rat.
+10/9/25 6:30:27p You slaughtered a Vermine.
+10/9/25 6:30:32p You slaughtered a Rat.
+10/9/25 6:30:39p You slaughtered a Rat.
+10/9/25 6:30:42p You slaughtered a Scavenger Bird.
+10/9/25 6:30:48p You slaughtered a Vermine.
+10/9/25 6:30:49p You slaughtered a Vermine.
+10/9/25 6:30:59p You slaughtered a Rat.
+10/9/25 6:31:23p •You notice your balance and recovery improving.
+10/9/25 6:31:30p You have 30259 coins.
+10/9/25 6:32:54p •You notice your balance and recovery improving.
+10/9/25 6:33:02p You slaughtered a Rat.
+10/9/25 6:33:03p You slaughtered a Rat.
+10/9/25 6:34:24p •You notice your balance and recovery improving.
+10/9/25 6:34:54p You have 30259 coins.
+10/9/25 6:35:55p •You notice your balance and recovery improving.
+10/9/25 6:36:41p You slaughtered a Vermine.
+10/9/25 6:36:42p You slaughtered a Rat.
+10/9/25 6:36:44p You slaughtered a Rat.
+10/9/25 6:36:47p You slaughtered a Rat.
+10/9/25 6:36:49p You slaughtered a Rat.
+10/9/25 6:36:52p You slaughtered a Rat.
+10/9/25 6:36:56p You slaughtered a Vermine.
+10/9/25 6:36:58p You slaughtered a Rat.
+10/9/25 6:36:59p You slaughtered a Rat.
+10/9/25 6:37:00p You slaughtered a Rat.
+10/9/25 6:37:05p You slaughtered a Rat.
+10/9/25 6:37:07p You slaughtered a Rat.
+10/9/25 6:37:26p •You notice your balance and recovery improving.
+10/9/25 6:37:29p You slaughtered a Rat.
+10/9/25 6:37:34p You slaughtered a Rat.
+10/9/25 6:37:35p You slaughtered a Rat.
+10/9/25 6:37:36p You slaughtered a Rat.
+10/9/25 6:37:39p You slaughtered a Rat.
+10/9/25 6:37:42p You slaughtered a Rat.
+10/9/25 6:37:43p You slaughtered a Rat.
+10/9/25 6:37:46p You slaughtered a Vermine.
+10/9/25 6:37:48p You slaughtered a Rat.
+10/9/25 6:37:49p You slaughtered a Rat.
+10/9/25 6:37:52p You slaughtered a Rat.
+10/9/25 6:37:55p You slaughtered a Rat.
+10/9/25 6:37:57p You slaughtered a Rat.
+10/9/25 6:38:03p You slaughtered a Rat.
+10/9/25 6:38:06p You have 30259 coins.
+10/9/25 6:38:17p You slaughtered a Scavenger Bird.
+10/9/25 6:38:28p You slaughtered a Rat.
+10/9/25 6:38:33p You slaughtered a Rat.
+10/9/25 6:38:33p • You experiment with a new fighting style.
+10/9/25 6:38:36p You slaughtered a Rat.
+10/9/25 6:38:37p You slaughtered a Rat.
+10/9/25 6:38:38p You slaughtered a Rat.
+10/9/25 6:38:51p You slaughtered a Vermine.
+10/9/25 6:38:52p You slaughtered a Rat.
+10/9/25 6:38:55p You slaughtered a Rat.
+10/9/25 6:38:57p •You notice your balance and recovery improving.
+10/9/25 6:39:01p You slaughtered a Rat.
+10/9/25 6:39:03p You slaughtered a Rat.
+10/9/25 6:39:04p You slaughtered a Rat.
+10/9/25 6:39:05p You slaughtered a Rat.
+10/9/25 6:39:07p You slaughtered a Rat.
+10/9/25 6:39:09p You discover a half-eaten fried myrm.
+10/9/25 6:39:10p You slaughtered a Rat.
+10/9/25 6:39:12p You slaughtered a Rat.
+10/9/25 6:39:37p You slaughtered a Rat.
+10/9/25 6:39:38p You slaughtered a Rat.
+10/9/25 6:39:39p You slaughtered a Rat.
+10/9/25 6:40:28p •You notice your balance and recovery improving.
+10/9/25 6:40:59p You slaughtered a Vermine.
+10/9/25 6:41:01p You slaughtered a Vermine.
+10/9/25 6:41:03p You slaughtered a Vermine.
+10/9/25 6:41:06p You have 30259 coins.
+10/9/25 6:41:14p You slaughtered a Rat.
+10/9/25 6:41:18p You slaughtered a Rat.
+10/9/25 6:41:26p You slaughtered a Rat.
+10/9/25 6:41:36p You slaughtered a Rat.
+10/9/25 6:41:37p You slaughtered a Rat.
+10/9/25 6:41:40p You slaughtered a Rat.
+10/9/25 6:41:41p You slaughtered a Rat.
+10/9/25 6:41:46p You slaughtered a Rat.
+10/9/25 6:41:49p You slaughtered a Rat.
+10/9/25 6:41:51p You slaughtered a Rat.
+10/9/25 6:41:53p You slaughtered a Rat.
+10/9/25 6:41:59p •You notice your balance and recovery improving.
+10/9/25 6:42:03p You slaughtered an Ona Chigger.
+10/9/25 6:42:45p You slaughtered a Vermine.
+10/9/25 6:42:55p You slaughtered a Rat.
+10/9/25 6:43:00p You slaughtered a Rat.
+10/9/25 6:43:17p You slaughtered a Vermine.
+10/9/25 6:43:21p You slaughtered a Rat.
+10/9/25 6:43:22p You slaughtered a Rat.
+10/9/25 6:43:25p You slaughtered a Vermine.
+10/9/25 6:43:26p You slaughtered a Vermine.
+10/9/25 6:43:30p •You notice your balance and recovery improving.
+10/9/25 6:43:43p You slaughtered a Vermine.
+10/9/25 6:43:52p You have 30259 coins.
+10/9/25 6:43:54p You slaughtered a Vermine.
+10/9/25 6:43:54p • You experiment with a new fighting style.
+10/9/25 6:43:55p You slaughtered a Vermine.
+10/9/25 6:44:31p You slaughtered a Rat.
+10/9/25 6:44:34p You slaughtered a Rat.
+10/9/25 6:44:35p You slaughtered a Vermine.
+10/9/25 6:44:36p You slaughtered a Rat.
+10/9/25 6:44:38p You slaughtered a Rat.
+10/9/25 6:44:40p You slaughtered a Rat.
+10/9/25 6:44:43p You slaughtered a Rat.
+10/9/25 6:44:56p You slaughtered a Rat.
+10/9/25 6:44:57p You slaughtered a Rat.
+10/9/25 6:45:01p •You notice your balance and recovery improving.
+10/9/25 6:45:05p You slaughtered a Rat.
+10/9/25 6:45:06p You slaughtered a Rat.
+10/9/25 6:45:06p You slaughtered a Rat.
+10/9/25 6:45:07p You slaughtered a Rat.
+10/9/25 6:45:09p You slaughtered a Rat.
+10/9/25 6:45:18p You slaughtered a Rat.
+10/9/25 6:45:22p You slaughtered a Rat.
+10/9/25 6:45:23p You slaughtered a Rat.
+10/9/25 6:45:25p You slaughtered a Rat.
+10/9/25 6:45:26p You slaughtered a Rat.
+10/9/25 6:45:29p You slaughtered a Rat.
+10/9/25 6:45:56p You slaughtered a Vermine.
+10/9/25 6:45:58p You slaughtered a Rat.
+10/9/25 6:46:01p You slaughtered a Rat.
+10/9/25 6:46:12p You slaughtered a Rat.
+10/9/25 6:46:23p You slaughtered a Rat.
+10/9/25 6:46:32p You slaughtered a Rat.
+10/9/25 6:46:32p •You notice your balance and recovery improving.
+10/9/25 6:46:36p You slaughtered a Rat.
+10/9/25 6:46:40p You have 30259 coins.
+10/9/25 6:46:41p You slaughtered a Rat.
+10/9/25 6:46:43p You slaughtered a Rat.
+10/9/25 6:46:44p You slaughtered a Rat.
+10/9/25 6:46:59p You slaughtered a Rat.
+10/9/25 6:47:14p You slaughtered a Rat.
+10/9/25 6:47:19p You slaughtered a Rat.
+10/9/25 6:47:19p You slaughtered a Vermine.
+10/9/25 6:47:26p You slaughtered a Rat.
+10/9/25 6:47:28p You slaughtered a Rat.
+10/9/25 6:47:30p You slaughtered a Rat.
+10/9/25 6:47:34p You slaughtered a Rat.
+10/9/25 6:47:35p You slaughtered a Rat.
+10/9/25 6:47:47p You slaughtered a Scavenger Bird.
+10/9/25 6:47:56p You slaughtered a Scavenger Bird.
+10/9/25 6:48:03p •You notice your balance and recovery improving.
+10/9/25 6:48:13p You slaughtered a Rat.
+10/9/25 6:48:20p You slaughtered a Rat.
+10/9/25 6:48:22p You slaughtered a Rat.
+10/9/25 6:48:23p You slaughtered a Rat.
+10/9/25 6:48:26p You slaughtered a Rat.
+10/9/25 6:48:52p You slaughtered a Vermine.
+10/9/25 6:48:53p You slaughtered a Rat.
+10/9/25 6:48:54p You slaughtered a Rat.
+10/9/25 6:48:55p You slaughtered a Rat.
+10/9/25 6:49:00p You slaughtered a Rat.
+10/9/25 6:49:13p You slaughtered a Rat.
+10/9/25 6:49:28p You slaughtered a Rat.
+10/9/25 6:49:28p You have 30259 coins.
+10/9/25 6:49:33p •You notice your balance and recovery improving.
+10/9/25 6:49:34p You slaughtered a Rat.
+10/9/25 6:49:40p You slaughtered a Rat.
+10/9/25 6:49:45p You slaughtered a Rat.
+10/9/25 6:49:50p You slaughtered a Rat.
+10/9/25 6:50:06p You slaughtered a Rat.
+10/9/25 6:50:08p You slaughtered a Rat.
+10/9/25 6:50:11p You slaughtered a Rat.
+10/9/25 6:50:25p You slaughtered a Rat.
+10/9/25 6:50:33p You slaughtered a Rat.
+10/9/25 6:50:34p You slaughtered a Rat.
+10/9/25 6:50:38p You slaughtered a Rat.
+10/9/25 6:50:39p You slaughtered a Rat.
+10/9/25 6:50:58p You slaughtered a Rat.
+10/9/25 6:51:04p •You notice your balance and recovery improving.
+10/9/25 6:51:47p You slaughtered a Rat.
+10/9/25 6:51:51p You slaughtered a Rat.
+10/9/25 6:52:16p You have 30259 coins.
+10/9/25 6:52:35p •You notice your balance and recovery improving.
+10/9/25 6:54:06p •You notice your balance and recovery improving.
+10/9/25 6:55:37p •You notice your balance and recovery improving.
+10/9/25 6:55:38p You have 30259 coins.
+10/9/25 6:57:08p •You notice your balance and recovery improving.
+10/9/25 6:58:39p •You notice your balance and recovery improving.
+10/9/25 6:59:09p You just received anonymous good karma.
+10/9/25 6:59:12p You have 30259 coins.
+10/9/25 7:00:09p •You notice your balance and recovery improving.
+10/9/25 7:01:12p You slaughtered a Rat.
+10/9/25 7:01:13p You slaughtered a Rat.
+10/9/25 7:01:14p You slaughtered a Rat.
+10/9/25 7:01:28p You slaughtered a Rat.
+10/9/25 7:01:40p •You notice your balance and recovery improving.
+10/9/25 7:02:00p You slaughtered a Rat.
+10/9/25 7:02:01p You slaughtered a Rat.
+10/9/25 7:02:05p You slaughtered an Ona Chigger.
+10/9/25 7:02:07p You slaughtered a Rat.
+10/9/25 7:02:07p You slaughtered a Rat.
+10/9/25 7:02:15p You slaughtered a Rat.
+10/9/25 7:02:18p You slaughtered a Rat.
+10/9/25 7:02:24p You have 30259 coins.
+10/9/25 7:02:30p You slaughtered a Rat.
+10/9/25 7:02:39p You slaughtered a Vermine.
+10/9/25 7:02:42p You slaughtered a Rat.
+10/9/25 7:02:43p You slaughtered a Vermine.
+10/9/25 7:02:44p You slaughtered a Rat.
+10/9/25 7:02:44p You slaughtered a Rat.
+10/9/25 7:02:48p You slaughtered a Rat.
+10/9/25 7:02:50p You slaughtered a Rat.
+10/9/25 7:02:52p You slaughtered a Rat.
+10/9/25 7:02:55p You slaughtered a Rat.
+10/9/25 7:03:00p You slaughtered a Rat.
+10/9/25 7:03:01p You slaughtered a Vermine.
+10/9/25 7:03:02p You slaughtered a Vermine.
+10/9/25 7:03:03p You slaughtered a Vermine.
+10/9/25 7:03:05p You slaughtered a Rat.
+10/9/25 7:03:08p You slaughtered a Rat.
+10/9/25 7:03:11p •You notice your balance and recovery improving.
+10/9/25 7:03:43p You slaughtered a Rat.
+10/9/25 7:03:44p You slaughtered a Rat.
+10/9/25 7:03:55p You slaughtered a Rat.
+10/9/25 7:04:01p You slaughtered a Rat.
+10/9/25 7:04:09p You slaughtered a Rat.
+10/9/25 7:04:21p You slaughtered a Vermine.
+10/9/25 7:04:25p You slaughtered a Rat.
+10/9/25 7:04:26p You slaughtered a Rat.
+10/9/25 7:04:29p You slaughtered a Rat.
+10/9/25 7:04:34p You slaughtered a Rat.
+10/9/25 7:04:35p You slaughtered a Rat.
+10/9/25 7:04:38p You slaughtered a Rat.
+10/9/25 7:04:42p •You notice your balance and recovery improving.
+10/9/25 7:05:01p You slaughtered a Rat.
+10/9/25 7:05:03p You slaughtered a Vermine.
+10/9/25 7:05:05p You slaughtered a Rat.
+10/9/25 7:05:06p You slaughtered a Rat.
+10/9/25 7:05:08p You slaughtered a Rat.
+10/9/25 7:05:11p You slaughtered a Vermine.
+10/9/25 7:05:11p You have 30259 coins.
+10/9/25 7:05:12p You slaughtered a Vermine.
+10/9/25 7:05:15p You slaughtered a Vermine.
+10/9/25 7:05:20p You slaughtered a Vermine.
+10/9/25 7:05:30p You slaughtered a Rat.
+10/9/25 7:05:42p You slaughtered a Rat.
+10/9/25 7:05:44p You slaughtered a Rat.
+10/9/25 7:05:45p You slaughtered a Rat.
+10/9/25 7:05:48p You slaughtered a Rat.
+10/9/25 7:05:53p You slaughtered a Rat.
+10/9/25 7:05:54p You slaughtered a Rat.
+10/9/25 7:05:58p You slaughtered a Vermine.
+10/9/25 7:06:06p Finn Orak says, "The Darshaks are a constant threat."
+10/9/25 7:06:13p •You notice your balance and recovery improving.
+10/9/25 7:06:18p You slaughtered a Rat.
+10/9/25 7:06:19p You slaughtered a Vermine.
+10/9/25 7:06:22p You slaughtered a Rat.
+10/9/25 7:06:23p You slaughtered a Rat.
+10/9/25 7:06:29p You slaughtered a Rat.
+10/9/25 7:06:30p You slaughtered a Rat.
+10/9/25 7:06:32p You slaughtered a Rat.
+10/9/25 7:06:33p You slaughtered a Rat.
+10/9/25 7:06:35p You slaughtered a Rat.
+10/9/25 7:06:46p You slaughtered a Rat.
+10/9/25 7:06:55p You slaughtered a Scavenger Bird.
+10/9/25 7:07:02p You slaughtered a Rat.
+10/9/25 7:07:03p You slaughtered a Rat.
+10/9/25 7:07:04p You slaughtered a Rat.
+10/9/25 7:07:04p • You experiment with a new fighting style.
+10/9/25 7:07:08p You slaughtered a Rat.
+10/9/25 7:07:13p You slaughtered a Rat.
+10/9/25 7:07:15p You slaughtered a Rat.
+10/9/25 7:07:17p You slaughtered a Rat.
+10/9/25 7:07:18p You slaughtered a Rat.
+10/9/25 7:07:20p You slaughtered a Rat.
+10/9/25 7:07:37p You slaughtered a Rat.
+10/9/25 7:07:43p You slaughtered a Rat.
+10/9/25 7:07:44p •You notice your balance and recovery improving.
+10/9/25 7:07:47p You slaughtered a Rat.
+10/9/25 7:07:54p You slaughtered a Rat.
+10/9/25 7:08:00p You have 30259 coins.
+10/9/25 7:08:19p You slaughtered a Rat.
+10/9/25 7:08:38p You slaughtered a Vermine.
+10/9/25 7:08:55p You slaughtered a Rat.
+10/9/25 7:08:56p You slaughtered a Rat.
+10/9/25 7:08:57p You slaughtered a Rat.
+10/9/25 7:09:00p You slaughtered a Rat.
+10/9/25 7:09:05p You slaughtered a Rat.
+10/9/25 7:09:07p You slaughtered a Rat.
+10/9/25 7:09:11p You slaughtered a Rat.
+10/9/25 7:09:14p You slaughtered a Rat.
+10/9/25 7:09:15p •You notice your balance and recovery improving.
+10/9/25 7:09:38p You slaughtered a Rat.
+10/9/25 7:09:55p You slaughtered a Rat.
+10/9/25 7:09:57p You slaughtered a Rat.
+10/9/25 7:10:01p You slaughtered a Rat.
+10/9/25 7:10:03p You slaughtered a Rat.
+10/9/25 7:10:04p You slaughtered a Rat.
+10/9/25 7:10:11p You slaughtered a Rat.
+10/9/25 7:10:12p You slaughtered a Rat.
+10/9/25 7:10:15p You slaughtered a Rat.
+10/9/25 7:10:17p You slaughtered a Rat.
+10/9/25 7:10:18p You slaughtered a Rat.
+10/9/25 7:10:19p You slaughtered a Rat.
+10/9/25 7:10:20p You slaughtered a Rat.
+10/9/25 7:10:24p You slaughtered a Rat.
+10/9/25 7:10:39p You slaughtered a Rat.
+10/9/25 7:10:45p You slaughtered a Rat.
+10/9/25 7:10:45p •You notice your balance and recovery improving.
+10/9/25 7:10:47p You have 30259 coins.
+10/9/25 7:10:48p You slaughtered a Rat.
+10/9/25 7:10:51p You slaughtered a Rat.
+10/9/25 7:11:16p You slaughtered a Rat.
+10/9/25 7:11:21p You slaughtered a Rat.
+10/9/25 7:11:29p You slaughtered a Vermine.
+10/9/25 7:11:31p You slaughtered a Scavenger Bird.
+10/9/25 7:11:44p You slaughtered a Vermine.
+10/9/25 7:11:46p You slaughtered a Rat.
+10/9/25 7:11:54p You slaughtered a Vermine.
+10/9/25 7:12:06p You slaughtered a Rat.
+10/9/25 7:12:16p •You notice your balance and recovery improving.
+10/9/25 7:12:17p You slaughtered a Rat.
+10/9/25 7:12:20p You slaughtered a Scavenger Bird.
+10/9/25 7:12:29p You slaughtered a Rat.
+10/9/25 7:12:34p You slaughtered a Vermine.
+10/9/25 7:12:35p You slaughtered a Rat.
+10/9/25 7:12:35p You slaughtered a Rat.
+10/9/25 7:12:36p You slaughtered a Rat.
+10/9/25 7:12:39p You slaughtered a Vermine.
+10/9/25 7:12:42p You slaughtered a Rat.
+10/9/25 7:12:42p You slaughtered a Rat.
+10/9/25 7:12:47p You slaughtered a Rat.
+10/9/25 7:12:53p You slaughtered a Rat.
+10/9/25 7:12:57p You slaughtered a Rat.
+10/9/25 7:13:31p You slaughtered a Rat.
+10/9/25 7:13:32p You have 30259 coins.
+10/9/25 7:13:33p You slaughtered a Rat.
+10/9/25 7:13:37p You slaughtered a Rat.
+10/9/25 7:13:38p You slaughtered a Rat.
+10/9/25 7:13:41p You slaughtered a Rat.
+10/9/25 7:13:46p You slaughtered a Rat.
+10/9/25 7:13:47p •You notice your balance and recovery improving.
+10/9/25 7:13:49p You slaughtered a Rat.
+10/9/25 7:13:50p You slaughtered a Rat.
+10/9/25 7:13:51p You slaughtered a Rat.
+10/9/25 7:13:53p You slaughtered a Rat.
+10/9/25 7:14:56p You slaughtered a Vermine.
+10/9/25 7:14:57p You slaughtered a Rat.
+10/9/25 7:14:58p You slaughtered a Rat.
+10/9/25 7:15:02p You slaughtered a Rat.
+10/9/25 7:15:10p You slaughtered a Rat.
+10/9/25 7:15:14p You slaughtered a Vermine.
+10/9/25 7:15:15p You slaughtered a Rat.
+10/9/25 7:15:16p You slaughtered a Rat.
+10/9/25 7:15:17p You slaughtered a Rat.
+10/9/25 7:15:18p •You notice your balance and recovery improving.
+10/9/25 7:15:21p You slaughtered a Rat.
+10/9/25 7:15:22p You slaughtered a Rat.
+10/9/25 7:15:24p You slaughtered a Rat.
+10/9/25 7:15:49p You slaughtered a Rat.
+10/9/25 7:15:50p You slaughtered a Rat.
+10/9/25 7:15:51p You slaughtered a Rat.
+10/9/25 7:15:51p You slaughtered a Rat.
+10/9/25 7:15:59p You slaughtered a Rat.
+10/9/25 7:16:02p You slaughtered a Rat.
+10/9/25 7:16:03p You slaughtered a Rat.
+10/9/25 7:16:06p You slaughtered a Rat.
+10/9/25 7:16:12p You slaughtered a Rat.
+10/9/25 7:16:25p You have 30259 coins.
+10/9/25 7:16:49p •You notice your balance and recovery improving.
+10/9/25 7:17:42p You slaughtered a Rat.
+10/9/25 7:17:43p You slaughtered a Rat.
+10/9/25 7:17:45p You slaughtered a Rat.
+10/9/25 7:18:10p You slaughtered a Rat.
+10/9/25 7:18:11p You slaughtered a Rat.
+10/9/25 7:18:13p You slaughtered a Rat.
+10/9/25 7:18:15p You slaughtered a Rat.
+10/9/25 7:18:15p You slaughtered a Rat.
+10/9/25 7:18:16p You slaughtered a Rat.
+10/9/25 7:18:18p You slaughtered a Rat.
+10/9/25 7:18:20p •You notice your balance and recovery improving.
+10/9/25 7:18:20p You slaughtered a Rat.
+10/9/25 7:18:31p You slaughtered a Rat.
+10/9/25 7:18:41p You slaughtered a Rat.
+10/9/25 7:18:42p You slaughtered a Vermine.
+10/9/25 7:18:43p You slaughtered a Rat.
+10/9/25 7:18:44p You slaughtered a Rat.
+10/9/25 7:18:47p You slaughtered a Rat.
+10/9/25 7:18:59p You slaughtered a Rat.
+10/9/25 7:19:02p You slaughtered a Rat.
+10/9/25 7:19:03p You slaughtered a Rat.
+10/9/25 7:19:06p You slaughtered a Rat.
+10/9/25 7:19:07p You slaughtered a Rat.
+10/9/25 7:19:11p You slaughtered a Rat.
+10/9/25 7:19:13p You slaughtered a Rat.
+10/9/25 7:19:19p You slaughtered a Rat.
+10/9/25 7:19:23p You slaughtered a Vermine.
+10/9/25 7:19:25p You have 30259 coins.
+10/9/25 7:19:26p You slaughtered a Vermine.
+10/9/25 7:19:26p You slaughtered a Rat.
+10/9/25 7:19:28p You slaughtered a Rat.
+10/9/25 7:19:47p You pick up a skein of silk.
+10/9/25 7:19:50p •You notice your balance and recovery improving.
+10/9/25 7:19:53p You slaughtered a Rat.
+10/9/25 7:19:59p You pick up a skein of silk.
+10/9/25 7:20:25p You slaughtered a Rat.
+10/9/25 7:20:26p You slaughtered a Rat.
+10/9/25 7:20:32p You slaughtered a Rat.
+10/9/25 7:20:33p You slaughtered a Rat.
+10/9/25 7:20:35p You slaughtered a Rat.
+10/9/25 7:20:37p You slaughtered a Rat.
+10/9/25 7:20:37p • You experiment with a new fighting style.
+10/9/25 7:20:40p You slaughtered a Rat.
+10/9/25 7:20:47p You slaughtered a Rat.
+10/9/25 7:20:57p You slaughtered a Vermine.
+10/9/25 7:20:59p You slaughtered a Vermine.
+10/9/25 7:21:00p You slaughtered a Vermine.
+10/9/25 7:21:02p You slaughtered a Vermine.
+10/9/25 7:21:06p You slaughtered an Emerald Scorp.
+10/9/25 7:21:08p You slaughtered a Rat.
+10/9/25 7:21:13p You slaughtered a Rat.
+10/9/25 7:21:21p •You notice your balance and recovery improving.
+10/9/25 7:21:53p You slaughtered a Rat.
+10/9/25 7:21:54p You slaughtered a Rat.
+10/9/25 7:21:58p You slaughtered a Rat.
+10/9/25 7:21:58p You slaughtered a Rat.
+10/9/25 7:21:59p You slaughtered a Rat.
+10/9/25 7:22:04p You slaughtered a Rat.
+10/9/25 7:22:08p You slaughtered a Rat.
+10/9/25 7:22:16p You slaughtered a Rat.
+10/9/25 7:22:19p You have 30259 coins.
+10/9/25 7:22:31p You slaughtered a Rat.
+10/9/25 7:22:34p You slaughtered a Vermine.
+10/9/25 7:22:44p You slaughtered a Vermine.
+10/9/25 7:22:48p You slaughtered a Vermine.
+10/9/25 7:22:52p •You notice your balance and recovery improving.
+10/9/25 7:22:58p You slaughtered a Rat.
+10/9/25 7:23:11p You slaughtered a Vermine.
+10/9/25 7:23:27p Salvador is a Ghorak Zo, is male, is a Ranger, and is wearing the symbol of Flatologists Pty Ltd.
+10/9/25 7:23:47p You slaughtered a Rat.
+10/9/25 7:23:50p You slaughtered a Rat.
+10/9/25 7:23:58p You slaughtered a Rat.
+10/9/25 7:23:59p You slaughtered a Rat.
+10/9/25 7:24:01p You slaughtered a Rat.
+10/9/25 7:24:22p You slaughtered a Vermine.
+10/9/25 7:24:23p •You notice your balance and recovery improving.
+10/9/25 7:24:31p You slaughtered a Vermine.
+10/9/25 7:24:33p You slaughtered a Vermine.
+10/9/25 7:24:34p You slaughtered a Rat.
+10/9/25 7:25:01p Princess growls, "Zzzzzz."
+10/9/25 7:25:04p You have 30259 coins.
+10/9/25 7:25:12p You slaughtered a Vermine.
+10/9/25 7:25:13p You slaughtered a Rat.
+10/9/25 7:25:16p You slaughtered a Vermine.
+10/9/25 7:25:17p You slaughtered a Rat.
+10/9/25 7:25:19p You slaughtered a Rat.
+10/9/25 7:25:20p You slaughtered a Rat.
+10/9/25 7:25:24p You slaughtered a Vermine.
+10/9/25 7:25:25p You slaughtered a Vermine.
+10/9/25 7:25:25p You slaughtered a Vermine.
+10/9/25 7:25:26p You slaughtered a Rat.
+10/9/25 7:25:29p You slaughtered a Vermine.
+10/9/25 7:25:31p You slaughtered a Vermine.
+10/9/25 7:25:32p You slaughtered a Rat.
+10/9/25 7:25:35p You slaughtered a Vermine.
+10/9/25 7:25:39p You slaughtered a Vermine.
+10/9/25 7:25:50p You slaughtered a Vermine.
+10/9/25 7:25:54p •You notice your balance and recovery improving.
+10/9/25 7:25:56p You slaughtered a Rat.
+10/9/25 7:26:11p You slaughtered a Rat.
+10/9/25 7:26:18p You slaughtered a Vermine.
+10/9/25 7:26:19p You slaughtered a Vermine.
+10/9/25 7:26:20p You slaughtered a Vermine.
+10/9/25 7:26:53p You slaughtered a Vermine.
+10/9/25 7:27:04p You slaughtered a Giant Vermine.
+10/9/25 7:27:04p * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+10/9/25 7:27:08p You slaughtered a Rat.
+10/9/25 7:27:15p You slaughtered a Rat.
+10/9/25 7:27:19p You slaughtered a Rat.
+10/9/25 7:27:24p You slaughtered a Rat.
+10/9/25 7:27:25p •You notice your balance and recovery improving.
+10/9/25 7:27:28p You slaughtered a Rat.
+10/9/25 7:27:34p You slaughtered a Vermine.
+10/9/25 7:27:43p You slaughtered a Rat.
+10/9/25 7:27:50p You have 30261 coins.
+10/9/25 7:27:51p You slaughtered a Rat.
+10/9/25 7:27:55p Finn Orak says, "It seems the dangers grow in proportion to our population."
+10/9/25 7:28:15p You slaughtered a Rat.
+10/9/25 7:28:15p You slaughtered a Rat.
+10/9/25 7:28:21p You slaughtered a Rat.
+10/9/25 7:28:23p You slaughtered a Rat.
+10/9/25 7:28:35p You slaughtered a Scavenger Bird.
+10/9/25 7:28:37p Wesgürd nods and smiles at Ajahn.
+10/9/25 7:28:46p You slaughtered a Rat.
+10/9/25 7:28:51p You slaughtered a Rat.
+10/9/25 7:28:52p You slaughtered a Rat.
+10/9/25 7:28:55p •You notice your balance and recovery improving.
+10/9/25 7:29:08p You slaughtered a Rat.
+10/9/25 7:29:10p You slaughtered a Rat.
+10/9/25 7:29:12p You slaughtered a Rat.
+10/9/25 7:29:19p You slaughtered a Rat.
+10/9/25 7:29:21p You slaughtered a Rat.
+10/9/25 7:29:22p You slaughtered a Rat.
+10/9/25 7:29:24p You slaughtered a Rat.
+10/9/25 7:29:32p You slaughtered a Vermine.
+10/9/25 7:29:35p You slaughtered a Rat.
+10/9/25 7:29:42p You slaughtered a Rat.
+10/9/25 7:29:51p You slaughtered a Rat.
+10/9/25 7:29:57p • You gain experience from your clanmate.
+10/9/25 7:30:25p You slaughtered a Rat.
+10/9/25 7:30:26p You slaughtered a Vermine.
+10/9/25 7:30:26p •You notice your balance and recovery improving.
+10/9/25 7:30:27p You slaughtered a Rat.
+10/9/25 7:30:28p You slaughtered a Rat.
+10/9/25 7:30:30p You slaughtered a Rat.
+10/9/25 7:30:32p You slaughtered a Rat.
+10/9/25 7:30:36p You have 30261 coins.
+10/9/25 7:30:40p You slaughtered an Emerald Scorp.
+10/9/25 7:30:51p You slaughtered a Vermine.
+10/9/25 7:30:52p You slaughtered a Vermine.
+10/9/25 7:30:53p You slaughtered a Rat.
+10/9/25 7:30:56p You slaughtered a Rat.
+10/9/25 7:31:01p You slaughtered a Rat.
+10/9/25 7:31:10p You slaughtered a Vermine.
+10/9/25 7:31:23p You slaughtered a Vermine.
+10/9/25 7:31:30p You slaughtered a Rat.
+10/9/25 7:31:32p You slaughtered a Rat.
+10/9/25 7:31:33p You slaughtered a Rat.
+10/9/25 7:31:33p You slaughtered a Rat.
+10/9/25 7:31:38p You slaughtered a Rat.
+10/9/25 7:31:39p You slaughtered a Rat.
+10/9/25 7:31:41p You slaughtered a Rat.
+10/9/25 7:31:44p You slaughtered a Rat.
+10/9/25 7:31:46p You slaughtered a Rat.
+10/9/25 7:31:49p You slaughtered a Rat.
+10/9/25 7:31:55p You slaughtered a Rat.
+10/9/25 7:31:56p You slaughtered a Rat.
+10/9/25 7:31:57p •You notice your balance and recovery improving.
+10/9/25 7:31:59p You slaughtered a Rat.
+10/9/25 7:32:00p You slaughtered a Rat.
+10/9/25 7:32:13p You slaughtered a Rat.
+10/9/25 7:32:19p You slaughtered a Rat.
+10/9/25 7:32:27p You slaughtered a Rat.
+10/9/25 7:32:28p You slaughtered a Rat.
+10/9/25 7:32:32p You slaughtered a Rat.
+10/9/25 7:32:36p You slaughtered a Rat.
+10/9/25 7:32:43p You slaughtered a Rat.
+10/9/25 7:32:44p You slaughtered a Rat.
+10/9/25 7:32:49p You slaughtered a Rat.
+10/9/25 7:32:55p You slaughtered a Rat.
+10/9/25 7:33:11p You slaughtered a Vermine.
+10/9/25 7:33:13p You slaughtered a Rat.
+10/9/25 7:33:14p You slaughtered a Rat.
+10/9/25 7:33:16p You slaughtered a Rat.
+10/9/25 7:33:17p You slaughtered a Rat.
+10/9/25 7:33:18p You slaughtered a Rat.
+10/9/25 7:33:19p You slaughtered a Rat.
+10/9/25 7:33:21p You slaughtered a Rat.
+10/9/25 7:33:22p You have 30261 coins.
+10/9/25 7:33:28p •You notice your balance and recovery improving.
+10/9/25 7:33:30p You slaughtered a Rat.
+10/9/25 7:33:32p •You gain experience.
+10/9/25 7:33:38p You slaughtered a Vermine.
+10/9/25 7:33:43p You slaughtered a Rat.
+10/9/25 7:33:43p * You recover the Rat fur, worth 1c. Your share is 1c.
+10/9/25 7:33:45p You slaughtered a Rat.
+10/9/25 7:33:46p You slaughtered a Rat.
+10/9/25 7:33:52p You slaughtered a Rat.
+10/9/25 7:33:53p You slaughtered a Rat.
+10/9/25 7:33:53p You slaughtered a Rat.
+10/9/25 7:34:04p You slaughtered a Rat.
+10/9/25 7:34:09p You slaughtered a Rat.
+10/9/25 7:34:13p You slaughtered a Rat.
+10/9/25 7:34:17p You slaughtered a Vermine.
+10/9/25 7:34:17p You slaughtered a Vermine.
+10/9/25 7:34:18p You slaughtered a Vermine.
+10/9/25 7:34:19p * You recover the Vermine fur, worth 1c. Your share is 1c.
+10/9/25 7:34:21p You slaughtered a Vermine.
+10/9/25 7:34:22p You slaughtered a Vermine.
+10/9/25 7:34:24p You slaughtered a Rat.
+10/9/25 7:34:31p You slaughtered a Vermine.
+10/9/25 7:34:32p You slaughtered a Rat.
+10/9/25 7:34:56p Princess tucks her nose under her tail and begins napping.
+10/9/25 7:34:58p •You notice your balance and recovery improving.
+10/9/25 7:35:13p You slaughtered a Rat.
+10/9/25 7:35:19p You slaughtered a Rat.
+10/9/25 7:35:21p You slaughtered a Rat.
+10/9/25 7:35:25p You slaughtered a Rat.
+10/9/25 7:35:29p You slaughtered a Vermine.
+10/9/25 7:35:30p You slaughtered a Rat.
+10/9/25 7:35:35p You slaughtered a Rat.
+10/9/25 7:35:50p You slaughtered a Scavenger Bird.
+10/9/25 7:35:54p You slaughtered a Rat.
+10/9/25 7:35:55p You slaughtered a Rat.
+10/9/25 7:35:56p You slaughtered a Rat.
+10/9/25 7:35:56p You slaughtered a Rat.
+10/9/25 7:36:01p You slaughtered a Rat.
+10/9/25 7:36:06p You slaughtered a Rat.
+10/9/25 7:36:07p You have 30263 coins.
+10/9/25 7:36:14p You slaughtered a Rat.
+10/9/25 7:36:29p •You notice your balance and recovery improving.
+10/9/25 7:36:44p You slaughtered a Rat.
+10/9/25 7:36:50p You slaughtered an Ona Chigger.
+10/9/25 7:36:52p You slaughtered a Vermine.
+10/9/25 7:36:52p * You recover the Vermine fur, worth 1c. Your share is 1c.
+10/9/25 7:37:01p You slaughtered a Rat.
+10/9/25 7:37:07p You slaughtered a Rat.
+10/9/25 7:37:10p You slaughtered a Rat.
+10/9/25 7:37:11p You slaughtered a Rat.
+10/9/25 7:37:12p You slaughtered a Rat.
+10/9/25 7:37:17p You slaughtered a Rat.
+10/9/25 7:37:18p You slaughtered a Rat.
+10/9/25 7:37:24p You slaughtered a Rat.
+10/9/25 7:37:27p You slaughtered a Rat.
+10/9/25 7:37:36p You slaughtered a Rat.
+10/9/25 7:37:46p You slaughtered a Rat.
+10/9/25 7:37:56p You slaughtered a Rat.
+10/9/25 7:37:59p •You notice your balance and recovery improving.
+10/9/25 7:38:01p You slaughtered a Rat.
+10/9/25 7:38:06p You slaughtered a Rat.
+10/9/25 7:38:08p You slaughtered a Rat.
+10/9/25 7:38:54p You have 30264 coins.
+10/9/25 7:39:30p •You notice your balance and recovery improving.
+10/9/25 7:41:00p •You notice your balance and recovery improving.
+10/9/25 7:41:11p You just received anonymous good karma.
+10/9/25 7:42:05p You have 30264 coins.
+10/9/25 7:42:31p •You notice your balance and recovery improving.
+10/9/25 7:43:59p You slaughtered a Vermine.
+10/9/25 7:44:00p You slaughtered a Rat.
+10/9/25 7:44:02p •You notice your balance and recovery improving.
+10/9/25 7:44:02p You slaughtered a Vermine.
+10/9/25 7:44:03p You slaughtered a Vermine.
+10/9/25 7:44:03p * You recover the Vermine fur, worth 1c. Your share is 1c.
+10/9/25 7:44:09p You slaughtered a Rat.
+10/9/25 7:44:59p You have 30265 coins.
+10/9/25 7:45:32p •You notice your balance and recovery improving.
+10/9/25 7:47:03p •You notice your balance and recovery improving.
+10/9/25 7:48:10p You have 30265 coins.
+10/9/25 7:48:33p •You notice your balance and recovery improving.
+10/9/25 7:50:04p •You notice your balance and recovery improving.
+10/9/25 7:51:31p You have 30265 coins.
+10/9/25 7:51:34p •You notice your balance and recovery improving.
+10/9/25 7:52:37p You slaughtered a Rat.
+10/9/25 7:52:37p You slaughtered a Rat.
+10/9/25 7:52:38p You slaughtered a Rat.
+10/9/25 7:52:39p You slaughtered a Rat.
+10/9/25 7:52:47p You slaughtered a Rat.
+10/9/25 7:52:57p You slaughtered a Rat.
+10/9/25 7:52:58p You slaughtered a Rat.
+10/9/25 7:53:01p You slaughtered a Rat.
+10/9/25 7:53:04p You slaughtered a Vermine.
+10/9/25 7:53:05p •You notice your balance and recovery improving.
+10/9/25 7:53:06p You slaughtered a Rat.
+10/9/25 7:53:12p You slaughtered a Rat.
+10/9/25 7:53:27p You slaughtered a Rat.
+10/9/25 7:53:33p You slaughtered a Rat.
+10/9/25 7:53:36p You slaughtered a Vermine.
+10/9/25 7:53:37p You slaughtered a Rat.
+10/9/25 7:53:38p You slaughtered a Rat.
+10/9/25 7:53:40p You slaughtered a Scavenger Bird.
+10/9/25 7:53:41p You slaughtered a Rat.
+10/9/25 7:53:47p You slaughtered a Rat.
+10/9/25 7:53:50p You slaughtered a Rat.
+10/9/25 7:53:54p You slaughtered a Rat.
+10/9/25 7:53:58p You slaughtered a Rat.
+10/9/25 7:54:02p You slaughtered a Rat.
+10/9/25 7:54:07p You slaughtered a Vermine.
+10/9/25 7:54:09p You slaughtered a Vermine.
+10/9/25 7:54:11p You slaughtered a Vermine.
+10/9/25 7:54:13p You slaughtered an Emerald Scorp.
+10/9/25 7:54:22p You slaughtered a Scavenger Bird.
+10/9/25 7:54:22p You have 30265 coins.
+10/9/25 7:54:35p •You notice your balance and recovery improving.
+10/9/25 7:56:01p You slaughtered a Vermine.
+10/9/25 7:56:05p You slaughtered a Rat.
+10/9/25 7:56:06p •You notice your balance and recovery improving.
+10/9/25 7:56:09p You slaughtered a Vermine.
+10/9/25 7:56:12p You slaughtered a Rat.
+10/9/25 7:56:14p You slaughtered a Rat.
+10/9/25 7:56:16p You slaughtered a Rat.
+10/9/25 7:56:33p You slaughtered a Vermine.
+10/9/25 7:56:37p You slaughtered a Rat.
+10/9/25 7:56:38p You slaughtered a Rat.
+10/9/25 7:56:41p You slaughtered a Vermine.
+10/9/25 7:56:44p You slaughtered a Rat.
+10/9/25 7:56:45p You slaughtered a Vermine.
+10/9/25 7:56:49p You slaughtered a Rat.
+10/9/25 7:57:02p You slaughtered a Rat.
+10/9/25 7:57:06p You slaughtered a Vermine.
+10/9/25 7:57:10p You have 30265 coins.
+10/9/25 7:57:36p You slaughtered a Rat.
+10/9/25 7:57:37p •You notice your balance and recovery improving.
+10/9/25 7:57:37p You slaughtered a Rat.
+10/9/25 7:57:38p You slaughtered a Rat.
+10/9/25 7:57:39p You slaughtered a Rat.
+10/9/25 7:57:41p You slaughtered a Rat.
+10/9/25 7:57:42p You slaughtered a Rat.
+10/9/25 7:57:44p You slaughtered a Rat.
+10/9/25 7:57:46p You slaughtered a Vermine.
+10/9/25 7:57:48p You slaughtered a Rat.
+10/9/25 7:57:50p You slaughtered a Rat.
+10/9/25 7:57:52p You slaughtered a Rat.
+10/9/25 7:57:54p You slaughtered a Rat.
+10/9/25 7:57:57p Troilus says, "Hail, Ajahn. You have much to learn."
+10/9/25 7:57:57p * Troilus : 0-9.
+10/9/25 7:57:58p Troilus says, "I can teach you how to recover from wounds slightly faster."
+10/9/25 7:57:58p Troilus says, "You will learn as you practice."
+10/9/25 7:57:58p Troilus asks, "Are you sure you would like to train with me?"
+10/9/25 7:58:06p You slaughtered a Myrm Scout.
+10/9/25 7:58:08p You slaughtered a Rat.
+10/9/25 7:58:25p You slaughtered a Vermine.
+10/9/25 7:58:39p Swengus says, "Hail, Ajahn."
+10/9/25 7:58:40p Swengus bows.
+10/9/25 7:58:42p Swengus says, "You show great devotion to your studies."
+10/9/25 7:58:42p * Swengus : 600-649.
+10/9/25 7:58:42p Swengus says, "I can teach you to keep your balance while attacking."
+10/9/25 7:58:43p Swengus says, "You will learn as you practice."
+10/9/25 7:58:43p Swengus asks, "Are you sure you would like to train with me?"
+10/9/25 7:58:58p You slaughtered a Vermine.
+10/9/25 7:59:03p You slaughtered a Vermine.
+10/9/25 7:59:05p You slaughtered a Vermine.
+10/9/25 7:59:06p You slaughtered a Vermine.
+10/9/25 7:59:07p •You notice your balance and recovery improving.
+10/9/25 7:59:07p You slaughtered a Rat.
+10/9/25 7:59:12p You slaughtered a Rat.
+10/9/25 7:59:13p You slaughtered a Rat.
+10/9/25 7:59:14p You slaughtered a Rat.
+10/9/25 7:59:16p You slaughtered a Rat.
+10/9/25 7:59:40p You slaughtered a Vermine.
+10/9/25 7:59:42p You slaughtered a Detached Spirit.
+10/9/25 7:59:45p You slaughtered a Rat.
+10/9/25 7:59:46p You slaughtered a Rat.
+10/9/25 7:59:48p You slaughtered a Rat.
+10/9/25 7:59:58p You have 30265 coins.
+10/9/25 7:59:59p You slaughtered a Rat.
+10/9/25 8:00:00p You slaughtered a Rat.
+10/9/25 8:00:09p You slaughtered a Vermine.
+10/9/25 8:00:11p You slaughtered a Rat.
+10/9/25 8:00:22p You slaughtered a Vermine.
+10/9/25 8:00:23p You slaughtered a Vermine.
+10/9/25 8:00:24p You slaughtered a Rat.
+10/9/25 8:00:25p You slaughtered a Rat.
+10/9/25 8:00:26p You slaughtered a Rat.
+10/9/25 8:00:27p You slaughtered a Rat.
+10/9/25 8:00:36p You slaughtered a Rat.
+10/9/25 8:00:38p •You notice your balance and recovery improving.
+10/9/25 8:00:44p You slaughtered a Rat.
+10/9/25 8:00:45p You slaughtered a Rat.
+10/9/25 8:00:46p You slaughtered a Rat.
+10/9/25 8:00:48p You slaughtered a Rat.
+10/9/25 8:00:54p You slaughtered a Rat.
+10/9/25 8:00:56p You slaughtered a Rat.
+10/9/25 8:01:02p You slaughtered a Vermine.
+10/9/25 8:01:04p You slaughtered a Rat.
+10/9/25 8:01:11p You slaughtered a Vermine.
+10/9/25 8:01:15p You slaughtered a Rat.
+10/9/25 8:01:15p You slaughtered a Rat.
+10/9/25 8:01:53p You slaughtered a Rat.
+10/9/25 8:01:54p You slaughtered a Vermine.
+10/9/25 8:01:56p You slaughtered a Rat.
+10/9/25 8:01:59p You slaughtered a Rat.
+10/9/25 8:02:03p You slaughtered a Vermine.
+10/9/25 8:02:05p You slaughtered a Vermine.
+10/9/25 8:02:08p •You notice your balance and recovery improving.
+10/9/25 8:02:08p You slaughtered a Rat.
+10/9/25 8:02:48p You have 30265 coins.
+10/9/25 8:02:50p You slaughtered a Rat.
+10/9/25 8:02:51p You slaughtered a Rat.
+10/9/25 8:02:52p You slaughtered a Rat.
+10/9/25 8:03:12p You slaughtered a Vermine.
+10/9/25 8:03:22p You slaughtered a Vermine.
+10/9/25 8:03:22p * You recover the Vermine fur, worth 1c. Your share is 1c.
+10/9/25 8:03:23p You slaughtered a Vermine.
+10/9/25 8:03:38p •You notice your balance and recovery improving.
+10/9/25 8:03:42p You slaughtered a Rat.
+10/9/25 8:03:48p You slaughtered a Rat.
+10/9/25 8:03:49p You slaughtered a Rat.
+10/9/25 8:03:51p You slaughtered a Rat.
+10/9/25 8:03:52p You slaughtered a Rat.
+10/9/25 8:03:54p You slaughtered a Rat.
+10/9/25 8:03:59p You slaughtered a Rat.
+10/9/25 8:04:00p You slaughtered a Rat.
+10/9/25 8:04:03p You slaughtered a Rat.
+10/9/25 8:04:06p You slaughtered a Rat.
+10/9/25 8:04:22p You slaughtered a Rat.
+10/9/25 8:04:23p You slaughtered a Rat.
+10/9/25 8:04:29p You discover a half-eaten fried myrm.
+10/9/25 8:04:29p You slaughtered a Rat.
+10/9/25 8:04:30p You slaughtered a Vermine.
+10/9/25 8:04:36p You slaughtered a Rat.
+10/9/25 8:04:48p You slaughtered a Rat.
+10/9/25 8:04:50p You slaughtered a Rat.
+10/9/25 8:05:04p You slaughtered a Rat.
+10/9/25 8:05:05p You slaughtered a Rat.
+10/9/25 8:05:06p You slaughtered a Rat.
+10/9/25 8:05:07p You slaughtered a Rat.
+10/9/25 8:05:09p •You notice your balance and recovery improving.
+10/9/25 8:05:10p You slaughtered a Rat.
+10/9/25 8:05:11p You slaughtered a Rat.
+10/9/25 8:05:12p You slaughtered a Rat.
+10/9/25 8:05:13p You slaughtered a Rat.
+10/9/25 8:05:17p You slaughtered a Rat.
+10/9/25 8:05:18p You slaughtered a Rat.
+10/9/25 8:05:19p You slaughtered a Rat.
+10/9/25 8:05:21p You slaughtered a Rat.
+10/9/25 8:05:26p You slaughtered a Rat.
+10/9/25 8:05:27p You slaughtered a Rat.
+10/9/25 8:05:28p You slaughtered a Rat.
+10/9/25 8:05:29p You slaughtered a Rat.
+10/9/25 8:05:31p You slaughtered a Rat.
+10/9/25 8:05:34p You slaughtered a Rat.
+10/9/25 8:05:35p You have 30266 coins.
+10/9/25 8:05:36p You slaughtered a Rat.
+10/9/25 8:05:37p You slaughtered a Rat.
+10/9/25 8:05:43p You slaughtered a Rat.
+10/9/25 8:05:43p You slaughtered a Rat.
+10/9/25 8:05:44p You slaughtered a Rat.
+10/9/25 8:05:45p You slaughtered a Rat.
+10/9/25 8:05:46p You slaughtered a Rat.
+10/9/25 8:05:48p You slaughtered a Rat.
+10/9/25 8:05:50p You slaughtered a Rat.
+10/9/25 8:05:52p You slaughtered a Rat.
+10/9/25 8:05:55p You slaughtered a Rat.
+10/9/25 8:05:58p You slaughtered a Rat.
+10/9/25 8:06:05p You slaughtered a Rat.
+10/9/25 8:06:07p You slaughtered a Rat.
+10/9/25 8:06:15p You slaughtered a Rat.
+10/9/25 8:06:17p You slaughtered a Rat.
+10/9/25 8:06:23p You slaughtered a Rat.
+10/9/25 8:06:24p You slaughtered a Rat.
+10/9/25 8:06:35p You slaughtered a Rat.
+10/9/25 8:06:36p You slaughtered a Rat.
+10/9/25 8:06:37p You slaughtered a Rat.
+10/9/25 8:06:39p •You notice your balance and recovery improving.
+10/9/25 8:06:49p You slaughtered a Rat.
+10/9/25 8:06:51p You slaughtered a Rat.
+10/9/25 8:06:59p You slaughtered a Rat.
+10/9/25 8:07:03p You slaughtered a Scavenger Bird.
+10/9/25 8:07:11p You slaughtered a Rat.
+10/9/25 8:07:12p You slaughtered a Rat.
+10/9/25 8:07:13p You slaughtered a Rat.
+10/9/25 8:07:14p You slaughtered a Rat.
+10/9/25 8:07:19p You slaughtered a Rat.
+10/9/25 8:07:21p You slaughtered a Rat.
+10/9/25 8:07:28p You slaughtered a Vermine.
+10/9/25 8:07:37p You slaughtered a Vermine.
+10/9/25 8:07:43p You slaughtered a Vermine.
+10/9/25 8:07:48p You slaughtered a Vermine.
+10/9/25 8:07:51p You slaughtered a Vermine.
+10/9/25 8:07:56p You begin sharing your experiences with Squib.
+10/9/25 8:07:58p Squib exclaims, "Ajahn is the best!"
+10/9/25 8:07:59p Squib is sharing experiences with you.
+10/9/25 8:08:02p Ajahn says, "squib heal me"
+10/9/25 8:08:03p •You sense healing energy from Squib.
+10/9/25 8:08:10p •You notice your balance and recovery improving.
+10/9/25 8:08:20p You have 30266 coins.
+10/9/25 8:08:20p You are no longer sharing experiences with Squib.
+10/9/25 8:08:40p You slaughtered a Rat.
+10/9/25 8:08:41p You slaughtered a Rat.
+10/9/25 8:08:53p You slaughtered a Rat.
+10/9/25 8:08:56p You slaughtered a Rat.
+10/9/25 8:09:06p You slaughtered a Rat.
+10/9/25 8:09:11p You slaughtered a Rat.
+10/9/25 8:09:13p You slaughtered a Rat.
+10/9/25 8:09:14p You slaughtered a Rat.
+10/9/25 8:09:17p You slaughtered a Rat.
+10/9/25 8:09:21p You slaughtered a Vermine.
+10/9/25 8:09:22p You slaughtered a Rat.
+10/9/25 8:09:24p You slaughtered a Vermine.
+10/9/25 8:09:25p You slaughtered a Rat.
+10/9/25 8:09:28p You slaughtered a Vermine.
+10/9/25 8:09:31p You slaughtered a Rat.
+10/9/25 8:09:40p •You notice your balance and recovery improving.
+10/9/25 8:10:08p You slaughtered a Rat.
+10/9/25 8:10:12p You slaughtered a Vermine.
+10/9/25 8:10:13p You slaughtered a Rat.
+10/9/25 8:10:13p • You experiment with a new fighting style.
+10/9/25 8:10:13p You slaughtered a Rat.
+10/9/25 8:10:18p You slaughtered a Rat.
+10/9/25 8:10:21p You slaughtered a Rat.
+10/9/25 8:10:22p You slaughtered a Rat.
+10/9/25 8:10:39p You slaughtered a Rat.
+10/9/25 8:10:41p You slaughtered a Rat.
+10/9/25 8:10:45p You slaughtered a Rat.
+10/9/25 8:10:48p You slaughtered a Rat.
+10/9/25 8:10:53p You slaughtered a Rat.
+10/9/25 8:10:54p You slaughtered a Rat.
+10/9/25 8:10:54p You slaughtered a Rat.
+10/9/25 8:10:57p You slaughtered a Rat.
+10/9/25 8:10:59p You slaughtered a Rat.
+10/9/25 8:11:02p You slaughtered a Rat.
+10/9/25 8:11:03p You slaughtered a Rat.
+10/9/25 8:11:05p You have 30266 coins.
+10/9/25 8:11:11p •You notice your balance and recovery improving.
+10/9/25 8:11:21p You slaughtered a Rat.
+10/9/25 8:11:30p You slaughtered a Rat.
+10/9/25 8:11:32p You slaughtered a Rat.
+10/9/25 8:11:37p You slaughtered a Rat.
+10/9/25 8:11:42p You slaughtered a Rat.
+10/9/25 8:11:46p You slaughtered a Rat.
+10/9/25 8:11:48p You slaughtered a Rat.
+10/9/25 8:11:50p You slaughtered a Rat.
+10/9/25 8:11:58p You slaughtered a Rat.
+10/9/25 8:12:03p You slaughtered a Rat.
+10/9/25 8:12:11p You slaughtered a Rat.
+10/9/25 8:12:17p You slaughtered a Rat.
+10/9/25 8:12:18p You slaughtered a Rat.
+10/9/25 8:12:19p You slaughtered a Rat.
+10/9/25 8:12:22p You slaughtered a Rat.
+10/9/25 8:12:23p You slaughtered a Rat.
+10/9/25 8:12:26p You slaughtered a Rat.
+10/9/25 8:12:38p Finn Orak says, "It seems the dangers grow in proportion to our population."
+10/9/25 8:12:41p •You notice your balance and recovery improving.
+10/9/25 8:12:46p You slaughtered a Rat.
+10/9/25 8:12:51p You slaughtered a Rat.
+10/9/25 8:12:59p You slaughtered a Rat.
+10/9/25 8:13:10p You slaughtered a Rat.
+10/9/25 8:13:25p You slaughtered a Rat.
+10/9/25 8:13:27p You slaughtered a Rat.
+10/9/25 8:13:42p You slaughtered a Vermine.
+10/9/25 8:13:47p You slaughtered a Rat.
+10/9/25 8:13:48p You slaughtered a Rat.
+10/9/25 8:13:49p You slaughtered a Rat.
+10/9/25 8:13:50p You have 30266 coins.
+10/9/25 8:13:51p You slaughtered a Rat.
+10/9/25 8:13:52p You slaughtered a Rat.
+10/9/25 8:13:55p You slaughtered a Rat.
+10/9/25 8:14:10p You slaughtered a Vermine.
+10/9/25 8:14:12p •You notice your balance and recovery improving.
+10/9/25 8:14:19p You slaughtered a Rat.
+10/9/25 8:14:34p You slaughtered a Vermine.
+10/9/25 8:14:34p You slaughtered a Vermine.
+10/9/25 8:14:36p You slaughtered a Rat.
+10/9/25 8:14:37p You slaughtered a Rat.
+10/9/25 8:14:37p You slaughtered a Rat.
+10/9/25 8:14:44p You slaughtered a Rat.
+10/9/25 8:14:45p You slaughtered a Rat.
+10/9/25 8:14:49p You slaughtered a Vermine.
+10/9/25 8:14:50p You slaughtered a Vermine.
+10/9/25 8:14:51p You slaughtered a Vermine.
+10/9/25 8:14:52p You slaughtered a Rat.
+10/9/25 8:14:53p You slaughtered a Rat.
+10/9/25 8:14:55p You slaughtered a Vermine.
+10/9/25 8:14:58p You slaughtered a Rat.
+10/9/25 8:15:06p You slaughtered a Rat.
+10/9/25 8:15:12p You slaughtered a Rat.
+10/9/25 8:15:19p You slaughtered a Darshak Thug.
+10/9/25 8:15:21p Princess growls, "Zzzzzz."
+10/9/25 8:15:22p Princess tucks her nose under her tail and begins napping.
+10/9/25 8:15:41p You slaughtered a Rat.
+10/9/25 8:15:42p •You notice your balance and recovery improving.
+10/9/25 8:15:44p You slaughtered a Rat.
+10/9/25 8:15:47p You slaughtered a Rat.
+10/9/25 8:15:50p You slaughtered a Rat.
+10/9/25 8:15:56p You slaughtered a Rat.
+10/9/25 8:15:57p You slaughtered a Rat.
+10/9/25 8:16:00p You slaughtered a Rat.
+10/9/25 8:16:02p You slaughtered a Rat.
+10/9/25 8:16:03p You slaughtered a Rat.
+10/9/25 8:16:05p You slaughtered a Rat.
+10/9/25 8:16:08p You slaughtered a Rat.
+10/9/25 8:16:11p You slaughtered a Rat.
+10/9/25 8:16:12p You slaughtered a Rat.
+10/9/25 8:16:24p You slaughtered a Rat.
+10/9/25 8:16:35p You have 30266 coins.
+10/9/25 8:17:13p •You notice your balance and recovery improving.
+10/9/25 8:17:13p You slaughtered a Rat.
+10/9/25 8:17:21p You slaughtered a Rat.
+10/9/25 8:17:22p You slaughtered a Rat.
+10/9/25 8:17:24p You slaughtered a Rat.
+10/9/25 8:17:28p You slaughtered a Rat.
+10/9/25 8:17:29p You slaughtered a Rat.
+10/9/25 8:17:29p You slaughtered a Rat.
+10/9/25 8:17:30p You slaughtered a Rat.
+10/9/25 8:17:33p You slaughtered a Rat.
+10/9/25 8:17:33p You slaughtered a Rat.
+10/9/25 8:17:37p You slaughtered a Rat.
+10/9/25 8:17:55p You slaughtered a Vermine.
+10/9/25 8:18:26p You slaughtered a Rat.
+10/9/25 8:18:29p Finn Orak says, "The Orga haven't been attacking as much recently."
+10/9/25 8:18:39p You slaughtered a Rat.
+10/9/25 8:18:43p •You notice your balance and recovery improving.
+10/9/25 8:18:43p You slaughtered a Rat.
+10/9/25 8:18:51p You slaughtered a Rat.
+10/9/25 8:18:52p You slaughtered a Rat.
+10/9/25 8:19:05p You slaughtered a Vermine.
+10/9/25 8:19:09p You slaughtered a Vermine.
+10/9/25 8:19:12p You slaughtered a Rat.
+10/9/25 8:19:15p You slaughtered a Rat.
+10/9/25 8:19:16p You slaughtered a Rat.
+10/9/25 8:19:20p You have 30266 coins.
+10/9/25 8:19:23p You slaughtered a Rat.
+10/9/25 8:19:36p You slaughtered a Vermine.
+10/9/25 8:19:38p You slaughtered a Rat.
+10/9/25 8:19:42p You slaughtered a Rat.
+10/9/25 8:19:47p You slaughtered a Rat.
+10/9/25 8:19:48p You slaughtered a Rat.
+10/9/25 8:19:50p You slaughtered a Rat.
+10/9/25 8:19:54p You slaughtered a Rat.
+10/9/25 8:20:14p •You notice your balance and recovery improving.
+10/9/25 8:20:39p You slaughtered a Rat.
+10/9/25 8:21:04p You slaughtered a Rat.
+10/9/25 8:21:07p You slaughtered a Vermine.
+10/9/25 8:21:12p You slaughtered a Rat.
+10/9/25 8:21:15p You slaughtered a Rat.
+10/9/25 8:21:25p You slaughtered an Ona Chigger.
+10/9/25 8:21:34p You slaughtered a Rat.
+10/9/25 8:21:36p You slaughtered a Rat.
+10/9/25 8:21:38p You slaughtered a Rat.
+10/9/25 8:21:45p •You notice your balance and recovery improving.
+10/9/25 8:21:46p You slaughtered a Rat.
+10/9/25 8:21:47p You slaughtered a Rat.
+10/9/25 8:21:48p You slaughtered a Rat.
+10/9/25 8:21:50p You slaughtered a Rat.
+10/9/25 8:21:51p You slaughtered a Rat.
+10/9/25 8:21:53p You slaughtered a Rat.
+10/9/25 8:21:56p You slaughtered a Rat.
+10/9/25 8:22:00p You slaughtered a Rat.
+10/9/25 8:22:05p You have 30266 coins.
+10/9/25 8:22:29p Dor Bendle says, "Welcome to the Fighter training area, Ajahn. Go on inside."
+10/9/25 8:22:29p Dor Bendle says, "Welcome to the Fighter training area, Ajahn. Go on inside."
+10/9/25 8:22:34p Swengus says, "Hail, Ajahn."
+10/9/25 8:22:34p Swengus bows.
+10/9/25 8:22:36p Swengus says, "You show great devotion to your studies."
+10/9/25 8:22:36p * Swengus : 600-649.
+10/9/25 8:22:37p Swengus says, "I can teach you to keep your balance while attacking."
+10/9/25 8:22:37p Swengus says, "You will learn as you practice."
+10/9/25 8:23:15p •You notice your balance and recovery improving.
+10/9/25 8:24:46p •You notice your balance and recovery improving.
+10/9/25 8:24:58p You have 30266 coins.
+10/9/25 8:26:16p •You notice your balance and recovery improving.
+10/9/25 8:27:47p •You notice your balance and recovery improving.
+10/9/25 8:28:00p You have 30266 coins.
+10/9/25 8:29:17p •You notice your balance and recovery improving.
+10/9/25 8:30:06p (Yriss-Tsin waves)
+10/9/25 8:30:48p •You notice your balance and recovery improving.
+10/9/25 8:31:00p You have 30266 coins.
+10/9/25 8:31:32p Honor thinks, "Congratulations go out to Yriss-Tsin, who has just passed the fourth circle fighter test."
+10/9/25 8:32:18p •You notice your balance and recovery improving.
+10/9/25 8:33:21p •You gain experience.
+10/9/25 8:33:49p •You notice your balance and recovery improving.
+10/9/25 8:34:04p You have 30266 coins.
+10/9/25 8:34:18p • /SLEEP when you wish to begin studying.
+10/9/25 8:34:22p Use \SLEEP again when you return.
+10/9/25 8:34:22p You are done adventuring for a while and will be staying here.
+10/9/25 8:34:23p You have been disconnected 

@@ -1,0 +1,674 @@
+
+1/2/25 11:21:55a * Your shirt named “Lime Green” is in very good condition.
+1/2/25 11:21:55a * Your pair of pants named “Lime Green” is in very good condition.
+1/2/25 11:21:55a * Your pair of shoes named “red” is in very good condition.
+1/2/25 11:21:55a Welcome to Clan Lord, Magnic!
+1/2/25 11:21:55a Type \HELP for a list of commands.
+1/2/25 11:21:55a • You gain experience from your recent studies.
+1/2/25 11:21:55a Type /ranger for commands if you forget
+1/2/25 11:21:55a Magnic is now Clanning.
+1/2/25 11:21:55a You have been studying for one day, 12 hours, one minute.
+1/2/25 11:21:58a It's 8:51pm on Terrdi, day 29 of Winter, 640.
+1/2/25 11:21:58a Friends online: none.
+1/2/25 11:21:59a There are three members of Black Phoenix clanning: Magnic II, Mimo and you.
+1/2/25 11:21:59a • What’s New: https://deltatao.com/clanlord/news
+1/2/25 11:22:01a Mimo is no longer Clanning.
+1/2/25 11:22:09a * Tip of the day: Select your purse and type /DROP <amount> to drop a pile of coins. (Use /OPTIONS to turn tips off.)
+1/2/25 11:22:25a You equip your gossamer.
+1/2/25 11:22:30a You found a bundle of wheat!
+1/2/25 11:22:31a You found a bundle of wheat!
+1/2/25 11:22:49a Magnic yells, "?"
+1/2/25 11:23:00a You slaughtered an Ona Chigger.
+1/2/25 11:23:02a Magnic yells, "?"
+1/2/25 11:23:03a You slaughtered a Grey Feral.
+1/2/25 11:23:03a * You recover the Grey Feral fur, worth 1c. Your share is 1c.
+1/2/25 11:23:03a You slaughtered a Rat.
+1/2/25 11:23:04a You slaughtered a Rat.
+1/2/25 11:23:10a You slaughtered a Large Vermine.
+1/2/25 11:23:11a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/2/25 11:23:14a Magnic yells, "?"
+1/2/25 11:23:16a You slaughtered a Feral.
+1/2/25 11:23:16a * You recover the Feral fur, worth 2c. Your share is 2c.
+1/2/25 11:23:18a You slaughtered a Large Vermine.
+1/2/25 11:23:18a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/2/25 11:23:19a You slaughtered an Orga.
+1/2/25 11:23:21a You slaughtered an Orc.
+1/2/25 11:23:26a Magnic yells, "?"
+1/2/25 11:23:28a You slaughtered a Large Vermine.
+1/2/25 11:23:29a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/2/25 11:23:34a You slaughtered an Island Panther.
+1/2/25 11:23:34a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/2/25 11:23:38a Magnic yells, "?"
+1/2/25 11:23:39a You slaughtered an Ona Chigger.
+1/2/25 11:23:41a You slaughtered an Artak Cougar.
+1/2/25 11:23:41a * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+1/2/25 11:23:43a You slaughtered a Large Vermine.
+1/2/25 11:23:44a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/2/25 11:23:45a You slaughtered a Large Vermine.
+1/2/25 11:23:45a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/2/25 11:23:45a You slaughtered a Brown Feral.
+1/2/25 11:23:53a You slaughtered a Grey Feral.
+1/2/25 11:23:54a * You recover the Grey Feral fur, worth 2c. Your share is 2c.
+1/2/25 11:23:55a You slaughtered an Island Panther.
+1/2/25 11:23:55a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/2/25 11:24:16a You concentrate on sending your message to Temujen.
+1/2/25 11:24:16a You think to Temujen, "muddy?"
+1/2/25 11:24:18a You slaughtered a Large Vermine.
+1/2/25 11:24:18a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/2/25 11:24:19a You slaughtered an Island Panther.
+1/2/25 11:24:19a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/2/25 11:24:21a You slaughtered an Island Panther.
+1/2/25 11:24:21a You slaughtered an Island Panther.
+1/2/25 11:24:21a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/2/25 11:24:21a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/2/25 11:24:22a You slaughtered an Island Panther.
+1/2/25 11:24:22a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/2/25 11:24:23a You slaughtered a Large Vermine.
+1/2/25 11:24:23a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/2/25 11:24:23a You slaughtered an Island Panther.
+1/2/25 11:24:23a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/2/25 11:24:24a You slaughtered a Large Vermine.
+1/2/25 11:24:24a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/2/25 11:24:24a You slaughtered a Large Vermine.
+1/2/25 11:24:24a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/2/25 11:24:24a You slaughtered a Grey Feral.
+1/2/25 11:24:25a * You recover the Grey Feral fur, worth 4c. Your share is 4c.
+1/2/25 11:24:25a You slaughtered a Grey Feral.
+1/2/25 11:24:25a * You recover the Grey Feral fur, worth 3c. Your share is 3c.
+1/2/25 11:24:26a You slaughtered an Island Panther.
+1/2/25 11:24:26a You slaughtered a Large Vermine.
+1/2/25 11:24:26a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/2/25 11:24:26a You slaughtered a Vermine.
+1/2/25 11:24:26a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/2/25 11:24:27a You slaughtered a Grey Feral.
+1/2/25 11:24:27a Suu'ub III thinks, "anyone on the Temujen case yet?"
+1/2/25 11:24:28a A monster growls, "Kill!"
+1/2/25 11:24:29a You slaughtered an Orga Berserk.
+1/2/25 11:24:30a You slaughtered an Island Panther.
+1/2/25 11:24:30a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/2/25 11:24:31a You slaughtered a Grey Feral.
+1/2/25 11:24:34a Magnic thinks, "where?"
+1/2/25 11:24:36a You slaughtered an Orga.
+1/2/25 11:24:36a You slaughtered a Grey Feral.
+1/2/25 11:24:36a * You recover the Grey Feral fur, worth 3c. Your share is 3c.
+1/2/25 11:24:37a You slaughtered a Herpetad.
+1/2/25 11:24:37a You slaughtered an Artak Cougar.
+1/2/25 11:24:37a You slaughtered a Large Vermine.
+1/2/25 11:24:37a * For recovering the fur, you gain experience.
+1/2/25 11:24:37a * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+1/2/25 11:24:37a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/2/25 11:24:38a You slaughtered an Artak Cougar.
+1/2/25 11:24:38a * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+1/2/25 11:24:38a You slaughtered a Large Vermine.
+1/2/25 11:24:39a You slaughtered an Artak Cougar.
+1/2/25 11:24:39a * You pick up 10 coins.
+1/2/25 11:24:39a * You gain experience.
+1/2/25 11:24:40a * For recovering the fur, you gain experience.
+1/2/25 11:24:40a * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+1/2/25 11:24:40a You slaughtered a Brown Feral.
+1/2/25 11:24:40a You slaughtered a Large Vermine.
+1/2/25 11:24:41a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/2/25 11:24:41a You slaughtered a Large Vermine.
+1/2/25 11:24:41a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/2/25 11:24:41a You slaughtered a Herpetid.
+1/2/25 11:24:46a You slaughtered an Orga Warrior.
+1/2/25 11:24:52a You slaughtered a Rodán Panther.
+1/2/25 11:24:52a * You recover the Rodán Panther fur, worth 1c. Your share is 1c.
+1/2/25 11:24:52a You slaughtered an Artak Cougar.
+1/2/25 11:24:55a You slaughtered a Rat.
+1/2/25 11:24:56a You slaughtered a Giant Vermine.
+1/2/25 11:24:56a * You recover the Giant Vermine fur, worth 3c. Your share is 3c.
+1/2/25 11:24:56a You slaughtered an Island Panther.
+1/2/25 11:24:56a * You recover the Island Panther fur, worth 7c. Your share is 7c.
+1/2/25 11:24:56a You slaughtered an Island Panther.
+1/2/25 11:24:57a * You recover the Island Panther fur, worth 5c. Your share is 5c.
+1/2/25 11:24:58a You slaughtered an Island Panther.
+1/2/25 11:24:58a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/2/25 11:25:02a Shakyamuni thinks, "Somewhere a grey feral"
+1/2/25 11:25:02a You slaughtered an Artak Cougar.
+1/2/25 11:25:03a You slaughtered a Grey Feral.
+1/2/25 11:25:04a * You recover the Grey Feral fur, worth 1c. Your share is 1c.
+1/2/25 11:25:05a You slaughtered a Feral.
+1/2/25 11:25:05a * You recover the Feral fur, worth 1c. Your share is 1c.
+1/2/25 11:25:14a You slaughtered an Ona Chigger.
+1/2/25 11:25:16a You slaughtered an Island Panther.
+1/2/25 11:25:16a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+1/2/25 11:25:21a You slaughtered an Island Panther.
+1/2/25 11:25:21a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/2/25 11:25:22a You slaughtered an Island Panther.
+1/2/25 11:25:22a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/2/25 11:25:30a Giben is now Clanning.
+1/2/25 11:25:31a Magnic yells, "?"
+1/2/25 11:25:32a You slaughtered a Grey Feral.
+1/2/25 11:25:40a Your throat is still hoarse from the last yell.
+1/2/25 11:25:41a Magnic yells, "?"
+1/2/25 11:25:44a You slaughtered a Giant Vermine.
+1/2/25 11:25:44a * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+1/2/25 11:25:44a You slaughtered a Feral.
+1/2/25 11:25:45a You slaughtered a Grey Feral.
+1/2/25 11:25:48a You slaughtered a Giant Vermine.
+1/2/25 11:25:49a * You recover the Giant Vermine fur, worth 3c. Your share is 3c.
+1/2/25 11:25:50a You slaughtered a Giant Vermine.
+1/2/25 11:25:54a Suu'ub III thinks, "he toggled for E of town"
+1/2/25 11:26:01a Magnic yells, "?"
+1/2/25 11:26:04a You slaughtered a Rat.
+1/2/25 11:26:10a Your throat is still hoarse from the last yell.
+1/2/25 11:26:11a You slaughtered a Brown Feral.
+1/2/25 11:26:11a * You recover the Brown Feral fur, worth 2c. Your share is 2c.
+1/2/25 11:26:11a Your throat is still hoarse from the last yell.
+1/2/25 11:26:13a Magnic yells, "?"
+1/2/25 11:26:16a You slaughtered an Orga.
+1/2/25 11:26:17a You slaughtered a Giant Vermine.
+1/2/25 11:26:18a You slaughtered a Grey Feral.
+1/2/25 11:26:18a * You recover the Grey Feral fur, worth 4c. Your share is 4c.
+1/2/25 11:26:21a You slaughtered an Orga.
+1/2/25 11:26:21a Your throat is still hoarse from the last yell.
+1/2/25 11:26:22a Your throat is still hoarse from the last yell.
+1/2/25 11:26:23a Magnic yells, "?"
+1/2/25 11:26:25a You slaughtered an Orga.
+1/2/25 11:26:26a You slaughtered an Orga.
+1/2/25 11:26:26a You slaughtered an Orga.
+1/2/25 11:26:26a You slaughtered an Island Panther.
+1/2/25 11:26:26a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/2/25 11:26:33a Your throat is still hoarse from the last yell.
+1/2/25 11:26:34a Magnic yells, "?"
+1/2/25 11:26:39a You slaughtered a Vermine.
+1/2/25 11:26:39a * You recover the Vermine fur, worth 1c. Your share is 1c.
+1/2/25 11:26:41a You slaughtered a Feral.
+1/2/25 11:26:42a * You recover the Feral fur, worth 1c. Your share is 1c.
+1/2/25 11:26:42a You slaughtered a Feral.
+1/2/25 11:26:52a You slaughtered a Feral.
+1/2/25 11:26:52a * You recover the Feral fur, worth 3c. Your share is 3c.
+1/2/25 11:26:54a You slaughtered a Giant Vermine.
+1/2/25 11:26:55a * For recovering the fur, you gain experience.
+1/2/25 11:26:55a * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+1/2/25 11:26:57a You slaughtered a Rat.
+1/2/25 11:27:07a Magnic yells, "?"
+1/2/25 11:27:11a You slaughtered a Giant Slug.
+1/2/25 11:27:13a You slaughtered a Scavenger Bird.
+1/2/25 11:27:19a Magnic yells, "?"
+1/2/25 11:27:29a Magnic yells, "?"
+1/2/25 11:27:35a You slaughtered an Ona Chigger.
+1/2/25 11:27:39a Your throat is still hoarse from the last yell.
+1/2/25 11:27:40a You slaughtered a Vermine.
+1/2/25 11:27:40a Magnic yells, "?"
+1/2/25 11:27:44a You slaughtered an Orga Warrior.
+1/2/25 11:27:47a Your throat is still hoarse from the last yell.
+1/2/25 11:27:48a Your throat is still hoarse from the last yell.
+1/2/25 11:27:50a Your throat is still hoarse from the last yell.
+1/2/25 11:27:51a Magnic yells, "?"
+1/2/25 11:27:58a You slaughtered a Vermine.
+1/2/25 11:28:16a Magnic yells, "?"
+1/2/25 11:28:35a You slaughtered a Giant Slug.
+1/2/25 11:28:46a You concentrate on sending your message to Temujen.
+1/2/25 11:28:46a You think to Temujen, "nwf?"
+1/2/25 11:28:49a You slaughtered a Vermine.
+1/2/25 11:28:49a You slaughtered a Vermine.
+1/2/25 11:28:49a You slaughtered a Rat.
+1/2/25 11:28:51a You slaughtered a Giant Vermine.
+1/2/25 11:28:51a * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+1/2/25 11:29:09a Temujen is sharing experiences with you.
+1/2/25 11:29:19a You slaughtered a Vermine.
+1/2/25 11:29:21a Magnic yells, "?"
+1/2/25 11:29:23a A monster yells, "You'll never catch me!"
+1/2/25 11:29:24a You slaughtered a Vermine.
+1/2/25 11:29:30a A monster yells, "You'll never catch me!"
+1/2/25 11:29:32a You slaughtered a Large Vermine.
+1/2/25 11:29:33a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/2/25 11:29:33a You slaughtered a Vermine.
+1/2/25 11:29:35a You slaughtered a Vermine.
+1/2/25 11:29:35a You slaughtered a Rat.
+1/2/25 11:29:43a You slaughtered a Vermine.
+1/2/25 11:29:43a You slaughtered a Rat.
+1/2/25 11:29:44a You slaughtered a Large Vermine.
+1/2/25 11:29:44a A monster yells, "Not even close!"
+1/2/25 11:29:44a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/2/25 11:29:45a You slaughtered a Vermine.
+1/2/25 11:29:45a You slaughtered a Vermine.
+1/2/25 11:29:46a You slaughtered an Island Locust.
+1/2/25 11:29:49a A monster yells, "Not even close!"
+1/2/25 11:29:51a You slaughtered a Rat.
+1/2/25 11:29:51a You slaughtered a Rat.
+1/2/25 11:29:56a A monster yells, "Give it up, you rube..."
+1/2/25 11:29:58a You slaughtered a Giant Vermine.
+1/2/25 11:29:58a * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+1/2/25 11:29:59a You slaughtered a Rat.
+1/2/25 11:30:00a You slaughtered a Vermine.
+1/2/25 11:30:00a You slaughtered a Vermine.
+1/2/25 11:30:01a You slaughtered a Vermine.
+1/2/25 11:30:12a Temujen is becoming part of the scenery, since falling to a Grey Feral.
+1/2/25 11:30:14a You slaughtered a Rat.
+1/2/25 11:30:24a You slaughtered a Rat.
+1/2/25 11:30:59a You slaughtered a Vermine.
+1/2/25 11:31:04a Magnic yells, "?"
+1/2/25 11:31:05a You slaughtered a Vermine.
+1/2/25 11:31:10a You slaughtered a T'rool.
+1/2/25 11:31:16a Magnic yells, "?"
+1/2/25 11:31:27a Magnic yells, "?"
+1/2/25 11:31:28a You slaughtered a Large Vermine.
+1/2/25 11:31:34a Your throat is still hoarse from the last yell.
+1/2/25 11:31:35a Temujen is no longer sharing experiences with you.
+1/2/25 11:31:38a You slaughtered a Grey Feral.
+1/2/25 11:31:39a * You recover the Grey Feral fur, worth 3c. Your share is 3c.
+1/2/25 11:31:39a You slaughtered a Large Vermine.
+1/2/25 11:31:39a Magnic yells, "?"
+1/2/25 11:31:41a You slaughtered a Large Vermine.
+1/2/25 11:31:41a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/2/25 11:31:41a You slaughtered a Giant Vermine.
+1/2/25 11:31:51a Temujen is sharing experiences with you.
+1/2/25 11:31:52a You slaughtered a Large Vermine.
+1/2/25 11:31:52a You slaughtered a Grey Feral.
+1/2/25 11:31:52a * You recover the Grey Feral fur, worth 2c. Your share is 2c.
+1/2/25 11:31:54a You slaughtered a Feral.
+1/2/25 11:32:03a You slaughtered a Rat.
+1/2/25 11:32:17a You slaughtered a Giant Vermine.
+1/2/25 11:32:19a You slaughtered a Large Vermine.
+1/2/25 11:32:19a * For recovering the fur, you gain experience.
+1/2/25 11:32:19a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/2/25 11:32:20a You slaughtered a Feral.
+1/2/25 11:32:20a * You recover the Feral fur, worth 3c. Your share is 3c.
+1/2/25 11:32:21a You slaughtered a Large Vermine.
+1/2/25 11:32:21a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/2/25 11:32:28a Vrouxius thinks, "looking"
+1/2/25 11:32:31a Shobaffum is now Clanning.
+1/2/25 11:32:36a You concentrate on sending your message to Temujen.
+1/2/25 11:32:36a You think to Temujen, "nwf?"
+1/2/25 11:32:39a You slaughtered a Large Vermine.
+1/2/25 11:32:40a You slaughtered a Grey Feral.
+1/2/25 11:32:40a * You recover the Grey Feral fur, worth 4c. Your share is 4c.
+1/2/25 11:32:46a Magnic yells, "?"
+1/2/25 11:32:50a You slaughtered a Large Vermine.
+1/2/25 11:32:51a You slaughtered a Grey Feral.
+1/2/25 11:32:51a * You recover the Grey Feral fur, worth 2c. Your share is 2c.
+1/2/25 11:32:52a You slaughtered a Rat.
+1/2/25 11:32:54a You slaughtered a Grey Feral.
+1/2/25 11:32:54a * You recover the Grey Feral fur, worth 1c. Your share is 1c.
+1/2/25 11:32:58a Magnic yells, "?"
+1/2/25 11:33:01a Temujen is no longer sharing experiences with you.
+1/2/25 11:33:03a You slaughtered a Grey Feral.
+1/2/25 11:33:04a You slaughtered a Grey Feral.
+1/2/25 11:33:04a You slaughtered a Grey Feral.
+1/2/25 11:33:05a * You recover the Grey Feral fur, worth 1c. Your share is 1c.
+1/2/25 11:33:05a You slaughtered a Giant Vermine.
+1/2/25 11:33:05a * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+1/2/25 11:33:05a You slaughtered a Grey Feral.
+1/2/25 11:33:05a * You recover the Grey Feral fur, worth 5c. Your share is 5c.
+1/2/25 11:33:06a You slaughtered a Large Vermine.
+1/2/25 11:33:10a You slaughtered a Grey Feral.
+1/2/25 11:33:14a Magnic yells, "?"
+1/2/25 11:33:19a You slaughtered a Feral.
+1/2/25 11:33:19a * You recover the Feral fur, worth 2c. Your share is 2c.
+1/2/25 11:33:23a Your throat is still hoarse from the last yell.
+1/2/25 11:33:25a Magnic yells, "?"
+1/2/25 11:33:25a You slaughtered a Giant Vermine.
+1/2/25 11:33:25a * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+1/2/25 11:33:25a You slaughtered a Vermine.
+1/2/25 11:33:26a You slaughtered a Feral.
+1/2/25 11:33:26a * You recover the Feral fur, worth 1c. Your share is 1c.
+1/2/25 11:33:26a You slaughtered an Artak Cougar.
+1/2/25 11:33:27a You slaughtered a Vermine.
+1/2/25 11:33:27a You slaughtered an Island Panther.
+1/2/25 11:33:27a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/2/25 11:33:27a You slaughtered an Artak Cougar.
+1/2/25 11:33:28a * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+1/2/25 11:33:28a You slaughtered a Vermine.
+1/2/25 11:33:28a You slaughtered an Artak Cougar.
+1/2/25 11:33:28a You slaughtered an Artak Cougar.
+1/2/25 11:33:29a * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+1/2/25 11:33:29a * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+1/2/25 11:33:29a You slaughtered a Rat.
+1/2/25 11:33:30a You slaughtered a Rat.
+1/2/25 11:33:30a You slaughtered an Island Panther.
+1/2/25 11:33:30a You slaughtered an Artak Cougar.
+1/2/25 11:33:31a You slaughtered an Island Panther.
+1/2/25 11:33:31a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/2/25 11:33:33a You slaughtered a Rat.
+1/2/25 11:33:35a You slaughtered an Island Panther.
+1/2/25 11:33:35a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/2/25 11:33:37a You slaughtered a Vermine.
+1/2/25 11:33:38a You slaughtered an Artak Cougar.
+1/2/25 11:33:38a You slaughtered an Island Panther.
+1/2/25 11:33:39a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/2/25 11:33:39a You slaughtered a Large Vermine.
+1/2/25 11:33:40a You slaughtered an Island Panther.
+1/2/25 11:33:44a Temujen is sharing experiences with you.
+1/2/25 11:33:46a You slaughtered an Artak Cougar.
+1/2/25 11:33:46a * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+1/2/25 11:33:46a Magnic yells, "?"
+1/2/25 11:33:48a You slaughtered an Artak Cougar.
+1/2/25 11:33:48a * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+1/2/25 11:33:48a You slaughtered a Giant Vermine.
+1/2/25 11:33:48a * You recover the Giant Vermine fur, worth 3c. Your share is 3c.
+1/2/25 11:33:49a You slaughtered an Island Panther.
+1/2/25 11:33:49a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/2/25 11:33:56a You slaughtered an Orga.
+1/2/25 11:33:57a You slaughtered a Vermine.
+1/2/25 11:33:57a You slaughtered a Large Vermine.
+1/2/25 11:33:58a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/2/25 11:33:58a You slaughtered a Vermine.
+1/2/25 11:33:58a You slaughtered a Giant Vermine.
+1/2/25 11:33:58a * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+1/2/25 11:33:58a You slaughtered a Large Vermine.
+1/2/25 11:33:58a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/2/25 11:33:58a You slaughtered an Island Panther.
+1/2/25 11:33:59a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/2/25 11:33:59a You slaughtered a Maha Ruknee.
+1/2/25 11:33:59a * You recover the Maha Ruknee fur, worth 2c. Your share is 2c.
+1/2/25 11:33:59a You slaughtered an Island Panther.
+1/2/25 11:34:00a You slaughtered an Artak Cougar.
+1/2/25 11:34:00a * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+1/2/25 11:34:01a You slaughtered a Vermine.
+1/2/25 11:34:01a You slaughtered a Large Vermine.
+1/2/25 11:34:01a You slaughtered an Island Panther.
+1/2/25 11:34:01a * You recover the Island Panther fur, worth 6c. Your share is 6c.
+1/2/25 11:34:06a Magnic yells, "?"
+1/2/25 11:34:11a You slaughtered a Vermine.
+1/2/25 11:34:11a You slaughtered a Large Vermine.
+1/2/25 11:34:11a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/2/25 11:34:12a You slaughtered an Artak Cougar.
+1/2/25 11:34:12a You slaughtered an Artak Cougar.
+1/2/25 11:34:12a * You recover the Artak Cougar fur, worth 11c. Your share is 11c.
+1/2/25 11:34:12a * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+1/2/25 11:34:13a Jiro is now Clanning.
+1/2/25 11:34:14a You slaughtered an Island Panther.
+1/2/25 11:34:14a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/2/25 11:34:17a You slaughtered a Rodán Panther.
+1/2/25 11:34:18a You slaughtered a Rat.
+1/2/25 11:34:24a You slaughtered a Vermine.
+1/2/25 11:34:25a You slaughtered an Island Panther.
+1/2/25 11:34:25a You slaughtered an Island Panther.
+1/2/25 11:34:25a * You recover the Island Panther fur, worth 4c. Your share is 4c.
+1/2/25 11:34:26a You slaughtered an Island Panther.
+1/2/25 11:34:26a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/2/25 11:34:27a You slaughtered a Vermine.
+1/2/25 11:34:32a You slaughtered an Island Panther.
+1/2/25 11:34:32a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+1/2/25 11:34:34a Magnic yells, "?"
+1/2/25 11:34:38a You slaughtered a Grey Feral.
+1/2/25 11:34:38a * You recover the Grey Feral fur, worth 1c. Your share is 1c.
+1/2/25 11:34:38a You slaughtered an Island Panther.
+1/2/25 11:34:39a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/2/25 11:34:42a You slaughtered an Artak Cougar.
+1/2/25 11:34:48a You slaughtered an Island Panther.
+1/2/25 11:34:48a * You recover the Island Panther fur, worth 4c. Your share is 4c.
+1/2/25 11:34:48a You slaughtered a Large Vermine.
+1/2/25 11:34:48a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/2/25 11:34:48a You slaughtered a Large Vermine.
+1/2/25 11:34:49a You slaughtered a Vermine.
+1/2/25 11:34:50a You slaughtered a Large Vermine.
+1/2/25 11:34:52a You slaughtered a Winged Snake.
+1/2/25 11:34:52a You slaughtered an Island Panther.
+1/2/25 11:34:54a You slaughtered a Grey Feral.
+1/2/25 11:34:54a * You recover the Grey Feral fur, worth 4c. Your share is 4c.
+1/2/25 11:34:57a You slaughtered an Orga.
+1/2/25 11:35:00a • For meta-meteo-horological reasons, today’s storm will strike in about 15 minutes
+1/2/25 11:35:03a You slaughtered a Wendecka.
+1/2/25 11:35:08a You slaughtered a Grey Feral.
+1/2/25 11:35:08a * You recover the Grey Feral fur, worth 3c. Your share is 3c.
+1/2/25 11:35:08a You slaughtered an Island Panther.
+1/2/25 11:35:08a * You recover the Island Panther fur, worth 6c. Your share is 6c.
+1/2/25 11:35:09a You slaughtered a Brown Feral.
+1/2/25 11:35:09a * You recover the Brown Feral fur, worth 5c. Your share is 5c.
+1/2/25 11:35:10a You slaughtered an Island Panther.
+1/2/25 11:35:10a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/2/25 11:35:11a You slaughtered a Feral.
+1/2/25 11:35:11a * You recover the Feral fur, worth 1c. Your share is 1c.
+1/2/25 11:35:11a You slaughtered a Grey Feral.
+1/2/25 11:35:11a * You recover the Grey Feral fur, worth 1c. Your share is 1c.
+1/2/25 11:35:13a Magnic yells, "?"
+1/2/25 11:35:16a Your throat is still hoarse from the last yell.
+1/2/25 11:35:20a You slaughtered a Giant Vermine.
+1/2/25 11:35:20a Your throat is still hoarse from the last yell.
+1/2/25 11:35:20a * You recover the Giant Vermine fur, worth 3c. Your share is 3c.
+1/2/25 11:35:20a You slaughtered an Island Panther.
+1/2/25 11:35:20a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+1/2/25 11:35:21a You slaughtered a Large Vermine.
+1/2/25 11:35:22a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/2/25 11:35:22a You slaughtered a Herpetid.
+1/2/25 11:35:22a Your throat is still hoarse from the last yell.
+1/2/25 11:35:24a Magnic yells, "?"
+1/2/25 11:35:24a Garfield is no longer Clanning.
+1/2/25 11:35:24a Your throat is still hoarse from the last yell.
+1/2/25 11:35:24a Your throat is still hoarse from the last yell.
+1/2/25 11:35:25a You slaughtered an Island Panther.
+1/2/25 11:35:25a You slaughtered an Island Panther.
+1/2/25 11:35:25a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/2/25 11:35:25a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+1/2/25 11:35:26a You slaughtered a Large Vermine.
+1/2/25 11:35:26a You slaughtered a Grey Feral.
+1/2/25 11:35:26a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/2/25 11:35:26a * You recover the Grey Feral fur, worth 2c. Your share is 2c.
+1/2/25 11:35:27a You slaughtered a Feral.
+1/2/25 11:35:27a * You recover the Feral fur, worth 1c. Your share is 1c.
+1/2/25 11:35:28a You slaughtered an Island Panther.
+1/2/25 11:35:28a * You recover the Island Panther fur, worth 6c. Your share is 6c.
+1/2/25 11:35:28a You slaughtered a Feral.
+1/2/25 11:35:28a * You recover the Feral fur, worth 2c. Your share is 2c.
+1/2/25 11:35:29a You slaughtered an Orga.
+1/2/25 11:35:30a You slaughtered a Large Vermine.
+1/2/25 11:35:35a Magnic yells, "?"
+1/2/25 11:35:35a You slaughtered an Artak Cougar.
+1/2/25 11:35:36a You slaughtered an Artak Cougar.
+1/2/25 11:35:36a * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+1/2/25 11:35:37a You slaughtered a Large Vermine.
+1/2/25 11:35:37a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/2/25 11:35:38a You slaughtered a Large Vermine.
+1/2/25 11:35:42a You slaughtered a Grey Feral.
+1/2/25 11:35:43a * You recover the Grey Feral fur, worth 1c. Your share is 1c.
+1/2/25 11:35:43a You slaughtered a Rat.
+1/2/25 11:35:43a You slaughtered a Giant Vermine.
+1/2/25 11:35:44a * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+1/2/25 11:35:46a You slaughtered a Grey Feral.
+1/2/25 11:35:47a * You recover the Grey Feral fur, worth 3c. Your share is 3c.
+1/2/25 11:35:47a You slaughtered a Large Vermine.
+1/2/25 11:35:49a You slaughtered a Large Vermine.
+1/2/25 11:35:50a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/2/25 11:35:52a You slaughtered a Rat.
+1/2/25 11:36:12a Magnic thinks, "toggle for nwf but i cant see him"
+1/2/25 11:36:12a Temujen's body has been all but forgotten, having fallen to a Grey Feral.
+1/2/25 11:36:17a You slaughtered an Artak Cougar.
+1/2/25 11:36:17a * You recover the Artak Cougar fur, worth 7c. Your share is 7c.
+1/2/25 11:36:18a You slaughtered a Feral.
+1/2/25 11:36:19a * You recover the Feral fur, worth 3c. Your share is 3c.
+1/2/25 11:36:19a You slaughtered a Large Vermine.
+1/2/25 11:36:19a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/2/25 11:36:21a Suu'ub III thinks, "he'll be saved in about 15 minutes"
+1/2/25 11:36:23a You slaughtered a Rodán Panther.
+1/2/25 11:36:33a You slaughtered a Maha Ruknee.
+1/2/25 11:36:34a * You recover the Maha Ruknee fur, worth 10c. Your share is 10c.
+1/2/25 11:37:03a Muffin Top is now Clanning.
+1/2/25 11:37:10a Reisa is no longer Clanning.
+1/2/25 11:37:11a You slaughtered a Large Vermine.
+1/2/25 11:37:11a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/2/25 11:37:11a You slaughtered a Large Vermine.
+1/2/25 11:37:12a You slaughtered a Large Vermine.
+1/2/25 11:37:12a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/2/25 11:37:13a You slaughtered an Artak Cougar.
+1/2/25 11:37:13a * You recover the Artak Cougar fur, worth 5c. Your share is 5c.
+1/2/25 11:37:13a You slaughtered an Artak Cougar.
+1/2/25 11:37:13a * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+1/2/25 11:37:14a You slaughtered an Artak Cougar.
+1/2/25 11:37:14a You slaughtered a Large Vermine.
+1/2/25 11:37:14a * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+1/2/25 11:37:14a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/2/25 11:37:18a You slaughtered a Vermine.
+1/2/25 11:37:19a You slaughtered an Island Panther.
+1/2/25 11:37:20a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/2/25 11:37:24a Temujen is no longer sharing experiences with you.
+1/2/25 11:37:52a Nuckin Futz is no longer Clanning.
+1/2/25 11:38:02a Vrouxius is no longer Clanning.
+1/2/25 11:38:08a Shobaffum thinks, "happy new years everyone!"
+1/2/25 11:38:14a TreeBeard thinks, "happy new years!"
+1/2/25 11:38:17a Katreesa thinks, "Happy New Years"
+1/2/25 11:38:17a Magnic II is no longer Clanning.
+1/2/25 11:38:19a You slaughtered a Rat.
+1/2/25 11:38:19a You slaughtered a Rat.
+1/2/25 11:38:20a You slaughtered an Island Panther.
+1/2/25 11:38:20a * You recover the Island Panther fur, worth 6c. Your share is 6c.
+1/2/25 11:38:20a You slaughtered a Large Vermine.
+1/2/25 11:38:21a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/2/25 11:38:21a You slaughtered an Artak Cougar.
+1/2/25 11:38:21a * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+1/2/25 11:38:22a You slaughtered a Rat.
+1/2/25 11:38:24a You slaughtered a Herpetad.
+1/2/25 11:38:27a You slaughtered a Rat.
+1/2/25 11:38:39a You concentrate on sending your message to Temujen.
+1/2/25 11:38:39a You think to Temujen, "nwf beach?"
+1/2/25 11:38:42a Lifesaver is no longer Clanning.
+1/2/25 11:38:46a Temujen is sharing experiences with you.
+1/2/25 11:38:46a You slaughtered a Large Vermine.
+1/2/25 11:38:47a You slaughtered a Rat.
+1/2/25 11:38:48a You slaughtered a Feral.
+1/2/25 11:38:48a You slaughtered a Rat.
+1/2/25 11:38:48a * You recover the Feral fur, worth 1c. Your share is 1c.
+1/2/25 11:38:53a Temujen is no longer sharing experiences with you.
+1/2/25 11:39:17a You slaughtered a Herpetad.
+1/2/25 11:39:19a You slaughtered a Deadly Adder.
+1/2/25 11:39:22a You slaughtered an Island Panther.
+1/2/25 11:39:22a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+1/2/25 11:39:28a Magnic yells, "?"
+1/2/25 11:39:30a You slaughtered an Island Panther.
+1/2/25 11:39:31a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+1/2/25 11:39:31a You slaughtered a Rat.
+1/2/25 11:39:31a You slaughtered a Rat.
+1/2/25 11:39:34a You slaughtered a Rat.
+1/2/25 11:39:35a You slaughtered an Island Panther.
+1/2/25 11:39:35a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/2/25 11:39:37a You slaughtered a Deadly Adder.
+1/2/25 11:39:37a You slaughtered a Herpetid.
+1/2/25 11:39:38a You slaughtered a Scavenger Bird.
+1/2/25 11:39:39a You slaughtered a Herpetid.
+1/2/25 11:39:39a You mumble.
+1/2/25 11:39:40a You slaughtered an Island Panther.
+1/2/25 11:39:40a You slaughtered a Carrion Arachne.
+1/2/25 11:39:41a You slaughtered a Herpetid.
+1/2/25 11:39:55a Omega thinks, "what there will be double HP!?"
+1/2/25 11:40:20a Omega thinks, "come you can do it!"
+1/2/25 11:40:45a You don't seem to see Temujen anywhere near here.
+1/2/25 11:41:07a You slaughtered a Rat.
+1/2/25 11:41:07a You slaughtered a Herpetad.
+1/2/25 11:41:15a You fall over in a heap.
+1/2/25 11:41:23a Nuckin Futz is now Clanning.
+1/2/25 11:41:34a You feel able to move again.
+1/2/25 11:42:13a You slaughtered a Rat.
+1/2/25 11:42:17a You slaughtered a Herpetad.
+1/2/25 11:42:59a Blaque Smith is now Clanning.
+1/2/25 11:43:20a You slaughtered a Vermine.
+1/2/25 11:43:20a * You recover the Vermine fur, worth 1c. Your share is 1c.
+1/2/25 11:43:21a You slaughtered a Vermine.
+1/2/25 11:43:22a You slaughtered a Deadly Adder.
+1/2/25 11:43:27a You slaughtered a Rat.
+1/2/25 11:43:28a You slaughtered a Bat.
+1/2/25 11:43:30a Sikophit is no longer Clanning.
+1/2/25 11:43:33a You slaughtered a Herpetad.
+1/2/25 11:43:38a You slaughtered a Scavenger Bird.
+1/2/25 11:43:44a You slaughtered a Herpetid.
+1/2/25 11:44:14a *** We are no longer connected to the Clan Lord game server. ***
+1/2/25 11:44:26a You fall over in a heap.
+1/2/25 11:44:26a Welcome back, Magnic!
+1/2/25 11:44:27a Type /ranger for commands if you forget
+1/2/25 11:44:30a Friends online: none.
+1/2/25 11:44:42a You feel able to move again.
+1/2/25 11:45:07a Mr Pudding is now Clanning.
+1/2/25 11:45:09a You slaughtered a Vermine.
+1/2/25 11:45:28a Suu'ub III thinks, "Temujen feels his spirit drifting away in Jannar's Grove, his body fallen to a Grey Feral."
+1/2/25 11:45:47a Cecil thinks, "he will be templed in a few min"
+1/2/25 11:45:54a Suu'ub III thinks, "mystery solved, wherever that is, but yeah."
+1/2/25 11:45:55a Magnic thinks, "i odnt have the pf for that"
+1/2/25 11:46:04a You slaughtered a Herpetad.
+1/2/25 11:46:04a You slaughtered a Herpetad.
+1/2/25 11:46:13a You fall over in a heap.
+1/2/25 11:46:31a You feel able to move again.
+1/2/25 11:46:51a You concentrate on sending your message to Temujen.
+1/2/25 11:46:51a You think to Temujen, "thats north east forest, not NWF"
+1/2/25 11:47:00a Lucero is now Clanning.
+1/2/25 11:47:04a Temujen is sharing experiences with you.
+1/2/25 11:47:24a You slaughtered a Rat.
+1/2/25 11:47:26a You slaughtered a Rat.
+1/2/25 11:47:27a You slaughtered a Herpetad.
+1/2/25 11:47:29a Use \SLEEP again when you return.
+1/2/25 11:47:31a Fortuna is now Clanning.
+1/2/25 11:47:33a Use \SLEEP again when you return.
+1/2/25 11:47:36a Use \SLEEP again when you return.
+1/2/25 11:47:38a Use \SLEEP again when you return.
+1/2/25 11:47:40a Use \SLEEP again when you return.
+1/2/25 11:47:42a Use \SLEEP again when you return.
+1/2/25 11:47:45a Use \SLEEP again when you return.
+1/2/25 11:47:46a Use \SLEEP again when you return.
+1/2/25 11:47:47a Use \SLEEP again when you return.
+1/2/25 11:47:48a Use \SLEEP again when you return.
+1/2/25 11:47:49a Use \SLEEP again when you return.
+1/2/25 11:47:52a Use \SLEEP again when you return.
+1/2/25 11:47:55a Use \SLEEP again when you return.
+1/2/25 11:47:57a Use \SLEEP again when you return.
+1/2/25 11:47:58a Use \SLEEP again when you return.
+1/2/25 11:47:58a Use \SLEEP again when you return.
+1/2/25 11:48:11a Fortuna thinks, "did somebody lose a bear in town?"
+1/2/25 11:48:12a Temujen feels his spirit drifting away in Jannar's Grove, his body fallen to a Grey Feral.
+1/2/25 11:48:24a You slaughtered a Rat.
+1/2/25 11:48:33a You slaughtered a Rat.
+1/2/25 11:48:34a You slaughtered a Rat.
+1/2/25 11:48:50a You slaughtered a Rat.
+1/2/25 11:48:57a You slaughtered a Rat.
+1/2/25 11:48:57a You slaughtered a Rat.
+1/2/25 11:48:58a You slaughtered a Rat.
+1/2/25 11:49:00a You slaughtered a Rat.
+1/2/25 11:49:00a You slaughtered a Rat.
+1/2/25 11:49:07a Magnic says, "Hic."
+1/2/25 11:49:08a You mumble.
+1/2/25 11:49:11a You slaughtered a Herpetid.
+1/2/25 11:49:11a You fall over in a heap.
+1/2/25 11:49:26a Aurian is now Clanning.
+1/2/25 11:49:27a You feel able to move again.
+1/2/25 11:49:34a • The news for v1414 is now available at https://deltatao.com/clanlord/news/ The chaos storm will strike in about 5 minutes. Afterwards, all necessary files should be downloaded automatically.
+1/2/25 11:49:39a Azzurra is now Clanning.
+1/2/25 11:50:24a Palmeri is now Clanning.
+1/2/25 11:50:57a You slaughtered a Rat.
+1/2/25 11:51:09a You slaughtered a Vermine.
+1/2/25 11:51:12a Temujen feels his spirit drifting away in Jannar's Grove, his body fallen to a Grey Feral.
+1/2/25 11:51:19a You slaughtered a Scavenger Bird.
+1/2/25 11:51:19a You slaughtered a Rat.
+1/2/25 11:51:21a You slaughtered a Scavenger Bird.
+1/2/25 11:51:38a Magnic says, "Hic."
+1/2/25 11:51:45a You slaughtered a Scavenger Bird.
+1/2/25 11:51:58a • The news for v1414 is now available at https://deltatao.com/clanlord/news/ The chaos storm will strike in about 2 minutes. Afterwards, all necessary files should be downloaded automatically.
+1/2/25 11:51:59a •••
+1/2/25 11:51:59a You have been idle for too long.
+1/2/25 11:51:59a Please do something to avoid being disconnected.
+1/2/25 11:51:59a •••
+1/2/25 11:52:25a You slaughtered a Rat.
+1/2/25 11:52:29a Azzurra is no longer Clanning.
+1/2/25 11:52:37a You slaughtered a Scavenger Bird.
+1/2/25 11:52:41a You slaughtered a Rat.
+1/2/25 11:52:45a You slaughtered a Rat.
+1/2/25 11:52:49a •Shutting down in one minute. Please disconnect at your convenience.
+1/2/25 11:52:50a You slaughtered a Rat.
+1/2/25 11:52:52a You slaughtered a Scavenger Bird.
+1/2/25 11:53:10a Muffin Top thinks, "aaaaaaaAAAAAAAAArr! its the end of the world!"
+1/2/25 11:53:10a Mr Pudding thinks, "tag tag tag"
+1/2/25 11:53:17a You slaughtered an Island Panther.
+1/2/25 11:53:17a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/2/25 11:53:18a You slaughtered a Vermine.
+1/2/25 11:53:18a •Shutting down in thirty seconds. Please disconnect at your convenience.
+1/2/25 11:53:19a You slaughtered a Carnivorous Tor.
+1/2/25 11:53:21a You slaughtered a Bluli.
+1/2/25 11:53:23a You slaughtered a Vermine.
+1/2/25 11:53:24a You slaughtered a Vermine.
+1/2/25 11:53:24a You slaughtered a Vermine.
+1/2/25 11:53:28a You slaughtered a Vermine.
+1/2/25 11:53:28a Jiro is no longer Clanning.
+1/2/25 11:53:30a Mr Pudding thinks, "sltr sltr sltr"
+1/2/25 11:53:32a You slaughtered a Rat.
+1/2/25 11:53:33a You slaughtered an Orga.
+1/2/25 11:53:33a •Shutting down in fifteen seconds. Please disconnect at your convenience.
+1/2/25 11:53:34a You slaughtered a Vermine.
+1/2/25 11:53:39a You slaughtered a Vermine.
+1/2/25 11:53:40a You slaughtered an Island Panther.
+1/2/25 11:53:40a You slaughtered a Vermine.
+1/2/25 11:53:41a You slaughtered a Vermine.
+1/2/25 11:53:41a You slaughtered a Giant Vermine.
+1/2/25 11:53:42a * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+1/2/25 11:53:44a •Shutting down now. Please disconnect at your convenience.
+1/2/25 11:53:45a You slaughtered a Vermine.
+1/2/25 11:53:45a Mr Pudding thinks, "we win!!!!"
+1/2/25 11:53:48a *** We are no longer connected to the Clan Lord game server. ***

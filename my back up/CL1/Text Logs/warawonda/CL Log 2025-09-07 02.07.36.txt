@@ -1,0 +1,2848 @@
+
+9/7/25 2:07:37a * Your cloak named “silk” is in nearly perfect condition.
+9/7/25 2:07:37a * Your pair of pants named “gold” is in nearly perfect condition.
+9/7/25 2:07:37a * Your shirt named “Midsummer Maha” is in nearly perfect condition.
+9/7/25 2:07:37a * Your pair of shoes named “glossy white” is in nearly perfect condition.
+9/7/25 2:07:37a Welcome to Clan Lord, Warawonda!
+9/7/25 2:07:37a Type \HELP for a list of commands.
+9/7/25 2:07:37a • You have been charged 112 coins for advanced studies.
+9/7/25 2:07:37a • You gain experience from your recent studies.
+9/7/25 2:07:37a Warawonda is now Clanning.
+9/7/25 2:07:37a You have been studying for 3 days, 16 hours, 25 minutes.
+9/7/25 2:07:37a Friends online: Warawonda.
+9/7/25 2:07:40a It's 8:09pm on Lundi, day 52 of Autumn, 642.
+9/7/25 2:07:41a There are two members of Black Phoenix clanning: Ceara and you.
+9/7/25 2:07:41a • What’s New: https://deltatao.com/clanlord/news
+9/7/25 2:07:51a * Tip of the day: Buy low, sell high. (Use /OPTIONS to turn tips off.)
+9/7/25 2:08:12a •You better comprehend the ways of ether.
+9/7/25 2:08:18a Ajahn is now Clanning.
+9/7/25 2:08:18a Ajahn has been studying for 2 hours, 30 minutes.
+9/7/25 2:08:26a *Auto Trade Zero ON!
+9/7/25 2:08:30a • Ajahn offers you a long-stemmed rose for free.
+9/7/25 2:08:30a To accept, \BUY 0 Ajahn.
+9/7/25 2:08:31a * Accepted Item From: Ajahn. 
+9/7/25 2:08:31a Ajahn hands you a long-stemmed rose.
+9/7/25 2:08:42a • Ajahn offers you an ethercle for free.
+9/7/25 2:08:42a To accept, \BUY 0 Ajahn.
+9/7/25 2:08:43a * Accepted Item From: Ajahn. 
+9/7/25 2:08:43a Ajahn hands you an ethercle.
+9/7/25 2:08:48a Ajahn is done adventuring for a while and will be studying here.
+9/7/25 2:08:50a Ajahn is no longer Clanning.
+9/7/25 2:09:12a ZipLock is now Clanning.
+9/7/25 2:09:34a • ZipLock offers you a Wumpa gourd for free.
+9/7/25 2:09:34a To accept, \BUY 0 ZipLock.
+9/7/25 2:09:34a * Accepted Item From: ZipLock. 
+9/7/25 2:09:34a ZipLock hands you a Wumpa gourd.
+9/7/25 2:09:46a ZipLock is no longer Clanning.
+9/7/25 2:10:02a Mimo is now Clanning.
+9/7/25 2:10:15a Mimo is no longer Clanning.
+9/7/25 2:10:31a Samagina is now Clanning.
+9/7/25 2:10:31a Samagina has been studying for 24 days, 8 hours, 2 minutes.
+9/7/25 2:10:40a • Samagina offers you a cluster of togron nuts for free.
+9/7/25 2:10:40a To accept, \BUY 0 Samagina.
+9/7/25 2:10:40a * Accepted Item From: Samagina. 
+9/7/25 2:10:40a Samagina hands you a cluster of togron nuts.
+9/7/25 2:10:49a You have 8635 coins.
+9/7/25 2:10:54a Samagina is done adventuring for a while and will be studying here.
+9/7/25 2:10:56a Samagina is no longer Clanning.
+9/7/25 2:11:04a Talin is now Clanning.
+9/7/25 2:11:39a Grando is now Clanning.
+9/7/25 2:11:46a Grando is no longer Clanning.
+9/7/25 2:12:13a Jesmaina is now Clanning.
+9/7/25 2:12:27a • Jesmaina offers you Your marsh lantern is going to fall apart as soon as you touch it. for free.
+9/7/25 2:12:27a To accept, \BUY 0 Jesmaina.
+9/7/25 2:12:27a * Accepted Item From: Jesmaina. 
+9/7/25 2:12:27a Jesmaina hands you a marsh lantern.
+9/7/25 2:12:31a • Jesmaina offers you a cabus leaf for free.
+9/7/25 2:12:31a To accept, \BUY 0 Jesmaina.
+9/7/25 2:12:31a * Accepted Item From: Jesmaina. 
+9/7/25 2:12:32a Jesmaina hands you a cabus leaf.
+9/7/25 2:12:35a • Jesmaina offers you a bluli spore for free.
+9/7/25 2:12:35a To accept, \BUY 0 Jesmaina.
+9/7/25 2:12:35a * Accepted Item From: Jesmaina. 
+9/7/25 2:12:35a Jesmaina hands you a bluli spore.
+9/7/25 2:12:46a Jesmaina is no longer Clanning.
+9/7/25 2:13:06a Vylarian says, "and only 1850 ranks so lots of boostus to go"
+9/7/25 2:13:09a Thrain ponders, "unless you are cecil, then its CM forever"
+9/7/25 2:13:14a Ravenstorm says, "if you arent sure what to train..always go swengus or evus for bonus"
+9/7/25 2:13:15a * The bag of holding allows you to store additional items.
+9/7/25 2:13:15a * You can currently hold a maximum of 5 items.
+9/7/25 2:13:15a * /add : add selected item to your bag
+9/7/25 2:13:15a * /list : lists the contents of your bag.
+9/7/25 2:13:15a * /remove <name of item> : Remove the specified item from your bag, or the oldest item if nothing is specified.
+9/7/25 2:13:15a * Hot tip: Remove also checks custom item names. It returns the first partial match, but you can /remove /exact <name> to force an exact match.
+9/7/25 2:13:22a (Vylarian nods)
+9/7/25 2:13:25a * You have 5 items. They are: 
+9/7/25 2:13:25a * Darkstone (no power)
+9/7/25 2:13:25a * Org Cage
+9/7/25 2:13:25a * Die
+9/7/25 2:13:25a * Bead Necklace
+9/7/25 2:13:25a * Treasure Jar
+9/7/25 2:13:26a Talin is no longer Clanning.
+9/7/25 2:13:28a Ravenstorm says, "and its about feel"
+9/7/25 2:13:32a Ravenstorm says, "we can preach numbers and all that"
+9/7/25 2:13:39a Vylarian says, "well once i fine tune some more base stats, its going to be a lot of bangus and farly"
+9/7/25 2:13:40a Brisk exclaims, "vibe training, am I right?!"
+9/7/25 2:13:40a Ravenstorm says, "but youre the one clicking yourself..and its always based on feel and play style"
+9/7/25 2:13:45a Ravenstorm says, "correct Brisk"
+9/7/25 2:13:45a * You feel mentally enhanced by Valadorei...
+9/7/25 2:13:53a (Brisk chuckles wildly)
+9/7/25 2:14:02a Brisk says, "skibidi Raven, wd"
+9/7/25 2:14:05a You have 8635 coins.
+9/7/25 2:14:09a * You start rummaging through your bag...
+9/7/25 2:14:10a * You pull your treasure jar from your bag of holding.
+9/7/25 2:14:18a Ravenstorm says, "bangus rules but it will cap you at 3.9 swings"
+9/7/25 2:14:21a Brisk says, "no cap lets rizz to the library for some aura points"
+9/7/25 2:14:24a Shadowmutt growls, "Grrr."
+9/7/25 2:14:27a Brisk yells, "Brr!"
+9/7/25 2:14:32a * You add your fishing rod to your bag of holding.
+9/7/25 2:14:38a Brisk is no longer Clanning.
+9/7/25 2:14:38a Vylarian asks, "so extra swengus i assume?"
+9/7/25 2:14:43a Nisse is now Clanning.
+9/7/25 2:14:43a Tuzar Bloodblade is now Clanning.
+9/7/25 2:14:43a Fury is now Clanning.
+9/7/25 2:14:44a Zhargon is now Clanning.
+9/7/25 2:14:47a Glaurung is now Clanning.
+9/7/25 2:14:51a Shadowmutt growls, "Grrr."
+9/7/25 2:14:54a Ravenstorm says, "yes"
+9/7/25 2:14:55a Omega is sharing experiences with you.
+9/7/25 2:15:09a Ravenstorm says, "personally i have been training swengus with some regia sprinkled in for awhile now"
+9/7/25 2:15:11a Shobaffum is now Clanning.
+9/7/25 2:15:14a Ravenstorm says, "before i train some goss and darktur"
+9/7/25 2:15:16a Gro is now Clanning.
+9/7/25 2:15:24a Vylarian asks, "how much goss do you have?"
+9/7/25 2:15:30a Ravenstorm says, "you have to always plan ahead with with the balance training so you dont cut off your nose"
+9/7/25 2:15:39a Ravenstorm says, "400 maybe"
+9/7/25 2:15:39a (Vylarian nods)
+9/7/25 2:15:43a Ilonos is now Clanning.
+9/7/25 2:15:45a Ravenstorm says, "but i am core rank focused"
+9/7/25 2:15:55a Ravenstorm says, "i need to train some goss and get a couple studies"
+9/7/25 2:15:59a Ravenstorm says, "but been delaying bc of group hunts"
+9/7/25 2:16:05a Ravenstorm says, "otherwise i would train darktur and goss right now"
+9/7/25 2:16:16a Ravenstorm says, "but that wouldnt be good for the hunting groups..unless its fane blastmode"
+9/7/25 2:16:21a Vylarian says, "well you can probably solo get studies you need"
+9/7/25 2:16:28a You equip your Staff of Ballou.
+9/7/25 2:16:28a Ravenstorm says, "correct"
+9/7/25 2:16:28a You slip your Staff of Ballou into your backpack.
+9/7/25 2:16:32a Koppi yells, "News yeller, here! Get your news, make the news, tell the world!"
+9/7/25 2:16:38a Ravenstorm says, "i dont need studies honestly..i have the ones i need atm"
+9/7/25 2:16:41a Ravenstorm says, "maybe need frost ele"
+9/7/25 2:16:46a Ravenstorm says, "but my morphs tag well"
+9/7/25 2:16:53a Ravenstorm says, "otissa and pumpkin"
+9/7/25 2:16:56a Vylarian asks, "do you have any ranger trainer ledgers?"
+9/7/25 2:16:59a Ravenstorm says, "and my base form"
+9/7/25 2:17:04a Ravenstorm says, "yes"
+9/7/25 2:17:16a Ravenstorm says, "You currently hold ledgers from these trainers: Evus, Balthus, Swengus, Master Bodrus, Regia, Atkia, Detha, Atkus, Angilsa, Bangus Anmash, Aktur, Histia, Darkus, Knox, Darktur, Farly Buff."
+9/7/25 2:17:19a You have 8635 coins.
+9/7/25 2:17:35a Shadowmutt growls, "Grrr."
+9/7/25 2:17:52a Vylarian asks, "can i train aktur with you even though i am only 3rd circle?"
+9/7/25 2:17:59a Shadowmutt growls, "Grrr."
+9/7/25 2:18:01a Ravenstorm says, "maybe not but lets find out"
+9/7/25 2:18:02a Ravenstorm says, "share me pls"
+9/7/25 2:18:15a Shadowmutt growls, "Grrr."
+9/7/25 2:18:20a * Your mental enhancement fades.
+9/7/25 2:18:20a Shadowmutt growls, "Woof!"
+9/7/25 2:18:27a Ravenstorm says, "• Vylarian is unable to train in your specialty yet."
+9/7/25 2:18:34a Vylarian says, "yeah figured"
+9/7/25 2:18:36a Ravenstorm says, "but soon"
+9/7/25 2:18:59a Captain Barnac asks, "Ah, Warawonda. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+9/7/25 2:19:00a Warawonda whispers, "yes"
+9/7/25 2:19:40a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+9/7/25 2:19:41a Thrain reels in an empty hook.
+9/7/25 2:19:41a Warawonda has fallen to a tidal surge.
+9/7/25 2:19:45a Warawonda says, "righ"
+9/7/25 2:19:45a Azriel is now Clanning.
+9/7/25 2:19:56a * Your mental enhancement fades.
+9/7/25 2:19:57a Thrain feels a tug on his line, but the fish slips free.
+9/7/25 2:20:09a Warawonda says, "try get it"
+9/7/25 2:20:17a Thrain says, "i am"
+9/7/25 2:20:26a Warawonda says, "took me a while"
+9/7/25 2:20:28a Thrain feels a tug on his line, but the fish slips free.
+9/7/25 2:20:31a You have 8630 coins.
+9/7/25 2:20:49a Thrain feels a tug on his line, but the fish slips free.
+9/7/25 2:21:00a Warawonda says, "if its not right on the tentical recasty"
+9/7/25 2:21:14a Thrain feels a tug on his line, but the fish slips free.
+9/7/25 2:21:27a Thrain's fishing pole bends nearly in two. It creaks, but doesn't break.'.
+9/7/25 2:21:43a Thrain reels in an empty hook.
+9/7/25 2:21:47a Thrain reels in an empty hook.
+9/7/25 2:22:12a Thrain feels a tug on his line, but the fish slips free.
+9/7/25 2:22:32a Phroon is now Clanning.
+9/7/25 2:22:36a * Your mental enhancement fades.
+9/7/25 2:22:39a * Your mental enhancement fades.
+9/7/25 2:22:43a Thrain feels a tug on his line, but the fish slips free.
+9/7/25 2:22:50a Thrain says, "who designed this"
+9/7/25 2:22:57a Thrain feels a tug on his line, but the fish slips free.
+9/7/25 2:22:57a Azriel says, "hi"
+9/7/25 2:23:00a Thrain says, "hiya"
+9/7/25 2:23:04a Thrain says, "this is the worst thing ive ever done"
+9/7/25 2:23:06a Balangar is now Clanning.
+9/7/25 2:23:09a Thrain says, "and i fished in wow"
+9/7/25 2:23:09a Warawonda says, "it works fine if you have low ping"
+9/7/25 2:23:10a Azriel says, "lol"
+9/7/25 2:23:18a Azriel says, "yeah lag kills it"
+9/7/25 2:23:19a Thrain feels a tug on his line, but the fish slips free.
+9/7/25 2:23:24a Warawonda says, "we have like 300 ms"
+9/7/25 2:23:41a Azriel says, "like ocean currents. hate hate that. or that wind on sonmbrions"
+9/7/25 2:23:43a You have 8630 coins.
+9/7/25 2:23:46a Thrain feels a tug on his line, but the fish slips free.
+9/7/25 2:24:15a Thrain feels a tug on his line, but the fish slips free.
+9/7/25 2:24:25a Thrain says, "i dont know if i even want the pack space anymore"
+9/7/25 2:24:29a Azriel says, "lol"
+9/7/25 2:24:30a Warawonda says, "hehe"
+9/7/25 2:24:33a Thrain feels a tug on his line, but the fish slips free.
+9/7/25 2:24:41a Warawonda says, "there is a rumor of a second one as well"
+9/7/25 2:24:45a Azriel says, "I'm told theres a sound cue too, but I use sound off"
+9/7/25 2:24:47a Thrain feels a tug on his line, but the fish slips free.
+9/7/25 2:24:52a Warawonda says, "but its harder to find"
+9/7/25 2:24:56a Thrain says, "there is, but it doesnt seem to matter"
+9/7/25 2:25:04a Thrain reels in a friendly mimic!!!
+9/7/25 2:25:07a Thrain says, "finally"
+9/7/25 2:25:09a Azriel says, "whoot"
+9/7/25 2:25:10a Thrain says, "asshole"
+9/7/25 2:25:13a Warawonda says, "sound que come after if you have lag"
+9/7/25 2:25:14a (Azriel laughs)
+9/7/25 2:25:14a Thrain says, "stupid squid"
+9/7/25 2:25:19a Thrain starts dragging you.
+9/7/25 2:25:23a Thrain says, "good luck"
+9/7/25 2:25:26a Azriel reels in an empty hook.
+9/7/25 2:25:36a Thrain says, "15-20 mins is apparently not bad"
+9/7/25 2:25:38a Azriel reels in an empty hook.
+9/7/25 2:25:40a Garr is now Clanning.
+9/7/25 2:26:09a Warawonda says, "hehe"
+9/7/25 2:26:43a Puddleby Beautification made possibly by Kalian the Tawny
+9/7/25 2:26:43a Koppi yells, "News yeller, here! Get your news, make the news, tell the world!"
+9/7/25 2:26:53a You have 8630 coins.
+9/7/25 2:26:55a •You sense healing energy from Balangar.
+9/7/25 2:26:58a Thrain says, "selling mystic corpse"
+9/7/25 2:26:58a (Vylarian nods)
+9/7/25 2:26:58a You begin sharing your experiences with Balangar.
+9/7/25 2:27:01a Ravenstorm says, "haha"
+9/7/25 2:27:02a Thrain says, "makes a decent rug"
+9/7/25 2:27:04a 'SHCADS' is not a recognized command.
+9/7/25 2:27:07a Garr is no longer Clanning.
+9/7/25 2:27:08a Shadowmutt growls, "Zzzzzz."
+9/7/25 2:27:08a Balangar exclaims, "nice, I want one !"
+9/7/25 2:27:08a * You feel mentally enhanced by Valadorei...
+9/7/25 2:27:09a Satris is now Clanning.
+9/7/25 2:27:12a 'SHCAD' is not a recognized command.
+9/7/25 2:27:13a Ravenstorm says, "okay be back in 30"
+9/7/25 2:27:28a Shadowmutt awakens, startled.
+9/7/25 2:27:33a Ravenstorm says, "Vy if you have questions feel free to reach out anytime here or in discord"
+9/7/25 2:27:38a Vylarian asks, "you sticking around for lore tour?"
+9/7/25 2:27:44a Vylarian says, "k will do sir"
+9/7/25 2:27:51a Vylarian says, "appreciate the mentoring"
+9/7/25 2:27:59a Ravenstorm says, "i will try to help and if I dont know or think someone has better knowledge on the subject I will make sure you get in contact with them or tell you who to refer too"
+9/7/25 2:28:11a Ravenstorm says, "ya"
+9/7/25 2:28:13a Ravenstorm says, "i will be here"
+9/7/25 2:28:24a Vylarian ponders, "isn't it always like free ranks for the ubers?"
+9/7/25 2:28:24a Thrain ponders, "woo i can /bag now"
+9/7/25 2:28:24a Ravenstorm says, "just need a break and want to take advantage of the lib exp for 25 min"
+9/7/25 2:28:31a Ravenstorm says, "grats Thrain"
+9/7/25 2:28:33a Ravenstorm says, "just keep in mind"
+9/7/25 2:28:36a Thrain says, "it wasnt worth it"
+9/7/25 2:28:39a Ravenstorm says, "if you put in keys or what not"
+9/7/25 2:28:39a Thrain says, "fishing sucks"
+9/7/25 2:28:45a Satris is no longer Clanning.
+9/7/25 2:28:46a Ravenstorm says, "that you cant use them when in bag"
+9/7/25 2:28:47a Garr is now Clanning.
+9/7/25 2:28:54a Ravenstorm says, "so for example if you need pass key"
+9/7/25 2:28:58a Ravenstorm says, "but its in the bag it wont work"
+9/7/25 2:29:01a Ravenstorm says, "has to be out of bag"
+9/7/25 2:29:05a Thrain says, "ah"
+9/7/25 2:29:12a Ravenstorm says, "i put chain and stuff in the bag"
+9/7/25 2:29:15a Thrain says, "maybe ill put my book in there"
+9/7/25 2:29:15a Vylarian says, "ok, i'll see you a bit"
+9/7/25 2:29:15a Ravenstorm says, "or pots"
+9/7/25 2:29:17a (Vylarian waves)
+9/7/25 2:29:19a Ravenstorm says, "ya"
+9/7/25 2:29:20a Thrain shows his book titled 'Go The $#@! To Detha' to Ravenstorm.
+9/7/25 2:29:30a Ravenstorm says, "haha nice"
+9/7/25 2:29:35a Ravenstorm says, "okay be back in 20"
+9/7/25 2:29:53a Ravenstorm is no longer Clanning.
+9/7/25 2:30:05a You have 8630 coins.
+9/7/25 2:30:35a 'SHCAD' is not a recognized command.
+9/7/25 2:30:37a * Sharecads is now on.
+9/7/25 2:31:46a (Phroon thooms.)
+9/7/25 2:32:11a Haven is now Clanning.
+9/7/25 2:33:19a * Your mental enhancement fades.
+9/7/25 2:33:27a You have 8630 coins.
+9/7/25 2:33:32a Ilonos is no longer Clanning.
+9/7/25 2:33:58a Haven is no longer Clanning.
+9/7/25 2:34:43a Crius yells, "It’s 10 o’clock, and all’s well."
+9/7/25 2:34:48a Crius yells, "There’s good hunting in Puddleby."
+9/7/25 2:35:10a Anduin Lothar is no longer Clanning.
+9/7/25 2:35:14a Ceara is no longer Clanning.
+9/7/25 2:35:15a Malakar is now Clanning.
+9/7/25 2:35:41a Cecil is no longer Clanning.
+9/7/25 2:35:57a Firespark is now Clanning.
+9/7/25 2:36:00a * Your mental enhancement fades.
+9/7/25 2:36:19a Malakar is no longer Clanning.
+9/7/25 2:36:21a You have 8630 coins.
+9/7/25 2:36:54a Koppi yells, "News yeller, here! Get your news, make the news, tell the world!"
+9/7/25 2:37:01a Firespark is no longer Clanning.
+9/7/25 2:38:40a * Your mental enhancement fades.
+9/7/25 2:38:55a Nyarlathotep is now Clanning.
+9/7/25 2:39:16a You have 8630 coins.
+9/7/25 2:40:27a Onashi is now Clanning.
+9/7/25 2:40:44a (Onashi waves)
+9/7/25 2:41:21a * Your mental enhancement fades.
+9/7/25 2:42:11a You have 8630 coins.
+9/7/25 2:43:06a Pookoiko is now Clanning.
+9/7/25 2:44:02a * Your mental enhancement fades.
+9/7/25 2:44:11a You just received anonymous good karma.
+9/7/25 2:45:01a Nyarlathotep's caged tor looks sad.
+9/7/25 2:45:03a Elenis Reyav says, "Yeah, I'd checked around as well with no luck."
+9/7/25 2:45:08a You have 8630 coins.
+9/7/25 2:45:16a Elenis Reyav exclaims, "Good to have more eyes always looking though!"
+9/7/25 2:45:58a Ulric is now Clanning.
+9/7/25 2:46:31a Azriel says, "thanks"
+9/7/25 2:46:41a Balangar says, "a pleasure"
+9/7/25 2:46:42a * Your mental enhancement fades.
+9/7/25 2:47:04a Balangar says, "bill to follow of course ...."
+9/7/25 2:47:05a Koppi yells, "News yeller, here! Get your news, make the news, tell the world!"
+9/7/25 2:47:35a Azriel asks, "Valadorei, would you like a soil?"
+9/7/25 2:47:36a (Elenis Reyav smiles.)
+9/7/25 2:47:39a Hashak is now Clanning.
+9/7/25 2:47:58a Hashak says, "Strim!@"
+9/7/25 2:48:03a Hashak exclaims, "I mean, hi!"
+9/7/25 2:48:07a Balangar exclaims, "Strim too !"
+9/7/25 2:48:10a Ace is now Clanning.
+9/7/25 2:48:14a Ulric is no longer Clanning.
+9/7/25 2:48:19a You have 8630 coins.
+9/7/25 2:48:21a Balangar asks, "or shoudl I say "strim two" ?"
+9/7/25 2:48:31a You begin sharing your experiences with Phroon.
+9/7/25 2:48:31a You are sharing experiences with Phroon and Balangar.
+9/7/25 2:48:36a You equip your Staff of Ballou.
+9/7/25 2:48:36a Garr juggles his caged tor from one hand to the other.
+9/7/25 2:48:36a Hashak exclaims, "Strim three!"
+9/7/25 2:48:36a You slip your Staff of Ballou into your backpack.
+9/7/25 2:48:40a (Phroon grabs a pre-lore snack)
+9/7/25 2:48:42a (Garr grins)
+9/7/25 2:48:46a Ace is no longer Clanning.
+9/7/25 2:48:50a Garr says, "Hmm, maybe that's not so nice to the Tor"
+9/7/25 2:49:14a Smashak is now Clanning.
+9/7/25 2:49:23a * Your mental enhancement fades.
+9/7/25 2:49:27a Crius yells, "It’s 11 o’clock, and all’s well."
+9/7/25 2:49:30a Smashak juggles his purse and his sweet berry.
+9/7/25 2:49:32a Crius yells, "Kenzen is fallen on the coast of Metzetli Island. Healer needed. Fighters, too."
+9/7/25 2:49:36a Hashak says, "gross, stop that"
+9/7/25 2:50:06a Smashak repairs an iron breastplate.
+9/7/25 2:50:09a Smashak repairs an iron helmet.
+9/7/25 2:50:12a Smashak repairs an iron shield.
+9/7/25 2:50:28a * Your mental enhancement fades.
+9/7/25 2:50:40a Smashak asks in Dwarven, "anyone else need repairs?"
+9/7/25 2:50:55a Smashak shows a blacksmith's repair kit containing 5158c worth of supplies to everyone.
+9/7/25 2:51:07a (Smashak shrugs)
+9/7/25 2:51:15a Maxtrax is now Clanning.
+9/7/25 2:51:19a You have 8630 coins.
+9/7/25 2:51:26a Smashak is no longer Clanning.
+9/7/25 2:51:32a Maxtrax is no longer Clanning.
+9/7/25 2:52:03a * Your mental enhancement fades.
+9/7/25 2:52:05a SaintMiker is now Clanning.
+9/7/25 2:52:09a (Elenis Reyav nods.)
+9/7/25 2:52:11a (Garr nods)
+9/7/25 2:52:11a Giben is now Clanning.
+9/7/25 2:52:18a Gorvin is now Clanning.
+9/7/25 2:52:49a Anodos is now Clanning.
+9/7/25 2:53:18a Orphan is now Clanning.
+9/7/25 2:53:24a Mallow is now Clanning.
+9/7/25 2:53:29a Orphan is no longer Clanning.
+9/7/25 2:53:40a Mallow is no longer Clanning.
+9/7/25 2:53:47a (Poplar waves.)
+9/7/25 2:53:50a Anodos is no longer Clanning.
+9/7/25 2:54:15a You have 8630 coins.
+9/7/25 2:54:25a Gro is no longer Clanning.
+9/7/25 2:54:27a Eirian Caldwell is now Clanning.
+9/7/25 2:54:28a Glaurung is no longer Clanning.
+9/7/25 2:54:32a Tuzar Bloodblade is no longer Clanning.
+9/7/25 2:54:35a Fury is no longer Clanning.
+9/7/25 2:54:38a Nisse is no longer Clanning.
+9/7/25 2:54:42a Zhargon is no longer Clanning.
+9/7/25 2:54:44a * Your mental enhancement fades.
+9/7/25 2:54:57a You equip your Staff of Ballou.
+9/7/25 2:54:58a You slip your Staff of Ballou into your backpack.
+9/7/25 2:55:01a (Eirian Caldwell waves)
+9/7/25 2:55:04a Hashak says, "heya"
+9/7/25 2:55:20a SaintMiker is sharing experiences with you.
+9/7/25 2:55:55a Hashak asks, "so whats the plan today?"
+9/7/25 2:56:04a Hashak is sharing experiences with you.
+9/7/25 2:56:08a Garr asks, "murder murder murder?"
+9/7/25 2:56:16a Hashak exclaims, "kill kill kill!"
+9/7/25 2:56:19a Garr ponders, "That sounds like a good plan"
+9/7/25 2:56:20a Phroon gulps a snackerel down whole.
+9/7/25 2:56:27a Phroon ponders, "Snack"
+9/7/25 2:56:33a Hashak ponders, "good idea"
+9/7/25 2:56:37a Hashak gulps a snackerel down whole.
+9/7/25 2:56:49a * Your mental enhancement fades.
+9/7/25 2:56:49a Phroon says, "Plan for Lore Tour today is to head to Tenebrion's Island and poke around."
+9/7/25 2:56:52a Balangar asks, "so to eat or to hit ? that is the question ?"
+9/7/25 2:56:54a Eirian Caldwell says, "maybe we will spot more mimics on the way"
+9/7/25 2:57:06a Sycamore is now Clanning.
+9/7/25 2:57:08a Bronko is now Clanning.
+9/7/25 2:57:09a You have 8630 coins.
+9/7/25 2:57:12a Hashak says, "Yeah I'm worried about these mimics"
+9/7/25 2:57:16a Koppi yells, "News yeller, here! Get your news, make the news, tell the world!"
+9/7/25 2:57:25a * Your mental enhancement fades.
+9/7/25 2:57:29a Hashak asks, "sure they can turn in to bags, but can they be trusted?"
+9/7/25 2:57:33a Eirian Caldwell says, "just a tentacle waving innocently :D"
+9/7/25 2:57:40a Warawonda says, "hehe"
+9/7/25 2:57:44a Shadowfire is now Clanning.
+9/7/25 2:57:46a Wayfarer is now Clanning.
+9/7/25 2:57:47a Bronko is no longer Clanning.
+9/7/25 2:57:50a Renna is now Clanning.
+9/7/25 2:57:51a Pe Ell is now Clanning.
+9/7/25 2:57:52a Eirian Caldwell says, "the full grown ones are a little bitey"
+9/7/25 2:58:03a Phroon gulps a snackerel down whole.
+9/7/25 2:58:04a Wayfarer is no longer Clanning.
+9/7/25 2:58:05a Valadorei is sharing experiences with you.
+9/7/25 2:58:07a Daerdain is now Clanning.
+9/7/25 2:58:08a Poplar is no longer Clanning.
+9/7/25 2:58:13a (Shadowfire waves cheerily.)
+9/7/25 2:58:13a Eirian Caldwell says, "Hiya :)"
+9/7/25 2:58:18a You equip your Staff of Ballou.
+9/7/25 2:58:19a You slip your Staff of Ballou into your backpack.
+9/7/25 2:58:20a Phroon gulps a snackerel down whole.
+9/7/25 2:58:25a Daerdain says, "ber"
+9/7/25 2:58:33a Renna is no longer Clanning.
+9/7/25 2:58:33a You do not know the daw language.
+9/7/25 2:58:39a You are now speaking the dwarven language.
+9/7/25 2:58:42a Warawonda says in Dwarven, "ber"
+9/7/25 2:58:47a You are now speaking the common language.
+9/7/25 2:59:07a Daerdain is sharing experiences with you.
+9/7/25 2:59:37a Hashak ponders, "what a handsome group"
+9/7/25 2:59:44a (Eirian Caldwell grins.)
+9/7/25 3:00:04a You have 8630 coins.
+9/7/25 3:00:04a Clemence is now Clanning.
+9/7/25 3:00:05a * Your mental enhancement fades.
+9/7/25 3:00:11a * Your mental enhancement fades.
+9/7/25 3:00:15a Cecil is now Clanning.
+9/7/25 3:00:16a Thrain ponders, "alot of dwarven attendance!"
+9/7/25 3:00:21a You equip your Staff of Ballou.
+9/7/25 3:00:22a You slip your Staff of Ballou into your backpack.
+9/7/25 3:00:22a Thrain yells, "BEER!"
+9/7/25 3:00:31a (Clemence waves to Giben from afar)
+9/7/25 3:00:32a Thrain ponders, "and cecil is basically a dwarf with stilts"
+9/7/25 3:00:36a Ravenstorm is now Clanning.
+9/7/25 3:00:38a (Eirian Caldwell laughs.)
+9/7/25 3:00:41a (Elenis Reyav grins.)
+9/7/25 3:00:43a (Giben waves back to Clem..)
+9/7/25 3:00:46a Seaforth is now Clanning.
+9/7/25 3:01:11a Garr ponders, "Where oh where is Lion-O?"
+9/7/25 3:01:17a Renna is now Clanning.
+9/7/25 3:01:20a (Eirian Caldwell smiles.)
+9/7/25 3:01:23a Hashak ponders, "dang missed"
+9/7/25 3:01:24a Warawonda says, "hehe"
+9/7/25 3:01:24a Clemence says, "Hiya Gib"
+9/7/25 3:01:26a Phroon says, "So for Lore Tour today we're planning on poking around Tenebrion's Island."
+9/7/25 3:01:41a Elenis Reyav ponders, "Poke poke!"
+9/7/25 3:01:42a Seaforth exclaims, "Outstanding!"
+9/7/25 3:01:47a Renna is no longer Clanning.
+9/7/25 3:01:48a (Garr smiles)
+9/7/25 3:01:55a Garr says, "Let me know if you need more later"
+9/7/25 3:01:59a Phroon says, "A while back Lugubrion had us pulling ethereal stuff out of a big pile the darshak had built up"
+9/7/25 3:02:04a Seaforth says, "I will certainly do so"
+9/7/25 3:02:13a * Your mental enhancement fades.
+9/7/25 3:02:17a Phroon says, "We plan to check on that, for one"
+9/7/25 3:02:21a Garr ponders, "I have 17 more so it's not a problem"
+9/7/25 3:02:22a * You have 5 items. They are: 
+9/7/25 3:02:22a * Darkstone (no power)
+9/7/25 3:02:22a * Org Cage
+9/7/25 3:02:22a * Die
+9/7/25 3:02:22a * Bead Necklace
+9/7/25 3:02:22a * Fishing Rod
+9/7/25 3:02:34a Phroon says, "Also, there's talk of odd stuff around that same area."
+9/7/25 3:02:46a * Your mental enhancement fades.
+9/7/25 3:02:53a Ponyo thinks, "omw town!"
+9/7/25 3:02:55a You have 8630 coins.
+9/7/25 3:02:59a Phroon says, "I heard something about an Ethereal Accountant among other things"
+9/7/25 3:03:10a Daerdain says, "hm."
+9/7/25 3:03:12a Eirian Caldwell says, "I heard that too, from Trowl"
+9/7/25 3:03:23a (Phroon nods.)
+9/7/25 3:03:23a Shadowmutt growls, "Grrr."
+9/7/25 3:03:25a Hashak asks, "can we make him do our ethereal taxes?"
+9/7/25 3:03:35a Shadowmutt growls, "Grrr."
+9/7/25 3:03:42a Phroon says, "Something about accounts recievable"
+9/7/25 3:03:47a Hashak says, "I dont wan't the ethereal revenue agency after me (ERS)"
+9/7/25 3:03:50a (Phroon shudders.)
+9/7/25 3:03:50a Eirian Caldwell says, "I think I recall he was nagging about exiles doing theirs"
+9/7/25 3:03:55a Pe Ell says, "Time to do an audit"
+9/7/25 3:03:59a Shobaffum says, "debits and credits yay"
+9/7/25 3:04:01a (Garr stage whispers)
+9/7/25 3:04:04a Garr says, "It certainly is a shame that we're going to an island infested with Tipulids."
+9/7/25 3:04:06a Elenis Reyav ponders, "Beware the TPS reports."
+9/7/25 3:04:07a Crius yells, "It’s Midnight on Gradi, the 53rd day of Autumn in the 642nd year of the Ascendancy, and all’s well."
+9/7/25 3:04:07a • It’s Midnight on Gradi, the 53rd day of Autumn in the 642nd year of the Ascendancy, and all’s well.
+9/7/25 3:04:08a Ravenstorm asks, "we going to balance his ass?"
+9/7/25 3:04:11a Ponyo says, "oh no, so many people"
+9/7/25 3:04:11a Ponyo says, "oh no, so many people"
+9/7/25 3:04:11a Crius yells, "It looks pretty quiet in a Windspinner Monastery."
+9/7/25 3:04:12a (Eirian Caldwell laughs.)
+9/7/25 3:04:15a Hashak ponders, "EPS reports??"
+9/7/25 3:04:19a (Elenis Reyav grins.)
+9/7/25 3:04:20a Hashak exclaims, "Hey buddy!"
+9/7/25 3:04:27a LittlePrince is now Clanning.
+9/7/25 3:04:29a Eirian Caldwell ponders, "do we win a stapler"
+9/7/25 3:04:32a (Ponyo will be running back and forth for food fire preventions.)
+9/7/25 3:04:33a Ravenstorm says, "haha"
+9/7/25 3:04:35a Phroon says, "Alright, I think we've got most people here."
+9/7/25 3:04:35a Garr says, "Oh can we kill some Ethereal Scientists too? Those guys are jerks"
+9/7/25 3:04:37a Ponyo ponders, "just the first 20 minutes!"
+9/7/25 3:04:38a Cecil says, "thats my red stapler"
+9/7/25 3:04:39a SaintMiker says, "lol"
+9/7/25 3:04:42a Warawonda ponders, "red stapler"
+9/7/25 3:04:42a (Phroon nods to Garr.)
+9/7/25 3:04:42a Eirian Caldwell exclaims, "they are!"
+9/7/25 3:04:45a (Hashak chuckles)
+9/7/25 3:04:48a (Garr cheers)
+9/7/25 3:04:49a Clemence ponders, "?!"
+9/7/25 3:04:50a Seaforth found a javelin!
+9/7/25 3:04:55a (Phroon will take his coins to a competing resort.)
+9/7/25 3:04:56a SaintMiker says, "im going to burn this place down"
+9/7/25 3:04:59a Daerdain ponders, "so many healers"
+9/7/25 3:05:01a Sycamore exclaims, "TAL!"
+9/7/25 3:05:01a Elenis Reyav ponders, "Are we there yet?"
+9/7/25 3:05:04a Clemence exclaims, "Our Prince is here!"
+9/7/25 3:05:15a Phroon yells, "Lore Tour to West TI!"
+9/7/25 3:05:17a Ravenstorm says, "pls thank your healers and mystics"
+9/7/25 3:05:19a Loom'Nir says, "Greetings, Lord Garr."
+9/7/25 3:05:19a Clemence ponders, "share cads are appreciated! i touch and radius"
+9/7/25 3:05:20a Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+9/7/25 3:05:20a Phroon thinks, "Lore Tour to West TI!"
+9/7/25 3:05:25a Azriel is no longer Clanning.
+9/7/25 3:05:26a * Your mental enhancement fades.
+9/7/25 3:05:27a Puddleby Beautification made possibly by Kalian the Tawny
+9/7/25 3:05:28a You just received good karma from Eirian Caldwell, :)
+9/7/25 3:05:43a Nyarlathotep says, "yes"
+9/7/25 3:05:43a Bear Knuckle says, "Bah, away with you then, and quit wasting my time."
+9/7/25 3:05:44a Ponyo says, "yes"
+9/7/25 3:05:44a Bear Knuckle asks, "Ah, Ponyo. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+9/7/25 3:05:44a Captain Barnac asks, "Ah, Onashi. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+9/7/25 3:05:45a Ponyo says, "yes"
+9/7/25 3:05:45a Onashi growls, "yes"
+9/7/25 3:05:45a Fird Lirden asks, "Ah, Sycamore. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+9/7/25 3:05:46a Elenis Reyav growls, "aye"
+9/7/25 3:05:46a Captain Barnac asks, "Ah, Elenis Reyav. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+9/7/25 3:05:46a Sycamore says, "yes"
+9/7/25 3:05:47a You have 8630 coins.
+9/7/25 3:05:47a Bear Knuckle asks, "Ah, Warawonda. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+9/7/25 3:05:47a Elenis Reyav growls, "aye"
+9/7/25 3:05:47a Fird Lirden asks, "Ah, Eirian Caldwell. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+9/7/25 3:05:48a Captain Barnac asks, "Ah, Cecil. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+9/7/25 3:05:48a Bear Knuckle says, "Bah, away with you then, and quit wasting my time."
+9/7/25 3:05:48a Seaforth says, "On West Island Venables, born and raised"
+9/7/25 3:05:48a Cecil says, "yes"
+9/7/25 3:05:49a Cecil says, "yes"
+9/7/25 3:05:49a Eirian Caldwell says, "yes"
+9/7/25 3:05:49a Cecil says, "yes"
+9/7/25 3:05:49a Cecil says, "yes"
+9/7/25 3:05:49a Bear Knuckle asks, "Ah, Thrain. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+9/7/25 3:05:49a Bear Knuckle says, "Bah, away with you then, and quit wasting my time."
+9/7/25 3:05:50a Warawonda says, "yes"
+9/7/25 3:05:50a Bear Knuckle asks, "Ah, Warawonda. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+9/7/25 3:05:50a Fird Lirden asks, "Ah, Hashak. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+9/7/25 3:05:51a Captain Barnac asks, "Ah, Clemence. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+9/7/25 3:05:51a Hashak says, "yes"
+9/7/25 3:05:51a Clemence says, "yes"
+9/7/25 3:05:51a Garr thinks, "Watch out for those pesky Ethereal Hunters! And don't forget about the Spumes!"
+9/7/25 3:05:52a Captain Barnac asks, "Ah, Shobaffum. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+9/7/25 3:05:52a Warawonda says, "yes"
+9/7/25 3:05:53a Shobaffum says, "yes"
+9/7/25 3:05:59a Vylarian thinks, "where do we meet, fell behind"
+9/7/25 3:06:05a Phroon thinks, "Lore Tour to West TI!"
+9/7/25 3:06:11a Seaforth thinks, "ocean, est TI"
+9/7/25 3:06:13a Elenis Reyav yells, "Thing"
+9/7/25 3:06:17a Ponyo yells, "plural!"
+9/7/25 3:06:24a Hashak yells, "Root for trees!"
+9/7/25 3:06:28a Phroon yells, "Thoom!"
+9/7/25 3:06:29a Ponyo ponders, "perfect, time to check the meatballs!"
+9/7/25 3:06:32a You equip your Staff of Ballou.
+9/7/25 3:06:32a Borzon is now Clanning.
+9/7/25 3:06:32a You slip your Staff of Ballou into your backpack.
+9/7/25 3:06:33a Garr says, "These guys are jerks too"
+9/7/25 3:06:35a Bear Guard growls, "Grrr."
+9/7/25 3:06:40a SaintMiker has fallen to an Ethereal Sailor.
+9/7/25 3:06:42a The bear rumbles low in its throat.
+9/7/25 3:06:43a Valadorei has fallen to an Ethereal Sailor.
+9/7/25 3:06:53a You slip your cloak into your backpack.
+9/7/25 3:06:57a * You pick up 57 coins.
+9/7/25 3:06:57a * You gain experience.
+9/7/25 3:06:57a A monster ponders, "Reports…"
+9/7/25 3:07:01a Abox is now Clanning.
+9/7/25 3:07:04a * You pick up 27 coins.
+9/7/25 3:07:04a * You gain experience.
+9/7/25 3:07:06a Warawonda says, "hehe"
+9/7/25 3:07:13a Elenis Reyav ponders, "Beware the EPS reports!"
+9/7/25 3:07:21a SaintMiker is no longer fallen.
+9/7/25 3:07:24a Thrain growls, "Hey bearbuds"
+9/7/25 3:07:24a Bear Guard growls, "Grrr."
+9/7/25 3:07:28a Bear Guard growls, "Rrrrr?"
+9/7/25 3:07:31a The bear rumbles low in its throat.
+9/7/25 3:07:34a Onashi growls, "Rrrr indeed, Sir"
+9/7/25 3:07:35a Elenis Reyav ponders, "The Bear Dwarf family."
+9/7/25 3:07:40a Valadorei is no longer fallen.
+9/7/25 3:07:41a Bear Guard says, "/aThe bear rumbles contentedly."
+9/7/25 3:07:45a (Thrain grins)
+9/7/25 3:07:45a (Vylarian waves)
+9/7/25 3:07:46a The bear rumbles contentedly.
+9/7/25 3:07:47a (Onashi giggles)
+9/7/25 3:07:56a Onashi growls, "we gotchu, brothabear, thanks for holding down the fort"
+9/7/25 3:08:05a Ponyo ponders, "bear society is the most civilized!"
+9/7/25 3:08:08a Thrain growls, "we can handle it for a bit, you take a hibernation."
+9/7/25 3:08:09a The bear swipes playfully at Thrain and Onashi.
+9/7/25 3:08:13a * Your mental enhancement fades.
+9/7/25 3:08:15a Garr asks, "So, where to?"
+9/7/25 3:08:22a (Onashi wrassles back)
+9/7/25 3:08:23a * Your mental enhancement fades.
+9/7/25 3:08:24a The sign has been defaced and is now unreadable.
+9/7/25 3:08:26a * Your mental enhancement fades.
+9/7/25 3:08:26a Phroon says, "Maybe the temple first"
+9/7/25 3:08:28a Elenis Reyav growls, "Hey, Beardwarves, think Bear Guard may have been any additional baby mimics?"
+9/7/25 3:08:29a Hashak says, "Ask him if hes seen an accountant"
+9/7/25 3:08:31a (Garr nods)
+9/7/25 3:08:31a The sign has been defaced and is now unreadable.
+9/7/25 3:08:35a Elenis Reyav growls, "Hey, Beardwarves, think Bear Guard may have seen any additional baby mimics?"
+9/7/25 3:08:37a Seaforth is sharing experiences with you.
+9/7/25 3:08:39a You have 8709 coins.
+9/7/25 3:08:42a (Phroon peeks)
+9/7/25 3:08:45a The sign has been defaced and is now unreadable.
+9/7/25 3:08:46a Onashi growls, "I am no Dwarf, Elenis x)"
+9/7/25 3:08:50a Ponyo ponders, "onashi is a really, really tall dwarf"
+9/7/25 3:08:59a You equip your Staff of Ballou.
+9/7/25 3:08:59a You slip your Staff of Ballou into your backpack.
+9/7/25 3:09:00a * You grow more mindful.
+9/7/25 3:09:11a Dirk Deckswab exclaims, "Hear ye!"
+9/7/25 3:09:12a Dirk Deckswab exclaims, "This temple belongs to the Pirates of Lok'Groton now!"
+9/7/25 3:09:12a Dirk Deckswab exclaims, "No trespassing!"
+9/7/25 3:09:13a Ponyo exclaims, "3 dwarves in an overcoat, maybe!"
+9/7/25 3:09:16a (Shadowfire staggers a little)
+9/7/25 3:09:20a (Phroon remembers)
+9/7/25 3:09:21a Dirk Deckswab exclaims, "Hear ye!"
+9/7/25 3:09:22a Dirk Deckswab exclaims, "This temple belongs to the Pirates of Lok'Groton now!"
+9/7/25 3:09:22a Dirk Deckswab exclaims, "No trespassing!"
+9/7/25 3:09:23a Dirk Deckswab whispers, "Psst, don't spread this around, but..."
+9/7/25 3:09:23a Dirk Deckswab whispers, "The whole place is full of unstable ethereal junk."
+9/7/25 3:09:23a Dirk Deckswab whispers, "We tunneled in to clear it out but it's too dangerous."
+9/7/25 3:09:24a Dirk Deckswab whispers, "Some people are saying the ghost of Venables is down there!"
+9/7/25 3:09:24a Dirk Deckswab whispers, "Do you think you could give us a hand?"
+9/7/25 3:09:25a Dirk Deckswab shifts nervously.
+9/7/25 3:09:27a Phroon says, "Oh right, Garr reminds me the entrance is south"
+9/7/25 3:09:28a Garr yells, "hunters!"
+9/7/25 3:09:28a Valadorei has fallen to an Ethereal Sailor.
+9/7/25 3:09:28a Shadowfire ponders, "I just got the Bosun Higgs pun, wow"
+9/7/25 3:09:40a Phroon yells, "South"
+9/7/25 3:09:46a Warawonda asks, "underground tunnels?"
+9/7/25 3:09:47a Phroon says, "err"
+9/7/25 3:09:50a Phroon says, "yeah, right"
+9/7/25 3:09:54a Phroon says, "those, Warawonda"
+9/7/25 3:09:57a Garr exclaims, "In the RQ hut or down the well!"
+9/7/25 3:10:01a (Phroon nods)
+9/7/25 3:10:04a Bosun Higgs asks, "I declare, what brings you lot out here?"
+9/7/25 3:10:08a Phroon says, "I haven't been here a lot."
+9/7/25 3:10:10a Garr exclaims, "Oh hi!"
+9/7/25 3:10:16a Bosun Higgs asks, "The "science" of lasties, I suppose?"
+9/7/25 3:10:20a Warawonda thinks, "npc"
+9/7/25 3:10:22a Ponyo says, "uhm, I'm not sure, but we didn't bring any shadow instruments this time"
+9/7/25 3:10:23a (Phroon grins.)
+9/7/25 3:10:24a Garr thinks, "Come back north for a moment"
+9/7/25 3:10:32a Abox is no longer Clanning.
+9/7/25 3:10:36a Valadorei is no longer fallen.
+9/7/25 3:10:41a * Your share in the 87c Ethereal Sailor bounty is 6c.
+9/7/25 3:10:42a Phroon says, "Poking around, to be honest. Seems weirder around here than norma lately."
+9/7/25 3:10:50a * Your mental enhancement fades.
+9/7/25 3:10:53a * Your mental enhancement fades.
+9/7/25 3:10:55a Ponyo ponders, "weird, lucrative. both valid options!"
+9/7/25 3:10:57a Valadorei yells, "help"
+9/7/25 3:11:01a Ponyo exclaims, "no!"
+9/7/25 3:11:01a Garr ponders, "no"
+9/7/25 3:11:01a (Bosun Higgs nods.)
+9/7/25 3:11:04a Elenis Reyav says, "Hey fellow human."
+9/7/25 3:11:07a Ponyo says, "you're already up. all you now."
+9/7/25 3:11:09a Shobaffum says, "Vala stop being so dramatic"
+9/7/25 3:11:13a Seaforth says, "aahelps"
+9/7/25 3:11:16a Pe Ell ponders, "What do we do with an ethereal sailor, what do we do with an ethereal sailor, what do we do with an ethereal sailor early in the moooorning"
+9/7/25 3:11:16a Bosun Higgs says, "I've been doing some science of me own in this kyuem."
+9/7/25 3:11:18a You equip your Staff of Ballou.
+9/7/25 3:11:19a You slip your Staff of Ballou into your backpack.
+9/7/25 3:11:19a Pendarric is now Clanning.
+9/7/25 3:11:20a * You grow more mindful.
+9/7/25 3:11:24a Garr asks, "Oh?"
+9/7/25 3:11:24a Phroon asks, "Oh?"
+9/7/25 3:11:28a Elenis Reyav ponders, "Oo, Science"
+9/7/25 3:11:33a You have 8715 coins.
+9/7/25 3:11:35a Garr asks, "Have you found any way that might power it down?"
+9/7/25 3:11:35a Bosun Higgs says, "As you lot have been clearing Venables' old ethereal riff-raff out of the temple, it does seem to be calming down a mite."
+9/7/25 3:11:36a Clemence thinks, "okay i am back but am in first snell of ti! boss me"
+9/7/25 3:11:43a Ponyo thinks, "NORTH!"
+9/7/25 3:11:43a Onashi thinks, "North =D"
+9/7/25 3:11:47a Bosun Higgs says, "Very promising science, very promising."
+9/7/25 3:11:49a Pendarric is no longer Clanning.
+9/7/25 3:11:52a Garr says, "We've been trying to reduce the ethereal build up coming out of the temple"
+9/7/25 3:11:52a (Phroon nods.)
+9/7/25 3:11:53a (Ponyo bosses loudlu)
+9/7/25 3:11:55a (Ponyo bosses loudly)
+9/7/25 3:11:55a Clemence ponders, "sorry about that"
+9/7/25 3:11:56a Daerdain ponders, "is bosun higgs a Higgs Boson?"
+9/7/25 3:12:00a Warawonda asks, "what have you been testing?"
+9/7/25 3:12:01a LittlePrince is no longer Clanning.
+9/7/25 3:12:01a Bosun Higgs says, "We lead with our hypothesis, and then use any means to make the results match."
+9/7/25 3:12:03a Hawkeye is now Clanning.
+9/7/25 3:12:04a LittlePrince is now Clanning.
+9/7/25 3:12:10a Eirian Caldwell says, "uh"
+9/7/25 3:12:11a Warawonda asks, "oh?"
+9/7/25 3:12:12a Elenis Reyav says, "Any additional bits that we might help with.. y'know, to make a control group for your science."
+9/7/25 3:12:13a (Onashi laughs)
+9/7/25 3:12:15a Seaforth says, "No its a Boat Swain"
+9/7/25 3:12:18a Hashak ponders, "that doesnt sound right"
+9/7/25 3:12:20a Hawkeye is no longer Clanning.
+9/7/25 3:12:20a Onashi says, "that seems.. not quite correct, Sir"
+9/7/25 3:12:23a Suujr is now Clanning.
+9/7/25 3:12:26a Phroon says, "Now that's exile science."
+9/7/25 3:12:36a Bosun Higgs says, "My good bear, only one of us is a scientist. Don't tell me how to do my job."
+9/7/25 3:12:42a Warawonda says, "if tthe math check in"
+9/7/25 3:12:44a Onashi says, "Fair enough"
+9/7/25 3:12:46a Warawonda says, "hehe"
+9/7/25 3:12:47a Suujr is no longer Clanning.
+9/7/25 3:12:55a Bosun Higgs says, "We'll have this portal powered down in a jiffy."
+9/7/25 3:12:59a LittleKing is now Clanning.
+9/7/25 3:13:02a (Phroon nods.)
+9/7/25 3:13:08a Bosun Higgs says, "The best thing you can do, I'm afraid, is to keep raiding his ethereal stockpile."
+9/7/25 3:13:09a * Your mental enhancement fades.
+9/7/25 3:13:12a * Your mental enhancement fades.
+9/7/25 3:13:16a LittleKing is no longer Clanning.
+9/7/25 3:13:17a (Warawonda nods)
+9/7/25 3:13:17a Seaforth asks, "How thick is wall?"
+9/7/25 3:13:20a Elenis Reyav asks, "Is that an imperial jiffy or a lok'grotton jiffy?"
+9/7/25 3:13:21a William Purser is now Clanning.
+9/7/25 3:13:25a Warawonda says, "what about the irror"
+9/7/25 3:13:26a Thrain exclaims, "raidin' stockpiles is what i live for!"
+9/7/25 3:13:29a Phroon says, "We wanted to check on that today, see how the progress was going."
+9/7/25 3:13:32a Warawonda says, "what about the mirror"
+9/7/25 3:13:36a Garr says, "I'm trying but it's slow going"
+9/7/25 3:13:36a Bosun Higgs says, "We only use Lok'groton units here."
+9/7/25 3:13:37a William Purser is no longer Clanning.
+9/7/25 3:13:41a Eirian Caldwell ponders, "I just want to hit things"
+9/7/25 3:13:41a Elenis Reyav says, "Excellent."
+9/7/25 3:13:43a Bosun Higgs ponders, "Although I'll have to check that the lads agree."
+9/7/25 3:13:51a Bosun Higgs ponders, "That could lead to an unscheduled demolition… I hadn't considered."
+9/7/25 3:13:52a Ponyo says, "pffft. a human scientist is but an unknowing peasant, to the great bear civilization."
+9/7/25 3:14:00a Ponyo asks, "have you even *seen* the shadowspring citadel?"
+9/7/25 3:14:03a Elenis Reyav ponders, "Yeah, don't want folks using different jiffys. That could be troublesome."
+9/7/25 3:14:10a Bosun Higgs asks, "The what now?"
+9/7/25 3:14:17a Ponyo exclaims, "clearly you haven't!"
+9/7/25 3:14:20a Bosun Higgs asks, "Is it reachable through the usual channels of piracy? Rivers and seas?"
+9/7/25 3:14:25a You have 8715 coins.
+9/7/25 3:14:25a (Phroon nods.)
+9/7/25 3:14:26a • Ethereal Amulet Help:
+9/7/25 3:14:26a "\useitem EtherealAmulet" will measure ether activity in the immediate area.
+9/7/25 3:14:26a If used near an Ethereal Portal it will, depending on training, report some information about the portal.
+9/7/25 3:14:26a "\useitem EtherealAmulet \where" will report your location on the ethereal plane. Sometimes provides information when on other nearby planes.
+9/7/25 3:14:26a "\useitem EtherealAmulet \dispel" will dispel a Cloud of Ether if you are in range of one.
+9/7/25 3:14:26a "\useitem EtherealAmulet \close" will close the nearest Ethereal Portal.
+9/7/25 3:14:26a "\useitem EtherealAmulet \coalesce" will condense nearby ether to distract monsters in the immediate area.
+9/7/25 3:14:27a Eirian Caldwell ponders, "Eklenis, Giffy?"
+9/7/25 3:14:31a * You must be on the ethereal plane for the amulet to determine where it is.
+9/7/25 3:14:37a Garr exclaims, "It is if you are strong enough to row through a rough current!"
+9/7/25 3:14:38a (Eirian Caldwell can't type)
+9/7/25 3:14:39a (Bosun Higgs jots down a few notes.)
+9/7/25 3:14:43a You notice that the local ether activity is deviant.
+9/7/25 3:14:51a Bosun Higgs ponders, "Imperial… Lok'groton, check with the swabbies."
+9/7/25 3:14:54a * You feel mentally enhanced by Valadorei...
+9/7/25 3:14:55a Garr ponders, "and climb a sheer cliff face"
+9/7/25 3:14:59a The Kyuem keeps the local ether stable at a perfectly normal level.
+9/7/25 3:15:02a Bosun Higgs ponders, "Inconceivable!"
+9/7/25 3:15:10a Phroon ponders, "And sail up a waterfall…"
+9/7/25 3:15:20a Bosun Higgs asks, "There aren't any howling eels on the way there, are there?"
+9/7/25 3:15:22a Abox is now Clanning.
+9/7/25 3:15:22a Sycamore ponders, "I do not think that word means what you think it means!"
+9/7/25 3:15:31a Dandelion is now Clanning.
+9/7/25 3:15:32a Eirian Caldwell says, "that portal is open I see"
+9/7/25 3:15:34a Bosun Higgs ponders, "Does anybody want a togron nut?"
+9/7/25 3:15:40a Garr says, "I bet there's a secret tunnel though. Only a true pirate could discover it I'm sure"
+9/7/25 3:15:43a Ponyo exclaims, "lorikeet wants those!"
+9/7/25 3:15:44a Gary is now Clanning.
+9/7/25 3:15:44a Bosun Higgs says, "Yes. Yes, dash it all, for the moment."
+9/7/25 3:15:45a Elenis Reyav asks, "Howling eels.. are those like baby mimic tentacles?"
+9/7/25 3:15:47a (Phroon chuckles)
+9/7/25 3:15:53a Gorvin picks up a shadow bell.
+9/7/25 3:15:54a Elenis Reyav says, "They sounds similar."
+9/7/25 3:15:59a Shadowfire picks up a shadow bell.
+9/7/25 3:16:00a Gary is no longer Clanning.
+9/7/25 3:16:01a (Bosun Higgs spits into the ethereal portal, and splutters as it splashes back.)
+9/7/25 3:16:03a Hola is now Clanning.
+9/7/25 3:16:07a (Shadowfire giggles)
+9/7/25 3:16:09a * You recover the Ethereal Slug mandibles, worth 2c.
+9/7/25 3:16:18a Sycamore says, "That's messy"
+9/7/25 3:16:19a Garr says, "Careful getting too close to that portal. I've noticed things tend to leak out"
+9/7/25 3:16:19a Bosun Higgs says, "This portal is, in conjunction with the temple, the whole trouble."
+9/7/25 3:16:23a Bosun Higgs says, "But as I said, we'll soon have it sorted out."
+9/7/25 3:16:24a Eirian Caldwell ponders, "is that where ethereal spume is from?"
+9/7/25 3:16:27a (Elenis Reyav nods.)
+9/7/25 3:16:28a Phroon says, "Aye"
+9/7/25 3:16:30a Bosun Higgs says, "We may need to enlist you for the grand finale."
+9/7/25 3:16:31a Hola is no longer Clanning.
+9/7/25 3:16:33a Bosun Higgs says, "Of our experiment, that is."
+9/7/25 3:16:36a Walt is now Clanning.
+9/7/25 3:16:41a Warawonda says, "ooh"
+9/7/25 3:16:43a Elenis Reyav exclaims, "Oh boy. We exiles do love our grand finales!"
+9/7/25 3:16:48a Elenis Reyav exclaims, "Especially for science!"
+9/7/25 3:16:52a Walt is no longer Clanning.
+9/7/25 3:16:52a Garr ponders, "Here is one of the places they're easier to find Eirian but not the olny place"
+9/7/25 3:16:54a Bosun Higgs asks, "Baby mimic tentacles, did you say?"
+9/7/25 3:16:56a Gumby is now Clanning.
+9/7/25 3:16:57a (Elenis Reyav nods.)
+9/7/25 3:16:59a Dandelion says, "Heyers"
+9/7/25 3:17:00a Elenis Reyav says, "We're trying to do, uh, documentation on baby mimic breeding grounds."
+9/7/25 3:17:02a Seaforth says, "I volunteer Hashak for the grand experiment."
+9/7/25 3:17:04a Phroon says, "Thoom"
+9/7/25 3:17:05a Garr exclaims, "Hi Dande!"
+9/7/25 3:17:09a Ponyo exclaims, "no seaforth!"
+9/7/25 3:17:10a Bosun Higgs asks, "And do you prefer them deep fried and battered or in a stew?"
+9/7/25 3:17:11a Clemence says, "im a little frightened of all this scary creature talk"
+9/7/25 3:17:11a Ponyo exclaims, "not my buddy!"
+9/7/25 3:17:13a Gumby is no longer Clanning.
+9/7/25 3:17:16a You have 8715 coins.
+9/7/25 3:17:19a Elenis Reyav says, "That's a great question."
+9/7/25 3:17:21a Thrain says, "in a stew"
+9/7/25 3:17:27a Elenis Reyav says, "We shall have to science that."
+9/7/25 3:17:33a Bosun Higgs exclaims, "Aha!"
+9/7/25 3:17:34a (Bosun Higgs smiles broadly.)
+9/7/25 3:17:35a Warawonda asks, "do you have any knowage of the mirror in the temple?"
+9/7/25 3:17:35a Vylarian ponders, "Cecil stew"
+9/7/25 3:17:35a (Abox nods to Giben)
+9/7/25 3:17:37a Elenis Reyav says, "We'll need to find some more baby mimics to know."
+9/7/25 3:17:40a Bosun Higgs says, "An excellent plan. Do let me…"
+9/7/25 3:17:44a Elenis Reyav says, "Do some comparison testing."
+9/7/25 3:17:46a Eirian Caldwell asks, "how about smoked and wrapped in seaweed and rice?"
+9/7/25 3:17:52a Musashi is now Clanning.
+9/7/25 3:17:53a Bosun Higgs says, "Ah, they're becoming nearly common as vermine in these parts."
+9/7/25 3:17:59a Elenis Reyav exclaims, "If you spot any baby mimic tentacles.. do give us a shout!"
+9/7/25 3:18:08a Bosun Higgs says, "When I first took this job, the population was low."
+9/7/25 3:18:10a Musashi is no longer Clanning.
+9/7/25 3:18:13a Bosun Higgs says, "I imagine Venables' boys hunted them for sport."
+9/7/25 3:18:13a Charles is now Clanning.
+9/7/25 3:18:21a Bosun Higgs says, "Now they're nearly swarming."
+9/7/25 3:18:22a (Elenis Reyav frowns.)
+9/7/25 3:18:23a Charles is no longer Clanning.
+9/7/25 3:18:24a Elenis Reyav ponders, "What a waste!"
+9/7/25 3:18:27a Alchemia is now Clanning.
+9/7/25 3:18:28a Bosun Higgs says, "Coasts and rivers."
+9/7/25 3:18:34a (Elenis Reyav nods.)
+9/7/25 3:18:34a Bosun Higgs says, "I even caught one swimming in the lake by the old keep."
+9/7/25 3:18:36a Alchemia is no longer Clanning.
+9/7/25 3:18:38a You just received good karma from Clemence, :D
+9/7/25 3:18:38a Garr says, "They're welcome to swarm at me. I don't mind"
+9/7/25 3:18:39a Knoxx is now Clanning.
+9/7/25 3:18:49a Knoxx is no longer Clanning.
+9/7/25 3:18:49a Phroon says, "Huh"
+9/7/25 3:18:49a Bosun Higgs asks, "Why have you taken such an interest?"
+9/7/25 3:18:51a Eirian Caldwell ponders, "lake by the old keep"
+9/7/25 3:18:53a Metaulica is now Clanning.
+9/7/25 3:19:06a Elenis Reyav says, "We've only recently discovered their existence."
+9/7/25 3:19:16a Seaforth says, "We make handbags out of them"
+9/7/25 3:19:17a Metaulica is no longer Clanning.
+9/7/25 3:19:17a Bosun Higgs asks, "Do they fit into some grand theory of everything?"
+9/7/25 3:19:18a Sycamore exclaims, "They're very cute!"
+9/7/25 3:19:19a Thrain says, "i hear they make a great ingredient for beer snacks."
+9/7/25 3:19:23a Warawonda says, "they might help expand out pokets"
+9/7/25 3:19:26a Garr exclaims, "We found out that one of our town's illustrious storage keepers was lying this whole time!"
+9/7/25 3:19:28a Bosun Higgs says, "Handbags? Ah! Mimic leather, yes, how interesting."
+9/7/25 3:19:39a Elenis Reyav says, "Lots of potential purposes."
+9/7/25 3:19:47a Garr exclaims, "She was using a giant mimic to store all of my things!"
+9/7/25 3:19:51a Bosun Higgs says, "A dishonest merchant? For a few coppers, the pirates can arrange for them to have an "accident" at sea."
+9/7/25 3:19:53a Elenis Reyav says, "Y'know how us rangers like to study creatures left and right."
+9/7/25 3:19:57a Warawonda ponders, "new purse?"
+9/7/25 3:20:08a You have 8715 coins.
+9/7/25 3:20:09a Dandelion says, "We will handle it, tanks"
+9/7/25 3:20:16a Garr asks, "How many coppers?"
+9/7/25 3:20:18a Bosun Higgs says, "But of course."
+9/7/25 3:20:21a (Garr hates that dwarf)
+9/7/25 3:20:29a Thrain says, "speaking of having accidents... Bindra..... ;)"
+9/7/25 3:20:31a Phroon says, "We kinda need to get our stuff out first, Garr."
+9/7/25 3:20:33a * You recover the Ethereal Slug mandibles, worth 3c.
+9/7/25 3:20:34a Elenis Reyav says, "If you're looking for more piratical efforts.."
+9/7/25 3:20:37a Garr says, "Oh right right"
+9/7/25 3:20:38a Bosun Higgs says, "We can continue this over the sunstone, champion."
+9/7/25 3:20:41a Bosun Higgs asks, "Ah?"
+9/7/25 3:20:42a (Ponyo nods to Thrain!!!)
+9/7/25 3:20:43a (Dandelion nods)
+9/7/25 3:20:46a (Garr grins)
+9/7/25 3:20:53a Elenis Reyav says, "I'd even put out a bounty on reports of new baby mimic locations."
+9/7/25 3:21:05a Elenis Reyav asks, "Say.. ten thousand coins per confirmed location?"
+9/7/25 3:21:06a * Your mental enhancement fades.
+9/7/25 3:21:13a (Bosun Higgs looks intrigued.)
+9/7/25 3:21:16a (Elenis Reyav double checks his pockets.)
+9/7/25 3:21:26a Dandelion says, "Each confirmed location"
+9/7/25 3:21:32a Elenis Reyav ponders, "Yeah, I can afford that. Probably."
+9/7/25 3:21:42a Ponyo exclaims, "there's one on the shore here elenis!"
+9/7/25 3:21:42a Garr asks, "I can confirm there's one close by Elenis. Does that one count?"
+9/7/25 3:21:46a (Garr grins)
+9/7/25 3:21:57a Elenis Reyav exclaims, "Aye, just west of us!"
+9/7/25 3:21:58a Ponyo says, "garr, stop invading my 1 braincell. :("
+9/7/25 3:22:01a Bosun Higgs says, "Ten thousand coins and you clear out the temple. Come back after and I'll tell you what the scouts tell me."
+9/7/25 3:22:05a Elenis Reyav says, "That's our only major bits."
+9/7/25 3:22:08a (Phroon nods)
+9/7/25 3:22:09a Hashak says, "also one in the storage dwarves' well"
+9/7/25 3:22:10a Garr exclaims, "Great!"
+9/7/25 3:22:12a Sycamore says, "I'd like to see that"
+9/7/25 3:22:13a Elenis Reyav says, "That sounds fantastic, Bosun."
+9/7/25 3:22:14a Warawonda exclaims, "deal!"
+9/7/25 3:22:15a Phroon says, "Sounds like a plan."
+9/7/25 3:22:17a Elenis Reyav says, "Deal"
+9/7/25 3:22:21a Warawonda says, ":D"
+9/7/25 3:22:25a Garr ponders, "the storage one swam off I think"
+9/7/25 3:22:26a (Bosun Higgs clasps his hands.)
+9/7/25 3:22:32a Bosun Higgs says, "A pleasure meeting fellow scientists."
+9/7/25 3:22:35a Dandelion says, "Yay! Da clubhouse can use da basement once it's cleared"
+9/7/25 3:22:35a (Phroon smiles)
+9/7/25 3:22:35a (Garr nods)
+9/7/25 3:22:36a (Elenis Reyav firmly shakes on it.)
+9/7/25 3:22:37a Warawonda ponders, "to the temple?"
+9/7/25 3:22:39a Elenis Reyav exclaims, "Likewise!"
+9/7/25 3:22:42a Bosun Higgs says, "As I said, I'll need you back soon for the… finale."
+9/7/25 3:22:51a Bosun Higgs asks, "In a season or two, at the current rate?"
+9/7/25 3:22:52a (Garr smiles)
+9/7/25 3:22:55a Elenis Reyav exclaims, "Alright fellow exiles, let's go clear out some templing!"
+9/7/25 3:22:59a You have 8715 coins.
+9/7/25 3:23:00a Eirian Caldwell asks, "in the meantime, any sights we shouldn't miss around here?"
+9/7/25 3:23:02a Phroon says, "Ah, excellent"
+9/7/25 3:23:09a Bosun Higgs says, "Phisneyland is the happiest place in the Lok'groton."
+9/7/25 3:23:22a Bosun Higgs says, "Drake rides and snail racing. Don't miss it."
+9/7/25 3:23:27a (Eirian Caldwell chuckles.)
+9/7/25 3:23:29a Dandelion exclaims, "Snail Races!"
+9/7/25 3:23:31a You equip your Staff of Ballou.
+9/7/25 3:23:32a You slip your Staff of Ballou into your backpack.
+9/7/25 3:23:37a * Your mental enhancement fades.
+9/7/25 3:23:39a Bosun Higgs says, "If you love gambling and lost most of your money in the snail races, you can still penny ante on the poker ship to the west."
+9/7/25 3:23:54a (Phroon nods.)
+9/7/25 3:23:55a Dandelion says, "I forgot 'bout da poker ship"
+9/7/25 3:23:57a Garr says, "Be careful of Tipulids Bosun. They roam around these parts sometimes after they've escaped their plane"
+9/7/25 3:24:13a Bosun Higgs says, "I'll keep my eyes sharp. Thanks, champion."
+9/7/25 3:24:19a (Elenis Reyav smiles.)
+9/7/25 3:24:20a Bosun Higgs says, "And don't forget, let's continue that chat."
+9/7/25 3:24:20a (Garr smiles)
+9/7/25 3:24:23a (Bosun Higgs taps his forehead.)
+9/7/25 3:24:24a Phroon says, "Thanks Higgs, we'll get to clearing out the temple."
+9/7/25 3:24:30a Elenis Reyav says, "Thank you again, fellow scientist."
+9/7/25 3:24:39a Bosun Higgs exclaims, "Aye aye!"
+9/7/25 3:24:42a (Garr smiles)
+9/7/25 3:24:46a Phroon yells, "South"
+9/7/25 3:24:49a Elenis Reyav yells, "To the temple! For science!"
+9/7/25 3:25:12a Unk exclaims, "Unk dig!"
+9/7/25 3:25:22a * Your mental enhancement fades.
+9/7/25 3:25:28a Elenis Reyav finds a path hidden in the stones.
+9/7/25 3:25:31a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+9/7/25 3:25:31a Warawonda has fallen to an Ethereal Sailor.
+9/7/25 3:25:37a Unk yells, "Unk dig!"
+9/7/25 3:25:47a Clemence yells, "pf here"
+9/7/25 3:25:47a Phroon has fallen to an Ethereal Sailor.
+9/7/25 3:25:51a Thrain starts dragging you.
+9/7/25 3:25:51a Warawonda yells, "good unk!"
+9/7/25 3:25:54a You have 8715 coins.
+9/7/25 3:25:57a Ponyo finds a path hidden in the stones.
+9/7/25 3:25:58a Phroon is no longer fallen.
+9/7/25 3:26:06a Hashak says, "tight quarters"
+9/7/25 3:26:06a Clemence says, "can we make room please"
+9/7/25 3:26:10a •You sense healing energy from Balangar.
+9/7/25 3:26:14a Elenis Reyav says, "If we can, let's push south"
+9/7/25 3:26:15a Seaforth thinks, "crowded, one moment"
+9/7/25 3:26:17a Elenis Reyav says, "There's more space down there"
+9/7/25 3:26:30a (Phroon forgets the way)
+9/7/25 3:26:30a •You sense healing energy from Dandelion.
+9/7/25 3:26:31a You begin sharing your experiences with Dandelion.
+9/7/25 3:26:31a You are sharing experiences with Dandelion, Phroon and Balangar.
+9/7/25 3:26:31a •You sense healing energy from Balangar.
+9/7/25 3:26:31a Elenis Reyav says, "Bricks ahead of the rest"
+9/7/25 3:26:32a •You sense healing energy from Sycamore.
+9/7/25 3:26:32a •You sense healing energy from Hashak.
+9/7/25 3:26:32a Elenis Reyav says, "South"
+9/7/25 3:26:34a You begin sharing your experiences with Sycamore.
+9/7/25 3:26:34a You are sharing experiences with Sycamore, Dandelion, Phroon and Balangar.
+9/7/25 3:26:37a Pookoiko says, "s"
+9/7/25 3:26:37a You begin sharing your experiences with Hashak.
+9/7/25 3:26:37a You are sharing experiences with Hashak, Sycamore, Dandelion, Phroon and Balangar.
+9/7/25 3:26:38a Garr says, "South but on the other side better"
+9/7/25 3:26:40a Shadowfire says, "beep beep"
+9/7/25 3:26:40a Unk yells, "Free Puddleby!!"
+9/7/25 3:26:41a Phroon finds a hidden shortcut.
+9/7/25 3:26:43a (Garr shrugs)
+9/7/25 3:26:45a You equip your Staff of Ballou.
+9/7/25 3:26:45a You slip your Staff of Ballou into your backpack.
+9/7/25 3:26:56a * Your share in the 57c Ethereal Sailor bounty is 5c.
+9/7/25 3:26:56a Clemence thinks, "did everyone make it through the pf?"
+9/7/25 3:26:58a Phroon says, "Ah"
+9/7/25 3:27:01a Garr says, "we should kill the scientist on the other side"
+9/7/25 3:27:04a * Your mental enhancement fades.
+9/7/25 3:27:13a Dandelion thinks, "I was da last in sight"
+9/7/25 3:27:29a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+9/7/25 3:27:29a Garr turns to stone.
+9/7/25 3:27:29a Warawonda has fallen to a lightning bolt.
+9/7/25 3:27:36a Giben turns to stone.
+9/7/25 3:27:36a Garr yells, "3 peglegs"
+9/7/25 3:27:40a Abox ponders, "oh these are bad things"
+9/7/25 3:27:42a * You start rummaging through your bag...
+9/7/25 3:27:42a * You pull your darkstone from your bag of holding.
+9/7/25 3:27:46a •You sense healing energy from Balangar.
+9/7/25 3:27:49a Phroon asks, "can go n to go around, right?"
+9/7/25 3:27:52a Garr says, "yes"
+9/7/25 3:27:57a You equip your darkstone named “no power”.
+9/7/25 3:27:59a Clemence thinks, "attack by peg legs if you kept going"
+9/7/25 3:28:00a Ravenstorm asks, "nuke?"
+9/7/25 3:28:01a •You sense healing energy from Balangar.
+9/7/25 3:28:02a Ponyo says, "yes"
+9/7/25 3:28:04a Daerdain has fallen to an Enchanted Peg-Leg.
+9/7/25 3:28:07a Balangar has fallen to an Enchanted Peg-Leg.
+9/7/25 3:28:20a Dandelion says, "Murder wit impunity"
+9/7/25 3:28:35a * Your mental enhancement fades.
+9/7/25 3:28:35a Phroon yells, "North and around to get the bolter"
+9/7/25 3:28:42a Abox says, "thank you Clemence"
+9/7/25 3:28:48a You have 8720 coins.
+9/7/25 3:28:48a Clemence says, "i tried but i am wee"
+9/7/25 3:28:51a You drop your darkstone.
+9/7/25 3:28:53a You pick up a darkstone.
+9/7/25 3:29:01a SaintMiker has fallen to an Enchanted Peg-Leg.
+9/7/25 3:29:04a Hashak yells, "It is a good day for pie!"
+9/7/25 3:29:15a Sycamore says, "bala nu"
+9/7/25 3:29:16a Dandelion has fallen to a lightning bolt.
+9/7/25 3:29:18a Hashak asks, "help on clem?"
+9/7/25 3:29:26a Ravenstorm says, "i wara"
+9/7/25 3:29:26a (Abox looks for Dandelion)
+9/7/25 3:29:28a (Valadorei grins)
+9/7/25 3:29:36a Sycamore asks, "on bala?"
+9/7/25 3:29:37a Ponyo exclaims, "balangar wins so far!"
+9/7/25 3:29:38a Ravenstorm says, "pls thank your healers and mystics"
+9/7/25 3:29:48a You equip your Staff of Ballou.
+9/7/25 3:29:48a Balangar is no longer fallen.
+9/7/25 3:29:48a You slip your Staff of Ballou into your backpack.
+9/7/25 3:29:49a Clemence exclaims, "yay my horus works!!!"
+9/7/25 3:29:50a Balangar says, "nearing death"
+9/7/25 3:29:52a Phroon says, "Fighters follow me please to get bolter"
+9/7/25 3:29:58a Hashak exclaims, "Go Clem go!"
+9/7/25 3:29:59a Daboo is now Clanning.
+9/7/25 3:30:12a Clemence says, "horus and i have a great time! not as much as i would like though"
+9/7/25 3:30:17a Avalon is now Clanning.
+9/7/25 3:30:20a Sycamore asks, "maybe we should out to heal?"
+9/7/25 3:30:23a Hashak says, "He smells funny, but he knows his stuff"
+9/7/25 3:30:23a Dandelion is no longer fallen.
+9/7/25 3:30:25a Dandelion has fallen to a lightning bolt.
+9/7/25 3:30:27a Dandelion is no longer fallen.
+9/7/25 3:30:28a Dandelion has fallen to a lightning bolt.
+9/7/25 3:30:28a Sycamore says, "Oh they got it"
+9/7/25 3:30:32a You perceive that the local ether activity is abnormal.
+9/7/25 3:30:37a Hashak says, "need help on LP"
+9/7/25 3:30:39a Phroon yells, "2nd bolter"
+9/7/25 3:30:39a Daerdain is no longer fallen.
+9/7/25 3:30:40a (Abox looks worried about Dandeion)
+9/7/25 3:30:40a Nyarlathotep says, "oh cool, came back and we didnt move"
+9/7/25 3:30:41a Vylarian says, "its a dead prince"
+9/7/25 3:30:42a You discern that the local ether activity is odd.
+9/7/25 3:30:47a Ponyo ponders, "too soon!"
+9/7/25 3:30:49a * Your mental enhancement fades.
+9/7/25 3:30:51a Warawonda says, "hmm"
+9/7/25 3:30:58a (Seaforth): The marble Seaforth Monument begins to shimmer...
+9/7/25 3:31:02a Your amulet reveals that the local ether activity is freakish.
+9/7/25 3:31:04a Clemence yells, "this way i think"
+9/7/25 3:31:13a Phroon says, "raven, it's in the shadow"
+9/7/25 3:31:13a Elenis Reyav growls, "In the shadow"
+9/7/25 3:31:14a Daerdain has fallen to an Enchanted Peg-Leg.
+9/7/25 3:31:14a Shadowfire yells, "By the Burbles of the Beast!"
+9/7/25 3:31:14a Phroon says, "raven, it's in the shadow"
+9/7/25 3:31:17a Elenis Reyav yells, "BACK"
+9/7/25 3:31:18a Hashak yells, "It's Dwarfin' Time!"
+9/7/25 3:31:22a Your amulet indicates that the local ether activity is deviant.
+9/7/25 3:31:25a You feel that the local ether activity is weird.
+9/7/25 3:31:36a Daerdain says, "I faw down"
+9/7/25 3:31:36a SaintMiker says, "wow"
+9/7/25 3:31:37a Dandelion is no longer fallen.
+9/7/25 3:31:39a * Your mental enhancement fades.
+9/7/25 3:31:40a Hashak asks, "help on abox?"
+9/7/25 3:31:42a Abox ponders, "found Dandelion at least"
+9/7/25 3:31:46a You have 8720 coins.
+9/7/25 3:31:51a Hashak says, "help on Miker"
+9/7/25 3:31:54a Hashak says, "pls"
+9/7/25 3:31:59a Ponyo says, "lazy vala,"
+9/7/25 3:32:01a SaintMiker is still fallen to an Enchanted Peg-Leg.
+9/7/25 3:32:02a (Abox gives Sait the boot)
+9/7/25 3:32:02a Clemence says, "getting daer right now"
+9/7/25 3:32:03a Daerdain is no longer fallen.
+9/7/25 3:32:05a SaintMiker is no longer fallen.
+9/7/25 3:32:08a Abox ponders, "zo healing always works"
+9/7/25 3:32:19a You discern that the local ether activity is very unusual.
+9/7/25 3:32:27a Clemence ponders, "dont run from my heals"
+9/7/25 3:32:46a Balangar has fallen to a lightning bolt.
+9/7/25 3:32:47a Balangar is no longer fallen.
+9/7/25 3:32:49a Balangar has fallen to a lightning bolt.
+9/7/25 3:32:51a Balangar is no longer fallen.
+9/7/25 3:32:52a Balangar has fallen to a lightning bolt.
+9/7/25 3:32:54a Hashak says, "maybe we should kill the zappy things"
+9/7/25 3:32:54a Nyarlathotep says, "wont matter sea"
+9/7/25 3:32:59a Nyarlathotep says, "it's ignoring me"
+9/7/25 3:33:00a Balangar is no longer fallen.
+9/7/25 3:33:01a Dandelion says, "Yup"
+9/7/25 3:33:02a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+9/7/25 3:33:03a Warawonda has fallen to a lightning bolt.
+9/7/25 3:33:03a Sycamore says, "well the big people went ahead and are dead"
+9/7/25 3:33:06a •You sense healing energy from Balangar.
+9/7/25 3:33:08a Clemence yells, "okay cant stand still with the bolts coming at ya over and over again"
+9/7/25 3:33:08a Onashi says, "haha"
+9/7/25 3:33:11a Hashak says, "oh darnit"
+9/7/25 3:33:21a You perceive that the local ether activity is weird.
+9/7/25 3:33:26a You feel that the local ether activity is abnormal.
+9/7/25 3:33:28a SaintMiker has fallen to a lightning bolt.
+9/7/25 3:33:30a Balangar has fallen to a lightning bolt.
+9/7/25 3:33:39a Balangar is no longer fallen.
+9/7/25 3:33:39a Warawonda says, "should gotta a eps"
+9/7/25 3:33:41a Omega is no longer Clanning.
+9/7/25 3:33:47a Balangar has fallen to a lightning bolt.
+9/7/25 3:33:49a You feel that the local ether activity is freakish.
+9/7/25 3:33:49a * Your mental enhancement fades.
+9/7/25 3:34:02a You find that the local ether activity is very unusual.
+9/7/25 3:34:06a You feel that the local ether activity is very unusual.
+9/7/25 3:34:18a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+9/7/25 3:34:18a Warawonda has fallen to an Enchanted Peg-Leg.
+9/7/25 3:34:35a Warawonda says, "hmm"
+9/7/25 3:34:35a SaintMiker is no longer fallen.
+9/7/25 3:34:43a You have 8720 coins.
+9/7/25 3:34:53a Balangar is no longer fallen.
+9/7/25 3:35:24a Seaforth is no longer sharing experiences with you.
+9/7/25 3:36:19a * Your mental enhancement fades.
+9/7/25 3:36:21a * Your mental enhancement fades.
+9/7/25 3:36:55a Daerdain has fallen to an Ethereal Sailor.
+9/7/25 3:37:05a Daerdain is no longer fallen.
+9/7/25 3:37:41a You have 8720 coins.
+9/7/25 3:38:01a Warawonda yells, "any one there?"
+9/7/25 3:38:40a •You gain experience.
+9/7/25 3:38:41a Garr yells, "watch out for the captain he hurts"
+9/7/25 3:38:50a Ponyo yells, "we hurt more!"
+9/7/25 3:38:58a SaintMiker has fallen to an Enchanted Peg-Leg.
+9/7/25 3:39:13a SaintMiker is no longer fallen.
+9/7/25 3:39:24a Warawonda yells, "any one there?"
+9/7/25 3:39:28a Ponyo yells, "friend!"
+9/7/25 3:39:31a Phroon yells, "working our way over there"
+9/7/25 3:39:33a Clemence yells, "coming to find you!"
+9/7/25 3:39:35a Garr yells, "sailors"
+9/7/25 3:39:39a Warawonda yells, ":)"
+9/7/25 3:39:54a Nyarlathotep is no longer Clanning.
+9/7/25 3:40:03a SaintMiker has fallen to a lightning bolt.
+9/7/25 3:40:04a Daerdain has fallen to a lightning bolt.
+9/7/25 3:40:09a Elenis Reyav yells, "2"
+9/7/25 3:40:19a Eirian Caldwell yells, "bolter"
+9/7/25 3:40:27a * You gain experience for being the bait that needs rescuing.
+9/7/25 3:40:36a You have 8720 coins.
+9/7/25 3:40:55a Ponyo yells, "could use a cannon for this sailor"
+9/7/25 3:41:01a Phroon yells, "getting bolters"
+9/7/25 3:41:04a Elenis Reyav yells, "It is red here."
+9/7/25 3:41:16a * You pick up 94 coins.
+9/7/25 3:41:16a * You gain experience.
+9/7/25 3:41:27a Valadorei has fallen to a Ghastly Presence.
+9/7/25 3:42:08a Valadorei is no longer fallen.
+9/7/25 3:42:43a Daerdain is no longer fallen.
+9/7/25 3:42:47a Elenis Reyav says, "Cloud"
+9/7/25 3:43:04a SaintMiker is still fallen to a lightning bolt.
+9/7/25 3:43:15a Garr turns to stone.
+9/7/25 3:43:22a Garr yells, "vala come try to pop these?"
+9/7/25 3:43:29a SaintMiker is no longer fallen.
+9/7/25 3:43:31a You have 8814 coins.
+9/7/25 3:43:31a •You sense healing energy from Dandelion.
+9/7/25 3:43:40a Dandelion yells, "Wara mangles"
+9/7/25 3:43:40a Garr says, "might be too far"
+9/7/25 3:43:56a •You sense healing energy from Hashak.
+9/7/25 3:44:05a Phroon yells, "Lets head around"
+9/7/25 3:44:16a •You sense healing energy from Dandelion.
+9/7/25 3:44:23a Elenis Reyav yells, "Captain"
+9/7/25 3:44:28a SaintMiker has fallen to an Ethereal Darshak Captain.
+9/7/25 3:44:36a SaintMiker is no longer fallen.
+9/7/25 3:45:21a Elenis Reyav yells, "Mimic"
+9/7/25 3:45:22a Phroon yells, "mimic"
+9/7/25 3:45:30a •You sense healing energy from Hashak.
+9/7/25 3:45:38a Hashak yells, "where is warawonda??"
+9/7/25 3:45:44a Elenis Reyav yells, "This way"
+9/7/25 3:45:48a Borzon is no longer Clanning.
+9/7/25 3:45:49a •You sense healing energy from Dandelion.
+9/7/25 3:46:06a SaintMiker has fallen to an Enchanted Peg-Leg.
+9/7/25 3:46:17a * You sense the tramping of boots from the floor above.
+9/7/25 3:46:19a Thrain starts dragging you.
+9/7/25 3:46:21a SaintMiker is no longer fallen.
+9/7/25 3:46:23a •You sense healing energy from Phroon.
+9/7/25 3:46:24a You have 8814 coins.
+9/7/25 3:46:28a (Elenis Reyav smiles.)
+9/7/25 3:46:28a •You sense healing energy from LittlePrince.
+9/7/25 3:46:28a •You sense healing energy from Hashak.
+9/7/25 3:46:28a You are no longer sharing experiences with Balangar.
+9/7/25 3:46:28a You begin sharing your experiences with LittlePrince.
+9/7/25 3:46:28a You are sharing experiences with LittlePrince, Hashak, Sycamore, Dandelion and Phroon.
+9/7/25 3:46:31a •You sense healing energy from Dandelion.
+9/7/25 3:46:32a Warawonda says, "hmm"
+9/7/25 3:46:32a •You sense healing energy from Phroon.
+9/7/25 3:46:40a •You sense healing energy from LittlePrince.
+9/7/25 3:46:41a Ravenstorm says, "pls thank your healers and mystics"
+9/7/25 3:46:42a Elenis Reyav growls, "Well."
+9/7/25 3:46:43a •You sense healing energy from LittlePrince.
+9/7/25 3:46:43a Warawonda says, "seem might be something above"
+9/7/25 3:46:45a You just received anonymous good karma.
+9/7/25 3:46:46a •You sense healing energy from Sycamore.
+9/7/25 3:46:48a •You sense healing energy from Balangar.
+9/7/25 3:46:48a You are no longer sharing experiences with Phroon.
+9/7/25 3:46:48a You begin sharing your experiences with Balangar.
+9/7/25 3:46:48a You are sharing experiences with Balangar, LittlePrince, Hashak, Sycamore and Dandelion.
+9/7/25 3:46:49a Elenis Reyav growls, "It does seem we've cleared out the temple."
+9/7/25 3:46:50a Onashi says, "thanks Pooko <3"
+9/7/25 3:46:51a You are no longer sharing experiences with Dandelion.
+9/7/25 3:46:51a You begin sharing your experiences with Phroon.
+9/7/25 3:46:51a You are sharing experiences with Phroon, Balangar, LittlePrince, Hashak and Sycamore.
+9/7/25 3:46:54a You are no longer sharing experiences with Sycamore.
+9/7/25 3:46:54a You begin sharing your experiences with Dandelion.
+9/7/25 3:46:54a You are sharing experiences with Dandelion, Phroon, Balangar, LittlePrince and Hashak.
+9/7/25 3:46:56a Elenis Reyav growls, "Oh? Lead the way, Wara."
+9/7/25 3:46:58a You are no longer sharing experiences with Hashak.
+9/7/25 3:46:58a You begin sharing your experiences with Sycamore.
+9/7/25 3:46:58a You are sharing experiences with Sycamore, Dandelion, Phroon, Balangar and LittlePrince.
+9/7/25 3:46:58a Phroon says, "got a few corners to check"
+9/7/25 3:47:01a Garr asks, "Lets check the mirror?"
+9/7/25 3:47:03a You equip your Staff of Ballou.
+9/7/25 3:47:04a You slip your Staff of Ballou into your backpack.
+9/7/25 3:47:04a * You grow more mindful.
+9/7/25 3:47:04a Pookoiko yells, "two of em west"
+9/7/25 3:47:07a Pookoiko says, "other side"
+9/7/25 3:47:12a Onashi growls, "thanks Pooko <3"
+9/7/25 3:47:27a Garr yells, "Mirror here"
+9/7/25 3:47:29a (Elenis Reyav hangs out near the healers.)
+9/7/25 3:47:30a Daerdain has fallen to a lightning bolt.
+9/7/25 3:47:34a Phroon says, "Odd."
+9/7/25 3:47:36a Elenis Reyav ponders, "They're so cool and healy."
+9/7/25 3:47:38a You equip your darkstone named “no power”.
+9/7/25 3:47:50a Daerdain is no longer fallen.
+9/7/25 3:47:51a * You look into the mirror...
+9/7/25 3:47:51a Ponyo exclaims, "untrainus will accept your gracious sacrifice, seaforth!"
+9/7/25 3:47:52a Clemence ponders, "this is why i left Palmeri behind hehe"
+9/7/25 3:47:52a Thrain says, "oh good, my makeup was beginning to fade. now i can reapply"
+9/7/25 3:47:52a Garr says, "the mirror still making me forgetful"
+9/7/25 3:47:57a Ravenstorm says, "Mirror mirror on the wall we are all going to die"
+9/7/25 3:47:59a (Daerdain chuckles)
+9/7/25 3:47:59a * You can't seem to remember what you just saw in the mirror.
+9/7/25 3:48:04a The sound of boots grows louder.
+9/7/25 3:48:09a Daerdain has fallen to a lightning bolt.
+9/7/25 3:48:13a Daerdain yells, "stop that"
+9/7/25 3:48:15a You can’t find a clear spot to drop your darkstone.
+9/7/25 3:48:17a Daerdain is no longer fallen.
+9/7/25 3:48:19a You drop your darkstone.
+9/7/25 3:48:21a You pick up a darkstone.
+9/7/25 3:48:28a Garr yells, "Ambush!"
+9/7/25 3:48:28a Elenis Reyav yells, "CW to stop that"
+9/7/25 3:48:32a You equip your ethercle.
+9/7/25 3:48:35a Clemence yells, "save Garr!"
+9/7/25 3:48:37a * You look into the mirror...
+9/7/25 3:48:39a Ravenstorm yells, "woah"
+9/7/25 3:48:40a Daerdain has fallen to a Darshak Roughneck.
+9/7/25 3:48:45a * You can't seem to remember what you just saw in the mirror.
+9/7/25 3:48:49a You slip your ethercle into your backpack.
+9/7/25 3:48:54a * Your mental enhancement fades.
+9/7/25 3:48:55a SaintMiker has fallen to a Darshak Roughneck.
+9/7/25 3:48:56a * Your mental enhancement fades.
+9/7/25 3:49:05a You sense that the local ether activity is abnormal.
+9/7/25 3:49:06a LittlePrince has fallen to a Darshak Roughneck.
+9/7/25 3:49:08a You feel that the local ether activity is suspicious.
+9/7/25 3:49:17a Clemence ponders, "me, hitting my feign button, forgetting the body i am in"
+9/7/25 3:49:19a Pookoiko yells, "got the clouds, but the pegleg got me"
+9/7/25 3:49:21a You have 8814 coins.
+9/7/25 3:49:21a Elenis Reyav growls, "Focus 'em down"
+9/7/25 3:49:21a Ravenstorm says, "hi"
+9/7/25 3:49:34a SaintMiker is no longer fallen.
+9/7/25 3:49:41a * Your share in the 32c Darshak Roughneck bounty is 2c.
+9/7/25 3:49:43a Seaforth says, "Now THAT is a real government"
+9/7/25 3:49:47a Dandelion says, "Pe"
+9/7/25 3:49:48a Ponyo says, "hey guy. nice shirt."
+9/7/25 3:49:51a Dandelion says, "Git up, please"
+9/7/25 3:49:53a Phroon has fallen to a Tyrenel Imperious.
+9/7/25 3:49:53a (Seaforth): The marble Seaforth Monument begins to shimmer...
+9/7/25 3:49:54a Phroon says, "ow"
+9/7/25 3:49:55a Dandelion says, "Tank you"
+9/7/25 3:49:56a Pe Ell says, "Thanks Dande"
+9/7/25 3:50:06a Elenis Reyav yells, "This fellow. He's a danger"
+9/7/25 3:50:07a You equip your Staff of Ballou.
+9/7/25 3:50:07a Seaforth turns to stone.
+9/7/25 3:50:08a You slip your Staff of Ballou into your backpack.
+9/7/25 3:50:08a Thrain exclaims, "Tylenol!"
+9/7/25 3:50:08a * You grow more mindful.
+9/7/25 3:50:09a Elenis Reyav says, "Cecil, Raven, Gorv"
+9/7/25 3:50:13a Thrain says, "or something"
+9/7/25 3:50:14a Elenis Reyav says, "This fellow hits hard"
+9/7/25 3:50:19a Ponyo says, "tyrenel sounds like a cleaning agent. or a painkiller."
+9/7/25 3:50:20a Phroon is no longer fallen.
+9/7/25 3:50:21a Phroon has fallen to a Darshak Roughneck.
+9/7/25 3:50:23a SaintMiker has fallen to a Darshak Roughneck.
+9/7/25 3:50:25a Phroon is no longer fallen.
+9/7/25 3:50:27a Hashak has fallen to a Darshak Roughneck.
+9/7/25 3:50:29a Elenis Reyav yells, "Thing attacking healers"
+9/7/25 3:50:30a Hashak says, "what the"
+9/7/25 3:50:31a (Abox looks shocked)
+9/7/25 3:50:32a Seaforth says, "I saved you Cecil"
+9/7/25 3:50:33a Clemence exclaims, "ah saintmikers i thought you would save us all!"
+9/7/25 3:50:37a (Ponyo could use some Tyrenel, after being hit by Tyrenel)
+9/7/25 3:50:45a Phroon says, "back a bit"
+9/7/25 3:50:45a Elenis Reyav says, "Thanks, Phrooner"
+9/7/25 3:50:47a Valadorei has fallen to a Darshak Roughneck.
+9/7/25 3:50:52a There is a letter promising to reward Venables if he can provide the Drakesblood family with portal magic.
+9/7/25 3:50:53a Sycamore has fallen to an Enchanted Peg-Leg.
+9/7/25 3:50:54a Dandelion has fallen to a Tyrenel Imperious.
+9/7/25 3:50:55a Balangar has fallen to a Darshak Roughneck.
+9/7/25 3:50:56a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+9/7/25 3:50:56a Sycamore yells, "pegs"
+9/7/25 3:50:56a Warawonda has fallen to an Enchanted Peg-Leg.
+9/7/25 3:50:57a Ravenstorm says, ".."
+9/7/25 3:51:01a There is a letter promising to reward Venables if he can provide the Drakesblood family with portal magic.
+9/7/25 3:51:02a Dandelion exclaims, "Bovveration!"
+9/7/25 3:51:05a Elenis Reyav says, "W of the stoners"
+9/7/25 3:51:07a Elenis Reyav says, "Quickly"
+9/7/25 3:51:08a Valadorei yells, "That just hit Raven from yellow!"
+9/7/25 3:51:11a There is a letter promising to reward Venables if he can provide the Drakesblood family with portal magic.
+9/7/25 3:51:11a Hashak yells, "I think we just got served"
+9/7/25 3:51:12a Elenis Reyav says, "Get < if possible"
+9/7/25 3:51:16a Dandelion says, "Clearly, my "oh no ya don't" didn't reach da pegs"
+9/7/25 3:51:20a There is a letter promising to reward Venables if he can provide the Drakesblood family with portal magic.
+9/7/25 3:51:21a Darth Wader is now Clanning.
+9/7/25 3:51:24a Sycamore says, "heh"
+9/7/25 3:51:33a Shobaffum's chain breaks as he tries to use it.
+9/7/25 3:51:35a Shobaffum starts dragging you.
+9/7/25 3:51:40a Daerdain is still fallen to a Darshak Roughneck.
+9/7/25 3:51:48a Dandelion says, "Folx are det lms fer me, Phroon."
+9/7/25 3:51:58a * Your mental enhancement fades.
+9/7/25 3:51:59a Garr yells, "careful of spawns if you leave snell"
+9/7/25 3:52:00a Clemence says, "Never so happy to see Shobaffum"
+9/7/25 3:52:00a * Your mental enhancement fades.
+9/7/25 3:52:06a LittlePrince is still fallen to a Darshak Roughneck.
+9/7/25 3:52:16a You have 8816 coins.
+9/7/25 3:52:31a Phroon starts dragging you.
+9/7/25 3:52:35a Elenis Reyav asks, "Recover here?"
+9/7/25 3:52:46a Phroon says, "aye"
+9/7/25 3:52:53a Sycamore is no longer fallen.
+9/7/25 3:52:59a •You sense healing energy from Phroon.
+9/7/25 3:53:01a Ravenstorm says, "dande ponyo next"
+9/7/25 3:53:07a Dandelion says, "I'm too fallen."
+9/7/25 3:53:12a Dandelion says, "So's Ponyo"
+9/7/25 3:53:12a Ponyo exclaims, "aw. only 3500 more horus syca!"
+9/7/25 3:53:16a Sycamore says, "dande det"
+9/7/25 3:53:18a Phroon says, "Hashak"
+9/7/25 3:53:20a Dandelion asks, "Mebbe Hash?"
+9/7/25 3:53:22a SaintMiker is still fallen to a Darshak Roughneck.
+9/7/25 3:53:26a Ravenstorm says, "nice"
+9/7/25 3:53:26a Hashak is still fallen to a Darshak Roughneck.
+9/7/25 3:53:27a Hashak exclaims, "hurrah!"
+9/7/25 3:53:28a Hashak is no longer fallen.
+9/7/25 3:53:31a Ravenstorm says, "get n Hash pls"
+9/7/25 3:53:38a Elenis Reyav says, "Thrain, Pon, Dande.."
+9/7/25 3:53:39a Ravenstorm says, "ty"
+9/7/25 3:53:47a Valadorei is still fallen to a Darshak Roughneck.
+9/7/25 3:53:50a •You sense healing energy from Sycamore.
+9/7/25 3:53:53a Hashak asks, "who we on?"
+9/7/25 3:53:54a (Phroon shakes his head)
+9/7/25 3:53:54a Dandelion is still fallen to a Tyrenel Imperious.
+9/7/25 3:53:56a Balangar is still fallen to a Darshak Roughneck.
+9/7/25 3:53:56a Dandelion says, "Train"
+9/7/25 3:54:03a •You sense healing energy from Hashak.
+9/7/25 3:54:03a You are no longer sharing experiences with LittlePrince.
+9/7/25 3:54:03a You begin sharing your experiences with Hashak.
+9/7/25 3:54:03a You are sharing experiences with Hashak, Sycamore, Dandelion, Phroon and Balangar.
+9/7/25 3:54:05a Thrain says, "I am a bear"
+9/7/25 3:54:07a Elenis Reyav says, "Uh oh"
+9/7/25 3:54:08a Ponyo ponders, "thrain is my favourite healer!"
+9/7/25 3:54:09a Thrain says, "and a bird"
+9/7/25 3:54:10a Giben turns to stone.
+9/7/25 3:54:14a Ravenstorm says, "raise me if you can"
+9/7/25 3:54:14a Clemence says, "Garr is the best"
+9/7/25 3:54:15a Ponyo says, "BADGERBEARD THE THIRD"
+9/7/25 3:54:17a Thrain says, "Im ponyos favorite rangerhealer"
+9/7/25 3:54:19a Elenis Reyav asks, "Can we get Raven?"
+9/7/25 3:54:25a Phroon says, "I se det sig on raven :("
+9/7/25 3:54:25a Elenis Reyav says, "We need someone to be able to start killing"
+9/7/25 3:54:26a Ponyo says, "yeah, gorv or raven up for security"
+9/7/25 3:54:30a Sycamore says, "raven det lms"
+9/7/25 3:54:31a Ravenstorm says, "try gorv"
+9/7/25 3:54:31a Ponyo asks, "gorv?"
+9/7/25 3:54:32a Elenis Reyav says, "Oof, brutal."
+9/7/25 3:54:34a Phroon says, "Gorvin get lms"
+9/7/25 3:54:35a Clemence yells, "thank someone while you're down!"
+9/7/25 3:54:38a (Phroon shakes his head)
+9/7/25 3:54:41a Daerdain has been fallen for some time because of a Darshak Roughneck.
+9/7/25 3:54:42a Balangar exclaims, "clearing temple was no so easy it seems !"
+9/7/25 3:54:42a Ponyo yells, "cecil, get up. you need to save us."
+9/7/25 3:54:45a Elenis Reyav asks, "Any fighters at all?"
+9/7/25 3:54:48a Ravenstorm asks, "and all healers too fallen?"
+9/7/25 3:54:51a Valadorei exclaims, "Wow raven was yellow!"
+9/7/25 3:54:52a  Phroon  added to Karma list
+9/7/25 3:54:53a Giben turns to stone.
+9/7/25 3:54:54a Sycamore says, "I have one salve lol"
+9/7/25 3:54:57a Ravenstorm says, "ya its a boss"
+9/7/25 3:54:57a  LittlePrince  added to Karma list
+9/7/25 3:54:59a  Dandelion  added to Karma list
+9/7/25 3:55:00a Ravenstorm says, "very strong"
+9/7/25 3:55:00a Elenis Reyav says, "Yeah"
+9/7/25 3:55:01a Phroon says, "Everyone is basically det+"
+9/7/25 3:55:02a Hashak says, "I didnt bring any :/"
+9/7/25 3:55:02a Dandelion says, "Rar! Nice, Giben"
+9/7/25 3:55:05a Ravenstorm says, "300+ histia hit"
+9/7/25 3:55:06a Elenis Reyav says, "I tried to warn, the fellow hits super hard."
+9/7/25 3:55:06a Clemence says, "once they said that i was like oh shit you guuuyyyyssss"
+9/7/25 3:55:08a  Hashak  added to Karma list
+9/7/25 3:55:09a Vylarian yells, "cecil is decorating the floor over here"
+9/7/25 3:55:09a Phroon says, "Onashi q"
+9/7/25 3:55:10a SaintMiker says, "theres to0 many people to thank"
+9/7/25 3:55:10a You have 8816 coins.
+9/7/25 3:55:11a LittlePrince asks, "Me too?"
+9/7/25 3:55:12a Ravenstorm says, "i was at 20%"
+9/7/25 3:55:12a  Valadorei  added to Karma list
+9/7/25 3:55:16a Ponyo says, "I was trying to figure out where he got that shirt"
+9/7/25 3:55:17a * Karma Message set to  :) 
+9/7/25 3:55:19a Elenis Reyav says, "Killed me from nearly full in one hit."
+9/7/25 3:55:19a * Auto Thanker Online!
+9/7/25 3:55:19a You have given this character as much good karma as is allowed. Wait for it to decay.
+9/7/25 3:55:20a *  Phroon  is unable to recive karma, removing name.
+9/7/25 3:55:20a You gave signed good karma to LittlePrince, :).
+9/7/25 3:55:21a Thrain asks, "try Littleprince?"
+9/7/25 3:55:22a Sycamore says, "onashi goin up"
+9/7/25 3:55:22a LittlePrince says, "I'm mangled"
+9/7/25 3:55:23a (Ponyo nods)
+9/7/25 3:55:26a Hashak says, "Daerdain only mms"
+9/7/25 3:55:27a Ravenstorm asks, "onashi can you chain clem?"
+9/7/25 3:55:29a Ponyo ponders, "det lms from about 40%"
+9/7/25 3:55:41a (Abox tests the edge of his heavy blade with his thumb)
+9/7/25 3:55:47a Cecil yells, "I'm not dead I am just Nacreus"
+9/7/25 3:55:48a Ponyo exclaims, "kill the cloud!"
+9/7/25 3:55:48a Onashi says, "I will not be able to solo the lady"
+9/7/25 3:55:52a Onashi says, "ladies*"
+9/7/25 3:55:54a Clemence yells, "Garr is slowly running away"
+9/7/25 3:55:56a Phroon asks, "maybe try the cloud?"
+9/7/25 3:56:01a Phroon says, "the lady's we can wall"
+9/7/25 3:56:02a Daerdain is no longer fallen.
+9/7/25 3:56:03a Ponyo whispers, "push rav"
+9/7/25 3:56:04a Elenis Reyav yells, "Wise. Well done Garr"
+9/7/25 3:56:08a Ravenstorm says, "gj"
+9/7/25 3:56:16a •You sense healing energy from Hashak.
+9/7/25 3:56:22a SaintMiker has been fallen for some time because of a Darshak Roughneck.
+9/7/25 3:56:30a Garr yells, "peg legs trapped on bodies"
+9/7/25 3:56:31a SaintMiker says, "im scared"
+9/7/25 3:56:35a Phroon says, "LittlePrince might be gettable"
+9/7/25 3:56:38a Hashak says, "thats good"
+9/7/25 3:56:40a Dandelion asks, "LP might let ya git Train. Remember when LP saved us all dat one time?"
+9/7/25 3:56:40a Ravenstorm says, "we have to get clem up i think or LP"
+9/7/25 3:56:41a Phroon says, "but in front"
+9/7/25 3:56:44a Ravenstorm says, "ya no other choice"
+9/7/25 3:56:44a Clemence yells, "arent peg legs normally on bodies?"
+9/7/25 3:56:48a Valadorei has been fallen for some time because of a Darshak Roughneck.
+9/7/25 3:56:50a Elenis Reyav asks, "Is kudzu plantable here?"
+9/7/25 3:56:55a Dandelion has been fallen for some time because of a Tyrenel Imperious.
+9/7/25 3:56:55a Balangar has been fallen for some time because of a Darshak Roughneck.
+9/7/25 3:57:01a Elenis Reyav ponders, "I don't think it is, but I can't recall."
+9/7/25 3:57:03a Hashak says, "LP angled"
+9/7/25 3:57:06a Ravenstorm says, "ona when you go to chain"
+9/7/25 3:57:08a Hashak says, "LP mangled"
+9/7/25 3:57:17a Ravenstorm says, "you oull ele ad ss to get them imo"
+9/7/25 3:57:17a Phroon yells, "we're raising a few, quite a lot of people are det lms or worse"
+9/7/25 3:57:23a Shobaffum yells, "i need to learn from studing this purple floor"
+9/7/25 3:57:29a Ravenstorm says, "that will give you a better wall when swinging back around"
+9/7/25 3:57:35a Ravenstorm asks, "make sense?"
+9/7/25 3:57:39a Dandelion says, "I tink we can git 'em, once we have alla healers up"
+9/7/25 3:57:39a Ravenstorm says, "or that"
+9/7/25 3:57:55a Elenis Reyav says, "If stuff is on you, try to dump on Garr"
+9/7/25 3:57:56a Warawonda says, "hehe"
+9/7/25 3:57:57a SaintMiker is no longer fallen.
+9/7/25 3:58:01a Ponyo says, "HELLO GOOD FRIEND CECIL"
+9/7/25 3:58:01a Hashak says, "oo more healers"
+9/7/25 3:58:04a You have 8816 coins.
+9/7/25 3:58:06a Hashak says, "balangar"
+9/7/25 3:58:06a Daerdain has fallen to an Enchanted Peg-Leg.
+9/7/25 3:58:08a Onashi says, "better wall, at least, lol"
+9/7/25 3:58:10a Elenis Reyav asks, "How bad is Cecil?"
+9/7/25 3:58:13a (Daerdain laughs)
+9/7/25 3:58:19a Hashak says, "bala lms"
+9/7/25 3:58:25a Balangar is no longer fallen.
+9/7/25 3:58:25a Onashi says, "he just gonna fall"
+9/7/25 3:58:27a Ravenstorm says, "..."
+9/7/25 3:58:29a Hashak says, "oh dammit"
+9/7/25 3:58:29a Elenis Reyav says, "..."
+9/7/25 3:58:32a Ravenstorm says, "ppl need to listen"
+9/7/25 3:58:35a Cecil says, "im at 20% balance"
+9/7/25 3:58:36a Sycamore says, "don't bother raising the people on the outside wall"
+9/7/25 3:58:39a •You sense healing energy from Hashak.
+9/7/25 3:58:46a Elenis Reyav says, "If Cecil is healable, I'd suggest trying him."
+9/7/25 3:58:47a Pookoiko yells, "rude"
+9/7/25 3:58:51a Elenis Reyav says, "And he can pull me immediately."
+9/7/25 3:58:53a Cecil says, "cant brick peg"
+9/7/25 3:58:55a Ponyo yells, "you got dis pook!"
+9/7/25 3:58:57a (Phroon shakes his head)
+9/7/25 3:58:57a Cecil says, "unless boosted"
+9/7/25 3:59:01a Onashi says, "lady comin in"
+9/7/25 3:59:01a Clemence says, "he will probably get hit fast"
+9/7/25 3:59:01a Pe Ell yells, "Tyrenel headed out, saying he's gathering another raiding party and he'll be waiting outside"
+9/7/25 3:59:06a Elenis Reyav says, "Yeah, you'll fall, but then be healable a second time."
+9/7/25 3:59:11a Elenis Reyav ponders, "Unless multiple hit at the same time"
+9/7/25 3:59:15a Garr turns to stone.
+9/7/25 3:59:18a •You sense healing energy from Phroon.
+9/7/25 3:59:20a Elenis Reyav ponders, "Super Garr"
+9/7/25 3:59:29a Pookoiko yells, "guess Tyrenel and his pal pushed me out of his way, so he could escape"
+9/7/25 3:59:36a Cecil asks, "gorvin too dead?"
+9/7/25 3:59:37a Dandelion says, "Ooo, Darshak, lookit! Garr's inna open, all vulnerable like"
+9/7/25 3:59:39a Elenis Reyav says, "Yeah"
+9/7/25 3:59:45a Elenis Reyav says, "Gorv and Rave both very dead."
+9/7/25 3:59:45a Balangar is no longer fallen.
+9/7/25 3:59:45a Cecil asks, "all healers too?"
+9/7/25 3:59:47a SaintMiker has fallen to a Darshak Sworn Sword.
+9/7/25 3:59:47a Valadorei has been fallen for some time because of a Darshak Roughneck.
+9/7/25 3:59:52a SaintMiker says, "uh"
+9/7/25 3:59:54a Elenis Reyav says, "Yeah, everyone killed by the boss is super dead."
+9/7/25 3:59:54a Dandelion has been fallen for some time because of a Tyrenel Imperious.
+9/7/25 4:00:07a Elenis Reyav says, "It hits... kinda hard."
+9/7/25 4:00:08a Clemence says, "getting littleprince or me up wouldnt be helpful because we are on the outside"
+9/7/25 4:00:09a Hashak says, "dont worry you make a great wall"
+9/7/25 4:00:17a Balangar asks, "On LP ?"
+9/7/25 4:00:21a Onashi growls, "no"
+9/7/25 4:00:25a Phroon says, "nto yet"
+9/7/25 4:00:29a Sycamore says, "njot on lp because peg leg right there"
+9/7/25 4:00:29a Dandelion says, "LP has a pegleg on him. He'll fall harder"
+9/7/25 4:00:31a Ponyo says, "eirian take hits for onashi maybe :p"
+9/7/25 4:00:32a Clemence says, "peg leg on LP bala, we would likely die"
+9/7/25 4:00:35a Seaforth asks, "Can we combine their remaining parts into Gorvenstorm?"
+9/7/25 4:00:46a Sycamore says, "nned a volunter to pull LP"
+9/7/25 4:00:47a Balangar says, "stopped"
+9/7/25 4:00:47a Elenis Reyav says, "Vala is probably healable.. didn't die to Tyrenel."
+9/7/25 4:00:57a Ponyo exclaims, "nice!"
+9/7/25 4:00:57a Onashi growls, "nice"
+9/7/25 4:00:58a Garr says, "nice"
+9/7/25 4:00:58a You have 8816 coins.
+9/7/25 4:00:59a Clemence says, "lmao someone needs to make a character named Gorvenstorm right now"
+9/7/25 4:01:04a (Eirian Caldwell laughs.)
+9/7/25 4:01:05a Ravenstorm says, "gj gj"
+9/7/25 4:01:07a Daerdain is still fallen to an Enchanted Peg-Leg.
+9/7/25 4:01:12a •You sense healing energy from Sycamore.
+9/7/25 4:01:20a Eirian Caldwell growls, "should we kill stuff on garr?"
+9/7/25 4:01:21a You gave signed good karma to Dandelion, :).
+9/7/25 4:01:23a Ravenstorm says, "get some healers up"
+9/7/25 4:01:25a Ravenstorm says, "or use pots"
+9/7/25 4:01:27a Catan is now Clanning.
+9/7/25 4:01:32a Phroon ponders, "wrong one"
+9/7/25 4:01:33a Elenis Reyav says, "If you can do so safely without pulling off him."
+9/7/25 4:01:35a Ravenstorm says, "salves"
+9/7/25 4:01:36a Garr turns to stone.
+9/7/25 4:01:40a Elenis Reyav says, "The cloud would be a good target."
+9/7/25 4:01:43a Seaforth says, "Gorvenstorm would never talk except to say "Thank your healers""
+9/7/25 4:01:46a (Dandelion nods)
+9/7/25 4:01:46a Ponyo says, "indulstones probably"
+9/7/25 4:01:48a Woolf is now Clanning.
+9/7/25 4:01:49a Clemence exclaims, "oh you were coming for me?!"
+9/7/25 4:01:53a Dandelion says, "I appreciate it anyway, Phroon"
+9/7/25 4:01:56a (Clemence cries with happiness)
+9/7/25 4:01:59a Hashak exclaims, "Yay we got Clem!"
+9/7/25 4:02:01a Darth Wader is no longer Clanning.
+9/7/25 4:02:06a Dandelion is no longer fallen.
+9/7/25 4:02:07a Clemence exclaims, "and now dande!!!"
+9/7/25 4:02:07a Hashak exclaims, "Yayaya!"
+9/7/25 4:02:07a Thrain says, "woo"
+9/7/25 4:02:10a Sycamore says, "ok now we're making progress"
+9/7/25 4:02:11a Garr says, "nice"
+9/7/25 4:02:15a Elenis Reyav ponders, "Recovery, woo!"
+9/7/25 4:02:23a SaintMiker is no longer fallen.
+9/7/25 4:02:24a •You sense healing energy from Phroon.
+9/7/25 4:02:28a Sycamore asks, "raven?"
+9/7/25 4:02:29a Dandelion says, "Let's try Gorvin"
+9/7/25 4:02:30a Hashak says, "try raven"
+9/7/25 4:02:31a SaintMiker says, "thank you"
+9/7/25 4:02:33a Hashak says, "ok gorvin"
+9/7/25 4:02:35a Dandelion says, "Ok"
+9/7/25 4:02:37a Phroon says, "Gorvin det lms"
+9/7/25 4:02:40a Clemence says, "i need to touch him"
+9/7/25 4:02:41a (Seaforth snacks on some charcuterie)
+9/7/25 4:02:44a Garr says, "wow"
+9/7/25 4:02:44a Dandelion says, "On Ravenstorm"
+9/7/25 4:02:46a Cecil says, "I can try to hawt"
+9/7/25 4:02:47a Valadorei is becoming part of the scenery, since falling to a Darshak Roughneck.
+9/7/25 4:02:48a Sycamore says, "on gorvin"
+9/7/25 4:02:48a (Ponyo hums "The Gorvin")
+9/7/25 4:02:49a Cecil says, "hawt"
+9/7/25 4:02:59a Ravenstorm says, "if youre a healer pls focus"
+9/7/25 4:03:07a Ponyo exclaims, "don't tell me what to do!"
+9/7/25 4:03:08a Clemence says, "det"
+9/7/25 4:03:10a Sycamore says, "on gorvin"
+9/7/25 4:03:10a Balangar says, "either raven or gorvin"
+9/7/25 4:03:12a Elenis Reyav exclaims, "Gorvin, get up you slacker!"
+9/7/25 4:03:12a Thrain exclaims, "Its Gorvintime!"
+9/7/25 4:03:21a Dandelion says, "Okie. Gonna need Ponyo"
+9/7/25 4:03:23a Hashak asks, "k try raven?"
+9/7/25 4:03:26a Balangar says, "same det for both for me"
+9/7/25 4:03:26a Ravenstorm says, "well youre fallen like so ,,,so we are sol atm ^^"
+9/7/25 4:03:28a Sycamore says, "still dewraven"
+9/7/25 4:03:31a Ponyo says, ":D"
+9/7/25 4:03:31a Ravenstorm says, "well youre fallen like me,,,so we are sol atm ^^"
+9/7/25 4:03:31a Phroon says, "Ravenstorm detlms"
+9/7/25 4:03:33a Onashi says, "xD"
+9/7/25 4:03:38a Hashak asks, "try Ponyo?"
+9/7/25 4:03:51a Elenis Reyav asks, "How bad are Thrain and Ponyo?"
+9/7/25 4:03:52a Ponyo asks, "ah! that... almost made a dent?"
+9/7/25 4:03:52a You have 8816 coins.
+9/7/25 4:03:57a Garr turns to stone.
+9/7/25 4:03:57a Ponyo ponders, "det lms, still"
+9/7/25 4:03:59a Hashak asks, "LP?"
+9/7/25 4:04:00a Balangar says, "det lms"
+9/7/25 4:04:04a (Elenis Reyav nods.)
+9/7/25 4:04:06a Daerdain has been fallen for some time because of an Enchanted Peg-Leg.
+9/7/25 4:04:06a Clemence says, "it keeps trying to heal LP and not ponyo damn it"
+9/7/25 4:04:12a Phroon says, "LittlePrince has the leg"
+9/7/25 4:04:13a Onashi says, ".uu ponyo"
+9/7/25 4:04:15a Sycamore says, "can't get lp unless someone pulls him and dies"
+9/7/25 4:04:15a Cecil asks, "garr can you walk to peg nw to grab it, then walk back away?"
+9/7/25 4:04:18a Garr asks, "can you guys back off a sec to give me the peg leg?"
+9/7/25 4:04:18a Hashak says, "right not LP"
+9/7/25 4:04:18a Ravenstorm says, "which healer fallen has the most horus>"
+9/7/25 4:04:20a Ravenstorm says, "salve them"
+9/7/25 4:04:21a Vylarian yells, "I will one-hit everything!"
+9/7/25 4:04:23a Ponyo exclaims, "pretty sure he has two legs, phroon!"
+9/7/25 4:04:25a Clemence says, "det lms"
+9/7/25 4:04:27a Onashi says, "Ponyo has most Horus"
+9/7/25 4:04:27a Vylarian exclaims, "ROAR!"
+9/7/25 4:04:29a Elenis Reyav asks, "Clemence and Phroon, move N a bit?"
+9/7/25 4:04:40a Clemence says, "elenis i gotta be close to heal"
+9/7/25 4:04:41a Ponyo ponders, "750 horus"
+9/7/25 4:04:41a Elenis Reyav says, "So Garr can get the peg leg off Prince"
+9/7/25 4:04:45a •You sense healing energy from Phroon.
+9/7/25 4:04:48a Elenis Reyav says, "You can move back after Clemence"
+9/7/25 4:04:48a Ravenstorm says, "we need to make it happen"
+9/7/25 4:04:48a Phroon says, "Warawonda mms"
+9/7/25 4:04:51a Ravenstorm says, "Garr cant hold forever"
+9/7/25 4:04:51a •You sense healing energy from Hashak.
+9/7/25 4:04:51a Biro is no longer Clanning.
+9/7/25 4:04:51a Ponyo says, "doesn't make much of a dent into det LMS though"
+9/7/25 4:04:52a SaintMiker says, "i will try to 1 hit evrything"
+9/7/25 4:04:53a •You sense healing energy from Dandelion.
+9/7/25 4:04:59a Elenis Reyav says, "There"
+9/7/25 4:05:00a Garr says, "ok thanks"
+9/7/25 4:05:03a Warawonda says, ":)"
+9/7/25 4:05:05a Balangar says, "I am ok with range, but minimal Horus"
+9/7/25 4:05:05a Sycamore says, "ok now lp"
+9/7/25 4:05:11a Elenis Reyav says, "Good call, Garr."
+9/7/25 4:05:13a Ravenstorm says, "nice"
+9/7/25 4:05:14a Sycamore says, "now ponyo"
+9/7/25 4:05:14a •You sense healing energy from Hashak.
+9/7/25 4:05:18a •You sense healing energy from Balangar.
+9/7/25 4:05:21a Onashi asks, "LP awake?"
+9/7/25 4:05:25a Clemence exclaims, "yep he is!"
+9/7/25 4:05:27a • Ethereal Amulet Help:
+9/7/25 4:05:27a "\useitem EtherealAmulet" will measure ether activity in the immediate area.
+9/7/25 4:05:27a If used near an Ethereal Portal it will, depending on training, report some information about the portal.
+9/7/25 4:05:27a "\useitem EtherealAmulet \where" will report your location on the ethereal plane. Sometimes provides information when on other nearby planes.
+9/7/25 4:05:27a "\useitem EtherealAmulet \dispel" will dispel a Cloud of Ether if you are in range of one.
+9/7/25 4:05:27a "\useitem EtherealAmulet \close" will close the nearest Ethereal Portal.
+9/7/25 4:05:27a "\useitem EtherealAmulet \coalesce" will condense nearby ether to distract monsters in the immediate area.
+9/7/25 4:05:28a Onashi says, "ah good"
+9/7/25 4:05:30a Dandelion says, "on Ponyo"
+9/7/25 4:05:31a Sycamore asks, "on ponyo?"
+9/7/25 4:05:36a Ponyo exclaims, "or the most lucky sleepwalker!"
+9/7/25 4:05:37a Hashak says, "yup"
+9/7/25 4:05:40a Clemence says, "det lms"
+9/7/25 4:05:40a LittlePrince says, "On Ponyo"
+9/7/25 4:05:41a (Abox's ears perk up at some sound)
+9/7/25 4:05:47a • You do not have the training to dispel clouds of ether.
+9/7/25 4:05:48a Valadorei is becoming part of the scenery, since falling to a Darshak Roughneck.
+9/7/25 4:05:54a Elenis Reyav ponders, "What -amazing- luck we've got.. nothing else has spawned in our weakened state!"
+9/7/25 4:05:57a Ponyo ponders, "oh, mangled!"
+9/7/25 4:05:58a Thrain says, "woo"
+9/7/25 4:05:59a Onashi says, "lmao"
+9/7/25 4:06:00a Eirian Caldwell says, "shhhh"
+9/7/25 4:06:01a (Elenis Reyav whistles innocently.)
+9/7/25 4:06:02a Onashi says, "hugh, Elenis xD"
+9/7/25 4:06:03a Dandelion asks, "Now Train?"
+9/7/25 4:06:04a Sycamore says, "try thrain"
+9/7/25 4:06:05a Garr says, "should be able to kill the peg legs one at a time. they're sticky"
+9/7/25 4:06:05a Onashi says, "hush, Elenis xD"
+9/7/25 4:06:09a (Elenis Reyav smiles.)
+9/7/25 4:06:10a Clemence asks, "now gorvin?"
+9/7/25 4:06:17a Ponyo yells, "Gorvin"
+9/7/25 4:06:18a Garr turns to stone.
+9/7/25 4:06:19a Clemence says, "det lms"
+9/7/25 4:06:21a Ravenstorm says, "focus gorv"
+9/7/25 4:06:22a • You need an ethercle in your left hand to coalesce ether when not on the Ethereal Plane.
+9/7/25 4:06:25a Cecil asks, "can you walk more E garr or blocked?"
+9/7/25 4:06:27a Ravenstorm says, "we need Gorv or myself up if we get spawned on"
+9/7/25 4:06:27a Phroon says, "on Gorvin"
+9/7/25 4:06:27a (Ponyo will start yelling names)
+9/7/25 4:06:29a Dandelion says, "on Gorvin"
+9/7/25 4:06:31a Garr says, "a gp there I think"
+9/7/25 4:06:35a Cecil says, "darn"
+9/7/25 4:06:42a You equip your ethercle.
+9/7/25 4:06:44a Garr says, "and if I ss you'll get the pegleg back"
+9/7/25 4:06:47a Clemence says, "damn Gorvin whyyyyy"
+9/7/25 4:06:47a You have 8816 coins.
+9/7/25 4:06:51a Sycamore says, "ok we got gorv"
+9/7/25 4:06:57a Ponyo says, "good job, we rebooted him"
+9/7/25 4:06:59a Dandelion says, "I'm'a listen to Phroon fer who next"
+9/7/25 4:07:00a Shobaffum yells, "people are alive somewhere yes?"
+9/7/25 4:07:05a Clemence says, "so NO ONE say part of lore tour is easy again"
+9/7/25 4:07:06a Daerdain has been fallen for some time because of an Enchanted Peg-Leg.
+9/7/25 4:07:07a Onashi yells, "workin on it"
+9/7/25 4:07:07a Elenis Reyav yells, "Indeed. Slowly recovering."
+9/7/25 4:07:07a Phroon says, "Ravenstorm"
+9/7/25 4:07:10a Sycamore yells, "yes, going up"
+9/7/25 4:07:11a Ponyo yells, "Raven"
+9/7/25 4:07:12a Garr yells, "yes slowly raising. that guy hit hard"
+9/7/25 4:07:13a Shobaffum yells, "k"
+9/7/25 4:07:14a Clemence exclaims, "its a curse!"
+9/7/25 4:07:16a Dandelion says, "on Ravenstorm"
+9/7/25 4:07:16a Garr says, "kill the golem"
+9/7/25 4:07:17a Elenis Reyav exclaims, "Fighters!"
+9/7/25 4:07:19a Ponyo exclaims, "ND!"
+9/7/25 4:07:20a Thrain yells, "Gorvin wanted to take an extended reboot."
+9/7/25 4:07:20a Elenis Reyav exclaims, "A golem SW!"
+9/7/25 4:07:22a You gave signed good karma to Hashak, :).
+9/7/25 4:07:24a Hashak says, "mangled"
+9/7/25 4:07:27a You equip your Staff of Ballou.
+9/7/25 4:07:28a You slip your Staff of Ballou into your backpack.
+9/7/25 4:07:28a * You grow more mindful.
+9/7/25 4:07:28a Clemence says, "nmms"
+9/7/25 4:07:29a Sycamore says, "muti"
+9/7/25 4:07:31a Shadowfire says, "Aw hell I gotta bounce, chain me along so I can visionstone? ><"
+9/7/25 4:07:32a Dandelion says, "mms"
+9/7/25 4:07:33a Onashi growls, "golem got got"
+9/7/25 4:07:33a Hashak says, "mms"
+9/7/25 4:07:34a Ponyo says, "MMS raven"
+9/7/25 4:07:37a Ravenstorm says, "i got hit by the boss at 20% so ya the biss is super OP"
+9/7/25 4:07:46a Ravenstorm says, "i got hit by the boss at 20% ss*o ya the biss is super OP"
+9/7/25 4:07:49a Ravenstorm says, "boss even"
+9/7/25 4:07:53a (Eirian Caldwell smiles.)
+9/7/25 4:07:55a Sycamore says, "mutiok, thrain"
+9/7/25 4:07:56a Clemence asks, "any salves or pots?"
+9/7/25 4:07:56a Hashak asks, "we got a potion?"
+9/7/25 4:07:59a LittlePrince says, "What a biss."
+9/7/25 4:07:59a Ravenstorm says, "salve or pot me"
+9/7/25 4:08:02a Ponyo yells, "SF says chain/noheal, whoever fixes her has to solve that problem!"
+9/7/25 4:08:02a Ravenstorm says, "pls"
+9/7/25 4:08:05a Cecil asks, "that boss wasnt the normal boss thats here?"
+9/7/25 4:08:06a Ravenstorm says, "i have 1 salve on me"
+9/7/25 4:08:08a Phroon says, "I saw mms"
+9/7/25 4:08:08a Ravenstorm says, "i csan give"
+9/7/25 4:08:11a Garr says, "no cecil"
+9/7/25 4:08:20a Clemence ponders, "i used my last one on fledglings damn it"
+9/7/25 4:08:22a Sycamore says, "I have. salve but no pots"
+9/7/25 4:08:27a Garr says, "the ethereal darshak captains are the normal ones"
+9/7/25 4:08:28a Phroon pours a potion down Ravenstorm's throat.
+9/7/25 4:08:29a Sycamore asks, "will it help?"
+9/7/25 4:08:39a Garr turns to stone.
+9/7/25 4:08:39a Sycamore says, "ok raven going up"
+9/7/25 4:08:42a Clemence exclaims, "we did it!!!"
+9/7/25 4:08:45a Ravenstorm says, "ty"
+9/7/25 4:08:47a Valadorei is becoming part of the scenery, since falling to a Darshak Roughneck.
+9/7/25 4:08:51a Clemence ponders, "take a moment to thank a healer or mystic"
+9/7/25 4:08:58a Clemence says, "lms gib"
+9/7/25 4:09:00a Garr says, "now that that's dead should be able to clear me no problem"
+9/7/25 4:09:08a Ponyo says, "thrain passed det lms, and hit det sms"
+9/7/25 4:09:14a Ponyo yells, "elenis"
+9/7/25 4:09:18a * Your mental enhancement fades.
+9/7/25 4:09:20a * Your mental enhancement fades.
+9/7/25 4:09:28a Clemence says, "mms"
+9/7/25 4:09:29a Ponyo yells, "elenis, MMS"
+9/7/25 4:09:36a Garr says, "Nice work everyone"
+9/7/25 4:09:38a Sycamore says, "on elenis"
+9/7/25 4:09:39a Ravenstorm growls, "nice holding Garr"
+9/7/25 4:09:41a You have 8816 coins.
+9/7/25 4:09:46a (Elenis Reyav smiles.)
+9/7/25 4:09:48a Elenis Reyav says, "Thank you."
+9/7/25 4:09:50a Catan is sharing experiences with you.
+9/7/25 4:09:56a Clemence asks, "thrain or seaforth?"
+9/7/25 4:09:59a Woolf is sharing experiences with you.
+9/7/25 4:10:02a Phroon says, "Thrain"
+9/7/25 4:10:02a Hashak says, "thrain"
+9/7/25 4:10:02a Garr says, "sailor"
+9/7/25 4:10:07a Daerdain is becoming part of the scenery, since falling to an Enchanted Peg-Leg.
+9/7/25 4:10:09a Warawonda says, "Thrain"
+9/7/25 4:10:09a Ravenstorm says, "nice recovery"
+9/7/25 4:10:11a Thrain exclaims, "woo!"
+9/7/25 4:10:11a Clemence says, "woot we got him"
+9/7/25 4:10:13a Phroon says, "Valadorei looked gettable too"
+9/7/25 4:10:26a Elenis Reyav yells, "Anyone fallen out of sight?"
+9/7/25 4:10:27a Sycamore says, "focus on fighters, they are going down in front again"
+9/7/25 4:10:31a Ponyo says, "pookokoko"
+9/7/25 4:10:44a Seaforth exclaims, "All on Seaforth. ALL ON SEAFORTH!"
+9/7/25 4:10:46a •You sense healing energy from Hashak.
+9/7/25 4:10:48a Phroon says, "Shadowfire is afk I think"
+9/7/25 4:10:49a Hashak says, "ok"
+9/7/25 4:10:55a Clemence yells, "on seaforth?"
+9/7/25 4:10:55a Elenis Reyav growls, "SF said they'd be AFK"
+9/7/25 4:10:56a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+9/7/25 4:10:56a Eirian Caldwell growls, "yeah she said chain"
+9/7/25 4:10:57a Warawonda has fallen to a Greater Wraith.
+9/7/25 4:10:57a Valadorei is no longer fallen.
+9/7/25 4:10:58a Seaforth says, "is it working"
+9/7/25 4:11:00a Hashak says, "I think that's Seaforth"
+9/7/25 4:11:06a Ponyo yells, "SF noheal, cecil after seaforth"
+9/7/25 4:11:15a Ravenstorm growls, "Onashi..awesome job earlier holding as the solo raised fighter"
+9/7/25 4:11:21a Onashi says, "cheers Rave <3"
+9/7/25 4:11:22a * You pick up 91 coins.
+9/7/25 4:11:22a * You gain experience.
+9/7/25 4:11:22a Sycamore says, "on cecil"
+9/7/25 4:11:25a Seaforth exclaims, "Backstreet's back all right!"
+9/7/25 4:11:26a Ponyo yells, "ceceil"
+9/7/25 4:11:30a Ravenstorm growls, "^^"
+9/7/25 4:11:40a LittlePrince says, "on cecil"
+9/7/25 4:11:41a Clemence yells, "on cecil, det"
+9/7/25 4:11:44a Woolf is still fallen to jagged rocks.
+9/7/25 4:11:45a Elenis Reyav growls, "Looks like we scared him away."
+9/7/25 4:11:47a Sycamore says, "still det"
+9/7/25 4:11:47a Elenis Reyav growls, "Or something."
+9/7/25 4:11:48a Garr says, "He said he would be waiting for us in the surface"
+9/7/25 4:11:53a Catan is still fallen to a Giant Carnivorous Plankton.
+9/7/25 4:11:54a Elenis Reyav growls, "Ah."
+9/7/25 4:11:55a Clemence exclaims, "dude what did you do?!"
+9/7/25 4:12:00a Ravenstorm says, "my sister drafted a fantasy football team this year"
+9/7/25 4:12:02a Ravenstorm says, "she drafted Dak"
+9/7/25 4:12:04a LittlePrince says, "Probably drugs."
+9/7/25 4:12:05a Elenis Reyav growls, "Well, sounds like we upheld our half of the bargain!"
+9/7/25 4:12:09a Cecil got his body rocked.
+9/7/25 4:12:10a Elenis Reyav growls, "We cleared out the temple!"
+9/7/25 4:12:13a Ravenstorm says, "changed her fantasy team nane to the Dak-Street Boys"
+9/7/25 4:12:14a Elenis Reyav growls, "Since he's now outside!"
+9/7/25 4:12:15a Pookoiko yells, "hello"
+9/7/25 4:12:15a (LittlePrince chuckles.)
+9/7/25 4:12:18a Ponyo yells, "abox NU"
+9/7/25 4:12:19a Thrain says, "heh"
+9/7/25 4:12:20a Garr says, "Hopefully they didn't ambush Bosun"
+9/7/25 4:12:21a Clemence says, "yeah 'rocked'"
+9/7/25 4:12:25a You slip your ethercle into your backpack.
+9/7/25 4:12:26a Clemence asks, "shoba?"
+9/7/25 4:12:27a (Garr grins)
+9/7/25 4:12:31a Ponyo says, "abox, almost up"
+9/7/25 4:12:32a Sycamore says, "on abox"
+9/7/25 4:12:32a Garr says, "I like it Raven"
+9/7/25 4:12:36a Ravenstorm says, "ya me too"
+9/7/25 4:12:37a You have 8907 coins.
+9/7/25 4:12:43a Ravenstorm says, "she is pretty creative"
+9/7/25 4:12:43a Ponyo yells, "on ABOX"
+9/7/25 4:12:45a Clemence exclaims, "there we go!"
+9/7/25 4:12:50a (Abox kicks himself to full health)
+9/7/25 4:12:51a Balangar exclaims, "obow, aye! aye !"
+9/7/25 4:12:57a Balangar exclaims, "abox, aye! aye !"
+9/7/25 4:12:59a Ponyo yells, "on SHOB"
+9/7/25 4:13:02a Clemence says, "its nice to have juuuust enough horus to make a different hehe"
+9/7/25 4:13:06a Daerdain is becoming part of the scenery, since falling to an Enchanted Peg-Leg.
+9/7/25 4:13:12a (Phroon smiles)
+9/7/25 4:13:13a (Elenis Reyav points at Pookoiko.)
+9/7/25 4:13:17a Phroon says, "every bit helps"
+9/7/25 4:13:18a Ponyo ponders, "pook q"
+9/7/25 4:13:22a (Elenis Reyav smiles.)
+9/7/25 4:13:22a Pookoiko says, "thx"
+9/7/25 4:13:23a You gave signed good karma to Valadorei, :).
+9/7/25 4:13:27a Clemence ponders, "sorry shoba im trying"
+9/7/25 4:13:28a Hashak asks, "let's get Shadow up?"
+9/7/25 4:13:32a (Clemence winks)
+9/7/25 4:13:36a Sycamore says, "shoba is det lms"
+9/7/25 4:13:39a Ravenstorm says, "that mass spawn of darshak earlier was nasty but fun"
+9/7/25 4:13:39a Elenis Reyav says, "Shadow is AFK"
+9/7/25 4:13:45a Dandelion asks, "Sf, are you dere? Or still not?"
+9/7/25 4:13:53a Not.
+9/7/25 4:14:07a Garr says, "SF said she needed to go. Likely won't be back for the rest of Lore Tour"
+9/7/25 4:14:09a Clemence says, "lets leave SF for last just in case"
+9/7/25 4:14:10a Dandelion says, "Let's leave Sf down"
+9/7/25 4:14:11a Clemence says, "i can chain her"
+9/7/25 4:14:17a (Elenis Reyav nods.)
+9/7/25 4:14:20a •You sense healing energy from Phroon.
+9/7/25 4:14:22a * You feel mentally enhanced by Valadorei...
+9/7/25 4:14:23a Garr says, "But wanted a chain for the visionstone"
+9/7/25 4:14:26a Ponyo yells, "pell ell ell"
+9/7/25 4:14:26a •You sense healing energy from Balangar.
+9/7/25 4:14:27a You equip your ethercle.
+9/7/25 4:14:30a Pe Ell says, "Huzzah"
+9/7/25 4:14:30a • You successfully coalesce a condensation of ether.
+9/7/25 4:14:33a Phroon says, "Daerdain after these two"
+9/7/25 4:14:34a Ravenstorm growls, "who used a salve on me>"
+9/7/25 4:14:35a Clemence asks, "how is daer?"
+9/7/25 4:14:40a Ravenstorm growls, "who used a salve on me?"
+9/7/25 4:14:44a Phroon says, "I used a potion, Raven."
+9/7/25 4:14:45a Woolf has been fallen for some time because of jagged rocks.
+9/7/25 4:14:45a Ponyo yells, "daer mangled"
+9/7/25 4:14:49a Ravenstorm growls, "okay i have a salve for you"
+9/7/25 4:14:53a Ravenstorm growls, "its all i have on me atm"
+9/7/25 4:14:54a Catan has been fallen for some time because of a Giant Carnivorous Plankton.
+9/7/25 4:14:54a Warawonda says, "oops"
+9/7/25 4:14:59a Ravenstorm growls, "and ty for doing that"
+9/7/25 4:15:05a Ravenstorm picks up an orga eye.
+9/7/25 4:15:07a (Phroon nods)
+9/7/25 4:15:09a Daerdain is no longer fallen.
+9/7/25 4:15:14a Ravenstorm growls, "yu"
+9/7/25 4:15:15a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+9/7/25 4:15:16a Warawonda has fallen to an Ethereal Golem.
+9/7/25 4:15:16a Phroon says, "Welcome"
+9/7/25 4:15:16a Elenis Reyav asks, "Time to go meet that bloke outside then, eh?"
+9/7/25 4:15:19a •You sense healing energy from Phroon.
+9/7/25 4:15:22a •You sense healing energy from Dandelion.
+9/7/25 4:15:26a •You sense healing energy from LittlePrince.
+9/7/25 4:15:26a You are no longer sharing experiences with Balangar.
+9/7/25 4:15:26a You begin sharing your experiences with LittlePrince.
+9/7/25 4:15:26a You are sharing experiences with LittlePrince, Hashak, Sycamore, Dandelion and Phroon.
+9/7/25 4:15:27a Balangar thinks, "folks not in tour to help Catan (GCP) ?"
+9/7/25 4:15:28a •You sense healing energy from Hashak.
+9/7/25 4:15:28a •You sense healing energy from Sycamore.
+9/7/25 4:15:34a You have 8907 coins.
+9/7/25 4:15:41a (Abox hates those guys)
+9/7/25 4:15:42a (Ponyo protecc pookoko)
+9/7/25 4:15:44a Warawonda thinks, "most likely metz cove"
+9/7/25 4:15:47a SaintMiker has fallen to an Ethereal Jackpot.
+9/7/25 4:15:52a Clemence yells, "save my Giben!!!!"
+9/7/25 4:15:55a * You pick up 27 coins.
+9/7/25 4:15:55a * You gain experience.
+9/7/25 4:15:57a Phroon says, "Small part of me want to like take the path to the keep and leave him out there waiting."
+9/7/25 4:16:06a You equip your Staff of Ballou.
+9/7/25 4:16:06a (Garr smiles)
+9/7/25 4:16:07a Elenis Reyav growls, "Time to avenge ourselves"
+9/7/25 4:16:07a You slip your Staff of Ballou into your backpack.
+9/7/25 4:16:10a Ponyo ponders, "stalker strong"
+9/7/25 4:16:11a SaintMiker is no longer fallen.
+9/7/25 4:16:11a Elenis Reyav growls, "If he's waiting outside"
+9/7/25 4:16:12a Dandelion says, "Your Giben? Well, darn. I tought he was our Gbem"
+9/7/25 4:16:15a Elenis Reyav growls, "We must be ready"
+9/7/25 4:16:17a * You pick up 398 coins.
+9/7/25 4:16:19a Onashi growls, "hahahaha"
+9/7/25 4:16:20a Ponyo says, "hah"
+9/7/25 4:16:23a Eirian Caldwell growls, "wow"
+9/7/25 4:16:27a Garr exclaims, "We can't let him kill or Capture Bosun though!"
+9/7/25 4:16:31a Clemence ponders, "its like im taking a pet for a walk, but its a corpse"
+9/7/25 4:16:32a Elenis Reyav growls, "Indeed"
+9/7/25 4:16:32a Ponyo ponders, "don't say it out loud. don't say it out loud."
+9/7/25 4:16:32a Eirian Caldwell growls, "ethereal jackpot is right :D"
+9/7/25 4:16:36a Ravenstorm says, "those Jackpots are pretty okay ^^"
+9/7/25 4:16:36a Phroon says, "oh right"
+9/7/25 4:16:36a Elenis Reyav growls, "That's our lead to more baby mimics!"
+9/7/25 4:16:46a Garr ponders, "Especially when he might know where some baby mimics are!"
+9/7/25 4:16:51a (Elenis Reyav nods.)
+9/7/25 4:16:54a Pookoiko says, "two of em pirates ran pass me down where i was fallen, idk if they were up here aswell"
+9/7/25 4:16:59a Elenis Reyav growls, "We cleared out the temple, as requested."
+9/7/25 4:17:02a Phroon yells, "Alright, heading back this way"
+9/7/25 4:17:03a Pe Ell says, "He said he'd be outside waiting for us"
+9/7/25 4:17:06a Garr says, "that was the boss and friend, they ran away from me"
+9/7/25 4:17:09a Pookoiko says, "ok"
+9/7/25 4:17:44a Woolf has been fallen for some time because of jagged rocks.
+9/7/25 4:17:52a * You pick up 85 coins.
+9/7/25 4:17:52a * You gain experience.
+9/7/25 4:17:53a Catan has been fallen for some time because of a Giant Carnivorous Plankton.
+9/7/25 4:17:57a * Your mental enhancement fades.
+9/7/25 4:18:04a Garr says, "If we're clearing out the temple we should probably hit upstairs too"
+9/7/25 4:18:08a Phroon says, "yeah"
+9/7/25 4:18:11a Phroon says, "good idea"
+9/7/25 4:18:13a Elenis Reyav growls, "Did we not?"
+9/7/25 4:18:18a Garr asks, "Oh did we?"
+9/7/25 4:18:24a Garr says, "I wasn't there at least"
+9/7/25 4:18:28a You have 9417 coins.
+9/7/25 4:18:29a * You're not sure, but the thick ethereal vapor hanging in the Temple seems a bit thinner as you ascend towards the surface.
+9/7/25 4:18:30a Phroon says, "lets poke"
+9/7/25 4:18:36a Garr asks, "you went in here earlier?"
+9/7/25 4:18:47a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+9/7/25 4:18:47a Warawonda has fallen to a sudden surprise.
+9/7/25 4:18:50a Warawonda says, "hehe"
+9/7/25 4:18:52a SaintMiker has fallen to an Ethereal Sailor.
+9/7/25 4:18:52a Garr ponders, "got her"
+9/7/25 4:18:53a Seaforth turns to stone.
+9/7/25 4:18:56a * You pick up 1 coin.
+9/7/25 4:18:56a * You gain experience.
+9/7/25 4:18:56a Warawonda says, "so cool"
+9/7/25 4:19:00a •You sense healing energy from Balangar.
+9/7/25 4:19:00a You are no longer sharing experiences with Phroon.
+9/7/25 4:19:00a You begin sharing your experiences with Balangar.
+9/7/25 4:19:00a You are sharing experiences with Balangar, LittlePrince, Hashak, Sycamore and Dandelion.
+9/7/25 4:19:01a •You sense healing energy from Dandelion.
+9/7/25 4:19:04a •You sense healing energy from Phroon.
+9/7/25 4:19:05a You are no longer sharing experiences with Dandelion.
+9/7/25 4:19:05a You begin sharing your experiences with Phroon.
+9/7/25 4:19:05a You are sharing experiences with Phroon, Balangar, LittlePrince, Hashak and Sycamore.
+9/7/25 4:19:05a SaintMiker is no longer fallen.
+9/7/25 4:19:08a You are no longer sharing experiences with Sycamore.
+9/7/25 4:19:08a You begin sharing your experiences with Dandelion.
+9/7/25 4:19:08a You are sharing experiences with Dandelion, Phroon, Balangar, LittlePrince and Hashak.
+9/7/25 4:19:12a Cecil yells, "c"
+9/7/25 4:19:20a You equip your Staff of Ballou.
+9/7/25 4:19:21a You slip your Staff of Ballou into your backpack.
+9/7/25 4:19:23a You gave signed good karma to LittlePrince, :).
+9/7/25 4:19:25a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+9/7/25 4:19:25a Warawonda has fallen to a lightning bolt.
+9/7/25 4:19:28a SaintMiker has fallen to an Enchanted Peg-Leg.
+9/7/25 4:19:29a Ponyo exclaims, "friend!"
+9/7/25 4:19:30a Phroon yells, "scientist bolter"
+9/7/25 4:19:32a LittlePrince has fallen to a lightning bolt.
+9/7/25 4:19:37a Garr says, "the money chests don't give exp"
+9/7/25 4:19:39a (Seaforth): The marble Seaforth Monument begins to shimmer...
+9/7/25 4:19:45a Phroon yells, "bolter"
+9/7/25 4:19:49a •You sense healing energy from Balangar.
+9/7/25 4:19:54a Daerdain has fallen to an Enchanted Peg-Leg.
+9/7/25 4:19:54a Elenis Reyav ponders, "Ouchers"
+9/7/25 4:19:59a Clemence says, "lms"
+9/7/25 4:20:03a Hashak exclaims, "that was a spicy one!"
+9/7/25 4:20:08a •You sense healing energy from Hashak.
+9/7/25 4:20:12a LittlePrince is no longer fallen.
+9/7/25 4:20:13a The sharp smell of ether stings your nostrils.
+9/7/25 4:20:15a Valadorei has fallen to an Enchanted Peg-Leg.
+9/7/25 4:20:16a Ponyo yells, "friend (or c)"
+9/7/25 4:20:20a Valadorei yells, "ow"
+9/7/25 4:20:25a You equip your chain.
+9/7/25 4:20:25a You recover some of the metal.
+9/7/25 4:20:25a Your chain breaks as you try to use it.
+9/7/25 4:20:33a * Your mental enhancement fades.
+9/7/25 4:20:33a Clemence yells, "chain broke"
+9/7/25 4:20:34a Balangar has fallen to an Enchanted Peg-Leg.
+9/7/25 4:20:37a The way is sealed by iron bars and an ethereal force.
+9/7/25 4:20:44a Woolf is becoming part of the scenery, since falling to jagged rocks.
+9/7/25 4:20:46a The way is sealed by iron bars and an ethereal force.
+9/7/25 4:20:47a Garr yells, "Bosun can you hear us?"
+9/7/25 4:20:53a Elenis Reyav ponders, "I should study mimics.. maybe."
+9/7/25 4:20:53a Catan is becoming part of the scenery, since falling to a Giant Carnivorous Plankton.
+9/7/25 4:20:58a SaintMiker is no longer fallen.
+9/7/25 4:21:00a You detect that the local ether activity is strange.
+9/7/25 4:21:03a Clemence says, "so i no longer have a chain... if someone can chain SF"
+9/7/25 4:21:05a You perceive that the local ether activity is very unusual.
+9/7/25 4:21:11a * Your mental enhancement fades.
+9/7/25 4:21:13a Garr yells, "If you can watch out for a nasty Darshak he's heading your way I think"
+9/7/25 4:21:13a * You hear a faint shout on the breeze, something like …"bush."
+9/7/25 4:21:14a You distinguish that the local ether activity is weird.
+9/7/25 4:21:17a The way is sealed by iron bars and an ethereal force.
+9/7/25 4:21:18a Balangar is no longer fallen.
+9/7/25 4:21:25a You have 9418 coins.
+9/7/25 4:21:32a Warawonda asks, "hmm?"
+9/7/25 4:21:40a Garr says, "This guy did call venebles a coward though"
+9/7/25 4:21:42a Valadorei is no longer fallen.
+9/7/25 4:21:47a Cecil ponders, "\ignore pon"
+9/7/25 4:21:51a (Hashak will chain ponyo and shadow)
+9/7/25 4:21:52a Garr says, "Not sure what his problem was with him though"
+9/7/25 4:21:55a The way is sealed by iron bars and an ethereal force.
+9/7/25 4:22:05a You detect that the local ether activity is very unusual.
+9/7/25 4:22:07a Catan is no longer Clanning.
+9/7/25 4:22:08a You distinguish that the local ether activity is weird.
+9/7/25 4:22:19a Clemence exclaims, "you are a stronger healer than me so i thought i would!"
+9/7/25 4:22:19a Hashak says, "you can"
+9/7/25 4:22:30a The way is sealed by iron bars and an ethereal force.
+9/7/25 4:22:33a Ravenstorm says, "when we fight the op boss pls make sure Gorv Pook Cecil myself..anyone with higher atkus can get in to finish it off'"
+9/7/25 4:22:34a Woolf is no longer Clanning.
+9/7/25 4:22:35a •You sense healing energy from Dandelion.
+9/7/25 4:22:39a * Your mental enhancement fades.
+9/7/25 4:22:47a Elenis Reyav ponders, "And mystics are boosting"
+9/7/25 4:22:49a (Hashak): Clem is designated chainer
+9/7/25 4:22:51a Ravenstorm says, "yes"
+9/7/25 4:22:51a Elenis Reyav ponders, "And stoners are stoning"
+9/7/25 4:22:53a Daerdain is still fallen to an Enchanted Peg-Leg.
+9/7/25 4:22:55a Elenis Reyav ponders, "And healers are healing"
+9/7/25 4:22:58a Clemence says, "yes, tag and run, dont sit there are let it slaughter you."
+9/7/25 4:23:00a Phroon yells, "Ok, lets head back out"
+9/7/25 4:23:04a Elenis Reyav ponders, "And Elenis is falling"
+9/7/25 4:23:07a Clemence says, "make room for the big guns hehe"
+9/7/25 4:23:10a The sharp smell of ether stings your nostrils.
+9/7/25 4:23:10a Hashak says, "oh I guess we gotta kill Ponhoy"
+9/7/25 4:23:13a Hashak says, "oh I guess we gotta kill Ponyo"
+9/7/25 4:23:19a You find that the local ether activity is very unusual.
+9/7/25 4:23:20a Clemence says, "oh shoot"
+9/7/25 4:23:44a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+9/7/25 4:23:45a Warawonda has fallen to an Ethereal Sailor.
+9/7/25 4:23:51a Hashak says, "that was not for you :P"
+9/7/25 4:23:54a Clemence says, "kihehe"
+9/7/25 4:23:57a •You sense healing energy from Hashak.
+9/7/25 4:24:07a Hashak says, "dont heal Ponyo"
+9/7/25 4:24:08a Warawonda asks, "bush?"
+9/7/25 4:24:11a Clemence thinks, "killing ponyo"
+9/7/25 4:24:12a •You sense healing energy from Hashak.
+9/7/25 4:24:14a Hashak says, "heal wara tho"
+9/7/25 4:24:18a Warawonda asks, "push?"
+9/7/25 4:24:23a You have 9418 coins.
+9/7/25 4:24:29a Warawonda says, "hmm"
+9/7/25 4:24:32a Hashak starts dragging you.
+9/7/25 4:24:38a The sharp smell of ether stings your nostrils.
+9/7/25 4:24:40a Hashak yells, "Root for trees!"
+9/7/25 4:24:40a Clemence yells, "damn it!"
+9/7/25 4:24:43a Warawonda ponders, "brush?"
+9/7/25 4:24:44a Valadorei has fallen to a Tyrenel Imperious.
+9/7/25 4:24:49a Clemence says, "Abox best Zo"
+9/7/25 4:24:58a Hashak yells, "It's Dwarfin' Time!"
+9/7/25 4:25:05a * Your mental enhancement fades.
+9/7/25 4:25:06a Clemence yells, "nooooo dande!"
+9/7/25 4:25:07a * Your mental enhancement fades.
+9/7/25 4:25:14a Clemence says, "she healed ponyo lol"
+9/7/25 4:25:22a Hashak says, "dag nabbit"
+9/7/25 4:25:24a Dandelion is too far away for your explanation.
+9/7/25 4:25:24a You gave signed good karma to Dandelion.
+9/7/25 4:25:30a (Abox suspects this will be an issue)
+9/7/25 4:25:37a Clemence says, "big issue, HUGE"
+9/7/25 4:25:41a (Abox's ears swivel to the front)
+9/7/25 4:25:48a Hashak thinks, "sooo.. I'm stuck on a wall with a bunch of fallen..."
+9/7/25 4:25:54a Daerdain has been fallen for some time because of an Enchanted Peg-Leg.
+9/7/25 4:26:07a Valadorei is no longer fallen.
+9/7/25 4:26:12a Hashak thinks, "who do I got here.. Wara, Vyl, Shadow, Clem, Abox, and a ghost thats gonnaget me"
+9/7/25 4:26:14a Clemence says, "oh no hash"
+9/7/25 4:26:26a Hashak says, "eff you guy"
+9/7/25 4:26:29a Sycamore thinks, "we have people still inside the temple"
+9/7/25 4:26:30a Warawonda says, "when we where up top * You hear a faint shout on the breeze, something like …"bush.""
+9/7/25 4:26:37a Hashak has fallen to an Ethereal Sailor.
+9/7/25 4:26:46a Hashak says, "dangit"
+9/7/25 4:27:14a Dandelion thinks, "Workin' on killin' Ponyo again"
+9/7/25 4:27:18a Hashak says, "well this is a pee in the pants"
+9/7/25 4:27:23a You have 9418 coins.
+9/7/25 4:27:39a (Hashak listens to 3 Inches of Blood)
+9/7/25 4:27:47a (Hashak would put up the horns, but...)
+9/7/25 4:28:07a Dandelion has fallen to an Enchanted Peg-Leg.
+9/7/25 4:28:15a Dandelion yells, "Well, Ponyo's down"
+9/7/25 4:28:23a Hashak yells, "me too!"
+9/7/25 4:28:40a Elenis Reyav yells, "?"
+9/7/25 4:28:42a Shobaffum yells, "?"
+9/7/25 4:28:54a Daerdain has been fallen for some time because of an Enchanted Peg-Leg.
+9/7/25 4:29:36a Hashak is still fallen to an Ethereal Sailor.
+9/7/25 4:30:18a You have 9418 coins.
+9/7/25 4:30:54a Hashak yells, "I did an oops!"
+9/7/25 4:31:06a Dandelion is still fallen to an Enchanted Peg-Leg.
+9/7/25 4:31:13a Hashak asks, "is that a ghost dog over there?"
+9/7/25 4:31:17a Dandelion is no longer fallen.
+9/7/25 4:31:19a Hashak says, "I thought all dogs went to heaven"
+9/7/25 4:31:25a You gave signed good karma to Hashak, :).
+9/7/25 4:31:46a Warawonda says, "hehehe"
+9/7/25 4:31:53a Daerdain is becoming part of the scenery, since falling to an Enchanted Peg-Leg.
+9/7/25 4:32:01a Shobaffum thinks, "where is the group?"
+9/7/25 4:32:19a Phroon thinks, "Main group is on W TI, outside Red Quild hut"
+9/7/25 4:32:19a Tyrenel Imperious thinks, "So, you've decided to cower and hide. That's understandable."
+9/7/25 4:32:25a Sycamore thinks, "healing outside hu8t, about to go back in for rest of fallen"
+9/7/25 4:32:30a Ravenstorm thinks, "we are coming B"
+9/7/25 4:32:36a Hashak has been fallen for some time because of an Ethereal Sailor.
+9/7/25 4:32:43a Elenis Reyav thinks, "Hrm, seems like you're hiding. Thought you'd be outside, Tyrenel."
+9/7/25 4:32:45a Ponyo thinks, "clearly you've never had to bring 30 people through a small tunnel!"
+9/7/25 4:33:11a You have 9418 coins.
+9/7/25 4:33:12a Tyrenel Imperious thinks, "I'm at the Temple twirling my sword and my mustache."
+9/7/25 4:33:22a Ravenstorm thinks, "on the way"
+9/7/25 4:33:25a Thrain thinks, "that was a mustache?"
+9/7/25 4:33:29a Tyrenel Imperious thinks, "It's a quiet life, killing scientists and taking their notes."
+9/7/25 4:33:33a LittlePrince has fallen to a Tyrenel Imperious.
+9/7/25 4:33:43a Dandelion thinks, "Most of us are goin' fer da snail races since da bad guys gaved up on us"
+9/7/25 4:33:49a Valadorei has fallen to a Mimic.
+9/7/25 4:33:54a SaintMiker has fallen to an Ethereal Sailor.
+9/7/25 4:34:54a Daerdain is becoming part of the scenery, since falling to an Enchanted Peg-Leg.
+9/7/25 4:35:09a LittlePrince is no longer fallen.
+9/7/25 4:35:16a Valadorei is no longer fallen.
+9/7/25 4:35:34a SaintMiker is no longer fallen.
+9/7/25 4:35:37a Hashak has been fallen for some time because of an Ethereal Sailor.
+9/7/25 4:35:57a Phroon has fallen to an Ethereal Sailor.
+9/7/25 4:36:03a You have 9418 coins.
+9/7/25 4:36:13a Tyrenel Imperious thinks, "Tunnels make a fine habitat for rats and vermine."
+9/7/25 4:36:14a Phroon is no longer fallen.
+9/7/25 4:36:19a Hashak yells, "hi"
+9/7/25 4:36:25a Eirian Caldwell thinks, "like you?"
+9/7/25 4:36:29a Ravenstorm thinks, "talk crap but run? makes sense"
+9/7/25 4:36:35a Ponyo thinks, "that explains most of the ash temple!"
+9/7/25 4:36:36a Onashi thinks, "we have seen no rats nor vermine down here. What are you talking about?"
+9/7/25 4:36:53a Phroon yells, "here"
+9/7/25 4:36:54a Elenis Reyav starts dragging you.
+9/7/25 4:37:04a Tyrenel Imperious thinks, "It seems unsporting to kill you all down there instead of letting your friends on the surface watch."
+9/7/25 4:37:26a Valadorei is too far away for your explanation.
+9/7/25 4:37:26a You gave signed good karma to Valadorei.
+9/7/25 4:37:49a Elenis Reyav finds a hidden shortcut.
+9/7/25 4:37:52a Unk exclaims, "Unk dig!"
+9/7/25 4:37:53a Clemence says, "oh thank gaia"
+9/7/25 4:37:54a Daerdain is becoming part of the scenery, since falling to an Enchanted Peg-Leg.
+9/7/25 4:37:59a Elenis Reyav thinks, "Fallens on my chain.. but everyone else ditched me."
+9/7/25 4:38:01a Tyrenel Imperious thinks, "I'm just looking forward to having roast bear and thoom calamari from the galley for breakfast."
+9/7/25 4:38:10a Clemence exclaims, "yeah see thats what happened to us!"
+9/7/25 4:38:12a A map of Puddleby town is overdrawn with battle plans.
+9/7/25 4:38:14a Balangar has fallen to a lightning bolt.
+9/7/25 4:38:18a The battle plans are overdrawn with some kind waxy purple pigment.
+9/7/25 4:38:24a Warawonda says, "thanks for getting us :)"
+9/7/25 4:38:24a Phroon thinks, "Location ER?"
+9/7/25 4:38:27a Onashi thinks, "Bears eat. They do not get eaten."
+9/7/25 4:38:29a Balangar is no longer fallen.
+9/7/25 4:38:32a (Elenis Reyav nods.)
+9/7/25 4:38:34a Seaforth thinks, "Thoom calamari is good, ngl"
+9/7/25 4:38:36a Hashak is becoming part of the scenery, since falling to an Ethereal Sailor.
+9/7/25 4:38:48a Elenis Reyav ponders, "No exile left behind.."
+9/7/25 4:38:53a Tyrenel Imperious thinks, "Swipe right to prove it."
+9/7/25 4:38:53a SaintMiker has fallen to an Ethereal Sailor.
+9/7/25 4:38:56a You have 9418 coins.
+9/7/25 4:39:04a SaintMiker is no longer fallen.
+9/7/25 4:39:13a Abox says, "ooc serous storm here IRL going offline probably very soon"
+9/7/25 4:39:14a Garr says, "Thanks elenis"
+9/7/25 4:39:17a Garr asks, "Where were they?"
+9/7/25 4:39:18a Elenis Reyav says, "Ah, there ya'll are."
+9/7/25 4:39:19a By proclamation of the Regional Dance Off judges, this hut is now property of Red Quill.
+9/7/25 4:39:22a Elenis Reyav says, "They were South of us."
+9/7/25 4:39:24a Elenis Reyav says, "Not upstairs."
+9/7/25 4:39:25a A map of Puddleby town is overdrawn with battle plans.
+9/7/25 4:39:26a Clemence says, "well well well well well"
+9/7/25 4:39:26a (Phroon facepalms)
+9/7/25 4:39:27a Garr says, "Ahh"
+9/7/25 4:39:30a Phroon says, "My bad"
+9/7/25 4:39:31a The battle plans are overdrawn with some kind waxy purple pigment.
+9/7/25 4:39:33a By proclamation of the Regional Dance Off judges, this hut is now property of Red Quill.
+9/7/25 4:39:39a * You feel mentally enhanced by Valadorei...
+9/7/25 4:39:40a Hashak is no longer fallen.
+9/7/25 4:39:41a Clemence exclaims, "no raise shadow remember!"
+9/7/25 4:39:41a Elenis Reyav ponders, "And then the sailors chased me."
+9/7/25 4:39:44a Garr says, "Ok, gonna pop out the well again incase he's waiting to ambush us"
+9/7/25 4:39:46a A map of Puddleby town is overdrawn with battle plans.
+9/7/25 4:39:47a (Elenis Reyav nods.)
+9/7/25 4:39:48a Tyrenel Imperious thinks, "I should get my carpenters to work finishing this temple's construction while I wait."
+9/7/25 4:39:48a •You sense healing energy from Dandelion.
+9/7/25 4:39:48a •You sense healing energy from Phroon.
+9/7/25 4:39:48a •You sense healing energy from Balangar.
+9/7/25 4:39:49a •You sense healing energy from Hashak.
+9/7/25 4:39:49a By proclamation of the Regional Dance Off judges, this hut is now property of Red Quill.
+9/7/25 4:39:49a Garr says, "scuse"
+9/7/25 4:39:52a The battle plans are overdrawn with some kind waxy purple pigment.
+9/7/25 4:39:52a •You sense healing energy from Sycamore.
+9/7/25 4:39:52a Phroon says, "Hard wrangling with these small twisty passages"
+9/7/25 4:39:57a Clemence says, "i can chain her elenis"
+9/7/25 4:40:00a Hashak exclaims, "yay we win!"
+9/7/25 4:40:01a (Elenis Reyav nods.)
+9/7/25 4:40:04a Ponyo ponders, "as the battle gets more intense, so does the coneless beast's yells. brb a minute"
+9/7/25 4:40:08a A map of Puddleby town is overdrawn with battle plans.
+9/7/25 4:40:10a Garr says, "outside safe when we're ready"
+9/7/25 4:40:12a Elenis Reyav growls, "He said he was outside temple"
+9/7/25 4:40:13a Clemence asks, "oh did you guys get the boss already?"
+9/7/25 4:40:14a The battle plans are overdrawn with some kind waxy purple pigment.
+9/7/25 4:40:15a Elenis Reyav growls, "So probably north."
+9/7/25 4:40:16a Ravenstorm thinks, "why? last time we found you and stayng beating on you you just ran..so make up your mind"
+9/7/25 4:40:18a Garr says, "No Clemence"
+9/7/25 4:40:18a Thrain thinks, "you should consider some better decorations, where are all the bookshelves?"
+9/7/25 4:40:19a Eirian Caldwell says, "no"
+9/7/25 4:40:26a Phroon thinks, "Right now the score is Passages: 2, Lore Tour: 3."
+9/7/25 4:40:28a Elenis Reyav growls, "Everyone, let's get prepared. Boosted, etc, etc."
+9/7/25 4:40:29a A map of Puddleby town is overdrawn with battle plans.
+9/7/25 4:40:37a The sign has been defaced and is now unreadable.
+9/7/25 4:40:47a You equip your Staff of Ballou.
+9/7/25 4:40:48a You slip your Staff of Ballou into your backpack.
+9/7/25 4:40:50a Dandelion says, "We'll decorate once da Darshak infestation is gone"
+9/7/25 4:40:53a Daerdain's body has been all but forgotten, having fallen to an Enchanted Peg-Leg.
+9/7/25 4:40:54a (Elenis Reyav glances North.)
+9/7/25 4:40:59a Pe Ell ponders, "Twisty narrow passages: the bane of lore"
+9/7/25 4:41:05a The sign has been defaced and is now unreadable.
+9/7/25 4:41:06a Onashi growls, "Bearevenge"
+9/7/25 4:41:09a Eirian Caldwell says, "truth"
+9/7/25 4:41:16a Garr says, "It's not an ideal retreating spot but the poker ship north is safe"
+9/7/25 4:41:16a Cecil thinks, "you have small D(arshak) energy!"
+9/7/25 4:41:25a The sign has been defaced and is now unreadable.
+9/7/25 4:41:27a Garr says, "just in case you're running"
+9/7/25 4:41:42a Dandelion says, "Iff'n only one knew which were da poker ship"
+9/7/25 4:41:43a Elenis Reyav growls, "Brace ourselves."
+9/7/25 4:41:44a LittlePrince has fallen to an Ethereal Sailor.
+9/7/25 4:41:44a Bear Guard growls, "Grrr."
+9/7/25 4:41:47a You have 9418 coins.
+9/7/25 4:41:48a Elenis Reyav growls, "We face a powerful ffoe."
+9/7/25 4:41:48a LittlePrince is no longer fallen.
+9/7/25 4:41:50a The bear rumbles low in its throat.
+9/7/25 4:41:51a Garr ponders, "the only ship north"
+9/7/25 4:41:51a Elenis Reyav growls, "We face a powerful foe."
+9/7/25 4:41:55a Ravenstorm says, "pls thank your healers and mystics"
+9/7/25 4:41:56a Tyrenel Imperious thinks, "Well, your cloak looks stupid."
+9/7/25 4:42:00a Cecil says, "LOL"
+9/7/25 4:42:07a Thrain thinks, "your face looks stupid. that mustache is so out-dated"
+9/7/25 4:42:08a Sycamore thinks, "ooh, now them's fightin' words"
+9/7/25 4:42:13a Ponyo thinks, "do I hear jealousy?"
+9/7/25 4:42:15a Onashi yells, "BEAR GUARDS, YOUR FAMILY REQUEST YOUR ASSISTANCE. BEAREVENGE MUST BE HAD"
+9/7/25 4:42:16a Cecil thinks, "Slyph says otherwise!"
+9/7/25 4:42:17a Ravenstorm asks, "Daer?"
+9/7/25 4:42:18a Elenis Reyav thinks, "Oof. Descent into childishness, commence."
+9/7/25 4:42:27a Clemence thinks, "i havent met you yet! but you see grumpy, maybe you need a nap sir?"
+9/7/25 4:42:34a Elenis Reyav growls, "Shall we?"
+9/7/25 4:42:35a Warawonda ponders, "hmm?"
+9/7/25 4:42:36a Elenis Reyav growls, "Everyone ready?"
+9/7/25 4:42:37a Dandelion thinks, "Rully Tyrenol? Dat's da best ya got? Pickin' on clovin' choices?"
+9/7/25 4:42:37a The sign has been defaced and is now unreadable.
+9/7/25 4:42:38a * Your mental enhancement fades.
+9/7/25 4:42:38a Phroon says, "topping off"
+9/7/25 4:42:39a Tyrenel Imperious thinks, "I'll be the one giving out naps."
+9/7/25 4:42:41a Garr asks, "Hmm... would it be worthwhile for someone to try and distract all of them from the warter north so we can get a better setup?"
+9/7/25 4:42:42a Ravenstorm asks, "Daerdain is where?"
+9/7/25 4:42:43a The sign has been defaced and is now unreadable.
+9/7/25 4:42:52a Phroon says, "smart"
+9/7/25 4:42:55a Clemence thinks, "oh my yes ill take on nap please!"
+9/7/25 4:42:59a Garr says, "Or we can charge that's always fun too"
+9/7/25 4:43:03a Clemence ponders, "kill him with happiness"
+9/7/25 4:43:12a Elenis Reyav growls, "We've got shieldstones."
+9/7/25 4:43:17a Elenis Reyav growls, "I'd say let's try to contain."
+9/7/25 4:43:19a (Onashi rawrs in homage to the GREAT BEAR SPIRIT)
+9/7/25 4:43:26a Phroon thinks, "North!"
+9/7/25 4:43:27a You gave signed good karma to LittlePrince, :).
+9/7/25 4:43:29a Cecil thinks, "I hear you pour milk first, then the cereal"
+9/7/25 4:43:30a Tyrenel Imperious thinks, "Are you quite done scurrying about in the dirt? Come and fight!"
+9/7/25 4:43:33a Dandelion says, "I make excellent bait .. right up 'til I fall (quickly)"
+9/7/25 4:43:35a Warawonda ponders, "are they trying to make that mirror work via etherial as a portal?"
+9/7/25 4:43:40a Thrain thinks, "If you surrender now ill shave the mustache for free"
+9/7/25 4:43:53a * You pick up 190 coins.
+9/7/25 4:43:54a Daerdain's body has been all but forgotten, having fallen to an Enchanted Peg-Leg.
+9/7/25 4:43:54a Sycamore exclaims, "they killed bosun!"
+9/7/25 4:43:55a SaintMiker has fallen to a Tyrenel Imperious.
+9/7/25 4:43:56a Bosun Higgs says, "They got me…"
+9/7/25 4:44:03a Clemence thinks, "you know, i have this great place at home for naps, its called a cuddle puddle room! my clan invites you over grumpy sir!"
+9/7/25 4:44:05a Dandelion exclaims, "How dast dey?!"
+9/7/25 4:44:06a * You pick up 318 coins.
+9/7/25 4:44:14a * You pick up 113 coins.
+9/7/25 4:44:14a Elenis Reyav yells, "Heal our friend and ally, Bosun Higgs!"
+9/7/25 4:44:16a * You pick up 335 coins.
+9/7/25 4:44:17a Clemence exclaims, "dont worry sir we will help you!"
+9/7/25 4:44:19a Warawonda says, "oh no bosun"
+9/7/25 4:44:21a Elenis Reyav ponders, "And fellow scientist."
+9/7/25 4:44:29a Garr says, "He ran into the EP"
+9/7/25 4:44:30a Bosun Higgs says, "Ugh… stabbed in the back."
+9/7/25 4:44:33a Clemence says, "if we can heal mystics we can heal you"
+9/7/25 4:44:40a You have 10374 coins.
+9/7/25 4:44:49a Onashi thinks, "This pirate clearly fears THE GREAT BEAR SPIRIT"
+9/7/25 4:44:52a (Thrain): wubb wubb
+9/7/25 4:44:59a Ponyo thinks, "damn. got so scared you ran into another plane of existence. truly the bravest of the shak!"
+9/7/25 4:45:07a Bosun Higgs says, "useitem swiss ;heal -50%"
+9/7/25 4:45:07a (Dandelion laughs)
+9/7/25 4:45:09a (Bosun Higgs mutters.)
+9/7/25 4:45:09a Ravenstorm says, "Daerdain is missing"
+9/7/25 4:45:20a Eirian Caldwell growls, "if we can't raise, should we chain them?"
+9/7/25 4:45:21a Clemence says, "damn it"
+9/7/25 4:45:28a (Phroon isn't sure how he got his boat ashore.)
+9/7/25 4:45:28a Garr says, "Inside theres about a 75% chance of a lot of hunters and a 25% chance of a lot of spumes on top of whatever he has with him"
+9/7/25 4:45:29a Bosun Higgs says, "That's what I said."
+9/7/25 4:45:30a Thrain exclaims, "hes goin up!"
+9/7/25 4:45:32a Bosun Higgs is a Human, is male, is an exile, and is not wearing the symbol of any clan.
+9/7/25 4:45:32a He is holding a wooden shield, and he is wearing a sunstone.
+9/7/25 4:45:32a (is wearing a tattoo)
+9/7/25 4:45:36a Elenis Reyav thinks, "Somewhat disappointed after all that bluster, Tyren."
+9/7/25 4:45:41a (Abox ’s ears flick)
+9/7/25 4:45:50a * Your mental enhancement fades.
+9/7/25 4:45:50a Sycamore says, "There we go"
+9/7/25 4:45:50a Bosun Higgs says, "Much obliged, friends."
+9/7/25 4:45:53a Warawonda asks, "?"
+9/7/25 4:46:02a Sycamore says, "Right as rain"
+9/7/25 4:46:05a Eirian Caldwell growls, "Raise dirk too?"
+9/7/25 4:46:09a Elenis Reyav asks, "Hrm. Can we do anything for Dirk?"
+9/7/25 4:46:09a Clemence ponders, "Tyren are you at my house maybe? I did invite you but I didn't mean NOW! My friends want to speak with you"
+9/7/25 4:46:17a You equip your Staff of Ballou.
+9/7/25 4:46:18a You slip your Staff of Ballou into your backpack.
+9/7/25 4:46:18a Clemence thinks, "Tyren are you at my house maybe? I did invite you but I didn't mean NOW! My friends want to speak with you"
+9/7/25 4:46:27a Elenis Reyav growls, "Hrm. Can we do anything for Dirk?"
+9/7/25 4:46:32a Hashak says, "Dirk seems to be unraisable"
+9/7/25 4:46:35a Cecil says, "Bosun, I think Sheldon Cooper is looking for you"
+9/7/25 4:46:40a Balangar says, "don't think so"
+9/7/25 4:46:47a Hashak exclaims, "Dirk noooo!"
+9/7/25 4:46:50a Clemence ponders, "please thank your healers"
+9/7/25 4:46:50a (Elenis Reyav smiles.)
+9/7/25 4:46:51a Hashak exclaims, "Dirk yes!"
+9/7/25 4:46:52a (Garr smiles)
+9/7/25 4:46:52a Elenis Reyav growls, "Well, we cleared out the temple."
+9/7/25 4:46:54a Daerdain's body has been all but forgotten, having fallen to an Enchanted Peg-Leg.
+9/7/25 4:46:55a SaintMiker is still fallen to a Tyrenel Imperious.
+9/7/25 4:46:55a Balangar says, "well ..."
+9/7/25 4:46:56a Bosun Higgs says, "They got me…"
+9/7/25 4:46:58a Dirk Deckswab asks, "Did you catch the guy who did this?"
+9/7/25 4:47:01a Elenis Reyav growls, "But Tyrenel fled outside."
+9/7/25 4:47:04a Thrain thinks, "Tylenol have you considered maybe not running away in fear of the great bear spirit?"
+9/7/25 4:47:05a Dandelion says, "Not yet"
+9/7/25 4:47:09a Bosun Higgs says, "They got me…"
+9/7/25 4:47:09a Dirk Deckswab exclaims, "Quit your theatrics, Bosun!"
+9/7/25 4:47:09a Garr says, "We really should take care of that guy unless he retreated further into the EP"
+9/7/25 4:47:12a Elenis Reyav growls, "And now looks like he fled to the ethereal plane."
+9/7/25 4:47:13a Onashi growls, "We know who, but haven't caught the pest, yet"
+9/7/25 4:47:16a Bosun Higgs says, "They got me…"
+9/7/25 4:47:16a Pe Ell growls, "Someone bravely go run in that EP"
+9/7/25 4:47:19a Ponyo exclaims, "go brave pe!"
+9/7/25 4:47:28a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+9/7/25 4:47:29a Warawonda has fallen to a Darshak Sworn Sword.
+9/7/25 4:47:30a Bosun Higgs says, "They got me…"
+9/7/25 4:47:30a Clemence ponders, "Daerdain is fallen to a peg leg, still in temple I assume"
+9/7/25 4:47:31a •You sense healing energy from Phroon.
+9/7/25 4:47:36a Cecil says, "I also can Pee bravely"
+9/7/25 4:47:37a Garr asks, "see hunters Pe Ell or just spumes?"
+9/7/25 4:47:37a You have 10374 coins.
+9/7/25 4:47:47a * You pick up 389 coins.
+9/7/25 4:47:55a •You sense healing energy from Balangar.
+9/7/25 4:47:56a Clemence says, "what if i just chain you Bosun, you seem a little... fragile"
+9/7/25 4:47:56a Abox ponders, "we need the senior rock hound for the EP"
+9/7/25 4:47:58a •You sense healing energy from Hashak.
+9/7/25 4:48:06a Seaforth asks, ""They got me"? Did you really say that?"
+9/7/25 4:48:08a * Your mental enhancement fades.
+9/7/25 4:48:11a Bosun Higgs says, "I'll be fine in a moment."
+9/7/25 4:48:17a (Warawonda nods)
+9/7/25 4:48:21a •You sense healing energy from Dandelion.
+9/7/25 4:48:27a Elenis Reyav growls, "Glad to hear."
+9/7/25 4:48:27a Phroon asks, "Any sign of him in EP?"
+9/7/25 4:48:29a Elenis Reyav growls, "Ah, there you go."
+9/7/25 4:48:29a Bosun Higgs says, "Just re-living past trauma."
+9/7/25 4:48:31a •You sense healing energy from Phroon.
+9/7/25 4:48:31a Elenis Reyav growls, "Right as rain."
+9/7/25 4:48:31a Seaforth says, ""Go on without me""
+9/7/25 4:48:34a Pe Ell growls, "was a ton of skels"
+9/7/25 4:48:40a Garr asks, "see hunters?"
+9/7/25 4:48:41a Bosun Higgs says, "I say, is that a boat that travels on land? Splendid."
+9/7/25 4:48:42a Elenis Reyav growls, "Or at least the non-acid or lava rain."
+9/7/25 4:48:44a Vylarian asks, "i gotta bail folks, can anyone escort me out?"
+9/7/25 4:48:46a Bosun Higgs says, "I'll have one like that, please."
+9/7/25 4:48:49a (Phroon nods.)
+9/7/25 4:48:51a * Your mental enhancement fades.
+9/7/25 4:49:04a Phroon says, "Science with that gambling boat, it seems."
+9/7/25 4:49:06a Bosun Higgs asks, "Now where's that fellow who did this?"
+9/7/25 4:49:07a Pe Ell thinks, "Pretty calm"
+9/7/25 4:49:15a Elenis Reyav growls, "He looks to have fled into the portal."
+9/7/25 4:49:20a Bosun Higgs asks, "I know I said I needed the temple cleared out, but do you mind one more favor?"
+9/7/25 4:49:26a Abox ponders, "where did Dandelion get to"
+9/7/25 4:49:27a Garr asks, "What's that?"
+9/7/25 4:49:27a Dandelion is too far away for your explanation.
+9/7/25 4:49:27a You gave signed good karma to Dandelion.
+9/7/25 4:49:33a Warawonda says, "sure thing"
+9/7/25 4:49:36a Bosun Higgs exclaims, "Getting the bastard who did me in!"
+9/7/25 4:49:36a Sycamore says, "she's here Abox"
+9/7/25 4:49:38a Elenis Reyav growls, "Sure. What a favors between fellow scientists?"
+9/7/25 4:49:38a Ravenstorm asks, "yes but can you bring Daerdain back to us from inside?"
+9/7/25 4:49:43a Ponyo thinks, "ethereal landshark!"
+9/7/25 4:49:46a Seaforth says, "But you arent dead"
+9/7/25 4:49:46a Garr says, "I think we were planning on that already"
+9/7/25 4:49:47a (Garr grins)
+9/7/25 4:49:49a Bosun Higgs says, "Ah, a bit of science? Well. Maybe with your mystics' help."
+9/7/25 4:49:53a Daerdain feels his spirit drifting away in a Shambolic Sanctum, his body fallen to an Enchanted Peg-Leg.
+9/7/25 4:49:55a SaintMiker has been fallen for some time because of a Tyrenel Imperious.
+9/7/25 4:50:01a Bosun Higgs asks, "What's this fellow look like?"
+9/7/25 4:50:04a SaintMiker says, "thank you"
+9/7/25 4:50:07a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+9/7/25 4:50:07a Warawonda has fallen to a Tyrenel Imperious.
+9/7/25 4:50:10a Elenis Reyav growls, "Oh, right."
+9/7/25 4:50:10a Thrain growls, "he had an ugly mustache"
+9/7/25 4:50:12a Onashi growls, "He's a dorf, green shirt like"
+9/7/25 4:50:13a Ponyo says, "he had a nice shirt, like yours."
+9/7/25 4:50:14a Garr says, "He's a dwarf"
+9/7/25 4:50:16a Dandelion says, "A little poncy"
+9/7/25 4:50:18a Elenis Reyav growls, "I almost forgot the other part of our deal."
+9/7/25 4:50:21a Bosun Higgs asks, "A dwarfw ith a green shirt. And he's in the temple?"
+9/7/25 4:50:24a Garr turns to stone.
+9/7/25 4:50:24a Thrain says, "oh hey"
+9/7/25 4:50:26a Pookoiko says, "well he is there"
+9/7/25 4:50:26a Pe Ell growls, "I coudl tell that and I"m not even a healer!"
+9/7/25 4:50:27a Onashi growls, "aye"
+9/7/25 4:50:29a Dandelion says, "Weasely moustaches"
+9/7/25 4:50:30a You have 10763 coins.
+9/7/25 4:50:34a * You pick up 655 coins.
+9/7/25 4:50:35a Phroon says, "Ah, whew"
+9/7/25 4:50:36a Thrain says, "tyranid came back"
+9/7/25 4:50:38a Thrain says, "and died."
+9/7/25 4:50:41a Dandelion says, "Weak chin"
+9/7/25 4:50:42a Garr says, "Ah that works too hehe"
+9/7/25 4:50:45a Pe Ell growls, "Died before half of us even knew he was here"
+9/7/25 4:50:46a Ravenstorm says, "gj gj"
+9/7/25 4:50:49a Elenis Reyav starts dragging you.
+9/7/25 4:50:51a •You sense healing energy from Phroon.
+9/7/25 4:50:53a Bosun Higgs says, "Pathetic."
+9/7/25 4:50:56a Onashi says, "yeah, that was weak sauce on his part, wow"
+9/7/25 4:50:59a Phroon says, "Glass cannon"
+9/7/25 4:51:01a Bosun Higgs asks, "Really, that was it?"
+9/7/25 4:51:06a (Bosun Higgs looks underwhelmed.)
+9/7/25 4:51:08a Phroon says, "He hit pretty hard"
+9/7/25 4:51:09a Ravenstorm says, "Ty needs some more histia training"
+9/7/25 4:51:11a Onashi thinks, "All talk and no game from the Darshaks. I guess that is to be expected."
+9/7/25 4:51:12a Pe Ell says, "Probably was his weak evil twin brother"
+9/7/25 4:51:15a Garr says, "Pook hits hard"
+9/7/25 4:51:16a Ponyo says, "must be related to Kani"
+9/7/25 4:51:17a * Your mental enhancement fades.
+9/7/25 4:51:22a Ravenstorm says, "Tyrenei needs some more histia training"
+9/7/25 4:51:23a (Bosun Higgs shrugs.)
+9/7/25 4:51:24a Eirian Caldwell ponders, "ouch!"
+9/7/25 4:51:26a Ravenstorm says, "Tyrenel needs some more histia training"
+9/7/25 4:51:27a Elenis Reyav growls, "Well, now that we've gotten those favors taken care of."
+9/7/25 4:51:29a •You sense healing energy from Phroon.
+9/7/25 4:51:29a Thrain asks, "Kani's distant cousin twice removed?"
+9/7/25 4:51:33a Catan is now Clanning.
+9/7/25 4:51:33a Daerdain says, "boing"
+9/7/25 4:51:35a Elenis Reyav growls, "I almost forgot! But I'm a scientist of my word."
+9/7/25 4:51:37a Dandelion exclaims, "Oh! I am so glad we're back to callin' 'im Pook!"
+9/7/25 4:51:40a Phroon exclaims, "There's Daerdain!"
+9/7/25 4:51:40a Clemence exclaims, "woah Daerdain!"
+9/7/25 4:51:45a Woolf is now Clanning.
+9/7/25 4:51:49a Elenis Reyav growls, "Here's that 10,000 coin for the baby mimic reports."
+9/7/25 4:51:51a Daerdain is no longer fallen.
+9/7/25 4:51:52a Sycamore says, "ok whew"
+9/7/25 4:51:52a Ravenstorm says, "ty ^^"
+9/7/25 4:52:01a •You sense healing energy from LittlePrince.
+9/7/25 4:52:03a •You sense healing energy from Phroon.
+9/7/25 4:52:05a Catan is sharing experiences with you.
+9/7/25 4:52:06a Bosun Higgs says, "After you avenged me, I hardly even needed these."
+9/7/25 4:52:08a Bosun Higgs says, "But I'll keep them."
+9/7/25 4:52:14a Elenis Reyav growls, "Well, it seemed only fair."
+9/7/25 4:52:14a Bosun Higgs says, "And I'm a pirate scientist of my word."
+9/7/25 4:52:16a Garr asks, "Did your scouts return?"
+9/7/25 4:52:17a Daerdain asks, "not quite sure what just happened. Did Vala do that?"
+9/7/25 4:52:18a (Elenis Reyav nods.)
+9/7/25 4:52:18a Phroon says, "Warawonda lms"
+9/7/25 4:52:20a Ravenstorm says, "10k bonus"
+9/7/25 4:52:23a •You sense healing energy from Balangar.
+9/7/25 4:52:27a •You sense healing energy from Sycamore.
+9/7/25 4:52:27a You are no longer sharing experiences with Hashak.
+9/7/25 4:52:27a You begin sharing your experiences with Sycamore.
+9/7/25 4:52:27a You are sharing experiences with Sycamore, Dandelion, Phroon, Balangar and LittlePrince.
+9/7/25 4:52:28a •You sense healing energy from LittlePrince.
+9/7/25 4:52:34a •You sense healing energy from Clemence.
+9/7/25 4:52:35a You are no longer sharing experiences with LittlePrince.
+9/7/25 4:52:35a You begin sharing your experiences with Clemence.
+9/7/25 4:52:35a You are sharing experiences with Clemence, Sycamore, Dandelion, Phroon and Balangar.
+9/7/25 4:52:36a Elenis Reyav growls, "Aye, where might we look to find new baby mimic spots?"
+9/7/25 4:52:38a You are no longer sharing experiences with Balangar.
+9/7/25 4:52:38a You begin sharing your experiences with LittlePrince.
+9/7/25 4:52:38a You are sharing experiences with LittlePrince, Clemence, Sycamore, Dandelion and Phroon.
+9/7/25 4:52:41a You are no longer sharing experiences with Phroon.
+9/7/25 4:52:41a You begin sharing your experiences with Balangar.
+9/7/25 4:52:41a You are sharing experiences with Balangar, LittlePrince, Clemence, Sycamore and Dandelion.
+9/7/25 4:52:44a Phroon says, "SaintMiker nu"
+9/7/25 4:52:45a Clemence says, "mikey next"
+9/7/25 4:52:46a Elenis Reyav growls, "We know the one to the west of where we now stand."
+9/7/25 4:52:46a Bosun Higgs says, "There are two rivers on the east side of the island."
+9/7/25 4:52:47a Warawonda says, "thank you :)"
+9/7/25 4:52:51a (Garr nods)
+9/7/25 4:52:52a Daerdain asks, "baby mimics have spots?"
+9/7/25 4:52:54a SaintMiker has been fallen for some time because of a Tyrenel Imperious.
+9/7/25 4:52:57a Clemence says, "mms"
+9/7/25 4:53:02a Seaforth ponders, "what the heck is happening"
+9/7/25 4:53:05a (Phroon nods to Higgs.)
+9/7/25 4:53:05a Bosun Higgs says, "A baby mimic was spotted where the river runs southwest."
+9/7/25 4:53:05a Clemence exclaims, "there we go!"
+9/7/25 4:53:08a Garr asks, "One is on a river there?"
+9/7/25 4:53:09a (Garr nods)
+9/7/25 4:53:14a Vylarian is no longer Clanning.
+9/7/25 4:53:18a Dandelion asks, "Who are we healerin' an' who's gonna yell at me iff'n I heal 'em, too?"
+9/7/25 4:53:20a SaintMiker is no longer fallen.
+9/7/25 4:53:20a Elenis Reyav ponders, "Aha!"
+9/7/25 4:53:22a Bosun Higgs says, "Since you seem so interested in them, I wanted to add…"
+9/7/25 4:53:24a You have 11418 coins.
+9/7/25 4:53:31a Warawonda asks, "?"
+9/7/25 4:53:31a Clemence says, "no heal shadow"
+9/7/25 4:53:32a Bosun Higgs says, "You mentioned seeing one in your storage cellar."
+9/7/25 4:53:36a (Phroon nods)
+9/7/25 4:53:39a Phroon says, "We did"
+9/7/25 4:53:40a Elenis Reyav growls, "Indeed, there was one there for a little bit."
+9/7/25 4:53:42a Clemence says, "this is MY corpse"
+9/7/25 4:53:42a * Your mental enhancement fades.
+9/7/25 4:53:49a Bosun Higgs says, "My associates have seen them pop in water on islands all over."
+9/7/25 4:53:56a Elenis Reyav growls, "How keen."
+9/7/25 4:53:57a Garr asks, "Oh?"
+9/7/25 4:53:57a Warawonda asks, "oh?"
+9/7/25 4:54:00a Garr says, "Good to know"
+9/7/25 4:54:07a Phroon says, "Hm."
+9/7/25 4:54:14a Bosun Higgs says, "Indeed. As the population grows, they must be migrating upstream from the ocean."
+9/7/25 4:54:16a Elenis Reyav growls, "We shall have to keep our eyes peeled. Thank you. That's wonderful news."
+9/7/25 4:54:33a Catan is still fallen.
+9/7/25 4:54:33a (Bosun Higgs looks down at his notes.)
+9/7/25 4:54:34a Sycamore says, "How very interesting"
+9/7/25 4:54:35a Elenis Reyav ponders, "Aha, I do hope to find them in some of the great hidden lakes."
+9/7/25 4:54:49a Eirian Caldwell ponders, "shadow mimics?"
+9/7/25 4:54:57a Bosun Higgs says, "And how was the temple? Other than an unfortunate ambush or two."
+9/7/25 4:55:08a Eirian Caldwell says, "it's clear now"
+9/7/25 4:55:09a Elenis Reyav growls, "Filled with their 'scientists."
+9/7/25 4:55:12a Sycamore says, "Well it was a little lightning-y"
+9/7/25 4:55:14a Phroon says, "A maze of twisty passages almost all alike."
+9/7/25 4:55:14a Elenis Reyav growls, "Filled with their 'scientists'."
+9/7/25 4:55:16a Garr says, "There's a mirror down there, it's a bit odd"
+9/7/25 4:55:16a Dandelion says, "It needs a bit of work."
+9/7/25 4:55:27a Pe Ell says, "Some mirrors are just for vanity, I suppose"
+9/7/25 4:55:28a You gave signed good karma to Hashak, :).
+9/7/25 4:55:31a Elenis Reyav ponders, "Others may speak to that better than I."
+9/7/25 4:55:32a Dandelion says, "Some bookshelves. Some extermination. Some junk removal."
+9/7/25 4:55:33a Bosun Higgs says, "Terrible. Proper scientists don't need to shoot their rivals with lightning."
+9/7/25 4:55:34a Warawonda says, "there mirror in there looks like there trying to make portals"
+9/7/25 4:55:34a Garr says, "I can never seem to remember what I saw right after looking at it"
+9/7/25 4:55:46a Bosun Higgs says, "My ethereal readings suggest some improvements. So, thank you."
+9/7/25 4:55:51a (Garr smiles)
+9/7/25 4:55:52a (Phroon smiles)
+9/7/25 4:55:53a (Elenis Reyav smiles.)
+9/7/25 4:55:56a Elenis Reyav growls, "Oh good!"
+9/7/25 4:56:04a * Bosun Higgs thanks you.
+9/7/25 4:56:08a * Your mental enhancement fades.
+9/7/25 4:56:08a Elenis Reyav growls, "Hopefully you'll be able to get more accurate readings now."
+9/7/25 4:56:12a Ravenstorm exclaims, "thanks!"
+9/7/25 4:56:15a You have 11418 coins.
+9/7/25 4:56:18a (Sycamore smiles.)
+9/7/25 4:56:21a Gorvin picks up a Venom Gland.
+9/7/25 4:56:24a (Phroon smiles)
+9/7/25 4:56:26a (Clemence giggles)
+9/7/25 4:56:26a Bosun Higgs says, "Well. Good luck with your mimic hunting, fellow scientists."
+9/7/25 4:56:34a Elenis Reyav growls, "A pleasure meeting a fellow scientist."
+9/7/25 4:56:34a Warawonda says, ":)"
+9/7/25 4:56:35a Phroon exclaims, "Thanks again!"
+9/7/25 4:56:36a Garr says, "We'll keep clearing the ethereal piles from inside. Hopefully the area will calm soon"
+9/7/25 4:56:39a Sycamore exclaims, "Thank you kind sir!"
+9/7/25 4:56:41a •You better comprehend the ways of ether.
+9/7/25 4:56:41a Elenis Reyav growls, "We look forward to your future reports!"
+9/7/25 4:56:44a Clemence crunches on a pretzel.
+9/7/25 4:56:45a Bosun Higgs exclaims, "Aye aye!"
+9/7/25 4:56:49a Clemence's chain breaks as she tries to use it.
+9/7/25 4:56:55a Clemence says, "damn it"
+9/7/25 4:56:56a Sycamore says, "And let us know if you need any more clearing done...in the name of science"
+9/7/25 4:57:02a Shadowfire bounces over a Venom Gland.
+9/7/25 4:57:08a Bosun Higgs says, "It is always a help."
+9/7/25 4:57:10a (Elenis Reyav smiles.)
+9/7/25 4:57:19a Dandelion ponders, "Missed my chance t'steal Sf"
+9/7/25 4:57:21a (Elenis Reyav salutes!)
+9/7/25 4:57:24a Sycamore asks, "Now, did someone say there is a baby mimic to the west ofus?"
+9/7/25 4:57:30a Thrain says, "Bosun"
+9/7/25 4:57:31a Dandelion says, "Yes, dere is"
+9/7/25 4:57:32a Phroon says, "I think that concludes Lore Tour, but those interested in mimic hunting we can keep poking around."
+9/7/25 4:57:33a Catan has been fallen for some time.
+9/7/25 4:57:35a Thrain says, "im selling a shadowfire corpse"
+9/7/25 4:57:36a Elenis Reyav says, "Aye Sycamore, one of the first we found."
+9/7/25 4:57:38a Thrain says, "ss me"
+9/7/25 4:57:41a Thrain says, ":)"
+9/7/25 4:57:42a Warawonda says, "im down"
+9/7/25 4:57:43a Ponyo attempts to project into another plane.
+9/7/25 4:57:46a (Elenis Reyav smiles.)
+9/7/25 4:57:50a Thrain yells, "thanks all!"
+9/7/25 4:57:51a You equip your Staff of Ballou.
+9/7/25 4:57:52a You slip your Staff of Ballou into your backpack.
+9/7/25 4:57:53a Garr ponders, "Fastest way to where he indicated is exit the island west and reenter at the east landing"
+9/7/25 4:57:54a Elenis Reyav says, "Sounds excellent, Phroon."
+9/7/25 4:57:55a •The Sun rises.
+9/7/25 4:57:57a Bosun Higgs scratches his head, perplexed.
+9/7/25 4:57:58a Bosun Higgs asks, "Oh, aye?"
+9/7/25 4:58:01a (Dandelion waves)
+9/7/25 4:58:02a Bosun Higgs says, "I'm not a corpse collector. Perhaps when this experiment concludes…"
+9/7/25 4:58:03a Eli is now Clanning.
+9/7/25 4:58:07a LittlePrince attempts to project into another plane.
+9/7/25 4:58:09a (Phroon smiles)
+9/7/25 4:58:10a Thrain growls, "alright ;)"
+9/7/25 4:58:21a Thrain growls, "good job bear"
+9/7/25 4:58:23a Bear Guard growls, "Grrr."
+9/7/25 4:58:42a Ravenstorm thinks, "thanks all!"
+9/7/25 4:58:45a Thrain thinks, "thanks all"
+9/7/25 4:58:51a Cecil thinks, "where form e?"
+9/7/25 4:58:51a Eirian Caldwell thinks, "thanks everyone!"
+9/7/25 4:58:51a Daerdain thinks, "thanks all"
+9/7/25 4:58:57a Garr thinks, "Come west from East landing"
+9/7/25 4:59:05a You have 11418 coins.
+9/7/25 4:59:07a You equip your cloak named “silk”, which is in nearly perfect condition.
+9/7/25 4:59:11a * Your mental enhancement fades.
+9/7/25 4:59:27a Thrain growls, "if shadowfire asks, i did not try to sell her corpse"
+9/7/25 4:59:28a Koppi yells, "News yeller, here! Get your news, make the news, tell the world!"
+9/7/25 4:59:34a Ulric is now Clanning.
+9/7/25 4:59:43a * Your mental enhancement fades.
+9/7/25 4:59:48a Ulric says, "det"
+9/7/25 4:59:52a Ravenstorm says, "ty"
+9/7/25 4:59:56a Eli says, "u2"
+9/7/25 5:00:01a Thrain is no longer Clanning.
+9/7/25 5:00:19a Balangar asks, "should we raise her in a lib ?"
+9/7/25 5:00:23a Daerdain says, "ring's off"
+9/7/25 5:00:32a Catan has been fallen for some time.
+9/7/25 5:00:40a Daerdain says, "thanks bala"
+9/7/25 5:00:45a Balangar says, "a pleasure"
+9/7/25 5:00:56a Gorvin is no longer Clanning.
+9/7/25 5:01:10a Daerdain says, "it's 3 PM. time for bed. :-)"
+9/7/25 5:01:11a SaintMiker has fallen to a tidal surge.
+9/7/25 5:01:14a Seaforth is no longer Clanning.
+9/7/25 5:01:18a * Your mental enhancement fades.
+9/7/25 5:01:23a Balangar says, "21h ici"
+9/7/25 5:01:26a Catan is no longer sharing experiences with you.
+9/7/25 5:01:27a Crius yells, "It’s 8 o’clock, and all’s well."
+9/7/25 5:01:28a Clemence says, "good to see you Daerdain! Maybe we will see you on Wednesday"
+9/7/25 5:01:29a You gave signed good karma to Valadorei, :).
+9/7/25 5:01:34a Crius yells, "Kenzen and others are fallen on the coast of Metzetli Island. Healers needed."
+9/7/25 5:01:34a (Daerdain nods)
+9/7/25 5:01:37a Honor thinks, "Congratulations go out to Avalon, who has just passed the seventh circle fighter test."
+9/7/25 5:01:41a Ravenstorm thinks, "grats!"
+9/7/25 5:01:42a Onashi thinks, "woohoo!"
+9/7/25 5:01:42a Eli thinks, "grats"
+9/7/25 5:01:48a Giben thinks, "Congrats!"
+9/7/25 5:01:57a Warawonda thinks, "congrats"
+9/7/25 5:01:57a You have 11418 coins.
+9/7/25 5:02:07a Daerdain ponders, "I wonder if I can pass fourth yet?"
+9/7/25 5:02:08a Catan is sharing experiences with you.
+9/7/25 5:02:18a Hashak thinks, "where did SaintMiker end up>"
+9/7/25 5:02:23a LittlePrince is no longer Clanning.
+9/7/25 5:02:28a (Daerdain yawns)
+9/7/25 5:02:53a Eli asks, "val you plan on learning to port?"
+9/7/25 5:03:01a Biro is now Clanning.
+9/7/25 5:03:17a Daerdain is no longer Clanning.
+9/7/25 5:03:33a Catan is becoming part of the scenery.
+9/7/25 5:03:46a GoldHawk is now Clanning.
+9/7/25 5:03:51a Balangar exclaims, "well bye folks !"
+9/7/25 5:03:59a * Your mental enhancement fades.
+9/7/25 5:04:01a * Your mental enhancement fades.
+9/7/25 5:04:11a SaintMiker is still fallen to a tidal surge.
+9/7/25 5:04:11a Eli says, "cya"
+9/7/25 5:04:47a You have 11418 coins.
+9/7/25 5:04:49a Ulric is no longer Clanning.
+9/7/25 5:04:49a Shadowfire is no longer Clanning.
+9/7/25 5:04:53a Ulric is now Clanning.
+9/7/25 5:04:59a Clemence says, "AH"
+9/7/25 5:05:16a Clemence asks, "Eli, can you hold a chain for me while i go get Palmeri?"
+9/7/25 5:05:31a SaintMiker is no longer fallen.
+9/7/25 5:05:48a Balangar is no longer Clanning.
+9/7/25 5:06:11a Clemence is no longer Clanning.
+9/7/25 5:06:13a Ravenstorm says, "that was defiinitely rhe case today"
+9/7/25 5:06:17a Ravenstorm says, "some crazy spawns"
+9/7/25 5:06:21a Palmeri is now Clanning.
+9/7/25 5:06:24a Catan is no longer fallen.
+9/7/25 5:07:00a Kahn St'ple says, "Greetings, Apprentice Warawonda."
+9/7/25 5:07:09a Kahn St'ple nods and smiles at Onashi.
+9/7/25 5:07:30a 'LittlePrince' is not in the lands.
+9/7/25 5:07:30a *  LittlePrince  is no longer clanning, removing.
+9/7/25 5:07:31a Dandelion is too far away for your explanation.
+9/7/25 5:07:31a You gave signed good karma to Dandelion.
+9/7/25 5:07:37a You have 11418 coins.
+9/7/25 5:08:15a Valadorei thinks, "falling TI 2 N of S entry maybe one W?"
+9/7/25 5:08:26a Palmeri thinks, "well well well well well"
+9/7/25 5:08:39a Warawonda says, "..."
+9/7/25 5:08:51a Eli thinks, "ill get her"
+9/7/25 5:09:09a Hashak is no longer Clanning.
+9/7/25 5:09:15a Valadorei has fallen to a Large Vermine.
+9/7/25 5:09:39a Koppi yells, "Clemence reports: Fledgling Hunt this Weds, goal is Book 1! In need of healers, stoners, and anyone needing the trainer!"
+9/7/25 5:09:40a Warawonda says, "i though she said she had it"
+9/7/25 5:10:14a Your ethereal amulet indicates someone has opened an ethereal portal.
+9/7/25 5:10:18a Your ethereal amulet indicates someone has opened an ethereal portal.
+9/7/25 5:10:27a You have 11418 coins.
+9/7/25 5:10:30a Dandelion is no longer Clanning.
+9/7/25 5:11:00a Your ethereal amulet indicates someone has opened an ethereal portal.
+9/7/25 5:11:04a Your ethereal amulet indicates someone has opened an ethereal portal.
+9/7/25 5:11:25a Abox is no longer Clanning.
+9/7/25 5:11:41a Eli says, "where squib"
+9/7/25 5:11:54a Biro says, "post update napping still i guess"
+9/7/25 5:11:59a Unholy is now Clanning.
+9/7/25 5:12:00a Biro says, "pon here in asec"
+9/7/25 5:12:02a Sauver is now Clanning.
+9/7/25 5:12:07a Valadorei is no longer fallen.
+9/7/25 5:12:28a Unholy is no longer Clanning.
+9/7/25 5:12:30a Eli picks up an ethercle.
+9/7/25 5:12:39a Cecil says, "I found a phantasm page noth TI"
+9/7/25 5:12:43a Shobaffum is no longer Clanning.
+9/7/25 5:12:45a Blaque Smith is now Clanning.
+9/7/25 5:12:59a Garr is no longer Clanning.
+9/7/25 5:13:01a Ponyo is no longer Clanning.
+9/7/25 5:13:01a Satris is now Clanning.
+9/7/25 5:13:18a You have 11418 coins.
+9/7/25 5:13:31a 'Hashak' is not in the lands.
+9/7/25 5:13:32a *  Hashak  is no longer clanning, removing.
+9/7/25 5:13:32a You gave signed good karma to Valadorei, :).
+9/7/25 5:13:36a Sauver is no longer Clanning.
+9/7/25 5:13:40a Blaque Smith is no longer Clanning.
+9/7/25 5:13:59a Eli asks, "where portal?"
+9/7/25 5:14:21a Eli thinks, "where is portal now?"
+9/7/25 5:14:50a Koppi yells, "Clemence reports: Fledgling Hunt this Weds, goal is Book 1! In need of healers, stoners, and anyone needing the trainer!"
+9/7/25 5:15:04a Cat Food is now Clanning.
+9/7/25 5:15:21a Isca is now Clanning.
+9/7/25 5:15:24a Zylle is now Clanning.
+9/7/25 5:16:03a Unagi is now Clanning.
+9/7/25 5:16:06a SaintMiker has fallen to a Baltoise.
+9/7/25 5:16:08a Crius yells, "It’s 9 o’clock, and all’s well."
+9/7/25 5:16:09a You have 11418 coins.
+9/7/25 5:16:19a Bronko is now Clanning.
+9/7/25 5:16:32a Cat Food thinks, "need horus at fountain"
+9/7/25 5:16:34a Palmeri asks, "are you guys hunting?"
+9/7/25 5:16:40a Malakar is now Clanning.
+9/7/25 5:16:45a Klur is now Clanning.
+9/7/25 5:16:52a Aeol is now Clanning.
+9/7/25 5:17:00a Cecil asks, "trying to lure a Frenchman?"
+9/7/25 5:17:03a Hashak is now Clanning.
+9/7/25 5:17:08a Slyph is now Clanning.
+9/7/25 5:17:14a (Isca looks for Silky)
+9/7/25 5:17:20a Cecil says, "close, french canadian"
+9/7/25 5:17:21a Palmeri ponders, "anyone need a parachute?"
+9/7/25 5:17:25a Eli says, "me"
+9/7/25 5:17:44a Eli says, "thanks"
+9/7/25 5:17:51a Palmeri says, "you are very welcome"
+9/7/25 5:17:55a Isca is no longer Clanning.
+9/7/25 5:18:04a Warawonda says, "saitmilker has fallen"
+9/7/25 5:18:17a Palmeri asks, "saintmiker?"
+9/7/25 5:18:22a Eli says, "portal way past due or am I wrong"
+9/7/25 5:18:39a Slyph is no longer Clanning.
+9/7/25 5:18:40a Ulric is no longer Clanning.
+9/7/25 5:18:58a Biro says, "yes but there was more interest in village than BP for now"
+9/7/25 5:19:00a Cat Food is no longer Clanning.
+9/7/25 5:19:01a You have 11418 coins.
+9/7/25 5:19:02a Zylle is no longer Clanning.
+9/7/25 5:19:06a Palmeri says, "Rough timeline was 8/20 for the next move but im not sure if we had a consensus"
+9/7/25 5:19:06a SaintMiker is still fallen to a Baltoise.
+9/7/25 5:19:08a Biro says, "so it hasn't been moved yet and people seem fine with it"
+9/7/25 5:19:12a (Elenis Reyav nods.)
+9/7/25 5:19:15a (Palmeri nods)
+9/7/25 5:19:23a Hashak says, "double nice"
+9/7/25 5:19:29a SaintMiker is no longer fallen.
+9/7/25 5:19:29a Ulric is now Clanning.
+9/7/25 5:19:32a Biro says, "I don't mind village either, OP campers can reach OP pretty easily nowadays"
+9/7/25 5:19:33a 'Dandelion' is not in the lands.
+9/7/25 5:19:33a *  Dandelion  is no longer clanning, removing.
+9/7/25 5:19:34a You gave signed good karma to Valadorei, :).
+9/7/25 5:19:39a Cecil says, "portal is fine in village for the time being imo"
+9/7/25 5:19:40a Biro says, "and 2 snell vale access is pretty neat"
+9/7/25 5:19:40a Eli says, "real reason is sal wont move portal anymore because it was thankless job and refuses to do it anymore"
+9/7/25 5:19:44a Hashak exclaims, "ok I'm off! Thanks for the everything everyone!"
+9/7/25 5:19:45a SaintMiker says, "thanx"
+9/7/25 5:19:47a Ulric is no longer Clanning.
+9/7/25 5:19:51a (Elenis Reyav nods.)
+9/7/25 5:19:51a Biro says, "ok"
+9/7/25 5:19:57a Hashak is no longer Clanning.
+9/7/25 5:19:59a Biro says, "i'm glad it's in village still :p"
+9/7/25 5:20:01a Koppi yells, "Clemence reports: Fledgling Hunt this Weds, goal is Book 1! In need of healers, stoners, and anyone needing the trainer!"
+9/7/25 5:20:02a Eli says, "but like whats the point of having a rule based system if its just thrown out on a whim"
+9/7/25 5:20:12a Eirian Caldwell asks, "Is the portal still in Vill, or did it move?"
+9/7/25 5:20:16a Eli says, "its in village"
+9/7/25 5:20:19a Elenis Reyav says, "I don't think it is really a rule."
+9/7/25 5:20:20a Warawonda says, "fun fact thats all systems"
+9/7/25 5:20:22a Palmeri says, "I mean, Salandra isnt the only one that can move it"
+9/7/25 5:20:23a Biro says, "throw portal in DI volcano, everyone loses"
+9/7/25 5:20:27a Elenis Reyav says, "More a general guideline."
+9/7/25 5:20:31a Cecil says, "i think it was more of a community concensus"
+9/7/25 5:20:36a Elenis Reyav says, "Portal is meant to serve the population."
+9/7/25 5:20:37a Cecil says, "but priorities change"
+9/7/25 5:20:38a Biro says, "except klur. klur probably wins with a volcano portal."
+9/7/25 5:20:44a GoldHawk is no longer Clanning.
+9/7/25 5:20:46a (Palmeri giggles at Biro)
+9/7/25 5:21:00a Biro ponders, "brb"
+9/7/25 5:21:08a Warawonda says, "well just need to stablize the ertial plane"
+9/7/25 5:21:23a Warawonda ponders, "cant even spell it"
+9/7/25 5:21:26a Eli says, "just need a port mystic its all on island"
+9/7/25 5:21:27a SaintMiker is no longer Clanning.
+9/7/25 5:21:29a Cecil is no longer Clanning.
+9/7/25 5:21:43a (Elenis Reyav smiles.)
+9/7/25 5:21:52a You have 11418 coins.
+9/7/25 5:22:07a (Valadorei smiles)
+9/7/25 5:22:12a Palmeri exclaims, "I also have an extra orga eye if anyone wants it!"
+9/7/25 5:22:13a Eirian Caldwell ponders, "about to have a huge storm"
+9/7/25 5:22:19a Malakar is no longer Clanning.
+9/7/25 5:22:30a Elenis Reyav ponders, "That was absolutely the best 10k I've ever spent."
+9/7/25 5:22:36a You equip your Sword of Shadows.
+9/7/25 5:22:38a Palmeri ponders, "been awhile since i cleared out my pack apparently"
+9/7/25 5:22:39a Elenis Reyav ponders, "Other than very early post-ripture."
+9/7/25 5:22:55a You equip your Staff of Ballou.
+9/7/25 5:22:55a * switched: Sword of Shadows <#1> 
+9/7/25 5:22:56a You equip your Sword of Shadows.
+9/7/25 5:22:57a * You grow more mindful.
+9/7/25 5:22:58a Eli says, "20k on carnival green at sor's auction for me probably"
+9/7/25 5:23:11a Elenis Reyav says, "5k for Main Gauce was my best."
+9/7/25 5:23:13a You slaughtered a Giant Slug.
+9/7/25 5:23:16a Eli says, "cant beat that"
+9/7/25 5:23:20a You slip your Sword of Shadows into your backpack.
+9/7/25 5:23:22a Palmeri says, "im waiting to make my best purchase on a pelt"
+9/7/25 5:23:23a Elenis Reyav ponders, "But I don't know who borrowed it anymore.."
+9/7/25 5:23:26a (Palmeri winks)
+9/7/25 5:24:29a Palmeri exclaims, "Now that i would actually survive on your hunts, my schedule does not always allow me to come!"
+9/7/25 5:24:41a You have 11418 coins.
+9/7/25 5:24:47a * Your mental enhancement fades.
+9/7/25 5:24:49a * Your mental enhancement fades.
+9/7/25 5:25:12a Koppi yells, "Clemence reports: Fledgling Hunt this Weds, goal is Book 1! In need of healers, stoners, and anyone needing the trainer!"
+9/7/25 5:25:31a Palmeri says, "oh also, with this fine group, if you arent joining NNK on wednesday, consider joining the fledglings! We are making a run at book 1"
+9/7/25 5:25:35a You gave signed good karma to Valadorei, :).
+9/7/25 5:25:45a Eli says, "ok"
+9/7/25 5:25:55a Eli says, "nnk is like the most juiced rank hunt though"
+9/7/25 5:25:57a Palmeri says, "im trying to get full PF for our group."
+9/7/25 5:26:16a Eli says, "which one is book 1 again"
+9/7/25 5:26:16a Elenis Reyav ponders, "It's been a while since there was a book 1 trip."
+9/7/25 5:26:22a Eli asks, "right past CD?"
+9/7/25 5:26:25a Elenis Reyav says, "No"
+9/7/25 5:26:27a Elenis Reyav says, "That's 3"
+9/7/25 5:26:34a Eli says, "past olives and malachites"
+9/7/25 5:26:38a Palmeri asks, "uh you go through foothills i think?"
+9/7/25 5:26:48a Palmeri asks, "camp dred?"
+9/7/25 5:26:52a Eli says, "no you can take the EP thing under MI"
+9/7/25 5:27:03a Palmeri says, "ah yes yes"
+9/7/25 5:27:15a Palmeri says, "Fortuna and LittlePrince navigate for us, i just kill things"
+9/7/25 5:27:18a Elenis Reyav ponders, "Time to take a break and acquire a bite to eat."
+9/7/25 5:27:33a You have 11418 coins.
+9/7/25 5:27:47a (Elenis Reyav waves 'til later!)
+9/7/25 5:27:52a Palmeri yells, "bye!"
+9/7/25 5:28:05a Gorvin is now Clanning.
+9/7/25 5:28:23a Eli says, "who needs book 1 I can run you there sometime"
+9/7/25 5:28:24a Aeol is no longer Clanning.
+9/7/25 5:28:33a Palmeri says, "while i love ranking on NNK most nights, i do get a little bored, not enough doom"
+9/7/25 5:28:45a Elenis Reyav is no longer Clanning.
+9/7/25 5:28:51a Eirian Caldwell is no longer Clanning.
+9/7/25 5:28:51a Palmeri says, "i need book 1 for sure and a few other fledglings do as well"
+9/7/25 5:29:05a Palmeri says, "or at least attendees of our hunt if not members"
+9/7/25 5:29:11a Eli says, "ya thats why I started my own hunt"
+9/7/25 5:29:13a Xepel is now Clanning.
+9/7/25 5:29:35a Palmeri says, "but the NNK crew is always fun to be with :)"
+9/7/25 5:29:47a Eli says, "fane on repeat is just the best for ranks though"
+9/7/25 5:29:52a (Palmeri nods)
+9/7/25 5:30:23a Koppi yells, "Clemence reports: Fledgling Hunt this Weds, goal is Book 1! In need of healers, stoners, and anyone needing the trainer!"
+9/7/25 5:30:24a You have 11418 coins.
+9/7/25 5:30:45a Crius yells, "It’s 10 o’clock, and all’s well."
+9/7/25 5:30:50a Crius yells, "There’s good hunting on Centaur Island."
+9/7/25 5:31:01a Biro is no longer Clanning.
+9/7/25 5:31:35a You gave signed good karma to Valadorei, :).
+9/7/25 5:31:37a Eli says, "palm you wan

@@ -1,0 +1,413 @@
+
+2/10/25 5:17:25a * Your pair of shoes named “white” is in very good condition.
+2/10/25 5:17:25a * Your shirt named “Dark Red” is in pretty good shape.
+2/10/25 5:17:25a * Your pair of fourth-circle pants named “turquoise” is in very good condition.
+2/10/25 5:17:25a Welcome to Clan Lord, Captain Planet!
+2/10/25 5:17:25a Type \HELP for a list of commands.
+2/10/25 5:17:25a • You gain experience from your recent studies.
+2/10/25 5:17:25a *Healer Mode
+2/10/25 5:17:25a *Type /hi help for more info
+2/10/25 5:17:26a Captain Planet is now Clanning.
+2/10/25 5:17:26a The healing spell has started.
+2/10/25 5:17:26a You have been studying for 9 days, 14 hours, 26 minutes.
+2/10/25 5:17:28a •Your healing spirit improves.
+2/10/25 5:17:28a It's 9:05am on Lundi, day 8 of Summer, 640.
+2/10/25 5:17:29a Friends online: none.
+2/10/25 5:17:30a There are two members of Black Phoenix clanning: Black Phoenix and you.
+2/10/25 5:17:30a • What’s New: https://deltatao.com/clanlord/news • Shieldstones can now be toggled on-and-off in the usual way again. 
+2/10/25 5:17:31a Surgius is no longer Clanning.
+2/10/25 5:17:39a * Tip of the day: You can lock a share into your list with /SHARE /LOCK. (Use /OPTIONS to turn tips off.)
+2/10/25 5:17:45a (Mirabel claps)
+2/10/25 5:17:55a Stormblade is no longer Clanning.
+2/10/25 5:17:57a Eva says, "Hail, Captain Planet. Teaching you has taught me much."
+2/10/25 5:17:57a * Eva : 300-349.
+2/10/25 5:18:00a Faustus says, "Hail, Captain Planet. Teaching you has taught me much."
+2/10/25 5:18:00a * Faustus : 300-349.
+2/10/25 5:18:03a Sespus says, "Hail, Captain Planet. You are one of my better pupils."
+2/10/25 5:18:03a * Sespus : 50-99.
+2/10/25 5:18:04a Respia says, "Hail, Captain Planet."
+2/10/25 5:18:05a Valkaris is now Clanning.
+2/10/25 5:18:05a Respia bows.
+2/10/25 5:18:08a Respia says, "Hail, Captain Planet."
+2/10/25 5:18:08a Respia bows.
+2/10/25 5:18:11a Respia says, "You are a credit to our craft."
+2/10/25 5:18:11a * Respia : 650-699.
+2/10/25 5:18:13a Higgrus says, "Hail, Captain Planet. You may be proud of your accomplishment."
+2/10/25 5:18:13a * Higgrus : 450-499.
+2/10/25 5:18:15a Sprite says, "Hail, Captain Planet. You are one of my better pupils."
+2/10/25 5:18:15a * Sprite : 50-99.
+2/10/25 5:18:28a Horus says, "Hail, Captain Planet. You are a good pupil of mine."
+2/10/25 5:18:28a * Horus : 40-49.
+2/10/25 5:18:30a Awaria says, "Hail, Captain Planet. You are one of my better pupils."
+2/10/25 5:18:30a * Awaria : 50-99.
+2/10/25 5:18:47a Mirabel asks, "think it caps out at 10?"
+2/10/25 5:18:50a (Aurelie nods.)
+2/10/25 5:19:07a Mirabel says, "1333 faustus isn't bad"
+2/10/25 5:19:16a Mirabel says, "of course in practice it's almost always lower than that"
+2/10/25 5:19:16a Aurelie says, "And Radium increases total healing speed twice as much as Faustus does."
+2/10/25 5:19:22a (Aurelie nods.)
+2/10/25 5:19:30a Aurelie says, "You won't often be healing ten people at the same time."
+2/10/25 5:19:31a Kensington ponders, "Ooh, faustus talk"
+2/10/25 5:19:34a Mirabel says, "the stoneform gets some, and a couple healers who don't need it get some"
+2/10/25 5:19:46a (Aurelie beams at Kensington!)
+2/10/25 5:19:51a Kensington says, "=D"
+2/10/25 5:19:55a • You hear Aurelie's music...
+2/10/25 5:19:55a Aurelie starts playing her starbuck harp.
+2/10/25 5:19:55a (Aurelie): The Spaces They've Left
+2/10/25 5:20:23a You equip your training ledger.
+2/10/25 5:20:24a You slip your training ledger into your backpack.
+2/10/25 5:20:28a You equip your phantasmonomicon.
+2/10/25 5:20:31a Captain Planet asks, "use ?"
+2/10/25 5:20:34a /use - Read your phantasmonomicon
+2/10/25 5:20:34a /use <page> - Cast a phantasm spell
+2/10/25 5:20:34a /use <page> /follow - Cast a phantasm which follows your mouse.
+2/10/25 5:20:34a /use /cancel - Destroy a cast phantasm
+2/10/25 5:20:34a /use /add - Add the equipped page to your phantasmonomicon
+2/10/25 5:20:34a /use /remove <page> - Remove the indicated page from your phantasmonomicon
+2/10/25 5:20:34a /use /speed <1-3> - Change the speed your phantasm moves.
+2/10/25 5:20:36a Mirabel says, "still say it averages to 800ish faustus and bumps up when the party is in trouble"
+2/10/25 5:20:46a You have 556 coins.
+2/10/25 5:21:46a For information about your phantasmonomicon: /use ?.
+2/10/25 5:21:52a For information about your phantasmonomicon: /use ?.
+2/10/25 5:21:58a Your phantasmonomicon has the following pages:
+2/10/25 5:21:58a Page 1: Small Blue Flames (Elements 1/7).
+2/10/25 5:21:58a Page 3: Small Red Flames (Elements 3/7).
+2/10/25 5:21:58a Page 5: Smoke (Shadow 1/5).
+2/10/25 5:21:58a Page 8: Sparkle (Shadow 4/5).
+2/10/25 5:21:58a Page 12: Gold Coins (Treasure 1/5).
+2/10/25 5:21:58a Page 13: Water Puddle (Earth 1/4).
+2/10/25 5:21:58a Page 15: Flying Pebble (Earth 3/4).
+2/10/25 5:21:58a Page 18: Skull (Fauna 2/8).
+2/10/25 5:21:58a Page 21: Treasure Chest (Treasure 2/5).
+2/10/25 5:21:58a Page 25: Waving Reeds (Flora 2/8).
+2/10/25 5:21:58a Page 28: Wooden Chair (Constructs 4/8).
+2/10/25 5:21:58a Page 29: Blue Flag (Holiday 1/6).
+2/10/25 5:21:58a Page 35: Amber Beer (Holiday 6/6).
+2/10/25 5:21:58a Page 42: Large Fern (Jungle 1/4).
+2/10/25 5:21:58a Page 50: Fireplace (Constructs 8/8).
+2/10/25 5:21:58a Page 53: Tree Stump (Arboreal 7/7).
+2/10/25 5:21:58a Page 64: Pine Tree (Arboreal 5/7).
+2/10/25 5:21:58a Page 67: Variegated Plant (Jungle 2/4).
+2/10/25 5:21:58a Page 79: Mud Nest (Fauna 4/8).
+2/10/25 5:22:00a Valadorei ponders, "Plus the bonus of: it's spread across the other healers and skishies like me."
+2/10/25 5:22:07a Mirabel says, "bloodmages love it"
+2/10/25 5:22:12a Aurelie ponders, "And auto-tops off bloodmages!"
+2/10/25 5:22:17a Aurelie ponders, "Yes, absolutely."
+2/10/25 5:22:28a Black Phoenix is no longer Clanning.
+2/10/25 5:22:31a You do not have the training to hide or show phantasms.
+2/10/25 5:22:34a Mirabel says, "i always intended to be a support healer anyway"
+2/10/25 5:22:38a Aurelie says, "Sawyer would hunt with at least one radium healer every hunt, if she could."
+2/10/25 5:22:42a You have cast a page 8 phantasm (Sparkle (Shadow 4/5)).
+2/10/25 5:22:44a Mirabel says, "since many/most people are faustusy cadders"
+2/10/25 5:22:56a Mirabel says, "i'm like 1/3 horus"
+2/10/25 5:23:06a (Aurelie is a boring healer.)
+2/10/25 5:23:16a Aurelie says, "Maybe I'll train some Radium, one day."
+2/10/25 5:23:24a Aurelie exclaims, "That could be fun!"
+2/10/25 5:23:24a Mirabel says, "so sparkly"
+2/10/25 5:23:29a (Valadorei giggles and looks around.)
+2/10/25 5:23:30a Koppi yells, "Katreesa reports: this: https://www.youtube.com/watch?v=2oRlBmwKzy4"
+2/10/25 5:23:45a (Aurelie admires Valadorei.)
+2/10/25 5:23:54a Elowen is no longer Clanning.
+2/10/25 5:23:59a (Aurelie giggles.)
+2/10/25 5:24:01a Fearr exclaims, "Cheese?!"
+2/10/25 5:24:06a You have 556 coins.
+2/10/25 5:24:09a Aurelie exclaims, "Cheese!"
+2/10/25 5:24:19a Aurelie says, "Mnom."
+2/10/25 5:24:22a Valadorei exclaims, "Books!"
+2/10/25 5:24:28a Mirabel says, "back in the day people would fuss about my build being "wrong" a lot"
+2/10/25 5:24:35a Fearr ponders, "opps"
+2/10/25 5:24:46a Aurelie exclaims, "Those people are silly!"
+2/10/25 5:24:50a Mirabel says, "i think so"
+2/10/25 5:24:51a Aurelie exclaims, "As long as you enjoy it!"
+2/10/25 5:24:56a Captain Planet says, "im doing to all my builds all the time right now"
+2/10/25 5:24:56a Mirabel says, "it's working great as far as i can see"
+2/10/25 5:24:57a Fearr ponders, "Humm"
+2/10/25 5:25:21a Mirabel says, "not having any proxi i think is a big win"
+2/10/25 5:25:29a Aurelie asks, "Yeah?"
+2/10/25 5:25:38a Fearr ponders, "Beautiful"
+2/10/25 5:25:42a Captain Planet says, "i only have 700"
+2/10/25 5:25:47a Mirabel says, ""only""
+2/10/25 5:25:48a Aurelie exclaims, "700 Proxi?!"
+2/10/25 5:25:49a Mirabel exclaims, "that's so much!"
+2/10/25 5:25:53a (Captain Planet grins)
+2/10/25 5:25:53a Mirabel exclaims, "imagine another 700 respia!"
+2/10/25 5:26:00a Valadorei says, "Zale very similar."
+2/10/25 5:26:04a Captain Planet says, "well i made newer exiles"
+2/10/25 5:26:05a Mirabel says, "you probably could radius at 500 that way"
+2/10/25 5:26:09a Captain Planet says, "sometimes they run off"
+2/10/25 5:26:26a Aurelie exclaims, "You only need 400 to hit the corners of your vision!"
+2/10/25 5:26:39a Captain Planet says, "they run off screen"
+2/10/25 5:26:43a Aurelie says, "Only 300 for the edges."
+2/10/25 5:26:45a • You feel able to cast a phantasm again.
+2/10/25 5:26:48a Aurelie says, "Well they shouldn't do that..."
+2/10/25 5:26:52a Valadorei says, "350 is nearly 2 screens."
+2/10/25 5:26:54a Aurelie says, "And in honor of that fact."
+2/10/25 5:26:58a Valadorei says, "700 is nearly 2 screens."
+2/10/25 5:27:02a Captain Planet says, "there new and learning"
+2/10/25 5:27:07a • You hear Aurelie's music...
+2/10/25 5:27:07a Aurelie starts playing her starbuck harp.
+2/10/25 5:27:07a (Aurelie): "Why Do You Run From Me?" by Coriakin
+2/10/25 5:27:16a Aurelie says, "It’s happened again"
+2/10/25 5:27:18a Aurelie says, "I see you’re in pain"
+2/10/25 5:27:20a Aurelie says, "It feels like your heart’s torn in two..."
+2/10/25 5:27:24a Aurelie says, "You feel so alone"
+2/10/25 5:27:26a Aurelie says, "But you’re not on your own"
+2/10/25 5:27:26a You have 556 coins.
+2/10/25 5:27:27a Aurelie asks, "Don't you know that I’m here for you?"
+2/10/25 5:27:31a Aurelie says, "Life can be hard sometimes"
+2/10/25 5:27:32a (Valadorei snorts.)
+2/10/25 5:27:35a Aurelie says, "But here is my guarantee:"
+2/10/25 5:27:40a Aurelie says, "I know that I could ease your pain"
+2/10/25 5:27:44a Aurelie says, "If only you were with me..."
+2/10/25 5:27:48a Aurelie asks, "So why... do you run from me?"
+2/10/25 5:27:52a Aurelie asks, "Why do you go so far?"
+2/10/25 5:27:56a Aurelie says, "It seems like I was with you just a second ago"
+2/10/25 5:27:59a Aurelie says, "I wish I could be where you are."
+2/10/25 5:28:04a Aurelie says, "I reach out my hand"
+2/10/25 5:28:11a Aurelie says, "Hoping you'll understand"
+2/10/25 5:28:14a Aurelie says, "There's only so much I can do"
+2/10/25 5:28:18a Aurelie says, "You want to move on,"
+2/10/25 5:28:20a Aurelie says, "But you seem so withdrawn"
+2/10/25 5:28:22a Aurelie exclaims, "Don't just pretend nothing's happened to you!"
+2/10/25 5:28:26a Aurelie says, "New opportunities"
+2/10/25 5:28:28a Aurelie says, "Are all that you care to see."
+2/10/25 5:28:30a Ravenstorm is now Clanning.
+2/10/25 5:28:34a Aurelie says, "But the hurt you feel needs to be healed"
+2/10/25 5:28:37a Aurelie asks, "So won't you come back to me?"
+2/10/25 5:28:41a Koppi yells, "Omega reports: How DID he get the kitty to do that!?"
+2/10/25 5:28:42a Aurelie asks, "Yes, why... do you run from me?"
+2/10/25 5:28:46a Aurelie asks, "Why do you run and hide?"
+2/10/25 5:28:50a Aurelie says, "I know that I could heal all the pain that you feel"
+2/10/25 5:28:50a Ravenstorm says, "hi"
+2/10/25 5:28:54a Aurelie says, "If only you were by my side."
+2/10/25 5:28:58a Aurelie exclaims, "There's so much pain in the world today!"
+2/10/25 5:29:02a Aurelie says, "It seems to hit harder than before"
+2/10/25 5:29:03a You have cast a page 15 phantasm (Flying Pebble (Earth 3/4)).
+2/10/25 5:29:12a Aurelie says, "I can't bear to see people I care about..."
+2/10/25 5:29:16a Aurelie exclaims, "Deteriorating!"
+2/10/25 5:29:20a Aurelie says, "I don't want you feeling so low anymore..."
+2/10/25 5:29:27a Aurelie says, "We've covered much ground"
+2/10/25 5:29:30a Aurelie says, "But 'til we're safe and sound,"
+2/10/25 5:29:32a Aurelie says, "To my duty I must be true"
+2/10/25 5:29:36a Aurelie says, "And so I appeal:"
+2/10/25 5:29:38a Aurelie says, "If you've heard how I feel,"
+2/10/25 5:29:40a Aurelie says, "To consider what I ask of you"
+2/10/25 5:29:44a Aurelie says, "I feel like I lose a piece of myself"
+2/10/25 5:29:48a Aurelie says, "The further we get apart"
+2/10/25 5:29:52a Aurelie says, "But stay with me and, oh, you will see"
+2/10/25 5:29:56a Aurelie says, "My spirit's down but I won't lose heart..."
+2/10/25 5:30:00a Aurelie asks, "So why... do you run from me?"
+2/10/25 5:30:04a Aurelie asks, "How can I make you see?"
+2/10/25 5:30:08a Aurelie exclaims, "You can yell at me to train more Proxi all that you want!"
+2/10/25 5:30:10a Misha is now Clanning.
+2/10/25 5:30:11a Aurelie says, "But for now I need you here with me."
+2/10/25 5:30:19a (Aurelie winks!)
+2/10/25 5:30:28a (Mirabel smiles)
+2/10/25 5:30:46a Crius yells, "It’s 10 o’clock, and all’s well."
+2/10/25 5:30:47a You have 556 coins.
+2/10/25 5:30:50a Crius yells, "It looks pretty quiet in Puddleby."
+2/10/25 5:30:54a Captain Planet ponders, "man i wasted alot of ranks in this"
+2/10/25 5:30:56a Aurelie exclaims, "I always thought that one was clever!"
+2/10/25 5:31:10a You must rest for a couple of minutes before casting another phantasm.
+2/10/25 5:31:23a Aurelie exclaims, "Most of my training is mediocre!"
+2/10/25 5:31:36a Aurelie exclaims, "That's why I'm only second-circle!"
+2/10/25 5:31:43a Mirabel says, "700 proxi and 500 radium is sort of incompatible training"
+2/10/25 5:31:46a (Aurelie stands proud.)
+2/10/25 5:31:53a (Mirabel grins at Aurelie)
+2/10/25 5:31:55a Captain Planet ponders, "it becuase you wont train horus"
+2/10/25 5:32:04a Aurelie yells, "Horus is bore-us!"
+2/10/25 5:32:09a Captain Planet says, "heh"
+2/10/25 5:32:09a (Valadorei snorts)
+2/10/25 5:32:12a Mirabel says, "it's ok i trained horus for you"
+2/10/25 5:32:22a Aurelie says, "Thank you for your sacrifice."
+2/10/25 5:32:25a (Mirabel smiles)
+2/10/25 5:32:29a Mirabel says, "i actually love it"
+2/10/25 5:32:33a Mirabel says, "800 horus is so useful"
+2/10/25 5:32:34a Aurelie says, "I've slept through so many of his lessons..."
+2/10/25 5:32:49a Mirabel says, "i feel proud every time somebody couldn't be healed without me"
+2/10/25 5:33:00a (Valadorei raises her hand.)
+2/10/25 5:33:02a (Aurelie beams!)
+2/10/25 5:33:04a Valadorei says, "Me."
+2/10/25 5:33:05a (Mirabel smiles)
+2/10/25 5:33:07a • You feel able to cast a phantasm again.
+2/10/25 5:33:11a (Aurelie giggles and gives Valadorei an affectionate lil' nudge.)
+2/10/25 5:33:22a • You hear Aurelie's music...
+2/10/25 5:33:22a Aurelie starts playing her starbuck harp.
+2/10/25 5:33:22a (Aurelie): "Valadorable and Aurelovely," by Coriakin
+2/10/25 5:33:22a You have cast a page 79 phantasm (Mud Nest (Fauna 4/8)).
+2/10/25 5:33:52a Koppi yells, "Katreesa reports: this: https://www.youtube.com/watch?v=2oRlBmwKzy4"
+2/10/25 5:33:56a Aurelie says, "If there were a visionstone series about Valadorei and I, we'd be roommates."
+2/10/25 5:34:00a Your phantasmonomicon has the following pages:
+2/10/25 5:34:00a Page 1: Small Blue Flames (Elements 1/7).
+2/10/25 5:34:00a Page 3: Small Red Flames (Elements 3/7).
+2/10/25 5:34:00a Page 5: Smoke (Shadow 1/5).
+2/10/25 5:34:00a Page 8: Sparkle (Shadow 4/5).
+2/10/25 5:34:00a Page 12: Gold Coins (Treasure 1/5).
+2/10/25 5:34:00a Page 13: Water Puddle (Earth 1/4).
+2/10/25 5:34:00a Page 15: Flying Pebble (Earth 3/4).
+2/10/25 5:34:00a Page 18: Skull (Fauna 2/8).
+2/10/25 5:34:00a Page 21: Treasure Chest (Treasure 2/5).
+2/10/25 5:34:00a Page 25: Waving Reeds (Flora 2/8).
+2/10/25 5:34:00a Page 28: Wooden Chair (Constructs 4/8).
+2/10/25 5:34:00a Page 29: Blue Flag (Holiday 1/6).
+2/10/25 5:34:00a Page 35: Amber Beer (Holiday 6/6).
+2/10/25 5:34:00a Page 42: Large Fern (Jungle 1/4).
+2/10/25 5:34:00a Page 50: Fireplace (Constructs 8/8).
+2/10/25 5:34:00a Page 53: Tree Stump (Arboreal 7/7).
+2/10/25 5:34:00a Page 64: Pine Tree (Arboreal 5/7).
+2/10/25 5:34:00a Page 67: Variegated Plant (Jungle 2/4).
+2/10/25 5:34:00a Page 79: Mud Nest (Fauna 4/8).
+2/10/25 5:34:06a Aurelie says, "She'd be the hard-working, driven academic."
+2/10/25 5:34:08a You have 556 coins.
+2/10/25 5:34:18a Aurelie says, "I'd the the goofy layabout who has some inexplicable form of income."
+2/10/25 5:34:32a Aurelie says, "Even though she never does anything productive."
+2/10/25 5:34:46a Aurelie says, "And this would be our theme song."
+2/10/25 5:34:47a (Valadorei): Not a starving artist.
+2/10/25 5:34:47a Mirabel says, "would totally watch that show"
+2/10/25 5:34:53a (Valadorei): Not a starving artist. v
+2/10/25 5:35:03a (Aurelie giggles.)
+2/10/25 5:35:45a Ravenstorm is no longer Clanning.
+2/10/25 5:36:07a Aurelie says, "HMMMmmmmMMMmmm"
+2/10/25 5:36:12a • You hear Aurelie's music...
+2/10/25 5:36:13a Aurelie starts playing her lucky lyra.
+2/10/25 5:36:13a (Aurelie): The Last Dance
+2/10/25 5:36:57a • You feel able to cast a phantasm again.
+2/10/25 5:37:08a Master Bodrus says, "Hail, Captain Planet. There is nothing I can teach you."
+2/10/25 5:37:08a * Master : MAXED.
+2/10/25 5:37:13a Master Spirtus says, "Hail, Captain Planet. You are one of my better pupils."
+2/10/25 5:37:13a * Master : 50-99.
+2/10/25 5:37:19a Master Mentus says, "Hail, Captain Planet. You have much to learn."
+2/10/25 5:37:19a * Master : 0-9.
+2/10/25 5:37:24a Ankrus says, "Captain Planet, you are making progress. Sprite will be pleased."
+2/10/25 5:37:24a * |▰▰▰▰▰═════| 38%-62%
+2/10/25 5:37:30a You have 556 coins.
+2/10/25 5:37:31a (Aurelie ponders what would make her a better healer.)
+2/10/25 5:37:34a Din Halstum says, "Greetings, Lord Captain Planet."
+2/10/25 5:37:35a Din Halstum says, "Healers can restore your life force if you are wounded in battle."
+2/10/25 5:37:43a Faustus says, "Hail, Captain Planet. Teaching you has taught me much."
+2/10/25 5:37:43a * Faustus : 300-349.
+2/10/25 5:38:10a Sespus says, "Hail, Captain Planet. You are one of my better pupils."
+2/10/25 5:38:10a * Sespus : 50-99.
+2/10/25 5:38:17a Respia says, "Hail, Captain Planet."
+2/10/25 5:38:18a Respia bows.
+2/10/25 5:38:20a Respia says, "Hail, Captain Planet."
+2/10/25 5:38:20a Respia bows.
+2/10/25 5:38:23a Respia says, "You are a credit to our craft."
+2/10/25 5:38:23a * Respia : 650-699.
+2/10/25 5:38:24a Respia says, "I can teach you to recover spiritual energy faster."
+2/10/25 5:38:25a Kensington is no longer Clanning.
+2/10/25 5:38:45a Higgrus says, "Hail, Captain Planet. You may be proud of your accomplishment."
+2/10/25 5:38:45a * Higgrus : 450-499.
+2/10/25 5:38:46a Higgrus says, "I can teach you to improve your physical well-being."
+2/10/25 5:38:48a Higgrus says, "You will learn as you practice."
+2/10/25 5:39:31a Black Phoenix is now Clanning.
+2/10/25 5:39:45a Horus says, "Hail, Captain Planet. You are a good pupil of mine."
+2/10/25 5:39:45a * Horus : 40-49.
+2/10/25 5:39:47a Sylpha says, "Hail, Captain Planet. There is nothing I can teach you."
+2/10/25 5:39:47a * Sylpha : MAXED.
+2/10/25 5:40:09a Awaria says, "Hail, Captain Planet. You are one of my better pupils."
+2/10/25 5:40:10a * Awaria : 50-99.
+2/10/25 5:40:27a Hardia says, "Hail, Captain Planet. It is hard to find more to teach you."
+2/10/25 5:40:27a * Hardia : 150-199.
+2/10/25 5:40:56a You have 556 coins.
+2/10/25 5:41:40a Metta Sylpha says, "Hail, Captain Planet. There is nothing I can teach you."
+2/10/25 5:41:40a * Metta : MAXED.
+2/10/25 5:41:42a Bendena Helf says, "Greetings, Lord Captain Planet."
+2/10/25 5:41:43a Bendena Helf says, "More training for the Sylphstone Ring increases its efficiency"
+2/10/25 5:44:27a You have 556 coins.
+2/10/25 5:46:05a Black Phoenix is no longer Clanning.
+2/10/25 5:47:57a You have 556 coins.
+2/10/25 5:48:50a Mirabel says, "interesting"
+2/10/25 5:48:55a Aurelie says, "Recovering spirit so quickly that you continuously microburst people."
+2/10/25 5:48:58a Mirabel says, "i used to hunt with Taryn ages ago"
+2/10/25 5:49:10a Mirabel says, "very unique healing style"
+2/10/25 5:49:15a Aurelie says, "It means my touch healing is much, much faster than my ranged healing."
+2/10/25 5:49:25a Aurelie says, "But it also tends to make you quite durable."
+2/10/25 5:49:25a Koppi yells, "Sativa reports: All your base are belong to us"
+2/10/25 5:49:43a (Aurelie nods.)
+2/10/25 5:49:51a Aurelie says, "I suspect I will end up much like her."
+2/10/25 5:50:01a Aurelie asks, "Though with more Proxi, maybe?"
+2/10/25 5:50:03a (Aurelie shrugs.)
+2/10/25 5:50:09a (Aurelie is actually boring.)
+2/10/25 5:50:20a Mirabel says, "i thought her style required very careful training to avoid faustus"
+2/10/25 5:50:20a Valkaris is no longer Clanning.
+2/10/25 5:50:30a (Aurelie nods.)
+2/10/25 5:50:36a Aurelie says, "Or at least avoid too much."
+2/10/25 5:50:44a Aurelie says, "Yeah, we definitely differ there."
+2/10/25 5:50:59a Aurelie says, "With my style, though, I don't think I'll need more Faustus for a while..."
+2/10/25 5:51:06a Aurelie says, "Just Respia Respia and more Respia."
+2/10/25 5:51:19a (Aurelie hugs her training ledger and sighs a dreamy sigh.)
+2/10/25 5:51:25a You have 556 coins.
+2/10/25 5:51:29a Black Phoenix is now Clanning.
+2/10/25 5:52:08a Aurelie exclaims, "Rain!"
+2/10/25 5:52:11a (Aurelie smiles up at the rain.)
+2/10/25 5:52:26a You have cast a page 53 phantasm (Tree Stump (Arboreal 7/7)).
+2/10/25 5:53:06a Unagi is now Clanning.
+2/10/25 5:53:14a Dinsdale is now Clanning.
+2/10/25 5:53:50a (Aurelie giggles.)
+2/10/25 5:53:51a (Valadorei winks.)
+2/10/25 5:54:03a (Aurelie nods knowingly, though she doesn't actually know.)
+2/10/25 5:54:07a • You feel able to cast a phantasm again.
+2/10/25 5:54:36a Koppi yells, "Katreesa reports: this: https://www.youtube.com/watch?v=2oRlBmwKzy4"
+2/10/25 5:54:49a You have 556 coins.
+2/10/25 5:55:10a Salandra thinks, "exits nw side"
+2/10/25 5:55:29a (Moonlight waves)
+2/10/25 5:55:37a Alieshia is no longer Clanning.
+2/10/25 5:56:12a The Wanderer ponders, "I need to venmo someone to work on my macro's..."
+2/10/25 5:56:16a The Wanderer ponders, "and get venmo.."
+2/10/25 5:56:23a The Wanderer ponders, "and get money to be able to venmo.."
+2/10/25 5:56:29a Eli thinks, "ty all nice save wanderer!"
+2/10/25 5:56:36a The Wanderer thinks, "woot"
+2/10/25 5:56:50a Glaurung says, "laters"
+2/10/25 5:56:55a Elenis Reyav thinks, "Indeed, great save TW!"
+2/10/25 5:57:01a Glaurung is no longer Clanning.
+2/10/25 5:57:23a The Wanderer says, "having to copy paste RHS command in a notepad so I don't crash mid hunt"
+2/10/25 5:57:25a Elenis Reyav ponders, "Still need to get Dilresh to move to Puddleby."
+2/10/25 5:57:27a The Wanderer says, "not my fav"
+2/10/25 5:57:30a The Wanderer says, ":P"
+2/10/25 5:57:31a (Kalian waves)
+2/10/25 5:57:41a Kalian is no longer Clanning.
+2/10/25 5:57:51a Yalah is now Clanning.
+2/10/25 5:58:11a You have 556 coins.
+2/10/25 5:58:16a Yalah is no longer Clanning.
+2/10/25 5:58:28a Moonlight is no longer Clanning.
+2/10/25 5:58:32a Shayndel is now Clanning.
+2/10/25 5:59:19a Fearr is no longer Clanning.
+2/10/25 5:59:20a Bronko is no longer Clanning.
+2/10/25 5:59:29a Elenis Reyav is no longer Clanning.
+2/10/25 5:59:47a Koppi yells, "Katreesa reports: this: https://www.youtube.com/watch?v=2oRlBmwKzy4"
+2/10/25 6:00:07a Crius yells, "It’s Noon on Lundi, the 8th day of Summer in the 640th year of the Ascendancy, and all’s well."
+2/10/25 6:00:12a Crius yells, "It looks pretty quiet in some forgotten place."
+2/10/25 6:00:16a Jeepers is no longer Clanning.
+2/10/25 6:00:19a Eli thinks, "buying iron armor set"
+2/10/25 6:00:20a Mirabel says, "oh hi wanderer"
+2/10/25 6:00:25a The Wanderer says, "hihi"
+2/10/25 6:01:13a (Aurelie got distracted.)
+2/10/25 6:01:14a Salandra is no longer Clanning.
+2/10/25 6:01:32a You have 556 coins.
+2/10/25 6:01:49a Lunelle is now Clanning.
+2/10/25 6:02:36a • You hear Aurelie's music...
+2/10/25 6:02:36a Aurelie starts playing her starbuck harp.
+2/10/25 6:02:36a (Aurelie): A Song Like Fire - For Valadorei
+2/10/25 6:02:49a (Valadorei smiles.)
+2/10/25 6:03:13a Aurelie says, "I love this sooooong"
+2/10/25 6:03:25a (Valadorei blushes.)
+2/10/25 6:03:47a Your phantasmonomicon has the following pages:
+2/10/25 6:03:47a Page 1: Small Blue Flames (Elements 1/7).
+2/10/25 6:03:47a Page 3: Small Red Flames (Elements 3/7).
+2/10/25 6:03:47a Page 5: Smoke (Shadow 1/5).
+2/10/25 6:03:47a Page 8: Sparkle (Shadow 4/5).
+2/10/25 6:03:47a Page 12: Gold Coins (Treasure 1/5).
+2/10/25 6:03:47a Page 13: Water Puddle (Earth 1/4).
+2/10/25 6:03:47a Page 15: Flying Pebble (Earth 3/4).
+2/10/25 6:03:47a Page 18: Skull (Fauna 2/8).
+2/10/25 6:03:47a Page 21: Treasure Chest (Treasure 2/5).
+2/10/25 6:03:47a Page 25: Waving Reeds (Flora 2/8).
+2/10/25 6:03:47a Page 28: Wooden Chair (Constructs 4/8).
+2/10/25 6:03:47a Page 29: Blue Flag (Holiday 1/6).
+2/10/25 6:03:47a Page 35: Amber Beer (Holiday 6/6).
+2/10/25 6:03:47a Page 42: Large Fern (Jungle 1/4).
+2/10/25 6:03:47a Page 50: Fireplace (Constructs 8/8).
+2/10/25 6:03:47a Page 53: Tree Stump (Arboreal 7/7).
+2/10/25 6:03:47a Page 64: Pine Tree (Arboreal 5/7).
+2/10/25 6:03:47a Page 67: Variegated Plant (Jung

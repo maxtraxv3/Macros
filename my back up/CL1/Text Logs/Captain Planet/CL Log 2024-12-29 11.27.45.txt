@@ -1,0 +1,60 @@
+
+12/29/24 11:27:45a * Your pair of shoes named “white” is in very good condition.
+12/29/24 11:27:45a * Your shirt named “Dark Red” is in very good condition.
+12/29/24 11:27:45a * Your pair of fourth-circle pants named “turquoise” is in very good condition.
+12/29/24 11:27:45a Welcome to Clan Lord, Captain Planet!
+12/29/24 11:27:45a Type \HELP for a list of commands.
+12/29/24 11:27:45a • You gain experience from your recent studies.
+12/29/24 11:27:45a Type /healer for commands if you forget
+12/29/24 11:27:45a Captain Planet is now Clanning.
+12/29/24 11:27:45a The healing spell has started.
+12/29/24 11:27:45a You have been studying for one day, 15 hours, 41 minutes.
+12/29/24 11:27:48a It's 12:31pm on Lundi, day 13 of Winter, 640.
+12/29/24 11:27:49a Friends online: none.
+12/29/24 11:27:50a You are the only member of Black Phoenix clanning.
+12/29/24 11:27:50a • What’s New: https://deltatao.com/clanlord/news
+12/29/24 11:28:00a * Tip of the day: Option-click on someone to copy their name into your text entry box. (Use /OPTIONS to turn tips off.)
+12/29/24 11:28:35a Magnic II is now Clanning.
+12/29/24 11:28:59a Magnic II says, "c heal me"
+12/29/24 11:28:59a *Healing heal 
+12/29/24 11:28:59a •You must specify a player in the game.
+12/29/24 11:29:00a *Healing heal 
+12/29/24 11:29:00a •You must specify a player in the game.
+12/29/24 11:29:21a No player named ' guy ' found in the player list.
+12/29/24 11:30:30a Magnic II says, "c heal me"
+12/29/24 11:30:31a *Healing No 
+12/29/24 11:30:31a •You must specify a player in the game.
+12/29/24 11:30:31a *Healing heal 
+12/29/24 11:30:31a •You must specify a player in the game.
+12/29/24 11:34:32a •••
+12/29/24 11:34:32a You have been idle for too long.
+12/29/24 11:34:32a Please do something to avoid being disconnected.
+12/29/24 11:34:32a •••
+12/29/24 11:34:40a You have 107 coins.
+12/29/24 11:35:37a Type /healer for commands if you forget
+12/29/24 11:35:43a • MACRO Syntax Error
+No closing "end if" found.
+12/29/24 11:35:43a • MACRO if 12/29/24 11:35:37a Type /healer for commands if you forget >= c heal
+12/29/24 11:36:28a Type /healer for commands if you forget
+12/29/24 11:36:37a Magnic II says, "c heal me"
+12/29/24 11:36:38a *Healing heal 
+12/29/24 11:36:38a •You must specify a player in the game.
+12/29/24 11:36:38a No player named 'Type' found in the player list.
+12/29/24 11:36:38a *Healing MagnicII 
+12/29/24 11:37:33a FriedDylan is no longer Clanning.
+12/29/24 11:38:34a IHael'du is now Clanning.
+12/29/24 11:38:42a Murrim is now Clanning.
+12/29/24 11:40:39a •••
+12/29/24 11:40:39a You have been idle for too long.
+12/29/24 11:40:39a Please do something to avoid being disconnected.
+12/29/24 11:40:39a •••
+12/29/24 11:40:44a You have 107 coins.
+12/29/24 11:40:55a • /SLEEP when you wish to begin studying.
+12/29/24 11:41:07a IHael'du is no longer Clanning.
+12/29/24 11:41:08a Magnic II is done adventuring for a while and will be staying here.
+12/29/24 11:41:09a Magnic II is no longer Clanning.
+12/29/24 11:41:33a Use \SLEEP again when you return.
+12/29/24 11:41:34a You are done adventuring for a while and will be staying here.
+12/29/24 11:41:34a You have been disconnected from Clan Lord.
+12/29/24 11:41:35a • You will benefit from staying here while you are off-line.
+12/29/24 11:41:35a *** We are no longer connected to the Clan Lord game server. ***

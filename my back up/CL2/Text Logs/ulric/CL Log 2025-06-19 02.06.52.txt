@@ -1,0 +1,88 @@
+
+6/19/25 2:06:52a * Your third-circle healer's cloak named “turquoise” is in very good condition.
+6/19/25 2:06:52a * Your pair of second-circle pants named “white” is in very good condition.
+6/19/25 2:06:52a * Your healer's shirt is in very good condition.
+6/19/25 2:06:52a Welcome to Clan Lord, Ulric!
+6/19/25 2:06:52a Type \HELP for a list of commands.
+6/19/25 2:06:52a • You gain experience from your recent studies.
+6/19/25 2:06:52a *Healer Mode
+6/19/25 2:06:52a * Healer Item set to Nothing 
+6/19/25 2:06:53a The healing spell has started.
+6/19/25 2:06:53a You have been studying for 36 days, 11 hours, 3 minutes.
+6/19/25 2:06:53a Friends online: none.
+6/19/25 2:06:55a It's 1:34pm on Terrdi, day 85 of Autumn, 641.
+6/19/25 2:06:56a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+6/19/25 2:06:57a Aitnos asks, "Would you like to apply some of your learning to Proximus’s lessons?"
+6/19/25 2:06:57a There are two members of Black Phoenix clanning: Maxtrax and you.
+6/19/25 2:06:57a • What’s New: https://deltatao.com/clanlord/news
+6/19/25 2:07:01a Aitnos waits for Ulric’s answer.
+6/19/25 2:07:04a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+6/19/25 2:07:04a Aitnos asks, "Would you like to apply some of your learning to Proximus’s lessons?"
+6/19/25 2:07:05a Ulric whispers, "yes"
+6/19/25 2:07:05a Aitnos says, "Congratulations, Ulric. You should now understand more of Proximus’s teachings."
+6/19/25 2:07:06a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+6/19/25 2:07:06a Aitnos says, "You have not yet learned enough for Proximus’s lesson."
+6/19/25 2:07:07a * Tip of the day: You can choose a different icon for your character in the hut in the west fairgrounds. (Use /OPTIONS to turn tips off.)
+6/19/25 2:07:07a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+6/19/25 2:07:07a Aitnos says, "You have not yet learned enough for Proximus’s lesson."
+6/19/25 2:07:08a Asterru says, "Ulric, you are close to mastering Proximus’s lesson."
+6/19/25 2:07:08a * |▰▰▰▰▰▰▰═══| 75%-88%
+6/19/25 2:07:28a Proximus says, "Hail, Ulric. You have much to learn."
+6/19/25 2:07:28a * Proximus : 0-9.
+6/19/25 2:07:29a Proximus says, "I can teach you to heal people from further away."
+6/19/25 2:07:40a You equip your moonstone.
+6/19/25 2:07:42a Glory says, "Welcome to the healer testing area."
+6/19/25 2:07:43a Glory says, "In a few moments I will fall, and hostile creatures will enter."
+6/19/25 2:07:43a Glory says, "Raise me successfully and live to complete the test."
+6/19/25 2:07:46a Ulric ties Glory's shoelaces together.
+6/19/25 2:07:50a Glory tries to take a step.
+6/19/25 2:08:08a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/19/25 2:08:08a You slip your moonstone into your backpack.
+6/19/25 2:08:08a Ulric has fallen to a Snow Feral.
+6/19/25 2:08:08a •You are too wounded to be healed easily.
+6/19/25 2:08:08a Glory yells, "A bold effort! You healed me more than halfway."
+6/19/25 2:08:09a Your moonstone is already unequipped.
+6/19/25 2:08:10a Glory yells, "Regrettably, Ulric, you have failed."
+6/19/25 2:08:10a Glory sighs.
+6/19/25 2:08:11a Glory yells, "Try again when you are a little stronger or wiser."
+6/19/25 2:08:20a Bruno says, "You need to practice more first, Ulric."
+6/19/25 2:08:20a Bruno says, "Try again next year."
+6/19/25 2:08:21a Bruno says, "Most who passed were stronger than you."
+6/19/25 2:08:29a Higgrus says, "Hail, Ulric."
+6/19/25 2:08:29a Higgrus bows.
+6/19/25 2:08:31a Higgrus says, "Hail, Ulric."
+6/19/25 2:08:31a Higgrus bows.
+6/19/25 2:08:33a Higgrus says, "Few indeed are your peers."
+6/19/25 2:08:33a * Higgrus : 700-749.
+6/19/25 2:08:33a Higgrus says, "I can teach you to improve your physical well-being."
+6/19/25 2:08:34a Higgrus says, "You will learn as you practice."
+6/19/25 2:08:36a Sprite says, "Hail, Ulric. Teaching you is a challenge."
+6/19/25 2:08:36a * Sprite : 200-249.
+6/19/25 2:08:36a Sprite says, "I can teach you how to improve your spirit for healing."
+6/19/25 2:08:36a Sprite says, "You will learn as you practice."
+6/19/25 2:08:39a Respia says, "Hail, Ulric."
+6/19/25 2:08:39a Respia bows deeply.
+6/19/25 2:08:41a Respia says, "Your devotion to the craft is exemplary."
+6/19/25 2:08:42a * Respia : 750-799.
+6/19/25 2:08:42a Respia says, "I can teach you to recover spiritual energy faster."
+6/19/25 2:08:42a Respia says, "You will learn as you practice."
+6/19/25 2:08:44a Sespus says, "Hail, Ulric. You keep me on my toes."
+6/19/25 2:08:44a * Sespus : 100-149.
+6/19/25 2:08:44a Sespus says, "I can teach you to increase your spiritual energy."
+6/19/25 2:08:44a Sespus says, "You will learn as you practice."
+6/19/25 2:08:47a Faustus says, "Hail, Ulric. There is not much more I can teach you."
+6/19/25 2:08:47a * Faustus : 250-299.
+6/19/25 2:08:47a Faustus says, "I can teach you to improve your healing speed."
+6/19/25 2:08:48a Faustus says, "You will learn as you practice."
+6/19/25 2:08:50a Eva says, "Hail, Ulric. It is hard to find more to teach you."
+6/19/25 2:08:50a * Eva : 150-199.
+6/19/25 2:08:51a Eva says, "I can teach a balanced healing style."
+6/19/25 2:08:51a Eva says, "You will learn as you practice."
+6/19/25 2:09:00a Repetun says, "Greetings, Lord Ulric."
+6/19/25 2:09:00a Repetun says, "If you wish, I can exchange your fifth-circle badge for a fourth-circle one."
+6/19/25 2:09:19a • /SLEEP when you wish to begin studying.
+6/19/25 2:09:27a Use \SLEEP again when you return.
+6/19/25 2:09:27a You are done adventuring for a while and will be staying here.
+6/19/25 2:09:28a You have been disconnected from Clan Lord.
+6/19/25 2:09:28a • You will benefit from staying here while you are off-line.
+6/19/25 2:09:28a *** We are no longer connected to the Clan Lord game server. ***

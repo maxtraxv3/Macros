@@ -1,0 +1,890 @@
+
+12/31/24 12:06:25a * Your cloak named “Red” is in nearly perfect condition.
+12/31/24 12:06:25a * Your pair of pants is in pretty good shape.
+12/31/24 12:06:25a * You feel affixed to your previously set health.
+12/31/24 12:06:25a •You feel a surge of power as your blood pours down the blade.
+12/31/24 12:06:25a Welcome to Clan Lord, Smeti!
+12/31/24 12:06:25a Type \HELP for a list of commands.
+12/31/24 12:06:25a • You gain experience from your recent studies.
+12/31/24 12:06:25a Smeti is now Clanning.
+12/31/24 12:06:25a You have been studying for one day, 16 hours, 26 minutes.
+12/31/24 12:06:27a It's 6:26pm on Soldi, day 19 of Winter, 640.
+12/31/24 12:06:28a Friends online: none.
+12/31/24 12:06:29a There are three members of Black Phoenix clanning: Bastion, Ceara and you.
+12/31/24 12:06:29a • What’s New: https://deltatao.com/clanlord/news
+12/31/24 12:07:47a •You learn how to better utilize your bloodblade.
+12/31/24 12:08:00a Warawonda is now Clanning.
+12/31/24 12:08:21a Warawonda hands you 6660 coins.
+12/31/24 12:08:33a Warawonda is no longer Clanning.
+12/31/24 12:08:47a Finn Orak says, "It seems the dangers grow in proportion to our population."
+12/31/24 12:09:17a •You learn how to better utilize your bloodblade.
+12/31/24 12:09:39a Bl'kouk asks, "Smeti, do you want to buy a bloodshroud shirt for 6660 coins?"
+12/31/24 12:09:41a Smeti says, "yes"
+12/31/24 12:09:42a Bl'kouk says, "There you go, Smeti."
+12/31/24 12:09:50a You equip your bloodshroud named “bloodshroud”, which is in nearly perfect condition.
+12/31/24 12:10:07a \EQUIP your clothing to put it on, \UNEQUIP it to remove it.
+12/31/24 12:10:26a Stedfustus says, "Hail, Smeti. There is not much more I can teach you."
+12/31/24 12:10:26a * Stedfustus : 250-299.
+12/31/24 12:10:26a Stedfustus says, "I can teach you to be healthier, and to recover your balance and health more quickly."
+12/31/24 12:10:27a Stedfustus says, "You will learn as you practice."
+12/31/24 12:10:27a Stedfustus asks, "Are you sure you would like to train with me?"
+12/31/24 12:10:35a Anemia says, "Hail, Smeti."
+12/31/24 12:10:35a Anemia bows deeply.
+12/31/24 12:10:43a Anemia says, "Hail, Smeti."
+12/31/24 12:10:43a Anemia bows deeply.
+12/31/24 12:10:45a Anemia says, "Your devotion to the craft is exemplary."
+12/31/24 12:10:45a * Anemia : 750-799.
+12/31/24 12:10:46a Anemia says, "I can teach you to be much healthier and faster. But you will recover more slowly from wounds."
+12/31/24 12:10:46a Anemia says, "You will learn as you practice."
+12/31/24 12:10:47a •You learn how to better utilize your bloodblade.
+12/31/24 12:11:08a Dantus says, "Hail, Smeti. You have much to learn."
+12/31/24 12:11:08a * Dantus : 0-9.
+12/31/24 12:11:08a Dantus says, "I can teach you to unleash a blood inferno on a killing blow."
+12/31/24 12:11:09a Dantus says, "You will learn as you practice."
+12/31/24 12:11:09a Dantus asks, "Are you sure you would like to train with me?"
+12/31/24 12:11:21a Mourangus Aldim says, "Greetings, Smeti."
+12/31/24 12:11:21a Mourangus Aldim says, "The bloodpool quivers in agitation."
+12/31/24 12:11:22a Mourangus Aldim says, "Could you bring a corpse to feed the pool? It hungers for a Ctenizidae."
+12/31/24 12:11:22a Mourangus Aldim says, "Greetings, Smeti."
+12/31/24 12:11:23a Mourangus Aldim says, "The bloodpool quivers in agitation."
+12/31/24 12:11:23a Mourangus Aldim says, "Could you bring a corpse to feed the pool? It hungers for a Ctenizidae."
+12/31/24 12:11:31a Disabla says, "Hail, Smeti. You have much to learn."
+12/31/24 12:11:31a * Disabla : 0-9.
+12/31/24 12:11:31a Disabla says, "I can teach you to deal a variety of debilitating blows."
+12/31/24 12:11:32a Disabla says, "You will learn as you practice."
+12/31/24 12:11:32a Disabla asks, "Are you sure you would like to train with me?"
+12/31/24 12:11:38a Cryptus says, "Hail, Smeti. You have much to learn."
+12/31/24 12:11:38a * Cryptus : 0-9.
+12/31/24 12:11:38a Cryptus says, "I can teach you to deal a variety of debilating blows."
+12/31/24 12:11:39a Cryptus says, "You will learn as you practice."
+12/31/24 12:11:39a Cryptus asks, "Are you sure you would like to train with me?"
+12/31/24 12:11:47a Disciple says, "Greetings, Lord Smeti."
+12/31/24 12:11:47a Disciple says, "Disabla and Cryptus have been working together on new training techniques."
+12/31/24 12:11:48a Disciple says, "They can both teach you to disable, cripple, or hamstring your foes."
+12/31/24 12:11:48a Disciple says, "Neither trainer is more effective than the other."
+12/31/24 12:12:17a •You learn how to better utilize your bloodblade.
+12/31/24 12:12:38a Disciple says, "Greetings, Lord Smeti."
+12/31/24 12:12:38a Disciple says, "Disabla and Cryptus can teach you to hamstring your opponents."
+12/31/24 12:12:39a Disciple says, "A hamstrung foe will be worse at moving, recovering balance, and dealing damage."
+12/31/24 12:12:39a Disciple says, "Greetings, Lord Smeti."
+12/31/24 12:12:40a Disciple says, "Disabla and Cryptus can teach you to hamstring your opponents."
+12/31/24 12:12:40a Disciple says, "A hamstrung foe will be worse at moving, recovering balance, and dealing damage."
+12/31/24 12:12:52a Disciple says, "Greetings, Lord Smeti."
+12/31/24 12:12:52a Disciple says, "I study the art of hemorrhaging wounds."
+12/31/24 12:12:53a Disciple says, "Each lesson with Aneurus increases the amount of blood a creature loses when you inflict a hemorrhaging wound."
+12/31/24 12:12:53a Disciple says, "The lessons also help a small amount when controlling your bloodblade."
+12/31/24 12:13:06a Disciple says, "Greetings, Lord Smeti."
+12/31/24 12:13:07a Disciple says, "The bloodpool grants us the power to control our blade by feeding off others."
+12/31/24 12:13:07a Disciple says, "When doing this, the blade no longer feeds off of us and instead corrupts the blood of our enemy."
+12/31/24 12:13:08a Disciple says, "The blade must be near our enemy for this corruption to continue."
+12/31/24 12:13:16a Maekoh is no longer Clanning.
+12/31/24 12:13:29a Kyoko is no longer Clanning.
+12/31/24 12:13:31a Disciple says, "Greetings, Lord Smeti."
+12/31/24 12:13:31a Disciple says, "The bloodpool hungers. It hungers for the essence of creatures."
+12/31/24 12:13:31a Disciple says, "When the pool hungers, it is our duty to feed it."
+12/31/24 12:13:32a Disciple says, "The bloodpool grants us additional power in return."
+12/31/24 12:13:41a Disciple says, "Greetings, Lord Smeti."
+12/31/24 12:13:42a Disciple says, "The bloodpool allows us to draw power from the blood of creatures."
+12/31/24 12:13:42a Disciple says, "When we kill a creature, they will bleed."
+12/31/24 12:13:42a Disciple says, "We can collect this blood and use it to power many abilities."
+12/31/24 12:13:47a •You learn how to better utilize your bloodblade.
+12/31/24 12:13:53a Disciple asks, "Where does the bloodpool come from?"
+12/31/24 12:13:53a Disciple says, "Nobody knows. It called to us and we came."
+12/31/24 12:13:54a Disciple says, "It grants us power to store and use the blood of others."
+12/31/24 12:13:54a Disciple says, "As you increase your abilities, you will draw more from the bloodpool and your stored blood."
+12/31/24 12:13:58a Ceara has fallen to a Spectral Haremau Kitten.
+12/31/24 12:14:01a Ceara is no longer fallen.
+12/31/24 12:14:29a Haima Myrtillus says, "It is good to see you again, Smeti. I trust that our faith in you has not been misplaced."
+12/31/24 12:14:36a Unrastin says, "Hail, Smeti. There is nothing I can teach you."
+12/31/24 12:14:36a * Unrastin : MAXED.
+12/31/24 12:14:37a Unrastin says, "Hail, Smeti. There is nothing I can teach you."
+12/31/24 12:14:37a * Unrastin : MAXED.
+12/31/24 12:14:39a Sargasti Avantis says, "Smeti, you already have a bloodstone ring."
+12/31/24 12:14:40a Sargasti Avantis says, "Smeti, you already have a bloodstone ring."
+12/31/24 12:14:41a Sargasti Avantis says, "Smeti, you already have a bloodstone ring."
+12/31/24 12:14:51a Robby Cund says, "Greetings, Smeti."
+12/31/24 12:14:51a Robby Cund says, "The bloodpool quivers in agitation."
+12/31/24 12:14:52a Robby Cund says, "Could you bring a corpse to feed the pool? It hungers for a Ctenizidae."
+12/31/24 12:15:06a Putref says, "I can infuse a bloodblade with the powers of the bloodpool."
+12/31/24 12:15:06a Putref says, "Be warned, this procedure comes with costs, and the full benefits show themselves only to bloodmages."
+12/31/24 12:15:06a Putref says, "You don't have the some raw materials I need, though."
+12/31/24 12:15:07a Putref says, "I can infuse a bloodblade with the powers of the bloodpool."
+12/31/24 12:15:07a Putref says, "Be warned, this procedure comes with costs, and the full benefits show themselves only to bloodmages."
+12/31/24 12:15:08a Putref says, "You don't have the some raw materials I need, though."
+12/31/24 12:15:18a •You learn how to better utilize your bloodblade.
+12/31/24 12:15:36a Disciple says, "Greetings, Lord Smeti."
+12/31/24 12:15:37a Disciple says, "A bloodblade, once infused, can store the essence of a creature."
+12/31/24 12:15:37a Disciple says, "However, you will not regain balance as quickly."
+12/31/24 12:15:38a Disciple says, "You will also need to fuel the blade with stored blood for effective blows."
+12/31/24 12:15:38a Disciple says, "And be careful, the infusion spreads between blades."
+12/31/24 12:15:39a Disciple says, "Greetings, Lord Smeti."
+12/31/24 12:15:48a The doorman bows to Smeti.
+12/31/24 12:15:49a The doorman bows to Smeti.
+12/31/24 12:15:49a The doorman bows to Smeti.
+12/31/24 12:15:52a Disciple says, "Greetings, Lord Smeti."
+12/31/24 12:15:53a Disciple says, "The order is finally open to newcomers."
+12/31/24 12:15:53a Disciple says, "The bloodpool's hunger seems to grow by the day, but our numbers are ever dwindling."
+12/31/24 12:15:54a Disciple says, "Nacerus was right to share the power of the pool with outsiders."
+12/31/24 12:16:15a Disciple says, "Greetings, Lord Smeti."
+12/31/24 12:16:16a Disciple says, "The order is finally open to newcomers."
+12/31/24 12:16:16a Disciple says, "The bloodpool's hunger seems to grow by the day, but our numbers are ever dwindling."
+12/31/24 12:16:17a Disciple says, "Nacerus was right to share the power of the pool with outsiders."
+12/31/24 12:16:17a Disciple says, "Greetings, Lord Smeti."
+12/31/24 12:16:18a Disciple says, "The order is finally open to newcomers."
+12/31/24 12:16:18a Disciple says, "The bloodpool's hunger seems to grow by the day, but our numbers are ever dwindling."
+12/31/24 12:16:22a Disciple says, "Greetings, Lord Smeti."
+12/31/24 12:16:22a Disciple says, "A crippling blow targets the limbs of your opponent and reduces their offense."
+12/31/24 12:16:23a Disciple says, "Each lesson with Crypta or Disabla increases the effects of the blow, but not the duration."
+12/31/24 12:16:23a Disciple says, "Crippling blows last longer than disabling blows."
+12/31/24 12:16:24a Disciple says, "Greetings, Lord Smeti."
+12/31/24 12:16:35a Disciple says, "Greetings, Lord Smeti."
+12/31/24 12:16:35a Disciple says, "Disabling blows inflict extreme pain, leaving your enemy off guard and reducing its defense and balance."
+12/31/24 12:16:36a Disciple says, "These effects last only a few seconds, however."
+12/31/24 12:16:36a Disciple says, "Training increases the power of the blow, but the creature will recover just as quickly."
+12/31/24 12:16:48a •You learn how to better utilize your bloodblade.
+12/31/24 12:17:08a Disciple says, "A blood inferno requires a true bloodmage to use well."
+12/31/24 12:17:08a Disciple says, "When an inferno blow kills a enemy, its blood energy unleashes massive damage to surrounding foes."
+12/31/24 12:17:08a Disciple says, "Dantus increases the damage of the initial blow, as well as the damage to surrounding opponents."
+12/31/24 12:17:34a Disciple says, "Greetings, Lord Smeti."
+12/31/24 12:17:35a Disciple says, "We can use the blood of creatures we have slain to maintain a state of false death."
+12/31/24 12:17:35a Disciple says, "You will be stunned for a while before you enter this state."
+12/31/24 12:17:36a Disciple says, "Posuhm can help increase the length of false death, and can decrease the stun after some training."
+12/31/24 12:17:36a Disciple says, "Greetings, Lord Smeti."
+12/31/24 12:18:18a •You learn how to better utilize your bloodblade.
+12/31/24 12:19:48a •You learn how to better utilize your bloodblade.
+12/31/24 12:20:19a You slaughtered a Vermine.
+12/31/24 12:20:33a You slaughtered a Deadly Adder.
+12/31/24 12:20:39a You slaughtered a Small Arachne.
+12/31/24 12:20:40a You slaughtered a Detached Spirit.
+12/31/24 12:20:44a You slaughtered a Detached Spirit.
+12/31/24 12:20:47a You slaughtered a Bat.
+12/31/24 12:20:50a You slaughtered a Detached Spirit.
+12/31/24 12:20:55a You slaughtered a Bat.
+12/31/24 12:20:57a You slaughtered a Bat.
+12/31/24 12:21:00a You slaughtered a Detached Spirit.
+12/31/24 12:21:03a You slaughtered a Carrion Arachne.
+12/31/24 12:21:06a You slaughtered a Hooded Corpse.
+12/31/24 12:21:09a You slaughtered a Hooded Corpse.
+12/31/24 12:21:09a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/31/24 12:21:10a Smeti has fallen to a Bat.
+12/31/24 12:21:10a • Your blood pours lifelessly from your body.
+12/31/24 12:21:18a •You learn how to better utilize your bloodblade.
+12/31/24 12:21:25a You cannot possibly use anything in your current condition.
+12/31/24 12:21:42a A Carrion Arachne rips at your gaping mouth.
+12/31/24 12:21:47a Magnic is now Clanning.
+12/31/24 12:22:16a A Carrion Arachne bites your fingertips.
+12/31/24 12:22:18a A Carrion Arachne pokes at your organs.
+12/31/24 12:22:49a •You learn how to better utilize your bloodblade.
+12/31/24 12:23:06a A Carrion Arachne pokes at your fingertips.
+12/31/24 12:23:27a A Carrion Arachne nibbles your wounds.
+12/31/24 12:23:44a You have 174 coins.
+12/31/24 12:23:44a A Carrion Arachne nibbles your fallen body.
+12/31/24 12:24:19a •You learn how to better utilize your bloodblade.
+12/31/24 12:25:04a You have 174 coins.
+12/31/24 12:25:07a Biro thinks, "run bastion run!"
+12/31/24 12:25:35a A Carrion Arachne plucks at your fingertips.
+12/31/24 12:25:49a •You learn how to better utilize your bloodblade.
+12/31/24 12:26:08a Magnic starts dragging you.
+12/31/24 12:26:24a You have 174 coins.
+12/31/24 12:27:19a •You learn how to better utilize your bloodblade.
+12/31/24 12:27:22a Magnic found a soil sample!
+12/31/24 12:27:44a You have 174 coins.
+12/31/24 12:28:02a Merchant Escor says, "Greetings, Lord Magnic."
+12/31/24 12:28:03a Merchant Escor says, "I found a pile of things I don't recognize in the back room, so many I had to ask Escra and Eskirn to help out."
+12/31/24 12:28:03a Merchant Escor says, "I haven't even been through all these... “whatzits” yet, but some of them look like you could wear them."
+12/31/24 12:28:03a Merchant Escor says, "Perhaps another time, then."
+12/31/24 12:28:40a A Rat plucks at your eye sockets.
+12/31/24 12:28:49a •You learn how to better utilize your bloodblade.
+12/31/24 12:29:04a You have 174 coins.
+12/31/24 12:30:07a Magnic starts dragging you.
+12/31/24 12:30:20a •You learn how to better utilize your bloodblade.
+12/31/24 12:30:25a You have 174 coins.
+12/31/24 12:30:43a Karrel Homus says, "We should return to the mainland."
+12/31/24 12:31:16a A Rat bites your fingertips.
+12/31/24 12:31:25a A Rat bites your flesh.
+12/31/24 12:31:33a Ulric is now Clanning.
+12/31/24 12:31:39a A Rat nibbles your flesh.
+12/31/24 12:31:42a A Rat munches on your eye sockets.
+12/31/24 12:31:45a Koppi yells, "Clemence reports: Fledgling hunt on Wednesdays at 6PM PST! Come fall with us with new and old characters!"
+12/31/24 12:31:45a You have 174 coins.
+12/31/24 12:31:45a A Rat chews on your fingertips.
+12/31/24 12:31:50a •You learn how to better utilize your bloodblade.
+12/31/24 12:32:01a Ulric is no longer Clanning.
+12/31/24 12:32:52a Julia is no longer Clanning.
+12/31/24 12:33:05a You have 174 coins.
+12/31/24 12:33:20a •You learn how to better utilize your bloodblade.
+12/31/24 12:33:36a You have attained tremendous skill.
+12/31/24 12:33:36a * You have not absorbed any creatures.
+12/31/24 12:34:01a You slaughtered a Rat.
+12/31/24 12:34:04a You slaughtered a Rat.
+12/31/24 12:34:10a You slaughtered a Rat.
+12/31/24 12:34:25a You have 174 coins.
+12/31/24 12:34:42a Use \SLEEP again when you return.
+12/31/24 12:34:50a •You learn how to better utilize your bloodblade.
+12/31/24 12:35:02a Magnic is no longer Clanning.
+12/31/24 12:35:45a You have 174 coins.
+12/31/24 12:36:01a Bulgatra is now Clanning.
+12/31/24 12:36:20a •You learn how to better utilize your bloodblade.
+12/31/24 12:36:56a Koppi yells, "Clemence reports: Fledgling hunt on Wednesdays at 6PM PST! Come fall with us with new and old characters!"
+12/31/24 12:37:06a You have 174 coins.
+12/31/24 12:37:51a •You learn how to better utilize your bloodblade.
+12/31/24 12:38:26a You have 174 coins.
+12/31/24 12:39:21a •You learn how to better utilize your bloodblade.
+12/31/24 12:39:46a You have 174 coins.
+12/31/24 12:40:51a •You learn how to better utilize your bloodblade.
+12/31/24 12:41:06a You have 174 coins.
+12/31/24 12:42:07a Koppi yells, "Shakyamuni reports: Help end the Darshak tyranny and FREE THE GNOMES!"
+12/31/24 12:42:21a •You learn how to better utilize your bloodblade.
+12/31/24 12:42:26a You have 174 coins.
+12/31/24 12:43:47a You have 174 coins.
+12/31/24 12:43:52a •You learn how to better utilize your bloodblade.
+12/31/24 12:44:09a Crius yells, "It’s 9 o’clock, and all’s well."
+12/31/24 12:44:15a Crius yells, "Haffron is fallen beneath the Eastern Mountains. Healer needed. Fighters, too."
+12/31/24 12:44:42a You are close to attaining mastery.
+12/31/24 12:44:42a * You have not absorbed any creatures.
+12/31/24 12:45:07a You have 174 coins.
+12/31/24 12:45:22a •You learn how to better utilize your bloodblade.
+12/31/24 12:46:27a You have 174 coins.
+12/31/24 12:46:52a •You learn how to better utilize your bloodblade.
+12/31/24 12:47:18a Koppi yells, "Shakyamuni reports: Help end the Darshak tyranny and FREE THE GNOMES!"
+12/31/24 12:47:47a You have 174 coins.
+12/31/24 12:47:59a Snake is now Clanning.
+12/31/24 12:48:15a Bulgatra is no longer Clanning.
+12/31/24 12:48:22a •You learn how to better utilize your bloodblade.
+12/31/24 12:48:58a Bulgatra is now Clanning.
+12/31/24 12:49:07a You have 174 coins.
+12/31/24 12:49:52a •You learn how to better utilize your bloodblade.
+12/31/24 12:50:28a You have 174 coins.
+12/31/24 12:51:22a •You learn how to better utilize your bloodblade.
+12/31/24 12:51:48a You have 174 coins.
+12/31/24 12:52:29a Koppi yells, "Shakyamuni reports: Help end the Darshak tyranny and FREE THE GNOMES!"
+12/31/24 12:52:53a •You learn how to better utilize your bloodblade.
+12/31/24 12:53:08a You have 174 coins.
+12/31/24 12:54:23a •You learn how to better utilize your bloodblade.
+12/31/24 12:54:28a You have 174 coins.
+12/31/24 12:54:51a Snake says, "Squib heal me"
+12/31/24 12:54:54a Snake says, "Squib heal me"
+12/31/24 12:54:55a (Squib looks a bit worried for Haffron)
+12/31/24 12:55:30a Shadowmutt growls, "Grrr."
+12/31/24 12:55:31a Ceara has fallen to a Spectral Haremau Kitten.
+12/31/24 12:55:49a You have 174 coins.
+12/31/24 12:55:53a •You learn how to better utilize your bloodblade.
+12/31/24 12:55:53a Shadowmutt growls, "Grrr."
+12/31/24 12:55:59a Shadowmutt growls, "Woof!"
+12/31/24 12:56:07a Ceara is no longer fallen.
+12/31/24 12:57:09a You have 174 coins.
+12/31/24 12:57:23a •You learn how to better utilize your bloodblade.
+12/31/24 12:57:40a Koppi yells, "Shakyamuni reports: Help end the Darshak tyranny and FREE THE GNOMES!"
+12/31/24 12:58:29a You have 174 coins.
+12/31/24 12:58:47a Crius yells, "It’s 10 o’clock, and all’s well."
+12/31/24 12:58:53a •You learn how to better utilize your bloodblade.
+12/31/24 12:58:54a Crius yells, "Haffron is fallen beneath the Eastern Mountains. Healer needed. Fighters, too."
+12/31/24 12:59:49a You have 174 coins.
+12/31/24 1:00:24a •You learn how to better utilize your bloodblade.
+12/31/24 1:00:36a You are close to attaining mastery.
+12/31/24 1:00:36a * You have not absorbed any creatures.
+12/31/24 1:00:57a * Your bronze breastplate looks less effective.
+12/31/24 1:01:09a You have 174 coins.
+12/31/24 1:01:48a You slip your bronze breastplate into your backpack.
+12/31/24 1:01:50a You slip your bronze helmet into your backpack.
+12/31/24 1:01:54a •You learn how to better utilize your bloodblade.
+12/31/24 1:01:57a You slaughtered a Rat.
+12/31/24 1:02:01a Bulgatra is no longer Clanning.
+12/31/24 1:02:03a You slaughtered a Rat.
+12/31/24 1:02:05a You slaughtered a Rat.
+12/31/24 1:02:17a Shadowmutt rolls on the ground.
+12/31/24 1:02:29a You have 174 coins.
+12/31/24 1:02:30a Shadowmutt growls, "Woof!"
+12/31/24 1:02:32a Shadowmutt growls, "Grrr."
+12/31/24 1:02:51a Koppi yells, "Clemence reports: Fledgling hunt on Wednesdays at 6PM PST! Come fall with us with new and old characters!"
+12/31/24 1:03:24a •You learn how to better utilize your bloodblade.
+12/31/24 1:03:50a You have 174 coins.
+12/31/24 1:04:54a •You learn how to better utilize your bloodblade.
+12/31/24 1:05:10a You have 174 coins.
+12/31/24 1:06:24a •You learn how to better utilize your bloodblade.
+12/31/24 1:06:30a You have 174 coins.
+12/31/24 1:07:50a You have 174 coins.
+12/31/24 1:07:55a •You learn how to better utilize your bloodblade.
+12/31/24 1:08:02a Koppi yells, "Lion-O reports: Speak with Lion-O to give blood samples for for a cool and good study by LIONO MEDICINES AND POTIONS"
+12/31/24 1:09:10a You have 174 coins.
+12/31/24 1:09:21a Kyoko is now Clanning.
+12/31/24 1:09:25a •You learn how to better utilize your bloodblade.
+12/31/24 1:09:26a Maekoh is now Clanning.
+12/31/24 1:10:31a You have 174 coins.
+12/31/24 1:10:55a •You learn how to better utilize your bloodblade.
+12/31/24 1:11:51a You have 174 coins.
+12/31/24 1:12:08a Snake says, "Squib heal Haffron"
+12/31/24 1:12:25a •You learn how to better utilize your bloodblade.
+12/31/24 1:13:11a You have 174 coins.
+12/31/24 1:13:13a Koppi yells, "Panthro reports: to save the gnomes we must DESTROY the gnomes!"
+12/31/24 1:13:26a Crius yells, "It’s 11 o’clock, and we could use a few more healers here..."
+12/31/24 1:13:30a A Rat feasts upon Haffron's entrails.
+12/31/24 1:13:31a Crius yells, "It looks pretty quiet under central Puddleby."
+12/31/24 1:13:34a Snake is no longer Clanning.
+12/31/24 1:13:38a Gray is now Clanning.
+12/31/24 1:13:55a •You learn how to better utilize your bloodblade.
+12/31/24 1:14:27a Shadowmutt growls, "Woof!"
+12/31/24 1:14:31a You have 174 coins.
+12/31/24 1:14:59a (Bastion waves)
+12/31/24 1:15:06a Bastion says, "i see you got out of somewhere haff"
+12/31/24 1:15:11a Bastion thinks, "BEEEEER"
+12/31/24 1:15:26a •You learn how to better utilize your bloodblade.
+12/31/24 1:15:31a Bastion is no longer Clanning.
+12/31/24 1:15:47a You are close to attaining mastery.
+12/31/24 1:15:47a * You have not absorbed any creatures.
+12/31/24 1:15:51a You have 174 coins.
+12/31/24 1:15:53a Ceara is no longer Clanning.
+12/31/24 1:16:40a You drop your dueling blade.
+12/31/24 1:16:43a You can't take things out of your pack that quickly.
+12/31/24 1:16:46a You drop your dueling glove.
+12/31/24 1:16:56a •You learn how to better utilize your bloodblade.
+12/31/24 1:16:58a Elenis Reyav is now Clanning.
+12/31/24 1:16:59a Kyoko picks up a dueling glove.
+12/31/24 1:17:05a Maekoh picks up a dueling blade.
+12/31/24 1:17:12a You have 174 coins.
+12/31/24 1:17:29a Maekoh says, "squib heal me please good sir"
+12/31/24 1:17:34a Smeti says, "hello kyoko and maekoh"
+12/31/24 1:17:35a Kyoko says, "squib heal me please good sir"
+12/31/24 1:17:45a Kyoko says, "hi sir"
+12/31/24 1:17:48a Kyoko says, "we clear guard towers"
+12/31/24 1:17:49a Smeti says, ":)"
+12/31/24 1:17:51a Kyoko says, "probably die stouh and west"
+12/31/24 1:17:52a Kyoko says, "thank you sir"
+12/31/24 1:18:24a Koppi yells, "Shakyamuni reports: There's no place like GNOME! save the gnomes"
+12/31/24 1:18:26a •You learn how to better utilize your bloodblade.
+12/31/24 1:18:32a You have 174 coins.
+12/31/24 1:19:31a Kyoko says, "squib heal me"
+12/31/24 1:19:35a Maekoh says, "squib heal me"
+12/31/24 1:19:52a You have 174 coins.
+12/31/24 1:19:56a •You learn how to better utilize your bloodblade.
+12/31/24 1:20:20a Gray says, "Squib heal Haffron"
+12/31/24 1:20:24a Smeti ponders, "wish you could speed up self training"
+12/31/24 1:20:38a Gray is no longer Clanning.
+12/31/24 1:21:12a You have 174 coins.
+12/31/24 1:21:16a Mimo is now Clanning.
+12/31/24 1:21:27a •You learn how to better utilize your bloodblade.
+12/31/24 1:22:32a You have 174 coins.
+12/31/24 1:22:57a •You learn how to better utilize your bloodblade.
+12/31/24 1:23:35a Koppi yells, "Shakyamuni reports: There's no place like GNOME! save the gnomes"
+12/31/24 1:23:53a You have 174 coins.
+12/31/24 1:24:27a •You learn how to better utilize your bloodblade.
+12/31/24 1:25:13a You have 174 coins.
+12/31/24 1:25:58a •You learn how to better utilize your bloodblade.
+12/31/24 1:26:33a You have 174 coins.
+12/31/24 1:27:26a •You sense healing energy from Mimo.
+12/31/24 1:27:28a •You learn how to better utilize your bloodblade.
+12/31/24 1:27:53a You have 174 coins.
+12/31/24 1:28:09a Crius yells, "It’s Midnight on Lundi, the 20th day of Winter in the 640th year of the Ascendancy, and all’s well."
+12/31/24 1:28:09a • It’s Midnight on Lundi, the 20th day of Winter in the 640th year of the Ascendancy, and all’s well.
+12/31/24 1:28:46a Koppi yells, "Clemence reports: Fledgling hunt on Wednesdays at 6PM PST! Come fall with us with new and old characters!"
+12/31/24 1:28:59a •You learn how to better utilize your bloodblade.
+12/31/24 1:29:10a You are close to attaining mastery.
+12/31/24 1:29:10a * You have not absorbed any creatures.
+12/31/24 1:29:13a You have 174 coins.
+12/31/24 1:30:23a Mimo is no longer Clanning.
+12/31/24 1:30:29a •You learn how to better utilize your bloodblade.
+12/31/24 1:30:34a You have 174 coins.
+12/31/24 1:31:54a You have 174 coins.
+12/31/24 1:31:59a •You learn how to better utilize your bloodblade.
+12/31/24 1:32:20a Kyoko says, "squib heal me plz friend"
+12/31/24 1:32:23a Maekoh says, "squib heal me plz friend"
+12/31/24 1:32:41a Ponyo is no longer Clanning.
+12/31/24 1:33:14a You have 174 coins.
+12/31/24 1:33:29a •You learn how to better utilize your bloodblade.
+12/31/24 1:33:42a Captain Planet is now Clanning.
+12/31/24 1:33:43a Maekoh says, "squib heal me plz friend"
+12/31/24 1:33:57a Koppi yells, "Panthro reports: to save the gnomes we must DESTROY the gnomes!"
+12/31/24 1:34:34a You have 174 coins.
+12/31/24 1:34:53a Shadowmutt growls, "Grrr."
+12/31/24 1:34:59a Shadowmutt growls, "Woof!"
+12/31/24 1:35:00a •You learn how to better utilize your bloodblade.
+12/31/24 1:35:09a Shadowmutt growls, "Grrr."
+12/31/24 1:35:54a You have 174 coins.
+12/31/24 1:36:30a •You learn how to better utilize your bloodblade.
+12/31/24 1:36:44a Shadowmutt pants.
+12/31/24 1:36:53a Shadowmutt growls, "Woof!"
+12/31/24 1:37:15a You have 174 coins.
+12/31/24 1:38:00a •You learn how to better utilize your bloodblade.
+12/31/24 1:38:15a You are close to attaining mastery.
+12/31/24 1:38:15a * You have not absorbed any creatures.
+12/31/24 1:38:35a You have 174 coins.
+12/31/24 1:39:08a Koppi yells, "Panthro reports: to save the gnomes we must DESTROY the gnomes!"
+12/31/24 1:39:31a •You learn how to better utilize your bloodblade.
+12/31/24 1:39:55a You have 174 coins.
+12/31/24 1:41:01a •You learn how to better utilize your bloodblade.
+12/31/24 1:41:15a You have 174 coins.
+12/31/24 1:41:58a You slaughtered a Giant Vermine.
+12/31/24 1:41:59a * Squib recovers the Giant Vermine fur, worth 3c. Your share is 2c.
+12/31/24 1:42:00a You slaughtered a Vermine.
+12/31/24 1:42:04a You slaughtered a Rat.
+12/31/24 1:42:07a You slaughtered a Rat.
+12/31/24 1:42:16a You slaughtered a Rat.
+12/31/24 1:42:20a You slaughtered a Rat.
+12/31/24 1:42:31a •You learn how to better utilize your bloodblade.
+12/31/24 1:42:35a You have 176 coins.
+12/31/24 1:42:45a Crius yells, "It’s 1 o’clock, and all’s well."
+12/31/24 1:42:50a Crius yells, "It looks pretty quiet beneath Metzetli Island."
+12/31/24 1:43:56a You have 176 coins.
+12/31/24 1:44:02a •You learn how to better utilize your bloodblade.
+12/31/24 1:44:19a Koppi yells, "Panthro reports: to save the gnomes we must DESTROY the gnomes!"
+12/31/24 1:45:16a You have 176 coins.
+12/31/24 1:45:32a •You learn how to better utilize your bloodblade.
+12/31/24 1:46:36a You have 176 coins.
+12/31/24 1:47:03a •You learn how to better utilize your bloodblade.
+12/31/24 1:47:56a You have 176 coins.
+12/31/24 1:48:33a •You learn how to better utilize your bloodblade.
+12/31/24 1:48:46a Shadowmutt rolls on the ground.
+12/31/24 1:49:03a Shadowmutt growls, "Grrr."
+12/31/24 1:49:17a You have 176 coins.
+12/31/24 1:49:30a Koppi yells, "Lion-O reports: Speak with Lion-O to give blood samples for for a cool and good study by LIONO MEDICINES AND POTIONS"
+12/31/24 1:49:33a Smeti says, "hmm"
+12/31/24 1:49:38a You slaughtered an Island Locust.
+12/31/24 1:49:44a You slaughtered an Island Locust.
+12/31/24 1:49:51a You slaughtered an Island Locust.
+12/31/24 1:49:59a You slaughtered an Island Locust.
+12/31/24 1:50:03a •You learn how to better utilize your bloodblade.
+12/31/24 1:50:08a You slaughtered a Rat.
+12/31/24 1:50:37a You have 176 coins.
+12/31/24 1:51:34a •You learn how to better utilize your bloodblade.
+12/31/24 1:51:57a You have 176 coins.
+12/31/24 1:53:04a •You learn how to better utilize your bloodblade.
+12/31/24 1:53:17a You have 176 coins.
+12/31/24 1:53:40a Saffron is now Clanning.
+12/31/24 1:54:19a TorcherBaby is now Clanning.
+12/31/24 1:54:27a You slaughtered an Island Locust.
+12/31/24 1:54:34a •You learn how to better utilize your bloodblade.
+12/31/24 1:54:37a You have 176 coins.
+12/31/24 1:54:41a Koppi yells, "Panthro reports: to save the gnomes we must DESTROY the gnomes!"
+12/31/24 1:54:42a Saffron is no longer Clanning.
+12/31/24 1:54:44a Saffron is now Clanning.
+12/31/24 1:55:37a (Saffron waves)
+12/31/24 1:55:41a (Smeti waves)
+12/31/24 1:55:58a You have 176 coins.
+12/31/24 1:56:04a •You learn how to better utilize your bloodblade.
+12/31/24 1:56:31a You may be proud of your accomplishment.
+12/31/24 1:56:31a * You have not absorbed any creatures.
+12/31/24 1:57:18a You have 176 coins.
+12/31/24 1:57:28a Crius yells, "It’s 2 o’clock, and all’s well."
+12/31/24 1:57:35a •You learn how to better utilize your bloodblade.
+12/31/24 1:57:41a Dee Runk Er is now Clanning.
+12/31/24 1:58:38a You have 176 coins.
+12/31/24 1:59:05a Lithia Akka says, "Greetings, Dee Runk Er. I am collecting building materials and coins for a beautiful fountain for town center."
+12/31/24 1:59:05a •You learn how to better utilize your bloodblade.
+12/31/24 1:59:05a Lithia Akka says, "It’s going well; you can pretty much see the final shape now."
+12/31/24 1:59:06a Lithia Akka says, "To donate materials, hold out a piece of wood, stone or metal, or hold your money- purse to donate 500 coins."
+12/31/24 1:59:52a Koppi yells, "Clemence reports: Fledgling hunt on Wednesdays at 6PM PST! Come fall with us with new and old characters!"
+12/31/24 1:59:58a You have 176 coins.
+12/31/24 2:00:36a •You learn how to better utilize your bloodblade.
+12/31/24 2:01:18a You have 176 coins.
+12/31/24 2:02:06a •You learn how to better utilize your bloodblade.
+12/31/24 2:02:13a Kyoko is no longer Clanning.
+12/31/24 2:02:38a You have 176 coins.
+12/31/24 2:02:51a Maekoh says, "thanks once again cap"
+12/31/24 2:02:53a Maekoh says, "thats soo fun"
+12/31/24 2:02:58a Captain Planet says, ":)"
+12/31/24 2:02:59a Maekoh says, "circle macro rat farming in confidence :)"
+12/31/24 2:03:03a Maekoh says, "lots of ranks"
+12/31/24 2:03:13a Maekoh says, "ill be back in 1-2 hours if you can spare some carry <3"
+12/31/24 2:03:27a Maekoh is no longer Clanning.
+12/31/24 2:03:36a •You learn how to better utilize your bloodblade.
+12/31/24 2:03:59a You have 176 coins.
+12/31/24 2:04:54a Captain Planet is no longer Clanning.
+12/31/24 2:05:03a Koppi yells, "Clemence reports: Fledgling hunt on Wednesdays at 6PM PST! Come fall with us with new and old characters!"
+12/31/24 2:05:06a •You learn how to better utilize your bloodblade.
+12/31/24 2:05:19a You have 176 coins.
+12/31/24 2:05:27a Arlana is now Clanning.
+12/31/24 2:06:15a Ponyo is now Clanning.
+12/31/24 2:06:22a This bench provided by The Puddleby Civic Beautification Society.
+12/31/24 2:06:36a •You learn how to better utilize your bloodblade.
+12/31/24 2:06:39a You have 176 coins.
+12/31/24 2:06:41a Sikophit is now Clanning.
+12/31/24 2:07:31a Arlana is no longer Clanning.
+12/31/24 2:07:59a You have 176 coins.
+12/31/24 2:08:07a •You learn how to better utilize your bloodblade.
+12/31/24 2:08:25a Sikophit thinks, "any healer out there looking for a lazy hunt?"
+12/31/24 2:08:41a Bulgatra is now Clanning.
+12/31/24 2:08:55a Captain Planet is now Clanning.
+12/31/24 2:09:00a Captain Planet thinks, "maybe"
+12/31/24 2:09:12a Bulgatra thinks, "With our powers combined"
+12/31/24 2:09:19a You have 176 coins.
+12/31/24 2:09:37a •You learn how to better utilize your bloodblade.
+12/31/24 2:10:14a Koppi yells, "Shakyamuni reports: Help end the Darshak tyranny and FREE THE GNOMES!"
+12/31/24 2:10:40a You have 176 coins.
+12/31/24 2:11:07a •You learn how to better utilize your bloodblade.
+12/31/24 2:12:00a You have 176 coins.
+12/31/24 2:12:04a Crius yells, "It’s 3 o’clock, and all’s well."
+12/31/24 2:12:09a Crius yells, "It looks pretty quiet in the Eastern Mountains."
+12/31/24 2:12:37a •You learn how to better utilize your bloodblade.
+12/31/24 2:12:47a Bulgatra is no longer Clanning.
+12/31/24 2:12:59a Shadowmutt growls, "Grrr."
+12/31/24 2:13:20a You have 176 coins.
+12/31/24 2:14:07a •You learn how to better utilize your bloodblade.
+12/31/24 2:14:40a You have 176 coins.
+12/31/24 2:15:17a Yarim is no longer Clanning.
+12/31/24 2:15:22a Ace says, "squib heal me"
+12/31/24 2:15:25a Koppi yells, "Shakyamuni reports: There's no place like GNOME! save the gnomes"
+12/31/24 2:15:28a Ace says, "o"
+12/31/24 2:15:33a Ace says, "rip geen ponyo share"
+12/31/24 2:15:38a •You learn how to better utilize your bloodblade.
+12/31/24 2:15:50a Biro growls, "oh wtf"
+12/31/24 2:15:53a Biro growls, "dit ding heeft veel troilus"
+12/31/24 2:16:00a You have 176 coins.
+12/31/24 2:16:02a Ponyo says, "squib heal alyce"
+12/31/24 2:16:18a Yum is no longer Clanning.
+12/31/24 2:16:27a Biro growls, "ja uh"
+12/31/24 2:16:34a Biro growls, "rip goat/glacier/mistral"
+12/31/24 2:16:37a Borzon is no longer Clanning.
+12/31/24 2:16:41a Ace asks, "en toise?"
+12/31/24 2:16:41a Biro growls, "badger is beter"
+12/31/24 2:16:44a Biro growls, "ja ook"
+12/31/24 2:16:52a Ace says, "ja"
+12/31/24 2:16:55a Ace says, "nieuew meta wss"
+12/31/24 2:17:01a Ace says, "over 2 jar heeft noivad hem ook"
+12/31/24 2:17:05a Biro growls, "naferu volgen = meta"
+12/31/24 2:17:08a •You learn how to better utilize your bloodblade.
+12/31/24 2:17:08a Ace says, "en chmee"
+12/31/24 2:17:13a Biro growls, "lol"
+12/31/24 2:17:15a Ace says, "en shayndel"
+12/31/24 2:17:20a Alyce is no longer Clanning.
+12/31/24 2:17:21a You have 176 coins.
+12/31/24 2:17:23a Biro growls, "nee die zal wel uty doen"
+12/31/24 2:17:25a Biro growls, "dat is meer meta"
+12/31/24 2:17:30a Ace says, "hm"
+12/31/24 2:17:34a Ace says, "ja idk of crowlet meta is"
+12/31/24 2:17:39a Biro growls, "nee"
+12/31/24 2:17:40a Ace says, "denk het wel?>"
+12/31/24 2:17:42a Biro growls, "alleen sherrada heeft die"
+12/31/24 2:17:42a Ace says, "fk at home"
+12/31/24 2:17:46a Ace says, "ja"
+12/31/24 2:17:51a Biro growls, "alleen random lori goons die m nu ook willen"
+12/31/24 2:17:57a Ace says, "ja rip dat"
+12/31/24 2:18:05a Biro growls, ""ik heb 4 jaar aan stored ranks dus ik qualify crookbeak""
+12/31/24 2:18:09a Ace says, "hahahahahha"
+12/31/24 2:18:11a Ace says, "neen"
+12/31/24 2:18:17a Ace says, "was het maar zon feest"
+12/31/24 2:18:20a Biro growls, ""ik krijg een disp door m'n stored ranks, ik wil graag de brick share""
+12/31/24 2:18:26a Ace says, "lol"
+12/31/24 2:18:29a Ace says, "hmmmm"
+12/31/24 2:18:36a Biro growls, "ja wtf troilus op dit ding"
+12/31/24 2:18:38a •You learn how to better utilize your bloodblade.
+12/31/24 2:18:39a Ace says, "ja"
+12/31/24 2:18:40a Biro growls, "niet verwacht"
+12/31/24 2:18:41a You have 176 coins.
+12/31/24 2:18:44a Ace asks, "het staat in de bestiary tho?"
+12/31/24 2:18:49a Ace says, "dat hij snelle regen heeft"
+12/31/24 2:19:11a Biro growls, "Troilus is estimated - takes around 7-8 minutes to recover to full health."
+12/31/24 2:19:14a Ace says, "ja"
+12/31/24 2:19:17a Biro growls, "7-8 minuten voor 1500 histia"
+12/31/24 2:19:19a Ace says, "op 1500 is dat best goed"
+12/31/24 2:19:19a Biro growls, "is niet slecht"
+12/31/24 2:19:22a Ace says, "zeker"
+12/31/24 2:19:26a Biro growls, "ff kijken wat dat is"
+12/31/24 2:19:33a Ace says, "2800"
+12/31/24 2:20:01a You have 176 coins.
+12/31/24 2:20:04a Biro growls, "o"
+12/31/24 2:20:04a Biro growls, "nice"
+12/31/24 2:20:08a •You learn how to better utilize your bloodblade.
+12/31/24 2:20:17a Ace asks, "klopt dat?"
+12/31/24 2:20:19a Ace says, "idk was een gok"
+12/31/24 2:20:20a Biro growls, "geen idee lol"
+12/31/24 2:20:32a Ace says, "is dus een vrij specifieke value"
+12/31/24 2:20:33a Ace says, "alsin"
+12/31/24 2:20:33a Biro growls, "ik begon hoofdpijn te krijgen met 7-8 minuten in frames zetten haha"
+12/31/24 2:20:35a Ace says, "ook kit heeft dat"
+12/31/24 2:20:36a Koppi yells, "Lion-O reports: Speak with Lion-O to give blood samples for for a cool and good study by LIONO MEDICINES AND POTIONS"
+12/31/24 2:20:44a Ace says, "en"
+12/31/24 2:20:48a Ace says, "volgens mij ook sky bison"
+12/31/24 2:20:53a Ace says, "dus ze hyebben dezelfde troilus"
+12/31/24 2:20:56a Ace says, "maar meer of minder health"
+12/31/24 2:21:04a Ace says, "ik denk dat het beetje standaard waarde is voor; veel troilus"
+12/31/24 2:21:15a Sentinel yells, "The Sentinel is here for your security."
+12/31/24 2:21:21a You have 176 coins.
+12/31/24 2:21:38a •You learn how to better utilize your bloodblade.
+12/31/24 2:21:55a Biro says, "uhhh"
+12/31/24 2:21:57a Biro says, "ja slaapgebrek en wiskunde"
+12/31/24 2:22:00a Biro says, "niet mn sterkste combo"
+12/31/24 2:22:03a Ace says, "goeie combo"
+12/31/24 2:22:07a Biro says, "2400 frames voor 8 minuten"
+12/31/24 2:22:08a Ace says, "meth nodig voor je math"
+12/31/24 2:22:15a Biro says, "ik rook algebra"
+12/31/24 2:22:19a Ace says, "lol"
+12/31/24 2:22:27a Ace says, "ik snuif imaginaire getallen"
+12/31/24 2:22:31a Kahn St'ple nods and smiles at Ace.
+12/31/24 2:22:41a You have 176 coins.
+12/31/24 2:22:48a Ace says, "ik heb dus een beetje semi advanced shit gehad op school"
+12/31/24 2:22:51a Ace says, "en dat is echt niet leuk"
+12/31/24 2:23:09a •You learn how to better utilize your bloodblade.
+12/31/24 2:23:48a You may be proud of your accomplishment.
+12/31/24 2:23:48a * You have not absorbed any creatures.
+12/31/24 2:23:51a Biro says, "ja wiskunde B was m'n downfall"
+12/31/24 2:23:58a Biro says, "wiskunde A, niks gedaan voor examen"
+12/31/24 2:24:00a Pookoiko is now Clanning.
+12/31/24 2:24:02a You have 176 coins.
+12/31/24 2:24:03a Biro says, "ruime 8"
+12/31/24 2:24:13a Biro says, "wiskunde B fucking veel blokken"
+12/31/24 2:24:15a Biro says, "2 lol"
+12/31/24 2:24:29a Bronko is now Clanning.
+12/31/24 2:24:30a Loke is now Clanning.
+12/31/24 2:24:30a Mablum is now Clanning.
+12/31/24 2:24:33a Biro says, "okay dus volgens m'n cracky calcs"
+12/31/24 2:24:37a Mablum is no longer Clanning.
+12/31/24 2:24:39a Biro says, "1156 troilus nu"
+12/31/24 2:24:39a •You learn how to better utilize your bloodblade.
+12/31/24 2:24:45a Darth Wader is now Clanning.
+12/31/24 2:24:48a Biro says, "wat wel ziek is voor m'n 150-199 base"
+12/31/24 2:24:52a Biro says, "o wacht"
+12/31/24 2:24:54a Biro says, "nee"
+12/31/24 2:24:59a Gauntlet is now Clanning.
+12/31/24 2:25:02a Biro says, "1156 is voor 8 minuten op 1500 histia"
+12/31/24 2:25:13a Heracles is now Clanning.
+12/31/24 2:25:15a Smeti says, "every time you use an english word i can under stand what your saying"
+12/31/24 2:25:22a You have 176 coins.
+12/31/24 2:25:47a Koppi yells, "Clemence reports: Fledgling hunt on Wednesdays at 6PM PST! Come fall with us with new and old characters!"
+12/31/24 2:25:51a Ace says, "ja"
+12/31/24 2:25:53a Ace says, "dus dat is"
+12/31/24 2:25:56a Ace says, "multiplier"
+12/31/24 2:26:09a Ace asks, "5?"
+12/31/24 2:26:09a •You learn how to better utilize your bloodblade.
+12/31/24 2:26:09a Smeti says, "yes that is the multiplyer"
+12/31/24 2:26:17a Ace says, "dus jij doet er wat langer over"
+12/31/24 2:26:17a Biro says, "1321 als het 7 minuten is"
+12/31/24 2:26:20a Ace says, "maar niet heel veel langer"
+12/31/24 2:26:24a Pookoiko yells, "Å"
+12/31/24 2:26:27a Biro yells, "a"
+12/31/24 2:26:37a Lady Dragon is now Clanning.
+12/31/24 2:26:42a You have 176 coins.
+12/31/24 2:26:47a Crius yells, "It’s 4 o’clock, and all’s well."
+12/31/24 2:26:52a Crius yells, "There’s good hunting in the marsh."
+12/31/24 2:27:17a Lithia Akka says, "Greetings, Heracles. I am collecting building materials and coins for a beautiful fountain for town center."
+12/31/24 2:27:19a Lithia Akka says, "It’s going well; you can pretty much see the final shape now."
+12/31/24 2:27:21a Lithia Akka says, "To donate materials, hold out a piece of wood, stone or metal, or hold your money- purse to donate 500 coins."
+12/31/24 2:27:23a Lithia Akka asks, "How many of your stones do you want to donate?"
+12/31/24 2:27:24a Heracles says, "6"
+12/31/24 2:27:24a Lithia Akka gives Heracles 8 coins for the stone.
+12/31/24 2:27:25a Lithia Akka says, "Excellent! This will help our building efforts along."
+12/31/24 2:27:27a Lithia Akka says, "Any more help you could provide would be greatly appreciated."
+12/31/24 2:27:39a •You learn how to better utilize your bloodblade.
+12/31/24 2:27:39a Ace growls, "squib heal me"
+12/31/24 2:27:44a Selucreh is now Clanning.
+12/31/24 2:27:47a Lady Dragon is no longer Clanning.
+12/31/24 2:27:52a You may be proud of your accomplishment.
+12/31/24 2:27:52a * You have not absorbed any creatures.
+12/31/24 2:28:02a You have 176 coins.
+12/31/24 2:28:02a Biro growls, "larger bear"
+12/31/24 2:28:07a Ace yells, "wasbeer"
+12/31/24 2:28:27a Biro thinks, "fiiiiiiiiiiiiine"
+12/31/24 2:28:46a Lady Dragon is now Clanning.
+12/31/24 2:29:04a Agrehk is now Clanning.
+12/31/24 2:29:10a •You learn how to better utilize your bloodblade.
+12/31/24 2:29:22a You have 176 coins.
+12/31/24 2:30:40a •You learn how to better utilize your bloodblade.
+12/31/24 2:30:43a You have 176 coins.
+12/31/24 2:30:49a Agrehk is no longer Clanning.
+12/31/24 2:30:58a Koppi yells, "Panthro reports: to save the gnomes we must DESTROY the gnomes!"
+12/31/24 2:31:30a Selucreh thinks, "RHPs for sale"
+12/31/24 2:32:03a You have 176 coins.
+12/31/24 2:32:10a •You learn how to better utilize your bloodblade.
+12/31/24 2:32:54a Valadorei is now Clanning.
+12/31/24 2:33:23a You have 176 coins.
+12/31/24 2:33:35a * You feel mentally enhanced by Valadorei...
+12/31/24 2:33:38a TorcherBaby is no longer Clanning.
+12/31/24 2:33:41a •You learn how to better utilize your bloodblade.
+12/31/24 2:33:57a Loom'Nir says, "Greetings, Journeyman Valadorei."
+12/31/24 2:34:00a Loom'Nir says, "Greetings, Journeyman Valadorei."
+12/31/24 2:34:43a You have 176 coins.
+12/31/24 2:35:11a •You learn how to better utilize your bloodblade.
+12/31/24 2:35:35a Selucreh is no longer Clanning.
+12/31/24 2:36:03a You have 176 coins.
+12/31/24 2:36:09a Koppi yells, "Lion-O reports: Speak with Lion-O to give blood samples for for a cool and good study by LIONO MEDICINES AND POTIONS"
+12/31/24 2:36:41a •You learn how to better utilize your bloodblade.
+12/31/24 2:37:24a You have 176 coins.
+12/31/24 2:37:39a * Your mental enhancement fades.
+12/31/24 2:38:11a •You learn how to better utilize your bloodblade.
+12/31/24 2:38:44a You have 176 coins.
+12/31/24 2:39:41a •You learn how to better utilize your bloodblade.
+12/31/24 2:40:04a You have 176 coins.
+12/31/24 2:40:11a You may be proud of your accomplishment.
+12/31/24 2:40:11a * You have not absorbed any creatures.
+12/31/24 2:40:39a Lady Dragon is no longer Clanning.
+12/31/24 2:41:12a •You learn how to better utilize your bloodblade.
+12/31/24 2:41:20a Koppi yells, "Lion-O reports: Speak with Lion-O to give blood samples for for a cool and good study by LIONO MEDICINES AND POTIONS"
+12/31/24 2:41:24a You have 176 coins.
+12/31/24 2:41:25a Crius yells, "It’s 5 o’clock, and all’s well."
+12/31/24 2:41:30a Crius yells, "There’s good hunting in the marsh."
+12/31/24 2:42:42a •You learn how to better utilize your bloodblade.
+12/31/24 2:42:44a You have 176 coins.
+12/31/24 2:43:05a Lithia Akka says, "Greetings, Elenis Reyav. I am collecting building materials and coins for a beautiful fountain for town center."
+12/31/24 2:43:06a Lithia Akka says, "It’s going well; you can pretty much see the final shape now."
+12/31/24 2:43:06a Lithia Akka says, "To donate materials, hold out a piece of wood, stone or metal, or hold your money- purse to donate 500 coins."
+12/31/24 2:43:07a Lithia Akka asks, "How many of your logs of wood do you want to donate?"
+12/31/24 2:43:08a Lithia Akka gives Elenis Reyav 4 coins for the wood.
+12/31/24 2:43:08a Elenis Reyav says, "3"
+12/31/24 2:43:08a Lithia Akka says, "Excellent! This will help our building efforts along."
+12/31/24 2:43:09a Lithia Akka says, "Any more help you could provide would be greatly appreciated."
+12/31/24 2:44:05a You have 176 coins.
+12/31/24 2:44:12a •You learn how to better utilize your bloodblade.
+12/31/24 2:44:55a Shadowmutt growls, "Grrr."
+12/31/24 2:45:25a You have 176 coins.
+12/31/24 2:45:42a •You learn how to better utilize your bloodblade.
+12/31/24 2:45:46a Shadowmutt growls, "Grrr."
+12/31/24 2:46:12a Biro thinks, "exited, pulled most in 1 to the top"
+12/31/24 2:46:20a Shadowmutt growls, "Grrr."
+12/31/24 2:46:31a Koppi yells, "Panthro reports: to save the gnomes we must DESTROY the gnomes!"
+12/31/24 2:46:45a You have 176 coins.
+12/31/24 2:47:13a •You learn how to better utilize your bloodblade.
+12/31/24 2:47:41a Biro is no longer Clanning.
+12/31/24 2:48:05a Shadowmutt growls, "Grrr."
+12/31/24 2:48:05a You have 176 coins.
+12/31/24 2:48:11a Shadowmutt growls, "Woof!"
+12/31/24 2:48:16a Shadowmutt growls, "Grrr."
+12/31/24 2:48:43a •You learn how to better utilize your bloodblade.
+12/31/24 2:49:02a Shadowmutt growls, "Grrr."
+12/31/24 2:49:03a Shadowmutt growls, "Woof!"
+12/31/24 2:49:25a You have 176 coins.
+12/31/24 2:49:35a Shadowmutt growls, "Grrr."
+12/31/24 2:49:40a Arlana is now Clanning.
+12/31/24 2:50:13a •You learn how to better utilize your bloodblade.
+12/31/24 2:50:46a You have 176 coins.
+12/31/24 2:51:04a Shadowmutt rolls on the ground.
+12/31/24 2:51:42a Koppi yells, "Clemence reports: Fledgling hunt on Wednesdays at 6PM PST! Come fall with us with new and old characters!"
+12/31/24 2:51:43a •You learn how to better utilize your bloodblade.
+12/31/24 2:52:06a You have 176 coins.
+12/31/24 2:53:14a •You learn how to better utilize your bloodblade.
+12/31/24 2:53:21a You may be proud of your accomplishment.
+12/31/24 2:53:21a * You have not absorbed any creatures.
+12/31/24 2:53:26a You have 176 coins.
+12/31/24 2:54:14a Ausrine is now Clanning.
+12/31/24 2:54:44a •You learn how to better utilize your bloodblade.
+12/31/24 2:54:46a You have 176 coins.
+12/31/24 2:56:06a You have 176 coins.
+12/31/24 2:56:08a Crius yells, "It’s 6 o’clock on Lundi, the 20th day of Winter in the 640th year of the Ascendancy, and all’s well."
+12/31/24 2:56:13a Crius yells, "It looks pretty quiet in Sombrion's Keep."
+12/31/24 2:56:14a •You learn how to better utilize your bloodblade.
+12/31/24 2:56:53a Koppi yells, "Panthro reports: to save the gnomes we must DESTROY the gnomes!"
+12/31/24 2:57:27a You have 176 coins.
+12/31/24 2:57:33a TorcherBaby is now Clanning.
+12/31/24 2:57:44a •You learn how to better utilize your bloodblade.
+12/31/24 2:58:47a You have 176 coins.
+12/31/24 2:58:48a Shadrock is now Clanning.
+12/31/24 2:59:14a •You learn how to better utilize your bloodblade.
+12/31/24 3:00:07a You have 176 coins.
+12/31/24 3:00:35a Thranin is now Clanning.
+12/31/24 3:00:44a •You learn how to better utilize your bloodblade.
+12/31/24 3:01:22a Horobups is now Clanning.
+12/31/24 3:01:27a You have 176 coins.
+12/31/24 3:01:42a PangZa is now Clanning.
+12/31/24 3:02:04a Koppi yells, "Shakyamuni reports: Help end the Darshak tyranny and FREE THE GNOMES!"
+12/31/24 3:02:11a PangZa is no longer Clanning.
+12/31/24 3:02:15a •You learn how to better utilize your bloodblade.
+12/31/24 3:02:29a Horobups is no longer Clanning.
+12/31/24 3:02:48a You have 176 coins.
+12/31/24 3:02:53a Saffron says, "thanks"
+12/31/24 3:03:30a Shadowmutt growls, "Grrr."
+12/31/24 3:03:37a Dee Runk Er is no longer Clanning.
+12/31/24 3:03:45a •You learn how to better utilize your bloodblade.
+12/31/24 3:04:08a You have 176 coins.
+12/31/24 3:04:48a Saffron is no longer Clanning.
+12/31/24 3:05:05a TorcherBaby is no longer Clanning.
+12/31/24 3:05:15a •You learn how to better utilize your bloodblade.
+12/31/24 3:05:28a You have 176 coins.
+12/31/24 3:06:10a Shadowmutt scratches at the ground briefly.
+12/31/24 3:06:24a Shadowmutt growls, "Grrr."
+12/31/24 3:06:46a •You learn how to better utilize your bloodblade.
+12/31/24 3:06:48a You have 176 coins.
+12/31/24 3:07:15a Koppi yells, "Shakyamuni reports: Help end the Darshak tyranny and FREE THE GNOMES!"
+12/31/24 3:07:17a Captain Planet is no longer Clanning.
+12/31/24 3:07:24a You may be proud of your accomplishment.
+12/31/24 3:07:24a * You have not absorbed any creatures.
+12/31/24 3:07:45a Horobups is now Clanning.
+12/31/24 3:07:51a Smeti says, "almost got all my ranks back"
+12/31/24 3:07:55a PangZa is now Clanning.
+12/31/24 3:08:05a Smeti says, "only 200 to go :P"
+12/31/24 3:08:08a You have 176 coins.
+12/31/24 3:08:16a Sikophit is no longer Clanning.
+12/31/24 3:08:16a •You learn how to better utilize your bloodblade.
+12/31/24 3:08:20a Smeti says, "100*"
+12/31/24 3:08:23a Smeti says, "ish"
+12/31/24 3:08:27a PangZa is no longer Clanning.
+12/31/24 3:08:29a Thranin is no longer Clanning.
+12/31/24 3:08:38a Mysterio is now Clanning.
+12/31/24 3:09:28a You have 176 coins.
+12/31/24 3:09:46a •You learn how to better utilize your bloodblade.
+12/31/24 3:09:54a Mysterio is no longer Clanning.
+12/31/24 3:09:54a Shadrock is no longer Clanning.
+12/31/24 3:09:57a IHael'du is now Clanning.
+12/31/24 3:10:47a Crius yells, "It’s 7 o’clock, and all’s well."
+12/31/24 3:10:49a You have 176 coins.
+12/31/24 3:10:53a Crius yells, "Darth Wader and others are fallen in the Eastern Mountains. Healers needed."
+12/31/24 3:11:17a •You learn how to better utilize your bloodblade.
+12/31/24 3:11:22a IHael'du is no longer Clanning.
+12/31/24 3:12:09a You have 176 coins.
+12/31/24 3:12:14a Shadowmutt scratches at the ground briefly.
+12/31/24 3:12:23a FriedDylan is now Clanning.
+12/31/24 3:12:26a Koppi yells, "Lion-O reports: Speak with Lion-O to give blood samples for for a cool and good study by LIONO MEDICINES AND POTIONS"
+12/31/24 3:12:47a •You learn how to better utilize your bloodblade.
+12/31/24 3:12:56a Shadowmutt growls, "Woof!"
+12/31/24 3:12:57a Shadowmutt growls, "Grrr."
+12/31/24 3:13:10a PangZa is now Clanning.
+12/31/24 3:13:29a You have 176 coins.
+12/31/24 3:14:17a •You learn how to better utilize your bloodblade.
+12/31/24 3:14:24a PangZa is no longer Clanning.
+12/31/24 3:14:49a Azriel is now Clanning.
+12/31/24 3:14:49a You have 176 coins.
+12/31/24 3:14:58a Shadowmutt growls, "Grrr."
+12/31/24 3:15:17a Shadowmutt growls, "Grrr."
+12/31/24 3:15:47a •You learn how to better utilize your bloodblade.
+12/31/24 3:16:09a You have 176 coins.
+12/31/24 3:17:17a •You learn how to better utilize your bloodblade.
+12/31/24 3:17:30a You have 176 coins.
+12/31/24 3:17:37a Koppi yells, "Panthro reports: to save the gnomes we must DESTROY the gnomes!"
+12/31/24 3:18:22a Sikophit is now Clanning.
+12/31/24 3:18:35a Sikophit is no longer Clanning.
+12/31/24 3:18:38a Sparks is now Clanning.
+12/31/24 3:18:48a •You learn how to better utilize your bloodblade.
+12/31/24 3:18:50a You have 176 coins.
+12/31/24 3:20:10a You have 176 coins.
+12/31/24 3:20:18a •You learn how to better utilize your bloodblade.
+12/31/24 3:20:33a You are becoming a master of your art.
+12/31/24 3:20:33a * You have not absorbed any creatures.
+12/31/24 3:21:30a You have 176 coins.
+12/31/24 3:21:41a Sentinel yells, "There is only one punishment for treason."
+12/31/24 3:21:48a •You learn how to better utilize your bloodblade.
+12/31/24 3:22:48a Koppi yells, "Shakyamuni reports: Help end the Darshak tyranny and FREE THE GNOMES!"
+12/31/24 3:22:50a You have 176 coins.
+12/31/24 3:23:05a A Rat tears at Valadorei's fingertips.
+12/31/24 3:23:05a A Rat plucks at Valadorei's entrails.
+12/31/24 3:23:08a A Rat tears at Valadorei's gaping mouth.
+12/31/24 3:23:19a •You learn how to better utilize your bloodblade.
+12/31/24 3:23:37a A Rat chews on Valadorei's fingertips.
+12/31/24 3:23:48a Sparks thinks, "I assume people are working with/on Vala and Pook?"
+12/31/24 3:23:51a A Rat tears at Valadorei's flesh.
+12/31/24 3:23:51a A Rat pokes at Valadorei's gaping mouth.
+12/31/24 3:23:55a A Rat plucks at Valadorei's wounds.
+12/31/24 3:24:11a You have 176 coins.
+12/31/24 3:24:14a A Rat bites Valadorei's organs.
+12/31/24 3:24:24a A Scavenger Bird munches on Valadorei's fallen body.
+12/31/24 3:24:38a Elenis Reyav thinks, "This one certainly hopes so!"
+12/31/24 3:24:49a •You learn how to better utilize your bloodblade.
+12/31/24 3:24:50a A Rat bites Valadorei's flesh.
+12/31/24 3:24:59a •You sense healing energy from Ponyo.
+12/31/24 3:25:09a Biro is now Clanning.
+12/31/24 3:25:09a A Rat rips at Valadorei's flesh.
+12/31/24 3:25:11a A Rat chews on Valadorei's body parts.
+12/31/24 3:25:12a A Scavenger Bird plucks at Valadorei's organs.
+12/31/24 3:25:14a Biro thinks, "save pookokokoko!"
+12/31/24 3:25:26a Crius yells, "It’s 8 o’clock, and all’s well."
+12/31/24 3:25:28a A Rat bites Valadorei's fallen body.
+12/31/24 3:25:28a A Rat feasts upon Valadorei's fallen body.
+12/31/24 3:25:31a You have 176 coins.
+12/31/24 3:25:33a Crius yells, "There’s good hunting within the second sphere of the Ethereal Plane."
+12/31/24 3:26:19a Darth Wader thinks, "his fine, just loving his lightning as always"
+12/31/24 3:26:19a •You learn how to better utilize your bloodblade.
+12/31/24 3:26:38a You are becoming a master of your art.
+12/31/24 3:26:38a * You have not absorbed any creatures.
+12/31/24 3:26:51a You have 176 coins.
+12/31/24 3:26:56a • /SLEEP when you wish to begin studying.
+12/31/24 3:27:08a Use \SLEEP again when you return.
+12/31/24 3:27:08a You are done adventuring for a while and will be staying here.
+12/31/24 3:27:09a You have been disconnected from Clan Lord.
+12/31/24 3:27:09a • You will benefit from staying here while you are off-line.
+12/31/24 3:27:10a *** We are no longer connected to the Clan Lord game server. ***

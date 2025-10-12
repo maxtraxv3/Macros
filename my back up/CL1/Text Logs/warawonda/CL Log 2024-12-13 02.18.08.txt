@@ -1,0 +1,632 @@
+
+12/13/24 2:18:08a * Your cloak named “royal purple” is in nearly perfect condition.
+12/13/24 2:18:08a * Your pair of pants named “gold” is in very good condition.
+12/13/24 2:18:08a * Your shirt named “midnight” is in nearly perfect condition.
+12/13/24 2:18:08a * Your pair of shoes named “glossy white” is in nearly perfect condition.
+12/13/24 2:18:08a Welcome to Clan Lord, Warawonda!
+12/13/24 2:18:08a Type \HELP for a list of commands.
+12/13/24 2:18:08a • You gain experience from your recent studies.
+12/13/24 2:18:08a Warawonda is now Clanning.
+12/13/24 2:18:08a You have been studying for 19 hours, 22 minutes.
+12/13/24 2:18:08a •You notice that you're able to increase others' accuracy more.
+12/13/24 2:18:11a It's 12:08pm on Merdi, day 36 of Autumn, 639.
+12/13/24 2:18:11a Friends online: none.
+12/13/24 2:18:12a You are the only member of Black Phoenix clanning.
+12/13/24 2:18:12a • What’s New: https://deltatao.com/clanlord/news
+12/13/24 2:18:22a * Tip of the day: You can often recognize healers by the white or turquoise clothing they wear. (Use /OPTIONS to turn tips off.)
+12/13/24 2:18:25a (Poplar waves.)
+12/13/24 2:18:31a (Warawonda waves)
+12/13/24 2:18:40a Shadowmutt growls, "Grrr."
+12/13/24 2:18:58a Shadrock is no longer Clanning.
+12/13/24 2:19:26a Koppi yells, "Shakyamuni reports: The Darshak have gotten a SpiderLady to trap the Gnomes.. Save the Gnomes! Gnomyamuni!"
+12/13/24 2:21:12a Pe Ell says, "..."
+12/13/24 2:21:21a (Pe Ell blames Squib)
+12/13/24 2:21:23a (Squib's eyes light up hopefully)
+12/13/24 2:21:44a You have 10800 coins.
+12/13/24 2:23:04a You have 10800 coins.
+12/13/24 2:23:36a (Poplar giggles)
+12/13/24 2:24:10a Poplar says, "Doesn't look like it troiluses much, anyway"
+12/13/24 2:24:25a You have 10800 coins.
+12/13/24 2:24:37a Koppi yells, "Lion-O reports: "\equip \"potion of energy\"\r" "\useitem \"potion of energy\"\r""
+12/13/24 2:25:45a You have 10800 coins.
+12/13/24 2:26:19a Poplar says, "be back in a bit"
+12/13/24 2:26:31a Poplar is no longer Clanning.
+12/13/24 2:27:05a You have 10800 coins.
+12/13/24 2:28:05a Kahn St'ple nods and smiles at Elf the Second.
+12/13/24 2:28:25a You have 10800 coins.
+12/13/24 2:29:45a You have 10800 coins.
+12/13/24 2:29:48a Koppi yells, "Lion-O reports: "\equip \"potion of energy\"\r" "\useitem \"potion of energy\"\r""
+12/13/24 2:35:46a *** We are no longer connected to the Clan Lord game server. ***
+12/13/24 2:35:51a * Your cloak named “royal purple” is in nearly perfect condition.
+12/13/24 2:35:51a * Your pair of pants named “gold” is in very good condition.
+12/13/24 2:35:51a * Your shirt named “midnight” is in nearly perfect condition.
+12/13/24 2:35:51a * Your pair of shoes named “glossy white” is in nearly perfect condition.
+12/13/24 2:35:51a Welcome to Clan Lord, Warawonda!
+12/13/24 2:35:51a Type \HELP for a list of commands.
+12/13/24 2:35:51a Warawonda is now Clanning.
+12/13/24 2:35:51a Friends online: none.
+12/13/24 2:35:54a It's 1:21pm on Merdi, day 36 of Autumn, 639.
+12/13/24 2:35:55a You are the only member of Black Phoenix clanning.
+12/13/24 2:35:55a • What’s New: https://deltatao.com/clanlord/news
+12/13/24 2:36:05a * Tip of the day: If you tell people where you’ll be, they’ll be able to help you if you need it. (Use /OPTIONS to turn tips off.)
+12/13/24 2:37:25a You have 10800 coins.
+12/13/24 2:38:45a You have 10800 coins.
+12/13/24 2:38:56a Henryk is now Clanning.
+12/13/24 2:39:46a Jacinta is now Clanning.
+12/13/24 2:40:05a You have 10800 coins.
+12/13/24 2:40:10a Koppi yells, "Shakyamuni reports: Gnomes are our friends, Save the Gnomes!!"
+12/13/24 2:41:26a You have 10800 coins.
+12/13/24 2:41:33a Shadowmutt growls, "Grrr."
+12/13/24 2:42:34a Riffi says, "Greetings, Apprentice Warawonda."
+12/13/24 2:42:34a Riffi says, "So far I’ve sold no raffle tickets for Satris's ethercle at 17c each."
+12/13/24 2:42:35a Riffi says, "This raffle will be over in 5 days, 20 hours, 36 minutes."
+12/13/24 2:42:40a Nyfineke says, "Greetings, Apprentice Warawonda."
+12/13/24 2:42:40a Nyfineke says, "So far I’ve sold around 155 raffle tickets for Satris's ethercle at 15c each."
+12/13/24 2:42:40a Nyfineke says, "This raffle will be over in 2 days, 14 hours, 26 minutes."
+12/13/24 2:42:41a Nyfineke asks, "How many tickets would you like to buy?"
+12/13/24 2:42:41a Nyfineke says, "All right, come back if you change your mind."
+12/13/24 2:42:45a Riff says, "Greetings, Apprentice Warawonda."
+12/13/24 2:42:46a Riff says, "So far I’ve sold no raffle tickets for Pelthias's ethercle at 10c each."
+12/13/24 2:42:46a You have 10800 coins.
+12/13/24 2:42:46a Riff says, "This raffle will be over in 5 days, 20 hours, 35 minutes."
+12/13/24 2:42:46a Riff asks, "How many tickets would you like to buy?"
+12/13/24 2:42:47a Riff says, "All right, come back if you change your mind."
+12/13/24 2:43:01a Drofund says, "Greetings, Apprentice Warawonda."
+12/13/24 2:43:01a Drofund says, "So far I’ve sold around 35 raffle tickets for Eli's piece of iron at 10c each."
+12/13/24 2:43:02a Drofund says, "This raffle will be over in one day, 4 hours, 48 minutes."
+12/13/24 2:43:02a Drofund asks, "How many tickets would you like to buy?"
+12/13/24 2:43:03a Drofund says, "All right, come back if you change your mind."
+12/13/24 2:43:07a Rufus says, "Greetings, Apprentice Warawonda."
+12/13/24 2:43:08a Rufus says, "So far I’ve sold around 35 raffle tickets for Eli's piece of iron at 10c each."
+12/13/24 2:43:08a Rufus says, "This raffle will be over in one day, 45 minutes."
+12/13/24 2:43:09a Rufus asks, "How many tickets would you like to buy?"
+12/13/24 2:43:09a Rufus says, "All right, come back if you change your mind."
+12/13/24 2:43:28a Rufus says, "Greetings, Apprentice Warawonda."
+12/13/24 2:43:28a Rufus says, "So far I’ve sold around 35 raffle tickets for Eli's piece of iron at 10c each."
+12/13/24 2:43:28a Rufus says, "This raffle will be over in one day, 44 minutes."
+12/13/24 2:43:29a Rufus asks, "How many tickets would you like to buy?"
+12/13/24 2:43:29a Aurelie is now Clanning.
+12/13/24 2:43:30a Warawonda says in code, "30"
+12/13/24 2:43:30a Rufus takes Warawonda’s coins and drops several slips of parchment into a hat.
+12/13/24 2:43:31a Rufus exclaims, "Visit any raffle worker anytime after the raffle ends to see whether you’ve won!"
+12/13/24 2:43:31a Rufus says, "Greetings, Apprentice Warawonda."
+12/13/24 2:43:55a Aurelie exclaims, "Oooo Pe Ell!"
+12/13/24 2:44:03a Aurelie exclaims, "That's the first time I've seen the male sylvan version!"
+12/13/24 2:44:06a You have 10500 coins.
+12/13/24 2:44:09a Pe Ell exclaims, "It's fancy!"
+12/13/24 2:44:12a Aurelie exclaims, "It is!"
+12/13/24 2:44:15a (Aurelie claps and whistles.)
+12/13/24 2:44:23a Pe Ell says, "Very... senatorial"
+12/13/24 2:44:26a (Aurelie giggles.)
+12/13/24 2:44:30a Aurelie exclaims, "Lookin' gooooood!"
+12/13/24 2:44:31a (Pe Ell pulls out his paperwork)
+12/13/24 2:44:43a (Pe Ell checks his list twice)
+12/13/24 2:45:09a Pe Ell says, "And of course the main reason to get one of these is for the snow angels"
+12/13/24 2:45:18a (Aurelie giggles.)
+12/13/24 2:45:21a Koppi yells, "Seaforth reports: https://discord.com/channels/270291133798547456/654474030023180290/1315577707215720489 Lore Tour Saturday Dec14 Fountfell Armor"
+12/13/24 2:45:22a Agratis Risa is now Clanning.
+12/13/24 2:45:25a Crius yells, "It’s 2 o’clock, and all’s well."
+12/13/24 2:45:26a You have 10500 coins.
+12/13/24 2:45:29a Crius yells, "There’s good hunting in the Greymyr Village."
+12/13/24 2:45:41a Aurelie says, "I'm interested in gettin' one, but I've never been able to hunt out in Silversnag before..."
+12/13/24 2:46:06a Pe Ell says, "Yeah, I did get lucky to acquire one early"
+12/13/24 2:46:15a Aurelie thinks, "If anyone is huntin' Silversnag and needs a healer! Lemme know..."
+12/13/24 2:46:34a Pe Ell says, "I know Kalian has started some studies there and will probably drag folks out there"
+12/13/24 2:46:46a You have 10500 coins.
+12/13/24 2:46:48a Aurelie says, "I wouldn't mind that..."
+12/13/24 2:47:30a Crius yells, "All welcome visitor Agratis Risa to the lands -- Hail, Agratis Risa!"
+12/13/24 2:47:36a • You hear Aurelie's music...
+12/13/24 2:47:36a Aurelie starts playing her starbuck harp.
+12/13/24 2:47:36a (Aurelie): "Rescue Mission" by Silphene
+12/13/24 2:47:48a (Pe Ell taps his foot)
+12/13/24 2:48:07a You have 10500 coins.
+12/13/24 2:48:10a Aurelie says, "A Silphene classic."
+12/13/24 2:48:14a (Pe Ell nods!)
+12/13/24 2:48:55a (Pe Ell claps)
+12/13/24 2:49:11a Aurelie asks, "Any song requests?"
+12/13/24 2:49:18a Pe Ell says, "Uhh"
+12/13/24 2:49:23a Pe Ell says, "I like 'em all"
+12/13/24 2:49:27a You have 10500 coins.
+12/13/24 2:50:02a Law'n St'ple says, "Greetings, Lady Jacinta."
+12/13/24 2:50:05a • You hear Aurelie's music...
+12/13/24 2:50:05a Aurelie starts playing her gitor.
+12/13/24 2:50:05a (Aurelie): "The Angels' Gathering" by Rakshasa
+12/13/24 2:50:31a Agratis Risa is no longer Clanning.
+12/13/24 2:50:32a Koppi yells, "Stinkfist reports: Lore Tour: War Conference! The Budgeting and Diplomacy and Pranking summit of the century!"
+12/13/24 2:50:47a You have 10500 coins.
+12/13/24 2:51:24a EBow is now Clanning.
+12/13/24 2:51:26a Pe Ell ponders, "What exactly are these angels doing when they gather?"
+12/13/24 2:51:37a Aurelie ponders, "What a great question."
+12/13/24 2:52:04a (Pe Ell claps)
+12/13/24 2:52:07a You have 10500 coins.
+12/13/24 2:52:15a • You hear Aurelie's music...
+12/13/24 2:52:15a Aurelie starts playing her gitor.
+12/13/24 2:52:16a (Aurelie): "Bramble Berries" by Rakshasa
+12/13/24 2:53:05a (Pe Ell claps)
+12/13/24 2:53:16a • You hear Aurelie's music...
+12/13/24 2:53:16a Aurelie starts playing her starbuck harp.
+12/13/24 2:53:16a (Aurelie): I see the Meadow!
+12/13/24 2:53:27a You have 10500 coins.
+12/13/24 2:54:48a You have 10500 coins.
+12/13/24 2:54:56a (Pe Ell claps)
+12/13/24 2:55:00a (Aurelie giggles.)
+12/13/24 2:55:03a Aurelie says, "You're a good audience, ser."
+12/13/24 2:55:08a Pe Ell exclaims, "I do my best!"
+12/13/24 2:55:17a Agratis Risa is now Clanning.
+12/13/24 2:55:17a • You hear Aurelie's music...
+12/13/24 2:55:17a Aurelie starts playing her violène.
+12/13/24 2:55:17a (Aurelie): The Myrkil'shin: Movement I - Bridal Song
+12/13/24 2:55:21a (Aurelie): For Palmeri and her King
+12/13/24 2:55:42a (Pe Ell tries to be an even better audience)
+12/13/24 2:55:43a Koppi yells, "Seaforth reports: https://discord.com/channels/270291133798547456/654474030023180290/1315577707215720489 Lore Tour Saturday Dec14 Fountfell Armor"
+12/13/24 2:55:46a (Aurelie giggles.)
+12/13/24 2:56:08a You have 10500 coins.
+12/13/24 2:56:16a (Aurelie smiles at Henryk.)
+12/13/24 2:56:24a Crius yells, "All welcome visitor Agratis Risa to the lands -- Hail, Agratis Risa!"
+12/13/24 2:56:25a Henryk says, "thanks :D"
+12/13/24 2:56:37a Aurelie exclaims, "An Agratis!"
+12/13/24 2:56:45a (Aurelie waves!)
+12/13/24 2:56:47a Warawonda says in code, "hi"
+12/13/24 2:56:54a You are now speaking the common language.
+12/13/24 2:56:56a Warawonda says, "hi"
+12/13/24 2:56:57a Henryk is no longer Clanning.
+12/13/24 2:56:58a Agratis Risa says, "0"
+12/13/24 2:56:59a Agratis Risa says, "hi"
+12/13/24 2:57:00a Agratis Risa says, "hi"
+12/13/24 2:57:00a Agratis Risa says, "hi"
+12/13/24 2:57:00a Agratis Risa says, "hi"
+12/13/24 2:57:05a (Pe Ell waves)
+12/13/24 2:57:28a You have 10500 coins.
+12/13/24 2:57:39a (Pe Ell claps!)
+12/13/24 2:58:01a • You hear Aurelie's music...
+12/13/24 2:58:01a Aurelie starts playing her violène.
+12/13/24 2:58:02a (Aurelie): The Myrkil'shin: Movement II - Funeral Song
+12/13/24 2:58:48a You have 10500 coins.
+12/13/24 2:59:51a Lithia Akka says, "Greetings, Agratis Risa. I am collecting building materials and coins for a beautiful fountain for town center."
+12/13/24 3:00:00a Lithia Akka says, "It’s going well; you can pretty much see the final shape now."
+12/13/24 3:00:08a Crius yells, "It’s 3 o’clock, and all’s well."
+12/13/24 3:00:08a You have 10500 coins.
+12/13/24 3:00:12a Crius yells, "There’s good hunting under the East Field."
+12/13/24 3:00:28a (Pe Ell claps!)
+12/13/24 3:00:34a (Aurelie): The Myrkil'shin: Movement III - Children's Song
+12/13/24 3:00:36a Aurelie says, "Oops"
+12/13/24 3:00:41a • You hear Aurelie's music...
+12/13/24 3:00:41a Aurelie starts playing her violène.
+12/13/24 3:00:41a (Aurelie): The Myrkil'shin: Movement III - Children's Song
+12/13/24 3:00:54a Koppi yells, "Seaforth reports: https://discord.com/channels/270291133798547456/654474030023180290/1315577707215720489 Lore Tour Saturday Dec14 Fountfell Armor"
+12/13/24 3:01:29a You have 10500 coins.
+12/13/24 3:02:14a (Pe Ell claps!)
+12/13/24 3:02:19a Aurelie says, "That one's fun."
+12/13/24 3:02:22a (Aurelie grins.)
+12/13/24 3:02:39a • You hear Aurelie's music...
+12/13/24 3:02:39a Aurelie starts playing her starbuck harp.
+12/13/24 3:02:39a (Aurelie): Dancing Shadows
+12/13/24 3:02:49a You have 10500 coins.
+12/13/24 3:03:45a EBow is sharing experiences with you.
+12/13/24 3:04:09a You have 10500 coins.
+12/13/24 3:04:23a (Pe Ell claps!)
+12/13/24 3:04:26a • You hear Aurelie's music...
+12/13/24 3:04:26a Aurelie starts playing her lucky lyra.
+12/13/24 3:04:26a (Aurelie): The Last Dance
+12/13/24 3:05:29a You have 10500 coins.
+12/13/24 3:06:05a Koppi yells, "Shakyamuni reports: The Darshak have gotten a SpiderLady to trap the Gnomes.. Save the Gnomes! Gnomyamuni!"
+12/13/24 3:06:40a Jacinta is no longer Clanning.
+12/13/24 3:06:41a (Pe Ell claps!)
+12/13/24 3:06:45a Fregus is now Clanning.
+12/13/24 3:06:49a You have 10500 coins.
+12/13/24 3:08:10a You have 10500 coins.
+12/13/24 3:09:30a You have 10500 coins.
+12/13/24 3:09:58a Aurelie says, "hmmmm"
+12/13/24 3:10:09a • You hear Aurelie's music...
+12/13/24 3:10:09a Aurelie starts playing her gitor.
+12/13/24 3:10:09a (Aurelie): If you could see me...
+12/13/24 3:10:50a You have 10500 coins.
+12/13/24 3:11:00a Aurelie says, "Hmm... our Agratis fell to an island panther."
+12/13/24 3:11:06a Aurelie says, "Oop"
+12/13/24 3:11:08a Aurelie says, "Nevermind."
+12/13/24 3:11:11a LittleKing is now Clanning.
+12/13/24 3:11:16a Koppi yells, "Shakyamuni reports: Gnomes are our friends, Save the Gnomes!!"
+12/13/24 3:11:16a LittleKing is no longer Clanning.
+12/13/24 3:11:18a Pe Ell says, "Thankfully agratis departs are pretty painless ;)"
+12/13/24 3:11:26a (Aurelie nods!)
+12/13/24 3:11:52a Aurelie exclaims, "Ta daaa!"
+12/13/24 3:11:59a Agratis Risa asks, "haha how do I see my lvl?"
+12/13/24 3:12:06a Pe Ell says, "Wellllll"
+12/13/24 3:12:10a You have 10500 coins.
+12/13/24 3:12:17a Aurelie ponders, "Your "level" is how many ranks you have with certain trainers :)"
+12/13/24 3:12:18a Pe Ell says, "That's complicated, as there's not really a concept of a level"
+12/13/24 3:12:26a Aurelie says, "but yeah, what Pe Ell said."
+12/13/24 3:12:27a Agratis Risa says, "ahhhh, makes sense."
+12/13/24 3:12:32a • You hear Aurelie's music...
+12/13/24 3:12:32a Aurelie starts playing her gitor.
+12/13/24 3:12:32a (Aurelie): A Short Hike
+12/13/24 3:12:45a Pe Ell says, "Right, level is just how much you've trained with specific trainers, and different people have different training"
+12/13/24 3:12:57a Aurelie exclaims, "No two exiles are alike!"
+12/13/24 3:13:05a Pe Ell says, "Trainers don't give outright numbers, but what they say gives an indication of how much you've trained"
+12/13/24 3:13:29a Pe Ell ponders, "https://clump.clanlord.net/library/index.php?title=Trainer_Rank_Messages"
+12/13/24 3:13:30a You have 10500 coins.
+12/13/24 3:13:39a Pe Ell says, "or wait that's wrong"
+12/13/24 3:13:58a (Pe Ell claps)
+12/13/24 3:14:26a Pe Ell says, "https://www.windsofdawn.org/newexilehelp/trainmsg.html has a list"
+12/13/24 3:14:30a • You hear Aurelie's music...
+12/13/24 3:14:30a Aurelie starts playing her vibra.
+12/13/24 3:14:30a (Aurelie): Escaping Metzetli
+12/13/24 3:14:45a Crius yells, "It’s 4 o’clock, and all’s well."
+12/13/24 3:14:46a Pe Ell says, "Some people just keep track manually if they want exact numbers"
+12/13/24 3:14:50a Pe Ell says, "Others of us are just lazy"
+12/13/24 3:14:51a You have 10500 coins.
+12/13/24 3:14:51a Crius yells, "It looks pretty quiet in a Windspinner Monastery."
+12/13/24 3:14:54a (Aurelie is lazy.)
+12/13/24 3:15:00a (Warawonda is the same)
+12/13/24 3:15:02a (Pe Ell is also lazy)
+12/13/24 3:15:50a (Pe Ell claps!)
+12/13/24 3:15:51a • You hear Aurelie's music...
+12/13/24 3:15:51a Aurelie starts playing her starbuck harp.
+12/13/24 3:15:51a Agratis Risa is no longer Clanning.
+12/13/24 3:15:51a (Aurelie): Shorelines and Starlight
+12/13/24 3:16:11a You have 10500 coins.
+12/13/24 3:16:27a Koppi yells, "Omega reports: Any Shadow Plane hunts could use extra healing and mentus give me a holler! I'm seeking help getting Dark Dream Spell pages 2 thru 9."
+12/13/24 3:17:31a You have 10500 coins.
+12/13/24 3:18:00a (Pe Ell claps!)
+12/13/24 3:18:09a (Aurelie): <.<
+12/13/24 3:18:11a (Aurelie): >.>
+12/13/24 3:18:16a • You hear Aurelie's music...
+12/13/24 3:18:16a Aurelie starts playing her lucky lyra.
+12/13/24 3:18:17a (Aurelie): "Knight of the Lyre" by Rakshasa
+12/13/24 3:18:22a Agratis Risa is now Clanning.
+12/13/24 3:18:46a Tara is no longer Clanning.
+12/13/24 3:18:51a You have 10500 coins.
+12/13/24 3:19:40a (Pe Ell claps!)
+12/13/24 3:20:07a Aurelie says, "That one is also one of my favorites."
+12/13/24 3:20:11a You have 10500 coins.
+12/13/24 3:20:17a Pe Ell says, "Agreed, it's very much a classic"
+12/13/24 3:20:27a Aurelie says, "Speaking of classics..."
+12/13/24 3:20:30a • You hear Aurelie's music...
+12/13/24 3:20:30a Aurelie starts playing her starbuck harp.
+12/13/24 3:20:30a (Aurelie): "Dancing Rain" by Ayella
+12/13/24 3:21:26a Agratis Risa is no longer Clanning.
+12/13/24 3:21:32a You have 10500 coins.
+12/13/24 3:21:38a Koppi yells, "Seaforth reports: https://discord.com/channels/270291133798547456/654474030023180290/1315577707215720489 Lore Tour Saturday Dec14 Fountfell Armor"
+12/13/24 3:21:45a (Pe Ell claps!)
+12/13/24 3:21:48a • You hear Aurelie's music...
+12/13/24 3:21:48a Aurelie starts playing her starbuck harp.
+12/13/24 3:21:48a (Aurelie): "Luz Your Mind (Luzifer Gave Me the Horns)" by Rakshasa
+12/13/24 3:22:41a Manquilor is now Clanning.
+12/13/24 3:22:51a Balangar is now Clanning.
+12/13/24 3:22:52a You have 10500 coins.
+12/13/24 3:23:29a Aurelie says, "Ahh Raks."
+12/13/24 3:23:34a (Aurelie giggles.)
+12/13/24 3:23:34a (Pe Ell luzes his mind)
+12/13/24 3:23:44a (Aurelie): ditto
+12/13/24 3:24:12a You have 10500 coins.
+12/13/24 3:24:13a Lithia Akka says, "Greetings, Manquilor. I am collecting building materials and coins for a beautiful fountain for town center."
+12/13/24 3:24:14a Lithia Akka says, "It’s going well; you can pretty much see the final shape now."
+12/13/24 3:24:14a Lithia Akka says, "To donate materials, hold out a piece of wood, stone or metal, or hold your money- purse to donate 500 coins."
+12/13/24 3:24:15a Lithia Akka asks, "How many of your stones do you want to donate?"
+12/13/24 3:24:16a Manquilor says, "2"
+12/13/24 3:24:16a Lithia Akka gives Manquilor 4 coins for the stone.
+12/13/24 3:24:16a Lithia Akka says, "Excellent! This will help our building efforts along."
+12/13/24 3:24:16a Lithia Akka says, "Any more help you could provide would be greatly appreciated."
+12/13/24 3:24:19a • You hear Aurelie's music...
+12/13/24 3:24:19a Aurelie starts playing her gitor.
+12/13/24 3:24:19a (Aurelie): "Epic Rakkin'" by Rakshasa
+12/13/24 3:24:41a Kensington is now Clanning.
+12/13/24 3:25:32a You have 10500 coins.
+12/13/24 3:26:14a (Pe Ell claps!)
+12/13/24 3:26:19a Aurelie says, "He writes such great gitor music."
+12/13/24 3:26:25a •The Sun sets.
+12/13/24 3:26:29a Pe Ell says, "Yeah he really knows how to abuse those poor instruments"
+12/13/24 3:26:38a Cirnahl is now Clanning.
+12/13/24 3:26:42a • You hear Aurelie's music...
+12/13/24 3:26:42a Aurelie starts playing her gitor.
+12/13/24 3:26:42a (Aurelie): "Bounty Hunt" by Rakshasa
+12/13/24 3:26:49a Koppi yells, "Seaforth reports: https://discord.com/channels/270291133798547456/654474030023180290/1315577707215720489 Lore Tour Saturday Dec14 Fountfell Armor"
+12/13/24 3:26:52a You have 10500 coins.
+12/13/24 3:28:13a You have 10500 coins.
+12/13/24 3:28:52a Pe Ell ponders, "put a bounty on those rats"
+12/13/24 3:29:01a Aurelie says, "Song-ruining squeaks."
+12/13/24 3:29:06a (Pe Ell nods)
+12/13/24 3:29:08a (Pe Ell claps!)
+12/13/24 3:29:20a • You hear Aurelie's music...
+12/13/24 3:29:20a Aurelie starts playing her gitor.
+12/13/24 3:29:20a (Aurelie): "Bustling T'rool Town" by Rakshasa
+12/13/24 3:29:28a Poplar is now Clanning.
+12/13/24 3:29:29a Crius yells, "It’s 5 o’clock, and all’s well."
+12/13/24 3:29:33a You have 10500 coins.
+12/13/24 3:29:33a Crius yells, "It looks pretty quiet in a Windspinner Monastery."
+12/13/24 3:29:54a Etesu is no longer Clanning.
+12/13/24 3:29:59a (Poplar waves.)
+12/13/24 3:30:01a Aurelie exclaims, "Poplaaaaar!"
+12/13/24 3:30:04a (Aurelie beams!)
+12/13/24 3:30:05a Poplar exclaims, "Hi Aurelie!"
+12/13/24 3:30:07a (Pe Ell claps)
+12/13/24 3:30:11a Aurelie exclaims, "H'lo!"
+12/13/24 3:30:11a Poplar asks, "How are you?"
+12/13/24 3:30:17a Aurelie exclaims, "I'm grand!"
+12/13/24 3:30:23a Aurelie says, "Just sittin' here being lazy and playin' music."
+12/13/24 3:30:27a Poplar says, "nice :)"
+12/13/24 3:30:42a Poplar says, "I'm about to help Ace get some lasties"
+12/13/24 3:30:53a You have 10500 coins.
+12/13/24 3:31:00a Aurelie asks, "Ooooo where at?"
+12/13/24 3:31:10a • You hear Aurelie's music...
+12/13/24 3:31:10a Aurelie starts playing her gitor.
+12/13/24 3:31:10a (Aurelie): "Kosher Thoom" by Fantasia
+12/13/24 3:31:11a Poplar says, "N gho wei, wanna come? SOmetimes there are ghosts"
+12/13/24 3:31:28a Yula is now Clanning.
+12/13/24 3:31:31a Aurelie exclaims, "Hmmmmm perhaps!"
+12/13/24 3:31:41a Aurelie ponders, "I am incredibly distractable until at least one of the boys is napping..."
+12/13/24 3:31:45a (Poplar nods)
+12/13/24 3:31:52a Poplar says, "it's usuallly really chill and boring"
+12/13/24 3:31:57a Poplar says, "slow spawns"
+12/13/24 3:32:00a Koppi yells, "Seaforth reports: https://discord.com/channels/270291133798547456/654474030023180290/1315577707215720489 Lore Tour Saturday Dec14 Fountfell Armor"
+12/13/24 3:32:09a Poplar says, "but yesterday we went and there were like 30 crowlets flying all around"
+12/13/24 3:32:13a You have 10500 coins.
+12/13/24 3:32:21a Aurelie exclaims, "Ohh good heavens!"
+12/13/24 3:32:22a (Pe Ell claps)
+12/13/24 3:32:27a (Poplar applauds!)
+12/13/24 3:32:32a • You hear Aurelie's music...
+12/13/24 3:32:32a Aurelie starts playing her starbuck harp.
+12/13/24 3:32:33a (Aurelie): "See Me" by Ayella
+12/13/24 3:32:38a Pe Ell asks, "What's he studying?"
+12/13/24 3:32:44a Poplar says, "crowlets"
+12/13/24 3:32:54a Pe Ell says, "Ahha"
+12/13/24 3:32:58a (Aurelie hums softly as she strums.)
+12/13/24 3:33:33a You have 10500 coins.
+12/13/24 3:33:51a Aurelie says, "''''''''''''''''''''''''''''''''''''"
+12/13/24 3:33:52a Aurelie says, "''''''''''''''''''''''''''''''''''''"
+12/13/24 3:34:10a Aurelie ponders, "Oops."
+12/13/24 3:34:15a Sycamore is now Clanning.
+12/13/24 3:34:29a (Pe Ell claps)
+12/13/24 3:34:34a (Poplar applauds!)
+12/13/24 3:34:38a • You hear Aurelie's music...
+12/13/24 3:34:38a Aurelie starts playing her starbuck harp.
+12/13/24 3:34:38a (Aurelie): "Melody for Luna" by Ayella
+12/13/24 3:34:54a You have 10500 coins.
+12/13/24 3:35:02a Aurelie says, "I should really work on some unfinished songs today."
+12/13/24 3:35:14a Pe Ell exclaims, "So productive!"
+12/13/24 3:35:25a Aurelie says, "Only with the Bard's Guild."
+12/13/24 3:35:30a Aurelie says, "I am not productive when it comes to hunting."
+12/13/24 3:35:31a (Pe Ell grins)
+12/13/24 3:35:39a (Poplar grins.)
+12/13/24 3:35:52a Pe Ell says, "Well, I have been out here for a few hours and mostly hunted TC"
+12/13/24 3:35:58a Pe Ell ponders, "And infinite slaughters in EP"
+12/13/24 3:36:03a (Aurelie beams!)
+12/13/24 3:36:10a Poplar exclaims, "Hey we went to the forge, it was exciting!"
+12/13/24 3:36:14a You have 10500 coins.
+12/13/24 3:36:20a Pe Ell says, "It was a tourist trip, indeed"
+12/13/24 3:36:24a (Pe Ell claps)
+12/13/24 3:36:25a (Aurelie giggles.)
+12/13/24 3:36:28a Warawonda says, ":/"
+12/13/24 3:36:34a Poplar says, "You wanna come to gho wei, Pe ell? it's generally sort of boring once we do the initial clear"
+12/13/24 3:36:45a (Poplar applauds!)
+12/13/24 3:37:01a Pe Ell exclaims, "Mmm I was actually thinking of a nap. It's been a hard day of not working!"
+12/13/24 3:37:06a (Poplar giggles)
+12/13/24 3:37:11a Koppi yells, "Stinkfist reports: Arr, i heard it was a Spider named Zay'dzi, I could be remembering that wrong, what has everyone else heard?"
+12/13/24 3:37:34a EBow has fallen to a Starbuck Lyfelidae.
+12/13/24 3:37:34a You have 10500 coins.
+12/13/24 3:37:36a Pe Ell ponders, "Had to get up extra early to get a quote on a new water heater which was exhorbitant"
+12/13/24 3:37:44a Poplar says, "ugh"
+12/13/24 3:37:45a Ptmd is now Clanning.
+12/13/24 3:38:02a (Ptmd waves)
+12/13/24 3:38:15a Pe Ell ponders, "I don't _need_ a new water heater... but I certainly would like warmer than lukewarm water...."
+12/13/24 3:38:54a You have 10500 coins.
+12/13/24 3:39:06a Warawonda ponders, "perhap learn how to modify it"
+12/13/24 3:39:17a Pe Ell ponders, "Start a fire under it, understood"
+12/13/24 3:39:29a Poplar says, "hehehe"
+12/13/24 3:39:44a Warawonda ponders, "sure as long as you dont over pressurize it"
+12/13/24 3:40:14a You have 10500 coins.
+12/13/24 3:40:25a Ace is now Clanning.
+12/13/24 3:40:33a EBow is still fallen to a Starbuck Lyfelidae.
+12/13/24 3:40:38a Ace says, "not real ace"
+12/13/24 3:41:20a Shadowmutt scratches itself.
+12/13/24 3:41:27a Chmee is now Clanning.
+12/13/24 3:41:35a You have 10500 coins.
+12/13/24 3:41:51a (Poplar waves.)
+12/13/24 3:42:16a Chmee says in People, "damn time-wasters"
+12/13/24 3:42:22a Koppi yells, "Lion-O reports: "\equip \"potion of energy\"\r" "\useitem \"potion of energy\"\r""
+12/13/24 3:42:23a Warawonda asks, "?"
+12/13/24 3:42:28a Warawonda asks, "who?"
+12/13/24 3:42:55a You have 10500 coins.
+12/13/24 3:43:17a Lorikeet is now Clanning.
+12/13/24 3:43:33a EBow has been fallen for some time because of a Starbuck Lyfelidae.
+12/13/24 3:43:39a Chmee says, "I had a cpap machine. it was recalled. I sent it back. they didn't get it. they asked me to call them and give them the fedex tracking #. I called. took 20 minutes to give them the number and get back their ticket #."
+12/13/24 3:43:39a Taryn is now Clanning.
+12/13/24 3:43:41a (Poplar waves.)
+12/13/24 3:43:41a (Lorikeet waves.)
+12/13/24 3:43:52a You begin sharing your experiences with Lorikeet.
+12/13/24 3:43:52a Poplar says, "So annoying"
+12/13/24 3:43:52a You are already sharing with Lorikeet.
+12/13/24 3:44:02a Chmee says, "I'm down to 73 mistrals"
+12/13/24 3:44:07a Crius yells, "It’s 6 o’clock on Merdi, the 36th day of Autumn in the 639th year of the Ascendancy, and all’s well."
+12/13/24 3:44:08a Pe Ell exclaims, "Awesome!"
+12/13/24 3:44:12a Crius yells, "It looks pretty quiet in Sombrion's Keep."
+12/13/24 3:44:15a You have 10500 coins.
+12/13/24 3:44:25a Chmee says, "so by Bawkmas, I'm guessing"
+12/13/24 3:44:31a Warawonda says, ":/"
+12/13/24 3:44:41a Warawonda asks, "you got one til then?"
+12/13/24 3:44:41a Poplar says, "ooh so exciting"
+12/13/24 3:44:56a Chmee asks, "one what?"
+12/13/24 3:45:08a Chmee is sharing experiences with you.
+12/13/24 3:45:09a Warawonda says, "cpap"
+12/13/24 3:45:14a Chmee says, "oh, yes"
+12/13/24 3:45:17a Pe Ell ponders, "Ok naptime"
+12/13/24 3:45:19a (Pe Ell waves)
+12/13/24 3:45:28a Nug is now Clanning.
+12/13/24 3:45:28a Poplar says, "I'm not coming today I don't think, helping Ace again"
+12/13/24 3:45:33a Lexa is now Clanning.
+12/13/24 3:45:35a You have 10500 coins.
+12/13/24 3:45:39a Pe Ell is no longer Clanning.
+12/13/24 3:45:41a Naferu is now Clanning.
+12/13/24 3:45:42a EBow is no longer fallen.
+12/13/24 3:45:48a (Poplar waves.)
+12/13/24 3:46:00a Warawonda says, "is wavy"
+12/13/24 3:46:04a Warawonda says, "..."
+12/13/24 3:46:09a (Warawonda is wavy)
+12/13/24 3:46:09a Aurelie exclaims, "Be right back, maybe! Hopefully!"
+12/13/24 3:46:11a (Chmee chuckles)
+12/13/24 3:46:23a Aurelie is no longer Clanning.
+12/13/24 3:46:52a Chmee ponders, "I should stop sharing people. they keep leaving as soon as I do. :-)"
+12/13/24 3:46:55a You have 10500 coins.
+12/13/24 3:46:58a Poplar says, "lol"
+12/13/24 3:47:08a Warawonda says, "welp thats my que :P"
+12/13/24 3:47:10a Lorikeet says, "IGuess we can advance to OP and see what's what then"
+12/13/24 3:47:17a (Chmee laughs)
+12/13/24 3:47:26a Taryn is sharing experiences with you.
+12/13/24 3:47:31a You equip your iron breastplate.
+12/13/24 3:47:32a You equip your iron helmet.
+12/13/24 3:47:32a You equip your wooden shield.
+12/13/24 3:48:15a Lexa is sharing experiences with you.
+12/13/24 3:48:16a You have 10500 coins.
+12/13/24 3:48:25a EBow has fallen to a Scarmis Eunuch.
+12/13/24 3:48:28a Poplar is sharing experiences with you.
+12/13/24 3:48:48a Lorikeet says, "Poplar is coming after all she says"
+12/13/24 3:48:56a Lexa says, "I can switch to healing"
+12/13/24 3:49:08a Poplar says, "Sorry"
+12/13/24 3:49:36a You have 10500 coins.
+12/13/24 3:49:42a Lorikeet says, "Guess you guys can circle 2"
+12/13/24 3:49:48a EBow is no longer fallen.
+12/13/24 3:49:48a (Chmee nods)
+12/13/24 3:49:49a Balangar is no longer Clanning.
+12/13/24 3:49:49a Lorikeet says, "Taryn should be here shortly"
+12/13/24 3:49:55a Nug is sharing experiences with you.
+12/13/24 3:50:25a Lorikeet says, "Well can check outside"
+12/13/24 3:50:33a You begin sharing your experiences with Poplar.
+12/13/24 3:50:33a You are sharing experiences with Poplar and Lorikeet.
+12/13/24 3:50:33a You are already sharing with Poplar.
+12/13/24 3:50:33a You are sharing experiences with Poplar and Lorikeet.
+12/13/24 3:50:43a You begin sharing your experiences with Lexa.
+12/13/24 3:50:43a You are sharing experiences with Lexa, Poplar and Lorikeet.
+12/13/24 3:50:44a You are already sharing with Lexa.
+12/13/24 3:50:44a You are sharing experiences with Lexa, Poplar and Lorikeet.
+12/13/24 3:50:49a Lorikeet yells, "any lasties this part?"
+12/13/24 3:50:52a * You recover the Sky Bison fur, worth 13c. Your share is 2c.
+12/13/24 3:50:56a You have 10502 coins.
+12/13/24 3:51:03a Chmee has fallen to a Sky Bison.
+12/13/24 3:51:07a Lexa has fallen to a Wild Stallion.
+12/13/24 3:51:08a Poplar has fallen to a Sky Bison.
+12/13/24 3:51:11a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/13/24 3:51:11a Warawonda has fallen to a Sky Bison.
+12/13/24 3:51:12a (Chmee laughs)
+12/13/24 3:51:12a Poplar says, "us, I guess"
+12/13/24 3:51:15a Lorikeet yells, "go oup"
+12/13/24 3:51:20a Lexa yells, "all dead"
+12/13/24 3:51:24a Nug starts dragging you.
+12/13/24 3:51:34a Chmee says, "we're a buncha noobs"
+12/13/24 3:51:35a Nug thinks, "have all in op i think"
+12/13/24 3:51:40a Warawonda says, "hmmm"
+12/13/24 3:51:47a Nug says, "not sure i can play bm on laptop"
+12/13/24 3:52:01a Lexa is no longer fallen.
+12/13/24 3:52:07a Lorikeet says, "Guess you weren't all dead"
+12/13/24 3:52:07a Poplar is no longer fallen.
+12/13/24 3:52:10a Lorikeet says, "=)"
+12/13/24 3:52:10a Lexa says, "faker over her"
+12/13/24 3:52:12a Lexa says, "faker over here"
+12/13/24 3:52:14a Poplar says, "we had a possum ;)"
+12/13/24 3:52:16a You have 10502 coins.
+12/13/24 3:52:19a Nug says, "im an excellent actor"
+12/13/24 3:52:22a (Chmee chuckles)
+12/13/24 3:52:23a Lorikeet says, "Taryn says she got stuck on way to mirror and is working her way out"
+12/13/24 3:52:27a Chmee says, "you done good"
+12/13/24 3:52:29a Chmee is no longer fallen.
+12/13/24 3:52:54a You slip your cloak into your backpack.
+12/13/24 3:52:57a Lorikeet says, "=)"
+12/13/24 3:53:05a You begin sharing your experiences with Taryn.
+12/13/24 3:53:05a You are sharing experiences with Taryn, Lexa, Poplar and Lorikeet.
+12/13/24 3:53:05a You are already sharing with Taryn.
+12/13/24 3:53:05a You are sharing experiences with Taryn, Lexa, Poplar and Lorikeet.
+12/13/24 3:53:14a Lorikeet says, "we made the error of thinking it wasn't busy but it was"
+12/13/24 3:53:22a Poplar asks, "Would it be better if I healed today?"
+12/13/24 3:53:25a Lexa growls, "just all sky"
+12/13/24 3:53:29a Chmee growls, "naw"
+12/13/24 3:53:30a Taryn says, "everywhere busy"
+12/13/24 3:53:34a Lexa growls, "if someone is gonna switch its gonna be me ;)"
+12/13/24 3:53:36a You have 10502 coins.
+12/13/24 3:53:37a Yula is no longer Clanning.
+12/13/24 3:53:37a Taryn says, "was surrounded by artaks in mirror snell"
+12/13/24 3:53:51a Naferu is no longer Clanning.
+12/13/24 3:53:54a Taryn asks, "trees?"
+12/13/24 3:53:56a Lexa growls, "sky"
+12/13/24 3:53:56a Sycamore is no longer Clanning.
+12/13/24 3:53:57a Lorikeet says, "one"
+12/13/24 3:53:59a Lorikeet says, "at least"
+12/13/24 3:54:09a Taryn says, "it's north"
+12/13/24 3:54:10a Nug has fallen to a Sky Bison.
+12/13/24 3:54:15a Taryn says, "Wara go inside until tree dead"
+12/13/24 3:54:18a Fregus is no longer Clanning.
+12/13/24 3:54:18a Nug says, "hm"
+12/13/24 3:54:20a Taryn says, "please"
+12/13/24 3:54:24a Taryn says, "you're the current target"
+12/13/24 3:54:25a Nug is no longer fallen.
+12/13/24 3:54:26a Nug says, "it didnt get slowed"
+12/13/24 3:54:27a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/13/24 3:54:27a Warawonda has fallen to a twig.
+12/13/24 3:54:27a Nug has fallen to a twig.
+12/13/24 3:54:28a Taryn starts dragging you.
+12/13/24 3:54:35a Warawonda ponders, "i was stuck"
+12/13/24 3:54:41a Taryn says, "please listen"
+12/13/24 3:54:43a Lorikeet says, "They never listen lol"
+12/13/24 3:54:51a Nug says, "oh"
+12/13/24 3:54:57a You have 10502 coins.
+12/13/24 3:54:58a Nug says, "a spell i never use i guess"
+12/13/24 3:55:04a Nug says, "wonder what it did heh"
+12/13/24 3:55:07a Lorikeet asks, "Listening?"
+12/13/24 3:55:17a Nug is no longer fallen.
+12/13/24 3:55:17a Taryn says, "you two stay inside until we get tree please"
+12/13/24 3:55:24a Lorikeet says, "I can hold it"
+12/13/24 3:55:27a Chmee growls, "tree came out of the pocket"
+12/13/24 3:55:32a Lexa says, "moved tree to ledge"
+12/13/24 3:55:56a Nug has fallen to a Sky Bison.
+12/13/24 3:55:56a Taryn thinks to a group, "ok tree dead"
+12/13/24 3:55:57a Lorikeet says, "tree dead"
+12/13/24 3:56:03a * Lexa recovers the Sky Bison fur, worth 25c. Your share is 4c.
+12/13/24 3:56:03a Nug is no longer fallen.
+12/13/24 3:56:04a You equip your Staff of Ballou.
+12/13/24 3:56:05a (Warawonda): Balance Boost in 4 sec
+12/13/24 3:56:10a * You grow more mindful.
+12/13/24 3:56:10a * You mentally enhance Chmee
+12/13/24 3:56:10a * You mentally enhance Poplar
+12/13/24 3:56:10a * You mentally enhance Taryn
+12/13/24 3:56:10a * You mentally enhance Lorikeet
+12/13/24 3:56:10a * You mentally enhance Nug
+12/13/24 3:56:10a * You mentally enhance Lexa
+12/13/24 3:56:13a You slip your Staff of Ballou into your backpack.
+12/13/24 3:56:14a Katreesa is now Clanning.
+12/13/24 3:56:17a You have 10506 coins.
+12/13/24 3:56:30a * Lexa recovers the Sky Bison fur, worth 23c. Your share is 4c.
+12/13/24 3:56:51a Nug has fallen to a Starstag.
+12/13/24 3:56:54a * Lexa recovers the Starstag fur, worth 33c. Your share is 5c.
+12/13/24 3:56:58a Nug is no longer fallen.
+12/13/24 3:57:14a Ace is no longer Clanning.
+12/13/24 3:57:27a Poplar says, "Kat coming"
+12/13/24 3:57:37a You have 10515 coins.
+12/13/24 3:57:42a * You recover the Sky Bison fur, worth 41c. Your share is 6c.
+12/13/24 3:57:55a Taryn yells, "down except holder"
+12/13/24 3:57:56a * Your mental enhancement fades.
+12/13/24 3:57:59a Katreesa says, "hiyas"
+12/13/24 3:58:02a Lexa says, "unshare the person that is also sharing you to share kat without recircle"
+12/13/24 3:58:03a You begin sharing your experiences with Katreesa.
+12/13/24 3:58:03a You are sharing experiences with Katreesa, Taryn, Lexa, Poplar and Lorikeet.
+12/13/24 3:58:04a You are already sharing with Katreesa.
+12/13/24 3:58:04a You are sharing experiences with Katreesa, Taryn, Lexa, Poplar and Lorikeet.
+12/13/24 3:58:09a Katreesa says, "thanks"
+12/13/24 3:58:13a Taryn thinks to a group, "down except holder (mystic)"
+12/13/24 3:58:18a Nug says, "hi kat"
+12/13/24 3:58:20a Melisande is now Clanning.
+12/13/24 3:58:21a Lorikeet yells, "just one sky anyway"
+12/13/24 3:58:31a Taryn yells, "1"
+12/13/24 3:58:57a You have 10521 coins.
+12/13/24 3:59:09a Haffron is no longer Clanning.
+12/13/24 3:59:33a Taryn thinks to a group, "south"
+12/13/24 3:59:49a Warawonda says, "ima go"
+12/13/24 4:00:11a You equip your shirt named “midnight”, which is in nearly perfect condition.
+12/13/24 4:00:11a You slip your iron helmet into your backpack.
+12/13/24 4:00:12a You slip your wooden shield into your backpack.
+12/13/24 4:00:13a * Your mental enhancement fades.
+12/13/24 4:00:17a You have 10521 coins.
+12/13/24 4:00:27a You equip your cloak named “royal purple”, which is in nearly perfect condition.
+12/13/24 4:00:40a • /SLEEP when you wish to begin studying.
+12/13/24 4:00:42a Use \SLEEP again when you return.
+12/13/24 4:00:43a You are done adventuring for a while and will be staying here.
+12/13/24 4:00:43a You have been disconnected from Clan Lord.
+12/13/24 4:00:44a • You will benefit from staying here while you are off-line.
+12/13/24 4:00:44a *** We are no longer connected to the Clan Lord game server. ***

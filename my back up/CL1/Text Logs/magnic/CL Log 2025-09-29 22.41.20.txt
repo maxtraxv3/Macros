@@ -1,0 +1,698 @@
+
+9/29/25 10:41:21p * Your pair of pants named “dark grey” is in pretty good shape.
+9/29/25 10:41:21p * Your pair of shoes named “red” is in pretty good shape.
+9/29/25 10:41:21p * Your shirt named “dark grey” is in pretty good shape.
+9/29/25 10:41:21p Welcome to Clan Lord, Magnic!
+9/29/25 10:41:21p Type \HELP for a list of commands.
+9/29/25 10:41:21p • You have been charged 264 coins for advanced studies.
+9/29/25 10:41:21p • You gain experience from your recent studies.
+9/29/25 10:41:21p Magnic is now Clanning.
+9/29/25 10:41:21p You have been studying for 8 days, 15 hours, 23 minutes.
+9/29/25 10:41:24p It's 8:16am on Merdi, day 56 of Winter, 643.
+9/29/25 10:41:25p There are two members of Black Phoenix clanning: Ceara and you.
+9/29/25 10:41:25p • What’s New: https://deltatao.com/clanlord/news
+9/29/25 10:41:28p Friends online: none.
+9/29/25 10:41:36p * Tip of the day: The /NAME command lets you give a custom name to any item marked with a number like <#1>. (Use /OPTIONS to turn tips off.)
+9/29/25 10:41:48p You equip your heartwood charm.
+9/29/25 10:41:49p •You assume the shape of a Giant Carnivorous Plankton.
+9/29/25 10:41:49p • You gather your energy.
+9/29/25 10:41:52p • You speed up.
+9/29/25 10:42:03p •You notice your balance and recovery improving.
+9/29/25 10:42:05p You vault the wall.
+9/29/25 10:42:20p • You slow down to normal speed.
+9/29/25 10:42:20p • You return to your normal form.
+9/29/25 10:42:21p You slip your heartwood charm into your backpack.
+9/29/25 10:42:25p Poirenn says, "Greetings, Lord Magnic."
+9/29/25 10:42:25p Poirenn says, "Tsahr'tsei, Magnic. My pear tree here has escaped predation from the vicious giant slugs. It looks like some day it may bear fruit."
+9/29/25 10:42:33p You slaughtered a Vermine.
+9/29/25 10:42:41p You slaughtered a Grey Feral.
+9/29/25 10:42:41p * For recovering the fur, you gain experience.
+9/29/25 10:42:41p * You recover the Grey Feral fur, worth 1c. Your share is 1c.
+9/29/25 10:42:44p You slaughtered an Orga.
+9/29/25 10:42:44p You slaughtered a Vermine.
+9/29/25 10:42:44p * You recover the Vermine fur, worth 1c. Your share is 1c.
+9/29/25 10:42:47p You slaughtered a Large Vermine.
+9/29/25 10:42:48p You slaughtered a Vermine.
+9/29/25 10:42:49p You slaughtered a Rat.
+9/29/25 10:42:50p You slaughtered a Rat.
+9/29/25 10:42:51p You slaughtered a Vermine.
+9/29/25 10:42:55p You slaughtered a Large Vermine.
+9/29/25 10:42:56p You slaughtered a Vermine.
+9/29/25 10:42:57p You slaughtered a Large Vermine.
+9/29/25 10:42:58p You slaughtered a Vermine.
+9/29/25 10:43:01p You slaughtered a Large Vermine.
+9/29/25 10:43:01p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+9/29/25 10:43:02p You slaughtered an Island Panther.
+9/29/25 10:43:03p * You recover the Island Panther fur, worth 3c. Your share is 3c.
+9/29/25 10:43:03p You slaughtered a Large Vermine.
+9/29/25 10:43:03p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+9/29/25 10:43:03p You slaughtered an Island Panther.
+9/29/25 10:43:04p * For recovering the fur, you gain experience.
+9/29/25 10:43:04p * You recover the Island Panther fur, worth 1c. Your share is 1c.
+9/29/25 10:43:05p You slaughtered a Rat.
+9/29/25 10:43:07p You slaughtered an Island Panther.
+9/29/25 10:43:09p You slaughtered an Island Panther.
+9/29/25 10:43:10p * You recover the Island Panther fur, worth 1c. Your share is 1c.
+9/29/25 10:43:11p You slaughtered an Island Panther.
+9/29/25 10:43:11p * You recover the Island Panther fur, worth 1c. Your share is 1c.
+9/29/25 10:43:15p You slaughtered a Large Vermine.
+9/29/25 10:43:15p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+9/29/25 10:43:16p You slaughtered a Large Vermine.
+9/29/25 10:43:16p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+9/29/25 10:43:20p You slaughtered a Large Vermine.
+9/29/25 10:43:20p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+9/29/25 10:43:21p You slaughtered a Large Vermine.
+9/29/25 10:43:21p * For recovering the fur, you gain experience.
+9/29/25 10:43:21p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+9/29/25 10:43:21p You slaughtered a Large Vermine.
+9/29/25 10:43:22p You slaughtered a Bolok Cougar.
+9/29/25 10:43:22p * You recover the Bolok Cougar fur, worth 7c. Your share is 7c.
+9/29/25 10:43:24p You slaughtered a Vermine.
+9/29/25 10:43:26p You slaughtered an Artak Cougar.
+9/29/25 10:43:26p * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+9/29/25 10:43:26p You slaughtered a Large Vermine.
+9/29/25 10:43:26p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+9/29/25 10:43:27p You slaughtered a Large Vermine.
+9/29/25 10:43:27p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+9/29/25 10:43:28p You slaughtered a Large Vermine.
+9/29/25 10:43:28p You slaughtered a Large Vermine.
+9/29/25 10:43:28p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+9/29/25 10:43:30p You slaughtered a Vermine.
+9/29/25 10:43:31p You slaughtered a Large Vermine.
+9/29/25 10:43:31p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+9/29/25 10:43:32p Nurina is now Clanning.
+9/29/25 10:43:36p You slaughtered a Large Vermine.
+9/29/25 10:43:36p * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+9/29/25 10:43:37p You slaughtered a Large Vermine.
+9/29/25 10:43:37p You slaughtered a Large Vermine.
+9/29/25 10:43:38p You slaughtered a Large Vermine.
+9/29/25 10:43:38p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+9/29/25 10:43:42p You slaughtered a Large Vermine.
+9/29/25 10:43:45p You slaughtered an Orga.
+9/29/25 10:43:46p You slaughtered a Rat.
+9/29/25 10:43:46p You slaughtered a Large Vermine.
+9/29/25 10:43:47p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+9/29/25 10:43:58p You slaughtered a Large Vermine.
+9/29/25 10:43:58p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+9/29/25 10:44:01p You slaughtered a Large Vermine.
+9/29/25 10:44:09p You slaughtered a Giant Vermine.
+9/29/25 10:44:09p * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+9/29/25 10:44:15p You slaughtered a Large Vermine.
+9/29/25 10:44:15p You slaughtered a Giant Vermine.
+9/29/25 10:44:15p * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+9/29/25 10:44:19p You slaughtered a Deadly Adder.
+9/29/25 10:44:23p You slaughtered a Leech.
+9/29/25 10:44:24p You slaughtered a Leech.
+9/29/25 10:44:24p You slaughtered a Leech.
+9/29/25 10:44:24p You slaughtered a Leech.
+9/29/25 10:44:25p You slaughtered a Leech.
+9/29/25 10:44:25p You slaughtered a Leech.
+9/29/25 10:44:26p You slaughtered a Leech.
+9/29/25 10:44:28p You have 6625 coins.
+9/29/25 10:44:31p You slaughtered a Winged Snake.
+9/29/25 10:44:31p You slaughtered a Small Arachne.
+9/29/25 10:44:32p You slaughtered a Winged Snake.
+9/29/25 10:44:33p You slaughtered a Winged Snake.
+9/29/25 10:44:36p You slaughtered a Small Arachne.
+9/29/25 10:44:57p You slaughtered a Winged Snake.
+9/29/25 10:44:57p You slaughtered a Winged Snake.
+9/29/25 10:44:58p You slaughtered a Leech.
+9/29/25 10:44:58p You slaughtered a Herpetad.
+9/29/25 10:44:58p You slaughtered a Herpetad.
+9/29/25 10:44:58p You slaughtered a Leech.
+9/29/25 10:44:59p You slaughtered a Small Arachne.
+9/29/25 10:44:59p You slaughtered a Herpetad.
+9/29/25 10:45:07p You slaughtered a Herpetad.
+9/29/25 10:45:08p You find a brightly colored egg.
+9/29/25 10:45:10p You slaughtered a Bat.
+9/29/25 10:45:14p You slaughtered a Herpetad.
+9/29/25 10:45:15p You found a herpetid egg!
+9/29/25 10:45:15p You slaughtered a Herpetad.
+9/29/25 10:45:16p You slaughtered a Herpetad.
+9/29/25 10:45:18p You slaughtered a Herpetid.
+9/29/25 10:45:18p You mumble.
+9/29/25 10:45:18p You slaughtered a Herpetad.
+9/29/25 10:46:00p You slaughtered a Winged Snake.
+9/29/25 10:46:03p You slaughtered a Herpetad.
+9/29/25 10:46:04p You fall over in a heap.
+9/29/25 10:46:12p Dare is now Clanning.
+9/29/25 10:46:20p You slip your gossamer into your backpack.
+9/29/25 10:46:22p You feel able to move again.
+9/29/25 10:47:32p You have 6625 coins.
+9/29/25 10:47:35p * You are tossed by the advancing surf.
+9/29/25 10:47:35p * You are tossed by the advancing surf.
+9/29/25 10:47:48p Magnic says, "Hic."
+9/29/25 10:47:48p Nurina is no longer Clanning.
+9/29/25 10:48:32p * You activate your shieldstone.
+9/29/25 10:48:34p * You de-activate your shieldstone.
+9/29/25 10:48:49p Magnic says, "Hic."
+9/29/25 10:48:55p * You activate your shieldstone.
+9/29/25 10:50:01p * You activate your shieldstone.
+9/29/25 10:50:34p * You activate your shieldstone.
+9/29/25 10:50:35p You have 6625 coins.
+9/29/25 10:50:35p * You de-activate your shieldstone.
+9/29/25 10:50:46p You equip your gossamer.
+9/29/25 10:50:46p You slaughtered a Large Vermine.
+9/29/25 10:50:46p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+9/29/25 10:50:46p You slaughtered a Large Vermine.
+9/29/25 10:50:46p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+9/29/25 10:50:46p You slaughtered an Island Panther.
+9/29/25 10:50:46p * You recover the Island Panther fur, worth 3c. Your share is 3c.
+9/29/25 10:50:51p You slaughtered a Large Vermine.
+9/29/25 10:50:51p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+9/29/25 10:50:51p You slaughtered a Leech.
+9/29/25 10:50:51p You slaughtered a Large Vermine.
+9/29/25 10:50:52p You slaughtered a Large Vermine.
+9/29/25 10:50:52p * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+9/29/25 10:50:52p You slaughtered a Deadly Adder.
+9/29/25 10:50:53p You slaughtered an Island Panther.
+9/29/25 10:50:53p * You recover the Island Panther fur, worth 2c. Your share is 2c.
+9/29/25 10:50:56p You slaughtered a Rat.
+9/29/25 10:51:01p You slaughtered an Orga Warrior.
+9/29/25 10:51:01p You slaughtered an Artak Cougar.
+9/29/25 10:51:02p You slaughtered a Large Vermine.
+9/29/25 10:51:03p You slaughtered an Artak Cougar.
+9/29/25 10:51:03p * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+9/29/25 10:51:07p You slaughtered an Artak Cougar.
+9/29/25 10:51:07p * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+9/29/25 10:51:10p You slaughtered a Large Vermine.
+9/29/25 10:51:10p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+9/29/25 10:51:10p You slaughtered an Island Panther.
+9/29/25 10:51:11p You slaughtered a Vermine.
+9/29/25 10:51:11p You slaughtered a Rat.
+9/29/25 10:51:11p You slaughtered a Vermine.
+9/29/25 10:51:12p You slaughtered an Artak Cougar.
+9/29/25 10:51:16p You slaughtered a Large Vermine.
+9/29/25 10:51:17p You slaughtered an Island Panther.
+9/29/25 10:51:17p * You recover the Island Panther fur, worth 2c. Your share is 2c.
+9/29/25 10:51:19p You slaughtered an Artak Cougar.
+9/29/25 10:51:32p You slaughtered a Large Vermine.
+9/29/25 10:51:33p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+9/29/25 10:51:34p Dare is no longer Clanning.
+9/29/25 10:51:37p You slaughtered a Feral.
+9/29/25 10:51:37p * You recover the Feral fur, worth 3c. Your share is 3c.
+9/29/25 10:51:47p You slaughtered a Small Arachne.
+9/29/25 10:51:58p You slaughtered an Island Locust.
+9/29/25 10:52:02p You equip your heartwood charm.
+9/29/25 10:52:03p • You gather your energy.
+9/29/25 10:52:05p • You speed up.
+9/29/25 10:53:39p You have 6645 coins.
+9/29/25 10:54:00p Tsune is no longer Clanning.
+9/29/25 10:54:20p Raul is no longer Clanning.
+9/29/25 10:54:25p • You slow down to normal speed.
+9/29/25 10:54:26p You slip your heartwood charm into your backpack.
+9/29/25 10:54:30p You slaughtered a Rat.
+9/29/25 10:54:50p Nurina is now Clanning.
+9/29/25 10:56:47p You have 6645 coins.
+9/29/25 10:58:52p Nurina is no longer Clanning.
+9/29/25 10:59:49p You have 6645 coins.
+9/29/25 11:00:14p You slaughtered a Rat.
+9/29/25 11:00:16p You vault the wall.
+9/29/25 11:00:28p You slaughtered a Rat.
+9/29/25 11:00:33p You equip your heartwood charm.
+9/29/25 11:00:34p • You gather your energy.
+9/29/25 11:00:36p • You speed up.
+9/29/25 11:00:40p You just received anonymous good karma.
+9/29/25 11:00:40p Captain Barnac asks, "Ah, Magnic. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+9/29/25 11:00:41p Magnic whispers, "yes"
+9/29/25 11:01:07p You slaughtered an Adult Rockodile.
+9/29/25 11:01:10p You slaughtered an Adult Rockodile.
+9/29/25 11:01:11p • You slow down to normal speed.
+9/29/25 11:01:12p You slip your heartwood charm into your backpack.
+9/29/25 11:01:13p You slaughtered an Adult Rockodile.
+9/29/25 11:01:27p You slaughtered an Island Panther.
+9/29/25 11:01:27p * You recover the Island Panther fur, worth 5c. Your share is 5c.
+9/29/25 11:01:31p You slaughtered an Artak Cougar.
+9/29/25 11:01:31p * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+9/29/25 11:01:36p You slaughtered an Island Panther.
+9/29/25 11:01:42p You slaughtered an Island Panther.
+9/29/25 11:01:42p * You recover the Island Panther fur, worth 1c. Your share is 1c.
+9/29/25 11:01:43p You slaughtered an Artak Cougar.
+9/29/25 11:01:44p * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+9/29/25 11:01:44p You slaughtered an Island Panther.
+9/29/25 11:01:45p * You recover the Island Panther fur, worth 3c. Your share is 3c.
+9/29/25 11:01:47p You slaughtered an Island Panther.
+9/29/25 11:01:48p * You recover the Island Panther fur, worth 3c. Your share is 3c.
+9/29/25 11:01:48p You slaughtered a Grey Feral.
+9/29/25 11:01:48p * You recover the Grey Feral fur, worth 5c. Your share is 5c.
+9/29/25 11:01:55p You slaughtered an Artak Cougar.
+9/29/25 11:01:55p * For recovering the fur, you gain experience.
+9/29/25 11:01:55p * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+9/29/25 11:01:59p You slaughtered an Island Panther.
+9/29/25 11:01:59p You slaughtered an Artak Cougar.
+9/29/25 11:02:00p You slaughtered a Grey Feral.
+9/29/25 11:02:06p You slaughtered a Great Rockodile.
+9/29/25 11:02:06p You slaughtered an Adult Rockodile.
+9/29/25 11:02:20p You equip your heartwood charm.
+9/29/25 11:02:21p • You gather your energy.
+9/29/25 11:02:23p • You speed up.
+9/29/25 11:02:49p You slaughtered a Crawler.
+9/29/25 11:02:49p You slaughtered an Adult Rockodile.
+9/29/25 11:02:52p You slaughtered a Crawler.
+9/29/25 11:02:54p You slaughtered a Crawler.
+9/29/25 11:02:54p You have 6666 coins.
+9/29/25 11:02:57p You slaughtered a Crawler.
+9/29/25 11:03:01p You slaughtered an Adult Rockodile.
+9/29/25 11:03:05p You slaughtered a Great Rockodile.
+9/29/25 11:03:09p You slaughtered an Adult Rockodile.
+9/29/25 11:03:10p You slaughtered an Adult Rockodile.
+9/29/25 11:03:12p You slaughtered an Adult Rockodile.
+9/29/25 11:03:15p • You slow down to normal speed.
+9/29/25 11:03:15p You slip your heartwood charm into your backpack.
+9/29/25 11:03:16p You slaughtered an Adult Rockodile.
+9/29/25 11:03:24p You slaughtered a Rat.
+9/29/25 11:03:45p You slaughtered a Crawler.
+9/29/25 11:03:48p You slaughtered a Crawler.
+9/29/25 11:03:50p You slaughtered a Crawler.
+9/29/25 11:03:50p You slaughtered a Crawler.
+9/29/25 11:03:50p You slaughtered a Young Rockodile.
+9/29/25 11:03:53p You slaughtered a Crawler.
+9/29/25 11:03:58p You slaughtered an Adult Rockodile.
+9/29/25 11:03:59p You slaughtered an Adult Rockodile.
+9/29/25 11:04:00p You slaughtered an Adult Rockodile.
+9/29/25 11:04:01p You slaughtered a Crawler.
+9/29/25 11:04:04p You slaughtered a Rat.
+9/29/25 11:04:05p Cassia Lei asks, "Oh, hello, Magnic. Have you ever noticed what fine clay is in this streambed?"
+9/29/25 11:04:06p Cassia Lei digs in the muck at the bottom of the shallow stream.
+9/29/25 11:04:07p You slaughtered an Adult Rockodile.
+9/29/25 11:04:15p You slaughtered an Adult Rockodile.
+9/29/25 11:04:19p You equip your heartwood charm.
+9/29/25 11:04:19p • You gather your energy.
+9/29/25 11:04:20p You slaughtered an Adult Rockodile.
+9/29/25 11:04:21p • You speed up.
+9/29/25 11:04:27p You slaughtered a Grey Feral.
+9/29/25 11:04:27p * You recover the Grey Feral fur, worth 4c. Your share is 4c.
+9/29/25 11:04:27p You slip your heartwood charm into your backpack.
+9/29/25 11:04:27p • You slow down to normal speed.
+9/29/25 11:04:27p You slaughtered a Large Feral.
+9/29/25 11:04:29p You slaughtered an Island Panther.
+9/29/25 11:04:29p * You recover the Island Panther fur, worth 5c. Your share is 5c.
+9/29/25 11:04:34p You slaughtered an Artak Cougar.
+9/29/25 11:04:34p * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+9/29/25 11:04:41p You slaughtered a Grey Feral.
+9/29/25 11:04:55p You slaughtered an Adult Rockodile.
+9/29/25 11:04:56p You slaughtered an Adult Rockodile.
+9/29/25 11:04:57p You slaughtered an Adult Rockodile.
+9/29/25 11:05:00p You slaughtered an Adult Rockodile.
+9/29/25 11:05:09p You slaughtered a Great Rockodile.
+9/29/25 11:05:15p You slaughtered a Great Rockodile.
+9/29/25 11:05:18p You slaughtered an Adult Rockodile.
+9/29/25 11:05:21p You slaughtered a Great Rockodile.
+9/29/25 11:05:25p You slaughtered an Adult Rockodile.
+9/29/25 11:05:35p Nemo asks, "Ah, Magnic. My fine boats cost 20 copper pennies. Would you like to rent one now?"
+9/29/25 11:05:36p Magnic whispers, "yes"
+9/29/25 11:05:43p Captain Barnac asks, "Ah, Magnic. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+9/29/25 11:05:44p Magnic whispers, "yes"
+9/29/25 11:05:50p You equip your heartwood charm.
+9/29/25 11:05:50p • You gather your energy.
+9/29/25 11:05:53p • You speed up.
+9/29/25 11:05:55p You slaughtered a Crawler.
+9/29/25 11:05:58p You have 6651 coins.
+9/29/25 11:05:59p You slaughtered an Ebon Scorp.
+9/29/25 11:06:10p You slaughtered an Ebon Scorp.
+9/29/25 11:06:19p Nurina is now Clanning.
+9/29/25 11:06:27p Raul is now Clanning.
+9/29/25 11:06:27p You slaughtered a Rat.
+9/29/25 11:06:29p Tsune is now Clanning.
+9/29/25 11:06:32p You slaughtered an Ebon Scorp.
+9/29/25 11:06:34p You slaughtered an Ebon Scorp.
+9/29/25 11:07:39p Magnic skips across the rock.
+9/29/25 11:07:44p • You slow down to normal speed.
+9/29/25 11:07:44p You slip your heartwood charm into your backpack.
+9/29/25 11:07:45p You slaughtered a Vermine.
+9/29/25 11:07:46p You slaughtered a Young Rockodile.
+9/29/25 11:08:16p You equip your heartwood charm.
+9/29/25 11:08:16p • You gather your energy.
+9/29/25 11:08:19p • You speed up.
+9/29/25 11:09:14p You have 6651 coins.
+9/29/25 11:09:15p You slaughtered a Rat.
+9/29/25 11:09:19p You slaughtered an Orga.
+9/29/25 11:09:20p You slaughtered a Large Vermine.
+9/29/25 11:09:20p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+9/29/25 11:09:21p You slaughtered a Large Vermine.
+9/29/25 11:09:21p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+9/29/25 11:09:27p You slaughtered a Vermine.
+9/29/25 11:09:32p • You slow down to normal speed.
+9/29/25 11:09:33p You slip your heartwood charm into your backpack.
+9/29/25 11:09:59p You slaughtered a Young Rockodile.
+9/29/25 11:10:06p You slaughtered a Scavenger Bird.
+9/29/25 11:10:24p You slaughtered a Young Rockodile.
+9/29/25 11:10:48p You slaughtered a Sand Wurm.
+9/29/25 11:10:51p You slaughtered a Green Crawler.
+9/29/25 11:10:54p You slaughtered a Green Crawler.
+9/29/25 11:11:00p You equip your heartwood charm.
+9/29/25 11:11:00p • You gather your energy.
+9/29/25 11:11:03p • You speed up.
+9/29/25 11:11:17p • You slow down to normal speed.
+9/29/25 11:11:18p You slip your heartwood charm into your backpack.
+9/29/25 11:12:01p You equip your heartwood charm.
+9/29/25 11:12:02p • You gather your energy.
+9/29/25 11:12:04p • You speed up.
+9/29/25 11:12:05p You slaughtered a Sand Wurm.
+9/29/25 11:12:08p You slaughtered a Crawler.
+9/29/25 11:12:12p You slaughtered a Crawler.
+9/29/25 11:12:22p You slaughtered a Sand Wurm.
+9/29/25 11:12:22p You have 6653 coins.
+9/29/25 11:12:26p You slaughtered an Adult Rockodile.
+9/29/25 11:12:29p You slaughtered an Adult Rockodile.
+9/29/25 11:12:29p You slaughtered an Adult Rockodile.
+9/29/25 11:12:31p You slaughtered an Adult Rockodile.
+9/29/25 11:12:32p You slaughtered an Adult Rockodile.
+9/29/25 11:12:35p You slaughtered a Sand Wurm.
+9/29/25 11:12:44p You slaughtered a Sand Wurm.
+9/29/25 11:12:45p You slaughtered an Adult Rockodile.
+9/29/25 11:12:46p You slaughtered an Adult Rockodile.
+9/29/25 11:12:56p You slaughtered a Giant Crawler.
+9/29/25 11:13:03p Nurina is no longer Clanning.
+9/29/25 11:13:12p Bladebringer is now Clanning.
+9/29/25 11:13:14p You slaughtered a Sand Wurm.
+9/29/25 11:13:14p You slaughtered a Sand Wurm.
+9/29/25 11:13:20p You slaughtered a Crawler.
+9/29/25 11:13:31p • You slow down to normal speed.
+9/29/25 11:13:31p You slip your heartwood charm into your backpack.
+9/29/25 11:14:11p You equip your heartwood charm.
+9/29/25 11:14:11p • You gather your energy.
+9/29/25 11:14:13p • You speed up.
+9/29/25 11:14:22p You slaughtered an Orga.
+9/29/25 11:14:31p You slaughtered a Vermine.
+9/29/25 11:14:54p Nurina is now Clanning.
+9/29/25 11:15:27p • You slow down to normal speed.
+9/29/25 11:15:28p You slip your heartwood charm into your backpack.
+9/29/25 11:15:33p You have 6653 coins.
+9/29/25 11:15:43p Stumpy Lackluck says, "Arr, if I c'n sell enough o' these driftwood chests, mebbe I c'n bribe somebody fer passage home."
+9/29/25 11:15:43p Stumpy Lackluck asks, "Do ye want ta buy a chest fer 100 coins?"
+9/29/25 11:15:43p Stumpy Lackluck says, "Mebbe another time, then."
+9/29/25 11:15:47p Stubble looks around nervously.
+9/29/25 11:15:48p Stubble whispers, "Psst, Magnic!"
+9/29/25 11:15:48p Stubble asks, "Magnic, would you like to buy a hand axe for 100 coins?"
+9/29/25 11:15:51p Stubble looks around nervously.
+9/29/25 11:15:52p Stubble whispers, "Psst, Magnic!"
+9/29/25 11:15:52p Stubble asks, "Magnic, would you like to buy a hand axe for 100 coins?"
+9/29/25 11:15:55p Magnic says, "no"
+9/29/25 11:15:56p Stubble waits for a response.
+9/29/25 11:16:00p Magnic says, "no"
+9/29/25 11:16:16p * You are tossed by the advancing surf.
+9/29/25 11:16:16p * You are tossed by the advancing surf.
+9/29/25 11:16:18p Nurina is no longer Clanning.
+9/29/25 11:16:19p * You are tossed by the advancing surf.
+9/29/25 11:16:19p * You are tossed by the advancing surf.
+9/29/25 11:16:49p You equip your heartwood charm.
+9/29/25 11:16:49p • You gather your energy.
+9/29/25 11:16:52p • You speed up.
+9/29/25 11:17:07p • You slow down to normal speed.
+9/29/25 11:17:07p You slip your heartwood charm into your backpack.
+9/29/25 11:18:20p You equip your heartwood charm.
+9/29/25 11:18:20p • You gather your energy.
+9/29/25 11:18:23p • You speed up.
+9/29/25 11:18:36p You have 6653 coins.
+9/29/25 11:19:01p You slaughtered a Scavenger Bird.
+9/29/25 11:19:26p Garrod Fennel says, "Talkative Mystics have been known to be ejected from their guild."
+9/29/25 11:19:42p Balangar is now Clanning.
+9/29/25 11:19:52p Old Farmer says, "The rats don't bite me anymore . . . guess I taste bad."
+9/29/25 11:19:57p • You slow down to normal speed.
+9/29/25 11:19:57p You slip your heartwood charm into your backpack.
+9/29/25 11:19:58p You slaughtered a Young Rockodile.
+9/29/25 11:19:59p You slaughtered an Adult Rockodile.
+9/29/25 11:20:02p You slaughtered a Crawler.
+9/29/25 11:20:07p You slaughtered a Young Rockodile.
+9/29/25 11:20:25p You slaughtered an Artak Cougar.
+9/29/25 11:20:25p * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+9/29/25 11:20:26p You slaughtered a Young Rockodile.
+9/29/25 11:20:32p You slaughtered a Winged Snake.
+9/29/25 11:20:34p You slaughtered a Large Vermine.
+9/29/25 11:20:48p You slaughtered a Crawler.
+9/29/25 11:20:49p You slaughtered a Young Rockodile.
+9/29/25 11:20:51p You slaughtered a Crawler.
+9/29/25 11:20:51p You slaughtered a Scavenger Bird.
+9/29/25 11:20:54p You slaughtered a Crawler.
+9/29/25 11:20:55p You slaughtered a Crawler.
+9/29/25 11:20:56p You slaughtered a Crawler.
+9/29/25 11:20:56p You slaughtered a Crawler.
+9/29/25 11:21:18p You slaughtered an Adult Rockodile.
+9/29/25 11:21:19p You slaughtered an Adult Rockodile.
+9/29/25 11:21:20p You slaughtered an Adult Rockodile.
+9/29/25 11:21:39p You slaughtered a Crawler.
+9/29/25 11:21:40p You have 6655 coins.
+9/29/25 11:21:51p A piece of wood crumbles off the decrepit boat.
+9/29/25 11:22:02p Frire says, "Hello, Magnic; keep me in mind if you ever come across a chain."
+9/29/25 11:22:07p Balangar is no longer Clanning.
+9/29/25 11:22:08p Flachenn says, "Magnic! You must be here for one of our famous “crawler cracker” flails."
+9/29/25 11:22:08p Flachenn asks, "Magnic, would you like to buy a crawler cracker for 300 coins?"
+9/29/25 11:22:15p Flachenn says, "Magnic! You must be here for one of our famous “crawler cracker” flails."
+9/29/25 11:22:26p You slaughtered a Scavenger Bird.
+9/29/25 11:22:48p You slaughtered a Young Rockodile.
+9/29/25 11:22:49p You slaughtered a Young Rockodile.
+9/29/25 11:22:50p You slaughtered a Crawler.
+9/29/25 11:22:52p You slaughtered a Young Rockodile.
+9/29/25 11:22:53p You slaughtered a Young Rockodile.
+9/29/25 11:22:54p You slaughtered a Young Rockodile.
+9/29/25 11:23:12p You slaughtered a Rat.
+9/29/25 11:23:17p You slaughtered an Island Panther.
+9/29/25 11:23:17p * You recover the Island Panther fur, worth 1c. Your share is 1c.
+9/29/25 11:23:18p You slaughtered an Island Panther.
+9/29/25 11:23:18p You slaughtered an Artak Cougar.
+9/29/25 11:23:18p * You recover the Artak Cougar fur, worth 6c. Your share is 6c.
+9/29/25 11:23:19p You slaughtered an Island Panther.
+9/29/25 11:23:19p * You recover the Island Panther fur, worth 2c. Your share is 2c.
+9/29/25 11:23:20p You slaughtered a Young Rockodile.
+9/29/25 11:23:27p You slaughtered an Island Panther.
+9/29/25 11:23:27p * You recover the Island Panther fur, worth 4c. Your share is 4c.
+9/29/25 11:23:28p You slaughtered a Vermine.
+9/29/25 11:23:31p You slaughtered an Adult Rockodile.
+9/29/25 11:23:36p You slaughtered an Adult Rockodile.
+9/29/25 11:23:37p You slaughtered an Adult Rockodile.
+9/29/25 11:23:39p You slaughtered a Crawler.
+9/29/25 11:23:49p You slaughtered a Crawler.
+9/29/25 11:23:55p You slaughtered a Giant Vermine.
+9/29/25 11:23:57p You slaughtered a Vermine.
+9/29/25 11:23:58p You slaughtered an Island Panther.
+9/29/25 11:23:58p * You recover the Island Panther fur, worth 2c. Your share is 2c.
+9/29/25 11:24:03p You slaughtered a Large Vermine.
+9/29/25 11:24:04p You slaughtered an Island Panther.
+9/29/25 11:24:05p You slaughtered a Large Vermine.
+9/29/25 11:24:05p * You recover the Large Vermine fur, worth 3c. Your share is 3c.
+9/29/25 11:24:06p You slaughtered a Large Vermine.
+9/29/25 11:24:07p You slaughtered a Vermine.
+9/29/25 11:24:08p You slaughtered a Large Vermine.
+9/29/25 11:24:10p You slaughtered a Vermine.
+9/29/25 11:24:10p You slaughtered a Starbuck.
+9/29/25 11:24:11p * You recover the Starbuck fur, worth 1c. Your share is 1c.
+9/29/25 11:24:16p Brahtz is now Clanning.
+9/29/25 11:24:24p You slaughtered an Adult Rockodile.
+9/29/25 11:24:29p You slaughtered a Crawler.
+9/29/25 11:24:30p You slaughtered a Giant Crawler.
+9/29/25 11:24:31p You slaughtered a Giant Crawler.
+9/29/25 11:24:31p You slaughtered a Giant Crawler.
+9/29/25 11:24:31p You slaughtered a Sand Wurm.
+9/29/25 11:24:36p You slaughtered an Adult Rockodile.
+9/29/25 11:24:48p You have 6674 coins.
+9/29/25 11:25:03p You slaughtered an Adult Rockodile.
+9/29/25 11:25:16p You slaughtered a Sand Wurm.
+9/29/25 11:25:19p You slaughtered a Crawler.
+9/29/25 11:25:20p You slaughtered an Adult Rockodile.
+9/29/25 11:25:28p You slaughtered an Artak Cougar.
+9/29/25 11:25:30p You slaughtered a Bolok Cougar.
+9/29/25 11:25:30p * You recover the Bolok Cougar fur, worth 9c. Your share is 9c.
+9/29/25 11:25:33p You slaughtered an Artak Cougar.
+9/29/25 11:25:34p * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+9/29/25 11:25:39p You slaughtered an Artak Cougar.
+9/29/25 11:25:39p * For recovering the fur, you gain experience.
+9/29/25 11:25:39p * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+9/29/25 11:25:39p You slaughtered an Orc.
+9/29/25 11:25:40p You slaughtered an Island Panther.
+9/29/25 11:25:40p * You recover the Island Panther fur, worth 5c. Your share is 5c.
+9/29/25 11:25:46p You slaughtered an Island Panther.
+9/29/25 11:25:46p * You recover the Island Panther fur, worth 3c. Your share is 3c.
+9/29/25 11:25:48p You slaughtered an Orc.
+9/29/25 11:25:50p You slaughtered a Rat.
+9/29/25 11:25:54p You slaughtered a Ko'Kin.
+9/29/25 11:26:10p You slaughtered an Island Panther.
+9/29/25 11:26:10p * You recover the Island Panther fur, worth 3c. Your share is 3c.
+9/29/25 11:26:12p You slaughtered a Large Vermine.
+9/29/25 11:26:13p * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+9/29/25 11:26:21p You slaughtered an Island Panther.
+9/29/25 11:26:21p * For recovering the fur, you gain experience.
+9/29/25 11:26:21p * You recover the Island Panther fur, worth 2c. Your share is 2c.
+9/29/25 11:26:24p You slaughtered an Island Panther.
+9/29/25 11:26:24p * You recover the Island Panther fur, worth 4c. Your share is 4c.
+9/29/25 11:26:24p You slaughtered a Rat.
+9/29/25 11:26:30p You slaughtered a Crawler.
+9/29/25 11:26:40p You slaughtered a Rat.
+9/29/25 11:26:41p You slaughtered a Sand Wurm.
+9/29/25 11:26:52p You slaughtered a Giant Crawler.
+9/29/25 11:26:52p * You recover the Giant Crawler mandibles, worth 2c. Your share is 2c.
+9/29/25 11:27:16p Byoo-tee is now Clanning.
+9/29/25 11:27:20p You slaughtered a Crawler.
+9/29/25 11:27:20p You slaughtered an Adult Rockodile.
+9/29/25 11:27:24p You slaughtered a Giant Crawler.
+9/29/25 11:27:31p You slaughtered an Adult Rockodile.
+9/29/25 11:27:38p You slaughtered a Crawler.
+9/29/25 11:27:42p You slaughtered a Vermine.
+9/29/25 11:27:46p You slaughtered a Deadly Crawler.
+9/29/25 11:27:57p You have 6711 coins.
+9/29/25 11:28:04p You slaughtered a Giant Crawler.
+9/29/25 11:28:05p You slaughtered a Crawler.
+9/29/25 11:28:09p You slaughtered a Sand Wurm.
+9/29/25 11:28:16p You slaughtered a Sand Wurm.
+9/29/25 11:28:19p You slaughtered a Sand Wurm.
+9/29/25 11:28:27p You slaughtered a Crawler.
+9/29/25 11:28:27p You slaughtered a Crawler.
+9/29/25 11:28:31p You slaughtered an Adult Rockodile.
+9/29/25 11:28:31p You slaughtered an Adult Rockodile.
+9/29/25 11:28:32p You slaughtered an Adult Rockodile.
+9/29/25 11:28:36p You slaughtered an Adult Rockodile.
+9/29/25 11:28:37p You slaughtered a Sand Wurm.
+9/29/25 11:28:39p You slaughtered a Crawler.
+9/29/25 11:28:46p You slaughtered a Giant Crawler.
+9/29/25 11:28:46p * You recover the Giant Crawler mandibles, worth 1c. Your share is 1c.
+9/29/25 11:28:50p You slaughtered a Sand Wurm.
+9/29/25 11:28:52p You slaughtered a Giant Crawler.
+9/29/25 11:28:52p * You recover the Giant Crawler mandibles, worth 2c. Your share is 2c.
+9/29/25 11:29:00p You slaughtered an Adult Rockodile.
+9/29/25 11:29:01p You slaughtered an Adult Rockodile.
+9/29/25 11:29:02p You slaughtered an Adult Rockodile.
+9/29/25 11:29:04p You slaughtered a Sand Wurm.
+9/29/25 11:29:08p You slaughtered a Young Rockodile.
+9/29/25 11:29:16p You slaughtered a Sand Wurm.
+9/29/25 11:29:18p You slaughtered a Young Rockodile.
+9/29/25 11:29:31p You slaughtered an Adult Rockodile.
+9/29/25 11:29:33p You slaughtered a Young Rockodile.
+9/29/25 11:29:34p You slaughtered a Green Crawler.
+9/29/25 11:29:36p You slaughtered an Adult Rockodile.
+9/29/25 11:29:37p You slaughtered a Crawler.
+9/29/25 11:29:39p Fismac Lohn runs his fingers through the sand.
+9/29/25 11:29:39p Fismac Lohn exclaims, "Isn’t this mineral sand just amazing? Such a gleam it has, such a sparkle!"
+9/29/25 11:29:39p Fismac Lohn says, "With sand like this, a person could make absolutely beautiful glassware."
+9/29/25 11:29:45p You slaughtered a Crawler.
+9/29/25 11:29:49p You slaughtered a Large Sand Wurm.
+9/29/25 11:29:53p You slaughtered a Green Crawler.
+9/29/25 11:29:54p You slaughtered a Sand Wurm.
+9/29/25 11:29:55p You slaughtered a Young Rockodile.
+9/29/25 11:29:56p You slaughtered a Young Rockodile.
+9/29/25 11:29:58p You slaughtered a Crawler.
+9/29/25 11:29:59p You slaughtered an Adult Rockodile.
+9/29/25 11:30:03p Manquilor is now Clanning.
+9/29/25 11:30:04p You slaughtered an Adult Rockodile.
+9/29/25 11:30:07p You slaughtered a Giant Crawler.
+9/29/25 11:30:10p You slaughtered an Adult Rockodile.
+9/29/25 11:30:12p You slaughtered a Deadly Crawler.
+9/29/25 11:30:12p * You recover the Deadly Crawler mandibles, worth 3c. Your share is 3c.
+9/29/25 11:30:13p You slaughtered an Adult Rockodile.
+9/29/25 11:30:14p You slaughtered a Giant Crawler.
+9/29/25 11:30:15p You slaughtered a Sand Wurm.
+9/29/25 11:30:17p You slaughtered an Adult Rockodile.
+9/29/25 11:30:17p You slaughtered a Young Rockodile.
+9/29/25 11:30:17p You slaughtered a Crawler.
+9/29/25 11:30:27p You slaughtered a Young Rockodile.
+9/29/25 11:30:32p You slaughtered an Adult Rockodile.
+9/29/25 11:30:33p You slaughtered a Crawler.
+9/29/25 11:30:37p You slaughtered a Green Crawler.
+9/29/25 11:30:37p * For recovering the mandibles, you gain experience.
+9/29/25 11:30:37p * You recover the Green Crawler mandibles, worth 2c. Your share is 2c.
+9/29/25 11:30:38p You slaughtered a Sand Wurm.
+9/29/25 11:30:40p You slaughtered an Adult Rockodile.
+9/29/25 11:30:42p You slaughtered a Starbuck.
+9/29/25 11:30:44p You slaughtered an Adult Rockodile.
+9/29/25 11:30:48p You slaughtered a Giant Crawler.
+9/29/25 11:31:00p You slaughtered a Deadly Crawler.
+9/29/25 11:31:00p * You recover the Deadly Crawler mandibles, worth 1c. Your share is 1c.
+9/29/25 11:31:01p You slaughtered an Adult Rockodile.
+9/29/25 11:31:01p You have 6720 coins.
+9/29/25 11:31:04p You slaughtered a Giant Crawler.
+9/29/25 11:31:04p You slaughtered an Adult Rockodile.
+9/29/25 11:31:10p You slaughtered a Giant Crawler.
+9/29/25 11:31:11p You slaughtered a Plains Maha Ruknee.
+9/29/25 11:31:13p You slaughtered a Starbuck.
+9/29/25 11:31:13p * You recover the Starbuck fur, worth 1c. Your share is 1c.
+9/29/25 11:31:21p You slaughtered a Deadly Crawler.
+9/29/25 11:31:22p You slaughtered a Crawler.
+9/29/25 11:31:24p You slaughtered an Adult Rockodile.
+9/29/25 11:31:25p You slaughtered a Young Rockodile.
+9/29/25 11:31:25p You slaughtered a Large Sand Wurm.
+9/29/25 11:31:29p You slaughtered a Crawler.
+9/29/25 11:31:31p You slaughtered a Deadly Crawler.
+9/29/25 11:31:47p You slaughtered a Crawler.
+9/29/25 11:31:48p You slaughtered a Giant Crawler.
+9/29/25 11:31:50p You slaughtered an Adult Rockodile.
+9/29/25 11:31:51p You slaughtered a Sand Wurm.
+9/29/25 11:31:51p You slaughtered a Giant Crawler.
+9/29/25 11:31:54p You slaughtered a Giant Crawler.
+9/29/25 11:32:02p You slaughtered a Giant Crawler.
+9/29/25 11:32:02p * You recover the Giant Crawler mandibles, worth 1c. Your share is 1c.
+9/29/25 11:32:08p You slaughtered a Young Rockodile.
+9/29/25 11:32:24p You slaughtered a Deadly Crawler.
+9/29/25 11:32:31p You slaughtered a Deadly Crawler.
+9/29/25 11:32:31p * You recover the Deadly Crawler mandibles, worth 1c. Your share is 1c.
+9/29/25 11:32:58p You slaughtered a Crawler.
+9/29/25 11:33:15p Kensington is now Clanning.
+9/29/25 11:33:15p You equip your heartwood charm.
+9/29/25 11:33:16p • You gather your energy.
+9/29/25 11:33:18p • You speed up.
+9/29/25 11:34:04p You have 6723 coins.
+9/29/25 11:34:10p You slaughtered a Giant Crawler.
+9/29/25 11:34:10p * For recovering the mandibles, you gain experience.
+9/29/25 11:34:10p * You recover the Giant Crawler mandibles, worth 1c. Your share is 1c.
+9/29/25 11:34:21p You slaughtered a Rat.
+9/29/25 11:34:24p You slaughtered a Giant Crawler.
+9/29/25 11:34:24p * You recover the Giant Crawler mandibles, worth 1c. Your share is 1c.
+9/29/25 11:35:05p You slaughtered a Rat.
+9/29/25 11:35:09p You slaughtered a Deadly Adder.
+9/29/25 11:35:11p • You slow down to normal speed.
+9/29/25 11:35:11p You slip your heartwood charm into your backpack.
+9/29/25 11:35:12p You slaughtered a Plains Maha Ruknee.
+9/29/25 11:35:12p * You recover the Plains Maha Ruknee fur, worth 6c. Your share is 6c.
+9/29/25 11:35:16p You slaughtered a Savannah Maha.
+9/29/25 11:35:17p * You recover the Savannah Maha fur, worth 5c. Your share is 5c.
+9/29/25 11:35:20p You slaughtered a Plains Maha Ruknee.
+9/29/25 11:35:20p You slaughtered a Savannah Maha.
+9/29/25 11:35:20p * You recover the Savannah Maha fur, worth 5c. Your share is 5c.
+9/29/25 11:35:29p You slaughtered a Plains Maha Ruknee.
+9/29/25 11:35:41p You slaughtered an Island Panther.
+9/29/25 11:35:41p * For recovering the fur, you gain experience.
+9/29/25 11:35:41p * You recover the Island Panther fur, worth 1c. Your share is 1c.
+9/29/25 11:35:41p You slaughtered a T'rool.
+9/29/25 11:35:41p * You recover the T'rool blood, worth 2c. Your share is 2c.
+9/29/25 11:35:46p You slaughtered an Orga.
+9/29/25 11:35:50p You slaughtered an Artak Cougar.
+9/29/25 11:35:51p You slaughtered an Artak Cougar.
+9/29/25 11:35:51p * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+9/29/25 11:36:10p •You assume the shape of a Giant Carnivorous Plankton.
+9/29/25 11:36:10p You equip your heartwood charm.
+9/29/25 11:36:11p • You gather your energy.
+9/29/25 11:36:13p • You speed up.
+9/29/25 11:36:29p • You slow down to normal speed.
+9/29/25 11:36:30p • You return to your normal form.
+9/29/25 11:36:30p You slip your heartwood charm into your backpack.
+9/29/25 11:36:37p You slaughtered a Scavenger Bird.
+9/29/25 11:36:42p You begin sharing your experiences with Squib.
+9/29/25 11:36:46p Squib is sharing experiences with you.
+9/29/25 11:36:47p Magnic says, "squib heal me"
+9/29/25 11:36:48p •You sense healing energy from Squib.
+9/29/25 11:37:10p You have 6747 coins.
+9/29/25 11:37:37p You equip your heartwood charm.
+9/29/25 11:37:38p • You gather your energy.
+9/29/25 11:37:40p Sentinel yells, "The Emperor is a river to his people."
+9/29/25 11:37:40p Eirian Caldwell is no longer Clanning.
+9/29/25 11:37:40p • You speed up.
+9/29/25 11:37:44p Hermodr is now Clanning.
+9/29/25 11:37:51p You vault the wall.
+9/29/25 11:38:05p You slaughtered a Vermine.
+9/29/25 11:38:07p You slaughtered an Ona Chigger.
+9/29/25 11:38:21p You slaughtered a Scavenger Bird.
+9/29/25 11:38:31p You slaughtered a Scavenger Bird.
+9/29/25 11:39:03p • You slow down to normal speed.
+9/29/25 11:39:03p You slaughtered a Scavenger Bird.
+9/29/25 11:39:03p You slaughtered a Rat.
+9/29/25 11:39:03p You slip your heartwood charm into your backpack.
+9/29/25 11:39:05p You slaughtered a Scavenger Bird.
+9/29/25 11:39:08p You slaughtered a Scavenger Bird.
+9/29/25 11:39:45p You slaughtered a Myrm Farmer.
+9/29/25 11:39:47p • You fell off a ledge!
+9/29/25 11:40:16p You have 6747 coins.
+9/29/25 11:40:27p You equip your heartwood charm.
+9/29/25 11:40:28p • You gather your energy.
+9/29/25 11:40:30p • You speed up.
+9/29/25 11:40:56p You slaughtered a Large Vermine.
+9/29/25 11:40:56p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+9/29/25 11:41:07p Garrod Fennel says, "Talkative Mystics have been known to be ejected from their guild."
+9/29/25 11:41:19p Ghed'rakh asks, "Nothing beats the thrill of the Hunt, don’t you ag

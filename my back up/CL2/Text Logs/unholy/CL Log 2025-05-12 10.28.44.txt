@@ -1,0 +1,103 @@
+
+5/12/25 10:28:45a * Your healer's cloak is in very good condition.
+5/12/25 10:28:45a Welcome to Clan Lord, Unholy!
+5/12/25 10:28:45a Type \HELP for a list of commands.
+5/12/25 10:28:45a • You have been charged 41 coins for advanced studies.
+5/12/25 10:28:45a • You gain experience from your recent studies.
+5/12/25 10:28:45a *Healer Mode
+5/12/25 10:28:45a *Type /hi help for more info
+5/12/25 10:28:45a The healing spell has started.
+5/12/25 10:28:45a You have been studying for one day, 8 hours, 54 minutes.
+5/12/25 10:28:48a It's 12:52pm on Terrdi, day 21 of Summer, 641.
+5/12/25 10:28:49a There are two members of Black Phoenix clanning: Omega Phoenix and you.
+5/12/25 10:28:49a • What’s New: https://deltatao.com/clanlord/news
+5/12/25 10:28:51a Friends online: none.
+5/12/25 10:28:59a * Tip of the day: Friends listed in the “*global*” file in your Friends folder apply to all your characters. (Use /OPTIONS to turn tips off.)
+5/12/25 10:29:03a Lady Houseowner says, "Greetings, Unholy."
+5/12/25 10:29:03a Lady Houseowner says, "This Clan House will be available for lease at midnight tonight. The duration of the lease will be 90 days."
+5/12/25 10:29:04a Lady Houseowner asks, "The current bid is 1072 c, from Hunter. What would you like to bid on behalf of Black Phoenix?"
+5/12/25 10:29:09a Unholy says, "1073"
+5/12/25 10:29:09a Lady Houseowner says, "Greetings, Unholy."
+5/12/25 10:29:09a Lady Houseowner says, "This Clan House will be available for lease at midnight tonight. The duration of the lease will be 90 days."
+5/12/25 10:29:10a Lady Houseowner asks, "The current bid is 1072 c, from Hunter. What would you like to bid on behalf of Black Phoenix?"
+5/12/25 10:29:13a Unholy says, "1073"
+5/12/25 10:29:13a Lady Houseowner says, "I'm sorry, but you can't bid what you don't have."
+5/12/25 10:29:14a Lady Houseowner says, "Greetings, Unholy."
+5/12/25 10:29:14a Lady Houseowner says, "This Clan House will be available for lease at midnight tonight. The duration of the lease will be 90 days."
+5/12/25 10:29:18a •The healing spell has been broken.
+5/12/25 10:29:24a You have 463 coins.
+5/12/25 10:29:36a Captain Barnac asks, "Ah, Unholy. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+5/12/25 10:29:36a Unholy whispers, "yes"
+5/12/25 10:30:23a \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+5/12/25 10:30:23a * Healing Zippo 
+5/12/25 10:30:28a Zippo is sharing experiences with you.
+5/12/25 10:30:30a Zippo says, "Thankyou"
+5/12/25 10:30:34a Athl exclaims, "Thankyou !"
+5/12/25 10:30:44a * Healer Item set to caduceus 
+5/12/25 10:30:47a * Auto Healer ON!
+5/12/25 10:30:55a Unholy says, "c heal athl"
+5/12/25 10:30:55a * Auto Healing athl" 
+5/12/25 10:31:07a Unholy says, "use that command ill afk here"
+5/12/25 10:31:09a Athl is sharing experiences with you.
+5/12/25 10:31:15a Athl says, "I need that macro"
+5/12/25 10:31:20a Athl says, "Thanks whoever you are"
+5/12/25 10:31:37a Unholy says, "https://pastebin.com/0wyM76M5"
+5/12/25 10:31:58a You have 458 coins.
+5/12/25 10:32:12a Athl says, "Cheers"
+5/12/25 10:32:23a Athl says, "I lost all my macros"
+5/12/25 10:32:40a Athl asks, "Is there one for the usual things? Pulling, chaining, and some yells?"
+5/12/25 10:33:45a * Zippo recovers the Valley Panther fur, worth 52c. Your share is 17c.
+5/12/25 10:33:56a * Athl recovers the Haremau Kitten fur, worth 7c. Your share is 2c.
+5/12/25 10:35:17a You have 477 coins.
+5/12/25 10:36:31a * Athl recovers the Island Mantis mandibles, worth 4c. Your share is 1c.
+5/12/25 10:36:55a Athl says, "c heal athl"
+5/12/25 10:36:55a * Auto Healing athl" 
+5/12/25 10:38:34a You have 478 coins.
+5/12/25 10:38:52a Zippo says, "c heal zip"
+5/12/25 10:38:52a * Auto Healing zip" 
+5/12/25 10:41:13a Zippo says, "died n w"
+5/12/25 10:41:52a You have 478 coins.
+5/12/25 10:42:25a A Co'Acha chews on Zippo's wounds.
+5/12/25 10:42:32a A Co'Acha nibbles Zippo's flesh.
+5/12/25 10:42:46a A Co'Acha feasts upon Zippo's entrails.
+5/12/25 10:43:01a Magnic says, "c heal zip"
+5/12/25 10:43:01a * Auto Healing zip" 
+5/12/25 10:43:02a •Zippo was too wounded to be healed easily.
+5/12/25 10:43:06a •Zippo was too wounded to be healed easily.
+5/12/25 10:43:23a •You do not have enough spiritual energy.
+5/12/25 10:43:30a Zippo says, "nw athl"
+5/12/25 10:43:32a Magnic says, "c heal zip"
+5/12/25 10:43:32a * Auto Healing zip" 
+5/12/25 10:43:42a Magnic asks, "n then w?"
+5/12/25 10:43:45a Zippo says, "yea"
+5/12/25 10:43:48a Magnic says, "or jus nw"
+5/12/25 10:43:50a Magnic says, "ah"
+5/12/25 10:43:52a Zippo says, "north then west"
+5/12/25 10:45:13a Athl says, "c heal athl"
+5/12/25 10:45:14a * Auto Healing athl" 
+5/12/25 10:45:14a •Athl’s injuries are significantly more serious than you can heal.
+5/12/25 10:45:16a You have 478 coins.
+5/12/25 10:45:21a •Athl’s injuries are significantly more serious than you can heal.
+5/12/25 10:45:26a Magnic says, "tc it is"
+5/12/25 10:45:28a •Athl’s injuries are a little more serious than you can heal.
+5/12/25 10:45:28a Athl says, "c heal athl"
+5/12/25 10:45:28a * Auto Healing athl" 
+5/12/25 10:45:34a •Athl’s injuries are a little more serious than you can heal.
+5/12/25 10:45:35a Athl says, "fml"
+5/12/25 10:45:41a •Athl’s injuries are significantly more serious than you can heal.
+5/12/25 10:45:42a •The player must be in the same area.
+5/12/25 10:48:34a Bashak thinks, "I feel like I'm late for something... or early?"
+5/12/25 10:48:54a You have 478 coins.
+5/12/25 10:48:57a Omega thinks, "yep"
+5/12/25 10:49:00a * Healing Zippo 
+5/12/25 10:49:00a Shadowfire thinks, "Prince Hashuko, there's always time for tea"
+5/12/25 10:50:24a You just received good karma from Athl.
+5/12/25 10:51:21a Zippo says, "c heal zipp"
+5/12/25 10:51:21a * Auto Healing zipp" 
+5/12/25 10:52:13a You have 478 coins.
+5/12/25 10:55:31a You have 478 coins.
+5/12/25 10:56:12a D'Ead thinks, "in"
+5/12/25 10:56:24a * Healing Zippo 
+5/12/25 10:56:38a •You must specify a player in the game.
+5/12/25 10:56:38a Unholy ponders, "i can not find this person"
+5/12/25 10:57:23a •The healing spell has been broken.

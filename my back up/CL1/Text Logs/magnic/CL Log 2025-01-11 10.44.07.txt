@@ -1,0 +1,1599 @@
+
+1/11/25 10:44:07a * Your shirt named “Lime Green” is in very good condition.
+1/11/25 10:44:07a * Your pair of pants named “Lime Green” is in very good condition.
+1/11/25 10:44:07a * Your pair of shoes named “red” is in very good condition.
+1/11/25 10:44:07a Welcome to Clan Lord, Magnic!
+1/11/25 10:44:07a Type \HELP for a list of commands.
+1/11/25 10:44:07a • You have been charged 61 coins for advanced studies.
+1/11/25 10:44:07a • You gain experience from your recent studies.
+1/11/25 10:44:07a Type /ranger for commands if you forget
+1/11/25 10:44:07a Magnic is now Clanning.
+1/11/25 10:44:07a You have been studying for 2 days, 17 minutes.
+1/11/25 10:44:10a It's 1:55pm on Fordi, day 66 of Winter, 640.
+1/11/25 10:44:11a You are the only member of Black Phoenix clanning.
+1/11/25 10:44:11a • What’s New: https://deltatao.com/clanlord/news
+1/11/25 10:44:14a Friends online: none.
+1/11/25 10:44:17a (Valadorei nods)
+1/11/25 10:44:19a \SELL <price> <buyer> will offer the item selected in your Inventory window for sale.
+1/11/25 10:44:22a \SELL <price> <buyer> will offer the item selected in your Inventory window for sale.
+1/11/25 10:44:22a * Tip of the day: Open the Text Window from the Options menu to read a log of everything you’ve seen. (Use /OPTIONS to turn tips off.)
+1/11/25 10:44:27a • MACRO Syntax Error
+if <value> <comparison> <value>
+1/11/25 10:44:27a • MACRO if 1/11/25 10:44:22a * Tip of the day: Open the Text Window from the Options menu to read a log of everything you’ve seen. (Use /OPTIONS to turn tips off.) >= You are already sharing with  Squib  
+1/11/25 10:44:27a You begin sharing your experiences with Squib.
+1/11/25 10:44:27a • MACRO Syntax Error
+if <value> <comparison> <value>
+1/11/25 10:44:27a • MACRO if 1/11/25 10:44:27a You begin sharing your experiences with Squib. >= You are already sharing with  Squib  
+1/11/25 10:44:28a You are already sharing with Squib.
+1/11/25 10:44:28a • MACRO Syntax Error
+if <value> <comparison> <value>
+1/11/25 10:44:28a • MACRO if 1/11/25 10:44:28a You are already sharing with Squib. >= You are already sharing with  Squib  
+1/11/25 10:44:28a You are already sharing with Squib.
+1/11/25 10:44:28a • MACRO Syntax Error
+if <value> <comparison> <value>
+1/11/25 10:44:28a • MACRO if 1/11/25 10:44:28a You are already sharing with Squib. >= You are already sharing with  Squib  
+1/11/25 10:44:28a You are already sharing with Squib.
+1/11/25 10:44:29a • MACRO Syntax Error
+if <value> <comparison> <value>
+1/11/25 10:44:29a • MACRO if 1/11/25 10:44:28a You are already sharing with Squib. >= You are already sharing with  Squib  
+1/11/25 10:44:29a You are already sharing with Squib.
+1/11/25 10:44:29a • MACRO Syntax Error
+if <value> <comparison> <value>
+1/11/25 10:44:29a • MACRO if 1/11/25 10:44:29a You are already sharing with Squib. >= You are already sharing with  Squib  
+1/11/25 10:44:29a You are already sharing with Squib.
+1/11/25 10:44:29a • MACRO Syntax Error
+if <value> <comparison> <value>
+1/11/25 10:44:29a • MACRO if 1/11/25 10:44:29a You are already sharing with Squib. >= You are already sharing with  Squib  
+1/11/25 10:44:30a You are already sharing with Squib.
+1/11/25 10:44:30a • MACRO Syntax Error
+if <value> <comparison> <value>
+1/11/25 10:44:30a • MACRO if 1/11/25 10:44:30a You are already sharing with Squib. >= You are already sharing with  Squib  
+1/11/25 10:44:30a You are already sharing with Squib.
+1/11/25 10:44:30a • MACRO Syntax Error
+if <value> <comparison> <value>
+1/11/25 10:44:30a • MACRO if 1/11/25 10:44:30a You are already sharing with Squib. >= You are already sharing with  Squib  
+1/11/25 10:44:30a You are already sharing with Squib.
+1/11/25 10:44:31a • MACRO Syntax Error
+if <value> <comparison> <value>
+1/11/25 10:44:31a • MACRO if 1/11/25 10:44:30a You are already sharing with Squib. >= You are already sharing with  Squib  
+1/11/25 10:44:31a You are already sharing with Squib.
+1/11/25 10:44:31a Squib is sharing experiences with you.
+1/11/25 10:44:31a Law'n St'ple ponders, "ZZZzzzz..."
+1/11/25 10:44:31a • MACRO Syntax Error
+if <value> <comparison> <value>
+1/11/25 10:44:31a • MACRO if 1/11/25 10:44:31a Law'n St'ple ponders, "ZZZzzzz..." >= You are already sharing with  Squib  
+1/11/25 10:44:31a You are already sharing with Squib.
+1/11/25 10:44:31a Type /ranger for commands if you forget
+1/11/25 10:44:33a Valadorei says, "I wonder if I can open very close..."
+1/11/25 10:44:52a Malakar is now Clanning.
+1/11/25 10:45:03a Shakyamuni is now Clanning.
+1/11/25 10:45:07a (Malakar waves)
+1/11/25 10:45:14a Kalian says, "hey"
+1/11/25 10:45:21a Azzurra is now Clanning.
+1/11/25 10:45:23a Crius yells, "It’s 2 o’clock, and all’s well."
+1/11/25 10:45:28a Crius yells, "It looks pretty quiet at the Southern River Delta."
+1/11/25 10:45:29a (Shakyamuni waves)
+1/11/25 10:45:31a Type /ranger for commands if you forget
+1/11/25 10:45:36a You are already sharing with Squib.
+1/11/25 10:45:37a You are already sharing with Squib.
+1/11/25 10:45:37a You are no longer sharing experiences with Squib.
+1/11/25 10:45:38a You are still too mentally fatigued to change spirit links.
+1/11/25 10:45:38a You are not sharing experiences with Squib.
+1/11/25 10:45:38a You are still too mentally fatigued to change spirit links.
+1/11/25 10:45:46a You begin sharing your experiences with Squib.
+1/11/25 10:45:46a You are already sharing with Squib.
+1/11/25 10:45:47a You are already sharing with Squib.
+1/11/25 10:45:47a You are already sharing with Squib.
+1/11/25 10:45:48a You are still too mentally fatigued to change spirit links.
+1/11/25 10:45:48a You are already sharing with Squib.
+1/11/25 10:45:48a You are still too mentally fatigued to change spirit links.
+1/11/25 10:45:49a You are already sharing with Squib.
+1/11/25 10:45:49a (Azzurra waves)
+1/11/25 10:46:15a Type /ranger for commands if you forget
+1/11/25 10:46:16a Magnic says, "pasue3/share Squib"
+1/11/25 10:46:17a Magnic says, "pasue3/share Squib"
+1/11/25 10:46:17a Magnic says, "pasue3/share Squib"
+1/11/25 10:46:18a Magnic says, "pasue3/share Squib"
+1/11/25 10:46:18a Magnic says, "pasue3/share Squib"
+1/11/25 10:46:18a Magnic says, "pasue3/share Squib"
+1/11/25 10:46:18a (Squib's eyes light up hopefully)
+1/11/25 10:46:19a Magnic says, "pasue3/share Squib"
+1/11/25 10:46:19a Magnic says, "pasue3/share Squib"
+1/11/25 10:46:20a Magnic says, "pasue3/share Squib"
+1/11/25 10:46:20a Magnic says, "pasue3/share Squib"
+1/11/25 10:46:20a Magnic says, "pasue3/share Squib"
+1/11/25 10:46:21a Magnic says, "pasue3/share Squib"
+1/11/25 10:46:21a (Squib's eyes light up hopefully)
+1/11/25 10:46:21a Magnic says, "pasue3/share Squib"
+1/11/25 10:46:21a Type /ranger for commands if you forget
+1/11/25 10:46:22a Magnic says, "pasue3/share Squib"
+1/11/25 10:46:22a Magnic says, "pasue3/share Squib"
+1/11/25 10:46:22a Magnic says, "pasue3/share Squib"
+1/11/25 10:46:23a Magnic says, "pasue3/share Squib"
+1/11/25 10:46:23a Magnic says, "pasue3/share Squib"
+1/11/25 10:46:23a (Squib's eyes light up hopefully)
+1/11/25 10:46:24a Magnic says, "pasue3/share Squib"
+1/11/25 10:46:24a (Squib's eyes light up hopefully)
+1/11/25 10:46:24a Magnic says, "pasue3/share Squib"
+1/11/25 10:46:24a Magnic says, "pasue3/share Squib"
+1/11/25 10:46:25a Magnic says, "pasue3/share Squib"
+1/11/25 10:46:25a (Squib's eyes light up hopefully)
+1/11/25 10:46:25a Magnic says, "pasue3/share Squib"
+1/11/25 10:46:26a Magnic says, "pasue3/share Squib"
+1/11/25 10:46:26a (Squib's eyes light up hopefully)
+1/11/25 10:46:26a Magnic says, "pasue3/share Squib"
+1/11/25 10:46:26a Magnic says, "pasue3/share Squib"
+1/11/25 10:46:27a • /SLEEP when you wish to begin studying.
+1/11/25 10:46:51a Type /ranger for commands if you forget
+1/11/25 10:46:58a You are already sharing with Squib.
+1/11/25 10:46:59a You are already sharing with Squib.
+1/11/25 10:46:59a You are no longer sharing experiences with Squib.
+1/11/25 10:47:00a You are still too mentally fatigued to change spirit links.
+1/11/25 10:47:00a You are still too mentally fatigued to change spirit links.
+1/11/25 10:47:15a Type /ranger for commands if you forget
+1/11/25 10:47:18a You begin sharing your experiences with Squib.
+1/11/25 10:47:19a You are already sharing with Squib.
+1/11/25 10:47:21a You are already sharing with Squib.
+1/11/25 10:47:21a You are no longer sharing experiences with Squib.
+1/11/25 10:47:22a You are still too mentally fatigued to change spirit links.
+1/11/25 10:47:22a You are still too mentally fatigued to change spirit links.
+1/11/25 10:47:43a Law'n St'ple ponders, "ZZZzzzz..."
+1/11/25 10:48:15a Koppi yells, "Cat Food reports: a hot dog is a taco, so therfore Hashak likes hot dogs."
+1/11/25 10:48:18a William Purser is now Clanning.
+1/11/25 10:48:27a Type /ranger for commands if you forget
+1/11/25 10:48:29a William Purser is no longer Clanning.
+1/11/25 10:48:30a You begin sharing your experiences with Squib.
+1/11/25 10:48:31a You are already sharing with Squib.
+1/11/25 10:48:33a You are already sharing with Squib.
+1/11/25 10:48:33a You are no longer sharing experiences with Squib.
+1/11/25 10:48:34a You are still too mentally fatigued to change spirit links.
+1/11/25 10:48:34a You are still too mentally fatigued to change spirit links.
+1/11/25 10:48:35a Niblet is now Clanning.
+1/11/25 10:48:45a Kalian is no longer Clanning.
+1/11/25 10:49:00a Type /ranger for commands if you forget
+1/11/25 10:49:01a You begin sharing your experiences with Squib.
+1/11/25 10:49:02a You are already sharing with Squib.
+1/11/25 10:49:02a You are already sharing with Squib.
+1/11/25 10:49:16a You are already sharing with Squib.
+1/11/25 10:49:17a You are no longer sharing experiences with Squib.
+1/11/25 10:49:17a You are still too mentally fatigued to change spirit links.
+1/11/25 10:49:17a Niblet is no longer Clanning.
+1/11/25 10:49:18a You are still too mentally fatigued to change spirit links.
+1/11/25 10:49:30a Type /ranger for commands if you forget
+1/11/25 10:49:32a You begin sharing your experiences with Squib.
+1/11/25 10:49:33a You are already sharing with Squib.
+1/11/25 10:49:34a You are still too mentally fatigued to change spirit links.
+1/11/25 10:49:34a You are already sharing with Squib.
+1/11/25 10:50:09a You are already sharing with Squib.
+1/11/25 10:50:10a You are no longer sharing experiences with Squib.
+1/11/25 10:50:10a You are still too mentally fatigued to change spirit links.
+1/11/25 10:50:11a You are still too mentally fatigued to change spirit links.
+1/11/25 10:50:23a Arc is no longer Clanning.
+1/11/25 10:50:55a Type /ranger for commands if you forget
+1/11/25 10:50:57a You begin sharing your experiences with Squib.
+1/11/25 10:50:58a Azzurra exclaims, "ah Gib!"
+1/11/25 10:51:01a You are already sharing with Squib.
+1/11/25 10:51:02a You are no longer sharing experiences with Squib.
+1/11/25 10:51:02a You are still too mentally fatigued to change spirit links.
+1/11/25 10:51:06a Giben says, "hiya Azz"
+1/11/25 10:51:11a (Azzurra eyes Giben fancy shirt)
+1/11/25 10:51:18a * You feel mentally enhanced by Azzurra...
+1/11/25 10:51:24a Kahn St'ple says, "Greetings, Lady Arlana."
+1/11/25 10:51:37a Sentinel yells, "All subjects love and obey the Emperor."
+1/11/25 10:51:51a You begin sharing your experiences with Squib.
+1/11/25 10:51:55a You are already sharing with Squib.
+1/11/25 10:51:56a You are no longer sharing experiences with Squib.
+1/11/25 10:51:56a You are still too mentally fatigued to change spirit links.
+1/11/25 10:52:02a Azzurra exclaims, "I am going to be right back! Maybe ill find some trouble for us!"
+1/11/25 10:52:29a You begin sharing your experiences with Squib.
+1/11/25 10:52:31a Malakar says, "no"
+1/11/25 10:52:33a You are already sharing with Squib.
+1/11/25 10:52:33a You are no longer sharing experiences with Squib.
+1/11/25 10:52:34a You are still too mentally fatigued to change spirit links.
+1/11/25 10:52:40a * Your mental enhancement fades.
+1/11/25 10:52:42a * Your mental enhancement fades.
+1/11/25 10:53:00a Samantabadra is now Clanning.
+1/11/25 10:53:17a Law'n St'ple ponders, "ZZZzzzz..."
+1/11/25 10:53:26a Koppi yells, "Cat Food reports: https://www.wikihow.com/Cube-Rule-of-Food hotdogs are tacos"
+1/11/25 10:53:30a You begin sharing your experiences with Squib.
+1/11/25 10:53:34a You are already sharing with Squib.
+1/11/25 10:53:35a You are no longer sharing experiences with Squib.
+1/11/25 10:53:35a You are still too mentally fatigued to change spirit links.
+1/11/25 10:54:14a Law'n St'ple ponders, "ZZZzzzz..."
+1/11/25 10:54:41a Glory thinks, "Congratulations go out to Samantabadra, who has just passed the fifth circle healer test."
+1/11/25 10:55:00a Type /ranger for commands if you forget
+1/11/25 10:55:04a Magnic thinks, "congratz"
+1/11/25 10:55:06a You begin sharing your experiences with Squib.
+1/11/25 10:55:10a You are already sharing with Squib.
+1/11/25 10:55:11a You are no longer sharing experiences with Squib.
+1/11/25 10:55:11a You are still too mentally fatigued to change spirit links.
+1/11/25 10:55:23a Zhank is now Clanning.
+1/11/25 10:55:39a Azzurra says, "okay, think we could be fine on our own..."
+1/11/25 10:55:43a Azzurra asks, "You are very strong yes?"
+1/11/25 10:55:51a Giben says, "i think so"
+1/11/25 10:55:56a Giben asks, "what you need?"
+1/11/25 10:56:05a Zhank is no longer Clanning.
+1/11/25 10:56:08a Azzurra says, "its in NF, takes a little PF"
+1/11/25 10:56:10a Sif is now Clanning.
+1/11/25 10:56:37a Silky is no longer Clanning.
+1/11/25 10:56:48a Sif is no longer Clanning.
+1/11/25 10:56:52a Azzurra asks, "okay I have the map up! You ready?"
+1/11/25 10:56:59a Miser is no longer Clanning.
+1/11/25 10:56:59a Amethyste is no longer Clanning.
+1/11/25 10:57:04a Type /ranger for commands if you forget
+1/11/25 10:57:06a You begin sharing your experiences with Squib.
+1/11/25 10:57:06a You are already sharing with Squib.
+1/11/25 10:57:06a You are already sharing with Squib.
+1/11/25 10:57:08a Squib exclaims, "Magnic is the best!"
+1/11/25 10:57:09a Shakyamuni ponders, "brb"
+1/11/25 10:57:36a Nug is now Clanning.
+1/11/25 10:57:44a Law'n St'ple ponders, "ZZZzzzz..."
+1/11/25 10:57:58a Type /ranger for commands if you forget
+1/11/25 10:58:00a You are already sharing with Squib.
+1/11/25 10:58:00a You are already sharing with Squib.
+1/11/25 10:58:01a You are no longer sharing experiences with Squib.
+1/11/25 10:58:01a You are still too mentally fatigued to change spirit links.
+1/11/25 10:58:17a Cecil is now Clanning.
+1/11/25 10:58:20a Type /ranger for commands if you forget
+1/11/25 10:58:21a You begin sharing your experiences with Squib.
+1/11/25 10:58:22a You are already sharing with Squib.
+1/11/25 10:58:22a You are already sharing with Squib.
+1/11/25 10:58:37a Koppi yells, "Hrothgrim reports: Mountain crew wanted! Lookin' ta finish Wasp morph! Pay is... whatever we find!"
+1/11/25 10:58:41a Cecil says, "evenin"
+1/11/25 10:58:48a (Malakar waves)
+1/11/25 10:59:01a Suu'ub III is now Clanning.
+1/11/25 10:59:06a Cecil asks, "t\whi I found a mirror shard today, you need any stiill?"
+1/11/25 10:59:09a Cecil says, "oops"
+1/11/25 10:59:11a Cecil says, "heh"
+1/11/25 10:59:23a Malakar says, "If you don't want it"
+1/11/25 10:59:27a Malakar says, "but I got some now"
+1/11/25 10:59:43a Malakar exclaims, "Thanks!"
+1/11/25 10:59:46a Type /ranger for commands if you forget
+1/11/25 10:59:47a You are already sharing with Squib.
+1/11/25 11:00:01a Crius yells, "It’s 3 o’clock, and all’s well."
+1/11/25 11:00:02a Shadrock is now Clanning.
+1/11/25 11:00:06a Crius yells, "It looks pretty quiet at the Southern River Delta."
+1/11/25 11:00:19a Shadrock is no longer Clanning.
+1/11/25 11:00:45a Sullin is now Clanning.
+1/11/25 11:00:45a Shobaffum is no longer Clanning.
+1/11/25 11:00:53a Jiro is no longer Clanning.
+1/11/25 11:00:55a Shakyamuni says, "Howdy Papa Suuuu"
+1/11/25 11:01:01a Suu'ub III says, "hey hey"
+1/11/25 11:01:18a Fafnir is now Clanning.
+1/11/25 11:01:28a You are already sharing with Squib.
+1/11/25 11:01:36a Fafnir says, "yo"
+1/11/25 11:01:41a Type /ranger for commands if you forget
+1/11/25 11:01:42a Shakyamuni says, "HOwdy Faffers"
+1/11/25 11:01:44a You are already sharing with Squib.
+1/11/25 11:01:44a You are already sharing with Squib.
+1/11/25 11:01:44a You are no longer sharing experiences with Squib.
+1/11/25 11:01:45a You are still too mentally fatigued to change spirit links.
+1/11/25 11:01:53a Law'n St'ple ponders, "ZZZzzzz..."
+1/11/25 11:02:22a You begin sharing your experiences with Squib.
+1/11/25 11:02:23a You are already sharing with Squib.
+1/11/25 11:02:23a You are already sharing with Squib.
+1/11/25 11:02:24a Azzurra says, "squib heal me"
+1/11/25 11:02:26a Azzurra exclaims, "oh!"
+1/11/25 11:02:28a You are already sharing with Squib.
+1/11/25 11:02:28a You are already sharing with Squib.
+1/11/25 11:02:29a You are no longer sharing experiences with Squib.
+1/11/25 11:02:29a You are still too mentally fatigued to change spirit links.
+1/11/25 11:02:37a Shadowmutt scratches at the ground briefly.
+1/11/25 11:02:37a Misha is no longer Clanning.
+1/11/25 11:02:37a Azzurra says, "well"
+1/11/25 11:02:43a Wolf Master is no longer Clanning.
+1/11/25 11:02:46a Azzurra asks, "do we try again?"
+1/11/25 11:02:50a Giben says, "sure"
+1/11/25 11:03:00a Azzurra says, "hmm we could look for a healer too"
+1/11/25 11:03:06a Alieshia says, "taddaaa"
+1/11/25 11:03:11a Azzurra says, "hehehe"
+1/11/25 11:03:18a You begin sharing your experiences with Squib.
+1/11/25 11:03:18a You are already sharing with Squib.
+1/11/25 11:03:19a You are already sharing with Squib.
+1/11/25 11:03:21a Giben asks, "ali want to join on a quick trip to NF?"
+1/11/25 11:03:22a You are already sharing with Squib.
+1/11/25 11:03:23a You are already sharing with Squib.
+1/11/25 11:03:23a You are no longer sharing experiences with Squib.
+1/11/25 11:03:23a You are still too mentally fatigued to change spirit links.
+1/11/25 11:03:24a Alieshia says, "sure"
+1/11/25 11:03:28a Azzurra exclaims, "thank you!"
+1/11/25 11:03:33a Shobaffum is now Clanning.
+1/11/25 11:03:34a You begin sharing your experiences with Squib.
+1/11/25 11:03:34a You are already sharing with Squib.
+1/11/25 11:03:34a You are already sharing with Squib.
+1/11/25 11:03:35a Samantabadra is no longer Clanning.
+1/11/25 11:03:37a You are already sharing with Squib.
+1/11/25 11:03:37a You are already sharing with Squib.
+1/11/25 11:03:38a You are no longer sharing experiences with Squib.
+1/11/25 11:03:38a You are still too mentally fatigued to change spirit links.
+1/11/25 11:03:40a Samantabadra is now Clanning.
+1/11/25 11:03:43a You begin sharing your experiences with Squib.
+1/11/25 11:03:43a You are already sharing with Squib.
+1/11/25 11:03:44a You are already sharing with Squib.
+1/11/25 11:03:48a Koppi yells, "Cat Food reports: a hot dog is a taco, so therfore Hashak likes hot dogs."
+1/11/25 11:04:16a Law'n St'ple ponders, "ZZZzzzz..."
+1/11/25 11:04:43a Alee is now Clanning.
+1/11/25 11:04:54a You are already sharing with Squib.
+1/11/25 11:04:55a You are already sharing with Squib.
+1/11/25 11:04:55a You are no longer sharing experiences with Squib.
+1/11/25 11:04:55a You are still too mentally fatigued to change spirit links.
+1/11/25 11:05:26a Type /ranger for commands if you forget
+1/11/25 11:05:27a 'name"' is not in the lands.
+1/11/25 11:05:28a Magnic says, ""/share Squib"
+1/11/25 11:05:28a You begin sharing your experiences with Squib.
+1/11/25 11:05:30a (Squib's eyes light up hopefully)
+1/11/25 11:05:46a Katreesa is now Clanning.
+1/11/25 11:05:51a Type /ranger for commands if you forget
+1/11/25 11:05:52a You are already sharing with Squib.
+1/11/25 11:05:53a You are already sharing with Squib.
+1/11/25 11:05:53a You are no longer sharing experiences with Squib.
+1/11/25 11:05:54a You are still too mentally fatigued to change spirit links.
+1/11/25 11:05:56a You are still too mentally fatigued to change spirit links.
+1/11/25 11:05:56a You are still too mentally fatigued to change spirit links.
+1/11/25 11:05:56a You begin sharing your experiences with Squib.
+1/11/25 11:05:58a You are already sharing with Squib.
+1/11/25 11:05:59a You are already sharing with Squib.
+1/11/25 11:05:59a You are still too mentally fatigued to change spirit links.
+1/11/25 11:05:59a You are already sharing with Squib.
+1/11/25 11:06:01a You are no longer sharing experiences with Squib.
+1/11/25 11:06:02a You are not sharing experiences with Squib.
+1/11/25 11:06:02a You are still too mentally fatigued to change spirit links.
+1/11/25 11:06:02a You are still too mentally fatigued to change spirit links.
+1/11/25 11:06:04a You are still too mentally fatigued to change spirit links.
+1/11/25 11:06:04a You begin sharing your experiences with Squib.
+1/11/25 11:06:05a You are already sharing with Squib.
+1/11/25 11:06:06a You are still too mentally fatigued to change spirit links.
+1/11/25 11:06:07a You are still too mentally fatigued to change spirit links.
+1/11/25 11:06:07a You are already sharing with Squib.
+1/11/25 11:06:07a You are already sharing with Squib.
+1/11/25 11:06:33a Gorvin is now Clanning.
+1/11/25 11:07:05a Type /ranger for commands if you forget
+1/11/25 11:07:06a You are already sharing with Squib.
+1/11/25 11:07:07a You are already sharing with Squib.
+1/11/25 11:07:07a You are no longer sharing experiences with Squib.
+1/11/25 11:07:07a You are still too mentally fatigued to change spirit links.
+1/11/25 11:07:09a You are still too mentally fatigued to change spirit links.
+1/11/25 11:07:10a You are still too mentally fatigued to change spirit links.
+1/11/25 11:07:10a You begin sharing your experiences with Squib.
+1/11/25 11:07:16a Shadowmutt sniffs the air.
+1/11/25 11:07:54a Tara is now Clanning.
+1/11/25 11:08:17a Galadriel is now Clanning.
+1/11/25 11:08:59a Koppi yells, "Hashak reports: A hot dog is like a taco the same way a meatballs are like brussel sprouts"
+1/11/25 11:09:53a Arlana is no longer Clanning.
+1/11/25 11:10:23a You equip your heartwood charm.
+1/11/25 11:10:24a • You gather your energy.
+1/11/25 11:10:26a • You speed up.
+1/11/25 11:10:28a •You assume the shape of a Giant Carnivorous Plankton.
+1/11/25 11:10:35a You vault the wall.
+1/11/25 11:11:04a • You return to your normal form.
+1/11/25 11:11:04a You slip your heartwood charm into your backpack.
+1/11/25 11:11:04a • You slow down to normal speed.
+1/11/25 11:11:07a You slaughtered a Vermine.
+1/11/25 11:11:12a You slaughtered a Giant Vermine.
+1/11/25 11:11:12a * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:11:14a You slaughtered a Giant Vermine.
+1/11/25 11:11:15a * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+1/11/25 11:11:15a You slaughtered a Giant Vermine.
+1/11/25 11:11:15a * You recover the Giant Vermine fur, worth 3c. Your share is 3c.
+1/11/25 11:11:16a You slaughtered a Vermine.
+1/11/25 11:11:16a You slaughtered a Feral.
+1/11/25 11:11:17a * You recover the Feral fur, worth 1c. Your share is 1c.
+1/11/25 11:11:20a You slaughtered a Vermine.
+1/11/25 11:11:21a You slaughtered a Giant Vermine.
+1/11/25 11:11:21a * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+1/11/25 11:11:24a You slaughtered a Giant Vermine.
+1/11/25 11:11:24a * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:11:25a You slaughtered a Large Vermine.
+1/11/25 11:11:25a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:11:25a You slaughtered a Grey Feral.
+1/11/25 11:11:26a * You recover the Grey Feral fur, worth 3c. Your share is 3c.
+1/11/25 11:11:28a You slaughtered a Large Feral.
+1/11/25 11:11:28a * You recover the Large Feral fur, worth 2c. Your share is 2c.
+1/11/25 11:11:28a You slaughtered a Vermine.
+1/11/25 11:11:30a You slaughtered a Giant Vermine.
+1/11/25 11:11:30a You slaughtered a Vermine.
+1/11/25 11:11:31a You slaughtered a Vermine.
+1/11/25 11:11:31a You slaughtered a Winged Snake.
+1/11/25 11:11:37a You slaughtered an Orga.
+1/11/25 11:11:40a You slaughtered a Vermine.
+1/11/25 11:11:41a You slaughtered a Vermine.
+1/11/25 11:11:48a You slaughtered a Large Vermine.
+1/11/25 11:11:48a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/11/25 11:11:53a Azzurra asks, "this is muddy NF?"
+1/11/25 11:11:54a You slaughtered a Rat.
+1/11/25 11:11:54a You slaughtered a Vermine.
+1/11/25 11:11:54a You slaughtered a Vermine.
+1/11/25 11:11:58a Giben says, "yes"
+1/11/25 11:11:59a Magnic says, "yes"
+1/11/25 11:12:01a You slaughtered a Large Vermine.
+1/11/25 11:12:01a Azzurra says, "oh good"
+1/11/25 11:12:01a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:12:04a You slaughtered a Rat.
+1/11/25 11:12:05a You slaughtered a Giant Vermine.
+1/11/25 11:12:05a * You recover the Giant Vermine fur, worth 3c. Your share is 3c.
+1/11/25 11:12:10a You slaughtered a Large Vermine.
+1/11/25 11:12:10a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:12:12a You slaughtered a Brown Feral.
+1/11/25 11:12:12a * You recover the Brown Feral fur, worth 1c. Your share is 1c.
+1/11/25 11:12:13a You slaughtered a Giant Vermine.
+1/11/25 11:12:13a * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+1/11/25 11:12:14a You slaughtered a Large Vermine.
+1/11/25 11:12:15a You slaughtered a Large Feral.
+1/11/25 11:12:15a * You recover the Large Feral fur, worth 4c. Your share is 4c.
+1/11/25 11:12:15a You slaughtered a Feral.
+1/11/25 11:12:18a You slaughtered a Rat.
+1/11/25 11:12:21a You slaughtered a Feral.
+1/11/25 11:12:21a * For recovering the fur, you gain experience.
+1/11/25 11:12:21a * You recover the Feral fur, worth 3c. Your share is 3c.
+1/11/25 11:12:21a You slaughtered an Orga.
+1/11/25 11:12:23a You slaughtered a Large Vermine.
+1/11/25 11:12:23a You slaughtered a Large Vermine.
+1/11/25 11:12:23a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:12:23a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:12:30a You slaughtered a Vermine.
+1/11/25 11:12:31a You slaughtered a Rat.
+1/11/25 11:12:32a Azzurra is sharing experiences with you.
+1/11/25 11:12:33a You slaughtered a Rat.
+1/11/25 11:12:35a You slaughtered a Vermine.
+1/11/25 11:12:37a You slaughtered a Rat.
+1/11/25 11:12:39a You slaughtered a Large Vermine.
+1/11/25 11:12:39a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:12:44a You slaughtered a Brown Feral.
+1/11/25 11:12:44a * You recover the Brown Feral fur, worth 1c. Your share is 1c.
+1/11/25 11:12:45a You slaughtered a Large Vermine.
+1/11/25 11:12:50a You slaughtered a Large Vermine.
+1/11/25 11:12:50a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:12:52a Azzurra says, "well hmm"
+1/11/25 11:12:53a You slaughtered an Orga.
+1/11/25 11:12:57a Fafnir is no longer Clanning.
+1/11/25 11:13:04a Gustave is now Clanning.
+1/11/25 11:13:04a Magnic says, "rose ->"
+1/11/25 11:13:14a You slaughtered a Brown Feral.
+1/11/25 11:13:14a * You recover the Brown Feral fur, worth 1c. Your share is 1c.
+1/11/25 11:13:18a Alieshia yells, "*"
+1/11/25 11:13:23a You slaughtered a Large Vermine.
+1/11/25 11:13:23a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:13:26a Shakyamuni is no longer Clanning.
+1/11/25 11:13:26a Samantabadra is no longer Clanning.
+1/11/25 11:13:28a Shadowfire is now Clanning.
+1/11/25 11:13:28a Shakyamuni is now Clanning.
+1/11/25 11:13:30a You slaughtered a Grey Feral.
+1/11/25 11:13:30a * You recover the Grey Feral fur, worth 2c. Your share is 2c.
+1/11/25 11:13:32a Samantabadra is now Clanning.
+1/11/25 11:13:33a Magnic yells, "?"
+1/11/25 11:13:34a You slaughtered a Large Vermine.
+1/11/25 11:13:43a Cheng Ch'i gestures in a secret language.
+1/11/25 11:13:47a Azzurra gestures.
+1/11/25 11:13:48a Cheng Ch'i gestures in a secret language.
+1/11/25 11:13:52a Magnic says, "this isnt what your looking for"
+1/11/25 11:13:55a Giben is sharing experiences with you.
+1/11/25 11:13:57a Magnic says, ":P"
+1/11/25 11:14:02a Azzurra gestures.
+1/11/25 11:14:06a Alieshia says, "this is a mystic thing"
+1/11/25 11:14:08a You begin sharing your experiences with Alieshia.
+1/11/25 11:14:08a You are sharing experiences with Alieshia and Squib.
+1/11/25 11:14:08a You are already sharing with Alieshia.
+1/11/25 11:14:08a You are sharing experiences with Alieshia and Squib.
+1/11/25 11:14:09a You are already sharing with Alieshia.
+1/11/25 11:14:09a You are sharing experiences with Alieshia and Squib.
+1/11/25 11:14:10a You are still too mentally fatigued to change spirit links.
+1/11/25 11:14:10a You are still too mentally fatigued to change spirit links.
+1/11/25 11:14:11a You are still too mentally fatigued to change spirit links.
+1/11/25 11:14:11a Azzurra says, "my apologies"
+1/11/25 11:14:11a You begin sharing your experiences with Azzurra.
+1/11/25 11:14:11a You are sharing experiences with Azzurra, Alieshia and Squib.
+1/11/25 11:14:12a You are already sharing with Azzurra.
+1/11/25 11:14:12a You are sharing experiences with Azzurra, Alieshia and Squib.
+1/11/25 11:14:12a You are already sharing with Azzurra.
+1/11/25 11:14:12a You are sharing experiences with Azzurra, Alieshia and Squib.
+1/11/25 11:14:14a You are still too mentally fatigued to change spirit links.
+1/11/25 11:14:14a You are still too mentally fatigued to change spirit links.
+1/11/25 11:14:15a You begin sharing your experiences with Giben.
+1/11/25 11:14:15a You are sharing experiences with Giben, Azzurra, Alieshia and Squib.
+1/11/25 11:14:15a You are already sharing with Giben.
+1/11/25 11:14:15a You are sharing experiences with Giben, Azzurra, Alieshia and Squib.
+1/11/25 11:14:16a You are already sharing with Giben.
+1/11/25 11:14:16a You are sharing experiences with Giben, Azzurra, Alieshia and Squib.
+1/11/25 11:14:16a You are already sharing with Giben.
+1/11/25 11:14:16a You are sharing experiences with Giben, Azzurra, Alieshia and Squib.
+1/11/25 11:14:24a Azzurra says, "It is! I am recording the messages of the thieves"
+1/11/25 11:14:29a Magnic says, "ah"
+1/11/25 11:14:33a Alieshia says, "ooh"
+1/11/25 11:14:49a Azzurra ponders, "but also hunting for puzzles, not a priority though"
+1/11/25 11:14:56a Samantabadra is no longer Clanning.
+1/11/25 11:14:56a Magnic asks, "have you gotten the 3 in the well of the passes to the east?"
+1/11/25 11:14:58a Kwan'Yin is now Clanning.
+1/11/25 11:15:06a Magnic ponders, "might be more i forget"
+1/11/25 11:15:20a Lazoom thinks, "Help us with a lighthouse. Best prices given for your construction materials!"
+1/11/25 11:15:24a Magnic says, "and the one in noids"
+1/11/25 11:15:30a Azzurra says, "That is a good question, i think so... Im not always the best at writing down their locations"
+1/11/25 11:15:37a Shakyamuni is no longer Clanning.
+1/11/25 11:15:41a Hrothgrim is no longer Clanning.
+1/11/25 11:15:41a The Wanderer is no longer Clanning.
+1/11/25 11:15:42a Shad Krem'lin is no longer Clanning.
+1/11/25 11:15:43a Jack Ironsmith is no longer Clanning.
+1/11/25 11:15:43a Dantalion is no longer Clanning.
+1/11/25 11:15:46a Azzurra says, "This is not a mystic secret, as many speak the tongue outside of the guild"
+1/11/25 11:15:59a Azzurra says, "But they seem to have knowledge of how to manipulate the sentinels"
+1/11/25 11:16:06a Azzurra says, "I would like to continue that work"
+1/11/25 11:16:11a Magnic says, "kinda"
+1/11/25 11:16:16a Niblet is now Clanning.
+1/11/25 11:16:19a Niblet is no longer Clanning.
+1/11/25 11:16:29a Helja is now Clanning.
+1/11/25 11:16:30a Magnic says, "what about the one in the riverways to the ne"
+1/11/25 11:16:32a Suu'ub III thinks, "was Vala with us? she fall into GI accidentally or something?"
+1/11/25 11:16:40a Azzurra ponders, "It has to be a part of the game kinda forgotten, Dande and I are comparing notes"
+1/11/25 11:16:50a Shadowfire thinks, "She was at least as far as the boats xD"
+1/11/25 11:17:01a Azzurra says, "I havent been that far! I typically just find who I can on moseys"
+1/11/25 11:17:22a Magnic says, "oh there are a few easy ones"
+1/11/25 11:17:27a (Azzurra nods)
+1/11/25 11:17:30a D'Ead is now Clanning.
+1/11/25 11:17:40a Magnic says, "i can show you some"
+1/11/25 11:18:03a Magnic asks, "you got the trool village one?"
+1/11/25 11:18:03a Azzurra says, "That would be great! Any on the way back? I do need to make dinner soon"
+1/11/25 11:18:11a Magnic says, "yes"
+1/11/25 11:18:11a Azzurra exclaims, "Ah yes I did!"
+1/11/25 11:18:13a Magnic says, "kinda"
+1/11/25 11:18:25a You slaughtered a Large Vermine.
+1/11/25 11:18:28a You slaughtered a Feral.
+1/11/25 11:18:39a You slaughtered a Large Vermine.
+1/11/25 11:18:39a * You recover the Large Vermine fur, worth 1c.
+1/11/25 11:18:43a * Giben recovers the Giant Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:18:44a * Azzurra recovers the Giant Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:18:50a You slaughtered a Giant Vermine.
+1/11/25 11:18:50a * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:18:54a You slaughtered a Feral.
+1/11/25 11:18:54a * Giben recovers the Feral fur, worth 2c. Your share is 1c.
+1/11/25 11:19:01a You slaughtered a Giant Vermine.
+1/11/25 11:19:17a You slaughtered an Island Panther.
+1/11/25 11:19:18a You helped slaughter a T'rool.
+1/11/25 11:19:19a * You recover the T'rool blood, worth 2c.
+1/11/25 11:19:20a You slaughtered a Vermine.
+1/11/25 11:19:26a You slaughtered a Vermine.
+1/11/25 11:19:30a * You recover the Island Panther fur, worth 2c.
+1/11/25 11:19:32a You slaughtered an Island Panther.
+1/11/25 11:19:39a You slaughtered a Bolok Cougar.
+1/11/25 11:19:39a * You recover the Bolok Cougar fur, worth 1c. Your share is 1c.
+1/11/25 11:19:42a You slaughtered an Artak Cougar.
+1/11/25 11:19:42a * You recover the Artak Cougar fur, worth 5c. Your share is 1c.
+1/11/25 11:19:43a You slaughtered a Vermine.
+1/11/25 11:19:47a You slaughtered a Giant Vermine.
+1/11/25 11:19:47a * You recover the Giant Vermine fur, worth 1c.
+1/11/25 11:19:48a You slaughtered an Island Panther.
+1/11/25 11:19:48a * You recover the Island Panther fur, worth 4c. Your share is 1c.
+1/11/25 11:19:49a You slaughtered an Artak Cougar.
+1/11/25 11:19:49a * You recover the Artak Cougar fur, worth 2c.
+1/11/25 11:19:53a * You recover the Island Panther fur, worth 4c. Your share is 1c.
+1/11/25 11:19:54a * Azzurra recovers the Giant Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:19:55a * You recover the Giant Vermine fur, worth 3c. Your share is 1c.
+1/11/25 11:19:56a * You recover the Island Panther fur, worth 1c.
+1/11/25 11:19:57a You slaughtered an Island Panther.
+1/11/25 11:19:57a * You recover the Island Panther fur, worth 2c.
+1/11/25 11:19:58a You slaughtered an Island Panther.
+1/11/25 11:20:00a * You recover the Artak Cougar fur, worth 5c. Your share is 1c.
+1/11/25 11:20:01a You slaughtered a Vermine.
+1/11/25 11:20:01a You slaughtered an Artak Cougar.
+1/11/25 11:20:01a * You recover the Artak Cougar fur, worth 7c. Your share is 1c.
+1/11/25 11:20:03a You slaughtered a Large Vermine.
+1/11/25 11:20:03a * Giben recovers the Large Vermine fur, worth 2c. Your share is 1c.
+1/11/25 11:20:03a * Azzurra recovers the Island Panther fur, worth 2c. Your share is 1c.
+1/11/25 11:20:04a * Azzurra recovers the Island Panther fur, worth 2c. Your share is 1c.
+1/11/25 11:20:05a You slaughtered a Vermine.
+1/11/25 11:20:06a You slaughtered an Island Panther.
+1/11/25 11:20:11a You slaughtered a Feral.
+1/11/25 11:20:11a * Azzurra recovers the Feral fur, worth 1c. Your share is 1c.
+1/11/25 11:20:26a You slaughtered an Island Panther.
+1/11/25 11:20:26a * You recover the Island Panther fur, worth 3c. Your share is 1c.
+1/11/25 11:20:34a You slaughtered an Artak Cougar.
+1/11/25 11:20:34a * You recover the Artak Cougar fur, worth 5c. Your share is 1c.
+1/11/25 11:20:34a You slaughtered an Island Panther.
+1/11/25 11:20:34a * Giben recovers the Island Panther fur, worth 2c. Your share is 1c.
+1/11/25 11:20:37a You slaughtered an Island Panther.
+1/11/25 11:20:40a • You fell off a ledge!
+1/11/25 11:20:47a You slaughtered a Scavenger Bird.
+1/11/25 11:20:50a You slaughtered a Myrm Farmer.
+1/11/25 11:21:04a You slaughtered a Myrm Farmer.
+1/11/25 11:21:12a You slaughtered a Myrm Farmer.
+1/11/25 11:21:21a Shi Xianggu gestures in a secret language.
+1/11/25 11:21:41a You slaughtered a Myrm Protector.
+1/11/25 11:21:48a Azzurra says, "small coining adventure"
+1/11/25 11:21:54a Magnic says, "heh"
+1/11/25 11:21:54a Azzurra says, ":)"
+1/11/25 11:22:02a Magnic says, "i didnt mean to go nwf"
+1/11/25 11:22:05a Magnic says, "i forgot"
+1/11/25 11:22:11a Azzurra asks, "rockodiles?"
+1/11/25 11:22:13a Cecil thinks, "s"
+1/11/25 11:22:33a Magnic yells, "!"
+1/11/25 11:22:43a You slaughtered a Young Rockodile.
+1/11/25 11:22:48a You slaughtered a Large Vermine.
+1/11/25 11:22:48a * You recover the Large Vermine fur, worth 2c.
+1/11/25 11:22:51a You slaughtered a Young Rockodile.
+1/11/25 11:22:51a You slaughtered a Large Vermine.
+1/11/25 11:22:52a * Giben recovers the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:22:54a Azzurra yells, "your little legs move fast"
+1/11/25 11:22:57a You slaughtered a Young Rockodile.
+1/11/25 11:23:09a You slaughtered a Large Vermine.
+1/11/25 11:23:09a * You recover the Large Vermine fur, worth 2c.
+1/11/25 11:23:18a You slaughtered a Large Vermine.
+1/11/25 11:23:18a * You recover the Large Vermine fur, worth 1c.
+1/11/25 11:23:20a * You recover the Large Vermine fur, worth 3c. Your share is 1c.
+1/11/25 11:23:21a Alieshia yells, "*"
+1/11/25 11:23:39a Magnic says, "i for get how to get to the river"
+1/11/25 11:23:41a * You recover the Giant Vermine fur, worth 1c.
+1/11/25 11:23:42a You slaughtered a Young Rockodile.
+1/11/25 11:23:46a Azzurra exclaims, "ah thats okay!"
+1/11/25 11:23:49a You slaughtered a Young Rockodile.
+1/11/25 11:23:49a You slaughtered a Crawler.
+1/11/25 11:23:52a You slaughtered a Young Rockodile.
+1/11/25 11:24:02a You slaughtered a Giant Vermine.
+1/11/25 11:24:02a * Azzurra recovers the Giant Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:24:05a You slaughtered a Crawler.
+1/11/25 11:24:06a You slaughtered a Rat.
+1/11/25 11:24:20a You slaughtered a Young Rockodile.
+1/11/25 11:24:21a You slaughtered a Young Rockodile.
+1/11/25 11:24:23a You slaughtered a Young Rockodile.
+1/11/25 11:24:35a Ravenstorm is now Clanning.
+1/11/25 11:24:45a You slaughtered a Young Rockodile.
+1/11/25 11:24:49a Verdu Hemd says, "I'm sorry, Azzurra, a grass-stained green shirt costs 100c."
+1/11/25 11:24:59a You slaughtered an Orga.
+1/11/25 11:25:03a You slaughtered a Giant Slug.
+1/11/25 11:25:06a You slaughtered an Island Locust.
+1/11/25 11:25:07a You slaughtered a Rat.
+1/11/25 11:25:19a Azzurra exclaims, "well thank you all!"
+1/11/25 11:25:30a Azzurra vaults the wall.
+1/11/25 11:25:51a Azzurra says, "I will try to be back for mosey tonight"
+1/11/25 11:26:01a Magnic says, "ok"
+1/11/25 11:26:06a Giben says, "ok. cya l8r"
+1/11/25 11:26:16a Azzurra is no longer Clanning.
+1/11/25 11:28:13a You are no longer sharing experiences with Squib.
+1/11/25 11:28:13a You are sharing experiences with Giben and Alieshia.
+1/11/25 11:29:24a Crius yells, "It’s 5 o’clock, and all’s well."
+1/11/25 11:29:29a Crius yells, "It looks like we’re doing well in a mine on Gho-Wei Island."
+1/11/25 11:29:42a Koppi yells, "Cat Food reports: https://www.wikihow.com/Cube-Rule-of-Food hotdogs are tacos"
+1/11/25 11:30:34a Shadowmutt sniffs the air.
+1/11/25 11:30:46a Shadowmutt growls, "Grrr."
+1/11/25 11:31:01a (Alieshia blinked as she has finally returned to reality)
+1/11/25 11:31:12a Type /ranger for commands if you forget
+1/11/25 11:31:14a Alieshia says, "what i miss"
+1/11/25 11:31:15a You begin sharing your experiences with Squib.
+1/11/25 11:31:15a You are sharing experiences with Squib, Giben and Alieshia.
+1/11/25 11:31:17a Squib exclaims, "Magnic is the best!"
+1/11/25 11:31:17a You are still too mentally fatigued to change spirit links.
+1/11/25 11:31:21a You are no longer sharing experiences with Squib.
+1/11/25 11:31:21a You are sharing experiences with Giben and Alieshia.
+1/11/25 11:31:35a Shadowmutt scratches at the ground briefly.
+1/11/25 11:32:03a Magnic says, "you wanna check something with me"
+1/11/25 11:32:07a Alieshia says, "sure"
+1/11/25 11:32:10a •You sense healing energy from Alieshia.
+1/11/25 11:32:15a •The Sun sets.
+1/11/25 11:32:18a Magnic asks, "you have orga eye?"
+1/11/25 11:32:21a Alieshia says, "yep"
+1/11/25 11:32:37a •You sense healing energy from Alieshia.
+1/11/25 11:32:40a You slaughtered a Rat.
+1/11/25 11:32:48a Magnic says, "yes"
+1/11/25 11:32:48a Captain Barnac asks, "Ah, Magnic. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+1/11/25 11:32:50a Captain Barnac says, "Bah, away with you then, and quit wasting my time."
+1/11/25 11:32:50a Captain Barnac ponders, "Landlubber."
+1/11/25 11:32:52a Captain Barnac asks, "Ah, Alieshia. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+1/11/25 11:32:52a Captain Barnac says, "Bah, away with you then, and quit wasting my time."
+1/11/25 11:32:53a Bear Knuckle asks, "Ah, Alieshia. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+1/11/25 11:32:53a Magnic says, "yes"
+1/11/25 11:32:54a Captain Barnac asks, "Ah, Magnic. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+1/11/25 11:32:54a Captain Barnac says, "Bah, away with you then, and quit wasting my time."
+1/11/25 11:32:55a Alieshia says, "yes"
+1/11/25 11:32:55a Captain Barnac asks, "Ah, Magnic. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+1/11/25 11:32:56a Magnic says, "yes"
+1/11/25 11:33:02a •You sense healing energy from Alieshia.
+1/11/25 11:33:06a Alieshia yells, "*"
+1/11/25 11:33:11a Magnic yells, "!"
+1/11/25 11:33:23a You equip your orga eye.
+1/11/25 11:33:24a Centaur growls, "Go away, Magnic. Those like you are not welcome here."
+1/11/25 11:33:27a •You sense healing energy from Alieshia.
+1/11/25 11:33:34a Centaur growls, "Go away, Magnic. Those like you are not welcome here."
+1/11/25 11:33:38a The Centaur examines Alieshia's Orga Eye.
+1/11/25 11:33:39a Magnic asks, "eh?"
+1/11/25 11:33:40a Giben is no longer Clanning.
+1/11/25 11:33:42a Centaur says, "You may view our island home briefly, Alieshia two-legs."
+1/11/25 11:33:55a You have a thimbleful of good karma, and you have given a drop of good karma. You have karma to give.
+1/11/25 11:34:02a Magnic asks, "?"
+1/11/25 11:34:08a (Alieshia shrugs)
+1/11/25 11:34:08a Magnic says, "why cant i get in"
+1/11/25 11:34:12a Centaur growls, "Go away, Magnic. Those like you are not welcome here."
+1/11/25 11:34:33a Alieshia says, "youd have to ask in discord about it"
+1/11/25 11:34:35a You drop your trophy.
+1/11/25 11:34:39a Centaur growls, "Go away, Magnic. Those like you are not welcome here."
+1/11/25 11:34:44a You pick up a trophy.
+1/11/25 11:35:03a Centaur growls, "Go away, Magnic. Those like you are not welcome here."
+1/11/25 11:35:10a You slip your orga eye into your backpack.
+1/11/25 11:35:14a You equip your sungem.
+1/11/25 11:35:16a The Centaur examines Alieshia's Orga Eye.
+1/11/25 11:35:20a Centaur says, "You may view our island home briefly, Alieshia two-legs."
+1/11/25 11:35:27a Magnic asks, "my eye 2 old?"
+1/11/25 11:35:28a Alieshia says, "hmm"
+1/11/25 11:35:34a You drop your orga eye.
+1/11/25 11:35:36a You pick up an orga eye.
+1/11/25 11:35:40a You equip your orga eye.
+1/11/25 11:35:41a Centaur growls, "Go away, Magnic. Those like you are not welcome here."
+1/11/25 11:35:42a Alieshia says, "no that shouldnt matter"
+1/11/25 11:35:58a Magnic asks, "maybe becuase i have orga morph?"
+1/11/25 11:36:03a Magnic says, "heh"
+1/11/25 11:36:04a Alieshia says, "i have no idea"
+1/11/25 11:36:17a •You assume the shape of an Orga.
+1/11/25 11:36:19a Centaur growls, "Go away, Magnic. Those like you are not welcome here."
+1/11/25 11:36:24a You slip your orga eye into your backpack.
+1/11/25 11:36:27a •You assume the shape of a Giant Carnivorous Plankton.
+1/11/25 11:36:28a • You return to your normal form.
+1/11/25 11:36:40a You equip your orga eye.
+1/11/25 11:36:44a Centaur growls, "Go away, Magnic. Those like you are not welcome here."
+1/11/25 11:36:49a The Centaur examines Alieshia's Orga Eye.
+1/11/25 11:36:53a Centaur says, "You may view our island home briefly, Alieshia two-legs."
+1/11/25 11:36:58a Alieshia says, "hmmm"
+1/11/25 11:37:31a You just received good karma from Tara.
+1/11/25 11:37:32a You have a thimbleful of good karma, and you have given a drop of good karma. You have karma to give.
+1/11/25 11:37:38a You gave anonymous good karma to Alieshia.
+1/11/25 11:37:41a Centaur growls, "Go away, Magnic. Those like you are not welcome here."
+1/11/25 11:37:46a You have no karma to give.
+1/11/25 11:38:46a Magnic says, "i dont have the karma..."
+1/11/25 11:38:51a Alieshia says, "hmm"
+1/11/25 11:39:03a Alieshia says, "whats even over ther"
+1/11/25 11:39:05a Magnic says, "what a lame mechanic"
+1/11/25 11:39:06a The Centaur examines Alieshia's Orga Eye.
+1/11/25 11:39:10a Centaur says, "You may view our island home briefly, Alieshia two-legs."
+1/11/25 11:39:14a Magnic says, "a few thing a challange"
+1/11/25 11:39:18a Centaur growls, "Go away, Magnic. Those like you are not welcome here."
+1/11/25 11:39:23a Centaur growls, "Go away, Magnic. Those like you are not welcome here."
+1/11/25 11:39:27a Centaur growls, "Go away, Magnic. Those like you are not welcome here."
+1/11/25 11:39:27a Magnic yells, "dont got east"
+1/11/25 11:39:51a Magnic says, "east is iron woods"
+1/11/25 11:39:54a Alieshia says, "ahh ok"
+1/11/25 11:40:04a Magnic says, "north is safer"
+1/11/25 11:40:24a Alieshia says, "ill have to come back eventually sometime"
+1/11/25 11:40:36a Helja is no longer Clanning.
+1/11/25 11:40:43a Helja is now Clanning.
+1/11/25 11:40:54a Magnic says, "lame"
+1/11/25 11:40:58a You equip your sungem.
+1/11/25 11:41:01a Alieshia says, "rip"
+1/11/25 11:41:35a Captain Barnac asks, "Ah, Magnic. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+1/11/25 11:41:37a Magnic says, "yes"
+1/11/25 11:41:49a You slaughtered a Vermine.
+1/11/25 11:42:40a Helja is no longer Clanning.
+1/11/25 11:43:15a Sentinel yells, "Obey the Emperor's law, or be destroyed."
+1/11/25 11:43:19a Inu Teisei is now Clanning.
+1/11/25 11:44:02a Crius yells, "It’s 6 o’clock on Fordi, the 66th day of Winter in the 640th year of the Ascendancy, and all’s well."
+1/11/25 11:44:07a Crius yells, "It looks like we’re doing well in the Haunted Forest on Gho-Wei Island."
+1/11/25 11:44:43a Suu'ub III thinks, "N"
+1/11/25 11:44:46a Cecil thinks, "g"
+1/11/25 11:45:14a Koppi yells, "Hashak reports: I like tacos"
+1/11/25 11:46:17a •••
+1/11/25 11:46:17a You have been idle for too long.
+1/11/25 11:46:17a Please do something to avoid being disconnected.
+1/11/25 11:46:17a •••
+1/11/25 11:47:17a *** We are no longer connected to the Clan Lord game server. ***
+1/11/25 11:47:23a Welcome back, Magnic!
+1/11/25 11:47:23a Type /ranger for commands if you forget
+1/11/25 11:47:27a Friends online: none.
+1/11/25 11:48:47a You have 2500 coins.
+1/11/25 11:49:02a Kahn St'ple nods and smiles at Squib.
+1/11/25 11:49:14a Ausrine is now Clanning.
+1/11/25 11:49:19a You slaughtered a Vermine.
+1/11/25 11:49:27a You slaughtered a Rat.
+1/11/25 11:49:38a You slaughtered a Rat.
+1/11/25 11:49:45a You slaughtered a Vermine.
+1/11/25 11:49:46a * You recover the Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:49:52a You slaughtered a Vermine.
+1/11/25 11:49:54a You slaughtered a Vermine.
+1/11/25 11:49:54a You slaughtered a Grey Feral.
+1/11/25 11:49:55a * You recover the Grey Feral fur, worth 3c. Your share is 3c.
+1/11/25 11:49:55a You slaughtered an Island Panther.
+1/11/25 11:49:55a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/11/25 11:49:56a You slaughtered an Artak Cougar.
+1/11/25 11:49:56a * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+1/11/25 11:49:57a You slaughtered an Island Panther.
+1/11/25 11:49:57a * You recover the Island Panther fur, worth 5c. Your share is 5c.
+1/11/25 11:49:58a You slaughtered a Vermine.
+1/11/25 11:49:59a You slaughtered a Vermine.
+1/11/25 11:50:02a You slaughtered a Giant Vermine.
+1/11/25 11:50:02a * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+1/11/25 11:50:05a You slaughtered a Grey Feral.
+1/11/25 11:50:06a You slaughtered a Vermine.
+1/11/25 11:50:07a You slaughtered an Island Panther.
+1/11/25 11:50:08a You have 2516 coins.
+1/11/25 11:50:08a You slaughtered a Vermine.
+1/11/25 11:50:09a You slaughtered an Artak Cougar.
+1/11/25 11:50:09a * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+1/11/25 11:50:09a You slaughtered a Rodán Panther.
+1/11/25 11:50:10a You slaughtered a Vermine.
+1/11/25 11:50:10a You slaughtered a Rat.
+1/11/25 11:50:12a You slaughtered an Artak Cougar.
+1/11/25 11:50:12a * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+1/11/25 11:50:12a You slaughtered a Vermine.
+1/11/25 11:50:17a You slaughtered a Large Vermine.
+1/11/25 11:50:18a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:50:19a You slaughtered a Giant Vermine.
+1/11/25 11:50:19a * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:50:19a You slaughtered an Island Panther.
+1/11/25 11:50:19a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/11/25 11:50:22a You slaughtered an Island Panther.
+1/11/25 11:50:22a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+1/11/25 11:50:22a You slaughtered a Large Vermine.
+1/11/25 11:50:25a You slaughtered a Vermine.
+1/11/25 11:50:26a You slaughtered a Vermine.
+1/11/25 11:50:29a You slaughtered an Artak Cougar.
+1/11/25 11:50:29a * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+1/11/25 11:50:29a You slaughtered an Artak Cougar.
+1/11/25 11:50:35a You slaughtered a Rat.
+1/11/25 11:50:35a You slaughtered a Large Vermine.
+1/11/25 11:50:39a You slaughtered an Orga.
+1/11/25 11:50:41a You slaughtered an Artak Cougar.
+1/11/25 11:50:42a You slaughtered a Feral.
+1/11/25 11:50:42a * You recover the Feral fur, worth 1c. Your share is 1c.
+1/11/25 11:50:43a You slaughtered an Artak Cougar.
+1/11/25 11:50:43a * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+1/11/25 11:50:47a You slaughtered a Feral.
+1/11/25 11:50:49a You slaughtered a Feral.
+1/11/25 11:50:49a * You recover the Feral fur, worth 1c. Your share is 1c.
+1/11/25 11:50:51a You slaughtered a Feral.
+1/11/25 11:50:51a * You recover the Feral fur, worth 2c. Your share is 2c.
+1/11/25 11:50:54a You slaughtered a Rat.
+1/11/25 11:50:55a You slaughtered an Orga.
+1/11/25 11:50:55a You slaughtered a Grey Feral.
+1/11/25 11:50:55a * You recover the Grey Feral fur, worth 4c. Your share is 4c.
+1/11/25 11:50:56a You slaughtered a Feral.
+1/11/25 11:50:56a * You recover the Feral fur, worth 1c. Your share is 1c.
+1/11/25 11:50:57a You slaughtered an Artak Cougar.
+1/11/25 11:50:57a * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+1/11/25 11:50:59a You slaughtered a Rat.
+1/11/25 11:50:59a You slaughtered a Grey Feral.
+1/11/25 11:50:59a * You recover the Grey Feral fur, worth 1c. Your share is 1c.
+1/11/25 11:51:02a You slaughtered an Artak Cougar.
+1/11/25 11:51:02a * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+1/11/25 11:51:03a You slaughtered an Artak Cougar.
+1/11/25 11:51:03a * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+1/11/25 11:51:04a You slaughtered a Grey Feral.
+1/11/25 11:51:04a * You recover the Grey Feral fur, worth 2c. Your share is 2c.
+1/11/25 11:51:08a You slaughtered an Artak Cougar.
+1/11/25 11:51:08a * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+1/11/25 11:51:10a You slaughtered an Island Panther.
+1/11/25 11:51:10a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/11/25 11:51:11a You slaughtered a Large Vermine.
+1/11/25 11:51:11a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:51:12a You slaughtered a Brown Feral.
+1/11/25 11:51:12a You slaughtered an Artak Cougar.
+1/11/25 11:51:12a * For recovering the fur, you gain experience.
+1/11/25 11:51:12a * You recover the Brown Feral fur, worth 4c. Your share is 4c.
+1/11/25 11:51:13a You slaughtered an Island Panther.
+1/11/25 11:51:15a You slaughtered a Vermine.
+1/11/25 11:51:16a You slaughtered a Bolok Cougar.
+1/11/25 11:51:16a * You recover the Bolok Cougar fur, worth 4c. Your share is 4c.
+1/11/25 11:51:17a You slaughtered an Artak Cougar.
+1/11/25 11:51:17a * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+1/11/25 11:51:19a You slaughtered a Large Vermine.
+1/11/25 11:51:19a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:51:19a You slaughtered a Rat.
+1/11/25 11:51:20a You slaughtered a Giant Vermine.
+1/11/25 11:51:20a * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+1/11/25 11:51:20a You slaughtered a Large Vermine.
+1/11/25 11:51:21a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:51:21a You slaughtered an Island Panther.
+1/11/25 11:51:21a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/11/25 11:51:21a You slaughtered a Large Vermine.
+1/11/25 11:51:22a * For recovering the fur, you gain experience.
+1/11/25 11:51:22a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:51:22a You slaughtered an Orga.
+1/11/25 11:51:24a You slaughtered an Island Panther.
+1/11/25 11:51:24a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/11/25 11:51:25a You slaughtered a Feral.
+1/11/25 11:51:26a You slaughtered an Island Panther.
+1/11/25 11:51:27a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/11/25 11:51:27a You slaughtered a Large Vermine.
+1/11/25 11:51:27a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:51:28a You slaughtered a Large Vermine.
+1/11/25 11:51:28a You have 2573 coins.
+1/11/25 11:51:31a You slaughtered an Island Panther.
+1/11/25 11:51:32a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+1/11/25 11:51:35a You slaughtered a Giant Vermine.
+1/11/25 11:51:36a You slaughtered a Brown Feral.
+1/11/25 11:51:37a You slaughtered an Island Panther.
+1/11/25 11:51:37a * For recovering the fur, you gain experience.
+1/11/25 11:51:37a * You recover the Island Panther fur, worth 5c. Your share is 5c.
+1/11/25 11:51:37a You slaughtered a Brown Feral.
+1/11/25 11:51:37a * You recover the Brown Feral fur, worth 9c. Your share is 9c.
+1/11/25 11:51:37a You slaughtered a Large Vermine.
+1/11/25 11:51:38a * You recover the Large Vermine fur, worth 3c. Your share is 3c.
+1/11/25 11:51:40a You slaughtered an Island Panther.
+1/11/25 11:51:40a * You recover the Island Panther fur, worth 4c. Your share is 4c.
+1/11/25 11:51:46a You slaughtered a Feral.
+1/11/25 11:51:48a You slaughtered an Island Panther.
+1/11/25 11:51:48a * You recover the Island Panther fur, worth 4c. Your share is 4c.
+1/11/25 11:51:56a You slaughtered a Grey Feral.
+1/11/25 11:51:56a * You recover the Grey Feral fur, worth 1c. Your share is 1c.
+1/11/25 11:51:57a You slaughtered an Island Panther.
+1/11/25 11:52:08a You slaughtered a Vermine.
+1/11/25 11:52:09a You slaughtered a Vermine.
+1/11/25 11:52:16a You slaughtered a Vermine.
+1/11/25 11:52:35a You slaughtered a Large Vermine.
+1/11/25 11:52:35a You slaughtered a Large Vermine.
+1/11/25 11:52:35a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/11/25 11:52:36a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/11/25 11:52:37a You slaughtered a Vermine.
+1/11/25 11:52:42a You slaughtered an Island Panther.
+1/11/25 11:52:42a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/11/25 11:52:43a You slaughtered a Vermine.
+1/11/25 11:52:43a You slaughtered a Vermine.
+1/11/25 11:52:44a You slaughtered an Island Panther.
+1/11/25 11:52:44a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/11/25 11:52:46a You slaughtered a Rodán Panther.
+1/11/25 11:52:48a You slaughtered a Giant Vermine.
+1/11/25 11:52:48a * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+1/11/25 11:52:48a You have 2610 coins.
+1/11/25 11:52:48a You slaughtered a Vermine.
+1/11/25 11:52:49a You slaughtered an Artak Cougar.
+1/11/25 11:52:49a * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+1/11/25 11:52:50a You slaughtered a Vermine.
+1/11/25 11:52:53a You slaughtered a Vermine.
+1/11/25 11:52:56a You slaughtered an Island Panther.
+1/11/25 11:52:56a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/11/25 11:52:59a Ausrine is no longer Clanning.
+1/11/25 11:53:15a You slaughtered a Large Vermine.
+1/11/25 11:53:16a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:53:30a You slaughtered a Rat.
+1/11/25 11:53:33a You slaughtered a Large Vermine.
+1/11/25 11:53:33a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:53:34a You slaughtered a Vermine.
+1/11/25 11:53:36a You slaughtered a Large Vermine.
+1/11/25 11:53:36a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/11/25 11:53:38a You slaughtered a Winged Snake.
+1/11/25 11:53:51a You vault the wall.
+1/11/25 11:54:08a You have 2617 coins.
+1/11/25 11:54:37a You slaughtered a Large Vermine.
+1/11/25 11:54:37a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:54:38a You slaughtered a Large Vermine.
+1/11/25 11:54:42a You slaughtered a Rat.
+1/11/25 11:54:43a You slaughtered a Large Vermine.
+1/11/25 11:54:43a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/11/25 11:54:43a You slaughtered a Large Vermine.
+1/11/25 11:54:44a * You recover the Large Vermine fur, worth 3c. Your share is 3c.
+1/11/25 11:54:50a You slaughtered an Orga.
+1/11/25 11:54:51a You slaughtered a Large Vermine.
+1/11/25 11:54:51a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:54:52a You slaughtered a Large Vermine.
+1/11/25 11:54:52a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:54:57a You slaughtered a Rodán Panther.
+1/11/25 11:54:57a * You recover the Rodán Panther fur, worth 1c. Your share is 1c.
+1/11/25 11:54:59a You slaughtered an Artak Cougar.
+1/11/25 11:55:00a * You recover the Artak Cougar fur, worth 6c. Your share is 6c.
+1/11/25 11:55:06a You slaughtered an Artak Cougar.
+1/11/25 11:55:06a * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+1/11/25 11:55:14a You slaughtered a Vermine.
+1/11/25 11:55:24a You slaughtered an Island Panther.
+1/11/25 11:55:24a * You recover the Island Panther fur, worth 4c. Your share is 4c.
+1/11/25 11:55:26a You slaughtered an Island Panther.
+1/11/25 11:55:26a * You recover the Island Panther fur, worth 4c. Your share is 4c.
+1/11/25 11:55:26a You slaughtered an Artak Cougar.
+1/11/25 11:55:27a * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+1/11/25 11:55:27a You slaughtered an Artak Cougar.
+1/11/25 11:55:27a * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+1/11/25 11:55:28a You have 2648 coins.
+1/11/25 11:55:29a You slaughtered an Artak Cougar.
+1/11/25 11:55:29a * You recover the Artak Cougar fur, worth 6c. Your share is 6c.
+1/11/25 11:55:33a You slaughtered a Large Vermine.
+1/11/25 11:55:34a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/11/25 11:55:38a You slaughtered a Large Vermine.
+1/11/25 11:55:39a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:55:43a You slaughtered an Orc.
+1/11/25 11:55:44a You slaughtered an Island Panther.
+1/11/25 11:55:44a * You recover the Island Panther fur, worth 6c. Your share is 6c.
+1/11/25 11:55:45a You slaughtered a Rat.
+1/11/25 11:55:47a You slaughtered a T'rool.
+1/11/25 11:55:48a You slaughtered an Orc.
+1/11/25 11:55:50a You slaughtered an Island Panther.
+1/11/25 11:55:52a You slaughtered a Winged Snake.
+1/11/25 11:55:53a You slaughtered an Island Panther.
+1/11/25 11:55:53a You slaughtered an Orc.
+1/11/25 11:55:53a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+1/11/25 11:55:57a You slaughtered an Artak Cougar.
+1/11/25 11:55:57a * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+1/11/25 11:55:57a You slaughtered an Orc.
+1/11/25 11:55:59a You slaughtered an Orc.
+1/11/25 11:56:00a You slaughtered a T'rool.
+1/11/25 11:56:00a * You recover the T'rool blood, worth 4c. Your share is 4c.
+1/11/25 11:56:01a You slaughtered an Orc.
+1/11/25 11:56:10a You slaughtered an Orc.
+1/11/25 11:56:12a You slaughtered an Artak Cougar.
+1/11/25 11:56:12a * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+1/11/25 11:56:13a You slaughtered an Artak Cougar.
+1/11/25 11:56:13a * You recover the Artak Cougar fur, worth 5c. Your share is 5c.
+1/11/25 11:56:14a You slaughtered a Rat.
+1/11/25 11:56:16a You slaughtered a Bolok Cougar.
+1/11/25 11:56:16a * You recover the Bolok Cougar fur, worth 2c. Your share is 2c.
+1/11/25 11:56:22a You slaughtered an Artak Cougar.
+1/11/25 11:56:22a * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+1/11/25 11:56:24a You slaughtered an Artak Cougar.
+1/11/25 11:56:24a * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+1/11/25 11:56:30a You slaughtered an Island Panther.
+1/11/25 11:56:30a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/11/25 11:56:31a You slaughtered an Island Panther.
+1/11/25 11:56:31a * You recover the Island Panther fur, worth 4c. Your share is 4c.
+1/11/25 11:56:32a You slaughtered an Island Panther.
+1/11/25 11:56:32a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/11/25 11:56:38a You slaughtered an Island Panther.
+1/11/25 11:56:38a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/11/25 11:56:49a You have 2698 coins.
+1/11/25 11:57:00a You slaughtered an Artak Cougar.
+1/11/25 11:57:00a * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+1/11/25 11:57:06a You slaughtered an Island Panther.
+1/11/25 11:57:06a * You recover the Island Panther fur, worth 4c. Your share is 4c.
+1/11/25 11:57:11a You slaughtered an Island Panther.
+1/11/25 11:57:11a * You recover the Island Panther fur, worth 4c. Your share is 4c.
+1/11/25 11:57:12a You slaughtered an Orc.
+1/11/25 11:57:14a You slaughtered an Island Panther.
+1/11/25 11:57:14a * For recovering the fur, you gain experience.
+1/11/25 11:57:14a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/11/25 11:57:17a You slaughtered a T'rool.
+1/11/25 11:57:23a You slaughtered an Orc.
+1/11/25 11:57:24a You slaughtered an Orc.
+1/11/25 11:57:24a You slaughtered a T'rool.
+1/11/25 11:57:27a You slaughtered an Artak Cougar.
+1/11/25 11:57:28a You slaughtered an Artak Cougar.
+1/11/25 11:57:28a * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+1/11/25 11:57:31a You slaughtered a T'rool.
+1/11/25 11:57:33a You slaughtered an Orc.
+1/11/25 11:57:49a You slaughtered a Winged Snake.
+1/11/25 11:57:52a You slaughtered a Large Vermine.
+1/11/25 11:57:52a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 11:57:52a You slaughtered a Winged Snake.
+1/11/25 11:58:01a You slaughtered an Orc.
+1/11/25 11:58:01a You slaughtered a T'rool.
+1/11/25 11:58:05a You slaughtered a Winged Snake.
+1/11/25 11:58:06a You slaughtered an Artak Cougar.
+1/11/25 11:58:06a * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+1/11/25 11:58:07a You slaughtered an Artak Cougar.
+1/11/25 11:58:07a * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+1/11/25 11:58:08a You slaughtered an Artak Cougar.
+1/11/25 11:58:08a * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+1/11/25 11:58:09a You slaughtered an Orc.
+1/11/25 11:58:09a You have 2718 coins.
+1/11/25 11:58:10a You slaughtered a Bat.
+1/11/25 11:58:11a You slaughtered a Winged Snake.
+1/11/25 11:58:12a You slaughtered a Winged Snake.
+1/11/25 11:58:13a You slaughtered a Winged Snake.
+1/11/25 11:58:14a You slaughtered an Artak Cougar.
+1/11/25 11:58:14a * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+1/11/25 11:58:16a You slaughtered an Artak Cougar.
+1/11/25 11:58:16a * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+1/11/25 11:58:18a You slaughtered an Artak Cougar.
+1/11/25 11:58:18a You slaughtered an Artak Cougar.
+1/11/25 11:58:19a You slaughtered an Orga.
+1/11/25 11:58:20a You slaughtered an Orc.
+1/11/25 11:58:24a You slaughtered an Artak Cougar.
+1/11/25 11:58:24a * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+1/11/25 11:58:28a You slaughtered a T'rool.
+1/11/25 11:58:28a * For recovering the blood, you gain experience.
+1/11/25 11:58:28a * You recover the T'rool blood, worth 2c. Your share is 2c.
+1/11/25 11:58:30a You slaughtered an Orga.
+1/11/25 11:58:34a You slaughtered an Orc.
+1/11/25 11:58:36a You slaughtered an Orc.
+1/11/25 11:58:36a You slaughtered an Orc.
+1/11/25 11:58:38a You slaughtered a Small Arachne.
+1/11/25 11:58:38a You slaughtered an Orc.
+1/11/25 11:58:39a You slaughtered an Orc.
+1/11/25 11:58:41a You slaughtered a Small Arachne.
+1/11/25 11:58:41a You slaughtered a Small Arachne.
+1/11/25 11:59:09a You slaughtered a Winged Snake.
+1/11/25 11:59:12a You slaughtered a Leech.
+1/11/25 11:59:29a You have 2728 coins.
+1/11/25 11:59:30a You slaughtered a Winged Snake.
+1/11/25 11:59:41a You slaughtered a Large Vermine.
+1/11/25 11:59:41a You slaughtered a Savannah Maha.
+1/11/25 11:59:42a * You recover the Savannah Maha fur, worth 12c. Your share is 12c.
+1/11/25 11:59:46a You slaughtered a Savannah Maha.
+1/11/25 11:59:48a You slaughtered a Deadly Adder.
+1/11/25 11:59:49a You just received good karma from Tara.
+1/11/25 11:59:54a You slaughtered a Vermine.
+1/11/25 12:00:03p You slaughtered a Plains Maha Ruknee.
+1/11/25 12:00:03p * You recover the Plains Maha Ruknee fur, worth 3c. Your share is 3c.
+1/11/25 12:00:03p You slaughtered a Vermine.
+1/11/25 12:00:08p You slaughtered a Vermine.
+1/11/25 12:00:10p You slaughtered a Vermine.
+1/11/25 12:00:20p You slaughtered a Vermine.
+1/11/25 12:00:35p You slaughtered a Savannah Maha.
+1/11/25 12:00:36p You slaughtered a Savannah Maha.
+1/11/25 12:00:36p * You recover the Savannah Maha fur, worth 6c. Your share is 6c.
+1/11/25 12:00:36p You slaughtered a Savannah Maha.
+1/11/25 12:00:36p * You recover the Savannah Maha fur, worth 5c. Your share is 5c.
+1/11/25 12:00:37p You slaughtered a Vermine.
+1/11/25 12:00:38p You slaughtered a Deadly Adder.
+1/11/25 12:00:38p You slaughtered a Small Arachne.
+1/11/25 12:00:39p You slaughtered a Deadly Adder.
+1/11/25 12:00:42p You slaughtered a Carrion Arachne.
+1/11/25 12:00:49p You have 2754 coins.
+1/11/25 12:01:06p You slaughtered a Vermine.
+1/11/25 12:01:06p You slaughtered a Vermine.
+1/11/25 12:01:07p You slaughtered a Vermine.
+1/11/25 12:01:08p You slaughtered a Vermine.
+1/11/25 12:01:15p You slaughtered a Vermine.
+1/11/25 12:01:15p * You recover the Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:01:19p You slaughtered a Vermine.
+1/11/25 12:01:20p You slaughtered a Vermine.
+1/11/25 12:01:20p You slaughtered a Vermine.
+1/11/25 12:01:21p You slaughtered a Vermine.
+1/11/25 12:01:21p You slaughtered a Vermine.
+1/11/25 12:01:22p You slaughtered a Vermine.
+1/11/25 12:01:22p * You recover the Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:01:23p You slaughtered a Vermine.
+1/11/25 12:01:34p You slaughtered a Savannah Maha.
+1/11/25 12:01:40p You slaughtered a Savannah Maha.
+1/11/25 12:01:40p * You recover the Savannah Maha fur, worth 2c. Your share is 2c.
+1/11/25 12:01:43p You slaughtered a Plains Maha Ruknee.
+1/11/25 12:01:43p * You recover the Plains Maha Ruknee fur, worth 1c. Your share is 1c.
+1/11/25 12:01:48p You slaughtered a Crawler.
+1/11/25 12:01:49p You slaughtered a Plains Maha Ruknee.
+1/11/25 12:01:54p You slaughtered a Savannah Maha.
+1/11/25 12:01:54p * You recover the Savannah Maha fur, worth 5c. Your share is 5c.
+1/11/25 12:01:59p You slaughtered a Plains Maha Ruknee.
+1/11/25 12:02:00p * You recover the Plains Maha Ruknee fur, worth 6c. Your share is 6c.
+1/11/25 12:02:09p You have 2770 coins.
+1/11/25 12:02:11p You slaughtered a Plains Maha Ruknee.
+1/11/25 12:02:24p You slaughtered a Vermine.
+1/11/25 12:02:25p You slaughtered a Vermine.
+1/11/25 12:02:25p You slaughtered a Vermine.
+1/11/25 12:02:25p * You recover the Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:02:28p You slaughtered a Vermine.
+1/11/25 12:02:29p You slaughtered a Vermine.
+1/11/25 12:02:29p You slaughtered a Vermine.
+1/11/25 12:02:36p You slaughtered a Vermine.
+1/11/25 12:02:40p You slaughtered a Vermine.
+1/11/25 12:02:40p You slaughtered a Vermine.
+1/11/25 12:02:41p You slaughtered a Vermine.
+1/11/25 12:02:41p You slaughtered a Vermine.
+1/11/25 12:02:41p You slaughtered a Vermine.
+1/11/25 12:02:42p You slaughtered a Vermine.
+1/11/25 12:02:42p You slaughtered a Vermine.
+1/11/25 12:02:48p You slaughtered a Vermine.
+1/11/25 12:02:49p Alee is no longer Clanning.
+1/11/25 12:03:15p Ronja Tallgrass says, "Oh, hello Magnic! I am a collector of phantasms."
+1/11/25 12:03:16p Ronja Tallgrass asks, "Would you like to buy a page from my collection for 100 coins?"
+1/11/25 12:03:16p Ronja Tallgrass exclaims, "Ah, well, come back if you change your mind!"
+1/11/25 12:03:26p Halden says, "Greetings, Lord Magnic."
+1/11/25 12:03:26p Halden says, "I'm the camp cook."
+1/11/25 12:03:27p Halden says, "The miners have been in the mine for days."
+1/11/25 12:03:27p Halden says, "I fear they have gotten too greedy."
+1/11/25 12:03:30p You have 2771 coins.
+1/11/25 12:03:44p You slaughtered a Deadly Adder.
+1/11/25 12:03:44p You slaughtered a Deadly Adder.
+1/11/25 12:03:47p You slaughtered a Small Arachne.
+1/11/25 12:03:47p You found a lump of iron ore!
+1/11/25 12:04:00p You slaughtered a Small Arachne.
+1/11/25 12:04:21p You slaughtered a Vermine.
+1/11/25 12:04:32p You slaughtered a Vermine.
+1/11/25 12:04:37p You slaughtered a Rat.
+1/11/25 12:04:50p You have 2771 coins.
+1/11/25 12:04:52p You slaughtered a Large Vermine.
+1/11/25 12:04:53p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:04:57p You slaughtered a Savannah Maha.
+1/11/25 12:04:57p * You recover the Savannah Maha fur, worth 3c. Your share is 3c.
+1/11/25 12:05:04p You slaughtered a Vermine.
+1/11/25 12:05:15p You equip your heartwood charm.
+1/11/25 12:05:16p • You gather your energy.
+1/11/25 12:05:18p • You speed up.
+1/11/25 12:05:22p You slaughtered a Large Vermine.
+1/11/25 12:05:22p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:05:23p You slip your heartwood charm into your backpack.
+1/11/25 12:05:23p • You slow down to normal speed.
+1/11/25 12:05:25p You slaughtered an Artak Cougar.
+1/11/25 12:05:25p * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+1/11/25 12:05:30p You slaughtered a Large Vermine.
+1/11/25 12:05:30p * You recover the Large Vermine fur, worth 3c. Your share is 3c.
+1/11/25 12:05:32p You slaughtered a Large Vermine.
+1/11/25 12:05:33p You slaughtered a Winged Snake.
+1/11/25 12:05:34p You slaughtered an Orga.
+1/11/25 12:05:38p You slaughtered a Large Vermine.
+1/11/25 12:05:40p You slaughtered a Large Vermine.
+1/11/25 12:05:40p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:05:41p You slaughtered a Large Vermine.
+1/11/25 12:05:41p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:05:44p You slaughtered a Large Vermine.
+1/11/25 12:05:44p * For recovering the fur, you gain experience.
+1/11/25 12:05:44p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:05:45p You slaughtered an Artak Cougar.
+1/11/25 12:06:01p You slaughtered a Vermine.
+1/11/25 12:06:01p You slaughtered a Winged Snake.
+1/11/25 12:06:02p You slaughtered a Vermine.
+1/11/25 12:06:02p You slaughtered an Island Panther.
+1/11/25 12:06:03p * You recover the Island Panther fur, worth 5c. Your share is 5c.
+1/11/25 12:06:03p You slaughtered a Bolok Cougar.
+1/11/25 12:06:09p You slaughtered an Orga.
+1/11/25 12:06:10p You have 2791 coins.
+1/11/25 12:06:12p You slaughtered an Orga.
+1/11/25 12:06:13p You slaughtered a Large Vermine.
+1/11/25 12:06:13p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:06:14p You slaughtered an Island Panther.
+1/11/25 12:06:14p * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/11/25 12:06:23p You slaughtered an Artak Cougar.
+1/11/25 12:06:23p * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+1/11/25 12:06:25p You slaughtered an Artak Cougar.
+1/11/25 12:06:26p * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+1/11/25 12:06:27p You slaughtered a Large Vermine.
+1/11/25 12:06:27p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:06:29p You slaughtered an Island Panther.
+1/11/25 12:06:31p You slaughtered a Large Vermine.
+1/11/25 12:06:31p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:06:32p You slaughtered an Artak Cougar.
+1/11/25 12:06:32p * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+1/11/25 12:06:36p You slaughtered a Maha Ruknee.
+1/11/25 12:06:49p You slaughtered a Maha Ruknee.
+1/11/25 12:06:49p * You recover the Maha Ruknee fur, worth 1c. Your share is 1c.
+1/11/25 12:06:49p You slaughtered a Maha Ruknee.
+1/11/25 12:06:50p * You recover the Maha Ruknee fur, worth 11c. Your share is 11c.
+1/11/25 12:06:54p You slaughtered a Vermine.
+1/11/25 12:06:56p Magnic finds a way across the river.
+1/11/25 12:06:57p You slaughtered a Vermine.
+1/11/25 12:06:58p You slaughtered a Large Vermine.
+1/11/25 12:06:59p You slaughtered a Large Vermine.
+1/11/25 12:06:59p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:06:59p You slaughtered a Winged Snake.
+1/11/25 12:07:01p You slaughtered a Sky Maha.
+1/11/25 12:07:01p * You recover the Sky Maha fur, worth 5c. Your share is 5c.
+1/11/25 12:07:01p You slaughtered a Summer Artak.
+1/11/25 12:07:02p You slaughtered a Sky Maha.
+1/11/25 12:07:03p You slaughtered a Vermine.
+1/11/25 12:07:04p You slaughtered a Sky Maha.
+1/11/25 12:07:04p * You recover the Sky Maha fur, worth 1c. Your share is 1c.
+1/11/25 12:07:05p You slaughtered a Large Vermine.
+1/11/25 12:07:05p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:07:08p You slaughtered a Vermine.
+1/11/25 12:07:08p You slaughtered a Vermine.
+1/11/25 12:07:10p You slaughtered a Maha Ruknee.
+1/11/25 12:07:10p You slaughtered a Vermine.
+1/11/25 12:07:12p You slaughtered a Vermine.
+1/11/25 12:07:12p You slaughtered a Vermine.
+1/11/25 12:07:12p You slaughtered a Vermine.
+1/11/25 12:07:14p You slaughtered a Summer Artak.
+1/11/25 12:07:14p * You recover the Summer Artak fur, worth 2c. Your share is 2c.
+1/11/25 12:07:15p You slaughtered a Summer Artak.
+1/11/25 12:07:15p * You recover the Summer Artak fur, worth 4c. Your share is 4c.
+1/11/25 12:07:17p You slaughtered a Vermine.
+1/11/25 12:07:18p You slaughtered a Large Vermine.
+1/11/25 12:07:19p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:07:19p You slaughtered a Vermine.
+1/11/25 12:07:19p You slaughtered a Large Vermine.
+1/11/25 12:07:20p * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/11/25 12:07:26p You slaughtered an Artak Cougar.
+1/11/25 12:07:26p You slaughtered a Vermine.
+1/11/25 12:07:26p * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+1/11/25 12:07:28p You slaughtered a Cloud Maha.
+1/11/25 12:07:29p * You recover the Cloud Maha fur, worth 2c. Your share is 2c.
+1/11/25 12:07:29p You slaughtered a Large Vermine.
+1/11/25 12:07:29p * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/11/25 12:07:30p You have 2842 coins.
+1/11/25 12:07:35p You slaughtered a Giant Vermine.
+1/11/25 12:07:35p * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+1/11/25 12:07:40p You slaughtered a Summer Artak.
+1/11/25 12:07:40p * You recover the Summer Artak fur, worth 5c. Your share is 5c.
+1/11/25 12:07:42p You slaughtered a Rat.
+1/11/25 12:07:45p You slaughtered a Summer Artak.
+1/11/25 12:07:45p * You recover the Summer Artak fur, worth 3c. Your share is 3c.
+1/11/25 12:07:46p You slaughtered a Vermine.
+1/11/25 12:07:47p You slaughtered a Large Vermine.
+1/11/25 12:07:48p You slaughtered a Large Vermine.
+1/11/25 12:07:49p You slaughtered a Vermine.
+1/11/25 12:07:50p You slaughtered a Large Vermine.
+1/11/25 12:07:50p * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/11/25 12:07:52p You slaughtered a Large Vermine.
+1/11/25 12:07:52p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:07:53p You slaughtered a Vermine.
+1/11/25 12:07:54p You slaughtered a Vermine.
+1/11/25 12:08:00p You slaughtered a Large Vermine.
+1/11/25 12:08:01p * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/11/25 12:08:01p You slaughtered a Large Vermine.
+1/11/25 12:08:01p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:08:03p You slaughtered a Vermine.
+1/11/25 12:08:05p You slaughtered a Large Vermine.
+1/11/25 12:08:05p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:08:08p You slaughtered a Large Vermine.
+1/11/25 12:08:08p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:08:08p You slaughtered a Large Vermine.
+1/11/25 12:08:08p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:08:09p You slaughtered a Giant Vermine.
+1/11/25 12:08:10p You slaughtered a Large Vermine.
+1/11/25 12:08:12p You slaughtered a Large Vermine.
+1/11/25 12:08:12p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:08:14p You slaughtered a Rat.
+1/11/25 12:08:14p You slaughtered a Large Vermine.
+1/11/25 12:08:14p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:08:16p You slaughtered a Large Vermine.
+1/11/25 12:08:18p You slaughtered a Large Vermine.
+1/11/25 12:08:18p * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/11/25 12:08:19p You slaughtered a Giant Vermine.
+1/11/25 12:08:19p * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+1/11/25 12:08:19p You slaughtered a Giant Vermine.
+1/11/25 12:08:23p You slaughtered a Giant Vermine.
+1/11/25 12:08:23p * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:08:23p You slaughtered a Giant Vermine.
+1/11/25 12:08:27p You slaughtered a Giant Vermine.
+1/11/25 12:08:27p * You recover the Giant Vermine fur, worth 4c. Your share is 4c.
+1/11/25 12:08:27p You slaughtered a Large Vermine.
+1/11/25 12:08:28p You slaughtered a Vermine.
+1/11/25 12:08:30p You slaughtered a Rat.
+1/11/25 12:08:34p You slaughtered a Giant Vermine.
+1/11/25 12:08:44p You slaughtered a Large Vermine.
+1/11/25 12:08:47p You slaughtered a Large Vermine.
+1/11/25 12:08:47p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:08:50p You have 2873 coins.
+1/11/25 12:08:51p You slaughtered a Vermine.
+1/11/25 12:08:51p You slaughtered a Myrm Scout.
+1/11/25 12:09:00p You slaughtered a Large Vermine.
+1/11/25 12:09:01p You slaughtered a Giant Vermine.
+1/11/25 12:09:01p * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+1/11/25 12:09:01p You slaughtered a Vermine.
+1/11/25 12:09:03p You slaughtered a Rat.
+1/11/25 12:09:06p You slaughtered a Large Vermine.
+1/11/25 12:10:00p You slaughtered a Large Vermine.
+1/11/25 12:10:00p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:10:03p You slaughtered a Crawler.
+1/11/25 12:10:04p You slaughtered a Large Vermine.
+1/11/25 12:10:04p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:10:04p You slaughtered a Vermine.
+1/11/25 12:10:04p You slaughtered a Giant Vermine.
+1/11/25 12:10:05p You slaughtered a Large Vermine.
+1/11/25 12:10:05p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:10:06p You slaughtered a Large Vermine.
+1/11/25 12:10:06p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:10:07p You slaughtered a Vermine.
+1/11/25 12:10:07p You slaughtered a Large Vermine.
+1/11/25 12:10:07p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:10:07p You slaughtered a Large Vermine.
+1/11/25 12:10:08p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:10:08p You slaughtered a Large Vermine.
+1/11/25 12:10:08p You slaughtered a Giant Vermine.
+1/11/25 12:10:08p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:10:08p * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+1/11/25 12:10:11p You have 2884 coins.
+1/11/25 12:10:12p You slaughtered a Large Vermine.
+1/11/25 12:10:13p You slaughtered a Vermine.
+1/11/25 12:10:13p * You recover the Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:10:15p You slaughtered a Large Vermine.
+1/11/25 12:10:16p You slaughtered an Island Panther.
+1/11/25 12:10:16p You slaughtered a Vermine.
+1/11/25 12:10:17p You slaughtered a Rat.
+1/11/25 12:10:18p You slaughtered an Island Panther.
+1/11/25 12:10:18p * You recover the Island Panther fur, worth 5c. Your share is 5c.
+1/11/25 12:10:20p You slaughtered a Vermine.
+1/11/25 12:10:20p You slaughtered a Vermine.
+1/11/25 12:10:21p You slaughtered an Island Panther.
+1/11/25 12:10:26p You slaughtered a Vermine.
+1/11/25 12:10:27p You slaughtered a Vermine.
+1/11/25 12:10:27p You slaughtered a Vermine.
+1/11/25 12:10:28p You slaughtered a Giant Vermine.
+1/11/25 12:10:28p * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:10:29p You slaughtered a Giant Vermine.
+1/11/25 12:10:29p You slaughtered a Giant Vermine.
+1/11/25 12:10:29p * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+1/11/25 12:10:33p You slaughtered a Crawler.
+1/11/25 12:10:35p You slaughtered a Crawler.
+1/11/25 12:10:41p You slaughtered a Crawler.
+1/11/25 12:10:43p You slaughtered a Cloud Maha.
+1/11/25 12:10:49p You slaughtered a Snow Feral.
+1/11/25 12:10:49p * You recover the Snow Feral fur, worth 6c. Your share is 6c.
+1/11/25 12:10:49p You slaughtered a Snow Vermine.
+1/11/25 12:10:50p You slaughtered a Snow Vermine.
+1/11/25 12:10:50p * You recover the Snow Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:10:50p You slaughtered a Snow Vermine.
+1/11/25 12:10:50p * You recover the Snow Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:10:51p You slaughtered a Snow Vermine.
+1/11/25 12:10:51p * You recover the Snow Vermine fur, worth 2c. Your share is 2c.
+1/11/25 12:10:51p You slaughtered a Snow Cougar.
+1/11/25 12:10:51p * You recover the Snow Cougar fur, worth 5c. Your share is 5c.
+1/11/25 12:10:52p You slaughtered a Snow Cougar.
+1/11/25 12:10:53p * You recover the Snow Cougar fur, worth 7c. Your share is 7c.
+1/11/25 12:10:53p You slaughtered a Snow Vermine.
+1/11/25 12:10:53p * You recover the Snow Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:10:55p You slaughtered a Snow Cougar.
+1/11/25 12:10:56p You slaughtered a Snow Vermine.
+1/11/25 12:10:57p You slaughtered a Snow Vermine.
+1/11/25 12:10:58p * You recover the Snow Vermine fur, worth 2c. Your share is 2c.
+1/11/25 12:11:01p You slaughtered a Snow Vermine.
+1/11/25 12:11:01p * You recover the Snow Vermine fur, worth 3c. Your share is 3c.
+1/11/25 12:11:01p You slaughtered a Snow Vermine.
+1/11/25 12:11:02p * You recover the Snow Vermine fur, worth 2c. Your share is 2c.
+1/11/25 12:11:09p You slaughtered a Snow Vermine.
+1/11/25 12:11:10p You slaughtered a Snow Vermine.
+1/11/25 12:11:13p You slaughtered a Polar Bear.
+1/11/25 12:11:13p You slaughtered a Snow Vermine.
+1/11/25 12:11:13p * You recover the Snow Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:11:17p You slaughtered a Snow Vermine.
+1/11/25 12:11:17p * You recover the Snow Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:11:18p You slaughtered a Snow Vermine.
+1/11/25 12:11:18p * For recovering the fur, you gain experience.
+1/11/25 12:11:18p * You recover the Snow Vermine fur, worth 2c. Your share is 2c.
+1/11/25 12:11:19p You slaughtered a Snow Vermine.
+1/11/25 12:11:19p * You recover the Snow Vermine fur, worth 2c. Your share is 2c.
+1/11/25 12:11:21p You slaughtered a Snow Vermine.
+1/11/25 12:11:21p * You recover the Snow Vermine fur, worth 1c. Your share is 1c.
+1/11/25 12:11:31p You have 2930 coins.
+1/11/25 12:12:51p You have 2930 coins.
+1/11/25 12:13:25p You vault the wall.
+1/11/25 12:13:41p Clemence is now Clanning.
+1/11/25 12:13:54p You slaughtered a Rat.
+1/11/25 12:13:59p You slaughtered a Large Vermine.
+1/11/25 12:14:07p You slaughtered a Small Arachne.
+1/11/25 12:14:08p You slaughtered a Small Arachne.
+1/11/25 12:14:11p You have 2930 coins.
+1/11/25 12:14:15p You slaughtered a Rat.
+1/11/25 12:14:16p You slaughtered a Vermine.
+1/11/25 12:14:24p You slaughtered a Vermine.
+1/11/25 12:14:26p You slaughtered a Vermine.
+1/11/25 12:14:30p You slaughtered a Vermine.
+1/11/25 12:14:35p You slaughtered a Rat.
+1/11/25 12:14:42p You slaughtered a Rat.
+1/11/25 12:14:46p You slaughtered a Wendecka.
+1/11/25 12:14:46p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+1/11/25 12:14:47p You slaughtered a Rat.
+1/11/25 12:14:47p You slaughtered a Wendecka.
+1/11/25 12:14:48p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+1/11/25 12:14:49p You slaughtered a Wendecka.
+1/11/25 12:14:49p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+1/11/25 12:14:50p You slaughtered a Wendecka.
+1/11/25 12:14:51p * You recover the Wendecka fur, worth 4c. Your share is 4c.
+1/11/25 12:14:51p You slaughtered a Rat.
+1/11/25 12:14:51p You slaughtered a Wendecka.
+1/11/25 12:14:51p * For recovering the fur, you gain experience.
+1/11/25 12:14:51p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+1/11/25 12:14:52p You slaughtered a Wendecka.
+1/11/25 12:14:52p * You recover the Wendecka fur, worth 2c. Your share is 2c.
+1/11/25 12:14:52p You slaughtered a Wendecka.
+1/11/25 12:14:53p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+1/11/25 12:14:54p You slaughtered a Wendecka.
+1/11/25 12:14:54p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+1/11/25 12:14:57p You slaughtered a Wendecka.
+1/11/25 12:14:57p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+1/11/25 12:14:59p You slaughtered a Wendecka.
+1/11/25 12:14:59p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+1/11/25 12:15:00p You found a lump of iron ore!
+1/11/25 12:15:00p You slaughtered a Wendecka.
+1/11/25 12:15:01p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+1/11/25 12:15:02p You slaughtered a Wendecka.
+1/11/25 12:15:02p You slaughtered a Rat.
+1/11/25 12:15:04p You slaughtered a Rat.
+1/11/25 12:15:07p You slaughtered a Wendecka.
+1/11/25 12:15:07p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+1/11/25 12:15:10p You slaughtered a Wendecka.
+1/11/25 12:15:11p You slaughtered a Wendecka.
+1/11/25 12:15:12p * You recover the Wendecka fur, worth 4c. Your share is 4c.
+1/11/25 12:15:17p You slaughtered a Starbuck.
+1/11/25 12:15:17p * You recover the Starbuck fur, worth 1c. Your share is 1c.
+1/11/25 12:15:25p You slaughtered a Wendecka.
+1/11/25 12:15:25p * You recover the Wendecka fur, worth 2c. Your share is 2c.
+1/11/25 12:15:25p You slaughtered a Wendecka.
+1/11/25 12:15:31p You have 2963 coins.
+1/11/25 12:15:32p You found a lump of iron ore!
+1/11/25 12:15:32p You slaughtered a Rat.
+1/11/25 12:15:33p You slaughtered a Wendecka.
+1/11/25 12:15:35p You slaughtered a Wendecka.
+1/11/25 12:15:35p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+1/11/25 12:15:38p You slaughtered a Wendecka.
+1/11/25 12:15:38p * You recover the Wendecka fur, worth 4c. Your share is 4c.
+1/11/25 12:15:46p You slaughtered a Wendecka.
+1/11/25 12:15:47p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+1/11/25 12:15:50p You slaughtered a Wendecka.
+1/11/25 12:15:50p * You recover the Wendecka fur, worth 1c. Your share is 1c.
+1/11/25 12:15:50p You slaughtered a Rat.
+1/11/25 12:15:56p You slaughtered a Starbuck.
+1/11/25 12:15:56p * You recover the Starbuck fur, worth 1c. Your share is 1c.
+1/11/25 12:15:58p You slaughtered a Wendecka.
+1/11/25 12:16:03p You slaughtered a Night Wendecka.
+1/11/25 12:16:03p * You recover the Night Wendecka fur, worth 4c. Your share is 4c.
+1/11/25 12:16:06p You slaughtered a Vermine.
+1/11/25 12:16:13p You slaughtered a Night Wendecka.
+1/11/25 12:16:13p * You recover the Night Wendecka fur, worth 4c. Your share is 4c.
+1/11/25 12:16:17p You slaughtered a Wendecka.
+1/11/25 12:16:17p * You recover the Wendecka fur, worth 3c. Your share is 3c.
+1/11/25 12:16:18p You slaughtered a Vermine.
+1/11/25 12:16:19p You slaughtered a Crota Winder.
+1/11/25 12:16:23p You slaughtered a Vermine.
+1/11/25 12:16:26p You slaughtered a Night Wendecka.
+1/11/25 12:16:26p * You recover the Night Wendecka fur, worth 9c. Your share is 9c.
+1/11/25 12:16:26p You slaughtered a Night Wendecka.
+1/11/25 12:16:28p You slaughtered a Vermine.
+1/11/25 12:16:32p You slaughtered a Night Wendecka.
+1/11/25 12:16:33p * You recover the Night Wendecka fur, worth 4c. Your share is 4c.
+1/11/25 12:16:39p You slaughtered a Bloodhawk.
+1/11/25 12:16:39p You slaughtered a Crota Winder.
+1/11/25 12:16:39p You slaughtered a Vermine.
+1/11/25 12:16:40p You slaughtered a Rat.
+1/11/25 12:16:51p You have 2999 coins.
+1/11/25 12:17:01p You slaughtered a Vermine.
+1/11/25 12:17:05p You slaughtered a Night Wendecka.
+1/11/25 12:17:05p * You recover the Night Wendecka fur, worth 2c. Your share is 2c.
+1/11/25 12:17:06p You slaughtered a Bloodhawk.
+1/11/25 12:17:18p You slaughtered a Rat.
+1/11/25 12:17:24p You slaughtered a Crota Winder.
+1/11/25 12:17:25p You slaughtered a Raste Winder.
+1/11/25 12:17:27p You slaughtered a Night Wendecka.
+1/11/25 12:17:27p * You recover the Night Wendecka fur, worth 5c. Your share is 5c.
+1/11/25 12:18:12p You have 3006 coins.
+1/11/25 12:18:17p You slaughtered a Whipper Wyrm.
+1/11/25 12:18:44p You slaughtered a Whipper Wyrm.
+1/11/25 12:19:09p •You assume the shape of a Giant Carnivorous Plankton.
+1/11/25 12:19:09p You equip your heartwood charm.
+1/11/25 12:19:09p • You gather your energy.
+1/11/25 12:19:12p • You speed up.
+1/11/25 12:19:32p You have 3006 coins.
+1/11/25 12:20:04p • You return to your normal form.
+1/11/25 12:20:04p You slip your heartwood charm into your backpack.
+1/11/25 12:20:04p • You slow down to normal speed.
+1/11/25 12:20:29p You slaughtered a Rat.
+1/11/25 12:20:52p You have 3006 coins.
+1/11/25 12:21:10p You slaughtered an Island Panther.
+1/11/25 12:21:10p * You recover the Island Panther fur, worth 3c. Your share is 3c.
+1/11/25 12:21:12p You slaughtered a Vermine.
+1/11/25 12:21:26p •You assume the shape of a Giant Carnivorous Plankton.
+1/11/25 12:21:27p You equip your heartwood charm.
+1/11/25 12:21:27p • You gather your energy.
+1/11/25 12:21:30p • You speed up.
+1/11/25 12:21:42p You vault the wall.
+1/11/25 12:21:55p You slip your heartwood charm into your backpack.
+1/11/25 12:21:55p • You slow down to normal speed.
+1/11/25 12:21:55p • You return to your normal form.
+1/11/25 12:21:58p You slaughtered a Rat.
+1/11/25 12:22:12p You have 3009 coins.
+1/11/25 12:22:15p Holden is now Clanning.
+1/11/25 12:22:17p Shadowmutt growls, "Zzzzzz."
+1/11/25 12:22:29p You just received good karma from Tara.
+1/11/25 12:23:23p Holden is no longer Clanning.
+1/11/25 12:23:32p You have 3009 coins.
+1/11/25 12:24:17p Shadowmutt growls, "Zzzzzz."
+1/11/25 12:24:53p You have 3009 coins.
+1/11/25 12:26:13p You have 3009 coins.
+1/11/25 12:26:17p Shadowmutt growls, "Zzzzzz."
+1/11/25 12:26:41p Koppi yells, "Hashak reports: A hot dog is like a taco the same way a meatballs are like brussel sprouts"
+1/11/25 12:27:13p (Squib looks a bit worried for Valadorei)
+1/11/25 12:27:33p You have 3009 coins.
+1/11/25 12:28:04p Crius yells, "It’s 9 o’clock, and all’s well."
+1/11/25 12:28:08p Crius yells, "It looks pretty quiet in the Haunted Forest on Gho-Wei Island."
+1/11/25 12:28:17p Shadowmutt growls, "Zzzzzz."
+1/11/25 12:28:53p You have 3009 coins.
+1/11/25 12:30:13p You have 3009 coins.
+1/11/25 12:30:17p Shadowmutt growls, "Zzzzzz."
+1/11/25 12:31:34p You have 3009 coins.
+1/11/25 12:31:52p Koppi yells, "Hashak reports: I like tacos"
+1/11/25 12:32:17p Shadowmutt awakens, yawning.
+1/11/25 12:32:33p Shadowmutt growls, "Grrr."
+1/11/25 12:32:45p Socks looks at Clemence expectantly.
+1/11/25 12:32:54p You have 3009 coins.
+1/11/25 12:33:18p Mirabel is now Clanning.
+1/11/25 12:34:14p You have 3009 coins.
+1/11/25 12:34:22p Socks darts around in circles.
+1/11/25 12:34:45p Shadowmutt rolls on the ground.
+1/11/25 12:35:26p Shadowmutt growls, "Grrr."
+1/11/25 12:35:30p Shadowmutt growls, "Woof!"
+1/11/25 12:35:33p Alieshia is no longer Clanning.
+1/11/25 12:35:34p You have 3009 coins.
+1/11/25 12:35:58p Shadowmutt growls, "Grrr."
+1/11/25 12:36:07p Shadowmutt rolls on the ground.
+1/11/25 12:36:36p This bench provided by The Puddleby Civic Beautification Society.
+1/11/25 12:36:36p Sentinel yells, "There is the Emperor's law, or there is oblivion."
+1/11/25 12:36:41p • /SLEEP when you wish to begin studying.
+1/11/25 12:36:43p Use \SLEEP again when you return.
+1/11/25 12:36:43p You are done adventuring for a while and will be staying here.
+1/11/25 12:36:44p You have been disconnected from Clan Lord.
+1/11/25 12:36:44p • You will benefit from staying here while you are off-line.
+1/11/25 12:36:45p *** We are no longer connected to the Clan Lord game server. ***
+1/11/25 12:36:49p * Your shirt named “Lime Green” is in very good condition.
+1/11/25 12:36:49p * Your pair of pants named “Lime Green” is in very good condition.
+1/11/25 12:36:49p * Your pair of shoes named “red” is in very good condition.
+1/11/25 12:36:49p Welcome to Clan Lord, Magnic!
+1/11/25 12:36:49p Type \HELP for a list of commands.
+1/11/25 12:36:49p Type /ranger for commands if you forget
+1/11/25 12:36:49p Magnic is now Clanning.
+1/11/25 12:36:49p You have been studying for 24 seconds.
+1/11/25 12:36:52p It's 9:36pm on Fordi, day 66 of Winter, 640.
+1/11/25 12:36:52p Friends online: none.
+1/11/25 12:36:53p • /SLEEP when you wish to begin studying.
+1/11/25 12:36:53p You are the only member of Black Phoenix clanning.
+1/11/25 12:36:53p • What’s New: https://deltatao.com/clanlord/news
+1/11/25 12:36:57p Use \SLEEP again when you return.
+1/11/25 12:36:57p You are done adventuring for a while and will be studying here.
+1/11/25 12:36:58p You have been disconnected from Clan Lord.
+1/11/25 12:36:58p • You will benefit from studying here while you are off-line.
+1/11/25 12:36:58p *** We are no longer connected to the Clan Lord game server. ***

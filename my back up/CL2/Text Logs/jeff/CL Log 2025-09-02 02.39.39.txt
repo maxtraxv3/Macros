@@ -1,0 +1,28 @@
+
+9/2/25 2:39:39a * Your shirt named “dark grey” is in nearly perfect condition.
+9/2/25 2:39:39a * Your pair of pants named “muddy yellow” is in nearly perfect condition.
+9/2/25 2:39:39a Welcome to Clan Lord, Jeff!
+9/2/25 2:39:39a Type \HELP for a list of commands.
+9/2/25 2:39:39a • You gain experience from your recent studies.
+9/2/25 2:39:39a You have been studying for 28 days, 19 hours, 11 minutes.
+9/2/25 2:39:42a It's 11:25am on Gradi, day 32 of Autumn, 642.
+9/2/25 2:39:43a Friends online: none.
+9/2/25 2:39:44a There are two members of Black Phoenix clanning: Maxtrax and you.
+9/2/25 2:39:44a • What’s New: https://deltatao.com/clanlord/news
+9/2/25 2:39:47a You equip your brewing bag named “9”.
+9/2/25 2:39:52a •Your knowledge of blacksmithing improves.
+9/2/25 2:39:53a You see a brewing bag containing 2 yeast, a bundle of wheat and 6 bundles of barley.
+9/2/25 2:39:53a * Tip of the day: /KARMA <person> tells you about that person’s karma. /THANK and /CURSE can change it. (Use /OPTIONS to turn tips off.)
+9/2/25 2:40:03a You must be holding an item in your right hand in order to /use it.
+9/2/25 2:40:03a To use an item equipped elsewhere, see the help for /useitem.
+9/2/25 2:40:09a You must be holding an item in your right hand in order to /use it.
+9/2/25 2:40:09a To use an item equipped elsewhere, see the help for /useitem.
+9/2/25 2:40:13a /useitem "brewing bag" /remove : remove an item and place it in your pack.
+9/2/25 2:40:13a /useitem "brewing bag" /add : add an item if you’re carrying one.
+9/2/25 2:40:13a /examine : examine the contents of your brewing bag.
+9/2/25 2:40:13a * Your brewing bag can hold up to 10 yeast, bunches of grapes, clumps of hops, bundles of wheat and bundles of barley.
+9/2/25 2:41:07a Use \SLEEP again when you return.
+9/2/25 2:41:07a You are done adventuring for a while and will be staying here.
+9/2/25 2:41:08a You have been disconnected from Clan Lord.
+9/2/25 2:41:08a • You will benefit from staying here while you are off-line.
+9/2/25 2:41:09a *** We are no longer co

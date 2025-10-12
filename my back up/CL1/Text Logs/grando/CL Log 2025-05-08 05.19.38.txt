@@ -1,0 +1,562 @@
+
+5/8/25 5:19:39a * Your pair of pants named “dark grey” is in very good condition.
+5/8/25 5:19:39a * Your pair of shoes named “purple” is in very good condition.
+5/8/25 5:19:39a * Your shirt named “dark grey” is in very good condition.
+5/8/25 5:19:39a Welcome to Clan Lord, Grando!
+5/8/25 5:19:39a Type \HELP for a list of commands.
+5/8/25 5:19:39a • You have been charged 33 coins for advanced studies.
+5/8/25 5:19:39a • You gain experience from your recent studies.
+5/8/25 5:19:39a Grando is now Clanning.
+5/8/25 5:19:39a You have been studying for one day, 2 hours, 19 minutes.
+5/8/25 5:19:41a It's 7:04am on Soldi, day 4 of Summer, 641.
+5/8/25 5:19:43a You are the only member of Black Phoenix clanning.
+5/8/25 5:19:43a • What’s New: https://deltatao.com/clanlord/news
+5/8/25 5:19:45a Friends online: none.
+5/8/25 5:19:53a * Tip of the day: Further from town is more dangerous. (Use /OPTIONS to turn tips off.)
+5/8/25 5:19:54a • You gather your energy.
+5/8/25 5:19:57a • You speed up.
+5/8/25 5:19:57a You slaughtered a Scavenger Bird.
+5/8/25 5:20:57a * You need a breath of air!
+5/8/25 5:20:58a You slaughtered a Sand Ray.
+5/8/25 5:21:02a • You slow down to normal speed.
+5/8/25 5:21:02a You slip your heartwood charm into your backpack.
+5/8/25 5:21:05a Babadoon is now Clanning.
+5/8/25 5:21:54a Mimo is now Clanning.
+5/8/25 5:22:05a Silky is now Clanning.
+5/8/25 5:22:31a Babadoon is no longer Clanning.
+5/8/25 5:22:36a Hubert is no longer Clanning.
+5/8/25 5:22:52a You have 1087 coins.
+5/8/25 5:23:22a Dig is no longer Clanning.
+5/8/25 5:23:29a Gilly is now Clanning.
+5/8/25 5:24:19a Grump is no longer Clanning.
+5/8/25 5:24:21a Cat Food is now Clanning.
+5/8/25 5:24:54a Omega is now Clanning.
+5/8/25 5:25:11a Naferu is no longer Clanning.
+5/8/25 5:25:40a Omega is no longer Clanning.
+5/8/25 5:25:43a Gwaele is now Clanning.
+5/8/25 5:25:50a Gwaele is no longer Clanning.
+5/8/25 5:26:35a You have 1087 coins.
+5/8/25 5:26:41a Alanah is now Clanning.
+5/8/25 5:27:51a Alanah is no longer Clanning.
+5/8/25 5:29:31a Alkaloid is no longer Clanning.
+5/8/25 5:30:02a Brandon is now Clanning.
+5/8/25 5:30:12a Gilly is no longer Clanning.
+5/8/25 5:30:33a Brandon is no longer Clanning.
+5/8/25 5:30:36a •••
+5/8/25 5:30:36a You have been idle for too long.
+5/8/25 5:30:36a Please do something to avoid being disconnected.
+5/8/25 5:30:36a •••
+5/8/25 5:30:43a LaLa'Reyna'Tah is now Clanning.
+5/8/25 5:30:43a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+5/8/25 5:30:44a Grando has fallen to a Watery Guardian.
+5/8/25 5:30:47a You have 1087 coins.
+5/8/25 5:31:39a LaLa'Yeh'Razah is now Clanning.
+5/8/25 5:33:44a Alanah is now Clanning.
+5/8/25 5:34:47a •••
+5/8/25 5:34:47a You have been idle for too long.
+5/8/25 5:34:47a Please do something to avoid being disconnected.
+5/8/25 5:34:47a •••
+5/8/25 5:34:48a You have 1087 coins.
+5/8/25 5:38:15a Mimo's chain flies apart from the stress.
+5/8/25 5:38:49a •••
+5/8/25 5:38:49a You have been idle for too long.
+5/8/25 5:38:49a Please do something to avoid being disconnected.
+5/8/25 5:38:49a •••
+5/8/25 5:38:54a You have 1087 coins.
+5/8/25 5:39:14a •You sense healing energy from Cat Food.
+5/8/25 5:39:22a You begin sharing your experiences with Cat Food.
+5/8/25 5:39:52a You begin sharing your experiences with Mimo.
+5/8/25 5:39:52a You are sharing experiences with Mimo and Cat Food.
+5/8/25 5:41:07a Mimo is no longer fallen.
+5/8/25 5:42:30a Donk is no longer Clanning.
+5/8/25 5:42:42a You have 1087 coins.
+5/8/25 5:42:49a Alanah is no longer Clanning.
+5/8/25 5:43:15a LaLa'Yeh'Razah is no longer Clanning.
+5/8/25 5:43:24a LaLa'Reyna'Tah is no longer Clanning.
+5/8/25 5:44:53a Grando says, "c heal me"
+5/8/25 5:44:53a •You sense healing energy from Mimo.
+5/8/25 5:44:53a •You sense healing energy from Cat Food.
+5/8/25 5:45:02a You slaughtered a Water Burst.
+5/8/25 5:45:03a You slaughtered a Water Burst.
+5/8/25 5:45:04a You slaughtered a Water Burst.
+5/8/25 5:45:26a You killed a Watery Guardian.
+5/8/25 5:45:33a Grando says, "c heal me"
+5/8/25 5:45:34a •You sense healing energy from Mimo.
+5/8/25 5:45:34a •You sense healing energy from Cat Food.
+5/8/25 5:45:58a Momo is now Clanning.
+5/8/25 5:46:13a Grando says, "c heal me"
+5/8/25 5:46:13a •You sense healing energy from Mimo.
+5/8/25 5:46:13a •You sense healing energy from Cat Food.
+5/8/25 5:46:21a You have 1087 coins.
+5/8/25 5:46:30a Mimi is now Clanning.
+5/8/25 5:47:00a You killed a Watery Guardian.
+5/8/25 5:47:24a Als is now Clanning.
+5/8/25 5:48:37a Mimi is no longer Clanning.
+5/8/25 5:48:56a Als is no longer Clanning.
+5/8/25 5:48:59a Ge'do is now Clanning.
+5/8/25 5:49:48a Grando says, "c heal me"
+5/8/25 5:49:49a •You sense healing energy from Mimo.
+5/8/25 5:49:49a •You sense healing energy from Cat Food.
+5/8/25 5:50:11a You have 1087 coins.
+5/8/25 5:50:35a You killed a Watery Guardian.
+5/8/25 5:50:50a You slaughtered a Water Burst.
+5/8/25 5:51:03a You dispatched a Watery Guardian.
+5/8/25 5:51:08a Grando says, "c heal me"
+5/8/25 5:51:08a •You sense healing energy from Mimo.
+5/8/25 5:51:08a •You sense healing energy from Cat Food.
+5/8/25 5:51:33a Ge'do is no longer Clanning.
+5/8/25 5:51:57a Grando says, "c heal me"
+5/8/25 5:51:58a •You sense healing energy from Mimo.
+5/8/25 5:51:58a •You sense healing energy from Cat Food.
+5/8/25 5:52:18a Momo is no longer Clanning.
+5/8/25 5:52:37a You killed a Watery Guardian.
+5/8/25 5:52:39a You slaughtered a Water Burst.
+5/8/25 5:52:52a You slaughtered a Water Burst.
+5/8/25 5:53:21a Grando says, "c heal me"
+5/8/25 5:53:22a •You sense healing energy from Mimo.
+5/8/25 5:53:22a •You sense healing energy from Cat Food.
+5/8/25 5:53:22a Donk is now Clanning.
+5/8/25 5:53:28a You have 1087 coins.
+5/8/25 5:53:58a You killed a Watery Guardian.
+5/8/25 5:54:16a Grando says, "c heal me"
+5/8/25 5:54:17a •You sense healing energy from Mimo.
+5/8/25 5:54:17a •You sense healing energy from Cat Food.
+5/8/25 5:54:50a You killed a Watery Guardian.
+5/8/25 5:55:05a You slaughtered a Water Burst.
+5/8/25 5:55:09a You slaughtered a Water Burst.
+5/8/25 5:55:42a Grando says, "c heal me"
+5/8/25 5:55:43a •You sense healing energy from Mimo.
+5/8/25 5:55:43a •You sense healing energy from Cat Food.
+5/8/25 5:56:13a •You gain experience.
+5/8/25 5:56:24a Grando says, "c heal me"
+5/8/25 5:56:24a •You sense healing energy from Mimo.
+5/8/25 5:56:24a •You sense healing energy from Cat Food.
+5/8/25 5:56:42a You have 1087 coins.
+5/8/25 5:57:46a Aki is now Clanning.
+5/8/25 5:58:08a You killed a Watery Guardian.
+5/8/25 5:58:20a Grando says, "c heal me"
+5/8/25 5:58:20a •You sense healing energy from Mimo.
+5/8/25 5:58:20a •You sense healing energy from Cat Food.
+5/8/25 5:59:03a You killed a Watery Guardian.
+5/8/25 5:59:34a Klur is now Clanning.
+5/8/25 6:00:19a You have 1087 coins.
+5/8/25 6:00:53a Julia is now Clanning.
+5/8/25 6:01:07a Ge'do is now Clanning.
+5/8/25 6:01:19a Julia is no longer Clanning.
+5/8/25 6:01:51a Ge'do is no longer Clanning.
+5/8/25 6:04:20a •••
+5/8/25 6:04:20a You have been idle for too long.
+5/8/25 6:04:20a Please do something to avoid being disconnected.
+5/8/25 6:04:20a •••
+5/8/25 6:04:29a You have 1087 coins.
+5/8/25 6:04:32a Sativa is now Clanning.
+5/8/25 6:05:40a Naferu is now Clanning.
+5/8/25 6:06:38a Naferu is no longer Clanning.
+5/8/25 6:07:08a Donk is no longer Clanning.
+5/8/25 6:08:15a You have 1087 coins.
+5/8/25 6:09:17a Ymir is now Clanning.
+5/8/25 6:09:17a You killed a Watery Guardian.
+5/8/25 6:09:29a Grando says, "c heal me"
+5/8/25 6:09:29a •You sense healing energy from Mimo.
+5/8/25 6:09:29a •You sense healing energy from Cat Food.
+5/8/25 6:09:32a Ymir is no longer Clanning.
+5/8/25 6:10:19a You killed a Watery Guardian.
+5/8/25 6:10:31a Grando says, "c heal me"
+5/8/25 6:10:32a •You sense healing energy from Mimo.
+5/8/25 6:10:32a •You sense healing energy from Cat Food.
+5/8/25 6:11:28a You killed a Watery Guardian.
+5/8/25 6:11:32a You have 1087 coins.
+5/8/25 6:11:44a Grando says, "c heal me"
+5/8/25 6:11:44a •You sense healing energy from Mimo.
+5/8/25 6:11:44a •You sense healing energy from Cat Food.
+5/8/25 6:14:41a You have become skilled.
+5/8/25 6:14:41a You are currently studying the Watery Guardian, and have a lot to learn.
+5/8/25 6:14:54a •You can study up to 2 creatures concurrently.
+5/8/25 6:14:55a •You are currently studying the Watery Guardian, and have a lot to learn.
+5/8/25 6:14:55a •You have studied the following creatures:
+5/8/25 6:14:56a Shadowcat, Tawny Yorilla, Water Burst, Watery Guardian.
+5/8/25 6:15:17a Catan is now Clanning.
+5/8/25 6:15:23a You have 1087 coins.
+5/8/25 6:15:33a Musashi is now Clanning.
+5/8/25 6:15:41a Arc is now Clanning.
+5/8/25 6:15:50a Rose is now Clanning.
+5/8/25 6:15:52a Als is now Clanning.
+5/8/25 6:16:09a You slaughtered a Water Burst.
+5/8/25 6:16:09a Musashi is no longer Clanning.
+5/8/25 6:18:00a Saz is now Clanning.
+5/8/25 6:18:18a The Chain User is now Clanning.
+5/8/25 6:18:50a Saz is no longer Clanning.
+5/8/25 6:18:54a Tomair is now Clanning.
+5/8/25 6:18:59a The Chain User is no longer Clanning.
+5/8/25 6:19:08a You have 1087 coins.
+5/8/25 6:19:15a Fainee is now Clanning.
+5/8/25 6:19:18a Fainee is no longer Clanning.
+5/8/25 6:20:21a Tomair is no longer Clanning.
+5/8/25 6:20:37a Potes McGoats is now Clanning.
+5/8/25 6:20:47a Kenzen is now Clanning.
+5/8/25 6:20:57a You have become skilled.
+5/8/25 6:20:57a You are currently studying the Watery Guardian, and have a lot to learn.
+5/8/25 6:21:33a Potes McGoats is no longer Clanning.
+5/8/25 6:21:34a Zag is now Clanning.
+5/8/25 6:21:34a Kin is now Clanning.
+5/8/25 6:21:49a Waezu is now Clanning.
+5/8/25 6:22:44a You have 1087 coins.
+5/8/25 6:23:14a Jiro is no longer Clanning.
+5/8/25 6:23:22a Wolf Master is no longer Clanning.
+5/8/25 6:23:50a Shadrock is now Clanning.
+5/8/25 6:23:57a Catan is no longer Clanning.
+5/8/25 6:24:35a Leinis is now Clanning.
+5/8/25 6:24:41a Apocalypto is now Clanning.
+5/8/25 6:24:59a Apocalypto is no longer Clanning.
+5/8/25 6:26:12a Shadrock is no longer Clanning.
+5/8/25 6:26:38a You have 1087 coins.
+5/8/25 6:27:59a Kermit is now Clanning.
+5/8/25 6:28:16a Shard is now Clanning.
+5/8/25 6:28:28a You dispatched a Watery Guardian.
+5/8/25 6:28:33a Misha is no longer Clanning.
+5/8/25 6:28:38a Grando says, "c heal me"
+5/8/25 6:28:39a •You sense healing energy from Mimo.
+5/8/25 6:28:39a •You sense healing energy from Cat Food.
+5/8/25 6:28:48a Shobaffum is no longer Clanning.
+5/8/25 6:28:58a Shard is no longer Clanning.
+5/8/25 6:28:59a Zag is no longer Clanning.
+5/8/25 6:29:09a Shobaffum is now Clanning.
+5/8/25 6:29:17a Katreesa thinks, "I has a case of the cutes"
+5/8/25 6:29:22a You slaughtered a Water Burst.
+5/8/25 6:29:27a You killed a Watery Guardian.
+5/8/25 6:29:40a Grando says, "c heal me"
+5/8/25 6:29:40a •You sense healing energy from Mimo.
+5/8/25 6:29:40a •You sense healing energy from Cat Food.
+5/8/25 6:30:09a You have 1087 coins.
+5/8/25 6:30:37a Shobaffum is no longer Clanning.
+5/8/25 6:31:17a Brooke Britney thinks, "Donate to the most important building project in the islands: The Puddleby Civic Beautification Society!"
+5/8/25 6:31:26a Thoomedic is now Clanning.
+5/8/25 6:33:12a Zag is now Clanning.
+5/8/25 6:33:28a You have 1087 coins.
+5/8/25 6:35:25a Grand Master is no longer Clanning.
+5/8/25 6:37:28a •••
+5/8/25 6:37:28a You have been idle for too long.
+5/8/25 6:37:28a Please do something to avoid being disconnected.
+5/8/25 6:37:28a •••
+5/8/25 6:37:37a You have 1087 coins.
+5/8/25 6:39:20a Leinis is no longer Clanning.
+5/8/25 6:41:37a •••
+5/8/25 6:41:37a You have been idle for too long.
+5/8/25 6:41:37a Please do something to avoid being disconnected.
+5/8/25 6:41:37a •••
+5/8/25 6:41:48a You have 1087 coins.
+5/8/25 6:42:20a Chastity is now Clanning.
+5/8/25 6:43:56a Zag is no longer Clanning.
+5/8/25 6:45:49a •••
+5/8/25 6:45:49a You have been idle for too long.
+5/8/25 6:45:49a Please do something to avoid being disconnected.
+5/8/25 6:45:49a •••
+5/8/25 6:45:56a You have 1087 coins.
+5/8/25 6:46:09a You slaughtered a Water Burst.
+5/8/25 6:46:18a You slaughtered a Water Burst.
+5/8/25 6:46:18a You slaughtered a Water Burst.
+5/8/25 6:46:18a You slaughtered a Water Burst.
+5/8/25 6:46:22a You slaughtered a Water Burst.
+5/8/25 6:46:29a You slaughtered a Water Burst.
+5/8/25 6:46:50a TenderLumpling is now Clanning.
+5/8/25 6:49:11a You have 1087 coins.
+5/8/25 6:50:51a •You gain experience.
+5/8/25 6:52:22a You have 1087 coins.
+5/8/25 6:53:01a Chastity is no longer Clanning.
+5/8/25 6:56:22a •••
+5/8/25 6:56:22a You have been idle for too long.
+5/8/25 6:56:22a Please do something to avoid being disconnected.
+5/8/25 6:56:22a •••
+5/8/25 6:56:28a You have 1087 coins.
+5/8/25 6:59:57a You have 1087 coins.
+5/8/25 7:01:03a Lazoom thinks, "If I don’t get more materials for a lighthouse soon, I’m gonna be fired! Please help!"
+5/8/25 7:02:12a You killed a Watery Guardian.
+5/8/25 7:02:17a Grando says, "c heal me"
+5/8/25 7:02:17a •You sense healing energy from Mimo.
+5/8/25 7:02:17a •You sense healing energy from Cat Food.
+5/8/25 7:03:08a Salandra is now Clanning.
+5/8/25 7:03:15a You have 1087 coins.
+5/8/25 7:05:45a You slaughtered a Water Burst.
+5/8/25 7:06:15a You killed a Watery Guardian.
+5/8/25 7:06:24a Grando says, "c heal me"
+5/8/25 7:06:25a •You sense healing energy from Mimo.
+5/8/25 7:06:25a •You sense healing energy from Cat Food.
+5/8/25 7:06:31a TenderLumpling is no longer Clanning.
+5/8/25 7:07:02a You have 1087 coins.
+5/8/25 7:08:46a Metaulica is now Clanning.
+5/8/25 7:09:04a Metaulica is no longer Clanning.
+5/8/25 7:09:04a Slyph is now Clanning.
+5/8/25 7:09:12a Charles is now Clanning.
+5/8/25 7:09:33a Charles is no longer Clanning.
+5/8/25 7:10:37a You have 1087 coins.
+5/8/25 7:11:36a You killed a Watery Guardian.
+5/8/25 7:11:51a Grando says, "c heal me"
+5/8/25 7:11:51a •You sense healing energy from Mimo.
+5/8/25 7:11:51a •You sense healing energy from Cat Food.
+5/8/25 7:13:57a You have 1087 coins.
+5/8/25 7:14:10a You killed a Watery Guardian.
+5/8/25 7:14:28a Grando says, "c heal me"
+5/8/25 7:14:29a •You sense healing energy from Mimo.
+5/8/25 7:14:29a •You sense healing energy from Cat Food.
+5/8/25 7:15:48a Grando says, "c heal me"
+5/8/25 7:17:20a You have 1087 coins.
+5/8/25 7:20:51a You dispatched a Watery Guardian.
+5/8/25 7:21:04a Grando says, "c heal me"
+5/8/25 7:21:04a •You sense healing energy from Mimo.
+5/8/25 7:21:04a •You sense healing energy from Cat Food.
+5/8/25 7:21:12a You have 1087 coins.
+5/8/25 7:24:47a You have 1087 coins.
+5/8/25 7:27:22a Catan is now Clanning.
+5/8/25 7:28:16a Catan is no longer Clanning.
+5/8/25 7:28:42a You have 1087 coins.
+5/8/25 7:32:33a You have 1087 coins.
+5/8/25 7:33:43a You killed a Watery Guardian.
+5/8/25 7:33:57a Grando says, "c heal me"
+5/8/25 7:33:57a •You sense healing energy from Mimo.
+5/8/25 7:33:57a •You sense healing energy from Cat Food.
+5/8/25 7:35:52a You have 1087 coins.
+5/8/25 7:39:05a You have 1087 coins.
+5/8/25 7:40:27a You killed a Watery Guardian.
+5/8/25 7:41:20a Grando says, "c heal me"
+5/8/25 7:41:20a •You sense healing energy from Mimo.
+5/8/25 7:41:20a •You sense healing energy from Cat Food.
+5/8/25 7:42:18a You have 1087 coins.
+5/8/25 7:43:12a Kermit is a Dwarf, is male, is a Fighter, and is not wearing the symbol of any clan.
+5/8/25 7:43:22a •You gain experience.
+5/8/25 7:45:35a Salandra is no longer Clanning.
+5/8/25 7:45:36a You have 1087 coins.
+5/8/25 7:47:33a Kermit is no longer Clanning.
+5/8/25 7:48:07a Thoomedic is no longer Clanning.
+5/8/25 7:49:33a You have 1087 coins.
+5/8/25 7:49:58a Catan is now Clanning.
+5/8/25 7:51:29a Woolf is now Clanning.
+5/8/25 7:52:15a You slaughtered a Water Burst.
+5/8/25 7:52:29a Unagi is now Clanning.
+5/8/25 7:53:14a You have 1087 coins.
+5/8/25 7:53:33a Unagi is no longer Clanning.
+5/8/25 7:53:39a Omega is now Clanning.
+5/8/25 7:57:11a You have 1087 coins.
+5/8/25 7:57:40a You slaughtered a Water Burst.
+5/8/25 7:58:10a You dispatched a Watery Guardian.
+5/8/25 7:58:26a Grando says, "c heal me"
+5/8/25 7:58:26a •You sense healing energy from Mimo.
+5/8/25 7:58:26a •You sense healing energy from Cat Food.
+5/8/25 7:59:30a Slyph is no longer Clanning.
+5/8/25 8:00:45a You have 1087 coins.
+5/8/25 8:03:38a You slaughtered a Water Burst.
+5/8/25 8:04:19a You have 1087 coins.
+5/8/25 8:08:18a You have 1087 coins.
+5/8/25 8:10:17a Katreesa thinks, "Question: Do pets steal lasties? Is that a thing?"
+5/8/25 8:10:25a Grando thinks, "yes"
+5/8/25 8:10:35a Katreesa thinks, "oh, thanks"
+5/8/25 8:10:57a You just received good karma from Katreesa.
+5/8/25 8:10:58a You slaughtered a Water Burst.
+5/8/25 8:11:08a You slaughtered a Water Burst.
+5/8/25 8:11:09a You slaughtered a Water Burst.
+5/8/25 8:11:48a You have 1087 coins.
+5/8/25 8:14:00a Woolf is no longer Clanning.
+5/8/25 8:14:19a Icy is now Clanning.
+5/8/25 8:15:27a You have 1087 coins.
+5/8/25 8:17:01a Hubert is now Clanning.
+5/8/25 8:17:22a Hubert is no longer Clanning.
+5/8/25 8:18:52a You have 1087 coins.
+5/8/25 8:18:55a Catan thinks, "come"
+5/8/25 8:19:28a Kalian is now Clanning.
+5/8/25 8:20:03a You slaughtered a Water Burst.
+5/8/25 8:20:11a You slaughtered a Water Burst.
+5/8/25 8:20:12a You slaughtered a Water Burst.
+5/8/25 8:22:30a You have 1087 coins.
+5/8/25 8:23:24a You have become skilled.
+5/8/25 8:23:24a You are currently studying the Watery Guardian, and have a lot to learn.
+5/8/25 8:24:42a Icy is no longer Clanning.
+5/8/25 8:25:57a You have 1087 coins.
+5/8/25 8:27:44a •You can study up to 2 creatures concurrently.
+5/8/25 8:27:44a •You are currently studying the Watery Guardian, and have a lot to learn.
+5/8/25 8:27:45a •You have studied the following creatures:
+5/8/25 8:27:45a Shadowcat, Tawny Yorilla, Water Burst, Watery Guardian.
+5/8/25 8:28:46a Aki is no longer Clanning.
+5/8/25 8:29:50a You have 1087 coins.
+5/8/25 8:30:11a Bach is no longer Clanning.
+5/8/25 8:30:32a Als is no longer Clanning.
+5/8/25 8:33:31a Rose is no longer Clanning.
+5/8/25 8:33:34a Saz is now Clanning.
+5/8/25 8:33:41a Saz is no longer Clanning.
+5/8/25 8:33:44a Zog is now Clanning.
+5/8/25 8:33:48a You have 1087 coins.
+5/8/25 8:34:02a Kenzen is no longer Clanning.
+5/8/25 8:34:07a Waezu is no longer Clanning.
+5/8/25 8:34:22a You killed a Watery Guardian.
+5/8/25 8:34:25a Eli is now Clanning.
+5/8/25 8:34:47a Grando says, "c heal me"
+5/8/25 8:34:48a •You sense healing energy from Mimo.
+5/8/25 8:34:48a •You sense healing energy from Cat Food.
+5/8/25 8:35:11a Zog is no longer Clanning.
+5/8/25 8:35:14a Saz is now Clanning.
+5/8/25 8:35:19a • You have a lot to learn about the ways of the Watery Guardian.
+5/8/25 8:35:20a You dispatched a Watery Guardian.
+5/8/25 8:35:20a Grando ponders, "A lot to learn! 510-700 to go!"
+5/8/25 8:36:19a Grando says, "c heal me"
+5/8/25 8:36:20a •You sense healing energy from Mimo.
+5/8/25 8:36:20a •You sense healing energy from Cat Food.
+5/8/25 8:37:06a You have 1087 coins.
+5/8/25 8:37:14a You killed a Watery Guardian.
+5/8/25 8:37:24a Grando says, "c heal me"
+5/8/25 8:37:24a •You sense healing energy from Mimo.
+5/8/25 8:37:24a •You sense healing energy from Cat Food.
+5/8/25 8:37:52a Kin is no longer Clanning.
+5/8/25 8:37:55a You dispatched a Watery Guardian.
+5/8/25 8:38:17a Saz is no longer Clanning.
+5/8/25 8:38:20a Fern is now Clanning.
+5/8/25 8:38:38a Fern is no longer Clanning.
+5/8/25 8:40:18a Fern is now Clanning.
+5/8/25 8:40:30a You have 1087 coins.
+5/8/25 8:40:35a Woolf is now Clanning.
+5/8/25 8:40:45a Fern is no longer Clanning.
+5/8/25 8:41:26a Klur is no longer Clanning.
+5/8/25 8:42:03a •The Sun sets.
+5/8/25 8:42:40a Eli is no longer Clanning.
+5/8/25 8:43:34a Kermit is now Clanning.
+5/8/25 8:44:25a You have 1087 coins.
+5/8/25 8:45:20a Chastity is now Clanning.
+5/8/25 8:47:42a You killed a Watery Guardian.
+5/8/25 8:48:07a You have 1087 coins.
+5/8/25 8:48:25a Grando says, "c heal me"
+5/8/25 8:48:25a •You sense healing energy from Mimo.
+5/8/25 8:48:25a •You sense healing energy from Cat Food.
+5/8/25 8:50:06a Katreesa is no longer Clanning.
+5/8/25 8:51:17a You dispatched a Watery Guardian.
+5/8/25 8:51:23a You have 1087 coins.
+5/8/25 8:51:45a You equip your heartwood charm.
+5/8/25 8:51:45a • You gather your energy.
+5/8/25 8:51:47a • You speed up.
+5/8/25 8:51:57a • You slow down to normal speed.
+5/8/25 8:51:57a You slip your heartwood charm into your backpack.
+5/8/25 8:52:00a Grando says, "c heal me"
+5/8/25 8:52:00a •You sense healing energy from Mimo.
+5/8/25 8:52:00a •You sense healing energy from Cat Food.
+5/8/25 8:52:40a Grando says, "c heal me"
+5/8/25 8:52:40a •You sense healing energy from Mimo.
+5/8/25 8:52:40a •You sense healing energy from Cat Food.
+5/8/25 8:53:12a You killed a Watery Guardian.
+5/8/25 8:53:16a Grando says, "c heal me"
+5/8/25 8:53:17a •You sense healing energy from Mimo.
+5/8/25 8:53:17a •You sense healing energy from Cat Food.
+5/8/25 8:54:01a Lifesaver is now Clanning.
+5/8/25 8:54:40a You killed a Watery Guardian.
+5/8/25 8:54:41a Lifesaver is no longer Clanning.
+5/8/25 8:54:49a You have 1087 coins.
+5/8/25 8:55:39a Grando says, "c heal me"
+5/8/25 8:55:39a •You sense healing energy from Mimo.
+5/8/25 8:55:39a •You sense healing energy from Cat Food.
+5/8/25 8:55:55a Chastity is no longer Clanning.
+5/8/25 8:56:21a Kermit is no longer Clanning.
+5/8/25 8:56:25a Grando says, "c heal me"
+5/8/25 8:56:25a •You sense healing energy from Mimo.
+5/8/25 8:56:25a •You sense healing energy from Cat Food.
+5/8/25 8:57:48a Kermit is now Clanning.
+5/8/25 8:58:03a You killed a Watery Guardian.
+5/8/25 8:58:12a Grando says, "c heal me"
+5/8/25 8:58:12a •You sense healing energy from Mimo.
+5/8/25 8:58:12a •You sense healing energy from Cat Food.
+5/8/25 8:58:20a You have 1087 coins.
+5/8/25 8:59:00a Kermit is no longer Clanning.
+5/8/25 8:59:01a Grando says, "c heal me"
+5/8/25 8:59:02a •You sense healing energy from Mimo.
+5/8/25 8:59:02a •You sense healing energy from Cat Food.
+5/8/25 8:59:41a You dispatched a Watery Guardian.
+5/8/25 8:59:45a You dispatched a Watery Guardian.
+5/8/25 9:00:34a Shobaffum is now Clanning.
+5/8/25 9:00:41a Grando says, "c heal me"
+5/8/25 9:00:42a •You sense healing energy from Mimo.
+5/8/25 9:00:42a •You sense healing energy from Cat Food.
+5/8/25 9:01:41a You have 1087 coins.
+5/8/25 9:03:46a You slaughtered a Water Burst.
+5/8/25 9:04:05a You killed a Watery Guardian.
+5/8/25 9:04:18a Grando says, "c heal me"
+5/8/25 9:04:18a •You sense healing energy from Mimo.
+5/8/25 9:04:18a •You sense healing energy from Cat Food.
+5/8/25 9:05:12a You killed a Watery Guardian.
+5/8/25 9:05:13a You have 1087 coins.
+5/8/25 9:05:29a Grando says, "c heal me"
+5/8/25 9:05:29a •You sense healing energy from Mimo.
+5/8/25 9:05:29a •You sense healing energy from Cat Food.
+5/8/25 9:07:29a Grand Master is now Clanning.
+5/8/25 9:08:44a You have 1087 coins.
+5/8/25 9:08:49a Kermit is now Clanning.
+5/8/25 9:08:56a Thoomedic is now Clanning.
+5/8/25 9:09:52a Thoomedic is no longer Clanning.
+5/8/25 9:12:17a Thoomedic is now Clanning.
+5/8/25 9:12:31a You have 1087 coins.
+5/8/25 9:12:52a Grando says, "c heal me"
+5/8/25 9:12:53a •You sense healing energy from Mimo.
+5/8/25 9:12:53a •You sense healing energy from Cat Food.
+5/8/25 9:13:42a Grando says, "c heal me"
+5/8/25 9:13:42a •You sense healing energy from Mimo.
+5/8/25 9:13:42a •You sense healing energy from Cat Food.
+5/8/25 9:14:27a You killed a Watery Guardian.
+5/8/25 9:14:40a You killed a Watery Guardian.
+5/8/25 9:14:49a Grando says, "c heal me"
+5/8/25 9:14:49a •You sense healing energy from Mimo.
+5/8/25 9:14:49a •You sense healing energy from Cat Food.
+5/8/25 9:15:38a You dispatched a Watery Guardian.
+5/8/25 9:15:53a You have 1087 coins.
+5/8/25 9:16:04a You killed a Watery Guardian.
+5/8/25 9:16:10a Grando says, "c heal me"
+5/8/25 9:16:10a •You sense healing energy from Mimo.
+5/8/25 9:16:10a •You sense healing energy from Cat Food.
+5/8/25 9:16:56a You slaughtered a Water Burst.
+5/8/25 9:16:59a You slaughtered a Water Burst.
+5/8/25 9:17:07a You slaughtered a Water Burst.
+5/8/25 9:18:15a Shakyamuni is now Clanning.
+5/8/25 9:19:10a Giben is now Clanning.
+5/8/25 9:19:21a You have 1087 coins.
+5/8/25 9:21:38a Suu'ub III is now Clanning.
+5/8/25 9:22:00a Shadrock is now Clanning.
+5/8/25 9:22:25a Phroon is now Clanning.
+5/8/25 9:22:28a Shadrock is no longer Clanning.
+5/8/25 9:22:49a You have 1087 coins.
+5/8/25 9:23:37a Manjushri is now Clanning.
+5/8/25 9:25:10a Manjushri is no longer Clanning.
+5/8/25 9:26:31a You have 1087 coins.
+5/8/25 9:27:54a Izax is now Clanning.
+5/8/25 9:28:05a • It’s Midnight on Lundi, the 5th day of Summer in the 641st year of the Ascendancy, and all’s well.
+5/8/25 9:29:32a Fortuna is no longer Clanning.
+5/8/25 9:30:02a Cinder is no longer Clanning.
+5/8/25 9:30:27a Malakar is no longer Clanning.
+5/8/25 9:30:31a •••
+5/8/25 9:30:31a You have been idle for too long.
+5/8/25 9:30:31a Please do something to avoid being disconnected.
+5/8/25 9:30:31a •••
+5/8/25 9:30:36a You have 1087 coins.
+5/8/25 9:31:41a Satris is no longer Clanning.
+5/8/25 9:32:08a Kermit is no longer Clanning.
+5/8/25 9:32:10a FriedDylan is now Clanning.
+5/8/25 9:32:25a Sullin is now Clanning.
+5/8/25 9:32:26a Omega is no longer Clanning.
+5/8/25 9:33:32a Thoomedic is no longer Clanning.
+5/8/25 9:33:45a Kanzeon is now Clanning.
+5/8/25 9:34:00a Kanzeon is no longer Clanning.
+5/8/25 9:34:10a Samantabadra is now Clanning.
+5/8/25 9:34:25a Samantabadra is no longer Clanning.
+5/8/25 9:34:34a Shariputra is now Clanning.
+5/8/25 9:34:37a •••
+5/8/25 9:34:37a You have been idle for too long.
+5/8/25 9:34:37a Please do something to avoid being disconnected.
+5/8/25 9:34:37a •••
+5/8/25 9:34:39a You have 1087 coins.
+5/8/25 9:34:42a Shariputra is no longer Clanning.
+5/8/25 9:36:43a Omega is now Clanning.
+5/8/25 9:37:10a You slaughtered a Water Burst.
+5/8/25 9:37:12a You slaughtered a Water Burst.
+5/8/25 9:38:01a Grand Master is no longer Clanning.
+5/8/25 9:38:24a You have 1087 coins.
+5/8/25 9:39:07a You equip your heartwood charm.
+5/8/25 9:39:07a • You gather your energy.
+5/8/25 9:39:10a • You speed up.
+5/8/25 9:40:46a • /SLEEP when you wish to begin studying.
+5/8/25 9:40:53a • /SLEEP when you wish to begin studying.
+5/8/25 9:40:55a Use \SLEEP again when you return.
+5/8/25 9:40:56a You are done adventuring for a while and will be studying here.
+5/8/25 9:40:56a You have been disconnected from Clan Lord.
+5/8/25 9:40:57a • You will benefit from studying here while you are off-line.
+5/8/25 9:40:57a *** We are no longer connected to the Clan Lord game server. ***

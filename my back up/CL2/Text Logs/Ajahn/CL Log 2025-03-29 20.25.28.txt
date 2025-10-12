@@ -1,0 +1,108 @@
+
+3/29/25 8:25:28p * Your shirt named “dark grey” is in pretty good shape.
+3/29/25 8:25:28p * Your pair of pants named “dark grey” is in nearly perfect condition.
+3/29/25 8:25:28p Welcome to Clan Lord, Ajahn!
+3/29/25 8:25:28p Type \HELP for a list of commands.
+3/29/25 8:25:28p • You gain experience from your recent studies.
+3/29/25 8:25:28p You have been studying for 2 days, 18 hours, 17 minutes.
+3/29/25 8:25:29p Friends online: none.
+3/29/25 8:25:31p It's 5:33am on Soldi, day 23 of Winter, 641.
+3/29/25 8:25:33p There are two members of Black Phoenix clanning: Unholy and you.
+3/29/25 8:25:33p • What’s New: https://deltatao.com/clanlord/news
+3/29/25 8:25:35p Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+3/29/25 8:25:35p Aitnos asks, "Would you like to apply some of your learning to Evus’s lessons?"
+3/29/25 8:25:38p Ajahn says, "yes"
+3/29/25 8:25:39p Aitnos says, "Congratulations, Ajahn. You should now understand more of Evus’s teachings."
+3/29/25 8:25:39p Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+3/29/25 8:25:40p Aitnos says, "You have not yet learned enough for Evus’s lesson."
+3/29/25 8:25:40p Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+3/29/25 8:25:41p Aitnos says, "You have not yet learned enough for Evus’s lesson."
+3/29/25 8:25:43p * Tip of the day: The standard macros listed in the Default file in your Macros folder are available to all your characters. (Use /OPTIONS to turn tips off.)
+3/29/25 8:26:03p Evus says, "Hail, Ajahn. Teaching you has taught me much."
+3/29/25 8:26:03p * Evus : 300-349.
+3/29/25 8:26:03p Evus says, "I can teach you a well-rounded combat approach."
+3/29/25 8:26:06p Histia says, "Hail, Ajahn. You are one of my better pupils."
+3/29/25 8:26:06p * Histia : 50-99.
+3/29/25 8:26:07p Histia says, "I can teach you how to withstand more damage."
+3/29/25 8:26:09p Swengus says, "Hail, Ajahn. There is not much more I can teach you."
+3/29/25 8:26:09p * Swengus : 250-299.
+3/29/25 8:26:10p Swengus says, "I can teach you to keep your balance while attacking."
+3/29/25 8:26:12p Atkus says, "Hail, Ajahn. You are one of my better pupils."
+3/29/25 8:26:12p * Atkus : 50-99.
+3/29/25 8:26:12p Atkus says, "I can teach you how to attack more effectively."
+3/29/25 8:26:13p Atkus says, "You will learn as you practice."
+3/29/25 8:26:19p Honor says, "Welcome to the fighter testing area."
+3/29/25 8:26:19p Honor says, "In a few moments I will let in hostile creatures."
+3/29/25 8:26:33p You killed a Captured Death Vermine.
+3/29/25 8:26:46p You dispatched a Captured Giant Vermine.
+3/29/25 8:26:54p You killed a Captured Orga Berserk.
+3/29/25 8:27:02p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/29/25 8:27:03p Ajahn has fallen to a Captured Orga Rage.
+3/29/25 8:27:03p Honor yells, "Regrettably, Ajahn, you have failed."
+3/29/25 8:27:03p Honor sighs.
+3/29/25 8:27:04p Honor yells, "Try again when you are a little stronger or wiser."
+3/29/25 8:27:25p You slaughtered a Scavenger Bird.
+3/29/25 8:27:42p Ajahn says, "hmm"
+3/29/25 8:27:57p Ajahn says, "100 more evus till 3rd i think"
+3/29/25 8:28:19p Ajahn ponders, "do rat give xp?"
+3/29/25 8:28:21p Squib whispers, "attack"
+3/29/25 8:28:40p You dispatched a Darshak Swabbie.
+3/29/25 8:28:45p You slaughtered a Vermine.
+3/29/25 8:28:54p You slaughtered a Vermine.
+3/29/25 8:29:09p Ajahn says, "nope"
+3/29/25 8:29:49p You slaughtered a Vermine.
+3/29/25 8:30:05p You dispatched an Island Panther.
+3/29/25 8:30:11p You slaughtered a Vermine.
+3/29/25 8:30:14p You begin sharing your experiences with Dehn.
+3/29/25 8:30:19p You begin sharing your experiences with Squib.
+3/29/25 8:30:19p You are sharing experiences with Squib and Dehn.
+3/29/25 8:30:23p Squib is sharing experiences with you.
+3/29/25 8:30:28p You dispatched a Large Vermine.
+3/29/25 8:30:31p You dispatched an Island Panther.
+3/29/25 8:30:33p You dispatched a Large Vermine.
+3/29/25 8:30:41p You slaughtered a Vermine.
+3/29/25 8:30:45p You killed an Artak Cougar.
+3/29/25 8:30:49p You dispatched a Giant Slug.
+3/29/25 8:30:58p You dispatched an Artak Cougar.
+3/29/25 8:31:06p You dispatched an Island Panther.
+3/29/25 8:31:07p You slaughtered a Vermine.
+3/29/25 8:31:08p You slaughtered a Rat.
+3/29/25 8:31:39p You dispatched an Artak Cougar.
+3/29/25 8:32:00p You dispatched an Artak Cougar.
+3/29/25 8:32:06p You dispatched a Young Rockodile.
+3/29/25 8:32:45p •You seem to fight more effectively now.
+3/29/25 8:32:47p You dispatched a Vermine.
+3/29/25 8:32:52p You slaughtered a Vermine.
+3/29/25 8:33:02p You slaughtered a Rat.
+3/29/25 8:33:39p Ajahn says, "kb is dispatches"
+3/29/25 8:33:59p Ajahn ponders, "maybe noids"
+3/29/25 8:35:34p Koppi yells, "Palmeri reports: Make Squib Blue Again! Join the Fledglings today to support semi weird causes"
+3/29/25 8:35:56p Ajahn says, "squib heal me"
+3/29/25 8:35:57p •You sense healing energy from Squib.
+3/29/25 8:36:34p Ajahn ponders, "maybe if i go for atkus insted?"
+3/29/25 8:36:53p Atkus says, "Hail, Ajahn. You are one of my better pupils."
+3/29/25 8:36:53p * Atkus : 50-99.
+3/29/25 8:36:53p Atkus says, "I can teach you how to attack more effectively."
+3/29/25 8:36:54p Atkus says, "You will learn as you practice."
+3/29/25 8:36:58p Evus says, "Hail, Ajahn. Teaching you has taught me much."
+3/29/25 8:36:58p * Evus : 300-349.
+3/29/25 8:36:58p Evus says, "I can teach you a well-rounded combat approach."
+3/29/25 8:36:59p Evus says, "You will learn as you practice."
+3/29/25 8:37:08p Atkus says, "Hail, Ajahn. You are one of my better pupils."
+3/29/25 8:37:08p * Atkus : 50-99.
+3/29/25 8:37:08p Atkus says, "I can teach you how to attack more effectively."
+3/29/25 8:37:08p Atkus says, "You will learn as you practice."
+3/29/25 8:37:09p Atkus asks, "Are you sure you would like to train with me?"
+3/29/25 8:37:10p Ajahn says, "yes"
+3/29/25 8:37:10p Atkus says, "Welcome aboard. Go into the world and learn what you may, while practicing our craft."
+3/29/25 8:37:11p Atkus says, "Hail, Ajahn. You are one of my better pupils."
+3/29/25 8:37:11p * Atkus : 50-99.
+3/29/25 8:37:11p Atkus says, "I can teach you how to attack more effectively."
+3/29/25 8:37:26p • /SLEEP when you wish to begin studying.
+3/29/25 8:37:30p You have 129 coins.
+3/29/25 8:37:34p • /SLEEP when you wish to begin studying.
+3/29/25 8:37:38p Use \SLEEP again when you return.
+3/29/25 8:37:38p You are done adventuring for a while and will be studying here.
+3/29/25 8:37:39p You have been disconnected from Clan Lord.
+3/29/25 8:37:39p • You will benefit from studying here while you are off-line.
+3/29/25 8:37:40p *** We are no longer connected to the Clan Lord game server. ***

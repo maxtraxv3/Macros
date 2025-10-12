@@ -1,0 +1,44 @@
+
+8/24/25 2:35:05a * Your shirt named “dark grey” is in nearly perfect condition.
+8/24/25 2:35:05a * Your pair of pants named “muddy yellow” is in nearly perfect condition.
+8/24/25 2:35:05a Welcome to Clan Lord, Jeff!
+8/24/25 2:35:05a Type \HELP for a list of commands.
+8/24/25 2:35:05a • You gain experience from your recent studies.
+8/24/25 2:35:05a Jeff is now Clanning.
+8/24/25 2:35:05a You have been studying for 28 days, 17 hours, 34 minutes.
+8/24/25 2:35:05a Friends online: none.
+8/24/25 2:35:08a It's 3:28pm on Soldi, day 85 of Summer, 642.
+8/24/25 2:35:10a You are the only member of Black Phoenix clanning.
+8/24/25 2:35:10a • What’s New: https://deltatao.com/clanlord/news
+8/24/25 2:35:13a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+8/24/25 2:35:13a Aitnos asks, "Would you like to apply some of your learning to Forgus’s lessons?"
+8/24/25 2:35:14a Jeff whispers, "yes"
+8/24/25 2:35:14a Aitnos says, "Congratulations, Jeff. You should now understand more of Forgus’s teachings."
+8/24/25 2:35:15a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+8/24/25 2:35:15a Aitnos says, "You have not yet learned enough for Forgus’s lesson."
+8/24/25 2:35:16a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+8/24/25 2:35:16a Aitnos says, "You have not yet learned enough for Forgus’s lesson."
+8/24/25 2:35:17a Asterru says, "Jeff, you have just begun to work with Forgus. Keep practicing."
+8/24/25 2:35:17a * |▰═════════| 0%-13%
+8/24/25 2:35:19a * Tip of the day: /KARMA <person> tells you about that person’s karma. /THANK and /CURSE can change it. (Use /OPTIONS to turn tips off.)
+8/24/25 2:36:14a Forgus says, "Hail, Jeff. It is hard to find more to teach you."
+8/24/25 2:36:14a * Forgus : 150-199.
+8/24/25 2:36:14a Forgus says, "I can teach you the art of blacksmithing."
+8/24/25 2:36:14a Forgus says, "You will learn as you practice."
+8/24/25 2:36:15a Forgus asks, "Are you sure you would like to train with me?"
+8/24/25 2:37:38a * You have 473c worth of sewing supplies.
+8/24/25 2:37:38a \USEITEM "sewing kit": determine repair costs for the clothing item selected in your Inventory
+8/24/25 2:37:38a \USEITEM "sewing kit" <player>: determine repair costs for someone else's current outfit
+8/24/25 2:37:38a \USEITEM "sewing kit" /mend: mend the clothing item selected in your Inventory
+8/24/25 2:37:38a \USEITEM "sewing kit" /combine: combine supplies in all your sewing kits into one
+8/24/25 2:37:45a Kalian's fitted foxrein cloak isn't too badly worn yet. You would need 1c worth of sewing supplies to mend it. His pair of pants is looking rather worn. You would need 1c worth of sewing supplies to mend it. 
+8/24/25 2:37:55a • You gain experience from your adventures.
+8/24/25 2:38:08a You have 17 coins.
+8/24/25 2:38:25a Ravenstorm's fitted foxrein cloak isn't too badly worn yet. You would need 1c worth of sewing supplies to mend it. His pair of pants isn't too badly worn yet. You would need 1c worth of sewing supplies to mend it. His pair of shoes isn't too badly worn yet. You would need 1c worth of sewing supplies to mend it. 
+8/24/25 2:38:32a Azriel is no longer Clanning.
+8/24/25 2:38:53a • /SLEEP when you wish to begin studying.
+8/24/25 2:38:57a Use \SLEEP again when you return.
+8/24/25 2:38:57a You are done adventuring for a while and will be staying here.
+8/24/25 2:38:58a You have been disconnected from Clan Lord.
+8/24/25 2:38:58a • You will benefit from staying here while you are off-line.
+8/24/25 2:38:58a *** We are no longer connected to the Clan Lord game server. ***

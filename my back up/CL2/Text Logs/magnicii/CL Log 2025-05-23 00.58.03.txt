@@ -1,0 +1,33 @@
+
+5/23/25 12:58:03a * Your pair of pants named “dark grey” is in very good condition.
+5/23/25 12:58:03a * Your pair of shoes named “red” is in very good condition.
+5/23/25 12:58:03a * Your shirt named “dark grey” is in nearly perfect condition.
+5/23/25 12:58:03a Welcome to Clan Lord, Magnic II!
+5/23/25 12:58:03a Type \HELP for a list of commands.
+5/23/25 12:58:03a • You have been charged 64 coins for advanced studies.
+5/23/25 12:58:03a • You gain experience from your recent studies.
+5/23/25 12:58:03a You have been studying for 2 days, 2 hours, 18 minutes.
+5/23/25 12:58:06a It's 9:57pm on Merdi, day 64 of Summer, 641.
+5/23/25 12:58:07a Friends online: none.
+5/23/25 12:58:08a There are two members of Black Phoenix clanning: Faticus and you.
+5/23/25 12:58:08a • What’s New: https://deltatao.com/clanlord/news
+5/23/25 12:58:17a * Tip of the day: A tureen is a large, deep dish or pot. (Use /OPTIONS to turn tips off.)
+5/23/25 12:58:22a * Swapping Armour
+5/23/25 12:58:23a You equip your gilded breastplate named “MagnicII”.
+5/23/25 12:58:23a You equip your iron helmet named “MagnicII”.
+5/23/25 12:58:23a You equip your iron shield named “MagnicII”.
+5/23/25 12:58:25a * Swapping Boots
+5/23/25 12:58:25a You equip your lead boots named “MagnicII”.
+5/23/25 12:59:20a •Your Earthpower improves.
+5/23/25 12:59:27a * Swapping Boots
+5/23/25 12:59:27a You equip your pair of shoes named “red”, which is in very good condition.
+5/23/25 12:59:29a * Swapping Armour
+5/23/25 12:59:29a You have no 'shirt3' to equip.
+5/23/25 12:59:30a You slip your iron helmet into your backpack.
+5/23/25 12:59:30a You slip your iron shield into your backpack.
+5/23/25 12:59:51a Your shirt is now named “shirt3”.
+5/23/25 1:00:00a You equip your shirt named “shirt3”, which is in nearly perfect condition.
+5/23/25 1:00:02a • /SLEEP when you wish to begin studying.
+5/23/25 1:00:04a Use \SLEEP again when you return.
+5/23/25 1:00:05a You are done adventuring for a while and will be studying here.
+5/23/25 1:00:05a You ha

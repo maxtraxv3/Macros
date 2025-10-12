@@ -1,0 +1,33 @@
+
+2/13/25 8:07:45p * Your healer's cloak is in very good condition.
+2/13/25 8:07:45p Welcome to Clan Lord, Unholy!
+2/13/25 8:07:45p Type \HELP for a list of commands.
+2/13/25 8:07:45p • You have been charged 87 coins for advanced studies.
+2/13/25 8:07:45p • You gain experience from your recent studies.
+2/13/25 8:07:45p *Healer Mode
+2/13/25 8:07:45p *Type /hi help for more info
+2/13/25 8:07:45p Unholy is now Clanning.
+2/13/25 8:07:45p The healing spell has started.
+2/13/25 8:07:45p You have been studying for 2 days, 20 hours, 42 minutes.
+2/13/25 8:07:46p Friends online: none.
+2/13/25 8:07:48p It's 4:20am on Gradi, day 23 of Summer, 640.
+2/13/25 8:07:50p There are four members of Black Phoenix clanning: Ceara, Jaelailah, Kossandra and you.
+2/13/25 8:07:50p • What’s New: https://deltatao.com/clanlord/news • Shieldstones can now be toggled on-and-off in the usual way again. 
+2/13/25 8:07:53p Akalite is no longer Clanning.
+2/13/25 8:07:56p ZipLock is now Clanning.
+2/13/25 8:07:56p ZipLock has been studying for 2 days, 11 hours, 28 minutes.
+2/13/25 8:08:00p * Tip of the day: You can /EQUIP and /UNEQUIP an item using its custom name, if it has one. (Use /OPTIONS to turn tips off.)
+2/13/25 8:08:35p Ephraim is now Clanning.
+2/13/25 8:09:15p You begin sharing your experiences with Kossandra.
+2/13/25 8:09:17p You are already sharing with Kossandra.
+2/13/25 8:09:19p You begin sharing your experiences with Jaelailah.
+2/13/25 8:09:19p You are sharing experiences with Jaelailah and Kossandra.
+2/13/25 8:09:25p *** We are no longer connected to the Clan Lord game server. ***
+2/13/25 8:09:29p \USEITEM <ITEM> <TEXT> will use the item if it is equipped. \USEITEM left <TEXT> will use whatever you are holding in your left hand.  Other equipment locations work too. Many items give help with \USEITEM <ITEM> ?
+2/13/25 8:09:29p Welcome back, Unholy!
+2/13/25 8:09:29p *Healer Mode
+2/13/25 8:09:29p *Type /hi help for more info
+2/13/25 8:09:29p Friends online: none.
+2/13/25 8:09:42p Unholy says, "hmm"
+2/13/25 8:09:54p Unholy says, "brb gott reboot client"
+2/13/25 8:09:57p *** We are no longer connected to the Clan Lord game server. ***

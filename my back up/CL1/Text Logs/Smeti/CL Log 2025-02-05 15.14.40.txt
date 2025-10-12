@@ -1,0 +1,361 @@
+
+2/5/25 3:14:40p * Your pair of pants is in pretty good shape.
+2/5/25 3:14:40p * Your shirt named “dark grey” is in very good condition.
+2/5/25 3:14:40p * Your pair of shoes named “purple” is in very good condition.
+2/5/25 3:14:40p Welcome to Clan Lord, Smeti!
+2/5/25 3:14:40p Type \HELP for a list of commands.
+2/5/25 3:14:40p • You have been charged 53 coins for advanced studies.
+2/5/25 3:14:40p • You gain experience from your recent studies.
+2/5/25 3:14:41p Smeti is now Clanning.
+2/5/25 3:14:41p You have been studying for one day, 17 hours, 41 minutes.
+2/5/25 3:14:41p Friends online: none.
+2/5/25 3:14:43p It's 2:54pm on Terrdi, day 79 of Spring, 640.
+2/5/25 3:14:45p You are the only member of Black Phoenix clanning.
+2/5/25 3:14:45p • What’s New: https://deltatao.com/clanlord/news
+2/5/25 3:14:55p * Tip of the day: Better skinners have a better chance to recover a fur, but they don’t get more from a given one. (Use /OPTIONS to turn tips off.)
+2/5/25 3:16:03p Crius yells, "It’s 3 o’clock, and all’s well."
+2/5/25 3:16:08p Crius yells, "There’s good hunting in the marsh."
+2/5/25 3:16:58p Seaforth asks, "Sir Giben, would you hold onto a piece of my armor for repairs?"
+2/5/25 3:17:08p Giben says, "sure"
+2/5/25 3:17:31p Seaforth is no longer Clanning.
+2/5/25 3:17:36p X-share-X is now Clanning.
+2/5/25 3:17:43p Warawonda is now Clanning.
+2/5/25 3:17:43p X-share-X yells, "repairs!"
+2/5/25 3:17:58p Koppi yells, "Katreesa reports: this: https://www.youtube.com/watch?v=2oRlBmwKzy4"
+2/5/25 3:17:59p X-share-X says, "I'm here to repair some boots"
+2/5/25 3:18:14p Warawonda is no longer Clanning.
+2/5/25 3:18:18p You have 5041 coins.
+2/5/25 3:18:27p X-share-X repairs a lead boots.
+2/5/25 3:18:33p You equip your bronze breastplate.
+2/5/25 3:18:34p You equip your bronze helmet.
+2/5/25 3:18:36p Smeti asks, "can you check mine?"
+2/5/25 3:18:55p X-share-X says, "lets see Smeti"
+2/5/25 3:19:07p X-share-X says, "breastplate is good, 100c"
+2/5/25 3:19:13p X-share-X says, "shield 175c"
+2/5/25 3:19:22p X-share-X says, "helmet is a little beat, 56c"
+2/5/25 3:19:39p X-share-X asks, "Want anything fixed?"
+2/5/25 3:19:50p (Smeti nods)
+2/5/25 3:19:54p Smeti says, "all please"
+2/5/25 3:19:58p X-share-X says, "ok"
+2/5/25 3:20:02p Sorry, you do not have that many coins.
+2/5/25 3:20:04p You offer a bronze helmet to X-share-X for free.
+2/5/25 3:20:04p \SELL /cancel to cancel the offer.
+2/5/25 3:20:07p You hand X-share-X a bronze helmet.
+2/5/25 3:20:09p You offer a bronze breastplate to X-share-X for free.
+2/5/25 3:20:09p \SELL /cancel to cancel the offer.
+2/5/25 3:20:10p You hand X-share-X a bronze breastplate.
+2/5/25 3:20:14p You offer an iron shield to X-share-X for free.
+2/5/25 3:20:14p \SELL /cancel to cancel the offer.
+2/5/25 3:20:15p You hand X-share-X an iron shield.
+2/5/25 3:20:19p You equip your shirt named “dark grey”, which is in very good condition.
+2/5/25 3:20:25p X-share-X repairs a bronze breastplate.
+2/5/25 3:20:27p Valadorei chirps.
+2/5/25 3:20:29p X-share-X repairs a bronze helmet.
+2/5/25 3:20:36p You hand X-share-X 1000 coins. You have 4041 remaining.
+2/5/25 3:20:38p X-share-X repairs an iron shield.
+2/5/25 3:20:45p • X-share-X offers you an iron shield. The iron shield is in nearly perfect condition, and is offered for free.
+2/5/25 3:20:45p To accept, \BUY 0 X-share-X.
+2/5/25 3:20:48p 'AT' is not a recognized command.
+2/5/25 3:20:52p *Auto Trade Zero ON!
+2/5/25 3:20:58p '.BUY' is not a recognized command.
+2/5/25 3:20:58p (Giben chirps,)
+2/5/25 3:21:01p X-share-X hands you an iron shield.
+2/5/25 3:21:03p Smeti says, "."
+2/5/25 3:21:04p • X-share-X offers you a bronze helmet. The bronze helmet is in nearly perfect condition, and is offered for free.
+2/5/25 3:21:04p To accept, \BUY 0 X-share-X.
+2/5/25 3:21:04p * Traded: X-share-X 
+2/5/25 3:21:04p X-share-X hands you a bronze helmet.
+2/5/25 3:21:08p • X-share-X offers you a bronze breastplate. The bronze breastplate is in nearly perfect condition, and is offered for free.
+2/5/25 3:21:08p To accept, \BUY 0 X-share-X.
+2/5/25 3:21:09p * Traded: X-share-X 
+2/5/25 3:21:09p X-share-X hands you a bronze breastplate.
+2/5/25 3:21:22p (Smeti Bows)
+2/5/25 3:21:27p X-share-X is no longer Clanning.
+2/5/25 3:21:32p Seaforth is now Clanning.
+2/5/25 3:21:34p You equip your iron shield named “smeti”.
+2/5/25 3:21:49p Seaforth exclaims, "You should try them on!"
+2/5/25 3:21:51p You have 4041 coins.
+2/5/25 3:21:55p Giben says, "i did"
+2/5/25 3:22:03p Seaforth says, "Slower moving."
+2/5/25 3:22:19p Seaforth says, "But the damage reduction does make it worth it."
+2/5/25 3:22:26p Smeti says, "its not noticeable in combat"
+2/5/25 3:22:32p Smeti says, "the slow down i mean"
+2/5/25 3:22:44p Seaforth says, "Aye, only noticeable over a long trip"
+2/5/25 3:22:48p Giben says, "yes. definitely could tell i was movin slower."
+2/5/25 3:22:56p Seaforth exclaims, "Cheers all!"
+2/5/25 3:23:09p Koppi yells, "Sativa reports: All your base are belong to us"
+2/5/25 3:23:10p Seaforth is no longer Clanning.
+2/5/25 3:23:49p Smeti says, "F1"
+2/5/25 3:23:49p Smeti says, "{"
+2/5/25 3:23:50p Smeti says, "message "* Swapping Boots""
+2/5/25 3:23:50p Smeti says, "if @my.feet_item >= "boots""
+2/5/25 3:23:51p Smeti says, ""/equip pairofshoes1 \r""
+2/5/25 3:23:51p Smeti says, "else"
+2/5/25 3:23:51p Smeti says, ""/equip leadboots \r""
+2/5/25 3:23:52p Smeti says, "end if"
+2/5/25 3:23:52p Smeti says, "}"
+2/5/25 3:24:09p Smeti says, "macro for quick swapping boots in hunts"
+2/5/25 3:24:51p Shobaffum is now Clanning.
+2/5/25 3:25:22p Giben says, "nite all."
+2/5/25 3:25:27p You have 4041 coins.
+2/5/25 3:25:29p Aurelie exclaims, "G'night!"
+2/5/25 3:25:30p (Giben waves)
+2/5/25 3:25:30p (Smeti Waves)
+2/5/25 3:25:32p Aurelie says, "Sorry...workin' on a song..."
+2/5/25 3:25:41p (Valadorei smiles)
+2/5/25 3:25:59p Giben is no longer Clanning.
+2/5/25 3:26:06p Smeti ponders, "Musical Princess always working hard"
+2/5/25 3:26:24p You slaughtered a Giant Slug.
+2/5/25 3:27:14p (Valadorei nods.)
+2/5/25 3:28:20p Koppi yells, "Katreesa reports: this: https://www.youtube.com/watch?v=2oRlBmwKzy4"
+2/5/25 3:28:21p • You hear Aurelie's music...
+2/5/25 3:28:21p Aurelie starts playing her gitor.
+2/5/25 3:28:24p Valadorei chirps in the Sylvan language.
+2/5/25 3:28:37p Aurelie chirps in the Sylvan language.
+2/5/25 3:29:02p You have 4041 coins.
+2/5/25 3:29:30p Aurelie chirps in the Sylvan language.
+2/5/25 3:29:36p • You hear Aurelie's music...
+2/5/25 3:29:36p Aurelie starts playing her starbuck harp.
+2/5/25 3:29:55p (Aurelie needs to fix it so she can play it on her Gitor.)
+2/5/25 3:30:35p (Valadorei smiles.)
+2/5/25 3:30:46p Crius yells, "It’s 4 o’clock, and all’s well."
+2/5/25 3:30:51p Aurelie chirps in the Sylvan language.
+2/5/25 3:30:52p Crius yells, "It looks pretty quiet in Puddleby."
+2/5/25 3:31:10p • You hear Aurelie's music...
+2/5/25 3:31:10p Aurelie starts playing her starbuck harp.
+2/5/25 3:31:11p Aurelie chirps.
+2/5/25 3:31:22p Aurelie chirps in the Sylvan language.
+2/5/25 3:31:28p Aurelie chirps in the Sylvan language.
+2/5/25 3:32:36p You have 4041 coins.
+2/5/25 3:33:30p Koppi yells, "Katreesa reports: this: https://www.youtube.com/watch?v=2oRlBmwKzy4"
+2/5/25 3:33:46p Valadorei chirps.
+2/5/25 3:34:06p Valadorei chirps in Sylvan.
+2/5/25 3:34:37p Valadorei chirps in Sylvan.
+2/5/25 3:34:44p Valadorei chirps.
+2/5/25 3:34:55p Valadorei chirps in the Sylvan language.
+2/5/25 3:36:12p You have 4041 coins.
+2/5/25 3:36:58p Aurelie chirps in the Sylvan language.
+2/5/25 3:37:48p Balangar is now Clanning.
+2/5/25 3:37:59p • You hear Aurelie's music...
+2/5/25 3:37:59p Aurelie starts playing her starbuck harp.
+2/5/25 3:38:23p Aurelie chirps.
+2/5/25 3:38:27p Aurelie stops playing her starbuck harp.
+2/5/25 3:38:29p Balangar exclaims, "Hello all !"
+2/5/25 3:38:41p Koppi yells, "Sativa reports: All your base are belong to us"
+2/5/25 3:38:56p • You hear Aurelie's music...
+2/5/25 3:38:56p Aurelie starts playing her starbuck harp.
+2/5/25 3:39:18p (Valadorei waves)
+2/5/25 3:39:34p Aurelie stops playing her starbuck harp.
+2/5/25 3:39:47p You have 4041 coins.
+2/5/25 3:39:49p Shadrock is now Clanning.
+2/5/25 3:39:52p • You hear Aurelie's music...
+2/5/25 3:39:52p Aurelie starts playing her starbuck harp.
+2/5/25 3:39:56p Sullin is now Clanning.
+2/5/25 3:40:02p Sullin is no longer Clanning.
+2/5/25 3:40:03p Dae Fenris is now Clanning.
+2/5/25 3:40:36p Ablar is now Clanning.
+2/5/25 3:40:40p Ablar is no longer Clanning.
+2/5/25 3:40:57p Herri is now Clanning.
+2/5/25 3:40:58p Aurelie chirps in the Sylvan language.
+2/5/25 3:41:19p Aurelie chirps in the Sylvan language.
+2/5/25 3:41:45p Gauntlet is now Clanning.
+2/5/25 3:42:15p • You hear Aurelie's music...
+2/5/25 3:42:15p Aurelie starts playing her starbuck harp.
+2/5/25 3:42:50p Onashi is now Clanning.
+2/5/25 3:42:56p Herri is no longer Clanning.
+2/5/25 3:42:57p Shadowfire is now Clanning.
+2/5/25 3:43:08p Beesfields is now Clanning.
+2/5/25 3:43:11p Onashi says, "heyoo"
+2/5/25 3:43:13p (Shadowfire waves.)
+2/5/25 3:43:18p You begin sharing your experiences with Balangar.
+2/5/25 3:43:20p You are still too mentally fatigued to change spirit links.
+2/5/25 3:43:21p You are still too mentally fatigued to change spirit links.
+2/5/25 3:43:22p You begin sharing your experiences with Dae Fenris.
+2/5/25 3:43:22p You are sharing experiences with Dae Fenris and Balangar.
+2/5/25 3:43:23p You have 4041 coins.
+2/5/25 3:43:25p You are still too mentally fatigued to change spirit links.
+2/5/25 3:43:26p You begin sharing your experiences with Shadowfire.
+2/5/25 3:43:26p You are sharing experiences with Shadowfire, Dae Fenris and Balangar.
+2/5/25 3:43:32p (Aurelie sighs.)
+2/5/25 3:43:34p Aurelie chirps in Sylvan.
+2/5/25 3:43:39p You begin sharing your experiences with Beesfields.
+2/5/25 3:43:39p You are sharing experiences with Beesfields, Shadowfire, Dae Fenris and Balangar.
+2/5/25 3:43:42p Aurelie chirps in the Sylvan language.
+2/5/25 3:43:42p (Beesfields waves)
+2/5/25 3:43:47p (Smeti Waves)
+2/5/25 3:43:52p Koppi yells, "Bashak reports: Keep your ear to the ground for details about LA™'s Spring Break in Peaceton, brought to you by The Laughing Academy™"
+2/5/25 3:44:34p Balangar ponders, "no lack of healer ..."
+2/5/25 3:44:40p Aurelie ponders, "I'm not hunting!"
+2/5/25 3:44:44p Aurelie ponders, "I need to sleep!"
+2/5/25 3:44:44p (Valadorei smiles.)
+2/5/25 3:44:54p Beesfields ponders, "I will switch I think"
+2/5/25 3:44:55p Aurelie says, "Just...stuck workin' on a song..."
+2/5/25 3:45:09p Valadorei says, "I am not staying tonight either."
+2/5/25 3:45:15p Beesfields says, "ok"
+2/5/25 3:45:16p • You hear Aurelie's music...
+2/5/25 3:45:16p Aurelie starts playing her starbuck harp.
+2/5/25 3:45:24p Crius yells, "It’s 5 o’clock, and all’s well."
+2/5/25 3:45:27p Adley is now Clanning.
+2/5/25 3:45:29p Crius yells, "It looks pretty quiet in Puddleby."
+2/5/25 3:45:36p Lorikeet is now Clanning.
+2/5/25 3:45:45p Pun'isher is now Clanning.
+2/5/25 3:46:12p (Beesfields waves)
+2/5/25 3:46:13p • Lorikeet isn't close enough to buy something from you.
+2/5/25 3:46:16p (Shadowfire waves.)
+2/5/25 3:46:17p You begin sharing your experiences with Lorikeet.
+2/5/25 3:46:17p You are sharing experiences with Lorikeet, Beesfields, Shadowfire, Dae Fenris and Balangar.
+2/5/25 3:46:24p Lorikeet says, "brb"
+2/5/25 3:46:30p *Auto Trade Zero OFF!
+2/5/25 3:46:33p Shadowfire says, "oop"
+2/5/25 3:46:37p Shadowfire says, "Putting pizza away brb"
+2/5/25 3:46:49p Aurelie exclaims, "G'night, puddlefriends!"
+2/5/25 3:46:54p Smeti says, "aw"
+2/5/25 3:46:56p (Smeti Waves)
+2/5/25 3:46:58p Beesfields says, "Be well, Aurelie"
+2/5/25 3:47:00p You have 4041 coins.
+2/5/25 3:47:04p Aurelie exclaims, "Happy hunting!"
+2/5/25 3:47:09p Aurelie exclaims, "Don't die too much!"
+2/5/25 3:47:10p Lady Dragon is now Clanning.
+2/5/25 3:47:16p • You hear Aurelie's music...
+2/5/25 3:47:16p Aurelie starts playing her starbuck harp.
+2/5/25 3:47:16p (Aurelie): "Following Lorikeet" by Coriakin
+2/5/25 3:47:16p (Smeti smiles)
+2/5/25 3:47:17p Beesfields says, "Lori is with us"
+2/5/25 3:47:17p Balangar exclaims, "we will try !"
+2/5/25 3:47:26p Valadorei chirps in the Sylvan language.
+2/5/25 3:47:30p (Aurelie nods to Valadorei.)
+2/5/25 3:47:32p Balangar says, "but real hunt NEED dying"
+2/5/25 3:47:51p Adley is no longer Clanning.
+2/5/25 3:47:53p Articuno exclaims, "we arnt bms!"
+2/5/25 3:47:54p Anlee is now Clanning.
+2/5/25 3:47:58p (Balangar fetch a cup of coffe)
+2/5/25 3:48:07p Smeti says, "i is the am"
+2/5/25 3:48:25p Articuno says, "you can dye then ;)"
+2/5/25 3:48:31p Lorikeet says, "=)"
+2/5/25 3:48:32p (Smeti grinds)
+2/5/25 3:48:37p Smeti says, "aagrins"
+2/5/25 3:48:40p Smeti says, ":P"
+2/5/25 3:48:51p Lorikeet asks, "portal?"
+2/5/25 3:48:52p Lady Dragon asks, "where we heading?"
+2/5/25 3:49:03p Koppi yells, "Bashak reports: Keep your ear to the ground for details about LA™'s Spring Break in Peaceton, brought to you by The Laughing Academy™"
+2/5/25 3:49:05p Puddleby Beautification made possibly by Kalian the Tawny
+2/5/25 3:49:14p Hashak is now Clanning.
+2/5/25 3:49:27p You equip your bloodblade.
+2/5/25 3:49:27p •You feel a surge of power as your blood pours down the blade.
+2/5/25 3:49:28p You equip your bloodstone ring.
+2/5/25 3:49:28p * You feel affixed to your previously set health.
+2/5/25 3:49:28p You equip your bronze breastplate.
+2/5/25 3:49:29p You equip your bronze helmet.
+2/5/25 3:49:48p Smeti says, "odd"
+2/5/25 3:49:56p Smeti says, "portal didnt hurt as much"
+2/5/25 3:49:58p (Onashi bleats)
+2/5/25 3:50:08p Articuno growls, "weak portal"
+2/5/25 3:50:23p Anlee is no longer Clanning.
+2/5/25 3:50:30p You have 4041 coins.
+2/5/25 3:50:33p Hashak exclaims, "hullo!"
+2/5/25 3:50:40p Pun'isher growls, "howdy!"
+2/5/25 3:50:41p Onashi says, "yo Hash"
+2/5/25 3:50:47p Onashi exclaims, "oh hmm, we have a lotta healers tonight!"
+2/5/25 3:50:52p Beesfields ponders, "Switching"
+2/5/25 3:50:55p Hashak asks, "oh should I switch?"
+2/5/25 3:50:57p Onashi says, "aha"
+2/5/25 3:50:57p Lorikeet asks, "just 4?"
+2/5/25 3:50:59p Onashi says, "Bees is on it ^^"
+2/5/25 3:51:01p Articuno growls, "pigs and tawny yor please"
+2/5/25 3:51:06p Anlee is now Clanning.
+2/5/25 3:51:16p Smeti ponders, "is that the big ones?"
+2/5/25 3:51:17p Hashak says, "oh, Bees switchin'"
+2/5/25 3:51:18p Lorikeet says, "oh was 5"
+2/5/25 3:51:20p Articuno growls, "small"
+2/5/25 3:51:20p (Onashi nods)
+2/5/25 3:51:23p (Smeti nods)
+2/5/25 3:51:23p Hashak says, "what a sweetheart"
+2/5/25 3:51:24p Aurelie is no longer Clanning.
+2/5/25 3:51:24p Shadowfire says, "wtb 6 share slots"
+2/5/25 3:51:32p Lady Dragon exclaims, "right!"
+2/5/25 3:51:33p Valadorei is no longer Clanning.
+2/5/25 3:51:34p Onashi says, "250 mill, Shado"
+2/5/25 3:51:38p Anlee is no longer Clanning.
+2/5/25 3:51:41p Articuno growls, "not to bad of a price"
+2/5/25 3:51:44p Onashi says, "and only for your alts, no 6 share slot for you"
+2/5/25 3:51:49p Shadowfire says, "lol"
+2/5/25 3:51:51p (Onashi giggles)
+2/5/25 3:51:56p Lady Dragon says, "ohhh poor shadow"
+2/5/25 3:51:57p Beesfields is no longer Clanning.
+2/5/25 3:51:58p Shadowfire says, "I think I'm only at 2"
+2/5/25 3:51:59p Regigamaqk is now Clanning.
+2/5/25 3:52:04p Shadowfire says, "So it would be awhile"
+2/5/25 3:52:17p Articuno growls, "nice cloak"
+2/5/25 3:52:18p •You sense healing energy from Hashak.
+2/5/25 3:52:18p Pun'isher growls, "so 4 heals and a shadow?"
+2/5/25 3:52:20p Onashi says, "aye"
+2/5/25 3:52:23p Shadowfire says, "x}"
+2/5/25 3:52:24p Lorikeet says, "Yes"
+2/5/25 3:52:51p Shadowfire asks, "pun on WQ still?"
+2/5/25 3:52:52p You helped vanquish a Shadowcat Warqueen.
+2/5/25 3:52:53p * Onashi recovers the Shadowcat Warqueen fur, worth 12c. Your share is 1c.
+2/5/25 3:52:53p Pun'isher yells, "lasties? im on sez"
+2/5/25 3:52:56p Regigamaqk says, "H'loi"
+2/5/25 3:52:58p Pun'isher growls, "no done thanks"
+2/5/25 3:53:07p Pun'isher growls, "no bull"
+2/5/25 3:53:07p Articuno growls, "pigs and tawny yor please"
+2/5/25 3:53:08p (Shadowfire nods)
+2/5/25 3:53:09p (Pun'isher giggles)
+2/5/25 3:53:11p Lorikeet says, "4 healers and shadow"
+2/5/25 3:53:21p Onashi says, "MP, pigs, small monkey, sez"
+2/5/25 3:53:30p You begin sharing your experiences with Hashak.
+2/5/25 3:53:30p You are sharing experiences with Hashak, Lorikeet, Shadowfire, Dae Fenris and Balangar.
+2/5/25 3:53:48p You helped vanquish a Dark Recluse.
+2/5/25 3:53:48p * Balangar recovers the Dark Recluse mandibles, worth 11c. Your share is 1c.
+2/5/25 3:53:55p You helped vanquish a Dark Recluse.
+2/5/25 3:53:56p * Balangar recovers the Dark Recluse mandibles, worth 28c. Your share is 3c.
+2/5/25 3:54:02p You have 4046 coins.
+2/5/25 3:54:12p Smeti ponders, "whats sez"
+2/5/25 3:54:19p Pun'isher says, "he big quaker"
+2/5/25 3:54:23p Smeti says, "ah"
+2/5/25 3:55:04p Noivad is now Clanning.
+2/5/25 3:55:21p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+2/5/25 3:55:21p Smeti has fallen to a Dark Recluse.
+2/5/25 3:55:21p • Your blood pours lifelessly from your body.
+2/5/25 3:55:24p Balangar has fallen to a Dark Recluse.
+2/5/25 3:55:25p Balangar is no longer fallen.
+2/5/25 3:55:46p Shobaffum says, "Hiya"
+2/5/25 3:55:47p •You sense healing energy from Balangar.
+2/5/25 3:55:49p •You sense healing energy from Hashak.
+2/5/25 3:55:50p Shobaffum asks, "lasties?"
+2/5/25 3:55:51p (Articuno smiles)
+2/5/25 3:55:54p Onashi says, "MP, pigs, small monkey, sez"
+2/5/25 3:55:55p Shobaffum says, "mp i know"
+2/5/25 3:56:05p Noivad says, "hi all"
+2/5/25 3:56:06p You helped vanquish a Fledgling Kestrel.
+2/5/25 3:56:11p Hashak exclaims, "heya!"
+2/5/25 3:56:12p (Articuno smiles)
+2/5/25 3:56:22p •You sense healing energy from Hashak.
+2/5/25 3:56:23p Onashi growls, "MP, pigs, small monkey, sez for lasties"
+2/5/25 3:56:24p Noivad says, "Utsanna Tawny Yorilla and Dark Recluse lasts please"
+2/5/25 3:56:27p You helped vanquish a Crookbeak Kestrel.
+2/5/25 3:56:32p Onashi growls, "MP, pigs, small monkey, sez, UTY, DR for lasties"
+2/5/25 3:56:47p Anderly is now Clanning.
+2/5/25 3:56:57p Smeti says, "heh i dont think i can hit anything, ima go, have fun :P"
+2/5/25 3:57:14p You equip your cutlass.
+2/5/25 3:57:14p You slip your bloodstone ring into your backpack.
+2/5/25 3:57:14p * Your health is in others' hands.
+2/5/25 3:57:15p You equip your shirt named “dark grey”, which is in very good condition.
+2/5/25 3:57:15p You slip your bronze helmet into your backpack.
+2/5/25 3:57:38p You have 4046 coins.
+2/5/25 3:57:53p You are no longer sharing experiences with Balangar.
+2/5/25 3:57:53p You begin sharing your experiences with Squib.
+2/5/25 3:57:53p You are sharing experiences with Squib, Hashak, Lorikeet, Shadowfire and Dae Fenris.
+2/5/25 3:57:55p Shadowmutt growls, "Woof!"
+2/5/25 3:57:56p Squib is sharing experiences with you.
+2/5/25 3:57:57p Smeti says, "squib heal me"
+2/5/25 3:57:58p •You sense healing energy from Squib.
+2/5/25 3:59:00p • /SLEEP when you wish to begin studying.
+2/5/25 3:59:00p Lorikeet has fallen to a Fledgling Kestrel.
+2/5/25 3:59:03p • /SLEEP when you wish to begin studying.
+2/5/25 3:59:32p Lorikeet is no longer fallen.
+2/5/25 3:59:50p Anderly is no longer Clanning.
+2/5/25 3:59:58p You concentrate on sending your message to Noivad.
+2/5/25 3:59:58p You think to Noivad, "sorry about the morning hunt i didnt know they where you lasties."
+2/5/25 4:00:01p Use \SLEEP again when you return.
+2/5/25 4:00:01p You are done adve

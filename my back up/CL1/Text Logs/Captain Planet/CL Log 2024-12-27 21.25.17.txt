@@ -1,0 +1,726 @@
+
+12/27/24 9:25:17p * Your pair of shoes named “white” is in very good condition.
+12/27/24 9:25:17p * Your shirt named “Dark Red” is in very good condition.
+12/27/24 9:25:17p * Your pair of fourth-circle pants named “turquoise” is in very good condition.
+12/27/24 9:25:17p Welcome to Clan Lord, Captain Planet!
+12/27/24 9:25:17p Type \HELP for a list of commands.
+12/27/24 9:25:17p • You gain experience from your recent studies.
+12/27/24 9:25:17p Type /healer for commands if you forget
+12/27/24 9:25:18p Captain Planet is now Clanning.
+12/27/24 9:25:18p The healing spell has started.
+12/27/24 9:25:18p You have been studying for 11 days, 14 hours, 29 minutes.
+12/27/24 9:25:20p It's 12:54am on Gradi, day 7 of Winter, 640.
+12/27/24 9:25:21p Friends online: none.
+12/27/24 9:25:22p There are four members of Black Phoenix clanning: Bastion, Cassius, Ceara and you.
+12/27/24 9:25:22p • What’s New: https://deltatao.com/clanlord/news
+12/27/24 9:25:28p •You notice yourself recovering your energy and healing others faster.
+12/27/24 9:25:32p * Tip of the day: You can usually refer to another player using the first few letters of their name. Leave out any spaces or punctuation. (Use /OPTIONS to turn tips off.)
+12/27/24 9:25:37p • Cassius offers you a brittle grey rock for free.
+12/27/24 9:25:37p To accept, \BUY 0 Cassius.
+12/27/24 9:25:37p 1  Cassius. 
+12/27/24 9:25:38p Cassius hands you a brittle grey rock.
+12/27/24 9:25:42p • Cassius offers you page number 50 (Fireplace (Constructs 8/8)) from a phantasmonomicon, for free.
+12/27/24 9:25:42p To accept, \BUY 0 Cassius.
+12/27/24 9:25:42p 1  Cassius. 
+12/27/24 9:25:43p Cassius hands you a phantasmonomicon page.
+12/27/24 9:25:45p • Cassius offers you page number 64 (Pine Tree (Arboreal 5/7)) from a phantasmonomicon, for free.
+12/27/24 9:25:45p To accept, \BUY 0 Cassius.
+12/27/24 9:25:45p 1  Cassius. 
+12/27/24 9:25:46p Cassius hands you a phantasmonomicon page.
+12/27/24 9:25:48p • Cassius offers you page number 79 (Mud Nest (Fauna 4/8)) from a phantasmonomicon, for free.
+12/27/24 9:25:48p To accept, \BUY 0 Cassius.
+12/27/24 9:25:48p 1  Cassius. 
+12/27/24 9:25:49p Cassius hands you a phantasmonomicon page.
+12/27/24 9:25:59p Cassius is done adventuring for a while and will be staying here.
+12/27/24 9:26:00p Cassius is no longer Clanning.
+12/27/24 9:26:07p You equip your phantasmonomicon.
+12/27/24 9:26:16p Captain Planet says, "use /add"
+12/27/24 9:26:21p You must equip the page you wish to add to your phantasmonomicon.
+12/27/24 9:26:27p You equip your phantasmonomicon page named “Fireplace (Constructs 8/8)”.
+12/27/24 9:26:29p The page slides easily into your phantasmonomicon.
+12/27/24 9:26:31p You equip your phantasmonomicon page named “Pine Tree (Arboreal 5/7)”.
+12/27/24 9:26:32p The page slides easily into your phantasmonomicon.
+12/27/24 9:26:35p You equip your phantasmonomicon page named “Mud Nest (Fauna 4/8)”.
+12/27/24 9:26:37p The page slides easily into your phantasmonomicon.
+12/27/24 9:26:44p Crius yells, "It’s 1 o’clock, and all’s well."
+12/27/24 9:26:49p Crius yells, "There’s good hunting on a tepui overlooking Metzetli Island."
+12/27/24 9:27:02p Your phantasmonomicon has the following pages:
+12/27/24 9:27:02p Page 1: Small Blue Flames (Elements 1/7).
+12/27/24 9:27:02p Page 3: Small Red Flames (Elements 3/7).
+12/27/24 9:27:02p Page 5: Smoke (Shadow 1/5).
+12/27/24 9:27:02p Page 8: Sparkle (Shadow 4/5).
+12/27/24 9:27:02p Page 12: Gold Coins (Treasure 1/5).
+12/27/24 9:27:02p Page 13: Water Puddle (Earth 1/4).
+12/27/24 9:27:02p Page 15: Flying Pebble (Earth 3/4).
+12/27/24 9:27:02p Page 18: Skull (Fauna 2/8).
+12/27/24 9:27:02p Page 21: Treasure Chest (Treasure 2/5).
+12/27/24 9:27:02p Page 25: Waving Reeds (Flora 2/8).
+12/27/24 9:27:02p Page 28: Wooden Chair (Constructs 4/8).
+12/27/24 9:27:02p Page 29: Blue Flag (Holiday 1/6).
+12/27/24 9:27:02p Page 35: Amber Beer (Holiday 6/6).
+12/27/24 9:27:02p Page 42: Large Fern (Jungle 1/4).
+12/27/24 9:27:02p Page 50: Fireplace (Constructs 8/8).
+12/27/24 9:27:02p Page 64: Pine Tree (Arboreal 5/7).
+12/27/24 9:27:02p Page 67: Variegated Plant (Jungle 2/4).
+12/27/24 9:27:02p Page 79: Mud Nest (Fauna 4/8).
+12/27/24 9:27:23p You have cast a page 79 phantasm (Mud Nest (Fauna 4/8)).
+12/27/24 9:27:50p You slip your phantasmonomicon into your backpack.
+12/27/24 9:27:55p You equip your asklepian staff.
+12/27/24 9:28:30p You have 87 coins.
+12/27/24 9:31:19p Koppi yells, "Panthro reports: to save the gnomes we must DESTROY the gnomes!"
+12/27/24 9:31:27p • You feel able to cast a phantasm again.
+12/27/24 9:31:47p You equip your phantasmonomicon.
+12/27/24 9:32:04p You have cast a page 64 phantasm (Pine Tree (Arboreal 5/7)).
+12/27/24 9:36:08p • You feel able to cast a phantasm again.
+12/27/24 9:36:19p You have cast a page 50 phantasm (Fireplace (Constructs 8/8)).
+12/27/24 9:36:30p Koppi yells, "Panthro reports: to save the gnomes we must DESTROY the gnomes!"
+12/27/24 9:38:15p You equip your asklepian staff.
+12/27/24 9:38:47p Faticus is now Clanning.
+12/27/24 9:39:05p • Faticus offers you a log of wood for free.
+12/27/24 9:39:05p To accept, \BUY 0 Faticus.
+12/27/24 9:39:05p 1  Faticus. 
+12/27/24 9:39:05p 1  Faticus. 
+12/27/24 9:39:05p Faticus hands you a log of wood.
+12/27/24 9:39:09p • Faticus offers you a brittle grey rock for free.
+12/27/24 9:39:09p To accept, \BUY 0 Faticus.
+12/27/24 9:39:09p 1  Faticus. 
+12/27/24 9:39:09p 1  Faticus. 
+12/27/24 9:39:09p Faticus hands you a brittle grey rock.
+12/27/24 9:39:20p • Faticus offers you a pinch of catsbane for free.
+12/27/24 9:39:20p To accept, \BUY 0 Faticus.
+12/27/24 9:39:20p 1  Faticus. 
+12/27/24 9:39:20p 1  Faticus. 
+12/27/24 9:39:21p Faticus hands you a pinch of catsbane.
+12/27/24 9:39:33p • Faticus offers you a Venom Gland for free.
+12/27/24 9:39:33p To accept, \BUY 0 Faticus.
+12/27/24 9:39:33p 1  Faticus. 
+12/27/24 9:39:33p 1  Faticus. 
+12/27/24 9:39:34p Faticus hands you a Venom Gland.
+12/27/24 9:39:49p Faticus is no longer Clanning.
+12/27/24 9:40:24p • You feel able to cast a phantasm again.
+12/27/24 9:40:46p Shadrock is now Clanning.
+12/27/24 9:40:47p Pete McGyver says, "Hi Captain Planet! Let me know the name of the pet you'd like to get from the stables."
+12/27/24 9:40:48p Sullin is now Clanning.
+12/27/24 9:40:48p Captain Planet says, "cheeser"
+12/27/24 9:40:48p Pete McGyver exclaims, "There you go! Enjoy!"
+12/27/24 9:40:54p You slaughtered a Vermine.
+12/27/24 9:40:54p Cheeser slaughtered a Vermine.
+12/27/24 9:40:55p Captain Planet whispers, "Attack"
+12/27/24 9:40:55p You slaughtered a Rat.
+12/27/24 9:40:55p Cheeser slaughtered a Rat.
+12/27/24 9:40:57p You slaughtered a Vermine.
+12/27/24 9:40:57p Cheeser slaughtered a Vermine.
+12/27/24 9:40:58p Sullin is no longer Clanning.
+12/27/24 9:41:27p Crius yells, "It’s 2 o’clock, and all’s well."
+12/27/24 9:41:29p You slaughtered a Young Rockodile.
+12/27/24 9:41:30p Cheeser slaughtered a Young Rockodile.
+12/27/24 9:41:43p You vault the wall.
+12/27/24 9:41:47p Shadrock is no longer Clanning.
+12/27/24 9:41:54p You slaughtered a Large Vermine.
+12/27/24 9:41:54p Cheeser slaughtered a Large Vermine.
+12/27/24 9:41:55p You slaughtered a Large Vermine.
+12/27/24 9:41:55p Cheeser killed a Large Vermine.
+12/27/24 9:41:59p You slaughtered a Large Vermine.
+12/27/24 9:41:59p Cheeser dispatched a Large Vermine.
+12/27/24 9:42:05p You slaughtered a Rat.
+12/27/24 9:42:06p Cheeser slaughtered a Rat.
+12/27/24 9:42:09p You slaughtered a Rat.
+12/27/24 9:42:10p Cheeser slaughtered a Rat.
+12/27/24 9:42:10p Captain Planet whispers, "Attack"
+12/27/24 9:42:15p You slaughtered a Large Vermine.
+12/27/24 9:42:16p Cheeser killed a Large Vermine.
+12/27/24 9:42:16p * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+12/27/24 9:42:24p You slaughtered an Orga.
+12/27/24 9:42:24p Cheeser slaughtered an Orga.
+12/27/24 9:42:32p You slaughtered a Giant Slug.
+12/27/24 9:42:32p Cheeser slaughtered a Giant Slug.
+12/27/24 9:42:49p You slaughtered a Myrm Protector.
+12/27/24 9:42:49p Cheeser killed a Myrm Protector.
+12/27/24 9:42:49p * You recover the Myrm Protector mandibles, worth 1c. Your share is 1c.
+12/27/24 9:42:52p You slaughtered a Vermine.
+12/27/24 9:42:52p Cheeser slaughtered a Vermine.
+12/27/24 9:42:57p You slaughtered a Myrm Protector.
+12/27/24 9:42:57p Cheeser slaughtered a Myrm Protector.
+12/27/24 9:43:03p You slaughtered a Vermine.
+12/27/24 9:43:04p Cheeser slaughtered a Vermine.
+12/27/24 9:43:05p You slaughtered a Small Arachne.
+12/27/24 9:43:06p Cheeser slaughtered a Small Arachne.
+12/27/24 9:43:11p You slaughtered a Large Vermine.
+12/27/24 9:43:11p Cheeser slaughtered a Large Vermine.
+12/27/24 9:43:11p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+12/27/24 9:43:13p You slaughtered an Orc.
+12/27/24 9:43:13p Cheeser slaughtered an Orc.
+12/27/24 9:43:27p You slaughtered a Vermine.
+12/27/24 9:43:27p Cheeser slaughtered a Vermine.
+12/27/24 9:43:29p You slaughtered a Young Rockodile.
+12/27/24 9:43:29p Cheeser slaughtered a Young Rockodile.
+12/27/24 9:43:34p You slaughtered a Myrm Protector.
+12/27/24 9:43:34p Cheeser slaughtered a Myrm Protector.
+12/27/24 9:43:34p * You recover the Myrm Protector mandibles, worth 1c. Your share is 1c.
+12/27/24 9:43:39p You slaughtered a Large Vermine.
+12/27/24 9:43:40p Cheeser dispatched a Large Vermine.
+12/27/24 9:43:40p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+12/27/24 9:43:56p You slaughtered a Large Vermine.
+12/27/24 9:43:56p Cheeser slaughtered a Large Vermine.
+12/27/24 9:44:02p You slaughtered an Island Panther.
+12/27/24 9:44:02p Cheeser slaughtered an Island Panther.
+12/27/24 9:44:04p You slaughtered a Vermine.
+12/27/24 9:44:04p Cheeser slaughtered a Vermine.
+12/27/24 9:44:11p Cheeser stands on his hind legs and begs.
+12/27/24 9:44:12p You slaughtered a Vermine.
+12/27/24 9:44:12p Cheeser slaughtered a Vermine.
+12/27/24 9:44:14p You slaughtered a Large Vermine.
+12/27/24 9:44:15p Cheeser killed a Large Vermine.
+12/27/24 9:44:15p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+12/27/24 9:44:15p You slaughtered a Myrm Scout.
+12/27/24 9:44:16p Cheeser slaughtered a Myrm Scout.
+12/27/24 9:44:23p You slaughtered a Large Vermine.
+12/27/24 9:44:23p Cheeser slaughtered a Large Vermine.
+12/27/24 9:44:23p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+12/27/24 9:44:42p You slaughtered a Vermine.
+12/27/24 9:44:42p Cheeser slaughtered a Vermine.
+12/27/24 9:44:43p You slaughtered a Vermine.
+12/27/24 9:44:43p Cheeser slaughtered a Vermine.
+12/27/24 9:44:51p You slaughtered a Vermine.
+12/27/24 9:44:52p Cheeser slaughtered a Vermine.
+12/27/24 9:44:53p Potch Axer says, "Sorry, can’t stop to chat, too busy chopping this wood for my master."
+12/27/24 9:44:55p You slaughtered a Vermine.
+12/27/24 9:44:55p Cheeser slaughtered a Vermine.
+12/27/24 9:44:57p You slaughtered a Large Vermine.
+12/27/24 9:44:57p Cheeser slaughtered a Large Vermine.
+12/27/24 9:44:57p You equip your phantasmonomicon.
+12/27/24 9:44:59p You equip your log of wood.
+12/27/24 9:45:01p You slaughtered a Vermine.
+12/27/24 9:45:01p Cheeser slaughtered a Vermine.
+12/27/24 9:45:02p You equip your asklepian staff.
+12/27/24 9:45:02p Potch Axer says, "Sorry, can’t stop to chat, too busy chopping this wood for my master."
+12/27/24 9:45:05p Potch Axer asks, "Say, you wouldn’t have any spare logs, would you?"
+12/27/24 9:45:07p Potch Axer says, "Oh, thanks so much. With this extra wood, I guess I can take a minute’s break to show you into the clearing."
+12/27/24 9:45:13p Coleman says, "Greetings, Captain Planet. Welcome to my humble home."
+12/27/24 9:45:13p Cheeser cheeps.
+12/27/24 9:45:14p Coleman says, "You say the potter is out of charcoal again? I’ll send her some right away."
+12/27/24 9:45:17p Coleman says, "Greetings, Captain Planet. Welcome to my humble home."
+12/27/24 9:45:26p You slaughtered a Vermine.
+12/27/24 9:45:26p Cheeser slaughtered a Vermine.
+12/27/24 9:45:43p You slaughtered a Vermine.
+12/27/24 9:45:43p Cheeser slaughtered a Vermine.
+12/27/24 9:45:45p •You cannot use your asklepian staff on yourself.
+12/27/24 9:45:45p You slaughtered a Vermine.
+12/27/24 9:45:46p Cheeser slaughtered a Vermine.
+12/27/24 9:45:55p You slaughtered a Vermine.
+12/27/24 9:45:55p Cheeser slaughtered a Vermine.
+12/27/24 9:46:32p You slaughtered a Large Vermine.
+12/27/24 9:46:32p Cheeser slaughtered a Large Vermine.
+12/27/24 9:46:44p You slaughtered a Vermine.
+12/27/24 9:46:44p Cheeser slaughtered a Vermine.
+12/27/24 9:46:45p You slaughtered a Vermine.
+12/27/24 9:46:45p Cheeser slaughtered a Vermine.
+12/27/24 9:46:47p You slaughtered a Vermine.
+12/27/24 9:46:47p Cheeser slaughtered a Vermine.
+12/27/24 9:46:51p You slaughtered a Scavenger Bird.
+12/27/24 9:46:51p Cheeser slaughtered a Scavenger Bird.
+12/27/24 9:46:59p You slaughtered a Vermine.
+12/27/24 9:46:59p Cheeser slaughtered a Vermine.
+12/27/24 9:47:07p You slaughtered a Vermine.
+12/27/24 9:47:07p Cheeser slaughtered a Vermine.
+12/27/24 9:47:14p You slaughtered a Vermine.
+12/27/24 9:47:14p Cheeser slaughtered a Vermine.
+12/27/24 9:47:18p You slaughtered a Small Arachne.
+12/27/24 9:47:18p Cheeser slaughtered a Small Arachne.
+12/27/24 9:47:22p You slaughtered a Small Arachne.
+12/27/24 9:47:23p Cheeser slaughtered a Small Arachne.
+12/27/24 9:48:08p You slaughtered a Vermine.
+12/27/24 9:48:08p Cheeser slaughtered a Vermine.
+12/27/24 9:48:15p Cheeser runs in circles.
+12/27/24 9:49:01p You slaughtered a Rat.
+12/27/24 9:49:01p Cheeser slaughtered a Rat.
+12/27/24 9:49:06p You slaughtered a Rat.
+12/27/24 9:49:06p Cheeser slaughtered a Rat.
+12/27/24 9:49:11p You slaughtered an Island Panther.
+12/27/24 9:49:12p Cheeser killed an Island Panther.
+12/27/24 9:49:12p * You recover the Island Panther fur, worth 2c. Your share is 2c.
+12/27/24 9:49:16p You slaughtered an Island Panther.
+12/27/24 9:49:16p Cheeser slaughtered an Island Panther.
+12/27/24 9:49:18p You slaughtered a Vermine.
+12/27/24 9:49:18p Cheeser slaughtered a Vermine.
+12/27/24 9:49:20p You slaughtered a Vermine.
+12/27/24 9:49:21p Cheeser slaughtered a Vermine.
+12/27/24 9:49:22p You slaughtered a Rat.
+12/27/24 9:49:23p Cheeser slaughtered a Rat.
+12/27/24 9:50:12p Nug is now Clanning.
+12/27/24 9:50:19p You slaughtered a Rat.
+12/27/24 9:50:19p Cheeser slaughtered a Rat.
+12/27/24 9:50:48p You slaughtered a Rat.
+12/27/24 9:50:48p Cheeser slaughtered a Rat.
+12/27/24 9:51:15p Cheeser twitches his whiskers.
+12/27/24 9:51:33p You slaughtered a Rat.
+12/27/24 9:51:33p Cheeser slaughtered a Rat.
+12/27/24 9:51:44p Noyhaan says, "Greetings, Lord Captain Planet."
+12/27/24 9:51:45p Noyhaan says, "Welcome to the puzzle of the stones."
+12/27/24 9:51:46p You slaughtered a Rat.
+12/27/24 9:51:46p Cheeser slaughtered a Rat.
+12/27/24 9:51:46p Noyhaan says, "Greetings, Lord Captain Planet."
+12/27/24 9:51:47p Noyhaan says, "Welcome to the puzzle of the stones."
+12/27/24 9:51:49p Noyhaan says, "Greetings, Lord Captain Planet."
+12/27/24 9:51:50p Noyhaan says, "Welcome to the puzzle of the stones."
+12/27/24 9:51:51p Noyhaan says, "Greetings, Lord Captain Planet."
+12/27/24 9:51:52p Noyhaan says, "Welcome to the puzzle of the stones."
+12/27/24 9:52:06p You slaughtered a Rat.
+12/27/24 9:52:06p Cheeser slaughtered a Rat.
+12/27/24 9:52:09p You slaughtered a Rat.
+12/27/24 9:52:09p Cheeser slaughtered a Rat.
+12/27/24 9:52:10p Tara is no longer Clanning.
+12/27/24 9:52:40p You slaughtered a Young Rockodile.
+12/27/24 9:52:40p Cheeser slaughtered a Young Rockodile.
+12/27/24 9:52:49p You slaughtered a Myrm Protector.
+12/27/24 9:52:49p Cheeser killed a Myrm Protector.
+12/27/24 9:52:49p * You recover the Myrm Protector mandibles, worth 1c. Your share is 1c.
+12/27/24 9:52:54p You slaughtered a Vermine.
+12/27/24 9:52:55p Cheeser slaughtered a Vermine.
+12/27/24 9:52:55p You slaughtered an Island Locust.
+12/27/24 9:52:56p Cheeser slaughtered an Island Locust.
+12/27/24 9:53:22p You vault the wall.
+12/27/24 9:53:43p Cheeser cheeps.
+12/27/24 9:54:01p Nug is sharing experiences with you.
+12/27/24 9:54:11p Sentinel yells, "The Emperor is a river to his people."
+12/27/24 9:54:12p You slaughtered a Young Rockodile.
+12/27/24 9:54:12p Cheeser slaughtered a Young Rockodile.
+12/27/24 9:55:10p Cheeser does a somersault.
+12/27/24 9:55:11p You slaughtered a Young Rockodile.
+12/27/24 9:55:12p Cheeser slaughtered a Young Rockodile.
+12/27/24 9:55:26p You slaughtered a Young Rockodile.
+12/27/24 9:55:26p Cheeser slaughtered a Young Rockodile.
+12/27/24 9:55:37p You slaughtered a Vermine.
+12/27/24 9:55:37p Cheeser slaughtered a Vermine.
+12/27/24 9:55:39p You slaughtered a Rat.
+12/27/24 9:55:39p Cheeser slaughtered a Rat.
+12/27/24 9:55:48p You slaughtered a Starbuck.
+12/27/24 9:55:48p Cheeser killed a Starbuck.
+12/27/24 9:55:48p * You recover the Starbuck fur, worth 1c. Your share is 1c.
+12/27/24 9:55:55p You slaughtered a Detached Spirit.
+12/27/24 9:55:55p Cheeser killed a Detached Spirit.
+12/27/24 9:55:57p You slaughtered a Rat.
+12/27/24 9:55:57p Cheeser slaughtered a Rat.
+12/27/24 9:56:03p You slaughtered a Rat.
+12/27/24 9:56:03p Cheeser slaughtered a Rat.
+12/27/24 9:56:09p You slaughtered a Large Vermine.
+12/27/24 9:56:09p Cheeser slaughtered a Large Vermine.
+12/27/24 9:56:09p * For recovering the fur, you gain experience.
+12/27/24 9:56:09p * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+12/27/24 9:56:11p You slaughtered a Vermine.
+12/27/24 9:56:11p Cheeser slaughtered a Vermine.
+12/27/24 9:56:15p You slaughtered a Large Vermine.
+12/27/24 9:56:16p Cheeser killed a Large Vermine.
+12/27/24 9:56:19p You slaughtered a Large Vermine.
+12/27/24 9:56:19p Cheeser slaughtered a Large Vermine.
+12/27/24 9:56:25p You slaughtered a Large Vermine.
+12/27/24 9:56:25p Cheeser killed a Large Vermine.
+12/27/24 9:56:27p You slaughtered a Large Vermine.
+12/27/24 9:56:27p Cheeser slaughtered a Large Vermine.
+12/27/24 9:56:29p You slaughtered a Vermine.
+12/27/24 9:56:29p Cheeser slaughtered a Vermine.
+12/27/24 9:56:33p You slaughtered a Large Vermine.
+12/27/24 9:56:34p Cheeser slaughtered a Large Vermine.
+12/27/24 9:56:34p You slaughtered a Rat.
+12/27/24 9:56:34p Cheeser slaughtered a Rat.
+12/27/24 9:56:35p You slaughtered a Vermine.
+12/27/24 9:56:35p Cheeser slaughtered a Vermine.
+12/27/24 9:56:39p You slaughtered a Vermine.
+12/27/24 9:56:39p Cheeser slaughtered a Vermine.
+12/27/24 9:56:40p You slaughtered a Rat.
+12/27/24 9:56:41p Cheeser slaughtered a Rat.
+12/27/24 9:56:43p You slaughtered a Rat.
+12/27/24 9:56:43p Cheeser slaughtered a Rat.
+12/27/24 9:56:50p You slaughtered a Large Vermine.
+12/27/24 9:56:50p Cheeser slaughtered a Large Vermine.
+12/27/24 9:56:53p You slaughtered a Large Vermine.
+12/27/24 9:56:53p Cheeser dispatched a Large Vermine.
+12/27/24 9:57:11p You slaughtered a Scavenger Bird.
+12/27/24 9:57:12p Cheeser slaughtered a Scavenger Bird.
+12/27/24 9:57:15p You slaughtered a Scavenger Bird.
+12/27/24 9:57:15p Cheeser slaughtered a Scavenger Bird.
+12/27/24 9:57:20p You slaughtered an Orga.
+12/27/24 9:57:20p Cheeser slaughtered an Orga.
+12/27/24 9:57:31p You slaughtered a Rat.
+12/27/24 9:57:31p Cheeser slaughtered a Rat.
+12/27/24 9:57:32p You slaughtered a Vermine.
+12/27/24 9:57:32p Cheeser slaughtered a Vermine.
+12/27/24 9:57:36p Lern Dermond says, "My mistress is very busy with her natural history research."
+12/27/24 9:57:37p Lern Dermond says, "She has instructed me to turn away those who have no true need to speak with her."
+12/27/24 9:57:39p Lern Dermond studies you closely.
+12/27/24 9:57:40p Lern Dermond says, "The seed of knowledge has been planted within you."
+12/27/24 9:57:53p Cheeser loves Captain Planet.
+12/27/24 9:58:07p Grank does a few mental calculations.
+12/27/24 9:58:15p You vault the wall.
+12/27/24 9:58:25p Tara is now Clanning.
+12/27/24 9:58:30p Worlin Klee says, "Hello, Captain Planet. Welcome to my pottery shop."
+12/27/24 9:58:30p Prince scratches himself behind the ear.
+12/27/24 9:58:31p Worlin Klee looks at you appraisingly.
+12/27/24 9:58:32p Worlin Klee asks, "I could make you a bowl now, but how do I know you’re worthy of so much effort?"
+12/27/24 9:58:34p Worlin Klee says, "Come back when you’ve proven your merit to a wise scholar of the island’s resources."
+12/27/24 9:58:48p Nogürd says, "Greetings, Lord Captain Planet."
+12/27/24 9:59:07p Cheeser kisses Captain Planet with his nose.
+12/27/24 9:59:28p Lern Dermond says, "My mistress is very busy with her natural history research."
+12/27/24 9:59:30p Lern Dermond says, "She has instructed me to turn away those who have no true need to speak with her."
+12/27/24 9:59:32p Lern Dermond studies you closely.
+12/27/24 9:59:33p Lern Dermond says, "The seed of knowledge has been planted within you."
+12/27/24 9:59:34p Lern Dermond says, "Enter, and show whether it rests in fertile soil."
+12/27/24 9:59:37p Jayne Dougal asks, "Oh, hi, Captain Planet. That apprentice of mine sure can be pedantic, don’t you agree?"
+12/27/24 9:59:38p Jayne Dougal says, "Anyway, I bet the potter sent you here to see if you deserve an alchemy bowl."
+12/27/24 9:59:40p Jayne Dougal says, "As a test, let’s see if you can identify these things. You’ll have to be pretty specific."
+12/27/24 9:59:42p Jayne Dougal asks, "What do you call this?"
+12/27/24 9:59:43p Jayne Dougal asks, "Try again when you know a little more about the island, eh?"
+12/27/24 9:59:45p Jayne Dougal says, "Now if you’ll excuse me, I have work to do."
+12/27/24 9:59:46p Captain Planet says, "zu"
+12/27/24 10:00:11p Lern Dermond says, "My mistress is very busy with her natural history research."
+12/27/24 10:00:11p You slaughtered a Scavenger Bird.
+12/27/24 10:00:12p Cheeser slaughtered a Scavenger Bird.
+12/27/24 10:00:12p Lern Dermond says, "She has instructed me to turn away those who have no true need to speak with her."
+12/27/24 10:00:14p Lern Dermond studies you closely.
+12/27/24 10:00:16p Lern Dermond says, "The seed of knowledge has been planted within you."
+12/27/24 10:00:17p Lern Dermond says, "Enter, and show whether it rests in fertile soil."
+12/27/24 10:00:19p Jayne Dougal asks, "Oh, hi, Captain Planet. That apprentice of mine sure can be pedantic, don’t you agree?"
+12/27/24 10:00:21p Jayne Dougal says, "Anyway, I bet the potter sent you here to see if you deserve an alchemy bowl."
+12/27/24 10:00:23p Jayne Dougal says, "As a test, let’s see if you can identify these things. You’ll have to be pretty specific."
+12/27/24 10:00:25p Jayne Dougal asks, "What is this?"
+12/27/24 10:00:29p Captain Planet says, "uiul flower"
+12/27/24 10:00:30p Jayne Dougal says, "Sorry, I know it as an “uli flower”."
+12/27/24 10:00:31p Jayne Dougal asks, "Try again when you know a little more about the island, eh?"
+12/27/24 10:00:32p Jayne Dougal says, "Now if you’ll excuse me, I have work to do."
+12/27/24 10:00:35p You slaughtered a Scavenger Bird.
+12/27/24 10:00:35p Cheeser slaughtered a Scavenger Bird.
+12/27/24 10:00:43p You slaughtered a Myrm Scout.
+12/27/24 10:00:44p Cheeser dispatched a Myrm Scout.
+12/27/24 10:00:45p Captain Planet says, "uli flower"
+12/27/24 10:00:49p Lern Dermond says, "My mistress is very busy with her natural history research."
+12/27/24 10:00:51p Lern Dermond says, "She has instructed me to turn away those who have no true need to speak with her."
+12/27/24 10:00:52p Lern Dermond studies you closely.
+12/27/24 10:00:54p Lern Dermond says, "The seed of knowledge has been planted within you."
+12/27/24 10:00:55p Lern Dermond says, "Enter, and show whether it rests in fertile soil."
+12/27/24 10:00:58p Jayne Dougal asks, "Oh, hi, Captain Planet. That apprentice of mine sure can be pedantic, don’t you agree?"
+12/27/24 10:01:00p Jayne Dougal says, "Anyway, I bet the potter sent you here to see if you deserve an alchemy bowl."
+12/27/24 10:01:00p A monster growls, "Squeak!"
+12/27/24 10:01:02p Jayne Dougal says, "As a test, let’s see if you can identify these things. You’ll have to be pretty specific."
+12/27/24 10:01:04p Jayne Dougal asks, "How about this?"
+12/27/24 10:01:08p Captain Planet says, "wheat"
+12/27/24 10:01:08p Jayne Dougal says, "Sorry, I know it as “barley”."
+12/27/24 10:01:09p Jayne Dougal asks, "Try again when you know a little more about the island, eh?"
+12/27/24 10:01:10p Jayne Dougal says, "Now if you’ll excuse me, I have work to do."
+12/27/24 10:01:21p Captain Planet says, "barley"
+12/27/24 10:01:23p Lern Dermond says, "My mistress is very busy with her natural history research."
+12/27/24 10:01:24p Lern Dermond says, "She has instructed me to turn away those who have no true need to speak with her."
+12/27/24 10:01:26p Lern Dermond studies you closely.
+12/27/24 10:01:28p Lern Dermond says, "The seed of knowledge has been planted within you."
+12/27/24 10:01:29p Lern Dermond says, "Enter, and show whether it rests in fertile soil."
+12/27/24 10:01:32p Jayne Dougal asks, "Oh, hi, Captain Planet. That apprentice of mine sure can be pedantic, don’t you agree?"
+12/27/24 10:01:33p Jayne Dougal says, "Anyway, I bet the potter sent you here to see if you deserve an alchemy bowl."
+12/27/24 10:01:35p Jayne Dougal says, "As a test, let’s see if you can identify these things. You’ll have to be pretty specific."
+12/27/24 10:01:37p Jayne Dougal asks, "What are these called?"
+12/27/24 10:01:42p Captain Planet says, "spore"
+12/27/24 10:01:42p Jayne Dougal asks, "What is this?"
+12/27/24 10:01:46p Jayne Dougal asks, "Try again when you know a little more about the island, eh?"
+12/27/24 10:01:47p Jayne Dougal says, "Now if you’ll excuse me, I have work to do."
+12/27/24 10:01:47p Captain Planet says, "uli flower"
+12/27/24 10:01:53p You slaughtered a Vermine.
+12/27/24 10:01:53p Cheeser slaughtered a Vermine.
+12/27/24 10:02:00p Captain Planet says, "uli flower"
+12/27/24 10:02:02p Lern Dermond says, "My mistress is very busy with her natural history research."
+12/27/24 10:02:03p Lern Dermond says, "She has instructed me to turn away those who have no true need to speak with her."
+12/27/24 10:02:05p Lern Dermond studies you closely.
+12/27/24 10:02:06p Lern Dermond says, "The seed of knowledge has been planted within you."
+12/27/24 10:02:08p Lern Dermond says, "Enter, and show whether it rests in fertile soil."
+12/27/24 10:02:12p Jayne Dougal asks, "Oh, hi, Captain Planet. That apprentice of mine sure can be pedantic, don’t you agree?"
+12/27/24 10:02:14p Jayne Dougal says, "Anyway, I bet the potter sent you here to see if you deserve an alchemy bowl."
+12/27/24 10:02:16p Jayne Dougal says, "As a test, let’s see if you can identify these things. You’ll have to be pretty specific."
+12/27/24 10:02:18p Jayne Dougal asks, "How about this?"
+12/27/24 10:02:19p Jayne Dougal asks, "Try again when you know a little more about the island, eh?"
+12/27/24 10:02:21p Jayne Dougal says, "Now if you’ll excuse me, I have work to do."
+12/27/24 10:02:21p Captain Planet says, "barley"
+12/27/24 10:02:25p Lern Dermond says, "My mistress is very busy with her natural history research."
+12/27/24 10:02:27p Lern Dermond says, "She has instructed me to turn away those who have no true need to speak with her."
+12/27/24 10:02:28p Lern Dermond studies you closely.
+12/27/24 10:02:30p Lern Dermond says, "The seed of knowledge has been planted within you."
+12/27/24 10:02:31p Lern Dermond says, "Enter, and show whether it rests in fertile soil."
+12/27/24 10:02:33p Jayne Dougal asks, "Oh, hi, Captain Planet. That apprentice of mine sure can be pedantic, don’t you agree?"
+12/27/24 10:02:35p Jayne Dougal says, "Anyway, I bet the potter sent you here to see if you deserve an alchemy bowl."
+12/27/24 10:02:37p Jayne Dougal says, "As a test, let’s see if you can identify these things. You’ll have to be pretty specific."
+12/27/24 10:02:39p Jayne Dougal asks, "How about this?"
+12/27/24 10:02:42p Jayne Dougal asks, "Try again when you know a little more about the island, eh?"
+12/27/24 10:02:44p Jayne Dougal says, "Now if you’ll excuse me, I have work to do."
+12/27/24 10:02:46p Captain Planet says, "myrm egg"
+12/27/24 10:02:49p Lern Dermond says, "My mistress is very busy with her natural history research."
+12/27/24 10:02:50p Lern Dermond says, "She has instructed me to turn away those who have no true need to speak with her."
+12/27/24 10:02:52p Lern Dermond studies you closely.
+12/27/24 10:02:53p Lern Dermond says, "The seed of knowledge has been planted within you."
+12/27/24 10:02:55p Lern Dermond says, "Enter, and show whether it rests in fertile soil."
+12/27/24 10:02:57p Jayne Dougal asks, "Oh, hi, Captain Planet. That apprentice of mine sure can be pedantic, don’t you agree?"
+12/27/24 10:02:59p Jayne Dougal asks, "Oh, hi, Captain Planet. That apprentice of mine sure can be pedantic, don’t you agree?"
+12/27/24 10:03:01p Jayne Dougal says, "Anyway, I bet the potter sent you here to see if you deserve an alchemy bowl."
+12/27/24 10:03:02p Jayne Dougal says, "As a test, let’s see if you can identify these things. You’ll have to be pretty specific."
+12/27/24 10:03:05p Jayne Dougal asks, "What is this?"
+12/27/24 10:03:13p Captain Planet says, "misle toe"
+12/27/24 10:03:13p Jayne Dougal says, "Sorry, I know it as “mistletoe”."
+12/27/24 10:03:14p Jayne Dougal asks, "Try again when you know a little more about the island, eh?"
+12/27/24 10:03:15p Jayne Dougal says, "Now if you’ll excuse me, I have work to do."
+12/27/24 10:03:22p Cheeser stands on his hind legs and begs.
+12/27/24 10:03:29p Captain Planet says, "mistletoe"
+12/27/24 10:03:30p Lern Dermond says, "My mistress is very busy with her natural history research."
+12/27/24 10:03:32p Lern Dermond says, "She has instructed me to turn away those who have no true need to speak with her."
+12/27/24 10:03:33p Lern Dermond studies you closely.
+12/27/24 10:03:35p Lern Dermond says, "The seed of knowledge has been planted within you."
+12/27/24 10:03:36p Lern Dermond says, "Enter, and show whether it rests in fertile soil."
+12/27/24 10:03:39p Jayne Dougal asks, "Oh, hi, Captain Planet. That apprentice of mine sure can be pedantic, don’t you agree?"
+12/27/24 10:03:41p Jayne Dougal says, "Anyway, I bet the potter sent you here to see if you deserve an alchemy bowl."
+12/27/24 10:03:42p Jayne Dougal says, "As a test, let’s see if you can identify these things. You’ll have to be pretty specific."
+12/27/24 10:03:44p Jayne Dougal asks, "How about this?"
+12/27/24 10:03:54p Captain Planet says, "myrm eeg"
+12/27/24 10:03:54p Jayne Dougal says, "Sorry, I know it as a “myrm egg”."
+12/27/24 10:03:55p Jayne Dougal asks, "Try again when you know a little more about the island, eh?"
+12/27/24 10:03:57p Jayne Dougal says, "Now if you’ll excuse me, I have work to do."
+12/27/24 10:03:58p Lern Dermond says, "My mistress is very busy with her natural history research."
+12/27/24 10:04:00p Lern Dermond says, "She has instructed me to turn away those who have no true need to speak with her."
+12/27/24 10:04:02p Lern Dermond studies you closely.
+12/27/24 10:04:03p Lern Dermond says, "The seed of knowledge has been planted within you."
+12/27/24 10:04:04p Lern Dermond says, "Enter, and show whether it rests in fertile soil."
+12/27/24 10:04:07p Jayne Dougal asks, "Oh, hi, Captain Planet. That apprentice of mine sure can be pedantic, don’t you agree?"
+12/27/24 10:04:09p Jayne Dougal says, "Anyway, I bet the potter sent you here to see if you deserve an alchemy bowl."
+12/27/24 10:04:10p Jayne Dougal says, "As a test, let’s see if you can identify these things. You’ll have to be pretty specific."
+12/27/24 10:04:13p Jayne Dougal asks, "What is this called?"
+12/27/24 10:04:18p Captain Planet says, "yeast"
+12/27/24 10:04:18p Jayne Dougal asks, "What are these called?"
+12/27/24 10:04:23p Captain Planet says, "spore"
+12/27/24 10:04:23p Jayne Dougal asks, "What are these?"
+12/27/24 10:04:30p Jayne Dougal asks, "Try again when you know a little more about the island, eh?"
+12/27/24 10:04:32p Jayne Dougal says, "Now if you’ll excuse me, I have work to do."
+12/27/24 10:04:32p Captain Planet says, "tangle berry"
+12/27/24 10:04:34p Lern Dermond says, "My mistress is very busy with her natural history research."
+12/27/24 10:04:36p Lern Dermond says, "She has instructed me to turn away those who have no true need to speak with her."
+12/27/24 10:04:40p Lern Dermond says, "My mistress is very busy with her natural history research."
+12/27/24 10:04:41p Lern Dermond says, "She has instructed me to turn away those who have no true need to speak with her."
+12/27/24 10:04:43p Lern Dermond studies you closely.
+12/27/24 10:04:45p Lern Dermond says, "The seed of knowledge has been planted within you."
+12/27/24 10:04:46p Lern Dermond says, "Enter, and show whether it rests in fertile soil."
+12/27/24 10:04:48p Jayne Dougal asks, "Oh, hi, Captain Planet. That apprentice of mine sure can be pedantic, don’t you agree?"
+12/27/24 10:04:50p Jayne Dougal says, "Anyway, I bet the potter sent you here to see if you deserve an alchemy bowl."
+12/27/24 10:04:52p Jayne Dougal says, "As a test, let’s see if you can identify these things. You’ll have to be pretty specific."
+12/27/24 10:04:54p Jayne Dougal asks, "What is this?"
+12/27/24 10:05:03p Captain Planet says, "mistletoe"
+12/27/24 10:05:04p Jayne Dougal asks, "How about this?"
+12/27/24 10:05:06p Jayne Dougal asks, "Try again when you know a little more about the island, eh?"
+12/27/24 10:05:07p Jayne Dougal says, "Now if you’ll excuse me, I have work to do."
+12/27/24 10:05:08p Captain Planet says, "myrm eeg"
+12/27/24 10:05:12p Captain Planet says, "myrm egg"
+12/27/24 10:05:16p Lern Dermond says, "My mistress is very busy with her natural history research."
+12/27/24 10:05:17p Lern Dermond says, "She has instructed me to turn away those who have no true need to speak with her."
+12/27/24 10:05:21p Captain Planet whispers, "Go home"
+12/27/24 10:05:23p Lern Dermond says, "My mistress is very busy with her natural history research."
+12/27/24 10:05:24p Lern Dermond says, "She has instructed me to turn away those who have no true need to speak with her."
+12/27/24 10:05:26p Lern Dermond studies you closely.
+12/27/24 10:05:28p Lern Dermond says, "The seed of knowledge has been planted within you."
+12/27/24 10:05:29p Lern Dermond says, "Enter, and show whether it rests in fertile soil."
+12/27/24 10:05:35p You browse the books.
+12/27/24 10:05:38p You browse the books.
+12/27/24 10:05:42p You browse the books.
+12/27/24 10:05:56p Jayne Dougal asks, "Oh, hi, Captain Planet. That apprentice of mine sure can be pedantic, don’t you agree?"
+12/27/24 10:05:58p Jayne Dougal says, "Anyway, I bet the potter sent you here to see if you deserve an alchemy bowl."
+12/27/24 10:06:00p Jayne Dougal says, "As a test, let’s see if you can identify these things. You’ll have to be pretty specific."
+12/27/24 10:06:02p Jayne Dougal asks, "What is this?"
+12/27/24 10:06:07p Captain Planet says, "hops"
+12/27/24 10:06:07p Jayne Dougal asks, "How about this?"
+12/27/24 10:06:14p Captain Planet says, "barley"
+12/27/24 10:06:15p Jayne Dougal asks, "What’s the name of this?"
+12/27/24 10:06:19p Captain Planet says, "wheat"
+12/27/24 10:06:19p Jayne Dougal asks, "How about this?"
+12/27/24 10:06:22p Captain Planet says, "myrm egg"
+12/27/24 10:06:23p Jayne Dougal asks, "What is this called?"
+12/27/24 10:06:27p Captain Planet says, "egg"
+12/27/24 10:06:28p Jayne Dougal says, "Sorry, I know it as a “herpetid egg”."
+12/27/24 10:06:29p Jayne Dougal asks, "Try again when you know a little more about the island, eh?"
+12/27/24 10:06:30p Jayne Dougal says, "Now if you’ll excuse me, I have work to do."
+12/27/24 10:06:39p Captain Planet says, "herpetid egg"
+12/27/24 10:06:43p Lern Dermond says, "My mistress is very busy with her natural history research."
+12/27/24 10:06:45p Lern Dermond says, "She has instructed me to turn away those who have no true need to speak with her."
+12/27/24 10:06:46p Lern Dermond studies you closely.
+12/27/24 10:06:48p Lern Dermond says, "The seed of knowledge has been planted within you."
+12/27/24 10:06:49p Lern Dermond says, "Enter, and show whether it rests in fertile soil."
+12/27/24 10:06:52p Jayne Dougal asks, "Oh, hi, Captain Planet. That apprentice of mine sure can be pedantic, don’t you agree?"
+12/27/24 10:06:54p Jayne Dougal says, "Anyway, I bet the potter sent you here to see if you deserve an alchemy bowl."
+12/27/24 10:06:55p Jayne Dougal says, "As a test, let’s see if you can identify these things. You’ll have to be pretty specific."
+12/27/24 10:06:57p Jayne Dougal asks, "What’s the name of this?"
+12/27/24 10:07:00p Captain Planet says, "wheat"
+12/27/24 10:07:01p Jayne Dougal asks, "What are these called?"
+12/27/24 10:07:09p Captain Planet says, "spore"
+12/27/24 10:07:09p Jayne Dougal asks, "How about this?"
+12/27/24 10:07:14p Captain Planet says, "egg"
+12/27/24 10:07:15p Jayne Dougal says, "Sorry, I know it as a “scavenger bird egg”."
+12/27/24 10:07:16p Jayne Dougal asks, "Try again when you know a little more about the island, eh?"
+12/27/24 10:07:17p Jayne Dougal says, "Now if you’ll excuse me, I have work to do."
+12/27/24 10:07:26p Captain Planet says, "scavenger bird egg"
+12/27/24 10:07:30p Lern Dermond says, "My mistress is very busy with her natural history research."
+12/27/24 10:07:31p Lern Dermond says, "She has instructed me to turn away those who have no true need to speak with her."
+12/27/24 10:07:33p Lern Dermond studies you closely.
+12/27/24 10:07:34p Lern Dermond says, "The seed of knowledge has been planted within you."
+12/27/24 10:07:36p Lern Dermond says, "Enter, and show whether it rests in fertile soil."
+12/27/24 10:07:39p Jayne Dougal asks, "Oh, hi, Captain Planet. That apprentice of mine sure can be pedantic, don’t you agree?"
+12/27/24 10:07:41p Jayne Dougal says, "Anyway, I bet the potter sent you here to see if you deserve an alchemy bowl."
+12/27/24 10:07:43p Jayne Dougal says, "As a test, let’s see if you can identify these things. You’ll have to be pretty specific."
+12/27/24 10:07:45p Jayne Dougal asks, "How about this?"
+12/27/24 10:07:49p Captain Planet says, "myrm egg"
+12/27/24 10:07:49p Jayne Dougal asks, "What is this?"
+12/27/24 10:07:59p Captain Planet says, "uli flower"
+12/27/24 10:07:59p Jayne Dougal asks, "What’s the name of this?"
+12/27/24 10:08:03p Captain Planet says, "wheat"
+12/27/24 10:08:03p Jayne Dougal asks, "How about this?"
+12/27/24 10:08:07p Captain Planet says, "scavenger bird egg"
+12/27/24 10:08:07p Jayne Dougal asks, "What are these called?"
+12/27/24 10:08:11p Captain Planet says, "spore"
+12/27/24 10:08:11p Jayne Dougal says, "Congratulations, Captain Planet, you got them all right."
+12/27/24 10:08:13p Jayne Dougal says, "I’ll tell the potter you definitely deserve an alchemy bowl."
+12/27/24 10:08:14p Jayne Dougal says, "Now if you’ll excuse me, I have work to do."
+12/27/24 10:08:39p Ace thinks, "eq s"
+12/27/24 10:08:53p You vault the wall.
+12/27/24 10:08:53p Kennod Barkle says, "Now we're getting them every three months."
+12/27/24 10:09:16p Chymela says, "Hello, Captain Planet."
+12/27/24 10:09:17p Chymela says, "I see that you don’t have an alchemy bowl of your own. You will need one before my lab will do you any good."
+12/27/24 10:09:19p Chymela says, "A fine clay bowl should do nicely, if it’s made for the purpose."
+12/27/24 10:09:21p Chymela says, "Hello, Captain Planet."
+12/27/24 10:09:22p Chymela says, "I see that you don’t have an alchemy bowl of your own. You will need one before my lab will do you any good."
+12/27/24 10:09:24p Chymela says, "A fine clay bowl should do nicely, if it’s made for the purpose."
+12/27/24 10:09:49p Worlin Klee says, "Hello, Captain Planet. Welcome to my pottery shop."
+12/27/24 10:09:50p Worlin Klee says, "I heard about your success on the test. It took a while, but I got your bowl made. Congratulations."
+12/27/24 10:09:52p You receive an alchemy bowl with “Captain Planet” engraved on the side.
+12/27/24 10:10:00p Shadowmutt growls, "Grrr."
+12/27/24 10:10:20p Tara is no longer Clanning.
+12/27/24 10:10:20p Chymela says, "Hello, Captain Planet."
+12/27/24 10:10:21p Chymela ushers you into the lab.
+12/27/24 10:10:36p Brerion asks, "Which recipe do you want me to look up?"
+12/27/24 10:10:44p Captain Planet says, "catsbane"
+12/27/24 10:10:45p Brerion asks, "Do you mean a catsbane necklace?"
+12/27/24 10:10:48p Captain Planet says, "yes"
+12/27/24 10:10:48p Brerion flips through the book.
+12/27/24 10:10:49p Brerion says, "Here's what you'll need for a catsbane necklace:"
+12/27/24 10:10:50p Brerion says, "a pinch of catsbane, a tuft of lyfelidae fur, a lyfelidae claw,..."
+12/27/24 10:10:52p Brerion says, "and a lyfelidae whisker."
+12/27/24 10:10:53p Brerion asks, "Which recipe do you want me to look up?"
+12/27/24 10:11:18p Usto Cadia asks, "Ah, Captain Planet, you'll be wanting the usual, a bottle of light blue paint, I suppose?"
+12/27/24 10:11:19p Usto Cadia says, "Come back when you're ready, then."
+12/27/24 10:11:46p Arista Stainfinger says, "Greetings, Lord Captain Planet. I can analyze some kinds of mixtures to figure out how to make them."
+12/27/24 10:11:49p Keets Orr says, "Greetings, Lord Captain Planet."
+12/27/24 10:11:51p Kalemis Stainfinger says, "Hail, Lord Captain Planet. I can teach you to make different kinds of potions."
+12/27/24 10:11:56p Kalemis Stainfinger says, "Hail, Lord Captain Planet. I can teach you to make different kinds of potions."
+12/27/24 10:11:57p Kalemis Stainfinger asks, "What kind of potion do you want to learn to make?"
+12/27/24 10:12:02p Lia Gish says, "Hello, Captain Planet."
+12/27/24 10:12:03p Lia Gish asks, "Have you had any luck finding a precision flask for your kit?"
+12/27/24 10:12:38p You sit down at the table but find it isn't set up for you.
+12/27/24 10:12:54p Brerion asks, "Which recipe do you want me to look up?"
+12/27/24 10:12:58p Captain Planet says, "uil"
+12/27/24 10:12:59p Brerion says, "Come now, you'll have to give me a little more to work with than that."
+12/27/24 10:13:00p Brerion asks, "Which recipe do you want me to look up?"
+12/27/24 10:13:03p Captain Planet says, "heal"
+12/27/24 10:13:03p Brerion asks, "Do you mean a red healing potion?"
+12/27/24 10:13:09p Captain Planet says, "no"
+12/27/24 10:13:09p Brerion asks, "Do you mean a tykan healing potion?"
+12/27/24 10:13:12p Captain Planet says, "no"
+12/27/24 10:13:12p Brerion asks, "Do you mean a red healing salve?"
+12/27/24 10:13:14p Captain Planet says, "yes"
+12/27/24 10:13:14p Brerion flips through the book.
+12/27/24 10:13:15p Brerion says, "Here's what you'll need for a red healing salve:"
+12/27/24 10:13:17p Brerion says, "an uli flower, a cluster of mutated spores, and a bottle of water."
+12/27/24 10:13:18p Brerion asks, "Which recipe do you want me to look up?"
+12/27/24 10:13:59p Ruddy Quickhand says, "Hello, Captain Planet."
+12/27/24 10:14:00p Ruddy Quickhand says, "I hear you’ll be needing a precision flask."
+12/27/24 10:14:00p Captain Planet says, "yes"
+12/27/24 10:14:01p Ruddy Quickhand says, "I could make one, but I’m out of the special sand it requires."
+12/27/24 10:14:03p Ruddy Quickhand asks, "Would you like to buy an empty bottle for 5 coins?"
+12/27/24 10:14:04p Captain Planet says, "yes"
+12/27/24 10:14:04p Ruddy Quickhand says, "Thank you! Come back again."
+12/27/24 10:14:17p Ruddy Quickhand says, "Hello, Captain Planet."
+12/27/24 10:14:18p Ruddy Quickhand says, "I hear you’ll be needing a precision flask."
+12/27/24 10:14:19p Ruddy Quickhand says, "I could make one, but I’m out of the special sand it requires."
+12/27/24 10:14:20p Ruddy Quickhand asks, "Would you like to buy an empty bottle for 5 coins?"
+12/27/24 10:14:21p Ruddy Quickhand says, "Perhaps another time, then."
+12/27/24 10:14:22p Captain Planet says, "yes"
+12/27/24 10:14:25p Ruddy Quickhand says, "Hello, Captain Planet."
+12/27/24 10:14:26p Ruddy Quickhand says, "I hear you’ll be needing a precision flask."
+12/27/24 10:14:27p Ruddy Quickhand says, "I could make one, but I’m out of the special sand it requires."
+12/27/24 10:14:29p Ruddy Quickhand asks, "Would you like to buy an empty bottle for 5 coins?"
+12/27/24 10:14:30p Captain Planet says, "yes"
+12/27/24 10:14:30p Ruddy Quickhand says, "Thank you! Come back again."
+12/27/24 10:15:14p You vault the wall.
+12/27/24 10:15:39p You equip your bottle.
+12/27/24 10:15:43p You fill your bottle with water.
+12/27/24 10:15:46p You equip your bottle.
+12/27/24 10:15:47p You fill your bottle with water.
+12/27/24 10:16:08p Chymela says, "Hello, Captain Planet."
+12/27/24 10:16:10p Chymela ushers you into the lab.
+12/27/24 10:16:13p You examine the mysterious objects cautiously.
+12/27/24 10:16:29p Usto Cadia asks, "Ah, Captain Planet, you'll be wanting the usual, a bottle of light blue paint, I suppose?"
+12/27/24 10:16:31p Usto Cadia says, "Come back when you're ready, then."
+12/27/24 10:16:36p You equip your alchemy bowl.
+12/27/24 10:16:39p You must be holding an item in your right hand in order to /use it.
+12/27/24 10:16:39p To use an item equipped elsewhere, see the help for /useitem.
+12/27/24 10:16:44p \USE: examine this more closely.
+12/27/24 10:16:46p You read the name ‘Captain Planet’ carved on the side of the bowl.
+12/27/24 10:16:53p Usto Cadia asks, "Ah, Captain Planet, you'll be wanting the usual, a bottle of light blue paint, I suppose?"
+12/27/24 10:16:54p Usto Cadia says, "Come back when you're ready, then."
+12/27/24 10:17:09p Usto Cadia asks, "Ah, Captain Planet, you'll be wanting the usual, a bottle of light blue paint, I suppose?"
+12/27/24 10:17:10p Captain Planet says, "red healing salve"
+12/27/24 10:17:11p Usto Cadia sets your alchemy bowl on the workbench.
+12/27/24 10:17:12p Usto Cadia mutters something about being careful.
+12/27/24 10:17:16p Usto Cadia asks, "Ah, Captain Planet, you'll be wanting the usual, a bottle of light blue paint, I suppose?"
+12/27/24 10:17:17p Usto Cadia says, "Come back when you're ready, then."
+12/27/24 10:18:36p Usto Cadia asks, "Ah, Captain Planet, you'll be wanting the usual, a bottle of light blue paint, I suppose?"
+12/27/24 10:18:38p Captain Planet says, "red healing salve"
+12/27/24 10:18:38p Usto Cadia sets your alchemy bowl on the workbench.
+12/27/24 10:18:39p Usto Cadia says, "Careful -- we had a little accident in here earlier, and the scorch marks get soot on everything."
+12/27/24 10:18:44p Usto Cadia asks, "Ah, Captain Planet, you'll be wanting the usual, a bottle of light blue paint, I suppose?"
+12/27/24 10:18:46p Usto Cadia says, "Come back when you're ready, then."
+12/27/24 10:18:51p Brerion says, "Hey, Captain Planet, that book's valuable! Keep your clumsy, grubby hands off it. I'll look things up for you."
+12/27/24 10:18:56p Keets Orr says, "Greetings, Lord Captain Planet."
+12/27/24 10:18:57p Keets Orr says, "I disassemble alchemy kits and return the bowls."
+12/27/24 10:19:01p Arista Stainfinger says, "Greetings, Lord Captain Planet. I can analyze some kinds of mixtures to figure out how to make them."
+12/27/24 10:19:03p Arista Stainfinger says, "I record all my results in that book over there."
+12/27/24 10:19:04p Arista Stainfinger says, "If you find any new items, please bring them by. I'd love to learn more about them."
+12/27/24 10:19:06p Arista Stainfinger says, "Greetings, Lord Captain Planet. I can analyze some kinds of mixtures to figure out how to make them."
+12/27/24 10:19:09p Kalemis Stainfinger says, "Hail, Lord Captain Planet. I can teach you to make different kinds of potions."
+12/27/24 10:19:11p Kalemis Stainfinger asks, "What kind of potion do you want to learn to make?"
+12/27/24 10:19:13p Captain Planet says, "red healing salve"
+12/27/24 10:19:13p Kalemis Stainfinger says, "Ah, excellent. Just a moment while I look up the details."
+12/27/24 10:19:15p Kalemis Stainfinger says, "Oh, that one's very easy. Here, I'll show you how to make it right now."
+12/27/24 10:19:17p Kalemis Stainfinger shows you the proper techniques.
+12/27/24 10:19:18p Kalemis Stainfinger says, "Yes, I think you have the hang of it. You won't need any more training at all for that one."
+12/27/24 10:19:20p Kalemis Stainfinger says, "Hail, Lord Captain Planet. I can teach you to make different kinds of potions."
+12/27/24 10:19:22p Kalemis Stainfinger asks, "What kind of potion do you want to learn to make?"
+12/27/24 10:19:39p Lia Gish says, "Hello, Captain Planet."
+12/27/24 10:19:40p Lia Gish asks, "Have you had any luck finding a precision flask for your kit?"
+12/27/24 10:19:43p You examine the mysterious objects cautiously.
+12/27/24 10:19:57p You sit down at the table and begin work on a red healing salve.
+12/27/24 10:19:59p You examine the mysterious objects cautiously.
+12/27/24 10:20:32p Faticus is now Clanning.
+12/27/24 10:20:46p • Faticus offers you a soft yellowish stone for free.
+12/27/24 10:20:46p To accept, \BUY 0 Faticus.
+12/27/24 10:20:46p 1  Faticus. 
+12/27/24 10:20:46p 1  Faticus. 
+12/27/24 10:20:46p Faticus hands you a soft yellowish stone.
+12/27/24 10:21:10p Ruddy Quickhand says, "Hello, Captain Planet."
+12/27/24 10:21:11p Ruddy Quickhand says, "I hear you’ll be needing a precision flask."
+12/27/24 10:21:12p Ruddy Quickhand says, "I could make one, but I’m out of the special sand it requires."
+12/27/24 10:21:13p Ruddy Quickhand asks, "Would you like to buy an empty bottle for 5 coins?"
+12/27/24 10:21:16p You equip your soft yellowish stone.
+12/27/24 10:21:18p Ruddy Quickhand says, "Perhaps another time, then."
+12/27/24 10:21:22p Ruddy Quickhand says, "Hello, Captain Planet."
+12/27/24 10:21:23p Ruddy Quickhand says, "I hear you’ll be needing a precision flask."
+12/27/24 10:21:24p Ruddy Quickhand says, "I could make one, but I’m out of the special sand it requires."
+12/27/24 10:21:26p Ruddy Quickhand asks, "Would you like to buy an empty bottle for 5 coins?"
+12/27/24 10:21:28p Ruddy Quickhand says, "Perhaps another time, then."
+12/27/24 10:21:40p • /SLEEP when you wish to begin studying.
+12/27/24 10:21:43p You offer a soft yellowish stone to Faticus for free.
+12/27/24 10:21:43p \SELL /cancel to cancel the offer.
+12/27/24 10:21:47p You hand Faticus a soft yellowish stone.
+12/27/24 10:22:06p Faticus is done adventuring for a while and will be staying here.
+12/27/24 10:22:08p Faticus is no longer Clanning.
+12/27/24 10:22:14p Use \SLEEP again when you return.
+12/27/24 10:22:14p You are done adventuring for a while and will be staying here.
+12/27/24 10:22:15p You have been disconnected from Clan Lord.
+12/27/24 10:22:15p • You will benefit from staying here while you are off-line.
+12/27/24 10:22:16p *** We are no longer connected to the Clan Lord game server. ***

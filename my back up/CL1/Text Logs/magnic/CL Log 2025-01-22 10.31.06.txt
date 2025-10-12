@@ -1,0 +1,896 @@
+
+1/22/25 10:31:06a * Your shirt named “Lime Green” is in very good condition.
+1/22/25 10:31:06a * Your pair of pants named “Lime Green” is in very good condition.
+1/22/25 10:31:06a * Your pair of shoes named “red” is in very good condition.
+1/22/25 10:31:06a Welcome to Clan Lord, Magnic!
+1/22/25 10:31:06a Type \HELP for a list of commands.
+1/22/25 10:31:06a • You gain experience from your recent studies.
+1/22/25 10:31:06a Type /ranger for commands if you forget
+1/22/25 10:31:06a Magnic is now Clanning.
+1/22/25 10:31:06a You have been studying for 2 days, 2 hours, 53 minutes.
+1/22/25 10:31:07a Friends online: none.
+1/22/25 10:31:09a It's 1:01pm on Lundi, day 21 of Spring, 640.
+1/22/25 10:31:11a There are two members of Black Phoenix clanning: Unholy and you.
+1/22/25 10:31:11a • What’s New: https://deltatao.com/clanlord/news
+1/22/25 10:31:21a * Tip of the day: If someone is bothering you, try /IGNORE. (Use /OPTIONS to turn tips off.)
+1/22/25 10:31:36a Captain Barnac asks, "Ah, Magnic. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+1/22/25 10:31:37a Magnic says, "yes"
+1/22/25 10:31:47a You slaughtered a Young Rockodile.
+1/22/25 10:32:09a You slaughtered an Ebon Scorp.
+1/22/25 10:32:26a You slaughtered an Ebon Scorp.
+1/22/25 10:32:50a Magnic hops over the rocks.
+1/22/25 10:32:51a You slaughtered a Winged Snake.
+1/22/25 10:32:54a • You gather your energy.
+1/22/25 10:32:57a • You speed up.
+1/22/25 10:33:43a Pendarric is now Clanning.
+1/22/25 10:33:44a Magnic skips across the rock.
+1/22/25 10:33:51a Big Boy is now Clanning.
+1/22/25 10:34:10a You slaughtered a Skeletal.
+1/22/25 10:34:45a • You slow down to normal speed.
+1/22/25 10:34:51a You slaughtered a Skeletal.
+1/22/25 10:34:59a You slaughtered an Island Panther.
+1/22/25 10:34:59a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/22/25 10:36:23a You have 4406 coins.
+1/22/25 10:36:29a You slip your heartwood charm into your backpack.
+1/22/25 10:36:49a You slaughtered a Large Vermine.
+1/22/25 10:36:49a * For recovering the fur, you gain experience.
+1/22/25 10:36:49a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/22/25 10:36:50a You slaughtered a Giant Slug.
+1/22/25 10:36:52a You slaughtered a Vermine.
+1/22/25 10:36:53a You slaughtered a Vermine.
+1/22/25 10:36:59a You slaughtered a Giant Slug.
+1/22/25 10:37:02a You slaughtered a Vermine.
+1/22/25 10:37:03a You slaughtered a Large Vermine.
+1/22/25 10:37:09a You slaughtered a Winged Snake.
+1/22/25 10:37:10a You slaughtered a Vermine.
+1/22/25 10:37:10a You slaughtered a Vermine.
+1/22/25 10:37:14a You slaughtered a Large Vermine.
+1/22/25 10:37:14a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/22/25 10:37:14a You slaughtered a Vermine.
+1/22/25 10:37:17a You slaughtered a Rat.
+1/22/25 10:37:18a You slaughtered a Rat.
+1/22/25 10:37:23a You slaughtered a Winged Snake.
+1/22/25 10:37:24a You slaughtered a Feral.
+1/22/25 10:37:24a You slaughtered a Vermine.
+1/22/25 10:37:27a You slaughtered a Vermine.
+1/22/25 10:37:30a You slaughtered a Giant Vermine.
+1/22/25 10:37:36a You slaughtered a Giant Vermine.
+1/22/25 10:37:36a * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+1/22/25 10:37:43a You slaughtered a Rat.
+1/22/25 10:37:45a You slaughtered a Feral.
+1/22/25 10:37:45a * You recover the Feral fur, worth 1c. Your share is 1c.
+1/22/25 10:37:51a You slaughtered a Large Vermine.
+1/22/25 10:37:51a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/22/25 10:37:52a You slaughtered a Vermine.
+1/22/25 10:37:53a You slaughtered a Vermine.
+1/22/25 10:37:54a You slaughtered a Feral.
+1/22/25 10:37:54a * You recover the Feral fur, worth 2c. Your share is 2c.
+1/22/25 10:38:03a You slaughtered a Large Vermine.
+1/22/25 10:38:04a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/22/25 10:38:09a You slaughtered a Vermine.
+1/22/25 10:38:10a You slaughtered a Vermine.
+1/22/25 10:38:10a You slaughtered a Large Vermine.
+1/22/25 10:38:11a You slaughtered an Artak Cougar.
+1/22/25 10:38:11a You slaughtered a Vermine.
+1/22/25 10:38:11a * You recover the Artak Cougar fur, worth 5c. Your share is 5c.
+1/22/25 10:38:12a You slaughtered a Vermine.
+1/22/25 10:38:13a You slaughtered a Vermine.
+1/22/25 10:38:13a You slaughtered a Vermine.
+1/22/25 10:38:15a You slaughtered a Vermine.
+1/22/25 10:38:16a You slaughtered an Artak Cougar.
+1/22/25 10:38:18a You slaughtered a Grey Feral.
+1/22/25 10:38:18a * You recover the Grey Feral fur, worth 2c. Your share is 2c.
+1/22/25 10:38:19a You slaughtered an Island Panther.
+1/22/25 10:38:19a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+1/22/25 10:38:20a You slaughtered a Grey Feral.
+1/22/25 10:38:20a * You recover the Grey Feral fur, worth 2c. Your share is 2c.
+1/22/25 10:38:21a You slaughtered an Artak Cougar.
+1/22/25 10:38:21a * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+1/22/25 10:38:21a You slaughtered a Grey Feral.
+1/22/25 10:38:21a * You recover the Grey Feral fur, worth 2c. Your share is 2c.
+1/22/25 10:38:21a You slaughtered a Vermine.
+1/22/25 10:38:23a You slaughtered a Vermine.
+1/22/25 10:38:24a You slaughtered an Island Panther.
+1/22/25 10:38:24a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+1/22/25 10:38:25a You slaughtered a Giant Vermine.
+1/22/25 10:38:25a * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+1/22/25 10:38:25a You slaughtered a Vermine.
+1/22/25 10:38:25a You slaughtered a Vermine.
+1/22/25 10:38:26a You slaughtered an Artak Cougar.
+1/22/25 10:38:26a * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+1/22/25 10:38:27a You slaughtered a Giant Vermine.
+1/22/25 10:38:27a You slaughtered a Vermine.
+1/22/25 10:38:27a * You recover the Giant Vermine fur, worth 4c. Your share is 4c.
+1/22/25 10:38:27a You slaughtered a Vermine.
+1/22/25 10:38:29a You slaughtered a Rodán Panther.
+1/22/25 10:38:31a You slaughtered an Artak Cougar.
+1/22/25 10:38:31a * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+1/22/25 10:38:31a You slaughtered a Vermine.
+1/22/25 10:38:32a You slaughtered a Vermine.
+1/22/25 10:38:32a You slaughtered an Artak Cougar.
+1/22/25 10:38:32a * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+1/22/25 10:38:33a You slaughtered an Artak Cougar.
+1/22/25 10:38:33a * You recover the Artak Cougar fur, worth 6c. Your share is 6c.
+1/22/25 10:38:40a You slaughtered an Island Panther.
+1/22/25 10:38:40a You slaughtered a Giant Vermine.
+1/22/25 10:38:40a * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+1/22/25 10:38:41a You slaughtered a Giant Vermine.
+1/22/25 10:38:41a * You recover the Giant Vermine fur, worth 3c. Your share is 3c.
+1/22/25 10:38:41a You slaughtered a Bolok Cougar.
+1/22/25 10:38:42a You slaughtered an Artak Cougar.
+1/22/25 10:38:42a * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+1/22/25 10:38:42a You slaughtered a Giant Vermine.
+1/22/25 10:38:42a You slaughtered a Giant Vermine.
+1/22/25 10:38:43a * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+1/22/25 10:38:46a You slaughtered an Island Panther.
+1/22/25 10:38:46a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/22/25 10:38:48a You slaughtered a Vermine.
+1/22/25 10:38:49a You slaughtered an Island Panther.
+1/22/25 10:38:49a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/22/25 10:38:49a You slaughtered a Giant Vermine.
+1/22/25 10:38:50a * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+1/22/25 10:38:50a You slaughtered a Vermine.
+1/22/25 10:38:56a You slaughtered an Island Panther.
+1/22/25 10:38:56a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+1/22/25 10:38:57a You slaughtered an Island Panther.
+1/22/25 10:38:57a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+1/22/25 10:38:58a You slaughtered an Island Panther.
+1/22/25 10:38:58a You slaughtered a Vermine.
+1/22/25 10:38:59a You slaughtered an Artak Cougar.
+1/22/25 10:38:59a * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+1/22/25 10:38:59a You slaughtered a Vermine.
+1/22/25 10:38:59a You slaughtered an Island Panther.
+1/22/25 10:39:01a You slaughtered a Vermine.
+1/22/25 10:39:02a You slaughtered a Feral.
+1/22/25 10:39:02a * You recover the Feral fur, worth 1c. Your share is 1c.
+1/22/25 10:39:03a You slaughtered a Bolok Cougar.
+1/22/25 10:39:03a * You recover the Bolok Cougar fur, worth 7c. Your share is 7c.
+1/22/25 10:39:04a You slaughtered a Bolok Cougar.
+1/22/25 10:39:09a You slaughtered an Island Panther.
+1/22/25 10:39:10a * You recover the Island Panther fur, worth 5c. Your share is 5c.
+1/22/25 10:39:10a You slaughtered an Island Panther.
+1/22/25 10:39:10a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/22/25 10:39:10a You slaughtered a Large Vermine.
+1/22/25 10:39:13a You slaughtered an Island Panther.
+1/22/25 10:39:14a You slaughtered an Island Panther.
+1/22/25 10:39:14a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/22/25 10:39:16a You slaughtered a Rat.
+1/22/25 10:39:17a You slaughtered a Detached Spirit.
+1/22/25 10:39:17a You slaughtered a Grey Feral.
+1/22/25 10:39:18a A monster growls, "Die!"
+1/22/25 10:39:18a You slaughtered an Island Panther.
+1/22/25 10:39:18a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/22/25 10:39:18a You slaughtered an Artak Cougar.
+1/22/25 10:39:19a You slaughtered a Feral.
+1/22/25 10:39:19a * You recover the Feral fur, worth 3c. Your share is 3c.
+1/22/25 10:39:19a You slaughtered an Island Panther.
+1/22/25 10:39:20a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/22/25 10:39:21a You slaughtered a Grey Feral.
+1/22/25 10:39:21a * You recover the Grey Feral fur, worth 2c. Your share is 2c.
+1/22/25 10:39:21a Clemence is now Clanning.
+1/22/25 10:39:21a You slaughtered a Feral.
+1/22/25 10:39:21a * You recover the Feral fur, worth 2c. Your share is 2c.
+1/22/25 10:39:22a You slaughtered a Feral.
+1/22/25 10:39:23a You slaughtered an Orga.
+1/22/25 10:39:24a You slaughtered an Orga.
+1/22/25 10:39:25a You slaughtered an Artak Cougar.
+1/22/25 10:39:25a * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+1/22/25 10:39:25a You slaughtered a Giant Vermine.
+1/22/25 10:39:25a * You recover the Giant Vermine fur, worth 3c. Your share is 3c.
+1/22/25 10:39:25a You slaughtered an Artak Cougar.
+1/22/25 10:39:26a * You recover the Artak Cougar fur, worth 6c. Your share is 6c.
+1/22/25 10:39:27a You slaughtered a Grey Feral.
+1/22/25 10:39:28a You slaughtered a Feral.
+1/22/25 10:39:29a * You recover the Feral fur, worth 1c. Your share is 1c.
+1/22/25 10:39:29a You slaughtered an Orga.
+1/22/25 10:39:31a You slaughtered an Island Panther.
+1/22/25 10:39:31a * You recover the Island Panther fur, worth 4c. Your share is 4c.
+1/22/25 10:39:31a You slaughtered an Orga.
+1/22/25 10:39:32a You slaughtered a Rat.
+1/22/25 10:39:33a You slaughtered an Artak Cougar.
+1/22/25 10:39:33a * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+1/22/25 10:39:34a You slaughtered an Artak Cougar.
+1/22/25 10:39:34a * You recover the Artak Cougar fur, worth 5c. Your share is 5c.
+1/22/25 10:39:36a You slaughtered a Vermine.
+1/22/25 10:39:37a You slaughtered a Giant Vermine.
+1/22/25 10:39:37a * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+1/22/25 10:39:42a You slaughtered a Feral.
+1/22/25 10:39:42a * You recover the Feral fur, worth 2c. Your share is 2c.
+1/22/25 10:39:44a You slaughtered a Feral.
+1/22/25 10:39:44a * You recover the Feral fur, worth 1c. Your share is 1c.
+1/22/25 10:39:46a You slaughtered a Feral.
+1/22/25 10:39:46a * You recover the Feral fur, worth 3c. Your share is 3c.
+1/22/25 10:39:47a You slaughtered a Giant Vermine.
+1/22/25 10:39:47a * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+1/22/25 10:39:48a You slaughtered an Orga.
+1/22/25 10:39:49a You slaughtered a Feral.
+1/22/25 10:39:50a * You recover the Feral fur, worth 1c. Your share is 1c.
+1/22/25 10:39:59a You slaughtered an Island Panther.
+1/22/25 10:39:59a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+1/22/25 10:40:03a You slaughtered a Grey Feral.
+1/22/25 10:40:09a You slaughtered a Rat.
+1/22/25 10:40:14a You slaughtered an Orga.
+1/22/25 10:40:17a You slaughtered a Vermine.
+1/22/25 10:40:18a You slaughtered a Vermine.
+1/22/25 10:40:18a You slaughtered an Island Panther.
+1/22/25 10:40:19a You slaughtered a Vermine.
+1/22/25 10:40:20a You slaughtered a Vermine.
+1/22/25 10:40:20a You slaughtered a Vermine.
+1/22/25 10:40:21a You slaughtered a Vermine.
+1/22/25 10:40:28a You slaughtered a Vermine.
+1/22/25 10:40:29a You slaughtered an Artak Cougar.
+1/22/25 10:40:29a * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+1/22/25 10:40:30a You slaughtered a Large Vermine.
+1/22/25 10:40:30a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/22/25 10:40:30a You slaughtered an Island Panther.
+1/22/25 10:40:31a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/22/25 10:40:33a Fortuna is now Clanning.
+1/22/25 10:40:34a You slaughtered an Island Panther.
+1/22/25 10:40:36a You slaughtered an Island Panther.
+1/22/25 10:40:37a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/22/25 10:40:38a You slaughtered a Rat.
+1/22/25 10:40:44a You slaughtered a Vermine.
+1/22/25 10:40:46a You slaughtered a Myrm Scout.
+1/22/25 10:40:50a You slaughtered a Scavenger Bird.
+1/22/25 10:41:13a You slaughtered a Large Vermine.
+1/22/25 10:41:21a You slaughtered an Orga.
+1/22/25 10:41:22a You slaughtered a Vermine.
+1/22/25 10:41:29a Magnic picks up some togron nuts.
+1/22/25 10:41:37a You vault the wall.
+1/22/25 10:42:00a You drop your cluster of togron nuts.
+1/22/25 10:42:01a Katreesa asks, "but what sort of critter is that?"
+1/22/25 10:42:45a You slaughtered a Large Vermine.
+1/22/25 10:42:45a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/22/25 10:43:04a You slaughtered a Large Vermine.
+1/22/25 10:43:04a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/22/25 10:43:08a You slaughtered a Large Vermine.
+1/22/25 10:43:23a You slaughtered a Vermine.
+1/22/25 10:43:39a You slaughtered a Rat.
+1/22/25 10:43:40a You helped slaughter an Island Panther.
+1/22/25 10:43:40a * You recover the Island Panther fur, worth 4c. Your share is 2c.
+1/22/25 10:43:41a You slaughtered a Large Vermine.
+1/22/25 10:43:41a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/22/25 10:43:41a You slaughtered a Large Vermine.
+1/22/25 10:43:41a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/22/25 10:43:42a You helped slaughter a T'rool.
+1/22/25 10:43:43a You slaughtered a Rat.
+1/22/25 10:43:50a You slaughtered a Rat.
+1/22/25 10:43:58a Magnic says, "oh sorry"
+1/22/25 10:44:00a Clemence says, "uustay"
+1/22/25 10:44:02a Clemence says, "ope"
+1/22/25 10:44:03a Clemence says, "stay"
+1/22/25 10:44:08a Clemence exclaims, "oh no worries!"
+1/22/25 10:44:13a Clemence says, "im just running around :)"
+1/22/25 10:44:26a Clemence says, "come"
+1/22/25 10:44:35a You slaughtered an Island Panther.
+1/22/25 10:44:35a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/22/25 10:44:43a You slaughtered an Island Panther.
+1/22/25 10:44:47a You slaughtered an Artak Cougar.
+1/22/25 10:44:48a * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+1/22/25 10:44:48a You slaughtered an Island Panther.
+1/22/25 10:44:48a You slaughtered a Large Vermine.
+1/22/25 10:44:48a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/22/25 10:44:48a You slaughtered a Vermine.
+1/22/25 10:44:51a You slaughtered a Vermine.
+1/22/25 10:44:54a You slaughtered an Island Panther.
+1/22/25 10:44:54a * For recovering the fur, you gain experience.
+1/22/25 10:44:54a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+1/22/25 10:44:54a You slaughtered a Vermine.
+1/22/25 10:44:56a You slaughtered a T'rool.
+1/22/25 10:44:57a You slaughtered an Artak Cougar.
+1/22/25 10:44:57a * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+1/22/25 10:44:59a You slaughtered an Artak Cougar.
+1/22/25 10:44:59a * For recovering the fur, you gain experience.
+1/22/25 10:44:59a * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+1/22/25 10:45:00a You slaughtered an Artak Cougar.
+1/22/25 10:45:00a * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+1/22/25 10:45:03a You slaughtered an Artak Cougar.
+1/22/25 10:45:07a You slaughtered a Vermine.
+1/22/25 10:45:13a You slaughtered an Island Panther.
+1/22/25 10:45:14a Pe Ell is now Clanning.
+1/22/25 10:45:14a * You recover the Island Panther fur, worth 5c. Your share is 5c.
+1/22/25 10:45:15a You slaughtered an Artak Cougar.
+1/22/25 10:45:16a You slaughtered a T'rool.
+1/22/25 10:45:17a * You recover the T'rool blood, worth 1c. Your share is 1c.
+1/22/25 10:45:17a You slaughtered an Island Panther.
+1/22/25 10:45:17a * You recover the Island Panther fur, worth 4c. Your share is 4c.
+1/22/25 10:45:24a You slaughtered a T'rool.
+1/22/25 10:45:25a You slaughtered an Orc.
+1/22/25 10:45:26a You slaughtered an Artak Cougar.
+1/22/25 10:45:26a You slaughtered an Artak Cougar.
+1/22/25 10:45:26a * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+1/22/25 10:45:26a You slaughtered an Artak Cougar.
+1/22/25 10:45:27a * You recover the Artak Cougar fur, worth 7c. Your share is 7c.
+1/22/25 10:45:27a You slaughtered an Orc.
+1/22/25 10:45:27a You slaughtered an Artak Cougar.
+1/22/25 10:45:27a * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+1/22/25 10:45:28a You slaughtered a T'rool.
+1/22/25 10:45:28a You slaughtered an Artak Cougar.
+1/22/25 10:45:28a * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+1/22/25 10:45:29a You slaughtered an Artak Cougar.
+1/22/25 10:45:29a You slaughtered a T'rool.
+1/22/25 10:45:30a * You recover the T'rool blood, worth 3c. Your share is 3c.
+1/22/25 10:45:30a You slaughtered an Orc.
+1/22/25 10:45:32a You slaughtered a Winged Snake.
+1/22/25 10:45:32a You slaughtered an Artak Cougar.
+1/22/25 10:45:32a * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+1/22/25 10:45:34a You slaughtered an Artak Cougar.
+1/22/25 10:45:34a * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+1/22/25 10:45:36a You slaughtered an Artak Cougar.
+1/22/25 10:45:36a * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+1/22/25 10:45:44a You slaughtered an Orc.
+1/22/25 10:45:45a You slaughtered an Island Panther.
+1/22/25 10:45:45a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/22/25 10:45:45a You slaughtered an Orc.
+1/22/25 10:45:46a You slaughtered an Artak Cougar.
+1/22/25 10:45:46a * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+1/22/25 10:45:48a You slaughtered an Orc.
+1/22/25 10:45:48a You slaughtered an Orc.
+1/22/25 10:45:51a Katreesa thinks, "nope, not really the color I was thinkint of in here"
+1/22/25 10:45:51a You slaughtered an Artak Cougar.
+1/22/25 10:45:52a * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+1/22/25 10:45:53a You slaughtered an Island Panther.
+1/22/25 10:45:53a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+1/22/25 10:45:59a You slaughtered an Island Panther.
+1/22/25 10:45:59a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/22/25 10:46:00a You slaughtered an Island Panther.
+1/22/25 10:46:01a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/22/25 10:46:01a You slaughtered an Island Panther.
+1/22/25 10:46:01a * You recover the Island Panther fur, worth 4c. Your share is 4c.
+1/22/25 10:46:03a You slaughtered an Orc.
+1/22/25 10:46:07a You slaughtered an Artak Cougar.
+1/22/25 10:46:08a You slaughtered an Island Panther.
+1/22/25 10:46:08a * You recover the Island Panther fur, worth 5c. Your share is 5c.
+1/22/25 10:46:08a You slaughtered an Artak Cougar.
+1/22/25 10:46:09a * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+1/22/25 10:46:09a You slaughtered an Island Panther.
+1/22/25 10:46:09a * You recover the Island Panther fur, worth 6c. Your share is 6c.
+1/22/25 10:46:10a You slaughtered an Island Panther.
+1/22/25 10:46:11a * You recover the Island Panther fur, worth 5c. Your share is 5c.
+1/22/25 10:46:37a You slaughtered a Small Arachne.
+1/22/25 10:46:42a You slaughtered an Island Panther.
+1/22/25 10:46:42a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/22/25 10:46:44a You slaughtered an Orc.
+1/22/25 10:46:47a You slaughtered an Orc.
+1/22/25 10:46:52a You slaughtered a Maha Ruknee.
+1/22/25 10:46:53a You slaughtered an Orc.
+1/22/25 10:46:54a You slaughtered an Island Panther.
+1/22/25 10:46:54a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/22/25 10:46:54a You slaughtered an Artak Cougar.
+1/22/25 10:46:55a * You recover the Artak Cougar fur, worth 6c. Your share is 6c.
+1/22/25 10:47:00a You slaughtered an Orc.
+1/22/25 10:47:01a You slaughtered an Orc.
+1/22/25 10:47:05a You slaughtered an Island Panther.
+1/22/25 10:47:05a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+1/22/25 10:47:16a You slaughtered a T'rool.
+1/22/25 10:47:16a You slaughtered an Orc.
+1/22/25 10:47:27a You slaughtered a Rat.
+1/22/25 10:47:28a You slaughtered an Island Panther.
+1/22/25 10:47:29a You slaughtered an Orc.
+1/22/25 10:47:31a You slaughtered an Island Panther.
+1/22/25 10:47:31a You slaughtered an Island Panther.
+1/22/25 10:47:32a You slaughtered a Giant Vermine.
+1/22/25 10:47:33a You slaughtered an Orc.
+1/22/25 10:47:35a You slaughtered an Island Panther.
+1/22/25 10:47:35a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/22/25 10:47:37a You slaughtered a Giant Vermine.
+1/22/25 10:47:38a * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+1/22/25 10:47:38a You slaughtered an Island Panther.
+1/22/25 10:47:38a * You recover the Island Panther fur, worth 5c. Your share is 5c.
+1/22/25 10:47:43a You slaughtered an Orc.
+1/22/25 10:47:45a You slaughtered an Island Panther.
+1/22/25 10:47:45a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/22/25 10:47:46a You slaughtered an Island Panther.
+1/22/25 10:47:48a You slaughtered an Orc.
+1/22/25 10:47:51a You slaughtered an Orc.
+1/22/25 10:47:52a You slaughtered a Small Arachne.
+1/22/25 10:47:52a You slaughtered an Orc.
+1/22/25 10:47:53a You slaughtered an Orc.
+1/22/25 10:47:53a You slaughtered an Orc.
+1/22/25 10:47:54a You slaughtered a Small Arachne.
+1/22/25 10:47:58a You slaughtered a Small Arachne.
+1/22/25 10:47:58a You slaughtered a Small Arachne.
+1/22/25 10:47:59a You slaughtered an Orc.
+1/22/25 10:47:59a You slaughtered a Small Arachne.
+1/22/25 10:48:24a You slaughtered a Leech.
+1/22/25 10:48:38a You slaughtered a Green Meshra.
+1/22/25 10:48:54a Lassair is now Clanning.
+1/22/25 10:49:12a You slaughtered a Savannah Maha.
+1/22/25 10:49:12a * You recover the Savannah Maha fur, worth 8c. Your share is 8c.
+1/22/25 10:49:13a You slaughtered a Leech.
+1/22/25 10:49:17a You slaughtered a Plains Maha Ruknee.
+1/22/25 10:49:23a You slaughtered a Savannah Maha.
+1/22/25 10:49:23a * You recover the Savannah Maha fur, worth 7c. Your share is 7c.
+1/22/25 10:49:24a You slaughtered a Savannah Maha.
+1/22/25 10:49:25a * You recover the Savannah Maha fur, worth 4c. Your share is 4c.
+1/22/25 10:49:25a You slaughtered a Winged Snake.
+1/22/25 10:49:45a You slaughtered a Savannah Maha.
+1/22/25 10:49:56a Shard is no longer Clanning.
+1/22/25 10:50:08a You slaughtered a Rat.
+1/22/25 10:50:12a You slaughtered a Vermine.
+1/22/25 10:50:23a You slaughtered a Small Arachne.
+1/22/25 10:50:24a You slaughtered a Deadly Adder.
+1/22/25 10:50:26a You slaughtered a Small Arachne.
+1/22/25 10:50:32a You slaughtered a Small Arachne.
+1/22/25 10:50:33a You slaughtered a Small Arachne.
+1/22/25 10:50:34a You slaughtered a Small Arachne.
+1/22/25 10:50:36a You found a lump of iron ore!
+1/22/25 10:50:43a You slaughtered a Deadly Adder.
+1/22/25 10:51:14a You slaughtered a Deadly Adder.
+1/22/25 10:51:15a You slaughtered a Deadly Adder.
+1/22/25 10:51:21a You slaughtered a Bat.
+1/22/25 10:51:21a You slaughtered a Bat.
+1/22/25 10:51:22a You slaughtered a Bat.
+1/22/25 10:51:23a You slaughtered a Deadly Arachne.
+1/22/25 10:51:26a Jeepers is now Clanning.
+1/22/25 10:51:33a You slaughtered a Deadly Adder.
+1/22/25 10:51:49a You slaughtered a Deadly Adder.
+1/22/25 10:51:50a You slaughtered a Deadly Adder.
+1/22/25 10:51:52a You slaughtered a Deadly Adder.
+1/22/25 10:51:54a You slaughtered a Deadly Adder.
+1/22/25 10:51:56a You slaughtered a Hooded Corpse.
+1/22/25 10:51:58a You slaughtered a Hooded Corpse.
+1/22/25 10:52:00a You slaughtered a Deadly Adder.
+1/22/25 10:52:00a You slaughtered a Hooded Corpse.
+1/22/25 10:52:05a You slaughtered a Skeletal.
+1/22/25 10:52:06a You slaughtered a Skeletal.
+1/22/25 10:52:07a You slaughtered a Skeletal.
+1/22/25 10:52:08a You slaughtered a Skeletal.
+1/22/25 10:52:08a Talgar yells, "Leave this place! Run!"
+1/22/25 10:52:09a You slaughtered a Skeletal.
+1/22/25 10:52:09a Tossic yells, "Oh, help!"
+1/22/25 10:52:09a You slaughtered a Detached Spirit.
+1/22/25 10:52:10a You slaughtered a Detached Spirit.
+1/22/25 10:52:11a A miner sobs.
+1/22/25 10:52:12a Kalof yells, "Oh, help!"
+1/22/25 10:52:12a The gems in the chests begin to glitter.
+1/22/25 10:52:14a Tossic ponders, "Our greed has doomed us!"
+1/22/25 10:52:17a The gold begins to shine.
+1/22/25 10:52:19a You slaughtered a Faithless.
+1/22/25 10:52:19a You slaughtered a Rat.
+1/22/25 10:52:20a You slaughtered a Skeletal.
+1/22/25 10:52:21a You slaughtered a Skeletal.
+1/22/25 10:52:21a You slaughtered a Skeletal.
+1/22/25 10:52:23a You slaughtered a Skeletal.
+1/22/25 10:52:23a You slaughtered a Skeletal.
+1/22/25 10:52:24a You slaughtered a Corpse Warrior.
+1/22/25 10:52:31a You slaughtered a Corpse Warrior.
+1/22/25 10:52:31a Lassair is no longer Clanning.
+1/22/25 10:52:35a You slaughtered a Hooded Corpse.
+1/22/25 10:52:36a Miscella is now Clanning.
+1/22/25 10:52:43a You slaughtered a Hooded Corpse.
+1/22/25 10:52:46a You slaughtered a Hooded Corpse.
+1/22/25 10:52:47a You slaughtered a Bat.
+1/22/25 10:52:50a You slaughtered a Hooded Corpse.
+1/22/25 10:52:52a Miscella is no longer Clanning.
+1/22/25 10:52:52a You found a lump of iron ore!
+1/22/25 10:52:53a You slaughtered a Skeletal.
+1/22/25 10:52:53a You slaughtered a Small Arachne.
+1/22/25 10:52:54a You slaughtered a Small Arachne.
+1/22/25 10:52:54a You slaughtered a Small Arachne.
+1/22/25 10:52:55a Bastall is now Clanning.
+1/22/25 10:52:58a You slaughtered a Skeletal.
+1/22/25 10:52:58a You slaughtered a Skeletal.
+1/22/25 10:52:59a You slaughtered a Skeletal.
+1/22/25 10:52:59a You slaughtered a Skeletal.
+1/22/25 10:52:59a You slaughtered a Skeletal.
+1/22/25 10:53:00a You slaughtered a Skeletal.
+1/22/25 10:53:00a You slaughtered a Skeletal.
+1/22/25 10:53:01a You slaughtered a Skeletal.
+1/22/25 10:53:02a You slaughtered a Skeletal.
+1/22/25 10:53:02a You slaughtered a Skeletal.
+1/22/25 10:53:03a You slaughtered a Skeletal.
+1/22/25 10:53:03a You slaughtered a Skeletal.
+1/22/25 10:53:04a You slaughtered a Skeletal.
+1/22/25 10:53:05a You slaughtered a Skeletal.
+1/22/25 10:53:06a You slaughtered a Skeletal.
+1/22/25 10:53:06a Bastall is no longer Clanning.
+1/22/25 10:53:06a You slaughtered a Skeletal.
+1/22/25 10:53:07a You slaughtered a Skeletal.
+1/22/25 10:53:07a You slaughtered a Skeletal.
+1/22/25 10:53:08a You slaughtered a Skeletal.
+1/22/25 10:53:08a You slaughtered a Skeletal.
+1/22/25 10:53:08a You slaughtered a Skeletal.
+1/22/25 10:53:09a You slaughtered a Skeletal.
+1/22/25 10:53:09a You slaughtered a Skeletal.
+1/22/25 10:53:10a You slaughtered a Skeletal.
+1/22/25 10:53:10a You slaughtered a Skeletal.
+1/22/25 10:53:11a You slaughtered a Skeletal.
+1/22/25 10:53:12a Knoxx is now Clanning.
+1/22/25 10:53:12a You slaughtered a Skeletal.
+1/22/25 10:53:13a You slaughtered a Skeletal.
+1/22/25 10:53:15a You slaughtered a Skeletal.
+1/22/25 10:53:15a You slaughtered a Small Arachne.
+1/22/25 10:53:19a You slaughtered a Vermine.
+1/22/25 10:53:19a You slaughtered a Vermine.
+1/22/25 10:53:19a You slaughtered a Vermine.
+1/22/25 10:53:20a You slaughtered a Small Arachne.
+1/22/25 10:53:20a You slaughtered a Vermine.
+1/22/25 10:53:20a You slaughtered a Vermine.
+1/22/25 10:53:20a You slaughtered a Vermine.
+1/22/25 10:53:21a Knoxx is no longer Clanning.
+1/22/25 10:53:21a You slaughtered a Vermine.
+1/22/25 10:53:22a You slaughtered a Vermine.
+1/22/25 10:53:22a You slaughtered a Vermine.
+1/22/25 10:53:22a You slaughtered a Vermine.
+1/22/25 10:53:23a * You recover the Vermine fur, worth 1c. Your share is 1c.
+1/22/25 10:53:23a You slaughtered a Vermine.
+1/22/25 10:53:23a You slaughtered a Small Arachne.
+1/22/25 10:53:24a Faul is now Clanning.
+1/22/25 10:53:24a You slaughtered a Vermine.
+1/22/25 10:53:25a You slaughtered a Vermine.
+1/22/25 10:53:26a You slaughtered a Vermine.
+1/22/25 10:53:26a You slaughtered a Vermine.
+1/22/25 10:53:27a You slaughtered a Vermine.
+1/22/25 10:53:27a You slaughtered a Deadly Arachne.
+1/22/25 10:53:27a Suu'ub III is now Clanning.
+1/22/25 10:53:27a You slaughtered a Vermine.
+1/22/25 10:53:28a * You recover the Vermine fur, worth 1c. Your share is 1c.
+1/22/25 10:53:28a You slaughtered a Vermine.
+1/22/25 10:53:28a You slaughtered a Vermine.
+1/22/25 10:53:30a You slaughtered a Vermine.
+1/22/25 10:53:30a You slaughtered a Vermine.
+1/22/25 10:53:30a Shakyamuni is now Clanning.
+1/22/25 10:53:31a You slaughtered a Vermine.
+1/22/25 10:53:31a You slaughtered a Vermine.
+1/22/25 10:53:32a You slaughtered a Vermine.
+1/22/25 10:53:32a Faul is no longer Clanning.
+1/22/25 10:53:32a You slaughtered a Vermine.
+1/22/25 10:53:32a You slaughtered a Small Arachne.
+1/22/25 10:53:33a You slaughtered a Vermine.
+1/22/25 10:53:34a You slaughtered a Vermine.
+1/22/25 10:53:34a You slaughtered a Vermine.
+1/22/25 10:53:34a You slaughtered a Vermine.
+1/22/25 10:53:35a Demonia is now Clanning.
+1/22/25 10:53:36a You slaughtered a Vermine.
+1/22/25 10:53:37a You slaughtered a Vermine.
+1/22/25 10:53:38a You slaughtered a Vermine.
+1/22/25 10:53:38a You slaughtered a Vermine.
+1/22/25 10:53:39a You slaughtered a Vermine.
+1/22/25 10:53:40a You slaughtered a Vermine.
+1/22/25 10:53:41a You slaughtered a Vermine.
+1/22/25 10:53:42a You slaughtered a Vermine.
+1/22/25 10:53:42a You slaughtered a Vermine.
+1/22/25 10:53:43a You slaughtered a Vermine.
+1/22/25 10:53:43a You slaughtered a Vermine.
+1/22/25 10:53:44a You slaughtered a Vermine.
+1/22/25 10:53:44a You slaughtered a Vermine.
+1/22/25 10:53:45a Shadrock is now Clanning.
+1/22/25 10:53:45a You slaughtered a Deadly Adder.
+1/22/25 10:53:46a You slaughtered a Vermine.
+1/22/25 10:53:46a You slaughtered a Deadly Adder.
+1/22/25 10:53:47a You slaughtered a Vermine.
+1/22/25 10:53:47a You slaughtered a Vermine.
+1/22/25 10:53:47a You slaughtered a Vermine.
+1/22/25 10:53:48a You slaughtered a Vermine.
+1/22/25 10:53:48a You slaughtered a Vermine.
+1/22/25 10:53:48a You slaughtered a Vermine.
+1/22/25 10:53:49a You slaughtered a Deadly Adder.
+1/22/25 10:53:49a You slaughtered a Vermine.
+1/22/25 10:53:52a You slaughtered a Vermine.
+1/22/25 10:53:53a You slaughtered a Vermine.
+1/22/25 10:53:53a Kwan'Yin is now Clanning.
+1/22/25 10:53:53a You slaughtered a Vermine.
+1/22/25 10:53:53a You slaughtered a Vermine.
+1/22/25 10:53:54a You slaughtered a Vermine.
+1/22/25 10:53:54a You slaughtered a Vermine.
+1/22/25 10:53:54a You slaughtered a Vermine.
+1/22/25 10:53:55a You slaughtered a Vermine.
+1/22/25 10:53:56a You slaughtered a Vermine.
+1/22/25 10:53:56a You slaughtered a Vermine.
+1/22/25 10:53:57a You slaughtered a Vermine.
+1/22/25 10:53:58a You slaughtered a Vermine.
+1/22/25 10:53:59a You slaughtered a Vermine.
+1/22/25 10:54:00a You slaughtered a Vermine.
+1/22/25 10:54:01a You slaughtered a Vermine.
+1/22/25 10:54:01a Shadrock is no longer Clanning.
+1/22/25 10:54:01a You slaughtered a Vermine.
+1/22/25 10:54:02a You slaughtered a Vermine.
+1/22/25 10:54:03a You slaughtered a Vermine.
+1/22/25 10:54:03a You slaughtered a Vermine.
+1/22/25 10:54:05a You slaughtered a Vermine.
+1/22/25 10:54:06a * You recover the Vermine fur, worth 1c. Your share is 1c.
+1/22/25 10:54:06a You slaughtered a Vermine.
+1/22/25 10:54:07a You slaughtered a Vermine.
+1/22/25 10:54:07a You slaughtered a Vermine.
+1/22/25 10:54:08a You slaughtered a Vermine.
+1/22/25 10:54:09a You slaughtered a Vermine.
+1/22/25 10:54:09a You slaughtered a Vermine.
+1/22/25 10:54:09a * You recover the Vermine fur, worth 1c. Your share is 1c.
+1/22/25 10:54:10a You slaughtered a Vermine.
+1/22/25 10:54:10a You slaughtered a Vermine.
+1/22/25 10:54:12a Kwan'Yin is no longer Clanning.
+1/22/25 10:54:13a You slaughtered a Vermine.
+1/22/25 10:54:13a You slaughtered a Vermine.
+1/22/25 10:54:13a You slaughtered a Vermine.
+1/22/25 10:54:14a You slaughtered a Vermine.
+1/22/25 10:54:15a You slaughtered a Vermine.
+1/22/25 10:54:15a You slaughtered a Small Arachne.
+1/22/25 10:54:17a You slaughtered a Vermine.
+1/22/25 10:54:17a You slaughtered a Small Arachne.
+1/22/25 10:54:18a You slaughtered a Vermine.
+1/22/25 10:54:19a You slaughtered a Small Arachne.
+1/22/25 10:54:21a You slaughtered a Rat.
+1/22/25 10:54:23a You slaughtered a Rat.
+1/22/25 10:54:25a Demonia is no longer Clanning.
+1/22/25 10:54:28a You slaughtered a Plains Maha Ruknee.
+1/22/25 10:54:31a Sullin is now Clanning.
+1/22/25 10:54:32a You slaughtered a Savannah Maha.
+1/22/25 10:54:33a * You recover the Savannah Maha fur, worth 6c. Your share is 6c.
+1/22/25 10:54:34a Calamity V is now Clanning.
+1/22/25 10:54:48a You slaughtered a Plains Maha Ruknee.
+1/22/25 10:54:52a You slaughtered a Savannah Maha.
+1/22/25 10:54:57a You slaughtered a Savannah Maha.
+1/22/25 10:54:57a * You recover the Savannah Maha fur, worth 5c. Your share is 5c.
+1/22/25 10:54:59a You slaughtered a Winged Snake.
+1/22/25 10:55:02a You slaughtered a Savannah Maha.
+1/22/25 10:55:03a You slaughtered a Water Lizard.
+1/22/25 10:55:19a You slaughtered a Winged Snake.
+1/22/25 10:55:26a You slaughtered an Artak Cougar.
+1/22/25 10:55:29a You slaughtered an Orc.
+1/22/25 10:55:30a You slaughtered an Island Panther.
+1/22/25 10:55:30a * You recover the Island Panther fur, worth 4c. Your share is 4c.
+1/22/25 10:55:32a You slaughtered an Orc.
+1/22/25 10:55:34a You slaughtered a Leech.
+1/22/25 10:55:34a You slaughtered an Artak Cougar.
+1/22/25 10:55:35a * For recovering the fur, you gain experience.
+1/22/25 10:55:35a * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+1/22/25 10:55:36a You slaughtered a Green Meshra.
+1/22/25 10:55:38a You slaughtered a Winged Snake.
+1/22/25 10:55:40a You slaughtered an Island Panther.
+1/22/25 10:55:41a * For recovering the fur, you gain experience.
+1/22/25 10:55:41a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/22/25 10:55:42a You slaughtered an Island Panther.
+1/22/25 10:55:42a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+1/22/25 10:55:43a You slaughtered an Island Panther.
+1/22/25 10:55:43a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/22/25 10:55:44a Calamity V is no longer Clanning.
+1/22/25 10:55:44a You slaughtered a Vermine.
+1/22/25 10:55:45a You slaughtered an Island Panther.
+1/22/25 10:55:45a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/22/25 10:55:50a You slaughtered an Artak Cougar.
+1/22/25 10:55:50a * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+1/22/25 10:55:50a Farmer is now Clanning.
+1/22/25 10:55:51a You slaughtered an Artak Cougar.
+1/22/25 10:55:52a You slaughtered a Vermine.
+1/22/25 10:55:55a You slaughtered a Large Vermine.
+1/22/25 10:55:55a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/22/25 10:56:08a You slaughtered a Vermine.
+1/22/25 10:56:08a You slaughtered a Vermine.
+1/22/25 10:56:08a You slaughtered an Orc.
+1/22/25 10:56:12a You slaughtered a Sky Maha.
+1/22/25 10:56:12a * You recover the Sky Maha fur, worth 4c. Your share is 4c.
+1/22/25 10:56:13a Farmer is no longer Clanning.
+1/22/25 10:56:14a You slaughtered a Vermine.
+1/22/25 10:56:16a Magnic finds a way across the river.
+1/22/25 10:56:16a You slaughtered a Sky Maha.
+1/22/25 10:56:16a * You recover the Sky Maha fur, worth 2c. Your share is 2c.
+1/22/25 10:56:18a You slaughtered a Sky Maha.
+1/22/25 10:56:18a * You recover the Sky Maha fur, worth 2c. Your share is 2c.
+1/22/25 10:56:19a You slaughtered a Vermine.
+1/22/25 10:56:19a You slaughtered a Vermine.
+1/22/25 10:56:24a You slaughtered a Sky Maha.
+1/22/25 10:56:25a Lion-O is now Clanning.
+1/22/25 10:56:25a You slaughtered a Sky Maha.
+1/22/25 10:56:26a * You recover the Sky Maha fur, worth 4c. Your share is 4c.
+1/22/25 10:56:26a You slaughtered a Vermine.
+1/22/25 10:56:26a You slaughtered a Sky Maha.
+1/22/25 10:56:27a * You recover the Sky Maha fur, worth 1c. Your share is 1c.
+1/22/25 10:56:27a You slaughtered a Sky Maha.
+1/22/25 10:56:27a * You recover the Sky Maha fur, worth 3c. Your share is 3c.
+1/22/25 10:56:29a You slaughtered a Vermine.
+1/22/25 10:56:29a You slaughtered a Vermine.
+1/22/25 10:56:30a You slaughtered a Vermine.
+1/22/25 10:56:31a You slaughtered a Vermine.
+1/22/25 10:56:31a You slaughtered a Vermine.
+1/22/25 10:56:32a You slaughtered a Vermine.
+1/22/25 10:56:35a You slaughtered an Island Panther.
+1/22/25 10:56:35a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/22/25 10:56:40a You slaughtered a Vermine.
+1/22/25 10:56:44a You slaughtered a Vermine.
+1/22/25 10:56:44a You slaughtered a Vermine.
+1/22/25 10:56:49a You slaughtered an Island Panther.
+1/22/25 10:56:49a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+1/22/25 10:56:52a You slaughtered an Island Panther.
+1/22/25 10:56:52a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+1/22/25 10:56:52a You slaughtered a Large Vermine.
+1/22/25 10:56:53a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/22/25 10:56:53a You slaughtered a Vermine.
+1/22/25 10:56:53a * You recover the Vermine fur, worth 1c. Your share is 1c.
+1/22/25 10:56:53a You slaughtered a Vermine.
+1/22/25 10:56:54a You slaughtered an Island Panther.
+1/22/25 10:56:55a You slaughtered a Vermine.
+1/22/25 10:56:56a You slaughtered a Vermine.
+1/22/25 10:56:58a You slaughtered an Island Panther.
+1/22/25 10:56:58a * You recover the Island Panther fur, worth 5c. Your share is 5c.
+1/22/25 10:57:01a You slaughtered a Large Vermine.
+1/22/25 10:57:01a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/22/25 10:57:02a You slaughtered an Island Panther.
+1/22/25 10:57:02a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/22/25 10:57:05a You slaughtered a Giant Vermine.
+1/22/25 10:57:05a * For recovering the fur, you gain experience.
+1/22/25 10:57:05a * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+1/22/25 10:57:09a Catharsis is now Clanning.
+1/22/25 10:57:09a You slaughtered a Cloud Maha.
+1/22/25 10:57:11a You slaughtered an Island Panther.
+1/22/25 10:57:11a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+1/22/25 10:57:14a You slaughtered an Island Panther.
+1/22/25 10:57:14a * You recover the Island Panther fur, worth 5c. Your share is 5c.
+1/22/25 10:57:15a You slaughtered a Giant Vermine.
+1/22/25 10:57:18a You slaughtered a Large Vermine.
+1/22/25 10:57:18a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/22/25 10:57:19a You slaughtered a Large Vermine.
+1/22/25 10:57:19a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/22/25 10:57:24a You slaughtered a Giant Vermine.
+1/22/25 10:57:24a * You recover the Giant Vermine fur, worth 3c. Your share is 3c.
+1/22/25 10:57:27a You slaughtered a Summer Artak.
+1/22/25 10:57:27a * You recover the Summer Artak fur, worth 7c. Your share is 7c.
+1/22/25 10:57:29a You slaughtered a Large Vermine.
+1/22/25 10:57:29a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/22/25 10:57:32a You slaughtered an Island Panther.
+1/22/25 10:57:34a You slaughtered a Vermine.
+1/22/25 10:57:34a * You recover the Vermine fur, worth 1c. Your share is 1c.
+1/22/25 10:57:35a You slaughtered a Giant Vermine.
+1/22/25 10:57:36a * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+1/22/25 10:57:36a You slaughtered an Island Panther.
+1/22/25 10:57:36a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+1/22/25 10:57:42a You slaughtered a Giant Vermine.
+1/22/25 10:57:42a * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+1/22/25 10:57:42a Daerdain is now Clanning.
+1/22/25 10:57:42a You slaughtered an Artak Cougar.
+1/22/25 10:57:43a * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+1/22/25 10:57:43a Catharsis is no longer Clanning.
+1/22/25 10:57:45a You slaughtered an Island Panther.
+1/22/25 10:57:46a You slaughtered a Large Vermine.
+1/22/25 10:57:47a You slaughtered a Vermine.
+1/22/25 10:57:48a You slaughtered a Vermine.
+1/22/25 10:57:48a You slaughtered an Orga.
+1/22/25 10:57:49a You slaughtered a Summer Artak.
+1/22/25 10:57:50a * You recover the Summer Artak fur, worth 4c. Your share is 4c.
+1/22/25 10:57:55a TenderLumpling is now Clanning.
+1/22/25 10:57:57a You slaughtered an Artak Cougar.
+1/22/25 10:57:57a * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+1/22/25 10:58:01a You slaughtered a Bloodhawk.
+1/22/25 10:58:01a You slaughtered a Large Vermine.
+1/22/25 10:58:02a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/22/25 10:58:04a You slaughtered an Island Panther.
+1/22/25 10:58:04a * You recover the Island Panther fur, worth 4c. Your share is 4c.
+1/22/25 10:58:06a You slaughtered a Vermine.
+1/22/25 10:58:07a You slaughtered a Large Vermine.
+1/22/25 10:58:07a You slaughtered a Giant Vermine.
+1/22/25 10:58:07a You slaughtered a Rat.
+1/22/25 10:58:30a You knock some spores free.
+1/22/25 10:58:32a You found a cluster of mutated spores!
+1/22/25 10:58:54a You slaughtered a Sky Maha.
+1/22/25 10:58:54a * You recover the Sky Maha fur, worth 1c. Your share is 1c.
+1/22/25 10:58:57a You slaughtered a Large Vermine.
+1/22/25 10:58:58a You slaughtered a Large Vermine.
+1/22/25 10:58:58a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+1/22/25 10:58:59a You slaughtered a Giant Vermine.
+1/22/25 10:58:59a * You recover the Giant Vermine fur, worth 4c. Your share is 4c.
+1/22/25 10:59:00a You slaughtered a Giant Vermine.
+1/22/25 10:59:03a You slaughtered a Crawler.
+1/22/25 10:59:05a You slaughtered a Crawler.
+1/22/25 10:59:05a You slaughtered a Crawler.
+1/22/25 10:59:06a You slaughtered a Young Rockodile.
+1/22/25 10:59:07a You slaughtered a Crawler.
+1/22/25 10:59:08a TenderLumpling is no longer Clanning.
+1/22/25 10:59:12a You slaughtered a Crawler.
+1/22/25 10:59:12a You slaughtered a Large Vermine.
+1/22/25 10:59:12a You slaughtered a Large Vermine.
+1/22/25 10:59:12a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/22/25 10:59:12a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+1/22/25 10:59:12a You slaughtered a Crawler.
+1/22/25 10:59:16a You slaughtered a Crawler.
+1/22/25 10:59:16a You slaughtered a Bolok Cougar.
+1/22/25 10:59:17a * You recover the Bolok Cougar fur, worth 1c. Your share is 1c.
+1/22/25 10:59:19a You slaughtered a Snow Vermine.
+1/22/25 10:59:20a You slaughtered a Snow Vermine.
+1/22/25 10:59:23a You slaughtered a Snow Vermine.
+1/22/25 10:59:26a You slaughtered a Snow Vermine.
+1/22/25 10:59:26a * You recover the Snow Vermine fur, worth 1c. Your share is 1c.
+1/22/25 10:59:26a You slaughtered a Snow Vermine.
+1/22/25 10:59:27a You slaughtered a Bloodhawk.
+1/22/25 10:59:28a You slaughtered a Snow Vermine.
+1/22/25 10:59:28a * You recover the Snow Vermine fur, worth 1c. Your share is 1c.
+1/22/25 10:59:28a You slaughtered a Rat.
+1/22/25 10:59:29a You slaughtered a Snow Vermine.
+1/22/25 10:59:30a Clemence is no longer Clanning.
+1/22/25 10:59:32a You slaughtered a Snow Vermine.
+1/22/25 10:59:33a * You recover the Snow Vermine fur, worth 1c. Your share is 1c.
+1/22/25 10:59:33a You slaughtered a Snow Vermine.
+1/22/25 10:59:33a * You recover the Snow Vermine fur, worth 1c. Your share is 1c.
+1/22/25 10:59:34a You slaughtered a Snow Vermine.
+1/22/25 10:59:35a You slaughtered a Snow Vermine.
+1/22/25 10:59:35a * You recover the Snow Vermine fur, worth 3c. Your share is 3c.
+1/22/25 10:59:35a * You recover the Snow Vermine fur, worth 2c. Your share is 2c.
+1/22/25 10:59:39a You slaughtered a Vermine.
+1/22/25 10:59:44a You slaughtered a Wendecka.
+1/22/25 10:59:44a * You recover the Wendecka fur, worth 3c. Your share is 3c.
+1/22/25 10:59:53a You slaughtered a Starbuck.
+1/22/25 10:59:53a * You recover the Starbuck fur, worth 1c. Your share is 1c.
+1/22/25 10:59:54a Gorvin is now Clanning.
+1/22/25 10:59:54a You slaughtered a Vermine.
+1/22/25 10:59:54a You slaughtered a Rat.
+1/22/25 11:00:00a You slaughtered a Starbuck.
+1/22/25 11:00:01a * You recover the Starbuck fur, worth 1c. Your share is 1c.
+1/22/25 11:00:04a You slaughtered a Snow Vermine.
+1/22/25 11:00:04a * You recover the Snow Vermine fur, worth 2c. Your share is 2c.
+1/22/25 11:00:04a You slaughtered a Snow Vermine.
+1/22/25 11:00:04a * You recover the Snow Vermine fur, worth 3c. Your share is 3c.
+1/22/25 11:00:05a You slaughtered a Snow Vermine.
+1/22/25 11:00:05a * You recover the Snow Vermine fur, worth 3c. Your share is 3c.
+1/22/25 11:00:05a You slaughtered a Snow Vermine.
+1/22/25 11:00:05a * You recover the Snow Vermine fur, worth 1c. Your share is 1c.
+1/22/25 11:00:10a You slaughtered a Snow Vermine.
+1/22/25 11:00:10a * You recover the Snow Vermine fur, worth 3c. Your share is 3c.
+1/22/25 11:00:12a You slaughtered a Vermine.
+1/22/25 11:00:14a You slaughtered a Snow Vermine.
+1/22/25 11:00:14a * You recover the Snow Vermine fur, worth 2c. Your share is 2c.
+1/22/25 11:00:15a You slaughtered a Rat.
+1/22/25 11:00:16a You slaughtered a Snow Vermine.
+1/22/25 11:00:16a * You recover the Snow Vermine fur, worth 2c. Your share is 2c.
+1/22/25 11:00:20a You slaughtered a Snow Vermine.
+1/22/25 11:00:20a * You recover the Snow Vermine fur, worth 1c. Your share is 1c.
+1/22/25 11:00:21a You slaughtered a Snow Vermine.
+1/22/25 11:00:21a * You recover the Snow Vermine fur, worth 1c. Your share is 1c.
+1/22/25 11:00:26a Fortuna is no longer Clanning.
+1/22/25 11:00:26a You slaughtered a Snow Vermine.
+1/22/25 11:00:44a Labrat is now Clanning.
+1/22/25 11:01:09a Labrat is no longer Clanning.
+1/22/25 11:01:14a Katreesa says, "Her being even lovelier"
+1/22/25 11:01:21a Valadorei exclaims, "Seaforth would never throw paint at people!"
+1/22/25 11:01:23a Lion-O says, "If I am evil what"
+1/22/25 11:01:39a (Aurelie giggles.)
+1/22/25 11:01:41a Katreesa says, "I'd do it, but I'd ask permission first"
+1/22/25 11:01:46a Lion-O says, "No, Seaforth thinks too highly of himself for shenanigans."
+1/22/25 11:01:53a Magnic says, "Lion-O the drug dealer isnt evil"
+1/22/25 11:01:59a Magnic says, ":P"
+1/22/25 11:02:06a * You feel mentally enhanced by Valadorei...
+1/22/25 11:02:13a Lion-O says, "He leaves ME the dirty work."
+1/22/25 11:02:18a Calamity is now Clanning.
+1/22/25 11:02:25a Calamity is no longer Clanning.
+1/22/25 11:02:31a Lion-O exclaims, "Which is like whatever!"
+1/22/25 11:02:52a Katreesa thinks, "anyone have a powdery white rock?"
+1/22/25 11:02:53a •You gain experience.
+1/22/25 11:02:55a Vin Diesel is now Clanning.
+1/22/25 11:03:02a You drop your cluster of mutated spores.
+1/22/25 11:03:09a Sentinel yells, "The Emperor is a river to his people."
+1/22/25 11:03:11a Magnic says, "go for it"
+1/22/25 11:03:15a Magnic says, ":P"
+1/22/25 11:03:18a Katreesa picks up a cluster of mutated spores.
+1/22/25 11:03:22a Katreesa says, "thanks"
+1/22/25 11:03:32a Koppi yells, "FriedDylan reports: Coldy, your Wife and Child miss you. Where have you gotten off to?"
+1/22/25 11:03:35a Alchemia is now Clanning.
+1/22/25 11:03:55a Magnic asks, "anyeone want Orga Loathing trophy?"
+1/22/25 11:04:00a Fafnir is now Clanning.
+1/22/25 11:04:10a Lion-O says, "NO I have enough loathing."
+1/22/25 11:04:21a Lightbringer asks, "Unadulterated loathing?"
+1/22/25 11:04:34a Lion-O exclaims, "Yeah!"
+1/22/25 11:04:42a Lion-O says, "Uncut."
+1/22/25 11:04:43a Galadriel is now Clanning.
+1/22/25 11:04:45a Magnic asks, "have you sto- ahem taken everyones blood yet?"
+1/22/25 11:04:45a Katreesa says, "oh well, I give up"
+1/22/25 11:05:02a Lion-O says, "I have quite a lot of samples."
+1/22/25 11:05:08a Alchemia is no longer Clanning.
+1/22/25 11:05:15a Pendarric is no longer Clanning.
+1/22/25 11:05:21a Big Boy is no longer Clanning.
+1/22/25 11:05:35a Lion-O asks, "Did you want to buy so- contribute to research?"
+1/22/25 11:05:46a Magnic says, "sure"
+1/22/25 11:05:49a Stormraven is now Clanning.
+1/22/25 11:06:08a * Your mental enhancement fades.
+1/22/25 11:06:11a * Your mental enhancement fades.
+1/22/25 11:06:25a Lion-O says, "ok, for a donation of 1000c, you get this fine tote bag."
+1/22/25 11:06:26a Stormraven is no longer Clanning.
+1/22/25 11:06:29a Whatever is now Clanning.
+1/22/25 11:06:44a Lion-O says, "which contains a vial of juvenile sylvan blood also"
+1/22/25 11:06:46a Magnic says, "ok well ive only got 4k so maybe not :P"
+1/22/25 11:06:53a You have 4828 coins.
+1/22/25 11:06:55a Giben is now Clanning.
+1/22/25 11:07:04a • /SLEEP when you wish to begin studying.
+1/22/25 11:07:08a • /SLEEP when you wish to begin studying.
+1/22/25 11:07:15a Use \SLEEP again when you return.
+1/22/25 11:07:15a You are done adventuring for a while and will be studying here.
+1/22/25 11:07:16a You have been disconnected from Clan Lord.
+1/22/25 11:07:16a • You will benefit from studying here while you are off-line.
+1/22/25 11:07:17a *** We are no longer connected to the Clan Lord game server. ***

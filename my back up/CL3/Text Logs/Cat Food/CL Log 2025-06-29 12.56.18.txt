@@ -1,0 +1,152 @@
+
+6/29/25 12:56:18p * Your healer's shirt is in pretty good shape.
+6/29/25 12:56:18p * Your pair of second-circle pants named “white” is in pretty good shape.
+6/29/25 12:56:18p Welcome to Clan Lord, Cat Food!
+6/29/25 12:56:18p Type \HELP for a list of commands.
+6/29/25 12:56:18p • You gain experience from your recent studies.
+6/29/25 12:56:18p *Healer Mode
+6/29/25 12:56:18p * Healer Item set to asklepian 
+6/29/25 12:56:18p The healing spell has started.
+6/29/25 12:56:18p You have been studying for 2 days, 4 hours, 22 minutes.
+6/29/25 12:56:21p It's 7:39am on Merdi, day 38 of Winter, 642.
+6/29/25 12:56:23p There are three members of Black Phoenix clanning: Grando, Mimo and you.
+6/29/25 12:56:23p • What’s New: https://deltatao.com/clanlord/news
+6/29/25 12:56:25p Friends online: none.
+6/29/25 12:56:32p * Tip of the day: You can read the whole list of tips at https://www.deltatao.com/clanlord/getting-started/tips.html (Use /OPTIONS to turn tips off.)
+6/29/25 12:57:26p •The Sun rises.
+6/29/25 12:57:35p * You need a breath of air!
+6/29/25 12:58:20p * Auto Healer ON!
+6/29/25 12:58:47p Grando is sharing experiences with you.
+6/29/25 12:58:58p Grando says, "c heal me"
+6/29/25 12:58:58p * Auto Healing Grando 
+6/29/25 12:59:15p Grando says, "c area"
+6/29/25 12:59:16p • You begin radius healing.
+6/29/25 12:59:23p You have 13365 coins.
+6/29/25 12:59:31p Grando says, "c heal me"
+6/29/25 12:59:31p * Auto Healing Grando 
+6/29/25 12:59:31p •Grando was too wounded to be healed easily.
+6/29/25 1:00:13p Grando says, "c area"
+6/29/25 1:00:13p • You begin radius healing.
+6/29/25 1:01:16p Grando says, "c heal me"
+6/29/25 1:01:16p * Auto Healing Grando 
+6/29/25 1:01:24p Grando says, "c area"
+6/29/25 1:01:24p • You begin radius healing.
+6/29/25 1:01:31p • There is nobody nearby enough to continue radius healing.
+6/29/25 1:01:37p Grando says, "c area"
+6/29/25 1:01:37p • You begin radius healing.
+6/29/25 1:01:40p Grando says, "c heal me"
+6/29/25 1:01:40p * Auto Healing Grando 
+6/29/25 1:02:11p Grando says, "c area"
+6/29/25 1:02:11p • You begin radius healing.
+6/29/25 1:02:36p • There is nobody nearby enough to continue radius healing.
+6/29/25 1:02:48p Grando says, "c heal me"
+6/29/25 1:02:48p * Auto Healing Grando 
+6/29/25 1:02:49p •Grando’s injuries were serious.
+6/29/25 1:02:55p You have 13365 coins.
+6/29/25 1:03:27p Grando says, "c area"
+6/29/25 1:03:27p • You begin radius healing.
+6/29/25 1:04:21p Grando says, "c heal me"
+6/29/25 1:04:21p * Auto Healing Grando 
+6/29/25 1:05:10p Grando says, "c area"
+6/29/25 1:05:11p • You begin radius healing.
+6/29/25 1:05:16p Forbeen says, "Honored guest, Master Lugubrion regretfully informs me that you are not permitted beyond this point."
+6/29/25 1:06:05p Grando says, "c heal me"
+6/29/25 1:06:05p * Auto Healing Grando 
+6/29/25 1:06:32p Grando says, "c area"
+6/29/25 1:06:33p • You begin radius healing.
+6/29/25 1:06:46p You have 13365 coins.
+6/29/25 1:06:46p Grando says, "c heal me"
+6/29/25 1:06:46p * Auto Healing Grando 
+6/29/25 1:07:19p Grando says, "c area"
+6/29/25 1:07:19p • You begin radius healing.
+6/29/25 1:07:35p Grando says, "c heal me"
+6/29/25 1:07:35p * Auto Healing Grando 
+6/29/25 1:07:51p Grando says, "c area"
+6/29/25 1:07:52p • You begin radius healing.
+6/29/25 1:09:37p Grando says, "c heal me"
+6/29/25 1:09:37p * Auto Healing Grando 
+6/29/25 1:10:10p Grando says, "c area"
+6/29/25 1:10:10p • You begin radius healing.
+6/29/25 1:10:25p Grando says, "c heal me"
+6/29/25 1:10:26p * Auto Healing Grando 
+6/29/25 1:10:34p You have 13365 coins.
+6/29/25 1:10:56p Grando says, "c area"
+6/29/25 1:10:57p • You begin radius healing.
+6/29/25 1:11:12p Grando says, "c heal me"
+6/29/25 1:11:13p * Auto Healing Grando 
+6/29/25 1:11:35p Grando says, "c area"
+6/29/25 1:11:35p • You begin radius healing.
+6/29/25 1:13:24p Grando says, "c heal me"
+6/29/25 1:13:24p * Auto Healing Grando 
+6/29/25 1:14:01p Grando says, "c area"
+6/29/25 1:14:02p • You begin radius healing.
+6/29/25 1:14:15p You have 13365 coins.
+6/29/25 1:14:37p Grando says, "c heal me"
+6/29/25 1:14:37p * Auto Healing Grando 
+6/29/25 1:15:06p Grando says, "c area"
+6/29/25 1:15:06p • You begin radius healing.
+6/29/25 1:16:40p Grando says, "c heal me"
+6/29/25 1:16:40p * Auto Healing Grando 
+6/29/25 1:17:06p Grando says, "c area"
+6/29/25 1:17:06p • You begin radius healing.
+6/29/25 1:17:21p Grando says, "c heal me"
+6/29/25 1:17:21p * Auto Healing Grando 
+6/29/25 1:17:52p Grando says, "c area"
+6/29/25 1:17:53p • You begin radius healing.
+6/29/25 1:17:56p You have 13365 coins.
+6/29/25 1:19:05p • There is nobody nearby enough to continue radius healing.
+6/29/25 1:19:28p Grando says, "c heal me"
+6/29/25 1:19:28p * Auto Healing Grando 
+6/29/25 1:20:17p Grando says, "c area"
+6/29/25 1:20:17p • You begin radius healing.
+6/29/25 1:20:29p Grando says, "c heal me"
+6/29/25 1:20:30p * Auto Healing Grando 
+6/29/25 1:21:10p Grando says, "c area"
+6/29/25 1:21:10p • You begin radius healing.
+6/29/25 1:21:27p Grando says, "c heal me"
+6/29/25 1:21:27p * Auto Healing Grando 
+6/29/25 1:21:37p You have 13365 coins.
+6/29/25 1:21:55p Grando says, "c area"
+6/29/25 1:21:55p • You begin radius healing.
+6/29/25 1:22:13p • There is nobody nearby enough to continue radius healing.
+6/29/25 1:22:23p Grando says, "c heal me"
+6/29/25 1:22:24p * Auto Healing Grando 
+6/29/25 1:22:24p •Grando was too wounded to be healed easily.
+6/29/25 1:23:02p Grando says, "c area"
+6/29/25 1:23:03p • You begin radius healing.
+6/29/25 1:24:59p • There is nobody nearby enough to continue radius healing.
+6/29/25 1:25:10p You have 13365 coins.
+6/29/25 1:25:14p Grando says, "c heal me"
+6/29/25 1:25:14p * Auto Healing Grando 
+6/29/25 1:25:36p Grando says, "c area"
+6/29/25 1:25:37p • You begin radius healing.
+6/29/25 1:25:54p • There is nobody nearby enough to continue radius healing.
+6/29/25 1:26:06p Grando says, "c heal me"
+6/29/25 1:26:06p * Auto Healing Grando 
+6/29/25 1:26:26p Grando says, "c area"
+6/29/25 1:26:26p • You begin radius healing.
+6/29/25 1:26:40p • There is nobody nearby enough to continue radius healing.
+6/29/25 1:26:57p Grando says, "c heal me"
+6/29/25 1:26:57p * Auto Healing Grando 
+6/29/25 1:27:23p Grando says, "c heal me"
+6/29/25 1:27:23p * Auto Healing Grando 
+6/29/25 1:27:26p Grando says, "c heal me"
+6/29/25 1:27:26p * Auto Healing Grando 
+6/29/25 1:27:27p Grando says, "c area"
+6/29/25 1:27:27p • You begin radius healing.
+6/29/25 1:27:45p • There is nobody nearby enough to continue radius healing.
+6/29/25 1:28:52p You have 13365 coins.
+6/29/25 1:32:30p You have 13365 coins.
+6/29/25 1:32:47p Grando says, "c heal me"
+6/29/25 1:32:48p * Auto Healing Grando 
+6/29/25 1:33:16p Grando says, "c area"
+6/29/25 1:33:17p • You begin radius healing.
+6/29/25 1:33:35p Grando says, "c heal me"
+6/29/25 1:33:36p * Auto Healing Grando 
+6/29/25 1:34:01p Grando says, "c area"
+6/29/25 1:34:01p • You begin radius healing.
+6/29/25 1:34:37p Grando says, "c heal me"
+6/29/25 1:34:38p * Auto Healing Grando 
+6/29/25 1:35:17p Grando says, "c area"
+6/29/25 1:35:18p • You begin radius healing.
+6/29/25 1:35:38p • There is nobody nearby enough to cont

@@ -1,0 +1,1524 @@
+"??"  "/help "    @text "\r"
+"aa"  "/action "  @text "\r"
+"uuaa"  "/action "  @text "\r"
+"ppaa"  "/action "  @text "\r"
+"yyaa"  "/action "  @text "\r"
+"gg"  "/give "    @text "\r"
+"ii"  "/info "    @text "\r"
+"kk"  "/karma "   @text "\r"
+"mm"  "/money "   @text "\r"
+"nn"  "/news "    @text "\r"
+"pp"  "/ponder "  @text "\r"
+"uupp"   "/ponder "  @text "\r"
+"aapp"   "/ponder "  @text "\r"
+"yypp"   "/ponder "  @text "\r"
+"sh"  "/share "   @text "\r"
+"share"  "/share "   @text "\r"
+"sl"  "/sleep "   @text "\r"
+"t"   "/think "   @text "\r"
+"tt"  "/thinkto " @text "\r"
+"th"  "/thank "   @text "\r"
+"uu"  "/use "     @text "\r"
+"uuu"  "/use "     @text "\r"
+"uuuu"  "/use "     @text "\r"
+"uuuuu"  "/use "     @text "\r"
+"uuuuuuu"  "/use "     @text "\r"
+"uuuuuuuu"  "/use "     @text "\r"
+"uuuuuuuuu"  "/use "     @text "\r"
+"un"  "/unshare " @text "\r"
+"unsh" "/unshare " @text "\r"
+"unshare" "/unshare " @text "\r"
+"wh"   "/who "     @text "\r"
+"ww"  "/whisper " @text "\r"
+"yy"  "/yell "    @text "\r"
+"uuyy"  "/yell "    @text "\r"
+"ppyy"  "/yell "    @text "\r"
+"aayy"  "/yell "    @text "\r"
+"wa" "/action Waves \r"
+"bo" "/action Bows \r" "/pose bow \r"
+"tha" "/pose bow \r" "Thank you \r"
+
+SETGLOBAL AT 1
+SETGLOBAL tradername ""
+SETGLOBAL swaobackL ""
+SETGLOBAL speeding 0
+SETGLOBAL isMorphed 0
+SETGLOBAL whatShape 0
+SETGLOBAL CHAINING 0
+SETGLOBAL swaoback ""
+SETGLOBAL IDLE 1
+SETGLOBAL CHrem 0
+SETGLOBAL trademe 0
+
+@login
+{
+if @my.name.num_words == 1
+	setglobal namenum 1
+else if @my.name.num_words == 2
+	setglobal namenum 2
+else if @my.name.num_words == 3
+	setglobal namenum 3
+end if
+set atimek 0
+set actname "("
+set actname + @my.name
+set dotname @my.name
+set dotname + "."
+set hasfallen @my.name 
+set hasfallen + " has fallen to a"
+set wordtime 0
+set timefix 0
+label top
+set timefix + 1
+set logck @env.textLog
+set nameck2 @env.textLog.word[6]
+set nameck @env.textLog.word[2]
+set nameck3 @env.textLog.word[5]
+set nameck3 @env.textLog.word[5]
+ 
+//log checking automation
+if AT == 1
+if timefix >= 25
+	set wordtime + 1
+		set atimek + 1
+			set timefix 0
+end if 
+if IDLE == 1
+	if atimek >= 8600
+		"/money \r"
+			set atimek 0
+	end if
+end if
+if trademe == 1
+	if logck.word[0] == "To"
+			if logck < "To accept, \BUY 0"
+				setglobal tradername logck.word[4]
+					goto buyish
+			end if
+	else if logck.word[1] == "To"
+			if logck < "To accept, \BUY 0"
+				setglobal tradername logck.word[5]
+					goto buyish
+			end if
+	else if logck.word[2] == "To"
+			if logck < "To accept, \BUY 0"
+				setglobal tradername logck.word[6]
+					goto buyish
+			end if
+	else if logck.word[3] == "To"
+			if logck < "To accept, \BUY 0"
+				setglobal tradername logck.word[7]
+					goto buyish
+			end if
+	else if logck.word[4] == "To"
+			if logck < "To accept, \BUY 0"
+				setglobal tradername logck.word[8]
+					goto buyish
+			end if
+	else if logck.word[5] == "To"
+			if logck < "To accept, \BUY 0"
+				setglobal tradername logck.word[9]
+					goto buyish
+			end if
+	end if
+label buyish
+	if tradername != "Nothing"
+		if tradername != ""
+			"/select " tradername " \r"
+				"/buy 0 " @selplayer.simple_name " \r"
+					message "* Traded:" @selplayer.name ""
+						"/select \r"
+							setglobal tradername ""
+		end if
+	end if
+end if
+if  wordtime >= 15
+//boat
+	if logck.word[3] >= "Ah,"
+		if logck >= "My fine boats"
+			if namenum == 1
+				if logck.word[4] == dotname
+					"/whisper yes \r"
+				end if
+			else if namenum == 2
+				set Bname logck.word[4]
+				set Bname + " "
+				set Bname + logck.word[5]
+				set Bname + "."
+					if Bname == @my.name
+						"/whisper yes \r"
+					end if
+			else if namenum == 3
+				set Bname logck.word[4]
+				set Bname + " "
+				set Bname + logck.word[5]
+				set Bname + " "
+				set Bname + logck.word[6]
+				set Bname + "."
+					if Bname == @my.name
+						"/whisper yes \r"
+					end if
+			end if
+		end if
+	else if logck.word[5] >= "Ah,"
+		if logck >= "My fine boats"
+			if namenum == 1
+				if logck.word[6] == dotname
+					"/whisper yes \r"
+				end if
+			else if namenum == 2
+				set Bname logck.word[6]
+				set Bname + " "
+				set Bname + logck.word[7]
+				set Bname + "."
+					if Bname == @my.name
+						"/whisper yes \r"
+					end if
+			else if namenum == 3
+				set Bname logck.word[6]
+				set Bname + " "
+				set Bname + logck.word[7]
+				set Bname + " "
+				set Bname + logck.word[8]
+				set Bname + "."
+					if Bname == @my.name
+						"/whisper yes \r"
+					end if
+			end if
+		end if
+	end if
+//skiff
+	if logck.word[2] >= "Hello,"
+		if logck >= "river skiff. Interested?"
+			if namenum == 1
+				if logck.word[3] == dotname
+					"/whisper yes \r"
+				end if
+			else if namenum == 2
+				set Bname logck.word[3]
+				set Bname + " "
+				set Bname + logck.word[4]
+				set Bname + "."
+					if Bname == @my.name
+						"/whisper yes \r"
+					end if
+			else if namenum == 3
+				set Bname logck.word[3]
+				set Bname + " "
+				set Bname + logck.word[4]
+				set Bname + " "
+				set Bname + logck.word[5]
+				set Bname + "."
+					if Bname == @my.name
+						"/whisper yes \r"
+					end if
+			end if
+		end if
+	else if logck.word[4] >= "Hello,"
+		if logck >= "river skiff. Interested?"
+			if namenum == 1
+				if logck.word[5] == dotname
+					"/whisper yes \r"
+				end if
+			else if namenum == 2
+				set Bname logck.word[5]
+				set Bname + " "
+				set Bname + logck.word[6]
+				set Bname + "."
+					if Bname == @my.name
+						"/whisper yes \r"
+					end if
+			else if namenum == 3
+				set Bname logck.word[5]
+				set Bname + " "
+				set Bname + logck.word[6]
+				set Bname + " "
+				set Bname + logck.word[7]
+				set Bname + "."
+					if Bname == @my.name
+						"/whisper yes \r"
+					end if
+			end if
+		end if
+	end if
+	if logck >= "like to apply some"
+		"/whisper yes \r"
+	end if
+	if logck >= "You have much to learn."
+		message "*" nameck ": 0-9."
+	end if
+	if logck >= "It is good to see you."
+		message "*" nameck ": 10-19."
+	end if
+	if logck >= "Your persistence is paying off."
+		message "*" nameck ": 20-29."
+	end if
+	if logck >= "You are progressing well."
+		message "*" nameck ": 30-39."
+	end if
+	if logck >= "You are a good pupil of mine."
+		message "*" nameck ": 40-49."
+	end if
+	if logck >= "You are one of my better pupils."
+		message "*" nameck ": 50-99."
+	end if
+	if logck >= "You keep me on my toes."
+		message "*" nameck ": 100-149."
+	end if
+	if logck >= "It is hard to find more to teach you."
+		message "*" nameck ": 150-199."
+	end if
+	if logck >= "Teaching you is a challenge."
+		message "*" nameck ": 200-249."
+	end if
+	if logck >= "There is not much more I can teach you."
+		message "*" nameck ": 250-299."
+	end if
+	if logck >= "Teaching you has taught me much."
+		message "*" nameck ": 300-349."
+	end if
+	if logck >= "You have attained tremendous skill."
+		message "*" nameck ": 350-399."
+	end if
+	if logck >= "We are nearly equals."
+		message "*" nameck ": 400-449."
+	end if
+	if logck >= "You may be proud of your accomplishment."
+		message "*" nameck ": 450-499."
+	end if
+	if logck >= "You are becoming a master of our art."
+		message "*" nameck ": 500-549."
+	end if
+	if logck >= "Your dedication is commendable."
+		message "*" nameck ": 550-599."
+	end if
+	if logck >= "You show great devotion to your studies."
+		message "*" nameck ": 600-649."
+	end if
+	if logck >= "You are a credit to our craft."
+		message "*" nameck ": 650-699."
+	end if
+	if logck >= "Few indeed are your peers."
+		message "*" nameck ": 700-749."
+	end if
+	if logck >= "Your devotion to the craft is exemplary."
+		message "*" nameck ": 750-799."
+	end if
+	if logck >= "It is always good to greet a respected colleague."
+		message "*" nameck ": 800-899."
+	end if
+	if logck >= "You are truly a grand master."
+		message "*" nameck ": 900-999."
+	end if
+	if logck >= "Let us search for more we might learn together."
+		message "*" nameck ": 1000-1249."
+	end if
+	if logck >= "Your persistence is an example to us all."
+		message "*" nameck ": 1250-1499."
+	end if
+	if logck >= "Your skill astounds me."
+		message "*" nameck ": 1500-1749."
+	end if
+	if logck >= "You have progressed further than most."
+		message "*" nameck ": 1750-1999."
+	end if
+	if logck >= "You are nearly peerless."
+		message "*" nameck ": 2000–2249."
+	end if
+	if logck >= "You are a model of dedication."
+		message "*" nameck ": 2250–2499."
+	end if
+	if logck >= "You have achieved mastery."
+		message "*" nameck ": 2500–2749."
+	end if
+	if logck >= "You are enlightened."
+		message "*" nameck ": 2750–2999."
+	end if
+	if logck >= "Your command of our craft is inspiring."
+		message "*" nameck ": 3000–3249."
+	end if
+	if logck >= "All commend your dedication to our craft."
+		message "*" nameck ": 3250–3499."
+	end if
+	if logck >= "I marvel at your skill."
+		message "*" nameck ": 3500–3749."
+	end if
+	if logck >= "You walk where few have tread."
+		message "*" nameck ": 3750–3999."
+	end if
+	if logck >= "Few stones are unturned in your path."
+		message "*" nameck ": 4000–4249."
+	end if
+	if logck >= "Your footsteps guide the dedicated."
+		message "*" nameck ": 4250–4499."
+	end if
+	if logck >= "You chart a way through the unknown."
+		message "*" nameck ": 4500–4749."
+	end if
+	if logck >= "Your path illuminates the wilderness."
+		message "*" nameck ": 4750–4999."
+	end if
+	if logck >= "Your skill casts a long shadow."
+		message "*" nameck ": 5000-5249."
+	end if
+	if logck >= "You are a luminary of our art."
+		message "*" nameck ": 5250-5499."
+	end if
+	if logck >= "Your path is ablaze with glory."
+		message "*" nameck ": 6000+."
+	end if
+	if logck >= "You are enlightened beyond measure."
+		message "*" nameck ": 7000+."
+	end if
+	if logck >= "There is nothing I can teach you."
+		message "*" nameck ": MAXED."
+	end if
+	if logck >= "is becoming frustrated with your lack of progress"
+		message "* |══════════| -0%"
+	end if
+	if logck >= "you have a difficult task ahead of you"
+		message "* |══════════| 0%"
+	end if
+	if logck >= "you have just begun to"
+		message "* |▰═════════| 0%-13%"
+	end if
+	if logck >= "you are starting to learn, but"
+		message "* |▰▰▰═══════| 13%-38%"
+	end if
+	if logck >= "you are making progress."
+		message "* |▰▰▰▰▰═════| 38%-62%"
+	end if
+	if logck >= "you are well on your way to enlightenment"
+		message "* |▰▰▰▰▰▰════ | 62%-75%"
+	end if
+	if logck >= "you are close to mastering"
+		message "* |▰▰▰▰▰▰▰═══| 75%-88%"
+	end if
+	if logck >= "you are almost ready for a breakthrough"
+		message "* |▰▰▰▰▰▰▰▰▰═| 88%-100%"
+	end if
+	if logck >= "You feel you have much to learn."
+		message "*" @my.name ": 0-9"
+	end if
+	if logck >= "You feel tolerably skilled."
+		message "*" @my.name ": 10-19"
+	end if
+	if logck >= "You are becoming proficient."
+		message "*" @my.name ": 40-49"
+	end if
+	if logck >= "You have learned much."
+		message "*" @my.name ": 50-99"
+	end if
+	if logck >= "You have become skilled."
+		message "*" @my.name ": 100-149"
+	end if
+	if logck >= "You have become very skilled."
+		message "*" @my.name ": 150-199"
+	end if
+	if logck >= "Learning more is a challenge."
+		message "*" @my.name ": 200-249"
+	end if
+	if logck >= "You have attained great skill."
+		message "*" @my.name ": 250-299"
+	end if
+	if logck >= "You are becoming an expert."
+		message "*" @my.name ": 300-349"
+	end if
+	if logck >= "You are close to attaining mastery."
+		message "*" @my.name ": 400-449"
+	end if
+	if logck >= "Your expertise is unquestionable."
+		message "*" @my.name ": 800-899"
+	end if
+	if logck >= "Few if any are your equal."
+		message "*" @my.name ": 1000-1249"
+	end if
+	if logck >= "Your skill astounds me."
+		message "*" @my.name ": 1500-1749"
+	end if
+	if @my.right_item == "Moonstone"
+		"/useitem moonstone\r"
+	end if
+	if logck >= "You have a vast amount to learn about"
+		"/ponder Vast amount to learn! 800-1300 to go! \r"
+	end if
+	if logck >= "You have a lot to learn about"
+		"/ponder A lot to learn! 510-700 to go! \r"
+	end if
+	if logck >= "You have much to learn about"
+		"/ponder Much to learn! 300-480 to go! \r"
+	end if
+	if logck >= "You have many things to learn"
+		"/ponder Many thing to learn! 160-280 to go! \r"
+	end if
+	if logck >= "You have some things to learn"
+		"/ponder Some things to learn! 72-144 to go! \r"
+	end if
+	if logck >= "You have more than a few things to learn"
+		"/ponder More than a few! 35-63 to go! \r"
+	end if
+	if logck >= "You have a few things to learn"
+		"/ponder Few! 15-27 to go! \r"
+	end if
+	if logck >= "You have almost nothing left to learn"
+		"/ponder SO CLOSE! 2-12 to go! \r"
+	end if
+	if logck >= "You learn to fight the"
+		"/ponder Movements DONE! \r"
+	end if
+	if logck >= "You learn to befriend the"
+		"/ponder Befriend Finshed! \r"
+	end if
+	if logck >= "You learn to assume the form of the"
+		"/ponder Morph COMPLETED! \r"
+	end if
+	set wordtime 0
+end if
+if logck >= "You return"
+	SETGLOBAL isMorphed 0
+		SETGLOBAL whatShape 0
+end if
+if logck >= "Using /SHARE to create a spirit link"
+	if isMorphed == 1
+		SETGLOBAL keepspeed 1
+			SETGLOBAL isMorphed 0
+				SETGLOBAL whatShape 0
+	end if
+	if keepspeed == 0
+		if speeding == 1
+			SETGLOBAL speeding 0
+				goto une
+		end if
+	end if
+	if @my.right_item == "Moonstone"
+		"/unequip moonstone\r"
+	end if
+end if
+if logck >= "You are already in"
+	SETGLOBAL isMorphed 0
+		SETGLOBAL whatShape 0
+end if
+if logck >= "cannot possibly use"
+	if isMorphed == 1
+		SETGLOBAL isMorphed 0
+			SETGLOBAL whatShape 0
+	end if
+	if speeding == 1
+		SETGLOBAL speeding 0
+			goto une
+	end if
+	if @my.right_item == "Moonstone"
+		"/unequip moonstone\r"
+	end if
+end if
+if logck >= hasfallen
+	if isMorphed == 1
+		SETGLOBAL keepspeed 1
+			SETGLOBAL isMorphed 0
+				SETGLOBAL whatShape 0
+	end if
+	if keepspeed == 0
+		if speeding == 1
+			SETGLOBAL speeding 0
+				goto une
+		end if
+	end if
+end if
+if logck >= "You slow down"
+	if speeding == 1
+		SETGLOBAL speeding 0
+			goto une
+	end if
+end if
+if Hchk == 1
+	message "*Healer Mode"
+		call sethealeritem
+			SETGLOBAL Hchk 0
+end if
+if Rchk == 1
+	message "*Ranger Mode"
+		message "Type /ranger for commands"
+			SETGLOBAL Rchk 0
+end if
+goto top
+label une
+	if swaobackL != "Heartwood Charm"
+		if swaobackL != ""
+			message "* swapping left hand back to" swaobackL " "
+				"/equip " swaobackL " \r"
+					SETGLOBAL swaobackL ""
+						setglobal keepspeed 0
+			else 
+				"/unequip heartwood \r"
+					setglobal keepspeed 0
+	end if
+end if
+goto top
+}
+ 
+"/am"
+{
+if AT == 0
+	setglobal AT 1
+		message "*Auto Mate ON!"
+else
+	setglobal AT 0
+		message "*Auto Mate OFF!"
+end if
+}
+ 
+ 
+"/atz"
+{
+if trademe == 0
+	setglobal trademe 1
+		message "*Auto Trade Zero ON!"
+			if AT == 0
+				message "* Auto Stuff is OFF, Auto Trade Zero will not work with it turned off."
+	end if
+else
+	setglobal trademe 0
+		message "*Auto Trade Zero OFF!"
+end if
+}
+
+control-click
+{
+if CHAINING == 0
+	setglobal swaoback @my.right_item
+end if
+	if @my.right_item != chain
+			setglobal CHAINING 1
+				"/equip " chain "\r"
+					"/use " @click.simple_name " \r"
+	else
+	if @my.right_item == chain
+			setglobal CHAINING 1
+				"/use " @click.simple_name " \r"
+	end if
+end if
+}
+ 
+control-F1
+{
+if CHAINING == 1
+	setglobal CHAINING 0 
+		"/equip " swaoback "\r"
+end if
+}
+
+shift-click
+{
+"/whisper excuse me \r"
+"/pull " @click.simple_name " \r"
+}
+
+control-click2
+{
+"/sell 0 " @clicksplayer " \r"
+}
+
+shift-click2
+{
+"/share " @clicksplayer " \r"
+}
+
+"/wt"
+{
+"/use /reflect\r"
+}
+
+"/col"
+{
+"Colmert says open \r"
+}
+
+numpad-1
+{
+"/pose leanleft \r"
+}
+numpad-2
+{
+"/pose akimbo \r"
+}
+numpad-3
+{
+"/pose leanright \r"
+}
+numpad-4
+{
+"/pose kneel \r"
+}
+numpad-5
+{
+"/pose sit \r"
+}
+numpad-6
+{
+"/pose angry \r"
+}
+numpad-7
+{
+"/pose lie \r"
+}
+numpad-8
+{
+"/pose seated \r"
+}
+numpad-9
+{
+"/pose celebrate \r"
+}
+
+//race gender health balance magic
+
+"/swap"
+{
+set racw @my.race
+set balancw @my.balance
+set gendew @my.gender
+set hpw @my.health
+set class @my.magic
+message "class:" class " health:" hpw " gender:" gendew " balance:" balancw " race:" racw ""
+}
+
+// Dynamic Sharecads v1.3.1
+//   By Gorvin
+
+// This is an enhanced, less-spammy version of Sharecads. It takes into
+// consideration the 3 second delay between shares and does not waste time
+// trying to share someone you're already sharing with. If several healers
+// are cadding you at once, it will try to maintain shares with the most
+// recent 5 who have healed you (or less depending on if any shares are
+// locked).  Additionally, this will also result in the macro attempting to
+// reshare with any healers that have cadded you very recently (and thus are
+// potentially still healing you) if sharing another healer has caused them
+// to be unshared.
+
+// Use "/shcads" to turn on or off.
+
+
+
+// If the macro appears to be causing you to lag at times, set this variable
+// to 1.  Doing so will cause messages to be displayed after each detected
+// healing and share list message, but will improve the speed at which the
+// macro is able to run.  Keeping this set to 0 should not have any impact
+// on most machines.
+set gShare_messages 0
+
+
+
+set gShare_on 0
+
+set gShare[0] ""
+set gShare[1] ""
+set gShare[2] ""
+set gShare[3] ""
+set gShare[4] ""
+
+set gShareCad[0] ""
+set gShareCad[1] ""
+set gShareCad[2] ""
+set gShareCad[3] ""
+set gShareCad[4] ""
+
+set gShareIgnore[0] 1
+set gShareIgnore[1] 1
+set gShareIgnore[2] 1
+set gShareIgnore[3] 1
+set gShareIgnore[4] 1
+
+set gShare_erase 60
+
+"/shcads"
+{
+if gShare_on == 1
+	setglobal gShare_on 0
+else
+	setglobal gShare_on 1
+	setglobal gShare[0] ""
+	setglobal gShare[1] ""
+	setglobal gShare[2] ""
+	setglobal gShare[3] ""
+	setglobal gShare[4] ""
+	setglobal gShareCad[0] ""
+	setglobal gShareCad[1] ""
+	setglobal gShareCad[2] ""
+	setglobal gShareCad[3] ""
+	setglobal gShareCad[4] ""
+	setglobal gShareIgnore[0] 1
+	setglobal gShareIgnore[1] 1
+	setglobal gShareIgnore[2] 1
+	setglobal gShareIgnore[3] 1
+	setglobal gShareIgnore[4] 1
+	message "* Sharecads is now on."
+	if @env.textLog.word[0] > 0
+		set share_ts 2
+	else
+		set share_ts 0
+	end if
+	set share_init 0
+	set share_free 5
+	set share_delay 0
+	set share_erase 0
+	set share_check 0
+	set share_type_old 0
+	label SHARECADS
+		if gShare_on == 1
+			set share_word share_ts
+			set share_msg @env.textLog
+			set share_type 0
+			if share_msg.word[share_word] == "You"
+				if share_msg >= "You are sharing experiences with"
+					set share_word + 5
+					// If message printings are disabled and the last message was also a 
+					// share message, compare signature of current message with the last.
+					if gShare_messages == 0
+						set share_type 1
+						if share_type_old == 1
+							set share_sig_word share_word
+							call "fShare_signature"
+							if share_same == 0
+								call "fShare_update"
+							end if
+						else
+							set share_sig share_msg
+							call "fShare_update"
+						end if
+					else
+						call "fShare_update"
+					end if
+					set share_init 1
+				end if
+			else if share_msg.word[share_word] >= "You"
+				if share_msg >= "You sense healing energy from"
+					set share_word + 5
+					set share_same 0
+					// If message printings are disabled and the last message was also a 
+					// healing message, compare signature of current message with the last.
+					if gShare_messages == 0
+						set share_type 2
+						if share_type_old == 2
+							set share_sig_word share_word
+							call "fShare_signature"
+						else
+							set share_sig share_msg
+						end if
+					end if
+					if share_same == 0
+						call "fShare_get_who"
+						set share_ignore 0
+						call "fShare_push"
+						set share_check 1
+						if gShare_messages == 1
+							message "Healing detected."
+						end if
+					end if
+				end if
+			end if
+			set share_type_old share_type
+			if share_erase > 0
+				set share_erase - 1
+				if share_erase == 0
+					setglobal gShare_which 0
+					label SHAREFLUSH
+						if gShare_which < 5
+							setglobal gShareCad[gShare_which] ""
+							setglobal gShare_which + 1
+							goto "SHAREFLUSH"
+						end if
+				end if
+			end if
+			if share_delay > 0
+				set share_delay - 1
+			else if share_check == 1
+				call "fShare_check"
+				if share_check == 1
+					set share_erase gShare_erase
+					set share_delay 14
+					"/share " share_who "\r"
+					setglobal gShare_which 5
+					setglobal gShare_which - share_free
+					set share_bump share_who
+					label SHAREADJ
+						if gShare_which < 5
+							set share_temp gShare[gShare_which]
+							setglobal gShare[gShare_which] share_bump
+							set share_bump share_temp
+							setglobal gShare_which + 1
+							goto "SHAREADJ"
+						end if
+				end if
+			end if
+			pause 1
+			goto "SHARECADS"
+		end if
+		message "* Sharecads is now off."
+end if
+}
+
+
+
+// Compares current text log message signature with the last to see if they're the same.
+// Args:
+//   share_msg - current text log message.
+//   share_sig_word - word in text log message that signature begins at.
+//   share_sig - previous text log message.
+//   share_ts - time stamp offset.
+// Returns:
+//   share_same - 1 if signatures are the same.
+//   share_sig - signature of current message.
+fShare_signature
+{
+set share_same 0
+// If time stamps are off, we can directly compare the messages.
+if share_ts == 0
+	if share_sig == share_msg
+		set share_same 1
+	end if
+else
+	label SHARESIGCHECK
+		// Loop until we've reached the end of one of the signatures or we've found
+		// a difference between them.
+		if share_sig.word[share_sig_word] == ""
+			if share_msg.word[share_sig_word] == ""
+				// We've gone through each word in both signatures, and they're the same.
+				set share_same 1
+			end if
+		else if share_sig.word[share_sig_word] == share_msg.word[share_sig_word]
+			set share_sig_word + 1
+			goto "SHARESIGCHECK"
+		end if
+end if
+// If the messages were different, we need to copy over the new signature.
+if share_same == 0
+	set share_sig share_msg
+end if
+}
+
+
+
+// Checks if need to share cadder.
+// Returns:
+//   share_check - 1 if need to share.
+//   share_who - who to share if need to.
+fShare_check
+{
+set share_check 0
+setglobal gShare_which share_free
+label SHARECHECK
+	// Go through as many cadders in list as have non-locked shares.
+	if gShare_which > 0
+		setglobal gShare_which - 1
+		set share_who gShareCad[gShare_which]
+		if share_who != ""
+			if gShareIgnore[gShare_which] == 0
+				set share_shares 0
+				// See if already sharing with this cadder.
+				label SHARECHECKSH
+				if share_shares < 5
+					if share_who != gShare[share_shares]
+						set share_shares + 1
+						goto "SHARECHECKSH"
+					// If already sharing with this cadder, do not share.
+					end if
+				// If not already sharing with this cadder, share.
+				else
+					set share_check 1
+					goto "SHARECHECKOUT"
+				end if
+			end if
+		end if
+		goto "SHARECHECK"
+	end if
+label SHARECHECKOUT
+}
+
+
+
+// Pushes name into recent cadders list.
+// Args:
+//   share_new - name to bump
+fShare_push
+{
+setglobal gShare_which 0
+set share_lock 5
+set share_lock - share_free
+// Check if this cadder is already a locked share.
+label SHARELOCK
+	if gShare_which < share_lock
+		// If is locked share, do not add to cadder list.
+		if share_new == gShare[gShare_which]
+			goto "SHAREPUSHOUT"
+		else
+			setglobal gShare_which + 1
+			goto "SHARELOCK"
+		end if
+	end if
+set share_erase gShare_erase
+setglobal gShare_which 0
+set share_bump share_new
+label SHAREPUSH
+	set share_temp gShareCad[gShare_which]
+	set share_tempp gShareIgnore[gShare_which]
+	setglobal gShareCad[gShare_which] share_bump
+	setglobal gShareIgnore[gShare_which] share_ignore
+	set share_bump share_temp
+	set share_ignore share_tempp
+	setglobal gShare_which + 1
+	if share_bump == share_new
+	else if share_bump == ""
+	else if gShare_which < share_free
+		goto "SHAREPUSH"
+	end if
+label SHAREPUSHOUT
+setglobal gShare_which share_free
+label SHAREREM
+	if gShare_which < 5
+		setglobal gShareCad[gShare_which] ""
+		setglobal gShare_which + 1
+		goto "SHAREREM"
+	end if
+}
+
+
+
+// Updates list of current shares.
+// Args:
+//   share_msg - @env.textLog message to get info from.
+//   share_word - word where names begin at.
+fShare_update
+{
+set share_prev[0] gShare[0]
+set share_prev[1] gShare[1]
+set share_prev[2] gShare[2]
+set share_prev[3] gShare[3]
+set share_prev[4] gShare[4]
+setglobal gShare_who 0
+set share_free 5
+label SHAREUPDATE
+	if share_msg.word[share_word] != ""
+		call "fShare_get_who"
+		// Check if not expected share.
+		if share_lock == 0
+			if share_init == 1
+				set share_shares 0
+				// Check if was already in list.
+				label SHAREALREADY
+					if share_shares < 5
+						if share_prev[share_shares] != ""
+							// If was already in list, not unexpected.
+							if share_new == share_prev[share_shares]
+								goto "SHARECONT"
+							else
+								set share_shares + 1
+								goto "SHAREALREADY"
+							end if
+						end if
+					end if
+				// If were not expecting share, bump onto cadders list
+				// so it does not accidentally get bumped off.
+				set share_delay 14
+				set share_ignore 1
+				call "fShare_push"
+			end if
+		end if
+		label SHARECONT
+		setglobal gShare[gShare_who] share_new
+		setglobal gShare_who + 1
+		goto "SHAREUPDATE"
+	end if
+label SHAREERASE
+	if gShare_who < 5
+		setglobal gShare[gShare_who] ""
+		setglobal gShare_who + 1
+		goto "SHAREERASE"
+	end if
+if gShare_messages == 1
+	message "Share list updated."
+end if
+}
+
+
+
+// Fetches a name from text string.
+// Args:
+//   share_msg - @env.textLog message to get info from.
+//   share_word - word where name begin at.
+// Returns:
+//   share_new - new name.
+//   share_lock - 1 if from share list and locked.
+fShare_get_who
+{
+set share_lock 0
+set share_new ""
+label SHAREWHO
+	if share_msg.word[share_word] == ""
+	else if share_msg.word[share_word] == "and"
+		set share_word + 1
+		if share_new == ""
+			goto "SHAREWHO"
+		end if
+	else if share_msg.word[share_word] >= "(*)"
+		set share_lock 1
+		set share_free - 1
+		set share_word + 1
+	else if share_msg.word[share_word] >= ","
+		set share_letters share_msg.word[share_word]
+		set share_which 0
+		label SHAREL
+			set share_letter share_letters.letter[share_which]
+			if share_letter == ","
+			else if share_letter == "."
+			else if share_letter == " "
+			else if share_letter == ""
+			else
+				set share_new + share_letter
+				set share_which + 1
+				goto "SHAREL"
+			end if
+		set share_word + 1
+	else if share_msg.word[share_word] >= "."
+		set share_letters share_msg.word[share_word]
+		set share_which 0
+		goto "SHAREL"
+	else
+		set share_new + share_msg.word[share_word]
+		set share_word + 1
+		goto "SHAREWHO"
+	end if		
+}
+
+setglobal name1 ""
+setglobal name2 ""
+setglobal name3 ""
+setglobal name4 ""
+setglobal name5 ""
+setglobal namel 1
+setglobal thnka 1
+setglobal Athank 0
+setglobal tell ""
+setglobal failname 0
+ 
+control-shift-click2
+{
+setglobal exlie @click.simple_name
+call nameadd
+}
+
+"/thn"
+{
+if @text.word[0] != ""
+	"/select @text.word[0] \r"
+		setglobal exlie @selplayer.name
+			call nameadd
+				"/select \r"
+end if
+if @text.word[1] != ""
+	"/select @text.word[1] \r"
+		setglobal exlie @selplayer.name
+			call nameadd
+				"/select \r"
+end if
+if @text.word[2] != ""
+	"/select @text.word[2] \r"
+		setglobal exlie @selplayer.name
+			call nameadd
+				"/select \r"
+end if
+if @text.word[3] != ""
+	"/select @text.word[3] \r"
+		setglobal exlie @selplayer.name
+			call nameadd
+				"/select \r"
+end if
+if @text.word[4] != ""
+	"/select @text.word[4] \r"
+		setglobal exlie @selplayer.name
+			call nameadd
+				"/select \r"
+end if
+message "* Auto thanks names set to:"
+if name1 != ""
+	if name1 != "Nothing"
+		"/select " name1 "\r"
+			message "" @selplayer.name ""
+	end if
+end if
+if name2 != ""
+	if name2 != "Nothing"
+		"/select " name2 "\r"
+			message "" @selplayer.name ""
+	end if
+end if
+if name3 != ""
+	if name3 != "Nothing"
+		"/select " name3 "\r"
+			message "" @selplayer.name ""
+	end if
+end if
+if name4 != ""
+	if name4 != "Nothing"
+		"/select " name4 "\r"
+			message "" @selplayer.name ""
+	end if
+end if
+if name5 != ""
+	if name5 != "Nothing"
+		"/select " name5 "\r"
+			message "" @selplayer.name ""
+				"/select \r"
+	end if
+end if
+}
+ 
+nameadd
+{
+if namel == 1
+call thnck
+	if failname == 1
+		goto end
+	end if
+	if name1 != exlie
+		setglobal name1 exlie
+			setglobal namel + 1
+				"/select \r"
+					"/select " name1 "\r"
+						message "" @selplayer.name "added to Karma list"
+						"/select \r"
+							goto end
+	end if
+end if
+if namel == 2
+call thnck
+	if failname == 1
+		goto end
+	end if
+	if name1 != exlie
+		setglobal name2 exlie
+			setglobal namel + 1
+				"/select \r"
+					"/select " name2 "\r"
+						message "" @selplayer.name "added to Karma list"
+							"/select \r"
+								goto end
+	end if
+end if
+if namel == 3
+call thnck
+	if failname == 1
+		goto end
+	end if
+	if name1 != exlie
+		setglobal name3 exlie
+			setglobal namel + 1
+				"/select \r"
+					"/select " name3 "\r"
+						message "" @selplayer.name "added to Karma list"
+							"/select \r"
+								goto end
+	end if
+end if
+if namel == 4
+call thnck
+	if failname == 1
+		goto end
+	end if
+	if name1 != exlie
+		setglobal name4 exlie
+			setglobal namel + 1
+				"/select \r"
+					"/select " name4 "\r"
+						message "" @selplayer.name "added to Karma list"
+							"/select \r"
+								goto end
+	end if
+end if
+if namel == 5
+call thnck
+	if failname == 1
+		goto end
+	end if
+	if name1 != exlie
+		setglobal name5 exlie
+			setglobal namel 1
+				"/select \r"
+					"/select " name5 "\r"
+						message "" @selplayer.name "added to Karma list"
+							"/select \r"
+								goto end
+	end if
+end if
+label end
+setglobal failname 0
+}
+
+thnck
+{
+if name1 == exlie
+call ende
+else if name2 == exlie
+call ende
+else if name3 == exlie
+call ende
+else if name4 == exlie
+call ende
+else if name5 == exlie
+call ende
+end if
+}
+ 
+ende
+{
+"/select \r"
+	"/select " exlie "\r"
+		set nar @selplayer.name
+			"/select \r"
+				message "*" nar "is already on the Karma list."
+					setglobal failname 1
+}
+ 
+"/thanks"
+{
+if Athank == 0
+	set Athank 1
+		message "* Auto Thanker Online!"
+			call nextthk
+else if Athank == 1
+	set Athank 0
+		message "* Auto Thanker Offline!"
+}
+ 
+"/thm"
+{
+if @text.word[0] != ""
+	setglobal tell @text
+		message "* Karma Message set to " tell ""
+else if @text.word[0] == ""
+	setglobal tell ""
+		message "* Karma Message will be anonymous"
+end if
+}
+ 
+nextthk
+{
+if Athank == 1
+set logck @env.textlog
+	if thnka == 1
+		call thank1
+	else if thnka == 2
+		call thank2
+	else if thnka == 3
+		call thank3
+	else if thnka == 4
+		call thank4
+	else if thnka == 5
+		call thank5
+	end if
+end if
+}
+ 
+thank1
+{
+if name1 != ""
+"/thank " name1 " " tell " \r"
+	set thnka + 1
+else if name1 == ""
+	set thnka + 1
+		call nextthk
+end if
+pause 3
+set logck @env.textlog
+if logck.word[2] == "You"
+	if logck >= "You have given"
+		"/select " name1 "\r"
+			set skipper @selplayer.name
+				message "*" skipper "can no longer be thanked for now, removing form list."
+					"/select \r"
+						setglobal name1 ""
+							set thnka + 1
+								call nextthk
+	end if
+end if
+if logck.word[3] == "is"
+	if logck >= "not in the lands."
+		message "*" name1 "will be removed from Karma list."
+			setglobal name1 ""
+				set thnka + 1
+					call nextthk
+	end if
+end if
+pause 1800
+call nextthk
+}
+ 
+thank2
+{
+if name2 != ""
+"/thank " name2 " " tell " \r"
+	set thnka + 1
+else if name2 == ""
+	set thnka + 1
+		call nextthk
+end if
+pause 3
+set logck @env.textlog
+if logck.word[2] == "You"
+	if logck >= "You have given"
+		"/select " name2 "\r"
+			set skipper @selplayer.name
+				message "*" skipper "can no longer be thanked for now, removing form list."
+					"/select \r"
+						setglobal name2 ""
+							set thnka + 1
+								call nextthk
+	end if
+end if
+if logck.word[3] == "is"
+	if logck >= "not in the lands."
+		message "*" name2 "will be removed from Karma list."
+			setglobal name2 ""
+				set thnka + 1
+					call nextthk
+	end if
+end if
+pause 1800
+call nextthk
+}
+ 
+thank3
+{
+if name3 != ""
+"/thank " name3 " " tell " \r"
+	set thnka + 1
+else if name3 == ""
+	set thnka + 1
+		call nextthk
+end if
+pause 3
+set logck @env.textlog
+if logck.word[2] == "You"
+	if logck >= "You have given"
+		"/select " name3 "\r"
+			set skipper @selplayer.name
+				message "*" skipper "can no longer be thanked for now, removing form list."
+					"/select \r"
+						setglobal name3 ""
+							set thnka + 1
+								call nextthk
+	end if
+end if
+if logck.word[3] == "is"
+	if logck >= "not in the lands."
+		message "*" name3 "will be removed from Karma list."
+			setglobal name3 ""
+				set thnka + 1
+					call nextthk
+	end if
+end if
+pause 1800
+call nextthk
+}
+ 
+thank4
+{
+if name4 != ""
+"/thank " name4 " " tell " \r"
+	set thnka + 1
+else if name4 == ""
+	set thnka + 1
+		call nextthk
+end if
+pause 3
+set logck @env.textlog
+if logck.word[2] == "You"
+	if logck >= "You have given"
+		"/select " name4 "\r"
+			set skipper @selplayer.name
+				message "*" skipper "can no longer be thanked for now, removing form list."
+					"/select \r"
+						setglobal name4 ""
+							set thnka + 1
+								call nextthk
+	end if
+end if
+if logck.word[3] == "is"
+	if logck >= "not in the lands."
+		message "*" name4 "will be removed from Karma list."
+			setglobal name4 ""
+				set thnka + 1
+					call nextthk
+	end if
+end if
+pause 1800
+call nextthk
+}
+ 
+thank5
+{
+if name5 != ""
+"/thank " name5 " " tell " \r"
+	set thnka 1
+else if name5 == ""
+	set thnka 1
+		call nextthk
+end if
+pause 3
+set logck @env.textlog
+if logck.word[2] == "You"
+	if logck >= "You have given"
+		"/select " name5 "\r"
+			set skipper @selplayer.name
+				message "*" skipper "can no longer be thanked for now, removing form list."
+					"/select \r"
+						setglobal name5 ""
+							set thnka 1
+								call nextthk
+	end if
+end if
+if logck.word[3] == "is"
+	if logck >= "not in the lands."
+		message "*" name5 "will be removed from Karma list."
+			setglobal name5 ""
+				set thnka 1
+					call nextthk
+	end if
+end if
+pause 1800
+call nextthk
+}
+
+"/thw"
+{
+message "* Auto thanks names:"
+if name1 != "Nothing"
+	if name1 != ""
+		"/select " name1 "\r"
+			message "" @selplayer.name ""
+	end if
+end if
+if name2 != "Nothing"
+	if name2 != ""
+		"/select " name2 "\r"
+			message "" @selplayer.name ""
+	end if
+end if
+if name3 != "Nothing"
+	if name3 != ""
+		"/select " name3 "\r"
+			message "" @selplayer.name ""
+	end if
+end if
+if name4 != "Nothing"
+	if name4 != ""
+		"/select " name4 "\r"
+			message "" @selplayer.name ""
+	end if
+end if
+if name5 != "Nothing"
+	if name5 != ""
+		"/select " name5 "\r"
+			message "" @selplayer.name ""
+	end if
+end if
+}

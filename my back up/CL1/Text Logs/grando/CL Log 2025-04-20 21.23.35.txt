@@ -1,0 +1,999 @@
+
+4/20/25 9:23:36p * Your pair of pants named “dark grey” is in very good condition.
+4/20/25 9:23:36p * Your pair of shoes named “purple” is in very good condition.
+4/20/25 9:23:36p * Your shirt named “dark grey” is in very good condition.
+4/20/25 9:23:36p Welcome to Clan Lord, Grando!
+4/20/25 9:23:36p Type \HELP for a list of commands.
+4/20/25 9:23:36p • You gain experience from your recent studies.
+4/20/25 9:23:36p Grando is now Clanning.
+4/20/25 9:23:36p You have been studying for 7 days, 23 hours, 3 minutes.
+4/20/25 9:23:36p Friends online: none.
+4/20/25 9:23:39p It's 9:31am on Sombdi, day 23 of Spring, 641.
+4/20/25 9:23:40p There are two members of Black Phoenix clanning: Ceara and you.
+4/20/25 9:23:40p • What’s New: https://deltatao.com/clanlord/news
+4/20/25 9:23:50p * Tip of the day: Command-click on someone to select them, for use in a command. (Use /OPTIONS to turn tips off.)
+4/20/25 9:23:55p You vault the wall.
+4/20/25 9:24:17p You slaughtered a Vermine.
+4/20/25 9:24:21p You slaughtered a Giant Vermine.
+4/20/25 9:24:30p You slaughtered an Orga.
+4/20/25 9:24:54p •Your ability to store energy from the world improves.
+4/20/25 9:24:58p * You need a breath of air!
+4/20/25 9:25:49p Mimo is now Clanning.
+4/20/25 9:26:49p You have a single coin.
+4/20/25 9:28:23p You begin sharing your experiences with Mimo.
+4/20/25 9:28:26p Mimo is sharing experiences with you.
+4/20/25 9:28:31p Grando says, "c heal me"
+4/20/25 9:28:31p •You sense healing energy from Mimo.
+4/20/25 9:28:37p Grando says, "c heal me"
+4/20/25 9:28:44p Grando says, "c heal gran"
+4/20/25 9:28:57p You have become skilled.
+4/20/25 9:28:57p You are currently studying the Shadowcat, and have almost nothing left to learn.
+4/20/25 9:29:10p •You can study up to 2 creatures concurrently.
+4/20/25 9:29:11p •You are currently studying the Shadowcat, and have almost nothing left to learn.
+4/20/25 9:29:11p •You are remembering your studies of the Tawny Yorilla, and have a vast amount to learn.
+4/20/25 9:29:11p •You have studied the following creatures:
+4/20/25 9:29:12p Tawny Yorilla, Water Burst, Watery Guardian.
+4/20/25 9:29:32p The belt of the wild allows Rangers to change shape & befriend creatures.
+4/20/25 9:29:32p Type “/use /reflect” to check your knowledge of creatures.
+4/20/25 9:29:32p Type “/use /befriend” to befriend a creature you have studied in depth.
+4/20/25 9:29:32p Type “/use /call” to call a friendly creature to return to you.
+4/20/25 9:29:32p Type “/use /control” to directly control your friend.
+4/20/25 9:29:32p Type “/use /dismiss” to dismiss a creature back to the wild.
+4/20/25 9:29:32p Type “/use /shape <name>” to assume the shape of a creature you have studied extensively.Type “/use /return” to return to your normal form.
+4/20/25 9:29:32p Type “/use /judge <player>” to judge another's progress along the path to becoming a Ranger.
+4/20/25 9:30:02p You abandon your study of the Tawny Yorilla.
+4/20/25 9:30:03p You have a single coin.
+4/20/25 9:30:05p Foot is now Clanning.
+4/20/25 9:30:10p Strike a monster to begin studying it.
+4/20/25 9:30:11p •You begin studying the ways of the Watery Guardian.
+4/20/25 9:30:20p Grando says, "c heal gran"
+4/20/25 9:30:26p You have become skilled.
+4/20/25 9:30:26p You are currently studying the Watery Guardian, and have a vast amount to learn.
+4/20/25 9:30:32p Grando says, "c heal gran"
+4/20/25 9:30:35p Grando says, "c heal gran"
+4/20/25 9:30:35p •You sense healing energy from Mimo.
+4/20/25 9:30:52p You killed a Watery Guardian.
+4/20/25 9:30:54p You slaughtered a Water Burst.
+4/20/25 9:31:02p You slaughtered a Water Burst.
+4/20/25 9:31:04p You slaughtered a Water Burst.
+4/20/25 9:31:19p You slaughtered a Water Burst.
+4/20/25 9:31:33p Grando says, "c heal gran"
+4/20/25 9:31:35p Grando says, "c heal gran"
+4/20/25 9:31:38p Grando says, "c heal gran"
+4/20/25 9:31:40p Grando says, "c heal gran"
+4/20/25 9:31:42p Grando says, "c heal gran"
+4/20/25 9:31:43p •You sense healing energy from Mimo.
+4/20/25 9:32:56p Grando says, "c heal gran"
+4/20/25 9:33:00p Grando says, "c heal gran"
+4/20/25 9:33:01p •You sense healing energy from Mimo.
+4/20/25 9:33:13p You have a single coin.
+4/20/25 9:33:52p You killed a Watery Guardian.
+4/20/25 9:33:58p You slaughtered a Water Burst.
+4/20/25 9:34:11p You killed a Watery Guardian.
+4/20/25 9:34:19p Grando says, "c heal grando"
+4/20/25 9:34:22p Grando says, "c heal grando"
+4/20/25 9:34:22p •You sense healing energy from Mimo.
+4/20/25 9:34:48p Mimo ponders, "i have no life left to give"
+4/20/25 9:35:52p Grando says, "c heal grando"
+4/20/25 9:35:52p •You sense healing energy from Mimo.
+4/20/25 9:36:19p You killed a Watery Guardian.
+4/20/25 9:36:25p Grando says, "c heal grando"
+4/20/25 9:36:27p Grando says, "c heal grando"
+4/20/25 9:36:30p Grando says, "c heal grando"
+4/20/25 9:36:30p •You sense healing energy from Mimo.
+4/20/25 9:36:37p You have a single coin.
+4/20/25 9:37:20p You dispatched a Watery Guardian.
+4/20/25 9:37:26p Grando says, "c heal grando"
+4/20/25 9:37:27p •You sense healing energy from Mimo.
+4/20/25 9:38:17p You dispatched a Watery Guardian.
+4/20/25 9:38:28p Grando says, "c heal grando"
+4/20/25 9:38:29p •You sense healing energy from Mimo.
+4/20/25 9:40:00p You have a single coin.
+4/20/25 9:40:23p You slaughtered a Water Burst.
+4/20/25 9:40:43p Foot is no longer Clanning.
+4/20/25 9:40:52p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/20/25 9:40:52p Grando has fallen to an ice bolt.
+4/20/25 9:43:29p You have a single coin.
+4/20/25 9:43:29p Mimo is no longer Clanning.
+4/20/25 9:43:46p ZipLock is now Clanning.
+4/20/25 9:44:35p ZipLock is no longer Clanning.
+4/20/25 9:44:42p Mimo is now Clanning.
+4/20/25 9:46:45p Jeepers is now Clanning.
+4/20/25 9:46:46p You have a single coin.
+4/20/25 9:46:49p Mimo starts dragging you.
+4/20/25 9:46:55p •You sense healing energy from Mimo.
+4/20/25 9:47:05p Eli thinks, "buying iron ore"
+4/20/25 9:47:07p Mimo starts dragging you.
+4/20/25 9:47:15p Mimo whispers, "excuse me"
+4/20/25 9:47:16p Mimo has fallen to a Watery Guardian.
+4/20/25 9:47:31p Mimo is no longer fallen.
+4/20/25 9:50:03p You have a single coin.
+4/20/25 9:53:15p You have a single coin.
+4/20/25 9:56:28p You have a single coin.
+4/20/25 9:56:52p Stonehand is no longer Clanning.
+4/20/25 9:58:02p Semie is no longer Clanning.
+4/20/25 9:59:08p Mimo is no longer Clanning.
+4/20/25 9:59:40p You have a single coin.
+4/20/25 10:02:52p You have a single coin.
+4/20/25 10:03:34p •You gain experience.
+4/20/25 10:04:23p Mimo is now Clanning.
+4/20/25 10:05:49p Bladebringer is now Clanning.
+4/20/25 10:06:03p You have a single coin.
+4/20/25 10:07:50p Mimo's chain breaks as he tries to use it.
+4/20/25 10:08:07p Mimo starts dragging you.
+4/20/25 10:08:26p Mimo starts dragging you.
+4/20/25 10:08:50p Mimo starts dragging you.
+4/20/25 10:09:03p Bronko is now Clanning.
+4/20/25 10:09:17p You have a single coin.
+4/20/25 10:09:45p Mimo starts dragging you.
+4/20/25 10:10:43p Shelka exclaims, "The things that come out of the well are disgusting!"
+4/20/25 10:11:11p You begin sharing your experiences with Squib.
+4/20/25 10:11:14p Squib is sharing experiences with you.
+4/20/25 10:11:28p Mimo starts dragging you.
+4/20/25 10:11:39p Mimo starts dragging you.
+4/20/25 10:11:56p Mimo starts dragging you.
+4/20/25 10:12:00p Mimo asks, "???"
+4/20/25 10:12:08p Koppi yells, "Lion-O reports: ..Lord Seaforth, Imperial Navy Commander in absentia, Organicus, the Bolt-Scarred, etc etc, aver that it is acceptable for Crunch, Haffron, Naferu and similar persons to refer to him as "Lord Admiral Kojiro", should that fit their comfort and habit."
+4/20/25 10:12:15p Squib whispers, "attack"
+4/20/25 10:12:15p Eli says, "Squib heal Grando"
+4/20/25 10:12:16p •You sense healing energy from Squib.
+4/20/25 10:12:29p You have a single coin.
+4/20/25 10:12:33p Mimo says, "oh"
+4/20/25 10:12:43p Mimo says, "i set my healer item to chain :P"
+4/20/25 10:12:49p •You sense healing energy from Mimo.
+4/20/25 10:13:20p Mimo says, "squib heal me"
+4/20/25 10:13:37p Eli thinks, "buying iron ore plz"
+4/20/25 10:14:15p Squib whispers, "attack"
+4/20/25 10:14:17p •You gain experience.
+4/20/25 10:14:44p Crius yells, "It’s 1 o’clock, and all’s well."
+4/20/25 10:14:48p Crius yells, "It looks pretty quiet in Lugubrion's demesne."
+4/20/25 10:15:21p Grando says, "odd it chose mimo"
+4/20/25 10:15:40p You have a single coin.
+4/20/25 10:15:54p You have become skilled.
+4/20/25 10:15:54p You are currently studying the Watery Guardian, and have a vast amount to learn.
+4/20/25 10:15:58p You slaughtered a Leech.
+4/20/25 10:16:03p You slaughtered a Vermine.
+4/20/25 10:16:17p You slaughtered a Scavenger Bird.
+4/20/25 10:16:22p You slaughtered a Leech.
+4/20/25 10:16:26p You slaughtered a Leech.
+4/20/25 10:16:36p * You need a breath of air!
+4/20/25 10:16:38p You slaughtered a Sand Ray.
+4/20/25 10:17:32p Lightbringer is now Clanning.
+4/20/25 10:17:52p You killed a Watery Guardian.
+4/20/25 10:17:57p •You sense healing energy from Mimo.
+4/20/25 10:17:59p You begin sharing your experiences with Mimo.
+4/20/25 10:17:59p You are sharing experiences with Mimo and Squib.
+4/20/25 10:18:03p Mimo is sharing experiences with you.
+4/20/25 10:18:03p Bladebringer is no longer Clanning.
+4/20/25 10:18:49p You dispatched a Watery Guardian.
+4/20/25 10:18:49p You have a single coin.
+4/20/25 10:18:55p •You sense healing energy from Mimo.
+4/20/25 10:19:26p You slaughtered a Water Burst.
+4/20/25 10:19:48p You killed a Watery Guardian.
+4/20/25 10:20:39p •You sense healing energy from Mimo.
+4/20/25 10:22:02p You have a single coin.
+4/20/25 10:22:11p You killed a Watery Guardian.
+4/20/25 10:22:29p You killed a Watery Guardian.
+4/20/25 10:22:39p •You sense healing energy from Mimo.
+4/20/25 10:23:50p You killed a Watery Guardian.
+4/20/25 10:23:57p •You sense healing energy from Mimo.
+4/20/25 10:24:50p Bladebringer is now Clanning.
+4/20/25 10:24:54p You dispatched a Watery Guardian.
+4/20/25 10:25:08p •You sense healing energy from Mimo.
+4/20/25 10:25:14p You have a single coin.
+4/20/25 10:25:47p Pookoiko is now Clanning.
+4/20/25 10:26:18p You dispatched a Watery Guardian.
+4/20/25 10:26:28p Loke is now Clanning.
+4/20/25 10:27:01p •You sense healing energy from Mimo.
+4/20/25 10:27:22p Orphelia is now Clanning.
+4/20/25 10:27:30p Orphelia is no longer Clanning.
+4/20/25 10:27:32p Pacito is now Clanning.
+4/20/25 10:27:49p You killed a Watery Guardian.
+4/20/25 10:27:57p Loke is no longer Clanning.
+4/20/25 10:28:17p Darth Wader is now Clanning.
+4/20/25 10:28:26p You have a single coin.
+4/20/25 10:28:48p The waterlogged floorboards are rotted straight through.
+4/20/25 10:29:11p You read a fragment of a decayed journal: "...stole a golden trinket from a traveling merchant today. The boy is clearly covetous by nature. I dare to hope that with a little praise, we will see more such behavior..."
+4/20/25 10:30:00p Pacito is no longer Clanning.
+4/20/25 10:30:12p Bronko is no longer Clanning.
+4/20/25 10:30:27p Lightbringer is no longer Clanning.
+4/20/25 10:30:30p Bladebringer is no longer Clanning.
+4/20/25 10:30:57p PangZa is now Clanning.
+4/20/25 10:31:40p You have a single coin.
+4/20/25 10:32:05p PangZa is no longer Clanning.
+4/20/25 10:32:06p The locked door drips with water.
+4/20/25 10:32:35p You slaughtered a Water Burst.
+4/20/25 10:32:39p You slaughtered a Water Burst.
+4/20/25 10:32:52p You slaughtered a Water Burst.
+4/20/25 10:33:24p •You sense healing energy from Mimo.
+4/20/25 10:34:10p Bronko is now Clanning.
+4/20/25 10:34:53p You have a single coin.
+4/20/25 10:36:01p PangZa is now Clanning.
+4/20/25 10:36:15p PangZa is no longer Clanning.
+4/20/25 10:37:28p Ezkeal is now Clanning.
+4/20/25 10:38:13p You have a single coin.
+4/20/25 10:38:45p •You sense healing energy from Mimo.
+4/20/25 10:39:45p You killed a Watery Guardian.
+4/20/25 10:40:22p PangZa is now Clanning.
+4/20/25 10:40:43p PangZa is no longer Clanning.
+4/20/25 10:40:51p •You sense healing energy from Mimo.
+4/20/25 10:41:26p You have a single coin.
+4/20/25 10:42:04p You killed a Watery Guardian.
+4/20/25 10:42:21p •You sense healing energy from Mimo.
+4/20/25 10:42:33p You have become skilled.
+4/20/25 10:42:33p You are currently studying the Watery Guardian, and have a vast amount to learn.
+4/20/25 10:43:27p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/20/25 10:43:28p Grando has fallen to an ice bolt.
+4/20/25 10:44:40p •You sense healing energy from Mimo.
+4/20/25 10:44:45p You have a single coin.
+4/20/25 10:44:56p Mimo starts dragging you.
+4/20/25 10:45:44p Mimo starts dragging you.
+4/20/25 10:46:33p Mimo starts dragging you.
+4/20/25 10:47:23p Nelar says, "Forget the orga, the vermine are the real menace."
+4/20/25 10:47:58p Shadowmutt pants.
+4/20/25 10:48:07p You have a single coin.
+4/20/25 10:48:10p Grando says, "squib heal me"
+4/20/25 10:48:11p •You sense healing energy from Squib.
+4/20/25 10:48:15p Squib whispers, "attack"
+4/20/25 10:48:23p Grando says, "squib heal me"
+4/20/25 10:48:25p Koppi yells, "Lion-O reports: ..Lord Seaforth, Imperial Navy Commander in absentia, Organicus, the Bolt-Scarred, etc etc, aver that it is acceptable for Crunch, Haffron, Naferu and similar persons to refer to him as "Lord Admiral Kojiro", should that fit their comfort and habit."
+4/20/25 10:48:31p •You sense healing energy from Mimo.
+4/20/25 10:48:54p Ceara thinks, "im coming for your useless ass, Bindra"
+4/20/25 10:49:13p Ceara thinks, "and you too loovma, i want these ranks back"
+4/20/25 10:50:15p Squib whispers, "attack"
+4/20/25 10:50:18p Eli thinks, "which portal do we go through to get to fane lookign area with boss chest and undine"
+4/20/25 10:51:25p Shadowmutt growls, "Grrr."
+4/20/25 10:51:27p Shadowmutt growls, "Woof!"
+4/20/25 10:51:32p Naferu thinks, "just go down the ladder and enter the cave nw"
+4/20/25 10:51:39p You have a single coin.
+4/20/25 10:51:54p Nelar says, "We won't have enough crops for the winter."
+4/20/25 10:52:21p You slaughtered a Leech.
+4/20/25 10:52:41p * You need a breath of air!
+4/20/25 10:52:43p You slaughtered a Cod.
+4/20/25 10:53:45p You killed a Watery Guardian.
+4/20/25 10:53:52p Sauver is now Clanning.
+4/20/25 10:54:21p •You sense healing energy from Mimo.
+4/20/25 10:55:09p You have a single coin.
+4/20/25 10:55:16p You killed a Watery Guardian.
+4/20/25 10:55:41p You killed a Watery Guardian.
+4/20/25 10:56:19p •You sense healing energy from Mimo.
+4/20/25 10:56:37p Tomair is now Clanning.
+4/20/25 10:56:49p Tomair is no longer Clanning.
+4/20/25 10:56:53p Fredor is now Clanning.
+4/20/25 10:57:24p You slaughtered a Water Burst.
+4/20/25 10:57:37p You slaughtered a Water Burst.
+4/20/25 10:57:49p •You sense healing energy from Mimo.
+4/20/25 10:58:36p You killed a Watery Guardian.
+4/20/25 10:58:40p You have a single coin.
+4/20/25 10:59:13p •You sense healing energy from Mimo.
+4/20/25 11:00:11p •You sense healing energy from Mimo.
+4/20/25 11:00:59p You killed a Watery Guardian.
+4/20/25 11:01:07p •You sense healing energy from Mimo.
+4/20/25 11:02:08p You have a single coin.
+4/20/25 11:02:24p •You sense healing energy from Mimo.
+4/20/25 11:02:24p Dracula thinks, "thanks for the hunt"
+4/20/25 11:02:48p Fredor is no longer Clanning.
+4/20/25 11:02:53p Tomair is now Clanning.
+4/20/25 11:03:14p You killed a Watery Guardian.
+4/20/25 11:03:22p •You sense healing energy from Mimo.
+4/20/25 11:04:11p •You sense healing energy from Mimo.
+4/20/25 11:04:43p You killed a Watery Guardian.
+4/20/25 11:05:37p You have a single coin.
+4/20/25 11:05:45p •You sense healing energy from Mimo.
+4/20/25 11:07:11p Anduin Lothar is no longer Clanning.
+4/20/25 11:07:40p Dracula is no longer Clanning.
+4/20/25 11:07:42p Ceara is no longer Clanning.
+4/20/25 11:07:54p You killed a Watery Guardian.
+4/20/25 11:08:17p You killed a Watery Guardian.
+4/20/25 11:08:27p •You sense healing energy from Mimo.
+4/20/25 11:09:07p You have a single coin.
+4/20/25 11:09:48p You dispatched a Watery Guardian.
+4/20/25 11:10:31p •You sense healing energy from Mimo.
+4/20/25 11:12:37p You have a single coin.
+4/20/25 11:16:08p You have a single coin.
+4/20/25 11:17:37p •You sense healing energy from Mimo.
+4/20/25 11:19:38p You have a single coin.
+4/20/25 11:19:38p You slaughtered a Water Burst.
+4/20/25 11:19:39p You slaughtered a Water Burst.
+4/20/25 11:19:46p You slaughtered a Water Burst.
+4/20/25 11:19:47p You slaughtered a Water Burst.
+4/20/25 11:20:21p Brooke Britney thinks, "Wouldn’t you like to see The Puddleby Civic Beautification Society soon? We can do it, but we need your donations!"
+4/20/25 11:21:01p Grando thinks, "if its anything like the extram spam you keep putting into town then no."
+4/20/25 11:21:34p Sauver thinks, "gk for purg plz"
+4/20/25 11:21:48p Sauver is too far away for your explanation.
+4/20/25 11:21:48p You gave signed good karma to Sauver.
+4/20/25 11:22:58p Sauver is no longer Clanning.
+4/20/25 11:22:58p Naferu thinks, "thanks!"
+4/20/25 11:22:59p Darth Wader is no longer Clanning.
+4/20/25 11:23:07p Pookoiko is no longer Clanning.
+4/20/25 11:23:07p You have a single coin.
+4/20/25 11:23:15p Bronko is no longer Clanning.
+4/20/25 11:23:19p Eli is no longer Clanning.
+4/20/25 11:25:20p Naferu is no longer Clanning.
+4/20/25 11:26:35p You have a single coin.
+4/20/25 11:26:39p Jeepers is no longer Clanning.
+4/20/25 11:28:00p • It’s Sombdi night, and the Coliseum will open soon.
+4/20/25 11:28:05p Bulgatra is no longer Clanning.
+4/20/25 11:30:05p You have a single coin.
+4/20/25 11:31:03p You killed a Watery Guardian.
+4/20/25 11:31:44p •You sense healing energy from Mimo.
+4/20/25 11:33:33p You have a single coin.
+4/20/25 11:37:04p You have a single coin.
+4/20/25 11:37:10p •You sense healing energy from Mimo.
+4/20/25 11:38:20p Klur is now Clanning.
+4/20/25 11:38:40p •You sense healing energy from Mimo.
+4/20/25 11:39:12p Saz is now Clanning.
+4/20/25 11:39:21p •The Sun sets.
+4/20/25 11:39:43p Saz is no longer Clanning.
+4/20/25 11:39:52p You slaughtered a Water Burst.
+4/20/25 11:39:53p You slaughtered a Water Burst.
+4/20/25 11:39:54p Julia is now Clanning.
+4/20/25 11:39:54p You slaughtered a Water Burst.
+4/20/25 11:39:54p You slaughtered a Water Burst.
+4/20/25 11:39:57p Ezkeal is no longer Clanning.
+4/20/25 11:39:57p You slaughtered a Water Burst.
+4/20/25 11:40:00p You slaughtered a Water Burst.
+4/20/25 11:40:01p You slaughtered a Water Burst.
+4/20/25 11:40:02p Bach is now Clanning.
+4/20/25 11:40:31p You have a single coin.
+4/20/25 11:40:40p •You sense healing energy from Mimo.
+4/20/25 11:41:42p Haffron is no longer Clanning.
+4/20/25 11:42:41p •You sense healing energy from Mimo.
+4/20/25 11:42:41p • The Coliseum is now open. Win fabulous prizes!
+4/20/25 11:43:25p You slaughtered a Water Burst.
+4/20/25 11:43:26p You slaughtered a Water Burst.
+4/20/25 11:43:28p You slaughtered a Water Burst.
+4/20/25 11:43:59p You have a single coin.
+4/20/25 11:44:13p •You sense healing energy from Mimo.
+4/20/25 11:44:17p •You gain experience.
+4/20/25 11:45:36p Bach is no longer Clanning.
+4/20/25 11:45:41p Amalia is now Clanning.
+4/20/25 11:45:56p •You sense healing energy from Mimo.
+4/20/25 11:47:25p You have a single coin.
+4/20/25 11:47:28p •You sense healing energy from Mimo.
+4/20/25 11:47:59p Nisse is now Clanning.
+4/20/25 11:47:59p Tuzar Bloodblade is now Clanning.
+4/20/25 11:48:01p Zhargon is now Clanning.
+4/20/25 11:48:02p Glaurung is now Clanning.
+4/20/25 11:48:04p Fury is now Clanning.
+4/20/25 11:48:04p Amalia is no longer Clanning.
+4/20/25 11:48:10p Ezkeal is now Clanning.
+4/20/25 11:49:27p •You sense healing energy from Mimo.
+4/20/25 11:50:34p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/20/25 11:50:35p Grando has fallen to a Watery Guardian.
+4/20/25 11:50:55p You have a single coin.
+4/20/25 11:51:34p Mimo starts dragging you.
+4/20/25 11:51:47p •You sense healing energy from Mimo.
+4/20/25 11:51:53p Mimo starts dragging you.
+4/20/25 11:52:35p Shadrock is now Clanning.
+4/20/25 11:52:41p Mimo starts dragging you.
+4/20/25 11:53:11p Azriel is now Clanning.
+4/20/25 11:53:11p Mimo starts dragging you.
+4/20/25 11:53:33p Elenis Reyav is now Clanning.
+4/20/25 11:54:02p Mimo starts dragging you.
+4/20/25 11:54:07p Mimo whispers, "excuse me"
+4/20/25 11:54:26p You have a single coin.
+4/20/25 11:54:46p Reye is now Clanning.
+4/20/25 11:55:03p Shelka exclaims, "The things that come out of the well are disgusting!"
+4/20/25 11:55:19p Moya is now Clanning.
+4/20/25 11:55:38p Grando says, "squib heal me"
+4/20/25 11:55:39p •You sense healing energy from Squib.
+4/20/25 11:55:42p •You sense healing energy from Mimo.
+4/20/25 11:55:48p Koppi yells, "Lion-O reports: It has come to notice that certain old associates will insist that they know me by one of my praenomina. After review of the relevant protocol, I, Titus Kojiro DeLouche St. Thoomignon -"
+4/20/25 11:55:56p Shadowmutt growls, "Woof!"
+4/20/25 11:55:57p Moya is no longer Clanning.
+4/20/25 11:55:58p Shadowmutt scratches itself.
+4/20/25 11:56:15p Squib whispers, "attack"
+4/20/25 11:56:27p Cecil is now Clanning.
+4/20/25 11:56:29p Mimo says, "squib heal me"
+4/20/25 11:56:57p Nuckin Futz is now Clanning.
+4/20/25 11:57:07p Aki is now Clanning.
+4/20/25 11:57:20p Reisa is now Clanning.
+4/20/25 11:57:20p Eli is now Clanning.
+4/20/25 11:57:27p Crius yells, "It’s 8 o’clock, and all’s well."
+4/20/25 11:57:32p Crius yells, "It looks pretty quiet in a dark chamber."
+4/20/25 11:57:44p You have a single coin.
+4/20/25 11:57:49p Talin is now Clanning.
+4/20/25 11:57:50p Deathless is now Clanning.
+4/20/25 11:57:58p Momo is now Clanning.
+4/20/25 11:58:14p Mimi is now Clanning.
+4/20/25 11:58:15p Squib whispers, "attack"
+4/20/25 11:58:28p Als is now Clanning.
+4/20/25 11:58:29p Garfield is now Clanning.
+4/20/25 11:58:34p Mimo is no longer Clanning.
+4/20/25 11:59:02p Captain Barnac says, "I'm sorry, Grando. My fine boats cost 5 coppers."
+4/20/25 11:59:03p Captain Barnac says, "I'm sorry, Grando. My fine boats cost 5 coppers."
+4/20/25 11:59:04p Captain Barnac says, "I'm sorry, Grando. My fine boats cost 5 coppers."
+4/20/25 11:59:05p Captain Barnac says, "I'm sorry, Grando. My fine boats cost 5 coppers."
+4/20/25 11:59:06p Captain Barnac says, "I'm sorry, Grando. My fine boats cost 5 coppers."
+4/20/25 11:59:07p Fird Lirden says, "Nice boats for rent! Come and get them."
+4/20/25 11:59:07p Captain Barnac says, "I'm sorry, Grando. My fine boats cost 5 coppers."
+4/20/25 11:59:08p Captain Barnac says, "I'm sorry, Grando. My fine boats cost 5 coppers."
+4/20/25 11:59:09p Captain Barnac says, "I'm sorry, Grando. My fine boats cost 5 coppers."
+4/20/25 11:59:31p Ghed'rakh asks, "Nothing beats the thrill of the Hunt, don’t you agree?"
+4/20/25 11:59:31p You slaughtered a Myrm Protector.
+4/20/25 11:59:40p Ghed'rakh says, "I’m sorry, Grando, but it seems you’ve already completed my challenge. Please allow others a chance."
+4/21/25 12:00:10a You slaughtered a Myrm Protector.
+4/21/25 12:00:11a You slaughtered a Myrm Protector.
+4/21/25 12:00:12a You slaughtered a Giant Slug.
+4/21/25 12:00:17a Khar Fe'rakh exclaims, "So, Grando, you’d like to try my challenge? Great!"
+4/21/25 12:00:17a Khar Fe'rakh says, "Here are the rules. You shall have 100 minutes to find and kill 50 ferals."
+4/21/25 12:00:18a Khar Fe'rakh says, "If you decline the challenge, move away now. Otherwise, get ready..."
+4/21/25 12:00:21a Khar Fe'rakh exclaims, "So, Grando, you’d like to try my challenge? Great!"
+4/21/25 12:00:21a Khar Fe'rakh says, "Here are the rules. You shall have 100 minutes to find and kill 50 ferals."
+4/21/25 12:00:21a Khar Fe'rakh says, "If you decline the challenge, move away now. Otherwise, get ready..."
+4/21/25 12:00:23a Khar Fe'rakh exclaims, "When you have succeeded, return to me promptly. Now go!"
+4/21/25 12:00:38a You slaughtered a Large Vermine.
+4/21/25 12:00:38a You slaughtered a Vermine.
+4/21/25 12:00:41a You slaughtered a Vermine.
+4/21/25 12:00:48a Qzix is now Clanning.
+4/21/25 12:00:49a You slaughtered a Large Vermine.
+4/21/25 12:00:49a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+4/21/25 12:00:50a You slaughtered a Large Vermine.
+4/21/25 12:00:54a Annabelle is now Clanning.
+4/21/25 12:01:06a You slaughtered a Giant Vermine.
+4/21/25 12:01:07a You slaughtered a Feral.
+4/21/25 12:01:08a You slaughtered a Feral.
+4/21/25 12:01:09a You slaughtered a Feral.
+4/21/25 12:01:09a * You recover the Feral fur, worth 1c. Your share is 1c.
+4/21/25 12:01:15a Qzix is no longer Clanning.
+4/21/25 12:01:15a You slaughtered an Orga.
+4/21/25 12:01:16a You slaughtered a Feral.
+4/21/25 12:01:19a Rose is now Clanning.
+4/21/25 12:01:29a You slaughtered a Large Vermine.
+4/21/25 12:01:29a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+4/21/25 12:01:36a You slaughtered a Starbuck.
+4/21/25 12:01:36a You slaughtered a Vermine.
+4/21/25 12:01:39a You slaughtered a Feral.
+4/21/25 12:01:39a * You recover the Feral fur, worth 1c. Your share is 1c.
+4/21/25 12:01:44a You slaughtered a Vermine.
+4/21/25 12:01:45a You slaughtered a Giant Vermine.
+4/21/25 12:01:46a * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+4/21/25 12:01:56a Rose is no longer Clanning.
+4/21/25 12:01:58a You slaughtered a Grey Feral.
+4/21/25 12:01:59a You slaughtered a Large Vermine.
+4/21/25 12:01:59a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+4/21/25 12:02:01a Annabelle is no longer Clanning.
+4/21/25 12:02:02a Julia is no longer Clanning.
+4/21/25 12:02:03a You slaughtered a Grey Feral.
+4/21/25 12:02:06a You slaughtered a Feral.
+4/21/25 12:02:12a You slaughtered a Grey Feral.
+4/21/25 12:02:13a You slaughtered a Large Vermine.
+4/21/25 12:02:15a You slaughtered a Brown Feral.
+4/21/25 12:02:15a You have 7 coins.
+4/21/25 12:02:16a You slaughtered a Grey Feral.
+4/21/25 12:02:18a You slaughtered a Large Vermine.
+4/21/25 12:02:18a You slaughtered a Large Vermine.
+4/21/25 12:02:19a You slaughtered a Large Vermine.
+4/21/25 12:02:19a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+4/21/25 12:02:23a You slaughtered a Large Vermine.
+4/21/25 12:02:30a You slaughtered a Grey Feral.
+4/21/25 12:02:31a You slaughtered a Grey Feral.
+4/21/25 12:02:36a You slaughtered a Grey Feral.
+4/21/25 12:02:37a You slaughtered a Grey Feral.
+4/21/25 12:02:39a You slaughtered a Large Vermine.
+4/21/25 12:02:39a You slaughtered a Giant Vermine.
+4/21/25 12:02:42a You slaughtered a Grey Feral.
+4/21/25 12:02:45a You slaughtered a Grey Feral.
+4/21/25 12:02:50a You slaughtered a T'rool.
+4/21/25 12:02:51a You slaughtered a Giant Vermine.
+4/21/25 12:02:51a * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+4/21/25 12:02:52a You slaughtered a Feral.
+4/21/25 12:02:56a You slaughtered a Giant Vermine.
+4/21/25 12:02:57a The Acolyte sighs.
+4/21/25 12:02:59a You slaughtered a Grey Feral.
+4/21/25 12:02:59a * You recover the Grey Feral fur, worth 2c. Your share is 2c.
+4/21/25 12:03:01a You slaughtered a Feral.
+4/21/25 12:03:03a You slaughtered a Giant Vermine.
+4/21/25 12:03:03a * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+4/21/25 12:03:08a You slaughtered a Grey Feral.
+4/21/25 12:03:08a * You recover the Grey Feral fur, worth 1c. Your share is 1c.
+4/21/25 12:03:15a You slaughtered a Grey Feral.
+4/21/25 12:03:18a You slaughtered a Grey Feral.
+4/21/25 12:03:28a You slaughtered a Giant Vermine.
+4/21/25 12:03:28a You slaughtered a Giant Vermine.
+4/21/25 12:03:29a * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+4/21/25 12:03:30a You slaughtered a Giant Vermine.
+4/21/25 12:03:31a You slaughtered a Large Vermine.
+4/21/25 12:03:34a You slaughtered a Grey Feral.
+4/21/25 12:03:34a * You recover the Grey Feral fur, worth 1c. Your share is 1c.
+4/21/25 12:03:35a You slaughtered a Giant Vermine.
+4/21/25 12:03:39a You slaughtered a Feral.
+4/21/25 12:03:41a You slaughtered a Large Vermine.
+4/21/25 12:03:42a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+4/21/25 12:03:42a You slaughtered a Feral.
+4/21/25 12:03:42a * You recover the Feral fur, worth 1c. Your share is 1c.
+4/21/25 12:03:44a You slaughtered a Giant Vermine.
+4/21/25 12:03:45a * You recover the Giant Vermine fur, worth 3c. Your share is 3c.
+4/21/25 12:03:46a You slaughtered a Large Vermine.
+4/21/25 12:03:48a You slaughtered a Feral.
+4/21/25 12:03:50a You slaughtered a Feral.
+4/21/25 12:03:53a You slaughtered a Giant Vermine.
+4/21/25 12:03:53a * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+4/21/25 12:03:59a You slaughtered a Giant Vermine.
+4/21/25 12:04:03a You slaughtered a Feral.
+4/21/25 12:04:04a You slaughtered a Giant Vermine.
+4/21/25 12:04:05a You slaughtered a Giant Vermine.
+4/21/25 12:04:07a You slaughtered a Feral.
+4/21/25 12:04:08a You slaughtered an Orga.
+4/21/25 12:04:10a You slaughtered a Large Vermine.
+4/21/25 12:04:11a You slaughtered an Orga.
+4/21/25 12:04:13a You slaughtered an Orga.
+4/21/25 12:04:15a You slaughtered a Rat.
+4/21/25 12:04:21a You slaughtered a Large Vermine.
+4/21/25 12:04:21a You slaughtered a Giant Vermine.
+4/21/25 12:04:23a You slaughtered a Feral.
+4/21/25 12:04:23a * You recover the Feral fur, worth 1c. Your share is 1c.
+4/21/25 12:04:29a Kin is no longer Clanning.
+4/21/25 12:04:30a You slaughtered an Orga.
+4/21/25 12:04:31a You slaughtered a Feral.
+4/21/25 12:04:36a You slaughtered a Large Vermine.
+4/21/25 12:04:36a You slaughtered a Grey Feral.
+4/21/25 12:04:37a * You recover the Grey Feral fur, worth 1c. Your share is 1c.
+4/21/25 12:04:37a You slaughtered a Large Vermine.
+4/21/25 12:04:38a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+4/21/25 12:04:41a You slaughtered a Large Vermine.
+4/21/25 12:04:42a You slaughtered a Grey Feral.
+4/21/25 12:04:42a * You recover the Grey Feral fur, worth 2c. Your share is 2c.
+4/21/25 12:04:42a You slaughtered a Grey Feral.
+4/21/25 12:04:50a Bashak is now Clanning.
+4/21/25 12:04:50a You slaughtered a Grey Feral.
+4/21/25 12:05:00a You slaughtered an Orga.
+4/21/25 12:05:01a You slaughtered an Orga.
+4/21/25 12:05:04a You slaughtered an Orga.
+4/21/25 12:05:05a You slaughtered a Grey Feral.
+4/21/25 12:05:05a * For recovering the fur, you gain experience.
+4/21/25 12:05:05a * You recover the Grey Feral fur, worth 1c. Your share is 1c.
+4/21/25 12:05:07a You slaughtered a Large Vermine.
+4/21/25 12:05:10a You slaughtered a Rat.
+4/21/25 12:05:12a You slaughtered a Large Vermine.
+4/21/25 12:05:18a You slaughtered a Grey Feral.
+4/21/25 12:05:19a You slaughtered an Orga.
+4/21/25 12:05:20a You slaughtered a Grey Feral.
+4/21/25 12:05:24a Rocky is now Clanning.
+4/21/25 12:05:24a You have 27 coins.
+4/21/25 12:05:25a You slaughtered a Feral.
+4/21/25 12:05:25a * Ten more kills for Khar Fe'rakh the Hunter's challenge.
+4/21/25 12:05:26a You slaughtered a Grey Feral.
+4/21/25 12:05:26a * For recovering the fur, you gain experience.
+4/21/25 12:05:26a * You recover the Grey Feral fur, worth 1c. Your share is 1c.
+4/21/25 12:05:32a You slaughtered a Grey Feral.
+4/21/25 12:05:32a You slaughtered a Grey Feral.
+4/21/25 12:05:33a * You recover the Grey Feral fur, worth 1c. Your share is 1c.
+4/21/25 12:05:35a You slaughtered a Feral.
+4/21/25 12:05:35a * You recover the Feral fur, worth 2c. Your share is 2c.
+4/21/25 12:05:40a You slaughtered a Large Vermine.
+4/21/25 12:05:43a You slaughtered a Vermine.
+4/21/25 12:05:50a You slaughtered a Grey Feral.
+4/21/25 12:05:50a * Five more kills for Khar Fe'rakh the Hunter's challenge.
+4/21/25 12:05:51a You slaughtered a Large Vermine.
+4/21/25 12:05:51a You slaughtered a Giant Vermine.
+4/21/25 12:05:56a You slaughtered a Brown Feral.
+4/21/25 12:05:59a You slaughtered a Vermine.
+4/21/25 12:06:00a You slaughtered a Vermine.
+4/21/25 12:06:00a You slaughtered a Brown Feral.
+4/21/25 12:06:02a You slaughtered a Giant Vermine.
+4/21/25 12:06:02a * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+4/21/25 12:06:20a You slaughtered a Feral.
+4/21/25 12:06:24a You slaughtered a Brown Feral.
+4/21/25 12:06:24a * Only one more kill for Khar Fe'rakh the Hunter's challenge.
+4/21/25 12:06:26a You slaughtered a Giant Vermine.
+4/21/25 12:06:26a * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+4/21/25 12:06:35a You slaughtered an Orga.
+4/21/25 12:06:41a You slaughtered an Orga.
+4/21/25 12:06:42a You slaughtered a Large Vermine.
+4/21/25 12:06:43a You slaughtered a Giant Vermine.
+4/21/25 12:06:47a You slaughtered a Large Feral.
+4/21/25 12:06:47a * You have completed the challenge. Return to Khar Fe'rakh the Hunter promptly to receive your reward.
+4/21/25 12:06:51a You slaughtered a Rat.
+4/21/25 12:06:53a You slaughtered a Grey Feral.
+4/21/25 12:06:53a * You have completed the challenge. Return to Khar Fe'rakh the Hunter promptly to receive your reward.
+4/21/25 12:06:55a You slaughtered a Grey Feral.
+4/21/25 12:06:55a * You have completed the challenge. Return to Khar Fe'rakh the Hunter promptly to receive your reward.
+4/21/25 12:06:56a You slaughtered a Grey Feral.
+4/21/25 12:06:56a * You have completed the challenge. Return to Khar Fe'rakh the Hunter promptly to receive your reward.
+4/21/25 12:06:58a You slaughtered a Grey Feral.
+4/21/25 12:06:58a * You have completed the challenge. Return to Khar Fe'rakh the Hunter promptly to receive your reward.
+4/21/25 12:07:06a Arkin is now Clanning.
+4/21/25 12:07:08a You slaughtered a Large Vermine.
+4/21/25 12:07:35a You slaughtered a Large Vermine.
+4/21/25 12:07:36a You slaughtered a Scavenger Bird.
+4/21/25 12:07:39a You slaughtered a Grey Feral.
+4/21/25 12:07:39a * You have completed the challenge. Return to Khar Fe'rakh the Hunter promptly to receive your reward.
+4/21/25 12:07:56a You slaughtered an Island Panther.
+4/21/25 12:07:59a You slaughtered an Island Panther.
+4/21/25 12:08:00a You slaughtered a Large Vermine.
+4/21/25 12:08:07a You slaughtered a Myrm Protector.
+4/21/25 12:08:07a * You recover the Myrm Protector mandibles, worth 1c. Your share is 1c.
+4/21/25 12:08:08a Sephroth is now Clanning.
+4/21/25 12:08:09a Arkin is no longer Clanning.
+4/21/25 12:08:13a Stuenora says, "Oh. I'm sorry, Grando, you cannot afford 358 coins to tune your sunstone."
+4/21/25 12:08:13a Stuenora says, "Oh. I'm sorry, Grando, you cannot afford 358 coins to tune your sunstone."
+4/21/25 12:08:19a You slaughtered a Vermine.
+4/21/25 12:08:21a You slaughtered a Myrm Protector.
+4/21/25 12:08:25a • You earn experience and 200 coins.
+4/21/25 12:08:25a Khar Fe'rakh says, "Excellent work, Grando! You’ve succeeded splendidly."
+4/21/25 12:08:25a Khar Fe'rakh says, "In recognition of your fine work, please accept this feral head."
+4/21/25 12:08:28a You slaughtered a Myrm Protector.
+4/21/25 12:08:32a You drop your feral head.
+4/21/25 12:08:34a Hashak is now Clanning.
+4/21/25 12:08:36a •Your ability to store energy from the world improves.
+4/21/25 12:08:37a You have 236 coins.
+4/21/25 12:08:39a Lanskar is now Clanning.
+4/21/25 12:09:29a Captain Barnac asks, "Ah, Grando. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+4/21/25 12:09:29a Grando whispers, "yes"
+4/21/25 12:09:43a Stonehand is now Clanning.
+4/21/25 12:09:47a Lanskar is no longer Clanning.
+4/21/25 12:09:57a You slaughtered an Adult Rockodile.
+4/21/25 12:10:02a You slaughtered an Adult Rockodile.
+4/21/25 12:10:07a You slaughtered an Adult Rockodile.
+4/21/25 12:10:09a You slaughtered a Great Rockodile.
+4/21/25 12:10:12a You slaughtered an Adult Rockodile.
+4/21/25 12:10:32a You slaughtered an Island Panther.
+4/21/25 12:10:41a You slaughtered an Island Panther.
+4/21/25 12:10:44a You slaughtered an Artak Cougar.
+4/21/25 12:10:44a You slaughtered an Island Panther.
+4/21/25 12:10:45a You slaughtered an Island Panther.
+4/21/25 12:10:47a You slaughtered a Bloodthorn.
+4/21/25 12:10:50a You slaughtered an Island Panther.
+4/21/25 12:10:51a You slaughtered a Maha Ruknee.
+4/21/25 12:10:53a You slaughtered an Island Panther.
+4/21/25 12:10:55a You slaughtered a Bloodthorn.
+4/21/25 12:11:07a You slaughtered a Bloodthorn.
+4/21/25 12:11:08a You slaughtered an Island Panther.
+4/21/25 12:11:08a You slaughtered an Island Panther.
+4/21/25 12:11:10a You slaughtered a Bloodthorn.
+4/21/25 12:11:21a You slaughtered a Vermine.
+4/21/25 12:11:22a You slaughtered a Rat.
+4/21/25 12:11:22a You slaughtered a Large Vermine.
+4/21/25 12:11:23a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+4/21/25 12:11:48a You have 232 coins.
+4/21/25 12:12:42a Grando whispers, "roach"
+4/21/25 12:12:42a Something whispers, "It's good to see you, Grando. Please go on in."
+4/21/25 12:12:55a Garre Verminebane says, "It's good to see you again, Grando. I trust that you have been pursuing our craft diligently."
+4/21/25 12:12:59a Garre Verminebane exclaims, "You have the training to study more unusual creatures. Choose your subjects wisely!"
+4/21/25 12:13:11a Splash O'Sul says, "Hail, Grando. You are progressing well."
+4/21/25 12:13:11a * Splash : 30-39.
+4/21/25 12:13:21a Jeepers is now Clanning.
+4/21/25 12:13:21a Respin Verminbane says, "Hail, Grando. You have much to learn."
+4/21/25 12:13:21a * Respin : 0-9.
+4/21/25 12:13:21a Respin Verminbane says, "I can teach you to channel energy from the world more efficiently."
+4/21/25 12:13:58a You slaughtered a Vermine.
+4/21/25 12:13:59a You slaughtered a Vermine.
+4/21/25 12:14:13a You slaughtered an Artak Cougar.
+4/21/25 12:14:21a You slaughtered an Artak Cougar.
+4/21/25 12:14:26a You slaughtered an Artak Cougar.
+4/21/25 12:14:32a You slaughtered an Island Panther.
+4/21/25 12:14:32a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+4/21/25 12:14:35a You slaughtered a Bloodthorn.
+4/21/25 12:14:38a You slaughtered an Artak Cougar.
+4/21/25 12:14:55a You slaughtered an Adult Rockodile.
+4/21/25 12:15:00a You have 233 coins.
+4/21/25 12:15:13a Nemo asks, "Ah, Grando. My fine boats cost 20 copper pennies. Would you like to rent one now?"
+4/21/25 12:15:13a Grando whispers, "yes"
+4/21/25 12:15:53a Eli says, "i dont think i will be there that long even hehe"
+4/21/25 12:15:57a Jeepers says, "k"
+4/21/25 12:16:03a Bronko is now Clanning.
+4/21/25 12:16:25a Shadrock is no longer Clanning.
+4/21/25 12:16:32a Koppi yells, "Sir Didymus reports: Where is Ambrosius? Ambrosius?!!"
+4/21/25 12:17:46a Eli says, "running bro"
+4/21/25 12:18:14a You have 213 coins.
+4/21/25 12:18:19a Sauver is now Clanning.
+4/21/25 12:18:54a Jeepers says, "brb"
+4/21/25 12:19:08a You equip your heartwood charm.
+4/21/25 12:19:08a Eli asks, "rocky you want to come?"
+4/21/25 12:19:08a • You gather your energy.
+4/21/25 12:19:11a • You speed up.
+4/21/25 12:19:16a • You slow down to normal speed.
+4/21/25 12:19:17a You slip your heartwood charm into your backpack.
+4/21/25 12:19:19a Shadowmutt growls, "Grrr."
+4/21/25 12:20:09a Omega is now Clanning.
+4/21/25 12:21:24a You have 213 coins.
+4/21/25 12:21:43a Koppi yells, "Lion-O reports: ..Lord Seaforth, Imperial Navy Commander in absentia, Organicus, the Bolt-Scarred, etc etc, aver that it is acceptable for Crunch, Haffron, Naferu and similar persons to refer to him as "Lord Admiral Kojiro", should that fit their comfort and habit."
+4/21/25 12:21:47a Omega is no longer Clanning.
+4/21/25 12:22:05a Stonehand says, "ill swap to sabriel"
+4/21/25 12:22:09a Hashak asks, "what trook you so long?"
+4/21/25 12:22:12a Stonehand says, "she hasn't won it yet"
+4/21/25 12:22:17a Sabriel is now Clanning.
+4/21/25 12:22:43a Sabriel says, "les go"
+4/21/25 12:23:01a Sabriel yells, "crayons?"
+4/21/25 12:23:39a Fury is no longer Clanning.
+4/21/25 12:23:43a Rocky is no longer Clanning.
+4/21/25 12:24:02a Zhargon is no longer Clanning.
+4/21/25 12:24:05a Glaurung is no longer Clanning.
+4/21/25 12:24:08a Nisse is no longer Clanning.
+4/21/25 12:24:11a Tuzar Bloodblade is no longer Clanning.
+4/21/25 12:24:33a You have 213 coins.
+4/21/25 12:25:24a You slaughtered a Giant Slug.
+4/21/25 12:25:26a Borzon is now Clanning.
+4/21/25 12:25:50a You slaughtered a Leech.
+4/21/25 12:25:55a You slaughtered a Large Vermine.
+4/21/25 12:25:55a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+4/21/25 12:26:07a * You need a breath of air!
+4/21/25 12:26:53a Mimo is now Clanning.
+4/21/25 12:27:42a You have 214 coins.
+4/21/25 12:28:54a You begin sharing your experiences with Mimo.
+4/21/25 12:28:54a You are sharing experiences with Mimo and Squib.
+4/21/25 12:30:26a You slaughtered a Water Burst.
+4/21/25 12:30:38a •You sense healing energy from Mimo.
+4/21/25 12:30:57a You have 214 coins.
+4/21/25 12:31:09a You killed a Watery Guardian.
+4/21/25 12:31:11a You slaughtered a Water Burst.
+4/21/25 12:31:26a Atallan is now Clanning.
+4/21/25 12:31:35a You killed a Watery Guardian.
+4/21/25 12:31:41a •You sense healing energy from Mimo.
+4/21/25 12:32:03a Azriel is no longer Clanning.
+4/21/25 12:32:34a You killed a Watery Guardian.
+4/21/25 12:32:41a You slaughtered a Water Burst.
+4/21/25 12:32:46a You slaughtered a Water Burst.
+4/21/25 12:32:49a You slaughtered a Water Burst.
+4/21/25 12:33:16a •You sense healing energy from Mimo.
+4/21/25 12:34:10a You have 214 coins.
+4/21/25 12:34:23a •You sense healing energy from Mimo.
+4/21/25 12:34:56a You dispatched a Watery Guardian.
+4/21/25 12:35:12a •You sense healing energy from Mimo.
+4/21/25 12:36:26a •You sense healing energy from Mimo.
+4/21/25 12:37:22a You have 214 coins.
+4/21/25 12:37:29a You killed a Watery Guardian.
+4/21/25 12:38:03a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/21/25 12:38:04a Grando has fallen to a Watery Guardian.
+4/21/25 12:39:35a Mimo starts dragging you.
+4/21/25 12:40:37a Forbeen says, "Honored guest, Master Lugubrion regretfully informs me that you are not permitted beyond this point."
+4/21/25 12:40:43a You have 214 coins.
+4/21/25 12:40:44a Mimo starts dragging you.
+4/21/25 12:41:10a Mimo starts dragging you.
+4/21/25 12:42:04a Mimo starts dragging you.
+4/21/25 12:42:32a Acolyte ponders, "Does moss grow on the south side of trees? I can never remember."
+4/21/25 12:43:07a Tomair ponders, "zzzz...."
+4/21/25 12:43:26a •You sense healing energy from Mimo.
+4/21/25 12:43:35a Grando says, "squib heal me"
+4/21/25 12:43:36a •You sense healing energy from Squib.
+4/21/25 12:44:00a You have 214 coins.
+4/21/25 12:44:15a Squib whispers, "attack"
+4/21/25 12:44:24a Grando says, "squib heal me"
+4/21/25 12:44:35a Grando says, "squib heal mimio"
+4/21/25 12:44:39a Willikers hunts a shadow.
+4/21/25 12:44:41a Grando says, "squib heal mimo"
+4/21/25 12:46:15a Squib whispers, "attack"
+4/21/25 12:46:17a Willikers nuzzles Hashak.
+4/21/25 12:46:30a Atallan is a Human, is male, is a Ranger, and is not wearing the symbol of any clan.
+4/21/25 12:47:11a You have become skilled.
+4/21/25 12:47:11a You are currently studying the Watery Guardian, and have a vast amount to learn.
+4/21/25 12:47:12a You have 214 coins.
+4/21/25 12:47:38a Koppi yells, "Sir Didymus reports: Where is Ambrosius? Ambrosius?!!"
+4/21/25 12:47:56a Pirate is now Clanning.
+4/21/25 12:48:15a Squib whispers, "attack"
+4/21/25 12:49:59a 'REFELECT' is not a recognized command.
+4/21/25 12:50:05a •You can study up to 2 creatures concurrently.
+4/21/25 12:50:05a •You are currently studying the Watery Guardian, and have a vast amount to learn.
+4/21/25 12:50:05a •You are remembering your studies of the Shadowcat, and have almost nothing left to learn.
+4/21/25 12:50:06a •You have studied the following creatures:
+4/21/25 12:50:06a Tawny Yorilla, Water Burst, Watery Guardian.
+4/21/25 12:50:15a Squib whispers, "attack"
+4/21/25 12:50:22a Willikers rolls on the ground.
+4/21/25 12:50:30a You have 214 coins.
+4/21/25 12:50:46a Eagürd nods and smiles at Grando.
+4/21/25 12:50:47a You slaughtered a Myrm Protector.
+4/21/25 12:50:48a * You recover the Myrm Protector mandibles, worth 1c. Your share is 1c.
+4/21/25 12:50:48a You slaughtered a Myrm Protector.
+4/21/25 12:51:08a Pirate is no longer Clanning.
+4/21/25 12:51:12a You slaughtered a Myrm Scout.
+4/21/25 12:51:24a You slaughtered a Vermine.
+4/21/25 12:51:26a Shobaffum is now Clanning.
+4/21/25 12:51:30a You slaughtered a Winged Snake.
+4/21/25 12:51:31a You slaughtered a Leech.
+4/21/25 12:51:45a You slaughtered a Vermine.
+4/21/25 12:51:59a * You need a breath of air!
+4/21/25 12:53:44a You have 215 coins.
+4/21/25 12:55:06a You killed a Watery Guardian.
+4/21/25 12:55:21a •You sense healing energy from Mimo.
+4/21/25 12:56:04a • It’s Midnight on Soldi, the 24th day of Spring in the 641st year of the Ascendancy, and all’s well.
+4/21/25 12:56:58a You have 215 coins.
+4/21/25 12:57:53a •You sense healing energy from Mimo.
+4/21/25 12:58:56a You dispatched a Watery Guardian.
+4/21/25 12:59:10a You dispatched a Watery Guardian.
+4/21/25 12:59:19a •You sense healing energy from Mimo.
+4/21/25 12:59:42a Grand Master is now Clanning.
+4/21/25 1:00:11a You have 215 coins.
+4/21/25 1:00:43a •You sense healing energy from Mimo.
+4/21/25 1:01:21a Ezkeal is no longer Clanning.
+4/21/25 1:01:32a You killed a Watery Guardian.
+4/21/25 1:01:50a You killed a Watery Guardian.
+4/21/25 1:01:59a •You sense healing energy from Mimo.
+4/21/25 1:02:10a Maximiliaan is now Clanning.
+4/21/25 1:02:39a •You sense healing energy from Mimo.
+4/21/25 1:03:05a •You sense healing energy from Mimo.
+4/21/25 1:03:25a You have 215 coins.
+4/21/25 1:03:33a Tomair is no longer Clanning.
+4/21/25 1:03:44a You killed a Watery Guardian.
+4/21/25 1:03:51a •You sense healing energy from Mimo.
+4/21/25 1:05:12a Maximiliaan is no longer Clanning.
+4/21/25 1:05:44a •You sense healing energy from Mimo.
+4/21/25 1:06:40a You have 215 coins.
+4/21/25 1:07:52a You killed a Watery Guardian.
+4/21/25 1:08:44a •You sense healing energy from Mimo.
+4/21/25 1:09:52a You have 215 coins.
+4/21/25 1:10:50a Jeepers is no longer Clanning.
+4/21/25 1:12:39a Shobaffum is no longer Clanning.
+4/21/25 1:12:48a Grand Master is no longer Clanning.
+4/21/25 1:13:00a Eli is no longer Clanning.
+4/21/25 1:13:07a You have 215 coins.
+4/21/25 1:13:25a Sauver is no longer Clanning.
+4/21/25 1:13:34a Bronko is no longer Clanning.
+4/21/25 1:16:12a Reye thinks, "n"
+4/21/25 1:16:22a You have 215 coins.
+4/21/25 1:17:26a •You gain experience.
+4/21/25 1:19:17a Atallan is no longer Clanning.
+4/21/25 1:19:35a You have 215 coins.
+4/21/25 1:20:12a You killed a Watery Guardian.
+4/21/25 1:20:59a •You sense healing energy from Mimo.
+4/21/25 1:22:46a You have 215 coins.
+4/21/25 1:25:35a Vylarian is now Clanning.
+4/21/25 1:25:56a You have 215 coins.
+4/21/25 1:26:01a You dispatched a Watery Guardian.
+4/21/25 1:26:15a You have become skilled.
+4/21/25 1:26:15a You are currently studying the Watery Guardian, and have a vast amount to learn.
+4/21/25 1:26:23a •You sense healing energy from Mimo.
+4/21/25 1:26:40a Shadrock is now Clanning.
+4/21/25 1:27:43a You slaughtered a Water Burst.
+4/21/25 1:27:50a You slaughtered a Water Burst.
+4/21/25 1:27:53a You slaughtered a Water Burst.
+4/21/25 1:29:09a You have 215 coins.
+4/21/25 1:30:10a Atallan is now Clanning.
+4/21/25 1:32:18a You have 215 coins.
+4/21/25 1:35:29a You have 215 coins.
+4/21/25 1:35:41a Shadrock is no longer Clanning.
+4/21/25 1:35:51a Sabriel thinks, "come back"
+4/21/25 1:36:58a You dispatched a Watery Guardian.
+4/21/25 1:37:43a •You sense healing energy from Mimo.
+4/21/25 1:38:37a •You sense healing energy from Mimo.
+4/21/25 1:38:40a You have 215 coins.
+4/21/25 1:39:09a Botania is now Clanning.
+4/21/25 1:39:10a You dispatched a Watery Guardian.
+4/21/25 1:39:30a You killed a Watery Guardian.
+4/21/25 1:39:37a •You sense healing energy from Mimo.
+4/21/25 1:39:45a Schmu is now Clanning.
+4/21/25 1:40:15a Schmu is no longer Clanning.
+4/21/25 1:40:24a •You sense healing energy from Mimo.
+4/21/25 1:40:27a Botania is no longer Clanning.
+4/21/25 1:40:30a Naima is now Clanning.
+4/21/25 1:40:35a Fabric is now Clanning.
+4/21/25 1:41:04a Fabric is no longer Clanning.
+4/21/25 1:41:09a Vylarian thinks, "if i fall it is in vermine tree"
+4/21/25 1:41:11a Botania is now Clanning.
+4/21/25 1:41:31a You dispatched a Watery Guardian.
+4/21/25 1:41:36a •You sense healing energy from Mimo.
+4/21/25 1:41:50a You have 215 coins.
+4/21/25 1:42:19a You dispatched a Watery Guardian.
+4/21/25 1:42:29a •You sense healing energy from Mimo.
+4/21/25 1:43:11a •You sense healing energy from Mimo.
+4/21/25 1:43:44a Talin thinks, "vylarian down to artak, usually n SF. could someone check on him pls?"
+4/21/25 1:43:59a You killed a Watery Guardian.
+4/21/25 1:44:03a •You sense healing energy from Mimo.
+4/21/25 1:44:04a Sabriel thinks, "out"
+4/21/25 1:44:30a You concentrate on sending your message to Vylarian.
+4/21/25 1:44:30a You think to Vylarian, "toggle if need help"
+4/21/25 1:44:57a Vylarian is sharing experiences with you.
+4/21/25 1:45:00a You have 215 coins.
+4/21/25 1:45:04a Vylarian is no longer sharing experiences with you.
+4/21/25 1:45:08a Vylarian is sharing experiences with you.
+4/21/25 1:45:30a Vylarian is still fallen to an Artak Cougar.
+4/21/25 1:45:33a You concentrate on sending your message to Vylarian.
+4/21/25 1:45:33a You think to Vylarian, "omw"
+4/21/25 1:45:46a You pick up a chain.
+4/21/25 1:46:00a You equip your heartwood charm.
+4/21/25 1:46:00a • You gather your energy.
+4/21/25 1:46:03a • You speed up.
+4/21/25 1:46:43a You slaughtered a Vermine.
+4/21/25 1:47:09a You slaughtered a Scavenger Bird.
+4/21/25 1:47:16a Fortuna is now Clanning.
+4/21/25 1:47:21a You slaughtered a Vermine.
+4/21/25 1:47:21a Borzon thinks, "Can anyone grab Vylarian, down to an Artak COugar in South forest."
+4/21/25 1:47:23a You slaughtered a Rat.
+4/21/25 1:47:26a Grando thinks, "on it"
+4/21/25 1:47:28a Momo is no longer Clanning.
+4/21/25 1:47:33a You slaughtered a Rat.
+4/21/25 1:47:36a You slaughtered an Artak Cougar.
+4/21/25 1:47:40a Als is no longer Clanning.
+4/21/25 1:47:45a You slaughtered a Large Vermine.
+4/21/25 1:47:45a You slaughtered an Artak Cougar.
+4/21/25 1:47:45a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+4/21/25 1:47:45a Borzon thinks, "Seems to be either mirror or VT column."
+4/21/25 1:47:46a You slaughtered an Artak Cougar.
+4/21/25 1:47:47a * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+4/21/25 1:47:53a You slaughtered an Artak Cougar.
+4/21/25 1:47:57a Mimi is no longer Clanning.
+4/21/25 1:48:07a You don't seem to see Vylarian anywhere near here.
+4/21/25 1:48:09a You have 220 coins.
+4/21/25 1:48:09a You slaughtered a Large Vermine.
+4/21/25 1:48:14a You slaughtered a Large Vermine.
+4/21/25 1:48:14a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+4/21/25 1:48:18a You don't seem to see Vylarian anywhere near here.
+4/21/25 1:48:19a Sabriel is no longer Clanning.
+4/21/25 1:48:24a You slaughtered an Island Panther.
+4/21/25 1:48:24a * You recover the Island Panther fur, worth 4c. Your share is 4c.
+4/21/25 1:48:30a Vylarian has been fallen for some time because of an Artak Cougar.
+4/21/25 1:48:35a You don't seem to see Vylarian anywhere near here.
+4/21/25 1:48:36a You slaughtered an Island Panther.
+4/21/25 1:48:38a Fortuna is no longer Clanning.
+4/21/25 1:48:38a You slaughtered an Artak Cougar.
+4/21/25 1:48:52a You don't seem to see Vylarian anywhere near here.
+4/21/25 1:48:56a You slaughtered an Orga.
+4/21/25 1:49:02a You hand Vylarian a single coin. You have 224 remaining.
+4/21/25 1:49:03a You slaughtered an Orga.
+4/21/25 1:49:07a Vylarian yells, "here"
+4/21/25 1:49:08a Grando yells, "?"
+4/21/25 1:49:10a You slaughtered a Large Vermine.
+4/21/25 1:49:10a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+4/21/25 1:49:11a You slaughtered a Vermine.
+4/21/25 1:49:11a You slaughtered a Vermine.
+4/21/25 1:49:12a You slaughtered an Island Panther.
+4/21/25 1:49:12a You slaughtered a Vermine.
+4/21/25 1:49:13a You slaughtered a Vermine.
+4/21/25 1:49:14a You slaughtered a Vermine.
+4/21/25 1:49:15a You slaughtered a Small Arachne.
+4/21/25 1:49:16a You slaughtered an Artak Cougar.
+4/21/25 1:49:16a Borzon is no longer Clanning.
+4/21/25 1:49:16a * You recover the Artak Cougar fur, worth 1c. Your share is 1c.
+4/21/25 1:49:19a You slaughtered a Vermine.
+4/21/25 1:49:23a Aki thinks, "Vylarian fallen to Artak cougar somewhere in SF... Anyone?"
+4/21/25 1:49:25a You slaughtered an Artak Cougar.
+4/21/25 1:49:25a You slaughtered a Vermine.
+4/21/25 1:49:29a Grando thinks, "on it"
+4/21/25 1:49:30a You slaughtered a Vermine.
+4/21/25 1:49:32a You slaughtered a Summer Artak.
+4/21/25 1:49:36a You slaughtered an Artak Cougar.
+4/21/25 1:49:36a A Rat pokes at Vylarian's entrails.
+4/21/25 1:49:36a You slaughtered a Vermine.
+4/21/25 1:49:37a You slaughtered a Vermine.
+4/21/25 1:49:38a You slaughtered a Vermine.
+4/21/25 1:49:38a You slaughtered a Vermine.
+4/21/25 1:49:42a You slaughtered an Artak Cougar.
+4/21/25 1:49:46a You slaughtered a Vermine.
+4/21/25 1:49:48a You slaughtered a Vermine.
+4/21/25 1:49:48a Hashak thinks, "I'm goin lookin'!"
+4/21/25 1:49:49a You slaughtered a Large Vermine.
+4/21/25 1:49:49a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+4/21/25 1:49:57a Grando thinks, "im in the same snell"
+4/21/25 1:49:57a A Rat tears at Vylarian's wounds.
+4/21/25 1:49:58a You slaughtered an Orga.
+4/21/25 1:50:00a You slaughtered a Rat.
+4/21/25 1:50:01a You slaughtered a Vermine.
+4/21/25 1:50:07a You equip your chain.
+4/21/25 1:50:10a A Rat tears at Vylarian's toes.
+4/21/25 1:50:10a You start dragging Vylarian.
+4/21/25 1:50:24a Vylarian says, "was trying to pop vermine tree for shooting star messages"
+4/21/25 1:50:35a Stonehand thinks, "vermine tree"
+4/21/25 1:50:38a Hashak yells, "HAMBONE!"
+4/21/25 1:50:40a Vylarian yells, "here"
+4/21/25 1:50:46a Grando thinks, "on my chain right now"
+4/21/25 1:51:18a You have 228 coins.
+4/21/25 1:51:30a Vylarian has been fallen for some time because of an Artak Cougar.
+4/21/25 1:51:41a You slip your chain into your backpack.
+4/21/25 1:51:49a Grando says, "they must be going deaf"
+4/21/25 1:51:53a Bashak says, "oh, Hash is very confused right now"
+4/21/25 1:51:58a • /SLEEP when you wish to begin studying.
+4/21/25 1:52:02a • /SLEEP when you wish to begin studying.
+4/21/25 1:52:03a • You slow down to normal speed.
+4/21/25 1:52:03a You slip your heartwood charm into your backpack.
+4/21/25 1:52:07a Use \SLEEP again when you return.
+4/21/25 1:52:07a You are done adventuring for a while and will be studying here.
+4/21/25 1:52:08a You have been disconnected from Clan Lord.
+4/21/25 1:52:08a • You will benefit from studying here while you are off-line.
+4/21/25 1:52:09a *** We are no longer connected to the Clan Lord game server. ***
+4/21/25 1:52:16a * Your pair of pants named “dark grey” is in very good condition.
+4/21/25 1:52:16a * Your pair of shoes named “purple” is in very good condition.
+4/21/25 1:52:16a * Your shirt named “dark grey” is in very good condition.
+4/21/25 1:52:16a Welcome to Clan Lord, Grando!
+4/21/25 1:52:16a Type \HELP for a list of commands.
+4/21/25 1:52:16a Grando is now Clanning.
+4/21/25 1:52:16a You have been studying for 36 seconds.
+4/21/25 1:52:19a It's 3:50am on Soldi, day 24 of Spring, 641.
+4/21/25 1:52:20a Friends online: none.
+4/21/25 1:52:21a There are two members of Black Phoenix clanning: Mimo and you.
+4/21/25 1:52:21a • What’s New: https://deltatao.com/clanlord/news
+4/21/25 1:52:23a Use \SLEEP again when you return.
+4/21/25 1:52:23a You are done adventuring for a while and will be staying here.
+4/21/25 1:52:24a You have been disconnected from Clan Lord.
+4/21/25 1:52:24a • You will benefit from staying here while you are off-line.
+4/21/25 1:52:25a *** We are no longer connected to the Clan Lord game server. ***

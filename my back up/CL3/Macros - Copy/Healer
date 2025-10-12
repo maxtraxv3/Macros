@@ -1,0 +1,117 @@
+// simply open Character file in macros folder, with any text editor and add this line on top " include "Healer.txt" " and copy and paste this file into the macro folder. 
+//Right Click = Range Heal that person (right click on screen or in player list)
+//F1 = moonstone self heal loop
+//F2 = Radius Heal / Healing Aura
+//F3 = Heal Pet
+//F4 = Tell Pet to Attack
+//F5 = Tell Pet to Stay
+//F6 = Tell Pet to Follow Hand Signs
+//F9 = Send Pet Home/to Stables
+//F10 = Purgatory Pendant
+// /shcads = Dynamic Sharecads v1.3.1 By Gorvin, helps healer healing you in party/hunts.
+
+//you will have to modify this for your own personal healer items, but everything you need to change is explain how.
+
+//MACRO Refrances: 
+//https://clump.clanlord.net/library/index.php?title=Healing#Moonstone
+//https://clanlord.net/moonstone_functions-template.php
+//Pets video by Destian https://www.youtube.com/watch?v=I6ejD_9X1io
+//http://gorvin.50webs.com/macros/
+
+@login
+{
+message "Type /healer for commands if you forget"
+}
+
+"/healer"
+{
+message "Right Click = Range Heal that person (right click on screen or in player list)"
+pause 1
+message "F1 = moonstone self heal loop"
+pause 1
+message "F2 = Radius Heal / Healing Aura"
+pause 1
+message "F3 = Heal Pet"
+pause 1
+message "F4 = Tell Pet to Attack"
+pause 1
+message "F5 = Tell Pet to Stay"
+pause 1
+message "F6 = Tell Pet to Follow Hand Signs"
+pause 1
+message "F10 = Purgatory Pendant"
+pause 1
+message "/shcads = Dynamic Sharecads"
+}
+
+click2
+{
+if @my.right_item != "Asklepian Staff"// change "Asklepian Staff" to "Caduceus" for Caduceus, to "Mercurial Staff" for Mercurial Staff and "Asklepian" for Asklepian
+"/equip asklepianstaff\r" // change "/equip asklepianstaff\r" to "/equip caduceus\r" for Caduceus, "/equip mercurialstaff\r" for , "/equip asklepian\r" for Asklepian
+end if
+"/use " @clicksplayer " \r"
+end if
+}
+
+F1
+{
+label top
+set @env.key_interrupts true
+if @my.right_item != "moonstone"
+"/equip moonstone\r"
+end if
+"/use \r" //you can also change the amount of healing and spirt it uses by chaneing the command to "/use 2 \r" just change the number to higher amount for more times every time this loops
+pause 5 //change the for moonstone self heal speed, mindful that you need modify for spirt recovery.
+goto top
+}
+
+F2
+{
+if @my.right_item != "Asklepian Staff" // change "Asklepian Staff" to "Caduceus" for Caduceus
+"/equip asklepianstaff\r" // change "/equip asklepianstaff\r" to "/equip caduceus\r" for Caduceus
+end if
+"/use \r"
+}
+
+F3
+{
+if @my.right_item != "Asklepian Staff"// change "Asklepian Staff" to "Caduceus" for Caduceus, to "Mercurial Staff" for Mercurial Staff and "Asklepian" for Asklepian
+"/equip asklepianstaff\r" // change "/equip asklepianstaff\r" to "/equip caduceus\r" for Caduceus, "/equip mercurialstaff\r" for , "/equip asklepian\r" for Asklepian
+end if
+"/use /pet \r"
+}
+
+F4
+{
+"/whisper Attack\r" // these are the defaults if you change them you will have to modify these commands
+}
+
+F5
+{
+"/whisper Stay\r" // these are the defaults if you change them you will have to modify these commands
+}
+
+F6
+{
+"/whisper Obey\r" // these are the defaults if you change them you will have to modify these commands
+}
+
+F9
+{
+"/whisper Go home\r" // these are the defaults if you change them you will have to modify these commands
+}
+
+F10 //ESCAPE!
+{
+if @my.neck_item != "Purgatory Pendant"
+"/equip purgatorypendant\r"
+end if
+"/useitem purgatorypendant\r"
+pause 120
+if @my.neck_item == "Purgatory Pendant"
+"/unequip purgatorypendant\r"
+end if
+}
+
+
+

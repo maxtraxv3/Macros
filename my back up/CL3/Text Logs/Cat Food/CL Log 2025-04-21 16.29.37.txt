@@ -1,0 +1,848 @@
+
+4/21/25 4:29:37p * Your healer's shirt is in nearly perfect condition.
+4/21/25 4:29:37p * Your pair of second-circle pants named “white” is in nearly perfect condition.
+4/21/25 4:29:37p Welcome to Clan Lord, Cat Food!
+4/21/25 4:29:37p Type \HELP for a list of commands.
+4/21/25 4:29:37p • You gain experience from your recent studies.
+4/21/25 4:29:37p *Healer Mode
+4/21/25 4:29:37p *Type /hi help for more info
+4/21/25 4:29:37p The healing spell has started.
+4/21/25 4:29:37p You have been studying for 11 days, 10 hours, 38 minutes.
+4/21/25 4:29:40p It's 3:39pm on Gradi, day 26 of Spring, 641.
+4/21/25 4:29:42p There are three members of Black Phoenix clanning: Grando, Mimo and you.
+4/21/25 4:29:42p • What’s New: https://deltatao.com/clanlord/news
+4/21/25 4:29:44p Friends online: none.
+4/21/25 4:29:52p * Tip of the day: The lands are more deadly at night! (Use /OPTIONS to turn tips off.)
+4/21/25 4:30:04p •You seem to recover spiritual energy faster.
+4/21/25 4:30:58p * You need a breath of air!
+4/21/25 4:31:20p •The healing spell has been broken.
+4/21/25 4:31:35p •You seem to recover spiritual energy faster.
+4/21/25 4:31:47p You have no 'asklepian staff' to equip.
+4/21/25 4:31:47p * Healing Grando 
+4/21/25 4:31:47p •Grando’s injuries were serious.
+4/21/25 4:32:07p Grando is sharing experiences with you.
+4/21/25 4:32:32p Grando says, "c heal mimo"
+4/21/25 4:32:32p You have no 'asklepian staff' to equip.
+4/21/25 4:32:33p * Auto Healing  
+4/21/25 4:32:33p • You begin radius healing.
+4/21/25 4:32:41p Grando says, "c heal mimo"
+4/21/25 4:32:42p No player named 'healing.' found in the player list.
+4/21/25 4:32:42p You have no 'asklepian staff' to equip.
+4/21/25 4:32:42p * Auto Healing  
+4/21/25 4:32:42p • You stop radius healing.
+4/21/25 4:32:57p You have 148 coins.
+4/21/25 4:33:14p * Healer Item set to asklepian 
+4/21/25 4:33:19p Grando says, "c heal mimo"
+4/21/25 4:33:19p * Auto Healing Mimo 
+4/21/25 4:34:27p Grando says, "c heal mimo"
+4/21/25 4:34:28p No player named 'heal' found in the player list.
+4/21/25 4:34:28p * Auto Healing  
+4/21/25 4:34:28p • You begin radius healing.
+4/21/25 4:34:28p • There is nobody nearby enough to continue radius healing.
+4/21/25 4:34:31p Grando says, "c heal mimo"
+4/21/25 4:34:32p * Auto Healing Mimo 
+4/21/25 4:34:32p •Mimo was too wounded to be healed easily.
+4/21/25 4:34:57p Grando says, "c heal grando"
+4/21/25 4:34:57p * Auto Healing Grando 
+4/21/25 4:35:57p Grando says, "c heal mimo"
+4/21/25 4:35:58p * Auto Healing Mimo 
+4/21/25 4:36:32p Grando says, "c heal grando"
+4/21/25 4:36:32p * Auto Healing Grando 
+4/21/25 4:36:50p You have 148 coins.
+4/21/25 4:37:06p Grando says, "c heal mimo"
+4/21/25 4:37:06p No player named 'heal' found in the player list.
+4/21/25 4:37:07p * Auto Healing  
+4/21/25 4:37:07p • You begin radius healing.
+4/21/25 4:37:29p Grando says, "c heal grando"
+4/21/25 4:37:30p * Auto Healing Grando 
+4/21/25 4:39:32p Grando says, "c heal grando"
+4/21/25 4:39:32p No player named 'heal' found in the player list.
+4/21/25 4:39:32p * Auto Healing  
+4/21/25 4:39:32p • You begin radius healing.
+4/21/25 4:39:36p Grando says, "c heal grando"
+4/21/25 4:39:36p No player named 'healing.' found in the player list.
+4/21/25 4:39:37p * Auto Healing  
+4/21/25 4:39:37p • You stop radius healing.
+4/21/25 4:39:38p Grando says, "c heal grando"
+4/21/25 4:39:39p * Auto Healing Grando 
+4/21/25 4:40:46p Grando says, "c heal grando"
+4/21/25 4:40:46p No player named 'heal' found in the player list.
+4/21/25 4:40:46p * Auto Healing  
+4/21/25 4:40:46p • You begin radius healing.
+4/21/25 4:40:48p Grando says, "c heal grando"
+4/21/25 4:40:48p No player named 'healing.' found in the player list.
+4/21/25 4:40:48p * Auto Healing  
+4/21/25 4:40:48p • You stop radius healing.
+4/21/25 4:40:49p Grando says, "c heal grando"
+4/21/25 4:40:50p No player named 'healing.' found in the player list.
+4/21/25 4:40:50p * Auto Healing  
+4/21/25 4:40:50p • You begin radius healing.
+4/21/25 4:40:51p You have 148 coins.
+4/21/25 4:40:53p Grando says, "c heal grando"
+4/21/25 4:40:54p No player named 'heal' found in the player list.
+4/21/25 4:40:54p * Auto Healing  
+4/21/25 4:40:54p • You stop radius healing.
+4/21/25 4:40:57p Grando says, "c heal grando"
+4/21/25 4:40:57p No player named 'healing.' found in the player list.
+4/21/25 4:40:58p * Auto Healing  
+4/21/25 4:40:58p • You begin radius healing.
+4/21/25 4:40:59p Grando says, "c heal grando"
+4/21/25 4:40:59p No player named 'healing.' found in the player list.
+4/21/25 4:41:00p * Auto Healing  
+4/21/25 4:41:00p • You stop radius healing.
+4/21/25 4:41:01p Grando says, "c heal grando"
+4/21/25 4:41:01p No player named 'healing.' found in the player list.
+4/21/25 4:41:02p * Auto Healing  
+4/21/25 4:41:02p • You begin radius healing.
+4/21/25 4:41:04p Grando says, "c heal grando"
+4/21/25 4:41:04p No player named 'healing.' found in the player list.
+4/21/25 4:41:04p * Auto Healing  
+4/21/25 4:41:04p • You stop radius healing.
+4/21/25 4:41:06p Grando says, "c heal grando"
+4/21/25 4:41:07p * Auto Healing Grando 
+4/21/25 4:42:31p Grando says, "c heal grando"
+4/21/25 4:42:32p * Auto Healing Grando 
+4/21/25 4:43:27p Grando says, "c heal grando"
+4/21/25 4:43:28p No player named 'heal' found in the player list.
+4/21/25 4:43:28p * Auto Healing  
+4/21/25 4:43:28p • You begin radius healing.
+4/21/25 4:43:36p Grando says, "c heal grando"
+4/21/25 4:43:37p No player named 'healing.' found in the player list.
+4/21/25 4:43:37p * Auto Healing  
+4/21/25 4:43:37p • You stop radius healing.
+4/21/25 4:43:47p * Healing Grando 
+4/21/25 4:44:44p You have 148 coins.
+4/21/25 4:45:47p Grando says, "c heal grando"
+4/21/25 4:45:47p No player named 'heal' found in the player list.
+4/21/25 4:45:47p * Auto Healing  
+4/21/25 4:45:47p • You begin radius healing.
+4/21/25 4:45:49p Grando says, "c heal grando"
+4/21/25 4:45:49p No player named 'healing.' found in the player list.
+4/21/25 4:45:50p * Auto Healing  
+4/21/25 4:45:50p • You stop radius healing.
+4/21/25 4:45:51p Grando says, "c heal grando"
+4/21/25 4:45:51p * Auto Healing Grando 
+4/21/25 4:46:52p Grando says, "c heal grando"
+4/21/25 4:46:53p No player named 'heal' found in the player list.
+4/21/25 4:46:53p * Auto Healing  
+4/21/25 4:46:53p • You begin radius healing.
+4/21/25 4:47:38p • There is nobody nearby enough to continue radius healing.
+4/21/25 4:48:47p You have 148 coins.
+4/21/25 4:52:48p •••
+4/21/25 4:52:48p You have been idle for too long.
+4/21/25 4:52:48p Please do something to avoid being disconnected.
+4/21/25 4:52:48p •••
+4/21/25 4:52:49p You have 148 coins.
+4/21/25 4:56:49p •••
+4/21/25 4:56:49p You have been idle for too long.
+4/21/25 4:56:49p Please do something to avoid being disconnected.
+4/21/25 4:56:49p •••
+4/21/25 4:56:54p You have 148 coins.
+4/21/25 5:00:51p You have 148 coins.
+4/21/25 5:04:47p You have 148 coins.
+4/21/25 5:08:48p •••
+4/21/25 5:08:48p You have been idle for too long.
+4/21/25 5:08:48p Please do something to avoid being disconnected.
+4/21/25 5:08:48p •••
+4/21/25 5:08:51p You have 148 coins.
+4/21/25 5:10:16p Grando says, "c heal grando"
+4/21/25 5:10:16p No player named 'heal' found in the player list.
+4/21/25 5:10:16p * Auto Healing  
+4/21/25 5:10:17p • You begin radius healing.
+4/21/25 5:10:20p Grando says, "c heal grando"
+4/21/25 5:10:20p * Auto Healing Grando 
+4/21/25 5:12:52p You have 148 coins.
+4/21/25 5:16:44p •The Sun sets.
+4/21/25 5:16:52p •••
+4/21/25 5:16:52p You have been idle for too long.
+4/21/25 5:16:52p Please do something to avoid being disconnected.
+4/21/25 5:16:52p •••
+4/21/25 5:17:01p You have 148 coins.
+4/21/25 5:21:01p You have 148 coins.
+4/21/25 5:25:01p •••
+4/21/25 5:25:01p You have been idle for too long.
+4/21/25 5:25:01p Please do something to avoid being disconnected.
+4/21/25 5:25:01p •••
+4/21/25 5:25:04p You have 148 coins.
+4/21/25 5:29:04p •••
+4/21/25 5:29:04p You have been idle for too long.
+4/21/25 5:29:04p Please do something to avoid being disconnected.
+4/21/25 5:29:04p •••
+4/21/25 5:29:11p You have 148 coins.
+4/21/25 5:33:11p •••
+4/21/25 5:33:11p You have been idle for too long.
+4/21/25 5:33:11p Please do something to avoid being disconnected.
+4/21/25 5:33:11p •••
+4/21/25 5:33:13p You have 148 coins.
+4/21/25 5:37:14p •••
+4/21/25 5:37:14p You have been idle for too long.
+4/21/25 5:37:14p Please do something to avoid being disconnected.
+4/21/25 5:37:14p •••
+4/21/25 5:37:14p You have 148 coins.
+4/21/25 5:39:21p •You gain experience.
+4/21/25 5:41:14p You have 148 coins.
+4/21/25 5:43:32p Grando says, "c heal grando"
+4/21/25 5:43:32p No player named 'coins.' found in the player list.
+4/21/25 5:43:32p * Auto Healing  
+4/21/25 5:43:33p • You begin radius healing.
+4/21/25 5:43:38p * Healing Grando 
+4/21/25 5:45:15p You have 148 coins.
+4/21/25 5:45:26p Grando says, "c heal grando"
+4/21/25 5:45:26p No player named 'heal' found in the player list.
+4/21/25 5:45:26p * Auto Healing  
+4/21/25 5:45:27p • You begin radius healing.
+4/21/25 5:45:38p * Healing Grando 
+4/21/25 5:47:15p Grando says, "c heal grando"
+4/21/25 5:47:16p * Auto Healing Grando 
+4/21/25 5:49:16p You have 148 coins.
+4/21/25 5:52:02p Grando says, "c heal grando"
+4/21/25 5:52:02p No player named 'heal' found in the player list.
+4/21/25 5:52:02p * Auto Healing  
+4/21/25 5:52:02p • You begin radius healing.
+4/21/25 5:52:06p Grando says, "c heal grando"
+4/21/25 5:52:06p No player named 'healing.' found in the player list.
+4/21/25 5:52:06p * Auto Healing  
+4/21/25 5:52:06p • You stop radius healing.
+4/21/25 5:52:18p * Healing Grando 
+4/21/25 5:53:04p You have 148 coins.
+4/21/25 5:53:41p •You gain experience.
+4/21/25 5:56:14p You have 148 coins.
+4/21/25 5:57:46p Grando says, "c heal grando"
+4/21/25 5:57:46p * Auto Healing Grando 
+4/21/25 5:59:54p You have 148 coins.
+4/21/25 6:00:14p Grando says, "c heal grando"
+4/21/25 6:00:14p No player named 'heal' found in the player list.
+4/21/25 6:00:14p * Auto Healing  
+4/21/25 6:00:14p • You begin radius healing.
+4/21/25 6:00:20p Grando says, "c heal grando"
+4/21/25 6:00:20p No player named 'healing.' found in the player list.
+4/21/25 6:00:20p * Auto Healing  
+4/21/25 6:00:20p • You stop radius healing.
+4/21/25 6:00:27p * Healing Grando 
+4/21/25 6:01:18p Grando says, "c heal grando"
+4/21/25 6:01:18p * Auto Healing Grando 
+4/21/25 6:01:23p * Healing Grando 
+4/21/25 6:03:27p Grando says, "c heal grando"
+4/21/25 6:03:27p * Auto Healing Grando 
+4/21/25 6:03:52p You have 148 coins.
+4/21/25 6:04:15p Grando says, "c heal grando"
+4/21/25 6:04:16p * Auto Healing Grando 
+4/21/25 6:05:49p Grando says, "c heal grando"
+4/21/25 6:05:49p No player named 'heal' found in the player list.
+4/21/25 6:05:49p * Auto Healing  
+4/21/25 6:05:49p • You begin radius healing.
+4/21/25 6:05:53p Grando says, "c heal grando"
+4/21/25 6:05:53p No player named 'healing.' found in the player list.
+4/21/25 6:05:53p * Auto Healing  
+4/21/25 6:05:53p • You stop radius healing.
+4/21/25 6:05:55p Grando says, "c heal grando"
+4/21/25 6:05:55p No player named 'healing.' found in the player list.
+4/21/25 6:05:55p * Auto Healing  
+4/21/25 6:05:56p • You begin radius healing.
+4/21/25 6:05:57p Grando says, "c heal grando"
+4/21/25 6:05:57p No player named 'healing.' found in the player list.
+4/21/25 6:05:58p * Auto Healing  
+4/21/25 6:05:58p • You stop radius healing.
+4/21/25 6:05:59p Grando says, "c heal grando"
+4/21/25 6:06:00p No player named 'healing.' found in the player list.
+4/21/25 6:06:00p * Auto Healing  
+4/21/25 6:06:00p • You begin radius healing.
+4/21/25 6:06:02p Grando says, "c heal grando"
+4/21/25 6:06:02p No player named 'healing.' found in the player list.
+4/21/25 6:06:02p * Auto Healing  
+4/21/25 6:06:02p • You stop radius healing.
+4/21/25 6:06:04p Grando says, "c heal grando"
+4/21/25 6:06:05p * Auto Healing Grando 
+4/21/25 6:07:50p You have 148 coins.
+4/21/25 6:08:13p Grando says, "c heal grando"
+4/21/25 6:08:13p No player named 'heal' found in the player list.
+4/21/25 6:08:13p * Auto Healing  
+4/21/25 6:08:13p • You begin radius healing.
+4/21/25 6:08:16p Grando says, "c heal grando"
+4/21/25 6:08:16p No player named 'healing.' found in the player list.
+4/21/25 6:08:17p * Auto Healing  
+4/21/25 6:08:17p • You stop radius healing.
+4/21/25 6:08:18p Grando says, "c heal grando"
+4/21/25 6:08:18p No player named 'healing.' found in the player list.
+4/21/25 6:08:19p * Auto Healing  
+4/21/25 6:08:19p • You begin radius healing.
+4/21/25 6:08:38p * Healing Grando 
+4/21/25 6:11:47p You have 148 coins.
+4/21/25 6:15:47p •••
+4/21/25 6:15:47p You have been idle for too long.
+4/21/25 6:15:47p Please do something to avoid being disconnected.
+4/21/25 6:15:47p •••
+4/21/25 6:15:49p You have 148 coins.
+4/21/25 6:17:53p Grando says, "c heal grando"
+4/21/25 6:17:53p No player named 'coins.' found in the player list.
+4/21/25 6:17:53p * Auto Healing  
+4/21/25 6:17:53p • You begin radius healing.
+4/21/25 6:18:01p * Healing Grando 
+4/21/25 6:19:23p Grando says, "c heal grando"
+4/21/25 6:19:23p * Auto Healing Grando 
+4/21/25 6:19:52p You have 148 coins.
+4/21/25 6:21:29p Grando says, "c heal grando"
+4/21/25 6:21:29p No player named 'heal' found in the player list.
+4/21/25 6:21:30p * Auto Healing  
+4/21/25 6:21:30p • You begin radius healing.
+4/21/25 6:21:37p * Healing Grando 
+4/21/25 6:22:42p Brooke Britney thinks, "If I don’t get more materials for The Puddleby Civic Beautification Society soon, I’m gonna be fired! Please help!"
+4/21/25 6:23:04p * Healing Grando 
+4/21/25 6:23:54p You have 148 coins.
+4/21/25 6:24:24p Grando says, "c heal grando"
+4/21/25 6:24:24p * Auto Healing Grando 
+4/21/25 6:26:07p Grando says, "c heal grando"
+4/21/25 6:26:07p No player named 'heal' found in the player list.
+4/21/25 6:26:07p * Auto Healing  
+4/21/25 6:26:07p • You begin radius healing.
+4/21/25 6:26:12p Grando says, "c heal grando"
+4/21/25 6:26:12p No player named 'healing.' found in the player list.
+4/21/25 6:26:12p * Auto Healing  
+4/21/25 6:26:12p • You stop radius healing.
+4/21/25 6:26:18p * Healing Grando 
+4/21/25 6:27:54p You have 148 coins.
+4/21/25 6:28:45p Forbeen says, "Honored guest, Master Lugubrion regretfully informs me that you are not permitted beyond this point."
+4/21/25 6:28:57p Grando says, "c heal grando"
+4/21/25 6:28:58p * Auto Healing Grando 
+4/21/25 6:29:45p Grando says, "c heal grando"
+4/21/25 6:29:45p No player named 'heal' found in the player list.
+4/21/25 6:29:45p * Auto Healing  
+4/21/25 6:29:45p • You begin radius healing.
+4/21/25 6:29:54p * Healing Grando 
+4/21/25 6:31:54p You have 148 coins.
+4/21/25 6:32:03p • It’s Midnight on Terrdi, the 27th day of Spring in the 641st year of the Ascendancy, and all’s well.
+4/21/25 6:32:12p Grando says, "c heal grando"
+4/21/25 6:32:13p * Auto Healing Grando 
+4/21/25 6:34:13p Grando says, "c heal grando"
+4/21/25 6:34:13p No player named 'heal' found in the player list.
+4/21/25 6:34:13p * Auto Healing  
+4/21/25 6:34:14p • You begin radius healing.
+4/21/25 6:34:15p Grando says, "c heal grando"
+4/21/25 6:34:16p No player named 'healing.' found in the player list.
+4/21/25 6:34:16p * Auto Healing  
+4/21/25 6:34:16p • You stop radius healing.
+4/21/25 6:34:21p * Healing Grando 
+4/21/25 6:35:58p You have 148 coins.
+4/21/25 6:36:40p Grando says, "c heal grando"
+4/21/25 6:36:40p No player named 'heal' found in the player list.
+4/21/25 6:36:40p * Auto Healing  
+4/21/25 6:36:40p • You begin radius healing.
+4/21/25 6:36:47p * Healing Grando 
+4/21/25 6:38:23p Grando says, "c heal grando"
+4/21/25 6:38:23p * Auto Healing Grando 
+4/21/25 6:38:33p * Healing Grando 
+4/21/25 6:40:00p You have 148 coins.
+4/21/25 6:44:00p •••
+4/21/25 6:44:00p You have been idle for too long.
+4/21/25 6:44:00p Please do something to avoid being disconnected.
+4/21/25 6:44:00p •••
+4/21/25 6:44:02p You have 148 coins.
+4/21/25 6:48:03p •••
+4/21/25 6:48:03p You have been idle for too long.
+4/21/25 6:48:03p Please do something to avoid being disconnected.
+4/21/25 6:48:03p •••
+4/21/25 6:48:07p You have 148 coins.
+4/21/25 6:52:07p •••
+4/21/25 6:52:07p You have been idle for too long.
+4/21/25 6:52:07p Please do something to avoid being disconnected.
+4/21/25 6:52:07p •••
+4/21/25 6:52:10p You have 148 coins.
+4/21/25 6:56:11p •••
+4/21/25 6:56:11p You have been idle for too long.
+4/21/25 6:56:11p Please do something to avoid being disconnected.
+4/21/25 6:56:11p •••
+4/21/25 6:56:16p You have 148 coins.
+4/21/25 7:00:17p •••
+4/21/25 7:00:17p You have been idle for too long.
+4/21/25 7:00:17p Please do something to avoid being disconnected.
+4/21/25 7:00:17p •••
+4/21/25 7:00:23p You have 148 coins.
+4/21/25 7:03:30p Grando says, "c heal grando"
+4/21/25 7:03:31p * Auto Healing Grando 
+4/21/25 7:04:31p You have 148 coins.
+4/21/25 7:05:15p * Healing Grando 
+4/21/25 7:08:31p You have 148 coins.
+4/21/25 7:08:50p Grando says, "c heal grando"
+4/21/25 7:08:51p * Auto Healing Grando 
+4/21/25 7:08:59p * Healing Grando 
+4/21/25 7:09:53p •You gain experience.
+4/21/25 7:12:35p You have 148 coins.
+4/21/25 7:16:35p •••
+4/21/25 7:16:35p You have been idle for too long.
+4/21/25 7:16:35p Please do something to avoid being disconnected.
+4/21/25 7:16:35p •••
+4/21/25 7:16:41p You have 148 coins.
+4/21/25 7:20:42p •••
+4/21/25 7:20:42p You have been idle for too long.
+4/21/25 7:20:42p Please do something to avoid being disconnected.
+4/21/25 7:20:42p •••
+4/21/25 7:20:51p You have 148 coins.
+4/21/25 7:24:39p Grando says, "c heal grando"
+4/21/25 7:24:40p No player named 'heal' found in the player list.
+4/21/25 7:24:40p * Auto Healing  
+4/21/25 7:24:40p • You begin radius healing.
+4/21/25 7:24:57p You have 148 coins.
+4/21/25 7:25:02p * Healing Grando 
+4/21/25 7:26:20p Grando says, "c heal grando"
+4/21/25 7:26:21p * Auto Healing Grando 
+4/21/25 7:27:12p Grando says, "c heal grando"
+4/21/25 7:27:12p No player named 'heal' found in the player list.
+4/21/25 7:27:13p * Auto Healing  
+4/21/25 7:27:13p • You begin radius healing.
+4/21/25 7:27:14p Grando says, "c heal grando"
+4/21/25 7:27:15p No player named 'healing.' found in the player list.
+4/21/25 7:27:15p * Auto Healing  
+4/21/25 7:27:15p • You stop radius healing.
+4/21/25 7:27:16p Grando says, "c heal grando"
+4/21/25 7:27:16p No player named 'healing.' found in the player list.
+4/21/25 7:27:17p * Auto Healing  
+4/21/25 7:27:17p • You begin radius healing.
+4/21/25 7:27:24p * Healing Grando 
+4/21/25 7:28:51p Grando says, "c heal grando"
+4/21/25 7:28:51p * Auto Healing Grando 
+4/21/25 7:28:57p * Healing Grando 
+4/21/25 7:28:58p You have 148 coins.
+4/21/25 7:31:11p Grando says, "c heal grando"
+4/21/25 7:31:11p No player named 'heal' found in the player list.
+4/21/25 7:31:11p * Auto Healing  
+4/21/25 7:31:11p • You begin radius healing.
+4/21/25 7:31:15p Grando says, "c heal grando"
+4/21/25 7:31:16p * Auto Healing Grando 
+4/21/25 7:31:22p * Healing Grando 
+4/21/25 7:32:52p Grando says, "c heal grando"
+4/21/25 7:32:53p * Auto Healing Grando 
+4/21/25 7:33:00p You have 148 coins.
+4/21/25 7:34:42p Grando says, "c heal grando"
+4/21/25 7:34:42p No player named 'heal' found in the player list.
+4/21/25 7:34:43p * Auto Healing  
+4/21/25 7:34:43p • You begin radius healing.
+4/21/25 7:34:47p Grando says, "c heal grando"
+4/21/25 7:34:47p No player named 'healing.' found in the player list.
+4/21/25 7:34:48p * Auto Healing  
+4/21/25 7:34:48p • You stop radius healing.
+4/21/25 7:34:55p * Healing Grando 
+4/21/25 7:37:02p You have 148 coins.
+4/21/25 7:41:02p •••
+4/21/25 7:41:02p You have been idle for too long.
+4/21/25 7:41:02p Please do something to avoid being disconnected.
+4/21/25 7:41:02p •••
+4/21/25 7:41:06p You have 148 coins.
+4/21/25 7:45:06p •••
+4/21/25 7:45:06p You have been idle for too long.
+4/21/25 7:45:06p Please do something to avoid being disconnected.
+4/21/25 7:45:06p •••
+4/21/25 7:45:12p You have 148 coins.
+4/21/25 7:46:52p •The Sun rises.
+4/21/25 7:49:12p •••
+4/21/25 7:49:12p You have been idle for too long.
+4/21/25 7:49:12p Please do something to avoid being disconnected.
+4/21/25 7:49:12p •••
+4/21/25 7:49:16p You have 148 coins.
+4/21/25 7:53:16p •••
+4/21/25 7:53:16p You have been idle for too long.
+4/21/25 7:53:16p Please do something to avoid being disconnected.
+4/21/25 7:53:16p •••
+4/21/25 7:53:21p You have 148 coins.
+4/21/25 7:56:50p Grando says, "c heal grando"
+4/21/25 7:56:51p No player named 'heal' found in the player list.
+4/21/25 7:56:51p * Auto Healing  
+4/21/25 7:56:51p • You begin radius healing.
+4/21/25 7:57:01p * Healing Grando 
+4/21/25 7:57:29p You have 148 coins.
+4/21/25 8:01:30p •••
+4/21/25 8:01:30p You have been idle for too long.
+4/21/25 8:01:30p Please do something to avoid being disconnected.
+4/21/25 8:01:30p •••
+4/21/25 8:01:39p You have 148 coins.
+4/21/25 8:05:39p •••
+4/21/25 8:05:39p You have been idle for too long.
+4/21/25 8:05:39p Please do something to avoid being disconnected.
+4/21/25 8:05:39p •••
+4/21/25 8:05:49p You have 148 coins.
+4/21/25 8:09:48p •You gain experience.
+4/21/25 8:09:50p •••
+4/21/25 8:09:50p You have been idle for too long.
+4/21/25 8:09:50p Please do something to avoid being disconnected.
+4/21/25 8:09:50p •••
+4/21/25 8:09:58p You have 148 coins.
+4/21/25 8:13:57p You have 148 coins.
+4/21/25 8:17:58p •••
+4/21/25 8:17:58p You have been idle for too long.
+4/21/25 8:17:58p Please do something to avoid being disconnected.
+4/21/25 8:17:58p •••
+4/21/25 8:17:59p You have 148 coins.
+4/21/25 8:21:58p You have 148 coins.
+4/21/25 8:25:58p •••
+4/21/25 8:25:58p You have been idle for too long.
+4/21/25 8:25:58p Please do something to avoid being disconnected.
+4/21/25 8:25:58p •••
+4/21/25 8:25:59p You have 148 coins.
+4/21/25 8:30:00p •••
+4/21/25 8:30:00p You have been idle for too long.
+4/21/25 8:30:00p Please do something to avoid being disconnected.
+4/21/25 8:30:00p •••
+4/21/25 8:30:00p You have 148 coins.
+4/21/25 8:34:05p You have 148 coins.
+4/21/25 8:37:01p Grando says, "c heal grando"
+4/21/25 8:37:02p * Auto Healing Grando 
+4/21/25 8:38:16p Grando says, "c heal grando"
+4/21/25 8:38:17p No player named 'heal' found in the player list.
+4/21/25 8:38:17p * Auto Healing  
+4/21/25 8:38:17p • You begin radius healing.
+4/21/25 8:38:24p You have 148 coins.
+4/21/25 8:38:34p * Healing Grando 
+4/21/25 8:39:13p Grando says, "c heal grando"
+4/21/25 8:39:13p * Auto Healing Grando 
+4/21/25 8:39:49p Grando says, "c heal grando"
+4/21/25 8:39:49p * Auto Healing Grando 
+4/21/25 8:40:40p Grando says, "c heal grando"
+4/21/25 8:40:40p * Auto Healing Grando 
+4/21/25 8:42:25p Grando says, "c heal grando"
+4/21/25 8:42:25p No player named 'heal' found in the player list.
+4/21/25 8:42:26p * Auto Healing  
+4/21/25 8:42:26p • You begin radius healing.
+4/21/25 8:42:39p You have 148 coins.
+4/21/25 8:42:58p • There is nobody nearby enough to continue radius healing.
+4/21/25 8:43:23p Grando says, "c heal grando"
+4/21/25 8:43:23p * Auto Healing Grando 
+4/21/25 8:44:37p Grando says, "c heal grando"
+4/21/25 8:44:37p No player named 'heal' found in the player list.
+4/21/25 8:44:37p * Auto Healing  
+4/21/25 8:44:37p • You begin radius healing.
+4/21/25 8:44:47p •The healing spell has been broken.
+4/21/25 8:44:49p * Healing Grando 
+4/21/25 8:46:11p Grando says, "c heal grando"
+4/21/25 8:46:11p * Auto Healing Grando 
+4/21/25 8:46:41p You have 148 coins.
+4/21/25 8:47:13p Grando says, "c heal grando"
+4/21/25 8:47:13p No player named 'heal' found in the player list.
+4/21/25 8:47:13p * Auto Healing  
+4/21/25 8:47:14p • You begin radius healing.
+4/21/25 8:47:22p * Healing Grando 
+4/21/25 8:48:36p Grando says, "c heal grando"
+4/21/25 8:48:37p * Auto Healing Grando 
+4/21/25 8:49:22p Grando says, "c heal grando"
+4/21/25 8:49:22p * Auto Healing Grando 
+4/21/25 8:50:32p Grando says, "c heal grando"
+4/21/25 8:50:32p No player named 'heal' found in the player list.
+4/21/25 8:50:32p * Auto Healing  
+4/21/25 8:50:32p • You begin radius healing.
+4/21/25 8:50:42p You have 148 coins.
+4/21/25 8:51:05p * Healing Grando 
+4/21/25 8:52:13p Grando says, "c heal grando"
+4/21/25 8:52:13p * Auto Healing Grando 
+4/21/25 8:53:30p Grando says, "c heal grando"
+4/21/25 8:53:31p No player named 'heal' found in the player list.
+4/21/25 8:53:31p * Auto Healing  
+4/21/25 8:53:31p • You begin radius healing.
+4/21/25 8:53:34p Grando says, "c heal grando"
+4/21/25 8:53:35p No player named 'healing.' found in the player list.
+4/21/25 8:53:35p * Auto Healing  
+4/21/25 8:53:35p • You stop radius healing.
+4/21/25 8:53:49p * Healing Grando 
+4/21/25 8:54:45p You have 148 coins.
+4/21/25 8:56:31p * Healing Mimo 
+4/21/25 8:57:01p * Healing Mimo 
+4/21/25 8:57:19p Grando says, "c heal grando"
+4/21/25 8:57:19p * Auto Healing Grando 
+4/21/25 8:57:20p •Grando’s injuries were grave.
+4/21/25 8:58:07p Stonehand thinks, "out"
+4/21/25 8:58:57p You have 148 coins.
+4/21/25 9:02:57p •••
+4/21/25 9:02:57p You have been idle for too long.
+4/21/25 9:02:57p Please do something to avoid being disconnected.
+4/21/25 9:02:57p •••
+4/21/25 9:02:58p You have 148 coins.
+4/21/25 9:06:57p You have 148 coins.
+4/21/25 9:10:56p You have 148 coins.
+4/21/25 9:14:56p •••
+4/21/25 9:14:56p You have been idle for too long.
+4/21/25 9:14:56p Please do something to avoid being disconnected.
+4/21/25 9:14:56p •••
+4/21/25 9:14:57p You have 148 coins.
+4/21/25 9:18:57p You have 148 coins.
+4/21/25 9:22:57p •••
+4/21/25 9:22:57p You have been idle for too long.
+4/21/25 9:22:57p Please do something to avoid being disconnected.
+4/21/25 9:22:57p •••
+4/21/25 9:23:03p You have 148 coins.
+4/21/25 9:23:35p Grando says, "c heal grando"
+4/21/25 9:23:35p No player named 'heal' found in the player list.
+4/21/25 9:23:35p * Auto Healing  
+4/21/25 9:23:36p • You begin radius healing.
+4/21/25 9:24:18p * Healing Grando 
+4/21/25 9:24:55p Grando says, "c heal grando"
+4/21/25 9:24:55p * Auto Healing Grando 
+4/21/25 9:27:12p You have 148 coins.
+4/21/25 9:31:13p •••
+4/21/25 9:31:13p You have been idle for too long.
+4/21/25 9:31:13p Please do something to avoid being disconnected.
+4/21/25 9:31:13p •••
+4/21/25 9:31:16p You have 148 coins.
+4/21/25 9:35:17p •••
+4/21/25 9:35:17p You have been idle for too long.
+4/21/25 9:35:17p Please do something to avoid being disconnected.
+4/21/25 9:35:17p •••
+4/21/25 9:35:23p You have 148 coins.
+4/21/25 9:39:23p •••
+4/21/25 9:39:23p You have been idle for too long.
+4/21/25 9:39:23p Please do something to avoid being disconnected.
+4/21/25 9:39:23p •••
+4/21/25 9:39:26p You have 148 coins.
+4/21/25 9:43:29p •••
+4/21/25 9:43:29p You have been idle for too long.
+4/21/25 9:43:29p Please do something to avoid being disconnected.
+4/21/25 9:43:29p •••
+4/21/25 9:43:31p You have 148 coins.
+4/21/25 9:44:44p Grando says, "c heal grando"
+4/21/25 9:44:45p * Auto Healing Grando 
+4/21/25 9:47:42p You have 148 coins.
+4/21/25 9:49:59p * Healing Grando 
+4/21/25 9:49:59p •Grando’s injuries are a little more serious than you can heal.
+4/21/25 9:50:06p •Grando’s injuries are a little more serious than you can heal.
+4/21/25 9:50:13p •Grando’s injuries are a little more serious than you can heal.
+4/21/25 9:50:19p •Grando’s injuries are a little more serious than you can heal.
+4/21/25 9:50:26p •Grando’s injuries are a little more serious than you can heal.
+4/21/25 9:50:32p •Grando’s injuries are a little more serious than you can heal.
+4/21/25 9:50:39p •Grando’s injuries are a little more serious than you can heal.
+4/21/25 9:50:46p •Grando’s injuries are a little more serious than you can heal.
+4/21/25 9:50:47p •Grando is too far away.
+4/21/25 9:51:48p You have 148 coins.
+4/21/25 9:55:48p •••
+4/21/25 9:55:48p You have been idle for too long.
+4/21/25 9:55:48p Please do something to avoid being disconnected.
+4/21/25 9:55:48p •••
+4/21/25 9:55:55p You have 148 coins.
+4/21/25 9:58:01p Grando says, "c heal grando"
+4/21/25 9:58:01p No player named 'coins.' found in the player list.
+4/21/25 9:58:01p * Auto Healing  
+4/21/25 9:58:01p • You begin radius healing.
+4/21/25 9:58:09p * Healing Grando 
+4/21/25 9:59:38p Grando says, "c heal grando"
+4/21/25 9:59:38p * Auto Healing Grando 
+4/21/25 10:00:05p You have 148 coins.
+4/21/25 10:01:22p Grando says, "c heal grando"
+4/21/25 10:01:23p No player named 'coins.' found in the player list.
+4/21/25 10:01:23p * Auto Healing  
+4/21/25 10:01:23p • You begin radius healing.
+4/21/25 10:01:45p • There is nobody nearby enough to continue radius healing.
+4/21/25 10:04:20p You have 148 coins.
+4/21/25 10:05:24p Grando says, "c heal grando"
+4/21/25 10:05:24p No player named 'coins.' found in the player list.
+4/21/25 10:05:24p * Auto Healing  
+4/21/25 10:05:25p • You begin radius healing.
+4/21/25 10:05:32p Grando says, "c heal grando"
+4/21/25 10:05:32p No player named 'healing.' found in the player list.
+4/21/25 10:05:32p * Auto Healing  
+4/21/25 10:05:32p • You stop radius healing.
+4/21/25 10:05:38p * Healing Grando 
+4/21/25 10:07:33p Grando says, "c heal grando"
+4/21/25 10:07:33p * Auto Healing Grando 
+4/21/25 10:08:31p You have 148 coins.
+4/21/25 10:12:31p •••
+4/21/25 10:12:31p You have been idle for too long.
+4/21/25 10:12:31p Please do something to avoid being disconnected.
+4/21/25 10:12:31p •••
+4/21/25 10:12:44p You have 148 coins.
+4/21/25 10:16:45p •••
+4/21/25 10:16:45p You have been idle for too long.
+4/21/25 10:16:45p Please do something to avoid being disconnected.
+4/21/25 10:16:45p •••
+4/21/25 10:16:55p You have 148 coins.
+4/21/25 10:17:27p Woolf thinks, "I want to enter the Mushroom hut in CI, do the people on have a crowbar to rescue me in case I get trapped in the entrance?"
+4/21/25 10:20:55p •••
+4/21/25 10:20:55p You have been idle for too long.
+4/21/25 10:20:55p Please do something to avoid being disconnected.
+4/21/25 10:20:55p •••
+4/21/25 10:21:10p You have 148 coins.
+4/21/25 10:23:38p Woolf thinks, "I have an Orga Eye but the Centaur does not allow me to enter Centaur Island? Does someone know What might the reason be please?"
+4/21/25 10:25:10p •••
+4/21/25 10:25:10p You have been idle for too long.
+4/21/25 10:25:10p Please do something to avoid being disconnected.
+4/21/25 10:25:10p •••
+4/21/25 10:25:22p You have 148 coins.
+4/21/25 10:26:36p Woolf is too far away for your explanation.
+4/21/25 10:26:36p You gave signed good karma to Woolf.
+4/21/25 10:29:30p You have 148 coins.
+4/21/25 10:31:42p Grando says, "c heal grando"
+4/21/25 10:31:42p No player named 'heal' found in the player list.
+4/21/25 10:31:42p * Auto Healing  
+4/21/25 10:31:43p • You begin radius healing.
+4/21/25 10:31:51p * Healing Grando 
+4/21/25 10:33:41p You have 148 coins.
+4/21/25 10:37:41p •••
+4/21/25 10:37:41p You have been idle for too long.
+4/21/25 10:37:41p Please do something to avoid being disconnected.
+4/21/25 10:37:41p •••
+4/21/25 10:37:50p You have 148 coins.
+4/21/25 10:41:51p •••
+4/21/25 10:41:51p You have been idle for too long.
+4/21/25 10:41:51p Please do something to avoid being disconnected.
+4/21/25 10:41:51p •••
+4/21/25 10:42:03p You have 148 coins.
+4/21/25 10:46:03p •••
+4/21/25 10:46:03p You have been idle for too long.
+4/21/25 10:46:03p Please do something to avoid being disconnected.
+4/21/25 10:46:03p •••
+4/21/25 10:46:28p You have 148 coins.
+4/21/25 10:50:28p •••
+4/21/25 10:50:28p You have been idle for too long.
+4/21/25 10:50:28p Please do something to avoid being disconnected.
+4/21/25 10:50:28p •••
+4/21/25 10:50:52p You have 148 coins.
+4/21/25 10:51:33p Grando says, "c heal grando"
+4/21/25 10:51:34p * Auto Healing Grando 
+4/21/25 10:54:11p Grando says, "c heal grando"
+4/21/25 10:54:11p No player named 'heal' found in the player list.
+4/21/25 10:54:12p * Auto Healing  
+4/21/25 10:54:12p • You begin radius healing.
+4/21/25 10:54:57p • There is nobody nearby enough to continue radius healing.
+4/21/25 10:55:02p You have 148 coins.
+4/21/25 10:55:23p Grando says, "c heal grando"
+4/21/25 10:55:23p No player named 'heal' found in the player list.
+4/21/25 10:55:24p * Auto Healing  
+4/21/25 10:55:24p • You begin radius healing.
+4/21/25 10:55:35p * Healing Grando 
+4/21/25 10:56:15p Grando says, "c heal grando"
+4/21/25 10:56:15p * Auto Healing Grando 
+4/21/25 10:57:06p Grando says, "c heal grando"
+4/21/25 10:57:07p * Auto Healing Grando 
+4/21/25 10:57:12p * Healing Grando 
+4/21/25 10:57:55p Grando says, "c heal grando"
+4/21/25 10:57:56p * Auto Healing Grando 
+4/21/25 10:59:01p You have 148 coins.
+4/21/25 10:59:24p Grando says, "c heal grando"
+4/21/25 10:59:25p No player named 'heal' found in the player list.
+4/21/25 10:59:25p * Auto Healing  
+4/21/25 10:59:25p • You begin radius healing.
+4/21/25 10:59:40p • There is nobody nearby enough to continue radius healing.
+4/21/25 10:59:51p Catan thinks, "I went out"
+4/21/25 11:03:22p You have 148 coins.
+4/21/25 11:07:22p •••
+4/21/25 11:07:22p You have been idle for too long.
+4/21/25 11:07:22p Please do something to avoid being disconnected.
+4/21/25 11:07:22p •••
+4/21/25 11:07:42p You have 148 coins.
+4/21/25 11:09:16p •The Sun sets.
+4/21/25 11:11:43p •••
+4/21/25 11:11:43p You have been idle for too long.
+4/21/25 11:11:43p Please do something to avoid being disconnected.
+4/21/25 11:11:43p •••
+4/21/25 11:11:53p You have 148 coins.
+4/21/25 11:14:22p Grando says, "c heal grando"
+4/21/25 11:14:22p * Auto Healing Grando 
+4/21/25 11:16:14p You have 148 coins.
+4/21/25 11:17:57p Grando says, "c heal grando"
+4/21/25 11:17:57p No player named 'coins.' found in the player list.
+4/21/25 11:17:57p * Auto Healing  
+4/21/25 11:17:57p • You begin radius healing.
+4/21/25 11:18:21p • There is nobody nearby enough to continue radius healing.
+4/21/25 11:20:26p You have 148 coins.
+4/21/25 11:21:39p Grando says, "c heal grando"
+4/21/25 11:21:40p No player named 'heal' found in the player list.
+4/21/25 11:21:40p * Auto Healing  
+4/21/25 11:21:40p • You begin radius healing.
+4/21/25 11:21:56p Catan thinks, "cove"
+4/21/25 11:21:58p • There is nobody nearby enough to continue radius healing.
+4/21/25 11:23:35p Warawonda is now Clanning.
+4/21/25 11:24:34p You have 148 coins.
+4/21/25 11:28:35p •••
+4/21/25 11:28:35p You have been idle for too long.
+4/21/25 11:28:35p Please do something to avoid being disconnected.
+4/21/25 11:28:35p •••
+4/21/25 11:28:44p You have 148 coins.
+4/21/25 11:32:13p Catan thinks, "sea"
+4/21/25 11:32:44p •••
+4/21/25 11:32:44p You have been idle for too long.
+4/21/25 11:32:44p Please do something to avoid being disconnected.
+4/21/25 11:32:44p •••
+4/21/25 11:32:57p You have 148 coins.
+4/21/25 11:33:05p Grando says, "c heal grando"
+4/21/25 11:33:06p No player named 'heal' found in the player list.
+4/21/25 11:33:06p * Auto Healing  
+4/21/25 11:33:06p • You begin radius healing.
+4/21/25 11:33:14p * Healing Grando 
+4/21/25 11:37:00p You have 148 coins.
+4/21/25 11:39:21p Grando says, "c heal grando"
+4/21/25 11:39:21p No player named 'heal' found in the player list.
+4/21/25 11:39:21p * Auto Healing  
+4/21/25 11:39:22p • You begin radius healing.
+4/21/25 11:39:24p Grando says, "c heal grando"
+4/21/25 11:39:25p No player named 'healing.' found in the player list.
+4/21/25 11:39:25p * Auto Healing  
+4/21/25 11:39:25p • You stop radius healing.
+4/21/25 11:39:26p Grando says, "c heal grando"
+4/21/25 11:39:27p No player named 'healing.' found in the player list.
+4/21/25 11:39:27p * Auto Healing  
+4/21/25 11:39:27p • You begin radius healing.
+4/21/25 11:39:29p Grando says, "c heal grando"
+4/21/25 11:39:29p * Auto Healing Grando 
+4/21/25 11:39:32p Grando says, "c heal grando"
+4/21/25 11:39:32p No player named 'heal' found in the player list.
+4/21/25 11:39:32p * Auto Healing  
+4/21/25 11:39:32p • You begin radius healing.
+4/21/25 11:39:34p Grando says, "c heal grando"
+4/21/25 11:39:34p * Auto Healing Grando 
+4/21/25 11:41:07p You have 148 coins.
+4/21/25 11:45:08p •••
+4/21/25 11:45:08p You have been idle for too long.
+4/21/25 11:45:08p Please do something to avoid being disconnected.
+4/21/25 11:45:08p •••
+4/21/25 11:45:18p You have 148 coins.
+4/21/25 11:49:19p •••
+4/21/25 11:49:19p You have been idle for too long.
+4/21/25 11:49:19p Please do something to avoid being disconnected.
+4/21/25 11:49:19p •••
+4/21/25 11:49:26p You have 148 coins.
+4/21/25 11:52:32p Grando says, "c heal grando"
+4/21/25 11:52:32p * Auto Healing Grando 
+4/21/25 11:53:35p You have 148 coins.
+4/21/25 11:53:36p Grando says, "c heal grando"
+4/21/25 11:53:36p No player named 'heal' found in the player list.
+4/21/25 11:53:36p * Auto Healing  
+4/21/25 11:53:36p • You begin radius healing.
+4/21/25 11:54:17p • There is nobody nearby enough to continue radius healing.
+4/21/25 11:54:58p Grando says, "c heal grando"
+4/21/25 11:54:58p * Auto Healing Grando 
+4/21/25 11:57:48p You have 148 coins.
+4/21/25 11:58:04p Grando says, "c heal grando"
+4/21/25 11:58:04p No player named 'heal' found in the player list.
+4/21/25 11:58:04p * Auto Healing  
+4/21/25 11:58:04p • You begin radius healing.
+4/21/25 11:58:15p * Healing Grando 
+4/21/25 11:59:28p Grando says, "c heal grando"
+4/21/25 11:59:28p * Auto Healing Grando 
+4/22/25 12:01:25a Grando says, "c heal grando"
+4/22/25 12:01:25a * Auto Healing Grando 
+4/22/25 12:01:53a * Healing Grando 
+4/22/25 12:01:57a You have 148 coins.
+4/22/25 12:04:03a •You gain experience.
+4/22/25 12:05:28a Grando says, "c heal grando"
+4/22/25 12:05:28a * Auto Healing Grando 
+4/22/25 12:06:06a You have 148 coins.
+4/22/25 12:07:55a Grando says, "c heal grando"
+4/22/25 12:07:55a No player named 'heal' found in the player list.
+4/22/25 12:07:55a * Auto Healing  
+4/22/25 12:07:55a • You begin radius healing.
+4/22/25 12:08:02a * Healing Grando 
+4/22/25 12:10:19a You have 148 coins.
+4/22/25 12:14:19a •••
+4/22/25 12:14:19a You have been idle for too long.
+4/22/25 12:14:19a Please do something to avoid being disconnected.
+4/22/25 12:14:19a •••
+4/22/25 12:14:30a You have 148 coins.
+4/22/25 12:17:01a Grando says, "c heal grando"
+4/22/25 12:17:01a No player named 'heal' found in the player list.
+4/22/25 12:17:01a * Auto Healing  
+4/22/25 12:17:01a • You begin radius healing.
+4/22/25 12:17:13a * Healing Grando 
+4/22/25 12:18:35a You have 148 coins.
+4/22/25 12:21:14a Grando says, "c heal grando"
+4/22/25 12:21:14a No player named 'coins.' found in the player list.
+4/22/25 12:21:14a * Auto Healing  
+4/22/25 12:21:14a • You begin radius healing.
+4/22/25 12:21:19a * Healing Grando 
+4/22/25 12:22:41a You have 148 coins.
+4/22/25 12:24:04a • It’s Midnight on Merdi, the 28th day of Spring in the 641st year of the Ascendancy, and all’s well.
+4/22/25 12:24:17a Grando says, "c heal grando"
+4/22/25 12

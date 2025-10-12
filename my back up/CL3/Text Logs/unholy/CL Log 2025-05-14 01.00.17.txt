@@ -1,0 +1,75 @@
+
+5/14/25 1:00:17a * Your healer's cloak is in very good condition.
+5/14/25 1:00:17a Welcome to Clan Lord, Unholy!
+5/14/25 1:00:17a Type \HELP for a list of commands.
+5/14/25 1:00:17a • You have been charged 20 coins for advanced studies.
+5/14/25 1:00:17a • You gain experience from your recent studies.
+5/14/25 1:00:17a *Healer Mode
+5/14/25 1:00:17a *Type /hi help for more info
+5/14/25 1:00:17a You have been studying for 16 hours, 27 minutes.
+5/14/25 1:00:20a It's 2:28am on Terrdi, day 28 of Summer, 641.
+5/14/25 1:00:21a Friends online: none.
+5/14/25 1:00:22a There are three members of Black Phoenix clanning: Aldo Edward, Omega Phoenix and you.
+5/14/25 1:00:22a • What’s New: https://deltatao.com/clanlord/news
+5/14/25 1:00:31a * Tip of the day: There are subtle benefits to /SHARE-ing with mystics. (Use /OPTIONS to turn tips off.)
+5/14/25 1:01:02a \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+5/14/25 1:01:02a * Healing AldoEdward 
+5/14/25 1:01:03a •Aldo Edward was too wounded to be healed easily.
+5/14/25 1:01:04a A Scavenger Bird chews on Aldo Edward's wounds.
+5/14/25 1:01:07a Aldo Edward is sharing experiences with you.
+5/14/25 1:01:10a •Your healing is blocked.
+5/14/25 1:01:15a •You seem to heal from further away now.
+5/14/25 1:01:48a \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+5/14/25 1:01:48a * Healing Unholy 
+5/14/25 1:01:49a •You cannot use your caduceus on yourself.
+5/14/25 1:01:49a You equip your moonstone.
+5/14/25 1:01:53a * Aldo Edward recovers the Giant Vermine fur, worth 2c. Your share is 1c.
+5/14/25 1:02:34a * Aldo Edward recovers the Giant Vermine fur, worth 1c. Your share is 1c.
+5/14/25 1:02:41a * Healing AldoEdward 
+5/14/25 1:02:41a \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+5/14/25 1:02:42a •To heal yourself, type: \USE
+5/14/25 1:02:42a •To heal yourself three times, type: \USE 3
+5/14/25 1:02:45a * Healing AldoEdward 
+5/14/25 1:02:46a \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+5/14/25 1:02:47a •To heal yourself, type: \USE
+5/14/25 1:02:47a •To heal yourself three times, type: \USE 3
+5/14/25 1:02:51a You equip your caduceus.
+5/14/25 1:02:51a You must equip your moonstone before it can be used.
+5/14/25 1:02:52a You must equip your moonstone before it can be used.
+5/14/25 1:02:52a You must equip your moonstone before it can be used.
+5/14/25 1:02:53a You must equip your moonstone before it can be used.
+5/14/25 1:02:53a * Healing AldoEdward 
+5/14/25 1:02:53a You must equip your moonstone before it can be used.
+5/14/25 1:02:53a You must equip your moonstone before it can be used.
+5/14/25 1:02:54a \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+5/14/25 1:02:58a •Your healing is blocked.
+5/14/25 1:02:59a * Healer Item set to caduceus 
+5/14/25 1:03:09a * Aldo Edward recovers the Large Vermine fur, worth 2c. Your share is 1c.
+5/14/25 1:03:33a * Healing AldoEdward 
+5/14/25 1:03:35a •Your healing is blocked.
+5/14/25 1:04:10a You have 732 coins.
+5/14/25 1:04:58a •The healing spell has been broken.
+5/14/25 1:05:06a * Healing AldoEdward 
+5/14/25 1:05:06a •Aldo Edward was too wounded to be healed easily.
+5/14/25 1:05:11a •You do not have enough spiritual energy.
+5/14/25 1:05:16a * Healing AldoEdward 
+5/14/25 1:05:19a •You do not have enough spiritual energy.
+5/14/25 1:05:26a * Healing AldoEdward 
+5/14/25 1:05:30a •You do not have enough spiritual energy.
+5/14/25 1:05:45a * Healing Unholy 
+5/14/25 1:05:45a •You cannot use your caduceus on yourself.
+5/14/25 1:05:45a You equip your moonstone.
+5/14/25 1:06:08a Stuenora says, "Ah, hello, Unholy. I think I can repair that worn sunstone for you for 360 coins."
+5/14/25 1:06:08a Stuenora asks, "Would you like me to do that?"
+5/14/25 1:06:18a Unholy says, "get the fuck out of the way"
+5/14/25 1:06:23a You vault the wall.
+5/14/25 1:06:38a • /SLEEP when you wish to begin studying.
+5/14/25 1:07:01a Cat Food has been studying for 8 days, 21 hours, 43 minutes.
+5/14/25 1:07:16a You have 732 coins.
+5/14/25 1:07:23a 'grando' is not in the lands.
+5/14/25 1:07:35a You hand Cat Food 500 coins. You have 232 remaining.
+5/14/25 1:07:39a Use \SLEEP again when you return.
+5/14/25 1:07:39a You are done adventuring for a while and will be staying here.
+5/14/25 1:07:40a You have been disconnected from Clan Lord.
+5/14/25 1:07:40a • You will benefit from staying here while you are off-line.
+5/14/25 1:07:41a *** We are no longer connected to the Clan Lord game server. ***

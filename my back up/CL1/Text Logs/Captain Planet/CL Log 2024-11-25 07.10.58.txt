@@ -1,0 +1,1302 @@
+
+11/25/24 7:10:58a * Your pair of shoes named “white” is in very good condition.
+11/25/24 7:10:58a * Your shirt named “Dark Red” is in very good condition.
+11/25/24 7:10:58a * Your pair of fourth-circle pants named “turquoise” is in very good condition.
+11/25/24 7:10:58a Welcome to Clan Lord, Captain Planet!
+11/25/24 7:10:58a Type \HELP for a list of commands.
+11/25/24 7:10:58a • You gain experience from your recent studies.
+11/25/24 7:10:58a Type /healer for commands if you forget
+11/25/24 7:10:58a Captain Planet is now Clanning.
+11/25/24 7:10:58a The healing spell has started.
+11/25/24 7:10:58a You have been studying for 14 days, 8 hours, one minute.
+11/25/24 7:11:01a It's 4:50pm on Lundi, day 53 of Summer, 639.
+11/25/24 7:11:02a Friends online: none.
+11/25/24 7:11:03a There are two members of Black Phoenix clanning: Samagina and you.
+11/25/24 7:11:03a • What's New: Missing exploration experience announced for this version was eaten by server hamsters. This will instead take effect at the next Chaos Storm. For other news, see https://deltatao.com/clanlord/news/
+11/25/24 7:11:13a * Tip of the day: Visit the tutorial building in the fairgrounds for more information and advice. (Use /OPTIONS to turn tips off.)
+11/25/24 7:11:29a Captain Barnac asks, "Ah, Captain Planet. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+11/25/24 7:11:30a Captain Planet says, "yes"
+11/25/24 7:12:17a •You notice yourself recovering your energy and healing others faster.
+11/25/24 7:13:53a Panthro is sharing experiences with you.
+11/25/24 7:14:33a Captain Planet ponders, "commands c heal me / c heal name / c area"
+11/25/24 7:14:34a *Healing c 
+11/25/24 7:14:34a •You cannot use your asklepian staff on yourself.
+11/25/24 7:14:34a *Healing c 
+11/25/24 7:14:34a •You cannot use your asklepian staff on yourself.
+11/25/24 7:14:51a Panthro says, "c heal Panthro"
+11/25/24 7:14:51a *Healing asklepian 
+11/25/24 7:14:51a •You must specify a player in the game.
+11/25/24 7:14:52a *Healing Panthro" 
+11/25/24 7:15:41a Panthro says, "c heal Panthro"
+11/25/24 7:15:42a *Healing Panthro" 
+11/25/24 7:15:42a *Healing Panthro" 
+11/25/24 7:15:54a Valadorei is sharing experiences with you.
+11/25/24 7:16:17a * You feel mentally enhanced by Valadorei...
+11/25/24 7:16:23a Fortuna says, "ok sorry about that"
+11/25/24 7:16:29a Fortuna is sharing experiences with you.
+11/25/24 7:16:29a Panthro says, ":-P"
+11/25/24 7:17:03a Panthro says, "c heal Panthro"
+11/25/24 7:17:04a *Healing Panthro" 
+11/25/24 7:17:04a *Healing Panthro" 
+11/25/24 7:17:07a (Panthro twitches)
+11/25/24 7:17:34a Samagina is no longer Clanning.
+11/25/24 7:17:37a Fortuna is no longer fallen.
+11/25/24 7:17:39a Fortuna has fallen to a Haremau Kitten.
+11/25/24 7:17:39a * Panthro recovers the Haremau Kitten fur, worth 7c. Your share is 2c.
+11/25/24 7:18:05a Maxtrax is now Clanning.
+11/25/24 7:18:13a Kala says, "hehe"
+11/25/24 7:18:25a Panthro yells, "I gotta go get a chain"
+11/25/24 7:18:31a Fortuna is no longer fallen.
+11/25/24 7:18:33a Panthro says, "brb"
+11/25/24 7:18:48a Panthro yells, "I gotta go get a chain"
+11/25/24 7:19:18a Fortuna growls, "boosts are nice"
+11/25/24 7:19:20a Fortuna growls, "makes me more bricky"
+11/25/24 7:19:21a Maxtrax is sharing experiences with you.
+11/25/24 7:19:24a (Fortuna waves)
+11/25/24 7:19:33a You are not sharing experiences with anyone.
+11/25/24 7:19:33a Currently sharing their experiences with you: Fortuna, Maxtrax, Panthro, Valadorei.
+11/25/24 7:19:38a You begin sharing your experiences with Valadorei.
+11/25/24 7:19:39a You are still too mentally fatigued to change spirit links.
+11/25/24 7:19:40a You are still too mentally fatigued to change spirit links.
+11/25/24 7:19:41a You begin sharing your experiences with Kala.
+11/25/24 7:19:41a You are sharing experiences with Kala and Valadorei.
+11/25/24 7:19:43a You are still too mentally fatigued to change spirit links.
+11/25/24 7:19:44a You begin sharing your experiences with Maxtrax.
+11/25/24 7:19:44a You are sharing experiences with Maxtrax, Kala and Valadorei.
+11/25/24 7:20:11a * Your mental enhancement fades.
+11/25/24 7:20:11a Panthro is no longer Clanning.
+11/25/24 7:20:13a * Your mental enhancement fades.
+11/25/24 7:20:17a Seaforth is now Clanning.
+11/25/24 7:20:18a * Maxtrax recovers the Haremau Kitten fur, worth 3c. Your share is 1c.
+11/25/24 7:20:30a Maxtrax says, "c heal me"
+11/25/24 7:20:30a *Healing Maxtrax 
+11/25/24 7:20:30a *Healing Maxtrax 
+11/25/24 7:20:37a * You recover the Haremau Kitten fur, worth 17c. Your share is 3c.
+11/25/24 7:20:48a Maxtrax says, "c area"
+11/25/24 7:20:51a Seaforth is no longer Clanning.
+11/25/24 7:20:51a • You begin radius healing.
+11/25/24 7:20:57a Panthro is now Clanning.
+11/25/24 7:21:00a Fortuna growls, "using c huh"
+11/25/24 7:21:09a Maxtrax says, "c areayeah"
+11/25/24 7:21:12a • You stop radius healing.
+11/25/24 7:21:12a Maxtrax says, "lol"
+11/25/24 7:21:12a Fortuna growls, ":)"
+11/25/24 7:21:26a Maxtrax says, "c area"
+11/25/24 7:21:27a • You begin radius healing.
+11/25/24 7:21:28a Fortuna says, "i mean you could always just do "heal""
+11/25/24 7:21:36a Fortuna says, "like "area", and "heal me""
+11/25/24 7:21:37a Maxtrax says, "yeah no"
+11/25/24 7:21:44a Maxtrax says, "the macro breaks"
+11/25/24 7:21:47a Panthro is sharing experiences with you.
+11/25/24 7:21:49a Maxtrax says, "area sure"
+11/25/24 7:21:52a Maxtrax says, "not heal"
+11/25/24 7:21:57a • There is nobody nearby enough to continue radius healing.
+11/25/24 7:21:57a Fortuna says, "can write your own i'm sure"
+11/25/24 7:22:04a Maxtrax says, "i have"
+11/25/24 7:22:05a Fortuna says, "i would personally choose "h fort""
+11/25/24 7:22:14a Maxtrax says, "heh"
+11/25/24 7:22:30a Maxtrax says, "the problem some older healers have"
+11/25/24 7:22:38a Maxtrax says, "iff you have more then one name"
+11/25/24 7:22:44a Maxtrax says, "the command wont work"
+11/25/24 7:22:51a Fortuna asks, "more than one name?"
+11/25/24 7:23:03a Maxtrax says, "like cap"
+11/25/24 7:23:10a Fortuna says, "sorry i accidentally murdered an andvari"
+11/25/24 7:24:21a Maxtrax says, "heh"
+11/25/24 7:24:29a Maxtrax says, "for most i belive"
+11/25/24 7:24:46a Xael says, "ok here i go setting up 1w"
+11/25/24 7:25:27a •••
+11/25/24 7:25:27a You have been idle for too long.
+11/25/24 7:25:27a Please do something to avoid being disconnected.
+11/25/24 7:25:27a •••
+11/25/24 7:25:32a You have 1666 coins.
+11/25/24 7:25:34a Fortuna yells, "For the Fledgling!"
+11/25/24 7:25:45a Fortuna yells, "gather here"
+11/25/24 7:26:01a Sauver is now Clanning.
+11/25/24 7:26:10a * Panthro recovers the Bolok Cougar fur, worth 3c. Your share is 1c.
+11/25/24 7:26:14a Fortuna yells, "1"
+11/25/24 7:26:16a Sauver is no longer Clanning.
+11/25/24 7:26:22a * Maxtrax recovers the Haremau Kitten fur, worth 12c. Your share is 3c.
+11/25/24 7:26:39a * Panthro recovers the Bolok Cougar fur, worth 3c. Your share is 1c.
+11/25/24 7:26:45a Fortuna says, "kala coming, stuff spawned"
+11/25/24 7:26:49a Kala yells, "!"
+11/25/24 7:26:52a Panthro yells, "."
+11/25/24 7:26:53a You have 1671 coins.
+11/25/24 7:27:00a Kala has fallen to a Haremau Kitten.
+11/25/24 7:27:04a * Panthro recovers the Haremau Kitten fur, worth 10c. Your share is 2c.
+11/25/24 7:27:07a Fortuna growls, "hehe classic"
+11/25/24 7:27:07a •You don't quite have the training to heal Kala’s injuries.
+11/25/24 7:27:11a Shadrock is now Clanning.
+11/25/24 7:27:11a Fortuna growls, "there are 3 haremau west"
+11/25/24 7:27:13a Captain Planet says, "quite"
+11/25/24 7:27:14a •You don't quite have the training to heal Kala’s injuries.
+11/25/24 7:27:17a A Common Vulture feasts upon Kala's organs.
+11/25/24 7:27:20a •You don't quite have the training to heal Kala’s injuries.
+11/25/24 7:27:21a * You feel mentally enhanced by Valadorei...
+11/25/24 7:27:22a Captain Planet says, "i have less then 100 horus :/"
+11/25/24 7:27:27a •You don't quite have the training to heal Kala’s injuries.
+11/25/24 7:27:27a Fortuna says, "aw man"
+11/25/24 7:27:28a Panthro exclaims, "classic dead Kala!"
+11/25/24 7:27:33a •You don't quite have the training to heal Kala’s injuries.
+11/25/24 7:27:36a Kala asks, "orga eye?"
+11/25/24 7:27:40a •You don't quite have the training to heal Kala’s injuries.
+11/25/24 7:27:47a •You don't quite have the training to heal Kala’s injuries.
+11/25/24 7:27:50a Kala says, "guess not"
+11/25/24 7:27:51a Captain Planet says, "still quite"
+11/25/24 7:27:53a •You don't quite have the training to heal Kala’s injuries.
+11/25/24 7:27:59a Kala says, "shame"
+11/25/24 7:28:00a •You don't quite have the training to heal Kala’s injuries.
+11/25/24 7:28:04a Kala asks, "one of you mind dragging me to town?"
+11/25/24 7:28:13a You have 1673 coins.
+11/25/24 7:28:19a Fortuna says, "we are going to ahve to lure west"
+11/25/24 7:28:40a Fortuna says, "5 haremau"
+11/25/24 7:28:58a Fortuna says, "kala is very fragile for this area"
+11/25/24 7:29:09a Fortuna says, "she has 500 horus though"
+11/25/24 7:29:14a Maxtrax says, "heh"
+11/25/24 7:29:24a Maxtrax says, "yeah cap was made for long range"
+11/25/24 7:29:31a •You gain experience.
+11/25/24 7:29:32a Maxtrax says, "800 proxi"
+11/25/24 7:29:33a Shadrock is no longer Clanning.
+11/25/24 7:29:34a You have 1673 coins.
+11/25/24 7:29:36a Maxtrax says, "500 radium"
+11/25/24 7:30:00a Kala is still fallen to a Haremau Kitten.
+11/25/24 7:30:31a Kala is no longer fallen.
+11/25/24 7:30:42a Fortuna says, "coming back"
+11/25/24 7:30:54a You have 1673 coins.
+11/25/24 7:31:04a You begin sharing your experiences with Fortuna.
+11/25/24 7:31:04a You are sharing experiences with Fortuna, Maxtrax, Kala and Valadorei.
+11/25/24 7:31:09a You begin sharing your experiences with Xael.
+11/25/24 7:31:09a You are sharing experiences with Xael, Fortuna, Maxtrax, Kala and Valadorei.
+11/25/24 7:31:13a * Your mental enhancement fades.
+11/25/24 7:31:15a * Your mental enhancement fades.
+11/25/24 7:32:14a You have 1673 coins.
+11/25/24 7:32:30a Panthro yells, "."
+11/25/24 7:32:37a Fortuna yells, "!"
+11/25/24 7:32:42a Panthro yells, "."
+11/25/24 7:32:49a * Fortuna recovers the Bolok Cougar fur, worth 9c. Your share is 2c.
+11/25/24 7:32:54a * You feel mentally enhanced by Valadorei...
+11/25/24 7:32:54a Fortuna says, "ok time to lure w"
+11/25/24 7:33:20a * Panthro recovers the Haremau Kitten fur, worth 12c. Your share is 2c.
+11/25/24 7:33:34a You have 1677 coins.
+11/25/24 7:33:52a Fortuna thinks, "w"
+11/25/24 7:33:53a Malakar is no longer Clanning.
+11/25/24 7:33:55a Satris is no longer Clanning.
+11/25/24 7:34:02a Fortuna yells, "careful"
+11/25/24 7:34:08a Valadorei has fallen to a Haremau Kitten.
+11/25/24 7:34:08a * Panthro recovers the Haremau Kitten fur, worth 12c. Your share is 2c.
+11/25/24 7:34:17a * Panthro recovers the Haremau Kitten fur, worth 10c. Your share is 1c.
+11/25/24 7:34:19a •You sense healing energy from Kala.
+11/25/24 7:34:26a Fortuna is no longer fallen.
+11/25/24 7:34:26a Valadorei is no longer fallen.
+11/25/24 7:34:29a Valadorei has fallen to a Haremau Kitten.
+11/25/24 7:34:42a Maxtrax says, "c area"
+11/25/24 7:34:42a Fortuna thinks, "went e"
+11/25/24 7:34:42a • You begin radius healing.
+11/25/24 7:34:54a You have 1680 coins.
+11/25/24 7:35:01a Panthro says, "wooo"
+11/25/24 7:35:06a Kala says, "you did it"
+11/25/24 7:35:14a Valadorei is no longer fallen.
+11/25/24 7:35:14a • You begin radius healing.
+11/25/24 7:35:15a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+11/25/24 7:35:16a •You do not have enough in you.
+11/25/24 7:35:16a Captain Planet has fallen to a Haremau.
+11/25/24 7:35:16a •Your wounds are severe.
+11/25/24 7:35:18a Valadorei has fallen to a Haremau.
+11/25/24 7:35:19a * Panthro recovers the Haremau Kitten fur, worth 6c. Your share is 1c.
+11/25/24 7:35:21a Kala has fallen to a Haremau.
+11/25/24 7:35:22a Fortuna starts dragging you.
+11/25/24 7:35:24a Maxtrax has fallen to a Haremau.
+11/25/24 7:35:25a Panthro has fallen to a Haremau.
+11/25/24 7:35:35a Fortuna has fallen to a Haremau.
+11/25/24 7:35:35a Maxtrax yells, "you jinxed it :P"
+11/25/24 7:35:39a Fortuna says, "um"
+11/25/24 7:35:43a Fortuna says, "well"
+11/25/24 7:35:53a Fortuna says, "x has no chain"
+11/25/24 7:35:55a Captain Planet says, "i got a guy"
+11/25/24 7:36:05a Xael thinks, "metz needs rescue. 2w of cove"
+11/25/24 7:36:14a A Co'Acha pokes at Valadorei's flesh.
+11/25/24 7:36:15a You have 1681 coins.
+11/25/24 7:36:26a A Co'Acha munches on Valadorei's organs.
+11/25/24 7:36:28a Captain Planet says, "maybe not"
+11/25/24 7:36:32a Captain Planet says, "hmm"
+11/25/24 7:36:46a Magnic II is now Clanning.
+11/25/24 7:36:48a * Your mental enhancement fades.
+11/25/24 7:36:50a * Your mental enhancement fades.
+11/25/24 7:36:54a Fortuna says, "5 haremau is tough"
+11/25/24 7:36:58a Magnic II is no longer Clanning.
+11/25/24 7:37:04a Captain Planet says, "yeah"
+11/25/24 7:37:05a Captain Planet says, "heh"
+11/25/24 7:37:07a A Co'Acha feasts upon Valadorei's gaping mouth.
+11/25/24 7:37:09a A Co'Acha feasts upon Valadorei's gaping mouth.
+11/25/24 7:37:11a Xael thinks, "anyone able to help metz crew?"
+11/25/24 7:37:18a A Co'Acha tears at Valadorei's wounds.
+11/25/24 7:37:35a You have 1681 coins.
+11/25/24 7:37:35a Captain Planet says, "i dont have any one with a chain"
+11/25/24 7:37:44a Captain Planet says, "on the other accounts :P"
+11/25/24 7:38:17a Valadorei is still fallen to a Haremau.
+11/25/24 7:38:20a Kala is still fallen to a Haremau.
+11/25/24 7:38:23a Maxtrax is still fallen to a Haremau.
+11/25/24 7:38:24a Panthro is still fallen to a Haremau.
+11/25/24 7:38:35a Fortuna is still fallen to a Haremau.
+11/25/24 7:38:35a Fortuna says, "hah"
+11/25/24 7:38:43a Grando is now Clanning.
+11/25/24 7:38:55a You have 1681 coins.
+11/25/24 7:38:56a Grando is no longer Clanning.
+11/25/24 7:38:59a A Co'Acha bites Maxtrax's organs.
+11/25/24 7:39:49a Fortuna says, "x only has so much time with all the bitey bugs"
+11/25/24 7:40:15a You have 1681 coins.
+11/25/24 7:40:41a A Co'Acha nibbles Maxtrax's entrails.
+11/25/24 7:40:55a Panthro is no longer Clanning.
+11/25/24 7:41:03a Maxtrax says, "maybe omega would help if he not afk"
+11/25/24 7:41:12a Seaforth is now Clanning.
+11/25/24 7:41:17a Valadorei has been fallen for some time because of a Haremau.
+11/25/24 7:41:20a Kala has been fallen for some time because of a Haremau.
+11/25/24 7:41:23a Maxtrax has been fallen for some time because of a Haremau.
+11/25/24 7:41:26a A Co'Acha munches on Valadorei's entrails.
+11/25/24 7:41:35a Fortuna has been fallen for some time because of a Haremau.
+11/25/24 7:41:35a You have 1681 coins.
+11/25/24 7:42:08a Seaforth thinks, "Requesting Horus or a chainer to Metz for a short rescue"
+11/25/24 7:42:30a A Co'Acha pokes at Valadorei's fallen body.
+11/25/24 7:42:42a A Co'Acha plucks at Valadorei's toes.
+11/25/24 7:42:50a A Co'Acha feasts upon Kala's organs.
+11/25/24 7:42:56a You have 1681 coins.
+11/25/24 7:43:02a A Co'Acha bites Maxtrax's wounds.
+11/25/24 7:43:21a A Co'Acha rips at Maxtrax's wounds.
+11/25/24 7:43:26a A Co'Acha feasts upon Maxtrax's body parts.
+11/25/24 7:43:34a Fortuna says, "i guess i could depart and chain"
+11/25/24 7:43:44a Seaforth yells, "hello"
+11/25/24 7:43:47a Fortuna yells, "here"
+11/25/24 7:43:48a Captain Planet yells, "!"
+11/25/24 7:44:07a Captain Planet says, "no chain :P"
+11/25/24 7:44:08a Seaforth says, "the problem is Panthro has my chains"
+11/25/24 7:44:15a Fortuna says, "oh no"
+11/25/24 7:44:16a You have 1681 coins.
+11/25/24 7:44:17a Valadorei has been fallen for some time because of a Haremau.
+11/25/24 7:44:18a A Co'Acha tears at Kala's toes.
+11/25/24 7:44:19a Captain Planet says, "i can help swap in tc"
+11/25/24 7:44:19a A Co'Acha feasts upon Maxtrax's organs.
+11/25/24 7:44:20a A Co'Acha tears at Maxtrax's flesh.
+11/25/24 7:44:20a Kala has been fallen for some time because of a Haremau.
+11/25/24 7:44:23a Maxtrax has been fallen for some time because of a Haremau.
+11/25/24 7:44:31a A Co'Acha bites Maxtrax's toes.
+11/25/24 7:44:35a Fortuna has been fallen for some time because of a Haremau.
+11/25/24 7:44:40a A Co'Acha tears at Kala's gaping mouth.
+11/25/24 7:44:42a A Co'Acha feasts upon Kala's toes.
+11/25/24 7:44:44a Captain Planet says, "magnicii"
+11/25/24 7:44:46a A Co'Acha tears at Kala's wounds.
+11/25/24 7:44:49a Captain Planet asks, "if you like?"
+11/25/24 7:45:01a Magnic II is now Clanning.
+11/25/24 7:45:01a A Co'Acha tears at Maxtrax's flesh.
+11/25/24 7:45:03a Seaforth thinks, "Requesting Horus or a chainer to Metz for a short rescue. 2W from Metz Beach, pretty quick."
+11/25/24 7:45:08a A Co'Acha pokes at Kala's body parts.
+11/25/24 7:45:09a A Co'Acha plucks at Maxtrax's flesh.
+11/25/24 7:45:24a Omega thinks, "omw"
+11/25/24 7:45:36a You have 1681 coins.
+11/25/24 7:45:39a Omega thinks, "with Some horus and a chain"
+11/25/24 7:45:48a Captain Planet says, "see :P"
+11/25/24 7:46:00a A Co'Acha pokes at Maxtrax's toes.
+11/25/24 7:46:03a A Co'Acha munches on Maxtrax's toes.
+11/25/24 7:46:09a A Co'Acha chews on Maxtrax's fingertips.
+11/25/24 7:46:10a •The Sun sets.
+11/25/24 7:46:12a Magnic II is no longer Clanning.
+11/25/24 7:46:16a A Co'Acha munches on Maxtrax's body parts.
+11/25/24 7:46:24a A Co'Acha chews on Maxtrax's wounds.
+11/25/24 7:46:28a A Co'Acha munches on Fortuna's flesh.
+11/25/24 7:46:56a A Co'Acha pokes at Fortuna's toes.
+11/25/24 7:46:56a You have 1681 coins.
+11/25/24 7:47:09a A Co'Acha bites Maxtrax's fallen body.
+11/25/24 7:47:17a Valadorei is becoming part of the scenery, since falling to a Haremau.
+11/25/24 7:47:20a A Co'Acha tears at Fortuna's toes.
+11/25/24 7:47:20a Kala is becoming part of the scenery, since falling to a Haremau.
+11/25/24 7:47:22a A Co'Acha pokes at Maxtrax's wounds.
+11/25/24 7:47:23a Maxtrax is becoming part of the scenery, since falling to a Haremau.
+11/25/24 7:47:30a Omega yells, "They said he could dance and of course they were right!"
+11/25/24 7:47:31a A Co'Acha rips at Fortuna's organs.
+11/25/24 7:47:35a Fortuna is becoming part of the scenery, since falling to a Haremau.
+11/25/24 7:47:37a Fortuna exclaims, "thanks!"
+11/25/24 7:47:40a (Maxtrax waves)
+11/25/24 7:47:42a •You sense healing energy from Omega.
+11/25/24 7:47:52a Seaforth says, "Big cat chased me to beach"
+11/25/24 7:47:52a •Kala was too wounded to be healed easily.
+11/25/24 7:47:55a •You learn from healing.
+11/25/24 7:47:55a Kala is no longer fallen.
+11/25/24 7:47:57a Seaforth is sharing experiences with you.
+11/25/24 7:48:00a Omega says, ")"
+11/25/24 7:48:02a •You sense healing energy from Omega.
+11/25/24 7:48:03a •Maxtrax’s injuries are a little more serious than you can heal.
+11/25/24 7:48:03a •Maxtrax’s injuries were grave.
+11/25/24 7:48:09a Maxtrax is no longer fallen.
+11/25/24 7:48:10a •You don't quite have the training to heal Fortuna’s injuries.
+11/25/24 7:48:11a •Fortuna’s injuries were serious.
+11/25/24 7:48:11a Seaforth says, "Omega, is that your pet Kudzu"
+11/25/24 7:48:14a Kala says, "val q"
+11/25/24 7:48:16a Fortuna is no longer fallen.
+11/25/24 7:48:16a You have 1681 coins.
+11/25/24 7:48:17a Omega asks, "that one?"
+11/25/24 7:48:25a • You begin radius healing.
+11/25/24 7:48:30a * You recover the Vile Cricket mandibles, worth 1c.
+11/25/24 7:48:35a * Fortuna recovers the Haremau fur, worth 10c. Your share is 1c.
+11/25/24 7:48:37a * You recover the Vile Cricket mandibles, worth 1c.
+11/25/24 7:48:37a •You sense healing energy from Omega.
+11/25/24 7:48:48a • There is nobody nearby enough to continue radius healing.
+11/25/24 7:48:48a Maxtrax has fallen to a Haremau.
+11/25/24 7:49:06a Maxtrax is no longer fallen.
+11/25/24 7:49:15a Omega says, ")"
+11/25/24 7:49:21a Valadorei is no longer fallen.
+11/25/24 7:49:24a • You begin radius healing.
+11/25/24 7:49:25a Omega asks, "you slla good?"
+11/25/24 7:49:26a •You do not have enough spiritual energy.
+11/25/24 7:49:29a Kala has fallen to a Haremau.
+11/25/24 7:49:29a • You begin radius healing.
+11/25/24 7:49:33a Fortuna growls, "think so"
+11/25/24 7:49:34a Kala is no longer fallen.
+11/25/24 7:49:34a Valadorei has fallen to a Haremau.
+11/25/24 7:49:37a You have 1682 coins.
+11/25/24 7:49:37a Maxtrax has fallen to a Haremau.
+11/25/24 7:49:47a (Omega waves)
+11/25/24 7:49:47a •Maxtrax’s wounds are much more severe than you can heal.
+11/25/24 7:49:50a Kala says, "thanks"
+11/25/24 7:49:53a Seaforth says, "thanks Omega"
+11/25/24 7:49:54a Valadorei is no longer fallen.
+11/25/24 7:49:54a Omega attempts to project into another plane.
+11/25/24 7:49:55a •Maxtrax’s wounds are much more severe than you can heal.
+11/25/24 7:49:55a •Maxtrax’s body was severely maimed.
+11/25/24 7:50:03a Valadorei says, "<3 Ω"
+11/25/24 7:50:04a Seaforth says, "ok so um"
+11/25/24 7:50:17a Maxtrax is no longer fallen.
+11/25/24 7:50:20a Seaforth says, "what if Seaforth hunts here now with yall"
+11/25/24 7:50:30a Alzoneth is now Clanning.
+11/25/24 7:50:30a Omega is no longer Clanning.
+11/25/24 7:50:30a Xael has fallen to a Vile Cricket.
+11/25/24 7:50:31a You equip your moonstone.
+11/25/24 7:50:31a •The healing spell has been broken.
+11/25/24 7:50:34a * Valadorei recovers the Vile Cricket mandibles, worth 1c. Your share is 1c.
+11/25/24 7:50:35a Seaforth says, "and Fortuna can take Panthro hunting another time"
+11/25/24 7:50:35a * You recover the Vile Cricket mandibles, worth 1c.
+11/25/24 7:50:38a Kala says, "ryy e"
+11/25/24 7:50:39a Maxtrax has fallen to a Vile Cricket.
+11/25/24 7:50:39a Kala yells, "e"
+11/25/24 7:50:43a You equip your chain.
+11/25/24 7:50:43a You equip your moonstone.
+11/25/24 7:50:46a Captain Planet says, "uuuu"
+11/25/24 7:50:53a You equip your chain.
+11/25/24 7:50:55a You start dragging Maxtrax.
+11/25/24 7:50:57a You have 1683 coins.
+11/25/24 7:50:59a Dinsdale is no longer Clanning.
+11/25/24 7:51:16a Labrat is now Clanning.
+11/25/24 7:51:30a Maxtrax is no longer fallen.
+11/25/24 7:51:31a You equip your asklepian staff.
+11/25/24 7:51:32a • You begin radius healing.
+11/25/24 7:51:36a * Seaforth recovers the Vile Cricket mandibles, worth 1c. Your share is 1c.
+11/25/24 7:51:38a •You do not have enough spiritual energy.
+11/25/24 7:51:44a Fortuna growls, "who's dead?"
+11/25/24 7:51:48a • You begin radius healing.
+11/25/24 7:51:59a Seaforth yells, "hi"
+11/25/24 7:52:01a Fortuna yells, "here"
+11/25/24 7:52:02a * You recover the Vile Cricket mandibles, worth 1c.
+11/25/24 7:52:03a Captain Planet yells, "!"
+11/25/24 7:52:07a * Valadorei recovers the Vermine fur, worth 1c. Your share is 1c.
+11/25/24 7:52:17a You have 1685 coins.
+11/25/24 7:52:17a Seaforth yells, "hi"
+11/25/24 7:52:21a Maxtrax yells, "!"
+11/25/24 7:52:28a * Fortuna recovers the Bolok Cougar fur, worth 8c. Your share is 1c.
+11/25/24 7:52:33a Lanskar is no longer Clanning.
+11/25/24 7:52:40a • There is nobody nearby enough to continue radius healing.
+11/25/24 7:53:08a Seaforth yells, "hi"
+11/25/24 7:53:16a Maxtrax has fallen to a Haremau.
+11/25/24 7:53:22a •Maxtrax’s injuries are a little more serious than you can heal.
+11/25/24 7:53:28a •Maxtrax’s injuries were grave.
+11/25/24 7:53:29a Xael is still fallen to a Vile Cricket.
+11/25/24 7:53:36a •Maxtrax was too wounded to be healed easily.
+11/25/24 7:53:36a •You don't quite have the training to heal Maxtrax’s injuries.
+11/25/24 7:53:37a You have 1686 coins.
+11/25/24 7:53:40a •You learn from healing.
+11/25/24 7:53:40a Maxtrax has fallen to a Haremau.
+11/25/24 7:53:42a •You don't quite have the training to heal Maxtrax’s injuries.
+11/25/24 7:53:49a •You don't quite have the training to heal Maxtrax’s injuries.
+11/25/24 7:53:50a Maxtrax says, "heh"
+11/25/24 7:53:56a •You don't quite have the training to heal Maxtrax’s injuries.
+11/25/24 7:53:58a Kala says, "max q now"
+11/25/24 7:54:02a •You don't quite have the training to heal Maxtrax’s injuries.
+11/25/24 7:54:08a Kala asks, "captain on?"
+11/25/24 7:54:09a •You don't quite have the training to heal Maxtrax’s injuries.
+11/25/24 7:54:16a Captain Planet says, "yeah i was"
+11/25/24 7:54:19a •You don't quite have the training to heal Maxtrax’s injuries.
+11/25/24 7:54:21a Kala says, "hehe"
+11/25/24 7:54:29a Captain Planet says, "working on horus"
+11/25/24 7:54:30a Kala asks, "who's still dead?"
+11/25/24 7:54:34a Captain Planet says, ":P"
+11/25/24 7:54:39a Kala asks, "panthro and?"
+11/25/24 7:54:41a Seaforth says, "Max and I assume Xael"
+11/25/24 7:54:46a Kala says, "rigth"
+11/25/24 7:54:47a Seaforth says, "oh yeah Panthro"
+11/25/24 7:54:55a Captain Planet says, "i have chain"
+11/25/24 7:54:56a Fortuna says, "recovering spirit and then will try a run for x"
+11/25/24 7:54:57a You have 1686 coins.
+11/25/24 7:55:00a Seaforth says, "He is .. not important."
+11/25/24 7:55:05a Labrat is no longer Clanning.
+11/25/24 7:55:08a Fortuna says, "if you're sure"
+11/25/24 7:55:12a Seaforth says, ":-P"
+11/25/24 7:55:58a Fortuna yells, "brb"
+11/25/24 7:56:18a You have 1686 coins.
+11/25/24 7:56:30a Xael has been fallen for some time because of a Vile Cricket.
+11/25/24 7:56:40a Maxtrax is still fallen to a Haremau.
+11/25/24 7:56:59a •Xael was too wounded to be healed easily.
+11/25/24 7:57:05a Xael is no longer fallen.
+11/25/24 7:57:38a You have 1686 coins.
+11/25/24 7:57:58a Kala says, "how many ranks is the ring training"
+11/25/24 7:58:04a Kala says, "feels like it's taking forever"
+11/25/24 7:58:16a Captain Planet asks, "healer ring?"
+11/25/24 7:58:19a Lanskar is now Clanning.
+11/25/24 7:58:19a Kala says, "yeah"
+11/25/24 7:58:25a Captain Planet says, "30 each trainer"
+11/25/24 7:58:34a Kala says, "wow"
+11/25/24 7:58:38a Kala says, "so many"
+11/25/24 7:58:43a Captain Planet says, "there only 2"
+11/25/24 7:58:47a * You feel mentally enhanced by Valadorei...
+11/25/24 7:58:52a Captain Planet says, "first is 50% of mooonstone"
+11/25/24 7:58:56a Seaforth says, "Its pretty important if you are going to chain I guess"
+11/25/24 7:58:58a You have 1686 coins.
+11/25/24 7:59:00a Alzoneth is no longer Clanning.
+11/25/24 7:59:01a Captain Planet says, "the second get you to 75%"
+11/25/24 7:59:09a Kala says, "super important for me to self heal while cadding"
+11/25/24 7:59:16a (Seaforth nods)
+11/25/24 7:59:23a Kala says, "i guess i could macro it but i'm halfway to the first one"
+11/25/24 7:59:40a Maxtrax has been fallen for some time because of a Haremau.
+11/25/24 8:00:00a Seaforth says, "It only heals when your Spirit is full, so it might not do what you want while cadding"
+11/25/24 8:00:09a Kala says, "my spirit is full while cadding right now"
+11/25/24 8:00:14a Seaforth says, "ah ok"
+11/25/24 8:00:18a Seaforth says, "that works"
+11/25/24 8:00:18a You have 1686 coins.
+11/25/24 8:00:34a Fortuna growls, "are we waiting for someone"
+11/25/24 8:00:38a Seaforth says, "no"
+11/25/24 8:00:45a Fortuna says, "oh i thought somebody was bringing horus"
+11/25/24 8:00:49a Seaforth says, "I could bring Liono"
+11/25/24 8:01:05a Captain Planet says, "bring panto :P"
+11/25/24 8:01:38a You have 1686 coins.
+11/25/24 8:02:40a Maxtrax has been fallen for some time because of a Haremau.
+11/25/24 8:02:41a * Your mental enhancement fades.
+11/25/24 8:02:43a * Your mental enhancement fades.
+11/25/24 8:02:59a You have 1686 coins.
+11/25/24 8:03:10a Fortuna thinks, "squib doesn't seem to be squibbing"
+11/25/24 8:03:47a Seaforth is no longer Clanning.
+11/25/24 8:03:51a Lion-O is now Clanning.
+11/25/24 8:04:11a Maxtrax is no longer fallen.
+11/25/24 8:04:19a You have 1686 coins.
+11/25/24 8:04:36a Optimus Phoenix is now Clanning.
+11/25/24 8:04:40a Lion-O is no longer Clanning.
+11/25/24 8:04:45a Panthro is now Clanning.
+11/25/24 8:04:50a Panthro is sharing experiences with you.
+11/25/24 8:04:52a Optimus Phoenix is no longer Clanning.
+11/25/24 8:05:39a You have 1686 coins.
+11/25/24 8:05:58a Fortuna says, "heading for pantrho"
+11/25/24 8:06:49a •Panthro’s injuries are significantly more serious than you can heal.
+11/25/24 8:06:55a •Panthro’s wounds were severe.
+11/25/24 8:06:55a •Panthro’s injuries are significantly more serious than you can heal.
+11/25/24 8:06:59a You have 1686 coins.
+11/25/24 8:07:11a * You feel mentally enhanced by Valadorei...
+11/25/24 8:07:12a Panthro is no longer fallen.
+11/25/24 8:07:14a * You recover the Vile Cricket mandibles, worth 1c.
+11/25/24 8:07:32a * Fortuna recovers the Vile Cricket mandibles, worth 1c. Your share is 1c.
+11/25/24 8:07:35a * You recover the Vile Cricket mandibles, worth 1c.
+11/25/24 8:07:36a * Panthro recovers the Vile Cricket mandibles, worth 1c. Your share is 1c.
+11/25/24 8:07:42a • You begin radius healing.
+11/25/24 8:07:53a Panthro says, "c heal area"
+11/25/24 8:07:53a *Healing area" 
+11/25/24 8:07:54a •You must specify a player in the game.
+11/25/24 8:07:54a *Healing area" 
+11/25/24 8:07:54a •You must specify a player in the game.
+11/25/24 8:08:06a Captain Planet ponders, "c area"
+11/25/24 8:08:08a • You stop radius healing.
+11/25/24 8:08:11a • You begin radius healing.
+11/25/24 8:08:13a Panthro says, "c area"
+11/25/24 8:08:18a • You stop radius healing.
+11/25/24 8:08:19a Captain Planet says, "heh"
+11/25/24 8:08:19a You have 1688 coins.
+11/25/24 8:08:23a • You begin radius healing.
+11/25/24 8:08:26a Captain Planet says, "it toggles"
+11/25/24 8:08:31a Panthro exclaims, "VIP Area!"
+11/25/24 8:08:36a Captain Planet says, ":P"
+11/25/24 8:09:08a Panthro says, "rdy"
+11/25/24 8:09:18a * You recover the Vile Cricket mandibles, worth 1c.
+11/25/24 8:09:24a * Fortuna recovers the Rudremau fur, worth 17c. Your share is 2c.
+11/25/24 8:09:32a Panthro yells, "rank"
+11/25/24 8:09:40a You have 1690 coins.
+11/25/24 8:09:40a Fortuna growls, "nice"
+11/25/24 8:10:01a • There is nobody nearby enough to continue radius healing.
+11/25/24 8:10:25a Kala says, "oh funny"
+11/25/24 8:10:32a Kala says, "my healing macro breaks if you have a space in your name"
+11/25/24 8:10:38a Kala says, "one second"
+11/25/24 8:10:43a Maxtrax says, "yeah"
+11/25/24 8:10:51a Maxtrax says, "thats what i was saying before"
+11/25/24 8:10:59a Maxtrax says, "macro dont handle it will"
+11/25/24 8:11:00a You have 1690 coins.
+11/25/24 8:11:03a Kala says, ""/usei caduceus " @click.name.word[0] " \r""
+11/25/24 8:11:05a * Your mental enhancement fades.
+11/25/24 8:11:06a Maxtrax says, "well*"
+11/25/24 8:11:06a Kala says, "fixes it"
+11/25/24 8:11:07a * Your mental enhancement fades.
+11/25/24 8:11:12a Maxtrax says, "oh"
+11/25/24 8:11:13a Kala says, "all set now"
+11/25/24 8:11:18a Maxtrax says, "that easy fix"
+11/25/24 8:11:20a Kala says, ":)"
+11/25/24 8:11:30a Fortuna yells, "gather west~!"
+11/25/24 8:11:52a Panthro yells, "Kanye West!"
+11/25/24 8:12:16a * Panthro recovers the Rudremau fur, worth 17c. Your share is 3c.
+11/25/24 8:12:20a You have 1693 coins.
+11/25/24 8:12:37a •The player must be in the same area.
+11/25/24 8:12:46a Fortuna yells, "going west"
+11/25/24 8:12:57a Panthro yells, "."
+11/25/24 8:13:02a Fortuna yells, "nw corner"
+11/25/24 8:13:04a * You recover the Vermine fur, worth 1c.
+11/25/24 8:13:04a * You recover the Vile Cricket mandibles, worth 1c.
+11/25/24 8:13:31a Fortuna says, "might wanna stand over here"
+11/25/24 8:13:33a •The player must be in the same area.
+11/25/24 8:13:40a You have 1693 coins.
+11/25/24 8:13:56a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+11/25/24 8:13:56a Captain Planet has fallen to a Pazu-Ohwi.
+11/25/24 8:13:56a •You are easily healable.
+11/25/24 8:14:00a Kala has fallen to an Island Mantis.
+11/25/24 8:14:02a An Uncommon Vulture bites your fingertips.
+11/25/24 8:14:14a An Uncommon Vulture tears at your gaping mouth.
+11/25/24 8:14:23a Alzoneth is now Clanning.
+11/25/24 8:14:25a An Uncommon Vulture bites your toes.
+11/25/24 8:14:30a An Uncommon Vulture bites your organs.
+11/25/24 8:14:41a An Uncommon Vulture plucks at your entrails.
+11/25/24 8:14:42a Valadorei has fallen to an Island Mantis.
+11/25/24 8:15:00a You have 1693 coins.
+11/25/24 8:15:29a Fortuna starts dragging you.
+11/25/24 8:15:42a * Fortuna recovers the Haremau Kitten fur, worth 12c. Your share is 1c.
+11/25/24 8:15:44a Fortuna thinks, "heading town, clear the snells"
+11/25/24 8:16:00a Haremew, Striped Terror says, "Greetings, Fortuna. I can lend you a costume like mine."
+11/25/24 8:16:02a Haremew, Striped Terror says, "You may keep the costume as long as you wish. Come back here when you want to return it."
+11/25/24 8:16:21a You have 1694 coins.
+11/25/24 8:16:37a Alzoneth thinks, "There appear to be monkeys attacking Squib in the town square"
+11/25/24 8:16:59a Kala is still fallen to an Island Mantis.
+11/25/24 8:17:13a * Fortuna recovers the Wendecka fur, worth 5c. Your share is 1c.
+11/25/24 8:17:18a Fortuna says, "squib heal kala"
+11/25/24 8:17:20a Kala is no longer fallen.
+11/25/24 8:17:27a Alzoneth says, "squib heal Valadorei"
+11/25/24 8:17:29a You are no longer sharing experiences with Valadorei.
+11/25/24 8:17:29a You begin sharing your experiences with Squib.
+11/25/24 8:17:29a You are sharing experiences with Squib, Xael, Fortuna, Maxtrax and Kala.
+11/25/24 8:17:31a Squib exclaims, "Captain Planet is the best!"
+11/25/24 8:17:33a Squib is sharing experiences with you.
+11/25/24 8:17:35a Alzoneth says, "squib heal Valadorei"
+11/25/24 8:17:36a Valadorei is no longer fallen.
+11/25/24 8:17:40a • You begin radius healing.
+11/25/24 8:17:41a You have 1695 coins.
+11/25/24 8:17:52a Alzoneth says, "Thank you, Fortuna"
+11/25/24 8:17:52a Fortuna exclaims, "back to cove!"
+11/25/24 8:18:37a • There is nobody nearby enough to continue radius healing.
+11/25/24 8:18:54a Koppi yells, "Stinkfist reports: Arr, I heard it was a spider who imprisoned the gnomes! How dare the Darshak do this!?!"
+11/25/24 8:19:01a You have 1695 coins.
+11/25/24 8:19:16a Fortuna thinks, "from cove is 2w, 1n"
+11/25/24 8:19:20a Captain Barnac asks, "Ah, Captain Planet. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+11/25/24 8:19:24a Captain Barnac asks, "I don't have all day. Do you want to rent one, yes or no?"
+11/25/24 8:19:25a Captain Planet says, "yes"
+11/25/24 8:19:29a Panthro thinks, "yar"
+11/25/24 8:20:21a You have 1690 coins.
+11/25/24 8:20:46a • You begin radius healing.
+11/25/24 8:20:50a * Panthro recovers the Haremau Kitten fur, worth 14c. Your share is 2c.
+11/25/24 8:21:14a Fortuna says, "luring w next"
+11/25/24 8:21:16a Panthro says, "ok"
+11/25/24 8:21:34a Alzoneth is no longer Clanning.
+11/25/24 8:21:41a You have 1692 coins.
+11/25/24 8:21:43a Captain Planet says, "your ok 800 proxi"
+11/25/24 8:21:53a Fortuna says, "that's so much"
+11/25/24 8:22:01a Panthro says, "kek"
+11/25/24 8:22:02a Captain Planet says, "almost the snell"
+11/25/24 8:22:15a Alzoneth is now Clanning.
+11/25/24 8:22:22a * You feel mentally enhanced by Valadorei...
+11/25/24 8:22:29a * Fortuna recovers the Bolok Cougar fur, worth 9c. Your share is 2c.
+11/25/24 8:22:35a Xael says, "oh"
+11/25/24 8:22:40a Xael says, "macro failure i guess"
+11/25/24 8:22:43a Xael says, "not mamba"
+11/25/24 8:22:48a * Valadorei recovers the Haremau Kitten fur, worth 1c. Your share is 1c.
+11/25/24 8:22:52a Xael says, "put me in the place"
+11/25/24 8:23:02a You have 1695 coins.
+11/25/24 8:23:03a Xael says, "no spirit for a while"
+11/25/24 8:23:13a • You begin radius healing.
+11/25/24 8:23:16a Xael asks, "whoever knows how to open?"
+11/25/24 8:23:23a Valadorei slips between the thick ferns.
+11/25/24 8:23:34a Fortuna yells, "rest of us can keep luring"
+11/25/24 8:23:38a • There is nobody nearby enough to continue radius healing.
+11/25/24 8:23:54a Fortuna says, "so don't wanna double click while waiting"
+11/25/24 8:23:56a Fortuna says, "luring w"
+11/25/24 8:23:59a Panthro says, "my neighbor playing bagpipes"
+11/25/24 8:24:04a Fortuna growls, "luring w"
+11/25/24 8:24:11a Maxtrax says, "heh"
+11/25/24 8:24:13a * Fortuna recovers the Haremau Kitten fur, worth 2c. Your share is 1c.
+11/25/24 8:24:22a You have 1696 coins.
+11/25/24 8:24:27a Fortuna thinks, "can w"
+11/25/24 8:24:32a •The player must be in the same area.
+11/25/24 8:24:59a • You begin radius healing.
+11/25/24 8:25:07a * Valadorei recovers the Bolok Cougar fur, worth 3c. Your share is 1c.
+11/25/24 8:25:11a * Fortuna recovers the Haremau Kitten fur, worth 19c. Your share is 4c.
+11/25/24 8:25:12a * Panthro recovers the Haremau Kitten fur, worth 10c. Your share is 2c.
+11/25/24 8:25:18a •You do not have enough spiritual energy.
+11/25/24 8:25:28a • You begin radius healing.
+11/25/24 8:25:38a * Fortuna recovers the Bolok Cougar fur, worth 7c. Your share is 1c.
+11/25/24 8:25:40a * Panthro recovers the Haremau Kitten fur, worth 15c. Your share is 3c.
+11/25/24 8:25:42a You have 1707 coins.
+11/25/24 8:26:03a Fortuna yells, "gather w"
+11/25/24 8:26:16a * Your mental enhancement fades.
+11/25/24 8:26:21a Valadorei has fallen to a Haremau Kitten.
+11/25/24 8:26:21a •Valadorei’s injuries are a little more serious than you can heal.
+11/25/24 8:26:22a * Fortuna recovers the Haremau Kitten fur, worth 9c. Your share is 2c.
+11/25/24 8:26:23a You equip your chain.
+11/25/24 8:26:23a •The healing spell has been broken.
+11/25/24 8:26:24a Fortuna yells, "?"
+11/25/24 8:26:26a You start dragging Valadorei.
+11/25/24 8:26:29a Panthro yells, "."
+11/25/24 8:26:38a You equip your asklepian staff.
+11/25/24 8:26:40a •Valadorei’s injuries are a little more serious than you can heal.
+11/25/24 8:26:44a Captain Planet says, "bah"
+11/25/24 8:26:45a An Uncommon Vulture plucks at Valadorei's fallen body.
+11/25/24 8:26:46a •Valadorei’s injuries are a little more serious than you can heal.
+11/25/24 8:26:50a Captain Planet says, "can get ya"
+11/25/24 8:26:52a Fortuna growls, "will bring kala"
+11/25/24 8:26:53a •Valadorei’s injuries are a little more serious than you can heal.
+11/25/24 8:27:02a You have 1709 coins.
+11/25/24 8:27:10a •Valadorei’s injuries are a little more serious than you can heal.
+11/25/24 8:27:17a •Valadorei’s injuries are a little more serious than you can heal.
+11/25/24 8:27:24a •Valadorei’s injuries are a little more serious than you can heal.
+11/25/24 8:27:30a •Valadorei’s injuries are a little more serious than you can heal.
+11/25/24 8:27:37a •Valadorei’s injuries are a little more serious than you can heal.
+11/25/24 8:27:43a •Valadorei’s injuries are a little more serious than you can heal.
+11/25/24 8:27:55a •Valadorei’s injuries are a little more serious than you can heal.
+11/25/24 8:28:02a •Valadorei’s injuries are a little more serious than you can heal.
+11/25/24 8:28:08a •Valadorei’s injuries are a little more serious than you can heal.
+11/25/24 8:28:15a •Valadorei’s injuries are a little more serious than you can heal.
+11/25/24 8:28:22a •Valadorei’s injuries are a little more serious than you can heal.
+11/25/24 8:28:22a You have 1709 coins.
+11/25/24 8:28:28a •Valadorei’s injuries are a little more serious than you can heal.
+11/25/24 8:28:35a •Valadorei’s injuries are a little more serious than you can heal.
+11/25/24 8:28:41a * Panthro recovers the Bolok Cougar fur, worth 2c. Your share is 1c.
+11/25/24 8:28:41a •Valadorei’s injuries are a little more serious than you can heal.
+11/25/24 8:28:48a •Valadorei’s injuries are a little more serious than you can heal.
+11/25/24 8:28:55a •Valadorei’s injuries are a little more serious than you can heal.
+11/25/24 8:28:59a •Valadorei’s injuries were grave.
+11/25/24 8:29:11a Valadorei is no longer fallen.
+11/25/24 8:29:22a * Your mental enhancement fades.
+11/25/24 8:29:24a * Your mental enhancement fades.
+11/25/24 8:29:27a Kala says, "can you put me in the safe though"
+11/25/24 8:29:36a * Fortuna recovers the Haremau Kitten fur, worth 13c. Your share is 2c.
+11/25/24 8:29:41a •You do not have enough spiritual energy.
+11/25/24 8:29:43a You have 1712 coins.
+11/25/24 8:30:28a • You begin radius healing.
+11/25/24 8:30:37a * Valadorei recovers the Haremau Kitten fur, worth 2c. Your share is 1c.
+11/25/24 8:30:40a * Fortuna recovers the Haremau Kitten fur, worth 16c. Your share is 4c.
+11/25/24 8:30:50a * Fortuna recovers the Haremau Kitten fur, worth 8c. Your share is 1c.
+11/25/24 8:30:59a (Panthro tactics!)
+11/25/24 8:31:02a Fortuna growls, ":)"
+11/25/24 8:31:03a You have 1718 coins.
+11/25/24 8:31:03a Maxtrax says, "heh"
+11/25/24 8:31:19a Fortuna says, "goals: don't fall, don't let c fall"
+11/25/24 8:31:24a You feel suddenly queasy.
+11/25/24 8:31:37a * Maxtrax recovers the Poison Dart Frog blood, worth 2c. Your share is 1c.
+11/25/24 8:31:42a You equip your moonstone.
+11/25/24 8:31:42a • You stop radius healing.
+11/25/24 8:31:46a Panthro says, "c heal Capt"
+11/25/24 8:31:47a You equip your asklepian staff.
+11/25/24 8:31:47a *Healing Capt" 
+11/25/24 8:31:47a •You cannot use your asklepian staff on yourself.
+11/25/24 8:31:47a You equip your moonstone.
+11/25/24 8:31:58a Maxtrax says, "heh"
+11/25/24 8:32:04a Panthro says, "or whatever"
+11/25/24 8:32:13a Maxtrax says, "self is is going"
+11/25/24 8:32:15a Fortuna says, "self"
+11/25/24 8:32:23a You have 1719 coins.
+11/25/24 8:32:27a Fortuna growls, "luring"
+11/25/24 8:32:52a You equip your asklepian staff.
+11/25/24 8:32:53a You equip your moonstone.
+11/25/24 8:32:53a •The healing spell has been broken.
+11/25/24 8:32:53a * Valadorei recovers the Haremau Kitten fur, worth 19c. Your share is 4c.
+11/25/24 8:32:55a Captain Planet whispers, "Attack"
+11/25/24 8:32:57a You equip your asklepian staff.
+11/25/24 8:32:57a • That's not going to do you any good.
+11/25/24 8:32:58a Your asklepian staff is already equipped.
+11/25/24 8:32:59a * Panthro recovers the Haremau Kitten fur, worth 6c. Your share is 2c.
+11/25/24 8:33:04a • You begin radius healing.
+11/25/24 8:33:05a * Fortuna recovers the Haremau Kitten fur, worth 11c. Your share is 2c.
+11/25/24 8:33:12a Valadorei has fallen to a Smoky Bog Amedon.
+11/25/24 8:33:26a Fortuna growls, "c heal val"
+11/25/24 8:33:26a *Healing val" 
+11/25/24 8:33:27a *Healing val" 
+11/25/24 8:33:27a •Valadorei’s injuries are a little more serious than you can heal.
+11/25/24 8:33:31a Fortuna says, "c heal val"
+11/25/24 8:33:31a *Healing little 
+11/25/24 8:33:31a •You must specify a player in the game.
+11/25/24 8:33:31a *Healing val" 
+11/25/24 8:33:33a Maxtrax says, "lms"
+11/25/24 8:33:34a •Valadorei’s injuries are a little more serious than you can heal.
+11/25/24 8:33:40a Maxtrax says, "he really has no horus :P"
+11/25/24 8:33:40a •Valadorei’s injuries are a little more serious than you can heal.
+11/25/24 8:33:43a You have 1727 coins.
+11/25/24 8:33:47a •Valadorei’s injuries are a little more serious than you can heal.
+11/25/24 8:33:52a * You are cured of the poison.
+11/25/24 8:33:54a •Valadorei’s injuries are a little more serious than you can heal.
+11/25/24 8:33:54a •Valadorei’s injuries were grave.
+11/25/24 8:34:05a Valadorei is no longer fallen.
+11/25/24 8:34:08a Kala says, "x almost ready"
+11/25/24 8:34:13a * You recover the Smoky Bog Amedon blood, worth 16c. Your share is 3c.
+11/25/24 8:34:18a • You begin radius healing.
+11/25/24 8:34:19a * You feel mentally enhanced by Valadorei...
+11/25/24 8:34:22a Panthro says, "c heal pan"
+11/25/24 8:34:23a *Healing pan" 
+11/25/24 8:34:23a *Healing pan" 
+11/25/24 8:34:30a * Fortuna recovers the Haremau Kitten fur, worth 20c. Your share is 3c.
+11/25/24 8:34:35a •You sense healing energy from Kala.
+11/25/24 8:34:38a Panthro says, "c heal self"
+11/25/24 8:34:38a *Healing self" 
+11/25/24 8:34:39a •You must specify a player in the game.
+11/25/24 8:34:39a *Healing self" 
+11/25/24 8:34:39a •You must specify a player in the game.
+11/25/24 8:34:46a You equip your moonstone.
+11/25/24 8:34:56a * Panthro recovers the Haremau Kitten fur, worth 19c. Your share is 3c.
+11/25/24 8:35:02a Captain Planet whispers, "Attack"
+11/25/24 8:35:03a You have 1736 coins.
+11/25/24 8:35:04a You equip your asklepian staff.
+11/25/24 8:35:05a • That's not going to do you any good.
+11/25/24 8:35:14a •You sense healing energy from Kala.
+11/25/24 8:35:20a Xael says, "eh close enough"
+11/25/24 8:35:22a Xael says, "gonna go find a spot"
+11/25/24 8:35:46a Fortuna says, "ok w and w side"
+11/25/24 8:35:47a Fortuna says, "slowly"
+11/25/24 8:36:24a You have 1736 coins.
+11/25/24 8:36:33a Panthro yells, "?"
+11/25/24 8:36:55a • You begin radius healing.
+11/25/24 8:37:16a Panthro exclaims, "dumb frog!"
+11/25/24 8:37:23a • You begin radius healing.
+11/25/24 8:37:31a •You do not have enough spiritual energy.
+11/25/24 8:37:36a • You begin radius healing.
+11/25/24 8:37:44a You have 1736 coins.
+11/25/24 8:37:47a •You do not have enough spiritual energy.
+11/25/24 8:38:03a Saxici is now Clanning.
+11/25/24 8:38:04a • You begin radius healing.
+11/25/24 8:38:12a * Your mental enhancement fades.
+11/25/24 8:38:20a Saxici is no longer Clanning.
+11/25/24 8:38:25a * Fortuna recovers the Bolok Cougar fur, worth 9c. Your share is 2c.
+11/25/24 8:38:26a Fortuna yells, "!"
+11/25/24 8:38:31a * Panthro recovers the Haremau Kitten fur, worth 16c. Your share is 3c.
+11/25/24 8:39:04a You have 1741 coins.
+11/25/24 8:39:12a * Panthro recovers the Bolok Cougar fur, worth 7c. Your share is 2c.
+11/25/24 8:39:18a * Fortuna recovers the Bolok Cougar fur, worth 6c. Your share is 1c.
+11/25/24 8:39:25a Fortuna says, "oh drunk"
+11/25/24 8:39:38a Fortuna says, "feral black snakes aren't mambas"
+11/25/24 8:39:48a * You recover the Bolok Cougar fur, worth 7c. Your share is 1c.
+11/25/24 8:40:24a You have 1745 coins.
+11/25/24 8:40:39a Xael turns to stone.
+11/25/24 8:41:21a Panthro says, "1 haremau"
+11/25/24 8:41:29a * Your mental enhancement fades.
+11/25/24 8:41:31a * Your mental enhancement fades.
+11/25/24 8:41:35a Panthro says, "dassit"
+11/25/24 8:41:36a * You feel mentally enhanced by Valadorei...
+11/25/24 8:41:36a • You begin radius healing.
+11/25/24 8:41:44a You have 1745 coins.
+11/25/24 8:41:50a Fortuna says, "oh that doesn't work well"
+11/25/24 8:42:07a * Valadorei recovers the Bolok Cougar fur, worth 11c. Your share is 3c.
+11/25/24 8:42:12a Lightfrost is now Clanning.
+11/25/24 8:42:19a • You begin radius healing.
+11/25/24 8:42:22a * Panthro recovers the Haremau Kitten fur, worth 17c. Your share is 2c.
+11/25/24 8:42:41a Lightfrost is no longer Clanning.
+11/25/24 8:42:56a Fortuna yells, "w"
+11/25/24 8:43:00a • There is nobody nearby enough to continue radius healing.
+11/25/24 8:43:05a You have 1750 coins.
+11/25/24 8:43:07a Kala has fallen to a Rudremau.
+11/25/24 8:43:11a Squib is no longer sharing experiences with you.
+11/25/24 8:43:13a Kala says, "go w"
+11/25/24 8:43:27a * Panthro recovers the Rudremau fur, worth 14c. Your share is 7c.
+11/25/24 8:43:31a A Co'Acha bites Kala's fallen body.
+11/25/24 8:43:34a •You don't quite have the training to heal Kala’s injuries.
+11/25/24 8:43:35a Valadorei has fallen to an Island Mantis.
+11/25/24 8:43:38a Captain Planet says, "bah"
+11/25/24 8:43:40a •You don't quite have the training to heal Kala’s injuries.
+11/25/24 8:43:41a Captain Planet says, "quite"
+11/25/24 8:43:45a Stinkfist is now Clanning.
+11/25/24 8:43:47a •You don't quite have the training to heal Kala’s injuries.
+11/25/24 8:43:47a • You begin radius healing.
+11/25/24 8:43:50a You equip your moonstone.
+11/25/24 8:43:50a • You stop radius healing.
+11/25/24 8:44:07a Kala asks, "oe?"
+11/25/24 8:44:10a You equip your asklepian staff.
+11/25/24 8:44:11a You equip your moonstone.
+11/25/24 8:44:11a •The healing spell has been broken.
+11/25/24 8:44:11a •You don't quite have the training to heal Kala’s injuries.
+11/25/24 8:44:13a You equip your asklepian staff.
+11/25/24 8:44:14a • That's not going to do you any good.
+11/25/24 8:44:18a •You don't quite have the training to heal Kala’s injuries.
+11/25/24 8:44:24a •You don't quite have the training to heal Kala’s injuries.
+11/25/24 8:44:25a You have 1757 coins.
+11/25/24 8:44:30a Fortuna asks, "ok somebody chain her?"
+11/25/24 8:44:30a Captain Planet says, "still"
+11/25/24 8:44:31a •You don't quite have the training to heal Kala’s injuries.
+11/25/24 8:44:34a Panthro says, "ok"
+11/25/24 8:44:35a You equip your chain.
+11/25/24 8:44:35a •The healing spell has been broken.
+11/25/24 8:44:37a You equip your asklepian staff.
+11/25/24 8:44:43a Panthro asks, "to safe spot?"
+11/25/24 8:44:44a Fortuna says, "we are two snells from my goal for today"
+11/25/24 8:44:48a Fortuna says, "to town for squib"
+11/25/24 8:44:53a •The player must be in the same area.
+11/25/24 8:45:01a You equip your moonstone.
+11/25/24 8:45:30a * Your mental enhancement fades.
+11/25/24 8:45:32a * Your mental enhancement fades.
+11/25/24 8:45:42a Xael turns to stone.
+11/25/24 8:45:44a Fortuna says, "ack"
+11/25/24 8:45:45a You have 1757 coins.
+11/25/24 8:45:50a You equip your asklepian staff.
+11/25/24 8:45:51a You equip your moonstone.
+11/25/24 8:45:53a Fortuna says, "i am not that good at this"
+11/25/24 8:46:06a Panthro has fallen to jagged rocks.
+11/25/24 8:46:07a Kala is still fallen to a Rudremau.
+11/25/24 8:46:13a Fortuna says, "that's a good spot"
+11/25/24 8:46:20a Fortuna says, "we lure s"
+11/25/24 8:46:33a Fortuna growls, "not mamba"
+11/25/24 8:46:34a Valadorei is still fallen to an Island Mantis.
+11/25/24 8:46:42a You equip your asklepian staff.
+11/25/24 8:46:43a You equip your moonstone.
+11/25/24 8:46:43a •The healing spell has been broken.
+11/25/24 8:46:44a •To heal yourself, type: \USE
+11/25/24 8:46:44a •To heal yourself three times, type: \USE 3
+11/25/24 8:46:46a You equip your asklepian staff.
+11/25/24 8:46:47a • That's not going to do you any good.
+11/25/24 8:47:05a You have 1757 coins.
+11/25/24 8:47:12a Fortuna says, "lol they died on rocks"
+11/25/24 8:47:14a You feel suddenly queasy.
+11/25/24 8:47:15a You feel queasier.
+11/25/24 8:47:25a (Fortuna giggles)
+11/25/24 8:47:30a Captain Planet says, "alright"
+11/25/24 8:47:32a Fortuna thinks, "any live healers happen to wanna hunt metz with us"
+11/25/24 8:47:42a Captain Planet says, "i can get them"
+11/25/24 8:47:46a Fortuna says, "cool"
+11/25/24 8:47:49a You equip your chain.
+11/25/24 8:47:56a You equip your asklepian staff.
+11/25/24 8:47:59a You equip your chain.
+11/25/24 8:48:25a You have 1757 coins.
+11/25/24 8:48:50a Alzoneth thinks, "another baboon attacking Squib!"
+11/25/24 8:49:03a You recover some of the metal.
+11/25/24 8:49:03a You recover some of the metal.
+11/25/24 8:49:03a Your chain breaks as you try to use it.
+11/25/24 8:49:05a Panthro is still fallen to jagged rocks.
+11/25/24 8:49:07a Captain Planet says, "..."
+11/25/24 8:49:07a Kala has been fallen for some time because of a Rudremau.
+11/25/24 8:49:10a Captain Planet says, "alright"
+11/25/24 8:49:17a Captain Planet says, "brb"
+11/25/24 8:49:35a Valadorei has been fallen for some time because of an Island Mantis.
+11/25/24 8:49:46a You have 1757 coins.
+11/25/24 8:50:08a Alzoneth is no longer Clanning.
+11/25/24 8:50:09a * You are cured of the poison.
+11/25/24 8:50:25a Dor Bendle says, "I'm sorry, Captain Planet. This training area is restricted to Fighters only."
+11/25/24 8:50:26a Raldin is now Clanning.
+11/25/24 8:50:33a Bindra says, "Greetings, Captain Planet."
+11/25/24 8:50:34a Bindra says, "For 500 coins, and two pieces of iron metal, I can make you a chain."
+11/25/24 8:50:35a Bindra asks, "Would you like me to do that?"
+11/25/24 8:50:37a Captain Planet says, "yes"
+11/25/24 8:50:38a Bindra says, "There you go. Have a nice day."
+11/25/24 8:50:41a You equip your chain.
+11/25/24 8:51:06a You have 1257 coins.
+11/25/24 8:51:16a Captain Barnac asks, "Ah, Captain Planet. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+11/25/24 8:51:17a Captain Planet says, "yes"
+11/25/24 8:51:56a You start dragging Kala.
+11/25/24 8:51:57a You start dragging Panthro.
+11/25/24 8:51:58a You start dragging Valadorei.
+11/25/24 8:52:05a Panthro has been fallen for some time because of jagged rocks.
+11/25/24 8:52:07a Kala has been fallen for some time because of a Rudremau.
+11/25/24 8:52:26a You have 1252 coins.
+11/25/24 8:52:34a Valadorei has been fallen for some time because of an Island Mantis.
+11/25/24 8:52:36a Raldin is no longer Clanning.
+11/25/24 8:53:01a You equip your asklepian staff.
+11/25/24 8:53:02a •Valadorei was too wounded to be healed easily.
+11/25/24 8:53:08a Panthro whispers, "..."
+11/25/24 8:53:09a Valadorei is no longer fallen.
+11/25/24 8:53:11a Captain Planet asks, "?"
+11/25/24 8:53:14a •You don't quite have the training to heal Kala’s injuries.
+11/25/24 8:53:18a Panthro is no longer sharing experiences with you.
+11/25/24 8:53:20a Kala says, "squib heal me"
+11/25/24 8:53:21a •You don't quite have the training to heal Kala’s injuries.
+11/25/24 8:53:21a Captain Planet says, "how was able to do that"
+11/25/24 8:53:21a •Kala’s injuries were serious.
+11/25/24 8:53:24a Kala is no longer fallen.
+11/25/24 8:53:27a Valadorei says, "This is probably a good time for me to take a break."
+11/25/24 8:53:28a Stinkfist exclaims, "not dead!"
+11/25/24 8:53:29a Kala says, "squib heal panthro"
+11/25/24 8:53:30a Panthro is sharing experiences with you.
+11/25/24 8:53:31a Panthro is no longer fallen.
+11/25/24 8:53:32a Kala says, "oh hi"
+11/25/24 8:53:36a Valadorei exclaims, "STINKY!"
+11/25/24 8:53:37a Kala says, "stinkfist help us not die so hard on metz"
+11/25/24 8:53:38a Panthro says, "yeah could be"
+11/25/24 8:53:41a Stinkfist exclaims, "VALADOREI!"
+11/25/24 8:53:46a You have 1252 coins.
+11/25/24 8:53:50a Stinkfist says, "but i want fooooood"
+11/25/24 8:53:55a Kala exclaims, "fight then food!"
+11/25/24 8:54:04a Stinkfist says, "I just popped in to collect drugs from the raffle house"
+11/25/24 8:54:06a Valadorei says, "fight for your food."
+11/25/24 8:54:08a Kala says, "haha"
+11/25/24 8:54:11a Captain Planet says, "heh"
+11/25/24 8:54:13a Kala exclaims, "ok back to cove!"
+11/25/24 8:54:19a (Valadorei waves)
+11/25/24 8:54:35a Stinkfist thinks, "you got dis! yer doing great!"
+11/25/24 8:54:43a Captain Barnac asks, "Ah, Captain Planet. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+11/25/24 8:54:43a Fird Lirden asks, "Ah, Kala. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+11/25/24 8:54:43a Kala says, "yes"
+11/25/24 8:54:44a Captain Planet says, "yes"
+11/25/24 8:54:59a Maxtrax has fallen to a Vile Cricket.
+11/25/24 8:55:06a You have 1247 coins.
+11/25/24 8:55:53a You equip your moonstone.
+11/25/24 8:55:54a Your moonstone is already equipped.
+11/25/24 8:56:08a • It’s Midnight on Gradi, the 54th day of Summer in the 639th year of the Ascendancy, and all’s well.
+11/25/24 8:56:27a You have 1247 coins.
+11/25/24 8:56:37a Panthro is no longer Clanning.
+11/25/24 8:56:42a Seaforth is now Clanning.
+11/25/24 8:56:45a Kala has fallen to a Haremau Kitten.
+11/25/24 8:56:49a A Co'Acha munches on Maxtrax's gaping mouth.
+11/25/24 8:56:51a You equip your asklepian staff.
+11/25/24 8:56:52a • That's not going to do you any good.
+11/25/24 8:56:54a Fortuna says, "kala went down ie"
+11/25/24 8:56:57a Maxtrax is no longer fallen.
+11/25/24 8:57:02a Fortuna says, "brb"
+11/25/24 8:57:06a Captain Planet asks, "?"
+11/25/24 8:57:12a Seaforth is sharing experiences with you.
+11/25/24 8:57:27a Beado is now Clanning.
+11/25/24 8:57:34a You feel suddenly queasy.
+11/25/24 8:57:34a Fortuna thinks, "the route back to group is perilous"
+11/25/24 8:57:44a Beado is no longer Clanning.
+11/25/24 8:57:47a You have 1247 coins.
+11/25/24 8:57:48a * Fortuna recovers the Haremau Kitten fur, worth 7c. Your share is 2c.
+11/25/24 8:57:49a Beado is now Clanning.
+11/25/24 8:57:57a •Kala was too wounded to be healed easily.
+11/25/24 8:58:00a Kala is no longer fallen.
+11/25/24 8:59:07a You have 1249 coins.
+11/25/24 8:59:15a Valadorei is no longer Clanning.
+11/25/24 8:59:18a Fortuna has fallen to a Flying Foxweir.
+11/25/24 8:59:23a •You sense healing energy from Kala.
+11/25/24 8:59:23a Stinkfist is no longer Clanning.
+11/25/24 8:59:29a Kala says, "three bats 2e"
+11/25/24 8:59:48a Seaforth thinks, "Fortuna has fallen to a Flying Foxweir. Ironic."
+11/25/24 8:59:53a * You are cured of the poison.
+11/25/24 9:00:04a Maxtrax has fallen to a Flying Foxweir.
+11/25/24 9:00:18a You equip your chain.
+11/25/24 9:00:27a You have 1249 coins.
+11/25/24 9:00:35a You start dragging Maxtrax.
+11/25/24 9:00:37a You start dragging Fortuna.
+11/25/24 9:00:37a Fortuna says, "chain west"
+11/25/24 9:00:43a Fortuna yells, "2w"
+11/25/24 9:01:07a You equip your asklepian staff.
+11/25/24 9:01:09a •Fortuna’s body has been maimed more severely than you can heal.
+11/25/24 9:01:12a •You sense healing energy from Kala.
+11/25/24 9:01:16a •Fortuna’s body has been maimed more severely than you can heal.
+11/25/24 9:01:22a •Fortuna’s body has been maimed more severely than you can heal.
+11/25/24 9:01:28a Seaforth yells, "?"
+11/25/24 9:01:30a Kala yells, "here"
+11/25/24 9:01:36a Maxtrax is no longer fallen.
+11/25/24 9:01:42a Maxtrax has fallen to a Flying Foxweir.
+11/25/24 9:01:42a •Maxtrax was too wounded to be healed easily.
+11/25/24 9:01:45a •Fortuna’s body has been maimed more severely than you can heal.
+11/25/24 9:01:47a You have 1249 coins.
+11/25/24 9:01:50a Kala has fallen to a Venomous Forest Cobra.
+11/25/24 9:01:52a * Seaforth recovers the Large Vermine fur, worth 2c. Your share is 1c.
+11/25/24 9:02:09a You equip your chain.
+11/25/24 9:02:09a •The healing spell has been broken.
+11/25/24 9:02:10a You start dragging Fortuna.
+11/25/24 9:02:10a You start dragging Maxtrax.
+11/25/24 9:02:12a A Rat chews on Kala's flesh.
+11/25/24 9:02:18a Fortuna is still fallen to a Flying Foxweir.
+11/25/24 9:02:46a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+11/25/24 9:02:47a Captain Planet has fallen to a Forest Cobra.
+11/25/24 9:02:47a •Your injuries are grave.
+11/25/24 9:02:50a Squib is sharing experiences with you.
+11/25/24 9:02:51a Captain Planet says, "bah"
+11/25/24 9:03:00a Kensington is no longer Clanning.
+11/25/24 9:03:08a You have 1250 coins.
+11/25/24 9:03:26a A Co'Acha pokes at Maxtrax's toes.
+11/25/24 9:03:44a A Co'Acha rips at Maxtrax's toes.
+11/25/24 9:03:54a A Common Vulture rips at Fortuna's gaping mouth.
+11/25/24 9:04:22a A Common Vulture tears at Fortuna's organs.
+11/25/24 9:04:28a You have 1250 coins.
+11/25/24 9:04:28a A Co'Acha rips at Fortuna's flesh.
+11/25/24 9:04:42a Maxtrax is still fallen to a Flying Foxweir.
+11/25/24 9:04:45a Labrat is now Clanning.
+11/25/24 9:04:51a Kala is still fallen to a Venomous Forest Cobra.
+11/25/24 9:04:54a A Co'Acha pokes at Maxtrax's fingertips.
+11/25/24 9:05:02a A Common Vulture plucks at Fortuna's entrails.
+11/25/24 9:05:07a A Co'Acha plucks at Maxtrax's body parts.
+11/25/24 9:05:09a A Co'Acha chews on Maxtrax's fingertips.
+11/25/24 9:05:10a A Co'Acha munches on Fortuna's toes.
+11/25/24 9:05:11a A Common Vulture plucks at Fortuna's flesh.
+11/25/24 9:05:13a A Common Vulture pokes at Fortuna's eye sockets.
+11/25/24 9:05:18a Fortuna has been fallen for some time because of a Flying Foxweir.
+11/25/24 9:05:19a A Common Vulture bites Fortuna's entrails.
+11/25/24 9:05:26a Kala is no longer fallen.
+11/25/24 9:05:26a A Rat pokes at Fortuna's body parts.
+11/25/24 9:05:34a A Common Vulture nibbles Fortuna's toes.
+11/25/24 9:05:42a A Co'Acha nibbles Fortuna's body parts.
+11/25/24 9:05:42a A Rat chews on Maxtrax's fingertips.
+11/25/24 9:05:48a You have 1250 coins.
+11/25/24 9:06:16a A Co'Acha pokes at Fortuna's flesh.
+11/25/24 9:06:21a A Common Vulture nibbles Fortuna's toes.
+11/25/24 9:06:29a A Common Vulture tears at Fortuna's entrails.
+11/25/24 9:06:37a Captain Planet says, "welp"
+11/25/24 9:06:43a Fortuna asks, "did seaforth die?"
+11/25/24 9:06:45a A Common Vulture chews on Fortuna's body parts.
+11/25/24 9:06:48a Captain Planet says, "nope"
+11/25/24 9:07:03a Naferu is now Clanning.
+11/25/24 9:07:04a A Co'Acha rips at Maxtrax's fingertips.
+11/25/24 9:07:06a A Common Vulture rips at Fortuna's fallen body.
+11/25/24 9:07:08a You have 1250 coins.
+11/25/24 9:07:28a A Co'Acha tears at Maxtrax's flesh.
+11/25/24 9:07:29a A Rat feasts upon Maxtrax's gaping mouth.
+11/25/24 9:07:39a A Common Vulture bites Fortuna's entrails.
+11/25/24 9:07:40a A Common Vulture pokes at Fortuna's toes.
+11/25/24 9:07:42a Maxtrax has been fallen for some time because of a Flying Foxweir.
+11/25/24 9:07:45a A Rat pokes at Maxtrax's fingertips.
+11/25/24 9:07:47a A Co'Acha nibbles Maxtrax's organs.
+11/25/24 9:07:47a A Co'Acha tears at Maxtrax's organs.
+11/25/24 9:07:50a A Common Vulture tears at Fortuna's flesh.
+11/25/24 9:07:55a A Common Vulture pokes at Fortuna's flesh.
+11/25/24 9:08:00a A Co'Acha feasts upon Maxtrax's entrails.
+11/25/24 9:08:08a A Common Vulture nibbles Fortuna's eye sockets.
+11/25/24 9:08:18a Fortuna has been fallen for some time because of a Flying Foxweir.
+11/25/24 9:08:28a You have 1250 coins.
+11/25/24 9:08:32a A Rat feasts upon Fortuna's entrails.
+11/25/24 9:08:45a A Co'Acha munches on Maxtrax's fingertips.
+11/25/24 9:09:04a A Co'Acha tears at Maxtrax's toes.
+11/25/24 9:09:10a A Common Vulture tears at Fortuna's entrails.
+11/25/24 9:09:12a Chunky is now Clanning.
+11/25/24 9:09:15a A Co'Acha feasts upon Maxtrax's fingertips.
+11/25/24 9:09:20a Chunky is no longer Clanning.
+11/25/24 9:09:32a Spork is now Clanning.
+11/25/24 9:09:34a A Rat bites Fortuna's organs.
+11/25/24 9:09:42a Tani is now Clanning.
+11/25/24 9:09:46a A Common Vulture feasts upon your fingertips.
+11/25/24 9:09:48a A Common Vulture rips at Fortuna's body parts.
+11/25/24 9:09:49a You have 1250 coins.
+11/25/24 9:09:50a A Co'Acha pokes at Fortuna's wounds.
+11/25/24 9:09:51a A Rat rips at Fortuna's flesh.
+11/25/24 9:09:54a A Co'Acha plucks at Maxtrax's flesh.
+11/25/24 9:10:15a Spork is no longer Clanning.
+11/25/24 9:10:25a A Co'Acha bites Maxtrax's toes.
+11/25/24 9:10:29a Tani is no longer Clanning.
+11/25/24 9:10:35a A Common Vulture nibbles your wounds.
+11/25/24 9:10:42a Maxtrax has been fallen for some time because of a Flying Foxweir.
+11/25/24 9:10:57a A Co'Acha rips at Fortuna's flesh.
+11/25/24 9:11:09a You have 1250 coins.
+11/25/24 9:11:18a Fortuna is becoming part of the scenery, since falling to a Flying Foxweir.
+11/25/24 9:11:25a A Rat nibbles Fortuna's flesh.
+11/25/24 9:11:26a A Co'Acha feasts upon Maxtrax's eye sockets.
+11/25/24 9:11:30a Tani is now Clanning.
+11/25/24 9:11:33a Xael turns to stone.
+11/25/24 9:11:48a A Co'Acha feasts upon Maxtrax's wounds.
+11/25/24 9:11:53a A Common Vulture rips at Fortuna's fingertips.
+11/25/24 9:11:55a A Common Vulture bites Fortuna's toes.
+11/25/24 9:11:56a A Common Vulture munches on Fortuna's fingertips.
+11/25/24 9:11:57a Captain Planet asks, "does that give a tuat arua as well?"
+11/25/24 9:12:05a Captain Planet says, "taunt*"
+11/25/24 9:12:20a A Co'Acha pokes at Fortuna's toes.
+11/25/24 9:12:21a A Common Vulture rips at Fortuna's fingertips.
+11/25/24 9:12:23a Tani is no longer Clanning.
+11/25/24 9:12:29a You have 1250 coins.
+11/25/24 9:12:34a A Common Vulture rips at Fortuna's flesh.
+11/25/24 9:12:34a Sauver is now Clanning.
+11/25/24 9:12:43a Sauver is no longer Clanning.
+11/25/24 9:12:55a A Rat rips at Fortuna's fingertips.
+11/25/24 9:13:00a A Co'Acha feasts upon Fortuna's flesh.
+11/25/24 9:13:08a Eli is now Clanning.
+11/25/24 9:13:09a A Co'Acha feasts upon Fortuna's flesh.
+11/25/24 9:13:21a A Rat pokes at Fortuna's toes.
+11/25/24 9:13:27a A Co'Acha pokes at Fortuna's toes.
+11/25/24 9:13:35a A Co'Acha rips at Fortuna's fallen body.
+11/25/24 9:13:42a Maxtrax is becoming part of the scenery, since falling to a Flying Foxweir.
+11/25/24 9:13:49a A Common Vulture munches on your wounds.
+11/25/24 9:13:49a You have 1250 coins.
+11/25/24 9:14:00a Kala has fallen to a Haremau Kitten.
+11/25/24 9:14:18a Fortuna is becoming part of the scenery, since falling to a Flying Foxweir.
+11/25/24 9:14:25a A Co'Acha tears at Maxtrax's entrails.
+11/25/24 9:14:32a A Common Vulture rips at Fortuna's entrails.
+11/25/24 9:15:03a A Co'Acha pokes at Maxtrax's fallen body.
+11/25/24 9:15:09a You have 1250 coins.
+11/25/24 9:15:17a A Common Vulture feasts upon Fortuna's organs.
+11/25/24 9:15:25a A Rat chews on Fortuna's gaping mouth.
+11/25/24 9:15:27a Seaforth thinks, "chaining out Fortuna and crew from Metz"
+11/25/24 9:15:29a A Rat tears at Fortuna's flesh.
+11/25/24 9:15:34a A Common Vulture rips at Fortuna's eye sockets.
+11/25/24 9:15:37a A Co'Acha plucks at Fortuna's body parts.
+11/25/24 9:15:39a A Co'Acha munches on Fortuna's toes.
+11/25/24 9:15:42a Xael has fallen to a Vile Cricket.
+11/25/24 9:15:50a A Co'Acha tears at Fortuna's gaping mouth.
+11/25/24 9:15:50a A Common Vulture munches on Fortuna's wounds.
+11/25/24 9:16:09a A Rat pokes at Fortuna's fallen body.
+11/25/24 9:16:11a A Common Vulture pokes at your gaping mouth.
+11/25/24 9:16:12a A Common Vulture tears at Fortuna's flesh.
+11/25/24 9:16:14a A Co'Acha nibbles Fortuna's fallen body.
+11/25/24 9:16:17a Xael says, "where is captain"
+11/25/24 9:16:24a A Rat rips at Fortuna's toes.
+11/25/24 9:16:30a You have 1250 coins.
+11/25/24 9:16:42a Maxtrax is becoming part of the scenery, since falling to a Flying Foxweir.
+11/25/24 9:16:54a A Co'Acha plucks at Fortuna's flesh.
+11/25/24 9:16:57a A Rat chews on Fortuna's eye sockets.
+11/25/24 9:17:00a Kala is still fallen to a Haremau Kitten.
+11/25/24 9:17:18a Fortuna is becoming part of the scenery, since falling to a Flying Foxweir.
+11/25/24 9:17:48a A Rat feasts upon your eye sockets.
+11/25/24 9:17:49a Captain Planet says, ".."
+11/25/24 9:17:50a You have 1250 coins.
+11/25/24 9:17:56a A Common Vulture feasts upon your toes.
+11/25/24 9:17:56a A Common Vulture bites your fallen body.
+11/25/24 9:18:16a A Co'Acha plucks at your gaping mouth.
+11/25/24 9:18:23a A Co'Acha pokes at your body parts.
+11/25/24 9:18:24a A Common Vulture plucks at your wounds.
+11/25/24 9:18:32a A Common Vulture tears at your fallen body.
+11/25/24 9:18:37a A Common Vulture nibbles your fallen body.
+11/25/24 9:18:40a A Common Vulture munches on your eye sockets.
+11/25/24 9:18:41a Xael is still fallen to a Vile Cricket.
+11/25/24 9:18:47a Lanskar is no longer Clanning.
+11/25/24 9:18:49a A Rat munches on your organs.
+11/25/24 9:18:50a Shard is now Clanning.
+11/25/24 9:18:55a A Common Vulture chews on your gaping mouth.
+11/25/24 9:18:58a A Co'Acha pokes at your wounds.
+11/25/24 9:18:59a Shard is no longer Clanning.
+11/25/24 9:19:04a A Common Vulture pokes at your entrails.
+11/25/24 9:19:06a A Co'Acha plucks at your entrails.
+11/25/24 9:19:09a A Co'Acha feasts upon your flesh.
+11/25/24 9:19:10a You have 1250 coins.
+11/25/24 9:19:12a A Common Vulture rips at your fingertips.
+11/25/24 9:19:18a A Common Vulture plucks at your organs.
+11/25/24 9:19:19a A Co'Acha tears at your organs.
+11/25/24 9:19:33a A Rat pokes at your organs.
+11/25/24 9:19:42a Maxtrax is becoming part of the scenery, since falling to a Flying Foxweir.
+11/25/24 9:19:48a A Co'Acha munches on your body parts.
+11/25/24 9:19:50a Beado is no longer Clanning.
+11/25/24 9:19:51a A Common Vulture chews on your organs.
+11/25/24 9:19:59a A Common Vulture bites your fallen body.
+11/25/24 9:20:00a A Common Vulture pokes at your fingertips.
+11/25/24 9:20:00a Kala has been fallen for some time because of a Haremau Kitten.
+11/25/24 9:20:02a A Common Vulture pokes at your fallen body.
+11/25/24 9:20:03a A Common Vulture munches on your fallen body.
+11/25/24 9:20:06a Kala is no longer fallen.
+11/25/24 9:20:18a A Rat rips at your eye sockets.
+11/25/24 9:20:18a Fortuna's body has been all but forgotten, having fallen to a Flying Foxweir.
+11/25/24 9:20:23a Seaforth thinks to you, "coming"
+11/25/24 9:20:23a A Rat bites your fingertips.
+11/25/24 9:20:29a A Co'Acha feasts upon your fallen body.
+11/25/24 9:20:30a You have 1250 coins.
+11/25/24 9:20:34a A Common Vulture feasts upon your gaping mouth.
+11/25/24 9:20:41a Maxtrax is no longer fallen.
+11/25/24 9:20:47a A Common Vulture plucks at your organs.
+11/25/24 9:20:48a A Common Vulture nibbles your toes.
+11/25/24 9:20:51a Xael is no longer fallen.
+11/25/24 9:20:52a A Common Vulture tears at your organs.
+11/25/24 9:20:55a A Co'Acha chews on your body parts.
+11/25/24 9:20:56a Maxtrax is no longer Clanning.
+11/25/24 9:21:04a Mimo is now Clanning.
+11/25/24 9:21:08a A Common Vulture pokes at your entrails.
+11/25/24 9:21:10a A Common Vulture tears at your body parts.
+11/25/24 9:21:11a A Co'Acha feasts upon your body parts.
+11/25/24 9:21:17a A Common Vulture feasts upon your body parts.
+11/25/24 9:21:20a A Co'Acha tears at your eye sockets.
+11/25/24 9:21:22a A Common Vulture bites your toes.
+11/25/24 9:21:40a Fortuna is no longer fallen.
+11/25/24 9:21:47a A Co'Acha tears at your gaping mouth.
+11/25/24 9:21:50a You have 1250 coins.
+11/25/24 9:21:51a A Common Vulture tears at your gaping mouth.
+11/25/24 9:21:53a A Common Vulture rips at your wounds.
+11/25/24 9:21:58a A Common Vulture pokes at your gaping mouth.
+11/25/24 9:22:08a Seaforth yells, "?"
+11/25/24 9:22:09a A Rat chews on your entrails.
+11/25/24 9:22:09a A Co'Acha plucks at your body parts.
+11/25/24 9:22:10a A Rat plucks at your organs.
+11/25/24 9:22:12a A Rat pokes at your flesh.
+11/25/24 9:22:13a A Common Vulture tears at your eye sockets.
+11/25/24 9:22:14a A Co'Acha tears at your gaping mouth.
+11/25/24 9:22:17a A Co'Acha chews on your gaping mouth.
+11/25/24 9:22:17a Captain Planet yells, "!"
+11/25/24 9:22:23a Sauver is now Clanning.
+11/25/24 9:22:28a Captain Planet yells, "!"
+11/25/24 9:22:28a A Co'Acha munches on your fingertips.
+11/25/24 9:22:35a A Co'Acha plucks at your toes.
+11/25/24 9:22:36a A Co'Acha tears at your fingertips.
+11/25/24 9:22:52a A Rat feasts upon your eye sockets.
+11/25/24 9:23:03a A Common Vulture bites your body parts.
+11/25/24 9:23:11a You have 1250 coins.
+11/25/24 9:23:14a A Rat bites your fallen body.
+11/25/24 9:23:20a A Co'Acha feasts upon your fingertips.
+11/25/24 9:23:22a A Common Vulture chews on your eye sockets.
+11/25/24 9:23:25a Manquilor is no longer Clanning.
+11/25/24 9:23:31a A Common Vulture tears at your entrails.
+11/25/24 9:23:39a Captain Planet yells, "!"
+11/25/24 9:23:40a A Common Vulture munches on your body parts.
+11/25/24 9:23:42a A Co'Acha pokes at your toes.
+11/25/24 9:23:46a A Common Vulture tears at your eye sockets.
+11/25/24 9:23:50a A Common Vulture pokes at your flesh.
+11/25/24 9:23:59a Shobaffum is now Clanning.
+11/25/24 9:24:00a Fortuna yells, "where"
+11/25/24 9:24:01a A Co'Acha tears at your gaping mouth.
+11/25/24 9:24:03a Seaforth yells, "here"
+11/25/24 9:24:06a Captain Planet yells, "!"
+11/25/24 9:24:14a •You gain experience.
+11/25/24 9:24:18a Aki is no longer Clanning.
+11/25/24 9:24:19a Fortuna starts dragging you.
+11/25/24 9:24:22a A Co'Acha chews on your fingertips.
+11/25/24 9:24:25a Rose is no longer Clanning.
+11/25/24 9:24:30a Mimo is no longer Clanning.
+11/25/24 9:24:31a You have 1250 coins.
+11/25/24 9:24:31a * Fortuna recovers the Vile Cricket mandibles, worth 1c. Your share is 1c.
+11/25/24 9:24:33a * Fortuna recovers the Vile Cricket mandibles, worth 1c. Your share is 1c.
+11/25/24 9:24:34a Seaforth has fallen to an Island Mantis.
+11/25/24 9:24:39a A Common Vulture bites your body parts.
+11/25/24 9:24:41a ZipLock is now Clanning.
+11/25/24 9:24:42a Klur is no longer Clanning.
+11/25/24 9:24:46a Seaforth says, "you crazy person :-D"
+11/25/24 9:24:49a Fortuna yells, "haha"
+11/25/24 9:24:54a Alz is now Clanning.
+11/25/24 9:25:05a Seaforth yells, "good timing though"
+11/25/24 9:25:08a Captain Planet says, ":D"
+11/25/24 9:25:27a Magnic II is now Clanning.
+11/25/24 9:25:35a Fortuna yells, "i am kind of obsessed with shieldstone"
+11/25/24 9:25:50a Wolf Master is now Clanning.
+11/25/24 9:25:51a You have 1252 coins.
+11/25/24 9:25:53a Seaforth whispers, "..."
+11/25/24 9:26:02a Magnic II is no longer Clanning.
+11/25/24 9:26:06a ZipLock is no longer Clanning.
+11/25/24 9:26:15a Maxtrax is now Clanning.
+11/25/24 9:26:16a Seaforth is no longer fallen.
+11/25/24 9:26:17a Koppi yells, "X-share-X reports: Gnomes aren't real."
+11/25/24 9:26:28a •You sense healing energy from Kala.
+11/25/24 9:26:28a •Your injuries are grave.
+11/25/24 9:26:32a Alz is no longer Clanning.
+11/25/24 9:26:35a Xael is sharing experiences with you.
+11/25/24 9:26:35a •Your injuries are grave.
+11/25/24 9:26:37a Captain Planet says, "squib heal me"
+11/25/24 9:26:38a •You sense healing energy from Squib.
+11/25/24 9:26:53a Captain Planet says, "i am the is lives"
+11/25/24 9:27:02a There is no target for your chain.
+11/25/24 9:27:04a Fortuna exclaims, "we did it!"
+11/25/24 9:27:07a Fortuna says, "cept panthro"
+11/25/24 9:27:08a You equip your asklepian staff.
+11/25/24 9:27:09a • You begin radius healing.
+11/25/24 9:27:10a Grand Master is now Clanning.
+11/25/24 9:27:11a Fortuna says, "need ta get im"
+11/25/24 9:27:11a You have 1252 coins.
+11/25/24 9:27:29a Maxtrax is sharing experiences with you.
+11/25/24 9:27:40a Waezu is no longer Clanning.
+11/25/24 9:27:43a Kenzen is no longer Clanning.
+11/25/24 9:27:47a Als is no longer Clanning.
+11/25/24 9:27:50a Kin is no longer Clanning.
+11/25/24 9:28:00a Fortuna says, "i am working on getting a group for bear caves camp"
+11/25/24 9:28:06a Fortuna says, "all welcome"
+11/25/24 9:28:12a Fortuna says, "maybe we can make it there maybe not :P b"
+11/25/24 9:28:20a • There is nobody nearby enough to continue radius healing.
+11/25/24 9:28:22a Maxtrax says, "i can switch to mimo"
+11/25/24 9:28:26a Fortuna says, "wake panthro up woulda"
+11/25/24 9:28:31a You have 1252 coins.
+11/25/24 9:28:32a Maxtrax says, "hes abit harder to kill"
+11/25/24 9:28:44a Maxtrax is no longer Clanning.
+11/25/24 9:28:44a Seaforth is no longer Clanning.
+11/25/24 9:28:50a Panthro is now Clanning.
+11/25/24 9:28:51a • /SLEEP when you wish to begin studying.
+11/25/24 9:28:53a Captain Planet says, "uu/sl"
+11/25/24 9:28:54a Use \SLEEP again when you return.
+11/25/24 9:28:55a You are done adventuring for a while and will be staying here.
+11/25/24 9:28:55a You have been disconnected from Clan Lord.
+11/25/24 9:28:56a • You will benefit from staying here while you are off-line.
+11/25/24 9:28:56a *** We are no longer connected to the Clan Lord game server. ***

@@ -1,0 +1,57 @@
+
+5/5/25 5:47:46a Welcome to Clan Lord, Molly Woodstalk!
+5/5/25 5:47:46a Type \HELP for a list of commands.
+5/5/25 5:47:46a • You have been charged 1 coin for advanced studies.
+5/5/25 5:47:46a • You gain experience from your recent studies.
+5/5/25 5:47:46a You have been studying for 5 days, 4 hours, 4 minutes.
+5/5/25 5:47:49a It's 2:26am on Gradi, day 82 of Spring, 641.
+5/5/25 5:47:50a Friends online: none.
+5/5/25 5:47:51a • What’s New: https://deltatao.com/clanlord/news
+5/5/25 5:48:01a * Tip of the day: Use the /BUG command to report problems and make suggestions. (Use /OPTIONS to turn tips off.)
+5/5/25 5:48:04a *Auto Trade Zero ON!
+5/5/25 5:48:09a •You sense healing energy from Lion-O.
+5/5/25 5:48:14a • Warawonda offers you a scavenger bird feather for free.
+5/5/25 5:48:14a To accept, \BUY 0 Warawonda.
+5/5/25 5:48:15a * Traded: Warawonda 
+5/5/25 5:48:15a Warawonda hands you a scavenger bird feather.
+5/5/25 5:48:23a • Warawonda offers you a plain key for free.
+5/5/25 5:48:23a To accept, \BUY 0 Warawonda.
+5/5/25 5:48:23a * Traded: Warawonda 
+5/5/25 5:48:24a Warawonda hands you a plain key.
+5/5/25 5:48:28a • Warawonda offers you a moon manual for free.
+5/5/25 5:48:28a To accept, \BUY 0 Warawonda.
+5/5/25 5:48:29a * Traded: Warawonda 
+5/5/25 5:48:29a Warawonda hands you a moon manual.
+5/5/25 5:48:34a •You feel more skilled in the craft of woodworking.
+5/5/25 5:48:47a • Warawonda offers you a pine flute for free.
+5/5/25 5:48:47a To accept, \BUY 0 Warawonda.
+5/5/25 5:48:47a * Traded: Warawonda 
+5/5/25 5:48:47a Warawonda hands you a pine flute.
+5/5/25 5:48:50a • Warawonda offers you a Darkstone. The Darkstone is brand new, and is offered for free.
+5/5/25 5:48:50a To accept, \BUY 0 Warawonda.
+5/5/25 5:48:51a * Traded: Warawonda 
+5/5/25 5:48:51a Warawonda hands you a darkstone.
+5/5/25 5:48:53a • Warawonda offers you a Darkstone. The Darkstone is going to fall apart any day now, and is offered for free.
+5/5/25 5:48:53a To accept, \BUY 0 Warawonda.
+5/5/25 5:48:54a * Traded: Warawonda 
+5/5/25 5:48:54a Warawonda hands you a darkstone.
+5/5/25 5:48:56a • Warawonda offers you a crowbar for free.
+5/5/25 5:48:56a To accept, \BUY 0 Warawonda.
+5/5/25 5:48:56a * Traded: Warawonda 
+5/5/25 5:48:57a Warawonda hands you a crowbar.
+5/5/25 5:49:00a • Warawonda offers you a barrel for free.
+5/5/25 5:49:00a To accept, \BUY 0 Warawonda.
+5/5/25 5:49:00a * Traded: Warawonda 
+5/5/25 5:49:01a Warawonda hands you a barrel.
+5/5/25 5:49:05a • Warawonda offers you a Rod of Akea for free.
+5/5/25 5:49:05a To accept, \BUY 0 Warawonda.
+5/5/25 5:49:06a * Traded: Warawonda 
+5/5/25 5:49:06a Warawonda hands you a Rod of Akea.
+5/5/25 5:49:10a • Warawonda offers you an orga eye for free.
+5/5/25 5:49:10a To accept, \BUY 0 Warawonda.
+5/5/25 5:49:11a * Traded: Warawonda 
+5/5/25 5:49:11a Warawonda hands you an orga eye.
+5/5/25 5:49:27a • /SLEEP when you wish to begin studying.
+5/5/25 5:49:29a • /SLEEP when you wish to begin studying.
+5/5/25 5:49:37a Use \SLEEP again when you return.
+5/5/25 5:49:37a You are done adventuring for a whi

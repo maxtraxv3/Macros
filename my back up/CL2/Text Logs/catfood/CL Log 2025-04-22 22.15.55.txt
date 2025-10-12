@@ -1,0 +1,330 @@
+
+4/22/25 10:15:56p * Your healer's shirt is in very good condition.
+4/22/25 10:15:56p * Your pair of second-circle pants named “white” is in very good condition.
+4/22/25 10:15:56p Welcome to Clan Lord, Cat Food!
+4/22/25 10:15:56p Type \HELP for a list of commands.
+4/22/25 10:15:56p * Healer Item set to asklepian 
+4/22/25 10:15:56p The healing spell has started.
+4/22/25 10:15:56p Friends online: none.
+4/22/25 10:15:59p It's 5:26pm on Soldi, day 31 of Spring, 641.
+4/22/25 10:16:00p There are two members of Black Phoenix clanning: Mimo and you.
+4/22/25 10:16:00p • What’s New: https://deltatao.com/clanlord/news
+4/22/25 10:16:18p * You need a breath of air!
+4/22/25 10:16:41p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 10:16:42p Cat Food has fallen to a Mountain Bison.
+4/22/25 10:16:42p •Your injuries are serious.
+4/22/25 10:16:45p Your spirit has departed your body 12 times.
+4/22/25 10:16:49p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 10:16:50p Cat Food has fallen to a Detached Spirit.
+4/22/25 10:16:50p •You are too wounded to be healed easily.
+4/22/25 10:16:55p Your spirit has departed your body 12 times.
+4/22/25 10:20:57p •••
+4/22/25 10:20:57p You have been idle for too long.
+4/22/25 10:20:57p Please do something to avoid being disconnected.
+4/22/25 10:20:57p •••
+4/22/25 10:21:25p 'AK' is not a recognized command.
+4/22/25 10:22:10p * You need a breath of air!
+4/22/25 10:22:19p * You need a breath of air!
+4/22/25 10:22:35p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 10:22:35p Cat Food has fallen to a Mountain Bison.
+4/22/25 10:22:35p •Your injuries are grave.
+4/22/25 10:22:38p Your spirit has departed your body 13 times.
+4/22/25 10:22:47p You have 148 coins.
+4/22/25 10:24:01p * You need a breath of air!
+4/22/25 10:24:05p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 10:24:05p Cat Food has fallen to a lack of air.
+4/22/25 10:24:05p •You are easily healable.
+4/22/25 10:24:07p You have 148 coins.
+4/22/25 10:24:13p Your spirit has departed your body 14 times.
+4/22/25 10:24:13p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 10:24:14p Cat Food has fallen to a Detached Spirit.
+4/22/25 10:24:14p •You are too wounded to be healed easily.
+4/22/25 10:24:20p Your spirit has departed your body 14 times.
+4/22/25 10:24:31p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 10:24:31p Cat Food has fallen to a Detached Spirit.
+4/22/25 10:24:31p •You are too wounded to be healed easily.
+4/22/25 10:24:39p Your spirit has departed your body 14 times.
+4/22/25 10:24:52p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 10:24:52p Cat Food has fallen to a Detached Spirit.
+4/22/25 10:24:52p •You are too wounded to be healed easily.
+4/22/25 10:24:56p Your spirit has departed your body 14 times.
+4/22/25 10:24:58p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 10:24:58p •You are too wounded to be healed easily.
+4/22/25 10:24:58p Cat Food has fallen to a Detached Spirit.
+4/22/25 10:25:02p Your spirit has departed your body 14 times.
+4/22/25 10:25:28p You have 148 coins.
+4/22/25 10:26:04p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 10:26:04p Cat Food has fallen to a Detached Spirit.
+4/22/25 10:26:04p •You are easily healable.
+4/22/25 10:26:15p Your spirit has departed your body 14 times.
+4/22/25 10:26:19p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 10:26:19p Cat Food has fallen to a Detached Spirit.
+4/22/25 10:26:19p •You are easily healable.
+4/22/25 10:26:24p Your spirit has departed your body 14 times.
+4/22/25 10:26:26p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 10:26:27p Cat Food has fallen to a Detached Spirit.
+4/22/25 10:26:27p •You are too wounded to be healed easily.
+4/22/25 10:26:31p Your spirit has departed your body 14 times.
+4/22/25 10:26:44p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 10:26:44p Cat Food has fallen to a Detached Spirit.
+4/22/25 10:26:44p •You are too wounded to be healed easily.
+4/22/25 10:26:48p You have 148 coins.
+4/22/25 10:26:55p Your spirit has departed your body 14 times.
+4/22/25 10:28:01p \DEPART will send you to Purgatory when you are fallen and have given up hope of being rescued. Departing is traumatic, making it harder to learn for a short time afterward.
+4/22/25 10:28:01p Your spirit has departed your body 14 times.
+4/22/25 10:28:08p You have 148 coins.
+4/22/25 10:28:59p * You need a breath of air!
+4/22/25 10:29:07p * You need a breath of air!
+4/22/25 10:29:19p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 10:29:20p Cat Food has fallen to a Sky Bison.
+4/22/25 10:29:20p •Your injuries are grave.
+4/22/25 10:29:23p Your spirit has departed your body 15 times.
+4/22/25 10:29:26p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 10:29:26p Cat Food has fallen to a Detached Spirit.
+4/22/25 10:29:26p •You are too wounded to be healed easily.
+4/22/25 10:29:28p You have 148 coins.
+4/22/25 10:29:36p Your spirit has departed your body 15 times.
+4/22/25 10:29:44p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 10:29:44p Cat Food has fallen to a Detached Spirit.
+4/22/25 10:29:44p •You are too wounded to be healed easily.
+4/22/25 10:29:49p Your spirit has departed your body 15 times.
+4/22/25 10:29:50p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 10:29:51p •You are too wounded to be healed easily.
+4/22/25 10:29:51p Cat Food has fallen to a Detached Spirit.
+4/22/25 10:30:48p You have 148 coins.
+4/22/25 10:31:01p Your spirit has departed your body 15 times.
+4/22/25 10:31:12p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 10:31:13p Cat Food has fallen to a Detached Spirit.
+4/22/25 10:31:13p •You are too wounded to be healed easily.
+4/22/25 10:31:27p Your spirit has departed your body 15 times.
+4/22/25 10:31:29p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 10:31:29p Cat Food has fallen to a Detached Spirit.
+4/22/25 10:31:29p •You are too wounded to be healed easily.
+4/22/25 10:31:33p Your spirit has departed your body 15 times.
+4/22/25 10:31:38p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 10:31:39p Cat Food has fallen to a Detached Spirit.
+4/22/25 10:31:39p •You are too wounded to be healed easily.
+4/22/25 10:31:43p Your spirit has departed your body 15 times.
+4/22/25 10:32:09p You have 148 coins.
+4/22/25 10:32:35p Sentinel yells, "There is only one punishment for treason."
+4/22/25 10:33:29p You have 148 coins.
+4/22/25 10:34:46p Koppi yells, "Coriakin reports: Bard concert next Saturday, Apr. 26th at 11am pacific time!"
+4/22/25 10:34:49p You have 148 coins.
+4/22/25 10:34:52p •You sense healing energy from Mimo.
+4/22/25 10:34:53p * Healing Mimo 
+4/22/25 10:36:09p You have 148 coins.
+4/22/25 10:37:29p You have 148 coins.
+4/22/25 10:38:44p Crius yells, "It’s 7 o’clock, and all’s well."
+4/22/25 10:38:49p Crius yells, "It looks pretty quiet in The Land of Dank Believe."
+4/22/25 10:38:50p You have 148 coins.
+4/22/25 10:39:11p •The Sun sets.
+4/22/25 10:39:57p Koppi yells, "Coriakin reports: Bard concert next Saturday, Apr. 26th at 11am pacific time!"
+4/22/25 10:40:10p You have 148 coins.
+4/22/25 10:41:30p You have 148 coins.
+4/22/25 10:42:50p You have 148 coins.
+4/22/25 10:44:10p You have 148 coins.
+4/22/25 10:45:08p Koppi yells, "Lion-O reports: ..Lord Seaforth, Imperial Navy Commander in absentia, Organicus, the Bolt-Scarred, etc etc, aver that it is acceptable for Crunch, Haffron, Naferu and similar persons to refer to him as "Lord Admiral Kojiro", should that fit their comfort and habit."
+4/22/25 10:45:31p You have 148 coins.
+4/22/25 10:46:51p You have 148 coins.
+4/22/25 10:48:11p You have 148 coins.
+4/22/25 10:49:31p You have 148 coins.
+4/22/25 10:50:19p Koppi yells, "Coriakin reports: Bard concert next Saturday, Apr. 26th at 11am pacific time!"
+4/22/25 10:50:51p You have 148 coins.
+4/22/25 10:51:37p • /SLEEP when you wish to begin studying.
+4/22/25 10:51:39p Use \SLEEP again when you return.
+4/22/25 10:51:39p You are done adventuring for a while and will be staying here.
+4/22/25 10:51:40p You have been disconnected from Clan Lord.
+4/22/25 10:51:40p • You will benefit from staying here while you are off-line.
+4/22/25 10:51:41p *** We are no longer connected to the Clan Lord game server. ***
+4/22/25 10:59:38p * Your healer's shirt is in very good condition.
+4/22/25 10:59:38p * Your pair of second-circle pants named “white” is in very good condition.
+4/22/25 10:59:38p Welcome to Clan Lord, Cat Food!
+4/22/25 10:59:38p Type \HELP for a list of commands.
+4/22/25 10:59:38p • You gain experience from your recent studies.
+4/22/25 10:59:38p * Healer Item set to asklepian 
+4/22/25 10:59:38p The healing spell has started.
+4/22/25 10:59:38p You have been studying for 32 minutes.
+4/22/25 10:59:38p Friends online: none.
+4/22/25 10:59:41p It's 8:25pm on Soldi, day 31 of Spring, 641.
+4/22/25 10:59:43p There are three members of Black Phoenix clanning: Mimo, Warawonda and you.
+4/22/25 10:59:43p • What’s New: https://deltatao.com/clanlord/news
+4/22/25 10:59:52p * Tip of the day: Select an item in your Inventory window and use /EXAMINE to see any special information about it. (Use /OPTIONS to turn tips off.)
+4/22/25 11:01:50p A monster growls, "Die!"
+4/22/25 11:03:15p * You need a breath of air!
+4/22/25 11:03:59p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:03:59p Cat Food has fallen to a Shadowcat Huntress.
+4/22/25 11:03:59p •Your injuries are grave.
+4/22/25 11:04:03p Your spirit has departed your body 16 times.
+4/22/25 11:04:05p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:04:06p Cat Food has fallen to a Detached Spirit.
+4/22/25 11:04:06p •You are too wounded to be healed easily.
+4/22/25 11:04:11p Your spirit has departed your body 16 times.
+4/22/25 11:06:29p * You need a breath of air!
+4/22/25 11:06:34p •The healing spell has been broken.
+4/22/25 11:07:09p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:07:09p Cat Food has fallen to a Shadowcat Huntress.
+4/22/25 11:07:09p •Your injuries are serious.
+4/22/25 11:07:12p Your spirit has departed your body 17 times.
+4/22/25 11:07:23p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:07:24p Cat Food has fallen to a Detached Spirit.
+4/22/25 11:07:24p •You are too wounded to be healed easily.
+4/22/25 11:07:29p Your spirit has departed your body 17 times.
+4/22/25 11:07:38p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:07:39p Cat Food has fallen to a Detached Spirit.
+4/22/25 11:07:39p •You are too wounded to be healed easily.
+4/22/25 11:07:43p Your spirit has departed your body 17 times.
+4/22/25 11:07:54p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:07:55p Cat Food has fallen to a Detached Spirit.
+4/22/25 11:07:55p •You are too wounded to be healed easily.
+4/22/25 11:08:04p Your spirit has departed your body 17 times.
+4/22/25 11:09:30p •The healing spell has been broken.
+4/22/25 11:09:45p •The healing spell has been broken.
+4/22/25 11:10:06p * You need a breath of air!
+4/22/25 11:10:47p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:10:47p Cat Food has fallen to a Mountain Bison.
+4/22/25 11:10:47p •Your injuries are grave.
+4/22/25 11:10:52p Your spirit has departed your body 18 times.
+4/22/25 11:10:57p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:10:57p Cat Food has fallen to a Detached Spirit.
+4/22/25 11:10:57p •You are too wounded to be healed easily.
+4/22/25 11:11:03p Your spirit has departed your body 18 times.
+4/22/25 11:11:35p Yigdal says, "I'm collecting crystals for Lithia Akka's fountain."
+4/22/25 11:11:35p Yigdal ponders, "She has such grandiose plans."
+4/22/25 11:11:56p A monster growls, "Kill!"
+4/22/25 11:12:29p Eagürd nods and smiles at Cat Food.
+4/22/25 11:13:37p * You need a breath of air!
+4/22/25 11:13:45p * You need a breath of air!
+4/22/25 11:14:23p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:14:23p Cat Food has fallen to a Mountain Bison.
+4/22/25 11:14:23p •Your wounds are severe.
+4/22/25 11:14:27p Your spirit has departed your body 19 times.
+4/22/25 11:14:49p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:14:50p Cat Food has fallen to a Detached Spirit.
+4/22/25 11:14:50p •You are too wounded to be healed easily.
+4/22/25 11:14:56p Your spirit has departed your body 19 times.
+4/22/25 11:14:58p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:14:59p Cat Food has fallen to a Detached Spirit.
+4/22/25 11:14:59p •You are easily healable.
+4/22/25 11:15:04p Your spirit has departed your body 19 times.
+4/22/25 11:16:25p Shelka exclaims, "The things that come out of the well are disgusting!"
+4/22/25 11:17:04p •The healing spell has been broken.
+4/22/25 11:17:20p * You need a breath of air!
+4/22/25 11:18:15p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:18:16p Cat Food has fallen to a Sky Bison.
+4/22/25 11:18:16p •You are too wounded to be healed easily.
+4/22/25 11:18:20p Your spirit has departed your body 20 times.
+4/22/25 11:19:36p •You sense healing energy from Jeepers.
+4/22/25 11:19:52p * Healing Jeepers 
+4/22/25 11:20:12p •The healing spell has been broken.
+4/22/25 11:20:38p •The healing spell has been broken.
+4/22/25 11:21:25p * You need a breath of air!
+4/22/25 11:22:18p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:22:18p Cat Food has fallen to a Shadowcat Huntress.
+4/22/25 11:22:18p •Your injuries are serious.
+4/22/25 11:22:22p Your spirit has departed your body 21 times.
+4/22/25 11:22:30p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:22:30p Cat Food has fallen to a Detached Spirit.
+4/22/25 11:22:30p •You are easily healable.
+4/22/25 11:22:35p Your spirit has departed your body 21 times.
+4/22/25 11:22:36p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:22:37p Cat Food has fallen to a Detached Spirit.
+4/22/25 11:22:37p •You are too wounded to be healed easily.
+4/22/25 11:22:41p Your spirit has departed your body 21 times.
+4/22/25 11:22:49p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:22:50p Cat Food has fallen to a Detached Spirit.
+4/22/25 11:22:50p •You are too wounded to be healed easily.
+4/22/25 11:22:57p Your spirit has departed your body 21 times.
+4/22/25 11:23:10p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:23:10p Cat Food has fallen to a Detached Spirit.
+4/22/25 11:23:10p •You are too wounded to be healed easily.
+4/22/25 11:23:16p Your spirit has departed your body 21 times.
+4/22/25 11:23:22p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:23:23p Cat Food has fallen to a Detached Spirit.
+4/22/25 11:23:23p •You are easily healable.
+4/22/25 11:23:28p Your spirit has departed your body 21 times.
+4/22/25 11:23:30p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:23:30p Cat Food has fallen to a Detached Spirit.
+4/22/25 11:23:30p •You are too wounded to be healed easily.
+4/22/25 11:23:35p Your spirit has departed your body 21 times.
+4/22/25 11:23:51p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:23:51p Cat Food has fallen to a Detached Spirit.
+4/22/25 11:23:51p •You are easily healable.
+4/22/25 11:23:57p Your spirit has departed your body 21 times.
+4/22/25 11:26:22p Yigdal says, "I'm collecting crystals for Lithia Akka's fountain."
+4/22/25 11:26:22p Yigdal ponders, "She has such grandiose plans."
+4/22/25 11:26:23p Yigdal says, "I still need quite a few selenite crystals."
+4/22/25 11:26:23p Yigdal says, "I'm collecting crystals for Lithia Akka's fountain."
+4/22/25 11:26:26p * Healing Jeepers 
+4/22/25 11:26:32p A monster growls, "Die!"
+4/22/25 11:26:36p Koppi yells, "Coriakin reports: Bard concert next Saturday, Apr. 26th at 11am pacific time!"
+4/22/25 11:26:40p •You sense healing energy from Jeepers.
+4/22/25 11:27:09p A monster growls, "Die!"
+4/22/25 11:27:14p A monster growls, "Die!"
+4/22/25 11:27:41p A monster growls, "Kill!"
+4/22/25 11:28:13p A monster growls, "Kill!"
+4/22/25 11:29:08p A monster growls, "Kill!"
+4/22/25 11:29:43p A monster growls, "Die!"
+4/22/25 11:30:34p * You need a breath of air!
+4/22/25 11:32:28p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:32:28p Cat Food has fallen to a Mountain Bison.
+4/22/25 11:32:28p •Your wounds are severe.
+4/22/25 11:32:35p Your spirit has departed your body 22 times.
+4/22/25 11:32:36p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:32:37p Cat Food has fallen to a Detached Spirit.
+4/22/25 11:32:37p •You are too wounded to be healed easily.
+4/22/25 11:32:43p Your spirit has departed your body 22 times.
+4/22/25 11:32:44p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:32:45p Cat Food has fallen to a Detached Spirit.
+4/22/25 11:32:45p •You are too wounded to be healed easily.
+4/22/25 11:32:48p Your spirit has departed your body 22 times.
+4/22/25 11:32:50p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:32:50p •You are too wounded to be healed easily.
+4/22/25 11:32:50p Cat Food has fallen to a Detached Spirit.
+4/22/25 11:32:55p Your spirit has departed your body 22 times.
+4/22/25 11:33:04p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:33:04p Cat Food has fallen to a Detached Spirit.
+4/22/25 11:33:04p •You are easily healable.
+4/22/25 11:33:12p Your spirit has departed your body 22 times.
+4/22/25 11:33:20p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:33:20p Cat Food has fallen to a Detached Spirit.
+4/22/25 11:33:20p •You are too wounded to be healed easily.
+4/22/25 11:33:26p Your spirit has departed your body 22 times.
+4/22/25 11:33:28p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:33:29p Cat Food has fallen to a Detached Spirit.
+4/22/25 11:33:29p •You are easily healable.
+4/22/25 11:33:33p Your spirit has departed your body 22 times.
+4/22/25 11:33:34p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:33:35p •You are too wounded to be healed easily.
+4/22/25 11:33:35p Cat Food has fallen to a Detached Spirit.
+4/22/25 11:33:38p Your spirit has departed your body 22 times.
+4/22/25 11:33:47p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:33:47p Cat Food has fallen to a Detached Spirit.
+4/22/25 11:33:47p •You are too wounded to be healed easily.
+4/22/25 11:33:53p Your spirit has departed your body 22 times.
+4/22/25 11:33:54p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:33:55p Cat Food has fallen to a Detached Spirit.
+4/22/25 11:33:55p •You are too wounded to be healed easily.
+4/22/25 11:34:01p Your spirit has departed your body 22 times.
+4/22/25 11:34:08p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:34:08p Cat Food has fallen to a Detached Spirit.
+4/22/25 11:34:08p •You are too wounded to be healed easily.
+4/22/25 11:34:13p Your spirit has departed your body 22 times.
+4/22/25 11:34:18p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:34:18p Cat Food has fallen to a Detached Spirit.
+4/22/25 11:34:18p •You are easily healable.
+4/22/25 11:34:28p Your spirit has departed your body 22 times.
+4/22/25 11:34:30p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:34:31p Cat Food has fallen to a Detached Spirit.
+4/22/25 11:34:31p •You are too wounded to be healed easily.
+4/22/25 11:34:36p Your spirit has departed your body 22 times.
+4/22/25 11:34:36p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+4/22/25 11:34:55p Your spirit has departed your body 22 times.
+4/22/25 11:34:59p \DEPART will send you to Purgatory when you are fallen and have given up hope of being rescued. Departing is traumatic, making it harder to learn for a short time afterward.
+4/22/25 11:34:59p Your spirit has departed your body 22 times.
+4/22/25 11:36:07p • /SLEEP when you wish to begin studying.
+4/22/25 11:36:09p 'DE/SL' is not a recognized command.
+4/22/25 11:36:13p Use \SLEEP again when you return.
+4/22/25 11:36:13p You are done adventuring for a while and will be staying here.
+4/22/25 11:36:14p You have been disconnected from Clan Lord.
+4/22/25 11:36:14p • You will benefit from staying here while you are off-line.
+4/22/25 11:36:15p *** We are no longer connected to the Clan Lord game server. ***

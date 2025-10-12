@@ -1,0 +1,430 @@
+
+2/20/25 1:06:22a * Your pair of shoes named “white” is in very good condition.
+2/20/25 1:06:22a * Your shirt named “Dark Red” is in pretty good shape.
+2/20/25 1:06:22a * Your pair of fourth-circle pants named “turquoise” is in very good condition.
+2/20/25 1:06:22a Welcome to Clan Lord, Captain Planet!
+2/20/25 1:06:22a Type \HELP for a list of commands.
+2/20/25 1:06:22a • You gain experience from your recent studies.
+2/20/25 1:06:22a *Healer Mode
+2/20/25 1:06:22a *Type /hi help for more info
+2/20/25 1:06:22a Captain Planet is now Clanning.
+2/20/25 1:06:22a The healing spell has started.
+2/20/25 1:06:22a You have been studying for 4 days, 9 hours, 5 minutes.
+2/20/25 1:06:22a Friends online: none.
+2/20/25 1:06:25a It's 1:48pm on Sombdi, day 48 of Summer, 640.
+2/20/25 1:06:25a Catan is sharing experiences with you.
+2/20/25 1:06:27a There are two members of Black Phoenix clanning: ZipLock and you.
+2/20/25 1:06:27a • What’s New: https://deltatao.com/clanlord/news • Shieldstones can now be toggled on-and-off in the usual way again. 
+2/20/25 1:06:35a You begin sharing your experiences with Catan.
+2/20/25 1:06:36a * Tip of the day: Most important buildings are within the town’s walls. (Use /OPTIONS to turn tips off.)
+2/20/25 1:06:39a Captain Planet says, "lets go"
+2/20/25 1:06:57a You vault the wall.
+2/20/25 1:07:05a •Your healing spirit improves.
+2/20/25 1:09:31a 'SLUU' is not a recognized command.
+2/20/25 1:09:31a * For recovering the mandibles, you gain experience.
+2/20/25 1:09:31a * You recover the Arachne mandibles, worth 1c. Your share is 1c.
+2/20/25 1:09:32a • You begin radius healing.
+2/20/25 1:09:36a * You recover the Arachne mandibles, worth 1c.
+2/20/25 1:09:46a You have 565 coins.
+2/20/25 1:10:13a * Healing Catan 
+2/20/25 1:11:30a •You lock your healing to Catan.
+2/20/25 1:13:12a You have 565 coins.
+2/20/25 1:14:04a Lister is now Clanning.
+2/20/25 1:14:49a * Healing ZipLock 
+2/20/25 1:14:50a •You unlock your caduceus healing.
+2/20/25 1:15:15a * Catan recovers the Grey Arachnoid mandibles, worth 5c. Your share is 2c.
+2/20/25 1:15:21a •You lock your healing to Catan.
+2/20/25 1:15:57a * Catan recovers the Arachne mandibles, worth 1c. Your share is 1c.
+2/20/25 1:16:14a •You do not have enough spiritual energy.
+2/20/25 1:16:37a You have 568 coins.
+2/20/25 1:16:45a Arachnoid says, "The Changed ones defend the deep places."
+2/20/25 1:16:55a •You lock your healing to Catan.
+2/20/25 1:17:15a * You recover the Striped Arachnoid mandibles, worth 2c.
+2/20/25 1:17:25a * You recover the Purple Arachnoid mandibles, worth 2c. Your share is 1c.
+2/20/25 1:19:05a * You recover the Purple Arachnoid mandibles, worth 1c.
+2/20/25 1:20:03a You have 569 coins.
+2/20/25 1:21:32a * Catan recovers the Striped Arachnoid mandibles, worth 7c. Your share is 2c.
+2/20/25 1:21:58a * Catan recovers the Purple Arachnoid mandibles, worth 4c. Your share is 1c.
+2/20/25 1:22:17a * ZipLock recovers the Purple Arachnoid mandibles, worth 3c. Your share is 1c.
+2/20/25 1:23:30a You have 573 coins.
+2/20/25 1:23:53a •You do not have enough spiritual energy.
+2/20/25 1:24:12a ZipLock yells, "this is why i asked"
+2/20/25 1:24:25a Catan has fallen to a Purple Arachnoid.
+2/20/25 1:24:30a •You lock your healing to Catan.
+2/20/25 1:24:34a Catan has fallen to a Grey Arachnoid.
+2/20/25 1:24:35a •You don't quite have the training to heal Catan’s injuries.
+2/20/25 1:24:41a •You don't quite have the training to heal Catan’s injuries.
+2/20/25 1:24:43a •The player must be in the same area.
+2/20/25 1:26:08a Arachnoid says, "Thk'ekl make fine weapons, if you've got the training."
+2/20/25 1:26:11a Arachnoid says, "The rocks will speak to some who listen, deep below."
+2/20/25 1:26:28a Arachnoid says, "We were once a united race, but the Change swept through us."
+2/20/25 1:26:31a Arachnoid says, "Kthk-t'kel is found deep down where the rock grows warm."
+2/20/25 1:26:48a Arachnoid says, "We were once a united race, but the Change swept through us."
+2/20/25 1:26:52a Arachnoid says, "We were once a united race, but the Change swept through us."
+2/20/25 1:26:59a You have 573 coins.
+2/20/25 1:27:00a Arachnoid says, "Beware the Changed ones...."
+2/20/25 1:27:03a Arachnoid says, "Thk'ekl make fine weapons, if you've got the training."
+2/20/25 1:27:15a Arachnoid says, "Beware the Changed ones...."
+2/20/25 1:27:20a Arachnoid says, "The rocks will speak to some who listen, deep below."
+2/20/25 1:27:29a Arachnoid says, "Beware the Changed ones...."
+2/20/25 1:27:34a Catan is still fallen to a Grey Arachnoid.
+2/20/25 1:27:36a Arachnoid says, "You should go back, the Kthk-t'kel is unhealthy to your kind."
+2/20/25 1:28:05a Arachnoid says, "The Changed ones defend the deep places."
+2/20/25 1:28:06a * Healing Catan 
+2/20/25 1:28:07a •You don't quite have the training to heal Catan’s injuries.
+2/20/25 1:28:14a •You don't quite have the training to heal Catan’s injuries.
+2/20/25 1:28:14a ZipLock says, "oh"
+2/20/25 1:28:15a Catan says, "Effed uo"
+2/20/25 1:28:19a ZipLock says, "quite"
+2/20/25 1:28:20a •You don't quite have the training to heal Catan’s injuries.
+2/20/25 1:28:25a Arachnoid says, "The rocks will speak to some who listen, deep below."
+2/20/25 1:28:27a •You don't quite have the training to heal Catan’s injuries.
+2/20/25 1:28:27a Catan says, "that serves me right"
+2/20/25 1:28:34a •You don't quite have the training to heal Catan’s injuries.
+2/20/25 1:28:39a Arachnoid says, "The Changed ones defend the deep places."
+2/20/25 1:28:40a •You don't quite have the training to heal Catan’s injuries.
+2/20/25 1:28:42a Arachnoid says, "The other tribes fight for the cave south of here."
+2/20/25 1:28:47a •You don't quite have the training to heal Catan’s injuries.
+2/20/25 1:28:49a •The player must be in the same area.
+2/20/25 1:29:06a Arachnoid says, "Beware the Changed ones...."
+2/20/25 1:29:41a Gauntlet thinks to you, "Need a hand?"
+2/20/25 1:29:53a •You must specify a player in the game.
+2/20/25 1:30:01a Captain Planet says, "he quite taking him to tc"
+2/20/25 1:30:09a •The healing spell has been broken.
+2/20/25 1:30:11a •The healing spell has been broken.
+2/20/25 1:30:13a * Healing Gauntlet 
+2/20/25 1:30:14a •The player must be in the same area.
+2/20/25 1:30:18a * Healing Gauntlet 
+2/20/25 1:30:19a Gauntlet is sharing experiences with you.
+2/20/25 1:30:24a •The player must be in the same area.
+2/20/25 1:30:27a You have 573 coins.
+2/20/25 1:30:34a Catan has been fallen for some time because of a Grey Arachnoid.
+2/20/25 1:30:36a A Rat plucks at Catan's wounds.
+2/20/25 1:30:37a Catan ponders, "I got. arank while fallen"
+2/20/25 1:32:11a Catan is no longer fallen.
+2/20/25 1:33:12a Selucreh is now Clanning.
+2/20/25 1:33:30a Selucreh is no longer Clanning.
+2/20/25 1:33:51a You have 573 coins.
+2/20/25 1:34:49a * Healing Catan 
+2/20/25 1:34:59a Parmesan is now Clanning.
+2/20/25 1:35:09a •The healing spell has been broken.
+2/20/25 1:35:10a * Healing Catan 
+2/20/25 1:35:16a •You lock your healing to Catan.
+2/20/25 1:35:25a * You recover the Arachne mandibles, worth 1c.
+2/20/25 1:35:36a * Catan recovers the Arachne mandibles, worth 1c. Your share is 1c.
+2/20/25 1:35:42a Parmesan is no longer Clanning.
+2/20/25 1:35:44a •The player must be in the same area.
+2/20/25 1:36:17a You begin sharing your experiences with Gauntlet.
+2/20/25 1:36:17a You are sharing experiences with Gauntlet and Catan.
+2/20/25 1:36:25a Gauntlet is no longer Clanning.
+2/20/25 1:36:34a Arachnoid says, "The other tribes fight for the cave south of here."
+2/20/25 1:36:43a •You lock your healing to Catan.
+2/20/25 1:37:03a Klur is now Clanning.
+2/20/25 1:37:06a •The player must be in the same area.
+2/20/25 1:37:10a Klur is no longer Clanning.
+2/20/25 1:37:11a You have 574 coins.
+2/20/25 1:37:14a Julia is now Clanning.
+2/20/25 1:37:29a Arachnoid says, "Thk'ekl make fine weapons, if you've got the training."
+2/20/25 1:37:30a * Healing Catan 
+2/20/25 1:37:43a Arachnoid says, "Thk'ekl make fine weapons, if you've got the training."
+2/20/25 1:37:49a Arachnoid says, "Beware the Changed ones...."
+2/20/25 1:37:55a * Healing Catan 
+2/20/25 1:38:06a •You lock your healing to Catan.
+2/20/25 1:38:35a •The player must be in the same area.
+2/20/25 1:38:46a •You lock your healing to Catan.
+2/20/25 1:38:46a •The player must be in the same area.
+2/20/25 1:38:52a Catan has fallen to a Purple Arachnoid.
+2/20/25 1:39:02a Arachnoid says, "You should go back, the Kthk-t'kel is unhealthy to your kind."
+2/20/25 1:39:09a Va-Voom is now Clanning.
+2/20/25 1:39:16a Arachnoid says, "The other tribes fight for the cave south of here."
+2/20/25 1:39:20a Arachnoid says, "We were once a united race, but the Change swept through us."
+2/20/25 1:39:24a Elenis Reyav is now Clanning.
+2/20/25 1:39:35a Arachnoid says, "We were once a united race, but the Change swept through us."
+2/20/25 1:39:37a Arachnoid says, "Thk'ekl make fine weapons, if you've got the training."
+2/20/25 1:39:50a Arachnoid says, "The other tribes fight for the cave south of here."
+2/20/25 1:40:13a Arachnoid says, "You should go back, the Kthk-t'kel is unhealthy to your kind."
+2/20/25 1:40:19a Arachnoid says, "Kthk-t'kel is found deep down where the rock grows warm."
+2/20/25 1:40:28a * Healing Catan 
+2/20/25 1:40:29a •You don't quite have the training to heal Catan’s injuries.
+2/20/25 1:40:33a Captain Planet says, "hmm"
+2/20/25 1:40:35a You have 574 coins.
+2/20/25 1:40:36a •You don't quite have the training to heal Catan’s injuries.
+2/20/25 1:40:36a Captain Planet says, "quite"
+2/20/25 1:40:39a Catan says, "quite a gain"
+2/20/25 1:40:42a Catan says, "not histia"
+2/20/25 1:40:42a •You don't quite have the training to heal Catan’s injuries.
+2/20/25 1:40:46a Catan says, "no histia"
+2/20/25 1:40:48a Articuno is now Clanning.
+2/20/25 1:40:49a •You don't quite have the training to heal Catan’s injuries.
+2/20/25 1:40:55a ZipLock asks, "?"
+2/20/25 1:40:56a •You don't quite have the training to heal Catan’s injuries.
+2/20/25 1:41:02a •You don't quite have the training to heal Catan’s injuries.
+2/20/25 1:41:09a •You don't quite have the training to heal Catan’s injuries.
+2/20/25 1:41:10a ZipLock says, "horus and how hard you got hit"
+2/20/25 1:41:15a •You don't quite have the training to heal Catan’s injuries.
+2/20/25 1:41:16a Articuno is no longer Clanning.
+2/20/25 1:41:20a Goldy is now Clanning.
+2/20/25 1:41:22a •You don't quite have the training to heal Catan’s injuries.
+2/20/25 1:41:26a Arachnoid says, "Beware the Changed ones...."
+2/20/25 1:41:26a ZipLock says, "say how hard to rasie someone"
+2/20/25 1:41:29a •You don't quite have the training to heal Catan’s injuries.
+2/20/25 1:41:33a Arachnoid says, "Beware the Changed ones...."
+2/20/25 1:41:34a Arachnoid says, "The rocks will speak to some who listen, deep below."
+2/20/25 1:41:35a •You don't quite have the training to heal Catan’s injuries.
+2/20/25 1:41:37a Arachnoid says, "Kthk-t'kel is found deep down where the rock grows warm."
+2/20/25 1:41:42a •You don't quite have the training to heal Catan’s injuries.
+2/20/25 1:41:44a Arachnoid says, "Beware the Changed ones...."
+2/20/25 1:41:48a •You don't quite have the training to heal Catan’s injuries.
+2/20/25 1:41:52a Catan is still fallen to a Purple Arachnoid.
+2/20/25 1:41:54a Catan says, "dumb and dumber"
+2/20/25 1:41:55a •You don't quite have the training to heal Catan’s injuries.
+2/20/25 1:42:02a •You don't quite have the training to heal Catan’s injuries.
+2/20/25 1:42:08a •You don't quite have the training to heal Catan’s injuries.
+2/20/25 1:42:09a Arachnoid says, "Thk'ekl make fine weapons, if you've got the training."
+2/20/25 1:42:15a •You don't quite have the training to heal Catan’s injuries.
+2/20/25 1:42:16a Arachnoid says, "Beware the Changed ones...."
+2/20/25 1:42:17a Arachnoid says, "Thk'ekl make fine weapons, if you've got the training."
+2/20/25 1:42:21a •You don't quite have the training to heal Catan’s injuries.
+2/20/25 1:42:22a Arachnoid says, "Beware the Changed ones...."
+2/20/25 1:42:27a Agrehk is now Clanning.
+2/20/25 1:42:28a •You don't quite have the training to heal Catan’s injuries.
+2/20/25 1:42:32a * Healing CaptainPlanet 
+2/20/25 1:42:32a Cat Food is now Clanning.
+2/20/25 1:42:32a •You cannot use your asklepian staff on yourself.
+2/20/25 1:42:33a You equip your moonstone.
+2/20/25 1:42:33a •The healing spell has been broken.
+2/20/25 1:42:36a Arachnoid says, "We were once a united race, but the Change swept through us."
+2/20/25 1:42:47a Arachnoid says, "The rocks will speak to some who listen, deep below."
+2/20/25 1:42:49a Arachnoid says, "Beware the Changed ones...."
+2/20/25 1:42:59a Catan ponders, "I thought I had entered wrong, so I did it ...three times ... sigh"
+2/20/25 1:43:11a Va-Voom is no longer Clanning.
+2/20/25 1:43:30a Arachnoid says, "Beware the Changed ones...."
+2/20/25 1:43:48a Arachnoid says, "We were once a united race, but the Change swept through us."
+2/20/25 1:44:05a Arachnoid says, "You should go back, the Kthk-t'kel is unhealthy to your kind."
+2/20/25 1:44:10a Catan says, "inverse of SF, no lure, but can enter snell deep"
+2/20/25 1:44:10a You have 574 coins.
+2/20/25 1:44:22a Arachnoid says, "You should go back, the Kthk-t'kel is unhealthy to your kind."
+2/20/25 1:44:27a Elenis Reyav thinks, "Anyone aiding Catan?"
+2/20/25 1:44:32a Arachnoid says, "Thk'ekl make fine weapons, if you've got the training."
+2/20/25 1:44:37a Arachnoid says, "You should go back, the Kthk-t'kel is unhealthy to your kind."
+2/20/25 1:44:43a Arachnoid says, "We were once a united race, but the Change swept through us."
+2/20/25 1:44:44a Arachnoid says, "Kthk-t'kel is found deep down where the rock grows warm."
+2/20/25 1:44:47a Arachnoid says, "Thk'ekl make fine weapons, if you've got the training."
+2/20/25 1:44:52a Arachnoid says, "The rocks will speak to some who listen, deep below."
+2/20/25 1:44:52a Catan has been fallen for some time because of a Purple Arachnoid.
+2/20/25 1:44:52a * Healing Catan 
+2/20/25 1:44:53a You equip your asklepian staff.
+2/20/25 1:44:54a You must equip your moonstone before it can be used.
+2/20/25 1:44:54a You must equip your moonstone before it can be used.
+2/20/25 1:44:57a Catan is no longer fallen.
+2/20/25 1:44:59a Arachnoid says, "We were once a united race, but the Change swept through us."
+2/20/25 1:45:12a Arachnoid says, "You should go back, the Kthk-t'kel is unhealthy to your kind."
+2/20/25 1:45:23a Captain Planet thinks, "where feeding him to spiders"
+2/20/25 1:45:56a Arachnoid says, "We were once a united race, but the Change swept through us."
+2/20/25 1:45:57a Goldy is no longer Clanning.
+2/20/25 1:46:03a Catan thinks, "Ironically I was mince into cat. food by te Noids, then raised by Cat Food"
+2/20/25 1:46:30a Arachnoid says, "Beware the Changed ones...."
+2/20/25 1:46:34a Cat Food says, "hmm"
+2/20/25 1:46:38a Cat Food says, "macro not working"
+2/20/25 1:46:40a •You sense healing energy from Cat Food.
+2/20/25 1:46:40a Arachnoid says, "The other tribes fight for the cave south of here."
+2/20/25 1:46:46a Elenis Reyav thinks, "Hopefully a less feline food life is better :)"
+2/20/25 1:46:49a •The partial name 'cat' is ambiguous.
+2/20/25 1:46:49a •Healing the closest partial match: Catan.
+2/20/25 1:46:49a •You lock your healing to Catan.
+2/20/25 1:47:12a Arachnoid says, "Kthk-t'kel is found deep down where the rock grows warm."
+2/20/25 1:47:15a Jeepers is now Clanning.
+2/20/25 1:47:24a * ZipLock recovers the Purple Arachnoid mandibles, worth 3c. Your share is 1c.
+2/20/25 1:47:28a (Elenis Reyav nods.)
+2/20/25 1:47:33a ZipLock says, "a nods"
+2/20/25 1:47:37a (ZipLock nods)
+2/20/25 1:47:38a (Elenis Reyav smiles.)
+2/20/25 1:47:41a You have 575 coins.
+2/20/25 1:48:02a Elenis Reyav ponders, "It is always the second place you check!"
+2/20/25 1:48:03a Catan says, "Thnaks"
+2/20/25 1:48:19a ZipLock says, "cant do jades :P"
+2/20/25 1:48:22a (Elenis Reyav grins.)
+2/20/25 1:48:26a ZipLock says, "to much luck hits"
+2/20/25 1:48:28a Elenis Reyav says, "Got it in one."
+2/20/25 1:48:31a (Elenis Reyav grins.)
+2/20/25 1:48:34a ZipLock says, "even with 1k detha"
+2/20/25 1:48:34a (Elenis Reyav nods.)
+2/20/25 1:48:40a Elenis Reyav ponders, "Ooof"
+2/20/25 1:48:55a Catan asks, "Bricking Ele?"
+2/20/25 1:49:12a •The player must be in the same area.
+2/20/25 1:49:17a Elenis Reyav says, "I can try"
+2/20/25 1:49:19a •The partial name 'cat' is ambiguous.
+2/20/25 1:49:19a •Healing the closest partial match: Catan.
+2/20/25 1:49:19a •You lock your healing to Catan.
+2/20/25 1:49:22a •You gain experience.
+2/20/25 1:49:25a Elenis Reyav says, "I'm not really trained much as a brick."
+2/20/25 1:49:31a Elenis Reyav asks, "I've got about 10 minutes. Want to go smashy?"
+2/20/25 1:49:39a Elenis Reyav says, "Tag everything, as you tag, I'll smash."
+2/20/25 1:50:46a Chrono is now Clanning.
+2/20/25 1:51:05a You have 575 coins.
+2/20/25 1:51:12a * Cat Food recovers the Grey Arachnoid mandibles, worth 4c. Your share is 1c.
+2/20/25 1:51:22a * Elenis Reyav recovers the Purple Arachnoid mandibles, worth 7c. Your share is 1c.
+2/20/25 1:51:26a •You do not have enough spiritual energy.
+2/20/25 1:51:29a * Elenis Reyav recovers the Purple Arachnoid mandibles, worth 5c. Your share is 1c.
+2/20/25 1:51:43a * You recover the Blue Arachnoid mandibles, worth 1c.
+2/20/25 1:51:44a •The partial name 'cat' is ambiguous.
+2/20/25 1:51:44a •Healing the closest partial match: Cat Food.
+2/20/25 1:51:44a •You lock your healing to Cat Food.
+2/20/25 1:51:54a Lister is no longer Clanning.
+2/20/25 1:52:38a * ZipLock recovers the Green Arachnoid mandibles, worth 3c. Your share is 1c.
+2/20/25 1:52:49a •The partial name 'cat' is ambiguous.
+2/20/25 1:52:49a •Healing the closest partial match: Catan.
+2/20/25 1:52:49a •You lock your healing to Catan.
+2/20/25 1:52:57a Captain Planet says, "huh"
+2/20/25 1:53:05a Captain Planet says, "who was i cloked to"
+2/20/25 1:53:09a Captain Planet says, "locked"
+2/20/25 1:53:18a •The partial name 'cat' is ambiguous.
+2/20/25 1:53:18a •Healing the closest partial match: Catan.
+2/20/25 1:53:18a •Your healing is already locked to Catan.
+2/20/25 1:53:36a * Cat Food recovers the Grey Arachnoid mandibles, worth 8c. Your share is 2c.
+2/20/25 1:54:03a •You do not have enough spiritual energy.
+2/20/25 1:54:06a •The partial name 'cat' is ambiguous.
+2/20/25 1:54:06a •Healing the closest partial match: Cat Food.
+2/20/25 1:54:06a •You lock your healing to Cat Food.
+2/20/25 1:54:17a •You lock your healing to Catan.
+2/20/25 1:54:24a •You do not have enough spiritual energy.
+2/20/25 1:54:28a You have 581 coins.
+2/20/25 1:54:28a •You lock your healing to Catan.
+2/20/25 1:54:28a •You do not have enough spiritual energy.
+2/20/25 1:54:31a •You lock your healing to Catan.
+2/20/25 1:54:31a •You do not have enough spiritual energy.
+2/20/25 1:54:34a •You lock your healing to Catan.
+2/20/25 1:54:34a •You do not have enough spiritual energy.
+2/20/25 1:54:37a •You lock your healing to Catan.
+2/20/25 1:54:37a •You do not have enough spiritual energy.
+2/20/25 1:54:42a •You lock your healing to Catan.
+2/20/25 1:54:42a •You do not have enough spiritual energy.
+2/20/25 1:54:51a * Catan recovers the Grey Arachnoid mandibles, worth 2c. Your share is 1c.
+2/20/25 1:54:55a •You lock your healing to Catan.
+2/20/25 1:54:56a •You do not have enough spiritual energy.
+2/20/25 1:54:59a •You lock your healing to Catan.
+2/20/25 1:54:59a •You do not have enough spiritual energy.
+2/20/25 1:55:02a •You lock your healing to Catan.
+2/20/25 1:55:03a •You do not have enough spiritual energy.
+2/20/25 1:55:06a •You lock your healing to Catan.
+2/20/25 1:55:06a •You do not have enough spiritual energy.
+2/20/25 1:55:09a •You lock your healing to Catan.
+2/20/25 1:55:10a •You do not have enough spiritual energy.
+2/20/25 1:55:14a •You lock your healing to Catan.
+2/20/25 1:55:14a •You do not have enough spiritual energy.
+2/20/25 1:55:17a •You lock your healing to Catan.
+2/20/25 1:55:17a •You do not have enough spiritual energy.
+2/20/25 1:55:22a •You lock your healing to Catan.
+2/20/25 1:55:33a Elenis Reyav says, "Think that did it"
+2/20/25 1:55:55a Catan says, "What would my level for good vnaqz"
+2/20/25 1:56:03a Catan asks, "but doable unlike Jades?"
+2/20/25 1:56:14a •You gain experience.
+2/20/25 1:56:16a Cat Food says, "jades high vanq"
+2/20/25 1:56:19a Cat Food says, "for you"
+2/20/25 1:56:21a Elenis Reyav asks, "Hrm. Are you vanquishing here?"
+2/20/25 1:56:21a Jack Sparrow is now Clanning.
+2/20/25 1:56:32a Catan says, "I vanq like crazy there"
+2/20/25 1:56:35a (Elenis Reyav nods.)
+2/20/25 1:56:41a Catan says, "a rank every 5 five vanq"
+2/20/25 1:56:42a Elenis Reyav says, "Yeah, Jades is generally one of the better places."
+2/20/25 1:56:58a Catan says, "The place with the apes"
+2/20/25 1:57:03a Elenis Reyav says, "And monsters there are sticky."
+2/20/25 1:57:05a Cat Food says, "passes"
+2/20/25 1:57:18a Elenis Reyav says, "Valley might also be good"
+2/20/25 1:57:20a Catan says, "the blue and the white apes"
+2/20/25 1:57:30a Cat Food says, "i dont think he can hit in vally"
+2/20/25 1:57:31a Elenis Reyav says, "But would probably have tagging issues there"
+2/20/25 1:57:37a Elenis Reyav says, "Hehee, yep. Same page. : )"
+2/20/25 1:57:51a You have 582 coins.
+2/20/25 1:58:16a Catan says, "I only have 100-150 atkus"
+2/20/25 1:58:29a ZipLock says, "i have 200"
+2/20/25 1:58:34a ZipLock says, "and im 4th :P"
+2/20/25 1:58:43a ZipLock says, "im not trained correctly"
+2/20/25 1:58:57a (Elenis Reyav grins.)
+2/20/25 1:58:59a Catan asks, "what do you mean?"
+2/20/25 1:59:13a ZipLock says, "i train only detha for long while"
+2/20/25 1:59:20a ZipLock says, "then abit of darkur"
+2/20/25 1:59:33a ZipLock says, "witch rasies your min and max damage"
+2/20/25 1:59:35a Catan says, "I trained atkus to be able to tag big places"
+2/20/25 1:59:40a ZipLock says, "detha is defance"
+2/20/25 1:59:47a (Elenis Reyav nods.)
+2/20/25 1:59:57a Catan says, "you wanted to be a brick like hre"
+2/20/25 2:00:03a Elenis Reyav ponders, "Early atkus helps with ranking up so much. ^_^ As long as you keep up your swengus."
+2/20/25 2:00:06a (ZipLock nods)
+2/20/25 2:00:19a Catan says, "My swengus is too low now"
+2/20/25 2:00:28a ZipLock says, "yeah im think oif a cheat sheet for my next guy"
+2/20/25 2:00:37a Catan says, "but I am training evus again"
+2/20/25 2:01:13a Catan says, "I have lost a full swing"
+2/20/25 2:01:14a ZipLock says, "500 evus 500 swengus then ranger then atka for 300 then bangus"
+2/20/25 2:01:15a You have 582 coins.
+2/20/25 2:01:33a ZipLock says, "should get me 800+ atkus"
+2/20/25 2:01:48a Catan says, "Then you could not swing anymoe"
+2/20/25 2:01:55a Catan says, "or so I was told"
+2/20/25 2:02:00a Shadrock is now Clanning.
+2/20/25 2:02:20a Catan asks, "The place with the big apes is not a good idea?"
+2/20/25 2:02:32a ZipLock says, "valley"
+2/20/25 2:02:37a ZipLock says, "can you hit them"
+2/20/25 2:02:43a Catan asks, "hit what?"
+2/20/25 2:02:49a ZipLock says, "young sas"
+2/20/25 2:03:00a ZipLock says, "big apes"
+2/20/25 2:03:18a Catan asks, "I f I can tag Jades why couldn't I tag these?"
+2/20/25 2:03:38a ZipLock says, "harder to hit"
+2/20/25 2:03:42a Catan ponders, "feigning being fairly confident"
+2/20/25 2:04:13a ZipLock says, "i think captain has the pf to get in"
+2/20/25 2:04:19a Catan asks, "Valley and Passes is the same place?"
+2/20/25 2:04:24a ZipLock says, "from brambles"
+2/20/25 2:04:30a ZipLock says, "no"
+2/20/25 2:04:38a You have 582 coins.
+2/20/25 2:04:38a ZipLock says, "not even connected"
+2/20/25 2:04:48a Julia is no longer Clanning.
+2/20/25 2:04:51a ZipLock says, "witch is odd"
+2/20/25 2:05:21a * You recover the Grey Arachnoid mandibles, worth 1c.
+2/20/25 2:05:58a Fife is now Clanning.
+2/20/25 2:06:12a Agrehk is no longer Clanning.
+2/20/25 2:06:12a Fife is no longer Clanning.
+2/20/25 2:06:20a Catan says, "Shall we go somewhere? Noid respawn is quite slow if I am not mistaken"
+2/20/25 2:06:21a Chrono is no longer Clanning.
+2/20/25 2:06:31a •The player must be in the same area.
+2/20/25 2:06:52a Catan asks, "Where to?"
+2/20/25 2:06:55a Selucreh is now Clanning.
+2/20/25 2:07:48a Selucreh is no longer Clanning.
+2/20/25 2:07:51a Agrehk is now Clanning.
+2/20/25 2:08:00a • It’s Sombdi night, and the Coliseum will open soon.
+2/20/25 2:08:04a You have 582 coins.
+2/20/25 2:09:08a •The healing spell has been broken.
+2/20/25 2:09:27a Agrehk is no longer Clanning.
+2/20/25 2:09:36a Gauntlet is now Clanning.
+2/20/25 2:11:22a Catan vaults the wall.
+2/20/25 2:11:29a You have 582 coins.
+2/20/25 2:11:50a Cat Food is no longer Clanning.
+2/20/25 2:11:54a ZipLock vaults the wall.
+2/20/25 2:12:18a You vault the wall.
+2/20/25 2:12:49a Squib whispers, "attack"
+2/20/25 2:14:44a ZipLock says, "hmm"
+2/20/25 2:14:51a You have 582 coins.
+2/20/25 2:15:03a ZipLock says, "i eman i would try valley but i would have to double click"
+2/20/25 2:15:30a Jack Sparrow is no longer Clanning.
+2/20/25 2:15:34a Simmons is now Clanning.
+2/20/25 2:15:58a Simmons is no longer Clanning.
+2/20/25 2:16:10a Koppi yells, "Shakyamuni reports: The Darshak are holding our friends the gnomes Hostage.. We must help them!!"
+2/20/25 2:16:29a Catan asks, "The place with big Mushrooms?"
+2/20/25 2:16:41a ZipLock says, "hmm"
+2/20/25 2:16:46a Shadrock is no longer Clanning.
+2/20/25 2:16:47a ZipLock says, "mushrooms"
+2/20/25 2:16:51a ZipLock says, "theres a place"
+2/20/25 2:16:58a ZipLock says, "on ic"
+2/20/25 2:17:04a Matilda is now Clanning.
+2/20/25 2:17:07a ZipLock says, "we need a crowbar tho"
+2/20/25 2:18:03a ZipLock is no longer Clanning.
+2/20/25 2:18:17a You have 582 coins.
+2/20/25 2:18:49a Squib whispers, "attack"
+2/20/25 2:18:51a Catan thinks to you, "Elen sys he could brick Jades but with a healer?"
+2/20/25 2:18:56a Matilda is sharing experiences with you.
+2/20/25 2:19:05a Captain Planet says, "hmm"
+2/20/25 2:19:07a Arlana is now Clanning.
+2/20/25 2:19:12a • /SLEEP when you wish to begin studying.
+2/20/25 2:19:15a Use \SLEEP again when you return.
+2/20/25 2:19:15a You are done adventuring for a while and will be staying here.
+2/20/25 2:19:16a You have been disconnected from Clan Lord.
+2/20/25 2:19:16a • You will benefit from staying here while you are off-line.
+2/20/25 2:19:17a *** We are no longer connected to the Clan Lord game server. ***

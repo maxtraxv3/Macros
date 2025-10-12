@@ -1,0 +1,303 @@
+
+5/24/25 8:57:21p * Your shirt named “dark grey” is in nearly perfect condition.
+5/24/25 8:57:21p * Your pair of pants named “muddy yellow” is in nearly perfect condition.
+5/24/25 8:57:21p Welcome to Clan Lord, Jeff!
+5/24/25 8:57:21p Type \HELP for a list of commands.
+5/24/25 8:57:21p • You gain experience from your recent studies.
+5/24/25 8:57:21p Jeff is now Clanning.
+5/24/25 8:57:21p You have been studying for 3 hours, 28 minutes.
+5/24/25 8:57:24p Magnic II is now Clanning.
+5/24/25 8:57:24p It's 9:54am on Fordi, day 72 of Summer, 641.
+5/24/25 8:57:24p Friends online: none.
+5/24/25 8:57:25p There are two members of Black Phoenix clanning: Magnic II and you.
+5/24/25 8:57:25p • What’s New: https://deltatao.com/clanlord/news
+5/24/25 8:57:35p * Tip of the day: A /DEPART is traumatic, making it harder to learn for a while afterward. (Use /OPTIONS to turn tips off.)
+5/24/25 8:57:49p * Auto Mender ON!
+5/24/25 8:57:55p • Magnic II offers you an iron helmet. The iron helmet is in very good condition, and is offered for free.
+5/24/25 8:57:55p To accept, \BUY 0 Magnic II.
+5/24/25 8:57:55p * Traded: Magnic II 
+5/24/25 8:57:55p Magnic II hands you an iron helmet.
+5/24/25 8:57:56p Your blacksmith's repair kit is already equipped.
+5/24/25 8:57:57p You would need 69c worth of repair supplies to repair the iron helmet you have selected.
+5/24/25 8:57:57p Jeff says, "it will cost 69 to repair your iron helmet."
+5/24/25 8:57:58p Jeff asks, "do you wish for me to repair it?"
+5/24/25 8:57:58p Jeff says, "it will cost 69 to repair your iron helmet."
+5/24/25 8:57:59p Jeff asks, "do you wish for me to repair it?"
+5/24/25 8:58:02p Magnic II says, "yes"
+5/24/25 8:58:07p Magnic II says, "no"
+5/24/25 8:58:33p You offer an iron helmet named “MagnicII” to Magnic II for free.
+5/24/25 8:58:33p \SELL /cancel to cancel the offer.
+5/24/25 8:58:44p You hand Magnic II an iron helmet.
+5/24/25 8:58:45p Jeff whispers, "it was a pleasure to help."
+5/24/25 8:59:32p  1 
+5/24/25 8:59:32p  0 
+5/24/25 8:59:32p  2 
+5/24/25 8:59:32p  Magnic II.  
+5/24/25 8:59:32p  Magnic 
+5/24/25 8:59:33p  II. 
+5/24/25 8:59:33p   
+5/24/25 9:00:25p * Auto Mender ON!
+5/24/25 9:00:32p • Magnic II offers you an iron helmet. The iron helmet is in very good condition, and is offered for free.
+5/24/25 9:00:32p To accept, \BUY 0 Magnic II.
+5/24/25 9:00:33p * Traded: Magnic II 
+5/24/25 9:00:33p Magnic II hands you an iron helmet.
+5/24/25 9:00:33p Your blacksmith's repair kit is already equipped.
+5/24/25 9:00:34p You would need 69c worth of repair supplies to repair the iron helmet you have selected.
+5/24/25 9:00:35p Jeff says, "it will cost 69 to repair your iron helmet."
+5/24/25 9:00:35p Jeff asks, "do you wish for me to repair it?"
+5/24/25 9:00:35p Jeff says, "it will cost 69 to repair your iron helmet."
+5/24/25 9:00:36p Jeff asks, "do you wish for me to repair it?"
+5/24/25 9:00:38p Magnic II says, "yes"
+5/24/25 9:00:38p ping3
+5/24/25 9:00:38p Your blacksmith's repair kit is already equipped.
+5/24/25 9:00:39p This repair used 69c worth of supplies.
+5/24/25 9:00:39p You have 1c worth left.
+5/24/25 9:00:39p You repair an iron helmet.
+5/24/25 9:00:39p \SELL <price> <buyer> will offer the item selected in your Inventory window for sale.
+5/24/25 9:01:34p You offer an iron helmet named “MagnicII” to Magnic II for free.
+5/24/25 9:01:34p \SELL /cancel to cancel the offer.
+5/24/25 9:01:38p You hand Magnic II an iron helmet.
+5/24/25 9:01:39p Jeff whispers, "it was a pleasure to help."
+5/24/25 9:02:03p  0 
+5/24/25 9:02:03p  0 
+5/24/25 9:02:03p  2 
+5/24/25 9:02:03p  Magnic II.  
+5/24/25 9:02:03p  Magnic 
+5/24/25 9:02:03p  II. 
+5/24/25 9:02:03p   
+5/24/25 9:02:50p  0 
+5/24/25 9:02:50p  0 
+5/24/25 9:02:50p  2 
+5/24/25 9:02:50p  Magnic II.  
+5/24/25 9:02:50p  Magnic 
+5/24/25 9:02:51p  II. 
+5/24/25 9:02:51p   
+5/24/25 9:03:52p You have 17 coins.
+5/24/25 9:07:41p • Magnic II offers you a purse for free.
+5/24/25 9:07:41p To accept, \BUY 0 Magnic II.
+5/24/25 9:07:42p * Traded: Magnic II 
+5/24/25 9:07:42p Magnic II hands you a purse.
+5/24/25 9:07:42p You drop your purse.
+5/24/25 9:07:43p Jeff whispers, "please, dont trade me junk."
+5/24/25 9:07:43p You have no 'purse.' to drop.
+5/24/25 9:07:43p Jeff whispers, "please, dont trade me junk."
+5/24/25 9:07:44p You have no 'purse.' to drop.
+5/24/25 9:07:44p Jeff whispers, "please, dont trade me junk."
+5/24/25 9:07:45p You have no 'purse.' to drop.
+5/24/25 9:07:45p Jeff whispers, "please, dont trade me junk."
+5/24/25 9:07:45p You have no 'purse.' to drop.
+5/24/25 9:07:46p Jeff whispers, "please, dont trade me junk."
+5/24/25 9:07:46p You have no 'purse.' to drop.
+5/24/25 9:07:47p Jeff whispers, "please, dont trade me junk."
+5/24/25 9:07:47p You have no 'purse.' to drop.
+5/24/25 9:07:47p Jeff whispers, "please, dont trade me junk."
+5/24/25 9:07:48p You have no 'purse.' to drop.
+5/24/25 9:07:48p Jeff whispers, "please, dont trade me junk."
+5/24/25 9:07:49p You have no 'purse.' to drop.
+5/24/25 9:07:49p Jeff whispers, "please, dont trade me junk."
+5/24/25 9:07:49p You have no 'purse.' to drop.
+5/24/25 9:07:50p Jeff whispers, "please, dont trade me junk."
+5/24/25 9:07:50p You have no 'purse.' to drop.
+5/24/25 9:07:51p Jeff whispers, "please, dont trade me junk."
+5/24/25 9:07:51p You have no 'purse.' to drop.
+5/24/25 9:07:51p Jeff whispers, "please, dont trade me junk."
+5/24/25 9:07:52p You have no 'purse.' to drop.
+5/24/25 9:07:52p Jeff whispers, "please, dont trade me junk."
+5/24/25 9:07:53p You have no 'purse.' to drop.
+5/24/25 9:07:53p Jeff whispers, "please, dont trade me junk."
+5/24/25 9:07:53p You have no 'purse.' to drop.
+5/24/25 9:07:54p Jeff whispers, "please, dont trade me junk."
+5/24/25 9:07:54p You have no 'purse.' to drop.
+5/24/25 9:07:55p Jeff whispers, "please, dont trade me junk."
+5/24/25 9:07:55p You have no 'purse.' to drop.
+5/24/25 9:07:55p Jeff whispers, "please, dont trade me junk."
+5/24/25 9:07:56p You have no 'purse.' to drop.
+5/24/25 9:07:56p Jeff whispers, "please, dont trade me junk."
+5/24/25 9:07:57p You have no 'purse.' to drop.
+5/24/25 9:07:57p Jeff whispers, "please, dont trade me junk."
+5/24/25 9:07:57p You have no 'purse.' to drop.
+5/24/25 9:07:58p Jeff whispers, "please, dont trade me junk."
+5/24/25 9:07:58p You have no 'purse.' to drop.
+5/24/25 9:07:59p Jeff whispers, "please, dont trade me junk."
+5/24/25 9:07:59p You have no 'purse.' to drop.
+5/24/25 9:07:59p Jeff whispers, "please, dont trade me junk."
+5/24/25 9:08:00p You have no 'purse.' to drop.
+5/24/25 9:08:00p Jeff whispers, "please, dont trade me junk."
+5/24/25 9:08:01p You have no 'purse.' to drop.
+5/24/25 9:08:01p Jeff whispers, "please, dont trade me junk."
+5/24/25 9:08:01p You have no 'purse.' to drop.
+5/24/25 9:08:02p Jeff whispers, "please, dont trade me junk."
+5/24/25 9:08:02p *** We are no longer connected to the Clan Lord game server. ***
+5/24/25 9:08:08p * Your shirt named “dark grey” is in nearly perfect condition.
+5/24/25 9:08:08p * Your pair of pants named “muddy yellow” is in nearly perfect condition.
+5/24/25 9:08:08p Welcome to Clan Lord, Jeff!
+5/24/25 9:08:08p Type \HELP for a list of commands.
+5/24/25 9:08:08p Jeff is now Clanning.
+5/24/25 9:08:08p You have been studying for 24 seconds.
+5/24/25 9:08:09p Friends online: none.
+5/24/25 9:08:11p It's 10:38am on Fordi, day 72 of Summer, 641.
+5/24/25 9:08:13p There are two members of Black Phoenix clanning: Magnic II and you.
+5/24/25 9:08:13p • What’s New: https://deltatao.com/clanlord/news
+5/24/25 9:08:22p * Tip of the day: Disconnecting in a library logs you off immediately and lets you gain experience while you’re offline. (Use /OPTIONS to turn tips off.)
+5/24/25 9:11:50p Magnic II says, "check my armour"
+5/24/25 9:11:54p You have 17 coins.
+5/24/25 9:11:55p Magnic II says, "check my armour"
+5/24/25 9:11:56p * Auto Mender ON!
+5/24/25 9:11:56p Your blacksmith's repair kit is already equipped.
+5/24/25 9:11:57p Magnic II's lead boots is in very good condition. You would need 221c worth of repair supplies to mend it. 
+5/24/25 9:13:33p Habbakuk Lal is no longer Clanning.
+5/24/25 9:13:36p Jeepers is now Clanning.
+5/24/25 9:14:38p * Auto Mender ON!
+5/24/25 9:14:41p Magnic II says, "check my armour"
+5/24/25 9:14:41p Your blacksmith's repair kit is already equipped.
+5/24/25 9:14:42p Magnic II's lead boots is in very good condition. You would need 221c worth of repair supplies to mend it. 
+5/24/25 9:15:11p Shadrock is now Clanning.
+5/24/25 9:15:21p * Auto Mender ON!
+5/24/25 9:15:24p Magnic II says, "check my armour"
+5/24/25 9:15:24p Your blacksmith's repair kit is already equipped.
+5/24/25 9:15:25p Magnic II's lead boots is in very good condition. You would need 221c worth of repair supplies to mend it. 
+5/24/25 9:16:12p * Auto Mender ON!
+5/24/25 9:16:14p Magnic II says, "check my armour"
+5/24/25 9:16:15p Your blacksmith's repair kit is already equipped.
+5/24/25 9:16:15p Magnic II's lead boots is in very good condition. You would need 221c worth of repair supplies to mend it. 
+5/24/25 9:16:21p  listen 
+5/24/25 9:16:21p  1 
+5/24/25 9:16:21p  namewords 
+5/24/25 9:16:21p   
+5/24/25 9:16:21p   
+5/24/25 9:16:21p   
+5/24/25 9:16:21p   
+5/24/25 9:16:21p       
+5/24/25 9:16:21p  Magnic II's 
+5/24/25 9:16:21p  Magnic II 
+5/24/25 9:18:33p * Auto Mender ON!
+5/24/25 9:18:33p • MACRO Syntax Error
+No closing "end if" found.
+5/24/25 9:18:33p • MACRO if  == guy's
+5/24/25 9:18:55p * Auto Mender ON!
+5/24/25 9:19:00p Magnic II says, "check my armour"
+5/24/25 9:19:01p Your blacksmith's repair kit is already equipped.
+5/24/25 9:19:01p Magnic II's lead boots is in very good condition. You would need 221c worth of repair supplies to mend it. 
+5/24/25 9:19:02p Jeff says, "5/24/25 9:19:01p Magnic II's lead boots is in very good condition. You would need 221c worth of repair supplies to mend it."
+5/24/25 9:19:02p Jeff says, "5/24/25 9:19:01p Magnic II's lead boots is in very good condition. You would need 221c worth of repair supplies to mend it."
+5/24/25 9:20:58p •You gain experience.
+5/24/25 9:22:45p Paladion is now Clanning.
+5/24/25 9:22:46p You have 17 coins.
+5/24/25 9:23:18p Paladion is no longer Clanning.
+5/24/25 9:23:29p Shadrock is no longer Clanning.
+5/24/25 9:26:39p You have 17 coins.
+5/24/25 9:28:01p * Auto Mender ON!
+5/24/25 9:28:06p Magnic II says, "check my cloths"
+5/24/25 9:28:20p Magnic II says, "check my clothing"
+5/24/25 9:28:20p You equip your sewing kit named “477”.
+5/24/25 9:28:20p No player named 'II' found in the player list.
+5/24/25 9:28:21p • You must specify a player in the game.
+5/24/25 9:29:02p * Auto Mender ON!
+5/24/25 9:29:06p Magnic II says, "check my clothing"
+5/24/25 9:29:07p Your sewing kit is already equipped.
+5/24/25 9:29:07p No player named 'II' found in the player list.
+5/24/25 9:29:07p You must have an article of clothing selected in your Inventory to examine it.
+5/24/25 9:29:38p You must have an article of clothing selected in your Inventory to examine it.
+5/24/25 9:29:42p * You have 477c worth of sewing supplies.
+5/24/25 9:29:42p \USEITEM "sewing kit": determine repair costs for the clothing item selected in your Inventory
+5/24/25 9:29:42p \USEITEM "sewing kit" <player>: determine repair costs for someone else's current outfit
+5/24/25 9:29:42p \USEITEM "sewing kit" /mend: mend the clothing item selected in your Inventory
+5/24/25 9:29:42p \USEITEM "sewing kit" /combine: combine supplies in all your sewing kits into one
+5/24/25 9:29:49p Magnic II's shirt is in very good condition. You would need 1c worth of sewing supplies to mend it. His pair of pants is in very good condition. You would need 1c worth of sewing supplies to mend it. 
+5/24/25 9:30:02p  listen 
+5/24/25 9:30:02p  1 
+5/24/25 9:30:02p  namewords 
+5/24/25 9:30:02p   
+5/24/25 9:30:02p   
+5/24/25 9:30:02p   
+5/24/25 9:30:02p   
+5/24/25 9:30:02p       
+5/24/25 9:30:02p  II's 
+5/24/25 9:30:02p  II 
+5/24/25 9:30:50p * Auto Mender ON!
+5/24/25 9:30:53p Magnic II says, "check my clothing"
+5/24/25 9:30:53p Your sewing kit is already equipped.
+5/24/25 9:30:54p Magnic II's shirt is in very good condition. You would need 1c worth of sewing supplies to mend it. His pair of pants is in very good condition. You would need 1c worth of sewing supplies to mend it. 
+5/24/25 9:30:54p Jeff says, "5/24/25 9:30:54p Magnic II's shirt is in very good condition. You would need 1c worth of sewing supplies to mend it. His pair of pants is in very good condition. You would need 1c worth of sewing supplies to mend it."
+5/24/25 9:30:55p Jeff says, "puase15/24/25 9:30:54p Magnic II's shirt is in very good condition. You would need 1c worth of sewing supplies to mend it. His pair of pants is in very good condition. You would need 1c worth of sewing supplies to mend it."
+5/24/25 9:31:49p * Auto Mender ON!
+5/24/25 9:31:51p Magnic II says, "check my clothing"
+5/24/25 9:31:52p Your sewing kit is already equipped.
+5/24/25 9:31:52p Magnic II's shirt is in very good condition. You would need 1c worth of sewing supplies to mend it. His pair of pants is in very good condition. You would need 1c worth of sewing supplies to mend it. 
+5/24/25 9:31:53p Jeff says, "5/24/25 9:31:52p Magnic II's shirt is in very good condition. You would need 1c worth of sewing supplies to mend it. His pair of pants is in very good condition. You would need 1c worth of sewing supplies to mend it."
+5/24/25 9:35:51p You have 17 coins.
+5/24/25 9:39:37p You have 17 coins.
+5/24/25 9:40:50p * You have 477c worth of sewing supplies.
+5/24/25 9:40:50p \USEITEM "sewing kit": determine repair costs for the clothing item selected in your Inventory
+5/24/25 9:40:50p \USEITEM "sewing kit" <player>: determine repair costs for someone else's current outfit
+5/24/25 9:40:50p \USEITEM "sewing kit" /mend: mend the clothing item selected in your Inventory
+5/24/25 9:40:50p \USEITEM "sewing kit" /combine: combine supplies in all your sewing kits into one
+5/24/25 9:41:59p You would need 1c worth of sewing supplies to mend the pair of pants you have selected.
+5/24/25 9:42:00p Jeff says, "it will cost 1 to repair your itemname"
+5/24/25 9:42:00p Jeff asks, "do you wish for me to repair it?"
+5/24/25 9:43:15p You have 17 coins.
+5/24/25 9:47:08p You have 17 coins.
+5/24/25 9:51:01p You have 17 coins.
+5/24/25 9:51:41p •You gain experience.
+5/24/25 9:54:53p You have 17 coins.
+5/24/25 9:57:12p Leyenda is now Clanning.
+5/24/25 9:57:12p Leyenda has been studying for 2 years, 7 months, 11 days.
+5/24/25 9:58:14p Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+5/24/25 9:58:14p Aitnos asks, "Would you like to apply some of your learning to Bangus Anmash’s lessons?"
+5/24/25 9:58:14p Jeff whispers, "yes"
+5/24/25 9:58:15p Magnic II whispers, "yes"
+5/24/25 9:58:18p Leyenda says, "yes"
+5/24/25 9:58:19p Aitnos says, "Congratulations, Leyenda. You should now understand much more of Bangus Anmash’s teachings."
+5/24/25 9:58:20p Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+5/24/25 9:58:20p Magnic II says, "heh"
+5/24/25 9:58:20p Aitnos asks, "Would you like to apply some of your learning to Bangus Anmash’s lessons?"
+5/24/25 9:58:20p Magnic II whispers, "yes"
+5/24/25 9:58:21p Jeff whispers, "yes"
+5/24/25 9:58:21p Leyenda says, "yes"
+5/24/25 9:58:22p Aitnos says, "Congratulations, Leyenda. You should now understand much more of Bangus Anmash’s teachings."
+5/24/25 9:58:23p Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+5/24/25 9:58:23p Aitnos asks, "Would you like to apply some of your learning to Bangus Anmash’s lessons?"
+5/24/25 9:58:24p Jeff whispers, "yes"
+5/24/25 9:58:24p Magnic II whispers, "yes"
+5/24/25 9:58:24p Leyenda says, "yes"
+5/24/25 9:58:26p Aitnos says, "Congratulations, Leyenda. You should now understand much more of Bangus Anmash’s teachings."
+5/24/25 9:58:26p Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+5/24/25 9:58:27p Aitnos asks, "Would you like to apply some of your learning to Bangus Anmash’s lessons?"
+5/24/25 9:58:27p Jeff whispers, "yes"
+5/24/25 9:58:27p Magnic II whispers, "yes"
+5/24/25 9:58:27p Leyenda says, "yes"
+5/24/25 9:58:28p Magnic II says, "check my clothing"
+5/24/25 9:58:28p Your sewing kit is already equipped.
+5/24/25 9:58:29p Magnic II's shirt is in very good condition. You would need 1c worth of sewing supplies to mend it. His pair of pants is in very good condition. You would need 1c worth of sewing supplies to mend it. 
+5/24/25 9:58:29p Aitnos says, "Congratulations, Leyenda. You should now understand much more of Bangus Anmash’s teachings."
+5/24/25 9:58:29p Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+5/24/25 9:58:30p Aitnos asks, "Would you like to apply some of your learning to Bangus Anmash’s lessons?"
+5/24/25 9:58:30p Jeff whispers, "yes"
+5/24/25 9:58:30p Magnic II whispers, "yes"
+5/24/25 9:58:31p Leyenda says, "yes"
+5/24/25 9:58:32p Aitnos says, "Congratulations, Leyenda. You should now understand more of Bangus Anmash’s teachings."
+5/24/25 9:58:32p Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+5/24/25 9:58:33p Aitnos says, "You have not yet learned enough for Bangus Anmash’s lesson."
+5/24/25 9:58:33p Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+5/24/25 9:58:33p Leyenda says, "yes"
+5/24/25 9:58:34p Aitnos says, "You have not yet learned enough for Bangus Anmash’s lesson."
+5/24/25 9:58:34p Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+5/24/25 9:58:35p Aitnos says, "You have not yet learned enough for Bangus Anmash’s lesson."
+5/24/25 9:58:37p Edric says, "Greetings, Lady Leyenda."
+5/24/25 9:58:37p Edric says, "I hope you enjoy studying here."
+5/24/25 9:58:37p Edric says, "The longer you study, the more you learn."
+5/24/25 9:58:38p Edric says, "But remember, you cannot learn as well from books if you never put your knowledge to use."
+5/24/25 9:58:38p Edric says, "Knowledge is the key to understanding."
+5/24/25 9:58:38p Leyenda says, "ola"
+5/24/25 9:58:39p Edric says, "Return when you are done adventuring for a while."
+5/24/25 9:58:41p You have 17 coins.
+5/24/25 9:58:42p Magnic II says, "check my clothing"
+5/24/25 9:58:42p Your sewing kit is already equipped.
+5/24/25 9:58:43p Magnic II's shirt is in very good condition. You would need 1c worth of sewing supplies to mend it. His pair of pants is in very good condition. You would need 1c worth of sewing supplies to mend it. 
+5/24/25 9:58:43p Jeff says, "5/24/25 9:58:43p Magnic II's shirt is in very good condition. You would need 1c worth of sewing supplies to mend it. His pair of pants is in very good condition. You would need 1c worth of sewing supplies to mend it."
+5/24/25 9:59:15p • /SLEEP when you wish to begin studying.
+5/24/25 9:59:19p Use \SLEEP again when you return.
+5/24/25 9:59:19p You are done adventuring for a while and will be staying here.
+5/24/25 9:59:20p You have been disconnected from Clan Lord.
+5/24/25 9:59:20p • You will benefit from staying here while you are off-line.
+5/24/25 9:59:20p *** We are no longer connected to the Clan Lord game server. ***

@@ -1,0 +1,568 @@
+
+9/28/25 12:59:50p • MACRO Error opening file.
+FILE "autogpt.txt"
+9/28/25 12:59:50p * Your cloak named “royal purple” is in pretty good shape.
+9/28/25 12:59:50p Welcome to Clan Lord, Unholy!
+9/28/25 12:59:50p Type \HELP for a list of commands.
+9/28/25 12:59:50p • You have been charged 296 coins for advanced studies.
+9/28/25 12:59:50p • You gain experience from your recent studies.
+9/28/25 12:59:50p *Healer Mode
+9/28/25 12:59:50p * Healer Item set to asklepian staff 
+9/28/25 12:59:50p The healing spell has started.
+9/28/25 12:59:50p You have been studying for 9 days, 16 hours, 49 minutes.
+9/28/25 12:59:53p •You seem to recover spiritual energy faster.
+9/28/25 12:59:53p It's 2:26pm on Fordi, day 50 of Winter, 643.
+9/28/25 12:59:55p There are three members of Black Phoenix clanning: Ceara, Warawonda and you.
+9/28/25 12:59:55p • What’s New: https://deltatao.com/clanlord/news
+9/28/25 12:59:57p Friends online: none.
+9/28/25 1:00:04p * Tip of the day: If someone is bothering you, try /IGNORE. (Use /OPTIONS to turn tips off.)
+9/28/25 1:00:39p *Healer Mode
+9/28/25 1:00:39p * Healer Item set to asklepian staff 
+9/28/25 1:01:02p Aurelie thinks, "meow"
+9/28/25 1:01:23p •You seem to recover spiritual energy faster.
+9/28/25 1:01:49p * Healing Unholy 
+9/28/25 1:01:50p •You cannot use your asklepian staff on yourself.
+9/28/25 1:01:50p You equip your moonstone.
+9/28/25 1:01:55p •To heal yourself, type: \USE
+9/28/25 1:01:55p •To heal yourself three times, type: \USE 3
+9/28/25 1:01:59p * Healing LittlePrince 
+9/28/25 1:02:01p You equip your asklepian staff.
+9/28/25 1:02:01p You must equip your moonstone before it can be used.
+9/28/25 1:02:02p You must equip your moonstone before it can be used.
+9/28/25 1:02:02p You must equip your moonstone before it can be used.
+9/28/25 1:02:09p * C Heal Online
+9/28/25 1:02:15p • You hear Aurelie's music...
+9/28/25 1:02:15p Aurelie starts playing her starbuck harp.
+9/28/25 1:02:15p (Aurelie): Learning the Steps - For Giben
+9/28/25 1:02:16p • You begin radius healing.
+9/28/25 1:02:19p Giben says, ":)"
+9/28/25 1:02:29p Warawonda is sharing experiences with you.
+9/28/25 1:02:33p LittlePrince says, "Aurelie"
+9/28/25 1:02:38p Aurelie exclaims, "Prince!"
+9/28/25 1:02:39p * Healing Giben 
+9/28/25 1:02:41p Palmeri says, "oh that was close lol"
+9/28/25 1:02:47p LittlePrince asks, "Can you write a song about my tummy?"
+9/28/25 1:02:51p Aurelie exclaims, "I can!"
+9/28/25 1:02:54p Palmeri says, "OH YES"
+9/28/25 1:02:55p Giben says, "lol"
+9/28/25 1:02:59p Palmeri says, "neeeeeeeeeed that song"
+9/28/25 1:03:01p Aurelie says, "I have two comissions lined up first, though..."
+9/28/25 1:03:02p * Healing Maximus 
+9/28/25 1:03:16p (LittlePrince digs in his pockets for change.)
+9/28/25 1:03:21p Pun'isher growls, "so is she a commissioner then?"
+9/28/25 1:03:22p * Healing Unholy 
+9/28/25 1:03:22p •You cannot use your asklepian staff on yourself.
+9/28/25 1:03:22p * self healing mode
+9/28/25 1:03:22p You equip your moonstone.
+9/28/25 1:03:22p •The healing spell has been broken.
+9/28/25 1:03:23p Your moonstone is already equipped.
+9/28/25 1:03:28p * Healing LittlePrince 
+9/28/25 1:03:33p * Healing LittlePrince 
+9/28/25 1:03:35p You equip your asklepian staff.
+9/28/25 1:03:35p • You begin radius healing.
+9/28/25 1:03:35p (Pun'isher eyes a half eaten myrm fall otu of littles pocket)
+9/28/25 1:03:36p You must equip your moonstone before it can be used.
+9/28/25 1:03:37p • You begin radius healing.
+9/28/25 1:03:37p You must equip your moonstone before it can be used.
+9/28/25 1:03:38p • You stop radius healing.
+9/28/25 1:03:38p You must equip your moonstone before it can be used.
+9/28/25 1:03:38p LittlePrince asks, "What'll it take to cut in line?"
+9/28/25 1:03:39p • You begin radius healing.
+9/28/25 1:03:39p You must equip your moonstone before it can be used.
+9/28/25 1:03:39p • You stop radius healing.
+9/28/25 1:03:40p You must equip your moonstone before it can be used.
+9/28/25 1:03:40p • You begin radius healing.
+9/28/25 1:03:41p You must equip your moonstone before it can be used.
+9/28/25 1:03:41p • You stop radius healing.
+9/28/25 1:03:41p You must equip your moonstone before it can be used.
+9/28/25 1:03:42p • You begin radius healing.
+9/28/25 1:03:42p You must equip your moonstone before it can be used.
+9/28/25 1:03:43p • You stop radius healing.
+9/28/25 1:03:43p You must equip your moonstone before it can be used.
+9/28/25 1:03:43p • You begin radius healing.
+9/28/25 1:03:44p You must equip your moonstone before it can be used.
+9/28/25 1:03:44p • You stop radius healing.
+9/28/25 1:03:45p You must equip your moonstone before it can be used.
+9/28/25 1:03:45p • You begin radius healing.
+9/28/25 1:03:45p You must equip your moonstone before it can be used.
+9/28/25 1:03:46p • You stop radius healing.
+9/28/25 1:03:46p You must equip your moonstone before it can be used.
+9/28/25 1:03:47p Your asklepian staff is already equipped.
+9/28/25 1:03:47p • You begin radius healing.
+9/28/25 1:03:47p *Healer Mode
+9/28/25 1:03:47p * Healer Item set to asklepian staff 
+9/28/25 1:03:48p You must equip your moonstone before it can be used.
+9/28/25 1:03:48p • You begin radius healing.
+9/28/25 1:03:49p You must equip your moonstone before it can be used.
+9/28/25 1:03:49p • You stop radius healing.
+9/28/25 1:03:49p You must equip your moonstone before it can be used.
+9/28/25 1:03:50p • You begin radius healing.
+9/28/25 1:03:50p You must equip your moonstone before it can be used.
+9/28/25 1:03:51p • You stop radius healing.
+9/28/25 1:03:51p • You begin radius healing.
+9/28/25 1:03:51p Aurelie exclaims, "Pffft, and compromise my principles?!"
+9/28/25 1:03:51p *** We are no longer connected to the Clan Lord game server. ***
+9/28/25 1:03:55p • You begin radius healing.
+9/28/25 1:03:55p Welcome back, Unholy!
+9/28/25 1:03:55p *Healer Mode
+9/28/25 1:03:55p * Healer Item set to asklepian staff 
+9/28/25 1:03:56p * Healing LittlePrince 
+9/28/25 1:03:58p Friends online: none.
+9/28/25 1:04:05p Palmeri says, "Aurelie, we all know the principles are for show"
+9/28/25 1:04:07p * Healing Maximus 
+9/28/25 1:04:09p (Palmeri winks)
+9/28/25 1:04:09p •The player must be in the same area.
+9/28/25 1:04:11p Pun'isher growls, "offer 10000 coins and a llama"
+9/28/25 1:04:17p * Healing Maximus 
+9/28/25 1:04:23p (Aurelie waggles her eyebrows at Palmeri.)
+9/28/25 1:04:24p LittlePrince says, "Well yeah I guess."
+9/28/25 1:04:45p * You feel mentally enhanced by Warawonda...
+9/28/25 1:04:46p •The player must be in the same area.
+9/28/25 1:04:52p Palmeri exclaims, "oh unholy! make sure we share!"
+9/28/25 1:04:58p Aurelie exclaims, "Oh h'lo!"
+9/28/25 1:04:59p * Healing Unholy 
+9/28/25 1:04:59p •You cannot use your asklepian staff on yourself.
+9/28/25 1:04:59p You equip your moonstone.
+9/28/25 1:05:02p LittlePrince is sharing experiences with you.
+9/28/25 1:05:02p Palmeri is sharing experiences with you.
+9/28/25 1:05:06p Journeyer is sharing experiences with you.
+9/28/25 1:05:08p (Unholy waves)
+9/28/25 1:05:10p Giben is sharing experiences with you.
+9/28/25 1:05:11p Palmeri exclaims, "you just POOF here!"
+9/28/25 1:05:14p * Healing Punisher 
+9/28/25 1:05:15p You equip your asklepian staff.
+9/28/25 1:05:16p You must equip your moonstone before it can be used.
+9/28/25 1:05:16p You must equip your moonstone before it can be used.
+9/28/25 1:05:17p •The healing spell has been broken.
+9/28/25 1:05:17p * Healing Giben 
+9/28/25 1:05:19p Aurelie says, "Journeyer is pretending to be our champion"
+9/28/25 1:05:26p Aurelie says, "If you are in a pinch, try and drop on him or me"
+9/28/25 1:05:37p (Journeyer is still and unmoving)
+9/28/25 1:05:39p * Healing Maximus 
+9/28/25 1:05:41p •The healing spell has been broken.
+9/28/25 1:05:42p * Healing Maximus 
+9/28/25 1:05:44p Pun'isher growls, "tag max?"
+9/28/25 1:05:51p You begin sharing your experiences with LittlePrince.
+9/28/25 1:05:52p * Healing LittlePrince 
+9/28/25 1:05:59p * Healing Aurelie 
+9/28/25 1:06:02p Aurelie says, "Lessee"
+9/28/25 1:06:03p You begin sharing your experiences with Aurelie.
+9/28/25 1:06:03p You are sharing experiences with Aurelie and LittlePrince.
+9/28/25 1:06:04p * Healing Maximus 
+9/28/25 1:06:11p Aurelie asks, "Cori's new song from today, or Xepel's new song from today?"
+9/28/25 1:06:22p * Healing Punisher 
+9/28/25 1:06:22p LittlePrince asks, "Both?"
+9/28/25 1:06:27p •The healing spell has been broken.
+9/28/25 1:06:28p * Healing Giben 
+9/28/25 1:06:30p Palmeri says, "This is turning out to be an okay hunt! I am happy you all could come and thanks for sticking through the rough start"
+9/28/25 1:06:32p • You hear Aurelie's music...
+9/28/25 1:06:32p Aurelie starts playing her torjo.
+9/28/25 1:06:32p (Aurelie): The Ctenizidae's Lair - by Xepel
+9/28/25 1:06:34p * Your mental enhancement fades.
+9/28/25 1:06:37p * Your mental enhancement fades.
+9/28/25 1:06:39p * Healing Palmeri 
+9/28/25 1:06:43p * Healing LittlePrince 
+9/28/25 1:06:45p Giben says, "still a flower N"
+9/28/25 1:06:46p * Healing Unholy 
+9/28/25 1:06:47p •You cannot use your asklepian staff on yourself.
+9/28/25 1:06:47p You equip your moonstone.
+9/28/25 1:06:50p * Healing Aurelie 
+9/28/25 1:06:50p You equip your asklepian staff.
+9/28/25 1:06:50p You must equip your moonstone before it can be used.
+9/28/25 1:06:50p Pun'isher growls, "ooh"
+9/28/25 1:07:00p You have 1242 coins.
+9/28/25 1:07:00p Giben says, "could prolly kill it now"
+9/28/25 1:07:01p Pun'isher growls, "that sounds grazey!"
+9/28/25 1:07:10p (Aurelie rocks out.)
+9/28/25 1:07:16p (Palmeri giggles)
+9/28/25 1:07:29p Aurelie says, "Xepel wrote this song this morning, a few hours before the concert."
+9/28/25 1:07:35p Aurelie says, "In typical Xepel fashion."
+9/28/25 1:07:39p •The healing spell has been broken.
+9/28/25 1:07:41p * Healing Punisher 
+9/28/25 1:07:47p Aurelie exclaims, "Also, Prince! I love your scarf!"
+9/28/25 1:07:49p Boo Boo Kitty thinks, "lp on the brick"
+9/28/25 1:07:55p LittlePrince exclaims, "Thanks!"
+9/28/25 1:08:01p * You feel mentally enhanced by Warawonda...
+9/28/25 1:08:03p LittlePrince asks, "Wanna see the inspo?"
+9/28/25 1:08:08p Palmeri yells, "please thank someone"
+9/28/25 1:08:11p * Healing Maximus 
+9/28/25 1:08:12p •Maximus was too wounded to be healed easily.
+9/28/25 1:08:28p * Warawonda recovers the Lowland Panther fur, worth 34c. Your share is 4c.
+9/28/25 1:08:29p •Maximus was too wounded to be healed easily.
+9/28/25 1:08:33p LittlePrince exclaims, "Get the fk!"
+9/28/25 1:08:40p Aurelie yells, "Fear the Fweep!"
+9/28/25 1:08:43p •Maximus’s injuries are a little more serious than you can heal.
+9/28/25 1:08:45p * Healing Palmeri 
+9/28/25 1:08:47p * Healing Giben 
+9/28/25 1:08:50p •You don't quite have the training to heal Giben’s injuries.
+9/28/25 1:08:50p * Healing LittlePrince 
+9/28/25 1:08:52p * Healing Unholy 
+9/28/25 1:08:52p •You cannot use your asklepian staff on yourself.
+9/28/25 1:08:52p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+9/28/25 1:08:52p You equip your moonstone.
+9/28/25 1:08:52p •The healing spell has been broken.
+9/28/25 1:08:53p •Your injuries are grave.
+9/28/25 1:08:53p Unholy has fallen to a Fledgling Kestrel.
+9/28/25 1:08:53p You slip your moonstone into your backpack.
+9/28/25 1:08:53p You cannot possibly use anything in your current condition.
+9/28/25 1:08:58p Palmeri says, "darn i tried and it felt like it pulled the cat lol"
+9/28/25 1:09:01p LittlePrince exclaims, "Get em Aurelie!"
+9/28/25 1:09:13p •Your injuries are serious.
+9/28/25 1:09:19p Aurelie asks, "On Palmeri?"
+9/28/25 1:09:20p Aurelie asks, "Please?"
+9/28/25 1:09:51p * Your mental enhancement fades.
+9/28/25 1:09:54p * Your mental enhancement fades.
+9/28/25 1:09:59p Clemence says, "lms"
+9/28/25 1:10:03p You have 1246 coins.
+9/28/25 1:10:07p Aurelie says, "We had him"
+9/28/25 1:10:09p Clemence says, "there we go"
+9/28/25 1:10:13p •You sense healing energy from Boo Boo Kitty.
+9/28/25 1:10:13p Aurelie exclaims, "Ta daaa!"
+9/28/25 1:10:13p •You sense healing energy from LittlePrince.
+9/28/25 1:10:16p •You sense healing energy from Aurelie.
+9/28/25 1:10:18p You equip your asklepian staff.
+9/28/25 1:10:18p * Healing Unholy 
+9/28/25 1:10:19p •You cannot use your asklepian staff on yourself.
+9/28/25 1:10:19p You equip your moonstone.
+9/28/25 1:10:21p * Healing Aurelie 
+9/28/25 1:10:22p You equip your asklepian staff.
+9/28/25 1:10:23p You must equip your moonstone before it can be used.
+9/28/25 1:10:26p * Healing Punisher 
+9/28/25 1:10:29p * Healing Maximus 
+9/28/25 1:10:30p •You don't quite have the training to heal Maximus’s injuries.
+9/28/25 1:10:30p Aurelie exclaims, "Cori's song time!"
+9/28/25 1:10:31p •Maximus’s body was severely maimed.
+9/28/25 1:10:40p • You hear Aurelie's music...
+9/28/25 1:10:40p Aurelie starts playing her lucky lyra.
+9/28/25 1:10:41p (Aurelie): "Orionwood" by Coriakin
+9/28/25 1:10:47p • You begin radius healing.
+9/28/25 1:10:56p Aurelie says, "The theme this morning was songs inspired by locations in the lands."
+9/28/25 1:11:00p * Healing Punisher 
+9/28/25 1:11:04p * Healing Journeyer 
+9/28/25 1:11:13p * Healing LittlePrince 
+9/28/25 1:11:15p Giben says, "nice"
+9/28/25 1:11:16p * Healing BooBooKitty 
+9/28/25 1:11:19p * Healing Parmenides 
+9/28/25 1:11:29p Palmeri asks, "how we all feeling?"
+9/28/25 1:11:36p Aurelie exclaims, "Pretty!"
+9/28/25 1:11:39p * Healing LittlePrince 
+9/28/25 1:11:40p Palmeri ponders, "i am getting tired but im good for a little bit!"
+9/28/25 1:11:43p Giben says, "Alive"
+9/28/25 1:11:44p * Healing Aurelie 
+9/28/25 1:11:46p * Healing Punisher 
+9/28/25 1:11:53p * Healing Palmeri 
+9/28/25 1:11:55p •The healing spell has been broken.
+9/28/25 1:11:58p Pun'isher growls, "i can do like 20 more minutes or so"
+9/28/25 1:12:02p * Healing Punisher 
+9/28/25 1:12:09p •The healing spell has been broken.
+9/28/25 1:12:10p Palmeri says, "i think thats a good end time! lets be done at 30"
+9/28/25 1:12:15p * Healing Punisher 
+9/28/25 1:12:16p Pun'isher growls, "sounds great!"
+9/28/25 1:12:18p * Healing Giben 
+9/28/25 1:12:24p Maximus is sharing experiences with you.
+9/28/25 1:12:24p LittlePrince ponders, "https://prodimage.images-bn.com/pimages/0032429244437_p0_v2_s1200x1200.jpg"
+9/28/25 1:12:46p * Healing Palmeri 
+9/28/25 1:12:46p •Palmeri’s injuries are significantly more serious than you can heal.
+9/28/25 1:12:49p * Healing Giben 
+9/28/25 1:12:50p •Palmeri’s body was mangled.
+9/28/25 1:12:58p * Warawonda recovers the Dark Recluse mandibles, worth 20c. Your share is 2c.
+9/28/25 1:13:05p You have 1248 coins.
+9/28/25 1:13:17p • You begin radius healing.
+9/28/25 1:13:18p •Your healing is blocked.
+9/28/25 1:13:23p LittlePrince says, "blood"
+9/28/25 1:13:25p •Your healing is blocked.
+9/28/25 1:13:25p Aurelie says, "I can't play my song from this morning 'cause it's a trio."
+9/28/25 1:13:30p * You feel mentally enhanced by Warawonda...
+9/28/25 1:13:30p Aurelie exclaims, "But I can play the teaser/intro!"
+9/28/25 1:13:31p •Your healing is blocked.
+9/28/25 1:13:37p • You hear Aurelie's music...
+9/28/25 1:13:37p Aurelie starts playing her starbuck harp.
+9/28/25 1:13:37p (Aurelie): The Undermarsh - Solo Intro
+9/28/25 1:13:38p •Your healing is blocked.
+9/28/25 1:13:45p •Your healing is blocked.
+9/28/25 1:13:46p * Healing Journeyer 
+9/28/25 1:13:51p * Healing Giben 
+9/28/25 1:13:55p * Healing Aurelie 
+9/28/25 1:13:56p * Healing Maximus 
+9/28/25 1:13:57p •The healing spell has been broken.
+9/28/25 1:14:02p •The healing spell has been broken.
+9/28/25 1:14:05p * Healing Punisher 
+9/28/25 1:14:16p LittlePrince says, "Oh this is a vibe Aurelie."
+9/28/25 1:14:17p * Healing Unholy 
+9/28/25 1:14:17p •You cannot use your asklepian staff on yourself.
+9/28/25 1:14:18p You equip your moonstone.
+9/28/25 1:14:18p •The healing spell has been broken.
+9/28/25 1:14:24p Aurelie exclaims, "Lemme send you the full version!"
+9/28/25 1:14:31p •To heal yourself, type: \USE
+9/28/25 1:14:31p •To heal yourself three times, type: \USE 3
+9/28/25 1:14:34p * Healing Aurelie 
+9/28/25 1:14:35p You equip your asklepian staff.
+9/28/25 1:14:35p You must equip your moonstone before it can be used.
+9/28/25 1:14:36p You must equip your moonstone before it can be used.
+9/28/25 1:14:37p * Healing Journeyer 
+9/28/25 1:14:41p * Healing Journeyer 
+9/28/25 1:14:44p LittlePrince exclaims, "Pun lasty!"
+9/28/25 1:14:49p * Healing Aurelie 
+9/28/25 1:14:51p •The healing spell has been broken.
+9/28/25 1:14:53p * Healing Maximus 
+9/28/25 1:15:00p * Healing Journeyer 
+9/28/25 1:15:03p Palmeri exclaims, "avenge me!!!"
+9/28/25 1:15:05p * Healing Maximus 
+9/28/25 1:15:08p •Maximus’s injuries are significantly more serious than you can heal.
+9/28/25 1:15:08p Aurelie exclaims, "Check the Discord scrolls!"
+9/28/25 1:15:10p * Healing Palmeri 
+9/28/25 1:15:16p * Healing Giben 
+9/28/25 1:15:19p * Your mental enhancement fades.
+9/28/25 1:15:21p Pun'isher growls, "one avenged!"
+9/28/25 1:15:22p * Your mental enhancement fades.
+9/28/25 1:15:22p Palmeri says, "sorry lp lol"
+9/28/25 1:15:28p * Healing Maximus 
+9/28/25 1:15:41p * You recover the Lowland Panther fur, worth 154c. Your share is 17c.
+9/28/25 1:15:44p * Healing Giben 
+9/28/25 1:15:48p * Healing LittlePrince 
+9/28/25 1:15:54p * Healing Giben 
+9/28/25 1:16:06p * Healing Maximus 
+9/28/25 1:16:09p You have 1265 coins.
+9/28/25 1:16:16p * Healing LittlePrince 
+9/28/25 1:16:22p * Healing BooBooKitty 
+9/28/25 1:16:25p •You sense healing energy from LittlePrince.
+9/28/25 1:16:25p Boo Boo Kitty asks, "can we take a pic when we are done of this inaugural OOTF hunt?"
+9/28/25 1:16:28p * Healing LittlePrince 
+9/28/25 1:16:32p Aurelie exclaims, "O'course!"
+9/28/25 1:16:43p Palmeri exclaims, "ooooo yes!!!"
+9/28/25 1:16:45p * You feel mentally enhanced by Warawonda...
+9/28/25 1:16:59p Palmeri exclaims, "And i hope if you can make it next saturday you all come!"
+9/28/25 1:17:02p •The healing spell has been broken.
+9/28/25 1:17:04p * Healing Punisher 
+9/28/25 1:17:06p * Healing Palmeri 
+9/28/25 1:17:07p •You don't quite have the training to heal Palmeri’s injuries.
+9/28/25 1:17:08p * Healing Palmeri 
+9/28/25 1:17:09p •Palmeri’s injuries were serious.
+9/28/25 1:17:17p * Healing Maximus 
+9/28/25 1:17:29p * Healing Giben 
+9/28/25 1:17:40p • You begin radius healing.
+9/28/25 1:17:41p Palmeri says, "sometimes our goal is lasties or just exploring, but ranking is great too! just depends on the need of the group"
+9/28/25 1:17:46p •You sense healing energy from LittlePrince.
+9/28/25 1:17:49p •Your healing is blocked.
+9/28/25 1:17:50p • There is nobody nearby enough to continue radius healing.
+9/28/25 1:17:57p Aurelie exclaims, "My goal is to hang out with you all and play music!"
+9/28/25 1:18:10p (Maximus loves music)
+9/28/25 1:18:13p Palmeri exclaims, "You are winning at your goal then!"
+9/28/25 1:18:15p Warawonda ponders, "thats the best evil plan ive ever herd"
+9/28/25 1:18:21p * Healing Palmeri 
+9/28/25 1:18:22p * Healing Maximus 
+9/28/25 1:18:23p * Healing Punisher 
+9/28/25 1:18:24p •The healing spell has been broken.
+9/28/25 1:18:25p * Healing Giben 
+9/28/25 1:18:34p * Your mental enhancement fades.
+9/28/25 1:18:37p * Your mental enhancement fades.
+9/28/25 1:18:42p Warawonda ponders, "so evil that its good"
+9/28/25 1:18:47p * Healing Journeyer 
+9/28/25 1:18:51p * Healing Giben 
+9/28/25 1:18:53p * Healing LittlePrince 
+9/28/25 1:19:00p * Healing Giben 
+9/28/25 1:19:01p Aurelie ponders, "Thank you for allowing this Journeyer test run."
+9/28/25 1:19:02p Pun'isher growls, "there were 2 tawnies hot on my hoofs"
+9/28/25 1:19:03p (Maximus licks his Tell)
+9/28/25 1:19:16p You have 1265 coins.
+9/28/25 1:19:16p Warawonda says, "hehe"
+9/28/25 1:19:19p * Healing Maximus 
+9/28/25 1:19:23p Maximus says, "I love evil too"
+9/28/25 1:19:28p • You hear Aurelie's music...
+9/28/25 1:19:28p Aurelie starts playing her lucky lyra.
+9/28/25 1:19:28p (Aurelie): "EPocalypse Now" by Rakshasa
+9/28/25 1:19:44p (Warawonda licks her shadow blade)
+9/28/25 1:19:59p * Healing Punisher 
+9/28/25 1:20:06p * Healing Unholy 
+9/28/25 1:20:07p •You cannot use your asklepian staff on yourself.
+9/28/25 1:20:07p You equip your moonstone.
+9/28/25 1:20:07p •The healing spell has been broken.
+9/28/25 1:20:09p Maximus ponders, "A man once told me smiles at us all... all one can do is smile back :)"
+9/28/25 1:20:13p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+9/28/25 1:20:13p You cannot possibly use anything in your current condition.
+9/28/25 1:20:13p Unholy has fallen to an Utsanna Tawny Yorilla.
+9/28/25 1:20:13p •Your body is mangled.
+9/28/25 1:20:13p You slip your moonstone into your backpack.
+9/28/25 1:20:14p Your moonstone is already unequipped.
+9/28/25 1:20:29p Boo Boo Kitty starts dragging you.
+9/28/25 1:20:36p •Your injuries are grave.
+9/28/25 1:20:39p Duri says, "Me an' Ovar, we does the odd jobs."
+9/28/25 1:20:48p •You sense healing energy from LittlePrince.
+9/28/25 1:20:49p •Your wounds are severe.
+9/28/25 1:20:55p •You sense healing energy from Aurelie.
+9/28/25 1:20:55p •Your injuries are serious.
+9/28/25 1:21:09p You equip your asklepian staff.
+9/28/25 1:21:09p * Healing Aurelie 
+9/28/25 1:21:18p Aurelie says, "Buncha healers..."
+9/28/25 1:21:24p Duri says, "Me an' Ovar, we does the odd jobs."
+9/28/25 1:21:25p Boo Boo Kitty says, "wait"
+9/28/25 1:21:28p Boo Boo Kitty says, "see if they leave"
+9/28/25 1:21:30p Boo Boo Kitty says, "uh oh"
+9/28/25 1:21:33p Clemence says, "anyone need a chain? i am too weak to live out there"
+9/28/25 1:21:40p Unholy says, "sure"
+9/28/25 1:21:47p *Auto Trade Zero ON!
+9/28/25 1:22:02p LittlePrince plants a seedling.
+9/28/25 1:22:03p LittlePrince plants a seedling.
+9/28/25 1:22:06p * Healing LittlePrince 
+9/28/25 1:22:07p •You don't quite have the training to heal LittlePrince’s injuries.
+9/28/25 1:22:11p * Healing BooBooKitty 
+9/28/25 1:22:15p * Healing Clemence 
+9/28/25 1:22:16p Clemence says, "haha ;"
+9/28/25 1:22:24p Clemence says, "well"
+9/28/25 1:22:28p Clemence says, "now what lol"
+9/28/25 1:22:35p You have 1265 coins.
+9/28/25 1:22:37p Aurelie exclaims, "suicide run!"
+9/28/25 1:22:40p Boo Boo Kitty says, "i have one more chain"
+9/28/25 1:22:45p Clemence exclaims, "i have 3!"
+9/28/25 1:23:00p You pick up a chain.
+9/28/25 1:23:08p You equip your chain.
+9/28/25 1:23:18p Aurelie thinks, "chain broke on the last Giben."
+9/28/25 1:23:23p You start dragging Parmenides.
+9/28/25 1:23:23p You start dragging Palmeri.
+9/28/25 1:23:24p You start dragging Journeyer.
+9/28/25 1:23:24p Parmenides is already on a chain.
+9/28/25 1:23:24p Parmenides is already on a chain.
+9/28/25 1:23:25p Parmenides is already on a chain.
+9/28/25 1:23:25p Parmenides is already on a chain.
+9/28/25 1:23:27p You start dragging Giben.
+9/28/25 1:23:28p You start dragging Maximus.
+9/28/25 1:23:29p You start dragging Pun'isher.
+9/28/25 1:23:30p You start dragging Warawonda.
+9/28/25 1:23:39p You start dragging LittlePrince.
+9/28/25 1:24:03p You equip your asklepian staff.
+9/28/25 1:24:03p * Healing LittlePrince 
+9/28/25 1:24:04p •You don't quite have the training to heal LittlePrince’s injuries.
+9/28/25 1:24:07p * Healing Maximus 
+9/28/25 1:24:08p Boo Boo Kitty says, "on palm"
+9/28/25 1:24:14p * Healing LittlePrince 
+9/28/25 1:24:15p •You don't quite have the training to heal LittlePrince’s injuries.
+9/28/25 1:24:17p * Healing Palmeri 
+9/28/25 1:24:20p * Healing Giben 
+9/28/25 1:24:22p •Giben’s body has been maimed more severely than you can heal.
+9/28/25 1:24:23p * Healing Maximus 
+9/28/25 1:24:33p * Healing Aurelie 
+9/28/25 1:24:33p Clemence says, "mms"
+9/28/25 1:24:36p * Healing Journeyer 
+9/28/25 1:24:37p •Journeyer’s injuries are a little more serious than you can heal.
+9/28/25 1:24:39p * Healing Palmeri 
+9/28/25 1:24:41p LittlePrince says, "on pal"
+9/28/25 1:24:42p Boo Boo Kitty says, "giben"
+9/28/25 1:24:43p •Palmeri’s wounds are much more severe than you can heal.
+9/28/25 1:24:46p •Palmeri’s body was severely mangled.
+9/28/25 1:24:59p * Healing Maximus 
+9/28/25 1:25:06p * Healing Aurelie 
+9/28/25 1:25:14p Clemence asks, "on gib?"
+9/28/25 1:25:15p •The player must be in the same area.
+9/28/25 1:25:19p * Healing Punisher 
+9/28/25 1:25:19p Maximus turns to stone.
+9/28/25 1:25:20p * Healing Maximus 
+9/28/25 1:25:22p * Healing Palmeri 
+9/28/25 1:25:24p LittlePrince exclaims, "Pal wait til it swings then murder!"
+9/28/25 1:25:26p * Healing Aurelie 
+9/28/25 1:25:29p LittlePrince exclaims, "Ah!"
+9/28/25 1:25:30p * Healing LittlePrince 
+9/28/25 1:25:32p Pun'isher growls, "this is the victory shot"
+9/28/25 1:25:33p LittlePrince says, "gj gj"
+9/28/25 1:25:34p * Healing Punisher 
+9/28/25 1:25:38p * Healing Giben 
+9/28/25 1:25:39p •Giben’s injuries are significantly more serious than you can heal.
+9/28/25 1:25:39p Pun'isher thinks, "everyone in hut for pic pelase"
+9/28/25 1:25:40p Palmeri exclaims, "im good at murder sometimes!"
+9/28/25 1:25:46p •Giben’s injuries are significantly more serious than you can heal.
+9/28/25 1:25:48p Unholy says, "on gibs"
+9/28/25 1:25:48p Pun'isher growls, "yell somethign cool"
+9/28/25 1:25:52p •You don't quite have the training to heal Giben’s injuries.
+9/28/25 1:25:56p •Giben’s body was mangled.
+9/28/25 1:25:57p Pun'isher yells, "OOTF all the zu all the time"
+9/28/25 1:26:01p You have 1265 coins.
+9/28/25 1:26:06p Giben yells, "For the Fledgelings!"
+9/28/25 1:26:07p Clemence says, "hehehe"
+9/28/25 1:26:09p Pun'isher yells, "OOTF all the zu all the time"
+9/28/25 1:26:11p Clemence yells, "OOF!"
+9/28/25 1:26:11p Aurelie yells, "I'm fully fledged!"
+9/28/25 1:26:12p * Healing Journeyer 
+9/28/25 1:26:13p •Journeyer’s injuries are a little more serious than you can heal.
+9/28/25 1:26:17p Giben yells, "Fly Fledgelings Fly!"
+9/28/25 1:26:17p LittlePrince yells, "Let's flock it up!"
+9/28/25 1:26:17p Palmeri yells, "OOF!"
+9/28/25 1:26:20p •Journeyer’s injuries are a little more serious than you can heal.
+9/28/25 1:26:21p * Healing Unholy 
+9/28/25 1:26:21p •You cannot use your asklepian staff on yourself.
+9/28/25 1:26:21p You equip your moonstone.
+9/28/25 1:26:21p •The healing spell has been broken.
+9/28/25 1:26:28p Giben yells, "Let's Flock some stuff up!"
+9/28/25 1:26:30p Palmeri exclaims, "i got a screen shot!"
+9/28/25 1:26:31p * Healing Maximus 
+9/28/25 1:26:31p You equip your asklepian staff.
+9/28/25 1:26:32p You must equip your moonstone before it can be used.
+9/28/25 1:26:33p (Aurelie giggles.)
+9/28/25 1:26:35p Palmeri says, "wara down thought lol"
+9/28/25 1:26:37p Pun'isher growls, "nice!"
+9/28/25 1:26:40p LittlePrince says, "On wara"
+9/28/25 1:26:44p Pun'isher growls, "well i think thats a succesfull hut!"
+9/28/25 1:26:46p * Healing Warawonda 
+9/28/25 1:26:46p Pun'isher growls, "hunt"
+9/28/25 1:26:48p Pun'isher growls, "oh"
+9/28/25 1:26:52p Warawonda says, ":D"
+9/28/25 1:26:54p LittlePrince says, "on Journey"
+9/28/25 1:27:00p * Healing Journeyer 
+9/28/25 1:27:06p (Journeyer is stil and silent.)
+9/28/25 1:27:10p (Journeyer is still and silent.)
+9/28/25 1:27:19p Boo Boo Kitty exclaims, "thansk all!"
+9/28/25 1:27:25p * Healing Parmenides 
+9/28/25 1:27:25p Clemence thinks, "thanks all!!"
+9/28/25 1:27:26p •Parmenides’s injuries are a little more serious than you can heal.
+9/28/25 1:27:32p •Parmenides’s injuries are a little more serious than you can heal.
+9/28/25 1:27:36p LittlePrince asks, "Calling it?"
+9/28/25 1:27:39p •Parmenides’s injuries are a little more serious than you can heal.
+9/28/25 1:27:39p Palmeri thinks, "see you all next week!"
+9/28/25 1:27:44p Pun'isher growls, "whos zu?>"
+9/28/25 1:27:45p •Parmenides’s injuries are a little more serious than you can heal.
+9/28/25 1:27:49p LittlePrince says, "Mine"
+9/28/25 1:27:52p •Parmenides’s injuries are a little more serious than you can heal.
+9/28/25 1:27:52p Aurelie attempts to project into another plane.
+9/28/25 1:27:56p LittlePrince picks up a kudzu seedling.
+9/28/25 1:27:58p * Healing Maximus 
+9/28/25 1:28:02p •Parmenides’s injuries are a little more serious than you can heal.
+9/28/25 1:28:04p * Healing Parmenides 
+9/28/25 1:28:09p •Parmenides’s injuries are a little more serious than you can heal.
+9/28/25 1:28:10p * Healing Maximus 
+9/28/25 1:28:15p Aurelie exclaims, "Thank, Max!"
+9/28/25 1:28:18p LittlePrince picks up a kudzu seedling.
+9/28/25 1:28:21p Maximus says, "Welcome My Lady"
+9/28/25 1:28:26p Warawonda thinks, "thanks for the fun"
+9/28/25 1:28:30p (Aurelie beams and blushes.)
+9/28/25 1:28:32p Maximus says, "I have tons"
+9/28/25 1:28:49p * Healing LittlePrince 
+9/28/25 1:28:49p * Healing Parmenides 
+9/28/25 1:28:50p •Parmenides’s injuries are a little more serious than you can heal.
+9/28/25 1:28:56p •Parmenides’s injuries are a little more serious than you can heal.
+9/28/25 1:29:03p •Parmenides’s injuries are a little more serious than you can heal.
+9/28/25 1:29:10p •Parmenides’s injuries are a little more serious than you can heal.
+9/28/25 1:29:16p •Parmenides’s injuries are a little more serious than you can heal.
+9/28/25 1:29:17p •You must specify a player in the game.
+9/28/25 1:29:22p Pun'isher thinks, "thanks OOTF! I can't believe we did that!"
+9/28/25 1:29:29p * Healing Unholy 
+9/28/25 1:29:30p You equip your moonstone.
+9/28/25 1:29:30p You have 1265 coins.
+9/28/25 1:29:45p •You sense healing energy from LittlePrince.
+9/28/25 1:29:48p Connie Crete thinks, "Gro be falled fer sumtime ta no message"
+9/28/25 1:29:49p * Healing LittlePrince 
+9/28/25 1:29:49p You equip your asklepian staff.
+9/28/25 1:29:50p You must equip your moonstone before it can be used.
+9/28/25 1:30:00p * Healing LittlePrince 
+9/28/25 1:30:06p * Healing Palmeri 
+9/28/25 1:30:10p •You do not have enough spiritual energy.
+9/28/25 1:30:10p • /SLEEP when you wish to begin studying.
+9/28/25 1:30:16p * Healing Journeyer 
+9/28/25 1:30:43p Journeyer says, "Ohh I forgot to check Histia..."
+9/28/25 1:30:46p Connie Crete thinks, "Nisse gots Gro - nevermind"
+9/28/25 1:30:49p •The player must be in the same area.
+9/28/25 1:31:11p Parmenides is done adventuring for a while and will be staying here.
+9/28/25 1:31:20p * Healing Journeyer 
+9/28/25 1:31:20p Journeyer is done adventuring for a while and will be staying here.
+9/28/25 1:31:22p •You must specify a player in the game.
+9/28/25 1:31:24p Parmenides has been studying for 53 seconds.
+9/28/25 1:31:26p Use \SLEEP again when you return.
+9/28/25 1:31:26p You are done adventuring for a while and will be staying here.
+9/28/25 1:31:27p You have been disconnected

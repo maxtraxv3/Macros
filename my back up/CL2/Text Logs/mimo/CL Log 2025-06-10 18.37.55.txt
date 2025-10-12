@@ -1,0 +1,340 @@
+
+6/10/25 6:37:56p * Your healer's cloak is in very good condition.
+6/10/25 6:37:56p Welcome to Clan Lord, Mimo!
+6/10/25 6:37:56p Type \HELP for a list of commands.
+6/10/25 6:37:56p *Healer Mode
+6/10/25 6:37:56p * Healer Item set to Nothing 
+6/10/25 6:37:56p The healing spell has started.
+6/10/25 6:37:59p It's 1:29pm on Merdi, day 51 of Autumn, 641.
+6/10/25 6:37:59p Friends online: none.
+6/10/25 6:38:00p There are two members of Black Phoenix clanning: Grando and you.
+6/10/25 6:38:00p • What’s New: https://deltatao.com/clanlord/news
+6/10/25 6:38:10p * Tip of the day: If you don’t like this tip, suggest a better one using /BUG TIP ... . (Use /OPTIONS to turn tips off.)
+6/10/25 6:40:53p •You gain experience.
+6/10/25 6:41:51p You have 15 coins.
+6/10/25 6:43:48p * You need a breath of air!
+6/10/25 6:44:28p * Auto Healer ON!
+6/10/25 6:44:44p Grando says, "c heal me"
+6/10/25 6:44:44p * Auto Healing Grando 
+6/10/25 6:44:44p You must be holding an item in your right hand in order to /use it.
+6/10/25 6:44:44p To use an item equipped elsewhere, see the help for /useitem.
+6/10/25 6:44:48p Grando is sharing experiences with you.
+6/10/25 6:44:50p •You gain experience.
+6/10/25 6:44:58p  Mork added to Karma list
+6/10/25 6:45:07p  Shobaffum added to Karma list
+6/10/25 6:45:08p  Tasus added to Karma list
+6/10/25 6:45:12p * Karma Message set to  . 
+6/10/25 6:45:14p * Auto Thanker Online!
+6/10/25 6:45:15p Mork is too far away for your explanation.
+6/10/25 6:45:15p You gave signed good karma to Mork.
+6/10/25 6:45:29p You have 15 coins.
+6/10/25 6:46:34p Grando says, "c heal me"
+6/10/25 6:46:34p * Auto Healing Grando 
+6/10/25 6:46:34p You must be holding an item in your right hand in order to /use it.
+6/10/25 6:46:34p To use an item equipped elsewhere, see the help for /useitem.
+6/10/25 6:47:35p You equip your asklepian staff.
+6/10/25 6:47:39p * Healer Item set to asklepian staff 
+6/10/25 6:47:42p * Healing Grando 
+6/10/25 6:47:49p Grando says, "c area"
+6/10/25 6:47:50p • You begin radius healing.
+6/10/25 6:47:58p • There is nobody nearby enough to continue radius healing.
+6/10/25 6:48:42p Grando says, "c heal me"
+6/10/25 6:48:42p * Auto Healing Grando 
+6/10/25 6:49:36p You have 15 coins.
+6/10/25 6:51:16p Shobaffum is too far away for your explanation.
+6/10/25 6:51:16p You gave signed good karma to Shobaffum.
+6/10/25 6:53:50p You have 15 coins.
+6/10/25 6:57:16p Tasus is too far away for your explanation.
+6/10/25 6:57:16p You gave signed good karma to Tasus.
+6/10/25 6:58:02p You have 15 coins.
+6/10/25 7:02:02p •••
+6/10/25 7:02:02p You have been idle for too long.
+6/10/25 7:02:02p Please do something to avoid being disconnected.
+6/10/25 7:02:02p •••
+6/10/25 7:02:09p You have 15 coins.
+6/10/25 7:03:17p Mork is too far away for your explanation.
+6/10/25 7:03:17p You gave signed good karma to Mork.
+6/10/25 7:06:20p You have 15 coins.
+6/10/25 7:09:18p Shobaffum is too far away for your explanation.
+6/10/25 7:09:18p You gave signed good karma to Shobaffum.
+6/10/25 7:10:32p You have 15 coins.
+6/10/25 7:14:33p •••
+6/10/25 7:14:33p You have been idle for too long.
+6/10/25 7:14:33p Please do something to avoid being disconnected.
+6/10/25 7:14:33p •••
+6/10/25 7:14:44p You have 15 coins.
+6/10/25 7:15:19p Tasus is too far away for your explanation.
+6/10/25 7:15:19p You gave signed good karma to Tasus.
+6/10/25 7:18:49p You have 15 coins.
+6/10/25 7:19:11p •The Sun sets.
+6/10/25 7:21:19p Mork is too far away for your explanation.
+6/10/25 7:21:19p You gave signed good karma to Mork.
+6/10/25 7:22:55p You have 15 coins.
+6/10/25 7:24:39p •You gain experience.
+6/10/25 7:26:53p You have 15 coins.
+6/10/25 7:27:20p Shobaffum is too far away for your explanation.
+6/10/25 7:27:20p You gave signed good karma to Shobaffum.
+6/10/25 7:31:00p You have 15 coins.
+6/10/25 7:33:21p Tasus is too far away for your explanation.
+6/10/25 7:33:21p You gave signed good karma to Tasus.
+6/10/25 7:35:07p You have 15 coins.
+6/10/25 7:39:07p •••
+6/10/25 7:39:07p You have been idle for too long.
+6/10/25 7:39:07p Please do something to avoid being disconnected.
+6/10/25 7:39:07p •••
+6/10/25 7:39:18p You have 15 coins.
+6/10/25 7:39:22p Mork is too far away for your explanation.
+6/10/25 7:39:22p You gave signed good karma to Mork.
+6/10/25 7:43:23p •••
+6/10/25 7:43:23p You have been idle for too long.
+6/10/25 7:43:23p Please do something to avoid being disconnected.
+6/10/25 7:43:23p •••
+6/10/25 7:43:26p You have 15 coins.
+6/10/25 7:45:23p Shobaffum is too far away for your explanation.
+6/10/25 7:45:23p You gave signed good karma to Shobaffum.
+6/10/25 7:47:26p You have 15 coins.
+6/10/25 7:51:24p Tasus is too far away for your explanation.
+6/10/25 7:51:24p You gave signed good karma to Tasus.
+6/10/25 7:51:27p You have 15 coins.
+6/10/25 7:53:13p Brooke Britney thinks, "We’re working hard on The Puddleby Civic Beautification Society. Anything you could contribute would be great!"
+6/10/25 7:55:27p •••
+6/10/25 7:55:27p You have been idle for too long.
+6/10/25 7:55:27p Please do something to avoid being disconnected.
+6/10/25 7:55:27p •••
+6/10/25 7:55:34p You have 15 coins.
+6/10/25 7:57:25p Mork is too far away for your explanation.
+6/10/25 7:57:25p You gave signed good karma to Mork.
+6/10/25 7:59:39p You have 15 coins.
+6/10/25 8:03:25p Shobaffum is too far away for your explanation.
+6/10/25 8:03:25p You gave signed good karma to Shobaffum.
+6/10/25 8:03:49p You have 15 coins.
+6/10/25 8:07:49p •••
+6/10/25 8:07:49p You have been idle for too long.
+6/10/25 8:07:49p Please do something to avoid being disconnected.
+6/10/25 8:07:49p •••
+6/10/25 8:07:57p You have 15 coins.
+6/10/25 8:09:26p Tasus is too far away for your explanation.
+6/10/25 8:09:26p You gave signed good karma to Tasus.
+6/10/25 8:12:09p You have 15 coins.
+6/10/25 8:12:32p •You gain experience.
+6/10/25 8:15:27p Mork is too far away for your explanation.
+6/10/25 8:15:27p You gave signed good karma to Mork.
+6/10/25 8:16:15p You have 15 coins.
+6/10/25 8:20:16p •••
+6/10/25 8:20:16p You have been idle for too long.
+6/10/25 8:20:16p Please do something to avoid being disconnected.
+6/10/25 8:20:16p •••
+6/10/25 8:20:25p You have 15 coins.
+6/10/25 8:21:28p Shobaffum is too far away for your explanation.
+6/10/25 8:21:28p You gave signed good karma to Shobaffum.
+6/10/25 8:22:01p Grando says, "c heal me"
+6/10/25 8:22:01p * Auto Healing Grando 
+6/10/25 8:24:37p You have 15 coins.
+6/10/25 8:24:47p Grando says, "c heal me"
+6/10/25 8:24:47p * Auto Healing Grando 
+6/10/25 8:25:18p Grando says, "c heal me"
+6/10/25 8:25:18p * Auto Healing Grando 
+6/10/25 8:27:29p You have no karma to give.
+6/10/25 8:28:47p You have 15 coins.
+6/10/25 8:32:47p •••
+6/10/25 8:32:47p You have been idle for too long.
+6/10/25 8:32:47p Please do something to avoid being disconnected.
+6/10/25 8:32:47p •••
+6/10/25 8:33:04p You have 15 coins.
+6/10/25 8:33:29p Mork is too far away for your explanation.
+6/10/25 8:33:29p You gave signed good karma to Mork.
+6/10/25 8:35:03p Grando says, "c heal me"
+6/10/25 8:35:03p * Auto Healing Grando 
+6/10/25 8:37:14p You have 15 coins.
+6/10/25 8:39:30p Shobaffum is too far away for your explanation.
+6/10/25 8:39:30p You gave signed good karma to Shobaffum.
+6/10/25 8:41:28p You have 15 coins.
+6/10/25 8:45:29p •••
+6/10/25 8:45:29p You have been idle for too long.
+6/10/25 8:45:29p Please do something to avoid being disconnected.
+6/10/25 8:45:29p •••
+6/10/25 8:45:33p Tasus is too far away for your explanation.
+6/10/25 8:45:33p You gave signed good karma to Tasus.
+6/10/25 8:45:45p You have 15 coins.
+6/10/25 8:49:47p •••
+6/10/25 8:49:47p You have been idle for too long.
+6/10/25 8:49:47p Please do something to avoid being disconnected.
+6/10/25 8:49:47p •••
+6/10/25 8:50:17p Grando says, "c heal me"
+6/10/25 8:50:17p * Auto Healing Grando 
+6/10/25 8:50:27p You have 15 coins.
+6/10/25 8:51:33p Mork is too far away for your explanation.
+6/10/25 8:51:33p You gave signed good karma to Mork.
+6/10/25 8:51:57p Grando says, "c heal me"
+6/10/25 8:51:57p * Auto Healing Grando 
+6/10/25 8:52:32p Grando says, "c area"
+6/10/25 8:52:32p • You begin radius healing.
+6/10/25 8:52:53p Grando says, "c heal me"
+6/10/25 8:52:53p * Auto Healing Grando 
+6/10/25 8:53:13p Grando says, "c area"
+6/10/25 8:53:13p • You begin radius healing.
+6/10/25 8:53:43p • There is nobody nearby enough to continue radius healing.
+6/10/25 8:54:38p You have 15 coins.
+6/10/25 8:57:34p Shobaffum is too far away for your explanation.
+6/10/25 8:57:34p You gave signed good karma to Shobaffum.
+6/10/25 8:58:52p You have 15 coins.
+6/10/25 9:02:53p •••
+6/10/25 9:02:53p You have been idle for too long.
+6/10/25 9:02:53p Please do something to avoid being disconnected.
+6/10/25 9:02:53p •••
+6/10/25 9:03:09p You have 15 coins.
+6/10/25 9:03:35p You have no karma to give.
+6/10/25 9:07:06p Grando says, "c heal me"
+6/10/25 9:07:06p * Auto Healing Grando 
+6/10/25 9:07:19p You have 15 coins.
+6/10/25 9:08:37p Grando says, "c heal me"
+6/10/25 9:08:37p * Auto Healing Grando 
+6/10/25 9:09:12p Grando says, "c area"
+6/10/25 9:09:13p • You begin radius healing.
+6/10/25 9:09:36p Mork is too far away for your explanation.
+6/10/25 9:09:36p You gave signed good karma to Mork.
+6/10/25 9:09:40p • There is nobody nearby enough to continue radius healing.
+6/10/25 9:11:31p You have 15 coins.
+6/10/25 9:12:08p • It’s Midnight on Fordi, the 52nd day of Autumn in the 641st year of the Ascendancy, and all’s well.
+6/10/25 9:15:31p •••
+6/10/25 9:15:31p You have been idle for too long.
+6/10/25 9:15:31p Please do something to avoid being disconnected.
+6/10/25 9:15:31p •••
+6/10/25 9:15:37p You have no karma to give.
+6/10/25 9:15:47p You have 15 coins.
+6/10/25 9:19:47p •••
+6/10/25 9:19:47p You have been idle for too long.
+6/10/25 9:19:47p Please do something to avoid being disconnected.
+6/10/25 9:19:47p •••
+6/10/25 9:20:02p You have 15 coins.
+6/10/25 9:21:37p Tasus is too far away for your explanation.
+6/10/25 9:21:37p You gave signed good karma to Tasus.
+6/10/25 9:24:28p You have 15 coins.
+6/10/25 9:27:38p Mork is too far away for your explanation.
+6/10/25 9:27:38p You gave signed good karma to Mork.
+6/10/25 9:28:51p You have 15 coins.
+6/10/25 9:32:51p •••
+6/10/25 9:32:51p You have been idle for too long.
+6/10/25 9:32:51p Please do something to avoid being disconnected.
+6/10/25 9:32:51p •••
+6/10/25 9:33:18p You have 15 coins.
+6/10/25 9:33:39p Shobaffum is too far away for your explanation.
+6/10/25 9:33:39p You gave signed good karma to Shobaffum.
+6/10/25 9:37:39p •••
+6/10/25 9:37:39p You have been idle for too long.
+6/10/25 9:37:39p Please do something to avoid being disconnected.
+6/10/25 9:37:39p •••
+6/10/25 9:37:51p You have 15 coins.
+6/10/25 9:39:40p Tasus is too far away for your explanation.
+6/10/25 9:39:40p You gave signed good karma to Tasus.
+6/10/25 9:42:27p You have 15 coins.
+6/10/25 9:45:41p Mork is too far away for your explanation.
+6/10/25 9:45:41p You gave signed good karma to Mork.
+6/10/25 9:47:45p You have 15 coins.
+6/10/25 9:48:38p Grando says, "c heal me"
+6/10/25 9:48:38p * Auto Healing Grando 
+6/10/25 9:49:13p Grando says, "c heal me"
+6/10/25 9:49:13p * Auto Healing Grando 
+6/10/25 9:49:31p Grando says, "c area"
+6/10/25 9:49:32p • You begin radius healing.
+6/10/25 9:49:49p Grando says, "c heal me"
+6/10/25 9:49:50p * Auto Healing Grando 
+6/10/25 9:51:41p Shobaffum is too far away for your explanation.
+6/10/25 9:51:41p You gave signed good karma to Shobaffum.
+6/10/25 9:52:20p You have 15 coins.
+6/10/25 9:54:51p Grando says, "c heal me"
+6/10/25 9:54:51p * Auto Healing Grando 
+6/10/25 9:56:34p You have 15 coins.
+6/10/25 9:56:57p Grando says, "c heal me"
+6/10/25 9:56:57p * Auto Healing Grando 
+6/10/25 9:57:42p Tasus is too far away for your explanation.
+6/10/25 9:57:42p You gave signed good karma to Tasus.
+6/10/25 9:57:52p Grando says, "c heal me"
+6/10/25 9:57:53p * Auto Healing Grando 
+6/10/25 10:00:46p You have 15 coins.
+6/10/25 10:02:26p Grando says, "c heal me"
+6/10/25 10:02:26p * Auto Healing Grando 
+6/10/25 10:03:43p Mork is too far away for your explanation.
+6/10/25 10:03:43p You gave signed good karma to Mork.
+6/10/25 10:04:59p You have 15 coins.
+6/10/25 10:07:46p Grando says, "c heal me"
+6/10/25 10:07:46p * Auto Healing Grando 
+6/10/25 10:09:16p You have 15 coins.
+6/10/25 10:09:20p Grando says, "c heal me"
+6/10/25 10:09:20p * Auto Healing Grando 
+6/10/25 10:09:44p You have given this character as much good karma as is allowed. Wait for it to decay.
+6/10/25 10:09:44p * Shobaffum can no longer be thanked for now, removing form list.
+6/10/25 10:09:45p You have given this character as much good karma as is allowed. Wait for it to decay.
+6/10/25 10:09:46p * Mork can no longer be thanked for now, removing form list.
+6/10/25 10:09:46p Tasus is too far away for your explanation.
+6/10/25 10:09:46p You gave signed good karma to Tasus.
+6/10/25 10:10:23p •You gain experience.
+6/10/25 10:13:27p You have 15 coins.
+6/10/25 10:15:47p You have given this character as much good karma as is allowed. Wait for it to decay.
+6/10/25 10:15:48p * Tasus can no longer be thanked for now, removing form list.
+6/10/25 10:17:42p You have 15 coins.
+6/10/25 10:21:42p •••
+6/10/25 10:21:42p You have been idle for too long.
+6/10/25 10:21:42p Please do something to avoid being disconnected.
+6/10/25 10:21:42p •••
+6/10/25 10:21:52p You have 15 coins.
+6/10/25 10:22:27p  Leyenda added to Karma list
+6/10/25 10:22:27p Leyenda is too far away for your explanation.
+6/10/25 10:22:27p You gave signed good karma to Leyenda.
+6/10/25 10:22:42p  Ceara added to Karma list
+6/10/25 10:22:48p  Bastion added to Karma list
+6/10/25 10:26:03p You have 15 coins.
+6/10/25 10:28:28p Ceara is too far away for your explanation.
+6/10/25 10:28:28p You gave signed good karma to Ceara.
+6/10/25 10:30:18p You have 15 coins.
+6/10/25 10:32:29p Grando says, "c heal me"
+6/10/25 10:32:29p * Auto Healing Grando 
+6/10/25 10:34:29p Bastion is too far away for your explanation.
+6/10/25 10:34:29p You gave signed good karma to Bastion.
+6/10/25 10:34:31p You have 15 coins.
+6/10/25 10:38:31p •••
+6/10/25 10:38:31p You have been idle for too long.
+6/10/25 10:38:31p Please do something to avoid being disconnected.
+6/10/25 10:38:31p •••
+6/10/25 10:38:44p You have 15 coins.
+6/10/25 10:40:30p Leyenda is too far away for your explanation.
+6/10/25 10:40:30p You gave signed good karma to Leyenda.
+6/10/25 10:43:00p You have 15 coins.
+6/10/25 10:43:55p Grando says, "c heal me"
+6/10/25 10:43:55p * Auto Healing Grando 
+6/10/25 10:46:31p Ceara is too far away for your explanation.
+6/10/25 10:46:31p You gave signed good karma to Ceara.
+6/10/25 10:47:14p You have 15 coins.
+6/10/25 10:50:58p Grando says, "c heal me"
+6/10/25 10:50:59p * Auto Healing Grando 
+6/10/25 10:51:28p You have 15 coins.
+6/10/25 10:52:31p Bastion is too far away for your explanation.
+6/10/25 10:52:31p You gave signed good karma to Bastion.
+6/10/25 10:54:14p Grando says, "c heal me"
+6/10/25 10:54:14p * Auto Healing Grando 
+6/10/25 10:55:39p You have 15 coins.
+6/10/25 10:57:14p Grando says, "c heal me"
+6/10/25 10:57:14p * Auto Healing Grando 
+6/10/25 10:58:32p Leyenda is too far away for your explanation.
+6/10/25 10:58:32p You gave signed good karma to Leyenda.
+6/10/25 10:59:49p You have 15 coins.
+6/10/25 11:01:06p Grando says, "c heal me"
+6/10/25 11:01:06p * Auto Healing Grando 
+6/10/25 11:03:57p You have 15 coins.
+6/10/25 11:04:33p Ceara is too far away for your explanation.
+6/10/25 11:04:33p You gave signed good karma to Ceara.
+6/10/25 11:05:34p •The Sun rises.
+6/10/25 11:06:05p Grando says, "c heal me"
+6/10/25 11:06:06p * Auto Healing Grando 
+6/10/25 11:06:44p Grando says, "c heal me"
+6/10/25 11:06:44p * Auto Healing Grando 
+6/10/25 11:08:05p You have 15 coins.
+6/10/25 11:10:34p Bastion is too far away for your explanation.
+6/10/25 11:10:34p You gave signed good karma to Bastion.
+6/10/25 11:11:52p •The healing spell has been broken.
+6/10/25 11:12:08p You have 15 coins.
+6/10/25 11:13:26p • /SLEEP when you wish to begin studying.
+6/10/25 11:13:31p Use \SLEEP again when you return.
+6/10/25 11:13:31p You are done adventuring for a while and will be staying here.
+6/10/25 11:13:32p You have been disconnected from Clan Lord.
+6/10/25 11:13:32p • You will benefit from s

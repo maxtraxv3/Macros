@@ -1,0 +1,143 @@
+
+3/3/25 11:34:50a • MACRO Matching " not found: "/pose angry 
+.
+FILE "cassius" LINE 541
+3/3/25 11:34:50a • MACRO Matching " not found: "/pose stand 
+.
+FILE "cassius" LINE 573
+3/3/25 11:34:50a • MACRO Matching " not found: "/pose stand west
+.
+FILE "cassius" LINE 581
+3/3/25 11:34:50a • MACRO Matching " not found: "/pose stand east
+.
+FILE "cassius" LINE 589
+3/3/25 11:34:50a • MACRO Matching " not found: "/pose stand north
+.
+FILE "cassius" LINE 597
+3/3/25 11:34:50a • MACRO Matching " not found: "/pose stand south
+.
+FILE "cassius" LINE 605
+3/3/25 11:34:50a • MACRO Matching " not found: "/pose stand southwest
+.
+FILE "cassius" LINE 613
+3/3/25 11:34:50a • MACRO Matching " not found: "/pose stand southeast
+.
+FILE "cassius" LINE 621
+3/3/25 11:34:50a • MACRO Matching " not found: "/pose stand northwest
+.
+FILE "cassius" LINE 629
+3/3/25 11:34:50a • MACRO Matching " not found: "/pose stand northeast
+.
+FILE "cassius" LINE 637
+3/3/25 11:34:50a * Your pair of pants named “dark grey” is in very good condition.
+3/3/25 11:34:50a * Your shirt named “midnight” is in nearly perfect condition.
+3/3/25 11:34:50a Welcome to Clan Lord, Cassius!
+3/3/25 11:34:50a Type \HELP for a list of commands.
+3/3/25 11:34:50a • You gain experience from your recent studies.
+3/3/25 11:34:50a You have been studying for 47 days, 4 hours, 46 minutes.
+3/3/25 11:34:53a It's 8:39am on Merdi, day 5 of Autumn, 640.
+3/3/25 11:34:55a There are three members of Black Phoenix clanning: Cerberus, Grando and you.
+3/3/25 11:34:55a • What’s New: https://deltatao.com/clanlord/news • Shieldstones can now be toggled on-and-off in the usual way again. 
+3/3/25 11:34:57a Friends online: none.
+3/3/25 11:35:02a (Squib looks a bit worried for Fortuna)
+3/3/25 11:35:04a * Tip of the day: Disconnecting in a library logs you off immediately and lets you gain experience while you’re offline. (Use /OPTIONS to turn tips off.)
+3/3/25 11:35:11a You offer a log of wood to Grando for free.
+3/3/25 11:35:11a \SELL /cancel to cancel the offer.
+3/3/25 11:35:11a Law'n St'ple yells, "Halt! Unagi, I must speak with you!"
+3/3/25 11:35:12a You hand Grando a log of wood.
+3/3/25 11:35:13a You offer a log of wood to Grando for free.
+3/3/25 11:35:13a \SELL /cancel to cancel the offer.
+3/3/25 11:35:14a You hand Grando a log of wood.
+3/3/25 11:35:15a Kahn St'ple yells, "Halt! Unagi, I must speak with you!"
+3/3/25 11:35:16a Kahn St'ple says, "Unagi, you are still banished from town for another 2 days."
+3/3/25 11:35:18a (Cassius Bows)
+3/3/25 11:35:19a Kahn St'ple says, "Now I'm going to put you in the clink for 45 minutes,"
+3/3/25 11:35:20a Unagi says, "wut"
+3/3/25 11:35:28a • /SLEEP when you wish to begin studying.
+3/3/25 11:35:32a Use \SLEEP again when you return.
+3/3/25 11:35:33a You are done adventuring for a while and will be staying here.
+3/3/25 11:35:33a You have been disconnected from Clan Lord.
+3/3/25 11:35:34a • You will benefit from staying here while you are off-line.
+3/3/25 11:35:34a *** We are no longer connected to the Clan Lord game server. ***
+3/3/25 11:43:06a • MACRO Matching " not found: "/pose angry 
+.
+FILE "cassius" LINE 541
+3/3/25 11:43:06a • MACRO Matching " not found: "/pose stand 
+.
+FILE "cassius" LINE 573
+3/3/25 11:43:06a • MACRO Matching " not found: "/pose stand west
+.
+FILE "cassius" LINE 581
+3/3/25 11:43:06a • MACRO Matching " not found: "/pose stand east
+.
+FILE "cassius" LINE 589
+3/3/25 11:43:06a • MACRO Matching " not found: "/pose stand north
+.
+FILE "cassius" LINE 597
+3/3/25 11:43:06a • MACRO Matching " not found: "/pose stand south
+.
+FILE "cassius" LINE 605
+3/3/25 11:43:06a • MACRO Matching " not found: "/pose stand southwest
+.
+FILE "cassius" LINE 613
+3/3/25 11:43:06a • MACRO Matching " not found: "/pose stand southeast
+.
+FILE "cassius" LINE 621
+3/3/25 11:43:06a • MACRO Matching " not found: "/pose stand northwest
+.
+FILE "cassius" LINE 629
+3/3/25 11:43:06a • MACRO Matching " not found: "/pose stand northeast
+.
+FILE "cassius" LINE 637
+3/3/25 11:43:07a * Your pair of pants named “dark grey” is in very good condition.
+3/3/25 11:43:07a * Your shirt named “midnight” is in nearly perfect condition.
+3/3/25 11:43:07a Welcome to Clan Lord, Cassius!
+3/3/25 11:43:07a Type \HELP for a list of commands.
+3/3/25 11:43:07a • You gain experience from your recent studies.
+3/3/25 11:43:07a You have been studying for 30 minutes.
+3/3/25 11:43:10a It's 9:13am on Merdi, day 5 of Autumn, 640.
+3/3/25 11:43:10a Friends online: none.
+3/3/25 11:43:11a There are three members of Black Phoenix clanning: Cerberus, Grando and you.
+3/3/25 11:43:11a • What’s New: https://deltatao.com/clanlord/news • Shieldstones can now be toggled on-and-off in the usual way again. 
+3/3/25 11:43:21a * Tip of the day: You can use any unique piece of a clan name in /WHOCLAN. (Use /OPTIONS to turn tips off.)
+3/3/25 11:43:29a Zona says, "I dont have a sunstone"
+3/3/25 11:43:37a (Cerberus frowns)
+3/3/25 11:43:39a You offer a scavenger bird feather to Grando for free.
+3/3/25 11:43:39a \SELL /cancel to cancel the offer.
+3/3/25 11:43:40a You hand Grando a scavenger bird feather.
+3/3/25 11:43:46a •Your study of skinning seems to be paying off.
+3/3/25 11:43:58a Cassius asks, "?"
+3/3/25 11:44:10a Cassius asks, "no sunstone?"
+3/3/25 11:44:16a Zona says, "nope"
+3/3/25 11:44:31a (Cerberus): You stretch and flex your claws.
+3/3/25 11:44:37a Grando asks, "did you want one?"
+3/3/25 11:44:40a Zona says, "suuree"
+3/3/25 11:44:43a Grando says, "heh"
+3/3/25 11:44:53a Grando says, "i can ask val if she as some"
+3/3/25 11:44:57a Zona says, "alrighty"
+3/3/25 11:45:01a Grando says, "im fresh out atm"
+3/3/25 11:45:17a •Your study of skinning seems to be paying off.
+3/3/25 11:45:27a Zona says, "also tryin to sell 19 ingots heh"
+3/3/25 11:45:32a Zona says, "or use em"
+3/3/25 11:45:38a Zona says, "no idea how tho"
+3/3/25 11:45:51a Grando asks, "what ones?"
+3/3/25 11:45:59a Zona says, "just titled Ingots"
+3/3/25 11:46:06a Grando says, "oooh"
+3/3/25 11:46:17a Grando says, "you need to ask mystics"
+3/3/25 11:46:21a Zona says, "ahk"
+3/3/25 11:46:24a Grando says, "they make things with them"
+3/3/25 11:46:30a Grando says, "EPS"
+3/3/25 11:46:31a Grando says, "i think"
+3/3/25 11:46:32a Zona says, "ahhh"
+3/3/25 11:46:40a Koppi yells, "Hashak reports: Kordal is cute!"
+3/3/25 11:46:41a Grando says, "but there also cheap"
+3/3/25 11:46:47a Zona says, "Ill put em in storage then"
+3/3/25 11:46:48a •Your study of skinning seems to be paying off.
+3/3/25 11:46:52a (Grando nods)
+3/3/25 11:48:18a •Your study of skinning seems to be paying off.
+3/3/25 11:48:36a • /SLEEP when you wish to begin studying.
+3/3/25 11:48:41a Use \SLEEP again when you return.
+3/3/25 11:48:41a You are done adventuring for a while and will be staying here.
+3/3/25 11:48:42a You have been disconnected from Clan Lord.
+3/3/25 11:48:42a • You will benefit from staying here while you are off-line.
+3/3/25 11:48:42a *** We are no longer connected to the Clan Lord game server. ***

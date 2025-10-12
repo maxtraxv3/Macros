@@ -1,0 +1,113 @@
+
+7/29/25 8:36:53p * Your shirt named “khaki” is in very good condition.
+7/29/25 8:36:53p * Your pair of pants named “tangleberry-dyed blue” is in pretty good shape.
+7/29/25 8:36:53p * Your cloak named “grey” is in nearly perfect condition.
+7/29/25 8:36:53p Welcome to Clan Lord, Maxtrax!
+7/29/25 8:36:53p Type \HELP for a list of commands.
+7/29/25 8:36:53p • You gain experience from your recent studies.
+7/29/25 8:36:53p You have been studying for 3 days, 30 minutes.
+7/29/25 8:36:56p It's 8:30am on Gradi, day 72 of Spring, 642.
+7/29/25 8:36:56p Friends online: none.
+7/29/25 8:36:56p *Auto Trade Zero ON!
+7/29/25 8:36:57p There are two members of Black Phoenix clanning: Magnic and you.
+7/29/25 8:36:57p • What’s New: https://deltatao.com/clanlord/news
+7/29/25 8:37:07p * Tip of the day: Control-click on someone to label them as a friend, in one of five different colors. (Use /OPTIONS to turn tips off.)
+7/29/25 8:37:11p Koppi yells, "Salandra reports: Collecting logs, stones, and soil samples. The first two will get lugged out to the builder in Lugu's Keep. The latter will go to <mumble mumble>."
+7/29/25 8:37:22p You offer a piece of iron to Magnic for free.
+7/29/25 8:37:22p \SELL /cancel to cancel the offer.
+7/29/25 8:37:23p You hand Magnic a piece of iron.
+7/29/25 8:37:24p You offer a piece of iron to Magnic for free.
+7/29/25 8:37:24p \SELL /cancel to cancel the offer.
+7/29/25 8:37:25p You hand Magnic a piece of iron.
+7/29/25 8:37:30p Sentinel yells, "All subjects love and obey the Emperor."
+7/29/25 8:37:39p You offer a piece of iron to Magnic for free.
+7/29/25 8:37:39p \SELL /cancel to cancel the offer.
+7/29/25 8:37:39p You hand Magnic a piece of iron.
+7/29/25 8:37:41p You offer a piece of iron to Magnic for free.
+7/29/25 8:37:41p \SELL /cancel to cancel the offer.
+7/29/25 8:37:41p You hand Magnic a piece of iron.
+7/29/25 8:37:46p • Magnic offers you a lump of iron ore for free.
+7/29/25 8:37:46p To accept, \BUY 0 Magnic.
+7/29/25 8:37:46p * Accepted Item From: Magnic. 
+7/29/25 8:37:47p Magnic hands you a lump of iron ore.
+7/29/25 8:37:50p • Magnic offers you a lump of iron ore for free.
+7/29/25 8:37:50p To accept, \BUY 0 Magnic.
+7/29/25 8:37:50p * Accepted Item From: Magnic. 
+7/29/25 8:37:51p Magnic hands you a lump of iron ore.
+7/29/25 8:37:52p • Magnic offers you a lump of iron ore for free.
+7/29/25 8:37:52p To accept, \BUY 0 Magnic.
+7/29/25 8:37:52p * Accepted Item From: Magnic. 
+7/29/25 8:37:52p Magnic hands you a lump of iron ore.
+7/29/25 8:37:53p • Magnic offers you a lump of iron ore for free.
+7/29/25 8:37:53p To accept, \BUY 0 Magnic.
+7/29/25 8:37:54p * Accepted Item From: Magnic. 
+7/29/25 8:37:54p Magnic hands you a lump of iron ore.
+7/29/25 8:37:55p • Magnic offers you a lump of iron ore for free.
+7/29/25 8:37:55p To accept, \BUY 0 Magnic.
+7/29/25 8:37:55p * Accepted Item From: Magnic. 
+7/29/25 8:37:56p Magnic hands you a lump of iron ore.
+7/29/25 8:37:59p • Magnic offers you a lump of lead ore for free.
+7/29/25 8:37:59p To accept, \BUY 0 Magnic.
+7/29/25 8:37:59p * Accepted Item From: Magnic. 
+7/29/25 8:37:59p Magnic hands you a lump of lead ore.
+7/29/25 8:38:44p You equip your lump of iron ore.
+7/29/25 8:38:54p Erthor says, "Greetings, Lord Maxtrax."
+7/29/25 8:38:54p Erthor says, "For 20 coins, I can help you extract Earthpower minerals from ore."
+7/29/25 8:38:55p Erthor says, "That sample contains nothing useful, but your connection to the Earth is improved."
+7/29/25 8:38:55p Erthor says, "Greetings, Lord Maxtrax."
+7/29/25 8:38:56p Erthor says, "For 20 coins, I can help you extract Earthpower minerals from ore."
+7/29/25 8:38:56p Erthor says, "You have to show me the ore you wish me to examine, though."
+7/29/25 8:38:57p You equip your lump of iron ore.
+7/29/25 8:38:57p Erthor says, "Greetings, Lord Maxtrax."
+7/29/25 8:38:57p Erthor says, "For 20 coins, I can help you extract Earthpower minerals from ore."
+7/29/25 8:38:58p Erthor says, "That sample contains nothing useful, but your connection to the Earth is improved."
+7/29/25 8:38:58p Erthor says, "Greetings, Lord Maxtrax."
+7/29/25 8:38:59p Erthor says, "For 20 coins, I can help you extract Earthpower minerals from ore."
+7/29/25 8:38:59p Erthor says, "You have to show me the ore you wish me to examine, though."
+7/29/25 8:38:59p You equip your lump of iron ore.
+7/29/25 8:39:00p Erthor says, "Greetings, Lord Maxtrax."
+7/29/25 8:39:00p Erthor says, "For 20 coins, I can help you extract Earthpower minerals from ore."
+7/29/25 8:39:00p Erthor says, "That sample contains nothing useful, but your connection to the Earth is improved."
+7/29/25 8:39:01p Erthor says, "Greetings, Lord Maxtrax."
+7/29/25 8:39:01p You equip your lump of iron ore.
+7/29/25 8:39:01p Erthor says, "For 20 coins, I can help you extract Earthpower minerals from ore."
+7/29/25 8:39:02p Erthor says, "That sample contains nothing useful, but your connection to the Earth is improved."
+7/29/25 8:39:02p Erthor says, "Greetings, Lord Maxtrax."
+7/29/25 8:39:03p You have 12895 coins.
+7/29/25 8:39:03p Erthor says, "For 20 coins, I can help you extract Earthpower minerals from ore."
+7/29/25 8:39:03p Erthor says, "You have to show me the ore you wish me to examine, though."
+7/29/25 8:39:03p You equip your lump of iron ore.
+7/29/25 8:39:04p Erthor says, "Greetings, Lord Maxtrax."
+7/29/25 8:39:04p Erthor says, "For 20 coins, I can help you extract Earthpower minerals from ore."
+7/29/25 8:39:05p Erthor says, "That sample contains nothing useful, but your connection to the Earth is improved."
+7/29/25 8:39:05p Erthor says, "Greetings, Lord Maxtrax."
+7/29/25 8:39:06p Erthor says, "For 20 coins, I can help you extract Earthpower minerals from ore."
+7/29/25 8:39:59p You equip your lump of lead ore.
+7/29/25 8:40:00p Erthor says, "Greetings, Lord Maxtrax."
+7/29/25 8:40:01p Erthor says, "For 20 coins, I can help you extract Earthpower minerals from ore."
+7/29/25 8:40:01p Erthor says, "You have to show me the ore you wish me to examine, though."
+7/29/25 8:40:02p Erthor says, "Greetings, Lord Maxtrax."
+7/29/25 8:40:02p Erthor says, "For 20 coins, I can help you extract Earthpower minerals from ore."
+7/29/25 8:40:02p Erthor says, "You have to show me the ore you wish me to examine, though."
+7/29/25 8:40:34p You slip your lump of lead ore into your backpack.
+7/29/25 8:40:40p You offer a stone to Magnic for free.
+7/29/25 8:40:40p \SELL /cancel to cancel the offer.
+7/29/25 8:40:41p You hand Magnic a stone.
+7/29/25 8:40:42p You offer a stone to Magnic for free.
+7/29/25 8:40:42p \SELL /cancel to cancel the offer.
+7/29/25 8:40:43p You hand Magnic a stone.
+7/29/25 8:40:43p You offer a stone to Magnic for free.
+7/29/25 8:40:43p \SELL /cancel to cancel the offer.
+7/29/25 8:40:44p You hand Magnic a stone.
+7/29/25 8:40:45p You offer a stone to Magnic for free.
+7/29/25 8:40:45p \SELL /cancel to cancel the offer.
+7/29/25 8:40:46p You hand Magnic a stone.
+7/29/25 8:40:46p You offer a stone to Magnic for free.
+7/29/25 8:40:46p \SELL /cancel to cancel the offer.
+7/29/25 8:40:47p You hand Magnic a stone.
+7/29/25 8:40:55p • /SLEEP when you wish to begin studying.
+7/29/25 8:40:58p Use \SLEEP again when you return.
+7/29/25 8:40:58p You are done adventuring for a while and will be staying here.
+7/29/25 8:40:59p You have been disconnected from Clan Lord.
+7/29/25 8:40:59p • You will benefit from staying here while you are off-line.
+7/29/25 8:41:00p *** We are no longer connected to the Clan Lord game server. ***

@@ -1,0 +1,176 @@
+// This macro file will be loaded for the player it is named after. 
+
+include "Default"
+
+"/sw"
+{
+if @my.right_item == "Bloodblade"
+"/equip Cutlass\r"
+else
+"/equip Bloodblade\r"
+end if
+if @my.Finger_item == "Bloodstone Ring"
+"/unequip BloodstoneRing\r"
+else
+"/equip BloodstoneRing\r"
+end if
+if @my.torso_item >= "breastplate"
+"/equip shirt1\r"
+else
+"/equip bronzebreastplate\r"
+end if
+pause 1
+if @my.Head_item >= "helmet"
+"/unequip bronzehelm\r"
+else
+"/equip Bronzehelm\r"
+end if
+pause 1
+//if @my.left_item >= "shield"
+//"/unequip ironshield\r"
+//else
+//"/equip ironshield\r"
+//end if
+}
+
+SETGLOBAL alive 0
+
+@login
+{
+SET hasfallen @my.name
+SET hasfallen + " has fallen to a"
+label chek
+set checkD @env.textLog
+	if checkD >= "Using /SHARE to create a spirit link"
+	    SETGLOBAL alive 0
+end if
+	if checkD >= "cannot possibly"
+	    SETGLOBAL alive 0
+end if
+	if checkD >= hasfallen
+	    SETGLOBAL alive 0
+end if
+goto chek
+}
+
+F2
+{
+if @my.right_item != "Bloodblade"
+	"/equip bloodblade\r"
+end if
+    "/use /disable\r"
+}
+
+F1
+{
+if @my.right_item != "Bloodblade"
+	"/equip bloodblade\r"
+end if
+    "/use /absorb\r"
+		pause 3
+            "/use /absorb /report\r"
+}
+
+F3
+{
+"/useitem bloodstonering /dead \r"
+}
+
+F5
+{
+"/whisper arise \r"
+}
+
+"/reflect"
+{
+"/use /reflect\r"
+label top
+set @env.click_interrupts true
+pause 1
+set Blademessage @env.textLog
+if Blademessage < "You feel you have much to learn."
+message "Blade message; 0-9"
+end if
+if Blademessage < "You feel tolerably skilled."
+message "Blade message; 10-19"
+end if
+if Blademessage < "Your persistence is paying off."
+message "Blade message; 20-29"
+end if
+if Blademessage < "You are progressing well."
+message "Blade message; 30-39"
+end if
+if Blademessage < "You are becoming proficient."
+message "Blade message; 40-49"
+end if
+if Blademessage < "You have learned much."
+message "Blade message; 50-99"
+end if
+if Blademessage < "You have become skilled."
+message "Blade message; 100-149"
+end if
+if Blademessage < "You have become very skilled."
+message "Blade message; 150-199"
+end if
+if Blademessage < "Learning more is a challenge."
+message "Blade message; 200-249"
+end if
+if Blademessage < "You have attained great skill."
+message "Blade message; 250-299"
+end if
+if Blademessage < "You are becoming an expert."
+message "Blade message; 300-349"
+end if
+if Blademessage < "You have attained tremendous skill."
+message "Blade message; 350-399"
+end if
+if Blademessage < "You are close to attaining mastery."
+message "Blade message; 400-449"
+end if
+if Blademessage < "You may be proud of your accomplishment."
+message "Blade message; 450-499"
+end if
+if Blademessage < "You are becoming a master of your art."
+message "Blade message; 500-549"
+end if
+if Blademessage < "Your dedication is commendable."
+message "Blade message; 550-599"
+end if
+if Blademessage < "You show great devotion to your studies."
+message "Blade message; 600-649"
+end if
+if Blademessage < "You are a credit to your craft."
+message "Blade message; 650-699"
+end if
+if Blademessage < "Few indeed are your peers."
+message "Blade message; 700-749"
+end if
+if Blademessage < "Your devotion to your craft is exemplary."
+message "Blade message; 750-799"
+end if
+if Blademessage < "Your expertise is unquestionable."
+message "Blade message; 800-899"
+end if
+if Blademessage < "You are truly a grand master."
+message "Blade message; 900-999"
+end if
+if Blademessage < "Few if any are your equal."
+message "Blade message; 1000-1249"
+end if
+if Blademessage < "Your persistence is an example to us all."
+message "Blade message; 1250-1499"
+end if
+if Blademessage < "Your skill astounds me."
+message "Blade message; 1500-1749"
+end if
+if Blademessage < "You have progressed further than most."
+message "Blade message; 1750-1999"
+end if
+if Blademessage < "You are nearly peerless."
+message "Blade message; 2000-2249"
+end if
+if Blademessage < "You are a model of dedication."
+message "Blade message; 2250-2499"
+end if
+goto top
+}

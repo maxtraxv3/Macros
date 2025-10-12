@@ -1,0 +1,544 @@
+SETGLOBAL Hchk 1
+SETGLOBAL Right_H ""
+SETGLOBAL Rad 1
+
+@login
+{
+call sethealeritem
+}
+
+"/hi" // incase you where not holding your main healing item when you loged in.
+{
+call sethealeritem
+}
+
+sethealeritem
+{
+setglobal Right_H @my.right_item
+message "* Healer Item set to" Right_H ""
+if Right_H >= asklepian
+	SETGLOBAL Rad 1
+end if
+}
+
+
+click2
+{
+$any_click
+set click2ck @clicksplayer
+if @my.right_item >= "chain"
+	message "* Disabled chain Equiped !" 
+		goto end
+else
+	if click2ck != ""
+		if @my.right_item != Right_H
+			"/equip " Right_H "\r" 
+	end if
+		"/use " click2ck " \r"
+			message "* Healing" click2ck ""
+	else 
+	if @my.right_item != Right_H
+		"/equip " Right_H "\r" 
+	end if
+		"/use /off \r"
+	end if
+	if click2ck == @my.simple_name
+		"/equip moonstone\r"
+	end if
+label end
+	end if
+end if
+}
+
+F1
+{
+if @my.right_item >= "chain"
+	message "* Disabled chain Equiped !" 
+		goto end
+else
+	if Rad == 1
+		if @my.right_item != Right_H
+			"/equip " Right_H "\r"
+		end if
+	"/use \r"
+		message "*Radium Mode"
+	else
+		message "* your Healer Item isnt capble of that"
+	end if
+label end
+end if
+}
+
+F3
+{
+if @my.right_item >= "chain"
+	message "* Disabled chain Equiped !" 
+		goto end
+else
+if @my.right_item != Right_H
+"/equip " Right_H "\r"
+end if
+"/use /pet \r"
+label end
+end if
+}
+
+F4
+{
+
+"/whisper Attack\r" // these are the defaults if you change them you will have to modify these commands
+}
+
+F5
+{
+"/whisper Stay\r" // these are the defaults if you change them you will have to modify these commands
+}
+
+F6
+{
+"/whisper Obey\r" // these are the defaults if you change them you will have to modify these commands
+}
+
+F9
+{
+"/whisper Go home\r" // these are the defaults if you change them you will have to modify these commands
+}
+
+F10 //ESCAPE!
+{
+if @my.neck_item != "Purgatory Pendant"
+	"/equip purgatorypendant\r"
+end if
+	"/useitem purgatorypendant\r"
+}
+
+setglobal numHn[0] ""
+setglobal numHn[1] ""
+setglobal numHn[2] ""
+setglobal numHn[3] ""
+setglobal numHn[4] ""
+setglobal numHn[5] ""
+setglobal numHn[6] ""
+setglobal numHn[7] ""
+setglobal numHn[8] ""
+setglobal numHn[9] ""
+setglobal nameselector 1
+setglobal healname ""
+ 
+alt-shift-click2
+{
+setglobal healname @click.simple_name
+	call nameaddr
+}
+ 
+"/num"
+{
+if @text.word[0].num_letters > 1
+	setglobal healname @text.word[0]
+		call nameaddr
+else if @text.word[0].num_letters == 1
+	if @text.word[0] == 0
+		setglobal numHn[0] @text.word[1]
+			"/select \r"
+				"/select " @text.word[1] "\r"
+					message "" @selplayer.name "added to Numpad 0"
+						"/select \r"
+	else if @text.word[0] == 1
+		setglobal numHn[1] @text.word[1]
+			"/select \r"
+				"/select " @text.word[1] "\r"
+					message "" @selplayer.name "added to Numpad 1"
+						"/select \r"
+	else if @text.word[0] == 2
+		setglobal numHn[2] @text.word[1]
+			"/select \r"
+				"/select " @text.word[1] "\r"
+					message "" @selplayer.name "added to Numpad 2"
+						"/select \r"
+	else if @text.word[0] == 3
+		setglobal numHn[3] @text.word[1]
+			"/select \r"
+				"/select " @text.word[1] "\r"
+					message "" @selplayer.name "added to Numpad 3"
+						"/select \r"
+	else if @text.word[0] == 4
+		setglobal numHn[4] @text.word[1]
+			"/select \r"
+				"/select " @text.word[1] "\r"
+					message "" @selplayer.name "added to Numpad 4"
+						"/select \r"
+	else if @text.word[0] == 5
+		setglobal numHn[5] @text.word[1]
+			"/select \r"
+				"/select " @text.word[1] "\r"
+					message "" @selplayer.name "added to Numpad 5"
+						"/select \r"
+	else if @text.word[0] == 6
+		setglobal numHn[6] @text.word[1]
+			"/select \r"
+				"/select " @text.word[1] "\r"
+					message "" @selplayer.name "added to Numpad 6"
+						"/select \r"
+	else if @text.word[0] == 7
+		setglobal numHn[7] @text.word[1]
+			"/select \r"
+				"/select " @text.word[1] "\r"
+					message "" @selplayer.name "added to Numpad 7"
+						"/select \r"
+	else if @text.word[0] == 8
+		setglobal numHn[8] @text.word[1]
+			"/select \r"
+				"/select " @text.word[1] "\r"
+					message "" @selplayer.name "added to Numpad 8"
+						"/select \r"
+	else if @text.word[0] == 9
+		setglobal numHn[9] @text.word[1]
+			"/select \r"
+				"/select " @text.word[1] "\r"
+					message "" @selplayer.name "added to Numpad 9"
+						"/select \r"
+	end if
+end if
+ 
+}
+ 
+nameaddr
+{
+if nameselector == 1
+call nameck
+	if failname == 1
+		goto end
+	end if
+	if numHn[0] != healname
+		setglobal numHn[0] healname
+			setglobal nameselector + 1
+				"/select \r"
+					"/select " numHn[0] "\r"						
+						message "" @selplayer.name "added to Numpad 0"
+							"/select \r"
+								goto end
+	end if
+end if
+if nameselector == 2
+call nameck
+	if failname == 1
+		goto end
+	end if
+	if numHn[1] != healname
+		setglobal numHn[1] healname
+			setglobal nameselector + 1
+				"/select \r"
+					"/select " numHn[1] "\r"
+						message "" @selplayer.name "added to Numpad 1"
+							"/select \r"
+								goto end
+	end if
+end if
+if nameselector == 3
+call nameck
+	if failname == 1
+		goto end
+	end if
+	if numHn[2] != healname
+		setglobal numHn[2] healname
+			setglobal nameselector + 1
+				"/select \r"
+					"/select " numHn[2] "\r"
+						message "" @selplayer.name "added to Numpad 2"
+							"/select \r"
+								goto end
+	end if
+end if
+if nameselector == 4
+call nameck
+	if failname == 1
+		goto end
+	end if
+	if numHn[3] != healname
+		setglobal numHn[3] healname
+			setglobal nameselector + 1
+				"/select \r"
+					"/select " numHn[3] "\r"
+						message "" @selplayer.name "added to Numpad 3"
+							"/select \r"
+								goto end
+	end if
+end if
+if nameselector == 5
+call nameck
+	if failname == 1
+		goto end
+	end if
+	if numHn[4] != healname
+		setglobal numHn[4] healname
+			setglobal nameselector + 1
+				"/select \r"
+					"/select " numHn[4] "\r"
+						message "" @selplayer.name "added to Numpad 4"
+							"/select \r"
+								goto end
+	end if
+end if
+if nameselector == 6
+call nameck
+	if failname == 1
+		goto end
+	end if
+	if numHn[5] != healname
+		setglobal numHn[5] healname
+			setglobal nameselector + 1
+				"/select \r"
+					"/select " numHn[5] "\r"
+						message "" @selplayer.name "added to Numpad 5"
+							"/select \r"
+								goto end
+	end if
+end if
+if nameselector == 7
+call nameck
+	if failname == 1
+		goto end
+	end if
+	if numHn[6] != healname
+		setglobal numHn[6] healname
+			setglobal nameselector + 1
+				"/select \r"
+					"/select " numHn[6] "\r"
+						message "" @selplayer.name "added to Numpad 6"
+							"/select \r"
+								goto end
+	end if
+end if
+if nameselector == 8
+call nameck
+	if failname == 1
+		goto end
+	end if
+	if numHn[7] != healname
+		setglobal numHn[7] healname
+			setglobal nameselector + 1
+				"/select \r"
+					"/select " numHn[7] "\r"
+						message "" @selplayer.name "added to Numpad 7"
+							"/select \r"
+								goto end
+	end if
+end if
+if nameselector == 9
+call nameck
+	if failname == 1
+		goto end
+	end if
+	if numHn[8] != healname
+		setglobal numHn[8] healname
+			setglobal nameselector + 1
+				"/select \r"
+					"/select " numHn[8] "\r"
+						message "" @selplayer.name "added to Numpad 8"
+							"/select \r"
+								goto end
+	end if
+end if
+if nameselector == 10
+call nameck
+	if failname == 1
+		goto end
+	end if
+	if numHn[9] != healname
+		setglobal numHn[9] healname
+			setglobal nameselector 1
+				"/select \r"
+					"/select " numHn[9] "\r"
+						message "" @selplayer.name "added to Numpad 9"
+							"/select \r"
+								goto end
+	end if
+end if
+label end
+setglobal failname 0
+pause 3
+}
+
+nameck
+{
+	if numHn[0] == healname
+		setglobal numberply 0
+			call endr
+	else if numHn[1] == healname
+		setglobal numberply 1
+			call endr
+	else if numHn[2] == healname
+		setglobal numberply 2
+			call endr
+	else if numHn[3] == healname
+		setglobal numberply 3
+			call endr
+	else if numHn[4] == healname
+		setglobal numberply 4
+			call endr
+	else if numHn[5] == healname
+		setglobal numberply 5
+			call endr
+	else if numHn[6] == healname
+		setglobal numberply 6
+			call endr
+	else if numHn[7] == healname
+		setglobal numberply 7
+			call endr
+	else if numHn[8] == healname
+		setglobal numberply 8
+			call endr
+	else if numHn[9] == healname
+		setglobal numberply 9
+			call endr
+	end if
+}
+
+endr
+{
+if healname == nar
+	setglobal numHn[numberply] ""
+		message "Removed" nar "from Numpad" numberply ""
+			setglobal nar ""
+				goto exit
+end if
+"/select \r"
+	"/select " healname "\r"
+		setglobal nar @selplayer.name
+			"/select \r"
+				message "*" nar "is already on Numpad" numberply ""
+					message "Click them again to remove name"
+						label exit
+							setglobal failname 1
+}
+ 
+control-numpad-0
+{
+if @my.right_item != Right_H
+	"/equip " Right_H "\r" 
+end if
+	"/select " numHn[0] "\r"
+		set currname @selplayer.name
+			message "* healing" currname ""
+				"/select \r"
+					"/use " numHn[0] " \r"
+}
+control-numpad-1
+{
+if @my.right_item != Right_H
+	"/equip " Right_H "\r" 
+end if
+	"/select " numHn[1] "\r"
+		set currname @selplayer.name
+			message "* healing" currname ""
+				"/select \r"
+					"/use " numHn[2] " \r"
+}
+control-numpad-2
+{
+if @my.right_item != Right_H
+	"/equip " Right_H "\r" 
+end if
+	"/select " numHn[2] "\r"
+		set currname @selplayer.name
+			message "* healing" currname ""
+				"/select \r"
+					"/use " numHn[2] " \r"
+}
+control-numpad-3
+{
+if @my.right_item != Right_H
+	"/equip " Right_H "\r" 
+end if
+	"/select " numHn[3] "\r"
+		set currname @selplayer.name
+			message "* healing" currname ""
+				"/select \r"
+					"/use " numHn[3] " \r"
+}
+control-numpad-4
+{
+if @my.right_item != Right_H
+	"/equip " Right_H "\r" 
+end if
+	"/select " numHn[4] "\r"
+		set currname @selplayer.name
+			message "* healing" currname ""
+				"/select \r"
+					"/use " numHn[4] " \r"
+}
+control-numpad-5
+{
+if @my.right_item != Right_H
+	"/equip " Right_H "\r" 
+end if
+	"/select " numHn[5] "\r"
+		set currname @selplayer.name
+			message "* healing" currname ""
+				"/select \r"
+					"/use " numHn[5] " \r"
+}
+control-numpad-6
+{
+if @my.right_item != Right_H
+	"/equip " Right_H "\r" 
+end if
+	"/select " numHn[6] "\r"
+		set currname @selplayer.name
+			message "* healing" currname ""
+				"/select \r"
+					"/use " numHn[6] " \r"
+}
+control-numpad-7
+{
+if @my.right_item != Right_H
+	"/equip " Right_H "\r" 
+end if
+	"/select " numHn[7] "\r"
+		set currname @selplayer.name
+			message "* healing" currname ""
+				"/select \r"
+					"/use " numHn[7] " \r"
+}
+control-numpad-8
+{
+if @my.right_item != Right_H
+	"/equip " Right_H "\r" 
+end if
+	"/select " numHn[8] "\r"
+		set currname @selplayer.name
+			message "* healing" currname ""
+				"/select \r"
+					"/use " numHn[8] " \r"
+}
+control-numpad-9
+{
+if @my.right_item != Right_H
+	"/equip " Right_H "\r" 
+end if
+	"/select " numHn[9] "\r"
+		set currname @selplayer.name
+			message "* healing" currname ""
+				"/select \r"
+					"/use " numHn[9] " \r"
+}
+
+"/wn"
+{
+set nameck 0
+message "* Numpad names:"
+label top
+if nameck < 9
+	if numHn[nameck] != "Nothing"
+		if numHn[nameck] != ""
+			message "" numHn[nameck] "Numbpad" nameck ""
+				set nameck + 1
+		end if
+	end if
+goto top
+else
+	goto end
+end if
+label end
+message "* ------end------ *"
+}

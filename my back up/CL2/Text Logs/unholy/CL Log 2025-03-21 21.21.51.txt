@@ -1,0 +1,466 @@
+
+3/21/25 9:21:51p * Your healer's cloak is in very good condition.
+3/21/25 9:21:51p Welcome to Clan Lord, Unholy!
+3/21/25 9:21:51p Type \HELP for a list of commands.
+3/21/25 9:21:51p • You have been charged 105 coins for advanced studies.
+3/21/25 9:21:51p • You gain experience from your recent studies.
+3/21/25 9:21:51p * auto moonstone ON!
+3/21/25 9:21:51p The healing spell has started.
+3/21/25 9:21:51p You have been studying for 3 days, 11 hours, 9 minutes.
+3/21/25 9:21:54p It's 3:56pm on Gradi, day 80 of Autumn, 640.
+3/21/25 9:21:55p There are four members of Black Phoenix clanning: Bastion, Ceara, Magnic and you.
+3/21/25 9:21:55p • What’s New: https://deltatao.com/clanlord/news
+3/21/25 9:21:57p Friends online: none.
+3/21/25 9:22:05p * Tip of the day: You can search through your Text Window using the OS-dependent command keys shown in the Edit menu. (Use /OPTIONS to turn tips off.)
+3/21/25 9:23:08p •You seem to heal from further away now.
+3/21/25 9:23:30p You have 1931 coins.
+3/21/25 9:24:51p You have 1931 coins.
+3/21/25 9:24:59p Dracula yells, "should be safe to get unholy here"
+3/21/25 9:25:17p You have no 'asklepian staff' to equip.
+3/21/25 9:25:17p * Healing AnduinLothar 
+3/21/25 9:25:17p •To heal yourself, type: \USE
+3/21/25 9:25:17p •To heal yourself three times, type: \USE 3
+3/21/25 9:25:19p Dracula is sharing experiences with you.
+3/21/25 9:25:19p You begin sharing your experiences with Dracula.
+3/21/25 9:25:20p You are already sharing with Dracula.
+3/21/25 9:25:24p * Healing AnduinLothar 
+3/21/25 9:25:24p You equip your caduceus.
+3/21/25 9:25:47p •The player must be in the same area.
+3/21/25 9:25:47p Unholy ponders, "out of range"
+3/21/25 9:26:11p You have 1931 coins.
+3/21/25 9:26:12p * Dracula recovers the Reedcat Stalker fur, worth 72c. Your share is 14c.
+3/21/25 9:26:49p * Dracula recovers the Reedcat Stalker fur, worth 21c. Your share is 4c.
+3/21/25 9:26:52p •The healing spell has been broken.
+3/21/25 9:26:55p •The healing spell has been broken.
+3/21/25 9:26:59p •The healing spell has been broken.
+3/21/25 9:27:01p •The healing spell has been broken.
+3/21/25 9:27:02p •The healing spell has been broken.
+3/21/25 9:27:04p * Healing Magnic 
+3/21/25 9:27:04p •Magnic’s injuries are a little more serious than you can heal.
+3/21/25 9:27:05p •The healing spell has been broken.
+3/21/25 9:27:06p * Healing Magnic 
+3/21/25 9:27:08p •The healing spell has been broken.
+3/21/25 9:27:11p •The healing spell has been broken.
+3/21/25 9:27:13p •The healing spell has been broken.
+3/21/25 9:27:14p * Healing Magnic 
+3/21/25 9:27:26p •You don't quite have the training to heal Magnic’s injuries.
+3/21/25 9:27:28p * Dracula recovers the Reedcat Stalker fur, worth 21c. Your share is 4c.
+3/21/25 9:27:31p * Healing Unholy 
+3/21/25 9:27:31p •You cannot use your caduceus on yourself.
+3/21/25 9:27:31p You equip your moonstone.
+3/21/25 9:27:31p •The healing spell has been broken.
+3/21/25 9:27:31p You have 1953 coins.
+3/21/25 9:27:40p * Dracula recovers the Lowland Hawk blood, worth 6c. Your share is 1c.
+3/21/25 9:27:40p •Bastion’s body is far too mangled for you to heal.
+3/21/25 9:27:42p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/21/25 9:27:42p You cannot possibly use anything in your current condition.
+3/21/25 9:27:42p •Your wounds are severe.
+3/21/25 9:27:42p Unholy has fallen to a Lowland Hawk.
+3/21/25 9:27:44p You cannot possibly use anything in your current condition.
+3/21/25 9:27:45p You cannot possibly use anything in your current condition.
+3/21/25 9:27:46p You cannot possibly use anything in your current condition.
+3/21/25 9:27:47p You cannot possibly use anything in your current condition.
+3/21/25 9:27:48p You cannot possibly use anything in your current condition.
+3/21/25 9:27:50p You cannot possibly use anything in your current condition.
+3/21/25 9:27:51p You cannot possibly use anything in your current condition.
+3/21/25 9:27:52p You cannot possibly use anything in your current condition.
+3/21/25 9:27:53p You cannot possibly use anything in your current condition.
+3/21/25 9:27:54p You cannot possibly use anything in your current condition.
+3/21/25 9:27:56p You cannot possibly use anything in your current condition.
+3/21/25 9:27:57p You cannot possibly use anything in your current condition.
+3/21/25 9:27:58p You cannot possibly use anything in your current condition.
+3/21/25 9:27:59p You cannot possibly use anything in your current condition.
+3/21/25 9:28:00p You cannot possibly use anything in your current condition.
+3/21/25 9:28:02p You cannot possibly use anything in your current condition.
+3/21/25 9:28:03p You cannot possibly use anything in your current condition.
+3/21/25 9:28:04p You cannot possibly use anything in your current condition.
+3/21/25 9:28:05p Dracula's chain snaps as he tries to use it.
+3/21/25 9:28:05p You cannot possibly use anything in your current condition.
+3/21/25 9:28:06p You cannot possibly use anything in your current condition.
+3/21/25 9:28:07p Dracula's chain snaps as he tries to use it.
+3/21/25 9:28:08p You cannot possibly use anything in your current condition.
+3/21/25 9:28:09p You cannot possibly use anything in your current condition.
+3/21/25 9:28:10p You cannot possibly use anything in your current condition.
+3/21/25 9:28:10p Dracula starts dragging you.
+3/21/25 9:28:11p You cannot possibly use anything in your current condition.
+3/21/25 9:28:12p You cannot possibly use anything in your current condition.
+3/21/25 9:28:14p You cannot possibly use anything in your current condition.
+3/21/25 9:28:15p You cannot possibly use anything in your current condition.
+3/21/25 9:28:16p You cannot possibly use anything in your current condition.
+3/21/25 9:28:17p You cannot possibly use anything in your current condition.
+3/21/25 9:28:18p You cannot possibly use anything in your current condition.
+3/21/25 9:28:20p Dracula growls, "fuck loovma"
+3/21/25 9:28:20p You cannot possibly use anything in your current condition.
+3/21/25 9:28:20p You equip your caduceus.
+3/21/25 9:28:23p * Dracula recovers the Dire Bear fur, worth 28c. Your share is 6c.
+3/21/25 9:28:23p Dracula growls, "i have 50"
+3/21/25 9:28:26p Dracula growls, "51"
+3/21/25 9:28:26p Magnic says, "heh"
+3/21/25 9:28:30p •You sense healing energy from Ceara.
+3/21/25 9:28:37p Magnic says, "never trained it"
+3/21/25 9:28:42p Ceara uses a salve on Magnic.
+3/21/25 9:28:48p * Healing Magnic 
+3/21/25 9:28:48p •Magnic’s body was severely mangled.
+3/21/25 9:28:51p You have 1960 coins.
+3/21/25 9:28:55p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/21/25 9:28:55p •You do not have enough in you.
+3/21/25 9:28:55p Unholy has fallen to an Albino Flying Foxweir.
+3/21/25 9:28:55p •Your injuries are serious.
+3/21/25 9:28:55p Unholy ponders, "i have no life left to give"
+3/21/25 9:29:09p Unholy says, "well"
+3/21/25 9:29:12p Unholy says, ":D"
+3/21/25 9:29:59p * Dracula recovers the Mountain Grizzly Bear fur, worth 38c. Your share is 8c.
+3/21/25 9:30:07p * Dracula recovers the Dire Bear fur, worth 12c. Your share is 2c.
+3/21/25 9:30:11p You have 1970 coins.
+3/21/25 9:30:16p * Dracula recovers the Albino Flying Foxweir fur, worth 5c. Your share is 1c.
+3/21/25 9:30:27p * Dracula recovers the Albino Flying Foxweir fur, worth 3c. Your share is 1c.
+3/21/25 9:30:36p * Healing Ceara 
+3/21/25 9:30:47p * Healing Magnic 
+3/21/25 9:30:54p Ceara uses a salve on Bastion.
+3/21/25 9:30:59p * Healing Bastion 
+3/21/25 9:30:59p •Bastion’s body was mangled.
+3/21/25 9:31:13p You begin sharing your experiences with Ceara.
+3/21/25 9:31:13p You are sharing experiences with Ceara and Dracula.
+3/21/25 9:31:25p * Dracula recovers the Dire Bear fur, worth 56c. Your share is 11c.
+3/21/25 9:31:25p •You do not have enough in you.
+3/21/25 9:31:25p Unholy ponders, "i have no life left to give"
+3/21/25 9:31:30p * Dracula recovers the Mountain Bear fur, worth 25c. Your share is 5c.
+3/21/25 9:31:32p You have 1988 coins.
+3/21/25 9:31:40p * Healing Unholy 
+3/21/25 9:31:43p •You cannot use your caduceus on yourself.
+3/21/25 9:31:43p Ceara says, "ok!@"
+3/21/25 9:31:47p Ceara says, "unholy on ceara"
+3/21/25 9:31:48p You equip your moonstone.
+3/21/25 9:31:50p Ceara says, "im radiuming"
+3/21/25 9:31:57p * Healing Ceara 
+3/21/25 9:32:00p Dracula says, "lets get healed up and kill that madz outside heh"
+3/21/25 9:32:03p You equip your caduceus.
+3/21/25 9:32:05p You must equip your moonstone before it can be used.
+3/21/25 9:32:05p You must equip your moonstone before it can be used.
+3/21/25 9:32:05p You must equip your moonstone before it can be used.
+3/21/25 9:32:06p You must equip your moonstone before it can be used.
+3/21/25 9:32:06p You must equip your moonstone before it can be used.
+3/21/25 9:32:07p You must equip your moonstone before it can be used.
+3/21/25 9:32:07p You must equip your moonstone before it can be used.
+3/21/25 9:32:08p •You lock your healing to Ceara.
+3/21/25 9:32:17p Magnic says, "mass lag"
+3/21/25 9:32:26p Magnic says, "ima need to relog both cleitns"
+3/21/25 9:32:31p Ceara says, "ok"
+3/21/25 9:32:34p Magnic says, "nvm"
+3/21/25 9:32:37p Magnic says, "its gone"
+3/21/25 9:32:45p Ceara says, "oh good"
+3/21/25 9:32:48p Magnic says, "i lied"
+3/21/25 9:32:53p You have 1988 coins.
+3/21/25 9:32:57p *** We are no longer connected to the Clan Lord game server. ***
+3/21/25 9:33:01p Welcome back, Unholy!
+3/21/25 9:33:01p * auto moonstone ON!
+3/21/25 9:33:05p Friends online: none.
+3/21/25 9:33:36p •The player must be in the same area.
+3/21/25 9:33:46p Unholy ponders, "out of range"
+3/21/25 9:34:38p You have 1988 coins.
+3/21/25 9:35:58p You have 1988 coins.
+3/21/25 9:36:09p Magnic says, "still getting random lag"
+3/21/25 9:36:24p Ceara says, "aw"
+3/21/25 9:36:30p Ceara says, "its ok"
+3/21/25 9:36:32p Ceara says, "we are in bears now"
+3/21/25 9:36:33p Ceara says, "so lazymode"
+3/21/25 9:36:45p Anduin Lothar turns to stone.
+3/21/25 9:36:51p Dracula says, "oh yeah"
+3/21/25 9:36:56p Dracula asks, "hows the stone macro working?"
+3/21/25 9:37:06p Magnic says, "yeah good tested it to day"
+3/21/25 9:37:15p Dracula says, "best test is to send her to fog"
+3/21/25 9:37:15p Magnic says, "without zent can go for 22mins"
+3/21/25 9:37:15p You have 1988 coins.
+3/21/25 9:37:19p Dracula says, "ahhhh"
+3/21/25 9:37:20p Dracula says, "nice"
+3/21/25 9:37:24p Dracula says, "gotta get zent"
+3/21/25 9:37:30p Magnic says, "heh"
+3/21/25 9:37:33p Dracula asks, "where zent?"
+3/21/25 9:37:50p Magnic says, "glen"
+3/21/25 9:37:54p Magnic says, "spider caves"
+3/21/25 9:38:01p Magnic says, "that has no spiders"
+3/21/25 9:38:03p Dracula says, "easy enough"
+3/21/25 9:38:10p Magnic says, "just trools"
+3/21/25 9:38:13p Dracula says, "oh down there"
+3/21/25 9:38:16p Dracula says, "ok"
+3/21/25 9:38:27p Magnic says, "im have to restart my moden sorry lag super bad"
+3/21/25 9:38:30p Dracula says, "not sure if trill pf or book 3"
+3/21/25 9:38:31p Dracula says, "ok"
+3/21/25 9:38:34p Dracula says, "ill lure some stuff"
+3/21/25 9:38:36p You have 1988 coins.
+3/21/25 9:38:37p *** We are no longer connected to the Clan Lord game server. ***
+3/21/25 9:40:13p Welcome back, Unholy!
+3/21/25 9:40:13p * auto moonstone ON!
+3/21/25 9:40:17p Friends online: none.
+3/21/25 9:40:30p * Magnic recovers the Mountain Grizzly Bear fur, worth 10c. Your share is 2c.
+3/21/25 9:40:36p •You lock your healing to Ceara.
+3/21/25 9:40:50p * Dracula recovers the Black Locust mandibles, worth 24c. Your share is 4c.
+3/21/25 9:41:02p * Dracula recovers the Mountain Bear fur, worth 45c. Your share is 7c.
+3/21/25 9:41:09p * Dracula recovers the Black Locust mandibles, worth 44c. Your share is 7c.
+3/21/25 9:41:29p * Anduin Lothar recovers the Mountain Grizzly Bear fur, worth 15c. Your share is 2c.
+3/21/25 9:41:30p Anduin Lothar turns to stone.
+3/21/25 9:41:40p You have 2010 coins.
+3/21/25 9:42:17p * Dracula recovers the Mountain Bear fur, worth 17c. Your share is 3c.
+3/21/25 9:42:39p * Dracula recovers the Mountain Bear fur, worth 51c. Your share is 9c.
+3/21/25 9:42:47p Magnic says, "heh rank"
+3/21/25 9:42:51p Dracula growls, "heh nice"
+3/21/25 9:43:00p You have 2022 coins.
+3/21/25 9:43:14p Magnic says, "got smeti to pass the 7th test"
+3/21/25 9:43:15p Dracula growls, "oh yeah"
+3/21/25 9:43:18p Dracula says, "nice"
+3/21/25 9:43:20p Magnic asks, "oh?"
+3/21/25 9:43:24p Dracula says, "i ran into duvin wall heh"
+3/21/25 9:43:31p Magnic asks, "wall?"
+3/21/25 9:43:40p Dracula says, "3/21/25 7:43:31p •You are remembering your studies of the Cedar Colossus, and have almost nothing left to learn."
+3/21/25 9:43:48p Dracula says, "not enough duvin :P"
+3/21/25 9:43:51p Dracula says, "need 3 free"
+3/21/25 9:43:57p Magnic says, "ah damm"
+3/21/25 9:43:58p Dracula says, "now gotta train more"
+3/21/25 9:44:04p Dracula says, "but trying to finish this chapter book 3"
+3/21/25 9:44:13p Magnic says, "heh"
+3/21/25 9:44:18p Dracula says, "then ill get like 30 more duvin, and go back for book 3 after"
+3/21/25 9:44:20p You have 2022 coins.
+3/21/25 9:44:39p Bastion says, "s for exp"
+3/21/25 9:44:48p •Ceara is too far away.
+3/21/25 9:44:49p Unholy ponders, "out of range"
+3/21/25 9:45:01p You equip your moonstone.
+3/21/25 9:45:02p Unholy says, "sure"
+3/21/25 9:45:10p * You gain experience.
+3/21/25 9:45:10p * Your new pet will be waiting for you back at the stables with all their friends.
+3/21/25 9:45:10p The bear hums happily.
+3/21/25 9:45:23p •To heal yourself, type: \USE
+3/21/25 9:45:23p •To heal yourself three times, type: \USE 3
+3/21/25 9:45:40p You have 2022 coins.
+3/21/25 9:45:48p Dracula growls, "`trying a different setup here"
+3/21/25 9:45:52p Dracula growls, "so more stuff goes on andy"
+3/21/25 9:45:56p Dracula growls, "and less on bastion/healers"
+3/21/25 9:46:14p Anduin Lothar turns to stone.
+3/21/25 9:46:23p * Dracula recovers the Mammoth Violène Arachne mandibles, worth 20c. Your share is 3c.
+3/21/25 9:46:27p Dracula growls, "oooh"
+3/21/25 9:46:28p Dracula growls, "kill"
+3/21/25 9:46:32p Magnic says, "heh"
+3/21/25 9:46:38p Dracula says, "also gonna try and get bastion tags on hunts again"
+3/21/25 9:46:45p (Magnic nods)
+3/21/25 9:47:01p You have 2025 coins.
+3/21/25 9:47:44p Magnic says, "have recheck all the puzzle i know"
+3/21/25 9:47:53p Magnic says, "i think igot it down to 3"
+3/21/25 9:48:12p Magnic says, "sf one and the muddy forest one"
+3/21/25 9:48:21p You have 2025 coins.
+3/21/25 9:48:23p Magnic says, "also i dont know what the casnio one is"
+3/21/25 9:48:39p Dracula says, "oh"
+3/21/25 9:48:53p Magnic says, "and full mystic confirmed there a alot more out there in older areas"
+3/21/25 9:49:01p * Dracula recovers the Mountain Grizzly Bear fur, worth 58c. Your share is 10c.
+3/21/25 9:49:04p Dracula growls, "well"
+3/21/25 9:49:13p Dracula growls, "the puzzles i believe were all added more than 15 years ago"
+3/21/25 9:49:18p Dracula growls, "maybe even longer"
+3/21/25 9:49:25p Magnic says, "yeap"
+3/21/25 9:49:33p Dracula growls, "thats about the only mysticy type thing i really know"
+3/21/25 9:49:41p You have 2035 coins.
+3/21/25 9:50:34p * You recover the Mountain Grizzly Bear fur, worth 17c. Your share is 3c.
+3/21/25 9:50:58p Anduin Lothar turns to stone.
+3/21/25 9:51:01p You have 2038 coins.
+3/21/25 9:51:09p * Dracula recovers the Mountain Bear fur, worth 53c. Your share is 9c.
+3/21/25 9:51:11p Dracula growls, "i went outside to look for bear"
+3/21/25 9:51:14p Dracula growls, "and bear spawned in here"
+3/21/25 9:51:15p Magnic says, "woo"
+3/21/25 9:51:17p Magnic says, "msg"
+3/21/25 9:51:27p Magnic says, "vast"
+3/21/25 9:51:45p Dracula yells, "another step closer :D"
+3/21/25 9:51:45p •To heal yourself, type: \USE
+3/21/25 9:51:45p •To heal yourself three times, type: \USE 3
+3/21/25 9:51:48p You equip your caduceus.
+3/21/25 9:51:49p •You lock your healing to Ceara.
+3/21/25 9:52:21p You have 2047 coins.
+3/21/25 9:52:29p Magnic says, "heh"
+3/21/25 9:53:26p •You gain experience.
+3/21/25 9:53:42p You have 2047 coins.
+3/21/25 9:54:44p Dracula growls, "come"
+3/21/25 9:54:45p Dracula growls, "roam time"
+3/21/25 9:54:46p Magnic says, "oh actuly you might be able to get to the trool cave via pf nexus"
+3/21/25 9:54:51p Dracula growls, "you can"
+3/21/25 9:54:55p Dracula growls, "but idk if need trillbane"
+3/21/25 9:54:57p Magnic says, "no"
+3/21/25 9:55:02p You have 2047 coins.
+3/21/25 9:55:41p * Dracula recovers the Mountain Grizzly Bear fur, worth 13c. Your share is 2c.
+3/21/25 9:55:42p Anduin Lothar turns to stone.
+3/21/25 9:55:47p Dracula says, "i messed up"
+3/21/25 9:55:47p Magnic says, "he missed"
+3/21/25 9:55:49p Dracula says, "im meant to bear"
+3/21/25 9:55:55p Dracula says, "who did"
+3/21/25 9:55:59p Magnic says, "bastion"
+3/21/25 9:56:03p Bastion says, "3/21/25 7:55:42p You helped kill a Mountain Grizzly Bear."
+3/21/25 9:56:06p Magnic says, "oh"
+3/21/25 9:56:15p Bastion says, "925 atkus base :D"
+3/21/25 9:56:20p Magnic says, "heh"
+3/21/25 9:56:22p You have 2049 coins.
+3/21/25 9:57:27p * Dracula recovers the Mountain Bear fur, worth 19c. Your share is 3c.
+3/21/25 9:57:42p You have 2052 coins.
+3/21/25 9:57:43p * Dracula recovers the Mountain Bear fur, worth 42c. Your share is 7c.
+3/21/25 9:57:48p * Dracula recovers the Mountain Bear fur, worth 26c. Your share is 4c.
+3/21/25 9:58:24p * Bastion recovers the Mammoth Banana Arachne mandibles, worth 101c. Your share is 17c.
+3/21/25 9:58:56p Dracula yells, "!"
+3/21/25 9:59:02p You have 2080 coins.
+3/21/25 10:00:23p You have 2080 coins.
+3/21/25 10:00:26p Anduin Lothar turns to stone.
+3/21/25 10:01:43p You have 2080 coins.
+3/21/25 10:03:03p You have 2080 coins.
+3/21/25 10:03:21p Magnic says, "returning play brandon"
+3/21/25 10:03:26p * Dracula recovers the Mountain Bear fur, worth 61c. Your share is 10c.
+3/21/25 10:03:31p * Dracula recovers the Albino Flying Foxweir fur, worth 2c. Your share is 1c.
+3/21/25 10:03:34p Dracula growls, "hm?"
+3/21/25 10:03:41p Magnic says, "has 57 years worth of ranks"
+3/21/25 10:03:48p Dracula says, "sad"
+3/21/25 10:03:53p Dracula says, "he wont :D"
+3/21/25 10:03:59p Dracula says, "theres a cap on lib exp"
+3/21/25 10:04:04p Magnic asks, "oh?"
+3/21/25 10:04:06p Dracula says, "yeah"
+3/21/25 10:04:16p Dracula says, "250 ranks or 300 ranks or something"
+3/21/25 10:04:23p Magnic says, "well he becoming a ranger"
+3/21/25 10:04:23p You have 2091 coins.
+3/21/25 10:04:32p Dracula says, "if you log in and spend one and sleep again it builds more up"
+3/21/25 10:04:41p Magnic says, "ah"
+3/21/25 10:04:50p Dracula says, "so he might have 1-3k stored depending on if he/family were logging his chars in occasionally"
+3/21/25 10:05:08p * Dracula recovers the Mountain Grizzly Bear fur, worth 39c. Your share is 7c.
+3/21/25 10:05:11p Anduin Lothar turns to stone.
+3/21/25 10:05:41p Magnic says, "he one step away from ranger"
+3/21/25 10:05:43p Magnic says, "now"
+3/21/25 10:05:43p You have 2098 coins.
+3/21/25 10:05:49p Magnic says, "in the last 2 days"
+3/21/25 10:06:01p Magnic says, "gotten there"
+3/21/25 10:06:27p * Dracula recovers the Mountain Grizzly Bear fur, worth 42c. Your share is 7c.
+3/21/25 10:06:39p Magnic says, "i told him to store his ranks in lang"
+3/21/25 10:06:51p Dracula says, "damn nice"
+3/21/25 10:07:04p You have 2105 coins.
+3/21/25 10:07:04p Magnic says, "he did that then spent someon goss when he got that"
+3/21/25 10:07:19p Magnic says, "i think he store them again"
+3/21/25 10:07:21p (Dracula nods)
+3/21/25 10:07:21p Magnic says, "heh"
+3/21/25 10:07:24p Dracula says, "heh"
+3/21/25 10:07:33p Dracula says, "he can also store on diggin/hermit"
+3/21/25 10:07:39p Dracula says, "and get something useful at the same time"
+3/21/25 10:07:42p Magnic says, "ah i forgot"
+3/21/25 10:07:53p * Ceara recovers the Albino Flying Foxweir fur, worth 1c. Your share is 1c.
+3/21/25 10:08:06p * You recover the Albino Flying Foxweir fur, worth 3c.
+3/21/25 10:08:07p Dracula growls, "i hate these"
+3/21/25 10:08:24p You have 2106 coins.
+3/21/25 10:08:33p * Dracula recovers the Albino Flying Foxweir fur, worth 4c. Your share is 1c.
+3/21/25 10:09:29p Dracula says, "idk"
+3/21/25 10:09:39p Dracula says, "i just watched a balkan change a tyre on youtube"
+3/21/25 10:09:44p You have 2107 coins.
+3/21/25 10:09:52p Dracula says, "and i cant tell if it was good or i want that part of my life back"
+3/21/25 10:09:55p Anduin Lothar turns to stone.
+3/21/25 10:10:33p Magnic says, "who and why"
+3/21/25 10:10:38p Magnic says, "heh"
+3/21/25 10:10:51p Dracula says, "a balkan"
+3/21/25 10:10:54p Dracula says, "its a plce i think"
+3/21/25 10:11:00p Dracula says, "sounds swedish or something"
+3/21/25 10:11:04p You have 2107 coins.
+3/21/25 10:11:27p * Dracula recovers the Mountain Bear fur, worth 21c. Your share is 4c.
+3/21/25 10:12:24p You have 2111 coins.
+3/21/25 10:12:34p * Dracula recovers the Smoky Bear fur, worth 113c. Your share is 19c.
+3/21/25 10:12:42p * Dracula recovers the Mountain Bear fur, worth 11c. Your share is 2c.
+3/21/25 10:12:48p * Dracula recovers the Mountain Bear fur, worth 37c. Your share is 6c.
+3/21/25 10:13:45p You have 2138 coins.
+3/21/25 10:14:39p Anduin Lothar turns to stone.
+3/21/25 10:15:05p You have 2138 coins.
+3/21/25 10:16:25p You have 2138 coins.
+3/21/25 10:17:45p You have 2138 coins.
+3/21/25 10:19:05p You have 2138 coins.
+3/21/25 10:19:23p Anduin Lothar turns to stone.
+3/21/25 10:19:46p * Dracula recovers the Dire Bear fur, worth 57c. Your share is 10c.
+3/21/25 10:20:00p * Dracula recovers the Mountain Bear fur, worth 16c. Your share is 3c.
+3/21/25 10:20:26p You have 2151 coins.
+3/21/25 10:21:20p Magnic says, "not to hard did with the fledgling the other day"
+3/21/25 10:21:32p Magnic says, "i mean the trool where tho :P"
+3/21/25 10:21:34p Dracula growls, "yeah ive been before"
+3/21/25 10:21:39p Dracula says, "should be easy"
+3/21/25 10:21:46p You have 2151 coins.
+3/21/25 10:22:37p Magnic says, "they want to go into the castle but no one had the pf for it"
+3/21/25 10:23:06p You have 2151 coins.
+3/21/25 10:23:10p Dracula says, "ohh"
+3/21/25 10:23:12p Dracula says, "sad"
+3/21/25 10:24:07p Anduin Lothar turns to stone.
+3/21/25 10:24:14p * Dracula recovers the Black Mantis mandibles, worth 47c. Your share is 8c.
+3/21/25 10:24:26p You have 2159 coins.
+3/21/25 10:24:47p * Dracula recovers the Mountain Bear fur, worth 21c. Your share is 3c.
+3/21/25 10:25:16p Dracula says, "ok"
+3/21/25 10:25:20p Dracula asks, "ready to wander south?"
+3/21/25 10:25:34p Dracula growls, "might pack up soon though"
+3/21/25 10:25:44p Magnic says, "ok"
+3/21/25 10:25:46p You have 2162 coins.
+3/21/25 10:27:07p You have 2162 coins.
+3/21/25 10:27:21p * Anduin Lothar recovers the Mountain Bear fur, worth 58c. Your share is 11c.
+3/21/25 10:28:12p Dracula says, "pesky firebear"
+3/21/25 10:28:18p Magnic says, "also i hink to can farm esstems with org changes"
+3/21/25 10:28:27p You have 2173 coins.
+3/21/25 10:28:37p Magnic says, "for ci"
+3/21/25 10:28:52p Anduin Lothar turns to stone.
+3/21/25 10:29:19p Magnic says, "even morks mystic can get the cages"
+3/21/25 10:29:33p Magnic says, "get them in the monstary"
+3/21/25 10:29:33p Dracula says, "oh"
+3/21/25 10:29:36p Dracula says, "interesting"
+3/21/25 10:29:47p You have 2173 coins.
+3/21/25 10:30:02p * Dracula recovers the Mountain Bear fur, worth 54c. Your share is 9c.
+3/21/25 10:30:45p * Dracula recovers the Smoky Bear fur, worth 10c. Your share is 1c.
+3/21/25 10:30:50p * Dracula recovers the Mountain Grizzly Bear fur, worth 33c. Your share is 5c.
+3/21/25 10:31:01p Dracula says, "pesky firebear"
+3/21/25 10:31:07p You have 2188 coins.
+3/21/25 10:31:20p Magnic says, "i think you get them in the org cave west of village"
+3/21/25 10:31:31p Magnic says, "the place the portal was last"
+3/21/25 10:31:35p Dracula says, "ohh"
+3/21/25 10:31:36p Dracula says, "yeah that cave"
+3/21/25 10:32:27p You have 2188 coins.
+3/21/25 10:33:36p Anduin Lothar turns to stone.
+3/21/25 10:33:48p You have 2188 coins.
+3/21/25 10:34:28p Dracula growls, "ok healing up and anothe round we go"
+3/21/25 10:35:08p You have 2188 coins.
+3/21/25 10:36:28p You have 2188 coins.
+3/21/25 10:37:48p You have 2188 coins.
+3/21/25 10:38:04p * Ceara recovers the Mountain Bear fur, worth 5c. Your share is 1c.
+3/21/25 10:38:20p Anduin Lothar turns to stone.
+3/21/25 10:38:41p * Dracula recovers the Black Locust mandibles, worth 51c. Your share is 9c.
+3/21/25 10:39:05p Ceara attempts to project into another plane.
+3/21/25 10:39:06p •The player must be in the same area.
+3/21/25 10:39:06p Unholy ponders, "out of range"
+3/21/25 10:39:08p You have 2198 coins.
+3/21/25 10:39:08p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/21/25 10:39:09p Unholy has fallen to a Starstag.
+3/21/25 10:39:09p •Your injuries are serious.
+3/21/25 10:39:28p Dracula starts dragging you.
+3/21/25 10:39:52p Dracula yells, "chooo chooo"
+3/21/25 10:40:00p Magnic says, "heh"
+3/21/25 10:40:29p You have 2198 coins.
+3/21/25 10:40:54p Phoebe says, "Hello, Dracula. I can sell you a river skiff. Interested? It costs 100 coins."
+3/21/25 10:40:54p Dracula growls, "yes"
+3/21/25 10:41:17p Puddleby Beautification made possibly by Kalian the Tawny
+3/21/25 10:41:29p Magnic says, "thanks for the hunt"
+3/21/25 10:41:37p Ceara says, "aye thanks"
+3/21/25 10:41:44p •You sense healing energy from Ceara.
+3/21/25 10:41:49p You have 2198 coins.
+3/21/25 10:41:49p * Healing Ceara 
+3/21/25 10:41:51p * Healing AnduinLothar 
+3/21/25 10:42:00p •You do not have enough in you.
+3/21/25 10:42:01p Unholy ponders, "i have no life left to give"
+3/21/25 10:42:03p * Healing Unholy 
+3/21/25 10:42:04p •You cannot use your caduceus on yourself.
+3/21/25 10:42:04p You equip your moonstone.
+3/21/25 10:42:10p * Healing Ceara 
+3/21/25 10:42:10p You equip your caduceus.
+3/21/25 10:42:16p Dracula says, "sec"
+3/21/25 10:42:19p •You lock your healing to Ceara.
+3/21/25 10:42:59p Dracula says, "gonna go see if i can get to zhent"
+3/21/25 10:43:04p Dracula says, "if its easy i can take your alt"
+3/21/25 10:43:09p You have 2198 coins.
+3/21/25 10:43:31p •You gain experience.
+3/21/25 10:43:53p * Healing Bastion 
+3/21/25 10:43:53p •You unlock your caduceus healing.
+3/21/25 10:44:04p Koppi yells, "Coriakin reports: Bard concert coming up on Saturday, March 29th at 11AM pacific time. Hope to see you there!"
+3/21/25 10:44:29p You have 2198 coins.
+3/21/25 10:44:43p * Healing Ceara 
+3/21/25 10:44:50p • /SLEEP when you wish to begin studying.
+3/21/25 10:44:52p • /SLEEP when you wish to begin studying.
+3/21/25 10:44:55p Use \SLEEP again when you return.
+3/21/25 10:44:55p You are done adventuring for a while and will be studying here.
+3/21/25 10:44:56p You have been disconnected from Clan Lord.
+3/21/25 10:44:56p • You will benefit from studying here while you are off-line.
+3/21/25 10:44:57p *** We are no longer connected to the Clan Lord game server. ***

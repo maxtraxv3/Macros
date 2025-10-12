@@ -1,0 +1,374 @@
+
+5/16/25 9:33:04p * Your healer's cloak is in very good condition.
+5/16/25 9:33:04p Welcome to Clan Lord, Unholy!
+5/16/25 9:33:04p Type \HELP for a list of commands.
+5/16/25 9:33:04p • You gain experience from your recent studies.
+5/16/25 9:33:04p *Healer Mode
+5/16/25 9:33:04p *Type /hi help for more info
+5/16/25 9:33:04p Unholy is now Clanning.
+5/16/25 9:33:04p The healing spell has started.
+5/16/25 9:33:04p You have been studying for 7 hours, 35 minutes.
+5/16/25 9:33:07p It's 6:53pm on Soldi, day 39 of Summer, 641.
+5/16/25 9:33:07p Friends online: none.
+5/16/25 9:33:08p You are the only member of Black Phoenix clanning.
+5/16/25 9:33:08p • What’s New: https://deltatao.com/clanlord/news
+5/16/25 9:33:10p * Healer Item set to caduceus 
+5/16/25 9:33:18p * Tip of the day: The fairgrounds, southwest of town center, is a good place to hold out-of-character conversations. (Use /OPTIONS to turn tips off.)
+5/16/25 9:33:22p  Haffron added to Numpad 0
+5/16/25 9:33:22p • MACRO Execution Error
+label goto not found in the current macro.
+5/16/25 9:33:22p • MACRO goto endr
+5/16/25 9:33:22p • MACRO Execution Error
+'end' not a defined function.
+5/16/25 9:33:22p • MACRO call end
+5/16/25 9:33:23p   added to Numpad 1
+5/16/25 9:33:23p • MACRO Execution Error
+label goto not found in the current macro.
+5/16/25 9:33:23p • MACRO goto endr
+5/16/25 9:33:23p • MACRO Execution Error
+'end' not a defined function.
+5/16/25 9:33:23p • MACRO call end
+5/16/25 9:33:23p  Haffron added to Numpad 2
+5/16/25 9:33:23p • MACRO Execution Error
+label goto not found in the current macro.
+5/16/25 9:33:23p • MACRO goto endr
+5/16/25 9:33:23p • MACRO Execution Error
+'end' not a defined function.
+5/16/25 9:33:23p • MACRO call end
+5/16/25 9:33:24p   added to Numpad 3
+5/16/25 9:33:24p • MACRO Execution Error
+label goto not found in the current macro.
+5/16/25 9:33:24p • MACRO goto endr
+5/16/25 9:33:24p • MACRO Execution Error
+'end' not a defined function.
+5/16/25 9:33:24p • MACRO call end
+5/16/25 9:33:24p  Haffron added to Numpad 4
+5/16/25 9:33:24p • MACRO Execution Error
+label goto not found in the current macro.
+5/16/25 9:33:24p • MACRO goto endr
+5/16/25 9:33:25p • MACRO Execution Error
+'end' not a defined function.
+5/16/25 9:33:25p • MACRO call end
+5/16/25 9:33:25p   added to Numpad 5
+5/16/25 9:33:25p • MACRO Execution Error
+label goto not found in the current macro.
+5/16/25 9:33:25p • MACRO goto endr
+5/16/25 9:33:25p • MACRO Execution Error
+'end' not a defined function.
+5/16/25 9:33:25p • MACRO call end
+5/16/25 9:33:26p  Haffron added to Numpad 6
+5/16/25 9:33:26p • MACRO Execution Error
+label goto not found in the current macro.
+5/16/25 9:33:26p • MACRO goto endr
+5/16/25 9:33:26p • MACRO Execution Error
+'end' not a defined function.
+5/16/25 9:33:26p • MACRO call end
+5/16/25 9:33:26p   added to Numpad 7
+5/16/25 9:33:26p • MACRO Execution Error
+label goto not found in the current macro.
+5/16/25 9:33:26p • MACRO goto endr
+5/16/25 9:33:26p • MACRO Execution Error
+'end' not a defined function.
+5/16/25 9:33:26p • MACRO call end
+5/16/25 9:33:27p  Haffron added to Numpad 8
+5/16/25 9:33:27p • MACRO Execution Error
+label goto not found in the current macro.
+5/16/25 9:33:27p • MACRO goto endr
+5/16/25 9:33:27p • MACRO Execution Error
+'end' not a defined function.
+5/16/25 9:33:27p • MACRO call end
+5/16/25 9:33:27p   added to Numpad 9
+5/16/25 9:33:27p • MACRO Execution Error
+label goto not found in the current macro.
+5/16/25 9:33:27p • MACRO goto endr
+5/16/25 9:34:10p Koppi yells, "Athl reports: I can safely report that there will be an inquest into Ranoora and his deceitful business practices within the halls of the casino. Ofcourse this is pure speculation, and I have no proof... But my whiskers are tinglin'."
+5/16/25 9:34:31p *Healer Mode
+5/16/25 9:34:31p *Type /hi help for more info
+5/16/25 9:34:34p  Haffron added to Numpad 0
+5/16/25 9:34:38p * Healer Item set to caduceus 
+5/16/25 9:34:42p  Squib added to Numpad 1
+5/16/25 9:34:45p Crius yells, "It’s 7 o’clock, and all’s well."
+5/16/25 9:34:48p * healing Haffron 
+5/16/25 9:34:50p Crius yells, "It looks pretty quiet at the Southern River Delta."
+5/16/25 9:35:24p •You gain experience.
+5/16/25 9:35:45p  Kin added to Numpad 2
+5/16/25 9:35:53p • MACRO Execution Error
+'end' not a defined function.
+5/16/25 9:35:53p • MACRO call end
+5/16/25 9:35:53p   added to Numpad 3
+5/16/25 9:37:16p Shadrock is now Clanning.
+5/16/25 9:37:26p *Healer Mode
+5/16/25 9:37:26p *Type /hi help for more info
+5/16/25 9:37:29p * Healer Item set to caduceus 
+5/16/25 9:37:34p  Haffron added to Numpad 0
+5/16/25 9:37:36p * Haffron is already added
+5/16/25 9:37:36p 'SELECTHAFF' is not a recognized command.
+5/16/25 9:37:36p   added to Numpad 1
+5/16/25 9:38:20p *Healer Mode
+5/16/25 9:38:20p *Type /hi help for more info
+5/16/25 9:38:22p * Healer Item set to caduceus 
+5/16/25 9:38:25p  Kin added to Numpad 0
+5/16/25 9:38:27p *  is already added
+5/16/25 9:38:28p  Kin added to Numpad 1
+5/16/25 9:38:50p Law'n St'ple nods and smiles at Haffron.
+5/16/25 9:39:21p Koppi yells, "Athl reports: I can safely report that there will be an inquest into Ranoora and his deceitful business practices within the halls of the casino. Ofcourse this is pure speculation, and I have no proof... But my whiskers are tinglin'."
+5/16/25 9:39:45p *Healer Mode
+5/16/25 9:39:45p *Type /hi help for more info
+5/16/25 9:39:48p * Healer Item set to caduceus 
+5/16/25 9:39:51p   added to Numpad 0
+5/16/25 9:39:53p * Kin is already added
+5/16/25 9:40:04p * healing kin 
+5/16/25 9:40:04p •The player must be in the same area.
+5/16/25 9:40:46p * healing haff 
+5/16/25 9:42:52p You have 236 coins.
+5/16/25 9:44:32p Koppi yells, "Phroon reports: Traveller's Advisory: The Portal is now in Fountfell."
+5/16/25 9:45:03p •The Sun sets.
+5/16/25 9:45:25p •You gain experience.
+5/16/25 9:46:00p You have 236 coins.
+5/16/25 9:47:29p Shadrock is no longer Clanning.
+5/16/25 9:47:57p *Healer Mode
+5/16/25 9:47:57p *Type /hi help for more info
+5/16/25 9:48:00p * Healer Item set to caduceus 
+5/16/25 9:48:11p   added to Numpad 0
+5/16/25 9:48:16p  Haffron added to Numpad 1
+5/16/25 9:48:50p Law'n St'ple nods and smiles at Squib.
+5/16/25 9:49:04p Shadowmutt pants.
+5/16/25 9:49:28p Crius yells, "It’s 8 o’clock, and all’s well."
+5/16/25 9:49:30p * healing Kin 
+5/16/25 9:49:30p •The player must be in the same area.
+5/16/25 9:49:33p Crius yells, "It looks pretty quiet at the Southern River Delta."
+5/16/25 9:49:43p Koppi yells, "Phroon reports: Traveller's Advisory: The Portal is now in Fountfell."
+5/16/25 9:50:09p *Healer Mode
+5/16/25 9:50:09p *Type /hi help for more info
+5/16/25 9:50:09p Jeepers is now Clanning.
+5/16/25 9:50:11p * Healer Item set to caduceus 
+5/16/25 9:50:13p   added to Numpad 0
+5/16/25 9:50:33p Loom'Nir says, "Greetings, Lady Haffron."
+5/16/25 9:50:33p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+5/16/25 9:50:34p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+5/16/25 9:50:34p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+5/16/25 9:50:54p *Healer Mode
+5/16/25 9:50:54p *Type /hi help for more info
+5/16/25 9:51:08p  Kin added to Numpad 0
+5/16/25 9:52:16p Ace is now Clanning.
+5/16/25 9:52:43p Preaclusio II is now Clanning.
+5/16/25 9:53:09p Preaclusio II mends a pair of pants.
+5/16/25 9:53:14p Preaclusio II mends a shirt.
+5/16/25 9:53:31p •••
+5/16/25 9:53:31p You have been idle for too long.
+5/16/25 9:53:31p Please do something to avoid being disconnected.
+5/16/25 9:53:31p •••
+5/16/25 9:53:34p You have 236 coins.
+5/16/25 9:53:38p Preaclusio II is no longer Clanning.
+5/16/25 9:54:03p You have 236 coins.
+5/16/25 9:54:54p Koppi yells, "Prowl reports: Kudos to the Puddleby Civic Beautification Society for sprucing up town center and making that beautiful park! Well done! Who do I donate to?"
+5/16/25 9:55:22p Loom'Nir says, "Greetings, Lord Jeepers."
+5/16/25 9:55:23p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+5/16/25 9:55:23p Loom'Nir says, "Brooke Britney hired us to renovate the place."
+5/16/25 9:55:23p Loom'Nir says, "We're off to a strong start with the funds from the benefit concert."
+5/16/25 9:55:24p Loom'Nir says, "But it looks like it's going to be a difficult task."
+5/16/25 9:55:36p Haffron says, "yo"
+5/16/25 9:55:43p * Healer Item set to caduceus 
+5/16/25 9:55:45p Shadowmutt growls, "Grrr."
+5/16/25 9:55:46p  Haffron added to Numpad 1
+5/16/25 9:55:47p Jeepers says, "Ayo"
+5/16/25 9:55:54p * healing  
+5/16/25 9:55:57p Shadowmutt growls, "Woof!"
+5/16/25 9:55:59p Shadowmutt growls, "Grrr."
+5/16/25 9:56:04p Aerindius is now Clanning.
+5/16/25 9:56:06p Jeepers ponders, "better get comfy for this"
+5/16/25 9:56:08p *Healer Mode
+5/16/25 9:56:08p *Type /hi help for more info
+5/16/25 9:56:11p * Healer Item set to caduceus 
+5/16/25 9:56:17p  Haffron added to Numpad 0
+5/16/25 9:56:19p Aerindius is no longer Clanning.
+5/16/25 9:56:23p Shadowmutt growls, "Grrr."
+5/16/25 9:56:25p * healing  
+5/16/25 9:56:28p * healing Haffron 
+5/16/25 9:56:31p •You sense healing energy from Jeepers.
+5/16/25 9:56:33p * healing  
+5/16/25 9:56:34p * healing Haffron 
+5/16/25 9:56:37p * Healing Jeepers 
+5/16/25 9:56:41p •You do not have enough spiritual energy.
+5/16/25 9:56:51p * healing  
+5/16/25 9:56:53p * healing Haffron 
+5/16/25 9:56:54p * healing  
+5/16/25 9:56:56p * healing Haffron 
+5/16/25 9:57:26p *Healer Mode
+5/16/25 9:57:26p *Type /hi help for more info
+5/16/25 9:57:28p * Healer Item set to caduceus 
+5/16/25 9:57:33p  Haffron added to Numpad 0
+5/16/25 9:57:39p * healing  
+5/16/25 9:57:48p * healing Haffron 
+5/16/25 9:57:52p * healing  
+5/16/25 9:57:53p * healing Haffron 
+5/16/25 9:58:07p * healing  
+5/16/25 9:59:15p Law'n St'ple nods and smiles at Haffron.
+5/16/25 9:59:35p * healing Haffron 
+5/16/25 10:00:05p Koppi yells, "Prowl reports: Kudos to the Puddleby Civic Beautification Society for sprucing up town center and making that beautiful park! Well done! Who do I donate to?"
+5/16/25 10:00:10p *Healer Mode
+5/16/25 10:00:10p *Type /hi help for more info
+5/16/25 10:00:14p * Healer Item set to caduceus 
+5/16/25 10:00:19p  Unholy added to Numpad 0
+5/16/25 10:00:53p *Healer Mode
+5/16/25 10:00:53p *Type /hi help for more info
+5/16/25 10:00:55p * Healer Item set to caduceus 
+5/16/25 10:01:00p Haffron says, "sad tale foundry using ai writing tools"
+5/16/25 10:01:00p  Haffron added to Numpad 0
+5/16/25 10:01:01p Azriel is now Clanning.
+5/16/25 10:01:07p * healing Haffron 
+5/16/25 10:02:44p Law'n St'ple says, "Greetings, Lord Squib."
+5/16/25 10:02:46p Squib says, "Hello, Law'n St'ple"
+5/16/25 10:02:58p *Healer Mode
+5/16/25 10:02:58p *Type /hi help for more info
+5/16/25 10:03:00p * Healer Item set to caduceus 
+5/16/25 10:03:04p  Haffron added to Numpad 0
+5/16/25 10:03:07p * healing Haffron 
+5/16/25 10:03:10p * healing Haffron 
+5/16/25 10:03:11p * healing Haffron 
+5/16/25 10:03:18p You equip your roguewood club.
+5/16/25 10:04:00p Unholy says, "hmm"
+5/16/25 10:04:05p Crius yells, "It’s 9 o’clock, and all’s well."
+5/16/25 10:04:10p Crius yells, "There’s good hunting on Centaur Island."
+5/16/25 10:05:13p Tasus is no longer Clanning.
+5/16/25 10:05:15p Serius is no longer Clanning.
+5/16/25 10:05:16p Koppi yells, "Athl reports: I can safely report that there will be an inquest into Ranoora and his deceitful business practices within the halls of the casino. Ofcourse this is pure speculation, and I have no proof... But my whiskers are tinglin'."
+5/16/25 10:05:34p  Jeepers added to Numpad 1
+5/16/25 10:05:45p  haff added to Numpad 4
+5/16/25 10:05:52p Unholy says, "hmm"
+5/16/25 10:06:09p You have 236 coins.
+5/16/25 10:06:20p Unholy says, "oh right no fancy stuff"
+5/16/25 10:06:28p You equip your caduceus.
+5/16/25 10:06:28p * healing Haffron 
+5/16/25 10:06:50p Unholy says, "https://pastebin.com/hZ63vuqZ"
+5/16/25 10:06:55p Unholy says, "numpad healer"
+5/16/25 10:09:19p You have 236 coins.
+5/16/25 10:10:27p Koppi yells, "Prowl reports: Kudos to the Puddleby Civic Beautification Society for sprucing up town center and making that beautiful park! Well done! Who do I donate to?"
+5/16/25 10:12:35p You have 236 coins.
+5/16/25 10:12:54p *Healer Mode
+5/16/25 10:12:54p *Type /hi help for more info
+5/16/25 10:12:58p * Healer Item set to caduceus 
+5/16/25 10:13:12p  Jeepers added to Numpad 0
+5/16/25 10:13:38p  Haffron added to Numpad 1
+5/16/25 10:13:44p Unholy says, "nice"
+5/16/25 10:14:22p *Healer Mode
+5/16/25 10:14:22p *Type /hi help for more info
+5/16/25 10:14:25p * Healer Item set to caduceus 
+5/16/25 10:14:29p  Haffron added to Numpad 0
+5/16/25 10:15:38p Koppi yells, "Athl reports: I can safely report that there will be an inquest into Ranoora and his deceitful business practices within the halls of the casino. Ofcourse this is pure speculation, and I have no proof... But my whiskers are tinglin'."
+5/16/25 10:15:57p Unholy says, "just updated it be bit facnyer"
+5/16/25 10:16:06p Unholy says, "heh"
+5/16/25 10:17:33p You have 236 coins.
+5/16/25 10:17:48p Shadowmutt growls, "Grrr."
+5/16/25 10:17:50p Unholy says, "i 100% should put the name check into a fuction, but meh"
+5/16/25 10:18:46p Shadowmutt growls, "Grrr."
+5/16/25 10:18:48p Crius yells, "It’s 10 o’clock, and all’s well."
+5/16/25 10:18:51p Shadowmutt growls, "Woof!"
+5/16/25 10:18:52p Crius yells, "It looks pretty quiet at the Southern River Delta."
+5/16/25 10:19:09p Law'n St'ple nods and smiles at Haffron.
+5/16/25 10:20:06p  Jeepers added to thank list
+5/16/25 10:20:09p  Haffron added to thank list
+5/16/25 10:20:11p • MACRO Execution Error
+'end' not a defined function.
+5/16/25 10:20:11p • MACRO call end
+5/16/25 10:20:42p You have 236 coins.
+5/16/25 10:20:49p Koppi yells, "Athl reports: I can safely report that there will be an inquest into Ranoora and his deceitful business practices within the halls of the casino. Ofcourse this is pure speculation, and I have no proof... But my whiskers are tinglin'."
+5/16/25 10:21:20p Law'n St'ple nods and smiles at Squib.
+5/16/25 10:21:22p (Squib's eyes light up hopefully)
+5/16/25 10:23:09p *Healer Mode
+5/16/25 10:23:09p *Type /hi help for more info
+5/16/25 10:23:13p  Jeepers added to thank list
+5/16/25 10:23:16p *   is already on the thank list
+5/16/25 10:24:14p *Healer Mode
+5/16/25 10:24:14p *Type /hi help for more info
+5/16/25 10:24:16p You have 236 coins.
+5/16/25 10:24:18p * Healer Item set to caduceus 
+5/16/25 10:24:23p  Jeepers added to thank list
+5/16/25 10:24:25p *   is already on the thank list
+5/16/25 10:26:00p Koppi yells, "Prowl reports: Kudos to the Puddleby Civic Beautification Society for sprucing up town center and making that beautiful park! Well done! Who do I donate to?"
+5/16/25 10:27:28p You have 236 coins.
+5/16/25 10:28:25p Azriel is no longer Clanning.
+5/16/25 10:28:31p *Healer Mode
+5/16/25 10:28:31p *Type /hi help for more info
+5/16/25 10:28:33p  Jeepers added to thank list
+5/16/25 10:28:35p * Jeepers  is already on the thank list
+5/16/25 10:30:21p Loom'Nir says, "Greetings, Lord Ace."
+5/16/25 10:30:29p Unholy says, "heh"
+5/16/25 10:31:11p Koppi yells, "Athl reports: I can safely report that there will be an inquest into Ranoora and his deceitful business practices within the halls of the casino. Ofcourse this is pure speculation, and I have no proof... But my whiskers are tinglin'."
+5/16/25 10:31:43p You have 236 coins.
+5/16/25 10:33:25p Crius yells, "It’s 11 o’clock, and all’s well."
+5/16/25 10:33:30p Crius yells, "It looks pretty quiet at the Southern River Delta."
+5/16/25 10:34:54p You helped slaughter a Feral.
+5/16/25 10:34:54p * You recover the Feral fur, worth 1c.
+5/16/25 10:34:56p You have 236 coins.
+5/16/25 10:35:19p *Healer Mode
+5/16/25 10:35:19p *Type /hi help for more info
+5/16/25 10:35:22p * Healer Item set to caduceus 
+5/16/25 10:35:24p You have 236 coins.
+5/16/25 10:35:27p  Jeepers added to Karma list
+5/16/25 10:35:29p * Jeepers is already on the Karma list.
+5/16/25 10:35:33p  Haffron added to Karma list
+5/16/25 10:35:35p  Ace added to Karma list
+5/16/25 10:35:42p Capitan is now Clanning.
+5/16/25 10:35:43p * Karma Message set to  . 
+5/16/25 10:35:48p * Auto Thanker Online!
+5/16/25 10:35:48p You gave signed good karma to Jeepers, .
+5/16/25 10:35:52p Capitan is no longer Clanning.
+5/16/25 10:36:22p Koppi yells, "Phroon reports: Traveller's Advisory: The Portal is now in Fountfell."
+5/16/25 10:38:30p You have 236 coins.
+5/16/25 10:41:33p Koppi yells, "Prowl reports: Kudos to the Puddleby Civic Beautification Society for sprucing up town center and making that beautiful park! Well done! Who do I donate to?"
+5/16/25 10:41:41p You have 236 coins.
+5/16/25 10:41:49p You have no karma to give.
+5/16/25 10:43:16p Shadowmutt growls, "Grrr."
+5/16/25 10:43:19p Shadowmutt rolls on the ground.
+5/16/25 10:43:34p Shadowmutt growls, "Grrr."
+5/16/25 10:43:55p Hong Kong Fooey is now Clanning.
+5/16/25 10:44:14p Tuzar Bloodblade is now Clanning.
+5/16/25 10:44:31p Nisse is now Clanning.
+5/16/25 10:44:36p Fury is now Clanning.
+5/16/25 10:44:36p Glaurung is now Clanning.
+5/16/25 10:44:45p Hong Kong Fooey is no longer Clanning.
+5/16/25 10:44:56p You have 236 coins.
+5/16/25 10:45:16p Zhargon is now Clanning.
+5/16/25 10:45:20p Sentinel yells, "The Emperor keeps watch on all subjects."
+5/16/25 10:46:44p Koppi yells, "Phroon reports: Traveller's Advisory: The Portal is now in Fountfell."
+5/16/25 10:47:49p You gave signed good karma to Ace, .
+5/16/25 10:48:08p Crius yells, "It’s Midnight on Lundi, the 40th day of Summer in the 641st year of the Ascendancy, and all’s well."
+5/16/25 10:48:08p • It’s Midnight on Lundi, the 40th day of Summer in the 641st year of the Ascendancy, and all’s well.
+5/16/25 10:48:13p You have 236 coins.
+5/16/25 10:48:13p Crius yells, "It looks pretty quiet at the Southern River Delta."
+5/16/25 10:49:00p Loom'Nir says, "Greetings, Lord Jeepers."
+5/16/25 10:49:01p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+5/16/25 10:49:02p Loom'Nir says, "Greetings, Lord Jeepers."
+5/16/25 10:49:03p Loom'Nir says, "Greetings, Lord Jeepers."
+5/16/25 10:49:04p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+5/16/25 10:49:05p Loom'Nir says, "Greetings, Lord Jeepers."
+5/16/25 10:49:05p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+5/16/25 10:49:06p Loom'Nir says, "Greetings, Lord Jeepers."
+5/16/25 10:49:07p Loom'Nir says, "Greetings, Lord Jeepers."
+5/16/25 10:49:07p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+5/16/25 10:49:09p Loom'Nir says, "Greetings, Lord Jeepers."
+5/16/25 10:51:30p You have 236 coins.
+5/16/25 10:51:55p Koppi yells, "Athl reports: I can safely report that there will be an inquest into Ranoora and his deceitful business practices within the halls of the casino. Ofcourse this is pure speculation, and I have no proof... But my whiskers are tinglin'."
+5/16/25 10:53:25p * Healing Haffron 
+5/16/25 10:53:33p * Healing Unholy 
+5/16/25 10:53:33p •You cannot use your caduceus on yourself.
+5/16/25 10:53:34p You equip your moonstone.
+5/16/25 10:53:36p * Healing Haffron 
+5/16/25 10:53:36p You equip your caduceus.
+5/16/25 10:53:37p You must equip your moonstone before it can be used.
+5/16/25 10:53:49p You gave signed good karma to Jeepers, .
+5/16/25 10:54:01p You just received anonymous good karma.
+5/16/25 10:54:27p Dinsdale is now Clanning.
+5/16/25 10:54:39p Kahn St'ple nods and smiles at Ace.
+5/16/25 10:54:50p You have 236 coins.
+5/16/25 10:57:06p Koppi yells, "Athl reports: I can safely report that there will be an inquest into Ranoora and his deceitful business practices within the halls of the casino. Ofcourse this is pure speculation, and I have no proof... But my whiskers are tinglin'."
+5/16/25 10:57:19p • /SLEEP when you wish to begin studying.
+5/16/25 10:57:22p • /SLEEP when you wish to begin studying.
+5/16/25 10:57:28p Asterru says, "Unholy, you are well on your way to enlightenment. Think of Proximus."
+5/16/25 10:57:28p * |▰▰▰▰▰▰════ | 62%-75%
+5/16/25 10:57:32p Use \SLEEP again when you return.
+5/16/25 10:57:33p You are done adventuring for a while and will be staying here.
+5/16/25 10:57:33p You have been disconnected from Clan Lord.
+5/16/25 10:57:34p • You will benefit from staying here while you are off-line.
+5/16/25 10:57:34p *** We are no longer connected to the Clan Lord game server. ***

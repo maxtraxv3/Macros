@@ -1,0 +1,1003 @@
+
+6/13/25 2:16:09a * Your pair of pants named “dark grey” is in very good condition.
+6/13/25 2:16:09a * Your pair of shoes named “red” is in very good condition.
+6/13/25 2:16:09a * Your shirt named “dark grey” is in very good condition.
+6/13/25 2:16:09a Welcome to Clan Lord, Magnic!
+6/13/25 2:16:09a Type \HELP for a list of commands.
+6/13/25 2:16:09a • You have been charged 30 coins for advanced studies.
+6/13/25 2:16:09a • You gain experience from your recent studies.
+6/13/25 2:16:10a Magnic is now Clanning.
+6/13/25 2:16:10a You have been studying for 23 hours, 46 minutes.
+6/13/25 2:16:12a It's 1:06am on Soldi, day 61 of Autumn, 641.
+6/13/25 2:16:14a You are the only member of Black Phoenix clanning.
+6/13/25 2:16:14a • What’s New: https://deltatao.com/clanlord/news
+6/13/25 2:16:16a Friends online: none.
+6/13/25 2:16:24a * Tip of the day: Spirit pulses are experience awards. (Use /OPTIONS to turn tips off.)
+6/13/25 2:19:30a You have 3399 coins.
+6/13/25 2:19:36a Koppi yells, "Salandra reports: Collecting stones, logs, and dirt. The first two will get lugged out to the builder in Lugu's Keep. The latter will go to <mumble mumble>."
+6/13/25 2:22:35a Chastity is now Clanning.
+6/13/25 2:22:54a You have 3399 coins.
+6/13/25 2:23:18a Onashi is now Clanning.
+6/13/25 2:23:35a (Onashi waves)
+6/13/25 2:23:39a Bonesy bats at a leaf.
+6/13/25 2:24:47a Koppi yells, "Salandra reports: Collecting stones, logs, and dirt. The first two will get lugged out to the builder in Lugu's Keep. The latter will go to <mumble mumble>."
+6/13/25 2:26:13a You have 3399 coins.
+6/13/25 2:28:39a Dae Fenris is now Clanning.
+6/13/25 2:29:01a  Dae Fenris added to Karma list
+6/13/25 2:29:02a You begin sharing your experiences with Dae Fenris.
+6/13/25 2:29:19a Crius yells, "It’s 2 o’clock, and all’s well."
+6/13/25 2:29:24a Crius yells, "It looks pretty quiet in a Windspinner Monastery."
+6/13/25 2:29:36a You have 3399 coins.
+6/13/25 2:29:40a * Karma Message set to  . 
+6/13/25 2:29:58a Koppi yells, "Salandra reports: Collecting stones, logs, and dirt. The first two will get lugged out to the builder in Lugu's Keep. The latter will go to <mumble mumble>."
+6/13/25 2:30:09a Shadowmutt growls, "Grrr."
+6/13/25 2:30:20a Shadowmutt growls, "Grrr."
+6/13/25 2:30:30a Melisande is now Clanning.
+6/13/25 2:30:32a Shadowmutt growls, "Grrr."
+6/13/25 2:31:22a Kahn St'ple says, "Greetings, Lord Donk."
+6/13/25 2:32:54a You have 3399 coins.
+6/13/25 2:33:05a Donk says, "beer"
+6/13/25 2:34:49a Noivad is now Clanning.
+6/13/25 2:35:05a (Donk waves.)
+6/13/25 2:35:09a (Donk waves.)
+6/13/25 2:35:09a Koppi yells, "Salandra reports: Collecting stones, logs, and dirt. The first two will get lugged out to the builder in Lugu's Keep. The latter will go to <mumble mumble>."
+6/13/25 2:35:09a Onashi says, "yo"
+6/13/25 2:35:13a Noivad says, "hi all"
+6/13/25 2:35:27a Magnic says, "hi"
+6/13/25 2:36:07a Taryn is now Clanning.
+6/13/25 2:36:17a You have 3399 coins.
+6/13/25 2:37:08a Donk says, "I guess Slyph still working the cheesestand at some convention."
+6/13/25 2:37:25a  Taryn added to Karma list
+6/13/25 2:37:25a You begin sharing your experiences with Taryn.
+6/13/25 2:37:25a You are sharing experiences with Taryn and Dae Fenris.
+6/13/25 2:39:36a You have 3399 coins.
+6/13/25 2:40:20a Koppi yells, "Salandra reports: Collecting stones, logs, and dirt. The first two will get lugged out to the builder in Lugu's Keep. The latter will go to <mumble mumble>."
+6/13/25 2:40:42a Donk ponders, "can't pull critters (pets)?"
+6/13/25 2:40:51a Noivad says, "I got my little 3D printer printing again"
+6/13/25 2:40:55a Magnic ponders, "/pull /pet"
+6/13/25 2:41:06a Donk ponders, "/pet is not in the lands"
+6/13/25 2:41:26a Magnic asks, "disabled?"
+6/13/25 2:41:43a Donk says, "ya seems so"
+6/13/25 2:42:00a Donk says, "maybe not doing comand right"
+6/13/25 2:42:13a Bonesy's ears perk up.
+6/13/25 2:42:15a \PULL <PERSON> exchanges places with a nearby person.
+6/13/25 2:42:15a  \pull /critter to pull a nearby pet.
+6/13/25 2:42:17a Lorikeet is now Clanning.
+6/13/25 2:42:17a Donk says, "heh"
+6/13/25 2:42:18a Onashi says, "still works"
+6/13/25 2:42:19a Onashi says, "./pull /pet"
+6/13/25 2:42:24a Magnic says, "changed"
+6/13/25 2:42:36a Donk says, "oh"
+6/13/25 2:42:42a '/critter to pull a nearby pet.' is not in the lands.
+6/13/25 2:42:43a (Lorikeet waves.)
+6/13/25 2:42:46a (Onashi waves)
+6/13/25 2:42:47a Noivad says, "works"
+6/13/25 2:42:47a Magnic says, ".\pull /critter to pull a nearby pet."
+6/13/25 2:42:48a Donk says, "was trying \pull \pet"
+6/13/25 2:42:51a Noivad says, "works"
+6/13/25 2:42:51a You have 3399 coins.
+6/13/25 2:42:55a Onashi says, "poor kitty is getting yanked all over the place xD"
+6/13/25 2:43:03a  Lorikeet added to Karma list
+6/13/25 2:43:03a Chmee is now Clanning.
+6/13/25 2:43:03a You begin sharing your experiences with Lorikeet.
+6/13/25 2:43:03a You are sharing experiences with Lorikeet, Taryn and Dae Fenris.
+6/13/25 2:43:27a (Donk waves.)
+6/13/25 2:43:32a (Chmee flicks his ears in greeting)
+6/13/25 2:43:37a Magnic ponders, "/pull ? <--"
+6/13/25 2:43:58a Crius yells, "It’s 3 o’clock, and all’s well."
+6/13/25 2:44:03a Crius yells, "It looks pretty quiet in a Windspinner Monastery."
+6/13/25 2:44:07a Donk says, "got it"
+6/13/25 2:44:50a Chastity is no longer Clanning.
+6/13/25 2:45:14a Donk asks, "hornets still off the menu?"
+6/13/25 2:45:19a Chmee says, "4 or 5 healers"
+6/13/25 2:45:23a Chmee asks, "4 or 5 healers?"
+6/13/25 2:45:27a Lorikeet says, "Yes unless it's too terrible"
+6/13/25 2:45:31a Koppi yells, "Salandra reports: Collecting stones, logs, and dirt. The first two will get lugged out to the builder in Lugu's Keep. The latter will go to <mumble mumble>."
+6/13/25 2:45:38a Donk says, "dunno aurelie"
+6/13/25 2:45:41a A monster growls, "Mrrrow?"
+6/13/25 2:45:49a (Bashak counts)
+6/13/25 2:45:52a Hashak mumbles.
+6/13/25 2:45:54a Magnic says, "heh"
+6/13/25 2:46:04a You have 3399 coins.
+6/13/25 2:46:09a Lorikeet asks, "Melisande planning to come today?"
+6/13/25 2:46:23a Bashak is no longer Clanning.
+6/13/25 2:46:26a  Hashak added to Karma list
+6/13/25 2:46:28a You begin sharing your experiences with Hashak.
+6/13/25 2:46:28a You are sharing experiences with Hashak, Lorikeet, Taryn and Dae Fenris.
+6/13/25 2:46:29a Katreesa is now Clanning.
+6/13/25 2:46:36a Lorikeet says, "There's another one"
+6/13/25 2:46:40a (Donk grins.)
+6/13/25 2:46:45a Magnic asks, "?"
+6/13/25 2:46:49a Magnic says, "oh"
+6/13/25 2:46:51a Lorikeet says, "Maybe time to get Bash back ;)"
+6/13/25 2:46:57a Donk says, "LOL"
+6/13/25 2:47:01a Hashak says, "aw dangit"
+6/13/25 2:47:04a Lorikeet says, "No answer from Aurelie or Melisande"
+6/13/25 2:47:08a Lorikeet says, "wait a minute"
+6/13/25 2:47:14a Hashak says, "ok need water brb"
+6/13/25 2:47:19a Shadowmutt scratches at the ground briefly.
+6/13/25 2:47:20a Magnic says, "heh"
+6/13/25 2:47:28a Melisande says, "thanks but no"
+6/13/25 2:47:31a Lorikeet says, "=)"
+6/13/25 2:47:32a Shadowmutt growls, "Grrr."
+6/13/25 2:47:38a Noivad asks, "shall we?"
+6/13/25 2:47:41a Donk asks, "Kat?"
+6/13/25 2:47:43a Melisande exclaims, "but starting to get a boost!"
+6/13/25 2:47:45a Lorikeet says, "asking"
+6/13/25 2:47:48a Lorikeet says, "Think she was in OP"
+6/13/25 2:47:52a Donk says, "ah"
+6/13/25 2:47:58a Satris is no longer Clanning.
+6/13/25 2:48:48a Lorikeet says, "I think Kat is coming. That gives us 5 healers"
+6/13/25 2:48:52a Lorikeet says, "Let's go to pf"
+6/13/25 2:49:05a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 2:49:05a You equip your heartwood charm.
+6/13/25 2:49:06a • You gather your energy.
+6/13/25 2:49:08a • You speed up.
+6/13/25 2:49:14a You have 3399 coins.
+6/13/25 2:49:19a Donk growls, "yes"
+6/13/25 2:49:19a Captain Barnac asks, "Ah, Donk. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+6/13/25 2:49:20a Fird Lirden asks, "Ah, Magnic. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+6/13/25 2:49:20a Captain Barnac says, "Bah, away with you then, and quit wasting my time."
+6/13/25 2:49:21a Bear Knuckle asks, "Ah, Onashi. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+6/13/25 2:49:22a Onashi says, "yes"
+6/13/25 2:49:23a Bear Knuckle asks, "Ah, Dae Fenris. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+6/13/25 2:49:24a Fird Lirden asks, "I don't have all day. Do you want to rent one, yes or no?"
+6/13/25 2:49:24a Magnic growls, "yes"
+6/13/25 2:49:24a Dae Fenris says, "Yes"
+6/13/25 2:49:24a Captain Barnac asks, "Ah, Chmee. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+6/13/25 2:49:27a • You slow down to normal speed.
+6/13/25 2:49:28a • You return to your normal form.
+6/13/25 2:49:28a You slip your heartwood charm into your backpack.
+6/13/25 2:49:33a Donk rows through the roaring surf.
+6/13/25 2:49:37a Chmee rows through the roaring surf.
+6/13/25 2:49:38a You helped kill a Flotsam Meshra.
+6/13/25 2:49:48a * Auto Thanker Online!
+6/13/25 2:49:48a You gave signed good karma to Dae Fenris, .
+6/13/25 2:49:48a Catharsis is now Clanning.
+6/13/25 2:49:51a You helped kill a Delta Toad.
+6/13/25 2:49:53a  Katreesa added to Karma list
+6/13/25 2:49:54a You begin sharing your experiences with Katreesa.
+6/13/25 2:49:54a You are sharing experiences with Katreesa, Hashak, Lorikeet, Taryn and Dae Fenris.
+6/13/25 2:50:01a You slaughtered a Common Vulture.
+6/13/25 2:50:10a Lorikeet says, "4 healers"
+6/13/25 2:50:17a Lorikeet says, "I think Catharsis is coming instead of Kat"
+6/13/25 2:50:19a Catharsis thinks, "oh, oops can someone open?"
+6/13/25 2:50:19a Sazerac!
+6/13/25 2:50:21a Noivad says, "CW1"
+6/13/25 2:50:24a You are no longer sharing experiences with Katreesa.
+6/13/25 2:50:24a You are sharing experiences with Hashak, Lorikeet, Taryn and Dae Fenris.
+6/13/25 2:50:25a Noivad says, "oh ok"
+6/13/25 2:50:39a Lorikeet thinks, "where are you?"
+6/13/25 2:50:40a Onashi growls, "pick a spot, Chmee"
+6/13/25 2:50:49a Catharsis says, "thanks"
+6/13/25 2:50:52a Noivad says, "yeah move into a circle and hold it"
+6/13/25 2:50:54a Donk growls, "cw 1"
+6/13/25 2:51:00a Donk is sharing experiences with you.
+6/13/25 2:51:05a Onashi growls, "set"
+6/13/25 2:51:06a Noivad says, "CW1"
+6/13/25 2:51:09a Noivad says, "set√"
+6/13/25 2:51:10a Donk growls, "set"
+6/13/25 2:51:38a You helped kill a Delta Toad.
+6/13/25 2:51:42a You helped kill a Delta Toad.
+6/13/25 2:52:12a You equip your heartwood charm.
+6/13/25 2:52:12a • You gather your energy.
+6/13/25 2:52:14a Grand Master is now Clanning.
+6/13/25 2:52:15a • You speed up.
+6/13/25 2:52:17a Donk is no longer sharing experiences with you.
+6/13/25 2:52:18a * You need a breath of air!
+6/13/25 2:52:26a • You slow down to normal speed.
+6/13/25 2:52:27a You slip your heartwood charm into your backpack.
+6/13/25 2:52:27a You have 3394 coins.
+6/13/25 2:52:32a Poppins growls, "Mrowr!"
+6/13/25 2:52:35a You begin sharing your experiences with Onashi.
+6/13/25 2:52:35a You are sharing experiences with Onashi, Hashak, Lorikeet, Taryn and Dae Fenris.
+6/13/25 2:52:37a Onashi growls, "sec, need to use the loo"
+6/13/25 2:52:48a Noivad says, "thx"
+6/13/25 2:52:55a Taryn thinks to a group, "boith on chain"
+6/13/25 2:53:23a Hashak exclaims, "wew!"
+6/13/25 2:53:31a Catharsis says, "chain fu is on point"
+6/13/25 2:53:40a Hashak says, ":)"
+6/13/25 2:53:44a Catharsis says, ":)"
+6/13/25 2:53:47a Onashi thinks to you, "you'll need to unshare me and switch to Chmee =)"
+6/13/25 2:53:49a Chmee thinks to you, "share me please"
+6/13/25 2:53:50a Sazerac!
+6/13/25 2:53:54a Hashak says, "one more hit before the water and I woulda fallen"
+6/13/25 2:53:57a You are no longer sharing experiences with Onashi.
+6/13/25 2:53:57a You are sharing experiences with Hashak, Lorikeet, Taryn and Dae Fenris.
+6/13/25 2:54:01a (Chmee nods)
+6/13/25 2:54:01a Loom'Bir thinks, "Help us with the restoration of Lugubrion's Keep. Best prices given for your construction materials!"
+6/13/25 2:54:02a You begin sharing your experiences with Chmee.
+6/13/25 2:54:02a You are sharing experiences with Chmee, Hashak, Lorikeet, Taryn and Dae Fenris.
+6/13/25 2:54:04a Catharsis says, "yeah, you made it tho"
+6/13/25 2:54:12a Chmee thinks to you, "thanks :-)"
+6/13/25 2:54:12a You slaughtered a Pazu-Ohwi.
+6/13/25 2:54:31a You helped kill a Delta Toad.
+6/13/25 2:54:38a Katreesa is no longer Clanning.
+6/13/25 2:54:38a You helped kill a Delta Toad.
+6/13/25 2:54:52a The ground is scorched and pitted.
+6/13/25 2:54:56a You helped vanquish a Fickle Foxweir.
+6/13/25 2:54:57a * Chmee recovers the Fickle Foxweir fur, worth 26c. Your share is 2c.
+6/13/25 2:55:09a You helped vanquish a Fickle Foxweir.
+6/13/25 2:55:09a You helped vanquish a Fickle Foxweir.
+6/13/25 2:55:09a * You recover the Fickle Foxweir fur, worth 82c. Your share is 10c.
+6/13/25 2:55:23a Donk yells, "lasts?"
+6/13/25 2:55:26a •You sense healing energy from Hashak.
+6/13/25 2:55:27a Magnic says, "tan bear"
+6/13/25 2:55:28a Onashi says, "bebe ebb"
+6/13/25 2:55:35a Noivad yells, "tn bear last"
+6/13/25 2:55:35a Taryn thinks to a group, "n"
+6/13/25 2:55:41a Izax is now Clanning.
+6/13/25 2:55:43a You have 3406 coins.
+6/13/25 2:55:49a Donk growls, "go get it"
+6/13/25 2:55:49a Taryn is too far away for your explanation.
+6/13/25 2:55:49a You gave signed good karma to Taryn.
+6/13/25 2:55:50a Noivad exclaims, "tan bear last!"
+6/13/25 2:55:55a Catharsis says, "k"
+6/13/25 2:56:14a Onashi says, "tan bear for lasties in mtn"
+6/13/25 2:56:18a You helped vanquish a Hungry Mountain Bear.
+6/13/25 2:56:25a You helped vanquish a Hungry Mountain Bear.
+6/13/25 2:56:26a Izax is no longer Clanning.
+6/13/25 2:56:30a You helped vanquish a Fickle Foxweir.
+6/13/25 2:56:30a * Taryn recovers the Fickle Foxweir fur, worth 46c. Your share is 5c.
+6/13/25 2:56:32a You helped kill a Leafcutter Myrm.
+6/13/25 2:56:32a * Chmee recovers the Leafcutter Myrm mandibles, worth 12c. Your share is 1c.
+6/13/25 2:56:55a •You sense healing energy from Hashak.
+6/13/25 2:57:01a You helped vanquish a Hungry Mountain Bear.
+6/13/25 2:57:15a You helped vanquish a Hungry Mountain Bear.
+6/13/25 2:57:30a You helped vanquish a Wild Stallion.
+6/13/25 2:57:30a * Donk recovers the Wild Stallion fur, worth 5c. Your share is 1c.
+6/13/25 2:57:31a You helped vanquish a Fickle Foxweir.
+6/13/25 2:57:31a * Chmee recovers the Fickle Foxweir fur, worth 62c. Your share is 7c.
+6/13/25 2:57:35a Catharsis says, "ty"
+6/13/25 2:57:44a Taryn thinks to a group, "n"
+6/13/25 2:57:45a (Dae Fenris picks prickly burrs out of his clothes.)
+6/13/25 2:57:54a Taryn yells, "2"
+6/13/25 2:57:57a •You sense healing energy from Hashak.
+6/13/25 2:58:01a You helped vanquish a Mountain Wasp.
+6/13/25 2:58:09a •You sense healing energy from Hashak.
+6/13/25 2:58:30a You helped vanquish a Hungry Mountain Bear.
+6/13/25 2:58:34a Shobaffum is no longer Clanning.
+6/13/25 2:58:45a You helped vanquish a Hungry Mountain Bear.
+6/13/25 2:58:46a •You sense healing energy from Hashak.
+6/13/25 2:58:52a •You sense healing energy from Hashak.
+6/13/25 2:58:56a You have 3420 coins.
+6/13/25 2:59:04a You helped vanquish a Fickle Foxweir.
+6/13/25 2:59:05a •You sense healing energy from Taryn.
+6/13/25 2:59:09a Melisande is no longer Clanning.
+6/13/25 2:59:11a Shobaffum is now Clanning.
+6/13/25 2:59:14a * Auto Thanker Online!
+6/13/25 2:59:14a You have no karma to give.
+6/13/25 2:59:15a Taryn thinks to a group, "choke"
+6/13/25 2:59:33a Onashi says, "yo Shoba"
+6/13/25 2:59:37a Shobaffum says, "Hiya"
+6/13/25 2:59:40a Catharsis says, "hi"
+6/13/25 2:59:42a Donk yells, "come"
+6/13/25 2:59:44a Taryn yells, "5"
+6/13/25 2:59:55a •You sense healing energy from Hashak.
+6/13/25 2:59:56a •You sense healing energy from Taryn.
+6/13/25 3:00:06a You helped vanquish a Wild Stallion.
+6/13/25 3:00:09a You helped vanquish a Wild Stallion.
+6/13/25 3:00:17a You helped vanquish a Mountain Bison.
+6/13/25 3:00:17a * Chmee recovers the Mountain Bison fur, worth 30c. Your share is 3c.
+6/13/25 3:00:18a You helped vanquish a Sky Bison.
+6/13/25 3:00:18a * Chmee recovers the Sky Bison fur, worth 27c. Your share is 3c.
+6/13/25 3:00:24a •You sense healing energy from Taryn.
+6/13/25 3:00:24a Chmee growls, "the worst part of eating a sub is when you're chewing on one end and the stuffing comes out the other end."
+6/13/25 3:00:26a Noivad says, "very low"
+6/13/25 3:00:45a •You sense healing energy from Hashak.
+6/13/25 3:00:46a Lorikeet asks, "THen you say, "Fork it" ?"
+6/13/25 3:00:46a Donk says, "duper glue the other end"
+6/13/25 3:00:52a Catharsis says, ":)"
+6/13/25 3:00:52a (Onashi giggles)
+6/13/25 3:01:01a Chmee growls, "yeah, Lori, that's it :-)"
+6/13/25 3:01:05a Lorikeet says, "=)"
+6/13/25 3:01:14a Donk says, "messy sub is best sub"
+6/13/25 3:01:17a Taryn thinks to a group, "east"
+6/13/25 3:01:18a You helped vanquish a Shadowcat.
+6/13/25 3:01:29a You helped vanquish a Wild Stallion.
+6/13/25 3:01:36a Dae Fenris says, "My favorite part is crumbling up my chips into the stuff that fell out and eating it that way."
+6/13/25 3:01:38a You helped vanquish a Shadowcat Huntress.
+6/13/25 3:01:45a You helped vanquish a Mountain Bison.
+6/13/25 3:01:45a You helped vanquish a Mountain Wasp.
+6/13/25 3:01:45a Hashak has fallen to a Mountain Bison.
+6/13/25 3:01:47a (Chmee chuckles)
+6/13/25 3:01:48a Catharsis says, "ty"
+6/13/25 3:01:50a You have no karma to give.
+6/13/25 3:01:54a Onashi growls, "the key is, though, what kind of chips??"
+6/13/25 3:01:55a Hashak is no longer fallen.
+6/13/25 3:02:02a Donk says, "fried oyster poboy is my fav"
+6/13/25 3:02:08a Onashi growls, "because the only correct answer is salt and vinegar ;)"
+6/13/25 3:02:12a Dae Fenris says, "Depends on the sammich"
+6/13/25 3:02:13a Chmee growls, "Miss Vickie's Smokehouse BBQ chips ftw"
+6/13/25 3:02:14a You helped vanquish a Mountain Wasp.
+6/13/25 3:02:14a You have 3426 coins.
+6/13/25 3:02:17a •You sense healing energy from Hashak.
+6/13/25 3:02:26a •You sense healing energy from Hashak.
+6/13/25 3:02:35a Donk yells, "beer"
+6/13/25 3:02:43a Taryn yells, "east"
+6/13/25 3:02:45a Dae Fenris says, "I like spicy dill."
+6/13/25 3:02:52a Onashi growls, "ooo that does sound good"
+6/13/25 3:03:00a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:03:03a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/13/25 3:03:03a Taryn yells, "4"
+6/13/25 3:03:04a • You return to your normal form.
+6/13/25 3:03:09a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:03:12a •You do not have enough balance to take full advantage of your gossamer training.
+6/13/25 3:03:13a Donk says, "lol"
+6/13/25 3:03:15a You helped vanquish a Wild Stallion.
+6/13/25 3:03:15a * Noivad recovers the Wild Stallion fur, worth 15c. Your share is 2c.
+6/13/25 3:03:17a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:03:18a • You return to your normal form.
+6/13/25 3:03:28a Donk growls, "lol"
+6/13/25 3:03:32a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:03:41a • You return to your normal form.
+6/13/25 3:03:47a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:03:47a You helped vanquish a Shadowcat Huntress.
+6/13/25 3:03:47a * Lorikeet recovers the Shadowcat Huntress fur, worth 65c. Your share is 6c.
+6/13/25 3:03:48a You helped vanquish a Starstag.
+6/13/25 3:03:48a * Taryn recovers the Starstag fur, worth 3c. Your share is 1c.
+6/13/25 3:03:52a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/13/25 3:03:52a • You return to your normal form.
+6/13/25 3:03:52a •You do not have enough balance to take full advantage of your gossamer training.
+6/13/25 3:03:52a You helped vanquish a Starstag.
+6/13/25 3:03:52a * Donk recovers the Starstag fur, worth 22c. Your share is 2c.
+6/13/25 3:03:55a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/13/25 3:03:56a Magnic has fallen to a Wild Stallion.
+6/13/25 3:04:01a Hashak has fallen to a Starstag.
+6/13/25 3:04:07a Dae Fenris starts dragging you.
+6/13/25 3:04:11a Catharsis says, "ouch, my pretty kitty face"
+6/13/25 3:04:18a Hashak is no longer fallen.
+6/13/25 3:04:35a Catharsis says, "ty"
+6/13/25 3:04:35a Taryn yells, "3"
+6/13/25 3:04:40a •You sense healing energy from Hashak.
+6/13/25 3:04:40a You helped vanquish a Wild Stallion.
+6/13/25 3:04:41a * Chmee recovers the Wild Stallion fur, worth 33c. Your share is 3c.
+6/13/25 3:04:45a Chmee has fallen to a Starstag.
+6/13/25 3:05:03a Chmee is no longer fallen.
+6/13/25 3:05:10a •You sense healing energy from Taryn.
+6/13/25 3:05:15a You have given this character as much good karma as is allowed. Wait for it to decay.
+6/13/25 3:05:16a * Taryn can no longer be thanked for now, removing form list.
+6/13/25 3:05:16a You gave signed good karma to Hashak, .
+6/13/25 3:05:31a You have 3440 coins.
+6/13/25 3:05:50a Lorikeet says, "Fortuna down to 180 hornets; Got 70 yesterday. Latest update :D"
+6/13/25 3:05:55a Onashi exclaims, "wow, nice!"
+6/13/25 3:05:56a Donk growls, "nice"
+6/13/25 3:06:01a Catharsis says, "nice"
+6/13/25 3:06:07a •You sense healing energy from Hashak.
+6/13/25 3:06:10a Onashi growls, "wow, nice!"
+6/13/25 3:06:22a You helped vanquish a Mountain Bison.
+6/13/25 3:06:53a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:06:57a You helped vanquish a Starstag.
+6/13/25 3:06:57a * Noivad recovers the Starstag fur, worth 58c. Your share is 6c.
+6/13/25 3:07:00a You helped vanquish a Starstag.
+6/13/25 3:07:00a * Taryn recovers the Starstag fur, worth 13c. Your share is 2c.
+6/13/25 3:07:01a • You return to your normal form.
+6/13/25 3:07:10a Taryn thinks to a group, "north"
+6/13/25 3:07:16a Catharsis says, "Ponies ermagerd"
+6/13/25 3:07:23a You helped kill a Flotsam Meshra.
+6/13/25 3:07:47a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:07:50a You gave signed good karma to Hashak, .
+6/13/25 3:07:51a You helped vanquish a Starstag.
+6/13/25 3:07:51a • You return to your normal form.
+6/13/25 3:07:51a Taryn yells, "south"
+6/13/25 3:08:01a Onashi thinks, "oh need a min in OP, brb"
+6/13/25 3:08:13a Taryn yells, "4"
+6/13/25 3:08:14a Dae Fenris yells, "Yip yip yip yip!"
+6/13/25 3:08:18a •You sense healing energy from Hashak.
+6/13/25 3:08:25a You helped vanquish a Giant River Lizard.
+6/13/25 3:08:28a You helped vanquish a Wild Stallion.
+6/13/25 3:08:32a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/13/25 3:08:32a Magnic has fallen to a Shadowcat Huntress.
+6/13/25 3:08:33a You helped vanquish a Wild Stallion.
+6/13/25 3:08:33a Sazerac!
+6/13/25 3:08:33a * Donk recovers the Wild Stallion fur, worth 32c. Your share is 4c.
+6/13/25 3:08:37a You helped vanquish a Shadowcat Huntress.
+6/13/25 3:08:47a You have 3452 coins.
+6/13/25 3:08:56a Chmee says, "I'm beginning to get an inkling of how Raven feels about xp on these hunts. :-)"
+6/13/25 3:09:14a Chmee says, "disp, disp, disp, slaughter, kill, kill"
+6/13/25 3:09:36a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/13/25 3:09:36a Magnic has fallen to a Mountain Bison.
+6/13/25 3:09:41a Hashak exclaims, "le'ts get Chmee some ranks!"
+6/13/25 3:09:42a You helped vanquish a Mountain Bison.
+6/13/25 3:09:43a •You sense healing energy from Hashak.
+6/13/25 3:09:43a Dae Fenris says, "Rude"
+6/13/25 3:09:46a (Catharsis giggles)
+6/13/25 3:09:50a Chmee says, "heheh"
+6/13/25 3:09:51a Catharsis says, "ty"
+6/13/25 3:09:52a You helped vanquish a Swarm of Bees.
+6/13/25 3:10:03a Chmee says, "I got yesterday's rank already today. :-)"
+6/13/25 3:10:10a •You sense healing energy from Hashak.
+6/13/25 3:10:13a Magnic says, "heh"
+6/13/25 3:10:14a •You learn to channel energy from the world more efficiently.
+6/13/25 3:10:14a Magnic says, "nice"
+6/13/25 3:10:26a Catharsis says, "xp from adventures"
+6/13/25 3:10:36a You helped vanquish a Hickory Giant.
+6/13/25 3:10:48a You helped vanquish a Sky Bison.
+6/13/25 3:10:52a Chmee has fallen to a Wild Stallion.
+6/13/25 3:10:53a You helped vanquish a Shadowcat Huntress.
+6/13/25 3:10:54a * Lorikeet recovers the Shadowcat Huntress fur, worth 82c. Your share is 10c.
+6/13/25 3:10:57a You helped vanquish a Wild Stallion.
+6/13/25 3:11:02a Chmee is no longer fallen.
+6/13/25 3:11:17a 'Katreesa' is not in the lands.
+6/13/25 3:11:17a * Katreesa will be removed from Karma list.
+6/13/25 3:11:18a You have no karma to give.
+6/13/25 3:11:55a Taryn thinks to a group, "s"
+6/13/25 3:12:05a You have 3462 coins.
+6/13/25 3:12:14a •You sense healing energy from Taryn.
+6/13/25 3:12:30a You helped slaughter a Hellebore.
+6/13/25 3:12:38a You helped vanquish a Sky Bison.
+6/13/25 3:12:44a Catharsis steps on a rotten tangleberry.
+6/13/25 3:12:59a •You sense healing energy from Hashak.
+6/13/25 3:13:00a •You sense healing energy from Taryn.
+6/13/25 3:13:01a You helped vanquish a Mountain Bison.
+6/13/25 3:13:07a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/13/25 3:13:08a Magnic has fallen to a Shadowcat Huntress.
+6/13/25 3:13:51a You have no karma to give.
+6/13/25 3:14:40a You helped vanquish a Mountain Bison.
+6/13/25 3:14:46a Catharsis says, "https://www.youtube.com/watch?v=HDCOOReXXOE"
+6/13/25 3:14:56a You helped vanquish a Mountain Bison.
+6/13/25 3:14:57a Chmee has fallen to a Lost Bear.
+6/13/25 3:15:08a You helped vanquish a Lost Bear.
+6/13/25 3:15:09a Chmee is no longer fallen.
+6/13/25 3:15:11a * You pick up 156 coins.
+6/13/25 3:15:11a * You gain experience.
+6/13/25 3:15:15a Onashi says, "nice one"
+6/13/25 3:15:16a You helped vanquish a Sky Bison.
+6/13/25 3:15:16a * Noivad recovers the Sky Bison fur, worth 101c. Your share is 11c.
+6/13/25 3:15:27a You have 3629 coins.
+6/13/25 3:15:36a •You sense healing energy from Hashak.
+6/13/25 3:15:39a Chmee exclaims, "boat fare plus!"
+6/13/25 3:15:45a Catharsis says, ":)"
+6/13/25 3:16:01a •You sense healing energy from Hashak.
+6/13/25 3:16:01a You helped vanquish a Wild Stallion.
+6/13/25 3:16:01a * Donk recovers the Wild Stallion fur, worth 15c. Your share is 1c.
+6/13/25 3:16:09a Taryn thinks to a group, "s"
+6/13/25 3:16:21a You helped slaughter a Hellebore.
+6/13/25 3:16:23a You helped slaughter a Hellebore.
+6/13/25 3:16:24a •You sense healing energy from Hashak.
+6/13/25 3:16:37a You helped slaughter a Hellebore.
+6/13/25 3:16:48a You helped vanquish a Mountain Bison.
+6/13/25 3:16:51a •You sense healing energy from Hashak.
+6/13/25 3:17:05a Donk yells, "surface lasties?"
+6/13/25 3:17:05a Onashi yells, "snowy surface lasties?"
+6/13/25 3:17:17a Onashi growls, "hearing none..."
+6/13/25 3:17:17a Donk asks, "none?"
+6/13/25 3:17:19a You gave signed good karma to Lorikeet, .
+6/13/25 3:17:20a (Onashi laughs)
+6/13/25 3:17:21a Noivad asks, "anything?"
+6/13/25 3:17:24a Lorikeet says, "Just cave"
+6/13/25 3:17:24a (Noivad laughs)
+6/13/25 3:17:24a Donk says, "none"
+6/13/25 3:17:26a Lorikeet says, "I guess"
+6/13/25 3:17:27a Donk growls, "none"
+6/13/25 3:17:31a Catharsis says, "I'm not a ranger, so"
+6/13/25 3:17:37a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:17:38a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/13/25 3:17:39a • You return to your normal form.
+6/13/25 3:17:40a You helped vanquish a Blizzard Greymyr.
+6/13/25 3:17:41a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:17:44a You helped vanquish a Frost Yorilla.
+6/13/25 3:17:51a Noivad yells, "I'm going to study ice'kin in cave"
+6/13/25 3:17:53a • You return to your normal form.
+6/13/25 3:17:55a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:18:00a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:18:01a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/13/25 3:18:01a Hashak says, "afk a sec"
+6/13/25 3:18:01a • You return to your normal form.
+6/13/25 3:18:02a You helped vanquish an Alpine Timber Feral.
+6/13/25 3:18:05a You helped vanquish a Glacier Bear.
+6/13/25 3:18:05a * Chmee recovers the Glacier Bear fur, worth 31c. Your share is 3c.
+6/13/25 3:18:07a You helped vanquish a Frost Yorilla.
+6/13/25 3:18:07a * Chmee recovers the Frost Yorilla fur, worth 81c. Your share is 8c.
+6/13/25 3:18:11a You helped vanquish an Alpine Timber Feral.
+6/13/25 3:18:36a You helped vanquish a Frost Foxweir.
+6/13/25 3:18:43a You helped vanquish a Frost Yorilla.
+6/13/25 3:18:45a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:18:45a You have 3641 coins.
+6/13/25 3:18:49a • You return to your normal form.
+6/13/25 3:18:53a You helped vanquish a Snowstag.
+6/13/25 3:18:53a * Noivad recovers the Snowstag fur, worth 15c. Your share is 1c.
+6/13/25 3:19:00a You helped vanquish an Alpine Timber Feral.
+6/13/25 3:19:00a * Taryn recovers the Alpine Timber Feral fur, worth 72c. Your share is 7c.
+6/13/25 3:19:05a •You are already in your normal form.
+6/13/25 3:19:05a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/13/25 3:19:06a Magnic has fallen to a Snowstag.
+6/13/25 3:19:14a •You sense healing energy from Taryn.
+6/13/25 3:19:52a You gave signed good karma to Lorikeet, .
+6/13/25 3:19:53a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:19:56a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/13/25 3:19:56a • You return to your normal form.
+6/13/25 3:20:01a You helped vanquish a Snowstag.
+6/13/25 3:20:02a * Chmee recovers the Snowstag fur, worth 5c. Your share is 1c.
+6/13/25 3:20:14a You helped vanquish a Frost Foxweir.
+6/13/25 3:20:18a Chmee growls, "bridge tournament this week. I made Life Master on Tuesday. :-)"
+6/13/25 3:20:20a •You sense healing energy from Hashak.
+6/13/25 3:20:21a Taryn asks, "Hashak back?"
+6/13/25 3:20:24a •You sense healing energy from Taryn.
+6/13/25 3:20:28a Hashak says, "mm hmm"
+6/13/25 3:20:32a Taryn thinks to a group, "north"
+6/13/25 3:20:32a Lorikeet says, "Sounds good whatever it is; congrats"
+6/13/25 3:20:34a Magnic asks, "?"
+6/13/25 3:20:53a You helped vanquish a Glacier Bear Cub.
+6/13/25 3:20:53a * Chmee recovers the Glacier Bear Cub fur, worth 11c. Your share is 1c.
+6/13/25 3:20:53a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:20:56a You helped vanquish a Snowstag.
+6/13/25 3:20:58a • You return to your normal form.
+6/13/25 3:21:03a You helped vanquish a Glacier Bear.
+6/13/25 3:21:07a Taryn yells, "skipping ledge, gather westside"
+6/13/25 3:21:13a You helped vanquish an Alpine Timber Feral.
+6/13/25 3:21:23a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:21:28a • You return to your normal form.
+6/13/25 3:21:32a You helped vanquish a Frost Yorilla.
+6/13/25 3:21:47a Donk yells, "goat, toise and icekin in cave"
+6/13/25 3:22:01a Onashi growls, "thoom ghost for me, please"
+6/13/25 3:22:09a You have 3651 coins.
+6/13/25 3:22:10a Chmee growls, "I got 11 goats last time I was in there. :-)"
+6/13/25 3:22:14a Donk yells, "thoomie, goat, toise and icekin in cave"
+6/13/25 3:22:16a Taryn thinks to a group, "west in"
+6/13/25 3:22:36a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:22:38a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/13/25 3:22:39a • You return to your normal form.
+6/13/25 3:22:40a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:22:41a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/13/25 3:22:42a • You return to your normal form.
+6/13/25 3:22:46a You helped vanquish a Damaged Spirit.
+6/13/25 3:22:51a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:22:51a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/13/25 3:22:52a • You return to your normal form.
+6/13/25 3:22:54a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/13/25 3:22:55a Magnic has fallen to a Damaged Spirit.
+6/13/25 3:23:01a Magnic says, "heh"
+6/13/25 3:23:08a Taryn yells, "out east"
+6/13/25 3:23:09a Hashak has fallen to a Frost Yorilla.
+6/13/25 3:23:14a Lorikeet starts dragging you.
+6/13/25 3:23:19a You have no karma to give.
+6/13/25 3:23:29a Onashi says, "oops, forgot to restock my chains yesterday after the last one broke"
+6/13/25 3:23:34a Lorikeet asks, "Isn't Ona on thooms?"
+6/13/25 3:23:36a Onashi says, "yes"
+6/13/25 3:23:42a Donk says, "ah, I remewmber you haveing that issue"
+6/13/25 3:23:43a Lorikeet says, "I don't think everyone knows"
+6/13/25 3:23:49a Lorikeet says, "LIke CHmee"
+6/13/25 3:23:51a Taryn says, "lms"
+6/13/25 3:23:52a Catharsis asks, "knows what?"
+6/13/25 3:23:54a Chmee asks, "?"
+6/13/25 3:23:55a Onashi says, "thoom lasties please, Chmee =)"
+6/13/25 3:23:57a Dae Fenris says, "Hashers smashers"
+6/13/25 3:23:58a Lorikeet says, "Lasty thooms"
+6/13/25 3:24:01a Donk says, "noivad gets freezes"
+6/13/25 3:24:02a Catharsis says, "ohh"
+6/13/25 3:24:12a Hashak is no longer fallen.
+6/13/25 3:24:16a Noivad says, "this sucks"
+6/13/25 3:24:34a Onashi growls, "thoom lasties please, Chmee =)"
+6/13/25 3:24:35a Onashi says, "."
+6/13/25 3:24:45a Catharsis says, "thank you"
+6/13/25 3:24:49a Onashi growls, "."
+6/13/25 3:24:49a Chmee says, "i thought so, but there were so many..."
+6/13/25 3:24:54a Onashi asks, "yes, and?"
+6/13/25 3:24:59a (Donk grins.)
+6/13/25 3:25:08a Catharsis says, "remember to thank a healer or two"
+6/13/25 3:25:11a Taryn says, "ok, I'll go in1st and run them"
+6/13/25 3:25:17a Onashi growls, "yes, and?"
+6/13/25 3:25:17a Donk says, "I'll suicide the bird to hold some thooms"
+6/13/25 3:25:18a Onashi says, "."
+6/13/25 3:25:27a You have 3651 coins.
+6/13/25 3:25:33a Donk says, "ok"
+6/13/25 3:25:35a Onashi says, "it's eminently manageable, I'm just waiting for tags xD"
+6/13/25 3:25:38a Chmee growls, "i thought so, but there were so many..."
+6/13/25 3:25:53a Hashak is too far away for your explanation.
+6/13/25 3:25:53a You gave signed good karma to Hashak.
+6/13/25 3:26:22a Satris is now Clanning.
+6/13/25 3:26:22a Taryn thinks to a group, "peel"
+6/13/25 3:26:46a Taryn yells, "cal have 4"
+6/13/25 3:26:49a Onashi yells, "bring"
+6/13/25 3:26:52a Catharsis says, "and rank"
+6/13/25 3:27:18a Onashi growls, "ooooo msg!"
+6/13/25 3:27:22a Donk growls, "nice"
+6/13/25 3:27:22a Magnic says, "nice"
+6/13/25 3:27:23a Catharsis says, "nice"
+6/13/25 3:27:24a (Chmee smiles)
+6/13/25 3:27:25a Taryn yells, "gather north"
+6/13/25 3:27:36a Noivad yells, "on kin"
+6/13/25 3:27:46a Taryn yells, "when it comes to goats, only luring one at a time"
+6/13/25 3:27:50a Donk yells, "thoomie, goat, kin toise"
+6/13/25 3:28:20a You helped vanquish a Glacier Bear.
+6/13/25 3:28:20a * Donk recovers the Glacier Bear fur, worth 8c. Your share is 1c.
+6/13/25 3:28:27a (Onashi fweeps)
+6/13/25 3:28:32a Taryn thinks to a group, "n stay in tunnel"
+6/13/25 3:28:36a Catharsis says, "Don't fear the fweeper"
+6/13/25 3:28:43a You have 3652 coins.
+6/13/25 3:28:44a You helped vanquish a Mauling Spirit.
+6/13/25 3:28:46a Sazerac!
+6/13/25 3:28:50a Onashi yells, "c"
+6/13/25 3:28:55a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:28:56a * You pick up 27 coins.
+6/13/25 3:28:56a * You gain experience.
+6/13/25 3:29:01a • You return to your normal form.
+6/13/25 3:29:04a You helped vanquish a Toisicle.
+6/13/25 3:29:06a You helped vanquish a Glacier Bear.
+6/13/25 3:29:08a You helped vanquish a Glacier Bear.
+6/13/25 3:29:20a You have no karma to give.
+6/13/25 3:29:31a Donk yells, "uty lasty, oh wait"
+6/13/25 3:29:38a Catharsis says, ":)"
+6/13/25 3:29:50a Taryn yells, "this alsty?"
+6/13/25 3:29:55a Onashi says, "yes"
+6/13/25 3:29:56a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:30:04a • You return to your normal form.
+6/13/25 3:30:07a You helped vanquish a Mauling Spirit.
+6/13/25 3:30:07a Onashi says, "kin, toise, goat, thoom lasties"
+6/13/25 3:30:12a You helped vanquish a Toisicle.
+6/13/25 3:30:23a Chmee growls, "teamwork xp"
+6/13/25 3:30:46a You helped vanquish a Glacier Bear.
+6/13/25 3:30:46a * Donk recovers the Glacier Bear fur, worth 9c. Your share is 1c.
+6/13/25 3:31:21a You helped vanquish a Mauling Spirit.
+6/13/25 3:31:28a Taryn yells, "adv"
+6/13/25 3:31:46a You helped vanquish a Glacier Bear.
+6/13/25 3:31:47a * Dae Fenris recovers the Glacier Bear fur, worth 14c. Your share is 2c.
+6/13/25 3:31:51a You helped vanquish a Mauling Spirit.
+6/13/25 3:31:54a You gave signed good karma to Dae Fenris, .
+6/13/25 3:31:54a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/13/25 3:31:54a Magnic has fallen to a Mauling Spirit.
+6/13/25 3:31:55a Chmee has fallen to a Mauling Spirit.
+6/13/25 3:32:01a You have 3682 coins.
+6/13/25 3:32:01a •You sense healing energy from Hashak.
+6/13/25 3:32:09a Chmee is no longer fallen.
+6/13/25 3:32:11a •You sense healing energy from Hashak.
+6/13/25 3:32:30a You helped vanquish a Mauling Spirit.
+6/13/25 3:32:40a You helped vanquish a Mauling Spirit.
+6/13/25 3:32:43a Donk growls, "can pendant?"
+6/13/25 3:32:46a Hashak says, "yup"
+6/13/25 3:32:53a •You sense healing energy from Hashak.
+6/13/25 3:33:04a Hashak says, "gotta take my pal to the doctor"
+6/13/25 3:33:24a Catharsis says, "You're a good dorf"
+6/13/25 3:33:39a You helped vanquish a Glacier Bear.
+6/13/25 3:33:39a * You recover the Glacier Bear fur, worth 35c. Your share is 4c.
+6/13/25 3:33:45a Hashak says, "I do my best"
+6/13/25 3:33:48a Catharsis says, ":)"
+6/13/25 3:34:23a Taryn thinks to a group, "south LORIKEET 1st :)"
+6/13/25 3:34:33a Onashi thinks, "bs"
+6/13/25 3:34:37a You helped vanquish a Glacier Bear.
+6/13/25 3:34:37a * Noivad recovers the Glacier Bear fur, worth 12c. Your share is 1c.
+6/13/25 3:34:45a •You sense healing energy from Taryn.
+6/13/25 3:35:03a You helped vanquish a Mauling Spirit.
+6/13/25 3:35:12a Noivad says, "hyold here"
+6/13/25 3:35:12a You have 3687 coins.
+6/13/25 3:35:21a You have no karma to give.
+6/13/25 3:35:23a You helped vanquish a Mauling Spirit.
+6/13/25 3:35:39a You helped vanquish a Glacier Bear.
+6/13/25 3:35:39a * Donk recovers the Glacier Bear fur, worth 27c. Your share is 3c.
+6/13/25 3:35:52a You helped vanquish a Mauling Spirit.
+6/13/25 3:36:30a Noivad ponders, "I always forget which mouse I'm using"
+6/13/25 3:36:31a Taryn yells, "fallen?"
+6/13/25 3:36:45a Lorikeet says, "sorry wasn't sure someone was there lol"
+6/13/25 3:36:49a (Noivad laughs)
+6/13/25 3:36:50a Lorikeet says, "thought it was a blood dot :D"
+6/13/25 3:36:57a Taryn yells, "don't adv"
+6/13/25 3:36:59a You helped vanquish a Glacier Bear.
+6/13/25 3:37:17a Chastity is now Clanning.
+6/13/25 3:37:18a Magnic asks, "she just said dont?"
+6/13/25 3:37:24a Onashi says, "lo, yes"
+6/13/25 3:37:25a (Onashi laughs yes)
+6/13/25 3:37:26a Taryn yells, "all"
+6/13/25 3:37:28a Onashi says, "lol, yes"
+6/13/25 3:37:29a (Catharsis nods)
+6/13/25 3:37:46a •You sense healing energy from Hashak.
+6/13/25 3:37:47a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:37:50a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/13/25 3:37:50a • You return to your normal form.
+6/13/25 3:37:52a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:37:54a You gave signed good karma to Lorikeet, .
+6/13/25 3:37:54a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/13/25 3:37:55a • You return to your normal form.
+6/13/25 3:37:55a Magnic has fallen to Giayl.
+6/13/25 3:38:07a •You sense healing energy from Hashak.
+6/13/25 3:38:08a You helped vanquish Giayl.
+6/13/25 3:38:09a * You pick up 234 coins.
+6/13/25 3:38:09a * You gain experience.
+6/13/25 3:38:11a Onashi growls, "noice"
+6/13/25 3:38:13a Dae Fenris exclaims, "Hoorah!"
+6/13/25 3:38:13a Noivad growls, "ok"
+6/13/25 3:38:13a Donk growls, "nice"
+6/13/25 3:38:25a Onashi says, "lol, Noivad is unsatisfied xD"
+6/13/25 3:38:26a •You sense healing energy from Hashak.
+6/13/25 3:38:29a You have 3924 coins.
+6/13/25 3:38:41a Dae Fenris starts dragging you.
+6/13/25 3:38:58a •You sense healing energy from Hashak.
+6/13/25 3:39:09a Katreesa is now Clanning.
+6/13/25 3:39:12a •You sense healing energy from Taryn.
+6/13/25 3:39:16a Taryn yells, "anything else?"
+6/13/25 3:39:23a Donk yells, "nada"
+6/13/25 3:39:28a Taryn thinks to a group, "reverse"
+6/13/25 3:39:28a Chmee ponders, "hmmmm"
+6/13/25 3:39:32a You equip your heartwood charm.
+6/13/25 3:39:32a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:39:33a • You gather your energy.
+6/13/25 3:39:35a • You speed up.
+6/13/25 3:39:49a Donk thinks, "need more goatz"
+6/13/25 3:40:01a • You slow down to normal speed.
+6/13/25 3:40:02a You slip your heartwood charm into your backpack.
+6/13/25 3:40:02a • You return to your normal form.
+6/13/25 3:40:32a Taryn yells, "1"
+6/13/25 3:40:43a Taryn says, "who on kin"
+6/13/25 3:40:46a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:40:46a Chmee ponders, "these are not goats"
+6/13/25 3:40:48a Donk yells, "noivad lasty"
+6/13/25 3:40:48a You helped vanquish a Mauling Spirit.
+6/13/25 3:40:49a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/13/25 3:40:49a • You return to your normal form.
+6/13/25 3:41:00a You helped vanquish an Ice'kin.
+6/13/25 3:41:13a •You sense healing energy from Hashak.
+6/13/25 3:41:13a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:41:22a You gave signed good karma to Hashak, .
+6/13/25 3:41:29a Hashak has fallen to an Ice'kin.
+6/13/25 3:41:32a You helped vanquish an Ice'kin.
+6/13/25 3:41:32a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/13/25 3:41:33a • You return to your normal form.
+6/13/25 3:41:33a Hashak is no longer fallen.
+6/13/25 3:41:36a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/13/25 3:41:36a Magnic has fallen to a Mauling Spirit.
+6/13/25 3:41:39a •You sense healing energy from Hashak.
+6/13/25 3:41:40a You helped vanquish a Mauling Spirit.
+6/13/25 3:41:46a You have 3924 coins.
+6/13/25 3:41:51a •You sense healing energy from Taryn.
+6/13/25 3:42:18a Taryn thinks to a group, "south"
+6/13/25 3:42:23a You helped vanquish a Glacier Bear.
+6/13/25 3:42:23a * Chmee recovers the Glacier Bear fur, worth 17c. Your share is 2c.
+6/13/25 3:42:23a •You sense healing energy from Hashak.
+6/13/25 3:42:42a You helped vanquish an Alpine Timber Feral.
+6/13/25 3:42:42a * Donk recovers the Alpine Timber Feral fur, worth 20c. Your share is 2c.
+6/13/25 3:42:43a •You sense healing energy from Hashak.
+6/13/25 3:42:50a (Noivad lasts donk!)
+6/13/25 3:42:55a Taryn thinks to a group, "east soon, rockers up cliff, shieldstoner 1st"
+6/13/25 3:43:19a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:43:23a • You return to your normal form.
+6/13/25 3:43:25a You helped vanquish a Snowstag.
+6/13/25 3:43:25a * Taryn recovers the Snowstag fur, worth 13c. Your share is 2c.
+6/13/25 3:43:38a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:43:42a You helped vanquish a Snowstag.
+6/13/25 3:43:42a * Chmee recovers the Snowstag fur, worth 31c. Your share is 3c.
+6/13/25 3:43:44a • You return to your normal form.
+6/13/25 3:43:54a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:43:55a You have no karma to give.
+6/13/25 3:43:55a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/13/25 3:43:56a • You return to your normal form.
+6/13/25 3:43:57a You helped vanquish a Blizzard Greymyr.
+6/13/25 3:44:03a •You sense healing energy from Hashak.
+6/13/25 3:44:28a You helped vanquish a Glacier Bear.
+6/13/25 3:44:28a * Chmee recovers the Glacier Bear fur, worth 11c. Your share is 1c.
+6/13/25 3:44:39a You helped vanquish a Frost Foxweir.
+6/13/25 3:44:39a * Noivad recovers the Frost Foxweir fur, worth 10c. Your share is 1c.
+6/13/25 3:44:50a Catharsis says, ":)"
+6/13/25 3:44:57a You have 3935 coins.
+6/13/25 3:45:02a Catharsis says, "some hard workin fens"
+6/13/25 3:45:11a Katreesa is no longer Clanning.
+6/13/25 3:45:12a (Chmee grins toothily)
+6/13/25 3:45:26a Taryn thinks to a group, "y3"
+6/13/25 3:45:26a Catharsis says, "Not you, Chmee"
+6/13/25 3:45:28a Taryn yells, "3"
+6/13/25 3:45:30a (Catharsis giggles)
+6/13/25 3:45:31a (Onashi laughs)
+6/13/25 3:45:33a Catharsis says, "the healers"
+6/13/25 3:45:36a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:45:43a • You return to your normal form.
+6/13/25 3:45:44a Dae Fenris exclaims, "Snubbed!"
+6/13/25 3:45:50a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:45:51a You helped vanquish a Blizzard Greymyr.
+6/13/25 3:45:53a • You return to your normal form.
+6/13/25 3:45:55a You helped vanquish a Mistral Kestrel.
+6/13/25 3:45:56a Catharsis says, "might have a bias for healers"
+6/13/25 3:46:00a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:46:04a • You return to your normal form.
+6/13/25 3:46:07a •You gain experience.
+6/13/25 3:46:10a Magnic says, "1 on novi"
+6/13/25 3:46:19a You helped vanquish an Abominable Snow Yorilla.
+6/13/25 3:46:26a Taryn thinks to a group, "n+w"
+6/13/25 3:46:33a •You sense healing energy from Hashak.
+6/13/25 3:46:36a •You sense healing energy from Hashak.
+6/13/25 3:46:37a You helped vanquish a Glacier Bear Cub.
+6/13/25 3:46:59a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:47:04a You helped vanquish an Abominable Snow Yorilla.
+6/13/25 3:47:06a • You return to your normal form.
+6/13/25 3:47:09a •You sense healing energy from Hashak.
+6/13/25 3:47:22a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:47:23a You gave signed good karma to Dae Fenris, .
+6/13/25 3:47:26a •You sense healing energy from Hashak.
+6/13/25 3:47:29a • You return to your normal form.
+6/13/25 3:47:36a You helped vanquish a Frost Yorilla.
+6/13/25 3:47:36a * Chmee recovers the Frost Yorilla fur, worth 19c. Your share is 2c.
+6/13/25 3:47:38a You helped vanquish a Glacier Bear Cub.
+6/13/25 3:47:38a * Donk recovers the Glacier Bear Cub fur, worth 16c. Your share is 2c.
+6/13/25 3:47:42a •You sense healing energy from Hashak.
+6/13/25 3:47:45a Taryn thinks to a group, "w"
+6/13/25 3:47:52a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:47:54a •You sense healing energy from Hashak.
+6/13/25 3:47:56a • You return to your normal form.
+6/13/25 3:48:01a You helped vanquish an Abominable Snow Yorilla.
+6/13/25 3:48:04a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:48:07a •You sense healing energy from Hashak.
+6/13/25 3:48:11a You have 3939 coins.
+6/13/25 3:48:21a Fordi growls, "Mrowr!"
+6/13/25 3:48:36a Fortuna is now Clanning.
+6/13/25 3:48:38a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/13/25 3:48:38a • You return to your normal form.
+6/13/25 3:48:42a Fordi plays with a leaf that blows past.
+6/13/25 3:48:44a Hashak has fallen to a Glacier Bear.
+6/13/25 3:48:44a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/13/25 3:48:45a Magnic has fallen to a Glacier Bear.
+6/13/25 3:48:48a Hashak is no longer fallen.
+6/13/25 3:48:55a You helped vanquish a Glacier Bear.
+6/13/25 3:48:55a * Noivad recovers the Glacier Bear fur, worth 22c. Your share is 2c.
+6/13/25 3:48:57a You helped vanquish a Frost Foxweir.
+6/13/25 3:48:59a •You sense healing energy from Hashak.
+6/13/25 3:49:14a Lorikeet says, "oops sorry fell asleep"
+6/13/25 3:49:16a •You sense healing energy from Taryn.
+6/13/25 3:49:17a Fordi begins to purr and rub against Hashak's leg.
+6/13/25 3:49:20a You helped vanquish a Glacier Bear Cub.
+6/13/25 3:49:20a * Donk recovers the Glacier Bear Cub fur, worth 27c. Your share is 3c.
+6/13/25 3:49:21a Fordi growls, "Mrowr!"
+6/13/25 3:49:21a Donk says, ":D"
+6/13/25 3:49:25a Hashak says, "oop ok gotta go"
+6/13/25 3:49:28a Hashak exclaims, "thanks everyone!"
+6/13/25 3:49:30a Chmee growls, "been there, done that :-)"
+6/13/25 3:49:31a Hashak exclaims, "See ya!"
+6/13/25 3:49:32a Hashak attempts to project into another plane.
+6/13/25 3:49:32a Onashi growls, "later Hash!"
+6/13/25 3:49:39a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:49:43a • You return to your normal form.
+6/13/25 3:49:45a You helped vanquish a Blizzard Greymyr.
+6/13/25 3:49:48a Fordi growls, "Mrowr!"
+6/13/25 3:49:52a •You sense healing energy from Taryn.
+6/13/25 3:49:56a You have no karma to give.
+6/13/25 3:49:57a * Auto thanks names:
+6/13/25 3:49:58a  Dae Fenris 
+6/13/25 3:49:58a  Lorikeet 
+6/13/25 3:49:58a  Hashak 
+6/13/25 3:50:01a Fordi bats at Catharsis for getting in the way!
+6/13/25 3:50:02a  Taryn added to Karma list
+6/13/25 3:50:03a Fordi begins to purr and rub against Dae Fenris' leg.
+6/13/25 3:50:10a Fordi licks her fur.
+6/13/25 3:50:14a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:50:18a You helped vanquish a Mistral Kestrel.
+6/13/25 3:50:18a • You return to your normal form.
+6/13/25 3:50:31a Donk growls, ":D"
+6/13/25 3:50:32a Fordi growls, "Mrowr!"
+6/13/25 3:50:47a Catharsis says, "ty"
+6/13/25 3:50:52a Fordi growls, "Mrowr!"
+6/13/25 3:50:53a You helped vanquish a Glacier Bear Cub.
+6/13/25 3:51:06a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:51:16a You helped vanquish a Mistral Kestrel.
+6/13/25 3:51:16a • You return to your normal form.
+6/13/25 3:51:17a Xael is now Clanning.
+6/13/25 3:51:21a Taryn yells, "south"
+6/13/25 3:51:23a You have 3944 coins.
+6/13/25 3:51:31a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:51:35a Hashak is no longer Clanning.
+6/13/25 3:51:42a • You return to your normal form.
+6/13/25 3:51:43a You helped vanquish a Mistral Kestrel.
+6/13/25 3:51:47a You helped vanquish a Mistral Kestrel.
+6/13/25 3:51:58a Taryn yells, "yy down"
+6/13/25 3:52:02a Onashi growls, "free share for 10min; pick yer fave"
+6/13/25 3:52:07a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:52:08a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/13/25 3:52:09a • You return to your normal form.
+6/13/25 3:52:11a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:52:11a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/13/25 3:52:12a • You return to your normal form.
+6/13/25 3:52:12a You helped vanquish a Blizzard Greymyr.
+6/13/25 3:52:24a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:52:29a • You return to your normal form.
+6/13/25 3:52:30a You helped vanquish a Mistral Kestrel.
+6/13/25 3:52:32a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:52:39a Taryn asks, "are these lasty?"
+6/13/25 3:52:42a Onashi growls, "no"
+6/13/25 3:52:43a You helped vanquish a Mistral Kestrel.
+6/13/25 3:52:46a You helped vanquish a Frost Yorilla.
+6/13/25 3:52:48a Onashi growls, "no surface lasties"
+6/13/25 3:53:00a Taryn thinks to a group, "east"
+6/13/25 3:53:09a • You return to your normal form.
+6/13/25 3:53:18a You helped vanquish an Alpine Timber Feral.
+6/13/25 3:53:23a You have no karma to give.
+6/13/25 3:53:27a You helped vanquish a Glacier Bear Cub.
+6/13/25 3:53:28a * Donk recovers the Glacier Bear Cub fur, worth 30c. Your share is 4c.
+6/13/25 3:53:34a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:53:42a You helped vanquish a Frost Yorilla.
+6/13/25 3:53:42a • You return to your normal form.
+6/13/25 3:53:42a * Donk recovers the Frost Yorilla fur, worth 30c. Your share is 3c.
+6/13/25 3:53:53a Taryn thinks to a group, "east"
+6/13/25 3:54:10a Dinsdale is now Clanning.
+6/13/25 3:54:13a You helped vanquish an Alpine Timber Feral.
+6/13/25 3:54:14a * Chmee recovers the Alpine Timber Feral fur, worth 27c. Your share is 3c.
+6/13/25 3:54:20a Taryn thinks to a group, "runniing exit & ss"
+6/13/25 3:54:21a Onashi yells, "2"
+6/13/25 3:54:28a •You assume the shape of a Giant Carnivorous Plankton.
+6/13/25 3:54:30a Catharsis says, "ooh teamwork xp"
+6/13/25 3:54:32a • You return to your normal form.
+6/13/25 3:54:33a You helped vanquish an Abominable Snow Yorilla.
+6/13/25 3:54:34a * Catharsis recovers the Abominable Snow Yorilla fur, worth 57c. Your share is 6c.
+6/13/25 3:54:38a You have 3960 coins.
+6/13/25 3:54:43a Taryn yells, "exit"
+6/13/25 3:54:44a Onashi thinks, "was a bs"
+6/13/25 3:55:03a Noivad says, "thx"
+6/13/25 3:55:11a Noivad yells, "thank your healers"
+6/13/25 3:55:37a Taryn thinks to a group, "s"
+6/13/25 3:55:57a You gave signed good karma to Lorikeet, .
+6/13/25 3:56:03a You helped kill a Delta Toad.
+6/13/25 3:56:04a You helped vanquish a Wild Stallion.
+6/13/25 3:56:04a * Lorikeet recovers the Wild Stallion fur, worth 15c. Your share is 2c.
+6/13/25 3:56:13a You helped vanquish a Mountain Bison.
+6/13/25 3:56:13a * Donk recovers the Mountain Bison fur, worth 28c. Your share is 3c.
+6/13/25 3:56:20a You helped vanquish a Delta Toad.
+6/13/25 3:56:33a You helped vanquish a Sky Bison.
+6/13/25 3:56:33a * Onashi recovers the Sky Bison fur, worth 7c. Your share is 1c.
+6/13/25 3:56:38a You helped vanquish a Giant River Lizard.
+6/13/25 3:56:41a You helped vanquish a Mountain Bison.
+6/13/25 3:56:48a •You sense healing energy from Taryn.
+6/13/25 3:56:49a You helped vanquish a Wild Stallion.
+6/13/25 3:56:50a You helped vanquish a Sky Bison.
+6/13/25 3:57:09a You helped vanquish a Sky Bison.
+6/13/25 3:57:14a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/13/25 3:57:14a You helped vanquish a Sky Bison.
+6/13/25 3:57:14a Magnic has fallen to a Sky Bison.
+6/13/25 3:57:15a You helped vanquish a Sky Bison.
+6/13/25 3:57:15a * Chmee recovers the Sky Bison fur, worth 47c. Your share is 5c.
+6/13/25 3:57:20a You helped vanquish a Sky Bison.
+6/13/25 3:57:48a You have 3971 coins.
+6/13/25 3:57:49a •The Sun rises.
+6/13/25 3:58:04a Onashi says, "ooo, pulling up to 1.5k Regia soon ^^"
+6/13/25 3:58:13a Catharsis says, "nice"
+6/13/25 3:58:15a Donk says, "nice"
+6/13/25 3:58:22a Taryn thinks to a group, "w"
+6/13/25 3:58:27a Onashi says, "still not enough ;)"
+6/13/25 3:58:28a You helped vanquish a Sky Bison.
+6/13/25 3:58:39a •You sense healing energy from Taryn.
+6/13/25 3:58:42a Donk growls, "nice"
+6/13/25 3:58:42a •You sense healing energy from Taryn.
+6/13/25 3:58:43a Donk slides through the grumbling rubble.
+6/13/25 3:58:45a You helped vanquish a Sky Bison.
+6/13/25 3:58:49a Chmee slides through the grumbling rubble.
+6/13/25 3:58:52a Catharsis says, "thanks"
+6/13/25 3:58:58a Dae Fenris slides through the grumbling rubble.
+6/13/25 3:59:01a Chmee has fallen to a Starstag.
+6/13/25 3:59:04a Magnic slides through the grumbling rubble.
+6/13/25 3:59:05a (Chmee laughs)
+6/13/25 3:59:13a You helped vanquish a Shadowcat.
+6/13/25 3:59:13a * Dae Fenris recovers the Shadowcat fur, worth 34c. Your share is 4c.
+6/13/25 3:59:23a Onashi growls, "may as well chain?"
+6/13/25 3:59:24a 'Hashak' is not in the lands.
+6/13/25 3:59:25a * Hashak will be removed from Karma list.
+6/13/25 3:59:25a Taryn yells, "just chian"
+6/13/25 3:59:34a You helped kill a Violène Arachne.
+6/13/25 3:59:40a You helped vanquish a Starstag.
+6/13/25 3:59:40a * Noivad recovers the Starstag fur, worth 9c. Your share is 1c.
+6/13/25 3:59:43a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/13/25 3:59:44a Magnic has fallen to a Starstag.
+6/13/25 3:59:46a Noivad starts dragging you.
+6/13/25 4:00:07a Taryn thinks to a group, "got Donk"
+6/13/25 4:00:19a Lorikeet starts dragging you.
+6/13/25 4:00:31a Onashi is poisoned.
+6/13/25 4:00:33a Onashi is poisoned.
+6/13/25 4:00:39a Donk says, "was like I'm stuck, oh no wonder... boom"
+6/13/25 4:00:44a Onashi says, "thanks to Fortuna clearing here in est, bebe ebbs are spawning more regularly xD"
+6/13/25 4:00:55a Donk says, "kewl"
+6/13/25 4:00:58a Lorikeet says, "yes"
+6/13/25 4:00:59a You have 3976 coins.
+6/13/25 4:01:00a Lorikeet says, "yes"
+6/13/25 4:01:02a Onashi says, "got TWO today. Solid turn out"
+6/13/25 4:01:07a Kala is now Clanning.
+6/13/25 4:01:12a Lorikeet says, "oh had a space"
+6/13/25 4:01:12a Magnic says, "heh"
+6/13/25 4:01:15a Noivad says, "My 3D printer hasn't printed very well, but I think it's the plastic I have"
+6/13/25 4:01:20a Noivad says, "My 3D printer hasn't printed very well, but I think it's the plastic I have"
+6/13/25 4:01:22a Lorikeet thinks, "all out"
+6/13/25 4:01:58a You have given this character as much good karma as is allowed. Wait for it to decay.
+6/13/25 4:01:58a * Taryn can no longer be thanked for now, removing form list.
+6/13/25 4:01:59a You gave signed good karma to Lorikeet, .
+6/13/25 4:02:01a Chmee is still fallen to a Starstag.
+6/13/25 4:02:08a Catharsis says, "thank you for lovely hunt"
+6/13/25 4:02:11a Chmee is no longer fallen.
+6/13/25 4:02:19a Onashi exclaims, "aye, thanks all!"
+6/13/25 4:02:23a Donk says, "awesome hunt, thanks all"
+6/13/25 4:02:27a Magnic thinks, "thanks for the hunt"
+6/13/25 4:02:31a Chmee says, "aye, thanks all"
+6/13/25 4:02:35a Donk says, "see ya in 6 hours"
+6/13/25 4:02:42a Donk says, "no"
+6/13/25 4:02:42a

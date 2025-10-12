@@ -1,0 +1,127 @@
+
+
+@login
+{
+message "Type /healer for commands if you forget"
+}
+
+"/healer"
+{
+message "Right Click = Range Heal that person (right click on screen or in player list)"
+pause 1
+message "F1 = moonstone self heal loop"
+pause 1
+message "F2 = Radius Heal / Healing Aura"
+pause 1
+message "F3 = Heal Pet"
+pause 1
+message "F4 = Tell Pet to Attack"
+pause 1
+message "F5 = Tell Pet to Stay"
+pause 1
+message "F6 = Tell Pet to Follow Hand Signs"
+pause 1
+message "F10 = Purgatory Pendant"
+}
+
+setglobal moonheals 0
+
+click2
+{
+setglobal moonheals 0
+if CHAINING == 1
+	message "* chains on " 
+	goto end
+else
+if @my.right_item != "Asklepian Staff"// change "Asklepian Staff" to "Caduceus" for Caduceus, to "Mercurial Staff" for Mercurial Staff and "Asklepian" for Asklepian
+	"/equip asklepianstaff\r" // change "/equip asklepianstaff\r" to "/equip caduceus\r" for Caduceus, "/equip mercurialstaff\r" for , "/equip asklepian\r" for Asklepian
+end if
+	"/use " @clicksplayer " \r"
+		message "* " @clicksplayer " "
+	label end
+	end if
+end if
+}
+
+F1
+{
+setglobal moonheals 1
+label top
+if CHAINING == 1
+	message "* chains on " 
+	goto end
+else
+	if moonheals == 1
+		if @my.right_item != "moonstone"
+			"/equip moonstone\r"
+end if
+	"/use \r" //you can also change the amount of healing and spirt it uses by chaneing the command to "/use 2 \r" just change the number to higher amount for more times every time this loops
+		pause 5 //change the for moonstone self heal speed, mindful that you need modify for spirt recovery.
+goto top
+else
+end if
+label end
+end if
+}
+
+F2
+{
+setglobal moonheals 0
+if CHAINING == 1
+	message "* chains on " 
+	goto end
+else
+	if @my.right_item != "Asklepian Staff" // change "Asklepian Staff" to "Caduceus" for Caduceus
+		"/equip asklepianstaff\r" // change "/equip asklepianstaff\r" to "/equip caduceus\r" for Caduceus
+end if
+		"/use \r"
+	label end
+end if
+}
+
+F3
+{
+setglobal moonheals 0
+if CHAINING == 1
+	goto end
+else
+if @my.right_item != "Asklepian Staff"// change "Asklepian Staff" to "Caduceus" for Caduceus, to "Mercurial Staff" for Mercurial Staff and "Asklepian" for Asklepian
+"/equip asklepianstaff\r" // change "/equip asklepianstaff\r" to "/equip caduceus\r" for Caduceus, "/equip mercurialstaff\r" for , "/equip asklepian\r" for Asklepian
+end if
+"/use /pet \r"
+label end
+end if
+}
+
+F4
+{
+
+"/whisper Attack\r" // these are the defaults if you change them you will have to modify these commands
+}
+
+F5
+{
+"/whisper Stay\r" // these are the defaults if you change them you will have to modify these commands
+}
+
+F6
+{
+"/whisper Obey\r" // these are the defaults if you change them you will have to modify these commands
+}
+
+F9
+{
+"/whisper Go home\r" // these are the defaults if you change them you will have to modify these commands
+}
+
+F10 //ESCAPE!
+{
+	if @my.neck_item != "Purgatory Pendant"
+		"/equip purgatorypendant\r"
+end if
+	"/useitem purgatorypendant\r"
+		pause 120
+if @my.neck_item == "Purgatory Pendant"
+	"/unequip purgatorypendant\r"
+end if
+}

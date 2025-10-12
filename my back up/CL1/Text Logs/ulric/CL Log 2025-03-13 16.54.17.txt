@@ -1,0 +1,76 @@
+
+3/13/25 4:54:17p * Your third-circle healer's cloak named “turquoise” is in very good condition.
+3/13/25 4:54:17p * Your pair of second-circle pants named “white” is in very good condition.
+3/13/25 4:54:17p * Your healer's shirt is in very good condition.
+3/13/25 4:54:17p Welcome to Clan Lord, Ulric!
+3/13/25 4:54:17p Type \HELP for a list of commands.
+3/13/25 4:54:17p • You gain experience from your recent studies.
+3/13/25 4:54:17p Ulric is now Clanning.
+3/13/25 4:54:17p The healing spell has started.
+3/13/25 4:54:17p You have been studying for 8 days, 7 hours, 34 minutes.
+3/13/25 4:54:20p It's 4:15am on Merdi, day 47 of Autumn, 640.
+3/13/25 4:54:21p Friends online: none.
+3/13/25 4:54:21p Shadowfire thinks, "s pls"
+3/13/25 4:54:22p You are the only member of Black Phoenix clanning.
+3/13/25 4:54:22p • What’s New: https://deltatao.com/clanlord/news
+3/13/25 4:54:22p Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+3/13/25 4:54:22p Aitnos asks, "Would you like to apply some of your learning to Metta Sylpha’s lessons?"
+3/13/25 4:54:23p Ulric whispers, "yes"
+3/13/25 4:54:24p Aitnos says, "Congratulations, Ulric. You should now understand more of Metta Sylpha’s teachings."
+3/13/25 4:54:24p Ulric whispers, "yes"
+3/13/25 4:54:24p Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+3/13/25 4:54:25p Aitnos says, "You have not yet learned enough for Metta Sylpha’s lesson."
+3/13/25 4:54:25p Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+3/13/25 4:54:26p Aitnos says, "You have not yet learned enough for Metta Sylpha’s lesson."
+3/13/25 4:54:26p Ulric says, "yes"
+3/13/25 4:54:26p Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+3/13/25 4:54:27p Aitnos says, "You have not yet learned enough for Metta Sylpha’s lesson."
+3/13/25 4:54:27p Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+3/13/25 4:54:28p Aitnos says, "You have not yet learned enough for Metta Sylpha’s lesson."
+3/13/25 4:54:31p * Tip of the day: If you don’t like this tip, see another by typing /TIP. (Use /OPTIONS to turn tips off.)
+3/13/25 4:54:48p Metta Sylpha says, "Hail, Ulric. It is good to see you."
+3/13/25 4:54:48p * Metta : 10-19.
+3/13/25 4:54:48p Metta Sylpha says, "I can teach you to improve your walking self-heal."
+3/13/25 4:54:49p Metta Sylpha says, "You will learn as you practice."
+3/13/25 4:55:03p Proximus says, "Hail, Ulric. You have much to learn."
+3/13/25 4:55:03p * Proximus : 0-9.
+3/13/25 4:55:04p Proximus says, "I can teach you to heal people from further away."
+3/13/25 4:55:09p Horus says, "Hail, Ulric."
+3/13/25 4:55:11p Horus says, "Hail, Ulric."
+3/13/25 4:55:12p Horus bows deeply.
+3/13/25 4:55:14p Horus says, "Let us search for more we might learn together."
+3/13/25 4:55:14p * Horus : 1000-1249.
+3/13/25 4:55:14p Horus says, "I can teach you how to heal those closer to death."
+3/13/25 4:55:14p Horus says, "You will learn as you practice."
+3/13/25 4:55:16p Awaria says, "Hail, Ulric. You have much to learn."
+3/13/25 4:55:17p * Awaria : 0-9.
+3/13/25 4:55:17p Awaria says, "I can teach you how to heal yourself more easily with the moonstone to an extent."
+3/13/25 4:55:17p Awaria says, "You will learn as you practice."
+3/13/25 4:55:24p Sprite says, "Hail, Ulric. Teaching you is a challenge."
+3/13/25 4:55:24p * Sprite : 200-249.
+3/13/25 4:55:24p Sprite says, "I can teach you how to improve your spirit for healing."
+3/13/25 4:55:25p Sprite says, "You will learn as you practice."
+3/13/25 4:55:28p Eva says, "Hail, Ulric. It is hard to find more to teach you."
+3/13/25 4:55:28p * Eva : 150-199.
+3/13/25 4:55:28p Eva says, "I can teach a balanced healing style."
+3/13/25 4:55:32p Higgrus says, "Hail, Ulric."
+3/13/25 4:55:32p Higgrus bows.
+3/13/25 4:55:34p Higgrus says, "Few indeed are your peers."
+3/13/25 4:55:34p * Higgrus : 700-749.
+3/13/25 4:55:34p Higgrus says, "I can teach you to improve your physical well-being."
+3/13/25 4:55:35p Higgrus says, "You will learn as you practice."
+3/13/25 4:55:37p Respia says, "Hail, Ulric."
+3/13/25 4:55:37p Respia bows deeply.
+3/13/25 4:55:39p Respia says, "Your devotion to the craft is exemplary."
+3/13/25 4:55:39p * Respia : 750-799.
+3/13/25 4:55:40p Respia says, "I can teach you to recover spiritual energy faster."
+3/13/25 4:55:40p Respia says, "You will learn as you practice."
+3/13/25 4:55:42p Faustus says, "Hail, Ulric. There is not much more I can teach you."
+3/13/25 4:55:43p * Faustus : 250-299.
+3/13/25 4:55:43p Faustus says, "I can teach you to improve your healing speed."
+3/13/25 4:55:43p Faustus says, "You will learn as you practice."
+3/13/25 4:55:43p Faustus asks, "Are you sure you would like to train with me?"
+3/13/25 4:55:57p • /SLEEP when you wish to begin studying.
+3/13/25 4:56:12p Use \SLEEP again when you return.
+3/13/25 4:56:12p You are done adventuring for a while and will be staying here.
+3/13/25 4:56:13p You have been disconnected from Cla

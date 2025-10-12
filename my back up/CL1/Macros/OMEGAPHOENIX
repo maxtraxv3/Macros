@@ -1,0 +1,24 @@
+// This macro file will be loaded for the player it is named after. 
+
+include "Default"
+
+F1
+{
+if @my.right_item != "Bloodblade"
+	"/equip bloodblade\r"
+end if
+    "/use /absorb\r"
+		pause 3
+            "/use /absorb /report\r"
+}
+
+F3
+{
+"/useitem bloodstonering /dead \r"
+}
+
+F5
+{
+"/whisper floplikeafish \r"
+
+}

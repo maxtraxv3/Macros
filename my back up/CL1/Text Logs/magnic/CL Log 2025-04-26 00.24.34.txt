@@ -1,0 +1,370 @@
+
+4/26/25 12:24:34a * Your pair of pants named “dark grey” is in nearly perfect condition.
+4/26/25 12:24:34a * Your pair of shoes named “red” is in nearly perfect condition.
+4/26/25 12:24:34a * Your shirt named “dark grey” is in nearly perfect condition.
+4/26/25 12:24:34a Welcome to Clan Lord, Magnic!
+4/26/25 12:24:34a Type \HELP for a list of commands.
+4/26/25 12:24:34a • You have been charged 104 coins for advanced studies.
+4/26/25 12:24:34a • You gain experience from your recent studies.
+4/26/25 12:24:34a Magnic is now Clanning.
+4/26/25 12:24:34a You have been studying for 3 days, 10 hours, 25 minutes.
+4/26/25 12:24:37a It's 8:46am on Sombdi, day 44 of Spring, 641.
+4/26/25 12:24:38a Friends online: none.
+4/26/25 12:24:39a You are the only member of Black Phoenix clanning.
+4/26/25 12:24:39a • What’s New: https://deltatao.com/clanlord/news
+4/26/25 12:24:48a * Tip of the day: Buy low, sell high. (Use /OPTIONS to turn tips off.)
+4/26/25 12:25:13a Shadowmutt rolls on the ground.
+4/26/25 12:25:27a Snake is no longer Clanning.
+4/26/25 12:25:29a Gray is now Clanning.
+4/26/25 12:25:37a Shadowmutt growls, "Grrr."
+4/26/25 12:25:39a Shadowmutt growls, "Woof!"
+4/26/25 12:25:50a •You learn how to better utilize your gossamer.
+4/26/25 12:26:14a Vivo Ladi is no longer Clanning.
+4/26/25 12:26:18a Gray is no longer Clanning.
+4/26/25 12:26:36a Captain Barnac asks, "Ah, Magnic. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+4/26/25 12:26:37a Magnic whispers, "yes"
+4/26/25 12:26:49a You slaughtered a Shredder.
+4/26/25 12:27:02a * The turbulent waters toss you about.
+4/26/25 12:27:04a Magnic lands ashore and jumps out of his boat.
+4/26/25 12:27:43a You have 12154 coins.
+4/26/25 12:27:50a •You gain experience.
+4/26/25 12:28:10a You slaughtered an Artak Cougar.
+4/26/25 12:28:11a * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+4/26/25 12:28:21a You slaughtered a Deadly Adder.
+4/26/25 12:28:22a You slaughtered a Starbuck.
+4/26/25 12:28:22a * You recover the Starbuck fur, worth 1c. Your share is 1c.
+4/26/25 12:28:30a You slaughtered a Vermine.
+4/26/25 12:28:40a You slaughtered an Orga.
+4/26/25 12:28:46a You slaughtered a Crota Winder.
+4/26/25 12:28:49a You slaughtered a Crota Winder.
+4/26/25 12:28:51a You slaughtered a Crota Winder.
+4/26/25 12:28:54a You slaughtered a Boma Winder.
+4/26/25 12:28:55a You slaughtered an Island Locust.
+4/26/25 12:29:10a You slaughtered a Boma Winder.
+4/26/25 12:29:12a You slaughtered a Boma Winder.
+4/26/25 12:29:22a You slaughtered a Boma Winder.
+4/26/25 12:29:26a You slaughtered a Boma Winder.
+4/26/25 12:29:29a You slaughtered a Crota Winder.
+4/26/25 12:29:30a You slaughtered a Boma Winder.
+4/26/25 12:29:36a You slaughtered a Crota Winder.
+4/26/25 12:29:38a You slaughtered a Raste Winder.
+4/26/25 12:29:43a You slaughtered an Ona Chigger.
+4/26/25 12:29:46a You slaughtered an Island Panther.
+4/26/25 12:29:46a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+4/26/25 12:29:47a You slaughtered a Winged Snake.
+4/26/25 12:29:47a You slaughtered a Boma Winder.
+4/26/25 12:29:55a You slaughtered a Deadly Adder.
+4/26/25 12:29:59a You slaughtered a Boma Winder.
+4/26/25 12:30:03a You slaughtered an Island Panther.
+4/26/25 12:30:03a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+4/26/25 12:30:04a You slaughtered a Large Vermine.
+4/26/25 12:30:10a You slaughtered a Deadly Adder.
+4/26/25 12:30:10a You slaughtered a Large Vermine.
+4/26/25 12:30:11a You slaughtered an Island Panther.
+4/26/25 12:30:11a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+4/26/25 12:30:11a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+4/26/25 12:30:14a You slaughtered a Large Vermine.
+4/26/25 12:30:15a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+4/26/25 12:30:18a You slaughtered a Large Vermine.
+4/26/25 12:30:18a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+4/26/25 12:30:21a You slaughtered a Deadly Adder.
+4/26/25 12:30:29a You slaughtered a Large Vermine.
+4/26/25 12:30:30a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+4/26/25 12:30:35a You slaughtered a Large Vermine.
+4/26/25 12:30:36a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+4/26/25 12:30:47a You slaughtered a Large Vermine.
+4/26/25 12:30:50a You have 12171 coins.
+4/26/25 12:30:52a You slaughtered an Orga.
+4/26/25 12:30:54a You slaughtered a Crota Winder.
+4/26/25 12:31:05a You slaughtered a Boma Winder.
+4/26/25 12:31:08a You slaughtered a Winged Snake.
+4/26/25 12:31:14a You slaughtered a Large Vermine.
+4/26/25 12:31:14a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+4/26/25 12:31:45a You slaughtered a Winged Snake.
+4/26/25 12:31:46a You slaughtered an Island Panther.
+4/26/25 12:31:47a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+4/26/25 12:31:49a You slaughtered a Rat.
+4/26/25 12:31:59a Chrono is no longer Clanning.
+4/26/25 12:32:10a You slaughtered a Carnivorous Tor.
+4/26/25 12:32:21a You slaughtered an Island Panther.
+4/26/25 12:32:22a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+4/26/25 12:32:23a You slaughtered a Crota Winder.
+4/26/25 12:32:25a You slaughtered a Carnivorous Tor.
+4/26/25 12:32:27a You slaughtered a Crota Winder.
+4/26/25 12:32:27a You slaughtered an Island Panther.
+4/26/25 12:32:27a * You recover the Island Panther fur, worth 4c. Your share is 4c.
+4/26/25 12:32:29a You slaughtered an Island Panther.
+4/26/25 12:32:32a You slaughtered a Boma Winder.
+4/26/25 12:32:33a You slaughtered an Island Panther.
+4/26/25 12:32:33a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+4/26/25 12:32:39a You slaughtered a Skeletal.
+4/26/25 12:32:40a You slaughtered an Ona Chigger.
+4/26/25 12:32:44a You slaughtered a Boma Winder.
+4/26/25 12:32:52a You slaughtered a Crota Winder.
+4/26/25 12:32:54a You slaughtered an Island Panther.
+4/26/25 12:32:55a You slaughtered a Co'Acha.
+4/26/25 12:33:01a You slaughtered a Raste Winder.
+4/26/25 12:33:02a You slaughtered a Deadly Adder.
+4/26/25 12:33:14a You slaughtered a Co'Acha.
+4/26/25 12:33:15a You slaughtered a Crota Winder.
+4/26/25 12:33:19a You slaughtered an Island Panther.
+4/26/25 12:33:19a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+4/26/25 12:33:24a You slaughtered a Crota Winder.
+4/26/25 12:33:33a You slaughtered a Vermine.
+4/26/25 12:33:39a You slaughtered an Island Panther.
+4/26/25 12:33:39a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+4/26/25 12:33:41a You slaughtered an Ona Chigger.
+4/26/25 12:33:43a You slaughtered a Deadly Adder.
+4/26/25 12:33:44a You slaughtered an Ona Chigger.
+4/26/25 12:33:47a You slaughtered an Ona Chigger.
+4/26/25 12:33:53a You slaughtered an Ona Chigger.
+4/26/25 12:33:54a You have 12186 coins.
+4/26/25 12:34:03a You slaughtered a Crota Winder.
+4/26/25 12:34:37a You slaughtered a Deadly Adder.
+4/26/25 12:34:52a You slaughtered a Large Vermine.
+4/26/25 12:34:52a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+4/26/25 12:35:11a You slaughtered a Large Vermine.
+4/26/25 12:35:11a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+4/26/25 12:35:19a You slaughtered a Large Vermine.
+4/26/25 12:35:19a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+4/26/25 12:35:20a You slaughtered a Large Vermine.
+4/26/25 12:35:22a You slaughtered an Artak Cougar.
+4/26/25 12:35:22a * You recover the Artak Cougar fur, worth 4c. Your share is 4c.
+4/26/25 12:35:23a You slaughtered a Large Vermine.
+4/26/25 12:35:32a You slaughtered a Raste Winder.
+4/26/25 12:35:35a You slaughtered a Winged Snake.
+4/26/25 12:35:43a You slaughtered an Artak Cougar.
+4/26/25 12:35:43a * You recover the Artak Cougar fur, worth 3c. Your share is 3c.
+4/26/25 12:35:44a You slaughtered an Island Panther.
+4/26/25 12:35:44a * You recover the Island Panther fur, worth 4c. Your share is 4c.
+4/26/25 12:35:45a You slaughtered a Large Vermine.
+4/26/25 12:35:51a You slaughtered an Orga.
+4/26/25 12:35:59a You slaughtered a Deadly Adder.
+4/26/25 12:36:00a You slaughtered a Vermine.
+4/26/25 12:36:00a * You recover the Vermine fur, worth 1c. Your share is 1c.
+4/26/25 12:36:01a You slaughtered an Island Panther.
+4/26/25 12:36:01a * You recover the Island Panther fur, worth 4c. Your share is 4c.
+4/26/25 12:36:03a You slaughtered a Large Vermine.
+4/26/25 12:36:03a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+4/26/25 12:36:08a You slaughtered an Ona Chigger.
+4/26/25 12:36:19a You slaughtered a Boma Winder.
+4/26/25 12:36:21a You slaughtered a Boma Winder.
+4/26/25 12:36:23a You slaughtered a Co'Acha.
+4/26/25 12:36:25a You slaughtered a Vermine.
+4/26/25 12:36:27a You slaughtered a Savannah Maha.
+4/26/25 12:36:27a * You recover the Savannah Maha fur, worth 5c. Your share is 5c.
+4/26/25 12:36:34a You slaughtered a Large Vermine.
+4/26/25 12:36:34a You slaughtered a Vermine.
+4/26/25 12:36:38a •You gain experience.
+4/26/25 12:36:39a You slaughtered a Crota Winder.
+4/26/25 12:36:54a You slaughtered a Deadly Adder.
+4/26/25 12:36:58a You have 12212 coins.
+4/26/25 12:37:05a You slaughtered an Island Panther.
+4/26/25 12:37:06a * You recover the Island Panther fur, worth 4c. Your share is 4c.
+4/26/25 12:37:06a You slaughtered a Boma Winder.
+4/26/25 12:37:08a You slaughtered a Boma Winder.
+4/26/25 12:37:09a You slaughtered an Orga.
+4/26/25 12:37:17a You slaughtered a Crota Winder.
+4/26/25 12:37:18a You slaughtered a Crota Winder.
+4/26/25 12:37:22a You slaughtered a Boma Winder.
+4/26/25 12:37:26a You slaughtered a Boma Winder.
+4/26/25 12:37:29a You slaughtered a Boma Winder.
+4/26/25 12:37:33a You slaughtered a Crota Winder.
+4/26/25 12:37:40a You slaughtered an Island Panther.
+4/26/25 12:37:40a * You recover the Island Panther fur, worth 4c. Your share is 4c.
+4/26/25 12:37:42a You slaughtered a Crota Winder.
+4/26/25 12:37:51a You slaughtered a Boma Winder.
+4/26/25 12:37:52a You slaughtered a Boma Winder.
+4/26/25 12:37:57a You slaughtered a Boma Winder.
+4/26/25 12:38:02a You slaughtered a Cave Cobra.
+4/26/25 12:38:21a You slaughtered a Large Vermine.
+4/26/25 12:38:21a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+4/26/25 12:38:27a You slaughtered a Deadly Adder.
+4/26/25 12:38:28a You slaughtered an Island Panther.
+4/26/25 12:38:28a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+4/26/25 12:38:30a You slaughtered a Sand Wurm.
+4/26/25 12:39:14a You slaughtered a Crawler.
+4/26/25 12:39:18a You slaughtered an Ona Chigger.
+4/26/25 12:39:38a You slaughtered a Deadly Adder.
+4/26/25 12:39:58a You slaughtered a Large Vermine.
+4/26/25 12:39:58a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+4/26/25 12:39:59a You slaughtered a Young Rockodile.
+4/26/25 12:40:02a You have 12225 coins.
+4/26/25 12:40:06a You slaughtered a Bolok Cougar.
+4/26/25 12:40:06a * You recover the Bolok Cougar fur, worth 4c. Your share is 4c.
+4/26/25 12:40:08a You slaughtered an Island Panther.
+4/26/25 12:40:13a You slaughtered an Island Panther.
+4/26/25 12:40:14a * You recover the Island Panther fur, worth 5c. Your share is 5c.
+4/26/25 12:40:14a You slaughtered a Rat.
+4/26/25 12:40:14a You slaughtered a Feral.
+4/26/25 12:40:14a * You recover the Feral fur, worth 2c. Your share is 2c.
+4/26/25 12:40:18a You slaughtered an Artak Cougar.
+4/26/25 12:40:18a * You recover the Artak Cougar fur, worth 2c. Your share is 2c.
+4/26/25 12:40:19a You slaughtered an Adult Rockodile.
+4/26/25 12:40:27a You slaughtered a Boma Winder.
+4/26/25 12:40:31a You slaughtered an Island Panther.
+4/26/25 12:40:31a * For recovering the fur, you gain experience.
+4/26/25 12:40:31a * You recover the Island Panther fur, worth 4c. Your share is 4c.
+4/26/25 12:40:36a You slaughtered an Artak Cougar.
+4/26/25 12:40:39a You slaughtered an Orga.
+4/26/25 12:40:46a You slaughtered a Boma Winder.
+4/26/25 12:40:47a You slaughtered an Adult Rockodile.
+4/26/25 12:40:49a You slaughtered an Adult Rockodile.
+4/26/25 12:40:51a You slaughtered an Island Panther.
+4/26/25 12:40:51a * You recover the Island Panther fur, worth 1c. Your share is 1c.
+4/26/25 12:40:51a You slaughtered an Adult Rockodile.
+4/26/25 12:40:53a You slaughtered a Feral.
+4/26/25 12:40:54a You slaughtered an Island Panther.
+4/26/25 12:40:54a * You recover the Island Panther fur, worth 4c. Your share is 4c.
+4/26/25 12:41:00a You slaughtered a Scavenger Bird.
+4/26/25 12:41:07a You slaughtered a Crota Winder.
+4/26/25 12:41:08a You slaughtered an Island Panther.
+4/26/25 12:41:08a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+4/26/25 12:41:13a You slaughtered a Raste Winder.
+4/26/25 12:41:14a You slaughtered an Island Panther.
+4/26/25 12:41:14a * You recover the Island Panther fur, worth 3c. Your share is 3c.
+4/26/25 12:41:23a You slaughtered a Large Vermine.
+4/26/25 12:41:23a * You recover the Large Vermine fur, worth 2c. Your share is 2c.
+4/26/25 12:41:28a You slaughtered a Raste Winder.
+4/26/25 12:41:34a You slaughtered an Island Panther.
+4/26/25 12:41:34a You slaughtered a Young Rockodile.
+4/26/25 12:41:35a You slaughtered an Island Panther.
+4/26/25 12:41:37a You slaughtered an Island Panther.
+4/26/25 12:41:37a * You recover the Island Panther fur, worth 6c. Your share is 6c.
+4/26/25 12:41:38a You slaughtered a Raste Winder.
+4/26/25 12:41:38a You slaughtered a Raste Winder.
+4/26/25 12:41:39a You slaughtered an Island Panther.
+4/26/25 12:41:39a * You recover the Island Panther fur, worth 5c. Your share is 5c.
+4/26/25 12:41:44a You slaughtered a Winged Snake.
+4/26/25 12:41:48a You slaughtered a Boma Winder.
+4/26/25 12:41:49a You slaughtered an Island Panther.
+4/26/25 12:41:49a * You recover the Island Panther fur, worth 2c. Your share is 2c.
+4/26/25 12:41:51a You slaughtered a Large Vermine.
+4/26/25 12:41:51a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+4/26/25 12:41:53a You slaughtered a Boma Winder.
+4/26/25 12:42:06a You slaughtered a Scavenger Bird.
+4/26/25 12:42:08a You slaughtered a Large Vermine.
+4/26/25 12:42:11a You slaughtered a Crota Winder.
+4/26/25 12:42:11a You slaughtered a Carin Viper.
+4/26/25 12:42:53a You slaughtered a Young Rockodile.
+4/26/25 12:43:05a You have 12269 coins.
+4/26/25 12:46:06a You have 12269 coins.
+4/26/25 12:46:45a You slaughtered a Young Rockodile.
+4/26/25 12:46:46a You slaughtered a Young Rockodile.
+4/26/25 12:47:05a You slaughtered an Ebon Scorp.
+4/26/25 12:47:37a Magnic hops over the rocks.
+4/26/25 12:47:42a You slaughtered a Vermine.
+4/26/25 12:47:42a * You recover the Vermine fur, worth 1c. Your share is 1c.
+4/26/25 12:48:05a You equip your heartwood charm.
+4/26/25 12:48:06a •You assume the shape of a Giant Carnivorous Plankton.
+4/26/25 12:48:06a • You gather your energy.
+4/26/25 12:48:09a • You speed up.
+4/26/25 12:48:37a Magnic skips across the rock.
+4/26/25 12:49:11a You have 12270 coins.
+4/26/25 12:49:14a • You return to your normal form.
+4/26/25 12:49:14a • You slow down to normal speed.
+4/26/25 12:49:15a You slip your heartwood charm into your backpack.
+4/26/25 12:49:24a You slaughtered a Darshak Marine.
+4/26/25 12:49:24a * You recover the Darshak Marine bounty worth 1c.
+4/26/25 12:49:24a You slaughtered a Vermine.
+4/26/25 12:49:30a You slaughtered a Vermine.
+4/26/25 12:49:31a You slaughtered a Vermine.
+4/26/25 12:49:40a Magnic finds a low hanging branch and swings across.
+4/26/25 12:49:50a You slaughtered a Crawler.
+4/26/25 12:50:07a You slaughtered a Skeletal.
+4/26/25 12:50:15a You slaughtered a Darshak Thug.
+4/26/25 12:50:26a You slaughtered a Crawler.
+4/26/25 12:50:40a You slaughtered a Darshak Thug.
+4/26/25 12:50:43a You slaughtered a Vermine.
+4/26/25 12:50:44a You slaughtered a Vermine.
+4/26/25 12:50:44a * You recover the Vermine fur, worth 1c. Your share is 1c.
+4/26/25 12:50:46a You slaughtered a Vermine.
+4/26/25 12:50:50a You slaughtered a Large Vermine.
+4/26/25 12:50:58a You slaughtered a Vermine.
+4/26/25 12:50:59a You slaughtered a Large Vermine.
+4/26/25 12:51:02a You slaughtered a Large Vermine.
+4/26/25 12:51:02a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+4/26/25 12:51:03a A monster yells, "Watch this!"
+4/26/25 12:51:03a You slaughtered a Vermine.
+4/26/25 12:51:04a You slaughtered a Vermine.
+4/26/25 12:51:06a You slaughtered a Vermine.
+4/26/25 12:51:06a You slaughtered a Vermine.
+4/26/25 12:52:14a You have 12273 coins.
+4/26/25 12:52:23a Koppi yells, "Coriakin reports: Bard concert next Saturday, Apr. 26th at 11am pacific time!"
+4/26/25 12:53:11a Kenzen is now Clanning.
+4/26/25 12:53:22a Waezu is now Clanning.
+4/26/25 12:54:44a Zoa is now Clanning.
+4/26/25 12:55:21a You have 12273 coins.
+4/26/25 12:55:31a Valkir is now Clanning.
+4/26/25 12:57:20a Crius yells, "It’s 11 o’clock, and all’s well."
+4/26/25 12:57:24a Crius yells, "It looks pretty quiet in the Eastern Mountains."
+4/26/25 12:57:34a Koppi yells, "Shakyamuni reports: WTB: Looking to buy all Cheerfully Effervescent Potions.. Will pay well"
+4/26/25 12:58:03a Jeepers is now Clanning.
+4/26/25 12:58:30a You have 12273 coins.
+4/26/25 12:59:11a Kalian is now Clanning.
+4/26/25 12:59:28a Poplar is now Clanning.
+4/26/25 12:59:58a Elena is now Clanning.
+4/26/25 1:00:00a Poplar is no longer Clanning.
+4/26/25 1:01:10a Shadowmutt curls up and takes a nap.
+4/26/25 1:01:25a Elena is no longer Clanning.
+4/26/25 1:01:43a You have 12273 coins.
+4/26/25 1:02:00a Shadowmutt growls, "Zzzzzz."
+4/26/25 1:02:36a Shadrock is now Clanning.
+4/26/25 1:02:45a Koppi yells, "Coriakin reports: Bard concert next Saturday, Apr. 26th at 11am pacific time!"
+4/26/25 1:03:18a Leilani is now Clanning.
+4/26/25 1:04:00a Shadowmutt growls, "Zzzzzz."
+4/26/25 1:04:40a Leilani is no longer Clanning.
+4/26/25 1:04:46a Palila is now Clanning.
+4/26/25 1:05:02a You have 12273 coins.
+4/26/25 1:06:00a Shadowmutt growls, "Zzzzzz."
+4/26/25 1:06:03a Palila is no longer Clanning.
+4/26/25 1:06:10a Zahava is now Clanning.
+4/26/25 1:07:32a Zahava is no longer Clanning.
+4/26/25 1:07:56a Koppi yells, "Shakyamuni reports: WTB: Looking to buy all Cheerfully Effervescent Potions.. Will pay well"
+4/26/25 1:08:00a Shadowmutt growls, "Zzzzzz."
+4/26/25 1:08:10a You have 12273 coins.
+4/26/25 1:08:57a Gimbya is now Clanning.
+4/26/25 1:10:00a Shadowmutt growls, "Zzzzzz."
+4/26/25 1:10:21a Gimbya is no longer Clanning.
+4/26/25 1:10:28a Maralah is now Clanning.
+4/26/25 1:10:36a Bach is now Clanning.
+4/26/25 1:11:17a You have 12273 coins.
+4/26/25 1:11:27a Shadrock is no longer Clanning.
+4/26/25 1:11:51a Maralah is no longer Clanning.
+4/26/25 1:11:58a Orane is now Clanning.
+4/26/25 1:12:00a Shadowmutt growls, "Zzzzzz."
+4/26/25 1:12:02a Crius yells, "It’s Noon on Sombdi, the 44th day of Spring in the 641st year of the Ascendancy, and all’s well."
+4/26/25 1:13:07a Koppi yells, "Shakyamuni reports: WTB: Looking to buy all Cheerfully Effervescent Potions.. Will pay well"
+4/26/25 1:13:19a Orane is no longer Clanning.
+4/26/25 1:13:30a Desiree is now Clanning.
+4/26/25 1:14:00a Shadowmutt growls, "Zzzzzz."
+4/26/25 1:14:27a You have 12273 coins.
+4/26/25 1:15:39a Desiree is no longer Clanning.
+4/26/25 1:15:46a Taban is now Clanning.
+4/26/25 1:16:00a Shadowmutt awakens, yawning.
+4/26/25 1:16:09a Sentinel yells, "The Emperor is watching you."
+4/26/25 1:17:12a Taban is no longer Clanning.
+4/26/25 1:17:20a Jolandi is now Clanning.
+4/26/25 1:17:34a You have 12273 coins.
+4/26/25 1:18:18a Koppi yells, "Coriakin reports: Bard concert next Saturday, Apr. 26th at 11am pacific time!"
+4/26/25 1:18:45a Jolandi is no longer Clanning.
+4/26/25 1:18:49a Shadowmutt growls, "Grrr."
+4/26/25 1:18:50a Shadowmutt growls, "Woof!"
+4/26/25 1:19:03a Shadowmutt growls, "Grrr."
+4/26/25 1:19:24a Shadowmutt growls, "Grrr."
+4/26/25 1:19:34a Xantara is now Clanning.
+4/26/25 1:19:43a Shadowmutt pants.
+4/26/25 1:19:56a Shadowmutt growls, "Grrr."
+4/26/25 1:19:57a Shadowmutt growls, "Woof!"
+4/26/25 1:20:19a Shadowmutt growls, "Grrr."
+4/26/25 1:20:42a You have 12273 coins.
+4/26/25 1:20:55a Jeepers is no longer Clanning.
+4/26/25 1:21:13a Xantara is no longer Clanning.
+4/26/25 1:21:22a Sae'unn is now Clanning.
+4/26/25 1:22:43a Sae'unn is no longer Clanning.
+4/26/25 1:22:51a Amberley is now Clanning.
+4/26/25 1:23:29a Koppi yells, "Shakyamuni reports: WTB: Looking to buy all Cheerfully Effervescent Potions.. Will pay well"
+4/26/25 1:23:49a You have 12273 coins.
+4/26/25 1:24:14a Amberley is no longer Clanning.
+4/26/25 1:24:40a Divya is now Clanning.
+4/26/25 1:26:05a • /SLEEP when you wish

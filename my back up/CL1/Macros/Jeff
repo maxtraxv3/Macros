@@ -1,0 +1,689 @@
+// This macro file will be loaded for the player it is named after. 
+
+include "Default"
+
+setglobal Autotradeaccept 1
+setglobal selltimer 0
+setglobal junk ""
+setglobal timstamp 2
+setglobal pricecost3 ""
+setglobal pricecost2 ""
+setglobal pricecost1 ""
+setgloable namewords 1
+ 
+"/autorep"
+{
+message "* Auto Mender ON!"
+label quickloop
+//sets name for repair read out, "growls" are for people in morphs.
+setglobal ckname guy
+setglobal ckname + "'s"
+set logck @env.textLog
+//asking for armor or clothing check 
+if logck.word[1] == "says,"
+	if logck >= "check my armor"
+	 setglobal guy logck.word[0]
+		call Aarm
+	else if logck >= "check my clothing"
+	 setglobal guy logck.word[0]
+		call Amend
+	end if
+else if logck.word[2] == "says,"
+	if logck >= "check my armor"
+	 setglobal guy logck.word[0]
+	 setglobal guy + " "
+	 setglobal guy + logck.word[1]
+		call Aarm
+	else if logck >= "check my clothing"
+	 setglobal guy logck.word[0]
+	 setglobal guy + " "
+	 setglobal guy + logck.word[1]
+		call Amend
+	end if
+else if logck.word[3] == "says,"
+	if logck >= "check my armor"
+	 setglobal guy logck.word[2]
+		call Aarm
+	else if logck >= "check my clothing"
+	 setglobal guy logck.word[2]
+		call Amend
+	end if
+else if logck.word[4] == "says,"
+	if logck >= "check my armor"
+	 setglobal guy logck.word[2]
+	 setglobal guy + " "
+	 setglobal guy + logck.word[3]
+		call Aarm
+	else if logck >= "check my clothing"
+	 setglobal guy logck.word[2]
+	 setglobal guy + " "
+	 setglobal guy + logck.word[3]
+		call Amend
+	end if
+else if logck.word[5] == "says,"
+	if logck >= "check my armor"
+	 setglobal guy logck.word[2]
+	 setglobal guy + " "
+	 setglobal guy + logck.word[3]
+	 setglobal guy + " "
+	 setglobal guy + logck.word[4]
+		call Aarm
+	else if logck >= "check my clothing"
+	 setglobal guy logck.word[2]
+	 setglobal guy + " "
+	 setglobal guy + logck.word[3]
+	 setglobal guy + " "
+	 setglobal guy + logck.word[4]
+		call Amend
+	end if
+else if logck.word[1] == "growls,"
+	if logck >= "check my armor"
+	 setglobal guy logck.word[0]
+		call Aarm
+	else if logck >= "check my clothing"
+	 setglobal guy logck.word[0]
+		call Amend
+	end if
+else if logck.word[2] == "growls,"
+	if logck >= "check my armor"
+	 setglobal guy logck.word[0]
+	 setglobal guy + " "
+	 setglobal guy + logck.word[1]
+		call Aarm
+	else if logck >= "check my clothing"
+	 setglobal guy logck.word[0]
+	 setglobal guy + " "
+	 setglobal guy + logck.word[1]
+		call Amend
+	end if
+else if logck.word[3] == "growls,"
+	if logck >= "check my armor"
+	 setglobal guy logck.word[2]
+		call Aarm
+	else if logck >= "check my clothing"
+	 setglobal guy logck.word[2]
+		call Amend
+	end if
+else if logck.word[4] == "growls,"
+	if logck >= "check my armor"
+	 setglobal guy logck.word[2]
+	 setglobal guy + " "
+	 setglobal guy + logck.word[3]
+		call Aarm
+	else if logck >= "check my clothing"
+	 setglobal guy logck.word[2]
+	 setglobal guy + " "
+	 setglobal guy + logck.word[3]
+		call Amend
+	end if
+else if logck.word[5] == "growls,"
+	if logck >= "check my armor"
+	 setglobal guy logck.word[2]
+	 setglobal guy + " "
+	 setglobal guy + logck.word[3]
+	 setglobal guy + " "
+	 setglobal guy + logck.word[4]
+		call Aarm
+	else if logck >= "check my clothing"
+	 setglobal guy logck.word[2]
+	 setglobal guy + " "
+	 setglobal guy + logck.word[3]
+	 setglobal guy + " "
+	 setglobal guy + logck.word[4]
+		call Amend
+	end if
+end if
+// price check and price set.
+if logck.word[3] == "would"
+	if logck >= "You would need"
+		if logck.word[5].letter[0] != "c"
+		setglobal pricecost1 logck.word[5].letter[0]
+		end if
+		if logck.word[5].letter[1] != "c"
+		setglobal pricecost2 logck.word[5].letter[1]
+		end if
+		if logck.word[5].letter[2] != "c"
+		setglobal pricecost3 logck.word[5].letter[2]
+		end if
+		setglobal listen 1
+		if pricecost3 != ""
+			"it will cost " pricecost1 "" pricecost2 "" pricecost3 " to repair your " itemname " \r"
+			"do you wish for me to repair it? \r"
+		else if pricecost2 != ""
+			"it will cost " pricecost1 "" pricecost2 " to repair your " itemname " \r" 
+			"do you wish for me to repair it? \r"
+		else if pricecost1 != ""
+			"it will cost " pricecost1 " to repair your " itemname " \r" 
+			"do you wish for me to repair it? \r"
+		end if
+	end if
+else if logck.word[5] == "would"
+	if logck >= "You would need"
+		if logck.word[7].letter[0] != "c"
+			setglobal pricecost1 logck.word[7].letter[0]
+		end if
+		if logck.word[7].letter[1] != "c"
+			setglobal pricecost2 logck.word[7].letter[1]
+		end if
+		if logck.word[7].letter[2] != "c"
+			setglobal pricecost3 logck.word[7].letter[2]
+		end if
+		setglobal listen 1
+		if pricecost3 != ""
+			"it will cost " pricecost1 "" pricecost2 "" pricecost3 " to repair your " itemname " \r"
+			"do you wish for me to repair it? \r"
+				pause 1
+		else if pricecost2 != ""
+			"it will cost " pricecost1 "" pricecost2 " to repair your " itemname " \r" 
+			"do you wish for me to repair it? \r"
+				pause 1
+		else if pricecost1 != ""
+			"it will cost " pricecost1 " to repair your " itemname " \r" 
+			"do you wish for me to repair it? \r"
+				pause 1
+		end if
+	end if
+end if
+//isnt holding anything repairable
+if logck.word[1] == "is"
+	if logck >= "is not not carrying any"
+		"/whisper sorry, but youre not wearing any repairables. \r"
+			pause 1
+	end if
+else if logck.word[3] == "is"
+	if logck >= "is not not carrying any"
+		"/whisper sorry, but youre not wearing any repairables. \r"
+			pause 1
+	end if
+end if
+// check armor or clothing read out
+if logck.word[0] == ckname.word[0]
+	if logck.word[1] == ckname.word[1]
+		"" logck.word[messageStart] " \r"
+			pause 1
+	end if
+else if logck.word[2] == ckname.word[0]
+	if logck.word[3] == ckname.word[1]
+		"" logck.word[messageStart] " \r"
+			pause 1
+	end if
+end if
+// accepted trade item, name saved, disableing more trades.
+if logck.word[2] == "hands"
+	if logck >= "hands you"
+		setglobal Autotradeaccept 0
+		setglobal itemname logck.word[5]
+		setglobal itemname + " "
+		setglobal itemname + logck.word[6]
+			call itemck
+	end if
+else if logck.word[3] == "hands"
+	if logck >= "hands you"
+		setglobal Autotradeaccept 0
+		setglobal itemname logck.word[6]
+		setglobal itemname + " "
+		setglobal itemname + logck.word[7]
+			call itemck
+	end if
+else if logck.word[4] == "hands"
+	if logck >= "hands you"
+		setglobal Autotradeaccept 0
+		setglobal itemname logck.word[7]
+		setglobal itemname + " "
+		setglobal itemname + logck.word[8]
+			call itemck
+	end if
+else if logck.word[5] == "hands"
+	if logck >= "hands you"
+		setglobal Autotradeaccept 0
+		setglobal itemname logck.word[8]
+		setglobal itemname + " "
+		setglobal itemname + logck.word[9]
+			call itemck
+	end if
+end if
+// unlocks buying, if hand item over.
+if logck.word[0] == "You"
+	if logck >= "You hand"
+		if pricecost1 != 0
+		"/whisper it was a pleasure to help. \r"
+			"/pose bow \r"
+		else if pricecost1 == 0
+			"/whisper im sorry i couldn't help. \r"
+				"/pose bow \r"
+		end if
+			set Autotradeaccept 1
+					set pricecost1 ""
+					set pricecost2 ""
+					set pricecost3 ""
+	end if
+else if logck.word[2] == "You"
+	if logck >= "You hand"
+		if pricecost1 != 0
+		"/whisper it was a pleasure to help. \r"
+			"/pose bow \r"
+		else if pricecost1 == 0
+			"/whisper im sorry i couldn't help. \r"
+				"/pose bow \r"
+		end if
+			set Autotradeaccept 1
+					set pricecost1 ""
+					set pricecost2 ""
+					set pricecost3 ""
+	end if
+end if
+// if trading disabled check if the person who traded you say "yes" or "no"
+if Autotradeaccept == 0 
+	if listen == 1
+		if namewords == 1
+			if logck.word[2] == tradername
+				if logck.word[4] >= "yes"
+				message ping1
+					"/equip blacksmith \r"
+						"/selectitem " itemname " \r"
+							"/useitem left /mend \r"
+								setglobal listen 0
+									call sellback
+				end if
+			else if logck.word[0] == tradername
+				if logck.word[2] >= "yes"
+					"/equip blacksmith \r"
+						"/selectitem " itemname " \r"
+							"/useitem left /mend \r"
+								setglobal listen 0
+									call sellback
+				end if
+			else if logck.word[0] == tradername
+				if logck.word[2] >= "no"
+					setglobal pricecost1 0
+						setglobal listen 0
+							call sellback
+				end if
+			else if logck.word[2] == tradername
+				if logck.word[4] >= "no"
+					setglobal pricecost1 0
+						setglobal listen 0
+							call sellback
+				end if
+			end if
+		else if namewords == 2
+			if logck.word[2] == tradername.word[0]
+				if logck.word[3] == tradername.word[1]
+					if logck.word[5] >= "yes"
+					message ping3
+						"/equip blacksmith \r"
+							"/selectitem " itemname " \r"
+								"/useitem left /mend \r"
+									setglobal listen 0
+										call sellback
+					end if
+				end if
+			else if logck.word[0] == tradername.word[0]
+				if logck.word[1] == tradername.word[1]
+					if logck.word[3] >= "yes"
+					message ping3
+						"/equip blacksmith \r"
+							"/selectitem " itemname " \r"
+								"/useitem left /mend \r"
+									setglobal listen 0
+										call sellback
+					end if
+				end if
+			else if logck.word[0] == tradername.word[0]
+				if logck.word[1] == tradername.word[1]
+				message ping2
+					if logck.word[3] >= "no"
+						setglobal pricecost1 0
+							setglobal listen 0
+								call sellback
+					end if
+				end if
+			else if logck.word[2] == tradername.word[0]
+				if logck.word[3] == tradername.word[1]
+				message ping2
+					if logck.word[5] >= "no"
+						setglobal pricecost1 0
+							setglobal listen 0
+								call sellback
+					end if
+				end if
+			end if
+		else if namewords == 3
+			if logck.word[2] == tradername.word[0]
+				if logck.word[3] == tradername.word[1]
+					if logck.word[4] == tradername.word[2]
+						if logck.word[6] >= "yes"
+							"/equip blacksmith \r"
+								"/selectitem " itemname " \r"
+									"/useitem left /mend \r"
+										setglobal listen 0
+											call sellback
+						end if
+					end if
+				end if
+			else if logck.word[0] == tradername.word[0]
+				if logck.word[1] == tradername.word[1]
+					if logck.word[2] == tradername.word[2]
+						if logck.word[4] >= "yes"
+							"/equip blacksmith \r"
+								"/selectitem " itemname " \r"
+									"/useitem left /mend \r"
+										setglobal listen 0
+											call sellback
+						end if
+					end if
+				end if
+			else if logck.word[0] == tradername.word[0]
+				if logck.word[1] == tradername.word[1]
+					if logck.word[2] == tradername.word[2]
+						if logck.word[4] >= "no"
+							setglobal pricecost1 0
+								setglobal listen 0
+									call sellback
+						end if
+					end if
+				end if
+			else if logck.word[2] == tradername.word[0]
+				if logck.word[3] == tradername.word[1]
+					if logck.word[4] == tradername.word[2]
+						if logck.word[6] >= "no"
+							setglobal pricecost1 0
+								setglobal listen 0
+									call sellback
+						end if
+					end if
+				end if
+			end if
+		end if
+	end if
+end if
+// junk dropper
+if junk != "Nothing"
+	if junk != ""
+		"/drop " junk " \r"
+			"/whisper please, dont trade me junk. \r"
+				pause 1
+end if
+// junk dropped check
+if logck.word[2] == "You"
+	if logck >= "You drop"
+		setglobal junk ""
+	end if
+else if logck.word[0] == "You"
+	if logck >= "You drop"
+		setglobal junk ""
+	end if
+end if
+//fail to sell check, trys 3 times then "/drop /mine" the item to prevent people stealing from you and to keep item space.
+if selltimer > 3
+	if logck.word[0] == "Your"
+		if logck >= "sale offer has been"
+			setglobal sellback + 1
+				call sellback
+		end if
+	else if logck.word[2] == "Your"
+		if logck >= "sale offer has been"
+			setglobal sellback + 1
+				call sellback
+		end if
+	else if logck.word[0] == "•"
+		if logck >= "has declined your"
+			setglobal sellback + 1
+				call sellback
+		end if
+	else if logck.word[2] == "•"
+		if logck >= "has declined your"
+			setglobal sellback + 1
+				call sellback
+		end if
+	end if
+else if selltimer < 3
+	if logck.word[0] == "Your"
+		if logck >= "sale offer has been"
+			setglobal unpaidjunk
+				setglobal selltimer 0
+					set Autotradeaccept 1
+						call mydrop	
+		end if
+	else if logck.word[2] == "Your"
+		if logck >= "sale offer has been"
+			setglobal unpaidjunk
+				setglobal selltimer 0
+					set Autotradeaccept 1
+						call mydrop
+		end if
+	else if logck.word[0] == "•"
+		if logck >= "has declined your"
+			setglobal unpaidjunk
+				setglobal selltimer 0
+					set Autotradeaccept 1
+						call mydrop
+		end if
+	else if logck.word[2] == "•"
+		if logck >= "has declined your"
+			setglobal unpaidjunk
+				setglobal selltimer 0
+					set Autotradeaccept 1
+						call mydrop
+		end if
+	end if
+end if
+// sets trader name, checks whe the "." is in the name and stops adding to it once it finds it.
+// then check how many words in the name and sets it up for the yes or no.
+if Autotradeaccept == 1
+	if timstamp == 1
+		if logck.word[0] == "To"
+			if logck < "To accept, \BUY 0"
+				setglobal tradername logck.word[4]
+				set numlet logck.word[4].num_letters
+				if logck.word[4].letter[numlet] != "."
+				setglobal tradername + " "
+				setglobal tradername + logck.word[5]
+				set numlet logck.word[5].num_letters
+				end if
+				if logck.word[5].letter[numlet] != "."
+				setglobal tradername + " "
+				setglobal tradername + logck.word[6]
+				end if
+				if tradername.num_words == 1
+						setglobal namewords 1
+				else if tradername.num_words == 2
+						setglobal namewords 2
+				else if tradername.num_words == 3
+						setglobal namewords 3
+				end if
+					call buyish
+			end if
+		end if
+	end if
+	if timstamp == 2
+		if logck.word[2] == "To"
+			if logck < "To accept, \BUY 0"
+				setglobal tradername logck.word[6]
+				set numlet logck.word[6].num_letters
+				if logck.word[6].letter[numlet] != "."
+				setglobal tradername + " "
+				setglobal tradername + logck.word[7]
+				set numlet logck.word[7].num_letters
+				end if
+				if logck.word[7].letter[numlet] != "."
+				setglobal tradername + " "
+				setglobal tradername + logck.word[8]
+				end if
+				if tradername.num_words == 1
+						setglobal namewords 1
+				else if tradername.num_words == 2
+						setglobal namewords 2
+				else if tradername.num_words == 3
+						setglobal namewords 3
+				end if
+					call buyish
+			end if
+			end if
+		end if
+	end if
+end if
+goto quickloop
+pause 1
+}
+
+// this is for anti stealing and or anti invatory filling
+// might be spammy whisper may need to be moved.
+mydrop
+{
+"/drop /mine " itemname " \r"
+	"/whisper what a waste. \r"
+}
+ 
+//aproved items
+itemck
+{
+if itemname >= "iron breastplate"
+	call Arep
+else if itemname >= "iron shield"
+	call Arep
+else if itemname >= "iron helmet"
+	call Arep
+else if itemname >= "bronze breastplate"
+	call Arep
+else if itemname >= "bronze shield"
+	call Arep
+else if itemname >= "bronze helmet"
+	call Arep
+else if itemname >= "gilded breastplate"
+	call Arep
+else if itemname >= "lead boots"
+	call Arep
+else if itemname >= "shiny dagger"
+	call Arep
+else if itemname >= "shirt"
+	call Crep
+else if itemname >= "pants"
+	call Crep
+else if itemname >= "cloak"
+	call Crep
+else if itemname >= "shoes"
+	call Crep
+else if itemname >= "parachute"
+	call Crep
+else if itemname >= "blacksmith"
+	call Bmerger
+else if itemname >= "sewing"
+	call Cmerger
+else
+	setglobal junk itemname
+end if
+}
+ 
+ 
+//price checker for armor
+Arep
+{
+setglobal listen 1
+"/equip blacksmith \r"
+	"/selectitem \r"
+		"/selectitem " itemname " \r"
+			"/useitem left \r"
+				"/selectitem \r"
+}
+
+//price checker for clothing
+Crep
+{
+setglobal listen 1
+"/equip blacksmith \r"
+	"/selectitem \r"
+		"/selectitem " itemname " \r"
+			"/useitem left \r"
+				"/selectitem \r"
+}
+ 
+//armor checker
+Aarm
+{
+"/equip blacksmith \r"
+	"/select \r"
+		"/select " guy " \r"
+			"/useitem blacksmith " @selplayer.simple_name " \r"
+				"/select \r"
+}
+ 
+//clothing checker
+Amend
+{
+"/equip sewing \r"
+	"/select \r"
+		"/select " guy " \r"
+			"/useitem sewing " @selplayer.simple_name " \r"
+				"/select \r"
+}
+ 
+// buys item, changes name quick and cheap way to remove the "." at the end of the name.
+buyish
+{
+if tradername != "Nothing"
+	if tradername != ""
+		"/select " tradername " \r"
+			"/buy 0 " @selplayer.simple_name " \r"
+				set tradername @selplayer.name
+					message "* Traded:" @selplayer.name ""
+						"/select \r"
+	end if
+end if
+}
+ 
+// this to basic, needs to check for ALL blacksmith kits, check how much are in them, and if there 0 drop them.
+Bmerger
+{
+"/equip blacksmith \r"
+	"/useitem blacksmith /combine \r"
+		"thank you " tradername " for this gift. \r"
+}
+
+// this to basic, needs to check for ALL sweing kits, check how much are in them, and if there 0 drop them.
+Cmerger
+{
+"/equip sewing \r"
+	"/useitem sewing /combine \r"
+		"thank you " tradername " for this gift. \r"
+}
+
+// sells item back to them at the price that is set else where.
+sellback
+{
+if pricecost1 == 0
+"/selectitem \r"
+	"/selectitem " itemname " \r"
+		"/sell 0 " tradername " \r"
+			"/selectitem \r"
+else if pricecost3 != ""
+"/selectitem \r"
+	"/selectitem " itemname " \r"
+		"/sell " pricecost1 "" pricecost2 "" pricecost3 " " tradername " \r"
+			"/selectitem \r"
+else if pricecost2 != ""
+"/selectitem \r"
+	"/selectitem " itemname " \r"
+		"/sell " pricecost1 "" pricecost2 " " tradername " \r"
+			"/selectitem \r"
+else if pricecost1 != ""
+"/selectitem \r"
+	"/selectitem " itemname " \r"
+		"/sell " pricecost1 " " tradername " \r"
+			"/selectitem \r"
+end if
+}
+
+"/check"
+{
+message "" listen ""
+message "" Autotradeaccept ""
+message "" namewords ""
+message "" tradername ""
+message "" tradername.word[0] ""
+message "" tradername.word[1] ""
+message "" tradername.word[3] ""
+message "" pricecost1 "" pricecost2 "" pricecost3 ""
+message "" ckname ""
+message "" guy ""
+}

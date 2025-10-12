@@ -1,0 +1,64 @@
+"/ah"
+{
+label top
+pause 3
+set guy @env.textLog.word[2]
+set who @env.textLog.word[6]
+set whos @env.textLog.word[7]
+set checkD @env.textLog
+ 
+if checkD >= "c heal"
+	if who >= "me"
+		if @my.right_item != "Asklepian Staff"
+			"/equip asklepianstaff\r"
+end if
+	pause 1
+    "/select " guy " \r"
+		"/use " @selplayer.simple_name " \r"
+			message "*Healing" @selplayer.name ""
+                "/select " @my.simple_name " \r"
+goto top
+else
+	if who == "heal"
+		if @my.right_item != "Asklepian Staff"
+			"/equip asklepianstaff\r"
+end if
+	pause 1
+    "/select " guy " \r"
+		"/use " @selplayer.simple_name " \r"
+			message "*Healing" @selplayer.name ""
+                "/select " @my.simple_name " \r"
+goto top
+else
+	if @my.right_item != "Asklepian Staff"
+		"/equip asklepianstaff\r"
+end if
+	pause 1
+    "/select " who " \r"
+		"/use " @selplayer.simple_name " \r"
+			message "*Healing" @selplayer.name ""
+                "/select " @my.simple_name " \r"
+                    end if
+                end if
+            end if
+        end if
+    end if
+goto top
+}
+ 
+"/area" // if the "user heal all" doesnt work above.
+{
+label top
+pause 3
+set checkT @env.textLog
+ 
+if checkT >= "c area"
+	if @my.right_item != "Asklepian Staff"
+		"/equip asklepianstaff\r"
+end if
+		pause 1
+		"/use \r"
+	message "*Raidum Healing"
+	end if
+goto top
+}

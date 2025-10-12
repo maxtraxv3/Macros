@@ -1,0 +1,51 @@
+// This macro file will be loaded for the player it is named after. 
+
+include "Default"
+include "Ranger"
+
+"/coin1"
+{
+label top
+pause 20
+set @env.click_interrupts true
+random
+{
+"/move south WALK\r"
+pause 3
+"/move stop\r"
+or
+"/move east WALK\r"
+pause 3
+"/move stop\r"
+or
+"/move north WALK\r"
+pause 3
+"/move stop\r"
+or
+"/move west WALK\r"
+pause 3
+"/move stop\r"
+or
+"/move south WALK\r"
+pause 3
+"/move stop\r"
+or
+"/move NORTHEAST WALK\r"
+pause 3
+"/move stop\r"
+or
+"/move SOUTHEAST WALK\r"
+pause 3
+"/move stop\r"
+or
+"/move SOUTHWEST WALK\r"
+pause 3
+"/move stop\r"
+or
+"/move NORTHWEST WALK\r"
+pause 3
+"/move stop\r"
+end random
+}
+goto top
+}

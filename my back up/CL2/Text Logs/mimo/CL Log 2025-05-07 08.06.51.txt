@@ -1,0 +1,29 @@
+
+5/7/25 8:06:52a * Your healer's cloak is in very good condition.
+5/7/25 8:06:52a Welcome to Clan Lord, Mimo!
+5/7/25 8:06:52a Type \HELP for a list of commands.
+5/7/25 8:06:52a • You gain experience from your recent studies.
+5/7/25 8:06:52a *Healer Mode
+5/7/25 8:06:52a *Type /hi help for more info
+5/7/25 8:06:52a The healing spell has started.
+5/7/25 8:06:52a You have been studying for 27 minutes.
+5/7/25 8:06:55a It's 4:17pm on Terrdi, day 90 of Spring, 641.
+5/7/25 8:06:55a Friends online: none.
+5/7/25 8:06:56a There are two members of Black Phoenix clanning: Magnic II and you.
+5/7/25 8:06:56a • What’s New: https://deltatao.com/clanlord/news
+5/7/25 8:06:59a \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+5/7/25 8:06:59a * Healing Woolf 
+5/7/25 8:07:05a \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+5/7/25 8:07:05a * Healing MagnicII 
+5/7/25 8:07:06a * Tip of the day: Starting your /BUG report with a keyword will help us handle it sooner. Type /BUG ? for a list of keywords. (Use /OPTIONS to turn tips off.)
+5/7/25 8:07:09a Magnic II is sharing experiences with you.
+5/7/25 8:07:32a •You do not have enough in you.
+5/7/25 8:07:43a \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+5/7/25 8:07:43a * Healing Woolf 
+5/7/25 8:07:54a \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+5/7/25 8:07:54a * Healing MagnicII 
+5/7/25 8:08:07a Koppi yells, "Talin reports: please stop bringing big monsters to where younger players travel. you ruin the fun not just for the few you might want to mess with, but many more."
+5/7/25 8:08:12a • /SLEEP when you wish to begin studying.
+5/7/25 8:08:14a Use \SLEEP again when you return.
+5/7/25 8:08:14a You are done adventuring for a while and will be staying here.
+5/7/25 8:08:15a You have been disconnected from Cl

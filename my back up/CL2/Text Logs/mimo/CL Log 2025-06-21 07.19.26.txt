@@ -1,0 +1,398 @@
+
+6/21/25 7:19:27a * Your healer's cloak is in very good condition.
+6/21/25 7:19:27a Welcome to Clan Lord, Mimo!
+6/21/25 7:19:27a Type \HELP for a list of commands.
+6/21/25 7:19:27a • You gain experience from your recent studies.
+6/21/25 7:19:27a *Healer Mode
+6/21/25 7:19:27a * Healer Item set to asklepian staff 
+6/21/25 7:19:27a The healing spell has started.
+6/21/25 7:19:27a You have been studying for 7 days, 15 hours, 4 minutes.
+6/21/25 7:19:30a It's 3:15pm on Fordi, day 4 of Winter, 642.
+6/21/25 7:19:31a There are two members of Black Phoenix clanning: Grando and you.
+6/21/25 7:19:31a • What’s New: https://deltatao.com/clanlord/news
+6/21/25 7:19:33a Friends online: none.
+6/21/25 7:20:16a •The healing spell has been broken.
+6/21/25 7:20:19a •You seem to be able to take more damage now.
+6/21/25 7:20:39a * You need a breath of air!
+6/21/25 7:21:27a * Auto Healer ON!
+6/21/25 7:22:54a You have 15 coins.
+6/21/25 7:23:36a Grando is sharing experiences with you.
+6/21/25 7:25:47a  Mork added to Karma list
+6/21/25 7:25:57a  Silky added to Karma list
+6/21/25 7:26:02a  Shobaffum added to Karma list
+6/21/25 7:26:06a  Tasus added to Karma list
+6/21/25 7:26:13a * Karma Message set to  . 
+6/21/25 7:26:17a * Auto Thanker Online!
+6/21/25 7:26:17a Mork is too far away for your explanation.
+6/21/25 7:26:17a You gave signed good karma to Mork.
+6/21/25 7:26:46a You have 15 coins.
+6/21/25 7:27:10a  Ace added to Karma list
+6/21/25 7:27:22a * Auto Healer ON!
+6/21/25 7:27:31a *Healer Mode
+6/21/25 7:27:31a * Healer Item set to asklepian staff 
+6/21/25 7:27:35a * Auto Healer ON!
+6/21/25 7:27:39a * Karma Message set to  . 
+6/21/25 7:28:02a  Mork added to Karma list
+6/21/25 7:28:05a  Silky added to Karma list
+6/21/25 7:28:06a  Shobaffum added to Karma list
+6/21/25 7:28:07a  Tasus added to Karma list
+6/21/25 7:28:09a  Ace added to Karma list
+6/21/25 7:28:12a * Auto Thanker Online!
+6/21/25 7:28:13a You have no karma to give.
+6/21/25 7:29:12a Grando says, "c heal me"
+6/21/25 7:29:13a * Auto Healing Grando 
+6/21/25 7:29:13a •Grando was too wounded to be healed easily.
+6/21/25 7:29:15a •You learn from healing.
+6/21/25 7:29:43a •You do not have enough in you.
+6/21/25 7:30:29a Grando says, "c area"
+6/21/25 7:30:30a • You begin radius healing.
+6/21/25 7:30:50a You have 15 coins.
+6/21/25 7:31:40a • There is nobody nearby enough to continue radius healing.
+6/21/25 7:32:03a Grando says, "c heal me"
+6/21/25 7:32:03a * Auto Healing Grando 
+6/21/25 7:32:58a Grando says, "c heal me"
+6/21/25 7:32:59a * Auto Healing Grando 
+6/21/25 7:33:28a Grando says, "c area"
+6/21/25 7:33:28a • You begin radius healing.
+6/21/25 7:33:52a • There is nobody nearby enough to continue radius healing.
+6/21/25 7:33:55a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+6/21/25 7:33:56a Mimo has fallen to a Watery Guardian.
+6/21/25 7:33:56a •You are too wounded to be healed easily.
+6/21/25 7:34:13a Silky is too far away for your explanation.
+6/21/25 7:34:13a You gave signed good karma to Silky.
+6/21/25 7:34:25a You have 15 coins.
+6/21/25 7:37:57a You have 15 coins.
+6/21/25 7:39:14a Your spirit has departed your body 60 times.
+6/21/25 7:40:14a Shobaffum is too far away for your explanation.
+6/21/25 7:40:14a You gave signed good karma to Shobaffum.
+6/21/25 7:41:26a You have 15 coins.
+6/21/25 7:42:34a * You need a breath of air!
+6/21/25 7:43:26a Grando says, "c heal me"
+6/21/25 7:43:26a * Auto Healing Grando 
+6/21/25 7:44:01a Grando says, "c heal me"
+6/21/25 7:44:02a * Auto Healing Grando 
+6/21/25 7:44:38a You have 15 coins.
+6/21/25 7:44:40a Grando says, "c area"
+6/21/25 7:44:40a • You begin radius healing.
+6/21/25 7:44:58a • There is nobody nearby enough to continue radius healing.
+6/21/25 7:46:15a Tasus is too far away for your explanation.
+6/21/25 7:46:15a You gave signed good karma to Tasus.
+6/21/25 7:46:26a Grando says, "c heal me"
+6/21/25 7:46:26a * Auto Healing Grando 
+6/21/25 7:46:44a Grando says, "c heal me"
+6/21/25 7:46:45a * Auto Healing Grando 
+6/21/25 7:47:18a Grando says, "c area"
+6/21/25 7:47:19a • You begin radius healing.
+6/21/25 7:48:20a You have 15 coins.
+6/21/25 7:48:43a • There is nobody nearby enough to continue radius healing.
+6/21/25 7:49:02a Grando says, "c heal me"
+6/21/25 7:49:02a * Auto Healing Grando 
+6/21/25 7:49:31a Grando says, "c heal me"
+6/21/25 7:49:31a * Auto Healing Grando 
+6/21/25 7:50:02a Grando says, "c area"
+6/21/25 7:50:03a • You begin radius healing.
+6/21/25 7:51:11a • There is nobody nearby enough to continue radius healing.
+6/21/25 7:51:29a Grando says, "c area"
+6/21/25 7:51:29a • You begin radius healing.
+6/21/25 7:51:31a Grando says, "c heal me"
+6/21/25 7:51:31a * Auto Healing Grando 
+6/21/25 7:52:06a You have 15 coins.
+6/21/25 7:52:16a Ace is too far away for your explanation.
+6/21/25 7:52:16a You gave signed good karma to Ace.
+6/21/25 7:52:24a Grando says, "c heal me"
+6/21/25 7:52:24a * Auto Healing Grando 
+6/21/25 7:52:38a Grando says, "c area"
+6/21/25 7:52:38a • You begin radius healing.
+6/21/25 7:52:54a Grando says, "c heal me"
+6/21/25 7:52:54a * Auto Healing Grando 
+6/21/25 7:53:24a Grando says, "c area"
+6/21/25 7:53:24a • You begin radius healing.
+6/21/25 7:53:39a Grando says, "c heal me"
+6/21/25 7:53:40a * Auto Healing Grando 
+6/21/25 7:54:18a Grando says, "c area"
+6/21/25 7:54:18a • You begin radius healing.
+6/21/25 7:54:49a Grando says, "c heal me"
+6/21/25 7:54:49a * Auto Healing Grando 
+6/21/25 7:55:16a Grando says, "c heal me"
+6/21/25 7:55:16a * Auto Healing Grando 
+6/21/25 7:55:38a Grando says, "c area"
+6/21/25 7:55:38a • You begin radius healing.
+6/21/25 7:55:48a You have 15 coins.
+6/21/25 7:57:14a • There is nobody nearby enough to continue radius healing.
+6/21/25 7:57:21a Grando says, "c heal me"
+6/21/25 7:57:21a * Auto Healing Grando 
+6/21/25 7:58:07a Grando says, "c heal me"
+6/21/25 7:58:07a * Auto Healing Grando 
+6/21/25 7:58:17a Mork is too far away for your explanation.
+6/21/25 7:58:17a You gave signed good karma to Mork.
+6/21/25 7:58:25a Grando says, "c area"
+6/21/25 7:58:26a • You begin radius healing.
+6/21/25 7:58:53a • There is nobody nearby enough to continue radius healing.
+6/21/25 7:58:59a Grando says, "c heal me"
+6/21/25 7:58:59a * Auto Healing Grando 
+6/21/25 7:59:29a You have 15 coins.
+6/21/25 8:01:54a Grando says, "c heal me"
+6/21/25 8:01:55a * Auto Healing Grando 
+6/21/25 8:02:57a Grando says, "c heal me"
+6/21/25 8:02:57a * Auto Healing Grando 
+6/21/25 8:03:16a You have 15 coins.
+6/21/25 8:04:17a Silky is too far away for your explanation.
+6/21/25 8:04:17a You gave signed good karma to Silky.
+6/21/25 8:04:37a Grando says, "c heal me"
+6/21/25 8:04:37a * Auto Healing Grando 
+6/21/25 8:05:27a Grando says, "c heal me"
+6/21/25 8:05:27a * Auto Healing Grando 
+6/21/25 8:07:01a You have 15 coins.
+6/21/25 8:07:31a Grando says, "c heal me"
+6/21/25 8:07:31a * Auto Healing Grando 
+6/21/25 8:09:16a Grando says, "c heal me"
+6/21/25 8:09:16a * Auto Healing Grando 
+6/21/25 8:10:18a Shobaffum is too far away for your explanation.
+6/21/25 8:10:18a You gave signed good karma to Shobaffum.
+6/21/25 8:10:39a You have 15 coins.
+6/21/25 8:10:46a Grando says, "c heal me"
+6/21/25 8:10:47a * Auto Healing Grando 
+6/21/25 8:11:27a Grando says, "c area"
+6/21/25 8:11:27a • You begin radius healing.
+6/21/25 8:11:55a • There is nobody nearby enough to continue radius healing.
+6/21/25 8:12:07a Grando says, "c heal me"
+6/21/25 8:12:07a * Auto Healing Grando 
+6/21/25 8:13:18a Grando says, "c heal me"
+6/21/25 8:13:18a * Auto Healing Grando 
+6/21/25 8:14:10a Grando says, "c area"
+6/21/25 8:14:10a • You begin radius healing.
+6/21/25 8:14:23a You have 15 coins.
+6/21/25 8:14:26a Grando says, "c heal me"
+6/21/25 8:14:27a * Auto Healing Grando 
+6/21/25 8:14:57a Grando says, "c area"
+6/21/25 8:14:57a • You begin radius healing.
+6/21/25 8:15:24a • There is nobody nearby enough to continue radius healing.
+6/21/25 8:16:01a Grando says, "c heal me"
+6/21/25 8:16:02a * Auto Healing Grando 
+6/21/25 8:16:19a Tasus is too far away for your explanation.
+6/21/25 8:16:19a You gave signed good karma to Tasus.
+6/21/25 8:18:09a You have 15 coins.
+6/21/25 8:19:26a Grando says, "c heal me"
+6/21/25 8:19:27a * Auto Healing Grando 
+6/21/25 8:20:05a Grando says, "c area"
+6/21/25 8:20:06a • You begin radius healing.
+6/21/25 8:20:18a Grando says, "c heal me"
+6/21/25 8:20:19a * Auto Healing Grando 
+6/21/25 8:20:54a Grando says, "c area"
+6/21/25 8:20:54a • You begin radius healing.
+6/21/25 8:21:58a You have 15 coins.
+6/21/25 8:22:02a Grando says, "c heal me"
+6/21/25 8:22:02a * Auto Healing Grando 
+6/21/25 8:22:20a Ace is too far away for your explanation.
+6/21/25 8:22:20a You gave signed good karma to Ace.
+6/21/25 8:22:59a Grando says, "c heal me"
+6/21/25 8:22:59a * Auto Healing Grando 
+6/21/25 8:23:00a •Grando’s injuries were serious.
+6/21/25 8:23:45a Grando says, "c area"
+6/21/25 8:23:45a • You begin radius healing.
+6/21/25 8:25:41a You have 15 coins.
+6/21/25 8:26:10a Grando says, "c heal me"
+6/21/25 8:26:11a * Auto Healing Grando 
+6/21/25 8:26:32a Grando says, "c heal me"
+6/21/25 8:26:33a * Auto Healing Grando 
+6/21/25 8:27:40a Grando says, "c heal me"
+6/21/25 8:27:40a * Auto Healing Grando 
+6/21/25 8:27:41a •Grando was too wounded to be healed easily.
+6/21/25 8:27:56a Grando says, "c area"
+6/21/25 8:27:56a • You begin radius healing.
+6/21/25 8:28:20a Mork is too far away for your explanation.
+6/21/25 8:28:20a You gave signed good karma to Mork.
+6/21/25 8:29:13a Grando says, "c heal me"
+6/21/25 8:29:13a * Auto Healing Grando 
+6/21/25 8:29:18a You have 15 coins.
+6/21/25 8:30:10a Grando says, "c area"
+6/21/25 8:30:10a • You begin radius healing.
+6/21/25 8:30:46a • There is nobody nearby enough to continue radius healing.
+6/21/25 8:31:04a Grando says, "c heal me"
+6/21/25 8:31:05a * Auto Healing Grando 
+6/21/25 8:32:30a Grando says, "c heal me"
+6/21/25 8:32:31a * Auto Healing Grando 
+6/21/25 8:33:03a You have 15 coins.
+6/21/25 8:34:16a Grando says, "c heal me"
+6/21/25 8:34:16a * Auto Healing Grando 
+6/21/25 8:34:21a 'Silky' is not in the lands.
+6/21/25 8:34:22a * Silky will be removed from Karma list.
+6/21/25 8:34:22a You have no karma to give.
+6/21/25 8:35:44a Grando says, "c heal me"
+6/21/25 8:35:44a * Auto Healing Grando 
+6/21/25 8:36:47a You have 15 coins.
+6/21/25 8:37:48a Grando says, "c heal me"
+6/21/25 8:37:48a * Auto Healing Grando 
+6/21/25 8:38:32a Grando says, "c area"
+6/21/25 8:38:32a • You begin radius healing.
+6/21/25 8:38:55a Grando says, "c heal me"
+6/21/25 8:38:55a * Auto Healing Grando 
+6/21/25 8:39:56a Grando says, "c heal me"
+6/21/25 8:39:57a * Auto Healing Grando 
+6/21/25 8:40:23a Ace is too far away for your explanation.
+6/21/25 8:40:23a You gave signed good karma to Ace.
+6/21/25 8:40:32a You have 15 coins.
+6/21/25 8:42:13a Grando says, "c heal me"
+6/21/25 8:42:14a * Auto Healing Grando 
+6/21/25 8:44:14a You have 15 coins.
+6/21/25 8:46:24a Mork is too far away for your explanation.
+6/21/25 8:46:24a You gave signed good karma to Mork.
+6/21/25 8:47:54a You have 15 coins.
+6/21/25 8:51:34a You have 15 coins.
+6/21/25 8:52:24a You have no karma to give.
+6/21/25 8:55:16a You have 15 coins.
+6/21/25 8:58:25a Tasus is too far away for your explanation.
+6/21/25 8:58:25a You gave signed good karma to Tasus.
+6/21/25 8:58:56a You have 15 coins.
+6/21/25 9:02:36a You have 15 coins.
+6/21/25 9:03:06a Grando says, "c heal me"
+6/21/25 9:03:07a * Auto Healing Grando 
+6/21/25 9:03:59a Grando says, "c heal me"
+6/21/25 9:03:59a * Auto Healing Grando 
+6/21/25 9:04:26a Ace is too far away for your explanation.
+6/21/25 9:04:26a You gave signed good karma to Ace.
+6/21/25 9:04:28a Grando says, "c heal me"
+6/21/25 9:04:28a * Auto Healing Grando 
+6/21/25 9:05:15a Grando says, "c heal me"
+6/21/25 9:05:15a * Auto Healing Grando 
+6/21/25 9:05:46a Grando says, "c area"
+6/21/25 9:05:46a • You begin radius healing.
+6/21/25 9:06:11a • There is nobody nearby enough to continue radius healing.
+6/21/25 9:06:18a You have 15 coins.
+6/21/25 9:06:22a Grando says, "c heal me"
+6/21/25 9:06:23a * Auto Healing Grando 
+6/21/25 9:09:59a You have 15 coins.
+6/21/25 9:10:27a Mork is too far away for your explanation.
+6/21/25 9:10:27a You gave signed good karma to Mork.
+6/21/25 9:12:40a Grando says, "c heal me"
+6/21/25 9:12:40a * Auto Healing Grando 
+6/21/25 9:13:35a You have 15 coins.
+6/21/25 9:13:36a Grando says, "c heal me"
+6/21/25 9:13:37a * Auto Healing Grando 
+6/21/25 9:16:09a Grando says, "c heal me"
+6/21/25 9:16:09a * Auto Healing Grando 
+6/21/25 9:16:28a Shobaffum is too far away for your explanation.
+6/21/25 9:16:28a You gave signed good karma to Shobaffum.
+6/21/25 9:16:56a Grando says, "c heal me"
+6/21/25 9:16:56a * Auto Healing Grando 
+6/21/25 9:17:15a You have 15 coins.
+6/21/25 9:18:00a Grando says, "c area"
+6/21/25 9:18:00a • You begin radius healing.
+6/21/25 9:18:15a Grando says, "c heal me"
+6/21/25 9:18:15a * Auto Healing Grando 
+6/21/25 9:18:41a Grando says, "c area"
+6/21/25 9:18:41a • You begin radius healing.
+6/21/25 9:18:55a Grando says, "c heal me"
+6/21/25 9:18:55a * Auto Healing Grando 
+6/21/25 9:19:26a Grando says, "c area"
+6/21/25 9:19:27a • You begin radius healing.
+6/21/25 9:19:45a Grando says, "c heal me"
+6/21/25 9:19:45a * Auto Healing Grando 
+6/21/25 9:20:15a Grando says, "c area"
+6/21/25 9:20:16a • You begin radius healing.
+6/21/25 9:20:54a You have 15 coins.
+6/21/25 9:21:00a • There is nobody nearby enough to continue radius healing.
+6/21/25 9:22:28a You have no karma to give.
+6/21/25 9:24:32a You have 15 coins.
+6/21/25 9:27:44a • It’s Midnight on Sombdi, the 5th day of Winter in the 642nd year of the Ascendancy, and all’s well.
+6/21/25 9:28:10a You have 15 coins.
+6/21/25 9:28:29a Ace is too far away for your explanation.
+6/21/25 9:28:29a You gave signed good karma to Ace.
+6/21/25 9:31:54a You have 15 coins.
+6/21/25 9:32:48a Grando says, "c heal me"
+6/21/25 9:32:48a * Auto Healing Grando 
+6/21/25 9:34:04a Grando says, "c heal me"
+6/21/25 9:34:04a * Auto Healing Grando 
+6/21/25 9:34:30a Mork is too far away for your explanation.
+6/21/25 9:34:30a You gave signed good karma to Mork.
+6/21/25 9:35:36a You have 15 coins.
+6/21/25 9:36:23a Grando says, "c heal me"
+6/21/25 9:36:24a * Auto Healing Grando 
+6/21/25 9:36:59a Grando says, "c area"
+6/21/25 9:37:00a • You begin radius healing.
+6/21/25 9:37:22a • There is nobody nearby enough to continue radius healing.
+6/21/25 9:37:34a Grando says, "c heal me"
+6/21/25 9:37:35a * Auto Healing Grando 
+6/21/25 9:38:44a Grando says, "c heal me"
+6/21/25 9:38:45a * Auto Healing Grando 
+6/21/25 9:39:17a You have 15 coins.
+6/21/25 9:40:08a Grando says, "c heal me"
+6/21/25 9:40:08a * Auto Healing Grando 
+6/21/25 9:40:31a Shobaffum is too far away for your explanation.
+6/21/25 9:40:31a You gave signed good karma to Shobaffum.
+6/21/25 9:42:59a You have 15 coins.
+6/21/25 9:44:33a Grando says, "c heal me"
+6/21/25 9:44:34a * Auto Healing Grando 
+6/21/25 9:45:23a Grando says, "c heal me"
+6/21/25 9:45:24a * Auto Healing Grando 
+6/21/25 9:46:32a Tasus is too far away for your explanation.
+6/21/25 9:46:32a You gave signed good karma to Tasus.
+6/21/25 9:46:38a You have 15 coins.
+6/21/25 9:47:21a Grando says, "c heal me"
+6/21/25 9:47:22a * Auto Healing Grando 
+6/21/25 9:48:48a Grando says, "c heal me"
+6/21/25 9:48:48a * Auto Healing Grando 
+6/21/25 9:50:18a You have 15 coins.
+6/21/25 9:50:26a Grando says, "c heal me"
+6/21/25 9:50:27a * Auto Healing Grando 
+6/21/25 9:52:32a Ace is too far away for your explanation.
+6/21/25 9:52:32a You gave signed good karma to Ace.
+6/21/25 9:52:44a Grando says, "c heal me"
+6/21/25 9:52:44a * Auto Healing Grando 
+6/21/25 9:52:46a You just received anonymous good karma.
+6/21/25 9:54:00a You have 15 coins.
+6/21/25 9:57:42a You have 15 coins.
+6/21/25 9:58:33a Mork is too far away for your explanation.
+6/21/25 9:58:33a You gave signed good karma to Mork.
+6/21/25 10:01:12a You have 15 coins.
+6/21/25 10:04:34a Shobaffum is too far away for your explanation.
+6/21/25 10:04:34a You gave signed good karma to Shobaffum.
+6/21/25 10:04:52a You have 15 coins.
+6/21/25 10:05:28a You just received anonymous good karma.
+6/21/25 10:07:49a Grando says, "c heal me"
+6/21/25 10:07:49a * Auto Healing Grando 
+6/21/25 10:08:34a You have 15 coins.
+6/21/25 10:09:05a Grando says, "c heal me"
+6/21/25 10:09:05a * Auto Healing Grando 
+6/21/25 10:10:10a Grando says, "c heal me"
+6/21/25 10:10:10a * Auto Healing Grando 
+6/21/25 10:10:35a Tasus is too far away for your explanation.
+6/21/25 10:10:35a You gave signed good karma to Tasus.
+6/21/25 10:11:20a Grando says, "c heal me"
+6/21/25 10:11:20a * Auto Healing Grando 
+6/21/25 10:12:16a You have 15 coins.
+6/21/25 10:12:40a Grando says, "c heal me"
+6/21/25 10:12:40a * Auto Healing Grando 
+6/21/25 10:15:57a You have 15 coins.
+6/21/25 10:16:36a Ace is too far away for your explanation.
+6/21/25 10:16:36a You gave signed good karma to Ace.
+6/21/25 10:17:07a Grando says, "c heal me"
+6/21/25 10:17:07a * Auto Healing Grando 
+6/21/25 10:18:17a Grando says, "c heal me"
+6/21/25 10:18:17a * Auto Healing Grando 
+6/21/25 10:19:38a You have 15 coins.
+6/21/25 10:20:26a Grando says, "c heal me"
+6/21/25 10:20:27a * Auto Healing Grando 
+6/21/25 10:22:36a Mork is too far away for your explanation.
+6/21/25 10:22:36a You gave signed good karma to Mork.
+6/21/25 10:23:18a You have 15 coins.
+6/21/25 10:27:00a You have 15 coins.
+6/21/25 10:28:37a Shobaffum is too far away for your explanation.
+6/21/25 10:28:37a You gave signed good karma to Shobaffum.
+6/21/25 10:29:54a Grando says, "c heal me"
+6/21/25 10:29:54a * Auto Healing Grando 
+6/21/25 10:30:43a You have 15 coins.
+6/21/25 10:34:26a You have 15 coins.
+6/21/25 10:34:38a Tasus is too far away for your explanation.
+6/21/25 10:34:38a You gave signed good karma to Tasus.
+6/21/25 10:35:51a Grando says, "c heal me"
+6/21/25 10:35:51a * Auto Healing Grando 
+6/21/25 10:36:35a Grando says, "c heal me"
+6/21/25 10:36:35a * Auto Healing Grando 
+6/21/25 10:38:11a You have 15 coins.
+6/21/25 10:38:55a IHael'du thinks, "is someone with Holden down to an Honor Guard Vet? I help needed where is that?"
+6/21/25 10:40:39a Ace is too far away for your explanation.
+6/21/25 10:40:39a You gave signed good karma to Ace.
+6/21/25 10:42:02a You have 15 coins.
+6/21/25 10:43:03a IHael'du thinks, "Super cute healer available for your hunts."
+6/21/25 10:44:22a IHael'du thinks, "500-549 Horus p

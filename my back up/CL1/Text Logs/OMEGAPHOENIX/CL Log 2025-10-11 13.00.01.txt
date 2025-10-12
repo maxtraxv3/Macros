@@ -1,0 +1,815 @@
+
+10/11/25 1:00:02p * Your shirt named “dark grey” is in very good condition.
+10/11/25 1:00:02p * Your pair of pants named “dark grey” is in very good condition.
+10/11/25 1:00:02p * Your pair of shoes named “red” is in very good condition.
+10/11/25 1:00:02p •You feel a surge of power as your blood pours down the blade.
+10/11/25 1:00:02p * You feel affixed to your previously set health.
+10/11/25 1:00:02p Welcome to Clan Lord, Magnic I!
+10/11/25 1:00:02p Type \HELP for a list of commands.
+10/11/25 1:00:02p • You gain experience from your recent studies.
+10/11/25 1:00:02p Magnic I is now Clanning.
+10/11/25 1:00:02p You have been studying for 7 days, 14 minutes.
+10/11/25 1:00:02p Friends online: none.
+10/11/25 1:00:05p It's 2:43pm on Gradi, day 13 of Spring, 643.
+10/11/25 1:00:06p You are the only member of Black Phoenix clanning.
+10/11/25 1:00:06p • There was a problem with the update and we had to revert to a previous snapshot. We've attempted to give 25 ranks as compensation, but have reports of people missing it. We're investigating.
+10/11/25 1:00:06p •What's New: https://deltatao.com/clanlord/news/
+10/11/25 1:00:16p * Tip of the day: If you don’t like this tip, suggest a better one using /BUG TIP ... . (Use /OPTIONS to turn tips off.)
+10/11/25 1:00:31p Kiera ponders, "Ravensuu'ub III"
+10/11/25 1:00:35p Dandelion exclaims, "Heyers!"
+10/11/25 1:00:37p Suu'ub III says, "<=^_^=>"
+10/11/25 1:00:38p Kiera exclaims, "hi!"
+10/11/25 1:00:56p Arc is no longer Clanning.
+10/11/25 1:00:59p Klur is now Clanning.
+10/11/25 1:01:00p Connie Crete says, "ber Dande"
+10/11/25 1:01:11p Valadorei ponders, "They look like they are making band posters."
+10/11/25 1:01:15p Giben says, "hiya Dande"
+10/11/25 1:01:16p Koppi yells, "Stinkfist reports: Cecil challenges Sir Coriakin to a Dance Battle for the Hut!! (any and all dance squads welcome), date TBD"
+10/11/25 1:01:25p •You notice your balance and recovery improving.
+10/11/25 1:01:29p You begin sharing your experiences with Warplet.
+10/11/25 1:01:30p You are still too mentally fatigued to change spirit links.
+10/11/25 1:01:31p You are still too mentally fatigued to change spirit links.
+10/11/25 1:01:32p You begin sharing your experiences with Dandelion.
+10/11/25 1:01:32p You are sharing experiences with Dandelion and Warplet.
+10/11/25 1:01:34p You are still too mentally fatigued to change spirit links.
+10/11/25 1:01:35p You are still too mentally fatigued to change spirit links.
+10/11/25 1:01:36p You begin sharing your experiences with Klur.
+10/11/25 1:01:36p You are sharing experiences with Klur, Dandelion and Warplet.
+10/11/25 1:01:41p You begin sharing your experiences with Valadorei.
+10/11/25 1:01:41p You are sharing experiences with Valadorei, Klur, Dandelion and Warplet.
+10/11/25 1:02:02p Shakyamuni is no longer Clanning.
+10/11/25 1:02:08p Kwan'Yin is now Clanning.
+10/11/25 1:02:15p Jo Ma'ril is now Clanning.
+10/11/25 1:02:18p Connie Crete asks, "we got ya tanight Valadori?"
+10/11/25 1:02:47p Connie Crete asks, "got ya tanight Nug?"
+10/11/25 1:02:48p Valadorei says, "Sure! Seems you are low on Mystic energy."
+10/11/25 1:02:52p Seaforth says, "."
+10/11/25 1:02:54p You have 515 coins.
+10/11/25 1:02:55p (Jo Ma'ril waves)
+10/11/25 1:02:58p (Kiera waves)
+10/11/25 1:02:59p Connie Crete says, "nice ta have a REAL mystic along"
+10/11/25 1:03:01p Dandelion says, "Heyers, Jo"
+10/11/25 1:03:06p (Valadorei snorts.)
+10/11/25 1:03:25p Connie Crete says, "Mob - part 1) git Warp his book 3 that he fergot .. part 2 TBA dependin ifn more velcro or not"
+10/11/25 1:03:32p Connie Crete yells, "ta mellys house"
+10/11/25 1:03:38p • You gain experience from your adventures.
+10/11/25 1:03:49p  Warplet  added to Karma list
+10/11/25 1:03:56p You begin sharing your experiences with Kiera.
+10/11/25 1:03:56p You are sharing experiences with Kiera, Valadorei, Klur, Dandelion and Warplet.
+10/11/25 1:04:00p  Kiera  added to Karma list
+10/11/25 1:04:00p Captain Barnac asks, "Ah, Dandelion. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+10/11/25 1:04:00p Dandelion says, "Yes please"
+10/11/25 1:04:01p Fird Lirden asks, "Ah, Seaforth. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+10/11/25 1:04:01p Seaforth says, "yes"
+10/11/25 1:04:01p Kiera says, "yes"
+10/11/25 1:04:01p Bear Knuckle asks, "Ah, Kiera. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+10/11/25 1:04:02p Kiera says, "yes"
+10/11/25 1:04:02p Kiera says, "yes"
+10/11/25 1:04:03p Captain Barnac asks, "Ah, Ebony. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+10/11/25 1:04:03p Ebony says, "yes"
+10/11/25 1:04:05p Fird Lirden asks, "Ah, Magnic I. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+10/11/25 1:04:05p Bear Knuckle asks, "Ah, Warplet. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+10/11/25 1:04:05p Captain Barnac asks, "Ah, Connie Crete. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+10/11/25 1:04:05p Warplet says, "yes"
+10/11/25 1:04:06p Connie Crete says, "yes"
+10/11/25 1:04:07p Fird Lirden says, "Bah, away with you then, and quit wasting my time."
+10/11/25 1:04:08p Bear Knuckle asks, "Ah, Giben. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+10/11/25 1:04:09p Giben says, "yes"
+10/11/25 1:04:09p Captain Barnac asks, "Ah, Magnic I. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+10/11/25 1:04:10p Magnic I whispers, "yes"
+10/11/25 1:04:25p •You notice your balance and recovery improving.
+10/11/25 1:04:28p You slaughtered a Shredder.
+10/11/25 1:04:45p  Dandelion  added to Karma list
+10/11/25 1:05:20p Connie Crete says, "in - 10"
+10/11/25 1:05:22p (Valadorei nods to Connie)
+10/11/25 1:05:24p  Klur  added to Karma list
+10/11/25 1:05:25p Connie Crete says, "k"
+10/11/25 1:05:28p Connie Crete says, "10 oclock"
+10/11/25 1:05:43p You have 510 coins.
+10/11/25 1:05:52p Kwan'Yin asks, "those exp for you?"
+10/11/25 1:05:56p •You notice your balance and recovery improving.
+10/11/25 1:05:56p Giben says, "hmmmph"
+10/11/25 1:06:01p Giben says, "i don't think so"
+10/11/25 1:06:02p 'TM' is not a recognized command.
+10/11/25 1:06:04p Connie Crete thinks, "tamob: 4 healers and Valadori"
+10/11/25 1:06:07p * Karma Message set to  . 
+10/11/25 1:06:08p Connie Crete yells, "in - keel all"
+10/11/25 1:06:09p * Auto Thanker Online!
+10/11/25 1:06:09p You have no karma to give.
+10/11/25 1:06:10p * Auto Thanker re-doing last
+10/11/25 1:06:19p You slaughtered an Ethereal Stalker.
+10/11/25 1:06:19p Seaforth yells, "."
+10/11/25 1:06:33p Kwan'Yin yells, "mind the mist"
+10/11/25 1:06:36p You helped slaughter an Ethereal Walker.
+10/11/25 1:06:40p Seaforth yells, "."
+10/11/25 1:06:40p Ebony thinks, "mist near"
+10/11/25 1:06:44p * You absorb the essence of the Ethereal Walker.
+10/11/25 1:06:44p You slaughtered an Ethereal Slug.
+10/11/25 1:06:44p Connie Crete yells, "beer!"
+10/11/25 1:06:57p You slaughtered a Giant Vermine.
+10/11/25 1:06:59p Kwan'Yin finds a hidden tunnel under the rocks.
+10/11/25 1:07:01p You slaughtered a Giant Vermine.
+10/11/25 1:07:02p * Klur recovers the Giant Vermine fur, worth 3c. Your share is 1c.
+10/11/25 1:07:07p Valadorei ponders, "Almost caught Jo"
+10/11/25 1:07:18p Connie Crete yells, "in - clear gatehr n"
+10/11/25 1:07:20p You slaughtered a Carnivorous Tor.
+10/11/25 1:07:26p You helped vanquish an Orga Dredlock.
+10/11/25 1:07:26p * Your share in the 2c Orga Dredlock bounty is 1c.
+10/11/25 1:07:27p * You pick up 4 coins.
+10/11/25 1:07:27p * You gain experience.
+10/11/25 1:07:32p * You pick up 3 coins.
+10/11/25 1:07:32p * You gain experience.
+10/11/25 1:07:34p Suu'ub III is no longer Clanning.
+10/11/25 1:07:34p * You pick up 2 coins.
+10/11/25 1:07:34p * You gain experience.
+10/11/25 1:07:35p * You pick up 6 coins.
+10/11/25 1:07:35p * You gain experience.
+10/11/25 1:07:36p You slaughtered a Large Vermine.
+10/11/25 1:07:36p * Klur recovers the Large Vermine fur, worth 1c. Your share is 1c.
+10/11/25 1:07:39p * You pick up 2 coins.
+10/11/25 1:07:39p * You gain experience.
+10/11/25 1:07:47p You slaughtered an Orga.
+10/11/25 1:07:51p You slaughtered a Giant Vermine.
+10/11/25 1:08:00p * You pick up 2 coins.
+10/11/25 1:08:00p * You gain experience.
+10/11/25 1:08:09p Connie Crete yells, "n - keel gatehr >>"
+10/11/25 1:08:16p * You pick up 89 coins.
+10/11/25 1:08:16p * You gain experience.
+10/11/25 1:08:17p A monster growls, "Kill!"
+10/11/25 1:08:22p You helped slaughter an Orga Rage.
+10/11/25 1:08:23p * Your share in the 2c Orga Rage bounty is 1c.
+10/11/25 1:08:23p * You pick up 3 coins.
+10/11/25 1:08:23p * You gain experience.
+10/11/25 1:08:25p Jo Ma'ril yells, "hatred"
+10/11/25 1:08:29p * You pick up 3 coins.
+10/11/25 1:08:29p * You gain experience.
+10/11/25 1:08:34p You have 628 coins.
+10/11/25 1:08:39p You killed an Orga Dredlock.
+10/11/25 1:08:39p * Your share in the 3c Orga Dredlock bounty is 1c.
+10/11/25 1:08:42p * You pick up 19 coins.
+10/11/25 1:08:42p * You gain experience.
+10/11/25 1:08:42p A monster growls, "Die!"
+10/11/25 1:08:43p You slaughtered an Orga Warrior.
+10/11/25 1:08:46p You slaughtered an Orga.
+10/11/25 1:08:48p Yalena is now Clanning.
+10/11/25 1:08:51p You slaughtered an Orga Hemlock.
+10/11/25 1:08:53p * You pick up 27 coins.
+10/11/25 1:08:53p * You gain experience.
+10/11/25 1:08:56p Kwan'Yin yells, "!"
+10/11/25 1:08:57p You slaughtered an Orga Zealot.
+10/11/25 1:09:00p You slaughtered a Vermine.
+10/11/25 1:09:03p Connie Crete yells, "beer!"
+10/11/25 1:09:03p You slaughtered an Orga Zealot.
+10/11/25 1:09:14p Connie Crete yells, "in, keel pf"
+10/11/25 1:09:15p You slaughtered an Orga Zealot.
+10/11/25 1:09:15p * Your share in the 5c Orga Zealot bounty is 1c.
+10/11/25 1:09:27p You helped slaughter an Orga Rage.
+10/11/25 1:09:27p * Your share in the 5c Orga Rage bounty is 1c.
+10/11/25 1:09:33p You slaughtered a Death Vermine.
+10/11/25 1:09:33p * Dandelion recovers the Death Vermine fur, worth 1c. Your share is 1c.
+10/11/25 1:09:33p Connie Crete yells, "cross"
+10/11/25 1:09:35p You slaughtered a Large Vermine.
+10/11/25 1:09:38p You helped slaughter an Orga Rage.
+10/11/25 1:09:42p Giben finds a way through the barracade.
+10/11/25 1:09:51p * You pick up 2 coins.
+10/11/25 1:09:51p * You gain experience.
+10/11/25 1:09:54p Connie Crete yells, "cave"
+10/11/25 1:09:56p The Orga Shaman bows its head and mutters an unholy prayer.
+10/11/25 1:09:57p The Orga Warlock smiles.
+10/11/25 1:09:58p You slaughtered an Orga Shaman.
+10/11/25 1:09:59p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:09:59p * You gain experience.
+10/11/25 1:09:59p Magnic I has fallen to a flame.
+10/11/25 1:10:00p • Your blood pours lifelessly from your body.
+10/11/25 1:10:05p Seaforth starts dragging you.
+10/11/25 1:10:16p Connie Crete yells, "keel basement"
+10/11/25 1:10:17p Dandelion says, "Magnic"
+10/11/25 1:10:19p •You sense healing energy from Kiera.
+10/11/25 1:10:19p •You sense healing energy from Dandelion.
+10/11/25 1:10:51p Yalena is no longer Clanning.
+10/11/25 1:11:06p Warplet considers practicing the lessons from “The Tao of Trillbane”
+10/11/25 1:11:12p Warplet begins practicing the lessons from “The Tao of Trillbane”.
+10/11/25 1:11:20p Connie Crete yells, "upstairs and we eps back"
+10/11/25 1:11:21p Warplet says, "tood bad I can't accelerate these"
+10/11/25 1:11:25p You have 680 coins.
+10/11/25 1:11:25p Eirian Caldwell is no longer Clanning.
+10/11/25 1:11:42p You slaughtered a Large Death Vermine.
+10/11/25 1:11:42p Connie Crete says, "find a safe snell Valdroi"
+10/11/25 1:11:44p •You sense healing energy from Kiera.
+10/11/25 1:11:47p You helped slaughter a Large Death Vermine.
+10/11/25 1:11:47p Kwan'Yin asks, "He can do another chapter no?"
+10/11/25 1:11:49p (Valadorei nods)
+10/11/25 1:11:53p Valadorei says, "One moment."
+10/11/25 1:11:55p Dandelion says, "I dun mind gittin' some lightnin' in my fur t'cme back"
+10/11/25 1:11:56p Warplet says, "I got the ranks to do it, but it'd be 20 mins"
+10/11/25 1:12:08p (Valadorei nods)
+10/11/25 1:12:10p You gave signed good karma to Warplet, .
+10/11/25 1:12:11p Connie Crete asks, "where?"
+10/11/25 1:12:12p Valadorei says, "Safe"
+10/11/25 1:12:17p Valadorei says, "Onyx 1"
+10/11/25 1:12:23p You slaughtered a Demonic Vermine.
+10/11/25 1:12:23p * Klur recovers the Demonic Vermine fur, worth 5c. Your share is 2c.
+10/11/25 1:12:24p Ravenstorm is no longer Clanning.
+10/11/25 1:12:27p You slaughtered an Ethereal Slug.
+10/11/25 1:12:27p * Warplet recovers the Ethereal Slug mandibles, worth 1c. Your share is 1c.
+10/11/25 1:12:32p You helped slaughter an Ethereal Slug.
+10/11/25 1:12:32p * Warplet recovers the Ethereal Slug mandibles, worth 1c. Your share is 1c.
+10/11/25 1:12:33p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:12:33p • Your blood pours lifelessly from your body.
+10/11/25 1:12:33p Magnic I has fallen to an Ethereal Scarmis Warrior.
+10/11/25 1:12:43p •You sense healing energy from Dandelion.
+10/11/25 1:12:45p •You sense healing energy from Kiera.
+10/11/25 1:12:49p Connie Crete yells, "beer!"
+10/11/25 1:12:51p Valadorei says, "PI is E S S"
+10/11/25 1:12:53p You helped slaughter an Ethereal Slug.
+10/11/25 1:13:08p Connie Crete asks, "so ne?"
+10/11/25 1:13:09p Ebony says, "not worth crossing for it I dont think"
+10/11/25 1:13:10p * You absorb the essence of the Ethereal Scarmis Warrior.
+10/11/25 1:13:10p * You feel mentally enhanced by Valadorei...
+10/11/25 1:13:11p * You have absorbed the following creatures: Ethereal Walker, Ethereal Scarmis Warrior.
+10/11/25 1:13:12p * You absorb the essence of the Frozen Abyssal Hunter.
+10/11/25 1:13:13p * You have absorbed the following creatures: Ethereal Walker, Ethereal Scarmis Warrior, Frozen Abyssal Hunter.
+10/11/25 1:13:16p Connie Crete says, "ok - open a second door"
+10/11/25 1:13:20p Warplet says, "mist"
+10/11/25 1:13:22p Ebony says, "she said we in 1, so it would be a crossing"
+10/11/25 1:13:28p You slaughtered an Ethereal Slug.
+10/11/25 1:13:28p * You recover the Ethereal Slug mandibles, worth 3c. Your share is 1c.
+10/11/25 1:13:44p You slaughtered a Co'Acha.
+10/11/25 1:13:50p Poplar is no longer Clanning.
+10/11/25 1:13:55p Connie Crete thinks, "tamob hit tha portal"
+10/11/25 1:14:00p You slaughtered a Fire Rat.
+10/11/25 1:14:00p * You recover the Fire Rat fur, worth 1c. Your share is 1c.
+10/11/25 1:14:01p You slaughtered a Fire Rat.
+10/11/25 1:14:01p * You recover the Fire Rat fur, worth 2c. Your share is 2c.
+10/11/25 1:14:13p Connie Crete says, "in case o velcro"
+10/11/25 1:14:14p You slaughtered a Fiery Bubble.
+10/11/25 1:14:14p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:14:14p • Your blood pours lifelessly from your body.
+10/11/25 1:14:15p Magnic I has fallen to a flame.
+10/11/25 1:14:16p You have 688 coins.
+10/11/25 1:14:19p Magnic I says, "heh"
+10/11/25 1:14:20p Valadorei starts dragging you.
+10/11/25 1:14:21p •You sense healing energy from Warplet.
+10/11/25 1:14:31p You slaughtered a Co'Acha.
+10/11/25 1:15:14p Naal is now Clanning.
+10/11/25 1:15:23p Warplet says, "Thanks everyone fer the book3 trip"
+10/11/25 1:15:28p * You return to the world of the living.
+10/11/25 1:15:28p Magnic I whispers, "floplikeafish"
+10/11/25 1:15:30p Kiera says, "=)"
+10/11/25 1:15:30p Connie Crete says, "no problemo"
+10/11/25 1:15:35p Connie Crete yells, "out - control tha snell - gather s"
+10/11/25 1:15:46p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:15:46p • Your blood pours lifelessly from your body.
+10/11/25 1:15:47p Magnic I has fallen to a Shadowcat Huntress.
+10/11/25 1:15:49p •You sense healing energy from Kiera.
+10/11/25 1:15:52p You helped vanquish a Shadowcat Huntress.
+10/11/25 1:15:52p * Connie Crete recovers the Shadowcat Huntress fur, worth 70c. Your share is 9c.
+10/11/25 1:15:57p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:15:57p • Your blood pours lifelessly from your body.
+10/11/25 1:15:57p Magnic I has fallen to a Black Mamba.
+10/11/25 1:16:02p You helped vanquish a Black Mamba.
+10/11/25 1:16:17p •You sense healing energy from Dandelion.
+10/11/25 1:16:21p (Seaforth implodes)
+10/11/25 1:16:30p •You sense healing energy from Warplet.
+10/11/25 1:16:37p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:16:37p Magnic I has fallen to a Wild Stallion.
+10/11/25 1:16:37p • Your blood pours lifelessly from your body.
+10/11/25 1:16:41p You helped vanquish a Wild Stallion.
+10/11/25 1:16:41p * Warplet recovers the Wild Stallion fur, worth 48c. Your share is 5c.
+10/11/25 1:16:41p Valadorei has fallen to a twig.
+10/11/25 1:16:45p Naal is no longer Clanning.
+10/11/25 1:16:50p You helped vanquish a Hickory Giant.
+10/11/25 1:16:50p Valadorei says, "Got me."
+10/11/25 1:16:50p Ebony says, "nice catch Val"
+10/11/25 1:16:53p Kal is now Clanning.
+10/11/25 1:16:57p Valadorei is no longer fallen.
+10/11/25 1:17:06p You helped vanquish a Sky Bison.
+10/11/25 1:17:07p You have 702 coins.
+10/11/25 1:17:10p Dandelion says, "Dat's usual my job, but I'll share"
+10/11/25 1:17:20p Connie Crete asks, "rememberin in my head Magnic, yer built fer keel or built fer debuff?"
+10/11/25 1:17:27p Magnic I says, "kill"
+10/11/25 1:17:28p Seaforth yells, "."
+10/11/25 1:17:31p Connie Crete says, "k, feel free"
+10/11/25 1:17:39p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:17:40p • Your blood pours lifelessly from your body.
+10/11/25 1:17:40p Magnic I has fallen to a Mountain Bison.
+10/11/25 1:17:42p •You sense healing energy from Kiera.
+10/11/25 1:17:43p Magnic I says, "heh"
+10/11/25 1:17:46p You helped vanquish a Mountain Bison.
+10/11/25 1:17:46p * Connie Crete recovers the Mountain Bison fur, worth 36c. Your share is 3c.
+10/11/25 1:18:02p Connie Crete says, "open s Valadroi"
+10/11/25 1:18:04p Warplet says, "more on the snell"
+10/11/25 1:18:10p Connie Crete says, "itll come ta us"
+10/11/25 1:18:11p You gave signed good karma to Kiera, .
+10/11/25 1:18:22p Warplet says, "snake + a few others"
+10/11/25 1:18:23p Kal is no longer Clanning.
+10/11/25 1:18:24p (Kiera smiles)
+10/11/25 1:18:30p Carlai is now Clanning.
+10/11/25 1:18:38p You helped vanquish a Mountain Krait.
+10/11/25 1:18:39p Connie Crete says, "scout s valadori"
+10/11/25 1:19:03p You helped vanquish a Sky Bison.
+10/11/25 1:19:03p * Connie Crete recovers the Sky Bison fur, worth 17c. Your share is 2c.
+10/11/25 1:19:08p Connie Crete says, "didnt sound like much"
+10/11/25 1:19:14p You helped vanquish a Shadowcat Huntress.
+10/11/25 1:19:14p * Connie Crete recovers the Shadowcat Huntress fur, worth 87c. Your share is 9c.
+10/11/25 1:19:21p * Your mental enhancement fades.
+10/11/25 1:19:24p Valadorei says, "Fairly clear."
+10/11/25 1:19:26p Connie Crete yells, "s hold gather << - thinkin vale thoughts"
+10/11/25 1:19:38p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:19:38p Magnic I has fallen to a Mountain Bison.
+10/11/25 1:19:39p • Your blood pours lifelessly from your body.
+10/11/25 1:19:41p You helped vanquish a Mountain Bison.
+10/11/25 1:19:41p •You sense healing energy from Kiera.
+10/11/25 1:19:41p * Connie Crete recovers the Mountain Bison fur, worth 80c. Your share is 7c.
+10/11/25 1:19:48p (Seaforth thinks Vale thoughts)
+10/11/25 1:19:51p Valadorei says, "Fairly clear."
+10/11/25 1:19:54p Valadorei says, "bah"
+10/11/25 1:19:56p You have 723 coins.
+10/11/25 1:19:59p Connie Crete yells, "charge keel laugh"
+10/11/25 1:20:05p Carlai is no longer Clanning.
+10/11/25 1:20:11p You helped vanquish a Shadowcat.
+10/11/25 1:20:20p You helped vanquish a Mountain Bison.
+10/11/25 1:20:20p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:20:21p Magnic I has fallen to a Sky Bison.
+10/11/25 1:20:21p • Your blood pours lifelessly from your body.
+10/11/25 1:20:24p •You sense healing energy from Warplet.
+10/11/25 1:20:26p •You sense healing energy from Dandelion.
+10/11/25 1:20:31p Valadorei says, "Bearily."
+10/11/25 1:20:35p You helped vanquish a Sky Bison.
+10/11/25 1:20:35p * Kwan'Yin recovers the Sky Bison fur, worth 113c. Your share is 12c.
+10/11/25 1:20:41p You helped vanquish a Sky Bison.
+10/11/25 1:20:49p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:20:49p • Your blood pours lifelessly from your body.
+10/11/25 1:20:49p Magnic I has fallen to a Wild Stallion.
+10/11/25 1:20:51p You helped vanquish a Hickory Giant.
+10/11/25 1:20:56p Naraku is now Clanning.
+10/11/25 1:20:58p •You notice your balance and recovery improving.
+10/11/25 1:21:07p •You sense healing energy from Kiera.
+10/11/25 1:21:22p Kwan'Yin says, "Thank you"
+10/11/25 1:21:22p (Klur smiles)
+10/11/25 1:21:35p Connie Crete yells, "<<"
+10/11/25 1:21:38p Connie Crete says, "ber Nug"
+10/11/25 1:21:44p Nug says, "thoom"
+10/11/25 1:21:53p Kiera exclaims, "ber!"
+10/11/25 1:21:56p You helped vanquish a Shadowcat Huntress.
+10/11/25 1:21:56p * Connie Crete recovers the Shadowcat Huntress fur, worth 44c. Your share is 4c.
+10/11/25 1:22:06p Dandelion says, "Heyers, Nug"
+10/11/25 1:22:09p Nug says, "hii"
+10/11/25 1:22:11p Connie Crete yells, "charge keel"
+10/11/25 1:22:15p * Your mental enhancement fades.
+10/11/25 1:22:25p You helped vanquish a Delta Toad.
+10/11/25 1:22:30p Naraku is no longer Clanning.
+10/11/25 1:22:38p Sesshomaru is now Clanning.
+10/11/25 1:22:42p Connie Crete yells, "sw"
+10/11/25 1:22:44p You helped kill a Leafcutter Myrm.
+10/11/25 1:22:47p You have 739 coins.
+10/11/25 1:22:51p Miser is now Clanning.
+10/11/25 1:23:00p You helped vanquish a Swarm of Bees.
+10/11/25 1:23:01p Dandelion exclaims, "Bees!"
+10/11/25 1:23:21p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:23:21p Magnic I has fallen to a Swarm of Bees.
+10/11/25 1:23:21p • Your blood pours lifelessly from your body.
+10/11/25 1:23:22p You helped vanquish an Ebb Meshra Warden.
+10/11/25 1:23:22p * Your share in the 39c Ebb Meshra Warden bounty is 5c.
+10/11/25 1:23:23p * Your mental enhancement fades.
+10/11/25 1:23:23p •You sense healing energy from Kiera.
+10/11/25 1:23:23p Connie Crete says, "3 bleeders, I expect 2 o ya ta stay alive long enough ta keel tha ceders"
+10/11/25 1:23:25p * You feel mentally enhanced by Valadorei...
+10/11/25 1:23:29p You helped vanquish a Swarm of Bees.
+10/11/25 1:23:38p Nug says, "lesse"
+10/11/25 1:23:40p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:23:40p • Your blood pours lifelessly from your body.
+10/11/25 1:23:40p Magnic I has fallen to an Agronox.
+10/11/25 1:23:47p Valadorei starts dragging you.
+10/11/25 1:23:49p You helped vanquish an Ebb Meshra.
+10/11/25 1:23:51p •You sense healing energy from Kiera.
+10/11/25 1:23:56p Kwan'Yin says, "oh yeah"
+10/11/25 1:24:00p Kwan'Yin says, "I didn't either"
+10/11/25 1:24:02p Sesshomaru is no longer Clanning.
+10/11/25 1:24:03p Kwan'Yin says, "Shaky has it"
+10/11/25 1:24:09p Miroku is now Clanning.
+10/11/25 1:24:12p You gave signed good karma to Dandelion, .
+10/11/25 1:24:18p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:24:18p Magnic I has fallen to a Mountain Wasp.
+10/11/25 1:24:19p • Your blood pours lifelessly from your body.
+10/11/25 1:24:35p You helped vanquish an Agronox.
+10/11/25 1:24:35p Connie Crete says, "euu"
+10/11/25 1:24:37p Connie Crete starts dragging you.
+10/11/25 1:25:14p Connie Crete yells, "beer!"
+10/11/25 1:25:18p •You sense healing energy from Kiera.
+10/11/25 1:25:33p Miroku is no longer Clanning.
+10/11/25 1:25:33p Connie Crete asks, "x's?"
+10/11/25 1:25:35p Connie Crete yells, "beer!"
+10/11/25 1:25:40p Warplet says, "no X's"
+10/11/25 1:25:41p Valadorei says, "Nai"
+10/11/25 1:25:43p You have 744 coins.
+10/11/25 1:25:51p Connie Crete says, "k, put up tha wall, kudzu guy"
+10/11/25 1:25:53p Nug says, "theres a wasp here"
+10/11/25 1:25:53p Dandelion says, "Nary a one"
+10/11/25 1:26:11p Jo Ma'ril says, "low on zu, down to 7"
+10/11/25 1:26:15p You helped vanquish a Mountain Wasp.
+10/11/25 1:26:17p Jo Ma'ril plants a seedling.
+10/11/25 1:26:19p Jo Ma'ril plants a seedling.
+10/11/25 1:26:20p Seaforth shows a sack of kudzu seedlings containing 50 kudzu seedlings to Jo Ma'ril.
+10/11/25 1:26:21p Jo Ma'ril plants a seedling.
+10/11/25 1:26:22p Jo Ma'ril plants a seedling.
+10/11/25 1:26:24p Jo Ma'ril plants a seedling.
+10/11/25 1:26:27p Dandelion says, "Trade when empty, Jo. I have 8"
+10/11/25 1:26:31p (Kwan'Yin is just here to dazzle)
+10/11/25 1:26:31p Seaforth shows a sack of kudzu seedlings containing 50 kudzu seedlings to Jo Ma'ril.
+10/11/25 1:26:44p Jo Ma'ril picks up a sack of kudzu seedlings.
+10/11/25 1:26:46p Tsukasa is now Clanning.
+10/11/25 1:26:54p Dandelion says, "Dat's a way better deal"
+10/11/25 1:26:59p Jo Ma'ril exclaims, "Thanks!"
+10/11/25 1:27:01p Jo Ma'ril says, "agreed"
+10/11/25 1:27:14p (Kiera prepares to attack!)
+10/11/25 1:27:15p Connie Crete says, "standard entry - assume 4 cedeers - in, epic fail, out repeatedly"
+10/11/25 1:27:21p Kwan'Yin finds a safe path through the shifting rocks.
+10/11/25 1:27:37p Valadorei says, "Careful eb"
+10/11/25 1:27:45p Giben turns to stone.
+10/11/25 1:27:45p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:27:45p • Your blood pours lifelessly from your body.
+10/11/25 1:27:45p Magnic I has fallen to a Tree Colossus.
+10/11/25 1:27:54p You helped vanquish a Tree Colossus.
+10/11/25 1:28:08p •You sense healing energy from Dandelion.
+10/11/25 1:28:10p Jo Ma'ril whispers, "Pardon me, Klur."
+10/11/25 1:28:12p Warplet has fallen to a Happy Lil' Fledgling.
+10/11/25 1:28:13p Warplet is no longer fallen.
+10/11/25 1:28:15p Tsukasa is no longer Clanning.
+10/11/25 1:28:21p Jo Ma'ril says, "oops meant to pull mag"
+10/11/25 1:28:23p Arianna is now Clanning.
+10/11/25 1:28:26p * You pick up 23 coins.
+10/11/25 1:28:26p * You gain experience.
+10/11/25 1:28:28p •You sense healing energy from Dandelion.
+10/11/25 1:28:35p You have 767 coins.
+10/11/25 1:28:35p •You sense healing energy from Kiera.
+10/11/25 1:28:38p •You sense healing energy from Dandelion.
+10/11/25 1:28:40p Jo Ma'ril starts dragging you.
+10/11/25 1:28:54p Dandelion says, "Dat was kinder purdy"
+10/11/25 1:28:55p Kwan'Yin yells, "clear to edge"
+10/11/25 1:29:23p Nug says, ":)"
+10/11/25 1:29:25p Connie Crete says, "havin Valadori do tha first 2 lures"
+10/11/25 1:29:30p Connie Crete says, "tehn we'll hold on tha corner<<"
+10/11/25 1:29:33p Nug yells, "thoom"
+10/11/25 1:29:35p * Your mental enhancement fades.
+10/11/25 1:29:44p Beer!
+10/11/25 1:29:50p Arianna is no longer Clanning.
+10/11/25 1:29:57p Agnessa is now Clanning.
+10/11/25 1:30:05p Connie Crete says, "we are clearin ta village then pressin on - attemptin a claair at tha village"
+10/11/25 1:30:07p Seaforth turns to stone.
+10/11/25 1:30:09p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:30:09p Magnic I has fallen to a Grove Guardian.
+10/11/25 1:30:10p • Your blood pours lifelessly from your body.
+10/11/25 1:30:12p •You sense healing energy from Kiera.
+10/11/25 1:30:12p You gave signed good karma to Klur, .
+10/11/25 1:30:16p You helped vanquish a Badger.
+10/11/25 1:30:20p Jo Ma'ril whispers, "Excuse me, Magnic I."
+10/11/25 1:30:25p •You sense healing energy from Warplet.
+10/11/25 1:30:36p You helped vanquish a Grove Guardian.
+10/11/25 1:30:42p •You sense healing energy from Kiera.
+10/11/25 1:30:42p •You sense healing energy from Dandelion.
+10/11/25 1:30:49p Valadorei says, "Cedar <"
+10/11/25 1:30:53p (Seaforth): The marble Seaforth Monument begins to shimmer...
+10/11/25 1:30:56p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:30:57p You helped vanquish an Otissa Snake.
+10/11/25 1:30:57p • Your blood pours lifelessly from your body.
+10/11/25 1:30:57p Magnic I has fallen to an Otissa Snake.
+10/11/25 1:31:02p •You sense healing energy from Dandelion.
+10/11/25 1:31:12p Jo Ma'ril turns to stone.
+10/11/25 1:31:22p Kiera slices the root with her machete.
+10/11/25 1:31:28p You have 767 coins.
+10/11/25 1:31:31p Giben turns to stone.
+10/11/25 1:31:31p Kiera starts dragging you.
+10/11/25 1:31:40p •You sense healing energy from Kiera.
+10/11/25 1:31:40p Connie Crete yells, "kyy in yy ceder daid"
+10/11/25 1:31:40p Agnessa is no longer Clanning.
+10/11/25 1:31:44p •You sense healing energy from Warplet.
+10/11/25 1:31:47p •You sense healing energy from Dandelion.
+10/11/25 1:31:55p Valadorei has fallen to a Thornwood Colossus.
+10/11/25 1:32:04p •You sense healing energy from Dandelion.
+10/11/25 1:32:06p * Your mental enhancement fades.
+10/11/25 1:32:09p Connie Crete says, "how bad be Mgnic"
+10/11/25 1:32:14p •You sense healing energy from Warplet.
+10/11/25 1:32:18p •You sense healing energy from Dandelion.
+10/11/25 1:32:19p Seaforth says, "xxzz"
+10/11/25 1:32:19p Chckyurplse Sr is now Clanning.
+10/11/25 1:32:20p Seaforth turns to stone.
+10/11/25 1:32:21p Warplet says, "goin up"
+10/11/25 1:32:24p Warplet says, "slowly"
+10/11/25 1:32:24p Nug yells, "get thorn"
+10/11/25 1:32:25p Dandelion says, "severely manglees now"
+10/11/25 1:32:25p Valadorei says, "I got snagged instead"
+10/11/25 1:32:31p Connie Crete says, "k"
+10/11/25 1:32:44p Jo Ma'ril yells, "bob >"
+10/11/25 1:32:49p Connie Crete yells, "needa runne r >>"
+10/11/25 1:32:50p Kiera starts dragging you.
+10/11/25 1:32:55p Kwan'Yin turns to stone.
+10/11/25 1:32:58p Connie Crete says, "here be good Kierea - heal"
+10/11/25 1:33:04p •You sense healing energy from Dandelion.
+10/11/25 1:33:06p (Seaforth): The marble Seaforth Monument begins to shimmer...
+10/11/25 1:33:09p •You sense healing energy from Warplet.
+10/11/25 1:33:10p •You sense healing energy from Kiera.
+10/11/25 1:33:14p * You pick up 20 coins.
+10/11/25 1:33:14p * You gain experience.
+10/11/25 1:33:21p •You sense healing energy from Kiera.
+10/11/25 1:33:22p Connie Crete says, "no need ta panic ifn is only bleeders is daid"
+10/11/25 1:33:23p Jo Ma'ril turns to stone.
+10/11/25 1:33:41p Valadorei is no longer fallen.
+10/11/25 1:33:47p Valadorei says, "Tan'ki"
+10/11/25 1:33:49p (Klur smiles)
+10/11/25 1:33:53p Chckyurplse Sr is no longer Clanning.
+10/11/25 1:33:53p Kiera says, "=)"
+10/11/25 1:33:54p Kwan'Yin says, "Good job"
+10/11/25 1:33:55p Connie Crete says, "Panic ifn ya see Klur yella and fighters daid - thats tha code ta retreat"
+10/11/25 1:34:02p Kwan'Yin says, "please thank your healers and your mystic"
+10/11/25 1:34:04p Aakarshan is now Clanning.
+10/11/25 1:34:04p Kiera says, "I'm not used to having stoners"
+10/11/25 1:34:10p Nug says, "speaking of"
+10/11/25 1:34:15p Connie Crete says, "they will stone at tha drop o a hat"
+10/11/25 1:34:19p You have 787 coins.
+10/11/25 1:34:22p * Your mental enhancement fades.
+10/11/25 1:34:27p Dandelion says, "Sometimes all at once"
+10/11/25 1:34:38p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:34:38p Magnic I has fallen to a Badger.
+10/11/25 1:34:39p • Your blood pours lifelessly from your body.
+10/11/25 1:34:41p * Your mental enhancement fades.
+10/11/25 1:34:43p •You sense healing energy from Dandelion.
+10/11/25 1:34:43p Connie Crete says, "I caint hold snakes"
+10/11/25 1:34:44p Valadorei starts dragging you.
+10/11/25 1:34:47p Kwan'Yin turns to stone.
+10/11/25 1:34:48p Jo Ma'ril turns to stone.
+10/11/25 1:34:51p •You sense healing energy from Kiera.
+10/11/25 1:34:59p Seaforth says, "ccxx"
+10/11/25 1:35:05p • You channel your blade to feast on the wounds of your foes.
+10/11/25 1:35:08p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:35:08p Magnic I has fallen to a Thornwood Colossus.
+10/11/25 1:35:09p • Your blood pours lifelessly from your body.
+10/11/25 1:35:19p Valadorei starts dragging you.
+10/11/25 1:35:21p Valadorei's chain breaks as she tries to use it.
+10/11/25 1:35:24p Nug says, "aw"
+10/11/25 1:35:25p Aakarshan is no longer Clanning.
+10/11/25 1:35:31p You helped vanquish a Badger.
+10/11/25 1:35:32p Melvina is now Clanning.
+10/11/25 1:35:48p Kwan'Yin turns to stone.
+10/11/25 1:36:00p Kwan'Yin yells, "get em"
+10/11/25 1:36:13p You gave signed good karma to Warplet, .
+10/11/25 1:36:19p You helped vanquish a Thornwood Colossus.
+10/11/25 1:36:28p Connie Crete says, "pause a sec on lurin Kwan"
+10/11/25 1:36:34p Kwan'Yin says, "I was"
+10/11/25 1:36:38p •You sense healing energy from Dandelion.
+10/11/25 1:36:38p Kwan'Yin says, "two BM down"
+10/11/25 1:36:45p •You sense healing energy from Kiera.
+10/11/25 1:36:45p Connie Crete asks, "oh?"
+10/11/25 1:37:00p Melvina is no longer Clanning.
+10/11/25 1:37:07p Nug says, "val was holding that thornwood with bm zu"
+10/11/25 1:37:10p You have 787 coins.
+10/11/25 1:37:15p Kwan'Yin says, "I saw that"
+10/11/25 1:37:16p (Valadorei grins)
+10/11/25 1:37:18p Connie Crete yells, "ready? in and hold << in tha corner"
+10/11/25 1:37:22p Valadorei says, "My chain broke"
+10/11/25 1:37:25p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:37:26p Magnic I has fallen to a Badger.
+10/11/25 1:37:30p •You sense healing energy from Kiera.
+10/11/25 1:37:31p •You sense healing energy from Warplet.
+10/11/25 1:37:33p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:37:33p Magnic I has fallen to a Badger.
+10/11/25 1:37:45p •You sense healing energy from Kiera.
+10/11/25 1:37:52p You helped vanquish a Badger.
+10/11/25 1:38:00p * You feel mentally enhanced by Valadorei...
+10/11/25 1:38:00p Katalina is now Clanning.
+10/11/25 1:38:17p Giben says, "ty"
+10/11/25 1:38:19p You helped vanquish a Badger.
+10/11/25 1:38:20p (Klur smiles)
+10/11/25 1:38:33p Kwan'Yin says, "Thank you"
+10/11/25 1:38:43p Connie Crete says, "it'll come ta us, but we dont gotta be dodgin rocks from >>"
+10/11/25 1:39:02p Connie Crete asks, "anytin on THIS snell Valdroi?"
+10/11/25 1:39:24p Katalina is no longer Clanning.
+10/11/25 1:39:28p Connie Crete says, "5c Kwan's openin up all 3 snells <<"
+10/11/25 1:39:31p Regenat is now Clanning.
+10/11/25 1:39:32p Connie Crete says, "jst ta see"
+10/11/25 1:39:34p Kwan'Yin yells, "Just a badger on way to North edge"
+10/11/25 1:39:35p (Kiera grins)
+10/11/25 1:39:37p Kiera exclaims, "adventure!"
+10/11/25 1:39:43p Kwan'Yin says, "empty otherwise"
+10/11/25 1:39:52p Klur slices the root with his machete.
+10/11/25 1:39:55p Kiera slices the root with her machete.
+10/11/25 1:40:02p You have 787 coins.
+10/11/25 1:40:07p You helped vanquish a Cedar Colossus.
+10/11/25 1:40:07p The tangling roots wither and die.
+10/11/25 1:40:07p The tangling roots wither and die.
+10/11/25 1:40:07p The tangling roots wither and die.
+10/11/25 1:40:08p Klur slices the root with his machete.
+10/11/25 1:40:09p * You pick up 71 coins.
+10/11/25 1:40:09p * You gain experience.
+10/11/25 1:40:20p Magnic I asks, "hmm?"
+10/11/25 1:40:51p Connie Crete says, "k, tippytoe ta n cenner - will be lurin n snell but not fightn in tha narrow area"
+10/11/25 1:41:01p Regenat is no longer Clanning.
+10/11/25 1:41:11p Connie Crete yells, "lure n ta here"
+10/11/25 1:41:12p Kwan'Yin asks, "want me to open north?"
+10/11/25 1:41:16p Vermaytus is now Clanning.
+10/11/25 1:41:24p Connie Crete yells, "not fightn on tha << edge"
+10/11/25 1:41:33p Dandelion says, "Da area healerin's makin' me feel extra invincible"
+10/11/25 1:41:52p (Kiera smiles)
+10/11/25 1:41:58p You helped vanquish a Grove Guardian.
+10/11/25 1:41:59p • Your blade feeds on your blood once again.
+10/11/25 1:42:02p Dandelion says, "An' Warp"
+10/11/25 1:42:07p Kiera says, "with you around I target heal mostly"
+10/11/25 1:42:14p You gave signed good karma to Kiera, .
+10/11/25 1:42:39p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:42:39p Magnic I has fallen to a Grove Guardian.
+10/11/25 1:42:39p • Your blood pours lifelessly from your body.
+10/11/25 1:42:44p •You sense healing energy from Dandelion.
+10/11/25 1:42:45p You helped vanquish a Grove Guardian.
+10/11/25 1:42:45p •You sense healing energy from Kiera.
+10/11/25 1:42:46p Vermaytus is no longer Clanning.
+10/11/25 1:42:53p You have 858 coins.
+10/11/25 1:42:59p (Nug nods)
+10/11/25 1:43:23p Connie Crete says, "will fight ta village fer retreat - time remainin will fight <<"
+10/11/25 1:43:26p Dandelion says, "One day, I'll train more Radium"
+10/11/25 1:43:31p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:43:32p Magnic I has fallen to a Badger.
+10/11/25 1:43:32p • Your blood pours lifelessly from your body.
+10/11/25 1:43:42p Calyor is now Clanning.
+10/11/25 1:43:42p (Klur smiles)
+10/11/25 1:43:44p You helped vanquish a Badger.
+10/11/25 1:43:45p Connie Crete yells, "dont fight on tha << edge. ifn ya opens << say "oops""
+10/11/25 1:43:47p •You sense healing energy from Dandelion.
+10/11/25 1:44:11p * Your mental enhancement fades.
+10/11/25 1:44:11p (Connie Crete dunno whihc fighter ta think is gonna slip <<)
+10/11/25 1:44:11p Kiera ponders, "it looks so good that way..."
+10/11/25 1:44:28p Kiera says, "omg"
+10/11/25 1:44:30p Connie Crete says, "he's gonna come back and say "its too hard ta lure xxx""
+10/11/25 1:44:32p Magnic I says, "heh"
+10/11/25 1:44:55p You helped vanquish a Badger.
+10/11/25 1:45:02p •You notice your balance and recovery improving.
+10/11/25 1:45:02p You helped vanquish a Foxweir Friend.
+10/11/25 1:45:03p * Your share in the 82c Foxweir Friend bounty is 7c.
+10/11/25 1:45:07p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:45:07p Magnic I has fallen to a gnarly thorn.
+10/11/25 1:45:08p • Your blood pours lifelessly from your body.
+10/11/25 1:45:09p Calyor is no longer Clanning.
+10/11/25 1:45:11p Connie Crete yells, "n - keel mind tha snake spawn"
+10/11/25 1:45:17p Warplet yells, "trtee"
+10/11/25 1:45:17p Horusimus is now Clanning.
+10/11/25 1:45:20p You helped vanquish a Thornwood Colossus.
+10/11/25 1:45:23p •You sense healing energy from Dandelion.
+10/11/25 1:45:23p •You sense healing energy from Warplet.
+10/11/25 1:45:36p Connie Crete says, "all up? walk n"
+10/11/25 1:45:43p You have 865 coins.
+10/11/25 1:45:53p Connie Crete yells, "n - 3 snakes annna gg"
+10/11/25 1:46:07p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:46:07p Magnic I has fallen to a Grove Guardian.
+10/11/25 1:46:08p • Your blood pours lifelessly from your body.
+10/11/25 1:46:10p Jo Ma'ril turns to stone.
+10/11/25 1:46:11p •You sense healing energy from Dandelion.
+10/11/25 1:46:13p Kwan'Yin says, "This wasn't here"
+10/11/25 1:46:21p Warplet says, "uh huh"
+10/11/25 1:46:37p You helped vanquish a Grove Guardian.
+10/11/25 1:46:42p Jo Ma'ril turns to stone.
+10/11/25 1:46:44p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:46:45p Magnic I has fallen to a Badger.
+10/11/25 1:46:45p • Your blood pours lifelessly from your body.
+10/11/25 1:46:45p Horusimus is no longer Clanning.
+10/11/25 1:46:56p Selin is now Clanning.
+10/11/25 1:46:56p You helped vanquish a Badger.
+10/11/25 1:46:58p •You sense healing energy from Dandelion.
+10/11/25 1:47:16p You helped vanquish a Grove Guardian.
+10/11/25 1:47:19p * You pick up 5 coins.
+10/11/25 1:47:19p * You gain experience.
+10/11/25 1:47:22p Connie Crete says, "one more gg"
+10/11/25 1:47:22p Kwan'Yin yells, "holding two"
+10/11/25 1:47:26p Connie Crete says, "or 2"
+10/11/25 1:47:34p Connie Crete yells, "healing up"
+10/11/25 1:47:52p (Connie Crete dont got no sarcastic bone in her body)
+10/11/25 1:48:00p (Dandelion grins)
+10/11/25 1:48:04p Kwan'Yin says, "She has several"
+10/11/25 1:48:08p Kwan'Yin says, "Thank you"
+10/11/25 1:48:09p (Klur smiles)
+10/11/25 1:48:15p You have no karma to give.
+10/11/25 1:48:15p * Auto Thanker re-doing last
+10/11/25 1:48:19p Kwan'Yin turns to stone.
+10/11/25 1:48:32p Selin is no longer Clanning.
+10/11/25 1:48:35p You have 870 coins.
+10/11/25 1:48:37p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:48:38p • Your blood pours lifelessly from your body.
+10/11/25 1:48:38p Magnic I has fallen to a Grove Guardian.
+10/11/25 1:48:41p You helped vanquish a Grove Guardian.
+10/11/25 1:48:43p * Your mental enhancement fades.
+10/11/25 1:48:45p •You sense healing energy from Dandelion.
+10/11/25 1:48:45p * Your mental enhancement fades.
+10/11/25 1:48:46p •You sense healing energy from Kiera.
+10/11/25 1:48:55p Nug says, "oh"
+10/11/25 1:49:00p Connie Crete asks, "hows tha illusionbreakin Valadroi?"
+10/11/25 1:49:01p Nug says, "is this place"
+10/11/25 1:49:16p Connie Crete says, "fer rifts"
+10/11/25 1:49:23p You helped vanquish a Grove Guardian.
+10/11/25 1:49:24p * You pick up 12 coins.
+10/11/25 1:49:24p * You gain experience.
+10/11/25 1:49:24p (Valadorei nods)
+10/11/25 1:49:31p Barala is now Clanning.
+10/11/25 1:49:37p Valadorei says, "I can help you see them."
+10/11/25 1:49:39p Connie Crete yells, "ok - 6 lavas, 3 rifts inside - clear as we go"
+10/11/25 1:49:39p (Valadorei smiles.)
+10/11/25 1:49:45p Kwan'Yin finds a hidden tunnel.
+10/11/25 1:49:49p Jo Ma'ril finds a hidden tunnel.
+10/11/25 1:49:58p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:49:59p Magnic I has fallen to a Greymyr Shover.
+10/11/25 1:49:59p • Your blood pours lifelessly from your body.
+10/11/25 1:50:01p •You sense healing energy from Kiera.
+10/11/25 1:50:02p •You sense healing energy from Warplet.
+10/11/25 1:50:02p •You sense healing energy from Dandelion.
+10/11/25 1:50:04p You helped vanquish a Greymyr Shover.
+10/11/25 1:50:12p Connie Crete yells, "go ta first x and hold"
+10/11/25 1:50:21p Dandelion has fallen to a small rock.
+10/11/25 1:50:22p Dandelion is no longer fallen.
+10/11/25 1:50:24p You helped vanquish a Greymyr Shover.
+10/11/25 1:50:32p * You absorb the essence of the Greymyr Shover.
+10/11/25 1:50:32p Dandelion exclaims, "Tanks!"
+10/11/25 1:50:32p * You have absorbed the following creatures: Ethereal Walker, Ethereal Scarmis Warrior, Frozen Abyssal Hunter, Greymyr Shover.
+10/11/25 1:50:34p Connie Crete says, "hold here"
+10/11/25 1:50:43p You helped vanquish a Granite Greymyr.
+10/11/25 1:50:49p * You absorb the essence of the Granite Greymyr.
+10/11/25 1:50:50p * You have absorbed the following creatures: Ethereal Walker, Ethereal Scarmis Warrior, Frozen Abyssal Hunter, Greymyr Shover, Granite Greymyr.
+10/11/25 1:50:54p You helped vanquish a Greymyr Shover.
+10/11/25 1:50:57p Barala is no longer Clanning.
+10/11/25 1:51:03p Jo Ma'ril yells, "mag"
+10/11/25 1:51:05p Kagome is now Clanning.
+10/11/25 1:51:15p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:51:15p • Your blood pours lifelessly from your body.
+10/11/25 1:51:15p Magnic I has fallen to a Magmyr.
+10/11/25 1:51:20p You helped vanquish a Magmyr.
+10/11/25 1:51:23p •You sense healing energy from Warplet.
+10/11/25 1:51:27p You have 882 coins.
+10/11/25 1:51:31p •You sense healing energy from Warplet.
+10/11/25 1:51:32p •You sense healing energy from Dandelion.
+10/11/25 1:51:42p You helped vanquish a Mountain Grizzly Bear.
+10/11/25 1:51:42p * Dandelion recovers the Mountain Grizzly Bear fur, worth 11c. Your share is 1c.
+10/11/25 1:51:53p Valadorei says, "Clear."
+10/11/25 1:51:56p Connie Crete asks, "both nw and se looks clear?"
+10/11/25 1:52:02p Connie Crete yells, "next x"
+10/11/25 1:52:05p Nug yells, "thoom"
+10/11/25 1:52:16p Connie Crete yells, "find tha rifts and traps"
+10/11/25 1:52:17p Jo Ma'ril yells, "mag"
+10/11/25 1:52:28p (Seaforth invokes the power of PIZZA COUPONS)
+10/11/25 1:52:33p Kagome is no longer Clanning.
+10/11/25 1:52:39p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:52:40p Magnic I has fallen to a Rifter.
+10/11/25 1:52:40p Jamus is now Clanning.
+10/11/25 1:52:40p • Your blood pours lifelessly from your body.
+10/11/25 1:52:44p Dandelion says, "Bold move, Seafort"
+10/11/25 1:52:52p Valadorei says, "lol seaforth."
+10/11/25 1:52:54p Seaforth exclaims, "its Friday baby!"
+10/11/25 1:52:55p •You sense healing energy from Dandelion.
+10/11/25 1:53:02p Connie Crete yells, "x's"
+10/11/25 1:53:09p Kiera yells, "dande"
+10/11/25 1:53:11p Valadorei thinks to you, "That looked personal..."
+10/11/25 1:53:38p Kiera asks, "oh wait warp has like 1200 horus or something?"
+10/11/25 1:53:40p Connie Crete asks, "all clear?"
+10/11/25 1:53:46p Valadorei says, "Clear NW"
+10/11/25 1:53:47p Warplet says, "K has a bunch"
+10/11/25 1:53:51p Warplet says, "Dande too"
+10/11/25 1:53:51p Connie Crete asks, "and se?"
+10/11/25 1:53:55p Kiera says, "yeah but the 2 of us not enough"
+10/11/25 1:53:57p Kiera says, "ahh"
+10/11/25 1:53:58p Warplet says, "I just got a couple"
+10/11/25 1:54:04p Kiera says, "dande powa"
+10/11/25 1:54:06p Valadorei yells, "yes"
+10/11/25 1:54:08p Kwan'Yin says, "Thank you"
+10/11/25 1:54:10p Jamus is no longer Clanning.
+10/11/25 1:54:14p Connie Crete yells, "ok - out - expect a mess o yors"
+10/11/25 1:54:15p Kwan'Yin says, "please thank your healers and mystic"
+10/11/25 1:54:16p You gave signed good karma to Kiera, .
+10/11/25 1:54:25p You have 883 coins.
+10/11/25 1:54:30p •The Sun sets.
+10/11/25 1:54:31p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:54:31p Magnic I has fallen to a Dark Recluse.
+10/11/25 1:54:31p You helped vanquish a Dark Recluse.
+10/11/25 1:54:31p • Your blood pours lifelessly from your body.
+10/11/25 1:54:33p •You sense healing energy from Kiera.
+10/11/25 1:54:36p •You sense healing energy from Warplet.
+10/11/25 1:54:38p •You sense healing energy from Dandelion.
+10/11/25 1:54:44p * You absorb the essence of the Dark Recluse.
+10/11/25 1:54:44p * You have absorbed the following creatures: Ethereal Walker, Ethereal Scarmis Warrior, Frozen Abyssal Hunter, Greymyr Shover, Granite Greymyr, Dark Recluse.
+10/11/25 1:54:50p Connie Crete says, "nope - here fer clair"
+10/11/25 1:54:53p Connie Crete yells, "early clair"
+10/11/25 1:54:54p Seaforth says, "oh"
+10/11/25 1:55:06p Connie Crete says, "5min beer break"
+10/11/25 1:55:07p Jamus is now Clanning.
+10/11/25 1:55:09p Magnic I says, "ima god thanks for hunt"
+10/11/25 1:55:11p Kwan'Yin reads a scroll.
+10/11/25 1:55:11p Jamus is no longer Clanning.
+10/11/25 1:55:17p Warplet says, "If we get bored, I could use a book 3 trip ;)"
+10/11/25 1:55:17p Nug says, "heh"
+10/11/25 1:55:17p Ardith is now Clanning.
+10/11/25 1:55:26p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:55:27p Magnic I has fallen to a Crookbeak Kestrel.
+10/11/25 1:55:28p • Your blood pours lifelessly from your body.
+10/11/25 1:55:31p Your spirit has departed your body 7 times.
+10/11/25 1:55:35p You slaughtered a Skeletal.
+10/11/25 1:55:36p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+10/11/25 1:55:36p Magnic I has fallen to a Skeletal.
+10/11/25 1:55:37p • Your blood pours lifelessly from your body.
+10/11/25 1:55:41p Your spirit has departed your body 7 times.
+10/11/25 1:55:46p You slaughtered a Skeletal.
+10/11/25 1:55:49p You slaughtered a Skeletal.
+10/11/25 1:56:21p • /SLEEP 

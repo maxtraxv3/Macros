@@ -1,0 +1,166 @@
+
+8/4/25 9:49:53a * Your pair of pants is starting to look a little worn.
+8/4/25 9:49:53a * Your shirt named “dark grey” is in pretty good shape.
+8/4/25 9:49:53a * Your pair of shoes named “purple” is in nearly perfect condition.
+8/4/25 9:49:53a Welcome to Clan Lord, Smeti!
+8/4/25 9:49:53a Type \HELP for a list of commands.
+8/4/25 9:49:53a • You gain experience from your recent studies.
+8/4/25 9:49:53a Smeti is now Clanning.
+8/4/25 9:49:53a You have been studying for 5 days, 18 hours, 52 minutes.
+8/4/25 9:49:55a It's 1:29am on Merdi, day 5 of Summer, 642.
+8/4/25 9:49:57a You are the only member of Black Phoenix clanning.
+8/4/25 9:49:57a • What’s New: https://deltatao.com/clanlord/news
+8/4/25 9:49:59a Friends online: none.
+8/4/25 9:50:07a * Tip of the day: Select an item in your Inventory window and type space to remove its command-# hotkey. (Use /OPTIONS to turn tips off.)
+8/4/25 9:50:29a You equip your bronze breastplate named “smeti”.
+8/4/25 9:50:36a You equip your shirt named “dark blue”, which is in nearly perfect condition.
+8/4/25 9:50:38a You have a single coin.
+8/4/25 9:51:03a •You feel healthier and faster.
+8/4/25 9:51:22a You have a single coin.
+8/4/25 9:52:06a You have a single coin.
+8/4/25 9:52:33a •You feel healthier and faster.
+8/4/25 9:52:50a You have a single coin.
+8/4/25 9:53:34a You have a single coin.
+8/4/25 9:54:03a •You feel healthier and faster.
+8/4/25 9:54:18a You have a single coin.
+8/4/25 9:55:02a Koppi yells, "Shakyamuni reports: Want to buy a Foxrien pelt or old style cloak... 150K"
+8/4/25 9:55:02a You have a single coin.
+8/4/25 9:55:33a •You feel healthier and faster.
+8/4/25 9:55:46a You have a single coin.
+8/4/25 9:56:30a You have a single coin.
+8/4/25 9:57:04a •You feel healthier and faster.
+8/4/25 9:57:13a You have a single coin.
+8/4/25 9:57:24a Crius yells, "It’s 2 o’clock, and all’s well."
+8/4/25 9:57:29a Crius yells, "It looks pretty quiet in the ocean."
+8/4/25 9:57:57a You have a single coin.
+8/4/25 9:58:34a •You feel healthier and faster.
+8/4/25 9:58:41a You have a single coin.
+8/4/25 9:59:25a You have a single coin.
+8/4/25 10:00:09a You have a single coin.
+8/4/25 10:00:13a Koppi yells, "Shakyamuni reports: Want to buy a Foxrien pelt or old style cloak... 150K"
+8/4/25 10:00:33a Kahn St'ple nods and smiles at Smeti.
+8/4/25 10:00:46a You equip your bloodblade.
+8/4/25 10:00:46a •You feel a surge of power as your blood pours down the blade.
+8/4/25 10:00:46a You equip your bloodstone ring.
+8/4/25 10:00:46a * You feel affixed to your previously set health.
+8/4/25 10:00:46a You equip your bronze breastplate named “smeti”.
+8/4/25 10:00:47a You equip your bronze helmet named “smeti”.
+8/4/25 10:00:53a You have a single coin.
+8/4/25 10:00:55a • You gain experience from your adventures.
+8/4/25 10:01:04a Evus says, "Hail, Smeti. You may be proud of your accomplishment."
+8/4/25 10:01:05a * Evus : 450-499.
+8/4/25 10:01:05a Evus says, "I can teach you a well-rounded combat approach."
+8/4/25 10:01:05a Evus says, "You will learn as you practice."
+8/4/25 10:01:07a Histia says, "Hail, Smeti."
+8/4/25 10:01:07a Histia bows.
+8/4/25 10:01:10a Histia says, "Hail, Smeti."
+8/4/25 10:01:10a Histia bows.
+8/4/25 10:01:12a Histia says, "Few indeed are your peers."
+8/4/25 10:01:12a * Histia : 700-749.
+8/4/25 10:01:13a Histia says, "I can teach you how to withstand more damage."
+8/4/25 10:01:13a Histia says, "You will learn as you practice."
+8/4/25 10:01:14a Swengus says, "Hail, Smeti."
+8/4/25 10:01:15a Swengus bows deeply.
+8/4/25 10:01:17a Swengus says, "Your devotion to the craft is exemplary."
+8/4/25 10:01:17a * Swengus : 750-799.
+8/4/25 10:01:17a Swengus says, "I can teach you to keep your balance while attacking."
+8/4/25 10:01:17a Swengus says, "You will learn as you practice."
+8/4/25 10:01:19a Atkus says, "Hail, Smeti. It is hard to find more to teach you."
+8/4/25 10:01:20a * Atkus : 150-199.
+8/4/25 10:01:20a Atkus says, "I can teach you how to attack more effectively."
+8/4/25 10:01:20a Atkus says, "You will learn as you practice."
+8/4/25 10:01:21a Atkus asks, "Are you sure you would like to train with me?"
+8/4/25 10:01:25a Chex is no longer Clanning.
+8/4/25 10:01:27a Detha says, "Hail, Smeti."
+8/4/25 10:01:28a Detha bows.
+8/4/25 10:01:30a Detha says, "Your dedication is commendable."
+8/4/25 10:01:30a * Detha : 550-599.
+8/4/25 10:01:30a Detha says, "I can teach you to defend yourself from hostile intent."
+8/4/25 10:01:31a Detha says, "You will learn as you practice."
+8/4/25 10:01:31a Balthus says, "Hail, Smeti. We are nearly equals."
+8/4/25 10:01:31a * Balthus : 400-449.
+8/4/25 10:01:32a Balthus says, "I can teach you to improve your stance and balance."
+8/4/25 10:01:32a Balthus says, "You will learn as you practice."
+8/4/25 10:01:33a Balthus asks, "Are you sure you would like to train with me?"
+8/4/25 10:01:34a Regia says, "Hail, Smeti. You may be proud of your accomplishment."
+8/4/25 10:01:34a * Regia : 450-499.
+8/4/25 10:01:34a Regia says, "I can teach you how to regain your balance after attacking."
+8/4/25 10:01:35a Regia says, "You will learn as you practice."
+8/4/25 10:01:35a Regia asks, "Are you sure you would like to train with me?"
+8/4/25 10:01:38a Darkus says, "Hail, Smeti. You keep me on my toes."
+8/4/25 10:01:38a You have a single coin.
+8/4/25 10:01:38a Darkus says, "I can teach you how to deal more damage."
+8/4/25 10:01:38a Darkus says, "You will learn as you practice."
+8/4/25 10:01:39a Darkus asks, "Are you sure you would like to train with me?"
+8/4/25 10:01:42a Darkus says, "Hail, Smeti. You keep me on my toes."
+8/4/25 10:01:42a * Darkus : 100-149.
+8/4/25 10:01:42a Darkus says, "I can teach you how to deal more damage."
+8/4/25 10:01:43a Darkus says, "You will learn as you practice."
+8/4/25 10:02:14a Repetta says, "Greetings, Lord Smeti."
+8/4/25 10:02:14a Repetta says, "If you wish, I can exchange your seventh-circle badge for a sixth-circle one."
+8/4/25 10:02:22a Honor says, "Welcome to the fighter testing area."
+8/4/25 10:02:23a You have a single coin.
+8/4/25 10:02:23a Honor says, "In a few moments I will let in hostile creatures."
+8/4/25 10:02:23a Honor says, "Kill them all and live to pass the test."
+8/4/25 10:02:34a You killed a Captured Malachite Arachnoid.
+8/4/25 10:02:34a * You recover the Captured Malachite Arachnoid mandibles, worth 1c. Your share is 1c.
+8/4/25 10:02:50a You killed a Captured Darshak Raider.
+8/4/25 10:02:52a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+8/4/25 10:02:52a • Your blood pours lifelessly from your body.
+8/4/25 10:02:52a Smeti has fallen to a Captured Recluse Arachne.
+8/4/25 10:02:52a Honor yells, "Regrettably, Smeti, you have failed."
+8/4/25 10:02:53a Honor yells, "Try again when you are a little stronger or wiser."
+8/4/25 10:03:07a You have 2 coins.
+8/4/25 10:03:52a You have 2 coins.
+8/4/25 10:04:33a Dantus says, "Hail, Smeti. You have much to learn."
+8/4/25 10:04:33a * Dantus : 0-9.
+8/4/25 10:04:33a Dantus says, "I can teach you to unleash a blood inferno on a killing blow."
+8/4/25 10:04:35a Aneurus says, "Hail, Smeti. You have much to learn."
+8/4/25 10:04:35a * Aneurus : 0-9.
+8/4/25 10:04:36a Aneurus says, "I can teach you to deal a hemorrhaging wound to an opponent."
+8/4/25 10:04:36a You have 2 coins.
+8/4/25 10:04:38a Posuhm says, "Hail, Smeti. You are one of my better pupils."
+8/4/25 10:04:38a * Posuhm : 50-99.
+8/4/25 10:04:38a Posuhm says, "I can teach you to use your bloodstone ring to feign death."
+8/4/25 10:04:45a Stedfustus says, "Hail, Smeti. We are nearly equals."
+8/4/25 10:04:45a * Stedfustus : 400-449.
+8/4/25 10:04:45a Stedfustus says, "I can teach you to be healthier, and to recover your balance and health more quickly."
+8/4/25 10:04:45a Stedfustus says, "You will learn as you practice."
+8/4/25 10:04:47a Anemia says, "Hail, Smeti."
+8/4/25 10:04:47a Anemia bows deeply.
+8/4/25 10:04:49a Anemia says, "You are truly a grand master."
+8/4/25 10:04:49a * Anemia : 900-999.
+8/4/25 10:04:50a Anemia says, "I can teach you to be much healthier and faster. But you will recover more slowly from wounds."
+8/4/25 10:04:50a Anemia says, "You will learn as you practice."
+8/4/25 10:04:58a Disabla says, "Hail, Smeti. It is good to see you."
+8/4/25 10:04:59a * Disabla : 10-19.
+8/4/25 10:04:59a Disabla says, "I can teach you to deal a variety of debilitating blows."
+8/4/25 10:04:59a Disabla says, "You will learn as you practice."
+8/4/25 10:05:01a Cryptus says, "Hail, Smeti. You have much to learn."
+8/4/25 10:05:01a * Cryptus : 0-9.
+8/4/25 10:05:01a Cryptus says, "I can teach you to deal a variety of debilating blows."
+8/4/25 10:05:02a Cryptus says, "You will learn as you practice."
+8/4/25 10:05:04a Disciple says, "Greetings, Lord Smeti."
+8/4/25 10:05:19a You equip your cutlass.
+8/4/25 10:05:19a You slip your bloodstone ring into your backpack.
+8/4/25 10:05:19a * Your health is in others' hands.
+8/4/25 10:05:20a You equip your shirt named “dark grey”, which is in pretty good shape.
+8/4/25 10:05:20a You have 2 coins.
+8/4/25 10:05:20a You slip your bronze helmet into your backpack.
+8/4/25 10:05:37a You equip your bloodblade.
+8/4/25 10:05:38a You equip your bloodstone ring.
+8/4/25 10:05:38a * You feel affixed to your previously set health.
+8/4/25 10:05:38a You equip your bronze breastplate named “smeti”.
+8/4/25 10:05:38a You equip your bronze helmet named “smeti”.
+8/4/25 10:05:55a You dispatched an Astral Guardian.
+8/4/25 10:06:03a You have 2 coins.
+8/4/25 10:06:04a * You absorb the essence of the Astral Guardian.
+8/4/25 10:06:05a * You have absorbed the following creatures: Mountain Panther, Crookbeak Kestrel, Crookbeak Kestrel, Astral Guardian.
+8/4/25 10:06:11a You equip your cutlass.
+8/4/25 10:06:11a You slip your bloodstone ring into your backpack.
+8/4/25 10:06:11a * Your health is in others' hands.
+8/4/25 10:06:12a You equip your shirt named “dark grey”, which is in pretty good shape.
+8/4/25 10:06:12a You slip your bronze helmet into your backpack.
+8/4/25 10:06:46a You have 2 coins.
+8/4/25 10:07:12a * You feel the bloodpool feed on the essence of the monsters you have absorbed.
+8/4/25 10:07:12a Dourin Bloodrunner says, "Greetings, Smeti.

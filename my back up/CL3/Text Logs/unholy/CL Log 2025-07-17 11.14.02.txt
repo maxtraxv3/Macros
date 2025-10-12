@@ -1,0 +1,636 @@
+
+7/17/25 11:14:03a * Your cloak named “royal purple” is in very good condition.
+7/17/25 11:14:03a Welcome to Clan Lord, Unholy!
+7/17/25 11:14:03a Type \HELP for a list of commands.
+7/17/25 11:14:03a • You have been charged 44 coins for advanced studies.
+7/17/25 11:14:03a • You gain experience from your recent studies.
+7/17/25 11:14:03a *Healer Mode
+7/17/25 11:14:03a * Healer Item set to asklepian staff 
+7/17/25 11:14:03a The healing spell has started.
+7/17/25 11:14:03a You have been studying for one day, 10 hours, 43 minutes.
+7/17/25 11:14:05a It's 3:57pm on Soldi, day 21 of Spring, 642.
+7/17/25 11:14:07a There are four members of Black Phoenix clanning: Beado, Warawonda, ZipLock and you.
+7/17/25 11:14:07a • What’s New: https://deltatao.com/clanlord/news
+7/17/25 11:14:12a Friends online: none.
+7/17/25 11:14:16a * Tip of the day: The standard macros listed in the Default file in your Macros folder are available to all your characters. (Use /OPTIONS to turn tips off.)
+7/17/25 11:14:37a •You seem to be able to take more damage now.
+7/17/25 11:14:47a * Auto Healer ON!
+7/17/25 11:15:00a Fortuna is sharing experiences with you.
+7/17/25 11:15:02a * Healing Asklepios 
+7/17/25 11:15:04a Purrfect is sharing experiences with you.
+7/17/25 11:15:06a Vylarian says, "lets go to metz"
+7/17/25 11:15:11a * Healing Giben 
+7/17/25 11:15:11a Vylarian ponders, "is unholy an alt?"
+7/17/25 11:15:14a Fortuna asks, "got a vote for metz, any more?"
+7/17/25 11:15:28a Warawonda says, "i mean ok"
+7/17/25 11:15:36a Warawonda says, "if this is 2 hard"
+7/17/25 11:15:53a Warawonda says, "yes zip and unholy are ults"
+7/17/25 11:15:56a Fortuna asks, "wara think you could do like 400 atkus worth of boosts?"
+7/17/25 11:16:03a Warawonda says, "c heal ask"
+7/17/25 11:16:03a * Auto Healing ask" 
+7/17/25 11:16:16a Fortuna says, "let's clear the birds off of xael and relocate"
+7/17/25 11:17:11a You have 2439 coins.
+7/17/25 11:17:14a Vylarian says, "i hit it"
+7/17/25 11:17:17a * Healing Vylarian 
+7/17/25 11:17:23a Vylarian is sharing experiences with you.
+7/17/25 11:17:30a * Healing Giben 
+7/17/25 11:17:31a Fortuna growls, "ya know, let's try to hunt here a bit more"
+7/17/25 11:17:34a Fortuna says, "ya know, let's try to hunt here a bit more"
+7/17/25 11:17:38a * Healing Fortuna 
+7/17/25 11:17:38a •Fortuna was too wounded to be healed easily.
+7/17/25 11:17:42a Fortuna says, "see if you can luck hit the things we lure"
+7/17/25 11:17:49a • You begin radius healing.
+7/17/25 11:17:49a Vylarian says, "well i ranked real fast"
+7/17/25 11:17:52a Vylarian says, "two tags"
+7/17/25 11:17:55a Fortuna says, "b heal vy"
+7/17/25 11:18:05a Fortuna says, "so we lure n"
+7/17/25 11:18:11a •Your healing is blocked.
+7/17/25 11:18:13a Fortuna plants a seedling.
+7/17/25 11:18:18a •Your healing is blocked.
+7/17/25 11:18:19a Warawonda is sharing experiences with you.
+7/17/25 11:18:24a •Your healing is blocked.
+7/17/25 11:18:31a •Your healing is blocked.
+7/17/25 11:18:35a * Healing Purrfect 
+7/17/25 11:18:35a •Purrfect was too wounded to be healed easily.
+7/17/25 11:18:37a •You learn from healing.
+7/17/25 11:18:38a * Healing Giben 
+7/17/25 11:18:39a •Giben’s injuries are a little more serious than you can heal.
+7/17/25 11:18:41a * Healing Vylarian 
+7/17/25 11:18:43a * Healing Purrfect 
+7/17/25 11:18:47a •Your healing is blocked.
+7/17/25 11:18:50a Giben says, "b heal gib"
+7/17/25 11:18:56a * Healing Giben 
+7/17/25 11:19:00a * Healing Vylarian 
+7/17/25 11:19:01a •Vylarian’s body has been maimed more severely than you can heal.
+7/17/25 11:19:08a •Vylarian’s body has been maimed more severely than you can heal.
+7/17/25 11:19:08a * Healing Vylarian 
+7/17/25 11:19:09a * Healing Purrfect 
+7/17/25 11:19:11a * Healing Vylarian 
+7/17/25 11:19:13a * Healing Fortuna 
+7/17/25 11:19:14a •Fortuna’s injuries are significantly more serious than you can heal.
+7/17/25 11:19:15a Fortuna says, "hehe"
+7/17/25 11:19:16a * Healing Vylarian 
+7/17/25 11:19:32a Giben is sharing experiences with you.
+7/17/25 11:19:36a Fortuna says, "b heal fort"
+7/17/25 11:19:41a * Healing Fortuna 
+7/17/25 11:19:42a •Vylarian’s wounds are much more severe than you can heal.
+7/17/25 11:19:45a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+7/17/25 11:19:46a •You do not have enough in you.
+7/17/25 11:19:46a •Your injuries are serious.
+7/17/25 11:19:46a Unholy has fallen to a Mountain Panther.
+7/17/25 11:19:57a Fortuna says, "bad panther :P"
+7/17/25 11:20:04a Fortuna says, "b heal fort"
+7/17/25 11:20:13a Giben starts dragging you.
+7/17/25 11:20:15a You have 2439 coins.
+7/17/25 11:20:15a Fortuna says, "chain away ya"
+7/17/25 11:20:19a Fortuna says, "b heal unholy"
+7/17/25 11:20:20a •You sense healing energy from Kala.
+7/17/25 11:20:45a •You sense healing energy from Asklepios.
+7/17/25 11:20:45a Fortuna asks, "can you get unholy?"
+7/17/25 11:20:47a * Healing Asklepios 
+7/17/25 11:20:49a * Healing Fortuna 
+7/17/25 11:20:52a * Healing Unholy 
+7/17/25 11:20:52a •You cannot use your asklepian staff on yourself.
+7/17/25 11:20:52a You equip your moonstone.
+7/17/25 11:20:52a •The healing spell has been broken.
+7/17/25 11:20:55a * Healing Fortuna 
+7/17/25 11:20:55a You equip your asklepian staff.
+7/17/25 11:20:55a You must equip your moonstone before it can be used.
+7/17/25 11:21:06a * Healing Asklepios 
+7/17/25 11:21:10a * Healing Unholy 
+7/17/25 11:21:10a •You cannot use your asklepian staff on yourself.
+7/17/25 11:21:10a You equip your moonstone.
+7/17/25 11:21:10a •The healing spell has been broken.
+7/17/25 11:21:13a * Healing Asklepios 
+7/17/25 11:21:13a You equip your asklepian staff.
+7/17/25 11:21:14a You must equip your moonstone before it can be used.
+7/17/25 11:21:15a * Healing Warawonda 
+7/17/25 11:21:29a * Healing Vylarian 
+7/17/25 11:21:30a •Vylarian’s wounds are much more severe than you can heal.
+7/17/25 11:21:31a * Healing Purrfect 
+7/17/25 11:21:34a * Healing Unholy 
+7/17/25 11:21:35a •You cannot use your asklepian staff on yourself.
+7/17/25 11:21:35a Asklepios says, "i'll heal full time, let put purr away"
+7/17/25 11:21:35a You equip your moonstone.
+7/17/25 11:21:35a •The healing spell has been broken.
+7/17/25 11:21:38a * Healing Vylarian 
+7/17/25 11:21:38a You equip your asklepian staff.
+7/17/25 11:21:39a You must equip your moonstone before it can be used.
+7/17/25 11:21:39a * Healing Purrfect 
+7/17/25 11:21:40a * Healing Vylarian 
+7/17/25 11:21:40a •You don't quite have the training to heal Purrfect’s injuries.
+7/17/25 11:22:04a (Warawonda): Atkus-Boost
+7/17/25 11:22:07a (Warawonda): Atkus-Boost
+7/17/25 11:22:18a * Healing Vylarian 
+7/17/25 11:22:19a * Healing Fortuna 
+7/17/25 11:22:27a * Healing Giben 
+7/17/25 11:22:29a Vylarian ponders, "when people said village i thought it was orga village"
+7/17/25 11:22:32a (Fortuna smiles)
+7/17/25 11:22:44a •You sense healing energy from Asklepios.
+7/17/25 11:22:56a Fortuna says, "believe it or not this is one of the easier places to be with very limited healing"
+7/17/25 11:23:02a •You sense healing energy from Asklepios.
+7/17/25 11:23:02a Fortuna says, "let's go back out"
+7/17/25 11:23:05a * Healing Asklepios 
+7/17/25 11:23:11a * Healing Unholy 
+7/17/25 11:23:11a •You cannot use your asklepian staff on yourself.
+7/17/25 11:23:11a You equip your moonstone.
+7/17/25 11:23:15a You equip your asklepian staff.
+7/17/25 11:23:15a You must equip your moonstone before it can be used.
+7/17/25 11:23:16a •The healing spell has been broken.
+7/17/25 11:23:23a You have 2439 coins.
+7/17/25 11:23:28a •The healing spell has been broken.
+7/17/25 11:23:28a * Healing Fortuna 
+7/17/25 11:23:39a •The healing spell has been broken.
+7/17/25 11:23:40a * Healing Purrfect 
+7/17/25 11:23:43a * Healing Giben 
+7/17/25 11:23:48a * Healing Vylarian 
+7/17/25 11:23:49a •You don't quite have the training to heal Vylarian’s injuries.
+7/17/25 11:23:51a Fortuna growls, "b heal vy"
+7/17/25 11:23:52a •Vylarian’s injuries were serious.
+7/17/25 11:24:15a * Healing Giben 
+7/17/25 11:24:19a * Healing Vylarian 
+7/17/25 11:24:20a •You don't quite have the training to heal Vylarian’s injuries.
+7/17/25 11:24:23a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+7/17/25 11:24:24a •You do not have enough in you.
+7/17/25 11:24:24a •You are too wounded to be healed easily.
+7/17/25 11:24:24a Unholy has fallen to a Mountain Panther.
+7/17/25 11:24:26a Fortuna starts dragging you.
+7/17/25 11:24:31a Fortuna says, "b heal unholy"
+7/17/25 11:24:32a •You sense healing energy from Kala.
+7/17/25 11:24:34a * Purrfect recovers the Utsanna Tawny Yorilla fur, worth 47c. Your share is 8c.
+7/17/25 11:24:36a •You sense healing energy from Aurelie.
+7/17/25 11:24:38a Fortuna says, "b heal vy"
+7/17/25 11:24:40a (Aurelie giggles.)
+7/17/25 11:24:42a •You sense healing energy from Asklepios.
+7/17/25 11:24:46a * Healing Aurelie 
+7/17/25 11:24:55a Fortuna exclaims, "fledgling village camp is a liiiiiittle bit silly but we're doing it!"
+7/17/25 11:24:57a * Healing Kala 
+7/17/25 11:25:02a (Aurelie giggles!)
+7/17/25 11:25:02a * Healing Giben 
+7/17/25 11:25:14a •You sense healing energy from Asklepios.
+7/17/25 11:25:15a Aurelie exclaims, "We're all grown up now!"
+7/17/25 11:25:18a (Warawonda): Atkus-Boost
+7/17/25 11:25:26a Fortuna growls, "should be able to luck everything"
+7/17/25 11:25:29a Fortuna growls, "will be great exp if you do"
+7/17/25 11:25:40a Aurelie says, "I could wake Sawyer up..."
+7/17/25 11:25:50a Fortuna says, "if you think she can do 500 atkus worth of debuff sure"
+7/17/25 11:25:57a * Healing Fortuna 
+7/17/25 11:25:58a Aurelie says, "She likes lazyhunting..."
+7/17/25 11:26:02a ZipLock turns to stone.
+7/17/25 11:26:10a Vylarian exclaims, "this is alt-fest!"
+7/17/25 11:26:12a Aurelie says, "Hmmm... That's a lot of atkus..."
+7/17/25 11:26:16a You have 2447 coins.
+7/17/25 11:26:18a Xael turns to stone.
+7/17/25 11:26:27a Aurelie says, "I wonder how well a Felonboost would do."
+7/17/25 11:26:30a Unholy asks, "eh what about 700 disabla?"
+7/17/25 11:26:44a Aurelie says, "That is quite a lot."
+7/17/25 11:26:44a * Healing Purrfect 
+7/17/25 11:26:45a •Your healing is blocked.
+7/17/25 11:26:46a (Aurelie giggles.)
+7/17/25 11:26:53a Unholy says, "i know a guy"
+7/17/25 11:26:56a Unholy says, "hehe"
+7/17/25 11:26:57a Giben says, "maybe some music would help"
+7/17/25 11:27:04a * Healing Vylarian 
+7/17/25 11:27:06a * Healing Fortuna 
+7/17/25 11:27:08a * Healing Giben 
+7/17/25 11:27:10a Aurelie exclaims, "It would!"
+7/17/25 11:27:13a • You hear Aurelie's music...
+7/17/25 11:27:13a Aurelie starts playing her gitor.
+7/17/25 11:27:13a (Aurelie): "Epic Rakkin'" by Rakshasa
+7/17/25 11:27:16a * Healing Fortuna 
+7/17/25 11:27:17a * Healing Asklepios 
+7/17/25 11:27:21a •The healing spell has been broken.
+7/17/25 11:27:29a You begin sharing your experiences with Aurelie.
+7/17/25 11:27:30a You are still too mentally fatigued to change spirit links.
+7/17/25 11:27:32a You are still too mentally fatigued to change spirit links.
+7/17/25 11:27:33a You begin sharing your experiences with Asklepios.
+7/17/25 11:27:33a You are sharing experiences with Asklepios and Aurelie.
+7/17/25 11:27:35a You are still too mentally fatigued to change spirit links.
+7/17/25 11:27:36a You are still too mentally fatigued to change spirit links.
+7/17/25 11:27:37a You begin sharing your experiences with Kala.
+7/17/25 11:27:37a You are sharing experiences with Kala, Asklepios and Aurelie.
+7/17/25 11:27:44a * Healing Giben 
+7/17/25 11:27:51a •You sense healing energy from Asklepios.
+7/17/25 11:27:52a •You do not have enough spiritual energy.
+7/17/25 11:28:20a * Healing Purrfect 
+7/17/25 11:28:21a •Purrfect’s injuries are significantly more serious than you can heal.
+7/17/25 11:28:27a Unholy says, "b heal pur"
+7/17/25 11:28:28a •Purrfect’s injuries are significantly more serious than you can heal.
+7/17/25 11:28:28a •Purrfect’s wounds were severe.
+7/17/25 11:28:37a •Purrfect’s body was severely maimed.
+7/17/25 11:28:38a * Healing Unholy 
+7/17/25 11:28:38a •You cannot use your asklepian staff on yourself.
+7/17/25 11:28:39a You equip your moonstone.
+7/17/25 11:28:39a •The healing spell has been broken.
+7/17/25 11:28:44a * Healing Vylarian 
+7/17/25 11:28:45a You equip your asklepian staff.
+7/17/25 11:28:45a You must equip your moonstone before it can be used.
+7/17/25 11:28:46a •You don't quite have the training to heal Vylarian’s injuries.
+7/17/25 11:28:50a You equip your chain.
+7/17/25 11:28:50a •The healing spell has been broken.
+7/17/25 11:28:51a You start dragging Vylarian.
+7/17/25 11:28:51a Vylarian is already on a chain.
+7/17/25 11:28:53a You start dragging Purrfect.
+7/17/25 11:28:53a A link in Asklepios' chain shatters.
+7/17/25 11:28:56a You start dragging Giben.
+7/17/25 11:29:09a You equip your asklepian staff.
+7/17/25 11:29:11a * Healing Purrfect 
+7/17/25 11:29:11a You have 2447 coins.
+7/17/25 11:29:11a •You don't quite have the training to heal Purrfect’s injuries.
+7/17/25 11:29:12a * Healing Giben 
+7/17/25 11:29:18a * Healing Purrfect 
+7/17/25 11:29:24a * Healing Vylarian 
+7/17/25 11:29:25a Fortuna says, "yeah think everyone could use some atkus"
+7/17/25 11:29:32a • You begin radius healing.
+7/17/25 11:29:37a * You feel mentally enhanced by Felon...
+7/17/25 11:29:47a Felon says, "Try that"
+7/17/25 11:29:52a Fortuna says, "ok let's go out"
+7/17/25 11:29:55a • There is nobody nearby enough to continue radius healing.
+7/17/25 11:30:03a * Healing Giben 
+7/17/25 11:30:07a * Healing Fortuna 
+7/17/25 11:30:23a * Healing Unholy 
+7/17/25 11:30:23a •You cannot use your asklepian staff on yourself.
+7/17/25 11:30:24a You equip your moonstone.
+7/17/25 11:30:27a You equip your asklepian staff.
+7/17/25 11:30:28a You must equip your moonstone before it can be used.
+7/17/25 11:30:28a •The healing spell has been broken.
+7/17/25 11:30:41a Aurelie asks, "Any difference?"
+7/17/25 11:30:59a Aurelie asks, "Purrfect, how goes the bloodmagery?"
+7/17/25 11:31:09a * Healing Giben 
+7/17/25 11:31:11a Fortuna asks, "got this yor vy?"
+7/17/25 11:31:21a Xael turns to stone.
+7/17/25 11:31:28a * Healing Purrfect 
+7/17/25 11:31:28a •Purrfect’s injuries were serious.
+7/17/25 11:31:29a •You don't quite have the training to heal Purrfect’s injuries.
+7/17/25 11:31:30a •Purrfect’s injuries were serious.
+7/17/25 11:31:36a •Your healing is blocked.
+7/17/25 11:31:37a Aurelie asks, "Purrfect, how goes the bloodmagery?"
+7/17/25 11:31:37a * Your mental enhancement fades.
+7/17/25 11:31:47a Fortuna says, "think the boost just faded"
+7/17/25 11:31:49a * Healing Vylarian 
+7/17/25 11:31:50a •Vylarian’s injuries are a little more serious than you can heal.
+7/17/25 11:31:51a Aurelie exclaims, "Yup!"
+7/17/25 11:31:52a Fortuna says, "b heal vy"
+7/17/25 11:31:52a •Vylarian’s body was severely maimed.
+7/17/25 11:32:03a Vylarian ponders, "my ooc cat is being a giant pain in the ass"
+7/17/25 11:32:04a You have 2447 coins.
+7/17/25 11:32:05a * Purrfect recovers the Tawny Yorilla fur, worth 7c. Your share is 1c.
+7/17/25 11:32:09a * Healing Giben 
+7/17/25 11:32:10a Fortuna plants a seedling.
+7/17/25 11:32:42a * Healing Purrfect 
+7/17/25 11:32:43a Aurelie says, "I guess he's feelin' quiet..."
+7/17/25 11:32:44a •Your healing is blocked.
+7/17/25 11:32:44a ZipLock turns to stone.
+7/17/25 11:32:47a * Healing Giben 
+7/17/25 11:33:15a Vylarian says, "tagged b oth"
+7/17/25 11:33:18a Fortuna says, ":)"
+7/17/25 11:33:31a * Healing Giben 
+7/17/25 11:33:33a * Your mental enhancement fades.
+7/17/25 11:33:37a * Your mental enhancement fades.
+7/17/25 11:33:38a * Healing Aurelie 
+7/17/25 11:33:39a * Fortuna recovers the Lowland Panther fur, worth 66c. Your share is 7c.
+7/17/25 11:33:44a * Healing Giben 
+7/17/25 11:33:56a * Healing Aurelie 
+7/17/25 11:34:02a * Healing Giben 
+7/17/25 11:34:06a * Healing Asklepios 
+7/17/25 11:34:10a •The healing spell has been broken.
+7/17/25 11:34:12a (Fortuna winks at Aurelie in bug)
+7/17/25 11:34:13a * Healing Unholy 
+7/17/25 11:34:13a •You cannot use your asklepian staff on yourself.
+7/17/25 11:34:14a You equip your moonstone.
+7/17/25 11:34:18a (Aurelie blushes profusely.)
+7/17/25 11:34:19a (Aurelie coughs.)
+7/17/25 11:34:21a * Healing Vylarian 
+7/17/25 11:34:21a You equip your asklepian staff.
+7/17/25 11:34:21a (Aurelie splutters.)
+7/17/25 11:34:22a You must equip your moonstone before it can be used.
+7/17/25 11:34:28a •You sense healing energy from Asklepios.
+7/17/25 11:34:38a (Fortuna buzzes)
+7/17/25 11:34:39a Unholy says, "hehe"
+7/17/25 11:34:41a Vylarian says, "i am NEVER training detha directly"
+7/17/25 11:34:42a * Healing Purrfect 
+7/17/25 11:34:43a •Your healing is blocked.
+7/17/25 11:34:46a Vylarian exclaims, "ever!"
+7/17/25 11:34:58a You have 2455 coins.
+7/17/25 11:34:59a Unholy asks, "just pure balthus?"
+7/17/25 11:35:06a * Healing Purrfect 
+7/17/25 11:35:06a •Purrfect’s injuries are a little more serious than you can heal.
+7/17/25 11:35:11a Vylarian says, "balthus and whatever i get from farley"
+7/17/25 11:35:12a •Purrfect’s injuries were grave.
+7/17/25 11:35:18a Fortuna growls, "b heal purr"
+7/17/25 11:35:18a Unholy says, "detha"
+7/17/25 11:35:26a Unholy says, "hehe"
+7/17/25 11:35:27a •Your healing is blocked.
+7/17/25 11:35:29a * Healing Vylarian 
+7/17/25 11:35:31a * Healing Giben 
+7/17/25 11:35:34a •The healing spell has been broken.
+7/17/25 11:35:34a Vylarian says, "i meant how much detha"
+7/17/25 11:35:35a * Healing Fortuna 
+7/17/25 11:35:39a * Healing Vylarian 
+7/17/25 11:35:40a •Vylarian’s wounds are much more severe than you can heal.
+7/17/25 11:35:40a Vylarian says, "i think its 10 ranks per 100"
+7/17/25 11:35:45a Fortuna growls, "b heal vy"
+7/17/25 11:35:46a •Vylarian’s body was mangled.
+7/17/25 11:35:49a * Healing Giben 
+7/17/25 11:35:51a * Healing Fortuna 
+7/17/25 11:35:54a Aurelie ponders, "Brief brb!"
+7/17/25 11:36:03a •The healing spell has been broken.
+7/17/25 11:36:07a * Healing Unholy 
+7/17/25 11:36:07a •You cannot use your asklepian staff on yourself.
+7/17/25 11:36:07a You equip your moonstone.
+7/17/25 11:36:10a * Healing Vylarian 
+7/17/25 11:36:10a You equip your asklepian staff.
+7/17/25 11:36:10a You must equip your moonstone before it can be used.
+7/17/25 11:36:10a * Your mental enhancement fades.
+7/17/25 11:36:13a * Your mental enhancement fades.
+7/17/25 11:36:24a Xael turns to stone.
+7/17/25 11:36:27a * You feel mentally enhanced by Warawonda...
+7/17/25 11:36:37a * Healing Giben 
+7/17/25 11:36:57a Giben says, "i got trapped for a sec up there"
+7/17/25 11:36:57a * Healing Fortuna 
+7/17/25 11:37:05a * Healing Unholy 
+7/17/25 11:37:05a •You cannot use your asklepian staff on yourself.
+7/17/25 11:37:05a You equip your moonstone.
+7/17/25 11:37:05a •The healing spell has been broken.
+7/17/25 11:37:09a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+7/17/25 11:37:09a You cannot possibly use anything in your current condition.
+7/17/25 11:37:09a Unholy has fallen to a Dark Recluse.
+7/17/25 11:37:09a •Your body is severely mangled.
+7/17/25 11:37:09a You cannot possibly use anything in your current condition.
+7/17/25 11:37:09a You slip your moonstone into your backpack.
+7/17/25 11:37:10a Your moonstone is already unequipped.
+7/17/25 11:37:23a Xael says, "hah well"
+7/17/25 11:37:25a Unholy says, "ok"
+7/17/25 11:37:28a Xael says, "b heal asklepios"
+7/17/25 11:37:28a ZipLock turns to stone.
+7/17/25 11:37:55a You have 2455 coins.
+7/17/25 11:37:55a Xael says, "b heal unholy"
+7/17/25 11:37:56a •You sense healing energy from Kala.
+7/17/25 11:37:56a •Your injuries are grave.
+7/17/25 11:37:59a •You sense healing energy from Asklepios.
+7/17/25 11:38:02a •You sense healing energy from Asklepios.
+7/17/25 11:38:03a •You sense healing energy from Kala.
+7/17/25 11:38:08a You equip your asklepian staff.
+7/17/25 11:38:08a * Healing Kala 
+7/17/25 11:38:14a •You do not have enough spiritual energy.
+7/17/25 11:38:16a * Your mental enhancement fades.
+7/17/25 11:38:18a * Healing Unholy 
+7/17/25 11:38:18a •You cannot use your asklepian staff on yourself.
+7/17/25 11:38:18a You equip your moonstone.
+7/17/25 11:38:19a * Your mental enhancement fades.
+7/17/25 11:38:24a •Asklepios’s injuries are significantly more serious than you can heal.
+7/17/25 11:38:26a Unholy whispers, "excuse me"
+7/17/25 11:38:27a Xael says, "b heal asklpios"
+7/17/25 11:38:27a •Vylarian was too wounded to be healed easily.
+7/17/25 11:38:31a Xael says, "b heal ask"
+7/17/25 11:38:41a Kala says, "maybe not that huh"
+7/17/25 11:38:41a * Healing Giben 
+7/17/25 11:38:43a You equip your asklepian staff.
+7/17/25 11:38:43a •Giben’s injuries were serious.
+7/17/25 11:38:43a You must equip your moonstone before it can be used.
+7/17/25 11:38:44a You must equip your moonstone before it can be used.
+7/17/25 11:38:44a You must equip your moonstone before it can be used.
+7/17/25 11:38:45a •The healing spell has been broken.
+7/17/25 11:38:49a * Healing Unholy 
+7/17/25 11:38:49a •You cannot use your asklepian staff on yourself.
+7/17/25 11:38:49a You equip your moonstone.
+7/17/25 11:38:53a You equip your asklepian staff.
+7/17/25 11:38:53a You must equip your moonstone before it can be used.
+7/17/25 11:38:54a •The healing spell has been broken.
+7/17/25 11:38:54a Purrfect yells, "er"
+7/17/25 11:38:55a Kala says, "can you chain a couple people over here"
+7/17/25 11:38:58a You equip your chain.
+7/17/25 11:38:58a You recover some of the metal.
+7/17/25 11:38:58a You recover some of the metal.
+7/17/25 11:38:58a •You don't quite have the training to heal Purrfect’s injuries.
+7/17/25 11:38:58a Your chain breaks as you try to use it.
+7/17/25 11:39:16a You equip your asklepian staff.
+7/17/25 11:39:16a * Healing Fortuna 
+7/17/25 11:39:17a •Fortuna’s injuries are significantly more serious than you can heal.
+7/17/25 11:39:22a * Healing Fortuna 
+7/17/25 11:39:24a •Fortuna’s injuries are significantly more serious than you can heal.
+7/17/25 11:39:25a * Healing Asklepios 
+7/17/25 11:39:32a Aurelie says, "Hmmm"
+7/17/25 11:39:34a Aurelie says, "fort LMS"
+7/17/25 11:39:35a * Healing Purrfect 
+7/17/25 11:39:38a Aurelie says, "There we go"
+7/17/25 11:39:41a * Healing Fortuna 
+7/17/25 11:39:42a •Fortuna’s injuries were grave.
+7/17/25 11:39:47a •You learn from healing.
+7/17/25 11:39:50a •You sense healing energy from Asklepios.
+7/17/25 11:39:52a •You do not have enough spiritual energy.
+7/17/25 11:39:54a * Healing Aurelie 
+7/17/25 11:39:57a •You do not have enough spiritual energy.
+7/17/25 11:40:01a * Healing Fortuna 
+7/17/25 11:40:03a •The healing spell has been broken.
+7/17/25 11:40:04a •The healing spell has been broken.
+7/17/25 11:40:06a * Healing Aurelie 
+7/17/25 11:40:12a •You sense healing energy from Asklepios.
+7/17/25 11:40:23a * Healing Asklepios 
+7/17/25 11:40:33a * Healing Giben 
+7/17/25 11:40:39a * Healing Unholy 
+7/17/25 11:40:39a •You cannot use your asklepian staff on yourself.
+7/17/25 11:40:40a You equip your moonstone.
+7/17/25 11:40:40a •The healing spell has been broken.
+7/17/25 11:40:42a * Healing Giben 
+7/17/25 11:40:43a You equip your asklepian staff.
+7/17/25 11:40:43a You must equip your moonstone before it can be used.
+7/17/25 11:40:45a •The player must be in the same area.
+7/17/25 11:40:55a You have 2455 coins.
+7/17/25 11:40:58a * Healing Warawonda 
+7/17/25 11:41:16a * Healing Giben 
+7/17/25 11:41:17a •Giben’s wounds are much more severe than you can heal.
+7/17/25 11:41:18a * Healing Vylarian 
+7/17/25 11:41:20a * Healing Purrfect 
+7/17/25 11:41:23a * Healing Aurelie 
+7/17/25 11:41:24a •The healing spell has been broken.
+7/17/25 11:41:26a Xael turns to stone.
+7/17/25 11:41:26a * Healing Aurelie 
+7/17/25 11:41:29a * Healing Fortuna 
+7/17/25 11:41:35a * Healing Kala 
+7/17/25 11:41:40a * Healing Giben 
+7/17/25 11:41:46a •The healing spell has been broken.
+7/17/25 11:41:52a •The healing spell has been broken.
+7/17/25 11:41:52a •The healing spell has been broken.
+7/17/25 11:41:54a * Healing Giben 
+7/17/25 11:41:57a Giben turns to stone.
+7/17/25 11:41:59a Aurelie says, "oops"
+7/17/25 11:42:02a •The player must be in the same area.
+7/17/25 11:42:06a * Healing Aurelie 
+7/17/25 11:42:18a * Healing Asklepios 
+7/17/25 11:42:22a Asklepios says, "no chain"
+7/17/25 11:42:27a •The player must be in the same area.
+7/17/25 11:42:28a Unholy says, "nor i"
+7/17/25 11:42:31a * Healing Unholy 
+7/17/25 11:42:31a •You cannot use your asklepian staff on yourself.
+7/17/25 11:42:31a You equip your moonstone.
+7/17/25 11:42:41a Unholy says, "mine broke"
+7/17/25 11:42:47a * Healing Aurelie 
+7/17/25 11:42:48a You equip your asklepian staff.
+7/17/25 11:42:49a You must equip your moonstone before it can be used.
+7/17/25 11:42:49a You must equip your moonstone before it can be used.
+7/17/25 11:42:51a •The player must be in the same area.
+7/17/25 11:42:54a * Healing Giben 
+7/17/25 11:42:58a * Healing Vylarian 
+7/17/25 11:42:58a •Vylarian’s injuries are significantly more serious than you can heal.
+7/17/25 11:43:04a * Healing Aurelie 
+7/17/25 11:43:08a •The player must be in the same area.
+7/17/25 11:43:11a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+7/17/25 11:43:11a Unholy has fallen to a Crookbeak Kestrel.
+7/17/25 11:43:11a •Your injuries are grave.
+7/17/25 11:43:20a Unholy says, "hehe"
+7/17/25 11:43:21a •You sense healing energy from Kala.
+7/17/25 11:43:27a Kala says, "it's a pickle"
+7/17/25 11:43:28a * Healing Unholy 
+7/17/25 11:43:29a •You cannot use your asklepian staff on yourself.
+7/17/25 11:43:29a You equip your moonstone.
+7/17/25 11:43:31a Aurelie thinks, "Almost holding two inside"
+7/17/25 11:43:31a * Healing Kala 
+7/17/25 11:43:31a You equip your asklepian staff.
+7/17/25 11:43:32a You must equip your moonstone before it can be used.
+7/17/25 11:43:38a * Healing Purrfect 
+7/17/25 11:43:43a Mehan thinks, "how can you *almost* hold"
+7/17/25 11:43:45a Kala asks, "chain fort over here?"
+7/17/25 11:43:52a You have 2455 coins.
+7/17/25 11:43:53a Unholy says, "no chain"
+7/17/25 11:43:56a Unholy says, "broke"
+7/17/25 11:43:57a Aurelie thinks, "Well I'm behind a wall, and they're probably gonna get in here eventually"
+7/17/25 11:43:58a Kala says, "ok"
+7/17/25 11:43:59a * Healing Vylarian 
+7/17/25 11:44:00a •Vylarian’s injuries are significantly more serious than you can heal.
+7/17/25 11:44:02a •Vylarian’s wounds were severe.
+7/17/25 11:44:02a * Healing Purrfect 
+7/17/25 11:44:05a * Healing Vylarian 
+7/17/25 11:44:06a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+7/17/25 11:44:06a •You do not have enough in you.
+7/17/25 11:44:07a Unholy has fallen to a Fledgling Kestrel.
+7/17/25 11:44:07a •Your injuries are serious.
+7/17/25 11:44:07a Kala says, "get the bird if you can"
+7/17/25 11:44:15a Purrfect starts dragging you.
+7/17/25 11:44:17a Unholy says, "oh nice"
+7/17/25 11:44:39a Unholy says, ":)"
+7/17/25 11:44:41a Purrfect asks, "what to do?"
+7/17/25 11:45:01a Fortuna says, "what timing"
+7/17/25 11:45:04a Unholy says, "well"
+7/17/25 11:45:07a •You sense healing energy from Kala.
+7/17/25 11:45:15a Unholy says, "at lest where together now"
+7/17/25 11:45:18a * Healing Kala 
+7/17/25 11:45:18a Fortuna says, "i've been fogging pretty hard last few minutes"
+7/17/25 11:45:22a * Healing Asklepios 
+7/17/25 11:45:23a •Asklepios’s injuries are a little more serious than you can heal.
+7/17/25 11:45:30a •Asklepios’s injuries are a little more serious than you can heal.
+7/17/25 11:45:36a •Asklepios’s injuries are a little more serious than you can heal.
+7/17/25 11:45:38a Fortuna says, "hah zu grew back in can you raiser her"
+7/17/25 11:45:42a You have no 'chain' to equip.
+7/17/25 11:45:43a •Fortuna was too wounded to be healed easily.
+7/17/25 11:45:49a •The healing spell has been broken.
+7/17/25 11:45:50a * Healing Fortuna 
+7/17/25 11:45:55a •Fortuna’s injuries were serious.
+7/17/25 11:45:58a You have no 'chain' to equip.
+7/17/25 11:45:59a •Asklepios’s injuries are a little more serious than you can heal.
+7/17/25 11:46:06a •The healing spell has been broken.
+7/17/25 11:46:06a •Asklepios’s injuries are a little more serious than you can heal.
+7/17/25 11:46:07a •Giben was too wounded to be healed easily.
+7/17/25 11:46:09a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+7/17/25 11:46:10a •Your body is severely mangled.
+7/17/25 11:46:10a Unholy has fallen to a Mountain Panther.
+7/17/25 11:46:11a Fortuna says, "raise kala if oyu can"
+7/17/25 11:46:25a •Your body has been severely maimed.
+7/17/25 11:46:50a Asklepios says, "shit"
+7/17/25 11:46:51a You have 2455 coins.
+7/17/25 11:47:00a Asklepios yells, "almost made it"
+7/17/25 11:47:03a Kala yells, "you're quite"
+7/17/25 11:47:12a Asklepios yells, "thank you"
+7/17/25 11:47:22a Purrfect says, "try unholy"
+7/17/25 11:47:41a •You sense healing energy from Kala.
+7/17/25 11:47:42a •Your injuries are grave.
+7/17/25 11:47:48a •Your injuries are grave.
+7/17/25 11:47:55a •Your injuries are grave.
+7/17/25 11:48:01a Sawyer says, "What... you were supposed to be dead"
+7/17/25 11:48:38a Sawyer says, "noc hain"
+7/17/25 11:49:01a Unholy says, "wara has a chain"
+7/17/25 11:49:02a Purrfect yells, "er"
+7/17/25 11:49:24a Purrfect yells, "aure can you bring ask up here?"
+7/17/25 11:49:42a You have 2455 coins.
+7/17/25 11:50:03a Asklepios yells, "i can raise everybody, but you 2 need to work together"
+7/17/25 11:50:12a Aurelie exclaims, "Oh I"m alive?!"
+7/17/25 11:50:17a Unholy says, "hehe"
+7/17/25 11:50:23a Asklepios yells, "get me"
+7/17/25 11:50:26a Aurelie says, "I thought I was dead"
+7/17/25 11:50:34a Xael says, "heh what is a chain even"
+7/17/25 11:50:36a A link in Aurelie's chain shatters.
+7/17/25 11:50:39a Aurelie says, "sigh"
+7/17/25 11:50:40a Unholy says, "..."
+7/17/25 11:50:43a Unholy says, "hehe"
+7/17/25 11:50:46a Asklepios yells, "on me"
+7/17/25 11:50:52a Kala yells, "i can't reach"
+7/17/25 11:50:57a Asklepios asks, "push?"
+7/17/25 11:51:05a Kala yells, "can you push closer?"
+7/17/25 11:51:33a Asklepios says, "now both try"
+7/17/25 11:51:42a •You sense healing energy from Asklepios.
+7/17/25 11:52:01a * Healing Unholy 
+7/17/25 11:52:01a •You cannot use your asklepian staff on yourself.
+7/17/25 11:52:01a You equip your moonstone.
+7/17/25 11:52:05a * Healing Purrfect 
+7/17/25 11:52:06a You equip your asklepian staff.
+7/17/25 11:52:06a You must equip your moonstone before it can be used.
+7/17/25 11:52:14a Kala says, "now for the fallens inside"
+7/17/25 11:52:19a •Your healing is blocked.
+7/17/25 11:52:19a * Healing Kala 
+7/17/25 11:52:22a •The player must be in the same area.
+7/17/25 11:52:25a •Fortuna’s injuries were grave.
+7/17/25 11:52:27a * Healing Fortuna 
+7/17/25 11:52:34a You have 2455 coins.
+7/17/25 11:52:38a •You don't quite have the training to heal Vylarian’s injuries.
+7/17/25 11:52:40a * Healing Vylarian 
+7/17/25 11:52:43a * Healing Giben 
+7/17/25 11:52:46a •The player must be in the same area.
+7/17/25 11:52:49a * Healing Vylarian 
+7/17/25 11:52:50a Xael turns to stone.
+7/17/25 11:52:50a •You don't quite have the training to heal Vylarian’s injuries.
+7/17/25 11:52:53a * Healing Fortuna 
+7/17/25 11:52:58a * Healing Warawonda 
+7/17/25 11:53:04a * Healing Unholy 
+7/17/25 11:53:04a •You cannot use your asklepian staff on yourself.
+7/17/25 11:53:05a You equip your moonstone.
+7/17/25 11:53:08a * Healing Vylarian 
+7/17/25 11:53:08a You equip your asklepian staff.
+7/17/25 11:53:08a Fortuna says, "that sure went sideways lol"
+7/17/25 11:53:08a You must equip your moonstone before it can be used.
+7/17/25 11:53:19a • You begin radius healing.
+7/17/25 11:53:29a Fortuna plants a seedling.
+7/17/25 11:53:31a * Healing Giben 
+7/17/25 11:53:39a * Healing Unholy 
+7/17/25 11:53:39a •You cannot use your asklepian staff on yourself.
+7/17/25 11:53:40a You equip your moonstone.
+7/17/25 11:53:40a •The healing spell has been broken.
+7/17/25 11:53:42a * Healing Giben 
+7/17/25 11:53:43a You equip your asklepian staff.
+7/17/25 11:53:44a You must equip your moonstone before it can be used.
+7/17/25 11:53:44a Purrfect says, "1 here too fortuna"
+7/17/25 11:53:45a * Healing Asklepios 
+7/17/25 11:53:46a Fortuna says, "lure more n? or early part1 break"
+7/17/25 11:53:56a Purrfect says, "seed"
+7/17/25 11:54:03a Fortuna plants a seedling.
+7/17/25 11:54:11a * You feel mentally enhanced by Warawonda...
+7/17/25 11:54:22a •The Sun sets.
+7/17/25 11:54:22a Fortuna asks, "how is everyone feeling?"
+7/17/25 11:54:35a (Fortuna giggles)
+7/17/25 11:54:37a (Sawyer looks hungry.)
+7/17/25 11:54:39a Unholy says, "i think metz might be better"
+7/17/25 11:54:41a Purrfect says, "don't kill that"
+7/17/25 11:54:42a Giben says, "oops"
+7/17/25 11:54:43a Unholy says, "hehe"
+7/17/25 11:54:51a Fortuna says, "ok let's reset to metz cove"
+7/17/25 11:54:51a Giben says, "lag"
+7/17/25 11:54:54a Sawyer says, "Awww"
+7/17/25 11:54:54a * Healing Sawyer 
+7/17/25 11:54:54a •Your healing is blocked.
+7/17/25 11:54:55a Kala attempts to project into another plane.
+7/17/25 11:54:57a Sawyer says, "Right after I got here..."
+7/17/25 11:55:00a Purrfect says, "replant pleasecan we"
+7/17/25 11:55:28a You have 2455 coins.
+7/17/25 11:55:50a Fortuna thinks, "fledglings 5 min break in metz cove"
+7/17/25 11:55:55a Unholy says, "oops"
+7/17/25 11:56:00a * Your mental enhancement fades.
+7/17/25 

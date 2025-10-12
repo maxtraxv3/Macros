@@ -1,0 +1,205 @@
+
+5/8/25 4:06:52p * Your healer's cloak is in very good condition.
+5/8/25 4:06:52p Welcome to Clan Lord, Mimo!
+5/8/25 4:06:52p Type \HELP for a list of commands.
+5/8/25 4:06:52p • You gain experience from your recent studies.
+5/8/25 4:06:52p *Healer Mode
+5/8/25 4:06:52p *Type /hi help for more info
+5/8/25 4:06:52p The healing spell has started.
+5/8/25 4:06:52p You have been studying for one day, 2 hours, 10 minutes.
+5/8/25 4:06:55p It's 3:11am on Gradi, day 6 of Summer, 641.
+5/8/25 4:06:56p Friends online: none.
+5/8/25 4:06:57p There are two members of Black Phoenix clanning: Warawonda and you.
+5/8/25 4:06:57p • What’s New: https://deltatao.com/clanlord/news
+5/8/25 4:06:57p Stonehand says, "by fountain"
+5/8/25 4:07:03p •The Sun rises.
+5/8/25 4:07:06p Semie says, "hi"
+5/8/25 4:07:06p \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+5/8/25 4:07:06p * Healing Semie 
+5/8/25 4:07:07p * Tip of the day: Time in Puddleby moves about four times as fast as time in the real world. (Use /OPTIONS to turn tips off.)
+5/8/25 4:07:09p Semie says, "im safe"
+5/8/25 4:07:16p Shadowfire is sharing experiences with you.
+5/8/25 4:07:18p \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+5/8/25 4:07:18p * Healing Beesfields 
+5/8/25 4:07:24p \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+5/8/25 4:07:24p * Healing Shadowfire 
+5/8/25 4:07:26p Semie says, "but i wonder about the magical fountain healing"
+5/8/25 4:07:27p * Healer Item set to asklepian staff 
+5/8/25 4:07:33p * Healing Shadowfire 
+5/8/25 4:07:36p Shadowfire says, "No idea"
+5/8/25 4:07:44p Shadowfire asks, "How much Sprite Semie?"
+5/8/25 4:07:49p * Healing Beesfields 
+5/8/25 4:07:49p Semie says, "uhhh"
+5/8/25 4:07:56p Shadowfire asks, ""a lot" vs "a little"?"
+5/8/25 4:08:11p Reck Sinto says, "Welcome to the private Healer area, Mimo. Go on inside."
+5/8/25 4:08:14p Higgrus says, "Hail, Semie. There is not much more I can teach you."
+5/8/25 4:08:15p * Higgrus : 250-299.
+5/8/25 4:08:16p Sprite says, "Hail, Semie. You have attained tremendous skill."
+5/8/25 4:08:16p * Sprite : 350-399.
+5/8/25 4:08:19p Sprite says, "Hail, Semie. You have attained tremendous skill."
+5/8/25 4:08:19p * Sprite : 350-399.
+5/8/25 4:08:20p Sprite says, "I can teach you how to improve your spirit for healing."
+5/8/25 4:08:21p Sprite says, "You will learn as you practice."
+5/8/25 4:08:22p Mimo says, "350"
+5/8/25 4:08:30p Semie says, "i knew that"
+5/8/25 4:08:33p Higgrus says, "Hail, Semie. There is not much more I can teach you."
+5/8/25 4:08:33p * Higgrus : 250-299.
+5/8/25 4:08:34p Higgrus says, "I can teach you to improve your physical well-being."
+5/8/25 4:08:35p Higgrus says, "You will learn as you practice."
+5/8/25 4:08:36p Semie says, "off the top on my head"
+5/8/25 4:08:36p Higgrus asks, "Are you sure you would like to train with me?"
+5/8/25 4:08:38p Respia says, "Hail, Semie."
+5/8/25 4:08:39p Respia bows deeply.
+5/8/25 4:08:41p Respia says, "Your persistence is an example to us all."
+5/8/25 4:08:41p * Respia : 1250-1499.
+5/8/25 4:08:42p (Mimo nods)
+5/8/25 4:08:42p Respia says, "I can teach you to recover spiritual energy faster."
+5/8/25 4:08:46p Faustus says, "Hail, Semie."
+5/8/25 4:08:47p Faustus bows.
+5/8/25 4:08:49p Faustus says, "You show great devotion to your studies."
+5/8/25 4:08:49p * Faustus : 600-649.
+5/8/25 4:08:50p Faustus says, "I can teach you to improve your healing speed."
+5/8/25 4:08:52p Eva says, "Hail, Semie. You may be proud of your accomplishment."
+5/8/25 4:08:52p * Eva : 450-499.
+5/8/25 4:08:53p Eva says, "I can teach a balanced healing style."
+5/8/25 4:08:54p Eva says, "You will learn as you practice."
+5/8/25 4:08:55p Eva asks, "Are you sure you would like to train with me?"
+5/8/25 4:09:03p Sprite says, "Hail, Mimo. It is good to see you."
+5/8/25 4:09:03p * Sprite : 10-19.
+5/8/25 4:09:03p Sprite says, "I can teach you how to improve your spirit for healing."
+5/8/25 4:09:04p Sprite says, "You will learn as you practice."
+5/8/25 4:09:07p Higgrus says, "Hail, Mimo. There is not much more I can teach you."
+5/8/25 4:09:07p * Higgrus : 250-299.
+5/8/25 4:09:07p Higgrus says, "I can teach you to improve your physical well-being."
+5/8/25 4:09:07p Higgrus says, "You will learn as you practice."
+5/8/25 4:09:08p Higgrus says, "Hail, Mimo. There is not much more I can teach you."
+5/8/25 4:09:08p * Higgrus : 250-299.
+5/8/25 4:09:09p Higgrus says, "I can teach you to improve your physical well-being."
+5/8/25 4:09:09p Higgrus says, "You will learn as you practice."
+5/8/25 4:09:10p Respia says, "Hail, Mimo."
+5/8/25 4:09:11p Respia bows deeply.
+5/8/25 4:09:13p Respia says, "Let us search for more we might learn together."
+5/8/25 4:09:13p * Respia : 1000-1249.
+5/8/25 4:09:13p Respia says, "I can teach you to recover spiritual energy faster."
+5/8/25 4:09:13p Respia says, "You will learn as you practice."
+5/8/25 4:09:15p Sespus says, "Hail, Mimo. Teaching you is a challenge."
+5/8/25 4:09:15p * Sespus : 200-249.
+5/8/25 4:09:15p Sespus says, "I can teach you to increase your spiritual energy."
+5/8/25 4:09:15p Sespus says, "You will learn as you practice."
+5/8/25 4:09:17p Faustus says, "Hail, Mimo."
+5/8/25 4:09:17p Faustus bows.
+5/8/25 4:09:19p Faustus says, "Few indeed are your peers."
+5/8/25 4:09:19p * Faustus : 700-749.
+5/8/25 4:09:19p Faustus says, "I can teach you to improve your healing speed."
+5/8/25 4:09:20p Faustus says, "You will learn as you practice."
+5/8/25 4:09:21p Semie asks, "what were my stats?"
+5/8/25 4:09:22p Eva says, "Hail, Mimo. It is good to see you."
+5/8/25 4:09:22p * Eva : 10-19.
+5/8/25 4:09:22p Eva says, "I can teach a balanced healing style."
+5/8/25 4:09:47p Mimo says, "* Eva : 450-499."
+5/8/25 4:09:54p Mimo says, "* Faustus : 600-649."
+5/8/25 4:10:01p You have 21 coins.
+5/8/25 4:10:02p Mimo says, "* Respia : 1250-1499."
+5/8/25 4:10:04p Semie says, "10k faustus all the rest in sprite"
+5/8/25 4:10:24p Mimo says, "you still need respia"
+5/8/25 4:10:41p Semie says, "respia is for self healers"
+5/8/25 4:10:51p Semie says, "someone else can heal me"
+5/8/25 4:10:53p Mimo says, "doesnt matter how you train you need to train respia"
+5/8/25 4:10:57p * Healing Semie 
+5/8/25 4:11:10p Semie says, "i suppose"
+5/8/25 4:11:36p Semie says, "i do lose spirit pretty fast when healing like 6 people"
+5/8/25 4:11:40p Respia says, "Hail, Semie."
+5/8/25 4:11:41p Respia bows deeply.
+5/8/25 4:11:43p Semie says, "yes"
+5/8/25 4:11:43p Respia says, "Your persistence is an example to us all."
+5/8/25 4:11:43p * Respia : 1250-1499.
+5/8/25 4:11:44p Respia says, "I can teach you to recover spiritual energy faster."
+5/8/25 4:11:46p Respia says, "You will learn as you practice."
+5/8/25 4:11:47p Semie says, "yes"
+5/8/25 4:11:47p Respia asks, "Are you sure you would like to train with me?"
+5/8/25 4:11:47p Semie says, "yes"
+5/8/25 4:11:48p Respia says, "Welcome aboard. Go into the world and learn what you may, while practicing our craft."
+5/8/25 4:11:56p Mimo says, "yeah i wounder how they fix that"
+5/8/25 4:12:02p Semie says, "on 10k respia then sprite forever"
+5/8/25 4:12:10p Semie says, "ok 10k respia then sprite forever"
+5/8/25 4:12:16p Mimo says, "heh"
+5/8/25 4:12:26p Mimo says, "if you can get to 10k spite"
+5/8/25 4:12:31p Semie says, "lol"
+5/8/25 4:12:51p Semie says, "I worked out how many ranks stonehand had today"
+5/8/25 4:12:51p Mimo says, "maybe"
+5/8/25 4:12:58p Mimo says, "oh"
+5/8/25 4:13:04p Semie says, "it was about 4k"
+5/8/25 4:13:11p Mimo says, "ah"
+5/8/25 4:13:11p You have 21 coins.
+5/8/25 4:13:18p Semie says, "it you compressed it all intoevus"
+5/8/25 4:13:19p Mimo says, "about the same as magnic"
+5/8/25 4:13:29p Semie says, "yeah"
+5/8/25 4:13:55p Semie says, "regia isd his pest dps trainer for the next 400 ranks"
+5/8/25 4:13:58p Mimo says, "well actuly magnic has more"
+5/8/25 4:14:13p Semie says, "best***"
+5/8/25 4:14:31p Semie asks, "what are magnic's stats?"
+5/8/25 4:14:33p Mimo says, "ill be traing 3 new bloodmages soon"
+5/8/25 4:14:40p Mimo says, "oh not great"
+5/8/25 4:14:40p Semie says, "ooh nice"
+5/8/25 4:14:49p Semie says, "bm always looked un to me"
+5/8/25 4:14:52p Semie says, "fun"
+5/8/25 4:15:09p Mimo says, "yeah ima make a super fast swing rate ones"
+5/8/25 4:15:16p Semie says, "the debuffs seem super strong"
+5/8/25 4:15:23p Mimo says, "and one for just disable"
+5/8/25 4:15:51p Mimo says, "3rd one gonna make as pure stedfusts as i can"
+5/8/25 4:15:54p Semie says, "that's all above my pay grade"
+5/8/25 4:16:08p Semie says, "all I know is we need more BMs"
+5/8/25 4:16:20p You have 21 coins.
+5/8/25 4:16:23p Mimo says, "problem is spirit"
+5/8/25 4:16:29p Semie says, "oh waiti just remembered"
+5/8/25 4:16:32p Mimo says, "always will be"
+5/8/25 4:16:38p Fife Daure says, "Welcome to the fifth circle, Semie. Go on inside."
+5/8/25 4:16:49p Glory says, "Welcome to the healer testing area."
+5/8/25 4:16:50p Glory says, "In a few moments I will fall, and hostile creatures will enter."
+5/8/25 4:16:50p Glory says, "Raise me successfully and live to complete the test."
+5/8/25 4:16:53p Mimo ties Glory's shoelaces together.
+5/8/25 4:16:56p Glory tries to take a step.
+5/8/25 4:17:03p You equip your moonstone.
+5/8/25 4:17:10p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+5/8/25 4:17:10p You cannot possibly use anything in your current condition.
+5/8/25 4:17:10p Glory yells, "So very close! You'll do it next time, I'm sure."
+5/8/25 4:17:10p Mimo has fallen to an Olive Arachnoid.
+5/8/25 4:17:10p •You are too wounded to be healed easily.
+5/8/25 4:17:11p You slip your moonstone into your backpack.
+5/8/25 4:17:11p You cannot possibly use anything in your current condition.
+5/8/25 4:17:12p Glory yells, "Regrettably, Mimo, you have failed."
+5/8/25 4:17:12p Glory sighs.
+5/8/25 4:17:13p Glory yells, "Try again when you are a little stronger or wiser."
+5/8/25 4:17:15p Semie thinks to you, "forgot i was doing the ss trainer"
+5/8/25 4:17:31p You equip your asklepian staff.
+5/8/25 4:17:43p Semie says, "yes i have heard people complain about spirit alot with BMs"
+5/8/25 4:17:49p Mimo says, "thats ok i failed a test becuase i forgot you put my stone on :P"
+5/8/25 4:18:30p Semie says, "yeah i have failed so many tests for dumb reasons"
+5/8/25 4:18:41p Semie says, "i once forgot to equip a weapon"
+5/8/25 4:18:46p Semie says, "in the fighter test"
+5/8/25 4:18:46p Astrooa says, "Mimo, you are making progress. Horus will be pleased."
+5/8/25 4:18:47p * |▰▰▰▰▰═════| 38%-62%
+5/8/25 4:18:53p Alfer Dend says, "Welcome to the second circle, Mimo. Go on inside."
+5/8/25 4:18:59p Mimo says, "heh"
+5/8/25 4:19:06p Repetun says, "Greetings, Lord Mimo."
+5/8/25 4:19:06p Repetun says, "If you wish, I can exchange your fourth-circle badge for a third-circle one."
+5/8/25 4:19:07p Repetun says, "You can come back to me later to have your fourth-circle badge restored."
+5/8/25 4:19:26p Higgrus says, "Hail, Mimo. There is not much more I can teach you."
+5/8/25 4:19:26p * Higgrus : 250-299.
+5/8/25 4:19:26p Higgrus says, "I can teach you to improve your physical well-being."
+5/8/25 4:19:26p Higgrus says, "You will learn as you practice."
+5/8/25 4:19:27p Higgrus asks, "Are you sure you would like to train with me?"
+5/8/25 4:19:29p Mimo says, "yes"
+5/8/25 4:19:29p Higgrus says, "Just tell me yes or no, please."
+5/8/25 4:19:29p Higgrus says, "Welcome aboard. Go into the world and learn what you may, while practicing our craft."
+5/8/25 4:19:30p Higgrus says, "Hail, Mimo. There is not much more I can teach you."
+5/8/25 4:19:30p * Higgrus : 250-299.
+5/8/25 4:19:30p Higgrus says, "I can teach you to improve your physical well-being."
+5/8/25 4:19:37p •The healing spell has been broken.
+5/8/25 4:19:39p You have 21 coins.
+5/8/25 4:19:45p • /SLEEP when you wish to begin studying.
+5/8/25 4:19:47p Use \SLEEP again when you return.
+5/8/25 4:19:47p You are done adventuring for a while and will be staying here.
+5/8/25 4:19:48p You have been disconnected from Clan Lord.
+5/8/25 4:19:49p • You will benefit from staying here while you are off-line.
+5/8/25 4:19:49p *** We are no l

@@ -1,0 +1,142 @@
+
+3/11/25 5:08:31p * Your pair of pants named “dark grey” is in very good condition.
+3/11/25 5:08:31p * Your shirt named “midnight” is in nearly perfect condition.
+3/11/25 5:08:31p Welcome to Clan Lord, Cassius!
+3/11/25 5:08:31p Type \HELP for a list of commands.
+3/11/25 5:08:31p • You gain experience from your recent studies.
+3/11/25 5:08:32p You have been studying for 17 days, 12 hours, 43 minutes.
+3/11/25 5:08:34p It's 12:51am on Terrdi, day 39 of Autumn, 640.
+3/11/25 5:08:35p Friends online: none.
+3/11/25 5:08:36p There are two members of Black Phoenix clanning: Magnic and you.
+3/11/25 5:08:36p • What’s New: https://deltatao.com/clanlord/news
+3/11/25 5:08:45p * Tip of the day: Use /DEPART while you’re NOT fallen, or /HELP DEPART when you are, to see how many times you have departed. (Use /OPTIONS to turn tips off.)
+3/11/25 5:09:02p •Your study of skinning seems to be paying off.
+3/11/25 5:09:26p Koppi yells, "Ramandu reports: Join LA! We definitely won't get you killed in the ethereal plane like those Fledglings will. We'll get you killed somewhere far less convenient!"
+3/11/25 5:09:33p Catan says, "[Catan:5] There were problems in macro 'F3'"
+3/11/25 5:09:33p Catan says, "[Catan:25] The if block starting on line 7 doesn't have an ending."
+3/11/25 5:09:56p Atma says, "i had to reupdate it"
+3/11/25 5:10:25p You offer a brambleberry cluster to Cat Food for free.
+3/11/25 5:10:25p \SELL /cancel to cancel the offer.
+3/11/25 5:10:28p You hand Cat Food a brambleberry cluster.
+3/11/25 5:10:30p You offer a bunch of dark berries to Cat Food for free.
+3/11/25 5:10:30p \SELL /cancel to cancel the offer.
+3/11/25 5:10:32p •Your study of skinning seems to be paying off.
+3/11/25 5:10:33p You hand Cat Food a bunch of dark berries.
+3/11/25 5:10:37p You offer a cluster of mutated spores to Cat Food for free.
+3/11/25 5:10:37p \SELL /cancel to cancel the offer.
+3/11/25 5:10:38p You hand Cat Food a cluster of mutated spores.
+3/11/25 5:10:41p Crius yells, "It’s 1 o’clock, and all’s well."
+3/11/25 5:10:48p You equip your dagger.
+3/11/25 5:10:50p You have no 'Longsword' to equip.
+3/11/25 5:10:55p Cassius says, "works for me"
+3/11/25 5:11:16p Cassius says, "there a macro in your name that not working"
+3/11/25 5:11:25p Cassius says, "the macro file called catan"
+3/11/25 5:11:36p Catan says, "still only switcing to shiny adn not the rest of the weapons"
+3/11/25 5:11:52p Cassius says, "give me the great axe and long sword"
+3/11/25 5:11:57p Atma asks, "capitalize Shiny Dagger?"
+3/11/25 5:12:02p •Your study of skinning seems to be paying off.
+3/11/25 5:12:03p Cassius says, "no"
+3/11/25 5:12:03p Atma ponders, "but that shouldnt matter heh"
+3/11/25 5:12:08p Cassius says, "it does"
+3/11/25 5:12:13p Catan asks, "Give them to you?"
+3/11/25 5:12:19p Cassius says, "ill give it back"
+3/11/25 5:12:34p Catan says, "puzzled but I ll do it"
+3/11/25 5:12:55p • Catan offers you a greataxe for free.
+3/11/25 5:12:55p To accept, \BUY 0 Catan.
+3/11/25 5:12:57p Cassius says, "i have a dagger and goss on me"
+3/11/25 5:13:07p Cassius says, "the goss switches to dagger fine"
+3/11/25 5:13:19p • Time has expired on Catan's offer.
+3/11/25 5:13:28p Cassius says, "opps"
+3/11/25 5:13:31p Cassius says, "try again"
+3/11/25 5:13:31p • Catan offers you a greataxe for free.
+3/11/25 5:13:31p To accept, \BUY 0 Catan.
+3/11/25 5:13:31p 1  Catan. 
+3/11/25 5:13:32p Catan hands you a greataxe.
+3/11/25 5:13:32p •Your study of skinning seems to be paying off.
+3/11/25 5:13:38p You equip your greataxe.
+3/11/25 5:13:40p You have no 'shinydagger' to equip.
+3/11/25 5:13:43p • Catan offers you a longsword for free.
+3/11/25 5:13:43p To accept, \BUY 0 Catan.
+3/11/25 5:13:43p 1  Catan. 
+3/11/25 5:13:44p Catan hands you a longsword.
+3/11/25 5:13:50p Catan says, "There you go"
+3/11/25 5:13:51p You equip your longsword.
+3/11/25 5:13:57p You equip your gossamer.
+3/11/25 5:13:59p You equip your dagger.
+3/11/25 5:14:01p You equip your longsword.
+3/11/25 5:14:08p Cassius says, "3/11/25 5:13:57p You equip your gossamer."
+3/11/25 5:14:08p Cassius says, "3/11/25 5:13:59p You equip your dagger."
+3/11/25 5:14:09p Cassius says, "3/11/25 5:14:01p You equip your longsword."
+3/11/25 5:14:09p Atma says, "i fixed your file macro"
+3/11/25 5:14:13p Cassius says, "works fine"
+3/11/25 5:14:24p You equip your greataxe.
+3/11/25 5:14:25p Atma says, "the file i sent should work"
+3/11/25 5:14:33p Cassius says, "give the shiny dagger"
+3/11/25 5:14:37p Koppi yells, "Ramandu reports: Join LA! We definitely won't get you killed in the ethereal plane like those Fledglings will. We'll get you killed somewhere far less convenient!"
+3/11/25 5:14:51p Cassius says, "just check"
+3/11/25 5:14:59p Cassius says, "maybe sothing funny with it"
+3/11/25 5:15:03p •Your study of skinning seems to be paying off.
+3/11/25 5:15:18p • Catan offers you the shiny dagger he's wielding. The shiny dagger is brand new, and is offered for free.
+3/11/25 5:15:18p To accept, \BUY 0 Catan.
+3/11/25 5:15:18p 1  Catan. 
+3/11/25 5:15:19p Catan hands you a shiny dagger.
+3/11/25 5:15:23p You equip your shiny dagger.
+3/11/25 5:15:50p Cassius says, "there is"
+3/11/25 5:16:12p Cassius says, "odd"
+3/11/25 5:16:16p Atma says, "pretty sure the macro file i sent in macro should work for him now"
+3/11/25 5:16:33p •Your study of skinning seems to be paying off.
+3/11/25 5:16:36p Atma says, "in discord"
+3/11/25 5:16:41p Cassius says, "yeah it cant see shinty dagger"
+3/11/25 5:16:51p Atma says, "oh"
+3/11/25 5:16:52p Atma says, "thats"
+3/11/25 5:16:57p Atma says, "it's called something funny"
+3/11/25 5:17:01p Atma says, "i feel like"
+3/11/25 5:17:07p Atma asks, "silverdagger?"
+3/11/25 5:17:28p *  shiny dagger <#1>  
+3/11/25 5:17:35p Catan asks, "So Cassius?"
+3/11/25 5:17:46p Cassius asks, "so does the 1 matter?"
+3/11/25 5:17:50p You equip your gossamer.
+3/11/25 5:17:52p *  gossamer  
+3/11/25 5:17:55p Cassius says, "yes"
+3/11/25 5:17:58p Cassius says, "thats odd"
+3/11/25 5:18:12p * You feel mentally enhanced by Atma...
+3/11/25 5:18:24p You equip your greataxe.
+3/11/25 5:18:26p You equip your shiny dagger.
+3/11/25 5:18:50p Catan asks, "So what is your assessment Cassius?"
+3/11/25 5:19:01p You equip your gossamer.
+3/11/25 5:19:04p Cassius says, "ah"
+3/11/25 5:19:05p Nyarlathotep turns to stone.
+3/11/25 5:19:11p Cassius says, "got it"
+3/11/25 5:19:15p You offer a greataxe to Catan for free.
+3/11/25 5:19:15p \SELL /cancel to cancel the offer.
+3/11/25 5:19:27p You hand Catan a greataxe.
+3/11/25 5:19:48p Koppi yells, "Bashak reports: Don't forget to catch the boat to PEACETON later this month for The First Annual LA™ Spring Break In PEACETON, brought to you by the Laughing Academy™"
+3/11/25 5:20:42p You offer a shiny dagger to Catan for free.
+3/11/25 5:20:42p \SELL /cancel to cancel the offer.
+3/11/25 5:20:48p You hand Catan a shiny dagger.
+3/11/25 5:20:54p You offer a longsword to Catan for free.
+3/11/25 5:20:54p \SELL /cancel to cancel the offer.
+3/11/25 5:20:57p You hand Catan a longsword.
+3/11/25 5:21:08p Catan asks, "Waht is you assessment then?"
+3/11/25 5:21:24p Cassius says, "check discord i have fixed it"
+3/11/25 5:22:05p * Your mental enhancement fades.
+3/11/25 5:22:25p Shadowmutt growls, "Grrr."
+3/11/25 5:22:36p Catan asks, "Ayako right?"
+3/11/25 5:22:38p Shadowmutt growls, "Grrr."
+3/11/25 5:23:05p Shadowmutt growls, "Grrr."
+3/11/25 5:23:08p Shadowmutt growls, "Woof!"
+3/11/25 5:23:10p Shadowmutt rolls on the ground.
+3/11/25 5:23:35p * Your mental enhancement fades.
+3/11/25 5:23:38p * Your mental enhancement fades.
+3/11/25 5:23:49p Shadowmutt growls, "Grrr."
+3/11/25 5:23:56p • /SLEEP when you wish to begin studying.
+3/11/25 5:24:08p You offer a parachute to Catan for free.
+3/11/25 5:24:08p \SELL /cancel to cancel the offer.
+3/11/25 5:24:12p Catan exclaims, "It works !!!!!!!"
+3/11/25 5:24:16p Catan says, "Wooohooo"
+3/11/25 5:24:32p • Catan has declined your offer.
+3/11/25 5:24:33p Catan says, "I have a parachute Cass already"
+3/11/25 5:24:34p Cassius says, "yeah like i said somethign are very odd about how there named"
+3/11/25 5:24:39p Cassius says, "oh nice"
+3/11/25 5:24:46p • /SLEEP when you wish to begin studying.
+3/11/25 5:24:49p Use \S

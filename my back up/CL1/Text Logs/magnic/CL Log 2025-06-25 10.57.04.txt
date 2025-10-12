@@ -1,0 +1,652 @@
+
+6/25/25 10:57:05a * Your pair of pants named “dark grey” is in very good condition.
+6/25/25 10:57:05a * Your pair of shoes named “red” is in very good condition.
+6/25/25 10:57:05a * Your shirt named “dark grey” is in very good condition.
+6/25/25 10:57:05a Welcome to Clan Lord, Magnic!
+6/25/25 10:57:05a Type \HELP for a list of commands.
+6/25/25 10:57:05a • You have been charged 80 coins for advanced studies.
+6/25/25 10:57:05a • You gain experience from your recent studies.
+6/25/25 10:57:05a Magnic is now Clanning.
+6/25/25 10:57:05a You have been studying for 2 days, 15 hours, 24 minutes.
+6/25/25 10:57:08a It's 2:48pm on Lundi, day 21 of Winter, 642.
+6/25/25 10:57:09a There are two members of Black Phoenix clanning: Mara and you.
+6/25/25 10:57:09a • What’s New: https://deltatao.com/clanlord/news
+6/25/25 10:57:15a Friends online: none.
+6/25/25 10:57:19a You equip your heartwood charm.
+6/25/25 10:57:19a * Tip of the day: A tureen is a large, deep dish or pot. (Use /OPTIONS to turn tips off.)
+6/25/25 10:57:19a •You assume the shape of a Giant Carnivorous Plankton.
+6/25/25 10:57:19a • You gather your energy.
+6/25/25 10:57:22a • You speed up.
+6/25/25 10:57:24a You vault the wall.
+6/25/25 10:57:36a You slaughtered a Leech.
+6/25/25 10:58:06a • You return to your normal form.
+6/25/25 10:58:09a • You slow down to normal speed.
+6/25/25 10:58:09a You slip your heartwood charm into your backpack.
+6/25/25 10:58:13a You slaughtered a Myrm Scout.
+6/25/25 10:58:14a You slaughtered a Wendecka.
+6/25/25 10:58:14a * You recover the Wendecka fur, worth 5c. Your share is 5c.
+6/25/25 10:58:14a You slaughtered a Wendecka.
+6/25/25 10:58:17a You slaughtered a Rat.
+6/25/25 10:58:19a You slaughtered a Wendecka.
+6/25/25 10:58:19a * You recover the Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 10:58:23a You slaughtered a Wendecka.
+6/25/25 10:58:37a You slaughtered a Wendecka.
+6/25/25 10:58:37a * You recover the Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 10:58:38a You slaughtered a Rat.
+6/25/25 10:58:46a You slaughtered a Rat.
+6/25/25 10:58:47a You slaughtered a Rat.
+6/25/25 10:58:48a You slaughtered a Rat.
+6/25/25 10:58:49a You slaughtered a Rat.
+6/25/25 10:58:49a You slaughtered a Rat.
+6/25/25 10:58:51a You slaughtered a Bloodhawk.
+6/25/25 10:58:51a You slaughtered a Rat.
+6/25/25 10:58:52a You slaughtered a Rat.
+6/25/25 10:58:54a You slaughtered a Rat.
+6/25/25 10:58:54a You slaughtered a Bloodhawk.
+6/25/25 10:58:55a You slaughtered a Rat.
+6/25/25 10:58:56a You slaughtered a Bloodhawk.
+6/25/25 10:58:56a You slaughtered a Rat.
+6/25/25 10:58:56a You slaughtered a Rat.
+6/25/25 10:58:59a You slaughtered a Rat.
+6/25/25 10:59:00a * You recover the Rat fur, worth 1c. Your share is 1c.
+6/25/25 10:59:01a You slaughtered a Rat.
+6/25/25 10:59:02a You slaughtered a Rat.
+6/25/25 10:59:04a You slaughtered a Rat.
+6/25/25 10:59:05a You slaughtered a Rat.
+6/25/25 10:59:08a You slaughtered a Rat.
+6/25/25 10:59:13a You slaughtered a Rat.
+6/25/25 10:59:14a You slaughtered a Rat.
+6/25/25 10:59:15a You slaughtered a Rat.
+6/25/25 10:59:19a You slaughtered a Wendecka.
+6/25/25 10:59:19a * You recover the Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 10:59:27a You slaughtered a Wendecka.
+6/25/25 10:59:28a You slaughtered a Wendecka.
+6/25/25 10:59:28a * For recovering the fur, you gain experience.
+6/25/25 10:59:28a * You recover the Wendecka fur, worth 1c. Your share is 1c.
+6/25/25 10:59:29a You slaughtered a Wendecka.
+6/25/25 10:59:30a * You recover the Wendecka fur, worth 3c. Your share is 3c.
+6/25/25 10:59:32a You found a lump of iron ore!
+6/25/25 10:59:37a You slaughtered a Wendecka.
+6/25/25 10:59:43a You slaughtered a Wendecka.
+6/25/25 10:59:44a * You recover the Wendecka fur, worth 1c. Your share is 1c.
+6/25/25 10:59:47a You slaughtered a Night Wendecka.
+6/25/25 10:59:47a * You recover the Night Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 10:59:53a You slaughtered a Night Wendecka.
+6/25/25 10:59:54a You slaughtered a Boma Winder.
+6/25/25 10:59:57a You have 3320 coins.
+6/25/25 10:59:57a You slaughtered a Night Wendecka.
+6/25/25 10:59:58a * You recover the Night Wendecka fur, worth 1c. Your share is 1c.
+6/25/25 10:59:58a You slaughtered a Vermine.
+6/25/25 11:00:04a You slaughtered a Boma Winder.
+6/25/25 11:00:05a You slaughtered a Night Wendecka.
+6/25/25 11:00:10a You slaughtered a Night Wendecka.
+6/25/25 11:00:10a * You recover the Night Wendecka fur, worth 5c. Your share is 5c.
+6/25/25 11:00:11a You slaughtered a Boma Winder.
+6/25/25 11:00:13a You slaughtered a Greymyr.
+6/25/25 11:00:13a * You recover the Greymyr bounty worth 3c.
+6/25/25 11:00:25a You slaughtered a Night Wendecka.
+6/25/25 11:00:26a You slaughtered a Boma Winder.
+6/25/25 11:00:27a You slaughtered a Boma Winder.
+6/25/25 11:00:31a You slaughtered a Crota Winder.
+6/25/25 11:00:35a You slaughtered a Rat.
+6/25/25 11:00:39a You slaughtered a Raste Winder.
+6/25/25 11:00:40a You slaughtered a Boma Winder.
+6/25/25 11:00:50a You slaughtered a Raste Winder.
+6/25/25 11:00:54a You slaughtered a Wendecka.
+6/25/25 11:00:54a You slaughtered a Crota Winder.
+6/25/25 11:00:54a * You recover the Wendecka fur, worth 3c. Your share is 3c.
+6/25/25 11:01:01a You slaughtered a Greymyr.
+6/25/25 11:01:06a You slaughtered a Vermine.
+6/25/25 11:01:31a You slaughtered a Grey Wyrm.
+6/25/25 11:01:38a You slaughtered a Night Wendecka.
+6/25/25 11:01:40a You slaughtered a Vermine.
+6/25/25 11:01:48a You slaughtered a Cave Wurm.
+6/25/25 11:01:50a You slaughtered a Cave Wurm.
+6/25/25 11:01:52a You slaughtered a Cave Wurm.
+6/25/25 11:01:54a You slaughtered a Cave Wurm.
+6/25/25 11:01:55a You slaughtered a Cave Wurm.
+6/25/25 11:01:58a You slaughtered a Cave Wurm.
+6/25/25 11:02:00a You slaughtered a Scavenger Wurm.
+6/25/25 11:02:00a Arianrhod is now Clanning.
+6/25/25 11:02:01a You slaughtered a Scavenger Wurm.
+6/25/25 11:02:10a You slaughtered a Ripper.
+6/25/25 11:02:19a You slaughtered a Ripper.
+6/25/25 11:02:20a You slaughtered a Vermine.
+6/25/25 11:02:43a You slaughtered a Vermine.
+6/25/25 11:02:47a You slaughtered a Vermine.
+6/25/25 11:02:48a You slaughtered a Tahxis Wurm.
+6/25/25 11:02:48a You slaughtered a Vermine.
+6/25/25 11:02:51a You slaughtered a Crota Winder.
+6/25/25 11:02:53a You have 3332 coins.
+6/25/25 11:02:56a You slaughtered a Rat.
+6/25/25 11:03:02a You slaughtered a Rat.
+6/25/25 11:03:17a You slaughtered a Vermine.
+6/25/25 11:03:19a You slaughtered a Rat.
+6/25/25 11:03:28a You slaughtered a Vermine.
+6/25/25 11:03:35a You slaughtered a Night Wendecka.
+6/25/25 11:03:35a * You recover the Night Wendecka fur, worth 4c. Your share is 4c.
+6/25/25 11:03:36a You slaughtered a Rat.
+6/25/25 11:03:46a You slaughtered a Night Wendecka.
+6/25/25 11:03:46a * You recover the Night Wendecka fur, worth 6c. Your share is 6c.
+6/25/25 11:03:47a You slaughtered a Giant Vermine.
+6/25/25 11:03:47a * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+6/25/25 11:03:49a You slaughtered a Night Wendecka.
+6/25/25 11:03:49a * You recover the Night Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:03:52a You slaughtered a Vermine.
+6/25/25 11:03:55a You slaughtered a Night Wendecka.
+6/25/25 11:03:55a * You recover the Night Wendecka fur, worth 4c. Your share is 4c.
+6/25/25 11:03:59a You slaughtered a Vermine.
+6/25/25 11:04:00a You slaughtered a Vermine.
+6/25/25 11:04:00a You slaughtered a Bloodhawk.
+6/25/25 11:04:07a You slaughtered a Vermine.
+6/25/25 11:04:07a You slaughtered a Wendecka.
+6/25/25 11:04:08a * You recover the Wendecka fur, worth 1c. Your share is 1c.
+6/25/25 11:04:08a You slaughtered a Night Wendecka.
+6/25/25 11:04:08a * You recover the Night Wendecka fur, worth 6c. Your share is 6c.
+6/25/25 11:04:09a You slaughtered a Night Wendecka.
+6/25/25 11:04:09a * You recover the Night Wendecka fur, worth 10c. Your share is 10c.
+6/25/25 11:04:11a You slaughtered a Night Wendecka.
+6/25/25 11:04:11a * You recover the Night Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:04:18a You slaughtered a Bloodhawk.
+6/25/25 11:04:19a You slaughtered a Vermine.
+6/25/25 11:04:28a You slaughtered a Vermine.
+6/25/25 11:04:31a You slaughtered a Rat.
+6/25/25 11:04:32a You slaughtered a Rat.
+6/25/25 11:04:33a You slaughtered a Vermine.
+6/25/25 11:04:36a You slaughtered a Starbuck.
+6/25/25 11:04:44a You slaughtered a Vermine.
+6/25/25 11:04:46a You slaughtered a Vermine.
+6/25/25 11:04:50a You slaughtered a Starbuck.
+6/25/25 11:04:52a You slaughtered a Vermine.
+6/25/25 11:04:53a You slaughtered a Vermine.
+6/25/25 11:04:56a You slaughtered a Starbuck.
+6/25/25 11:05:02a You slaughtered a Vermine.
+6/25/25 11:05:03a You slaughtered a Vermine.
+6/25/25 11:05:08a You slaughtered a Faithless.
+6/25/25 11:05:09a You slaughtered a Vermine.
+6/25/25 11:05:11a You slaughtered a Vermine.
+6/25/25 11:05:11a You slaughtered a Vermine.
+6/25/25 11:05:15a You slaughtered a Rat.
+6/25/25 11:05:20a You slaughtered a Night Wendecka.
+6/25/25 11:05:20a * You recover the Night Wendecka fur, worth 3c. Your share is 3c.
+6/25/25 11:05:20a You slaughtered a Night Wendecka.
+6/25/25 11:05:21a * You recover the Night Wendecka fur, worth 1c. Your share is 1c.
+6/25/25 11:05:22a You slaughtered a Bloodhawk.
+6/25/25 11:05:25a You slaughtered a Night Wendecka.
+6/25/25 11:05:25a * You recover the Night Wendecka fur, worth 6c. Your share is 6c.
+6/25/25 11:05:27a You slaughtered a Bloodhawk.
+6/25/25 11:05:30a You slaughtered a Bloodhawk.
+6/25/25 11:05:31a You slaughtered a Bloodhawk.
+6/25/25 11:05:32a You slaughtered a Bloodhawk.
+6/25/25 11:05:35a You slaughtered a Bloodhawk.
+6/25/25 11:05:37a You slaughtered a Bloodhawk.
+6/25/25 11:05:38a You slaughtered a Bloodhawk.
+6/25/25 11:05:39a You slaughtered a Bloodhawk.
+6/25/25 11:05:41a You slaughtered a Bloodhawk.
+6/25/25 11:05:42a You slaughtered a Bloodhawk.
+6/25/25 11:05:45a You slaughtered a Bloodhawk.
+6/25/25 11:05:47a You slaughtered a Bloodhawk.
+6/25/25 11:05:47a You slaughtered a Bloodhawk.
+6/25/25 11:05:52a You have 3378 coins.
+6/25/25 11:05:55a You slaughtered a Wendecka.
+6/25/25 11:05:56a You slaughtered a Rat.
+6/25/25 11:05:56a You slaughtered a Wendecka.
+6/25/25 11:05:57a You slaughtered a Giant Vermine.
+6/25/25 11:05:59a You slaughtered a Bloodhawk.
+6/25/25 11:06:04a You slaughtered a Wendecka.
+6/25/25 11:06:04a * You recover the Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:06:05a You slaughtered a Giant Vermine.
+6/25/25 11:06:05a * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+6/25/25 11:06:08a You slaughtered a Giant Vermine.
+6/25/25 11:06:08a * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+6/25/25 11:06:09a You slaughtered a Giant Vermine.
+6/25/25 11:06:09a * You recover the Giant Vermine fur, worth 2c. Your share is 2c.
+6/25/25 11:06:10a You slaughtered a Night Wendecka.
+6/25/25 11:06:10a * You recover the Night Wendecka fur, worth 5c. Your share is 5c.
+6/25/25 11:06:12a You slaughtered a Wendecka.
+6/25/25 11:06:14a You slaughtered a Starbuck.
+6/25/25 11:06:14a * You recover the Starbuck fur, worth 1c. Your share is 1c.
+6/25/25 11:06:16a You slaughtered a Wendecka.
+6/25/25 11:06:16a * You recover the Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:06:16a You slaughtered a Wendecka.
+6/25/25 11:06:16a * You recover the Wendecka fur, worth 1c. Your share is 1c.
+6/25/25 11:06:17a You slaughtered a Wendecka.
+6/25/25 11:06:17a * You recover the Wendecka fur, worth 4c. Your share is 4c.
+6/25/25 11:06:33a You slaughtered a Rat.
+6/25/25 11:06:34a You slaughtered a Rat.
+6/25/25 11:06:34a You slaughtered a Vermine.
+6/25/25 11:06:37a You slaughtered a Rat.
+6/25/25 11:06:38a You slaughtered a Rat.
+6/25/25 11:06:45a You slaughtered a Wendecka.
+6/25/25 11:06:45a * You recover the Wendecka fur, worth 1c. Your share is 1c.
+6/25/25 11:06:46a You slaughtered a Vermine.
+6/25/25 11:06:48a You slaughtered a Wendecka.
+6/25/25 11:06:48a * You recover the Wendecka fur, worth 3c. Your share is 3c.
+6/25/25 11:06:49a You slaughtered a Wendecka.
+6/25/25 11:06:52a You slaughtered a Wendecka.
+6/25/25 11:06:52a * You recover the Wendecka fur, worth 3c. Your share is 3c.
+6/25/25 11:06:56a You slaughtered a Vermine.
+6/25/25 11:06:57a You slaughtered a Wendecka.
+6/25/25 11:07:04a You slaughtered a Starbuck.
+6/25/25 11:07:04a * You recover the Starbuck fur, worth 1c. Your share is 1c.
+6/25/25 11:07:08a You slaughtered a Wendecka.
+6/25/25 11:07:09a * You recover the Wendecka fur, worth 4c. Your share is 4c.
+6/25/25 11:07:10a You slaughtered a Wendecka.
+6/25/25 11:07:11a * You recover the Wendecka fur, worth 4c. Your share is 4c.
+6/25/25 11:07:12a You slaughtered a Vermine.
+6/25/25 11:07:17a You slaughtered a Wendecka.
+6/25/25 11:07:17a * You recover the Wendecka fur, worth 3c. Your share is 3c.
+6/25/25 11:07:19a You slaughtered a Night Wendecka.
+6/25/25 11:07:22a You slaughtered a Wendecka.
+6/25/25 11:07:23a You slaughtered a Wendecka.
+6/25/25 11:07:23a * You recover the Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:07:26a You slaughtered a Rat.
+6/25/25 11:07:28a You slaughtered a Vermine.
+6/25/25 11:07:29a You slaughtered a Wendecka.
+6/25/25 11:07:29a * You recover the Wendecka fur, worth 4c. Your share is 4c.
+6/25/25 11:07:33a You slaughtered a Vermine.
+6/25/25 11:07:41a You slaughtered a Wendecka.
+6/25/25 11:07:45a You slaughtered a Vermine.
+6/25/25 11:07:52a Arianrhod is no longer Clanning.
+6/25/25 11:07:53a You slaughtered an Elder Wendecka.
+6/25/25 11:07:53a * You recover the Elder Wendecka fur, worth 3c. Your share is 3c.
+6/25/25 11:07:54a You slaughtered an Elder Wendecka.
+6/25/25 11:07:55a * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+6/25/25 11:07:56a You slaughtered an Elder Wendecka.
+6/25/25 11:07:57a * You recover the Elder Wendecka fur, worth 5c. Your share is 5c.
+6/25/25 11:07:58a You slaughtered a Bloodhawk.
+6/25/25 11:08:00a You slaughtered a Wendecka.
+6/25/25 11:08:00a * You recover the Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:08:01a You slaughtered an Elder Wendecka.
+6/25/25 11:08:02a You slaughtered an Elder Wendecka.
+6/25/25 11:08:02a * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+6/25/25 11:08:02a You slaughtered a Rat.
+6/25/25 11:08:03a You slaughtered a Rat.
+6/25/25 11:08:03a You slaughtered an Elder Wendecka.
+6/25/25 11:08:03a * You recover the Elder Wendecka fur, worth 3c. Your share is 3c.
+6/25/25 11:08:08a You slaughtered an Elder Wendecka.
+6/25/25 11:08:09a * You recover the Elder Wendecka fur, worth 4c. Your share is 4c.
+6/25/25 11:08:09a You slaughtered an Elder Wendecka.
+6/25/25 11:08:09a * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:08:11a You slaughtered an Elder Wendecka.
+6/25/25 11:08:11a * You recover the Elder Wendecka fur, worth 3c. Your share is 3c.
+6/25/25 11:08:11a You slaughtered an Elder Wendecka.
+6/25/25 11:08:12a * You recover the Elder Wendecka fur, worth 5c. Your share is 5c.
+6/25/25 11:08:12a You slaughtered an Elder Wendecka.
+6/25/25 11:08:12a * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+6/25/25 11:08:13a You slaughtered an Elder Wendecka.
+6/25/25 11:08:13a * You recover the Elder Wendecka fur, worth 3c. Your share is 3c.
+6/25/25 11:08:13a You slaughtered an Elder Wendecka.
+6/25/25 11:08:13a * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+6/25/25 11:08:14a You slaughtered an Elder Wendecka.
+6/25/25 11:08:14a You slaughtered an Elder Wendecka.
+6/25/25 11:08:14a * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:08:14a * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:08:14a You slaughtered a Rat.
+6/25/25 11:08:15a You slaughtered a Rat.
+6/25/25 11:08:16a You slaughtered an Elder Wendecka.
+6/25/25 11:08:16a You slaughtered a Rat.
+6/25/25 11:08:24a You slaughtered a Rat.
+6/25/25 11:08:27a You slaughtered an Elder Wendecka.
+6/25/25 11:08:27a * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+6/25/25 11:08:27a You slaughtered an Elder Wendecka.
+6/25/25 11:08:27a * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:08:30a You slaughtered a Rat.
+6/25/25 11:08:31a You slaughtered a Wendecka.
+6/25/25 11:08:31a You slaughtered an Elder Wendecka.
+6/25/25 11:08:31a * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+6/25/25 11:08:32a You slaughtered an Elder Wendecka.
+6/25/25 11:08:32a * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+6/25/25 11:08:34a You slaughtered a Rat.
+6/25/25 11:08:37a You slaughtered a Rat.
+6/25/25 11:08:42a You slaughtered a Starbuck.
+6/25/25 11:08:44a You have 3466 coins.
+6/25/25 11:08:48a You slaughtered a Rat.
+6/25/25 11:08:51a You slaughtered an Elder Wendecka.
+6/25/25 11:08:51a * You recover the Elder Wendecka fur, worth 3c. Your share is 3c.
+6/25/25 11:08:52a You slaughtered an Elder Night Wendecka.
+6/25/25 11:08:52a * You recover the Elder Night Wendecka fur, worth 5c. Your share is 5c.
+6/25/25 11:08:52a You slaughtered a Bloodhawk.
+6/25/25 11:08:54a You slaughtered an Elder Wendecka.
+6/25/25 11:08:55a * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:08:56a You slaughtered a Bloodhawk.
+6/25/25 11:08:57a You slaughtered a Bloodhawk.
+6/25/25 11:08:58a You slaughtered an Elder Night Wendecka.
+6/25/25 11:08:58a * You recover the Elder Night Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:08:58a You slaughtered a Bloodhawk.
+6/25/25 11:09:00a You slaughtered a Bloodhawk.
+6/25/25 11:09:00a You slaughtered an Elder Night Wendecka.
+6/25/25 11:09:03a You found a lump of iron ore!
+6/25/25 11:09:06a You slaughtered a Bloodhawk.
+6/25/25 11:09:06a You slaughtered an Elder Night Wendecka.
+6/25/25 11:09:06a * You recover the Elder Night Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:09:07a You slaughtered an Elder Wendecka.
+6/25/25 11:09:08a You slaughtered a Wendecka.
+6/25/25 11:09:09a You slaughtered a Bloodhawk.
+6/25/25 11:09:11a You slaughtered a Wendecka.
+6/25/25 11:09:11a * You recover the Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:09:14a You slaughtered a Bloodhawk.
+6/25/25 11:09:15a You slaughtered a Bloodhawk.
+6/25/25 11:09:15a You slaughtered a Bloodhawk.
+6/25/25 11:09:17a You slaughtered a Starbuck.
+6/25/25 11:09:18a * For recovering the fur, you gain experience.
+6/25/25 11:09:18a * You recover the Starbuck fur, worth 1c. Your share is 1c.
+6/25/25 11:09:19a You slaughtered an Elder Night Wendecka.
+6/25/25 11:09:21a You slaughtered an Elder Wendecka.
+6/25/25 11:09:22a * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+6/25/25 11:09:22a You slaughtered a Bloodhawk.
+6/25/25 11:09:24a You slaughtered a Bloodhawk.
+6/25/25 11:09:25a You slaughtered a Starbuck.
+6/25/25 11:09:25a * You recover the Starbuck fur, worth 1c. Your share is 1c.
+6/25/25 11:09:26a You slaughtered a Bloodhawk.
+6/25/25 11:09:28a You slaughtered a Bloodhawk.
+6/25/25 11:09:34a You slaughtered a Wendecka.
+6/25/25 11:09:38a You slaughtered a Rat.
+6/25/25 11:09:39a You slaughtered a Starbuck.
+6/25/25 11:09:39a You slaughtered a Bloodhawk.
+6/25/25 11:09:40a You slaughtered an Elder Wendecka.
+6/25/25 11:09:49a You slaughtered a Shredder.
+6/25/25 11:09:50a You slaughtered a Shredder.
+6/25/25 11:09:52a You slaughtered a Shredder.
+6/25/25 11:09:54a You slaughtered a Shredder.
+6/25/25 11:10:00a You slaughtered a Wendecka.
+6/25/25 11:10:00a * You recover the Wendecka fur, worth 3c. Your share is 3c.
+6/25/25 11:10:01a You slaughtered a Vermine.
+6/25/25 11:10:01a You slaughtered a Wendecka.
+6/25/25 11:10:01a * You recover the Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:10:03a You slaughtered a Vermine.
+6/25/25 11:10:04a You slaughtered a Wendecka.
+6/25/25 11:10:04a * You recover the Wendecka fur, worth 3c. Your share is 3c.
+6/25/25 11:10:05a You slaughtered a Wendecka.
+6/25/25 11:10:06a You slaughtered a Wendecka.
+6/25/25 11:10:06a * You recover the Wendecka fur, worth 1c. Your share is 1c.
+6/25/25 11:10:07a You slaughtered a Wendecka.
+6/25/25 11:10:07a * You recover the Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:10:10a You slaughtered a Rat.
+6/25/25 11:10:13a You found a lump of iron ore!
+6/25/25 11:10:22a •The Sun sets.
+6/25/25 11:10:32a You slaughtered a Bloodhawk.
+6/25/25 11:10:33a You slaughtered a Wendecka.
+6/25/25 11:10:34a * You recover the Wendecka fur, worth 3c. Your share is 3c.
+6/25/25 11:10:35a You slaughtered an Elder Wendecka.
+6/25/25 11:10:36a You slaughtered a Wendecka.
+6/25/25 11:10:36a * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:10:37a You slaughtered a Rat.
+6/25/25 11:10:38a You slaughtered a Wendecka.
+6/25/25 11:10:39a * You recover the Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:10:39a You slaughtered an Elder Wendecka.
+6/25/25 11:10:40a * For recovering the fur, you gain experience.
+6/25/25 11:10:40a * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+6/25/25 11:10:44a You slaughtered a Starbuck.
+6/25/25 11:10:46a You slaughtered a Rat.
+6/25/25 11:10:47a You slaughtered an Elder Wendecka.
+6/25/25 11:10:47a * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:10:48a You slaughtered an Elder Wendecka.
+6/25/25 11:10:49a You slaughtered a Rat.
+6/25/25 11:10:50a You slaughtered an Elder Wendecka.
+6/25/25 11:10:51a * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+6/25/25 11:10:53a You slaughtered an Elder Wendecka.
+6/25/25 11:10:53a * You recover the Elder Wendecka fur, worth 1c. Your share is 1c.
+6/25/25 11:10:54a You slaughtered an Elder Wendecka.
+6/25/25 11:10:54a * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:10:57a You slaughtered an Elder Wendecka.
+6/25/25 11:10:57a * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:10:57a You slaughtered an Elder Wendecka.
+6/25/25 11:10:58a * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:11:02a You slaughtered an Elder Wendecka.
+6/25/25 11:11:02a * You recover the Elder Wendecka fur, worth 4c. Your share is 4c.
+6/25/25 11:11:02a You slaughtered a Rat.
+6/25/25 11:11:04a You slaughtered an Elder Wendecka.
+6/25/25 11:11:05a You slaughtered an Elder Wendecka.
+6/25/25 11:11:05a * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:11:10a You slaughtered an Elder Wendecka.
+6/25/25 11:11:11a * You recover the Elder Wendecka fur, worth 5c. Your share is 5c.
+6/25/25 11:11:20a You slaughtered a Rat.
+6/25/25 11:11:22a You slaughtered a Rat.
+6/25/25 11:11:23a You slaughtered an Elder Wendecka.
+6/25/25 11:11:23a * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:11:33a You have 3527 coins.
+6/25/25 11:11:42a You slaughtered a Rat.
+6/25/25 11:11:43a You slaughtered a Wendecka.
+6/25/25 11:11:43a * You recover the Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:11:44a You slaughtered a Rat.
+6/25/25 11:11:47a You slaughtered a Rat.
+6/25/25 11:11:55a You slaughtered a Wendecka.
+6/25/25 11:11:55a * You recover the Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:11:55a You slaughtered a Wendecka.
+6/25/25 11:11:56a You slaughtered a Mama Wendecka.
+6/25/25 11:11:56a * You recover the Mama Wendecka fur, worth 1c. Your share is 1c.
+6/25/25 11:11:57a You slaughtered a Vermine.
+6/25/25 11:11:58a You slaughtered a Vermine.
+6/25/25 11:11:59a You slaughtered a Mama Wendecka.
+6/25/25 11:11:59a * For recovering the fur, you gain experience.
+6/25/25 11:11:59a * You recover the Mama Wendecka fur, worth 3c. Your share is 3c.
+6/25/25 11:12:00a You slaughtered a Wendecka.
+6/25/25 11:12:00a You slaughtered a Vermine.
+6/25/25 11:12:00a * You recover the Wendecka fur, worth 3c. Your share is 3c.
+6/25/25 11:12:01a You slaughtered a Vermine.
+6/25/25 11:12:01a You slaughtered a Wendecka.
+6/25/25 11:12:01a * You recover the Wendecka fur, worth 3c. Your share is 3c.
+6/25/25 11:12:02a You slaughtered a Vermine.
+6/25/25 11:12:02a You slaughtered a Vermine.
+6/25/25 11:12:02a You slaughtered a Wendecka.
+6/25/25 11:12:04a You slaughtered a Wendecka.
+6/25/25 11:12:04a * You recover the Wendecka fur, worth 3c. Your share is 3c.
+6/25/25 11:12:06a You slaughtered a Vermine.
+6/25/25 11:12:07a You slaughtered a Baby Wendecka.
+6/25/25 11:12:07a * You recover the Baby Wendecka fur, worth 1c. Your share is 1c.
+6/25/25 11:12:07a You slaughtered a Vermine.
+6/25/25 11:12:08a You slaughtered a Vermine.
+6/25/25 11:12:09a You slaughtered a Vermine.
+6/25/25 11:12:09a You slaughtered a Vermine.
+6/25/25 11:12:10a You slaughtered a Wendecka.
+6/25/25 11:12:10a * You recover the Wendecka fur, worth 3c. Your share is 3c.
+6/25/25 11:12:10a You slaughtered a Vermine.
+6/25/25 11:12:11a You slaughtered a Wendecka.
+6/25/25 11:12:11a * You recover the Wendecka fur, worth 1c. Your share is 1c.
+6/25/25 11:12:12a You slaughtered a Vermine.
+6/25/25 11:12:13a You slaughtered a Mama Wendecka.
+6/25/25 11:12:13a * You recover the Mama Wendecka fur, worth 3c. Your share is 3c.
+6/25/25 11:12:19a You slaughtered a Wendecka.
+6/25/25 11:12:20a You slaughtered a Wendecka.
+6/25/25 11:12:20a * You recover the Wendecka fur, worth 1c. Your share is 1c.
+6/25/25 11:12:20a You slaughtered a Vermine.
+6/25/25 11:12:20a * You recover the Wendecka fur, worth 1c. Your share is 1c.
+6/25/25 11:12:21a You slaughtered a Vermine.
+6/25/25 11:12:26a You slaughtered a Wendecka.
+6/25/25 11:12:26a You slaughtered a Vermine.
+6/25/25 11:12:26a * You recover the Wendecka fur, worth 5c. Your share is 5c.
+6/25/25 11:12:28a You slaughtered a Vermine.
+6/25/25 11:12:32a You slaughtered a Baby Wendecka.
+6/25/25 11:12:35a You slaughtered a Rat.
+6/25/25 11:12:39a You slaughtered a Bloodhawk.
+6/25/25 11:12:41a You slaughtered a Bloodhawk.
+6/25/25 11:12:42a You slaughtered an Elder Wendecka.
+6/25/25 11:12:43a * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:12:46a You slaughtered a Rat.
+6/25/25 11:12:47a You slaughtered an Elder Wendecka.
+6/25/25 11:12:47a * You recover the Elder Wendecka fur, worth 3c. Your share is 3c.
+6/25/25 11:12:56a You slaughtered a Bloodhawk.
+6/25/25 11:12:59a You slaughtered a Bloodhawk.
+6/25/25 11:13:05a You slaughtered a Bloodhawk.
+6/25/25 11:13:08a You slaughtered a Bloodhawk.
+6/25/25 11:13:10a You slaughtered a Bloodhawk.
+6/25/25 11:13:12a You slaughtered a Rat.
+6/25/25 11:13:21a You slaughtered a Bloodhawk.
+6/25/25 11:13:22a You slaughtered a Rat.
+6/25/25 11:13:24a You slaughtered a Bloodhawk.
+6/25/25 11:13:26a You slaughtered a Bloodhawk.
+6/25/25 11:13:30a You slaughtered a Starbuck.
+6/25/25 11:13:31a * You recover the Starbuck fur, worth 1c. Your share is 1c.
+6/25/25 11:13:31a You slaughtered a Bloodhawk.
+6/25/25 11:13:41a You slaughtered a Night Wendecka.
+6/25/25 11:13:42a * You recover the Night Wendecka fur, worth 9c. Your share is 9c.
+6/25/25 11:13:42a You slaughtered a Rat.
+6/25/25 11:13:43a You slaughtered a Rat.
+6/25/25 11:13:44a You slaughtered an Elder Wendecka.
+6/25/25 11:13:44a * You recover the Elder Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:13:45a You slaughtered a Night Wendecka.
+6/25/25 11:13:45a * You recover the Night Wendecka fur, worth 1c. Your share is 1c.
+6/25/25 11:13:50a You slaughtered a Rat.
+6/25/25 11:13:52a You slaughtered a Rat.
+6/25/25 11:13:53a You slaughtered an Elder Wendecka.
+6/25/25 11:13:53a You slaughtered a Wendecka.
+6/25/25 11:13:53a * You recover the Elder Wendecka fur, worth 3c. Your share is 3c.
+6/25/25 11:13:53a * For recovering the fur, you gain experience.
+6/25/25 11:13:53a * You recover the Wendecka fur, worth 4c. Your share is 4c.
+6/25/25 11:13:56a You slaughtered a Bloodhawk.
+6/25/25 11:14:02a You slaughtered a Bloodhawk.
+6/25/25 11:14:07a You slaughtered a Wendecka.
+6/25/25 11:14:08a You slaughtered a Wendecka.
+6/25/25 11:14:13a You slaughtered a Wendecka.
+6/25/25 11:14:21a You have 3584 coins.
+6/25/25 11:14:21a You slaughtered a Vermine.
+6/25/25 11:14:31a You slaughtered a Vermine.
+6/25/25 11:14:31a * You recover the Vermine fur, worth 1c. Your share is 1c.
+6/25/25 11:14:37a You slaughtered a Wendecka.
+6/25/25 11:14:38a * You recover the Wendecka fur, worth 1c. Your share is 1c.
+6/25/25 11:14:39a You slaughtered a Rat.
+6/25/25 11:14:40a You slaughtered a Rat.
+6/25/25 11:14:40a * You recover the Rat fur, worth 1c. Your share is 1c.
+6/25/25 11:14:51a You slaughtered a Bloodhawk.
+6/25/25 11:14:52a You slaughtered a Rat.
+6/25/25 11:15:01a You slaughtered a Vermine.
+6/25/25 11:15:10a You slaughtered a Wendecka.
+6/25/25 11:15:10a * You recover the Wendecka fur, worth 4c. Your share is 4c.
+6/25/25 11:15:13a You slaughtered a Vermine.
+6/25/25 11:15:25a You slaughtered a Vermine.
+6/25/25 11:15:36a You slaughtered a Vermine.
+6/25/25 11:15:37a You slaughtered a Rat.
+6/25/25 11:15:37a You slaughtered a Vermine.
+6/25/25 11:15:37a You slaughtered a Bloodhawk.
+6/25/25 11:15:39a You slaughtered a Vermine.
+6/25/25 11:15:41a You slaughtered a Rat.
+6/25/25 11:15:41a You slaughtered a Rat.
+6/25/25 11:15:46a You slaughtered a Vermine.
+6/25/25 11:15:49a You slaughtered a Vermine.
+6/25/25 11:15:50a You slaughtered a Starbuck.
+6/25/25 11:15:54a You slaughtered a Vermine.
+6/25/25 11:15:58a You slaughtered a Vermine.
+6/25/25 11:15:59a You slaughtered a Vermine.
+6/25/25 11:16:06a You slaughtered a Winged Snake.
+6/25/25 11:16:24a You slaughtered a Boma Winder.
+6/25/25 11:16:42a You found a lump of iron ore!
+6/25/25 11:16:43a You slaughtered a Dust Arachne.
+6/25/25 11:17:11a You have 3591 coins.
+6/25/25 11:17:11a You slaughtered a Web Arachne.
+6/25/25 11:17:11a * You recover the Web Arachne mandibles, worth 4c. Your share is 4c.
+6/25/25 11:17:15a You slaughtered a Web Arachne.
+6/25/25 11:17:20a •You assume the shape of a Giant Carnivorous Plankton.
+6/25/25 11:17:21a You equip your heartwood charm.
+6/25/25 11:17:21a • You gather your energy.
+6/25/25 11:17:23a • You speed up.
+6/25/25 11:17:52a You slaughtered a Rat.
+6/25/25 11:17:57a • You return to your normal form.
+6/25/25 11:17:58a You slaughtered a Wendecka.
+6/25/25 11:17:58a You slaughtered a Wendecka.
+6/25/25 11:17:59a * You recover the Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:18:00a You slaughtered a Rat.
+6/25/25 11:18:00a You slaughtered a Wendecka.
+6/25/25 11:18:00a You slaughtered a Wendecka.
+6/25/25 11:18:01a You slaughtered a Wendecka.
+6/25/25 11:18:02a * You recover the Wendecka fur, worth 4c. Your share is 4c.
+6/25/25 11:18:04a You slaughtered a Wendecka.
+6/25/25 11:18:04a * You recover the Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:18:05a You slaughtered a Rat.
+6/25/25 11:18:05a You slaughtered a Wendecka.
+6/25/25 11:18:05a * You recover the Wendecka fur, worth 6c. Your share is 6c.
+6/25/25 11:18:05a You slaughtered a Wendecka.
+6/25/25 11:18:05a * You recover the Wendecka fur, worth 3c. Your share is 3c.
+6/25/25 11:18:06a You slaughtered a Rat.
+6/25/25 11:18:07a • You slow down to normal speed.
+6/25/25 11:18:08a You slip your heartwood charm into your backpack.
+6/25/25 11:18:12a You slaughtered a Rat.
+6/25/25 11:18:14a You slaughtered a Wendecka.
+6/25/25 11:18:14a * You recover the Wendecka fur, worth 2c. Your share is 2c.
+6/25/25 11:18:15a You slaughtered a Wendecka.
+6/25/25 11:18:16a * You recover the Wendecka fur, worth 3c. Your share is 3c.
+6/25/25 11:18:18a You slaughtered a Wendecka.
+6/25/25 11:18:19a * You recover the Wendecka fur, worth 1c. Your share is 1c.
+6/25/25 11:18:20a You slaughtered a Wendecka.
+6/25/25 11:18:20a * You recover the Wendecka fur, worth 3c. Your share is 3c.
+6/25/25 11:18:21a You slaughtered a Wendecka.
+6/25/25 11:18:22a * You recover the Wendecka fur, worth 4c. Your share is 4c.
+6/25/25 11:18:22a You slaughtered a Wendecka.
+6/25/25 11:18:22a * You recover the Wendecka fur, worth 1c. Your share is 1c.
+6/25/25 11:18:22a You slaughtered a Rat.
+6/25/25 11:18:25a You slaughtered a Vermine.
+6/25/25 11:18:26a You slaughtered a Vermine.
+6/25/25 11:18:27a You slaughtered a Vermine.
+6/25/25 11:18:27a You slaughtered a Vermine.
+6/25/25 11:18:31a You slaughtered a Rat.
+6/25/25 11:18:31a You slaughtered a Vermine.
+6/25/25 11:18:36a You slaughtered a Rat.
+6/25/25 11:18:36a You slaughtered a Vermine.
+6/25/25 11:18:36a You slaughtered a Vermine.
+6/25/25 11:18:38a You slaughtered a Vermine.
+6/25/25 11:18:40a You slaughtered a Rat.
+6/25/25 11:18:40a You slaughtered a Rat.
+6/25/25 11:18:43a You slaughtered a Rat.
+6/25/25 11:18:43a You slaughtered a Rat.
+6/25/25 11:18:44a You slaughtered a Vermine.
+6/25/25 11:18:47a You slaughtered a Vermine.
+6/25/25 11:18:47a You slaughtered a Vermine.
+6/25/25 11:18:47a You slaughtered a Vermine.
+6/25/25 11:18:48a You slaughtered a Rat.
+6/25/25 11:18:49a You slaughtered a Rat.
+6/25/25 11:18:50a You slaughtered a Vermine.
+6/25/25 11:18:50a You slaughtered a Vermine.
+6/25/25 11:18:52a You slaughtered a Vermine.
+6/25/25 11:18:52a You slaughtered a Vermine.
+6/25/25 11:18:56a You slaughtered a Wendecka.
+6/25/25 11:18:57a You slaughtered a Rat.
+6/25/25 11:18:57a You slaughtered a Rat.
+6/25/25 11:18:57a You slaughtered a Rat.
+6/25/25 11:19:01a You slaughtered an Ona Chigger.
+6/25/25 11:19:05a You slaughtered a Rat.
+6/25/25 11:19:06a You slaughtered a Rat.
+6/25/25 11:19:20a You slaughtered a Starbuck.
+6/25/25 11:19:20a * You recover the Starbuck fur, worth 1c. Your share is 1c.
+6/25/25 11:19:41a You slaughtered a Rat.
+6/25/25 11:19:50a You slaughtered a Rat.
+6/25/25 11:20:01a You have 3627 coins.
+6/25/25 11:20:15a •You assume the shape of a Giant Carnivorous Plankton.
+6/25/25 11:20:15a You equip your heartwood charm.
+6/25/25 11:20:16a • You gather your energy.
+6/25/25 11:20:18a • You speed up.
+6/25/25 11:20:34a You vault the wall.
+6/25/25 11:20:51a • You return to your normal form.
+6/25/25 11:20:51a • You slow down to normal speed.
+6/25/25 11:20:52a You slip your heartwood charm into your backpack.
+6/25/25 11:20:55a Great Pumpkin is no longer Clanning.
+6/25/25 11:21:11a Lonesome Dove is no longer Clanning.
+6/25/25 11:21:33a Donk is no longer Clanning.
+6/25/25 11:21:57a Arianrhod is now Clanning.
+6/25/25 11:22:52a You have 3627 coins.
+6/25/25 11:25:11a Koppi yells, "Aurian reports: "I'll take 'Ways I'd like to die' for $2000, Alex...""
+6/25/25 11:25:44a You have 3627 coins.
+6/25/25 11:27:04a Ajahn is now Clanning.
+6/25/25 11:27:32a You equip your lump of iron ore.
+6/25/25 11:27:37a You offer a lump of iron ore to Ajahn for free.
+6/25/25 11:27:37a \SELL /cancel to cancel the offer.
+6/25/25 11:27:37a You hand Ajahn a lump of iron ore.
+6/25/25 11:27:38a You offer a lump of iron ore to Ajahn for free.
+6/25/25 11:27:38a \SELL /cancel to cancel the offer.
+6/25/25 11:27:39a You hand Ajahn a lump of iron ore.
+6/25/25 11:27:40a You offer a lump of iron ore to Ajahn for free.
+6/25/25 11:27:40a \SELL /cancel to cancel the offer.
+6/25/25 11:27:40a You hand Ajahn a lump of iron ore.
+6/25/25 11:27:41a You offer a lump of iron ore to Ajahn for free.
+6/25/25 11:27:41a \SELL /cancel to cancel the offer.
+6/25/25 11:27:41a You hand Ajahn a lump of iron ore.
+6/25/25 11:27:44a You offer a book to Ajahn for free.
+6/25/25 11:27:44a \SELL /cancel to cancel the offer.
+6/25/25 11:27:45a You hand Ajahn a book.
+6/25/25 11:28:05a Ajahn is no longer Clanning.
+6/25/25 11:28:22a • /SLEEP when you wish to begin studying.
+6/25/25 11:28:24a • /SLEEP when you wish to begin studying.
+6/25/25 11:28:27a Use \SLEEP again when you return.
+6/25/25 11:28:27a You are done adventuring for a while and will be studying here.
+6/25/25 11:28:28a You have been disconnected from Clan Lord.
+6/25/25 11:28:28a • You will benefit from studying here while you are off-line.
+6/25/25 11:28:29a *** We are no longer connected to the Clan Lord game server. ***

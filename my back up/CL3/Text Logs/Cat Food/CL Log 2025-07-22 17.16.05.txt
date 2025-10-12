@@ -1,0 +1,604 @@
+
+7/22/25 5:16:05p * Your pair of sixth-circle pants named “Kizmia Bay blue” is in very good condition.
+7/22/25 5:16:05p * Your fifth-circle healer's shirt named “Sea Wheat” is in very good condition.
+7/22/25 5:16:05p Welcome to Clan Lord, Cat Food!
+7/22/25 5:16:05p Type \HELP for a list of commands.
+7/22/25 5:16:05p • You gain experience from your recent studies.
+7/22/25 5:16:05p *Healer Mode
+7/22/25 5:16:05p * Healer Item set to asklepian 
+7/22/25 5:16:05p The healing spell has started.
+7/22/25 5:16:05p You have been studying for 2 days, 14 hours, 9 minutes.
+7/22/25 5:16:08p It's 3:33am on Lundi, day 43 of Spring, 642.
+7/22/25 5:16:09p Friends online: none.
+7/22/25 5:16:10p There are three members of Black Phoenix clanning: Grando, Mimo and you.
+7/22/25 5:16:10p • What’s New: https://deltatao.com/clanlord/news
+7/22/25 5:16:19p * Tip of the day: Control-shift-click on someone to block them, so you don’t hear anything they say. Do it again to ignore them completely. (Use /OPTIONS to turn tips off.)
+7/22/25 5:17:10p * You need a breath of air!
+7/22/25 5:18:49p * Auto Healer ON!
+7/22/25 5:18:52p * Karma Message set to  . 
+7/22/25 5:18:59p  Mork added to Karma list
+7/22/25 5:19:03p You have 242 coins.
+7/22/25 5:19:15p  Mimo added to Karma list
+7/22/25 5:19:18p  Nuckin Futz added to Karma list
+7/22/25 5:19:21p  Reisa added to Karma list
+7/22/25 5:19:25p  Satris added to Karma list
+7/22/25 5:19:43p * Auto Thanker Online!
+7/22/25 5:19:44p You have no karma to give.
+7/22/25 5:19:44p * Auto Thanker re-doing last
+7/22/25 5:21:12p Grando is sharing experiences with you.
+7/22/25 5:21:47p Grando says, "c heal me"
+7/22/25 5:21:47p * Auto Healing Grando 
+7/22/25 5:21:56p You have 242 coins.
+7/22/25 5:22:23p Grando says, "c area"
+7/22/25 5:22:24p • You begin radius healing.
+7/22/25 5:22:40p Grando says, "c heal me"
+7/22/25 5:22:40p * Auto Healing Grando 
+7/22/25 5:23:35p Grando says, "c area"
+7/22/25 5:23:35p • You begin radius healing.
+7/22/25 5:23:58p Grando says, "c heal me"
+7/22/25 5:23:58p * Auto Healing Grando 
+7/22/25 5:24:50p You have 242 coins.
+7/22/25 5:25:45p Mork is too far away for your explanation.
+7/22/25 5:25:45p You gave signed good karma to Mork.
+7/22/25 5:26:33p You just received good karma from Mimo, .
+7/22/25 5:27:14p Grando says, "c heal me"
+7/22/25 5:27:14p * Auto Healing Grando 
+7/22/25 5:27:46p You have 242 coins.
+7/22/25 5:27:54p Grando says, "c area"
+7/22/25 5:27:54p • You begin radius healing.
+7/22/25 5:28:02p Forbeen says, "Honored guest, Master Lugubrion regretfully informs me that you are not permitted beyond this point."
+7/22/25 5:28:07p Grando says, "c heal me"
+7/22/25 5:28:07p * Auto Healing Grando 
+7/22/25 5:28:25p Grando says, "c area"
+7/22/25 5:28:26p • You begin radius healing.
+7/22/25 5:28:38p Grando says, "c heal me"
+7/22/25 5:28:38p * Auto Healing Grando 
+7/22/25 5:29:07p Grando says, "c area"
+7/22/25 5:29:08p • You begin radius healing.
+7/22/25 5:29:24p Grando says, "c heal me"
+7/22/25 5:29:25p * Auto Healing Grando 
+7/22/25 5:29:48p Grando says, "c area"
+7/22/25 5:29:49p • You begin radius healing.
+7/22/25 5:30:10p Grando says, "c heal me"
+7/22/25 5:30:11p * Auto Healing Grando 
+7/22/25 5:30:36p Grando says, "c area"
+7/22/25 5:30:36p • You begin radius healing.
+7/22/25 5:30:38p You have 242 coins.
+7/22/25 5:30:58p Forbeen says, "Honored guest, Master Lugubrion regretfully informs me that you are not permitted beyond this point."
+7/22/25 5:31:02p •The Sun rises.
+7/22/25 5:31:35p • There is nobody nearby enough to continue radius healing.
+7/22/25 5:31:45p You gave signed good karma to Mimo, .
+7/22/25 5:33:31p You have 242 coins.
+7/22/25 5:36:22p You have 242 coins.
+7/22/25 5:36:41p Grando says, "c heal me"
+7/22/25 5:36:41p * Auto Healing Grando 
+7/22/25 5:37:48p 'NuckinFutz' is not in the lands.
+7/22/25 5:37:48p * NuckinFutz will be removed from Karma list.
+7/22/25 5:37:48p 'Satris' is not in the lands.
+7/22/25 5:37:49p * Satris will be removed from Karma list.
+7/22/25 5:37:49p Mork is too far away for your explanation.
+7/22/25 5:37:49p You gave signed good karma to Mork.
+7/22/25 5:39:19p You have 242 coins.
+7/22/25 5:41:13p Grando says, "c heal me"
+7/22/25 5:41:13p * Auto Healing Grando 
+7/22/25 5:42:18p You have 242 coins.
+7/22/25 5:43:50p You gave signed good karma to Mimo, .
+7/22/25 5:44:59p •You gain experience.
+7/22/25 5:45:11p Grando says, "c heal me"
+7/22/25 5:45:11p * Auto Healing Grando 
+7/22/25 5:45:15p You have 242 coins.
+7/22/25 5:47:40p Grando says, "c heal me"
+7/22/25 5:47:40p * Auto Healing Grando 
+7/22/25 5:48:10p You have 242 coins.
+7/22/25 5:49:51p 'Reisa' is not in the lands.
+7/22/25 5:49:51p * Reisa will be removed from Karma list.
+7/22/25 5:51:11p You have 242 coins.
+7/22/25 5:54:09p You have 242 coins.
+7/22/25 5:56:13p Grando says, "c heal me"
+7/22/25 5:56:14p * Auto Healing Grando 
+7/22/25 5:56:55p * Auto Thanker Online!
+7/22/25 5:56:55p Mork is too far away for your explanation.
+7/22/25 5:56:55p You gave signed good karma to Mork.
+7/22/25 5:57:08p You have 242 coins.
+7/22/25 5:58:35p Grando says, "c heal me"
+7/22/25 5:58:35p * Auto Healing Grando 
+7/22/25 5:59:57p Grando says, "c heal me"
+7/22/25 5:59:58p * Auto Healing Grando 
+7/22/25 6:00:07p You have 242 coins.
+7/22/25 6:00:36p Grando says, "c area"
+7/22/25 6:00:37p • You begin radius healing.
+7/22/25 6:00:48p • There is nobody nearby enough to continue radius healing.
+7/22/25 6:01:00p Grando says, "c heal me"
+7/22/25 6:01:00p * Auto Healing Grando 
+7/22/25 6:01:49p Grando says, "c area"
+7/22/25 6:01:50p • You begin radius healing.
+7/22/25 6:02:07p Grando says, "c heal me"
+7/22/25 6:02:07p * Auto Healing Grando 
+7/22/25 6:02:37p Grando says, "c area"
+7/22/25 6:02:38p • You begin radius healing.
+7/22/25 6:02:56p You gave signed good karma to Mimo, .
+7/22/25 6:03:03p You have 242 coins.
+7/22/25 6:03:06p Grando says, "c heal me"
+7/22/25 6:03:06p * Auto Healing Grando 
+7/22/25 6:03:09p You just received good karma from Mimo, .
+7/22/25 6:03:19p You just received good karma from Grando, .
+7/22/25 6:04:03p Maekoh thinks, "hey... big weird nose in eastern part of Town Center Area, mystics if you care it was on the road to go to east rat towers"
+7/22/25 6:04:32p Grando thinks, "most likrly the sentinal"
+7/22/25 6:04:39p Grando says, "c heal me"
+7/22/25 6:04:39p * Auto Healing Grando 
+7/22/25 6:04:43p Grando says, "c area"
+7/22/25 6:04:44p • You begin radius healing.
+7/22/25 6:04:44p Maekoh thinks, "ooooo okay thanks"
+7/22/25 6:04:51p • There is nobody nearby enough to continue radius healing.
+7/22/25 6:04:58p Grando says, "c heal me"
+7/22/25 6:04:59p * Auto Healing Grando 
+7/22/25 6:05:25p Grando says, "c area"
+7/22/25 6:05:25p • You begin radius healing.
+7/22/25 6:05:33p • There is nobody nearby enough to continue radius healing.
+7/22/25 6:05:59p You have 242 coins.
+7/22/25 6:06:30p * Healing Grando 
+7/22/25 6:06:31p •Grando’s injuries were serious.
+7/22/25 6:06:54p •You do not have enough spiritual energy.
+7/22/25 6:07:22p Grando says, "c heal me"
+7/22/25 6:07:22p * Auto Healing Grando 
+7/22/25 6:08:34p Grando says, "c area"
+7/22/25 6:08:35p • You begin radius healing.
+7/22/25 6:08:44p • There is nobody nearby enough to continue radius healing.
+7/22/25 6:08:54p You have 242 coins.
+7/22/25 6:08:57p Mork is too far away for your explanation.
+7/22/25 6:08:57p You gave signed good karma to Mork.
+7/22/25 6:09:39p Grando says, "c heal me"
+7/22/25 6:09:39p * Auto Healing Grando 
+7/22/25 6:10:30p Grando says, "c area"
+7/22/25 6:10:31p • You begin radius healing.
+7/22/25 6:10:45p • There is nobody nearby enough to continue radius healing.
+7/22/25 6:11:52p You have 242 coins.
+7/22/25 6:14:48p You have 242 coins.
+7/22/25 6:14:58p You gave signed good karma to Mimo, .
+7/22/25 6:15:12p You just received good karma from Mimo, .
+7/22/25 6:15:21p You just received good karma from Grando.
+7/22/25 6:17:44p You have 242 coins.
+7/22/25 6:20:38p You have 242 coins.
+7/22/25 6:20:59p Mork is too far away for your explanation.
+7/22/25 6:20:59p You gave signed good karma to Mork.
+7/22/25 6:23:30p You have 242 coins.
+7/22/25 6:26:22p You have 242 coins.
+7/22/25 6:26:59p You gave signed good karma to Mimo, .
+7/22/25 6:27:14p You just received good karma from Mimo, .
+7/22/25 6:27:23p You just received good karma from Grando, .
+7/22/25 6:29:15p You have 242 coins.
+7/22/25 6:32:04p You have 242 coins.
+7/22/25 6:33:00p Mork is too far away for your explanation.
+7/22/25 6:33:00p You gave signed good karma to Mork.
+7/22/25 6:34:54p You have 242 coins.
+7/22/25 6:37:43p You have 242 coins.
+7/22/25 6:39:01p You have no karma to give.
+7/22/25 6:39:01p * Auto Thanker re-doing last
+7/22/25 6:39:16p You just received good karma from Mimo, .
+7/22/25 6:39:19p Grando says, "c heal me"
+7/22/25 6:39:19p * Auto Healing Grando 
+7/22/25 6:39:24p You just received good karma from Grando, .
+7/22/25 6:40:36p You have 242 coins.
+7/22/25 6:41:08p Grando says, "c heal me"
+7/22/25 6:41:08p * Auto Healing Grando 
+7/22/25 6:42:43p Grando says, "c heal me"
+7/22/25 6:42:43p * Auto Healing Grando 
+7/22/25 6:43:25p Grando says, "c area"
+7/22/25 6:43:25p • You begin radius healing.
+7/22/25 6:43:27p Grando says, "c heal me"
+7/22/25 6:43:28p * Auto Healing Grando 
+7/22/25 6:43:28p You have 242 coins.
+7/22/25 6:45:02p You gave signed good karma to Mimo, .
+7/22/25 6:46:14p Grando says, "c heal me"
+7/22/25 6:46:14p * Auto Healing Grando 
+7/22/25 6:46:21p You have 242 coins.
+7/22/25 6:49:14p You have 242 coins.
+7/22/25 6:51:03p Mork is too far away for your explanation.
+7/22/25 6:51:03p You gave signed good karma to Mork.
+7/22/25 6:51:09p Grando says, "c heal me"
+7/22/25 6:51:09p * Auto Healing Grando 
+7/22/25 6:51:17p You just received good karma from Mimo, .
+7/22/25 6:51:26p You just received good karma from Grando, .
+7/22/25 6:52:07p You have 242 coins.
+7/22/25 6:53:06p Grando says, "c heal me"
+7/22/25 6:53:06p * Auto Healing Grando 
+7/22/25 6:53:43p Grando says, "c heal me"
+7/22/25 6:53:43p * Auto Healing Grando 
+7/22/25 6:54:00p Grando says, "c area"
+7/22/25 6:54:00p • You begin radius healing.
+7/22/25 6:54:03p •You gain experience.
+7/22/25 6:54:06p • There is nobody nearby enough to continue radius healing.
+7/22/25 6:55:00p You have 242 coins.
+7/22/25 6:55:10p •You have more purgatory pendant knowledge.
+7/22/25 6:57:03p You gave signed good karma to Mimo, .
+7/22/25 6:57:49p •You gain experience.
+7/22/25 6:57:57p You have 242 coins.
+7/22/25 7:00:54p You have 242 coins.
+7/22/25 7:01:06p Grando says, "c heal me"
+7/22/25 7:01:06p * Auto Healing Grando 
+7/22/25 7:02:34p Grando says, "c heal me"
+7/22/25 7:02:35p * Auto Healing Grando 
+7/22/25 7:02:59p Grando says, "c area"
+7/22/25 7:02:59p • You begin radius healing.
+7/22/25 7:03:04p Mork is too far away for your explanation.
+7/22/25 7:03:04p You gave signed good karma to Mork.
+7/22/25 7:03:17p • There is nobody nearby enough to continue radius healing.
+7/22/25 7:03:19p You just received good karma from Mimo, .
+7/22/25 7:03:28p You just received good karma from Grando.
+7/22/25 7:03:47p You have 242 coins.
+7/22/25 7:04:23p Grando says, "c heal me"
+7/22/25 7:04:24p * Auto Healing Grando 
+7/22/25 7:06:41p You have 242 coins.
+7/22/25 7:09:05p You gave signed good karma to Mimo, .
+7/22/25 7:09:35p You have 242 coins.
+7/22/25 7:12:35p You have 242 coins.
+7/22/25 7:15:06p Mork is too far away for your explanation.
+7/22/25 7:15:06p You gave signed good karma to Mork.
+7/22/25 7:15:20p You just received good karma from Mimo, .
+7/22/25 7:15:33p You have 242 coins.
+7/22/25 7:18:27p You have 242 coins.
+7/22/25 7:21:07p You have given this character as much good karma as is allowed. Wait for it to decay.
+7/22/25 7:21:07p * Mimo can no longer be thanked for now, removing form list.
+7/22/25 7:21:08p Mork is too far away for your explanation.
+7/22/25 7:21:08p You gave signed good karma to Mork.
+7/22/25 7:21:19p You have 242 coins.
+7/22/25 7:24:13p You have 242 coins.
+7/22/25 7:25:35p Farhope thinks, "Greetings :-)"
+7/22/25 7:25:51p Winkey thinks, "Heya"
+7/22/25 7:27:08p You have given this character as much good karma as is allowed. Wait for it to decay.
+7/22/25 7:27:09p * Mork can no longer be thanked for now, removing form list.
+7/22/25 7:27:10p You have 242 coins.
+7/22/25 7:27:22p You just received good karma from Mimo, .
+7/22/25 7:30:14p You have 242 coins.
+7/22/25 7:33:19p You have 242 coins.
+7/22/25 7:33:32p Grando says, "c heal me"
+7/22/25 7:33:32p * Auto Healing Grando 
+7/22/25 7:35:53p •You gain experience.
+7/22/25 7:36:19p You have 242 coins.
+7/22/25 7:39:22p You have 242 coins.
+7/22/25 7:39:23p You just received good karma from Mimo, .
+7/22/25 7:42:22p You have 242 coins.
+7/22/25 7:45:21p You have 242 coins.
+7/22/25 7:48:19p You have 242 coins.
+7/22/25 7:51:13p You have 242 coins.
+7/22/25 7:54:06p You have 242 coins.
+7/22/25 7:57:00p You have 242 coins.
+7/22/25 7:59:54p You have 242 coins.
+7/22/25 8:02:51p You have 242 coins.
+7/22/25 8:05:46p You have 242 coins.
+7/22/25 8:08:24p Grando says, "c heal me"
+7/22/25 8:08:24p * Auto Healing Grando 
+7/22/25 8:08:39p You have 242 coins.
+7/22/25 8:09:26p Grando says, "c area"
+7/22/25 8:09:27p • You begin radius healing.
+7/22/25 8:09:36p • There is nobody nearby enough to continue radius healing.
+7/22/25 8:10:12p Grando says, "c heal me"
+7/22/25 8:10:12p * Auto Healing Grando 
+7/22/25 8:11:31p You have 242 coins.
+7/22/25 8:14:22p You have 242 coins.
+7/22/25 8:17:13p You have 242 coins.
+7/22/25 8:20:10p You have 242 coins.
+7/22/25 8:23:07p You have 242 coins.
+7/22/25 8:26:05p You have 242 coins.
+7/22/25 8:27:59p Grando says, "c heal me"
+7/22/25 8:27:59p * Auto Healing Grando 
+7/22/25 8:29:00p You have 242 coins.
+7/22/25 8:31:55p You have 242 coins.
+7/22/25 8:34:50p You have 242 coins.
+7/22/25 8:35:47p Grando says, "c heal me"
+7/22/25 8:35:47p * Auto Healing Grando 
+7/22/25 8:36:23p Grando says, "c area"
+7/22/25 8:36:23p • You begin radius healing.
+7/22/25 8:36:33p • There is nobody nearby enough to continue radius healing.
+7/22/25 8:37:45p You have 242 coins.
+7/22/25 8:40:42p You have 242 coins.
+7/22/25 8:43:37p You have 242 coins.
+7/22/25 8:46:32p You have 242 coins.
+7/22/25 8:49:27p You have 242 coins.
+7/22/25 8:52:21p You have 242 coins.
+7/22/25 8:55:17p You have 242 coins.
+7/22/25 8:56:53p Grando says, "c heal me"
+7/22/25 8:56:53p * Auto Healing Grando 
+7/22/25 8:58:13p You have 242 coins.
+7/22/25 8:58:33p Grando says, "c heal me"
+7/22/25 8:58:33p * Auto Healing Grando 
+7/22/25 8:59:19p Grando says, "c heal me"
+7/22/25 8:59:19p * Auto Healing Grando 
+7/22/25 8:59:25p Grando says, "c area"
+7/22/25 8:59:25p • You begin radius healing.
+7/22/25 8:59:32p • There is nobody nearby enough to continue radius healing.
+7/22/25 9:00:08p Grando says, "c heal me"
+7/22/25 9:00:08p * Auto Healing Grando 
+7/22/25 9:00:34p Grando says, "c area"
+7/22/25 9:00:35p • You begin radius healing.
+7/22/25 9:00:53p • There is nobody nearby enough to continue radius healing.
+7/22/25 9:01:08p You have 242 coins.
+7/22/25 9:04:01p You have 242 coins.
+7/22/25 9:06:53p You have 242 coins.
+7/22/25 9:08:53p  Dolce Leggera added to Karma list
+7/22/25 9:08:54p Dolce Leggera is too far away for your explanation.
+7/22/25 9:08:54p You gave signed good karma to Dolce Leggera.
+7/22/25 9:09:01p  Farhope added to Karma list
+7/22/25 9:09:03p  Hardinus added to Karma list
+7/22/25 9:09:05p  Winkey added to Karma list
+7/22/25 9:09:06p •The Sun sets.
+7/22/25 9:09:46p You have 242 coins.
+7/22/25 9:10:10p Grando says, "c heal me"
+7/22/25 9:10:11p * Auto Healing Grando 
+7/22/25 9:10:47p Grando says, "c area"
+7/22/25 9:10:47p • You begin radius healing.
+7/22/25 9:10:55p • There is nobody nearby enough to continue radius healing.
+7/22/25 9:11:49p •You gain experience.
+7/22/25 9:12:38p You have 242 coins.
+7/22/25 9:14:54p Farhope is too far away for your explanation.
+7/22/25 9:14:54p You gave signed good karma to Farhope.
+7/22/25 9:15:35p You have 242 coins.
+7/22/25 9:18:32p You have 242 coins.
+7/22/25 9:20:55p Hardinus is too far away for your explanation.
+7/22/25 9:20:55p You gave signed good karma to Hardinus.
+7/22/25 9:21:28p You have 242 coins.
+7/22/25 9:24:25p You have 242 coins.
+7/22/25 9:26:56p Winkey is too far away for your explanation.
+7/22/25 9:26:56p You gave signed good karma to Winkey.
+7/22/25 9:27:22p You have 242 coins.
+7/22/25 9:30:18p You have 242 coins.
+7/22/25 9:32:57p Dolce Leggera is too far away for your explanation.
+7/22/25 9:32:57p You gave signed good karma to Dolce Leggera.
+7/22/25 9:33:14p You have 242 coins.
+7/22/25 9:36:08p You have 242 coins.
+7/22/25 9:38:58p Farhope is too far away for your explanation.
+7/22/25 9:38:58p You gave signed good karma to Farhope.
+7/22/25 9:39:03p You have 242 coins.
+7/22/25 9:39:55p Grando says, "c heal me"
+7/22/25 9:39:55p * Auto Healing Grando 
+7/22/25 9:40:42p Grando says, "c area"
+7/22/25 9:40:43p • You begin radius healing.
+7/22/25 9:40:58p • There is nobody nearby enough to continue radius healing.
+7/22/25 9:41:40p Grando says, "c heal me"
+7/22/25 9:41:40p * Auto Healing Grando 
+7/22/25 9:41:57p You have 242 coins.
+7/22/25 9:44:51p You have 242 coins.
+7/22/25 9:44:58p Hardinus is too far away for your explanation.
+7/22/25 9:44:58p You gave signed good karma to Hardinus.
+7/22/25 9:47:49p You have 242 coins.
+7/22/25 9:50:43p You have 242 coins.
+7/22/25 9:50:59p 'Winkey' is not in the lands.
+7/22/25 9:51:00p * Winkey will be removed from Karma list.
+7/22/25 9:53:37p You have 242 coins.
+7/22/25 9:56:33p You have 242 coins.
+7/22/25 9:57:04p Beado is sharing experiences with you.
+7/22/25 9:59:32p You have 242 coins.
+7/22/25 10:02:26p You have 242 coins.
+7/22/25 10:05:26p You have 242 coins.
+7/22/25 10:08:22p You have 242 coins.
+7/22/25 10:11:18p You have 242 coins.
+7/22/25 10:12:14p Hashak thinks, "anyone in need of a somewhat spiffy healer?"
+7/22/25 10:14:16p You have 242 coins.
+7/22/25 10:16:09p • It’s Midnight on Gradi, the 44th day of Spring in the 642nd year of the Ascendancy, and all’s well.
+7/22/25 10:17:15p You have 242 coins.
+7/22/25 10:20:14p You have 242 coins.
+7/22/25 10:20:46p Grando says, "c heal me"
+7/22/25 10:20:46p * Auto Healing Grando 
+7/22/25 10:23:09p You have 242 coins.
+7/22/25 10:26:04p You have 242 coins.
+7/22/25 10:29:00p You have 242 coins.
+7/22/25 10:31:55p You have 242 coins.
+7/22/25 10:33:28p Grando says, "c heal me"
+7/22/25 10:33:28p * Auto Healing Grando 
+7/22/25 10:33:59p Grando says, "c heal me"
+7/22/25 10:33:59p * Auto Healing Grando 
+7/22/25 10:34:28p Grando says, "c area"
+7/22/25 10:34:28p • You begin radius healing.
+7/22/25 10:34:41p • There is nobody nearby enough to continue radius healing.
+7/22/25 10:34:54p You have 242 coins.
+7/22/25 10:35:13p Grando says, "c heal me"
+7/22/25 10:35:13p * Auto Healing Grando 
+7/22/25 10:36:01p Grando says, "c area"
+7/22/25 10:36:02p • You begin radius healing.
+7/22/25 10:36:11p • There is nobody nearby enough to continue radius healing.
+7/22/25 10:36:26p Grando says, "c heal me"
+7/22/25 10:36:27p * Auto Healing Grando 
+7/22/25 10:37:02p Grando says, "c area"
+7/22/25 10:37:03p • You begin radius healing.
+7/22/25 10:37:12p • There is nobody nearby enough to continue radius healing.
+7/22/25 10:37:52p You have 242 coins.
+7/22/25 10:38:27p Grando says, "c heal me"
+7/22/25 10:38:27p * Auto Healing Grando 
+7/22/25 10:40:45p You have 242 coins.
+7/22/25 10:40:47p * Healing Grando 
+7/22/25 10:40:48p •Grando was too wounded to be healed easily.
+7/22/25 10:40:50p You equip your chain.
+7/22/25 10:40:50p •The healing spell has been broken.
+7/22/25 10:40:51p You can't use this chain on yourself.
+7/22/25 10:41:24p You start dragging Grando.
+7/22/25 10:41:32p You equip your asklepian.
+7/22/25 10:41:34p * Healing Grando 
+7/22/25 10:43:04p •The player must be in the same area.
+7/22/25 10:43:37p You have 242 coins.
+7/22/25 10:43:55p Grando says, "c heal me"
+7/22/25 10:43:56p * Auto Healing Grando 
+7/22/25 10:44:10p Grando says, "c area"
+7/22/25 10:44:10p • You begin radius healing.
+7/22/25 10:44:57p • There is nobody nearby enough to continue radius healing.
+7/22/25 10:45:04p Grando says, "c heal me"
+7/22/25 10:45:04p * Auto Healing Grando 
+7/22/25 10:46:15p Grando says, "c heal me"
+7/22/25 10:46:15p * Auto Healing Grando 
+7/22/25 10:46:30p You have 242 coins.
+7/22/25 10:46:50p Grando says, "c area"
+7/22/25 10:46:51p • You begin radius healing.
+7/22/25 10:46:57p • There is nobody nearby enough to continue radius healing.
+7/22/25 10:48:16p Grando says, "c heal me"
+7/22/25 10:48:16p * Auto Healing Grando 
+7/22/25 10:48:39p Grando says, "c area"
+7/22/25 10:48:39p • You begin radius healing.
+7/22/25 10:48:39p • There is nobody nearby enough to continue radius healing.
+7/22/25 10:49:25p You have 242 coins.
+7/22/25 10:52:18p You have 242 coins.
+7/22/25 10:55:14p You have 242 coins.
+7/22/25 10:57:11p •You gain experience.
+7/22/25 10:58:07p You have 242 coins.
+7/22/25 11:01:01p You have 242 coins.
+7/22/25 11:03:56p You have 242 coins.
+7/22/25 11:06:25p Grando says, "c heal me"
+7/22/25 11:06:25p * Auto Healing Grando 
+7/22/25 11:06:49p You have 242 coins.
+7/22/25 11:09:27p Grando says, "c heal me"
+7/22/25 11:09:27p * Auto Healing Grando 
+7/22/25 11:09:43p You have 242 coins.
+7/22/25 11:09:56p Grando says, "c area"
+7/22/25 11:09:57p • You begin radius healing.
+7/22/25 11:10:12p • There is nobody nearby enough to continue radius healing.
+7/22/25 11:10:51p Grando says, "c heal me"
+7/22/25 11:10:51p * Auto Healing Grando 
+7/22/25 11:12:36p You have 242 coins.
+7/22/25 11:13:56p Grando says, "c heal me"
+7/22/25 11:13:56p * Auto Healing Grando 
+7/22/25 11:15:29p You have 242 coins.
+7/22/25 11:18:22p You have 242 coins.
+7/22/25 11:21:15p You have 242 coins.
+7/22/25 11:22:36p •The Sun rises.
+7/22/25 11:24:07p You have 242 coins.
+7/22/25 11:24:08p Grando says, "c heal me"
+7/22/25 11:24:09p * Auto Healing Grando 
+7/22/25 11:24:54p * Auto Thanker Online!
+7/22/25 11:24:54p 'DolceLeggera' is not in the lands.
+7/22/25 11:24:55p * DolceLeggera will be removed from Karma list.
+7/22/25 11:24:55p Hardinus is too far away for your explanation.
+7/22/25 11:24:55p You gave signed good karma to Hardinus.
+7/22/25 11:27:01p You have 242 coins.
+7/22/25 11:27:08p Grando says, "c heal me"
+7/22/25 11:27:08p * Auto Healing Grando 
+7/22/25 11:29:56p You have 242 coins.
+7/22/25 11:30:56p 'Farhope' is not in the lands.
+7/22/25 11:30:56p * Farhope will be removed from Karma list.
+7/22/25 11:30:57p Hardinus is too far away for your explanation.
+7/22/25 11:30:57p You gave signed good karma to Hardinus.
+7/22/25 11:32:51p You have 242 coins.
+7/22/25 11:35:49p You have 242 coins.
+7/22/25 11:36:44p Grando says, "c heal me"
+7/22/25 11:36:44p * Auto Healing Grando 
+7/22/25 11:36:58p Hardinus is too far away for your explanation.
+7/22/25 11:36:58p You gave signed good karma to Hardinus.
+7/22/25 11:38:46p You have 242 coins.
+7/22/25 11:41:43p You have 242 coins.
+7/22/25 11:42:58p Hardinus is too far away for your explanation.
+7/22/25 11:42:58p You gave signed good karma to Hardinus.
+7/22/25 11:44:40p You have 242 coins.
+7/22/25 11:47:34p You have 242 coins.
+7/22/25 11:48:59p Hardinus is too far away for your explanation.
+7/22/25 11:48:59p You gave signed good karma to Hardinus.
+7/22/25 11:49:49p Grando says, "c heal me"
+7/22/25 11:49:49p * Auto Healing Grando 
+7/22/25 11:50:29p You have 242 coins.
+7/22/25 11:53:22p You have 242 coins.
+7/22/25 11:55:00p Hardinus is too far away for your explanation.
+7/22/25 11:55:00p You gave signed good karma to Hardinus.
+7/22/25 11:56:16p You have 242 coins.
+7/22/25 11:58:42p •You gain experience.
+7/22/25 11:59:09p You have 242 coins.
+7/23/25 12:01:01a Hardinus is too far away for your explanation.
+7/23/25 12:01:01a You gave signed good karma to Hardinus.
+7/23/25 12:02:03a You have 242 coins.
+7/23/25 12:04:58a You have 242 coins.
+7/23/25 12:07:02a Hardinus is too far away for your explanation.
+7/23/25 12:07:02a You gave signed good karma to Hardinus.
+7/23/25 12:07:54a You have 242 coins.
+7/23/25 12:10:50a You have 242 coins.
+7/23/25 12:12:31a Grando says, "c heal me"
+7/23/25 12:12:31a * Auto Healing Grando 
+7/23/25 12:13:02a You have given this character as much good karma as is allowed. Wait for it to decay.
+7/23/25 12:13:03a * Hardinus can no longer be thanked for now, removing form list.
+7/23/25 12:13:46a You have 242 coins.
+7/23/25 12:15:19a Grando says, "c heal me"
+7/23/25 12:15:19a * Auto Healing Grando 
+7/23/25 12:15:54a Grando says, "c area"
+7/23/25 12:15:54a • You begin radius healing.
+7/23/25 12:16:00a • There is nobody nearby enough to continue radius healing.
+7/23/25 12:16:03a Grando says, "c heal me"
+7/23/25 12:16:04a * Auto Healing Grando 
+7/23/25 12:16:38a Grando says, "c area"
+7/23/25 12:16:39a • You begin radius healing.
+7/23/25 12:16:42a You have 242 coins.
+7/23/25 12:16:48a Grando says, "c heal me"
+7/23/25 12:16:48a * Auto Healing Grando 
+7/23/25 12:17:08a Grando says, "c area"
+7/23/25 12:17:09a • You begin radius healing.
+7/23/25 12:17:27a Grando says, "c area"
+7/23/25 12:17:28a • You stop radius healing.
+7/23/25 12:17:29a Grando says, "c heal me"
+7/23/25 12:17:29a * Auto Healing Grando 
+7/23/25 12:17:54a Grando says, "c area"
+7/23/25 12:17:55a • You begin radius healing.
+7/23/25 12:18:09a Grando says, "c heal me"
+7/23/25 12:18:09a * Auto Healing Grando 
+7/23/25 12:18:25a Grando says, "c area"
+7/23/25 12:18:25a • You begin radius healing.
+7/23/25 12:18:45a • There is nobody nearby enough to continue radius healing.
+7/23/25 12:18:47a Grando says, "c heal me"
+7/23/25 12:18:48a * Auto Healing Grando 
+7/23/25 12:19:21a Grando says, "c heal me"
+7/23/25 12:19:22a * Auto Healing Grando 
+7/23/25 12:19:43a You have 242 coins.
+7/23/25 12:20:07a Grando says, "c heal me"
+7/23/25 12:20:07a * Auto Healing Grando 
+7/23/25 12:20:22a Grando says, "c area"
+7/23/25 12:20:22a • You begin radius healing.
+7/23/25 12:20:34a • There is nobody nearby enough to continue radius healing.
+7/23/25 12:22:37a You have 242 coins.
+7/23/25 12:25:30a You have 242 coins.
+7/23/25 12:28:26a You have 242 coins.
+7/23/25 12:31:23a You have 242 coins.
+7/23/25 12:34:18a You have 242 coins.
+7/23/25 12:34:44a Grando says, "c heal me"
+7/23/25 12:34:45a * Auto Healing Grando 
+7/23/25 12:35:40a Grando says, "c area"
+7/23/25 12:35:40a • You begin radius healing.
+7/23/25 12:35:49a Lazoom thinks, "Donate to the most important building project in the islands: a lighthouse!"
+7/23/25 12:35:50a Grando says, "c heal me"
+7/23/25 12:35:50a * Auto Healing Grando 
+7/23/25 12:36:05a Grando thinks, "how about no."
+7/23/25 12:36:15a Grando says, "c area"
+7/23/25 12:36:16a • You begin radius healing.
+7/23/25 12:36:34a • There is nobody nearby enough to continue radius healing.
+7/23/25 12:36:37a Grando says, "c heal me"
+7/23/25 12:36:37a * Auto Healing Grando 
+7/23/25 12:36:52a Grando says, "c area"
+7/23/25 12:36:52a • You begin radius healing.
+7/23/25 12:37:00a • There is nobody nearby enough to continue radius healing.
+7/23/25 12:37:12a You have 242 coins.
+7/23/25 12:37:16a Grando says, "c heal me"
+7/23/25 12:37:16a * Auto Healing Grando 
+7/23/25 12:38:16a Grando says, "c heal me"
+7/23/25 12:38:16a * Auto Healing Grando 
+7/23/25 12:40:10a You have 242 coins.
+7/23/25 12:40:16a Grando says, "c heal me"
+7/23/25 12:40:16a * Auto Healing Grando 
+7/23/25 12:40:25a •You gain experience.
+7/23/25 12:40:43a Grando says, "c area"
+7/23/25 12:40:44a • You begin radius healing.
+7/23/25 12:40:57a • There is nobody nearby enough to continue radius healing.
+7/23/25 12:41:55a Grando says, "c heal me"
+7/23/25 12:41:55a * Auto Healing Grando 
+7/23/25 12:43:12a You have 242 coins.
+7/23/25 12:46:11a You have 242 coins.
+7/23/25 12:49:07a You have 242 coins.
+7/23/25 12:52:04a You have 242 coins.
+7/23/25 12:52:28a * Auto thanks names:
+7/23/25 12:52:34a  Hardinus added to Karma list
+7/23/25 12:52:35a You have given this character as much good karma as is allowed. Wait for it to decay.
+7/23/25 12:52:35a * Hardinus can no longer be thanked for now, removing form list.
+7/23/25 12:52:36a  Org du Lac added to Karma list
+7/23/25 12:52:36a Org du Lac is too far away for your explanation.
+7/23/25 12:52:36a You gave signed good karma to Org du Lac.
+7/23/25 12:52:42a  Winkey added to Karma list
+7/23/25 12:52:46a  Hashak added to Karma list
+7/23/25 12:52:49a  Falinus added to Karma list
+7/23/25 12:54:57a You have 242 coins.
+7/23/25 12:57:49a You have 242 coins.
+7/23/25 12:58:37a Winkey is too far away for your explanation.
+7/23/25 12:58:37a You gave signed good karma to Winkey.
+7/23/25 1:00:40a You have 242 coins.
+7/23/25 1:02:06a • /SLEEP when you wish to begin studying.
+7/23/25 1:02:10a Use \SLEEP again when you return.
+7/23/25 1:02:10a You are

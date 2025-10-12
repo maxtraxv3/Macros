@@ -1,0 +1,143 @@
+
+5/7/25 9:17:05p * Your shirt named “dark grey” is in nearly perfect condition.
+5/7/25 9:17:05p * Your pair of pants named “muddy yellow” is in nearly perfect condition.
+5/7/25 9:17:05p Welcome to Clan Lord, Jeff!
+5/7/25 9:17:05p Type \HELP for a list of commands.
+5/7/25 9:17:05p • You gain experience from your recent studies.
+5/7/25 9:17:06p Jeff is now Clanning.
+5/7/25 9:17:06p You have been studying for 17 minutes, 51 seconds.
+5/7/25 9:17:08p It's 10:09pm on Fordi, day 2 of Summer, 641.
+5/7/25 9:17:09p Friends online: none.
+5/7/25 9:17:10p You are the only member of Black Phoenix clanning.
+5/7/25 9:17:10p • What’s New: https://deltatao.com/clanlord/news
+5/7/25 9:17:19p * Tip of the day: Open the Text Window from the Options menu to read a log of everything you’ve seen. (Use /OPTIONS to turn tips off.)
+5/7/25 9:17:20p Jeff says, "super simple macro to test it"
+5/7/25 9:17:22p Jeff says, ""/test2""
+5/7/25 9:17:22p Jeff says, "{"
+5/7/25 9:17:23p Jeff says, "label loopit"
+5/7/25 9:17:23p Jeff says, "if @env.textlog < "You are a""
+5/7/25 9:17:24p Jeff says, "message "is it working?""
+5/7/25 9:17:24p Jeff says, "end if"
+5/7/25 9:17:24p Jeff says, "goto loopit"
+5/7/25 9:17:25p Jeff says, "}"
+5/7/25 9:17:32p info race on
+5/7/25 9:17:38p You are a Human, are male, are an exile, and are wearing the symbol of Black Phoenix.
+5/7/25 9:17:38p You are holding a sewing kit, and you are wearing a shirt and a pair of pants.
+5/7/25 9:17:40p You are a Human, are male, are an exile, and are wearing the symbol of Black Phoenix.
+5/7/25 9:17:40p You are holding a sewing kit, and you are wearing a shirt and a pair of pants.
+5/7/25 9:17:41p You are a Human, are male, are an exile, and are wearing the symbol of Black Phoenix.
+5/7/25 9:17:41p You are holding a sewing kit, and you are wearing a shirt and a pair of pants.
+5/7/25 9:17:42p You are a Human, are male, are an exile, and are wearing the symbol of Black Phoenix.
+5/7/25 9:17:42p You are holding a sewing kit, and you are wearing a shirt and a pair of pants.
+5/7/25 9:17:43p You are a Human, are male, are an exile, and are wearing the symbol of Black Phoenix.
+5/7/25 9:17:43p You are holding a sewing kit, and you are wearing a shirt and a pair of pants.
+5/7/25 9:17:44p You are a Human, are male, are an exile, and are wearing the symbol of Black Phoenix.
+5/7/25 9:17:44p You are holding a sewing kit, and you are wearing a shirt and a pair of pants.
+5/7/25 9:17:45p You are a Human, are male, are an exile, and are wearing the symbol of Black Phoenix.
+5/7/25 9:17:45p You are holding a sewing kit, and you are wearing a shirt and a pair of pants.
+5/7/25 9:17:46p You are a Human, are male, are an exile, and are wearing the symbol of Black Phoenix.
+5/7/25 9:17:46p You are holding a sewing kit, and you are wearing a shirt and a pair of pants.
+5/7/25 9:17:47p You are a Human, are male, are an exile, and are wearing the symbol of Black Phoenix.
+5/7/25 9:17:47p You are holding a sewing kit, and you are wearing a shirt and a pair of pants.
+5/7/25 9:17:49p You are a Human, are male, are an exile, and are wearing the symbol of Black Phoenix.
+5/7/25 9:17:49p You are holding a sewing kit, and you are wearing a shirt and a pair of pants.
+5/7/25 9:17:50p You are a Human, are male, are an exile, and are wearing the symbol of Black Phoenix.
+5/7/25 9:17:50p You are holding a sewing kit, and you are wearing a shirt and a pair of pants.
+5/7/25 9:17:53p •Your knowledge of blacksmithing improves.
+5/7/25 9:17:59p Jeff says, "it cant read it"
+5/7/25 9:18:14p Jeff says, "even with a super dumbed down macro"
+5/7/25 9:18:50p Jeff says, "changeing to >="
+5/7/25 9:18:51p Jeff says, ""/test2""
+5/7/25 9:18:52p Jeff says, "{"
+5/7/25 9:18:52p Jeff says, "label loopit"
+5/7/25 9:18:53p Jeff says, "if @env.textlog >= "You are a""
+5/7/25 9:18:53p is it working?
+5/7/25 9:18:53p is it working?
+5/7/25 9:18:53p is it working?
+5/7/25 9:18:53p is it working?
+5/7/25 9:18:53p is it working?
+5/7/25 9:18:53p Jeff says, "message "is it working?""
+5/7/25 9:18:53p Jeff says, "end if"
+5/7/25 9:18:54p Jeff says, "goto loopit"
+5/7/25 9:18:54p Jeff says, "}"
+5/7/25 9:19:08p Jeff says, "You are a"
+5/7/25 9:19:08p is it working?
+5/7/25 9:19:08p is it working?
+5/7/25 9:19:08p is it working?
+5/7/25 9:19:08p is it working?
+5/7/25 9:19:08p is it working?
+5/7/25 9:19:12p You are a Human, are male, are an exile, and are wearing the symbol of Black Phoenix.
+5/7/25 9:19:12p You are holding a sewing kit, and you are wearing a shirt and a pair of pants.
+5/7/25 9:19:14p You are a Human, are male, are an exile, and are wearing the symbol of Black Phoenix.
+5/7/25 9:19:14p You are holding a sewing kit, and you are wearing a shirt and a pair of pants.
+5/7/25 9:19:16p You are a Human, are male, are an exile, and are wearing the symbol of Black Phoenix.
+5/7/25 9:19:16p You are holding a sewing kit, and you are wearing a shirt and a pair of pants.
+5/7/25 9:19:22p Jeff says, "lol"
+5/7/25 9:19:23p •Your knowledge of blacksmithing improves.
+5/7/25 9:19:40p Jeff says, "reloaded macro for the update"
+5/7/25 9:19:43p You are a Human, are male, are an exile, and are wearing the symbol of Black Phoenix.
+5/7/25 9:19:43p You are holding a sewing kit, and you are wearing a shirt and a pair of pants.
+5/7/25 9:19:45p You are a Human, are male, are an exile, and are wearing the symbol of Black Phoenix.
+5/7/25 9:19:45p You are holding a sewing kit, and you are wearing a shirt and a pair of pants.
+5/7/25 9:19:46p You are a Human, are male, are an exile, and are wearing the symbol of Black Phoenix.
+5/7/25 9:19:46p You are holding a sewing kit, and you are wearing a shirt and a pair of pants.
+5/7/25 9:19:47p You are a Human, are male, are an exile, and are wearing the symbol of Black Phoenix.
+5/7/25 9:19:47p You are holding a sewing kit, and you are wearing a shirt and a pair of pants.
+5/7/25 9:19:48p You are a Human, are male, are an exile, and are wearing the symbol of Black Phoenix.
+5/7/25 9:19:48p You are holding a sewing kit, and you are wearing a shirt and a pair of pants.
+5/7/25 9:19:51p Jeff says, "You are a"
+5/7/25 9:19:51p is it working?
+5/7/25 9:19:51p is it working?
+5/7/25 9:19:51p is it working?
+5/7/25 9:19:51p is it working?
+5/7/25 9:19:51p is it working?
+5/7/25 9:20:06p Jeff says, "it can NOT read it"
+5/7/25 9:20:24p Jeff says, "You are a"
+5/7/25 9:20:24p is it working?
+5/7/25 9:20:24p is it working?
+5/7/25 9:20:24p is it working?
+5/7/25 9:20:24p is it working?
+5/7/25 9:20:24p is it working?
+5/7/25 9:20:29p You are a Human, are male, are an exile, and are wearing the symbol of Black Phoenix.
+5/7/25 9:20:29p You are holding a sewing kit, and you are wearing a shirt and a pair of pants.
+5/7/25 9:20:35p Jeff says, ""/test2""
+5/7/25 9:20:36p Jeff says, "{"
+5/7/25 9:20:36p Jeff says, "label loopit"
+5/7/25 9:20:37p Jeff says, "if @env.textlog >= "You are a""
+5/7/25 9:20:37p is it working?
+5/7/25 9:20:37p is it working?
+5/7/25 9:20:37p is it working?
+5/7/25 9:20:37p is it working?
+5/7/25 9:20:37p is it working?
+5/7/25 9:20:37p Jeff says, "message "is it working?""
+5/7/25 9:20:37p Jeff says, "end if"
+5/7/25 9:20:38p Jeff says, "goto loopit"
+5/7/25 9:20:38p Jeff says, "}"
+5/7/25 9:20:43p • You gain experience from your adventures.
+5/7/25 9:20:53p •Your knowledge of blacksmithing improves.
+5/7/25 9:20:58p Jeff says, ""/test2""
+5/7/25 9:20:59p Jeff says, "{"
+5/7/25 9:20:59p Jeff says, "label loopit"
+5/7/25 9:21:00p Jeff says, "if @env.textlog >= "You are a""
+5/7/25 9:21:00p Jeff says, "message "is it working?""
+5/7/25 9:21:00p Jeff says, "end if"
+5/7/25 9:21:01p Jeff says, "goto loopit"
+5/7/25 9:21:01p Jeff says, "}"
+5/7/25 9:21:06p Jeff says, "enableing now"
+5/7/25 9:21:13p You are a Human, are male, are an exile, and are wearing the symbol of Black Phoenix.
+5/7/25 9:21:13p You are holding a sewing kit, and you are wearing a shirt and a pair of pants.
+5/7/25 9:21:15p You are a Human, are male, are an exile, and are wearing the symbol of Black Phoenix.
+5/7/25 9:21:15p You are holding a sewing kit, and you are wearing a shirt and a pair of pants.
+5/7/25 9:21:16p You are a Human, are male, are an exile, and are wearing the symbol of Black Phoenix.
+5/7/25 9:21:16p You are holding a sewing kit, and you are wearing a shirt and a pair of pants.
+5/7/25 9:21:18p You are a Human, are male, are an exile, and are wearing the symbol of Black Phoenix.
+5/7/25 9:21:18p You are holding a sewing kit, and you are wearing a shirt and a pair of pants.
+5/7/25 9:21:19p You are a Human, are male, are an exile, and are wearing the symbol of Black Phoenix.
+5/7/25 9:21:19p You are holding a sewing kit, and you are wearing a shirt and a pair of pants.
+5/7/25 9:21:20p You are a Human, are male, are an exile, and are wearing the symbol of Black Phoenix.
+5/7/25 9:21:20p You are holding a sewing kit, and you are wearing a shirt and a pair of pants.
+5/7/25 9:21:22p You are a Human, are male, are an exile, and are wearing the symbol of Black Phoenix.
+5/7/25 9:21:22p You are holding a sewing kit, and you are wearing a shirt and a pair of pants.
+5/7/25 9:21:43p Jeff says, "5/7/25 9:21:22p You are a Human, are male, are an exile, and are wearing the symbol of Black Phoenix."
+5/7/25 9:21:43p is it working?
+5/7/25 9:

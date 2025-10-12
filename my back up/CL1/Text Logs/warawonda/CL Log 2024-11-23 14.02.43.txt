@@ -1,0 +1,3021 @@
+
+11/23/24 2:02:43p * Your pair of shoes named “blue” is in pretty good shape.
+11/23/24 2:02:43p * Your shirt named “midnight” is in nearly perfect condition.
+11/23/24 2:02:43p * Your pair of pants named “gold” is in pretty good shape.
+11/23/24 2:02:43p Welcome to Clan Lord, Warawonda!
+11/23/24 2:02:43p Type \HELP for a list of commands.
+11/23/24 2:02:43p • You gain experience from your recent studies.
+11/23/24 2:02:43p Warawonda is now Clanning.
+11/23/24 2:02:43p You have been studying for 23 hours, 56 minutes.
+11/23/24 2:02:46p It's 4:33pm on Lundi, day 46 of Summer, 639.
+11/23/24 2:02:48p You are the only member of Black Phoenix clanning.
+11/23/24 2:02:48p • What's New: Missing exploration experience announced for this version was eaten by server hamsters. This will instead take effect at the next Chaos Storm. For other news, see https://deltatao.com/clanlord/news/
+11/23/24 2:02:50p Friends online: none.
+11/23/24 2:03:31p You equip your cloak named “royal purple”, which is in pretty good shape.
+11/23/24 2:04:12p Koppi yells, "Shakyamuni reports: The Darshak have imprisoned our friends the gnomes.. SAVE THE GNOMES!"
+11/23/24 2:04:17p Goldy is now Clanning.
+11/23/24 2:04:30p Connie Crete thinks, "back inna sec mob"
+11/23/24 2:04:35p Rufus says, "Greetings, Apprentice Warawonda."
+11/23/24 2:04:36p Rufus says, "So far I’ve sold no raffle tickets for Markus's copper ingot at 10c each."
+11/23/24 2:04:36p Rufus says, "This raffle will be over in 6 days, 3 hours, 16 minutes."
+11/23/24 2:04:44p You have 4570 coins.
+11/23/24 2:04:56p Riff says, "Greetings, Apprentice Warawonda."
+11/23/24 2:04:56p Riff says, "So far I’ve sold around 25 raffle tickets for Romuli's lump of copper ore at 2c each."
+11/23/24 2:04:57p Riff says, "This raffle will be over in 4 days, 17 hours, 14 minutes."
+11/23/24 2:04:59p Rose is now Clanning.
+11/23/24 2:05:03p You have 4570 coins.
+11/23/24 2:05:16p Lil Elpur thinks, "Whilst you were gone, the mob became unionized, cultured and sat for high tea."
+11/23/24 2:05:33p Rose is no longer Clanning.
+11/23/24 2:05:44p Rufus says, "Greetings, Apprentice Warawonda."
+11/23/24 2:05:44p Rufus says, "So far I’ve sold no raffle tickets for Markus's copper ingot at 10c each."
+11/23/24 2:05:44p Rufus says, "This raffle will be over in 6 days, 3 hours, 11 minutes."
+11/23/24 2:05:45p Rufus asks, "How many tickets would you like to buy?"
+11/23/24 2:05:46p Warawonda says in Sylvan, "200"
+11/23/24 2:05:46p Rufus takes Warawonda’s coins and drops several slips of parchment into a hat.
+11/23/24 2:05:47p Rufus exclaims, "Visit any raffle worker anytime after the raffle ends to see whether you’ve won!"
+11/23/24 2:05:47p Rufus says, "Greetings, Apprentice Warawonda."
+11/23/24 2:05:52p You have 2570 coins.
+11/23/24 2:05:54p Connie Crete thinks, "taMob - sokay, jest be careful o them tea additives"
+11/23/24 2:06:03p Riff says, "Greetings, Apprentice Warawonda."
+11/23/24 2:06:03p Riff says, "So far I’ve sold around 25 raffle tickets for Romuli's lump of copper ore at 2c each."
+11/23/24 2:06:04p Riff says, "This raffle will be over in 4 days, 17 hours, 9 minutes."
+11/23/24 2:06:04p Riff asks, "How many tickets would you like to buy?"
+11/23/24 2:06:07p Warawonda says in Sylvan, "300"
+11/23/24 2:06:07p Riff takes Warawonda’s coins and drops several slips of parchment into a hat.
+11/23/24 2:06:07p Riff exclaims, "Visit any raffle worker anytime after the raffle ends to see whether you’ve won!"
+11/23/24 2:06:08p Riff says, "Greetings, Apprentice Warawonda."
+11/23/24 2:06:08p Riff says, "So far I’ve sold around 325 raffle tickets for Romuli's lump of copper ore at 2c each."
+11/23/24 2:06:16p You have 1970 coins.
+11/23/24 2:06:18p Raffa says, "Greetings, Apprentice Warawonda."
+11/23/24 2:06:19p Raffa says, "So far I’ve sold around 15 raffle tickets for Dare's chain at 50c each."
+11/23/24 2:06:19p Raffa says, "This raffle will be over in 3 days, 20 hours, 43 minutes."
+11/23/24 2:06:24p You have 1970 coins.
+11/23/24 2:06:27p Raffa says, "Greetings, Apprentice Warawonda."
+11/23/24 2:06:27p Raffa says, "So far I’ve sold around 15 raffle tickets for Dare's chain at 50c each."
+11/23/24 2:06:27p Raffa says, "This raffle will be over in 3 days, 20 hours, 42 minutes."
+11/23/24 2:06:28p Raffa asks, "How many tickets would you like to buy?"
+11/23/24 2:06:29p Warawonda says in Sylvan, "1"
+11/23/24 2:06:29p Raffa takes Warawonda’s coins and drops a slip of parchment into a hat.
+11/23/24 2:06:30p Raffa exclaims, "Visit any raffle worker anytime after the raffle ends to see whether you’ve won!"
+11/23/24 2:06:31p Elfar says, "Greetings, Apprentice Warawonda."
+11/23/24 2:06:32p Elfar says, "So far I’ve sold around 15 raffle tickets for Dare's chain at 50c each."
+11/23/24 2:06:32p Elfar says, "This raffle will be over in one day, 17 hours, exactly."
+11/23/24 2:06:32p Elfar asks, "How many tickets would you like to buy?"
+11/23/24 2:06:33p Warawonda says in Sylvan, "1"
+11/23/24 2:06:34p Elfar takes Warawonda’s coins and drops a slip of parchment into a hat.
+11/23/24 2:06:34p Elfar exclaims, "Visit any raffle worker anytime after the raffle ends to see whether you’ve won!"
+11/23/24 2:06:36p Nyfineke says, "Greetings, Apprentice Warawonda."
+11/23/24 2:06:36p Nyfineke says, "So far I’ve sold around 15 raffle tickets for Dare's chain at 50c each."
+11/23/24 2:06:37p Nyfineke says, "This raffle will be over in one day, 17 hours, exactly."
+11/23/24 2:06:37p Nyfineke asks, "How many tickets would you like to buy?"
+11/23/24 2:06:38p Warawonda says in Sylvan, "1"
+11/23/24 2:06:38p Nyfineke takes Warawonda’s coins and drops a slip of parchment into a hat.
+11/23/24 2:06:39p Nyfineke exclaims, "Visit any raffle worker anytime after the raffle ends to see whether you’ve won!"
+11/23/24 2:06:43p You have 1820 coins.
+11/23/24 2:06:44p Shadow Dragon is now Clanning.
+11/23/24 2:06:51p Snerk is now Clanning.
+11/23/24 2:07:03p Tas thinks, "31% Doom."
+11/23/24 2:07:11p Purrfect exclaims, "!"
+11/23/24 2:07:12p Connie Crete says, "thanks town"
+11/23/24 2:07:17p Snerk is no longer Clanning.
+11/23/24 2:07:25p Stinkfist says, "oh NOW we are town and not lore tour"
+11/23/24 2:07:27p Connie Crete thinks, "tamob headin back"
+11/23/24 2:07:28p Vampire D is no longer Clanning.
+11/23/24 2:07:32p (Stinkfist shakes his head)
+11/23/24 2:07:35p Shadowmutt growls, "Grrr."
+11/23/24 2:07:35p (Stinkfist cackles)
+11/23/24 2:07:35p (Aurelie giggles.)
+11/23/24 2:07:36p Purrfect is no longer Clanning.
+11/23/24 2:07:38p Aurelie says, "Stink."
+11/23/24 2:07:40p Aurelie says, "I can't remember."
+11/23/24 2:07:44p You have 1820 coins.
+11/23/24 2:07:49p Shadowmutt growls, "Grrr."
+11/23/24 2:07:50p Aurelie says, "Didcha know I wrote a mysticky song for Val."
+11/23/24 2:07:59p Stinkfist exclaims, "i did not know!"
+11/23/24 2:08:04p Aurelie asks, "Wanna hear it?"
+11/23/24 2:08:09p Stinkfist says, "yarr sure"
+11/23/24 2:08:18p Aurelie starts playing her starbuck harp.
+11/23/24 2:08:18p (Aurelie): A Song Like Fire - For Valadorei
+11/23/24 2:08:26p Shadowmutt growls, "Grrr."
+11/23/24 2:08:50p Aurelie says, "I said "Val, if someone wrote a song about you, what would it be like?""
+11/23/24 2:08:58p Aurelie says, "And SHE said "I dunno.. a song like fire.""
+11/23/24 2:09:01p (Stinkfist cackles)
+11/23/24 2:09:04p You have 1820 coins.
+11/23/24 2:09:07p Stinkfist says, "dis is pretty fire"
+11/23/24 2:09:19p Stinkfist ponders, "hrmmm when to light that guy on fire with rainbows?"
+11/23/24 2:09:21p Shadowmutt growls, "Woof!"
+11/23/24 2:09:22p (Aurelie grins.)
+11/23/24 2:09:23p Koppi yells, "Marcuese reports: Slimes and myrms requested URGENTLY for de-flea-ing the bathhouse after the defection of the traitor Loom'Nir."
+11/23/24 2:09:24p Crius yells, "It’s 5 o’clock, and all’s well."
+11/23/24 2:09:28p Crius yells, "There’s good hunting in the Northwest Forest."
+11/23/24 2:09:44p Shadowmutt growls, "Grrr."
+11/23/24 2:09:56p Shadowmutt growls, "Grrr."
+11/23/24 2:10:13p Stinkfist says, "i dont think we gotta bust out any super secret weapons tomorrow tho"
+11/23/24 2:10:19p Aurelie says, "I think the ending will trick lots of people during the concert..."
+11/23/24 2:10:24p You have 1820 coins.
+11/23/24 2:10:26p (Aurelie giggles.)
+11/23/24 2:10:26p (Stinkfist cackles)
+11/23/24 2:10:47p Stinkfist says, "Endrondus is gonna meet Puddleby's most fearsome weapon tomorrow"
+11/23/24 2:10:50p Stinkfist says, "Library Horus"
+11/23/24 2:10:55p (Aurelie giggles!)
+11/23/24 2:11:07p Aurelie exclaims, "I was gonna say the motley friendship of a disorderly mob!"
+11/23/24 2:11:09p Stinkfist says, "and the general puddleby alt army"
+11/23/24 2:11:25p Stinkfist says, "that sounds better, lets call it that"
+11/23/24 2:11:28p Stinkfist says, "MARKETING"
+11/23/24 2:11:31p (Aurelie giggles.)
+11/23/24 2:11:34p (Sawyer frowns at the rain.)
+11/23/24 2:11:44p You have 1820 coins.
+11/23/24 2:11:48p Stinkfist says, "perfect for Operation Rainbow Diplomacy"
+11/23/24 2:11:54p Sawyer asks, "Ah. Magician Stinkfist. Do you have any need of these?"
+11/23/24 2:11:59p Sawyer shows her darkstone shard to Stinkfist.
+11/23/24 2:12:33p (Sawyer nods.)
+11/23/24 2:13:05p You have 1820 coins.
+11/23/24 2:13:15p (Sawyer nods.)
+11/23/24 2:13:54p (Valadorei blinks.)
+11/23/24 2:14:25p You have 1820 coins.
+11/23/24 2:14:34p Koppi yells, "Balangar reports: Pet patrol gathering on tuesday, see https://discord.com/channels/270291133798547456/654474030023180290/1308167523153481728 for details."
+11/23/24 2:14:47p Yagrum is now Clanning.
+11/23/24 2:15:00p (Aurelie smiles up at the rain.)
+11/23/24 2:15:39p (Sawyer nods.)
+11/23/24 2:15:45p You have 1820 coins.
+11/23/24 2:15:52p Shakyamuni is now Clanning.
+11/23/24 2:16:01p Sawyer says, "Speaking of pew pewing."
+11/23/24 2:16:06p Shakyamuni is no longer Clanning.
+11/23/24 2:16:11p Sawyer asks, "How did you work your way up to two swings? Swengus?"
+11/23/24 2:16:18p Galena is now Clanning.
+11/23/24 2:16:24p Stinkfist says, "training straight balthus"
+11/23/24 2:16:28p Stinkfist says, "mixed with swengus"
+11/23/24 2:16:30p (Sawyer nods.)
+11/23/24 2:16:34p Shadowfire says, "Balthus is better for BM"
+11/23/24 2:16:35p Sawyer says, "I was wondering about straight balthus..."
+11/23/24 2:16:41p (Sawyer makes a note.)
+11/23/24 2:16:45p Shadowfire says, "Anglisa+Balthus is apparently better than Swengus"
+11/23/24 2:16:47p Stinkfist says, "yeah i did a lot of straight balthus for it"
+11/23/24 2:16:54p Shadowfire says, "It still feels bizarre to say but Osha convinced me with math"
+11/23/24 2:17:05p You have 1820 coins.
+11/23/24 2:17:06p Sawyer says, "Osha's actually not that bad at math."
+11/23/24 2:17:10p Stinkfist says, "its gonna fuck you in the long run"
+11/23/24 2:17:18p Warawonda ponders, "math?"
+11/23/24 2:17:31p Curufin is now Clanning.
+11/23/24 2:17:42p Sawyer says, "Ahh... well I also don't really want that... I was just thinking of strengthening some of my core ranks."
+11/23/24 2:17:47p Warawonda ponders, "daddy math?"
+11/23/24 2:17:49p Shadowfire says, "Basically Anglisa is so good that training Swengus is bad"
+11/23/24 2:17:58p Valadorei says, "Ignoring math is great."
+11/23/24 2:18:00p Shadowfire says, "So it's more efficient to do Anglisa+Balthus than Swengus"
+11/23/24 2:18:05p Aurelie exclaims, "I ignore so much math!"
+11/23/24 2:18:12p Shadowfire says, "Slaughter-wise also apparently"
+11/23/24 2:18:14p Goldy is no longer Clanning.
+11/23/24 2:18:15p Aurelie starts playing her gitor.
+11/23/24 2:18:15p (Aurelie): "Twilight Star" by Rakshasa
+11/23/24 2:18:16p Stinkfist says, "yeah the balthus bonus on swengus comes out of regia"
+11/23/24 2:18:25p You have 1820 coins.
+11/23/24 2:18:27p Stinkfist says, "still gonna bone you with negative ranks in the long run"
+11/23/24 2:18:43p Aurelie says, "Maybe you should just train bloodblade forever, Sawyer."
+11/23/24 2:19:01p Stinkfist asks, "you got how much regia?"
+11/23/24 2:19:07p Warawonda ponders, "got it! never train swengus"
+11/23/24 2:19:15p Sawyer says, "Not enough, I don't think."
+11/23/24 2:19:26p Sawyer asks, "500?"
+11/23/24 2:19:32p Stinkfist says, "ok yeah swengus then"
+11/23/24 2:19:34p Stinkfist says, "lol"
+11/23/24 2:19:38p (Sawyer smirks.)
+11/23/24 2:19:45p Koppi yells, "Marcuese reports: Slimes and myrms requested URGENTLY for de-flea-ing the bathhouse after the defection of the traitor Loom'Nir."
+11/23/24 2:19:46p You have 1820 coins.
+11/23/24 2:19:46p Stinkfist says, "tbh just rotate balthus -> swengus -> steadfastus"
+11/23/24 2:19:51p Sawyer says, "I've adopted the habit of trading 50 bb ranks away every time I hit 1250"
+11/23/24 2:19:56p Sawyer says, "Last 50 ranks was to Swengus."
+11/23/24 2:19:58p Shadowfire ponders, "oop was afk"
+11/23/24 2:19:58p Stinkfist says, "smallest in the ratio being sted"
+11/23/24 2:20:17p Stinkfist says, "will get you everything good you need for multiswing"
+11/23/24 2:20:21p (Sawyer nods.)
+11/23/24 2:20:23p Stinkfist says, "and staying alive"
+11/23/24 2:20:34p Sawyer says, "I am interested in both of those things."
+11/23/24 2:20:44p Stinkfist says, "the troil will be nice in long run and if you ever dont like it, trade it for more histia/regia"
+11/23/24 2:20:54p Sawyer says, "I've always preferred Stedfustus to Anemia"
+11/23/24 2:21:06p You have 1820 coins.
+11/23/24 2:21:09p Stinkfist says, "switching between the two isnt bad"
+11/23/24 2:21:17p Stinkfist says, "not the sltr greatest but its better now i guess"
+11/23/24 2:21:21p Aldor is now Clanning.
+11/23/24 2:21:24p Sawyer asks, "For the bonuses and staying even on Troilus?"
+11/23/24 2:21:32p Stinkfist says, "yeah"
+11/23/24 2:21:44p Aurelie starts playing her starbuck harp.
+11/23/24 2:21:44p (Aurelie): "Rescue Mission" by Silphene
+11/23/24 2:22:26p You have 1820 coins.
+11/23/24 2:23:00p Aurelie says, "Such a great fade."
+11/23/24 2:23:03p (Aurelie giggles.)
+11/23/24 2:23:10p Aurelie starts playing her starbuck harp.
+11/23/24 2:23:10p (Aurelie): "Leechslayer" by Silphene
+11/23/24 2:23:15p Yagrum is no longer Clanning.
+11/23/24 2:23:32p Stinkfist exclaims, "Valadorei!"
+11/23/24 2:23:36p Stinkfist asks, "did you ever get your coral?"
+11/23/24 2:23:46p You have 1820 coins.
+11/23/24 2:24:02p Aurelie says, "I think she even got more than one."
+11/23/24 2:24:08p Crius yells, "It’s 6 o’clock on Lundi, the 46th day of Summer in the 639th year of the Ascendancy, and all’s well."
+11/23/24 2:24:11p Aurelie says, "I dun' wanna speak for her... but she may or may not be distracted writing a song."
+11/23/24 2:24:13p Crius yells, "There’s good hunting near the North Beach."
+11/23/24 2:24:22p Aurelie says, "Or doing other mystical things."
+11/23/24 2:24:22p (Stinkfist gives a thumbs up to Aurelie!)
+11/23/24 2:24:26p Galena is no longer Clanning.
+11/23/24 2:24:28p Stinkfist says, "Alrighty"
+11/23/24 2:24:28p (Valadorei blinks.)
+11/23/24 2:24:33p Valadorei exclaims, "Yes!"
+11/23/24 2:24:38p Valadorei says, "I found coral"
+11/23/24 2:24:39p Stinkfist exclaims, "Okiedokie! good!"
+11/23/24 2:24:51p (Aurelie wrings some water out of her hair.)
+11/23/24 2:24:56p Koppi yells, "Stinkfist reports: Arr, I heard it was a spider who imprisoned the gnomes! How dare the Darshak do this!?!"
+11/23/24 2:24:58p Stinkfist exclaims, "Arrr!"
+11/23/24 2:25:00p Shadowfire ponders, "Panic bubble?"
+11/23/24 2:25:02p Stinkfist exclaims, "excellent!"
+11/23/24 2:25:06p You have 1820 coins.
+11/23/24 2:25:08p Stinkfist exclaims, "Can panic bubble!"
+11/23/24 2:25:11p Aurelie says, "She's pretty much a full mystic in all but title, now."
+11/23/24 2:25:18p Aurelie exclaims, "Got all sorts of neat toys!"
+11/23/24 2:25:19p Stinkfist says, "she is better than that"
+11/23/24 2:25:22p Stinkfist exclaims, "She is an Expert!"
+11/23/24 2:25:25p Aurelie exclaims, "She is!"
+11/23/24 2:25:29p Cousin Jenny is now Clanning.
+11/23/24 2:25:34p Valadorei exclaims, "As Ramandu reminded me now I can take your breath away!"
+11/23/24 2:25:40p (Stinkfist cackles)
+11/23/24 2:25:46p Cousin Jenny says, "mew"
+11/23/24 2:25:54p (Valadorei waves.)
+11/23/24 2:25:55p Stinkfist says, "Arr mew mew"
+11/23/24 2:25:56p (Warawonda waves)
+11/23/24 2:26:00p * You feel mentally enhanced by Valadorei...
+11/23/24 2:26:02p Curufin is no longer Clanning.
+11/23/24 2:26:10p You equip your Staff of Ballou.
+11/23/24 2:26:11p Aurelie asks, "Any song requests?"
+11/23/24 2:26:13p * You mentally enhance Shadowfire
+11/23/24 2:26:13p * You mentally enhance Shobaffum
+11/23/24 2:26:13p * You mentally enhance Stinkfist
+11/23/24 2:26:13p * You mentally enhance Boo Boo Kitty
+11/23/24 2:26:13p * You mentally enhance Sawyer
+11/23/24 2:26:14p * You mentally enhance Loom'Nir
+11/23/24 2:26:17p Stinkfist says, "Alright, i go scheme for crushing our enemies tomorrow"
+11/23/24 2:26:17p You slip your Staff of Ballou into your backpack.
+11/23/24 2:26:20p Stinkfist says, "VALADOREI"
+11/23/24 2:26:22p Stinkfist says, "SCHEME"
+11/23/24 2:26:25p Valadorei hands a glass of fine cognac to Stinkfist.
+11/23/24 2:26:26p (Aurelie looks through her miraculously un-soggy sheet music.)
+11/23/24 2:26:27p You have 1820 coins.
+11/23/24 2:26:27p Stinkfist says, "YOU HAVE DA LIST"
+11/23/24 2:26:32p Stinkfist raises his glass of fine cognac on high, and drains it in one gulp.
+11/23/24 2:26:35p (Stinkfist cackles)
+11/23/24 2:26:51p Stinkfist is no longer Clanning.
+11/23/24 2:27:47p You have 1820 coins.
+11/23/24 2:27:59p * Your mental enhancement fades.
+11/23/24 2:28:28p Empat is now Clanning.
+11/23/24 2:28:31p Aurelie starts playing her lucky lyra.
+11/23/24 2:28:31p (Aurelie): "Knight of the Lyre" by Rakshasa
+11/23/24 2:29:02p Articuno asks, "cousin did ya ever get the long tail thingy?"
+11/23/24 2:29:07p You have 1820 coins.
+11/23/24 2:29:17p Shadow Dragon says, "3000-3249 Horus message... still no 3250."
+11/23/24 2:29:26p Cousin Jenny says, "woof"
+11/23/24 2:29:26p Aurelie exclaims, "Soon!"
+11/23/24 2:29:35p Aldor is no longer Clanning.
+11/23/24 2:29:39p Warawonda ponders, "but why though"
+11/23/24 2:29:42p Articuno says, "i dont tink boo has it either"
+11/23/24 2:29:47p Articuno says, "estetics"
+11/23/24 2:29:52p * Your mental enhancement fades.
+11/23/24 2:29:53p Aurelie ponders, "I mean... Shadow is my library horus xD"
+11/23/24 2:29:54p * Your mental enhancement fades.
+11/23/24 2:30:01p Shadowfire says, "Well"
+11/23/24 2:30:03p Shadowfire says, "I guess that's fair"
+11/23/24 2:30:07p Koppi yells, "X-share-X reports: Gnomes aren't real."
+11/23/24 2:30:23p Crius yells, "All welcome exile Empat to the lands -- Hail, Empat!"
+11/23/24 2:30:27p You have 1820 coins.
+11/23/24 2:31:10p Shadow Dragon is no longer Clanning.
+11/23/24 2:31:28p Aurelie starts playing her gitor.
+11/23/24 2:31:28p (Aurelie): "Reflection, Vision (Blue cover)" by Rakshasa
+11/23/24 2:31:47p You have 1820 coins.
+11/23/24 2:31:54p Empat is no longer Clanning.
+11/23/24 2:31:59p Warawonda asks in Sylvan, "ppp is that real new guy?"
+11/23/24 2:32:06p You are now speaking the common language.
+11/23/24 2:32:27p Perubnekar is now Clanning.
+11/23/24 2:32:42p Aurelie exclaims, "I think it's about time to sleep!"
+11/23/24 2:32:48p (Warawonda waves)
+11/23/24 2:32:49p Aurelie exclaims, "Oooo I like this song!"
+11/23/24 2:33:08p You have 1820 coins.
+11/23/24 2:34:28p You have 1820 coins.
+11/23/24 2:34:45p Cecil is now Clanning.
+11/23/24 2:34:47p Crius yells, "All welcome exile Perubnekar to the lands -- Hail, Perubnekar!"
+11/23/24 2:34:58p Sawyer is no longer Clanning.
+11/23/24 2:35:08p Aurelie says, "Alright."
+11/23/24 2:35:10p Cecil asks, "TC still under attack here and there?"
+11/23/24 2:35:14p Aurelie says, "Gonna take my sniffly self to bed."
+11/23/24 2:35:17p Warawonda asks, "?"
+11/23/24 2:35:18p Koppi yells, "Marcuese reports: Slimes and myrms requested URGENTLY for de-flea-ing the bathhouse after the defection of the traitor Loom'Nir."
+11/23/24 2:35:23p Aurelie exclaims, "Haven't seen any Dar'shak for a bit!"
+11/23/24 2:35:24p Reisa is now Clanning.
+11/23/24 2:35:26p (Warawonda waves)
+11/23/24 2:35:46p Warawonda ponders, "she never gonna leave :P"
+11/23/24 2:35:48p You have 1820 coins.
+11/23/24 2:36:01p Warawonda ponders, "im just waving like a fool"
+11/23/24 2:36:12p Perubnekar is no longer Clanning.
+11/23/24 2:37:08p You have 1820 coins.
+11/23/24 2:37:21p You equip your bronze breastplate.
+11/23/24 2:37:22p You equip your bronze helmet.
+11/23/24 2:37:23p You slip your cloak into your backpack.
+11/23/24 2:37:27p You equip your Staff of Ballou.
+11/23/24 2:37:39p * You grow more mindful.
+11/23/24 2:37:40p You slip your Staff of Ballou into your backpack.
+11/23/24 2:38:17p Garfield is now Clanning.
+11/23/24 2:38:28p You have 1820 coins.
+11/23/24 2:38:48p Nuckin Futz is now Clanning.
+11/23/24 2:38:55p Deathless is now Clanning.
+11/23/24 2:39:20p Olak the Miner says, "Greetings, Apprentice Warawonda."
+11/23/24 2:39:20p Olak the Miner says, "This tunnel is fragile."
+11/23/24 2:39:21p Olak the Miner says, "I can only let you in if you have a dwarven helmet."
+11/23/24 2:39:21p Olak the Miner says, "You can't trust any other kind."
+11/23/24 2:39:22p Olak the Miner exclaims, "Safety first!"
+11/23/24 2:39:22p Olak the Miner says, "Greetings, Apprentice Warawonda."
+11/23/24 2:39:23p Olak the Miner says, "This tunnel is fragile."
+11/23/24 2:39:23p Olak the Miner says, "I can only let you in if you have a dwarven helmet."
+11/23/24 2:39:23p Olak the Miner says, "You can't trust any other kind."
+11/23/24 2:39:24p Olak the Miner exclaims, "Safety first!"
+11/23/24 2:39:25p * Your mental enhancement fades.
+11/23/24 2:39:29p You equip your Staff of Ballou.
+11/23/24 2:39:34p You slip your Staff of Ballou into your backpack.
+11/23/24 2:39:44p Alok the Miner says, "Greetings, Apprentice Warawonda."
+11/23/24 2:39:45p Alok the Miner says, "The mine is open."
+11/23/24 2:39:45p Alok the Miner says, "Hard work is the key to any miner's success."
+11/23/24 2:39:45p Alok the Miner says, "The longer you work the more you can earn."
+11/23/24 2:39:46p Alok the Miner says, "Greetings, Apprentice Warawonda."
+11/23/24 2:39:46p Alok the Miner says, "The mine is open."
+11/23/24 2:39:47p Alok the Miner says, "Hard work is the key to any miner's success."
+11/23/24 2:39:47p Alok the Miner says, "The longer you work the more you can earn."
+11/23/24 2:39:49p You have 1820 coins.
+11/23/24 2:39:50p • /SLEEP when you wish to begin work.
+11/23/24 2:39:55p The copper seems firmly embedded in the wall.
+11/23/24 2:39:56p The copper seems firmly embedded in the wall.
+11/23/24 2:40:03p The copper seems firmly embedded in the wall.
+11/23/24 2:40:08p Kordia says, "Greetings, Lady Warawonda."
+11/23/24 2:40:08p Kordia says, "I hope you enjoy mining here."
+11/23/24 2:40:09p Kordia says, "The longer you work, the more you can earn."
+11/23/24 2:40:09p Kordia says, "Most people extract about 15c worth of copper each zodiac."
+11/23/24 2:40:09p Kordia says, "Hard work is the key to success."
+11/23/24 2:40:10p Kordia says, "But remember, learning is most effective when the knowledge is put to use."
+11/23/24 2:40:10p Kordia says, "Greetings, Lady Warawonda."
+11/23/24 2:40:11p Kordia says, "I hope you enjoy mining here."
+11/23/24 2:40:11p Kordia says, "The longer you work, the more you can earn."
+11/23/24 2:40:28p The copper seems firmly embedded in the wall.
+11/23/24 2:40:39p Alok the Miner says, "Greetings, Apprentice Warawonda."
+11/23/24 2:40:39p Alok the Miner says, "The mine is open."
+11/23/24 2:40:40p Alok the Miner says, "Hard work is the key to any miner's success."
+11/23/24 2:40:40p Alok the Miner says, "The longer you work the more you can earn."
+11/23/24 2:40:41p Alok the Miner says, "Greetings, Apprentice Warawonda."
+11/23/24 2:40:41p Alok the Miner says, "The mine is open."
+11/23/24 2:41:02p •You gain experience.
+11/23/24 2:41:09p You have 1820 coins.
+11/23/24 2:41:17p * Your mental enhancement fades.
+11/23/24 2:42:29p You have 1820 coins.
+11/23/24 2:42:43p You equip your Staff of Ballou.
+11/23/24 2:42:47p You slip your Staff of Ballou into your backpack.
+11/23/24 2:43:29p Hu Sanxing says in code, "The Sentinels are Ancient technology."
+11/23/24 2:43:29p Ald is now Clanning.
+11/23/24 2:43:29p Hu Sanxing says in code, "The Sentinels are Ancient technology."
+11/23/24 2:43:30p Hu Sanxing says in code, "The Sentinels are Ancient technology."
+11/23/24 2:43:49p You have 1820 coins.
+11/23/24 2:44:31p * Your mental enhancement fades.
+11/23/24 2:45:09p You have 1820 coins.
+11/23/24 2:45:15p You equip your Staff of Ballou.
+11/23/24 2:45:18p * You mentally enhance Hu Sanxing
+11/23/24 2:45:24p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+11/23/24 2:45:24p Warawonda has fallen to a Deadly Arachne.
+11/23/24 2:45:37p •The Sun sets.
+11/23/24 2:45:43p Aurelie thinks, "Praise the Moon!"
+11/23/24 2:45:46p Samagina is now Clanning.
+11/23/24 2:45:53p Shadowfire thinks, "Praise be to Cone Beast!"
+11/23/24 2:45:55p Cousin Jenny thinks, "Praise the Mewn"
+11/23/24 2:46:25p Arachnoid says, "Kthk-t'kel is found deep down where the rock grows warm."
+11/23/24 2:46:30p You have 1820 coins.
+11/23/24 2:46:31p Arachnoid says, "The Changed ones defend the deep places."
+11/23/24 2:46:46p Arachnoid says, "The Changed ones defend the deep places."
+11/23/24 2:46:51p Arachnoid says, "The other tribes fight for the cave south of here."
+11/23/24 2:47:03p * Your mental enhancement fades.
+11/23/24 2:47:18p Arachnoid says, "Beware the Changed ones...."
+11/23/24 2:47:29p Arachnoid says, "The rocks will speak to some who listen, deep below."
+11/23/24 2:47:37p Arachnoid says, "Beware the Changed ones...."
+11/23/24 2:47:47p Arachnoid says, "You should go back, the Kthk-t'kel is unhealthy to your kind."
+11/23/24 2:47:49p Arachnoid says, "Thk'ekl make fine weapons, if you've got the training."
+11/23/24 2:47:50p You have 1820 coins.
+11/23/24 2:47:50p Arachnoid says, "You should go back, the Kthk-t'kel is unhealthy to your kind."
+11/23/24 2:47:51p Arachnoid says, "Kthk-t'kel is found deep down where the rock grows warm."
+11/23/24 2:48:00p Haffron is now Clanning.
+11/23/24 2:48:09p Katreesa thinks, "sorry folks"
+11/23/24 2:48:20p Arachnoid says, "The Changed ones defend the deep places."
+11/23/24 2:48:21p Arachnoid says, "Beware the Changed ones...."
+11/23/24 2:48:26p Arachnoid says, "The Changed ones defend the deep places."
+11/23/24 2:48:27p Arachnoid says, "You should go back, the Kthk-t'kel is unhealthy to your kind."
+11/23/24 2:48:29p Samagina starts dragging you.
+11/23/24 2:48:34p Arachnoid says, "Thk'ekl make fine weapons, if you've got the training."
+11/23/24 2:48:35p Goldy is now Clanning.
+11/23/24 2:48:35p Arachnoid says, "The rocks will speak to some who listen, deep below."
+11/23/24 2:49:10p You have 1820 coins.
+11/23/24 2:49:49p Ald is no longer Clanning.
+11/23/24 2:50:00p Samagina vaults the wall.
+11/23/24 2:50:27p •You sense healing energy from Aurelie.
+11/23/24 2:50:30p You have 1820 coins.
+11/23/24 2:50:32p You begin sharing your experiences with Aurelie.
+11/23/24 2:50:38p Warawonda says, "thank you :)"
+11/23/24 2:50:41p Aurelie exclaims, "O'course!"
+11/23/24 2:50:43p (Shadowfire claps!)
+11/23/24 2:50:51p Koppi yells, "Stinkfist reports: Arr! Operation: Rainbow Diplomacy is totally going perfectly according to plan! Nothing to worry about! Yarr!"
+11/23/24 2:50:53p Sherman is now Clanning.
+11/23/24 2:51:07p Loom'Nir says, "Greetings, Lord Samagina."
+11/23/24 2:51:10p Sherman is no longer Clanning.
+11/23/24 2:51:12p Honor thinks, "Congratulations go out to Blorko, who has just passed the second circle fighter test."
+11/23/24 2:51:20p Aurelie says, "Blorko. What a name."
+11/23/24 2:51:23p Boo Boo Kitty thinks, "grats!"
+11/23/24 2:51:26p Samagina is no longer Clanning.
+11/23/24 2:51:40p Aurelie starts playing her violène.
+11/23/24 2:51:41p (Aurelie): The Myrkil'shin: Movement III - Children's Song
+11/23/24 2:51:50p You have 1820 coins.
+11/23/24 2:51:51p You equip your cloak named “royal purple”, which is in pretty good shape.
+11/23/24 2:51:59p Aurelie says, "Oh, I should write an obligatory song about rain."
+11/23/24 2:52:03p Aurelie says, "That's like...Bard 101"
+11/23/24 2:52:31p Warawonda ponders, "rain, rain, go away!"
+11/23/24 2:52:32p Blorko is no longer Clanning.
+11/23/24 2:52:45p Warawonda ponders, "the lyrics wright them selfs :P"
+11/23/24 2:53:03p (Aurelie giggles.)
+11/23/24 2:53:11p You have 1820 coins.
+11/23/24 2:53:11p Blonko is now Clanning.
+11/23/24 2:53:12p Greymyr is now Clanning.
+11/23/24 2:53:14p (Shadowfire claps!)
+11/23/24 2:53:20p Aurelie says, "Alright... for real this time."
+11/23/24 2:53:26p Aurelie says, "Sleep for the soggy sickly sylv an."
+11/23/24 2:53:26p Shadowfire says, "Sleep well! :}"
+11/23/24 2:53:28p Cousin Jenny says, "mew"
+11/23/24 2:53:29p Crius yells, "It’s 8 o’clock, and all’s well."
+11/23/24 2:53:31p Aurelie asks, "Any last minute song requests?"
+11/23/24 2:53:34p Crius yells, "It looks pretty quiet in the Eastern Mountains."
+11/23/24 2:53:34p Shadowfire says, "oof yeah get rest and hydrate"
+11/23/24 2:53:39p Shadowfire says, "Preferably in reverse order"
+11/23/24 2:53:45p Greymyr is no longer Clanning.
+11/23/24 2:53:46p (Aurelie giggles.)
+11/23/24 2:53:51p Shadowfire exclaims, "hmm... something sleep or cheerful!"
+11/23/24 2:53:54p Shadowfire says, "sleepy*"
+11/23/24 2:53:59p Shadowmutt scratches at the ground briefly.
+11/23/24 2:54:00p Aurelie says, "A good goodnight song."
+11/23/24 2:54:03p Aurelie starts playing her starbuck harp.
+11/23/24 2:54:03p (Aurelie): "Farewell" by Coriakin
+11/23/24 2:54:21p Xalaboo is now Clanning.
+11/23/24 2:54:31p You have 1820 coins.
+11/23/24 2:54:36p Valadorei ponders, "I'm stuck"
+11/23/24 2:54:42p Valadorei exclaims, "OH!"
+11/23/24 2:54:42p Aurelie ponders, "Oh?"
+11/23/24 2:54:48p (Aurelie smiles softly at Val.)
+11/23/24 2:55:01p Raul thinks, "c"
+11/23/24 2:55:06p Aurelie says, "G'night, Fire Mystic."
+11/23/24 2:55:07p Shadowfire says, "oho, good chooice"
+11/23/24 2:55:34p (Aurelie giggles at Val.)
+11/23/24 2:55:39p (Valadorei giggles.)
+11/23/24 2:55:50p Aurelie exclaims, "Good luck!"
+11/23/24 2:55:51p You have 1820 coins.
+11/23/24 2:56:00p Aurelie says, "You'll look really good in a golden belt."
+11/23/24 2:56:02p Koppi yells, "Maxtrax reports: Gnome news is good news"
+11/23/24 2:56:46p Aurelie says, "G'night, Shadow, my secret and much more muscular twin."
+11/23/24 2:56:53p Shadowfire says, "xD"
+11/23/24 2:56:55p Shadowfire says, "<3"
+11/23/24 2:57:11p You have 1820 coins.
+11/23/24 2:57:14p Lulin is now Clanning.
+11/23/24 2:57:26p Aurelie thinks, "G'night, puddlefriends!"
+11/23/24 2:57:31p La Caixa is now Clanning.
+11/23/24 2:57:37p Katreesa thinks, "goodnight Lovely"
+11/23/24 2:57:38p Shadowfire says, "I have BDO open at the same time as CL and sometimes I can't tell which game it's raining in"
+11/23/24 2:57:47p Sentinel yells, "Obey the Emperor's law, or be destroyed."
+11/23/24 2:57:49p • You hear Aurelie's music...
+11/23/24 2:57:49p Aurelie starts playing her lucky lyra.
+11/23/24 2:57:49p (Aurelie): "Drifting Away" by Coriakin
+11/23/24 2:58:10p Shadowfire yells, "In the name of the Cone!"
+11/23/24 2:58:18p La Caixa is no longer Clanning.
+11/23/24 2:58:19p Aurelie yells, "May her floofy paws guide us!"
+11/23/24 2:58:31p You have 1820 coins.
+11/23/24 2:58:34p Xalaboo is no longer Clanning.
+11/23/24 2:58:41p Aurelie is no longer Clanning.
+11/23/24 2:59:52p You have 1820 coins.
+11/23/24 3:01:12p You have 1820 coins.
+11/23/24 3:01:13p Koppi yells, "Marcuese reports: Slimes and myrms requested URGENTLY for de-flea-ing the bathhouse after the defection of the traitor Loom'Nir."
+11/23/24 3:02:32p You have 1820 coins.
+11/23/24 3:03:20p Hong Kong Fooey is now Clanning.
+11/23/24 3:03:42p Lil Elpur thinks, "thanks all, fun romp"
+11/23/24 3:03:44p Kwan'Yin thinks, "dead slave one south of temple"
+11/23/24 3:03:51p Inu Teisei thinks, "tanki"
+11/23/24 3:03:52p You have 1820 coins.
+11/23/24 3:04:03p Cousin Jenny thinks, "damn you drunk woodchopping"
+11/23/24 3:04:04p Boo Boo Kitty exclaims, "heya!"
+11/23/24 3:04:06p Nyarlathotep is no longer Clanning.
+11/23/24 3:04:09p Katreesa thinks, "no xs"
+11/23/24 3:04:35p Inu Teisei thinks, "tanki"
+11/23/24 3:04:40p (Inu Teisei waves)
+11/23/24 3:04:42p Katreesa thinks, "thanks all <3"
+11/23/24 3:04:44p Boo Boo Kitty yells, "nite!"
+11/23/24 3:04:46p (Lil Elpur giggles)
+11/23/24 3:05:05p Shadowmutt growls, "Grrr."
+11/23/24 3:05:07p Lil Elpur is no longer Clanning.
+11/23/24 3:05:12p You have 1820 coins.
+11/23/24 3:05:13p Katreesa says, "outta water brb"
+11/23/24 3:05:17p Shadowmutt growls, "Woof!"
+11/23/24 3:05:17p Tas yells, "rootbeer!"
+11/23/24 3:05:18p Shadowmutt growls, "Grrr."
+11/23/24 3:05:32p Connie Crete says, "glad we succeeded. I never plan on that."
+11/23/24 3:05:40p (Klur smiles)
+11/23/24 3:05:43p Kwan'Yin asks, "Does anyone need the smith?"
+11/23/24 3:05:48p Shadowmutt growls, "Grrr."
+11/23/24 3:05:48p (Abox must get cash to use the special library)
+11/23/24 3:05:48p Connie Crete yells, "beer!"
+11/23/24 3:06:03p Kwan'Yin says, "Thanks all"
+11/23/24 3:06:07p Kwan'Yin says, "Fun mosey"
+11/23/24 3:06:09p Azzurra says, "fun hunt :)"
+11/23/24 3:06:20p Thistle exclaims, "It was!"
+11/23/24 3:06:23p Connie Crete is no longer Clanning.
+11/23/24 3:06:24p Koppi yells, "Stinkfist reports: Arr! Operation: Rainbow Diplomacy is totally going perfectly according to plan! Nothing to worry about! Yarr!"
+11/23/24 3:06:32p (Klur waves)
+11/23/24 3:06:33p You have 1820 coins.
+11/23/24 3:06:33p (Tas waves)
+11/23/24 3:06:43p Kwan'Yin is no longer Clanning.
+11/23/24 3:06:51p Klur is no longer Clanning.
+11/23/24 3:06:53p (Azzurra looks at Thistle)
+11/23/24 3:06:59p Azzurra says, "I could never get used to this"
+11/23/24 3:07:00p Ebony is no longer Clanning.
+11/23/24 3:07:02p Hong Kong Fooey is no longer Clanning.
+11/23/24 3:07:03p Inu Teisei is no longer Clanning.
+11/23/24 3:07:09p Thistle asks, "To da rain?"
+11/23/24 3:07:10p Goldy is no longer Clanning.
+11/23/24 3:07:10p Lulin is no longer Clanning.
+11/23/24 3:07:16p Tas is no longer Clanning.
+11/23/24 3:07:24p Azzurra exclaims, "nah your looks!"
+11/23/24 3:07:25p Katreesa says, "yay I beat the dizzy spell back to my seat"
+11/23/24 3:07:35p Haffron says, ":/"
+11/23/24 3:07:40p Azzurra says, "dwarf Thistle is just not the same hehe"
+11/23/24 3:07:42p Valadorei says, "Ma'ta Thistle you look like yourself pretending to be Manqy pretending to be Connie."
+11/23/24 3:07:46p Thistle says, "I find it difficult to make quick turns witout a tail"
+11/23/24 3:07:47p Abox says, "someone's protector had a hard time keeping track"
+11/23/24 3:07:53p You have 1820 coins.
+11/23/24 3:07:57p Haffron says, "Vala has that on point"
+11/23/24 3:07:57p (Abox's ears flick)
+11/23/24 3:08:07p Haffron says, "Thistle you do look like Manq dresed up like Connie"
+11/23/24 3:08:10p Crius yells, "It’s 9 o’clock, and all’s well."
+11/23/24 3:08:14p Crius yells, "There’s good hunting under the East Field."
+11/23/24 3:08:17p Thistle says, "Tank you, Haffron"
+11/23/24 3:08:29p Azzurra exclaims, "well all its about bed time for me!"
+11/23/24 3:08:34p (Warawonda waves)
+11/23/24 3:08:43p (Katreesa waves)
+11/23/24 3:08:50p Kwan'Yin is now Clanning.
+11/23/24 3:09:02p Shadowmutt growls, "Grrr."
+11/23/24 3:09:13p You have 1820 coins.
+11/23/24 3:09:18p Azzurra is no longer Clanning.
+11/23/24 3:09:54p Onya is now Clanning.
+11/23/24 3:10:08p Shadowmutt growls, "Grrr."
+11/23/24 3:10:14p Kwan'Yin ponders, "still not 1K yet.. any day now"
+11/23/24 3:10:18p Seaforth is no longer Clanning.
+11/23/24 3:10:25p Kwan'Yin is no longer Clanning.
+11/23/24 3:10:25p Omjithar is now Clanning.
+11/23/24 3:10:33p You slip your cloak into your backpack.
+11/23/24 3:10:33p You have 1820 coins.
+11/23/24 3:10:42p Omjithar is no longer Clanning.
+11/23/24 3:10:56p Lion-O is now Clanning.
+11/23/24 3:11:35p Koppi yells, "Balangar reports: Pet patrol gathering on tuesday, see https://discord.com/channels/270291133798547456/654474030023180290/1308167523153481728 for details."
+11/23/24 3:11:53p You have 1820 coins.
+11/23/24 3:12:02p Lion-O is no longer Clanning.
+11/23/24 3:12:02p Thistle says in People, "I am sorry to give you more trouble dan usual, dear Abox"
+11/23/24 3:12:17p Tsune is now Clanning.
+11/23/24 3:12:19p Abox says in People, "It was not very much harder after the first few minutes"
+11/23/24 3:12:34p Thistle says in People, "Dat is good to hear"
+11/23/24 3:12:36p Abox asks in People, "Do you stay in the very expensive library this night?"
+11/23/24 3:12:46p Thistle asks in People, "I do. And you?"
+11/23/24 3:12:49p (Abox nods)
+11/23/24 3:12:59p (Abox offers Thistle his hand)
+11/23/24 3:13:14p You have 1820 coins.
+11/23/24 3:13:17p Decree is now Clanning.
+11/23/24 3:13:17p (Thistle puts her hand in Abox's)
+11/23/24 3:13:31p Decree is no longer Clanning.
+11/23/24 3:13:39p Abox says in People, "If you are ready to study, we can go there"
+11/23/24 3:13:44p (Thistle nods)
+11/23/24 3:13:47p Joolup is now Clanning.
+11/23/24 3:14:00p Joolup is no longer Clanning.
+11/23/24 3:14:08p Brandy is now Clanning.
+11/23/24 3:14:21p Brandy is no longer Clanning.
+11/23/24 3:14:34p You have 1820 coins.
+11/23/24 3:14:56p Valadorei says, "Oooooh... I should take a short break."
+11/23/24 3:15:11p (Warawonda waves)
+11/23/24 3:15:12p (Valadorei waves)
+11/23/24 3:15:16p Shadowmutt growls, "Woof!"
+11/23/24 3:15:34p Warawonda asks, "what type of monster is that?"
+11/23/24 3:15:36p Valadorei is no longer Clanning.
+11/23/24 3:15:39p Abox is no longer Clanning.
+11/23/24 3:15:40p Thistle is no longer Clanning.
+11/23/24 3:15:42p Katreesa says, "Jack o liche"
+11/23/24 3:15:48p Warawonda says, "heh nice"
+11/23/24 3:15:54p You have 1820 coins.
+11/23/24 3:15:58p Katreesa says, "It's from Ash"
+11/23/24 3:16:06p Warawonda asks, "the new ash?"
+11/23/24 3:16:25p Katreesa says, "the far east section of ash near all the pumpkins"
+11/23/24 3:16:39p Katreesa says, "I have no idea which section is new"
+11/23/24 3:16:46p Koppi yells, "Marcuese reports: Slimes and myrms requested URGENTLY for de-flea-ing the bathhouse after the defection of the traitor Loom'Nir."
+11/23/24 3:16:53p Warawonda says, "to me it all is :P"
+11/23/24 3:16:57p Katreesa says, ":)"
+11/23/24 3:17:14p Katreesa thinks, "anyone helping Raul?"
+11/23/24 3:17:14p You have 1820 coins.
+11/23/24 3:17:34p Tsune thinks, "maybe"
+11/23/24 3:17:48p Katreesa thinks, "let us know if you need help. :)"
+11/23/24 3:18:34p You have 1820 coins.
+11/23/24 3:19:55p You have 1820 coins.
+11/23/24 3:20:01p Warawonda ponders, "where is squib"
+11/23/24 3:20:12p Katreesa says, "oh, I hid him in temple earlier"
+11/23/24 3:20:18p Katreesa says, "not sure where he is now"
+11/23/24 3:20:26p Katreesa says, "there was an invasion earlier"
+11/23/24 3:21:02p Katreesa says, "he's not in there"
+11/23/24 3:21:07p Warawonda ponders, "odd"
+11/23/24 3:21:15p You have 1820 coins.
+11/23/24 3:21:16p Katreesa says, "someone hid him even better I guess"
+11/23/24 3:21:57p Koppi yells, "Stinkfist reports: Arr, I heard it was a spider who imprisoned the gnomes! How dare the Darshak do this!?!"
+11/23/24 3:22:35p You have 1820 coins.
+11/23/24 3:22:39p Katreesa says, "Squib walk west"
+11/23/24 3:22:41p Katreesa says, "Squib walk west"
+11/23/24 3:22:43p Katreesa says, "Squib walk west"
+11/23/24 3:22:45p Katreesa says, "Squib walk west"
+11/23/24 3:22:47p Katreesa says, "Squib walk west"
+11/23/24 3:22:48p Crius yells, "It’s 10 o’clock, and all’s well."
+11/23/24 3:22:50p Katreesa says, "Squib walk west"
+11/23/24 3:22:59p Katreesa says, "was just in library"
+11/23/24 3:23:01p Warawonda says, "squib run nw"
+11/23/24 3:23:06p Warawonda says, "squib run s"
+11/23/24 3:23:16p Warawonda says, ":)"
+11/23/24 3:23:36p Musashi is now Clanning.
+11/23/24 3:23:50p (Warawonda waves)
+11/23/24 3:23:50p Honor thinks, "Congratulations go out to Blonko, who has just passed the second circle fighter test."
+11/23/24 3:23:55p You have 1820 coins.
+11/23/24 3:23:58p Katreesa thinks, "grats"
+11/23/24 3:24:01p Warawonda thinks, "congratz"
+11/23/24 3:24:12p Musashi picks up an iron shield.
+11/23/24 3:24:19p Musashi repairs an iron shield.
+11/23/24 3:24:27p Warawonda says, "squib heal raul"
+11/23/24 3:24:38p Katreesa picks up an iron shield.
+11/23/24 3:24:52p Warawonda ponders, "i should get a shield"
+11/23/24 3:24:56p Musashi is no longer Clanning.
+11/23/24 3:25:03p HushWing is now Clanning.
+11/23/24 3:25:08p Raul says, "squib heal me"
+11/23/24 3:25:13p Blonko is no longer Clanning.
+11/23/24 3:25:15p You have 1820 coins.
+11/23/24 3:25:16p Samagina is now Clanning.
+11/23/24 3:25:45p HushWing is no longer Clanning.
+11/23/24 3:26:03p Onya is no longer Clanning.
+11/23/24 3:26:17p Markus is now Clanning.
+11/23/24 3:26:22p • Samagina offers you a wooden shield for free.
+11/23/24 3:26:22p To accept, \BUY 0 Samagina.
+11/23/24 3:26:29p Samagina hands you a wooden shield.
+11/23/24 3:26:34p You equip your wooden shield.
+11/23/24 3:26:36p You have 1820 coins.
+11/23/24 3:26:47p Samagina is no longer Clanning.
+11/23/24 3:27:07p Hashak is no longer Clanning.
+11/23/24 3:27:08p Koppi yells, "Stinkfist reports: Arr, I heard it was a spider who imprisoned the gnomes! How dare the Darshak do this!?!"
+11/23/24 3:27:10p Smashak is now Clanning.
+11/23/24 3:27:16p Cousin Jenny says, "me"
+11/23/24 3:27:19p Cousin Jenny says, "eew"
+11/23/24 3:27:19p * You mentally enhance Cousin Jenny
+11/23/24 3:27:19p * You mentally enhance Shadowfire
+11/23/24 3:27:19p * You mentally enhance Haffron
+11/23/24 3:27:20p * You mentally enhance Boo Boo Kitty
+11/23/24 3:27:20p * You mentally enhance Squib
+11/23/24 3:27:20p * You mentally enhance Tsune
+11/23/24 3:27:20p * You mentally enhance Raul
+11/23/24 3:27:21p * You mentally enhance Articuno
+11/23/24 3:27:21p * You mentally enhance Katreesa
+11/23/24 3:27:30p (Shadowfire inclines her head in greeting.)
+11/23/24 3:27:56p You have 1820 coins.
+11/23/24 3:28:49p Shadowfire says, "lol kat"
+11/23/24 3:29:06p * Your mental enhancement fades.
+11/23/24 3:29:07p Warawonda ponders, "shes a deadly killing machine"
+11/23/24 3:29:16p Smashak is no longer Clanning.
+11/23/24 3:29:16p You have 1820 coins.
+11/23/24 3:29:22p Katreesa says, "and I attack with my eyes"
+11/23/24 3:29:41p Warawonda ponders, "hehe"
+11/23/24 3:29:50p Articuno says, "ya mean ya kill with your good looks"
+11/23/24 3:30:01p Hariotte is no longer Clanning.
+11/23/24 3:30:13p Katreesa says, "wish I had good looks"
+11/23/24 3:30:36p You have 1820 coins.
+11/23/24 3:30:45p Katreesa says, "then again, no, I don't"
+11/23/24 3:31:05p Warawonda ponders, "hmm"
+11/23/24 3:31:13p Tsune is no longer Clanning.
+11/23/24 3:31:33p Shadowmutt growls, "Grrr."
+11/23/24 3:31:51p Katreesa says, "hiya"
+11/23/24 3:31:54p Tasus says, "Heyaas"
+11/23/24 3:31:55p Katreesa says, ":)"
+11/23/24 3:31:56p You have 1820 coins.
+11/23/24 3:32:09p Boo Boo Kitty is no longer Clanning.
+11/23/24 3:32:19p Koppi yells, "Marcuese reports: Slimes and myrms requested URGENTLY for de-flea-ing the bathhouse after the defection of the traitor Loom'Nir."
+11/23/24 3:32:35p Haffron is no longer Clanning.
+11/23/24 3:33:09p Shadowmutt growls, "Grrr."
+11/23/24 3:33:17p You have 1820 coins.
+11/23/24 3:33:22p Shadowfire exclaims, "##*%!"
+11/23/24 3:33:29p Katreesa asks, "?"
+11/23/24 3:33:33p Warawonda says, "it was raul"
+11/23/24 3:33:38p Shadowfire says, "I was in a hurry yesterday"
+11/23/24 3:33:48p Shadowfire says, "And the milk I bought's sell-by date was the 20th"
+11/23/24 3:34:00p Katreesa says, "oh crap"
+11/23/24 3:34:07p Shadowfire says, "It's probably fine today but it's already at the 'starting to go bad' territory"
+11/23/24 3:34:12p Shadowfire says, "And I am very irritated about it"
+11/23/24 3:34:18p Katreesa says, "that sucks"
+11/23/24 3:34:37p You have 1820 coins.
+11/23/24 3:34:52p Warawonda ponders, "that sucks"
+11/23/24 3:34:56p Markus is no longer Clanning.
+11/23/24 3:35:12p Warawonda ponders, "oh kat already said that :P"
+11/23/24 3:35:34p Katreesa says, "You can comment on the suckatude of it too"
+11/23/24 3:35:37p Shadowfire says, "plus side"
+11/23/24 3:35:39p Katreesa says, "I don't own it"
+11/23/24 3:35:44p Katreesa says, ":)"
+11/23/24 3:35:45p Shadowfire says, "they sold it to me after the sell-by"
+11/23/24 3:35:52p Shadowfire says, "So I can take it back and exchange it"
+11/23/24 3:35:57p You have 1820 coins.
+11/23/24 3:36:02p Katreesa says, "oh, not great for them"
+11/23/24 3:36:31p Shadowfire says, "And they're unlikely to argue with me over it"
+11/23/24 3:36:46p Shadowfire says, "Since I can prove everything"
+11/23/24 3:36:46p Katreesa says, "guess it would be hard to monitor all the sell by dates in a store."
+11/23/24 3:36:59p Shadowfire says, "Yeah I'm not super mad at them, just the situation"
+11/23/24 3:37:05p (Katreesa nods)
+11/23/24 3:37:06p Kahn St'ple nods and smiles at Squib.
+11/23/24 3:37:08p (Squib's eyes light up hopefully)
+11/23/24 3:37:12p Pun'isher is now Clanning.
+11/23/24 3:37:17p You have 1820 coins.
+11/23/24 3:37:25p Crius yells, "It’s 11 o’clock, and all’s well."
+11/23/24 3:37:30p Koppi yells, "Balangar reports: Pet patrol gathering on tuesday, see https://discord.com/channels/270291133798547456/654474030023180290/1308167523153481728 for details."
+11/23/24 3:37:30p Crius yells, "It looks pretty quiet in a Windspinner Monastery."
+11/23/24 3:38:37p You have 1820 coins.
+11/23/24 3:38:45p Pun'isher says, "wow Kat"
+11/23/24 3:38:46p Cousin Jenny says, "mew"
+11/23/24 3:38:48p Pun'isher says, "thats a new look"
+11/23/24 3:38:54p Shadowfire says, "What an absolute pumpkin"
+11/23/24 3:39:00p Pun'isher says, "hehe"
+11/23/24 3:39:00p Katreesa says, "I'd grin, but I don't have a bottom jaw"
+11/23/24 3:39:02p Warawonda says, "looks good :)"
+11/23/24 3:39:14p Pun'isher says, "ah thats what that special nuance was"
+11/23/24 3:39:16p Warawonda ponders, "looks to kill :P"
+11/23/24 3:39:18p Shadowfire says, "She's gourdeous"
+11/23/24 3:39:28p Katreesa says, "hehe"
+11/23/24 3:39:38p Shadowfire says, "Oh come on that one was physically painful"
+11/23/24 3:39:41p Katreesa says, "my eyes are lethal"
+11/23/24 3:39:46p Shadowfire says, "xD"
+11/23/24 3:39:58p You have 1820 coins.
+11/23/24 3:39:58p Katreesa says, "that was a good one"
+11/23/24 3:40:04p Katreesa says, ":)"
+11/23/24 3:40:40p Katreesa says, "brb"
+11/23/24 3:40:56p Shadowfire says, "I am also once again slightly annoyed by My Love Story with Yamada-kun at L.999"
+11/23/24 3:41:05p Valadorei is now Clanning.
+11/23/24 3:41:11p Shadowfire says, "Because at no point in the story does anyone get to L999"
+11/23/24 3:41:18p You have 1820 coins.
+11/23/24 3:41:29p Warawonda ponders, "oh"
+11/23/24 3:41:40p Shadowfire says, "I realize this is a churlish thing to be annoyed about in a shojou anime"
+11/23/24 3:42:15p Warawonda ponders, "i dont think so"
+11/23/24 3:42:38p You have 1820 coins.
+11/23/24 3:42:41p Koppi yells, "Maxtrax reports: Gnome news is good news"
+11/23/24 3:42:56p Valadorei exclaims, "Hi Pun!"
+11/23/24 3:43:22p Shadowfire says, "I mean I know the genre is about romance"
+11/23/24 3:43:36p Shadowfire says, "But if you're going to make your romance anime center around an MMO"
+11/23/24 3:43:43p Shadowfire says, "You need to follow through on the MMO premise"
+11/23/24 3:43:58p Cousin Jenny asks, "Chicken hunting tonight?"
+11/23/24 3:43:58p You have 1820 coins.
+11/23/24 3:43:59p MysticalHealer is now Clanning.
+11/23/24 3:44:12p Cousin Jenny asks, "mr pollo?"
+11/23/24 3:44:27p Cousin Jenny asks, "or are you too chicken?"
+11/23/24 3:44:32p Valadorei says, "Los Pollos Hermanos"
+11/23/24 3:44:39p Warawonda says, "yeah rules are rules unless there anime"
+11/23/24 3:44:40p Pun'isher says, "hah"
+11/23/24 3:44:42p Articuno says, "aye im huntin"
+11/23/24 3:44:44p Warawonda says, ":P"
+11/23/24 3:44:51p Shadowfire says, "Will need a moment longer than the usual time, turkey event boss in BDO spawning at 2145"
+11/23/24 3:44:52p Lorikeet is now Clanning.
+11/23/24 3:45:00p MysticalHealer is no longer Clanning.
+11/23/24 3:45:01p Pun'isher says, "ooh"
+11/23/24 3:45:05p Shadowfire says, "And unfortunately there are 4 stages I have to have tags on"
+11/23/24 3:45:06p Cousin Jenny asks, "the what now?"
+11/23/24 3:45:14p Osha Hornblow'r is now Clanning.
+11/23/24 3:45:17p Katreesa says, "ok back"
+11/23/24 3:45:18p You have 1820 coins.
+11/23/24 3:45:25p (Osha Hornblow'r waves)
+11/23/24 3:45:27p (Valadorei waves)
+11/23/24 3:45:28p Cousin Jenny says, "sometng about turkies"
+11/23/24 3:45:30p (Katreesa waves)
+11/23/24 3:45:30p (Warawonda waves)
+11/23/24 3:45:32p Pun'isher exclaims, "howdy!"
+11/23/24 3:45:42p Katreesa says, "a boss in another game she plays"
+11/23/24 3:45:47p Cousin Jenny says, "oh"
+11/23/24 3:45:55p Katreesa says, "she needs a moment longer"
+11/23/24 3:45:57p Pun'isher asks, "3 h 1m and shadow?"
+11/23/24 3:45:59p Cousin Jenny asks, "pabo escobar?"
+11/23/24 3:46:01p Katreesa says, "Hiya Lori"
+11/23/24 3:46:05p Katreesa says, "BDO"
+11/23/24 3:46:15p Warawonda says, "black desrt online'"
+11/23/24 3:46:19p Cousin Jenny says, "eeew"
+11/23/24 3:46:20p (Katreesa nods)
+11/23/24 3:46:31p Cousin Jenny says, "another time sink"
+11/23/24 3:46:36p Warawonda ponders, "very fancy and grindy"
+11/23/24 3:46:36p Katreesa says, "couldn't get past my character being in heels and walking in sand"
+11/23/24 3:46:39p You have 1820 coins.
+11/23/24 3:46:45p Osha Hornblow'r says, "heh"
+11/23/24 3:46:52p Cousin Jenny says, "Just had a stint playing satisfactory"
+11/23/24 3:46:57p Shadowfire says, "I have done this"
+11/23/24 3:47:01p Cousin Jenny says, "talk about time sink"
+11/23/24 3:47:04p Katreesa says, "They'd sink"
+11/23/24 3:47:06p Shadowfire exclaims, "it is not trivially easy but not impossible!"
+11/23/24 3:47:06p Lorikeet asks, "Shall we go to OP?"
+11/23/24 3:47:09p Katreesa says, "heh"
+11/23/24 3:47:09p Ramandu is now Clanning.
+11/23/24 3:47:14p Cousin Jenny yells, "Toads!"
+11/23/24 3:47:17p You begin sharing your experiences with Lorikeet.
+11/23/24 3:47:31p * Your mental enhancement fades.
+11/23/24 3:47:38p Prithvi is now Clanning.
+11/23/24 3:47:59p You have 1820 coins.
+11/23/24 3:48:05p Cousin Jenny asks, "wasp for art?"
+11/23/24 3:48:09p Articuno says, "aye"
+11/23/24 3:48:13p Raul is sharing experiences with you.
+11/23/24 3:48:15p Valadorei exclaims, "I wasn't fat enough!"
+11/23/24 3:48:20p Lorikeet says, "Need to split one share for two mystics"
+11/23/24 3:48:20p Valadorei says, "Fast even"
+11/23/24 3:48:21p Cousin Jenny says, "Can i try to lasty lizard or two pls"
+11/23/24 3:48:22p You begin sharing your experiences with Katreesa.
+11/23/24 3:48:22p You are sharing experiences with Katreesa and Lorikeet.
+11/23/24 3:48:25p Ramandu says, "Just keep eating, you'll get there one day"
+11/23/24 3:48:26p You begin sharing your experiences with Tasus.
+11/23/24 3:48:26p You are sharing experiences with Tasus, Katreesa and Lorikeet.
+11/23/24 3:48:30p Ramandu exclaims, "I believe in you!"
+11/23/24 3:48:30p Cousin Jenny says, "for moves"
+11/23/24 3:48:41p Cousin Jenny exclaims, "oh the pollo lives!"
+11/23/24 3:48:41p Shadowfire says, "A giant turkey is attempting to scream me to death and my connection is apparently doing weird things"
+11/23/24 3:48:47p Lorikeet says, "Jennym, Pun Raul share Warawonda"
+11/23/24 3:48:48p Katreesa says, "awww"
+11/23/24 3:48:54p Ramandu says, "Hi Punny"
+11/23/24 3:48:56p Lorikeet says, "Art Ram Sho share Vala"
+11/23/24 3:48:57p Cousin Jenny is sharing experiences with you.
+11/23/24 3:49:03p Pun'isher is sharing experiences with you.
+11/23/24 3:49:04p Ramandu says, "Yes ma'am"
+11/23/24 3:49:05p Pun'isher growls, "set"
+11/23/24 3:49:05p Cousin Jenny is no longer sharing experiences with you.
+11/23/24 3:49:07p Lorikeet says, "oh Osha share either"
+11/23/24 3:49:08p Tasus is sharing experiences with you.
+11/23/24 3:49:09p Shobaffum says, "set"
+11/23/24 3:49:12p Pun'isher growls, "strangely so"
+11/23/24 3:49:13p Katreesa says, "nice"
+11/23/24 3:49:19p You have 1820 coins.
+11/23/24 3:49:19p Lorikeet says, "Severyone share Shadow, tasus me and kat"
+11/23/24 3:49:21p * You mentally enhance Lorikeet
+11/23/24 3:49:21p * You mentally enhance Cousin Jenny
+11/23/24 3:49:21p * You mentally enhance Articuno
+11/23/24 3:49:21p * You mentally enhance Ramandu
+11/23/24 3:49:21p * You mentally enhance Valadorei
+11/23/24 3:49:21p * You mentally enhance Katreesa
+11/23/24 3:49:21p * You mentally enhance Tasus
+11/23/24 3:49:21p * You mentally enhance Shadowfire
+11/23/24 3:49:21p Katreesa says, "dead ponies are the best"
+11/23/24 3:49:33p Valadorei is sharing experiences with you.
+11/23/24 3:49:46p Ramandu growls, "MBs, lizards... anything else here?"
+11/23/24 3:49:46p * Articuno recovers the Mountain Bison fur, worth 7c. Your share is 1c.
+11/23/24 3:49:49p Cousin Jenny yells, "Toads wasp lasts and Lizard for mvoes pls"
+11/23/24 3:49:51p Pun'isher yells, "lasty mb"
+11/23/24 3:49:52p Articuno growls, "wasp toads"
+11/23/24 3:49:57p * Articuno recovers the Sky Bison fur, worth 101c. Your share is 10c.
+11/23/24 3:49:58p Pun'isher growls, "oh slizards?"
+11/23/24 3:50:01p Ramandu growls, "MBs, lizards, toads, wasps"
+11/23/24 3:50:04p Cousin Jenny says, "trying moves"
+11/23/24 3:50:08p Pun'isher growls, "the green onees?"
+11/23/24 3:50:09p (Ramandu writes it down on his hand)
+11/23/24 3:50:14p Katreesa says, "and now my dog wants out"
+11/23/24 3:50:16p Shobaffum says, "that one"
+11/23/24 3:50:16p Cousin Jenny says, "yeah the ones with long tails Pun"
+11/23/24 3:50:20p Pun'isher growls, "with a sharp letteropener"
+11/23/24 3:50:21p Cousin Jenny says, "like that one over there"
+11/23/24 3:50:23p Valadorei exclaims, "You don't have any hands!"
+11/23/24 3:50:23p Lorikeet says, "Good doggy timing"
+11/23/24 3:50:26p Ramandu growls, "Lasty lizard"
+11/23/24 3:50:27p Katreesa says, "heh"
+11/23/24 3:50:30p (Pun'isher watches beads of sweat collect on Rammy)
+11/23/24 3:50:32p Katreesa says, "will catch up"
+11/23/24 3:50:39p You have 1831 coins.
+11/23/24 3:50:45p Lorikeet asks, "mystics have Akea boosts?"
+11/23/24 3:50:46p Pun'isher growls, "the one that looks like an alligator?"
+11/23/24 3:50:47p (Ramandu gives himself a hand)
+11/23/24 3:50:51p Ramandu ponders, "/pose bow"
+11/23/24 3:50:52p Shobaffum exclaims, "double atkus boost!"
+11/23/24 3:50:53p Pun'isher growls, "that one?"
+11/23/24 3:50:57p Shadowfire says, "oh"
+11/23/24 3:50:58p Shadowfire says, "shiot"
+11/23/24 3:50:59p Ramandu growls, "Oop"
+11/23/24 3:51:01p (Ramandu chuckles)
+11/23/24 3:51:03p Lorikeet says, "So much for that"
+11/23/24 3:51:04p Shadowfire says, "I forgot"
+11/23/24 3:51:04p Shobaffum says, "NM"
+11/23/24 3:51:05p Cousin Jenny says, "pabo ecobar"
+11/23/24 3:51:06p * Your mental enhancement fades.
+11/23/24 3:51:16p Ramandu growls, "I'm finally awake after my nap earlier"
+11/23/24 3:51:20p Shadowfire says, "We could do snowy or bridge"
+11/23/24 3:51:24p Cousin Jenny says, "it was like two seconda ago shad"
+11/23/24 3:51:26p Warawonda says, "i only have balance"
+11/23/24 3:51:40p (Ramandu is fine with either)
+11/23/24 3:51:48p Valadorei asks, "Well if you didn't wake up would it still be a nap?"
+11/23/24 3:51:49p Shadowfire says, "I was busy fighting a giant turkey who was trying to scream me to death while my internet connection was unstable"
+11/23/24 3:51:53p (Ramandu laughs)
+11/23/24 3:51:57p Katreesa says, "ok, dog just wanted a treat from my sister in the kitchen so nevermind"
+11/23/24 3:51:59p You have 1831 coins.
+11/23/24 3:52:00p Ramandu growls, "Is that a euphemism for something?"
+11/23/24 3:52:01p (Pun'isher goes where all the cool exiles go)
+11/23/24 3:52:04p Lorikeet says, "=)"
+11/23/24 3:52:04p • It’s Midnight on Gradi, the 47th day of Summer in the 639th year of the Ascendancy, and all’s well.
+11/23/24 3:52:12p * You mentally enhance Valadorei
+11/23/24 3:52:12p * You mentally enhance Tasus
+11/23/24 3:52:12p * You mentally enhance Lorikeet
+11/23/24 3:52:12p * You mentally enhance Ramandu
+11/23/24 3:52:12p * You mentally enhance Articuno
+11/23/24 3:52:12p * You mentally enhance Shobaffum
+11/23/24 3:52:12p * You mentally enhance Cousin Jenny
+11/23/24 3:52:12p * You mentally enhance Shadowfire
+11/23/24 3:52:12p * You mentally enhance Raul
+11/23/24 3:52:12p * You mentally enhance Pun'isher
+11/23/24 3:52:12p * You mentally enhance Katreesa
+11/23/24 3:52:13p * Ramandu recovers the Wild Stallion fur, worth 27c. Your share is 3c.
+11/23/24 3:52:17p Shadowfire says, "strangely enough no"
+11/23/24 3:52:18p Prithvi thinks, "hail"
+11/23/24 3:52:19p Katreesa says, "dog has gotten too chubby and is on diet now"
+11/23/24 3:52:22p Ramandu growls, "Huh"
+11/23/24 3:52:24p Shadowfire says, "I really do mean exactly what it says on the tin"
+11/23/24 3:52:27p Ramandu growls, "Evil turkeys"
+11/23/24 3:52:33p Warawonda says, "poor baby"
+11/23/24 3:52:37p Shobaffum says, "i vote snowy"
+11/23/24 3:52:41p Shobaffum says, "jsut like it better"
+11/23/24 3:52:43p Katreesa says, "arthritic dog"
+11/23/24 3:52:44p Shobaffum says, "just"
+11/23/24 3:52:53p Ramandu growls, "Sure, snowy then"
+11/23/24 3:52:57p * Your mental enhancement fades.
+11/23/24 3:53:02p Shadowfire says, "ok I see snowuy"
+11/23/24 3:53:02p Tasus says, "Someone ss me where we going, wings just arivveddd (not myself)"
+11/23/24 3:53:08p You begin sharing your experiences with Valadorei.
+11/23/24 3:53:08p You are sharing experiences with Valadorei, Tasus, Katreesa and Lorikeet.
+11/23/24 3:53:13p Shadowfire yells, "Gather south!"
+11/23/24 3:53:20p You have 1834 coins.
+11/23/24 3:53:25p Cousin Jenny yells, "LastsToads MB Wasp Giant LIzards"
+11/23/24 3:53:42p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+11/23/24 3:53:42p Warawonda has fallen to a Shadowcat Huntress.
+11/23/24 3:53:45p Pun'isher growls, "in that weird space where I dont know if its allergies, a cold, or something else"
+11/23/24 3:53:46p Valadorei has fallen to a Shadowcat Huntress.
+11/23/24 3:53:49p * Articuno recovers the Shadowcat Huntress fur, worth 31c. Your share is 4c.
+11/23/24 3:53:49p * Ramandu recovers the Shadowcat Huntress fur, worth 34c. Your share is 5c.
+11/23/24 3:53:56p Warawonda ponders, "damm these clouds"
+11/23/24 3:53:57p * Your mental enhancement fades.
+11/23/24 3:54:03p •You sense healing energy from Katreesa.
+11/23/24 3:54:04p Valadorei is no longer fallen.
+11/23/24 3:54:10p Ramandu growls, "We mist that huntress in the clouds"
+11/23/24 3:54:16p Shadowfire thinks, "s pls"
+11/23/24 3:54:39p •You sense healing energy from Katreesa.
+11/23/24 3:54:40p You have 1843 coins.
+11/23/24 3:54:48p Shadowfire says, "this one I won't murder"
+11/23/24 3:54:49p Pun'isher yells, "lasty gator"
+11/23/24 3:54:54p Pun'isher growls, "haha"
+11/23/24 3:54:57p Ramandu says, "You'll just send it to a farm upstate"
+11/23/24 3:55:00p Ramandu says, "Where it can run around"
+11/23/24 3:55:01p Pun'isher growls, "i call dibs on the handbag materials"
+11/23/24 3:55:05p (Shadowfire giggles)
+11/23/24 3:55:12p Cousin Jenny says, "need red"
+11/23/24 3:55:17p Pun'isher growls, "go cousin!"
+11/23/24 3:55:20p Pun'isher growls, "you got this!"
+11/23/24 3:55:31p Pun'isher growls, "or my name isnt"
+11/23/24 3:55:36p Shadowfire is sharing experiences with you.
+11/23/24 3:55:38p Pun'isher growls, "talented"
+11/23/24 3:55:41p * You mentally enhance Articuno
+11/23/24 3:55:41p * You mentally enhance Shadowfire
+11/23/24 3:55:41p * You mentally enhance Raul
+11/23/24 3:55:41p * You mentally enhance Shobaffum
+11/23/24 3:55:41p * You mentally enhance Ramandu
+11/23/24 3:55:41p * You mentally enhance Pun'isher
+11/23/24 3:56:00p You have 1843 coins.
+11/23/24 3:56:01p Cousin Jenny says, "ok last try"
+11/23/24 3:56:29p Cousin Jenny says, "bah"
+11/23/24 3:56:32p Cousin Jenny says, "lets hunt"
+11/23/24 3:56:40p Ramandu says, "mkay"
+11/23/24 3:56:46p * Your mental enhancement fades.
+11/23/24 3:56:48p Shadowfire thinks, "s pls"
+11/23/24 3:56:50p Ramandu says, "You can try again once you get toad morph"
+11/23/24 3:57:01p * Shobaffum recovers the Shadowcat Huntress fur, worth 11c. Your share is 1c.
+11/23/24 3:57:02p Ramandu says, "Or right now"
+11/23/24 3:57:04p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+11/23/24 3:57:04p Warawonda has fallen to a Sky Bison.
+11/23/24 3:57:06p * Cousin Jenny recovers the Sky Bison fur, worth 38c. Your share is 3c.
+11/23/24 3:57:10p •You sense healing energy from Katreesa.
+11/23/24 3:57:20p You have 1847 coins.
+11/23/24 3:57:27p * Articuno recovers the Shadowcat Huntress fur, worth 82c. Your share is 8c.
+11/23/24 3:57:27p * Your mental enhancement fades.
+11/23/24 3:57:29p Valadorei has fallen to a Swarm of Bees.
+11/23/24 3:57:43p * You mentally enhance Lorikeet
+11/23/24 3:57:43p * You mentally enhance Cousin Jenny
+11/23/24 3:57:43p * You mentally enhance Shobaffum
+11/23/24 3:57:43p * You mentally enhance Katreesa
+11/23/24 3:57:44p * You mentally enhance Shadowfire
+11/23/24 3:57:44p * You mentally enhance Valadorei
+11/23/24 3:57:49p * You recover the Shadowcat Huntress fur, worth 29c. Your share is 3c.
+11/23/24 3:57:51p Cousin Jenny says, "never mind"
+11/23/24 3:57:53p Katreesa says, "bah, now the dog needs out for real"
+11/23/24 3:58:04p Valadorei is no longer fallen.
+11/23/24 3:58:07p Shadowfire yells, "Gather south!"
+11/23/24 3:58:11p Ramandu says, "Much easier to try with a BM or atkus boost"
+11/23/24 3:58:14p Cousin Jenny says, "rarely"
+11/23/24 3:58:25p Ramandu says, "or a higher darkus morph"
+11/23/24 3:58:32p You equip your Rod of Akea.
+11/23/24 3:58:35p You equip your Staff of Ballou.
+11/23/24 3:58:38p Raul says, "jade might be good for luck lasty"
+11/23/24 3:58:39p Cousin Jenny says, "well working on wasp but well"
+11/23/24 3:58:40p You have 1858 coins.
+11/23/24 3:58:43p (Ramandu nods)
+11/23/24 3:58:48p Shadowfire thinks, "s pls"
+11/23/24 3:58:58p * Articuno recovers the Shadowcat Huntress fur, worth 72c. Your share is 9c.
+11/23/24 3:59:18p * Articuno recovers the Shadowcat Huntress fur, worth 22c. Your share is 2c.
+11/23/24 3:59:29p * Your mental enhancement fades.
+11/23/24 3:59:37p Pun'isher yells, "myr stag and kin please"
+11/23/24 3:59:42p Articuno says, "big bear"
+11/23/24 3:59:44p Ramandu says, "Small yor for me"
+11/23/24 3:59:50p * Cousin Jenny recovers the Sky Bison fur, worth 103c. Your share is 9c.
+11/23/24 3:59:51p Cousin Jenny says, "pony on stairs"
+11/23/24 3:59:52p Ramandu says, "Big bear, myr, stag, small yor, kin."
+11/23/24 4:00:01p You have 1878 coins.
+11/23/24 4:00:03p Articuno growls, "big bear"
+11/23/24 4:00:10p * You mentally enhance Lorikeet
+11/23/24 4:00:10p * You mentally enhance Valadorei
+11/23/24 4:00:10p * You mentally enhance Tasus
+11/23/24 4:00:10p * You mentally enhance Cousin Jenny
+11/23/24 4:00:10p * You mentally enhance Shobaffum
+11/23/24 4:00:10p * You mentally enhance Articuno
+11/23/24 4:00:10p * You mentally enhance Katreesa
+11/23/24 4:00:16p Cousin Jenny says, "Frost toadds for me"
+11/23/24 4:00:28p Shadowfire yells, "For the glory of Cone Beast!"
+11/23/24 4:00:39p Ramandu growls, "one day I will convince the gods to deliver unto us frost toads. I hope."
+11/23/24 4:00:50p * Cousin Jenny recovers the Frost Foxweir fur, worth 45c. Your share is 7c.
+11/23/24 4:00:50p * You recover the Glacier Bear fur, worth 29c. Your share is 3c.
+11/23/24 4:00:50p Osha Hornblow'r says, "im gonna call it a night, kinda tired"
+11/23/24 4:00:55p (Osha Hornblow'r waves)
+11/23/24 4:00:56p * You recover the Frost Foxweir fur, worth 32c. Your share is 4c.
+11/23/24 4:00:57p Lorikeet says, "okay"
+11/23/24 4:00:58p Ramandu growls, "okay, good to see you osha!"
+11/23/24 4:01:05p * Articuno recovers the Glacier Bear Cub fur, worth 40c. Your share is 4c.
+11/23/24 4:01:11p Pun'isher has fallen to a Glacier Bear Cub.
+11/23/24 4:01:15p Pun'isher yells, "first!"
+11/23/24 4:01:21p You have 1896 coins.
+11/23/24 4:01:22p Pun'isher is no longer fallen.
+11/23/24 4:01:25p * Cousin Jenny recovers the Frost Yorilla fur, worth 78c. Your share is 9c.
+11/23/24 4:01:28p * Shobaffum recovers the Glacier Bear fur, worth 23c. Your share is 2c.
+11/23/24 4:01:30p * Shadowfire recovers the Glacier Bear fur, worth 24c. Your share is 3c.
+11/23/24 4:01:35p Pun'isher has fallen to an Alpine Timber Feral.
+11/23/24 4:01:38p Pun'isher is no longer fallen.
+11/23/24 4:01:40p Pun'isher has fallen to a Glacier Bear Cub.
+11/23/24 4:01:40p Pun'isher exclaims, "6th!"
+11/23/24 4:01:47p * Articuno recovers the Glacier Bear Cub fur, worth 88c. Your share is 11c.
+11/23/24 4:01:47p Pun'isher exclaims, "i feel like my old self!"
+11/23/24 4:01:50p Pun'isher is no longer fallen.
+11/23/24 4:01:51p * Articuno recovers the Alpine Timber Feral fur, worth 18c. Your share is 2c.
+11/23/24 4:01:55p * Your mental enhancement fades.
+11/23/24 4:01:58p * Ramandu recovers the Alpine Timber Feral fur, worth 31c. Your share is 4c.
+11/23/24 4:02:03p * Articuno recovers the Glacier Bear fur, worth 57c. Your share is 6c.
+11/23/24 4:02:05p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+11/23/24 4:02:05p Warawonda has fallen to a Glacier Bear.
+11/23/24 4:02:06p * You mentally enhance Pun'isher
+11/23/24 4:02:06p * You mentally enhance Lorikeet
+11/23/24 4:02:06p * You mentally enhance Valadorei
+11/23/24 4:02:06p * You mentally enhance Shadowfire
+11/23/24 4:02:06p * You mentally enhance Raul
+11/23/24 4:02:06p * You mentally enhance Tasus
+11/23/24 4:02:06p * You mentally enhance Ramandu
+11/23/24 4:02:06p * You mentally enhance Articuno
+11/23/24 4:02:06p * You mentally enhance Shobaffum
+11/23/24 4:02:11p •You sense healing energy from Tasus.
+11/23/24 4:02:12p Ramandu exclaims, "Stag last too!"
+11/23/24 4:02:13p Lorikeet says, "Your back view looks like a fruit Kat"
+11/23/24 4:02:17p * Shobaffum recovers the Glacier Bear fur, worth 22c. Your share is 2c.
+11/23/24 4:02:22p Katreesa says, "heh"
+11/23/24 4:02:27p Raul asks, "are pumpkins fruits?"
+11/23/24 4:02:28p Cousin Jenny asks, "stag last?"
+11/23/24 4:02:29p Shadowfire asks, "Gourdeous isn't she Lori?"
+11/23/24 4:02:31p Articuno growls, "yes"
+11/23/24 4:02:35p * You recover the Snowstag fur, worth 26c. Your share is 2c.
+11/23/24 4:02:35p Lorikeet says, "lol"
+11/23/24 4:02:39p Ramandu says, "lol"
+11/23/24 4:02:41p You have 1937 coins.
+11/23/24 4:02:41p Shadowfire says, "xD"
+11/23/24 4:02:46p Shadowfire yells, "Gather west!"
+11/23/24 4:02:50p Ramandu says, "Forget skinny, the new sexy is pumkinny"
+11/23/24 4:02:53p Osha Hornblow'r is no longer Clanning.
+11/23/24 4:02:57p Pun'isher growls, "hehe"
+11/23/24 4:03:03p Shadowfire thinks, "w pls"
+11/23/24 4:03:06p Lorikeet yells, "stag"
+11/23/24 4:03:08p Katreesa says, "I'm bringing pumpkiny back"
+11/23/24 4:03:18p Lorikeet thinks, "stags"
+11/23/24 4:03:20p Ramandu thinks, "2 stags back here"
+11/23/24 4:03:26p * You recover the Snowstag fur, worth 55c. Your share is 9c.
+11/23/24 4:03:28p Ramandu growls, "fart"
+11/23/24 4:03:29p •You sense healing energy from Katreesa.
+11/23/24 4:03:30p Ramandu growls, "sorry"
+11/23/24 4:03:39p * Ramandu recovers the Snowstag fur, worth 11c. Your share is 2c.
+11/23/24 4:03:41p Pun'isher growls, "sokay"
+11/23/24 4:03:44p * You recover the Alpine Timber Feral fur, worth 43c. Your share is 7c.
+11/23/24 4:03:45p Pun'isher growls, "iwould have fallen"
+11/23/24 4:03:52p * Your mental enhancement fades.
+11/23/24 4:04:01p You have 1955 coins.
+11/23/24 4:04:07p Prithvi is no longer Clanning.
+11/23/24 4:04:23p * Your mental enhancement fades.
+11/23/24 4:04:26p * Articuno recovers the Alpine Timber Feral fur, worth 74c. Your share is 6c.
+11/23/24 4:04:27p * You mentally enhance Lorikeet
+11/23/24 4:04:28p * You mentally enhance Valadorei
+11/23/24 4:04:28p * You mentally enhance Pun'isher
+11/23/24 4:04:28p * You mentally enhance Ramandu
+11/23/24 4:04:28p * You mentally enhance Katreesa
+11/23/24 4:04:28p * You mentally enhance Shobaffum
+11/23/24 4:04:31p Shadowfire yells, "Gather north!"
+11/23/24 4:04:51p * Cousin Jenny recovers the Frost Yorilla fur, worth 103c. Your share is 11c.
+11/23/24 4:04:55p * Articuno recovers the Frost Foxweir fur, worth 64c. Your share is 7c.
+11/23/24 4:04:57p Shadowfire thinks, "n pls"
+11/23/24 4:05:16p * Cousin Jenny recovers the Glacier Bear fur, worth 49c. Your share is 6c.
+11/23/24 4:05:20p Raul says, "wasnt me"
+11/23/24 4:05:21p You have 1985 coins.
+11/23/24 4:05:45p * Cousin Jenny recovers the Glacier Bear fur, worth 42c. Your share is 3c.
+11/23/24 4:05:46p Shadowfire yells, "By the Burbles of the Beast!"
+11/23/24 4:05:48p Cousin Jenny exclaims, "Last goats for moves!"
+11/23/24 4:06:13p * Your mental enhancement fades.
+11/23/24 4:06:15p Ramandu growls, "Jenny is Pure Evil."
+11/23/24 4:06:42p You have 1988 coins.
+11/23/24 4:06:46p * Pun'isher recovers the Alpine Goat fur, worth 15c. Your share is 1c.
+11/23/24 4:06:55p Pun'isher says, "gah"
+11/23/24 4:07:04p * You mentally enhance Raul
+11/23/24 4:07:04p * You mentally enhance Articuno
+11/23/24 4:07:04p * You mentally enhance Shobaffum
+11/23/24 4:07:04p * You mentally enhance Ramandu
+11/23/24 4:07:05p * You mentally enhance Lorikeet
+11/23/24 4:07:05p * You mentally enhance Cousin Jenny
+11/23/24 4:07:05p * You mentally enhance Katreesa
+11/23/24 4:07:05p * You mentally enhance Shadowfire
+11/23/24 4:07:05p Pun'isher says, "sory just saw the goat one"
+11/23/24 4:07:14p Ramandu says, "Goat are a joke :p"
+11/23/24 4:07:35p Pun'isher says, "ah they got my goat"
+11/23/24 4:07:37p Valadorei says, "Its the goat joke."
+11/23/24 4:07:38p * Articuno recovers the Glacier Bear fur, worth 32c. Your share is 3c.
+11/23/24 4:07:44p Ramandu says, "They were just kidding"
+11/23/24 4:07:48p Valadorei has fallen to a Glacier Bear.
+11/23/24 4:07:52p Pun'isher says, "ah"
+11/23/24 4:07:57p Ramandu says, "Kid-ding."
+11/23/24 4:07:58p (Valadorei giggles.)
+11/23/24 4:08:00p * You recover the Glacier Bear fur, worth 19c. Your share is 1c.
+11/23/24 4:08:01p (Valadorei nods)
+11/23/24 4:08:02p You have 1993 coins.
+11/23/24 4:08:02p Pun'isher says, "hahaha"
+11/23/24 4:08:04p Valadorei says, "Subtle"
+11/23/24 4:08:07p Pun'isher says, "i missed that one"
+11/23/24 4:08:10p Valadorei is no longer fallen.
+11/23/24 4:08:11p Pun'isher says, "it was baaad"
+11/23/24 4:08:17p * Shobaffum recovers the Glacier Bear fur, worth 18c. Your share is 2c.
+11/23/24 4:08:18p * Cousin Jenny recovers the Glacier Bear Cub fur, worth 60c. Your share is 5c.
+11/23/24 4:08:18p Ramandu says, "The best jokes are the ones you have to explain"
+11/23/24 4:08:19p Pun'isher says, "oh wait"
+11/23/24 4:08:20p Pun'isher says, "thas a sheep"
+11/23/24 4:08:25p Pun'isher exclaims, "just bleat it!"
+11/23/24 4:08:27p * Cousin Jenny recovers the Alpine Timber Feral fur, worth 50c. Your share is 5c.
+11/23/24 4:08:30p Ramandu says, "Goats make a similar sound"
+11/23/24 4:08:35p (Ramandu grins)
+11/23/24 4:08:35p Your Sword of Souls screams with the souls of the damned.
+11/23/24 4:08:35p You equip your Sword of Souls.
+11/23/24 4:08:37p You equip your Staff of Ballou.
+11/23/24 4:08:40p Ramandu says, "Now I'm maaaaaaaaaad"
+11/23/24 4:08:42p Valadorei says, "You just have the wrong audience."
+11/23/24 4:08:46p * Your mental enhancement fades.
+11/23/24 4:08:50p * Your mental enhancement fades.
+11/23/24 4:08:55p * You mentally enhance Lorikeet
+11/23/24 4:08:55p * You mentally enhance Shadowfire
+11/23/24 4:08:55p * You mentally enhance Cousin Jenny
+11/23/24 4:08:55p * You mentally enhance Articuno
+11/23/24 4:08:55p * You mentally enhance Shobaffum
+11/23/24 4:08:55p * You mentally enhance Ramandu
+11/23/24 4:08:55p * You mentally enhance Valadorei
+11/23/24 4:08:56p * You mentally enhance Tasus
+11/23/24 4:08:56p * You mentally enhance Raul
+11/23/24 4:08:56p * You mentally enhance Katreesa
+11/23/24 4:08:56p Pun'isher growls, "just bleat it!"
+11/23/24 4:08:58p Tasus says, "4 kin 2 bear 1 toise"
+11/23/24 4:09:00p Ramandu says, "Gotta remember the LA hypocratic oath"
+11/23/24 4:09:02p Pun'isher growls, "lastys"
+11/23/24 4:09:04p Ramandu says, "Before all else, do no farm."
+11/23/24 4:09:21p Lorikeet asks, "You are anti-zu too?"
+11/23/24 4:09:22p You have 2005 coins.
+11/23/24 4:09:32p (Valadorei giggles.)
+11/23/24 4:09:34p Ramandu says, "Too many bad experiences with zu-mers"
+11/23/24 4:09:52p Ramandu says, "thanks"
+11/23/24 4:09:58p Pun'isher growls, "ooh team work!"
+11/23/24 4:10:08p * Articuno recovers the Glacier Bear fur, worth 48c. Your share is 5c.
+11/23/24 4:10:09p Ramandu says, "Despite my horrible jokes Lori still heals me. She's a saint"
+11/23/24 4:10:17p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+11/23/24 4:10:18p Warawonda has fallen to a Frost Foxweir.
+11/23/24 4:10:18p (Warawonda nods)
+11/23/24 4:10:19p •You sense healing energy from Tasus.
+11/23/24 4:10:20p •You sense healing energy from Katreesa.
+11/23/24 4:10:23p (Ramandu expresses heartfelt saint-iments)
+11/23/24 4:10:41p * Your mental enhancement fades.
+11/23/24 4:10:42p Shadowfire yells, "Fie upon the Weeder, glory to the Beast!"
+11/23/24 4:10:42p You have 2010 coins.
+11/23/24 4:10:58p Cousin Jenny says, "oh hi"
+11/23/24 4:10:58p * You recover the Glacier Bear fur, worth 27c. Your share is 3c.
+11/23/24 4:11:02p Pun'isher growls, "heh"
+11/23/24 4:11:19p Shobaffum thinks, "tasus yeah i get that!"
+11/23/24 4:11:34p * You recover the Glacier Bear fur, worth 47c. Your share is 4c.
+11/23/24 4:11:35p (Valadorei smiles.)
+11/23/24 4:11:35p * Cousin Jenny recovers the Alpine Timber Feral fur, worth 74c. Your share is 6c.
+11/23/24 4:11:42p Reisa is no longer Clanning.
+11/23/24 4:11:46p * Shobaffum recovers the Ice'kin blood, worth 2c. Your share is 1c.
+11/23/24 4:11:47p Tasus asks, "Chicken wings, amirite?"
+11/23/24 4:11:56p Katreesa says, ":)"
+11/23/24 4:11:57p * Articuno recovers the Glacier Bear fur, worth 48c. Your share is 4c.
+11/23/24 4:11:57p Pun'isher growls, "whos on big bear>"
+11/23/24 4:11:58p (Ramandu is hungry now)
+11/23/24 4:12:01p Lorikeet says, "art"
+11/23/24 4:12:02p * Cousin Jenny recovers the Glacier Bear fur, worth 47c. Your share is 5c.
+11/23/24 4:12:02p You have 2033 coins.
+11/23/24 4:12:03p Pun'isher growls, "ah k"
+11/23/24 4:12:08p * Cousin Jenny recovers the Glacier Bear fur, worth 32c. Your share is 3c.
+11/23/24 4:12:08p Valadorei says, "If Lori is a saint we ought to start calling here Jude."
+11/23/24 4:12:14p Katreesa says, "I had a brownie"
+11/23/24 4:12:25p Shobaffum says, "Pun"
+11/23/24 4:12:26p Ramandu says, "Hey! Jude? Don't make it bad."
+11/23/24 4:12:30p * You mentally enhance Lorikeet
+11/23/24 4:12:30p * You mentally enhance Cousin Jenny
+11/23/24 4:12:30p * You mentally enhance Valadorei
+11/23/24 4:12:30p * You mentally enhance Ramandu
+11/23/24 4:12:30p * You mentally enhance Pun'isher
+11/23/24 4:12:30p * You mentally enhance Shadowfire
+11/23/24 4:12:30p * You mentally enhance Articuno
+11/23/24 4:12:37p Ramandu says, "Same brain, pun."
+11/23/24 4:12:45p Pun'isher growls, "haha"
+11/23/24 4:12:48p Shadowfire yells, "Gather south!"
+11/23/24 4:12:59p * Your mental enhancement fades.
+11/23/24 4:13:04p Shadowfire yells, "Onward, in Her Holy Pawprints!"
+11/23/24 4:13:05p Pun'isher growls, "hey dude"
+11/23/24 4:13:06p Valadorei says, "'Cause we are all lost cuases."
+11/23/24 4:13:14p * Articuno recovers the Alpine Goat fur, worth 43c. Your share is 5c.
+11/23/24 4:13:23p You have 2041 coins.
+11/23/24 4:13:29p * Articuno recovers the Glacier Bear fur, worth 56c. Your share is 4c.
+11/23/24 4:13:32p Ramandu growls, "Oh no"
+11/23/24 4:13:37p Valadorei has fallen to a lightning bolt.
+11/23/24 4:13:38p Pun'isher growls, "i cant sleep"
+11/23/24 4:13:39p Ramandu growls, "This one goes in clan chat"
+11/23/24 4:13:44p Valadorei is no longer fallen.
+11/23/24 4:13:59p * You recover the Glacier Bear fur, worth 47c. Your share is 4c.
+11/23/24 4:14:08p Shadowfire yells, "Fie upon the Weeder, glory to the Beast!"
+11/23/24 4:14:08p Cousin Jenny says, "free"
+11/23/24 4:14:15p * Your mental enhancement fades.
+11/23/24 4:14:22p * You recover the Alpine Goat fur, worth 47c. Your share is 5c.
+11/23/24 4:14:30p Cousin Jenny yells, "kins lasts"
+11/23/24 4:14:38p * You recover the Glacier Bear Cub fur, worth 5c.
+11/23/24 4:14:43p You have 2054 coins.
+11/23/24 4:14:45p Cousin Jenny asks, "oh pun on kin?"
+11/23/24 4:14:49p Lorikeet says, "yes"
+11/23/24 4:14:51p Shobaffum says, "aye"
+11/23/24 4:14:52p * You mentally enhance Raul
+11/23/24 4:14:52p * You mentally enhance Shadowfire
+11/23/24 4:14:52p * You mentally enhance Lorikeet
+11/23/24 4:14:52p * You mentally enhance Valadorei
+11/23/24 4:14:52p * You mentally enhance Cousin Jenny
+11/23/24 4:14:52p * You mentally enhance Ramandu
+11/23/24 4:14:52p * You mentally enhance Pun'isher
+11/23/24 4:14:52p * You mentally enhance Katreesa
+11/23/24 4:14:54p * Pun'isher recovers the Ice'kin blood, worth 14c. Your share is 1c.
+11/23/24 4:14:58p Cousin Jenny says, "oh thought onlu Shob sorry"
+11/23/24 4:15:03p Pun'isher growls, "yes imma be a pun'kin someday"
+11/23/24 4:15:22p Nuckin Futz is no longer Clanning.
+11/23/24 4:15:22p Lorikeet asks, "Shob on kin too?"
+11/23/24 4:15:24p Cecil is no longer Clanning.
+11/23/24 4:15:27p * Lorikeet recovers the Ice'kin blood, worth 3c. Your share is 1c.
+11/23/24 4:15:28p Cousin Jenny says, "ya"
+11/23/24 4:15:33p Shobaffum says, "yeah but i skip them for pun on lori hunt"
+11/23/24 4:15:38p Lorikeet says, "ah"
+11/23/24 4:15:38p Lorikeet says, "ah"
+11/23/24 4:15:39p Pun'isher growls, "shob graceisly passed for today unless im fallen"
+11/23/24 4:15:39p Shobaffum says, "because i got to foggy"
+11/23/24 4:15:49p Deathless is no longer Clanning.
+11/23/24 4:16:03p You have 2056 coins.
+11/23/24 4:16:17p * Your mental enhancement fades.
+11/23/24 4:16:20p Shadowfire yells, "All glory to Cone Beast!"
+11/23/24 4:16:38p * Your mental enhancement fades.
+11/23/24 4:16:42p Ramandu yells, "she's heeeeeeere"
+11/23/24 4:16:45p Shobaffum yells, "g here"
+11/23/24 4:16:49p Shadowfire yells, "don't trap Gaiyl on walls"
+11/23/24 4:16:49p * You mentally enhance Tasus
+11/23/24 4:16:49p * You mentally enhance Ramandu
+11/23/24 4:16:49p * You mentally enhance Articuno
+11/23/24 4:16:49p * You mentally enhance Shadowfire
+11/23/24 4:16:49p * You mentally enhance Cousin Jenny
+11/23/24 4:16:49p * You mentally enhance Shobaffum
+11/23/24 4:16:50p * You mentally enhance Valadorei
+11/23/24 4:16:50p * You mentally enhance Raul
+11/23/24 4:16:50p * You mentally enhance Katreesa
+11/23/24 4:16:53p Valadorei has fallen to Giayl.
+11/23/24 4:16:54p Ramandu growls, "The original G"
+11/23/24 4:16:58p Valadorei is no longer fallen.
+11/23/24 4:17:04p Valadorei has fallen to Giayl.
+11/23/24 4:17:12p Cousin Jenny says, "she should be like raven"
+11/23/24 4:17:18p Cousin Jenny says, "so you get tag for dying too"
+11/23/24 4:17:23p You have 2056 coins.
+11/23/24 4:17:33p Cousin Jenny says, "not sure but heck"
+11/23/24 4:17:35p Shadowfire yells, "bring it in maybe c"
+11/23/24 4:17:41p Ramandu growls, "lol poor Val"
+11/23/24 4:17:57p * You pick up 132 coins.
+11/23/24 4:17:57p * You gain experience.
+11/23/24 4:17:57p Valadorei is no longer fallen.
+11/23/24 4:17:59p Deathless is now Clanning.
+11/23/24 4:18:02p Ramandu growls, "Oof."
+11/23/24 4:18:02p Cousin Jenny exclaims, "oh i did tag!"
+11/23/24 4:18:03p Pun'isher growls, "oops"
+11/23/24 4:18:11p Shadowfire says, "sweet"
+11/23/24 4:18:11p Pun'isher growls, "yay!"
+11/23/24 4:18:14p Shobaffum says, "LOL"
+11/23/24 4:18:24p Nuckin Futz is now Clanning.
+11/23/24 4:18:35p * Your mental enhancement fades.
+11/23/24 4:18:36p (Valadorei giggles.)
+11/23/24 4:18:41p Tasus says, "NoMo"
+11/23/24 4:18:43p * Cousin Jenny recovers the Glacier Bear fur, worth 34c. Your share is 3c.
+11/23/24 4:18:43p You have 2191 coins.
+11/23/24 4:18:47p * You mentally enhance Ramandu
+11/23/24 4:18:47p * You mentally enhance Shadowfire
+11/23/24 4:18:47p * You mentally enhance Lorikeet
+11/23/24 4:18:48p * You mentally enhance Cousin Jenny
+11/23/24 4:18:48p * You mentally enhance Katreesa
+11/23/24 4:18:48p * You mentally enhance Valadorei
+11/23/24 4:18:48p Shadowfire yells, "Dassit, reversi"
+11/23/24 4:18:54p Cecil is now Clanning.
+11/23/24 4:19:32p * Articuno recovers the Glacier Bear fur, worth 53c. Your share is 4c.
+11/23/24 4:19:34p Ramandu growls, "crap"
+11/23/24 4:19:42p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+11/23/24 4:19:43p Warawonda has fallen to a Glacier Bear.
+11/23/24 4:19:45p Ramandu growls, "I was punning on autopilot and ran right into it"
+11/23/24 4:19:47p •You sense healing energy from Katreesa.
+11/23/24 4:19:48p Articuno says, "a okay hehe"
+11/23/24 4:19:50p Shadowfire thinks, "n pls"
+11/23/24 4:19:52p * You recover the Glacier Bear fur, worth 57c. Your share is 7c.
+11/23/24 4:20:04p You have 2202 coins.
+11/23/24 4:20:17p Valadorei has fallen to an Ice'kin.
+11/23/24 4:20:18p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+11/23/24 4:20:18p Warawonda has fallen to an Ice'kin.
+11/23/24 4:20:29p * You recover the Ice'kin blood, worth 5c.
+11/23/24 4:20:33p * Your mental enhancement fades.
+11/23/24 4:20:39p Valadorei is no longer fallen.
+11/23/24 4:20:46p * Articuno recovers the Glacier Bear fur, worth 8c. Your share is 1c.
+11/23/24 4:20:46p Cousin Jenny asks, "did what?"
+11/23/24 4:20:50p Ramandu growls, "Exactly."
+11/23/24 4:20:54p Ramandu says, "Exactly."
+11/23/24 4:20:54p Pun'isher thinks, "it was polermandu!"
+11/23/24 4:20:57p Shadowfire yells, "Gather south!"
+11/23/24 4:21:13p Tasus thinks, "S"
+11/23/24 4:21:17p Shadowfire says, "brief pause for goat check"
+11/23/24 4:21:24p You have 2203 coins.
+11/23/24 4:21:53p * You mentally enhance Lorikeet
+11/23/24 4:21:53p * You mentally enhance Tasus
+11/23/24 4:21:53p * You mentally enhance Shadowfire
+11/23/24 4:21:53p * You mentally enhance Cousin Jenny
+11/23/24 4:21:53p * You mentally enhance Ramandu
+11/23/24 4:21:53p * You mentally enhance Valadorei
+11/23/24 4:21:53p * You mentally enhance Articuno
+11/23/24 4:21:53p * You mentally enhance Katreesa
+11/23/24 4:22:02p Shadowfire yells, "Fie upon the Weeder, glory to the Beast!"
+11/23/24 4:22:11p * Articuno recovers the Frost Yorilla fur, worth 75c. Your share is 10c.
+11/23/24 4:22:30p * Articuno recovers the Glacier Bear Cub fur, worth 78c. Your share is 7c.
+11/23/24 4:22:35p * Cousin Jenny recovers the Glacier Bear Cub fur, worth 64c. Your share is 6c.
+11/23/24 4:22:44p You have 2226 coins.
+11/23/24 4:22:44p Shadowfire yells, "Gather south!"
+11/23/24 4:22:54p Shadowfire yells, "For the glory of Cone Beast!"
+11/23/24 4:23:03p Pun'isher yells, "lasty yor"
+11/23/24 4:23:04p * Articuno recovers the Frost Yorilla fur, worth 73c. Your share is 9c.
+11/23/24 4:23:07p Cecil is no longer Clanning.
+11/23/24 4:23:13p Valadorei has fallen to a Snowstag.
+11/23/24 4:23:15p Pun'isher says, "stag"
+11/23/24 4:23:18p Pun'isher growls, "stag"
+11/23/24 4:23:19p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+11/23/24 4:23:19p Warawonda has fallen to a Snowstag.
+11/23/24 4:23:24p Nuckin Futz is no longer Clanning.
+11/23/24 4:23:24p Katreesa says, "two fer"
+11/23/24 4:23:25p * Cousin Jenny recovers the Snowstag fur, worth 65c. Your share is 5c.
+11/23/24 4:23:30p Valadorei is no longer fallen.
+11/23/24 4:23:35p * Articuno recovers the Snowstag fur, worth 49c. Your share is 4c.
+11/23/24 4:23:38p * Your mental enhancement fades.
+11/23/24 4:23:40p Pun'isher growls, "lasty yor"
+11/23/24 4:23:40p Valadorei says, "Wholesale mystics."
+11/23/24 4:23:41p * Cousin Jenny recovers the Frost Yorilla fur, worth 81c. Your share is 7c.
+11/23/24 4:23:42p Warawonda says, "i didnt stag a chance"
+11/23/24 4:23:57p Ramandu growls, "You gotta bag a stag tag"
+11/23/24 4:23:58p * Cousin Jenny recovers the Snowstag fur, worth 32c. Your share is 3c.
+11/23/24 4:24:01p Ramandu growls, "If you can"
+11/23/24 4:24:03p Tasus thinks, "W"
+11/23/24 4:24:04p You have 2254 coins.
+11/23/24 4:24:05p Shadowfire yells, "By the Burbles of the Beast!"
+11/23/24 4:24:06p Valadorei says, "No need to go stag."
+11/23/24 4:24:12p * You mentally enhance Ramandu
+11/23/24 4:24:12p * You mentally enhance Shadowfire
+11/23/24 4:24:12p * You mentally enhance Articuno
+11/23/24 4:24:12p * You mentally enhance Pun'isher
+11/23/24 4:24:13p * You mentally enhance Shobaffum
+11/23/24 4:24:13p * You mentally enhance Katreesa
+11/23/24 4:24:13p * You mentally enhance Valadorei
+11/23/24 4:24:16p Pun'isher growls, "haha"
+11/23/24 4:24:17p Garfield is no longer Clanning.
+11/23/24 4:24:23p Cousin Jenny yells, "Mew!"
+11/23/24 4:24:30p (Ramandu is going st-aggro)
+11/23/24 4:24:31p * Articuno recovers the Abominable Snow Yorilla fur, worth 91c. Your share is 8c.
+11/23/24 4:24:35p Ramandu growls, "whoa"
+11/23/24 4:24:35p Cousin Jenny says, "whats that/>"
+11/23/24 4:24:37p Articuno growls, "wtf"
+11/23/24 4:24:40p Ramandu growls, "Who are you"
+11/23/24 4:24:42p Ramandu growls, "Who are you?"
+11/23/24 4:24:45p Shobaffum growls, "lost?"
+11/23/24 4:24:45p Articuno growls, "from silversnag"
+11/23/24 4:24:47p Valadorei has fallen to a Burrowing Bear.
+11/23/24 4:24:49p * Articuno recovers the Burrowing Bear fur, worth 75c. Your share is 7c.
+11/23/24 4:24:51p Articuno growls, "must be exotic"
+11/23/24 4:24:53p Shadowfire says, "ow"
+11/23/24 4:24:53p Cousin Jenny says, "omg"
+11/23/24 4:24:54p * Raul recovers the Frost Foxweir fur, worth 62c. Your share is 6c.
+11/23/24 4:24:56p Ramandu growls, "Huh"
+11/23/24 4:25:02p Articuno growls, "intreaging"
+11/23/24 4:25:03p Cousin Jenny says, "looks like another e"
+11/23/24 4:25:05p Articuno growls, "shit"
+11/23/24 4:25:17p Articuno growls, "bs maybe?"
+11/23/24 4:25:19p * Articuno recovers the Burrowing Bear fur, worth 71c. Your share is 7c.
+11/23/24 4:25:21p Valadorei is no longer fallen.
+11/23/24 4:25:24p You have 2282 coins.
+11/23/24 4:25:25p Cousin Jenny says, "wow"
+11/23/24 4:25:30p Ramandu growls, "Someone friended them having fun?"
+11/23/24 4:25:33p Shadowfire says, "ow"
+11/23/24 4:25:35p Cousin Jenny says, "super rare wtf"
+11/23/24 4:25:39p * Your mental enhancement fades.
+11/23/24 4:25:39p Shadowfire says, "Those are Silversnag mobs"
+11/23/24 4:25:43p Ramandu growls, "yeah"
+11/23/24 4:25:51p Cousin Jenny asks, "erm not even form here right?"
+11/23/24 4:25:52p * Pun'isher recovers the Frost Foxweir fur, worth 14c. Your share is 1c.
+11/23/24 4:25:54p Articuno growls, "yeah"
+11/23/24 4:25:54p Shadowfire says, "They are not"
+11/23/24 4:25:57p * You mentally enhance Tasus
+11/23/24 4:25:57p * You mentally enhance Valadorei
+11/23/24 4:25:57p * You mentally enhance Shadowfire
+11/23/24 4:25:57p * You mentally enhance Shobaffum
+11/23/24 4:25:57p * You mentally enhance Pun'isher
+11/23/24 4:25:57p * You mentally enhance Lorikeet
+11/23/24 4:25:57p * You mentally enhance Articuno
+11/23/24 4:25:57p * You mentally enhance Raul
+11/23/24 4:25:57p * You mentally enhance Ramandu
+11/23/24 4:25:57p * You mentally enhance Cousin Jenny
+11/23/24 4:25:58p * You mentally enhance Katreesa
+11/23/24 4:25:58p * Your mental enhancement fades.
+11/23/24 4:25:58p Articuno growls, "past vale stuff"
+11/23/24 4:26:01p Pun'isher asks, "maybe they on vacay?"
+11/23/24 4:26:05p Cousin Jenny says, "climate cchange is happening"
+11/23/24 4:26:05p Shadowfire says, "Yeah west of vale"
+11/23/24 4:26:08p Ramandu growls, "I gues winter's coming"
+11/23/24 4:26:16p Shadowfire says, "Too bad those lost bears didn't have chests"
+11/23/24 4:26:19p Cousin Jenny says, "monsters moving"
+11/23/24 4:26:20p Ramandu growls, "Silversnag's cool. I'd love to go back sometime"
+11/23/24 4:26:23p Raul says, "heh"
+11/23/24 4:26:26p Pun'isher ponders, "the story of Rammys life"
+11/23/24 4:26:32p Articuno growls, "i actually figurd out how to get there hehe"
+11/23/24 4:26:39p Articuno growls, "with out mystic"
+11/23/24 4:26:40p (Ramandu grins)
+11/23/24 4:26:42p Cousin Jenny yells, "2"
+11/23/24 4:26:43p (Ramandu nods)
+11/23/24 4:26:45p You have 2283 coins.
+11/23/24 4:26:46p Forkalir is now Clanning.
+11/23/24 4:26:47p Cousin Jenny says, "same"
+11/23/24 4:26:49p Ramandu growls, "Sounds like my last few girlfriends, Pun"
+11/23/24 4:26:51p Articuno growls, "gm messing with us"
+11/23/24 4:26:55p Ramandu growls, "Always lost, no chests."
+11/23/24 4:27:01p Cousin Jenny asks, "am i ded ded?"
+11/23/24 4:27:02p Pun'isher says, "yah those relationships fell flat"
+11/23/24 4:27:03p Warawonda says, "heh"
+11/23/24 4:27:04p Cousin Jenny says, "ah ok"
+11/23/24 4:27:07p (Pun'isher chortles)
+11/23/24 4:27:19p Ramandu growls, "Yeah"
+11/23/24 4:27:23p Pun'isher says, "you got what you asked for"
+11/23/24 4:27:30p Shadowfire thinks, ">>"
+11/23/24 4:27:33p Pun'isher says, "you said you wanted an A+ gal pal"
+11/23/24 4:27:37p Cousin Jenny yells, "Mew!"
+11/23/24 4:27:39p Ramandu growls, "She claimed she wasn't getting enough support in the relationship."
+11/23/24 4:27:43p Shadowfire yells, "I think it went e"
+11/23/24 4:27:43p * Your mental enhancement fades.
+11/23/24 4:27:46p Ramandu growls, "I claimed she didn't need much support"
+11/23/24 4:27:50p Shadowfire thinks, "e pls"
+11/23/24 4:28:02p Pun'isher asks, "that cupled with?"
+11/23/24 4:28:03p * Shadowfire recovers the Frost Foxweir fur, worth 23c. Your share is 2c.
+11/23/24 4:28:05p You have 2285 coins.
+11/23/24 4:28:06p Pun'isher growls, "that cupled with?"
+11/23/24 4:28:13p * Katreesa recovers the Frost Foxweir fur, worth 82c. Your share is 8c.
+11/23/24 4:28:19p * You recover the Frost Foxweir fur, worth 38c. Your share is 4c.
+11/23/24 4:28:25p Ramandu growls, "Double A plaus, yes"
+11/23/24 4:28:27p Ramandu growls, "Double A plus, yes"
+11/23/24 4:28:32p Shadowfire yells, "Gather north!"
+11/23/24 4:28:45p * You mentally enhance Shobaffum
+11/23/24 4:28:45p * You mentally enhance Katreesa
+11/23/24 4:28:45p * You mentally enhance Articuno
+11/23/24 4:28:45p * You mentally enhance Ramandu
+11/23/24 4:28:45p * You mentally enhance Cousin Jenny
+11/23/24 4:28:46p * You mentally enhance Pun'isher
+11/23/24 4:28:46p * You mentally enhance Lorikeet
+11/23/24 4:29:06p * Cousin Jenny recovers the Frost Yorilla fur, worth 61c. Your share is 6c.
+11/23/24 4:29:14p * Articuno recovers the Glacier Bear Cub fur, worth 88c. Your share is 8c.
+11/23/24 4:29:21p * Pun'isher recovers the Glacier Bear Cub fur, worth 6c. Your share is 1c.
+11/23/24 4:29:25p You have 2312 coins.
+11/23/24 4:29:26p Ramandu exclaims, "Gah!"
+11/23/24 4:29:31p Ramandu says, "Too many abums from behind"
+11/23/24 4:29:32p * Articuno recovers the Abominable Snow Yorilla fur, worth 72c. Your share is 6c.
+11/23/24 4:29:34p * Ramandu recovers the Abominable Snow Yorilla fur, worth 34c. Your share is 3c.
+11/23/24 4:29:35p * Articuno recovers the Abominable Snow Yorilla fur, worth 13c. Your share is 1c.
+11/23/24 4:29:38p Shadowfire says, "bbbb"
+11/23/24 4:29:41p Shadowfire yells, "For the glory of Cone Beast!"
+11/23/24 4:29:44p Pun'isher growls, "where else would a bums be?"
+11/23/24 4:29:49p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+11/23/24 4:29:49p Warawonda has fallen to a Glacier Bear Cub.
+11/23/24 4:29:51p •You sense healing energy from Katreesa.
+11/23/24 4:29:52p Ramandu growls, "Too many abums from behind"
+11/23/24 4:29:57p * Shobaffum recovers the Frost Yorilla fur, worth 13c. Your share is 2c.
+11/23/24 4:30:01p * Articuno recovers the Alpine Timber Feral fur, worth 72c. Your share is 8c.
+11/23/24 4:30:03p * Ramandu recovers the Glacier Bear Cub fur, worth 27c. Your share is 3c.
+11/23/24 4:30:19p Shadowfire yells, "In the name of the Cone!"
+11/23/24 4:30:27p * You recover the Frost Foxweir fur, worth 44c. Your share is 6c.
+11/23/24 4:30:31p * Your mental enhancement fades.
+11/23/24 4:30:33p * Ramandu recovers the Frost Yorilla fur, worth 30c. Your share is 2c.
+11/23/24 4:30:39p * You mentally enhance Tasus
+11/23/24 4:30:39p * You mentally enhance Ramandu
+11/23/24 4:30:39p * You mentally enhance Cousin Jenny
+11/23/24 4:30:40p * You mentally enhance Shadowfire
+11/23/24 4:30:40p * You mentally enhance Shobaffum
+11/23/24 4:30:40p * You mentally enhance Valadorei
+11/23/24 4:30:40p * You mentally enhance Articuno
+11/23/24 4:30:40p Articuno asks, "where it go?"
+11/23/24 4:30:45p You have 2343 coins.
+11/23/24 4:30:47p Shadowfire says, "beats me"
+11/23/24 4:30:50p Shobaffum says, "burrowed"
+11/23/24 4:30:56p Ramandu growls, "The bears burrow."
+11/23/24 4:30:59p Ramandu growls, "Should we start digging?"
+11/23/24 4:31:02p Articuno says, "but makes a snow pile"
+11/23/24 4:31:06p Shadowfire says, "I guess we just look around"
+11/23/24 4:31:06p Pun'isher growls, "yes!"
+11/23/24 4:31:09p Cousin Jenny asks, "wonder what books trhey get?"
+11/23/24 4:31:11p Shadowfire says, "For any snow piles that look out of place"
+11/23/24 4:31:30p * Cousin Jenny recovers the Glacier Bear Cub fur, worth 86c. Your share is 8c.
+11/23/24 4:31:33p * Cousin Jenny recovers the Glacier Bear Cub fur, worth 69c. Your share is 6c.
+11/23/24 4:31:46p Cousin Jenny says, "must be smart bears"
+11/23/24 4:31:50p Articuno asks, "check on monastary?"
+11/23/24 4:31:53p Shadowfire says, "aye"
+11/23/24 4:31:55p Shadowfire says, "that was my thinking"
+11/23/24 4:31:56p Ramandu yells, "Do bears use stairs?"
+11/23/24 4:32:02p Articuno says, "if its a gm yes"
+11/23/24 4:32:03p Shadowfire yells, "Fie upon the Weeder, glory to the Beast!"
+11/23/24 4:32:03p * Your mental enhancement fades.
+11/23/24 4:32:05p You have 2357 coins.
+11/23/24 4:32:13p Forkalir is no longer Clanning.
+11/23/24 4:32:13p Shadowfire yells, "For the glory of Cone Beast!"
+11/23/24 4:32:24p * Articuno recovers the Glacier Bear Cub fur, worth 84c. Your share is 8c.
+11/23/24 4:32:25p * Your mental enhancement fades.
+11/23/24 4:32:30p * You slip and slide on the ice.
+11/23/24 4:32:36p * Lorikeet recovers the Frost Yorilla fur, worth 10c. Your share is 1c.
+11/23/24 4:32:41p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+11/23/24 4:32:42p Warawonda has fallen to an Alpine Timber Feral.
+11/23/24 4:32:47p Articuno's chain flies apart from the stress.
+11/23/24 4:32:48p •You sense healing energy from Katreesa.
+11/23/24 4:32:49p Articuno starts dragging you.
+11/23/24 4:32:59p * Articuno recovers the Glacier Bear Cub fur, worth 61c. Your share is 7c.
+11/23/24 4:33:04p Ramandu growls, "Maybe it went on a vacation to bearmuda?"
+11/23/24 4:33:04p * You mentally enhance Shobaffum
+11/23/24 4:33:04p * You mentally enhance Raul
+11/23/24 4:33:04p * You mentally enhance Valadorei
+11/23/24 4:33:04p * You mentally enhance Shadowfire
+11/23/24 4:33:04p * You mentally enhance Ramandu
+11/23/24 4:33:05p * You mentally enhance Lorikeet
+11/23/24 4:33:05p * You mentally enhance Cousin Jenny
+11/23/24 4:33:17p Tasus says, "4 ferals"
+11/23/24 4:33:21p Tasus says, "no burrowers"
+11/23/24 4:33:26p You have 2373 coins.
+11/23/24 4:33:33p * Articuno recovers the Alpine Timber Feral fur, worth 71c. Your share is 7c.
+11/23/24 4:33:43p Shadowfire thinks, "nada, gather w"
+11/23/24 4:33:54p Shadowfire yells, "down, gather w"
+11/23/24 4:33:55p Lorikeet says, "..."
+11/23/24 4:34:18p Ramandu yells, "here, Bearybearybearybear"
+11/23/24 4:34:21p Shadowfire yells, "May her floofy paws guide us on our path!"
+11/23/24 4:34:31p Cousin Jenny yells, "Mew!"
+11/23/24 4:34:46p You have 2380 coins.
+11/23/24 4:34:48p * Articuno recovers the Glacier Bear fur, worth 15c. Your share is 2c.
+11/23/24 4:34:50p * Your mental enhancement fades.
+11/23/24 4:34:59p Shadowfire yells, "I'm talkin' bout the Beast! What Beast? The Beast with the power! What power? The power of Cones!"
+11/23/24 4:35:24p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+11/23/24 4:35:25p Warawonda has fallen to a Burrowing Bear.
+11/23/24 4:35:32p Ramandu growls, "Oh hi friend"
+11/23/24 4:35:33p •You sense healing energy from Katreesa.
+11/23/24 4:35:34p Shobaffum says, "one"
+11/23/24 4:35:36p * Ramandu recovers the Glacier Bear fur, worth 13c. Your share is 2c.
+11/23/24 4:35:40p Shadowfire turns to stone.
+11/23/24 4:35:40p Cousin Jenny yells, "Mew!"
+11/23/24 4:35:41p * Articuno recovers the Glacier Bear fur, worth 31c. Your share is 3c.
+11/23/24 4:35:45p •You sense healing energy from Tasus.
+11/23/24 4:35:45p •You sense healing energy from Katreesa.
+11/23/24 4:35:47p Valadorei has fallen to a Damaged Spirit.
+11/23/24 4:35:47p Shadowfire yells, "keel, I don't brick these yet"
+11/23/24 4:35:50p * Cousin Jenny recovers the Burrowing Bear fur, worth 93c. Your share is 7c.
+11/23/24 4:35:51p Tasus says, "Zergling bears, man."
+11/23/24 4:35:51p (Ramandu pats the bear butt)
+11/23/24 4:35:54p Pun'isher growls, "oh wow"
+11/23/24 4:35:56p Valadorei is no longer fallen.
+11/23/24 4:35:57p Pun'isher growls, "those are different"
+11/23/24 4:36:04p Articuno growls, "so new spawns?? big confused"
+11/23/24 4:36:06p (Valadorei gigges.)
+11/23/24 4:36:06p You have 2394 coins.
+11/23/24 4:36:10p Cousin Jenny asks, "where you been Pun?"
+11/23/24 4:36:10p Ramandu says, "Connie's nightmare - burrowing beer"
+11/23/24 4:36:11p Shadowfire yells, "Gather north!"
+11/23/24 4:36:28p Ramandu says, "Beware of bearkspawns"
+11/23/24 4:36:29p Tasus thinks, "N"
+11/23/24 4:36:31p Shadowfire yells, "May her floofy paws guide us on our path!"
+11/23/24 4:36:56p Valadorei has fallen to a Damaged Spirit.
+11/23/24 4:37:01p Valadorei is no longer fallen.
+11/23/24 4:37:19p * You mentally enhance Tasus
+11/23/24 4:37:19p * You mentally enhance Katreesa
+11/23/24 4:37:19p * You mentally enhance Shadowfire
+11/23/24 4:37:19p * You mentally enhance Ramandu
+11/23/24 4:37:19p * You mentally enhance Cousin Jenny
+11/23/24 4:37:19p * You mentally enhance Articuno
+11/23/24 4:37:19p * You mentally enhance Valadorei
+11/23/24 4:37:19p * You mentally enhance Lorikeet
+11/23/24 4:37:26p You have 2394 coins.
+11/23/24 4:37:35p Shadowfire yells, "Gather south!"
+11/23/24 4:37:52p Shadowfire yells, "Fie upon the Weeder, glory to the Beast!"
+11/23/24 4:38:18p Valadorei has fallen to a lump of ice.
+11/23/24 4:38:25p Shadowfire says, "lol"
+11/23/24 4:38:27p Shadowfire says, "double kill"
+11/23/24 4:38:34p Valadorei is no longer fallen.
+11/23/24 4:38:46p You have 2394 coins.
+11/23/24 4:39:04p * Your mental enhancement fades.
+11/23/24 4:39:14p * Articuno recovers the Glacier Bear fur, worth 9c. Your share is 1c.
+11/23/24 4:39:14p * Cousin Jenny recovers the Frost Yorilla fur, worth 20c. Your share is 2c.
+11/23/24 4:39:20p Ramandu growls, "Did we pull eachother?"
+11/23/24 4:39:21p * You mentally enhance Cousin Jenny
+11/23/24 4:39:21p * You mentally enhance Ramandu
+11/23/24 4:39:21p * You mentally enhance Katreesa
+11/23/24 4:39:21p * You mentally enhance Articuno
+11/23/24 4:39:21p * You mentally enhance Pun'isher
+11/23/24 4:39:21p * You mentally enhance Raul
+11/23/24 4:39:22p * You mentally enhance Lorikeet
+11/23/24 4:39:22p Pun'isher growls, "iw as tryna pull you haha"
+11/23/24 4:39:24p Shadowfire yells, "I'm talkin' bout the Beast! What Beast? The Beast with the power! What power? The power of Cones!"
+11/23/24 4:39:25p Pun'isher growls, "yes!"
+11/23/24 4:39:25p (Ramandu has no idea what happened :p)
+11/23/24 4:39:37p * Cousin Jenny recovers the Frost Yorilla fur, worth 71c. Your share is 7c.
+11/23/24 4:39:41p Pun'isher growls, "i dont even think we switched positions"
+11/23/24 4:39:42p * Articuno recovers the Frost Yorilla fur, worth 62c. Your share is 6c.
+11/23/24 4:39:55p Pun'isher growls, "it was simultaneious pull"
+11/23/24 4:39:56p Pun'isher growls, "lol"
+11/23/24 4:39:57p Shadowfire yells, "Fie upon the Weeder, glory to the Beast!"
+11/23/24 4:39:58p Ramandu growls, "heh"
+11/23/24 4:40:06p Ramandu growls, "I was so confused"
+11/23/24 4:40:07p You have 2410 coins.
+11/23/24 4:40:10p Ramandu growls, ""Why isn't it working?!""
+11/23/24 4:40:11p * Raul recovers the Frost Yorilla fur, worth 8c. Your share is 1c.
+11/23/24 4:40:15p Articuno growls, "watch out for rocks"
+11/23/24 4:40:16p * Articuno recovers the Frost Yorilla fur, worth 8c. Your share is 1c.
+11/23/24 4:40:17p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+11/23/24 4:40:18p Warawonda has fallen to a lump of ice.
+11/23/24 4:40:20p Articuno growls, "lol"
+11/23/24 4:40:22p •You sense healing energy from Katreesa.
+11/23/24 4:40:34p * Lorikeet recovers the Frost Yorilla fur, worth 11c. Your share is 1c.
+11/23/24 4:40:41p Cousin Jenny says, "ty"
+11/23/24 4:41:06p * Cousin Jenny recovers the Glacier Bear Cub fur, worth 74c. Your share is 6c.
+11/23/24 4:41:07p * Your mental enhancement fades.
+11/23/24 4:41:12p Cousin Jenny says, "everygood cat painter needs a mews"
+11/23/24 4:41:14p Ramandu growls, "Oh no"
+11/23/24 4:41:16p Shadowfire yells, "Onward, in Her Holy Pawprints!"
+11/23/24 4:41:21p Ramandu growls, "I just hurt myself."
+11/23/24 4:41:26p Ramandu growls, "Emotionally"
+11/23/24 4:41:27p You have 2419 coins.
+11/23/24 4:41:30p * Shobaffum recovers the Frost Yorilla fur, worth 23c. Your share is 3c.
+11/23/24 4:41:38p Boo-P says, "Greetings, Pun'isher. I can lend you a costume like mine."
+11/23/24 4:41:41p Boo-P says, "You may keep the costume as long as you wish. Come back here when you want to return it."
+11/23/24 4:41:43p Articuno says, "check on alter hehe"
+11/23/24 4:41:45p Boo-P says, "There you go, Pun'isher. A pleasure doing business with you."
+11/23/24 4:41:47p * Ramandu recovers the Glacier Bear fur, worth 17c. Your share is 2c.
+11/23/24 4:41:51p Boo-P says, "Greetings, Warawonda. I can lend you a costume like mine."
+11/23/24 4:41:52p Boo-P says, "You may keep the costume as long as you wish. Come back here when you want to return it."
+11/23/24 4:41:52p Boo-P says, "There you go, Warawonda. A pleasure doing business with you."
+11/23/24 4:41:59p Shadowfire yells, "Nada"
+11/23/24 4:42:02p Ramandu growls, "Maybe we could summon more of those bears by all shivering in a line"
+11/23/24 4:42:11p Ramandu growls, "A row of brrrs. I brrr-row"
+11/23/24 4:42:14p Ramandu growls, "A row of brrrs. A brrr-row"
+11/23/24 4:42:14p Boo-P says, "Greetings, Pun'isher. I can lend you a costume like mine."
+11/23/24 4:42:18p Shadowfire says, "lol"
+11/23/24 4:42:19p Pun'isher exclaims, "i dig it!"
+11/23/24 4:42:30p Ramandu growls, "I am SO easily entertained when I'm tired"
+11/23/24 4:42:31p Deathless is no longer Clanning.
+11/23/24 4:42:37p Pun'isher growls, "i dig it!"
+11/23/24 4:42:38p Valadorei has fallen to an Ice'kin.
+11/23/24 4:42:43p Valadorei is no longer fallen.
+11/23/24 4:42:44p Ramandu growls, "heh"
+11/23/24 4:42:47p You have 2424 coins.
+11/23/24 4:42:58p Ramandu growls, "It was not altered?"
+11/23/24 4:43:14p Lorikeet yells, "spawn"
+11/23/24 4:43:18p Cousin Jenny yells, "Mew!"
+11/23/24 4:43:19p Shadowfire yells, "By the Burbles of the Beast!"
+11/23/24 4:43:23p Ramandu yells, "save Lori!"
+11/23/24 4:43:30p * Articuno recovers the Glacier Bear Cub fur, worth 22c. Your share is 3c.
+11/23/24 4:43:32p * Articuno recovers the Glacier Bear Cub fur, worth 86c. Your share is 12c.
+11/23/24 4:43:33p * You recover the Glacier Bear Cub fur, worth 4c.
+11/23/24 4:43:38p Lorikeet says, "If I wasn't so sleepy you would have missed those ;)"
+11/23/24 4:43:48p Lorikeet says, "4 cubs"
+11/23/24 4:43:48p (Valadorei giggle.s)
+11/23/24 4:43:49p Ramandu growls, "Heh"
+11/23/24 4:43:51p (Valadorei giggles)
+11/23/24 4:43:52p * You mentally enhance Cousin Jenny
+11/23/24 4:43:52p * You mentally enhance Katreesa
+11/23/24 4:43:52p * You mentally enhance Lorikeet
+11/23/24 4:43:52p * You mentally enhance Ramandu
+11/23/24 4:43:52p * You mentally enhance Valadorei
+11/23/24 4:44:05p Shadowfire yells, "?"
+11/23/24 4:44:07p You have 2439 coins.
+11/23/24 4:44:12p Cousin Jenny yells, "Mew!"
+11/23/24 4:44:14p Ramandu yells, "Spawn on Lori, dealth with"
+11/23/24 4:44:25p Lorikeet yells, "c"
+11/23/24 4:44:33p Shadowfire yells, "on the way"
+11/23/24 4:44:38p Panthro is now Clanning.
+11/23/24 4:44:41p Ramandu says, "I thought Shadow was over here :p"
+11/23/24 4:44:42p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+11/23/24 4:44:42p Warawonda has fallen to a Glacier Bear.
+11/23/24 4:44:46p Lorikeet yells, "chest"
+11/23/24 4:44:52p •You sense healing energy from Tasus.
+11/23/24 4:44:55p * Articuno recovers the Glacier Bear fur, worth 44c. Your share is 4c.
+11/23/24 4:45:00p Articuno starts dragging you.
+11/23/24 4:45:02p Pun'isher growls, "wiat"
+11/23/24 4:45:02p Shadowfire yells, "bring it in"
+11/23/24 4:45:12p Shadowfire yells, "Get over here"
+11/23/24 4:45:27p Pun'isher growls, "war close enoug?"
+11/23/24 4:45:27p You have 2443 coins.
+11/23/24 4:45:28p Dalex is now Clanning.
+11/23/24 4:45:29p Shadowfire asks, "ok i think that's everyone?"
+11/23/24 4:45:32p Dalex is no longer Clanning.
+11/23/24 4:45:36p Serius is now Clanning.
+11/23/24 4:45:38p * Your mental enhancement fades.
+11/23/24 4:45:39p * You pick up 26 coins.
+11/23/24 4:45:39p * You gain experience.
+11/23/24 4:45:42p Pun'isher growls, "yay"
+11/23/24 4:45:44p Shadowfire says, "nice"
+11/23/24 4:45:45p (Ramandu's spirit was crushed)
+11/23/24 4:45:46p Shadowfire yells, "By the Blessed Beans!"
+11/23/24 4:45:52p Lorikeet says, "=)"
+11/23/24 4:45:54p Pun'isher growls, "that will pay for my mail spamming"
+11/23/24 4:45:58p Shadowfire yells, "Onward, in Her Holy Pawprints!"
+11/23/24 4:46:16p * You recover the Glacier Bear fur, worth 46c. Your share is 4c.
+11/23/24 4:46:17p Articuno growls, "ya get ep on burror bears?"
+11/23/24 4:46:20p Articuno growls, "exp"
+11/23/24 4:46:29p Valadorei has fallen to a Glacier Bear.
+11/23/24 4:46:31p Pun'isher says, "oof"
+11/23/24 4:46:32p Articuno yells, "c"
+11/23/24 4:46:34p * You recover the Glacier Bear fur, worth 36c. Your share is 3c.
+11/23/24 4:46:35p Valadorei is no longer fallen.
+11/23/24 4:46:45p * You mentally enhance Lorikeet
+11/23/24 4:46:45p * You mentally enhance Shadowfire
+11/23/24 4:46:45p * You mentally enhance Pun'isher
+11/23/24 4:46:45p * You mentally enhance Katreesa
+11/23/24 4:46:45p * You mentally enhance Articuno
+11/23/24 4:46:45p * You mentally enhance Cousin Jenny
+11/23/24 4:46:46p * You mentally enhance Tasus
+11/23/24 4:46:46p * You mentally enhance Shobaffum
+11/23/24 4:46:46p Valadorei has fallen to a Crushing Spirit.
+11/23/24 4:46:48p You have 2476 coins.
+11/23/24 4:46:48p * You pick up 20 coins.
+11/23/24 4:46:48p * You gain experience.
+11/23/24 4:46:52p Pun'isher exclaims, "woot!!"
+11/23/24 4:47:02p Articuno yells, "c"
+11/23/24 4:47:03p Valadorei is no longer fallen.
+11/23/24 4:47:08p Shadowfire yells, "bring it in"
+11/23/24 4:47:13p Valadorei has fallen to a Crushing Spirit.
+11/23/24 4:47:13p (Shadowfire blinks)
+11/23/24 4:47:22p * You pick up 21 coins.
+11/23/24 4:47:22p * You gain experience.
+11/23/24 4:47:22p Valadorei is no longer fallen.
+11/23/24 4:47:24p Cousin Jenny says, "woot"
+11/23/24 4:47:25p Pun'isher exclaims, "oh nice!"
+11/23/24 4:47:27p Shadowfire says, "$$"
+11/23/24 4:47:29p Pun'isher exclaims, "lots of chests!"
+11/23/24 4:47:41p Shadowfire yells, "All glory to Cone Beast!"
+11/23/24 4:47:46p Ramandu says, "lol"
+11/23/24 4:47:58p Shadowfire yells, "Scour the snowdrifts!"
+11/23/24 4:48:01p * Cousin Jenny recovers the Frost Yorilla fur, worth 58c. Your share is 6c.
+11/23/24 4:48:08p You have 2523 coins.
+11/23/24 4:48:14p * Cousin Jenny recovers the Frost Yorilla fur, worth 36c. Your share is 4c.
+11/23/24 4:48:22p Pun'isher has fallen to a Burrowing Bear.
+11/23/24 4:48:24p * Raul recovers the Frost Yorilla fur, worth 9c. Your share is 1c.
+11/23/24 4:48:25p Cousin Jenny yells, "Mew!"
+11/23/24 4:48:26p Articuno yells, "2"
+11/23/24 4:48:28p Pun'isher yells, "weird bear bs"
+11/23/24 4:48:30p Cousin Jenny says, "shite"
+11/23/24 4:48:31p * Your mental enhancement fades.
+11/23/24 4:48:41p Pun'isher yells, "i dont dig them!"
+11/23/24 4:48:46p * You mentally enhance Cousin Jenny
+11/23/24 4:48:46p * You mentally enhance Katreesa
+11/23/24 4:48:46p * You mentally enhance Shadowfire
+11/23/24 4:48:46p * You mentally enhance Lorikeet
+11/23/24 4:48:47p * You mentally enhance Raul
+11/23/24 4:48:47p * You mentally enhance Shobaffum
+11/23/24 4:48:47p * You mentally enhance Valadorei
+11/23/24 4:48:48p Ramandu yells, "1"
+11/23/24 4:48:48p Shobaffum growls, "one"
+11/23/24 4:48:50p Shadowfire yells, "We're on the right track!"
+11/23/24 4:48:52p Tasus yells, "burrower"
+11/23/24 4:48:53p Pun'isher yells, "10 pts for me!"
+11/23/24 4:48:56p Valadorei has fallen to a Burrowing Bear.
+11/23/24 4:49:01p * You recover the Burrowing Bear fur, worth 39c. Your share is 3c.
+11/23/24 4:49:06p Ramandu growls, "The chests earlier were the right rack?"
+11/23/24 4:49:07p Panthro is sharing experiences with you.
+11/23/24 4:49:12p Valadorei is no longer fallen.
+11/23/24 4:49:12p * Your mental enhancement fades.
+11/23/24 4:49:16p Articuno asks, "might be new spawns?"
+11/23/24 4:49:20p Pun'isher is no longer fallen.
+11/23/24 4:49:20p Ramandu says, "Sorry, LA clan chat is leaking :p"
+11/23/24 4:49:22p Pun'isher yells, "I was under a snow bluff. then shoba came and pokered me out"
+11/23/24 4:49:23p Articuno says, "not sure have to come again hehe"
+11/23/24 4:49:25p Shadowfire yells, "ok perform standard puddlebean wall humping"
+11/23/24 4:49:28p You have 2531 coins.
+11/23/24 4:49:44p Articuno yells, "2"
+11/23/24 4:49:53p Articuno says, "s"
+11/23/24 4:49:55p Ramandu yells, "Look for burrs and brrs"
+11/23/24 4:49:56p Articuno growls, "s"
+11/23/24 4:50:04p Shadowfire yells, "focus fire"
+11/23/24 4:50:05p * Pun'isher recovers the Burrowing Bear fur, worth 158c. Your share is 15c.
+11/23/24 4:50:09p * Articuno recovers the Burrowing Bear fur, worth 82c. Your share is 7c.
+11/23/24 4:50:15p Ramandu says, "Things are getting weird, friends"
+11/23/24 4:50:16p Shobaffum growls, "good furs"
+11/23/24 4:50:16p Shadowfire says, "hmm, maybe outside then"
+11/23/24 4:50:18p Pun'isher growls, "could this be part of that failed update?"
+11/23/24 4:50:22p Ramandu says, "We're trapped in the bearmuda triangle"
+11/23/24 4:50:25p Shadowfire yells, "I'm talkin' bout the Beast! What Beast? The Beast with the power! What power? The power of Cones!"
+11/23/24 4:50:27p Ramandu exclaims, "It's all triangles!"
+11/23/24 4:50:28p Lorikeet says, "hah"
+11/23/24 4:50:32p * Your mental enhancement fades.
+11/23/24 4:50:32p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+11/23/24 4:50:33p Warawonda has fallen to a Frost Foxweir.
+11/23/24 4:50:34p •You sense healing energy from Tasus.
+11/23/24 4:50:40p You helped vanquish a Frost Foxweir.
+11/23/24 4:50:40p * Articuno recovers the Frost Foxweir fur, worth 24c. Your share is 3c.
+11/23/24 4:50:47p Articuno growls, "10 min"
+11/23/24 4:50:48p (Valadorei giggles.)
+11/23/24 4:50:48p You have 2556 coins.
+11/23/24 4:50:52p Shadowfire yells, "wru berbers"
+11/23/24 4:50:53p Lorikeet yells, "we going south?"
+11/23/24 4:50:55p Shadowfire says, "yes"
+11/23/24 4:50:58p * You recover the Frost Foxweir fur, worth 55c. Your share is 6c.
+11/23/24 4:51:08p * Articuno recovers the Snowstag fur, worth 56c. Your share is 6c.
+11/23/24 4:51:10p Shadowfire yells, "Gather south!"
+11/23/24 4:51:13p Articuno growls, "be cool ifthose reg spawn"
+11/23/24 4:51:14p Tasus says, "2"
+11/23/24 4:51:15p Ramandu yells, "Bears not here. They went shopping at bearburry"
+11/23/24 4:51:26p Pun'isher growls, "haha"
+11/23/24 4:51:26p Valadorei has fallen to a Frost Foxweir.
+11/23/24 4:51:29p Articuno growls, "those exp?"
+11/23/24 4:51:30p * Ramandu recovers the Frost Foxweir fur, worth 7c. Your share is 1c.
+11/23/24 4:51:30p Cousin Jenny says, "2 nire s'"
+11/23/24 4:51:37p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+11/23/24 4:51:37p Articuno growls, "1"
+11/23/24 4:51:37p You cannot possibly use anything in your current condition.
+11/23/24 4:51:37p Warawonda has fallen to a lump of ice.
+11/23/24 4:51:38p Lorikeet says, "seems east is open"
+11/23/24 4:51:38p Pun'isher growls, "they are known to have a checkered past"
+11/23/24 4:51:40p •You sense healing energy from Katreesa.
+11/23/24 4:51:41p Articuno growls, "sw"
+11/23/24 4:51:48p Valadorei is no longer fallen.
+11/23/24 4:51:49p Articuno growls, "sw"
+11/23/24 4:51:49p Ramandu growls, "I think I saw one SW"
+11/23/24 4:51:49p Cousin Jenny says, "more s"
+11/23/24 4:51:52p •You sense healing energy from Katreesa.
+11/23/24 4:51:54p •You sense healing energy from Tasus.
+11/23/24 4:51:58p Shadowfire thinks, "s pls"
+11/23/24 4:51:59p Panthro is no longer Clanning.
+11/23/24 4:52:02p Ramandu thinks, "one here"
+11/23/24 4:52:05p Ramandu growls, "Or not"
+11/23/24 4:52:06p Valadorei has fallen to a lump of ice.
+11/23/24 4:52:08p You have 2569 coins.
+11/23/24 4:52:10p * You slip and slide on the ice.
+11/23/24 4:52:17p Valadorei is no longer fallen.
+11/23/24 4:52:23p Ramandu growls, "Huh"
+11/23/24 4:52:29p * Cousin Jenny recovers the Frost Foxweir fur, worth 73c. Your share is 7c.
+11/23/24 4:52:30p Raul has fallen to a Frost Foxweir.
+11/23/24 4:52:31p Raul is no longer fallen.
+11/23/24 4:52:32p Raul has fallen to a Frost Foxweir.
+11/23/24 4:52:32p Ramandu growls, "In retrospect I should have tried to get moves on those :p"
+11/23/24 4:52:33p * Articuno recovers the Frost Foxweir fur, worth 71c. Your share is 8c.
+11/23/24 4:52:35p * You recover the Frost Foxweir fur, worth 23c. Your share is 2c.
+11/23/24 4:52:36p Shadowfire says, "lol"
+11/23/24 4:52:38p * Shadowfire recovers the Frost Foxweir fur, worth 2c. Your share is 1c.
+11/23/24 4:52:38p Raul is no longer fallen.
+11/23/24 4:52:43p Cousin Jenny says, "wow"
+11/23/24 4:52:44p * You mentally enhance Valadorei
+11/23/24 4:52:44p * You mentally enhance Shadowfire
+11/23/24 4:52:44p * You mentally enhance Ramandu
+11/23/24 4:52:44p * You mentally enhance Shobaffum
+11/23/24 4:52:44p * You mentally enhance Cousin Jenny
+11/23/24 4:52:44p * You mentally enhance Tasus
+11/23/24 4:52:44p * You mentally enhance Katreesa
+11/23/24 4:52:44p * You mentally enhance Pun'isher
+11/23/24 4:52:44p * You mentally enhance Lorikeet
+11/23/24 4:52:46p Pun'isher growls, "oh yah"
+11/23/24 4:52:50p Shadowfire says, "those things are bitey"
+11/23/24 4:52:52p Pun'isher growls, "that would have been smart"
+11/23/24 4:52:58p Ramandu growls, "Well hindsight is 20/20"
+11/23/24 4:53:01p (Ramandu looks at his butt)
+11/23/24 4:53:05p Articuno says, "if they spawn more can do it"
+11/23/24 4:53:05p * Articuno recovers the Glacier Bear Cub fur, worth 59c. Your share is 5c.
+11/23/24 4:53:10p Articuno says, "noixt time"
+11/23/24 4:53:15p * Ramandu recovers the Frost Foxweir fur, worth 33c. Your share is 3c.
+11/23/24 4:53:19p Shadowfire yells, "Who has to be back on time?"
+11/23/24 4:53:26p Cousin Jenny says, "not me"
+11/23/24 4:53:29p You have 2595 coins.
+11/23/24 4:53:35p Shadowfire says, "i.e. do we have time to go looking for bears"
+11/23/24 4:53:36p Lorikeet yells, "I would like to. HAve been falling asleep"
+11/23/24 4:53:37p Ramandu growls, "I can stay an extra 30 min or so but not much more than that"
+11/23/24 4:53:40p Shadowfire says, "√"
+11/23/24 4:53:42p Lorikeet says, "I can run out"
+11/23/24 4:53:46p Ramandu growls, "Oh, okay"
+11/23/24 4:53:49p Valadorei says, "Not me but I will say I am becoming dangerously sleepy. :P"
+11/23/24 4:53:54p Ramandu growls, "We could wish them a fond bearwell"
+11/23/24 4:53:55p Shadowfire yells, "ok let's clear the way out then come back and look for berber mysteries"
+11/23/24 4:54:02p (Valadorei nods)
+11/23/24 4:54:05p Shadowfire thinks, "e pls"
+11/23/24 4:54:21p Ramandu yells, "I dunno. I think we might be bearking up the wrong tree"
+11/23/24 4:54:22p Valadorei has fallen to a Frost Yorilla.
+11/23/24 4:54:22p Shadowfire yells, "Ram?"
+11/23/24 4:54:27p * Articuno recovers the Frost Yorilla fur, worth 92c. Your share is 10c.
+11/23/24 4:54:30p * Cousin Jenny recovers the Frost Yorilla fur, worth 50c. Your share is 4c.
+11/23/24 4:54:30p * Your mental enhancement fades.
+11/23/24 4:54:34p Pun'isher yells, "dont cub your enthusiasm"
+11/23/24 4:54:35p Ramandu growls, "I lost everyone!"
+11/23/24 4:54:37p Valadorei is no longer fallen.
+11/23/24 4:54:42p * Cousin Jenny recovers the Frost Yorilla fur, worth 32c. Your share is 4c.
+11/23/24 4:54:46p Shadowfire says, "Ram"
+11/23/24 4:54:48p Ramandu yells, "I'm out of my cubist phase"
+11/23/24 4:54:49p You have 2613 coins.
+11/23/24 4:54:49p Cousin Jenny exclaims, "toads last!"
+11/23/24 4:54:51p Valadorei says, "We're right here"
+11/23/24 4:54:53p Ramandu growls, "What."
+11/23/24 4:54:55p Shadowfire says, "I can't believe ursining off on this plan"
+11/23/24 4:54:57p Shadowfire yells, "By the Burbles of the Beast!"
+11/23/24 4:55:12p Pun'isher yells, "mb last"
+11/23/24 4:55:13p * You recover the Mountain Bison fur, worth 36c. Your share is 4c.
+11/23/24 4:55:19p Articuno growls, "dismissing"
+11/23/24 4:55:20p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+11/23/24 4:55:20p Warawonda has fallen to a Mountain Bison.
+11/23/24 4:55:22p * Shadowfire recovers the Shadowcat Huntress fur, worth 11c. Your share is 2c.
+11/23/24 4:55:22p •You sense healing energy from Katreesa.
+11/23/24 4:55:28p Pun'isher yells, "wasp"
+11/23/24 4:55:31p Ramandu yells, "wasp"
+11/23/24 4:55:32p Shadowfire yells, "Gather north!"
+11/23/24 4:55:48p Tasus thinks, "N"
+11/23/24 4:55:48p Shadowfire yells, "Well get zee wasp zen fire zee missiles"
+11/23/24 4:55:48p * You mentally enhance Katreesa
+11/23/24 4:55:49p * You mentally enhance Articuno
+11/23/24 4:55:49p * You mentally enhance Cousin Jenny
+11/23/24 4:55:49p * You mentally enhance Valadorei
+11/23/24 4:55:49p * You mentally enhance Shobaffum
+11/23/24 4:55:49p * You mentally enhance Shadowfire
+11/23/24 4:55:49p * You mentally enhance Pun'isher
+11/23/24 4:55:49p * You mentally enhance Ramandu
+11/23/24 4:55:49p * You mentally enhance Lorikeet
+11/23/24 4:55:53p Ramandu growls, "lol"
+11/23/24 4:55:56p Cousin Jenny says, "started sweating back there"
+11/23/24 4:56:09p You have 2619 coins.
+11/23/24 4:56:16p Shadowfire thinks, "n pls"
+11/23/24 4:56:38p * Your mental enhancement fades.
+11/23/24 4:56:38p * Raul recovers the Sky Bison fur, worth 78c. Your share is 9c.
+11/23/24 4:56:42p Shadowfire yells, "By the Burbles of the Beast!"
+11/23/24 4:56:43p •You sense healing energy from Katreesa.
+11/23/24 4:56:55p * Your share in the 2c Hickory Giant bounty is 1c.
+11/23/24 4:56:56p Ramandu yells, "Jenny you get one more chance"
+11/23/24 4:57:02p Shadowfire says, "ot not"
+11/23/24 4:57:03p Tasus yells, "lies"
+11/23/24 4:57:04p Valadorei has fallen to a Giant River Lizard.
+11/23/24 4:57:04p Ramandu growls, "Er"
+11/23/24 4:57:04p Shadowfire says, "or not"
+11/23/24 4:57:06p Shadowfire says, "lol"
+11/23/24 4:57:06p Ramandu growls, "You get one more chance"
+11/23/24 4:57:14p You equip your Rod of Akea.
+11/23/24 4:57:16p Cousin Jenny says, "mew"
+11/23/24 4:57:17p Valadorei is no longer fallen.
+11/23/24 4:57:19p Ramandu growls, "Art you do it"
+11/23/24 4:57:20p Lorikeet yells, "thanks all"
+11/23/24 4:57:23p * You mentally enhance Cousin Jenny
+11/23/24 4:57:24p * You do not have enough energy!
+11/23/24 4:57:24p * You mentally enhance Cousin Jenny
+11/23/24 4:57:24p * You mentally enhance Articuno
+11/23/24 4:57:24p * You mentally enhance Pun'isher
+11/23/24 4:57:24p * You mentally enhance Cousin Jenny
+11/23/24 4:57:25p * You mentally enhance Articuno
+11/23/24 4:57:25p Pun'isher yells, "North Beachmb"
+11/23/24 4:57:25p * You mentally enhance Pun'isher
+11/23/24 4:57:25p * You mentally enhance Cousin Jenny
+11/23/24 4:57:25p * You mentally enhance Articuno
+11/23/24 4:57:25p * You mentally enhance Pun'isher
+11/23/24 4:57:25p * You mentally enhance Articuno
+11/23/24 4:57:26p * You mentally enhance Pun'isher
+11/23/24 4:57:27p Pun'isher growls, "oof"
+11/23/24 4:57:29p You have 2629 coins.
+11/23/24 4:57:29p Katreesa thinks, "thanks folks <3"
+11/23/24 4:57:34p * Your mental enhancement fades.
+11/23/24 4:57:35p Pun'isher yells, "mb"
+11/23/24 4:57:35p You equip your Staff of Ballou.
+11/23/24 4:57:36p Cousin Jenny says, "thanks everyone"
+11/23/24 4:57:42p Cousin Jenny says, "woot"
+11/23/24 4:57:44p Pun'isher thinks, "mb"
+11/23/24 4:57:46p Shadowfire thinks, "Tanks everyone! (If anyone wants to go look for mystery bears we can after)"
+11/23/24 4:57:50p Cousin Jenny exclaims, "ah bink!"
+11/23/24 4:57:50p (Bink was close)
+11/23/24 4:57:51p * Lorikeet recovers the Mountain Bison fur, worth 6c. Your share is 1c.
+11/23/24 4:57:53p Articuno says, "id like to peek more"
+11/23/24 4:57:55p Pun'isher yells, "mb last"
+11/23/24 4:58:01p Bink exclaims, "had her preloaded ready to atkus!"
+11/23/24 4:58:02p * Cousin Jenny recovers the Sky Bison fur, worth 106c. Your share is 12c.
+11/23/24 4:58:03p * You recover the Mountain Bison fur, worth 59c. Your share is 6c.
+11/23/24 4:58:10p * You recover the Shadowcat Huntress fur, worth 28c. Your share is 3c.
+11/23/24 4:58:19p Shadowfire says, "ok important question"
+11/23/24 4:58:23p Shadowfire says, "Do we have any healers lol"
+11/23/24 4:58:25p Pun'isher growls, "yes"
+11/23/24 4:58:27p Katreesa says, "yep"
+11/23/24 4:58:27p Pun'isher growls, "oh"
+11/23/24 4:58:31p (Tasus am Chimken)
+11/23/24 4:58:34p Articuno asks, "reshares?"
+11/23/24 4:58:35p Shobaffum says, "only one we need"
+11/23/24 4:58:35p Shadowfire says, "√"
+11/23/24 4:58:40p Shobaffum says, "only two we need"
+11/23/24 4:58:46p Pun'isher growls, "i bet they are coming from that red thing"
+11/23/24 4:58:49p You have 2651 coins.
+11/23/24 4:58:51p Articuno says, "share war"
+11/23/24 4:58:53p Articuno says, "op"
+11/23/24 4:58:55p Ramandu asks, "Red thing?"
+11/23/24 4:58:56p Articuno is sharing experiences with you.
+11/23/24 4:58:57p Cousin Jenny says, "red thing"
+11/23/24 4:58:58p Cousin Jenny asks, "?"
+11/23/24 4:58:58p Ramandu asks, ".... you mean Kat?"
+11/23/24 4:59:00p Shadowfire asks, "red thing?"
+11/23/24 4:59:02p Pun'isher growls, "the things you walk through"
+11/23/24 4:59:05p Pun'isher growls, "like a gazebo"
+11/23/24 4:59:06p Shobaffum is sharing experiences with you.
+11/23/24 4:59:07p •The Sun rises.
+11/23/24 4:59:09p * Your mental enhancement fades.
+11/23/24 4:59:09p * Your mental enhancement fades.
+11/23/24 4:59:09p Pun'isher growls, "north of stairs"
+11/23/24 4:59:10p * Your mental enhancement fades.
+11/23/24 4:59:10p * Your mental enhancement fades.
+11/23/24 4:59:12p Pun'isher growls, "and ne"
+11/23/24 4:59:12p Ramandu asks, "the... Torii?"
+11/23/24 4:59:13p Articuno asks, "re s?"
+11/23/24 4:59:22p Shadowfire says, "yeah"
+11/23/24 4:59:24p Shadowfire yells, "S"
+11/23/24 4:59:26p Shobaffum says, "shadow, 2h, 2m"
+11/23/24 4:59:32p Lorikeet is no longer Clanning.
+11/23/24 4:59:32p Ramandu is sharing experiences with you.
+11/23/24 4:59:38p Cousin Jenny is sharing experiences with you.
+11/23/24 4:59:40p Pun'isher yells, "i am cannon fodder"
+11/23/24 4:59:40p Shadowfire yells, "Ok mystics, you're up, look for berber mysteries"
+11/23/24 4:59:52p Ramandu growls, "the... Torii?"
+11/23/24 4:59:53p * You mentally enhance Cousin Jenny
+11/23/24 4:59:53p * You mentally enhance Valadorei
+11/23/24 4:59:53p * You mentally enhance Ramandu
+11/23/24 4:59:53p * You mentally enhance Tasus
+11/23/24 4:59:53p * You mentally enhance Raul
+11/23/24 4:59:54p Shadowfire thinks, "s pls"
+11/23/24 4:59:55p Ramandu says, "."
+11/23/24 4:59:59p Pun'isher yells, "a runs ahead as a shield"
+11/23/24 5:00:09p * Cousin Jenny recovers the Wild Stallion fur, worth 58c. Your share is 6c.
+11/23/24 5:00:10p You have 2657 coins.
+11/23/24 5:00:13p Shadowfire yells, "By the Floof of the Fur!"
+11/23/24 5:00:34p Shadowfire asks, "Hokay Vala, Wara, you're up, where do we go?"
+11/23/24 5:00:40p (Ramandu nods)
+11/23/24 5:00:48p Ramandu exclaims, "Supersecret mystic powers go!"
+11/23/24 5:00:50p Valadorei says, "Hm..."
+11/23/24 5:01:00p Pun'isher growls, "so 2h 2m and shadow"
+11/23/24 5:01:03p Articuno growls, "aye"
+11/23/24 5:01:16p Katreesa says, "actually, I need a moment, sorry"
+11/23/24 5:01:20p (Valadorei points up the stairs.)
+11/23/24 5:01:20p Shadowfire says, "npnp"
+11/23/24 5:01:30p You have 2657 coins.
+11/23/24 5:01:31p Shobaffum says, "oh the detail"
+11/23/24 5:01:32p Valadorei says, "Find snow."
+11/23/24 5:01:36p Shobaffum says, "lol"
+11/23/24 5:01:36p Shadowfire says, "ok someone push Kat up the stairs"
+11/23/24 5:01:38p Shadowfire yells, "For the glory of Cone Beast!"
+11/23/24 5:01:39p * Your mental enhancement fades.
+11/23/24 5:01:39p Ramandu says, "There's snow place like home"
+11/23/24 5:01:39p Pun'isher growls, "oh it looks like its finally raining here"
+11/23/24 5:01:40p (Articuno writes down the plasn)
+11/23/24 5:01:45p Tasus says, "Snhome"
+11/23/24 5:01:56p * You recover the Glacier Bear Cub fur, worth 33c. Your share is 4c.
+11/23/24 5:02:01p * Articuno recovers the Abominable Snow Yorilla fur, worth 100c. Your share is 11c.
+11/23/24 5:02:09p * You recover the Abominable Snow Yorilla fur, worth 48c. Your share is 5c.
+11/23/24 5:02:13p Shadowfire says, "Man I should have put them on it before I just forgot we had mystics"
+11/23/24 5:02:14p Shobaffum growls, "found snow"
+11/23/24 5:02:27p Shadowfire says, "Hokay magic maids whadda we do"
+11/23/24 5:02:27p Valadorei has fallen to a Glacier Bear Cub.
+11/23/24 5:02:29p * You mentally enhance Shadowfire
+11/23/24 5:02:29p * You mentally enhance Cousin Jenny
+11/23/24 5:02:29p * You mentally enhance Ramandu
+11/23/24 5:02:29p * You mentally enhance Tasus
+11/23/24 5:02:31p * Ramandu recovers the Abominable Snow Yorilla fur, worth 2c. Your share is 1c.
+11/23/24 5:02:32p * Articuno recovers the Glacier Bear Cub fur, worth 82c. Your share is 11c.
+11/23/24 5:02:33p Articuno growls, "abnormal"
+11/23/24 5:02:37p Valadorei is no longer fallen.
+11/23/24 5:02:47p Valadorei asks, "Do we have any pattern yet?"
+11/23/24 5:02:50p You have 2689 coins.
+11/23/24 5:03:01p Tasus asks, "2 a snell everyother snell?"
+11/23/24 5:03:02p Articuno growls, "they look like this snow here"
+11/23/24 5:03:04p Tasus says, "Clan Lord maths"
+11/23/24 5:03:04p Cousin Jenny says, "we first saw them, w"
+11/23/24 5:03:04p Shobaffum growls, "seen them cave, and s of cave"
+11/23/24 5:03:04p Shadowfire says, "Well we found them here, west, w,n and inside cave"
+11/23/24 5:03:06p Katreesa is sharing experiences with you.
+11/23/24 5:03:10p Katreesa says, "ewww math"
+11/23/24 5:03:14p Tasus says, "Ya"
+11/23/24 5:03:16p Shadowfire says, "But not north"
+11/23/24 5:03:19p Pun'isher asks, "rut raggy?"
+11/23/24 5:03:25p Shadowfire says, "But that's all I got"
+11/23/24 5:03:30p Haffron is now Clanning.
+11/23/24 5:03:32p Pun'isher says, "i have aplan"
+11/23/24 5:03:39p Ramandu growls, "A plan!"
+11/23/24 5:03:42p Pun'isher exclaims, "yes!"
+11/23/24 5:03:46p Pun'isher says, "gather close all"
+11/23/24 5:03:47p Ramandu growls, "I hate it"
+11/23/24 5:03:47p Warawonda ponders, "plan A"
+11/23/24 5:03:48p Cousin Jenny says, ""the plan""
+11/23/24 5:03:49p Pun'isher says, "its brilliant"
+11/23/24 5:03:49p Ramandu growls, "Let's go to plan B"
+11/23/24 5:03:52p Articuno growls, "heh"
+11/23/24 5:03:55p Pun'isher says, "we run around aimlessly"
+11/23/24 5:03:55p (Shobaffum wants to ignore pun)
+11/23/24 5:04:01p Articuno growls, "plan c"
+11/23/24 5:04:03p Pun'isher exclaims, "there!"
+11/23/24 5:04:03p (Tasus likes Shoba plan)
+11/23/24 5:04:04p Pun'isher exclaims, "the plan!"
+11/23/24 5:04:10p You have 2689 coins.
+11/23/24 5:04:11p Shadowfire says, "We gots plan W and plan V"
+11/23/24 5:04:14p * Your mental enhancement fades.
+11/23/24 5:04:17p Ramandu growls, "Plan C - let's go as far west as we can and C what we can C"
+11/23/24 5:04:24p * You mentally enhance Katreesa
+11/23/24 5:04:24p * You mentally enhance Shadowfire
+11/23/24 5:04:24p * You mentally enhance Valadorei
+11/23/24 5:04:24p * You mentally enhance Cousin Jenny
+11/23/24 5:04:24p * You mentally enhance Raul
+11/23/24 5:04:24p * You mentally enhance Ramandu
+11/23/24 5:04:24p * You mentally enhance Articuno
+11/23/24 5:04:24p * You mentally enhance Shobaffum
+11/23/24 5:04:24p * You mentally enhance Tasus
+11/23/24 5:04:24p * You mentally enhance Pun'isher
+11/23/24 5:04:26p Articuno growls, "plan see"
+11/23/24 5:04:26p Shadowfire says, "What do plan V and plan W say xD"
+11/23/24 5:04:26p Pun'isher says, "ooh brilliant1"
+11/23/24 5:04:42p (Ramandu looks at Val)
+11/23/24 5:04:43p Pun'isher says, "this hunt was brought to you by the letters V and W"
+11/23/24 5:04:51p Pun'isher says, "and numbers 11"
+11/23/24 5:04:59p Valadorei asks, "So I'm not seeing any illusions can anyone track them?"
+11/23/24 5:05:00p Ramandu growls, "Uh, that's just the same number twice"
+11/23/24 5:05:01p Shadowfire says, "You don't have to be right, we're here for SCIENCE"
+11/23/24 5:05:11p Articuno growls, "no studys also dont know if can if burroed"
+11/23/24 5:05:12p Shadowfire says, "I don't think anyone has moves"
+11/23/24 5:05:13p Pun'isher thinks, "SCIENCE!"
+11/23/24 5:05:18p Tasus says, "Elon Musk would have a rocket for this."
+11/23/24 5:05:21p Ramandu growls, "Val, you're not trusting your mysticyness"
+11/23/24 5:05:24p Shadowfire says, "lol"
+11/23/24 5:05:30p You have 2689 coins.
+11/23/24 5:05:32p (Valadorei giggles.)
+11/23/24 5:05:34p Ramandu growls, "Just throw a stick on the ground and tell us to go in whatever direction it points"
+11/23/24 5:05:40p Katreesa says, "so uhm...here we are"
+11/23/24 5:05:46p Ramandu growls, "Or have us go straight to Vale"
+11/23/24 5:05:49p Ramandu growls, "Because why not."
+11/23/24 5:06:03p Shadowfire asks, "Which way magic ma'am?"
+11/23/24 5:06:08p Tasus says, "Lure them with TastyTasoos"
+11/23/24 5:06:09p * Your mental enhancement fades.
+11/23/24 5:06:20p * You mentally enhance Katreesa
+11/23/24 5:06:20p * You mentally enhance Shadowfire
+11/23/24 5:06:20p * You mentally enhance Valadorei
+11/23/24 5:06:20p * You mentally enhance Cousin Jenny
+11/23/24 5:06:20p * You mentally enhance Shobaffum
+11/23/24 5:06:20p * You mentally enhance Raul
+11/23/24 5:06:20p * You mentally enhance Tasus
+11/23/24 5:06:20p * You mentally enhance Articuno
+11/23/24 5:06:20p Shadowfire says, "Tank I need an exit"
+11/23/24 5:06:21p Valadorei asks, "Which snells have we not been in yet?"
+11/23/24 5:06:22p Pun'isher yells, "charge!"
+11/23/24 5:06:23p Haffron is no longer Clanning.
+11/23/24 5:06:25p Cousin Jenny asks, "whats does the chicken say?"
+11/23/24 5:06:25p Shadowfire says, "w,w"
+11/23/24 5:06:30p Shadowfire says, "and village"
+11/23/24 5:06:33p Ramandu growls, "Sure"
+11/23/24 5:06:36p Shadowfire yells, "For the glory of Cone Beast!"
+11/23/24 5:06:48p * Articuno recovers the Glacier Bear Cub fur, worth 91c. Your share is 8c.
+11/23/24 5:06:51p You have 2697 coins.
+11/23/24 5:07:03p * Articuno recovers the Alpine Timber Feral fur, worth 91c. Your share is 12c.
+11/23/24 5:07:07p Shadowfire says, "oop"
+11/23/24 5:07:10p * You recover the Alpine Timber Feral fur, worth 39c. Your share is 3c.
+11/23/24 5:07:13p Shadowfire yells, "For the glory of Cone Beast!"
+11/23/24 5:07:19p * You recover the Frost Foxweir fur, worth 14c. Your share is 2c.
+11/23/24 5:07:24p You begin sharing your experiences with Shadowfire.
+11/23/24 5:07:24p You are sharing experiences with Shadowfire, Valadorei, Tasus and Katreesa.
+11/23/24 5:07:30p * You recover the Glacier Bear fur, worth 53c. Your share is 5c.
+11/23/24 5:07:32p Valadorei asks, "Can we check the monastery?"
+11/23/24 5:07:38p Ramandu growls, "What's west of here?"
+11/23/24 5:07:43p Shadowfire says, "I looked earlier but we can all go"
+11/23/24 5:07:43p Articuno growls, "rocks?"
+11/23/24 5:07:44p * Articuno recovers the Abominable Snow Yorilla fur, worth 85c. Your share is 9c.
+11/23/24 5:07:49p * Articuno recovers the Glacier Bear Cub fur, worth 71c. Your share is 7c.
+11/23/24 5:07:53p * Cousin Jenny recovers the Alpine Timber Feral fur, worth 69c. Your share is 8c.
+11/23/24 5:07:59p * Pun'isher recovers the Alpine Timber Feral fur, worth 4c. Your share is 1c.
+11/23/24 5:07:59p * Articuno recovers the Alpine Timber Feral fur, worth 21c. Your share is 3c.
+11/23/24 5:08:00p * You recover the Alpine Timber Feral fur, worth 39c. Your share is 4c.
+11/23/24 5:08:05p * Your mental enhancement fades.
+11/23/24 5:08:07p * Articuno recovers the Glacier Bear Cub fur, worth 79c. Your share is 10c.
+11/23/24 5:08:09p * Ramandu recovers the Frost Yorilla fur, worth 3c. Your share is 1c.
+11/23/24 5:08:09p •You notice that you're able to increase others' accuracy more.
+11/23/24 5:08:10p * Cousin Jenny recovers the Glacier Bear Cub fur, worth 28c. Your share is 4c.
+11/23/24 5:08:11p You have 2766 coins.
+11/23/24 5:08:18p Shadowfire yells, "Gather north!"
+11/23/24 5:08:22p Shadowfire thinks, "n pls"
+11/23/24 5:08:28p Tasus thinks, "bring it"
+11/23/24 5:08:31p Cousin Jenny has fallen to a Glacier Bear.
+11/23/24 5:08:34p Valadorei has fallen to a Glacier Bear.
+11/23/24 5:08:44p Shadowfire yells, "Ram"
+11/23/24 5:08:46p * You recover the Snowstag fur, worth 31c. Your share is 4c.
+11/23/24 5:08:46p Ramandu has fallen to an Alpine Timber Feral.
+11/23/24 5:08:48p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+11/23/24 5:08:48p Warawonda has fallen to a Snowstag.
+11/23/24 5:08:49p Ramandu says, "I made a misteake"
+11/23/24 5:08:51p * Articuno recovers the Alpine Timber Feral fur, worth 40c. Your share is 5c.
+11/23/24 5:08:52p Pun'isher growls, "falltn"
+11/23/24 5:08:56p * Shobaffum recovers the Snowstag fur, worth 28c. Your share is 3c.
+11/23/24 5:08:57p Ramandu yells, "Kill it"
+11/23/24 5:08:58p * Articuno recovers the Glacier Bear fur, worth 32c. Your share is 3c.
+11/23/24 5:09:00p Shadowfire starts dragging you.
+11/23/24 5:09:03p * Articuno recovers the Frost Yorilla fur, worth 33c. Your share is 4c.
+11/23/24 5:09:07p * Articuno recovers the Frost Foxweir fur, worth 69c. Your share is 9c.
+11/23/24 5:09:10p Pun'isher growls, "hut?"
+11/23/24 5:09:12p Shadowfire starts dragging you.
+11/23/24 5:09:12p Ramandu is no longer fallen.
+11/23/24 5:09:14p Ramandu says, "I was collecting Val"
+11/23/24 5:09:26p Regus says, "Good of you to come by, Shobaffum."
+11/23/24 5:09:27p Regus says, "I'm afraid that I've lost my ability to be a good host."
+11/23/24 5:09:28p Ramandu says, "Gotta catch 'em all"
+11/23/24 5:09:31p You have 2794 coins.
+11/23/24 5:09:32p Pun'isher growls, "hahah"
+11/23/24 5:09:33p Cousin Jenny is no longer fallen.
+11/23/24 5:09:36p Regus says, "Good of you to come by, Warawonda."
+11/23/24 5:09:36p Regus says, "I'm afraid that I've lost my ability to be a good host."
+11/23/24 5:09:37p * Your mental enhancement fades.
+11/23/24 5:09:37p Regus says, "I'm just a mad-eyed old man now, no use to anyone."
+11/23/24 5:09:37p Regus says, "Giayl has been traveling too long now."
+11/23/24 5:09:38p Regus says, "The moons have come and gone like the tides of the eastern shore."
+11/23/24 5:09:38p Regus asks, "Will she ever find her way to our village?"
+11/23/24 5:09:38p Regus asks, "Or has that scoundrel Trillbane spirited her away for good?"
+11/23/24 5:09:39p Regus says, "She always liked him better, in spite of his womanizing."
+11/23/24 5:09:39p Regus whispers, "I must confide, in my darker hours I hoped we'd find his body."
+11/23/24 5:09:40p Valadorei is no longer fallen.
+11/23/24 5:09:46p Kestra Farsight looks into your eyes for an uncomfortably long time.
+11/23/24 5:09:53p Regus says, "Good of you to come by, Cousin Jenny."
+11/23/24 5:09:54p Regus says, "I'm afraid that I've lost my ability to be a good host."
+11/23/24 5:09:54p Articuno says, "brb need to fill lungs with smog"
+11/23/24 5:09:54p Regus says, "I'm just a mad-eyed old man now, no use to anyone."
+11/23/24 5:09:54p Regus says, "Giayl has been traveling too long now."
+11/23/24 5:09:55p Regus says, "The moons have come and gone like the tides of the eastern shore."
+11/23/24 5:09:55p Regus asks, "Will she ever find her way to our village?"
+11/23/24 5:09:56p Regus asks, "Or has that scoundrel Trillbane spirited her away for good?"
+11/23/24 5:09:56p Regus says, "She always liked him better, in spite of his womanizing."
+11/23/24 5:09:57p Regus says, "But he always manages to escape from the danger that inevitably follows him."
+11/23/24 5:09:59p Kestra Farsight looks into your eyes for an uncomfortably long time.
+11/23/24 5:10:01p Kestra Farsight says, "Well met, Warawonda."
+11/23/24 5:10:01p Kestra Farsight says, "The pathfinding guild dispatched me to find Giayl."
+11/23/24 5:10:02p Kestra Farsight says, "She was following one of Trillbane's trails, she said."
+11/23/24 5:10:02p Kestra Farsight says, "Never a good start, if you ask me."
+11/23/24 5:10:02p Kestra Farsight looks into the luminous glow of her skristal.
+11/23/24 5:10:03p Kestra Farsight says, "She's disappeared without a trace, I'm afraid."
+11/23/24 5:10:03p Kestra Farsight says, "I came here to ask Regus what he knew, but he's been..."
+11/23/24 5:10:04p Kestra Farsight whispers, "No use at all. The man's beginning to lose his wits."
+11/23/24 5:10:04p Pun'isher growls, "haha"
+11/23/24 5:10:08p Pun'isher growls, "you are in LA?"
+11/23/24 5:10:16p Pun'isher growls, "actually its not that bad anyrmore"
+11/23/24 5:10:18p Valadorei says, "Oh check you pockets folks see if you have anything odd."
+11/23/24 5:10:20p Kestra Farsight looks into your eyes for an uncomfortably long time.
+11/23/24 5:10:21p Kestra Farsight says, "Well met, Raul."
+11/23/24 5:10:22p Kestra Farsight says, "The pathfinding guild dispatched me to find Giayl."
+11/23/24 5:10:24p Valadorei says, "Oh check your pockets folks see if you have anything odd."
+11/23/24 5:10:26p Regus says, "Good of you to come by, Warawonda."
+11/23/24 5:10:38p Tasus turns over his pony doll, which emits a cute little neigh.
+11/23/24 5:10:38p Shadowfire says, "ooh good call"
+11/23/24 5:10:39p Cousin Jenny says, "nuffin"
+11/23/24 5:10:49p Katreesa shows her greymyr rock candy to everyone.
+11/23/24 5:10:51p You have 2794 coins.
+11/23/24 5:10:53p Shadowfire says, "Nothing unusual on my end"
+11/23/24 5:10:56p Ramandu says, "Not me"
+11/23/24 5:11:00p * You mentally enhance Articuno
+11/23/24 5:11:00p * You mentally enhance Shobaffum
+11/23/24 5:11:00p * You mentally enhance Shadowfire
+11/23/24 5:11:00p * You mentally enhance Cousin Jenny
+11/23/24 5:11:00p * You mentally enhance Tasus
+11/23/24 5:11:00p * You mentally enhance Valadorei
+11/23/24 5:11:00p * You mentally enhance Katreesa
+11/23/24 5:11:00p * You mentally enhance Raul
+11/23/24 5:11:00p * You mentally enhance Ramandu
+11/23/24 5:11:02p Tasus conks Katreesa with a greymyr rock candy.
+11/23/24 5:11:03p Ramandu says, "Oh, my sungem needs to be tuned"
+11/23/24 5:11:06p Katreesa conks Tasus with a greymyr rock candy.
+11/23/24 5:11:12p Ramandu says, "Er, crystal. that one."
+11/23/24 5:11:13p Katreesa says, ":)"
+11/23/24 5:11:28p Shadowfire asks, "Has everyone checked packs?"
+11/23/24 5:11:40p Shadowfire says, "<<< if you have"
+11/23/24 5:11:40p Ramandu asks, "Over to the monastery?"
+11/23/24 5:11:45p Katreesa says, "nothing interesting there"
+11/23/24 5:11:47p Katreesa conks Shobaffum with a greymyr rock candy.
+11/23/24 5:11:49p Katreesa conks Shobaffum with a greymyr rock candy.
+11/23/24 5:11:52p Regus says, "Good of you to come by, Ramandu."
+11/23/24 5:11:53p Regus says, "I'm afraid that I've lost my ability to be a good host."
+11/23/24 5:11:53p Katreesa conks Tasus with a greymyr rock candy.
+11/23/24 5:11:53p Regus says, "I'm just a mad-eyed old man now, no use to anyone."
+11/23/24 5:11:53p Regus says, "Giayl has been traveling too long now."
+11/23/24 5:11:54p Regus says, "The moons have come and gone like the tides of the eastern shore."
+11/23/24 5:11:54p Shadowfire says, "Pun check your pack x}"
+11/23/24 5:11:56p Katreesa conks Cousin Jenny with a greymyr rock candy.
+11/23/24 5:11:56p Tasus conks Katreesa with a greymyr rock candy.
+11/23/24 5:11:58p Katreesa conks Cousin Jenny with a greymyr rock candy.
+11/23/24 5:11:59p Shadowfire says, "For anything unusual"
+11/23/24 5:11:59p Katreesa conks Shadowfire with a greymyr rock candy.
+11/23/24 5:12:00p Pun'isher growls, "for?"
+11/23/24 5:12:01p Katreesa conks Shadowfire with a greymyr rock candy.
+11/23/24 5:12:03p Katreesa conks Shadowfire with a greymyr rock candy.
+11/23/24 5:12:10p Ramandu growls, "that the bears miht have dropped"
+11/23/24 5:12:11p You have 2794 coins.
+11/23/24 5:12:14p Pun'isher growls, "my pack was full"
+11/23/24 5:12:14p Ramandu growls, "Like a teddy sylvan"
+11/23/24 5:12:19p (Shadowfire chuckles)
+11/23/24 5:12:22p Pun'isher growls, "ae bummer!"
+11/23/24 5:12:22p Katreesa conks Pun'isher with a greymyr rock candy.
+11/23/24 5:12:22p Ramandu growls, "Nuffin then"
+11/23/24 5:12:24p (Shadowfire nods)
+11/23/24 5:12:27p Shadowfire says, "ok to mona then"
+11/23/24 5:12:27p Ramandu ponders, "Just bears for fun I guess!"
+11/23/24 5:12:27p Regus says, "Good of you to come by, Raul."
+11/23/24 5:12:46p * Your mental enhancement fades.
+11/23/24 5:12:52p Ramandu growls, "Art afk"
+11/23/24 5:12:52p Shadowfire yells, "Art"
+11/23/24 5:12:53p * You recover the Glacier Bear fur, worth 55c. Your share is 9c.
+11/23/24 5:12:57p * For recovering the fur, you gain experience.
+11/23/24 5:12:57p * You recover the Abominable Snow Yorilla fur, worth 45c. Your share is 7c.
+11/23/24 5:12:59p * Shadowfire recovers the Snowstag fur, worth 6c. Your share is 1c.
+11/23/24 5:13:06p Pun'isher growls, "laty"
+11/23/24 5:13:07p Cousin Jenny has fallen to a Frost Foxweir.
+11/23/24 5:13:10p Cousin Jenny is no longer fallen.
+11/23/24 5:13:14p * You recover the Snowstag fur, worth 35c. Your share is 4c.
+11/23/24 5:13:23p Amalthia smiles warmly at Valadorei.
+11/23/24 5:13:24p Amalthia says, "Welcome to our humble home, Valadorei."
+11/23/24 5:13:25p Amalthia says, "What we have, you're welcome to."
+11/23/24 5:13:27p Marduch says, "Ancients preserve me, a visitor."
+11/23/24 5:13:28p Frost growls, "Mrowr!"
+11/23/24 5:13:29p Amalthia smiles warmly at Shobaffum.
+11/23/24 5:13:29p Amalthia smiles warmly at Cousin Jenny.
+11/23/24 5:13:31p Auria exclaims, "Hi!"
+11/23/24 5:13:32p You have 2815 coins.
+11/23/24 5:13:32p Ramandu growls, "Sorry, I just realized I've never been in here"
+11/23/24 5:13:37p Auria exclaims, "Hi!"
+11/23/24 5:13:38p Auria says, "My parents send me out to gather herbs for the village."
+11/23/24 5:13:38p Marduch says, "Ancients preserve me, a visitor."
+11/23/24 5:13:38p Auria says, "Daddy's busy farming, and Mama is obsessed with her studies."
+11/23/24 5:13:38p Marduch says, "Pardon my tongue, Katreesa. It's just been a long time."
+11/23/24 5:13:39p Auria exclaims, "They worry about me, but it's fun!"
+11/23/24 5:13:39p Marduch says, "We used to be a hearty village. I grew crops and raised goats to feed everyone."
+11/23/24 5:13:39p Auria says, "They never have any fun."
+11/23/24 5:13:39p Marduch says, "There were twenty or thirty of us when we first settled."
+11/23/24 5:13:39p Marduch says, "We were on the run then, after the last stand against the Orga."
+11/23/24 5:13:40p Marduch says, "A bloody time, to be sure, but I enjoyed being in the thick of it."
+11/23/24 5:13:40p Fordi growls, "Mrowr!"
+11/23/24 5:13:40p Marduch grins, relishing his cherished memories.
+11/23/24 5:13:41p Marduch says, "Amalthia was by my side. By the blood of the Ancients, she's a fine warrior."
+11/23/24 5:13:41p Marduch says, "But there are fewer and fewer every winter."
+11/23/24 5:13:41p Marduch says, "Old age is upon us, and we wink out one by one like dying stars."
+11/23/24 5:13:47p Shadowfire yells, "Fie upon the Weeder, glory to the Beast!"
+11/23/24 5:13:48p Amalthia smiles warmly at Warawonda.
+11/23/24 5:13:48p Amalthia says, "Welcome to our humble home, Warawonda."
+11/23/24 5:13:48p Amalthia says, "What we have, you're welcome to."
+11/23/24 5:13:49p Amalthia says, "I know it's a bit of a mess. I'm afraid we're not accustomed to visitors."
+11/23/24 5:13:49p Amalthia says, "The travelers these days are few and far between."
+11/23/24 5:13:50p Amalthia says, "Auria's still learning to pick up after herself, but look how quickly she's grown."
+11/23/24 5:13:50p Amalthia pores over a scroll.
+11/23/24 5:13:51p Amalthia says, "I've preserved some of the things we'd found before the Orga came."
+11/23/24 5:13:52p Amalthia says, "Alas, they're mostly nonsense to me."
+11/23/24 5:13:52p Amalthia says, "Perhaps in a few more decades they'll make sense, if I'm still around."
+11/23/24 5:14:05p Fog growls, "Mrowr!"
+11/23/24 5:14:06p Shadowfire thinks, "e pls"
+11/23/24 5:14:06p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+11/23/24 5:14:07p Warawonda has fallen to a Mistral Kestrel.
+11/23/24 5:14:10p •You sense healing energy from Tasus.
+11/23/24 5:14:13p •You sense healing energy from Katreesa.
+11/23/24 5:14:13p Cousin Jenny has fallen to a Mistral Kestrel.
+11/23/24 5:14:15p Ramandu thinks, "a bunch"
+11/23/24 5:14:15p * Articuno recovers the Snowstag fur, worth 49c. Your share is 5c.
+11/23/24 5:14:22p Valadorei has fallen to a Blizzard Greymyr.
+11/23/24 5:14:26p * Articuno recovers the Snowstag fur, worth 55c. Your share is 6c.
+11/23/24 5:14:29p * Articuno recovers the Glacier Bear Cub fur, worth 75c. Your share is 8c.
+11/23/24 5:14:32p Shadowfire asks, "myr a last?"
+11/23/24 5:14:34p Ramandu growls, "yep"
+11/23/24 5:14:35p * You mentally enhance Articuno
+11/23/24 5:14:35p * You mentally enhance Valadorei
+11/23/24 5:14:35p Pun'isher growls, "yese"
+11/23/24 5:14:35p * You mentally enhance Raul
+11/23/24 5:14:35p * You mentally enhance Shadowfire
+11/23/24 5:14:35p * You mentally enhance Tasus
+11/23/24 5:14:35p * You mentally enhance Shobaffum
+11/23/24 5:14:35p * You mentally enhance Ramandu
+11/23/24 5:14:35p * You mentally enhance Katreesa
+11/23/24 5:14:39p (Shadowfire nods)
+11/23/24 5:14:42p Ramandu growls, "Pun copying me!"
+11/23/24 5:14:42p Pun'isher growls, "no worreis"
+11/23/24 5:14:45p Valadorei is no longer fallen.
+11/23/24 5:14:47p Pun'isher growls, "ha"
+11/23/24 5:14:48p Pun'isher growls, "oh"
+11/23/24 5:14:51p Pun'isher growls, "are you on myr?"
+11/23/24 5:14:52p Cousin Jenny is no longer fallen.
+11/23/24 5:14:52p You have 2834 coins.
+11/23/24 5:14:56p Ramandu says, "Like years ago"
+11/23/24 5:15:03p Pun'isher growls, "oh yah its sooo last year"
+11/23/24 5:15:04p Pun'isher growls, "haha"
+11/23/24 5:15:10p Shadowfire yells, "For the glory of Cone Beast!"
+11/23/24 5:15:29p Shadowfire yells, "clear snell, look around, scrutinize snowbanks and what not"
+11/23/24 5:16:09p Ramandu yells, "?"
+11/23/24 5:16:12p You have 2834 coins.
+11/23/24 5:16:17p Fury is now Clanning.
+11/23/24 5:16:18p Shadowfire yells, "Gather east!"
+11/23/24 5:16:21p * Your mental enhancement fades.
+11/23/24 5:16:27p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+11/23/24 5:16:28p Warawonda has fallen to a Blizzard Greymyr.
+11/23/24 5:16:29p Ramandu says, "Doh"
+11/23/24 5:16:30p Articuno starts dragging you.
+11/23/24 5:16:36p Nisse is now Clanning.
+11/23/24 5:16:38p Tuzar Bloodblade is now Clanning.
+11/23/24 5:16:41p Ramandu says, "I need to learn the Ramandus and Ramandon'ts"
+11/23/24 5:16:43p Shadowfire thinks, "e,s"
+11/23/24 5:16:44p •You sense healing energy from Tasus.
+11/23/24 5:16:45p Valadorei asks, "We didn't clear up here earlier right?"
+11/23/24 5:16:45p Articuno starts dragging you.
+11/23/24 5:16:49p Gro is now Clanning.
+11/23/24 5:16:53p Zhargon is now Clanning.
+11/23/24 5:16:54p Glaurung is now Clanning.
+11/23/24 5:17:01p •You sense healing energy from Katreesa.
+11/23/24 5:17:02p Ramandu says, "I don't think so"
+11/23/24 5:17:07p * Articuno recovers the Glacier Bear fur, worth 46c. Your share is 4c.
+11/23/24 5:17:15p * You recover the Frost Foxweir fur, worth 52c. Your share is 6c.
+11/23/24 5:17:24p * You recover the Frost Foxweir fur, worth 28c. Your share is 3c.
+11/23/24 5:17:24p * You mentally enhance Cousin Jenny
+11/23/24 5:17:24p * You mentally enhance Valadorei
+11/23/24 5:17:24p * You mentally enhance Articuno
+11/23/24 5:17:24p * You mentally enhance Shobaffum
+11/23/24 5:17:24p * You mentally enhance Raul
+11/23/24 5:17:24p * You mentally enhance Shadowfire
+11/23/24 5:17:24p * You mentally enhance Katreesa
+11/23/24 5:17:24p * You mentally enhance Ramandu
+11/23/24 5:17:25p * You mentally enhance Pun'isher
+11/23/24 5:17:31p Shadowfire yells, "Onward, in Her Holy Pawprints!"
+11/23/24 5:17:32p You have 2847 coins.
+11/23/24 5:17:45p * Cousin Jenny recovers the Frost Yorilla fur, worth 75c. Your share is 9c.
+11/23/24 5:17:58p * Shadowfire recovers the Glacier Bear Cub fur, worth 16c. Your share is 2c.
+11/23/24 5:18:11p * Shadowfire recovers the Alpine Timber Feral fur, worth 14c. Your share is 1c.
+11/23/24 5:18:16p * Cousin Jenny recovers the Glacier Bear Cub fur, worth 89c. Your share is 9c.
+11/23/24 5:18:22p Shadowfire yells, "May her floofy paws guide us on our path!"
+11/23/24 5:18:28p Ramandu growls, "I should probably head back after this"
+11/23/24 5:18:52p You have 2868 coins.
+11/23/24 5:19:05p * Cousin Jenny recovers the Glacier Bear Cub fur, worth 93c. Your share is 9c.
+11/23/24 5:19:06p Shadowfire yells, "For the glory of Cone Beast!"
+11/23/24 5:19:10p * Your mental enhancement fades.
+11/23/24 5:19:28p * Cousin Jenny recovers the Alpine Timber Feral fur, worth 33c. Your share is 3c.
+11/23/24 5:19:29p * Cousin Jenny recovers the Glacier Bear Cub fur, worth 65c. Your share is 6c.
+11/23/24 5:19:30p * You slip and slide on the ice.
+11/23/24 5:19:34p * Cousin Jenny recovers the Glacier Bear Cub fur, worth 87c. Your share is 8c.
+11/23/24 5:19:42p * You mentally enhance Shadowfire
+11/23/24 5:19:42p * You mentally enhance Katreesa
+11/23/24 5:19:42p * You mentally enhance Cousin Jenny
+11/23/24 5:19:42p * You mentally enhance Ramandu
+11/23/24 5:19:42p * You mentally enhance Articuno
+11/23/24 5:19:42p * You mentally enhance Tasus
+11/23/24 5:19:42p * You mentally enhance Valadorei
+11/23/24 5:19:43p Pun'isher yells, "maybe some stuff north"
+11/23/24 5:19:54p The foxweir seems very hurt.
+11/23/24 5:19:54p Shadowfire yells, "pet"
+11/23/24 5:20:00p * Cousin Jenny recovers the Glacier Bear Cub fur, worth 132c. Your share is 15c.
+11/23/24 5:20:03p The foxweir seems very hurt.
+11/23/24 5:20:07p Valadorei has fallen to an Abominable Snow Yorilla.
+11/23/24 5:20:08p * You gain experience.
+11/23/24 5:20:10p The foxweir yips!
+11/23/24 5:20:13p You have 2909 coins.
+11/23/24 5:20:14p Valadorei is no longer fallen.
+11/23/24 5:20:15p * Articuno recovers the Abominable Snow Yorilla fur, worth 80c. Your share is 7c.
+11/23/24 5:20:26p * Cousin Jenny recovers the Abominable Snow Yorilla fur, worth 91c. Your share is 9c.
+11/23/24 5:20:28p The foxweir yips!
+11/23/24 5:20:32p * Cousin Jenny recovers the Alpine Timber Feral fur, worth 17c. Your share is 2c.
+11/23/24 5:20:34p •You sense healing energy from Tasus.
+11/23/24 5:20:34p •You sense healing energy from Katreesa.
+11/23/24 5:20:45p Shadowfire yells, "By the Burbles of the Beast!"
+11/23/24 5:21:02p * Cousin Jenny recovers the Alpine Timber Feral fur, worth 38c. Your share is 4c.
+11/23/24 5:21:05p The door is locked with a stout latch.
+11/23/24 5:21:09p Raul says, "colmert says open"
+11/23/24 5:21:11p The door is locked with a stout latch.
+11/23/24 5:21:11p You equip your plain key.
+11/23/24 5:21:13p Articuno growls, "let me innnn"
+11/23/24 5:21:16p The door is locked with a stout latch.
+11/23/24 5:21:17p You slip your plain key into your backpack.
+11/23/24 5:21:21p You equip your Staff of Ballou.
+11/23/24 5:21:21p The door is locked with a stout latch.
+11/23/24 5:21:27p * Your mental enhancement fades.
+11/23/24 5:21:27p The door is locked with a stout latch.
+11/23/24 5:21:27p Pun'isher says, "boo"
+11/23/24 5:21:29p Cousin Jenny says, "we need to look for the library"
+11/23/24 5:21:33p You have 2931 coins.
+11/23/24 5:21:36p Cousin Jenny says, "sure the borrowing bears will be there"
+11/23/24 5:21:41p Articuno growls, "heh"
+11/23/24 5:21:42p The door is locked with a stout latch.
+11/23/24 5:21:47p Articuno growls, "womder if they in fog"
+11/23/24 5:21:47p Ramandu growls, "Heh"
+11/23/24 5:21:52p * You mentally enhance Raul
+11/23/24 5:21:52p * You mentally enhance Shadowfire
+11/23/24 5:21:52p * You mentally enhance Articuno
+11/23/24 5:21:52p * You mentally enhance Ramandu
+11/23/24 5:21:52p * You mentally enhance Tasus
+11/23/24 5:21:52p * You mentally enhance Cousin Jenny
+11/23/24 5:21:52p * You mentally enhance Katreesa
+11/23/24 5:21:52p * You mentally enhance Valadorei
+11/23/24 5:21:53p Pun'isher exclaims, "looksl ike the bears are gone!"
+11/23/24 5:21:59p Shadowfire says, "Wellp"
+11/23/24 5:22:02p The door is locked with a stout latch.
+11/23/24 5:22:04p Ramandu growls, "The snowy plains are bearren"
+11/23/24 5:22:08p Shadowfire says, "Let's try for Gaiyl 2 and them beat feet"
+11/23/24 5:22:12p Tasus says, "Was a one time burrowin"
+11/23/24 5:22:12p Shadowfire says, "then*"
+11/23/24 5:22:22p Shadowfire yells, "S, down, gather w"
+11/23/24 5:22:37p * Articuno recovers the Glacier Bear fur, worth 40c. Your share is 4c.
+11/23/24 5:22:44p Pun'isher yells, "yor"
+11/23/24 5:22:50p * Your mental enhancement fades.
+11/23/24 5:22:51p * Articuno recovers the Glacier Bear fur, worth 55c. Your share is 6c.
+11/23/24 5:22:53p You have 2941 coins.
+11/23/24 5:22:56p Pun'isher yells, "2 of yors"
+11/23/24 5:22:59p * Shobaffum recovers the Glacier Bear fur, worth 10c. Your share is 1c.
+11/23/24 5:22:59p * You recover the Frost Yorilla fur, worth 43c. Your share is 5c.
+11/23/24 5:23:12p Cousin Jenny has fallen to a Frost Yorilla.
+11/23/24 5:23:12p Ramandu yells, "being away from shadow makes me anxious"
+11/23/24 5:23:14p * Pun'isher recovers the Glacier Bear fur, worth 10c. Your share is 1c.
+11/23/24 5:23:18p Shadowfire says, "Aww ;}"
+11/23/24 5:23:22p * You recover the Frost Yorilla fur, worth 54c. Your share is 6c.
+11/23/24 5:23:27p Ramandu growls, "You're my security blanket"
+11/23/24 5:23:27p Shadowfire yells, "<<"
+11/23/24 5:23:28p Cousin Jenny is no longer fallen.
+11/23/24 5:23:38p * Cousin Jenny recovers the Glacier Bear Cub fur, worth 95c. Your share is 16c.
+11/23/24 5:23:38p * Your mental enhancement fades.
+11/23/24 5:23:41p Shadowfire thinks, "w pls"
+11/23/24 5:23:52p * You mentally enhance Shobaffum
+11/23/24 5:23:52p * You mentally enhance Valadorei
+11/23/24 5:23:52p * You mentally enhance Ramandu
+11/23/24 5:23:52p * You mentally enhance Cousin Jenny
+11/23/24 5:23:52p * You mentally enhance Tasus
+11/23/24 5:23:52p * You mentally enhance Raul
+11/23/24 5:23:52p * You mentally enhance Katreesa
+11/23/24 5:23:52p * You mentally enhance Articuno
+11/23/24 5:23:52p * You mentally enhance Shadowfire
+11/23/24 5:24:05p Articuno growls, "heh your hard to see there pun"
+11/23/24 5:24:13p You have 2970 coins.
+11/23/24 5:24:32p Shadowfire yells, "By the Burbles of the Beast!"
+11/23/24 5:24:36p Pun'isher exclaims, "i look like a snowcat!"
+11/23/24 5:24:53p Cousin Jenny has fallen to a Glacier Bear.
+11/23/24 5:24:53p Shadowfire yells, "bring it in"
+11/23/24 5:25:07p Pun'isher has fallen to a Glacier Bear.
+11/23/24 5:25:08p * You recover the Alpine Goat fur, worth 45c. Your share is 5c.
+11/23/24 5:25:10p Valadorei has fallen to a Glacier Bear.
+11/23/24 5:25:17p Articuno yells, "c"
+11/23/24 5:25:18p Pun'isher exclaims, "go get em art!"
+11/23/24 5:25:18p Articuno has fallen to a Glacier Bear.
+11/23/24 5:25:19p Valadorei yells, "C"
+11/23/24 5:25:25p Shadowfire says, "wara"
+11/23/24 5:25:25p * You pick up 27 coins.
+11/23/24 5:25:25p * You gain experience.
+11/23/24 5:25:26p Articuno is no longer fallen.
+11/23/24 5:25:27p * Articuno recovers the Glacier Bear fur, worth 50c. Your share is 6c.
+11/23/24 5:25:27p Pun'isher is no longer fallen.
+11/23/24 5:25:31p * You recover the Glacier Bear fur, worth 52c. Your share is 6c.
+11/23/24 5:25:31p Ramandu growls, "Oop"
+11/23/24 5:25:32p * You recover the Glacier Bear fur, worth 44c. Your share is 5c.
+11/23/24 5:25:33p You have 3019 coins.
+11/23/24 5:25:35p Shadowfire says, "oo;"
+11/23/24 5:25:36p Shadowfire says, "oop*"
+11/23/24 5:25:37p Ramandu has fallen to a Glacier Bear.
+11/23/24 5:25:38p * Your mental enhancement fades.
+11/23/24 5:25:44p Ramandu is no longer fallen.
+11/23/24 5:25:57p * Ramandu recovers the Glacier Bear fur, worth 10c. Your share is 1c.
+11/23/24 5:26:03p Shadowfire says, "And that is why we full heal before cave lol"
+11/23/24 5:26:12p Cousin Jenny is no longer fallen.
+11/23/24 5:26:22p Valadorei is no longer fallen.
+11/23/24 5:26:27p Pun'isher says, "thats the moral of the story but I have none"
+11/23/24 5:26:37p * You mentally enhance Valadorei
+11/23/24 5:26:37p * You mentally enhance Cousin Jenny
+11/23/24 5:26:37p * You mentally enhance Shadowfire
+11/23/24 5:26:38p * You mentally enhance Shobaffum
+11/23/24 5:26:38p * You mentally enhance Ramandu
+11/23/24 5:26:38p * You mentally enhance Katreesa
+11/23/24 5:26:38p * You mentally enhance Raul
+11/23/24 5:26:38p * You mentally enhance Tasus
+11/23/24 5:26:40p Shobaffum growls, "morals>?"
+11/23/24 5:26:54p You have 3020 coins.
+11/23/24 5:26:55p Cousin Jenny says, "more alls"
+11/23/24 5:26:55p Ramandu says, "That's the moray of the story. You live and eel."
+11/23/24 5:26:59p Ramandu growls, "That's the moray of the story. You live and eel."
+11/23/24 5:27:11p Shadowfire says, "Eel first and live ;}"
+11/23/24 5:27:13p Pun'isher thinks, "this is too much to no bear"
+11/23/24 5:27:14p Shadowfire yells, "Gather north!"
+11/23/24 5:27:39p Shadowfire thinks, "n pls"
+11/23/24 5:27:53p * Your mental enhancement fades.
+11/23/24 5:28:01p * Articuno recovers the Alpine Goat fur, worth 31c. Your share is 3c.
+11/23/24 5:28:14p You have 3023 coins.
+11/23/24 5:28:23p * Your mental enhancement fades.
+11/23/24 5:28:26p Valadorei has fallen to an Ice'kin.
+11/23/24 5:28:30p * Cousin Jenny recovers the Alpine Timber Feral fur, worth 37c. Your share is 4c.
+11/23/24 5:28:31p Shadowfire yells, "bring it in"
+11/23/24 5:28:43p Cousin Jenny has fallen to a Glacier Bear.
+11/23/24 5:28:44p Cousin Jenny is no longer fallen.
+11/23/24 5:28:45p * You pick up 31 coins.
+11/23/24 5:28:45p * You gain experience.
+11/23/24 5:28:46p Ramandu has fallen to a Glacier Bear.
+11/23/24 5:28:47p Cousin Jenny has fallen to a Glacier Bear.
+11/23/24 5:28:48p Ramandu is no longer fallen.
+11/23/24 5:28:53p Cousin Jenny is no longer fallen.
+11/23/24 5:28:54p Cousin Jenny has fallen to a Glacier Bear.
+11/23/24 5:28:58p * Articuno recovers the Alpine Goat fur, worth 78c. Your share is 9c.
+11/23/24 5:29:01p * Shobaffum recovers the Glacier Bear fur, worth 55c. Your share is 5c.
+11/23/24 5:29:04p Cousin Jenny is no longer fallen.
+11/23/24 5:29:10p Ramandu says, "fart"
+11/23/24 5:29:11p Ramandu says, "Sorry"
+11/23/24 5:29:12p Valadorei is no longer fallen.
+11/23/24 5:29:14p Pun'isher growls, "no worries :)"
+11/23/24 5:29:23p (Ramandu is getting tired)
+11/23/24 5:29:24p Pun'isher growls, "it was tryna kill me!"
+11/23/24 5:29:26p MysticalHealer is now Clanning.
+11/23/24 5:29:30p Pun'isher growls, "you saved me! without a cape!"
+11/23/24 5:29:31p MysticalHealer is no longer Clanning.
+11/23/24 5:29:34p Shadowfire yells, "By the Burbles of the Beast!"
+11/23/24 5:29:34p You have 3072 coins.
+11/23/24 5:29:37p Grand Master is now Clanning.
+11/23/24 5:29:48p * Articuno recovers the Alpine Timber Feral fur, worth 24c. Your share is 3c.
+11/23/24 5:29:53p Shadowfire yells, "Gather south!"
+11/23/24 5:29:56p Ramandu growls, "Or a mask!"
+11/23/24 5:30:02p * You mentally enhance Ramandu
+11/23/24 5:30:02p * You mentally enhance Shadowfire
+11/23/24 5:30:02p * You mentally enhance Raul
+11/23/24 5:30:02p * You mentally enhance Pun'isher
+11/23/24 5:30:02p * You mentally enhance Cousin Jenny
+11/23/24 5:30:02p * You mentally enhance Articuno
+11/23/24 5:30:02p * You mentally enhance Katreesa
+11/23/24 5:30:02p * You mentally enhance Valadorei
+11/23/24 5:30:02p * You mentally enhance Shobaffum
+11/23/24 5:30:06p Ramandu growls, "Although I bet Seaforth would prefer if I wore one"
+11/23/24 5:30:16p Pun'isher growls, "haha"
+11/23/24 5:30:20p Shadowfire yells, "By the Burbles of the Beast!"
+11/23/24 5:30:23p Cousin Jenny says, "love that tail"
+11/23/24 5:30:49p * Cousin Jenny recovers the Glacier Bear fur, worth 59c. Your share is 5c.
+11/23/24 5:30:54p You have 3080 coins.
+11/23/24 5:31:01p Valadorei has fallen to an Ice'kin.
+11/23/24 5:31:03p * Shadowfire recovers the Ice'kin blood, worth 14c. Your share is 2c.
+11/23/24 5:31:10p Valadorei is no longer fallen.
+11/23/24 5:31:15p * Articuno recovers the Frost Foxweir fur, worth 80c. Your share is 9c.
+11/23/24 5:31:47p * Your mental enhancement fades.
+11/23/24 5:31:51p Articuno has fallen to a Frost Foxweir.
+11/23/24 5:31:54p Articuno is no longer fallen.
+11/23/24 5:32:01p Cousin Jenny has fallen to a Frost Foxweir.
+11/23/24 5:32:05p * You recover the Frost Foxweir fur, worth 46c. Your share is 5c.
+11/23/24 5:32:10p Cousin Jenny is no longer fallen.
+11/23/24 5:32:14p You have 3096 coins.
+11/23/24 5:32:21p * Cousin Jenny recovers the Glacier Bear fur, worth 46c. Your share is 4c.
+11/23/24 5:32:24p Ramandu has fallen to a Glacier Bear.
+11/23/24 5:32:26p * Pun'isher recovers the Glacier Bear fur, worth 13c. Your share is 2c.
+11/23/24 5:32:27p Cousin Jenny has fallen to a Glacier Bear.
+11/23/24 5:32:27p * You recover the Glacier Bear fur, worth 45c. Your share is 4c.
+11/23/24 5:32:30p Ramandu is no longer fallen.
+11/23/24 5:32:33p * You recover the Glacier Bear fur, worth 3c.
+11/23/24 5:32:35p Cousin Jenny is no longer fallen.
+11/23/24 5:32:41p Articuno growls, "a okay im not missing much"
+11/23/24 5:32:42p * Articuno recovers the Glacier Bear fur, worth 48c. Your share is 5c.
+11/23/24 5:32:45p Pun'isher growls, "hehe"
+11/23/24 5:32:51p Pun'isher growls, "tis bearable?"
+11/23/24 5:32:52p * You mentally enhance Cousin Jenny
+11/23/24 5:32:52p * You mentally enhance Shadowfire
+11/23/24 5:32:52p * You mentally enhance Ramandu
+11/23/24 5:32:52p * You mentally enhance Raul
+11/23/24 5:32:53p * You mentally enhance Articuno
+11/23/24 5:32:53p * You mentally enhance Valadorei
+11/23/24 5:32:53p * You mentally enhance Shobaffum
+11/23/24 5:32:53p * You mentally enhance Katreesa
+11/23/24 5:32:53p * You mentally enhance Tasus
+11/23/24 5:33:00p Articuno growls, "1-2 to the blood gods"
+11/23/24 5:33:07p Pun'isher growls, "hey whats ursine?"
+11/23/24 5:33:14p Katreesa says, "neon"
+11/23/24 5:33:18p Pun'isher growls, "haha"
+11/23/24 5:33:20p Shadowfire yells, "Cones for the Cone Throne! Beast for the Beast God!"
+11/23/24 5:33:24p Pun'isher growls, "Point Kat!"
+11/23/24 5:33:35p You have 3111 coins.
+11/23/24 5:33:44p Shadowfire yells, "By the Burbles of the Beast!"
+11/23/24 5:34:09p * You recover the Ice'kin blood, worth 2c.
+11/23/24 5:34:09p * Raul recovers the Frost Yorilla fur, worth 8c. Your share is 1c.
+11/23/24 5:34:26p * Articuno recovers the Frost Yorilla fur, worth 75c. Your share is 8c.
+11/23/24 5:34:28p Shadowfire says, "Well shucks, no zappies"
+11/23/24 5:34:33p Pun'isher growls, "boo"
+11/23/24 5:34:33p * You mentally enhance Raul
+11/23/24 5:34:33p * You mentally enhance Cousin Jenny
+11/23/24 5:34:33p * You mentally enhance Shadowfire
+11/23/24 5:34:33p * You mentally enhance Ramandu
+11/23/24 5:34:33p * You mentally enhance Shobaffum
+11/23/24 5:34:33p * You mentally enhance Pun'isher
+11/23/24 5:34:33p * You mentally enhance Valadorei
+11/23/24 5:34:34p * You mentally enhance Katreesa
+11/23/24 5:34:38p * Your mental enhancement fades.
+11/23/24 5:34:38p Pun'isher yells, "gaiyl is a chicken"
+11/23/24 5:34:46p Articuno yells, "bawk!"
+11/23/24 5:34:55p You have 3120 coins.
+11/23/24 5:35:03p Shadowfire yells, "For the glory of Cone Beast!"
+11/23/24 5:35:06p Pun'isher yells, "gaiyl is so tranparent you can see right through her!"
+11/23/24 5:35:07p * You recover the Frost Yorilla fur, worth 49c. Your share is 4c.
+11/23/24 5:35:18p Shadowfire says, "Hmmph"
+11/23/24 5:35:26p Shadowfire yells, "Dassit x2 sad no zappy boogaloo"
+11/23/24 5:36:15p You have 3124 coins.
+11/23/24 5:36:19p * Your mental enhancement fades.
+11/23/24 5:36:28p Valadorei has fallen to an Ice'kin.
+11/23/24 5:36:29p * Articuno recovers the Glacier Bear Cub fur, worth 29c. Your share is 3c.
+11/23/24 5:36:32p * Raul recovers the Glacier Bear Cub fur, worth 6c. Your share is 1c.
+11/23/24 5:36:36p * You recover the Glacier Bear Cub fur, worth 51c. Your share is 6c.
+11/23/24 5:36:39p Shadowfire yells, "Gather south!"
+11/23/24 5:36:40p Shobaffum has fallen to an Ice'kin.
+11/23/24 5:36:48p Shadowfire says, "sho"
+11/23/24 5:36:50p Shadowfire asks, "sho?"
+11/23/24 5:37:10p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+11/23/24 5:37:10p Warawonda has fallen to an Alpine Timber Feral.
+11/23/24 5:37:17p * Cousin Jenny recovers the Alpine Timber Feral fur, worth 79c. Your share is 10c.
+11/23/24 5:37:20p Katreesa starts dragging you.
+11/23/24 5:37:20p Warawonda says, ":)"
+11/23/24 5:37:21p Shadowfire yells, "losy sho last snell i thik"
+11/23/24 5:37:25p Shadowfire says, "I'll go get"
+11/23/24 5:37:35p •You sense healing energy from Katreesa.
+11/23/24 5:37:35p You have 3144 coins.
+11/23/24 5:37:43p * You mentally enhance Pun'isher
+11/23/24 5:37:43p * You mentally enhance Katreesa
+11/23/24 5:37:43p * You mentally enhance Raul
+11/23/24 5:37:43p * You mentally enhance Cousin Jenny
+11/23/24 5:37:43p * You mentally enhance Ramandu
+11/23/24 5:37:43p * You mentally enhance Tasus
+11/23/24 5:37:44p Cousin Jenny says, "fo sho"
+11/23/24 5:38:34p Articuno says, "pose suprised"
+11/23/24 5:38:35p Shadowfire says, "kin spawn"
+11/23/24 5:38:35p Shobaffum is no longer fallen.
+11/23/24 5:38:37p Articuno says, "op"
+11/23/24 5:38:43p Shadowfire says, "Can get some more if we have time"
+11/23/24 5:38:49p Valadorei is no longer fallen.
+11/23/24 5:38:50p Ramandu says, "I need to head back :/"
+11/23/24 5:38:52p (Shadowfire nods)
+11/23/24 5:38:55p You have 3144 coins.
+11/23/24 5:38:58p Shadowfire says, "we'll get 'em tomorrow then"
+11/23/24 5:39:04p Shadowfire yells, "Fie upon the Weeder, glory to the Beast!"
+11/23/24 5:39:15p Valadorei has fallen to a Frost Foxweir.
+11/23/24 5:39:18p Bastion is now Clanning.
+11/23/24 5:39:25p Articuno has fallen to a Frost Yorilla.
+11/23/24 5:39:29p * Your mental enhancement fades.
+11/23/24 5:39:33p Articuno is no longer fallen.
+11/23/24 5:39:40p * Shadowfire recovers the Frost Foxweir fur, worth 14c. Your share is 2c.
+11/23/24 5:39:44p * You recover the Frost Yorilla fur, worth 43c. Your share is 6c.
+11/23/24 5:39:49p * Cousin Jenny recovers the Frost Foxweir fur, worth 2c. Your share is 1c.
+11/23/24 5:39:54p Shadowfire says, "oh right"
+11/23/24 5:39:56p Shadowfire says, "sorry lol"
+11/23/24 5:40:02p * Articuno recovers the Frost Foxweir fur, worth 69c. Your share is 9c.
+11/23/24 5:40:04p Shadowfire yells, "Gather south!"
+11/23/24 5:40:13p Shadowfire thinks, "s pls"
+11/23/24 5:40:16p You have 3162 coins.
+11/23/24 5:40:17p Bastion is no longer Clanning.
+11/23/24 5:40:17p Ramandu yells, "S"
+11/23/24 5:40:19p Articuno has fallen to a Frost Yorilla.
+11/23/24 5:40:29p Articuno is no longer fallen.
+11/23/24 5:40:31p * Cousin Jenny recovers the Frost Yorilla fur, worth 63c. Your share is 8c.
+11/23/24 5:40:33p * Articuno recovers the Frost Foxweir fur, worth 27c. Your share is 4c.
+11/23/24 5:40:48p * Tasus recovers the Abominable Snow Yorilla fur, worth 111c. Your share is 11c.
+11/23/24 5:40:49p Valadorei says, "Tanki sir."
+11/23/24 5:40:50p Tasus says, "Mystic went E from N"
+11/23/24 5:40:50p * You mentally enhance Shadowfire
+11/23/24 5:40:50p * You mentally enhance Shobaffum
+11/23/24 5:40:50p * You mentally enhance Tasus
+11/23/24 5:40:50p * You mentally enhance Ramandu
+11/23/24 5:40:51p * You mentally enhance Valadorei
+11/23/24 5:40:51p * You mentally enhance Cousin Jenny
+11/23/24 5:40:51p * You mentally enhance Katreesa
+11/23/24 5:40:51p * You mentally enhance Raul
+11/23/24 5:41:05p Valadorei says, "Sooorryy falling asleep and walking..."
+11/23/24 5:41:08p * Shobaffum recovers the Frost Foxweir fur, worth 30c. Your share is 4c.
+11/23/24 5:41:09p Ramandu has fallen to a Glacier Bear Cub.
+11/23/24 5:41:09p Shadowfire says, "x}"
+11/23/24 5:41:09p (Tasus trackin back attit again)
+11/23/24 5:41:10p * You recover the Glacier Bear Cub fur, worth 3c.
+11/23/24 5:41:15p Valadorei is no longer fallen.
+11/23/24 5:41:21p Articuno growls, "a okay not as bad as lori yet"
+11/23/24 5:41:23p Ramandu is no longer fallen.
+11/23/24 5:41:28p (Valadorei giggles.)
+11/23/24 5:41:29p Shadowfire thinks, "e pls"
+11/23/24 5:41:31p Valadorei has fallen to a Glacier Bear Cub.
+11/23/24 5:41:36p You have 3189 coins.
+11/23/24 5:41:43p Valadorei is no longer fallen.
+11/23/24 5:41:47p Loom'Bir thinks, "Donate to the most important building project in the islands: the restoration of Lugubrion's Keep!"
+11/23/24 5:41:58p * Articuno recovers the Glacier Bear fur, worth 57c. Your share is 6c.
+11/23/24 5:41:59p * Shobaffum recovers the Snowstag fur, worth 43c. Your share is 4c.
+11/23/24 5:42:01p Shadowfire says, "ack"
+11/23/24 5:42:01p Articuno thinks, "i want my lighthouse"
+11/23/24 5:42:06p * Articuno recovers the Frost Foxweir fur, worth 72c. Your share is 7c.
+11/23/24 5:42:11p Pun'isher thinks, "enlightment?"
+11/23/24 5:42:12p * Articuno recovers the Frost Foxweir fur, worth 27c. Your share is 3c.
+11/23/24 5:42:20p Shadowfire yells, "By the Burbles of the Beast!"
+11/23/24 5:42:24p Articuno has fallen to a Crookbeak Kestrel.
+11/23/24 5:42:36p * Your mental enhancement fades.
+11/23/24 5:42:54p Ramandu growls, "Woul a shiedstone help?"
+11/23/24 5:42:55p Articuno says, "f off pony"
+11/23/24 5:42:56p Articuno is grabbed by a thorny root!
+11/23/24 5:42:56p You have 3209 coins.
+11/23/24 5:43:06p Wolf Master is no longer Clanning.
+11/23/24 5:43:10p Ramandu growls, "Not if there's a stack"
+11/23/24 5:43:11p Shadowfire says, "up"
+11/23/24 5:43:16p Cousin Jenny says, "someone left the birdseed out"
+11/23/24 5:43:17p Shadowfire says, "back"
+11/23/24 5:43:32p Pun'isher says, "wowo what a welcome party"
+11/23/24 5:43:33p Shadowfire says, "woulda been fine but roots"
+11/23/24 5:43:36p Ramandu growls, "Ah okay"
+11/23/24 5:43:37p * You mentally enhance Valadorei
+11/23/24 5:43:37p * You mentally enhance Shadowfire
+11/23/24 5:43:37p * You mentally enhance Katreesa
+11/23/24 5:43:37p * You mentally enhance Tasus
+11/23/24 5:43:37p * You mentally enhance Ramandu
+11/23/24 5:43:37p * You mentally enhance Raul
+11/23/24 5:43:37p * You mentally enhance Cousin Jenny
+11/23/24 5:43:38p * You mentally enhance Pun'isher
+11/23/24 5:43:48p Ramandu growls, "Want me to try to do a shieldstone run?"
+11/23/24 5:44:04p Pun'isher says, "hes capabul"
+11/23/24 5:44:04p Shadowfire says, "sure, can re-charge and hope they mostly moved :}"
+11/23/24 5:44:09p Ramandu growls, "k"
+11/23/24 5:44:11p Ramandu growls, "Here goes"
+11/23/24 5:44:16p You have 3209 coins.
+11/23/24 5:44:18p * Cousin Jenny recovers the Frost Foxweir fur, worth 79c. Your share is 9c.
+11/23/24 5:44:18p Shadowfire yells, "By the Burbles of the Beast!"
+11/23/24 5:44:19p Ramandu thinks, "come"
+11/23/24 5:44:20p Pun'isher says, "hes a goner"
+11/23/24 5:44:25p Pun'isher says, "hehe"
+11/23/24 5:44:32p Shobaffum has fallen to a Wild Stallion.
+11/23/24 5:44:33p Pun'isher growls, "hehe"
+11/23/24 5:44:33p * You recover the Wild Stallion fur, worth 49c. Your share is 6c.
+11/23/24 5:44:35p Cousin Jenny has fallen to a Crookbeak Kestrel.
+11/23/24 5:44:41p Shobaffum is no longer fallen.
+11/23/24 5:44:45p Shobaffum has fallen to a Crookbeak Kestrel.
+11/23/24 5:44:47p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+11/23/24 5:44:48p Warawonda has fallen to a Sky Bison.
+11/23/24 5:44:49p Shobaffum says, "sorry shadow"
+11/23/24 5:44:53p Shadowfire says, "npnp"
+11/23/24 5:44:53p Shobaffum says, "was pulling tasus"
+11/23/24 5:44:54p Shobaffum is no longer fallen.
+11/23/24 5:44:56p (Shadowfire nods)
+11/23/24 5:44:58p Shadowfire says, "I figured :}"
+11/23/24 5:45:04p •You sense healing energy from Katreesa.
+11/23/24 5:45:13p Cousin Jenny is no longer fallen.
+11/23/24 5:45:17p Shobaffum says, "it worked"
+11/23/24 5:45:20p Shobaffum says, "8^)"
+11/23/24 5:45:21p Articuno is no longer fallen.
+11/23/24 5:45:23p * Your mental enhancement fades.
+11/23/24 5:45:31p Valadorei has fallen to a Wild Stallion.
+11/23/24 5:45:33p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+11/23/24 5:45:34p Warawonda has fallen to a Wild Stallion.
+11/23/24 5:45:35p Shadowfire says, "lol"
+11/23/24 5:45:36p You have 3224 coins.
+11/23/24 5:45:39p * Shobaffum recovers the Wild Stallion fur, worth 27c. Your share is 3c.
+11/23/24 5:45:45p Shadowfire yells, "Fie upon the Weeder, glory to the Beast!"
+11/23/24 5:45:48p Articuno's chain snaps as he tries to use it.
+11/23/24 5:45:51p •You sense healing energy from Katreesa.
+11/23/24 5:45:54p •You sense healing energy from Tasus.
+11/23/24 5:46:02p Ramandu's chain breaks as he tries to use it.
+11/23/24 5:46:05p Ramandu says, "oop"
+11/23/24 5:46:07p * Articuno recovers the Shadowcat Huntress fur, worth 36c. Your share is 5c.
+11/23/24 5:46:07p Tasus picks up a piece of iron.
+11/23/24 5:46:08p Valadorei says, "Well N is open..."
+11/23/24 5:46:10p Ramandu says, "Can someone thanks :p"
+11/23/24 5:46:11p (Tasus has plus 1)
+11/23/24 5:46:18p * Cousin Jenny recovers the Shadowcat Huntress fur, worth 11c. Your share is 1c.
+11/23/24 5:46:20p Valadorei is no longer fallen.
+11/23/24 5:46:27p Shadowfire thinks, "n pls"
+11/23/24 5:46:40p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+11/23/24 5:46:40p Warawonda has fallen to a Swarm of Bees.
+11/23/24 5:46:45p •You sense healing energy from Tasus.
+11/23/24 5:46:46p •You sense healing energy from Katreesa.
+11/23/24 5:46:48p Pun'isher thinks, "thanks all"
+11/23/24 5:46:48p Warawonda ponders, "not the bees"
+11/23/24 5:46:51p * Shobaffum recovers the Wild Stallion fur, worth 19c. Your share is 3c.
+11/23/24 5:46:53p Cousin Jenny has fallen to a Swarm of Bees.
+11/23/24 5:46:55p Cousin Jenny is no longer fallen.
+11/23/24 5:46:55p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+11/23/24 5:46:56p Warawonda has fallen to a Swarm of Bees.
+11/23/24 5:46:57p You have 3236 coins.
+11/23/24 5:47:10p •You sense healing energy from Tasus.
+11/23/24 5:47:14p Tia is no longer Clanning.
+11/23/24 5:47:14p Leinis is no longer Clanning.
+11/23/24 5:47:23p Shadowfire yells, "Gather north!"
+11/23/24 5:47:25p * You mentally enhance Katreesa
+11/23/24 5:47:26p * You mentally enhance Ramandu
+11/23/24 5:47:26p * You mentally enhance Articuno
+11/23/24 5:47:26p * You mentally enhance Tasus
+11/23/24 5:47:26p * You mentally enhance Cousin Jenny
+11/23/24 5:47:38p Articuno says, "./pose cooked"
+11/23/24 5:47:42p Shadowfire yells, "Fie upon the Weeder, glory to the Beast!"
+11/23/24 5:47:46p Pun'isher thinks, "mb at op"
+11/23/24 5:47:59p * Ramandu recovers the Mountain Bison fur, worth 8c. Your share is 1c.
+11/23/24 5:48:10p * Shadowfire recovers the Mountain Bison fur, worth 46c. Your share is 6c.
+11/23/24 5:48:12p Ramandu growls, "Thanks all!"
+11/23/24 5:48:15p Ramandu thinks, "Thanks all!"
+11/23/24 5:48:17p You have 3243 coins.
+11/23/24 5:48:18p * You recover the Wild Stallion fur, worth 38c. Your share is 5c.
+11/23/24 5:48:25p Pun'isher thinks, "great bonus hunt!"
+11/23/24 5:48:30p Katreesa thinks, "thanks folks <3"
+11/23/24 5:48:35p Shadowfire thinks, "Tanks everyone! :]"
+11/23/24 5:48:40p Wolf Master is now Clanning.
+11/23/24 5:48:44p Cousin Jenny thinks, "thanks everyone"
+11/23/24 5:48:45p Warawonda thinks, "thanks everyone :)"
+11/23/24 5:48:49p Valadorei thinks, "Thanks all!"
+11/23/24 5:48:52p M'at Mag'ond says, "Articuno, I can teach you to walk in peace and not skin the earth's creatures."
+11/23/24 5:49:10p Pun'isher is no longer Clanning.
+11/23/24 5:49:11p * Your mental enhancement fades.
+11/23/24 5:49:26p Crius yells, "It’s 8 o’clock, and all’s well."
+11/23/24 5:49:28p Ramandon't is now Clanning.
+11/23/24 5:49:31p Crius yells, "It looks pretty quiet in Puddleby."
+11/23/24 5:49:37p You have 3248 coins.
+11/23/24 5:49:42p You slip your Staff of Ballou into your backpack.
+11/23/24 5:49:44p You equip your blacksmith's repair kit named “0”.
+11/23/24 5:49:54p The bronze breastplate you have selected is in great shape. It doesn't need any repairs.
+11/23/24 5:49:58p The bronze helmet you have selected is in great shape. It doesn't need any repairs.
+11/23/24 5:50:02p You must have something selected in your inventory to examine it.
+11/23/24 5:50:13p You must have something selected in your inventory to examine it.
+11/23/24 5:50:16p Valadorei is no longer Clanning.
+11/23/24 5:50:22p You slip your blacksmith's repair kit into your backpack.
+11/23/24 5:50:24p You slip your bronze breastplate into your backpack.
+11/23/24 5:50:25p You slip your bronze helmet into your backpack.
+11/23/24 5:50:27p You equip your shirt named “midnight”, which is in nearly perfect condition.
+11/23/24 5:50:28p Ramandon't is no longer Clanning.
+11/23/24 5:50:29p You equip your wooden shield.
+11/23/24 5:50:36p That item has no special use.
+11/23/24 5:50:40p That item has no special use.
+11/23/24 5:50:46p You slip your wooden shield into your backpack.
+11/23/24 5:50:57p You have 3248 coins.
+11/23/24 5:51:02p (Articuno wvaes)
+11/23/24 5:51:05p (Ramandu waves)
+11/23/24 5:51:15p * Your mental enhancement fades.
+11/23/24 5:51:17p * Your mental enhancement fades.
+11/23/24 5:51:41p Ramandu exclaims, "G'night!"
+11/23/24 5:51:42p (Ramandu waves)
+11/23/24 5:51:44p Ramandu yells, "LA! Blame Poleramandu!"
+11/23/24 5:51:47p Parakone is now Clanning.
+11/23/24 5:51:53p Ramandu is no longer Clanning.
+11/23/24 5:52:07p Parakone is no longer Clanning.
+11/23/24 5:52:10p Articuno is no longer Clanning.
+11/23/24 5:52:16p Koppi yells, "Balangar reports: Pet patrol gathering on tuesday, see https://discord.com/channels/270291133798547456/654474030023180290/1308167523153481728 for details."
+11/23/24 5:52:17p You have 3248 coins.
+11/23/24 5:52:24p Holden is now Clanning.
+11/23/24 5:52:47p Holden is no longer Clanning.
+11/23/24 5:52:49p Cousin Jenny says, "squib heal shadow"
+11/23/24 5:53:38p You have 3248 coins.
+11/23/24 5:53:59p •You gain experience.
+11/23/24 5:54:52p Omjithar is now Clanning.
+11/23/24 5:54:58p You have 3248 coins.
+11/23/24 5:55:30p Lightfrost is now Clanning.
+11/23/24 5:55:49p Shobaffum is no longer sharing experiences with you.
+11/23/24 5:56:18p You have 3248 coins.
+11/23/24 5:56:34p Crius yells, "All welcome exile Omjithar to the lands -- Hail, Omjithar!"
+11/23/24 5:57:00p Omjithar says, ":)"
+11/23/24 5:57:08p Lightfrost is no longer Clanning.
+11/23/24 5:57:19p Shadowfire is no longer Clanning.
+11/23/24 5:57:27p Koppi yells, "Balangar reports: Pet patrol gathering on tuesday, see https://discord.com/channels/270291133798547456/654474030023180290/1308167523153481728 for details."
+11/23/24 5:57:38p You have 3248 coins.
+11/23/24 5:58:16p Omjithar is no longer Clanning.
+11/23/24 5:58:58p You have 3248 coins.
+11/23/24 6:00:19p You have 3248 coins.
+11/23/24 6:01:35p Raul is no longer Clanning.
+11/23/24 6:01:39p You have 3248 coins.
+11/23/24 6:02:38p Koppi yells, "Balangar reports: Pet patrol gathering on tuesday, see https://discord.com/channels/270291133798547456/654474030023180290/1308167523153481728 for details."
+11/23/24 6:02:59p You have 3248 coins.
+11/23/24 6:04:03p Sentinel yells, "The Emperor keeps watch on all subjects."
+11/23/24 6:04:05p Crius yells, "It’s 9 o’clock, and all’s well."
+11/23/24 6:04:10p Crius yells, "It looks pretty quiet in the Eastern Mountains."
+11/23/24 6:04:19p You have 3248 coins.
+11/23/24 6:05:39p You have 3248 coins.
+11/23/24 6:06:16p Cousin Jenny has fallen to a Sky Bison.
+11/23/24 6:06:19p Cousin Jenny is no longer fallen.
+11/23/24 6:07:00p You have 3248 coins.
+11/23/24 6:07:17p G Wiz is now Clanning.
+11/23/24 6:07:30p Katreesa is no longer sharing experiences with you.
+11/23/24 6:07:49p Koppi yells, "Maxtrax reports: Gnome news is good news"
+11/23/24 6:08:20p You have 3248 coins.
+11/23/24 6:08:26p Leinis is now Clanning.
+11/23/24 6:08:54p Cousin Jenny is no longer sharing experiences with you.
+11/23/24 6:08:55p G Wiz is no longer Clanning.
+11/23/24 6:09:03p You just received good karma from Cousin Jenny.
+11/23/24 6:09:40p You have 3248 coins.
+11/23/24 6:10:30p • /SLEEP when you wish to begin studying.
+11/23/24 6:10:37p Use \SLEEP again when you return.
+11/23/24 6:10:37p You are done adventuring for a while and will be staying here.
+11/23/24 6:10:38p You have been disconnected from Clan Lord.
+11/23/24 6:10:38p • You will benefit from staying here while you are off-line.
+11/23/24 6:10:39p *** We are no longer connected to the Clan Lord game server. ***

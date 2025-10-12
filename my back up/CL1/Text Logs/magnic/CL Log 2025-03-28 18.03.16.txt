@@ -1,0 +1,820 @@
+
+3/28/25 6:03:16p * Your pair of shoes named “red” is starting to look a little worn.
+3/28/25 6:03:16p * Your shirt named “dark grey” is in pretty good shape.
+3/28/25 6:03:16p * Your pair of pants named “dark grey” is in pretty good shape.
+3/28/25 6:03:16p Welcome to Clan Lord, Magnic!
+3/28/25 6:03:16p Type \HELP for a list of commands.
+3/28/25 6:03:16p • You have been charged 81 coins for advanced studies.
+3/28/25 6:03:16p • You gain experience from your recent studies.
+3/28/25 6:03:16p Magnic is now Clanning.
+3/28/25 6:03:16p You have been studying for 2 days, 15 hours, 58 minutes.
+3/28/25 6:03:19p It's 5:40pm on Gradi, day 18 of Winter, 641.
+3/28/25 6:03:20p Friends online: none.
+3/28/25 6:03:21p There are two members of Black Phoenix clanning: Ceara and you.
+3/28/25 6:03:21p • What’s New: https://deltatao.com/clanlord/news
+3/28/25 6:03:21p Dracula is sharing experiences with you.
+3/28/25 6:03:27p •You assume the shape of a Giant Carnivorous Plankton.
+3/28/25 6:03:27p You equip your heartwood charm.
+3/28/25 6:03:28p • You gather your energy.
+3/28/25 6:03:30p • You speed up.
+3/28/25 6:03:31p * Tip of the day: Visit the tutorial building in the fairgrounds for more information and advice. (Use /OPTIONS to turn tips off.)
+3/28/25 6:03:51p • You return to your normal form.
+3/28/25 6:03:51p • You slow down to normal speed.
+3/28/25 6:03:51p You slip your heartwood charm into your backpack.
+3/28/25 6:03:52p •You assume the shape of a Giant Carnivorous Plankton.
+3/28/25 6:04:02p Anduin Lothar is now Clanning.
+3/28/25 6:04:10p • You return to your normal form.
+3/28/25 6:04:33p ZipLock is now Clanning.
+3/28/25 6:04:38p •Your study of creatures is progressing.
+3/28/25 6:05:01p Anduin Lothar is sharing experiences with you.
+3/28/25 6:05:22p Silky is now Clanning.
+3/28/25 6:05:31p Kin is now Clanning.
+3/28/25 6:06:09p ZipLock is sharing experiences with you.
+3/28/25 6:06:20p You begin sharing your experiences with Ceara.
+3/28/25 6:06:22p You are still too mentally fatigued to change spirit links.
+3/28/25 6:06:23p You are still too mentally fatigued to change spirit links.
+3/28/25 6:06:24p You begin sharing your experiences with ZipLock.
+3/28/25 6:06:24p You are sharing experiences with ZipLock and Ceara.
+3/28/25 6:06:28p You begin sharing your experiences with Dracula.
+3/28/25 6:06:28p You are sharing experiences with Dracula, ZipLock and Ceara.
+3/28/25 6:06:41p You helped vanquish a Mountain Bison.
+3/28/25 6:06:41p * Dracula recovers the Mountain Bison fur, worth 37c. Your share is 19c.
+3/28/25 6:06:46p You have 10705 coins.
+3/28/25 6:07:40p You helped vanquish a Starstag.
+3/28/25 6:07:40p * You recover the Starstag fur, worth 67c. Your share is 33c.
+3/28/25 6:08:48p Dracula has fallen to a Starstag.
+3/28/25 6:09:08p Dracula is no longer fallen.
+3/28/25 6:09:20p Unholy is now Clanning.
+3/28/25 6:10:18p You have 10738 coins.
+3/28/25 6:11:04p Akan is now Clanning.
+3/28/25 6:12:24p Akan is no longer Clanning.
+3/28/25 6:13:08p Kenzen is now Clanning.
+3/28/25 6:13:10p Karina is now Clanning.
+3/28/25 6:13:35p Murrim is now Clanning.
+3/28/25 6:13:48p You have 10738 coins.
+3/28/25 6:15:44p Dracula has fallen to a Mountain Bison.
+3/28/25 6:16:21p Dracula is no longer fallen.
+3/28/25 6:16:39p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/28/25 6:16:39p Magnic has fallen to a Starstag.
+3/28/25 6:16:47p You helped vanquish a Shadowcat Huntress.
+3/28/25 6:16:47p * Dracula recovers the Shadowcat Huntress fur, worth 29c. Your share is 7c.
+3/28/25 6:16:53p * You gain experience.
+3/28/25 6:16:53p The kestrel flaps happily.
+3/28/25 6:17:06p * Dracula recovers the Sky Bison fur, worth 3c. Your share is 1c.
+3/28/25 6:17:08p The kestrel flaps happily.
+3/28/25 6:17:22p You have 10746 coins.
+3/28/25 6:17:25p •You sense healing energy from Ceara.
+3/28/25 6:17:34p •You sense healing energy from Unholy.
+3/28/25 6:17:41p * Dracula recovers the Shadowcat Huntress fur, worth 22c. Your share is 7c.
+3/28/25 6:17:46p Unholy ponders, "out of spirt"
+3/28/25 6:17:47p You helped vanquish a Starstag.
+3/28/25 6:17:59p You helped vanquish a Mountain Bison.
+3/28/25 6:17:59p * Dracula recovers the Mountain Bison fur, worth 28c. Your share is 7c.
+3/28/25 6:18:02p You helped vanquish a Shadowcat Huntress.
+3/28/25 6:18:02p * Dracula recovers the Shadowcat Huntress fur, worth 29c. Your share is 8c.
+3/28/25 6:18:37p Unholy ponders, "out of spirt"
+3/28/25 6:19:27p You helped vanquish a Wild Stallion.
+3/28/25 6:19:28p * You recover the Wild Stallion fur, worth 11c. Your share is 4c.
+3/28/25 6:19:29p You helped vanquish a Wild Stallion.
+3/28/25 6:19:30p * Dracula recovers the Wild Stallion fur, worth 20c. Your share is 6c.
+3/28/25 6:19:37p Anduin Lothar has fallen to a Shadowcat.
+3/28/25 6:20:03p Dracula has fallen to a Shadowcat.
+3/28/25 6:20:08p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/28/25 6:20:08p Magnic has fallen to a Shadowcat.
+3/28/25 6:20:11p ZipLock turns to stone.
+3/28/25 6:20:12p Ceara has fallen to an Agronox.
+3/28/25 6:20:16p Unholy has fallen to an Agronox.
+3/28/25 6:20:20p Ceara is no longer fallen.
+3/28/25 6:21:07p You have 10778 coins.
+3/28/25 6:22:18p Unholy is no longer fallen.
+3/28/25 6:22:20p Anduin Lothar is no longer fallen.
+3/28/25 6:22:34p Anduin Lothar has fallen to a Shadowcat.
+3/28/25 6:22:49p Anduin Lothar is no longer fallen.
+3/28/25 6:23:03p Dracula is still fallen to a Shadowcat.
+3/28/25 6:23:04p Anduin Lothar turns to stone.
+3/28/25 6:23:42p Ceara starts dragging you.
+3/28/25 6:24:02p Dracula is no longer fallen.
+3/28/25 6:24:03p •You sense healing energy from Ceara.
+3/28/25 6:24:26p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/28/25 6:24:27p Magnic has fallen to an Agronox.
+3/28/25 6:24:33p Rowen is no longer Clanning.
+3/28/25 6:24:34p •You sense healing energy from Unholy.
+3/28/25 6:24:50p You begin sharing your experiences with Unholy.
+3/28/25 6:24:50p You are sharing experiences with Unholy, Dracula, ZipLock and Ceara.
+3/28/25 6:24:51p Unholy is sharing experiences with you.
+3/28/25 6:25:04p Dracula has fallen to a Sky Bison.
+3/28/25 6:25:20p You helped vanquish a Sky Bison.
+3/28/25 6:25:20p * You recover the Sky Bison fur, worth 43c. Your share is 8c.
+3/28/25 6:25:24p You have 10786 coins.
+3/28/25 6:25:29p Dracula is no longer fallen.
+3/28/25 6:25:38p Murrim is no longer Clanning.
+3/28/25 6:25:48p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/28/25 6:25:49p Magnic has fallen to a Shadowcat.
+3/28/25 6:25:49p You helped vanquish a Shadowcat.
+3/28/25 6:25:49p * Dracula recovers the Shadowcat fur, worth 39c. Your share is 7c.
+3/28/25 6:25:52p You helped vanquish a Shadowcat.
+3/28/25 6:25:53p * Ceara recovers the Shadowcat fur, worth 92c. Your share is 19c.
+3/28/25 6:25:53p L'otso is now Clanning.
+3/28/25 6:25:59p You helped kill an Agronox.
+3/28/25 6:26:04p •You sense healing energy from Ceara.
+3/28/25 6:26:07p You helped vanquish a Shadowcat.
+3/28/25 6:26:07p * Dracula recovers the Shadowcat fur, worth 19c. Your share is 3c.
+3/28/25 6:26:08p You helped vanquish a Shadowcat.
+3/28/25 6:26:08p * Dracula recovers the Shadowcat fur, worth 93c. Your share is 19c.
+3/28/25 6:26:10p You helped vanquish a Shadowcat.
+3/28/25 6:26:11p * Dracula recovers the Shadowcat fur, worth 37c. Your share is 7c.
+3/28/25 6:26:23p You helped vanquish a Shadowcat.
+3/28/25 6:26:35p Leinis is now Clanning.
+3/28/25 6:27:19p Leinis is no longer Clanning.
+3/28/25 6:27:36p You just received anonymous good karma.
+3/28/25 6:28:37p Unholy ponders, "out of range"
+3/28/25 6:29:00p L'otso is no longer Clanning.
+3/28/25 6:29:09p You have 10841 coins.
+3/28/25 6:29:31p You helped kill a Black Mamba.
+3/28/25 6:29:35p You helped vanquish a Mountain Krait.
+3/28/25 6:29:35p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/28/25 6:29:35p Magnic has fallen to a Mountain Wasp.
+3/28/25 6:29:37p You helped vanquish a Mountain Krait.
+3/28/25 6:29:38p You helped vanquish a Sky Bison.
+3/28/25 6:29:38p * Dracula recovers the Sky Bison fur, worth 54c. Your share is 11c.
+3/28/25 6:29:44p You helped vanquish a Mountain Wasp.
+3/28/25 6:29:55p Unholy ponders, "out of spirt"
+3/28/25 6:31:22p Unholy ponders, "out of range"
+3/28/25 6:31:49p You helped vanquish a Mountain Grizzly Bear.
+3/28/25 6:31:51p You helped vanquish a Mountain Grizzly Bear.
+3/28/25 6:31:59p You helped vanquish a Mountain Grizzly Bear.
+3/28/25 6:32:00p * You recover the Mountain Grizzly Bear fur, worth 5c. Your share is 1c.
+3/28/25 6:32:12p You helped vanquish a Mammoth Violène Arachne.
+3/28/25 6:32:12p * Dracula recovers the Mammoth Violène Arachne mandibles, worth 7c. Your share is 1c.
+3/28/25 6:32:17p You helped vanquish a Dire Bear.
+3/28/25 6:32:17p * Dracula recovers the Dire Bear fur, worth 17c. Your share is 3c.
+3/28/25 6:32:17p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/28/25 6:32:18p Magnic has fallen to a Dire Bear.
+3/28/25 6:32:21p •You sense healing energy from Ceara.
+3/28/25 6:32:30p You helped vanquish a Dire Bear.
+3/28/25 6:32:30p * Dracula recovers the Dire Bear fur, worth 43c. Your share is 9c.
+3/28/25 6:32:43p You have 10866 coins.
+3/28/25 6:33:32p You helped vanquish a Mountain Bear.
+3/28/25 6:33:32p * Dracula recovers the Mountain Bear fur, worth 20c. Your share is 4c.
+3/28/25 6:33:39p You vanquished a Black Locust.
+3/28/25 6:33:46p You helped vanquish a Mountain Grizzly Bear.
+3/28/25 6:33:47p * Dracula recovers the Mountain Grizzly Bear fur, worth 12c. Your share is 3c.
+3/28/25 6:34:27p You helped vanquish a Mountain Bear.
+3/28/25 6:34:27p * Dracula recovers the Mountain Bear fur, worth 42c. Your share is 9c.
+3/28/25 6:35:09p You helped vanquish a Smoky Bear.
+3/28/25 6:35:09p * Dracula recovers the Smoky Bear fur, worth 73c. Your share is 15c.
+3/28/25 6:35:18p You helped vanquish a Black Locust.
+3/28/25 6:35:19p * Dracula recovers the Black Locust mandibles, worth 12c. Your share is 3c.
+3/28/25 6:35:43p Anduin Lothar turns to stone.
+3/28/25 6:35:59p Karina is no longer Clanning.
+3/28/25 6:36:04p Kenzen is no longer Clanning.
+3/28/25 6:36:09p You have 10900 coins.
+3/28/25 6:36:10p You helped vanquish a Mountain Bear.
+3/28/25 6:36:10p * Dracula recovers the Mountain Bear fur, worth 50c. Your share is 10c.
+3/28/25 6:36:59p You helped vanquish a Mountain Bear.
+3/28/25 6:36:59p * Dracula recovers the Mountain Bear fur, worth 34c. Your share is 7c.
+3/28/25 6:37:30p * Dracula recovers the Mountain Bear fur, worth 49c. Your share is 25c.
+3/28/25 6:37:32p You helped vanquish a Black Locust.
+3/28/25 6:37:32p * Dracula recovers the Black Locust mandibles, worth 54c. Your share is 27c.
+3/28/25 6:37:41p Unholy ponders, "out of range"
+3/28/25 6:38:04p The bear growls in pain.
+3/28/25 6:38:14p You helped vanquish a Mountain Bear.
+3/28/25 6:38:16p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/28/25 6:38:17p Magnic has fallen to an Albino Flying Foxweir.
+3/28/25 6:38:20p Dracula has fallen to a Mountain Bear.
+3/28/25 6:38:31p Dracula is no longer fallen.
+3/28/25 6:38:31p •You sense healing energy from Unholy.
+3/28/25 6:38:32p Dracula has fallen to a Mountain Bear.
+3/28/25 6:38:34p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/28/25 6:38:34p Magnic has fallen to a Mountain Bear.
+3/28/25 6:38:36p The bear growls in pain.
+3/28/25 6:38:46p The bear hums happily.
+3/28/25 6:38:46p * You gain experience.
+3/28/25 6:38:49p Ceara starts dragging you.
+3/28/25 6:39:06p Dracula is no longer fallen.
+3/28/25 6:39:06p •You sense healing energy from Ceara.
+3/28/25 6:39:33p You helped vanquish a Mountain Bear.
+3/28/25 6:39:34p * Dracula recovers the Mountain Bear fur, worth 27c. Your share is 6c.
+3/28/25 6:39:36p You have 10975 coins.
+3/28/25 6:40:27p Anduin Lothar turns to stone.
+3/28/25 6:40:42p You helped vanquish a Mountain Bear.
+3/28/25 6:40:46p ZipLock turns to stone.
+3/28/25 6:41:02p ZipLock turns to stone.
+3/28/25 6:41:31p Portale has not disclosed his race, is male, is an exile, and is not wearing the symbol of any clan.
+3/28/25 6:42:27p You helped vanquish a Mountain Bear.
+3/28/25 6:42:27p * Dracula recovers the Mountain Bear fur, worth 35c. Your share is 7c.
+3/28/25 6:42:55p You helped vanquish a Black Mantis.
+3/28/25 6:42:56p You helped vanquish a Black Mantis.
+3/28/25 6:42:56p * Dracula recovers the Black Mantis mandibles, worth 47c. Your share is 10c.
+3/28/25 6:43:05p You have 10992 coins.
+3/28/25 6:43:06p You helped vanquish a Mountain Grizzly Bear.
+3/28/25 6:43:06p * Dracula recovers the Mountain Grizzly Bear fur, worth 25c. Your share is 5c.
+3/28/25 6:43:27p You helped vanquish a Black Mantis.
+3/28/25 6:43:27p * Dracula recovers the Black Mantis mandibles, worth 44c. Your share is 9c.
+3/28/25 6:43:56p You helped vanquish a Black Mantis.
+3/28/25 6:43:57p * Dracula recovers the Black Mantis mandibles, worth 6c. Your share is 1c.
+3/28/25 6:43:59p You helped vanquish a Black Mantis.
+3/28/25 6:43:59p * Dracula recovers the Black Mantis mandibles, worth 17c. Your share is 4c.
+3/28/25 6:44:03p You helped vanquish a Black Mantis.
+3/28/25 6:44:03p * Dracula recovers the Black Mantis mandibles, worth 11c. Your share is 2c.
+3/28/25 6:46:08p You helped vanquish an Albino Flying Foxweir.
+3/28/25 6:46:08p * You recover the Albino Flying Foxweir fur, worth 8c. Your share is 1c.
+3/28/25 6:46:12p You helped vanquish a Mountain Bear.
+3/28/25 6:46:12p * Dracula recovers the Mountain Bear fur, worth 35c. Your share is 7c.
+3/28/25 6:46:30p You helped vanquish a Mountain Bear.
+3/28/25 6:46:30p * You recover the Mountain Bear fur, worth 8c. Your share is 1c.
+3/28/25 6:46:33p You helped vanquish a Mountain Bear.
+3/28/25 6:46:33p * Dracula recovers the Mountain Bear fur, worth 23c. Your share is 4c.
+3/28/25 6:46:40p You have 11026 coins.
+3/28/25 6:46:57p You helped vanquish a Mountain Bear.
+3/28/25 6:46:58p * Dracula recovers the Mountain Bear fur, worth 56c. Your share is 11c.
+3/28/25 6:47:14p Karina is now Clanning.
+3/28/25 6:48:16p You equip your heartwood charm.
+3/28/25 6:48:16p • You gather your energy.
+3/28/25 6:48:18p • You speed up.
+3/28/25 6:48:28p • You slow down to normal speed.
+3/28/25 6:48:28p You slip your heartwood charm into your backpack.
+3/28/25 6:48:55p You helped vanquish a Mountain Bear.
+3/28/25 6:48:56p * Dracula recovers the Mountain Bear fur, worth 60c. Your share is 12c.
+3/28/25 6:49:02p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/28/25 6:49:02p Magnic has fallen to a Mountain Bear.
+3/28/25 6:49:05p •You sense healing energy from Ceara.
+3/28/25 6:49:18p You helped vanquish a Mountain Bear.
+3/28/25 6:49:18p * Dracula recovers the Mountain Bear fur, worth 24c. Your share is 5c.
+3/28/25 6:49:24p You helped vanquish a Mammoth Banana Arachne.
+3/28/25 6:49:25p * For recovering the mandibles, you gain experience.
+3/28/25 6:49:25p * You recover the Mammoth Banana Arachne mandibles, worth 22c. Your share is 4c.
+3/28/25 6:49:56p Anduin Lothar turns to stone.
+3/28/25 6:50:29p You have 11058 coins.
+3/28/25 6:50:47p You helped vanquish a Mountain Grizzly Bear.
+3/28/25 6:50:47p * Dracula recovers the Mountain Grizzly Bear fur, worth 20c. Your share is 4c.
+3/28/25 6:53:09p Karina is no longer Clanning.
+3/28/25 6:54:14p You have 11062 coins.
+3/28/25 6:54:40p Anduin Lothar turns to stone.
+3/28/25 6:56:07p ZipLock turns to stone.
+3/28/25 6:56:44p You helped vanquish a Mountain Bear.
+3/28/25 6:56:44p * Dracula recovers the Mountain Bear fur, worth 42c. Your share is 9c.
+3/28/25 6:56:48p You vanquished a Mountain Bear.
+3/28/25 6:56:49p * You recover the Mountain Bear fur, worth 3c. Your share is 1c.
+3/28/25 6:56:54p You helped vanquish a Black Mantis.
+3/28/25 6:56:54p * Dracula recovers the Black Mantis mandibles, worth 45c. Your share is 9c.
+3/28/25 6:57:37p You helped vanquish a Black Mantis.
+3/28/25 6:57:37p * Dracula recovers the Black Mantis mandibles, worth 11c. Your share is 2c.
+3/28/25 6:57:39p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/28/25 6:57:40p Magnic has fallen to a Black Mantis.
+3/28/25 6:57:44p You helped vanquish a Black Mantis.
+3/28/25 6:57:44p * Ceara recovers the Black Mantis mandibles, worth 23c. Your share is 4c.
+3/28/25 6:57:51p You helped vanquish a Black Mantis.
+3/28/25 6:57:52p * Dracula recovers the Black Mantis mandibles, worth 49c. Your share is 10c.
+3/28/25 6:57:52p You have 11097 coins.
+3/28/25 6:57:55p •You sense healing energy from Ceara.
+3/28/25 6:58:16p You helped vanquish a Mountain Bear.
+3/28/25 6:58:16p * Dracula recovers the Mountain Bear fur, worth 10c. Your share is 2c.
+3/28/25 6:58:18p You helped vanquish a Mountain Bear.
+3/28/25 6:58:18p * Dracula recovers the Mountain Bear fur, worth 22c. Your share is 5c.
+3/28/25 6:58:28p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/28/25 6:58:28p Magnic has fallen to a Black Mantis.
+3/28/25 6:58:31p You helped vanquish a Black Mantis.
+3/28/25 6:58:31p * Dracula recovers the Black Mantis mandibles, worth 16c. Your share is 3c.
+3/28/25 6:58:35p You helped vanquish a Mountain Bear.
+3/28/25 6:58:35p * Dracula recovers the Mountain Bear fur, worth 9c. Your share is 2c.
+3/28/25 6:59:24p Anduin Lothar turns to stone.
+3/28/25 6:59:31p You helped vanquish a Mammoth Banana Arachne.
+3/28/25 7:00:33p You helped vanquish a Mountain Grizzly Bear.
+3/28/25 7:00:45p You helped vanquish a Mountain Bear.
+3/28/25 7:00:45p * Dracula recovers the Mountain Bear fur, worth 52c. Your share is 11c.
+3/28/25 7:00:51p ZipLock turns to stone.
+3/28/25 7:01:37p You have 11120 coins.
+3/28/25 7:02:12p You helped vanquish a Black Mantis.
+3/28/25 7:02:13p * Dracula recovers the Black Mantis mandibles, worth 42c. Your share is 8c.
+3/28/25 7:02:47p You helped vanquish a Mountain Bear.
+3/28/25 7:02:47p * Dracula recovers the Mountain Bear fur, worth 11c. Your share is 2c.
+3/28/25 7:04:08p Anduin Lothar turns to stone.
+3/28/25 7:04:48p You helped vanquish a Mountain Grizzly Bear.
+3/28/25 7:04:48p * Dracula recovers the Mountain Grizzly Bear fur, worth 46c. Your share is 10c.
+3/28/25 7:05:05p You have 11140 coins.
+3/28/25 7:05:13p You helped vanquish a Mountain Grizzly Bear.
+3/28/25 7:05:13p * Dracula recovers the Mountain Grizzly Bear fur, worth 26c. Your share is 5c.
+3/28/25 7:05:20p You helped vanquish a Black Mantis.
+3/28/25 7:05:20p * Dracula recovers the Black Mantis mandibles, worth 52c. Your share is 10c.
+3/28/25 7:05:35p ZipLock turns to stone.
+3/28/25 7:06:55p You helped vanquish a Mountain Grizzly Bear.
+3/28/25 7:06:55p * Dracula recovers the Mountain Grizzly Bear fur, worth 51c. Your share is 10c.
+3/28/25 7:07:03p You helped vanquish a Mountain Grizzly Bear.
+3/28/25 7:08:53p Anduin Lothar turns to stone.
+3/28/25 7:08:58p You have 11165 coins.
+3/28/25 7:10:00p You helped vanquish a Mountain Grizzly Bear.
+3/28/25 7:10:00p * Dracula recovers the Mountain Grizzly Bear fur, worth 60c. Your share is 12c.
+3/28/25 7:10:19p ZipLock turns to stone.
+3/28/25 7:12:36p You have 11177 coins.
+3/28/25 7:13:29p You helped vanquish a Mountain Bear.
+3/28/25 7:13:30p * Dracula recovers the Mountain Bear fur, worth 16c. Your share is 3c.
+3/28/25 7:13:37p Anduin Lothar turns to stone.
+3/28/25 7:15:03p ZipLock turns to stone.
+3/28/25 7:15:24p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/28/25 7:15:24p Magnic has fallen to a Mountain Grizzly Bear.
+3/28/25 7:15:27p You helped vanquish a Mountain Grizzly Bear.
+3/28/25 7:15:27p * Dracula recovers the Mountain Grizzly Bear fur, worth 57c. Your share is 11c.
+3/28/25 7:15:29p •You sense healing energy from Ceara.
+3/28/25 7:16:13p You have 11191 coins.
+3/28/25 7:17:53p You helped vanquish a Dire Bear.
+3/28/25 7:17:54p * Unholy recovers the Dire Bear fur, worth 37c. Your share is 8c.
+3/28/25 7:18:04p You helped vanquish a Mountain Bear.
+3/28/25 7:18:04p * Dracula recovers the Mountain Bear fur, worth 10c. Your share is 2c.
+3/28/25 7:18:21p Anduin Lothar turns to stone.
+3/28/25 7:18:54p You helped vanquish a Mountain Bear.
+3/28/25 7:19:36p You have 11201 coins.
+3/28/25 7:19:48p ZipLock turns to stone.
+3/28/25 7:20:33p You helped vanquish a Mountain Bear.
+3/28/25 7:20:33p * Dracula recovers the Mountain Bear fur, worth 31c. Your share is 6c.
+3/28/25 7:21:46p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/28/25 7:21:46p Magnic has fallen to an Albino Flying Foxweir.
+3/28/25 7:22:36p Unholy has fallen to an Albino Flying Foxweir.
+3/28/25 7:22:36p Unholy ponders, "i have no life left to give"
+3/28/25 7:23:05p Anduin Lothar turns to stone.
+3/28/25 7:23:07p You have 11207 coins.
+3/28/25 7:24:32p ZipLock turns to stone.
+3/28/25 7:25:36p Unholy is still fallen to an Albino Flying Foxweir.
+3/28/25 7:25:36p Unholy is no longer fallen.
+3/28/25 7:25:49p You helped vanquish an Albino Flying Foxweir.
+3/28/25 7:25:53p Dracula starts dragging you.
+3/28/25 7:26:33p You helped vanquish a Dire Bear.
+3/28/25 7:26:33p * Dracula recovers the Dire Bear fur, worth 10c. Your share is 2c.
+3/28/25 7:27:02p You helped vanquish a Black Locust.
+3/28/25 7:27:02p * Dracula recovers the Black Locust mandibles, worth 61c. Your share is 12c.
+3/28/25 7:27:15p You have 11221 coins.
+3/28/25 7:27:21p You helped vanquish a Mountain Bear.
+3/28/25 7:27:21p * Dracula recovers the Mountain Bear fur, worth 41c. Your share is 20c.
+3/28/25 7:27:28p You helped vanquish a Mountain Bear.
+3/28/25 7:27:35p You helped vanquish a Mountain Grizzly Bear.
+3/28/25 7:27:35p * Dracula recovers the Mountain Grizzly Bear fur, worth 12c. Your share is 6c.
+3/28/25 7:27:54p You helped vanquish a Mountain Bear.
+3/28/25 7:27:54p * Dracula recovers the Mountain Bear fur, worth 30c. Your share is 15c.
+3/28/25 7:28:14p You helped vanquish a Mountain Bear.
+3/28/25 7:28:15p * Dracula recovers the Mountain Bear fur, worth 51c. Your share is 26c.
+3/28/25 7:28:17p Dracula finds a gap between two stalagmites.
+3/28/25 7:28:38p You helped vanquish a Black Locust.
+3/28/25 7:28:38p * You recover the Black Locust mandibles, worth 29c. Your share is 14c.
+3/28/25 7:28:44p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/28/25 7:28:44p Magnic has fallen to an Albino Flying Foxweir.
+3/28/25 7:28:45p You helped vanquish a Dire Bear.
+3/28/25 7:28:45p * Dracula recovers the Dire Bear fur, worth 28c. Your share is 14c.
+3/28/25 7:28:56p * Dracula recovers the Albino Flying Foxweir fur, worth 2c. Your share is 1c.
+3/28/25 7:28:58p Dracula starts dragging you.
+3/28/25 7:29:01p Dracula squeezes between the stalagmites.
+3/28/25 7:29:55p You helped kill a Black Mamba.
+3/28/25 7:30:45p You have 11317 coins.
+3/28/25 7:31:52p You helped vanquish a Black Mantis.
+3/28/25 7:31:52p * Dracula recovers the Black Mantis mandibles, worth 12c. Your share is 2c.
+3/28/25 7:31:56p You helped vanquish a Black Locust.
+3/28/25 7:31:56p * Dracula recovers the Black Locust mandibles, worth 57c. Your share is 12c.
+3/28/25 7:32:34p Anduin Lothar turns to stone.
+3/28/25 7:33:24p You helped vanquish a Mountain Grizzly Bear.
+3/28/25 7:33:24p * Dracula recovers the Mountain Grizzly Bear fur, worth 30c. Your share is 6c.
+3/28/25 7:33:44p You helped vanquish a Mammoth Banana Arachne.
+3/28/25 7:33:44p * Dracula recovers the Mammoth Banana Arachne mandibles, worth 31c. Your share is 6c.
+3/28/25 7:34:00p ZipLock turns to stone.
+3/28/25 7:34:36p You have 11343 coins.
+3/28/25 7:36:04p • It’s Midnight on Terrdi, the 19th day of Winter in the 641st year of the Ascendancy, and we’ve got a situation... There’s a  Grove Guardian here...
+3/28/25 7:36:25p You helped vanquish a Mountain Grizzly Bear.
+3/28/25 7:36:31p You helped vanquish a Smoky Bear.
+3/28/25 7:36:31p * Dracula recovers the Smoky Bear fur, worth 30c. Your share is 6c.
+3/28/25 7:36:59p •You gain experience.
+3/28/25 7:37:18p Anduin Lothar turns to stone.
+3/28/25 7:38:07p You have 11349 coins.
+3/28/25 7:38:44p ZipLock turns to stone.
+3/28/25 7:40:11p You helped vanquish a Black Mantis.
+3/28/25 7:40:11p * Dracula recovers the Black Mantis mandibles, worth 22c. Your share is 4c.
+3/28/25 7:40:21p You helped vanquish a Mountain Bear.
+3/28/25 7:40:21p * Dracula recovers the Mountain Bear fur, worth 51c. Your share is 10c.
+3/28/25 7:40:37p You helped kill a Black Mamba.
+3/28/25 7:41:57p You have 11363 coins.
+3/28/25 7:42:02p Anduin Lothar turns to stone.
+3/28/25 7:43:18p You helped vanquish a Mountain Bear.
+3/28/25 7:43:27p You have attained great skill.
+3/28/25 7:43:27p You are currently studying the Mountain Bear, and have a lot to learn.
+3/28/25 7:43:29p ZipLock turns to stone.
+3/28/25 7:45:16p You helped vanquish a Mammoth Banana Arachne.
+3/28/25 7:45:16p * Dracula recovers the Mammoth Banana Arachne mandibles, worth 42c. Your share is 9c.
+3/28/25 7:45:21p You have 11372 coins.
+3/28/25 7:46:32p You helped vanquish a Mountain Bear.
+3/28/25 7:46:33p * Dracula recovers the Mountain Bear fur, worth 20c. Your share is 4c.
+3/28/25 7:46:46p Anduin Lothar turns to stone.
+3/28/25 7:47:57p You helped vanquish a Smoky Bear.
+3/28/25 7:47:57p * Dracula recovers the Smoky Bear fur, worth 36c. Your share is 7c.
+3/28/25 7:49:03p You have 11383 coins.
+3/28/25 7:51:23p You helped vanquish a Black Mantis.
+3/28/25 7:51:24p * Dracula recovers the Black Mantis mandibles, worth 48c. Your share is 9c.
+3/28/25 7:51:30p Anduin Lothar turns to stone.
+3/28/25 7:52:09p ZipLock turns to stone.
+3/28/25 7:52:42p You helped vanquish a Mountain Grizzly Bear.
+3/28/25 7:52:42p * You recover the Mountain Grizzly Bear fur, worth 6c. Your share is 1c.
+3/28/25 7:53:16p You have 11393 coins.
+3/28/25 7:53:25p You helped vanquish a Mountain Bear.
+3/28/25 7:53:25p * Dracula recovers the Mountain Bear fur, worth 23c. Your share is 5c.
+3/28/25 7:54:11p You helped vanquish a Mountain Bear.
+3/28/25 7:54:11p * Dracula recovers the Mountain Bear fur, worth 18c. Your share is 4c.
+3/28/25 7:54:12p You helped vanquish a Black Mantis.
+3/28/25 7:54:13p * Dracula recovers the Black Mantis mandibles, worth 24c. Your share is 5c.
+3/28/25 7:55:07p You helped vanquish a Mountain Bear.
+3/28/25 7:55:07p * Dracula recovers the Mountain Bear fur, worth 27c. Your share is 6c.
+3/28/25 7:55:40p •Your study of creatures is progressing.
+3/28/25 7:55:43p You helped vanquish a Dire Bear.
+3/28/25 7:55:43p * Dracula recovers the Dire Bear fur, worth 12c. Your share is 2c.
+3/28/25 7:55:48p You helped vanquish an Albino Flying Foxweir.
+3/28/25 7:55:48p * You recover the Albino Flying Foxweir fur, worth 6c. Your share is 1c.
+3/28/25 7:56:15p Anduin Lothar turns to stone.
+3/28/25 7:56:53p ZipLock turns to stone.
+3/28/25 7:56:54p You have 11416 coins.
+3/28/25 7:59:48p You helped vanquish a Mountain Grizzly Bear.
+3/28/25 7:59:49p * Dracula recovers the Mountain Grizzly Bear fur, worth 30c. Your share is 6c.
+3/28/25 8:00:59p You have 11422 coins.
+3/28/25 8:00:59p Anduin Lothar turns to stone.
+3/28/25 8:01:12p You helped vanquish a Mountain Grizzly Bear.
+3/28/25 8:01:12p * Dracula recovers the Mountain Grizzly Bear fur, worth 19c. Your share is 4c.
+3/28/25 8:01:30p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/28/25 8:01:31p Magnic has fallen to a flame.
+3/28/25 8:01:42p * Dracula recovers the Smoky Bear fur, worth 42c. Your share is 14c.
+3/28/25 8:01:53p You helped vanquish a Mountain Grizzly Bear.
+3/28/25 8:01:54p * Dracula recovers the Mountain Grizzly Bear fur, worth 18c. Your share is 3c.
+3/28/25 8:02:36p ZipLock turns to stone.
+3/28/25 8:03:05p You helped vanquish a Mountain Grizzly Bear.
+3/28/25 8:03:05p * Dracula recovers the Mountain Grizzly Bear fur, worth 54c. Your share is 11c.
+3/28/25 8:03:18p You helped vanquish a Black Mantis.
+3/28/25 8:03:18p * Dracula recovers the Black Mantis mandibles, worth 36c. Your share is 7c.
+3/28/25 8:04:57p You have 11461 coins.
+3/28/25 8:05:34p You helped vanquish a Mountain Grizzly Bear.
+3/28/25 8:05:34p * ZipLock recovers the Mountain Grizzly Bear fur, worth 38c. Your share is 8c.
+3/28/25 8:05:43p Anduin Lothar turns to stone.
+3/28/25 8:07:08p You helped vanquish a Mountain Grizzly Bear.
+3/28/25 8:07:09p * Dracula recovers the Mountain Grizzly Bear fur, worth 45c. Your share is 9c.
+3/28/25 8:07:14p You helped vanquish a Mountain Grizzly Bear.
+3/28/25 8:07:14p * Dracula recovers the Mountain Grizzly Bear fur, worth 38c. Your share is 7c.
+3/28/25 8:07:20p ZipLock turns to stone.
+3/28/25 8:07:50p You helped vanquish a Black Mantis.
+3/28/25 8:07:50p * Dracula recovers the Black Mantis mandibles, worth 52c. Your share is 11c.
+3/28/25 8:08:15p You helped vanquish a Mountain Grizzly Bear.
+3/28/25 8:08:15p * Dracula recovers the Mountain Grizzly Bear fur, worth 42c. Your share is 8c.
+3/28/25 8:08:42p You have 11504 coins.
+3/28/25 8:08:54p You helped vanquish a Smoky Bear.
+3/28/25 8:09:37p You helped vanquish a Mountain Grizzly Bear.
+3/28/25 8:09:37p * Dracula recovers the Mountain Grizzly Bear fur, worth 21c. Your share is 4c.
+3/28/25 8:10:27p Anduin Lothar turns to stone.
+3/28/25 8:11:15p You helped vanquish a Mountain Bear.
+3/28/25 8:11:15p * Dracula recovers the Mountain Bear fur, worth 10c. Your share is 2c.
+3/28/25 8:12:04p ZipLock turns to stone.
+3/28/25 8:12:17p You have 11510 coins.
+3/28/25 8:13:46p You helped vanquish a Mountain Grizzly Bear.
+3/28/25 8:13:46p * Dracula recovers the Mountain Grizzly Bear fur, worth 18c. Your share is 4c.
+3/28/25 8:15:11p Anduin Lothar turns to stone.
+3/28/25 8:15:54p You helped vanquish a Mountain Bear.
+3/28/25 8:15:54p * Dracula recovers the Mountain Bear fur, worth 41c. Your share is 8c.
+3/28/25 8:15:55p You have 11522 coins.
+3/28/25 8:16:49p ZipLock turns to stone.
+3/28/25 8:17:45p You helped vanquish a Black Mantis.
+3/28/25 8:17:46p * Dracula recovers the Black Mantis mandibles, worth 38c. Your share is 8c.
+3/28/25 8:17:52p You helped vanquish a Black Mantis.
+3/28/25 8:17:52p * Dracula recovers the Black Mantis mandibles, worth 21c. Your share is 4c.
+3/28/25 8:17:59p You helped vanquish a Black Mantis.
+3/28/25 8:18:00p * You recover the Black Mantis mandibles, worth 29c. Your share is 6c.
+3/28/25 8:18:21p You helped vanquish a Black Mantis.
+3/28/25 8:18:21p * ZipLock recovers the Black Mantis mandibles, worth 1c. Your share is 1c.
+3/28/25 8:19:09p You helped vanquish a Mountain Grizzly Bear.
+3/28/25 8:19:09p * Dracula recovers the Mountain Grizzly Bear fur, worth 36c. Your share is 7c.
+3/28/25 8:19:49p You have 11548 coins.
+3/28/25 8:19:56p Anduin Lothar turns to stone.
+3/28/25 8:20:23p You helped vanquish a Mountain Grizzly Bear.
+3/28/25 8:20:23p * ZipLock recovers the Mountain Grizzly Bear fur, worth 37c. Your share is 7c.
+3/28/25 8:21:33p ZipLock turns to stone.
+3/28/25 8:21:42p You helped vanquish a Mountain Bear.
+3/28/25 8:21:51p You helped vanquish a Mountain Bear.
+3/28/25 8:21:51p * Dracula recovers the Mountain Bear fur, worth 47c. Your share is 9c.
+3/28/25 8:22:01p You helped vanquish a Mountain Bear.
+3/28/25 8:22:01p * Dracula recovers the Mountain Bear fur, worth 11c. Your share is 2c.
+3/28/25 8:22:10p You helped vanquish a Mountain Bear.
+3/28/25 8:22:11p * Dracula recovers the Mountain Bear fur, worth 34c. Your share is 6c.
+3/28/25 8:22:14p You helped vanquish a Mountain Bear.
+3/28/25 8:22:14p * Dracula recovers the Mountain Bear fur, worth 22c. Your share is 4c.
+3/28/25 8:22:25p You helped vanquish a Mountain Bear.
+3/28/25 8:23:37p You have 11576 coins.
+3/28/25 8:23:46p You just received anonymous good karma.
+3/28/25 8:24:40p Anduin Lothar turns to stone.
+3/28/25 8:24:48p You helped vanquish a Mountain Bear.
+3/28/25 8:24:48p * Dracula recovers the Mountain Bear fur, worth 11c. Your share is 3c.
+3/28/25 8:25:08p You helped vanquish a Mountain Bear.
+3/28/25 8:25:08p * Dracula recovers the Mountain Bear fur, worth 41c. Your share is 8c.
+3/28/25 8:25:17p You helped vanquish a Mountain Bear.
+3/28/25 8:25:17p * Dracula recovers the Mountain Bear fur, worth 2c. Your share is 1c.
+3/28/25 8:26:17p ZipLock turns to stone.
+3/28/25 8:26:31p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/28/25 8:26:32p Magnic has fallen to a Mountain Wasp.
+3/28/25 8:26:32p Anduin Lothar has fallen to a Starstag.
+3/28/25 8:26:51p ZipLock has fallen to a Mountain Wasp.
+3/28/25 8:26:59p Unholy has fallen to a Fickle Foxweir.
+3/28/25 8:27:08p Dracula starts dragging you.
+3/28/25 8:27:30p You have 11588 coins.
+3/28/25 8:28:18p Phoebe says, "Hello, Dracula. I can sell you a river skiff. Interested? It costs 100 coins."
+3/28/25 8:28:18p Dracula growls, "aye"
+3/28/25 8:28:55p Unholy is no longer fallen.
+3/28/25 8:28:55p •You sense healing energy from Ceara.
+3/28/25 8:28:59p •You sense healing energy from Unholy.
+3/28/25 8:29:01p Dracula is no longer Clanning.
+3/28/25 8:29:12p Anduin Lothar is no longer fallen.
+3/28/25 8:29:18p ZipLock is no longer fallen.
+3/28/25 8:29:22p Koppi yells, "Palmeri reports: Make Squib Blue Again! Join the Fledglings today to support semi weird causes"
+3/28/25 8:29:24p (Squib's eyes light up hopefully)
+3/28/25 8:29:46p Shadowmutt growls, "Grrr."
+3/28/25 8:29:53p You slaughtered a Rat.
+3/28/25 8:30:57p • /SLEEP when you wish to begin studying.
+3/28/25 8:30:59p • /SLEEP when you wish to begin studying.
+3/28/25 8:31:01p Use \SLEEP again when you return.
+3/28/25 8:31:01p You are done adventuring for a while and will be studying here.
+3/28/25 8:31:02p You have been disconnected from Clan Lord.
+3/28/25 8:31:02p • You will benefit from studying here while you are off-line.
+3/28/25 8:31:03p *** We are no longer connected to the Clan Lord game server. ***
+3/28/25 11:59:17p * Your pair of shoes named “red” is starting to look a little worn.
+3/28/25 11:59:17p * Your shirt named “dark grey” is in pretty good shape.
+3/28/25 11:59:17p * Your pair of pants named “dark grey” is in pretty good shape.
+3/28/25 11:59:17p Welcome to Clan Lord, Magnic!
+3/28/25 11:59:17p Type \HELP for a list of commands.
+3/28/25 11:59:17p • You have been charged 18 coins for advanced studies.
+3/28/25 11:59:17p • You gain experience from your recent studies.
+3/28/25 11:59:18p Magnic is now Clanning.
+3/28/25 11:59:18p You have been studying for 14 hours, 12 minutes.
+3/28/25 11:59:18p Friends online: none.
+3/28/25 11:59:20p It's 5:57pm on Terrdi, day 19 of Winter, 641.
+3/28/25 11:59:22p You are the only member of Black Phoenix clanning.
+3/28/25 11:59:22p • What’s New: https://deltatao.com/clanlord/news
+3/28/25 11:59:30p Catan thinks, "thks for you help"
+3/28/25 11:59:32p * Tip of the day: When you kill a creature with a fur, everybody in your party gets to try to skin it, in random order. (Use /OPTIONS to turn tips off.)
+3/28/25 11:59:45p * Class Check
+3/28/25 11:59:46p You are a Dwarf, are male, are a Ranger, and are wearing the symbol of Black Phoenix.
+3/28/25 11:59:46p You are holding a gossamer, and you are wearing a sungem, a shirt, a belt of the wild, a pair of pants and a pair of shoes.
+3/28/25 11:59:46p (Chaos brings me such beautiful mistakes)
+3/29/25 12:00:01a Yokaru thinks, "i didnt do anything XD"
+3/29/25 12:00:21a Agrehk thinks, "Exactly. You didn't plow through over a dozen NW!!"
+3/29/25 12:00:27a Catan thinks, "you left me th NW that killed you"
+3/29/25 12:00:31a * Class Check
+3/29/25 12:00:32a You are a Dwarf, are male, are a Ranger, and are wearing the symbol of Black Phoenix.
+3/29/25 12:00:32a You are holding a gossamer, and you are wearing a sungem, a shirt, a belt of the wild, a pair of pants and a pair of shoes.
+3/29/25 12:00:32a (Chaos brings me such beautiful mistakes)
+3/29/25 12:00:55a Yokaru thinks, "well okay thats right :p i rly could have killed em :P but w/e was fun chiling there :p"
+3/29/25 12:01:26a Yokaru thinks, "how close is catan to becoming a ranger now?^^"
+3/29/25 12:02:10a * Class Check
+3/29/25 12:02:11a You are a Dwarf, are male, are a Ranger, and are wearing the symbol of Black Phoenix.
+3/29/25 12:02:11a You are holding a gossamer, and you are wearing a sungem, a shirt, a belt of the wild, a pair of pants and a pair of shoes.
+3/29/25 12:02:11a (Chaos brings me such beautiful mistakes)
+3/29/25 12:02:45a * Class Check
+3/29/25 12:02:46a You are a Dwarf, are male, are a Ranger, and are wearing the symbol of Black Phoenix.
+3/29/25 12:02:46a You are holding a gossamer, and you are wearing a sungem, a shirt, a belt of the wild, a pair of pants and a pair of shoes.
+3/29/25 12:02:46a (Chaos brings me such beautiful mistakes)
+3/29/25 12:03:08a * Class Check
+3/29/25 12:03:08a You are a Dwarf, are male, are a Ranger, and are wearing the symbol of Black Phoenix.
+3/29/25 12:03:08a You are holding a gossamer, and you are wearing a sungem, a shirt, a belt of the wild, a pair of pants and a pair of shoes.
+3/29/25 12:03:08a (Chaos brings me such beautiful mistakes)
+3/29/25 12:04:20a Magnic says, "You are a Dwarf, are male, are a Ranger, and are wearing the symbol of Black Phoenix."
+3/29/25 12:04:23a * Class Check
+3/29/25 12:04:23a You are a Dwarf, are male, are a Ranger, and are wearing the symbol of Black Phoenix.
+3/29/25 12:04:23a You are holding a gossamer, and you are wearing a sungem, a shirt, a belt of the wild, a pair of pants and a pair of shoes.
+3/29/25 12:04:23a (Chaos brings me such beautiful mistakes)
+3/29/25 12:04:33a * Class Check
+3/29/25 12:04:33a You are a Dwarf, are male, are a Ranger, and are wearing the symbol of Black Phoenix.
+3/29/25 12:04:33a You are holding a gossamer, and you are wearing a sungem, a shirt, a belt of the wild, a pair of pants and a pair of shoes.
+3/29/25 12:04:33a (Chaos brings me such beautiful mistakes)
+3/29/25 12:04:34a * Class Check
+3/29/25 12:04:35a You are a Dwarf, are male, are a Ranger, and are wearing the symbol of Black Phoenix.
+3/29/25 12:04:35a You are holding a gossamer, and you are wearing a sungem, a shirt, a belt of the wild, a pair of pants and a pair of shoes.
+3/29/25 12:04:35a (Chaos brings me such beautiful mistakes)
+3/29/25 12:06:26a You have 11570 coins.
+3/29/25 12:08:27a * Class Check
+3/29/25 12:08:27a   
+3/29/25 12:08:28a You are a Dwarf, are male, are a Ranger, and are wearing the symbol of Black Phoenix.
+3/29/25 12:08:28a You are holding a gossamer, and you are wearing a sungem, a shirt, a belt of the wild, a pair of pants and a pair of shoes.
+3/29/25 12:08:28a (Chaos brings me such beautiful mistakes)
+3/29/25 12:08:47a Nem is now Clanning.
+3/29/25 12:08:47a Nem has been studying for 3 months, one day.
+3/29/25 12:08:54a * Class Check
+3/29/25 12:08:55a You are a Dwarf, are male, are a Ranger, and are wearing the symbol of Black Phoenix.
+3/29/25 12:08:55a You are holding a gossamer, and you are wearing a sungem, a shirt, a belt of the wild, a pair of pants and a pair of shoes.
+3/29/25 12:08:55a (Chaos brings me such beautiful mistakes)
+3/29/25 12:09:21a Lister is no longer Clanning.
+3/29/25 12:09:31a * Class Check
+3/29/25 12:09:31a You are a Dwarf, are male, are a Ranger, and are wearing the symbol of Black Phoenix.
+3/29/25 12:09:31a You are holding a gossamer, and you are wearing a sungem, a shirt, a belt of the wild, a pair of pants and a pair of shoes.
+3/29/25 12:09:31a (Chaos brings me such beautiful mistakes)
+3/29/25 12:09:31a   
+3/29/25 12:10:49a * Class Check
+3/29/25 12:10:49a   
+3/29/25 12:10:49a You are a Dwarf, are male, are a Ranger, and are wearing the symbol of Black Phoenix.
+3/29/25 12:10:49a You are holding a gossamer, and you are wearing a sungem, a shirt, a belt of the wild, a pair of pants and a pair of shoes.
+3/29/25 12:10:49a (Chaos brings me such beautiful mistakes)
+3/29/25 12:11:05a * Class Check
+3/29/25 12:11:05a   
+3/29/25 12:11:05a You are a Dwarf, are male, are a Ranger, and are wearing the symbol of Black Phoenix.
+3/29/25 12:11:05a You are holding a gossamer, and you are wearing a sungem, a shirt, a belt of the wild, a pair of pants and a pair of shoes.
+3/29/25 12:11:05a (Chaos brings me such beautiful mistakes)
+3/29/25 12:13:43a * Class Check
+3/29/25 12:13:43a   
+3/29/25 12:13:44a You are a Dwarf, are male, are a Ranger, and are wearing the symbol of Black Phoenix.
+3/29/25 12:13:44a You are holding a gossamer, and you are wearing a sungem, a shirt, a belt of the wild, a pair of pants and a pair of shoes.
+3/29/25 12:13:44a (Chaos brings me such beautiful mistakes)
+3/29/25 12:17:02a You have 11570 coins.
+3/29/25 12:17:14a * Class Check
+3/29/25 12:17:14a * Class Set: Ranger
+3/29/25 12:18:23a You slaughtered a Rat.
+3/29/25 12:19:18a Julia is now Clanning.
+3/29/25 12:20:16a Squib whispers, "attack"
+3/29/25 12:20:30a You have 11570 coins.
+3/29/25 12:21:07a Nem is no longer Clanning.
+3/29/25 12:22:16a Squib whispers, "attack"
+3/29/25 12:22:26a •You gain experience.
+3/29/25 12:22:37a Koppi yells, "Bashak reports: I don't know about you, but I'm catching the boat today for LA™'s Spring break in PEACETON, brought to you by LA™"
+3/29/25 12:23:51a You have 11570 coins.
+3/29/25 12:24:16a Squib whispers, "attack"
+3/29/25 12:24:25a * Class Check
+3/29/25 12:24:26a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:26a • MACRO goto end
+3/29/25 12:24:26a You are a Dwarf, are male, are a Ranger, and are wearing the symbol of Black Phoenix.
+3/29/25 12:24:26a You are holding a gossamer, and you are wearing a sungem, a shirt, a belt of the wild, a pair of pants and a pair of shoes.
+3/29/25 12:24:26a (Chaos brings me such beautiful mistakes)
+3/29/25 12:24:26a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:26a • MACRO goto end
+3/29/25 12:24:26a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:26a • MACRO goto end
+3/29/25 12:24:26a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:26a • MACRO goto end
+3/29/25 12:24:26a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:26a • MACRO goto end
+3/29/25 12:24:27a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:27a • MACRO goto end
+3/29/25 12:24:27a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:27a • MACRO goto end
+3/29/25 12:24:27a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:27a • MACRO goto end
+3/29/25 12:24:27a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:27a • MACRO goto end
+3/29/25 12:24:27a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:27a • MACRO goto end
+3/29/25 12:24:28a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:28a • MACRO goto end
+3/29/25 12:24:28a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:28a • MACRO goto end
+3/29/25 12:24:28a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:28a • MACRO goto end
+3/29/25 12:24:28a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:28a • MACRO goto end
+3/29/25 12:24:28a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:28a • MACRO goto end
+3/29/25 12:24:29a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:29a • MACRO goto end
+3/29/25 12:24:29a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:29a • MACRO goto end
+3/29/25 12:24:29a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:29a • MACRO goto end
+3/29/25 12:24:29a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:29a • MACRO goto end
+3/29/25 12:24:29a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:29a • MACRO goto end
+3/29/25 12:24:30a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:30a • MACRO goto end
+3/29/25 12:24:30a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:30a • MACRO goto end
+3/29/25 12:24:30a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:30a • MACRO goto end
+3/29/25 12:24:30a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:30a • MACRO goto end
+3/29/25 12:24:30a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:30a • MACRO goto end
+3/29/25 12:24:31a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:31a • MACRO goto end
+3/29/25 12:24:31a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:31a • MACRO goto end
+3/29/25 12:24:31a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:31a • MACRO goto end
+3/29/25 12:24:31a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:31a • MACRO goto end
+3/29/25 12:24:31a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:31a • MACRO goto end
+3/29/25 12:24:32a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:32a • MACRO goto end
+3/29/25 12:24:32a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:32a • MACRO goto end
+3/29/25 12:24:32a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:32a • MACRO goto end
+3/29/25 12:24:32a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:32a • MACRO goto end
+3/29/25 12:24:32a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:32a • MACRO goto end
+3/29/25 12:24:33a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:33a • MACRO goto end
+3/29/25 12:24:33a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:33a • MACRO goto end
+3/29/25 12:24:33a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:33a • MACRO goto end
+3/29/25 12:24:33a • MACRO Execution Error
+label goto not found in the current macro.
+3/29/25 12:24:33a • MACRO goto end
+3/29/25 12:24:55a * Class Check
+3/29/25 12:24:55a You are a Dwarf, are male, are a Ranger, and are wearing the symbol of Black Phoenix.
+3/29/25 12:24:55a You are holding a gossamer, and you are wearing a sungem, a shirt, a belt of the wild, a pair of pants and a pair of shoes.
+3/29/25 12:24:55a (Chaos brings me such beautiful mistakes)
+3/29/25 12:25:24a * Class Check
+3/29/25 12:25:25a You are a Dwarf, are male, are a Ranger, and are wearing the symbol of Black Phoenix.
+3/29/25 12:25:25a You are holding a gossamer, and you are wearing a sungem, a shirt, a belt of the wild, a pair of pants and a pair of shoes.
+3/29/25 12:25:25a (Chaos brings me such beautiful mistakes)
+3/29/25 12:25:41a * Class Check
+3/29/25 12:25:42a You are a Dwarf, are male, are a Ranger, and are wearing the symbol of Black Phoenix.
+3/29/25 12:25:42a You are holding a gossamer, and you are wearing a sungem, a shirt, a belt of the wild, a pair of pants and a pair of shoes.
+3/29/25 12:25:42a (Chaos brings me such beautiful mistakes)
+3/29/25 12:26:17a Squib whispers, "attack"
+3/29/25 12:27:48a Koppi yells, "Bashak reports: I don't know about you, but I'm catching the boat today for LA™'s Spring break in PEACETON, brought to you by LA™"
+3/29/25 12:28:16a Squib whispers, "attack"
+3/29/25 12:28:58a You have 11570 coins.
+3/29/25 12:29:22a Crius yells, "It’s 8 o’clock, and we’ve got a situation... There’s a Grove Guardian here..."
+3/29/25 12:29:28a Crius yells, "There’s good hunting in the snagglewood."
+3/29/25 12:30:17a Squib whispers, "attack"
+3/29/25 12:32:17a Squib whispers, "attack"
+3/29/25 12:32:17a You have 11570 coins.
+3/29/25 12:32:59a Koppi yells, "Bashak reports: I don't know about you, but I'm catching the boat today for LA™'s Spring break in PEACETON, brought to you by LA™"
+3/29/25 12:34:17a Squib whispers, "attack"
+3/29/25 12:36:17a Squib whispers, "attack"
+3/29/25 12:36:18a •••
+3/29/25 12:36:18a You have been idle for too long.
+3/29/25 12:36:18a Please do something to avoid being disconnected.
+3/29/25 12:36:18a •••
+3/29/25 12:36:35a You have 11570 coins.
+3/29/25 12:36:56a You slaughtered a Vermine.
+3/29/25 12:37:00a Catan thinks, "at sea Jeepers"
+3/29/25 12:37:08a Drofund says, "Congratulations, Magnic! You won a selenite crystal."
+3/29/25 12:37:08a Drofund hands Magnic a selenite crystal.
+3/29/25 12:37:08a Drofund says, "Greetings, Lord Magnic."
+3/29/25 12:37:09a Drofund says, "So far I’ve sold around 10 raffle tickets for a soil sample originally found by Azriel in the Northwest Forest on Fordi, the 90th Day of Autumn 640, at 10:13 PM from Azriel at 1c each."
+3/29/25 12:37:13a Drofund says, "Congratulations, Magnic! You won a skein of silk."
+3/29/25 12:37:14a Drofund hands Magnic a skein of silk.
+3/29/25 12:37:14a Drofund says, "Greetings, Lord Magnic."
+3/29/25 12:37:15a Drofund says, "So far I’ve sold around 10 raffle tickets for a soil sample originally found by Azriel in the Northwest Forest on Fordi, the 90th Day of Autumn 640, at 10:13 PM from Azriel at 1c each."
+3/29/25 12:37:40a Nyfineke says, "Greetings, Lord Magnic."
+3/29/25 12:37:40a Nyfineke says, "So far I’ve sold around 60 raffle tickets for Satris's ethercle at 15c each."
+3/29/25 12:37:44a Nyfineke says, "Greetings, Lord Magnic."
+3/29/25 12:37:44a Nyfineke says, "So far I’ve sold around 60 raffle tickets for Satris's ethercle at 15c each."
+3/29/25 12:37:45a Nyfineke says, "This raffle will be over in 2 days, 2 hours, 36 minutes."
+3/29/25 12:37:45a Nyfineke asks, "How many tickets would you like to buy?"
+3/29/25 12:37:47a Nyfineke says, "All right, come back if you change your mind."
+3/29/25 12:37:56a You have 11570 coins.
+3/29/25 12:38:10a Koppi yells, "Bashak reports: I don't know about you, but I'm catching the boat today for LA™'s Spring break in PEACETON, brought to you by LA™"
+3/29/25 12:38:34a You see nothing special about the selenite crystal.
+3/29/25 12:39:32a Jeepers is no longer Clanning.
+3/29/25 12:39:35a Agrehk says, "If you do a general sunstone message, often times folks will jump to help out"
+3/29/25 12:39:37a Woolf asks, "Why are you saying this Catan?"
+3/29/25 12:39:52a Magnic asks, "?"
+3/29/25 12:39:59a Woolf asks, "Not nice?"
+3/29/25 12:40:07a Agrehk says, "Good luck with it. We'll work on getting you the plains maha ruknee challenge next."
+3/29/25 12:40:08a Catan says, "Sorry"
+3/29/25 12:40:18a Catan says, "Yes"
+3/29/25 12:40:23a • /SLEEP when you wish to begin studying.
+3/29/25 12:40:26a • /SLEEP when you wish to begin studying.
+3/29/25 12:40:31a Agrehk is done adventuring for a while and will be studying here.
+3/29/25 12:40:33a Agrehk is no longer Clanning.
+3/29/25 12:40:35a Use \SLEEP again when you return.
+3/29/25 12:40:36a You are done adventuring for a while and will be studying here.
+3/29/25 12:40:36a You have been disconnected from Clan Lord.
+3/29/25 12:40:37a • You will benefit from studying here while you are off-line.
+3/29/25 12:40:37a *** We are no longer connected to the Clan Lord game server. ***

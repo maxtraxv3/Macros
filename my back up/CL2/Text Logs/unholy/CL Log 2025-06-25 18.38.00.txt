@@ -1,0 +1,152 @@
+
+6/25/25 6:38:00p * Your healer's cloak is in very good condition.
+6/25/25 6:38:00p Welcome to Clan Lord, Unholy!
+6/25/25 6:38:00p Type \HELP for a list of commands.
+6/25/25 6:38:00p • You gain experience from your recent studies.
+6/25/25 6:38:00p *Healer Mode
+6/25/25 6:38:00p * Healer Item set to moonstone 
+6/25/25 6:38:00p The healing spell has started.
+6/25/25 6:38:00p You have been studying for 31 minutes.
+6/25/25 6:38:03p It's 10:13pm on Gradi, day 22 of Winter, 642.
+6/25/25 6:38:04p Friends online: none.
+6/25/25 6:38:05p You are the only member of Black Phoenix clanning.
+6/25/25 6:38:05p • What’s New: https://deltatao.com/clanlord/news
+6/25/25 6:38:14p * Tip of the day: The standard macros listed in the Default file in your Macros folder are available to all your characters. (Use /OPTIONS to turn tips off.)
+6/25/25 6:38:28p * Healing Jesmaina 
+6/25/25 6:38:29p •To heal yourself, type: \USE
+6/25/25 6:38:29p •To heal yourself three times, type: \USE 3
+6/25/25 6:38:33p * Healing Jesmaina 
+6/25/25 6:38:35p •To heal yourself, type: \USE
+6/25/25 6:38:35p •To heal yourself three times, type: \USE 3
+6/25/25 6:38:38p You equip your asklepian staff.
+6/25/25 6:38:38p A Rat pokes at Jesmaina's body parts.
+6/25/25 6:38:38p You must equip your moonstone before it can be used.
+6/25/25 6:38:39p You must equip your moonstone before it can be used.
+6/25/25 6:38:39p You must equip your moonstone before it can be used.
+6/25/25 6:38:39p You must equip your moonstone before it can be used.
+6/25/25 6:38:40p You must equip your moonstone before it can be used.
+6/25/25 6:38:40p You must equip your moonstone before it can be used.
+6/25/25 6:38:41p You must equip your moonstone before it can be used.
+6/25/25 6:38:41p * Healer Item set to asklepian staff 
+6/25/25 6:38:41p A Rat chews on Jesmaina's fingertips.
+6/25/25 6:38:43p A Rat rips at Jesmaina's entrails.
+6/25/25 6:38:43p * Healing Jesmaina 
+6/25/25 6:38:44p •Jesmaina was too wounded to be healed easily.
+6/25/25 6:38:47p A Rat plucks at Jesmaina's body parts.
+6/25/25 6:38:50p Jesmaina is sharing experiences with you.
+6/25/25 6:39:14p * Healing Jesmaina 
+6/25/25 6:39:17p •You learn from healing.
+6/25/25 6:39:17p •Jesmaina was too wounded to be healed easily.
+6/25/25 6:39:21p •Jesmaina was too wounded to be healed easily.
+6/25/25 6:39:39p * Auto Healer ON!
+6/25/25 6:39:43p Jesmaina says, "c heal me"
+6/25/25 6:39:44p * Auto Healing Jesmaina 
+6/25/25 6:39:51p Jesmaina says, "c heal me"
+6/25/25 6:39:51p * Auto Healing Jesmaina 
+6/25/25 6:39:56p Jesmaina says, "c lock me"
+6/25/25 6:39:56p * Auto Locking Jesmaina 
+6/25/25 6:39:56p •You lock your healing to Jesmaina.
+6/25/25 6:40:47p •Jesmaina is too far away.
+6/25/25 6:41:08p You have 788 coins.
+6/25/25 6:41:36p •You gain experience.
+6/25/25 6:42:16p Jesmaina says, "c lock me"
+6/25/25 6:42:16p * Auto Locking Jesmaina 
+6/25/25 6:42:16p •You lock your healing to Jesmaina.
+6/25/25 6:43:32p •The player must be in the same area.
+6/25/25 6:43:45p Jesmaina says, "c heal me"
+6/25/25 6:43:45p * Auto Healing Jesmaina 
+6/25/25 6:44:04p You have 788 coins.
+6/25/25 6:44:26p • /SLEEP when you wish to begin studying.
+6/25/25 6:44:29p • /SLEEP when you wish to begin studying.
+6/25/25 6:44:36p Use \SLEEP again when you return.
+6/25/25 6:44:36p You are done adventuring for a while and will be staying here.
+6/25/25 6:44:37p You have been disconnected from Clan Lord.
+6/25/25 6:44:37p • You will benefit from staying here while you are off-line.
+6/25/25 6:44:38p *** We are no longer connected to the Clan Lord game server. ***
+6/25/25 6:45:51p * Your healer's cloak is in very good condition.
+6/25/25 6:45:51p Welcome to Clan Lord, Unholy!
+6/25/25 6:45:51p Type \HELP for a list of commands.
+6/25/25 6:45:51p • You gain experience from your recent studies.
+6/25/25 6:45:51p *Healer Mode
+6/25/25 6:45:51p * Healer Item set to asklepian staff 
+6/25/25 6:45:51p The healing spell has started.
+6/25/25 6:45:51p You have been studying for 5 minutes, 2 seconds.
+6/25/25 6:45:51p Friends online: none.
+6/25/25 6:45:54p It's 10:45pm on Gradi, day 22 of Winter, 642.
+6/25/25 6:45:55p You are the only member of Black Phoenix clanning.
+6/25/25 6:45:55p • What’s New: https://deltatao.com/clanlord/news
+6/25/25 6:46:05p * Tip of the day: You can’t be pushed if you’re asleep. (Use /OPTIONS to turn tips off.)
+6/25/25 6:46:26p A Rat rips at Jesmaina's gaping mouth.
+6/25/25 6:46:28p * Healing Jesmaina 
+6/25/25 6:46:44p * Auto Healer ON!
+6/25/25 6:46:47p Jesmaina says, "c heal me"
+6/25/25 6:46:47p * Auto Healing Jesmaina 
+6/25/25 6:46:51p Jesmaina says, "c lock me"
+6/25/25 6:46:51p * Auto Locking Jesmaina 
+6/25/25 6:46:51p •You lock your healing to Jesmaina.
+6/25/25 6:48:28p •The player must be in the same area.
+6/25/25 6:48:47p You have 788 coins.
+6/25/25 6:48:51p * Healing Jesmaina 
+6/25/25 6:49:01p Jesmaina is sharing experiences with you.
+6/25/25 6:49:03p Jesmaina says, "c lock me"
+6/25/25 6:49:03p * Auto Locking Jesmaina 
+6/25/25 6:49:03p •You lock your healing to Jesmaina.
+6/25/25 6:49:47p •Jesmaina is too far away.
+6/25/25 6:50:18p * Healing Jesmaina 
+6/25/25 6:51:42p You have 788 coins.
+6/25/25 6:51:54p * Healing Jesmaina 
+6/25/25 6:51:56p Jesmaina says, "c lock me"
+6/25/25 6:51:57p * Auto Locking Jesmaina 
+6/25/25 6:51:57p •You lock your healing to Jesmaina.
+6/25/25 6:52:06p •Jesmaina is too far away.
+6/25/25 6:52:10p Jesmaina says, "c lock me"
+6/25/25 6:52:10p * Auto Locking Jesmaina 
+6/25/25 6:52:10p •You lock your healing to Jesmaina.
+6/25/25 6:52:28p •The player must be in the same area.
+6/25/25 6:53:16p Jesmaina says, "c lock me"
+6/25/25 6:53:17p * Auto Locking Jesmaina 
+6/25/25 6:53:17p •You lock your healing to Jesmaina.
+6/25/25 6:53:53p •Jesmaina is too far away.
+6/25/25 6:53:59p Jesmaina says, "c lock me"
+6/25/25 6:53:59p * Auto Locking Jesmaina 
+6/25/25 6:53:59p •You lock your healing to Jesmaina.
+6/25/25 6:54:03p •Jesmaina is too far away.
+6/25/25 6:54:06p Jesmaina says, "c lock me"
+6/25/25 6:54:07p * Auto Locking Jesmaina 
+6/25/25 6:54:07p •You lock your healing to Jesmaina.
+6/25/25 6:54:38p You have 788 coins.
+6/25/25 6:55:13p •Jesmaina is too far away.
+6/25/25 6:55:54p Jesmaina says, "c lock me"
+6/25/25 6:55:54p * Auto Locking Jesmaina 
+6/25/25 6:55:55p •You lock your healing to Jesmaina.
+6/25/25 6:56:56p •Jesmaina is too far away.
+6/25/25 6:57:15p Jesmaina says, "c lock me"
+6/25/25 6:57:15p * Auto Locking Jesmaina 
+6/25/25 6:57:15p •You lock your healing to Jesmaina.
+6/25/25 6:57:32p •Jesmaina is too far away.
+6/25/25 6:57:35p You have 788 coins.
+6/25/25 6:57:49p Jesmaina says, "c lock me"
+6/25/25 6:57:50p * Auto Locking Jesmaina 
+6/25/25 6:57:50p •You lock your healing to Jesmaina.
+6/25/25 6:58:24p •The player must be in the same area.
+6/25/25 6:59:03p • /SLEEP when you wish to begin studying.
+6/25/25 6:59:06p • /SLEEP when you wish to begin studying.
+6/25/25 6:59:23p Astrooa says, "Unholy, you are close to mastering Proximus’s lesson."
+6/25/25 6:59:23p * |▰▰▰▰▰▰▰═══| 75%-88%
+6/25/25 6:59:33p Proximus says, "Hail, Unholy. Teaching you is a challenge."
+6/25/25 6:59:33p * Proximus : 200-249.
+6/25/25 6:59:34p Proximus says, "I can teach you to heal people from further away."
+6/25/25 6:59:34p Proximus says, "You will learn as you practice."
+6/25/25 6:59:34p Proximus asks, "Are you sure you would like to train with me?"
+6/25/25 6:59:49p Higgrus says, "Hail, Unholy. You have attained tremendous skill."
+6/25/25 6:59:49p * Higgrus : 350-399.
+6/25/25 6:59:49p Higgrus says, "I can teach you to improve your physical well-being."
+6/25/25 6:59:50p Higgrus says, "You will learn as you practice."
+6/25/25 6:59:55p Higgrus says, "Hail, Unholy. You have attained tremendous skill."
+6/25/25 6:59:55p * Higgrus : 350-399.
+6/25/25 6:59:56p Higgrus says, "I can teach you to improve your physical well-being."
+6/25/25 6:59:56p Higgrus says, "You will learn as you practice."
+6/25/25 6:59:56p Higgrus asks, "Are you sure you would like to train with me?"
+6/25/25 6:59:58p Higgrus says, "Just tell me yes or no, please."
+6/25/25 6:59:59p Unholy says, "yes"
+6/25/25 6:59:59p Higgrus says, "Welcome aboard. Go 

@@ -1,0 +1,108 @@
+
+4/20/25 9:25:49p * Your healer's cloak is in nearly perfect condition.
+4/20/25 9:25:49p Welcome to Clan Lord, Mimo!
+4/20/25 9:25:49p Type \HELP for a list of commands.
+4/20/25 9:25:49p • You gain experience from your recent studies.
+4/20/25 9:25:49p * Healer Item set to asklepian staff 
+4/20/25 9:25:49p The healing spell has started.
+4/20/25 9:25:49p You have been studying for 3 days, 17 hours, 28 minutes.
+4/20/25 9:25:52p It's 9:40am on Sombdi, day 23 of Spring, 641.
+4/20/25 9:25:52p Friends online: none.
+4/20/25 9:25:53p There are three members of Black Phoenix clanning: Ceara, Grando and you.
+4/20/25 9:25:53p • What’s New: https://deltatao.com/clanlord/news
+4/20/25 9:26:03p * Tip of the day: Listening doesn’t put any wear on a sunstone. (Use /OPTIONS to turn tips off.)
+4/20/25 9:26:09p You vault the wall.
+4/20/25 9:27:06p * You need a breath of air!
+4/20/25 9:28:23p Grando is sharing experiences with you.
+4/20/25 9:28:26p You begin sharing your experiences with Grando.
+4/20/25 9:28:31p Grando says, "c heal me"
+4/20/25 9:28:31p * Auto Healing Grando 
+4/20/25 9:28:32p No player named 'me"' found in the player list.
+4/20/25 9:28:32p * Auto Healing  
+4/20/25 9:28:32p • You begin radius healing.
+4/20/25 9:28:37p Grando says, "c heal me"
+4/20/25 9:28:38p * Auto Healing Grando 
+4/20/25 9:28:38p No player named 'me"' found in the player list.
+4/20/25 9:28:38p * Auto Healing  
+4/20/25 9:28:39p • You begin radius healing.
+4/20/25 9:28:44p Grando says, "c heal gran"
+4/20/25 9:28:44p * Auto Healing Grando 
+4/20/25 9:29:31p You have 27 coins.
+4/20/25 9:30:20p Grando says, "c heal gran"
+4/20/25 9:30:20p No player named 'heal' found in the player list.
+4/20/25 9:30:20p * Auto Healing  
+4/20/25 9:30:20p • You begin radius healing.
+4/20/25 9:30:32p Grando says, "c heal gran"
+4/20/25 9:30:32p No player named 'healing.' found in the player list.
+4/20/25 9:30:32p * Auto Healing  
+4/20/25 9:30:33p • You stop radius healing.
+4/20/25 9:30:35p Grando says, "c heal gran"
+4/20/25 9:30:35p * Auto Healing Grando 
+4/20/25 9:30:51p You have 27 coins.
+4/20/25 9:31:33p Grando says, "c heal gran"
+4/20/25 9:31:33p No player named 'coins.' found in the player list.
+4/20/25 9:31:33p * Auto Healing  
+4/20/25 9:31:33p • You begin radius healing.
+4/20/25 9:31:35p Grando says, "c heal gran"
+4/20/25 9:31:35p No player named 'healing.' found in the player list.
+4/20/25 9:31:35p * Auto Healing  
+4/20/25 9:31:35p • You stop radius healing.
+4/20/25 9:31:38p Grando says, "c heal gran"
+4/20/25 9:31:38p No player named 'healing.' found in the player list.
+4/20/25 9:31:38p * Auto Healing  
+4/20/25 9:31:38p • You begin radius healing.
+4/20/25 9:31:40p Grando says, "c heal gran"
+4/20/25 9:31:40p No player named 'healing.' found in the player list.
+4/20/25 9:31:40p * Auto Healing  
+4/20/25 9:31:41p • You stop radius healing.
+4/20/25 9:31:42p Grando says, "c heal gran"
+4/20/25 9:31:43p * Auto Healing Grando 
+4/20/25 9:32:11p You have 27 coins.
+4/20/25 9:32:56p Grando says, "c heal gran"
+4/20/25 9:32:56p No player named 'coins.' found in the player list.
+4/20/25 9:32:56p * Auto Healing  
+4/20/25 9:32:57p • You begin radius healing.
+4/20/25 9:33:00p Grando says, "c heal gran"
+4/20/25 9:33:00p * Auto Healing Grando 
+4/20/25 9:33:31p You have 27 coins.
+4/20/25 9:34:19p Grando says, "c heal grando"
+4/20/25 9:34:20p No player named 'coins.' found in the player list.
+4/20/25 9:34:20p * Auto Healing  
+4/20/25 9:34:20p • You begin radius healing.
+4/20/25 9:34:22p Grando says, "c heal grando"
+4/20/25 9:34:22p * Auto Healing Grando 
+4/20/25 9:34:47p •You do not have enough in you.
+4/20/25 9:34:48p Mimo ponders, "i have no life left to give"
+4/20/25 9:34:51p You have 27 coins.
+4/20/25 9:35:52p Grando says, "c heal grando"
+4/20/25 9:35:52p * Auto Healing Grando 
+4/20/25 9:36:12p You have 27 coins.
+4/20/25 9:36:25p Grando says, "c heal grando"
+4/20/25 9:36:25p No player named 'heal' found in the player list.
+4/20/25 9:36:25p * Auto Healing  
+4/20/25 9:36:25p • You begin radius healing.
+4/20/25 9:36:27p Grando says, "c heal grando"
+4/20/25 9:36:28p No player named 'healing.' found in the player list.
+4/20/25 9:36:28p * Auto Healing  
+4/20/25 9:36:28p • You stop radius healing.
+4/20/25 9:36:30p Grando says, "c heal grando"
+4/20/25 9:36:30p * Auto Healing Grando 
+4/20/25 9:36:45p Grando is a Thoom, is male, is a Ranger, and is wearing the symbol of Black Phoenix.
+4/20/25 9:36:45p He is holding a gossamer, and he is wearing a sunstone, a shirt, a belt of the wild, a pair of pants and a pair of shoes.
+4/20/25 9:37:26p Grando says, "c heal grando"
+4/20/25 9:37:27p * Auto Healing Grando 
+4/20/25 9:37:32p You have 27 coins.
+4/20/25 9:38:28p Grando says, "c heal grando"
+4/20/25 9:38:29p * Auto Healing Grando 
+4/20/25 9:38:52p You have 27 coins.
+4/20/25 9:40:12p You have 27 coins.
+4/20/25 9:41:32p You have 27 coins.
+4/20/25 9:42:33p •The healing spell has been broken.
+4/20/25 9:42:53p You have 27 coins.
+4/20/25 9:42:55p •The healing spell has been broken.
+4/20/25 9:43:18p • /SLEEP when you wish to begin studying.
+4/20/25 9:43:27p Use \SLEEP again when you return.
+4/20/25 9:43:27p You are done adventuring for a while and will be staying here.
+4/20/25 9:43:28p You have been disconnected from Clan Lord.
+4/20/25 9:43:28p • You will benefit from staying here while you are off-line.
+4/20/25 9:43:29p *** We are no longer connected to the Clan Lord game server. ***

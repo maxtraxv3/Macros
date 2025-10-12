@@ -1,0 +1,101 @@
+
+5/21/25 6:54:12p * Your pair of pants is starting to look a little worn.
+5/21/25 6:54:12p * Your shirt named “dark grey” is in pretty good shape.
+5/21/25 6:54:12p * Your pair of shoes named “purple” is in very good condition.
+5/21/25 6:54:12p Welcome to Clan Lord, Smeti!
+5/21/25 6:54:12p Type \HELP for a list of commands.
+5/21/25 6:54:12p • You gain experience from your recent studies.
+5/21/25 6:54:12p You have been studying for 7 days, 21 hours, 13 minutes.
+5/21/25 6:54:14p It's 6:58pm on Sombdi, day 59 of Summer, 641.
+5/21/25 6:54:15p Friends online: none.
+5/21/25 6:54:16p There are two members of Black Phoenix clanning: Magnic and you.
+5/21/25 6:54:16p • What’s New: https://deltatao.com/clanlord/news
+5/21/25 6:54:18p Gern Blansden says, "Greetings, Lord Smeti."
+5/21/25 6:54:19p Gern Blansden says, "When you're done adventuring for the day, go on in to Edric's library."
+5/21/25 6:54:19p Gern Blansden says, "You can study all night."
+5/21/25 6:54:20p Gern Blansden says, "Nobody will bother you in there."
+5/21/25 6:54:21p •You learn how to better utilize your bloodblade.
+5/21/25 6:54:25p * Tip of the day: A /DEPART is traumatic, making it harder to learn for a while afterward. (Use /OPTIONS to turn tips off.)
+5/21/25 6:54:30p You equip your bloodblade.
+5/21/25 6:54:30p •You feel a surge of power as your blood pours down the blade.
+5/21/25 6:54:30p You equip your bloodstone ring.
+5/21/25 6:54:30p * You feel affixed to your previously set health.
+5/21/25 6:54:31p You equip your bronze breastplate named “smeti”.
+5/21/25 6:54:31p You equip your bronze helmet named “smeti”.
+5/21/25 6:54:39p • The Coliseum is now open. Win fabulous prizes!
+5/21/25 6:54:43p You slip your bronze helmet into your backpack.
+5/21/25 6:54:46p You slip your iron shield into your backpack.
+5/21/25 6:54:47p You equip your pair of pants named “blues”, which is in nearly perfect condition.
+5/21/25 6:54:52p * You can't change clothing that quickly.
+5/21/25 6:54:58p You equip your shirt named “dark grey”, which is in pretty good shape.
+5/21/25 6:55:01p You equip your pair of pants, which is starting to look a little worn.
+5/21/25 6:55:07p •The Sun sets.
+5/21/25 6:55:21p You slaughtered a Large Vermine.
+5/21/25 6:55:21p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/21/25 6:55:25p You slaughtered a Vermine.
+5/21/25 6:55:45p You slaughtered a Vermine.
+5/21/25 6:55:51p •You learn how to better utilize your bloodblade.
+5/21/25 6:56:28p Smeti says, "luck hit still hit me"
+5/21/25 6:56:34p You slaughtered a Corpse Warrior.
+5/21/25 6:56:38p You slaughtered a Hooded Corpse.
+5/21/25 6:56:42p You slaughtered a Faithless.
+5/21/25 6:56:45p You slaughtered a Detached Spirit.
+5/21/25 6:56:48p You slaughtered a Hooded Corpse.
+5/21/25 6:56:52p You slaughtered a Detached Spirit.
+5/21/25 6:56:56p You slaughtered a Faithless.
+5/21/25 6:57:03p You slaughtered a Vermine.
+5/21/25 6:57:09p You slaughtered a Vermine.
+5/21/25 6:57:14p You slaughtered an Orga.
+5/21/25 6:57:18p You slaughtered a Vermine.
+5/21/25 6:57:21p •You learn how to better utilize your bloodblade.
+5/21/25 6:57:22p You slaughtered a Giant Slug.
+5/21/25 6:57:31p You vault the wall.
+5/21/25 6:57:33p You have a single coin.
+5/21/25 6:57:48p Detha says, "Hail, Smeti."
+5/21/25 6:57:48p Detha bows.
+5/21/25 6:57:50p Detha says, "Your dedication is commendable."
+5/21/25 6:57:50p * Detha : 550-599.
+5/21/25 6:57:50p Detha says, "I can teach you to defend yourself from hostile intent."
+5/21/25 6:57:51p Detha says, "You will learn as you practice."
+5/21/25 6:57:51p Detha asks, "Are you sure you would like to train with me?"
+5/21/25 6:58:12p Balthus says, "Hail, Smeti. We are nearly equals."
+5/21/25 6:58:12p * Balthus : 400-449.
+5/21/25 6:58:12p Balthus says, "I can teach you to improve your stance and balance."
+5/21/25 6:58:13p Balthus says, "You will learn as you practice."
+5/21/25 6:58:15p Regia says, "Hail, Smeti. You may be proud of your accomplishment."
+5/21/25 6:58:15p * Regia : 450-499.
+5/21/25 6:58:15p Regia says, "I can teach you how to regain your balance after attacking."
+5/21/25 6:58:15p Regia says, "You will learn as you practice."
+5/21/25 6:58:18p Darkus says, "Hail, Smeti. You keep me on my toes."
+5/21/25 6:58:18p * Darkus : 100-149.
+5/21/25 6:58:22p Evus says, "Hail, Smeti. You may be proud of your accomplishment."
+5/21/25 6:58:22p * Evus : 450-499.
+5/21/25 6:58:23p Evus says, "I can teach you a well-rounded combat approach."
+5/21/25 6:58:23p Evus says, "You will learn as you practice."
+5/21/25 6:58:25p Histia says, "Hail, Smeti."
+5/21/25 6:58:25p Histia bows.
+5/21/25 6:58:27p Histia says, "Few indeed are your peers."
+5/21/25 6:58:27p * Histia : 700-749.
+5/21/25 6:58:27p Histia says, "I can teach you how to withstand more damage."
+5/21/25 6:58:28p Histia says, "You will learn as you practice."
+5/21/25 6:58:28p Histia asks, "Are you sure you would like to train with me?"
+5/21/25 6:58:29p Swengus says, "Hail, Smeti."
+5/21/25 6:58:29p Swengus bows deeply.
+5/21/25 6:58:31p Swengus says, "Your devotion to the craft is exemplary."
+5/21/25 6:58:31p * Swengus : 750-799.
+5/21/25 6:58:32p Swengus says, "I can teach you to keep your balance while attacking."
+5/21/25 6:58:32p Swengus says, "You will learn as you practice."
+5/21/25 6:58:34p Atkus says, "Hail, Smeti. It is hard to find more to teach you."
+5/21/25 6:58:34p * Atkus : 150-199.
+5/21/25 6:58:34p Atkus says, "I can teach you how to attack more effectively."
+5/21/25 6:58:34p Atkus says, "You will learn as you practice."
+5/21/25 6:59:00p Troilus says, "Hail, Smeti. You are one of my better pupils."
+5/21/25 6:59:00p * Troilus : 50-99.
+5/21/25 6:59:00p Troilus says, "I can teach you how to recover from wounds slightly faster."
+5/21/25 6:59:01p Troilus says, "You will learn as you practice."
+5/21/25 6:59:08p You slaughtered a Vermine.
+5/21/25 6:59:24p • /SLEEP when you wish to begin studying.
+5/21/25 6:59:29p • /SLEEP when you wish to begin studying.
+5/21/25 6:59:35p You equip your bronze breastplate named “smeti”.
+5/21/25 6:59:36p You equip your bronze helmet named “smeti”.
+5/21/25 6:59:39p You equ

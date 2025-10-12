@@ -1,0 +1,264 @@
+
+5/2/25 7:14:41a * Your healer's cloak is in very good condition.
+5/2/25 7:14:41a Welcome to Clan Lord, Mimo!
+5/2/25 7:14:41a Type \HELP for a list of commands.
+5/2/25 7:14:41a • You gain experience from your recent studies.
+5/2/25 7:14:41a *Healer Mode
+5/2/25 7:14:41a *Type /hi help for more info
+5/2/25 7:14:41a The healing spell has started.
+5/2/25 7:14:41a You have been studying for 11 days, 20 hours, 46 minutes.
+5/2/25 7:14:44a It's 1:49am on Merdi, day 70 of Spring, 641.
+5/2/25 7:14:46a There are two members of Black Phoenix clanning: Grando and you.
+5/2/25 7:14:46a • What’s New: https://deltatao.com/clanlord/news
+5/2/25 7:14:48a Friends online: none.
+5/2/25 7:14:55a * Tip of the day: You can lock a share into your list with /SHARE /LOCK. (Use /OPTIONS to turn tips off.)
+5/2/25 7:15:03a •You seem to heal people closer to death now.
+5/2/25 7:15:21a * Healer Item set to asklepian staff 
+5/2/25 7:15:53a * You need a breath of air!
+5/2/25 7:16:33a •You seem to heal people closer to death now.
+5/2/25 7:18:11a You have 16 coins.
+5/2/25 7:18:52a Grando is sharing experiences with you.
+5/2/25 7:19:21a Grando says, "c heal me"
+5/2/25 7:19:22a No player named 'you.' found in the player list.
+5/2/25 7:19:22a * Auto Healing  
+5/2/25 7:19:22a • You begin radius healing.
+5/2/25 7:19:32a Grando says, "c heal grando"
+5/2/25 7:19:32a * Auto Healing Grando 
+5/2/25 7:20:04a Grando says, "c heal grando"
+5/2/25 7:20:04a * Auto Healing Grando 
+5/2/25 7:20:38a Grando says, "c heal grando"
+5/2/25 7:20:38a * Auto Healing Grando 
+5/2/25 7:21:09a •You sense healing energy from Cat Food.
+5/2/25 7:21:23a Grando says, "c heal grando"
+5/2/25 7:21:24a * Auto Healing Grando 
+5/2/25 7:21:42a You have 16 coins.
+5/2/25 7:21:58a Grando says, "c heal grando"
+5/2/25 7:21:58a No player named 'heal' found in the player list.
+5/2/25 7:21:58a * Auto Healing  
+5/2/25 7:21:58a • You begin radius healing.
+5/2/25 7:22:02a Grando says, "c heal grando"
+5/2/25 7:22:02a No player named 'healing.' found in the player list.
+5/2/25 7:22:02a * Auto Healing  
+5/2/25 7:22:02a • You stop radius healing.
+5/2/25 7:22:05a Grando says, "c heal grando"
+5/2/25 7:22:05a * Auto Healing Grando 
+5/2/25 7:23:23a Grando says, "c heal grando"
+5/2/25 7:23:23a No player named 'heal' found in the player list.
+5/2/25 7:23:24a * Auto Healing  
+5/2/25 7:23:24a • You begin radius healing.
+5/2/25 7:23:30a Grando says, "c heal grando"
+5/2/25 7:23:31a No player named 'healing.' found in the player list.
+5/2/25 7:23:31a * Auto Healing  
+5/2/25 7:23:31a • You stop radius healing.
+5/2/25 7:23:33a Grando says, "c heal grando"
+5/2/25 7:23:34a * Auto Healing Grando 
+5/2/25 7:25:05a You have 16 coins.
+5/2/25 7:25:42a Grando says, "c heal grando"
+5/2/25 7:25:42a No player named 'coins.' found in the player list.
+5/2/25 7:25:42a * Auto Healing  
+5/2/25 7:25:42a • You begin radius healing.
+5/2/25 7:25:45a Grando says, "c heal grando"
+5/2/25 7:25:45a * Auto Healing Grando 
+5/2/25 7:26:26a Grando says, "c heal grando"
+5/2/25 7:26:26a * Auto Healing Grando 
+5/2/25 7:27:04a Grando says, "c heal grando"
+5/2/25 7:27:05a * Auto Healing Grando 
+5/2/25 7:27:46a Grando says, "c heal grando"
+5/2/25 7:27:46a No player named 'heal' found in the player list.
+5/2/25 7:27:46a * Auto Healing  
+5/2/25 7:27:47a • You begin radius healing.
+5/2/25 7:27:50a Grando says, "c heal grando"
+5/2/25 7:27:50a No player named 'healing.' found in the player list.
+5/2/25 7:27:50a * Auto Healing  
+5/2/25 7:27:51a • You stop radius healing.
+5/2/25 7:27:53a Grando says, "c heal grando"
+5/2/25 7:27:53a * Auto Healing Grando 
+5/2/25 7:28:27a You have 16 coins.
+5/2/25 7:28:50a Grando says, "c heal grando"
+5/2/25 7:28:51a * Auto Healing Grando 
+5/2/25 7:29:14a •You sense healing energy from Cat Food.
+5/2/25 7:29:47a Grando says, "c heal grando"
+5/2/25 7:29:48a * Auto Healing Grando 
+5/2/25 7:31:04a Grando says, "c heal grando"
+5/2/25 7:31:04a No player named 'heal' found in the player list.
+5/2/25 7:31:04a * Auto Healing  
+5/2/25 7:31:04a • You begin radius healing.
+5/2/25 7:31:12a * Healing Grando 
+5/2/25 7:32:00a Grando says, "c heal grando"
+5/2/25 7:32:00a * Auto Healing Grando 
+5/2/25 7:32:03a You have 16 coins.
+5/2/25 7:32:32a Grando says, "c heal grando"
+5/2/25 7:32:32a * Auto Healing Grando 
+5/2/25 7:32:57a Catan thinks, "fekk asleep I must have crossed witouht wiling"
+5/2/25 7:33:29a Grando says, "c heal grando"
+5/2/25 7:33:29a * Auto Healing Grando 
+5/2/25 7:34:00a •You sense healing energy from Cat Food.
+5/2/25 7:34:36a Grando says, "c heal grando"
+5/2/25 7:34:37a * Auto Healing Grando 
+5/2/25 7:35:23a Grando says, "c heal grando"
+5/2/25 7:35:24a * Auto Healing Grando 
+5/2/25 7:35:25a You have 16 coins.
+5/2/25 7:38:51a You have 16 coins.
+5/2/25 7:41:52a •The Sun rises.
+5/2/25 7:42:23a You have 16 coins.
+5/2/25 7:43:45a Grando says, "c heal grando"
+5/2/25 7:43:45a * Auto Healing Grando 
+5/2/25 7:44:55a Grando says, "c heal grando"
+5/2/25 7:44:55a No player named 'heal' found in the player list.
+5/2/25 7:44:56a * Auto Healing  
+5/2/25 7:44:56a • You begin radius healing.
+5/2/25 7:45:07a * Healing Grando 
+5/2/25 7:45:49a You have 16 coins.
+5/2/25 7:46:23a Grando says, "c heal grando"
+5/2/25 7:46:23a No player named 'heal' found in the player list.
+5/2/25 7:46:23a * Auto Healing  
+5/2/25 7:46:23a • You begin radius healing.
+5/2/25 7:46:26a Grando says, "c heal grando"
+5/2/25 7:46:27a * Auto Healing Grando 
+5/2/25 7:46:28a Grando says, "c heal grando"
+5/2/25 7:46:29a * Auto Healing Grando 
+5/2/25 7:48:11a Grando says, "c heal grando"
+5/2/25 7:48:11a No player named 'heal' found in the player list.
+5/2/25 7:48:12a * Auto Healing  
+5/2/25 7:48:12a • You begin radius healing.
+5/2/25 7:48:16a Grando says, "c heal grando"
+5/2/25 7:48:17a No player named 'healing.' found in the player list.
+5/2/25 7:48:17a * Auto Healing  
+5/2/25 7:48:17a • You stop radius healing.
+5/2/25 7:48:22a Grando says, "c heal grando"
+5/2/25 7:48:22a No player named 'healing.' found in the player list.
+5/2/25 7:48:22a * Auto Healing  
+5/2/25 7:48:22a • You begin radius healing.
+5/2/25 7:48:24a Grando says, "c heal grando"
+5/2/25 7:48:24a No player named 'healing.' found in the player list.
+5/2/25 7:48:24a * Auto Healing  
+5/2/25 7:48:25a • You stop radius healing.
+5/2/25 7:48:29a * Healing Grando 
+5/2/25 7:49:14a You have 16 coins.
+5/2/25 7:49:40a Grando says, "c heal grando"
+5/2/25 7:49:40a No player named 'heal' found in the player list.
+5/2/25 7:49:41a * Auto Healing  
+5/2/25 7:49:41a • You begin radius healing.
+5/2/25 7:49:43a Grando says, "c heal grando"
+5/2/25 7:49:43a No player named 'healing.' found in the player list.
+5/2/25 7:49:43a * Auto Healing  
+5/2/25 7:49:44a • You stop radius healing.
+5/2/25 7:49:48a * Healing Grando 
+5/2/25 7:50:48a Grando says, "c heal grando"
+5/2/25 7:50:48a * Auto Healing Grando 
+5/2/25 7:51:42a •You sense healing energy from Cat Food.
+5/2/25 7:52:05a Grando says, "c heal grando"
+5/2/25 7:52:06a * Auto Healing Grando 
+5/2/25 7:52:34a You have 16 coins.
+5/2/25 7:52:58a Grando says, "c heal grando"
+5/2/25 7:52:58a * Auto Healing Grando 
+5/2/25 7:53:51a Grando says, "c heal grando"
+5/2/25 7:53:51a * Auto Healing Grando 
+5/2/25 7:55:58a You have 16 coins.
+5/2/25 7:59:17a You have 16 coins.
+5/2/25 8:02:34a You have 16 coins.
+5/2/25 8:05:51a You have 16 coins.
+5/2/25 8:09:08a You have 16 coins.
+5/2/25 8:09:40a Grando says, "c heal grando"
+5/2/25 8:09:40a No player named 'heal' found in the player list.
+5/2/25 8:09:40a * Auto Healing  
+5/2/25 8:09:40a • You begin radius healing.
+5/2/25 8:09:44a Grando says, "c heal grando"
+5/2/25 8:09:44a No player named 'healing.' found in the player list.
+5/2/25 8:09:44a * Auto Healing  
+5/2/25 8:09:45a • You stop radius healing.
+5/2/25 8:09:46a Grando says, "c heal grando"
+5/2/25 8:09:47a No player named 'healing.' found in the player list.
+5/2/25 8:09:47a * Auto Healing  
+5/2/25 8:09:47a • You begin radius healing.
+5/2/25 8:09:49a Grando says, "c heal grando"
+5/2/25 8:09:49a * Auto Healing Grando 
+5/2/25 8:09:51a Grando says, "c heal grando"
+5/2/25 8:09:51a No player named 'heal' found in the player list.
+5/2/25 8:09:51a * Auto Healing  
+5/2/25 8:09:51a • You begin radius healing.
+5/2/25 8:09:54a Grando says, "c heal grando"
+5/2/25 8:09:54a * Auto Healing Grando 
+5/2/25 8:09:59a * Healing Grando 
+5/2/25 8:11:26a Daerdain thinks, "stupid portal"
+5/2/25 8:12:25a You have 16 coins.
+5/2/25 8:15:42a You have 16 coins.
+5/2/25 8:17:40a Daerdain thinks, "when I fall I'll be in the marsh at nw DI. :-)"
+5/2/25 8:19:00a You have 16 coins.
+5/2/25 8:22:18a You have 16 coins.
+5/2/25 8:23:03a Daerdain thinks, "first (I think) 'you experiment with a new fighting style'"
+5/2/25 8:23:39a Grando thinks, "haha keep going :P"
+5/2/25 8:23:59a Azriel thinks, "then you keep doing that bunch more times .."
+5/2/25 8:25:04a Daerdain thinks, "yeah. one hitting stuff is ranger style? I'm also fighting on low health which is I think bloodmage style"
+5/2/25 8:25:07a Grando says, "c heal grando"
+5/2/25 8:25:08a * Auto Healing Grando 
+5/2/25 8:25:39a You have 16 coins.
+5/2/25 8:28:25a Daerdain thinks, "lotta leeches in here. not as many as there were when I got here though. :-)"
+5/2/25 8:29:09a You have 16 coins.
+5/2/25 8:32:55a You have 16 coins.
+5/2/25 8:33:25a Daerdain thinks, "found a cave in the southern part of DI marsh. there's what looks like a gap in the wall, with a skull on it. gonna take a look"
+5/2/25 8:33:52a Daerdain thinks, "dark in here"
+5/2/25 8:34:54a Daerdain thinks, "rats, bats, snakes, spiders"
+5/2/25 8:36:01a Daerdain thinks, "think I covered it all, no big surprises, no treasure. :-("
+5/2/25 8:36:23a You have 16 coins.
+5/2/25 8:40:09a You have 16 coins.
+5/2/25 8:40:13a •You gain experience.
+5/2/25 8:44:03a You have 16 coins.
+5/2/25 8:48:02a You have 16 coins.
+5/2/25 8:52:03a •••
+5/2/25 8:52:03a You have been idle for too long.
+5/2/25 8:52:03a Please do something to avoid being disconnected.
+5/2/25 8:52:03a •••
+5/2/25 8:52:09a You have 16 coins.
+5/2/25 8:55:35a You have 16 coins.
+5/2/25 8:58:53a Daerdain thinks, "that's enough leech-killin' for one day"
+5/2/25 8:59:35a •••
+5/2/25 8:59:35a You have been idle for too long.
+5/2/25 8:59:35a Please do something to avoid being disconnected.
+5/2/25 8:59:35a •••
+5/2/25 8:59:44a You have 16 coins.
+5/2/25 9:03:44a •••
+5/2/25 9:03:44a You have been idle for too long.
+5/2/25 9:03:44a Please do something to avoid being disconnected.
+5/2/25 9:03:44a •••
+5/2/25 9:03:53a You have 16 coins.
+5/2/25 9:05:12a Grando says, "c heal grando"
+5/2/25 9:05:12a No player named 'heal' found in the player list.
+5/2/25 9:05:12a * Auto Healing  
+5/2/25 9:05:12a • You begin radius healing.
+5/2/25 9:05:17a Grando says, "c heal grando"
+5/2/25 9:05:17a No player named 'healing.' found in the player list.
+5/2/25 9:05:17a * Auto Healing  
+5/2/25 9:05:17a • You stop radius healing.
+5/2/25 9:05:19a Grando says, "c heal grando"
+5/2/25 9:05:19a * Auto Healing Grando 
+5/2/25 9:07:16a You have 16 coins.
+5/2/25 9:10:28a You have 16 coins.
+5/2/25 9:13:40a You have 16 coins.
+5/2/25 9:16:52a You have 16 coins.
+5/2/25 9:20:36a You have 16 coins.
+5/2/25 9:24:11a Grando says, "c heal grando"
+5/2/25 9:24:11a No player named 'coins.' found in the player list.
+5/2/25 9:24:11a * Auto Healing  
+5/2/25 9:24:11a • You begin radius healing.
+5/2/25 9:24:34a * Healing Grando 
+5/2/25 9:24:37a You have 16 coins.
+5/2/25 9:25:30a Grando says, "c heal grando"
+5/2/25 9:25:30a No player named 'coins.' found in the player list.
+5/2/25 9:25:30a * Auto Healing  
+5/2/25 9:25:30a • You begin radius healing.
+5/2/25 9:25:38a * Healing Grando 
+5/2/25 9:27:46a Grando says, "c heal grando"
+5/2/25 9:27:47a * Auto Healing Grando 
+5/2/25 9:27:57a You have 16 coins.
+5/2/25 9:31:21a You have 16 coins.
+5/2/25 9:32:33a DragonClaw thinks, "Anyone with Omega?"
+5/2/25 9:32:47a Omega thinks, "nope"
+5/2/25 9:34:12a Omega thinks, "HUNTER!!!"
+5/2/25 9:34:12a Omega thinks, "HUNTER!!!"
+5/2/25 9:34:36a You have 16 coins.
+5/2/25 9:36:02a • /SLEEP when you wish to begin studying.
+5/2/25 9:36:07a Use \SLEEP again when you return.
+5/2/25 9:36:07a You are done adventuring for a while and will be staying here.
+5/2/25 9:36:08a You have been disconnected from Clan Lord.
+5/2/25 9:36:08a �

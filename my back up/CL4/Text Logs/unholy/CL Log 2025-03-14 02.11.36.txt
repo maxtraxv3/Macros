@@ -1,0 +1,101 @@
+
+3/14/25 2:11:36a * Your healer's cloak is in very good condition.
+3/14/25 2:11:36a Welcome to Clan Lord, Unholy!
+3/14/25 2:11:36a Type \HELP for a list of commands.
+3/14/25 2:11:36a • You have been charged 150 coins for advanced studies.
+3/14/25 2:11:36a • You gain experience from your recent studies.
+3/14/25 2:11:36a * auto moonstone ON!
+3/14/25 2:11:36a The healing spell has started.
+3/14/25 2:11:36a You have been studying for 4 days, 22 hours, 22 minutes.
+3/14/25 2:11:39a It's 6:14pm on Fordi, day 48 of Autumn, 640.
+3/14/25 2:11:41a There are two members of Black Phoenix clanning: Magnic and you.
+3/14/25 2:11:41a • What’s New: https://deltatao.com/clanlord/news
+3/14/25 2:11:43a Friends online: none.
+3/14/25 2:11:48a You have no 'asklepian staff' to equip.
+3/14/25 2:11:48a * Healing Snake 
+3/14/25 2:11:48a •To heal yourself, type: \USE
+3/14/25 2:11:48a •To heal yourself three times, type: \USE 3
+3/14/25 2:11:50a * Tip of the day: The /OPTIONS command controls NPC speech speed, tips, skinning, and other game preferences. (Use /OPTIONS to turn tips off.)
+3/14/25 2:11:50a Snake says, "Squib heal me"
+3/14/25 2:11:52a Catan says, "I am gainig Evus ranks"
+3/14/25 2:11:56a * Healing Snake 
+3/14/25 2:11:56a You equip your caduceus.
+3/14/25 2:11:58a (Elenis Reyav nods.)
+3/14/25 2:11:59a Snake is sharing experiences with you.
+3/14/25 2:12:01a Catan says, "but no real progress"
+3/14/25 2:12:07a Catan says, "Ranger wise I think"
+3/14/25 2:12:13a Catan asks, "can you assess me?"
+3/14/25 2:12:27a Magnic says, "Catan is making progress towards becoming a Ranger."
+3/14/25 2:12:30a Catan says, "I thik I am still at the half way mark"
+3/14/25 2:12:33a (Elenis Reyav nods.)
+3/14/25 2:12:38a Catan says, "exactly"
+3/14/25 2:12:44a Catan says, "I need to do Night Wenides"
+3/14/25 2:12:48a (Elenis Reyav nods.)
+3/14/25 2:12:49a •You seem to heal from further away now.
+3/14/25 2:12:56a Catan says, "but I need to gather firends to help me prepare that"
+3/14/25 2:13:00a (Elenis Reyav nods.)
+3/14/25 2:13:06a (Squib looks a bit worried for Haffron)
+3/14/25 2:13:09a * Healing Squib 
+3/14/25 2:13:12a Elenis Reyav says, "Yeah. Priming the passes can help a lot."
+3/14/25 2:13:18a Elenis Reyav says, "And gathering whatever is in GMV together."
+3/14/25 2:13:19a Catan says, "ther'e's another challenge In ened to do"
+3/14/25 2:13:36a Elenis Reyav says, "Similarly with the Plains Maha Ruknee"
+3/14/25 2:13:47a Elenis Reyav asks, "Did you get the Giant Crawler?"
+3/14/25 2:14:16a Magnic says, "unholy run ne"
+3/14/25 2:14:16a \MOVE <DIRECTION> <SPEED> causes your character to move in direction at speed. Speed may be STOP, WALK, or RUN.  Subcommands: N, NORTH, NE, NORTHEAST, E, EAST, SE, SOUTHEAST, S, SOUTH, SW, SOUTHWEST, W, WEST, NW, NORTHWEST, STOP.
+3/14/25 2:14:16a Unholy says, "dirnum6/equip moonstone"
+3/14/25 2:14:17a running  walkdir 
+3/14/25 2:14:17a \MOVE <DIRECTION> <SPEED> causes your character to move in direction at speed. Speed may be STOP, WALK, or RUN.  Subcommands: N, NORTH, NE, NORTHEAST, E, EAST, SE, SOUTHEAST, S, SOUTH, SW, SOUTHWEST, W, WEST, NW, NORTHWEST, STOP.
+3/14/25 2:14:17a You equip your moonstone.
+3/14/25 2:14:18a walking  walkdir 
+3/14/25 2:14:25a Magnic says, "heh"
+3/14/25 2:14:44a Gern Blansden says, "Greetings, Lord Cecil."
+3/14/25 2:14:45a Gern Blansden says, "When you're done adventuring for the day, go on in to Edric's library."
+3/14/25 2:14:45a Gern Blansden says, "You can study all night."
+3/14/25 2:14:45a Gern Blansden says, "Nobody will bother you in there."
+3/14/25 2:14:51a Magnic says, "unholy run northeast"
+3/14/25 2:14:51a \MOVE <DIRECTION> <SPEED> causes your character to move in direction at speed. Speed may be STOP, WALK, or RUN.  Subcommands: N, NORTH, NE, NORTHEAST, E, EAST, SE, SOUTHEAST, S, SOUTH, SW, SOUTHWEST, W, WEST, NW, NORTHWEST, STOP.
+3/14/25 2:14:52a running  walkdir 
+3/14/25 2:14:52a \MOVE <DIRECTION> <SPEED> causes your character to move in direction at speed. Speed may be STOP, WALK, or RUN.  Subcommands: N, NORTH, NE, NORTHEAST, E, EAST, SE, SOUTHEAST, S, SOUTH, SW, SOUTHWEST, W, WEST, NW, NORTHWEST, STOP.
+3/14/25 2:14:53a walking  walkdir 
+3/14/25 2:15:01a Magnic says, "hmm"
+3/14/25 2:15:38a Koppi yells, "Bashak reports: Don't forget to catch the boat to PEACETON later this month for The First Annual LA™ Spring Break In PEACETON, brought to you by the Laughing Academy™"
+3/14/25 2:16:29a Catan says, "I failed th egiant crawler"
+3/14/25 2:17:25a * auto moonstone ON!
+3/14/25 2:17:30a Catan says, "did south beaches again and again witohut haing cleared before hand and very few GCrawlers"
+3/14/25 2:17:36a Magnic says, "unholy run northeast"
+3/14/25 2:17:37a running  northeast 
+3/14/25 2:17:38a running  northeast 
+3/14/25 2:17:39a running  northeast 
+3/14/25 2:17:40a running  northeast 
+3/14/25 2:17:41a running  northeast 
+3/14/25 2:17:42a running  northeast 
+3/14/25 2:17:43a running  northeast 
+3/14/25 2:17:44a running  northeast 
+3/14/25 2:17:45a running  northeast 
+3/14/25 2:17:46a running  northeast 
+3/14/25 2:17:47a running  northeast 
+3/14/25 2:17:48a running  northeast 
+3/14/25 2:17:49a running  northeast 
+3/14/25 2:17:50a • /SLEEP when you wish to begin studying.
+3/14/25 2:17:50a running  northeast 
+3/14/25 2:17:51a running  northeast 
+3/14/25 2:17:52a running  northeast 
+3/14/25 2:17:53a Asterru says, "Botania, you are starting to learn, but Master Spirtus demands more effort."
+3/14/25 2:17:53a running  northeast 
+3/14/25 2:17:55a running  northeast 
+3/14/25 2:17:56a running  northeast 
+3/14/25 2:17:56a • /SLEEP when you wish to begin studying.
+3/14/25 2:17:57a running  northeast 
+3/14/25 2:17:58a running  northeast 
+3/14/25 2:17:59a running  northeast 
+3/14/25 2:18:00a running  northeast 
+3/14/25 2:18:00a Botania is done adventuring for a while and will be studying here.
+3/14/25 2:18:00a * auto moonstone ON!
+3/14/25 2:19:16a * auto moonstone ON!
+3/14/25 2:19:30a Magnic says, "unholy run northeast"
+3/14/25 2:19:31a  unholy  running  northeast 
+3/14/25 2:19:32a  unholy  running  northeast 
+3/14/25 2:21:45a * auto moonstone ON!
+3/14/25 2:21:50a Magnic says, "unholy run northeast"
+3/1

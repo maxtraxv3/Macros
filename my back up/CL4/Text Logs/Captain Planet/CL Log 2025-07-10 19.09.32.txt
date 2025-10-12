@@ -1,0 +1,553 @@
+
+7/10/25 7:09:33p * Your pair of shoes named “white” is in pretty good shape.
+7/10/25 7:09:33p * Your shirt named “Dark Red” is in pretty good shape.
+7/10/25 7:09:33p * Your pair of fourth-circle pants named “turquoise” is in pretty good shape.
+7/10/25 7:09:33p Welcome to Clan Lord, Captain Planet!
+7/10/25 7:09:33p Type \HELP for a list of commands.
+7/10/25 7:09:33p • You gain experience from your recent studies.
+7/10/25 7:09:33p *Healer Mode
+7/10/25 7:09:33p * Healer Item set to asklepian staff 
+7/10/25 7:09:33p The healing spell has started.
+7/10/25 7:09:33p You have been studying for 40 days, 19 hours, 11 minutes.
+7/10/25 7:09:36p It's 9:06am on Lundi, day 84 of Winter, 642.
+7/10/25 7:09:37p There are four members of Black Phoenix clanning: Cat Food, Grando, ZipLock and you.
+7/10/25 7:09:37p • What’s New: https://deltatao.com/clanlord/news
+7/10/25 7:09:39p Friends online: none.
+7/10/25 7:09:47p * Tip of the day: The lands are more deadly at night! (Use /OPTIONS to turn tips off.)
+7/10/25 7:10:02p •Your healing spirit improves.
+7/10/25 7:10:28p * Healing ZipLock 
+7/10/25 7:10:37p • You begin radius healing.
+7/10/25 7:10:59p Grando is sharing experiences with you.
+7/10/25 7:11:06p ZipLock is sharing experiences with you.
+7/10/25 7:11:20p Cat Food is sharing experiences with you.
+7/10/25 7:11:24p You begin sharing your experiences with Cat Food.
+7/10/25 7:11:33p •Your healing spirit improves.
+7/10/25 7:12:50p You have 859 coins.
+7/10/25 7:13:03p •Your healing spirit improves.
+7/10/25 7:13:15p • There is nobody nearby enough to continue radius healing.
+7/10/25 7:13:57p * Auto Healer ON!
+7/10/25 7:14:33p •Your healing spirit improves.
+7/10/25 7:15:18p • You gain experience from your clanmates.
+7/10/25 7:15:37p Grando says, "c heal me"
+7/10/25 7:15:38p * Auto Healing Grando 
+7/10/25 7:15:38p •Grando’s injuries are significantly more serious than you can heal.
+7/10/25 7:15:45p •Grando’s injuries are significantly more serious than you can heal.
+7/10/25 7:15:51p •Grando’s injuries are significantly more serious than you can heal.
+7/10/25 7:15:58p •Grando’s injuries are significantly more serious than you can heal.
+7/10/25 7:16:05p •Grando’s injuries are significantly more serious than you can heal.
+7/10/25 7:16:05p Grando says, "well damm it"
+7/10/25 7:16:10p You have 859 coins.
+7/10/25 7:16:11p •Grando’s injuries are significantly more serious than you can heal.
+7/10/25 7:16:18p •Grando’s injuries are significantly more serious than you can heal.
+7/10/25 7:16:24p •Grando’s injuries are significantly more serious than you can heal.
+7/10/25 7:16:31p •Grando’s injuries are significantly more serious than you can heal.
+7/10/25 7:16:37p Grando says, "c area"
+7/10/25 7:16:38p •Grando’s injuries are significantly more serious than you can heal.
+7/10/25 7:16:38p • You begin radius healing.
+7/10/25 7:17:38p Grando says, "c pet"
+7/10/25 7:17:38p * Auto Healing Pet
+7/10/25 7:17:39p • That's not going to do you any good.
+7/10/25 7:17:53p Grando says, "c heal cat"
+7/10/25 7:17:53p * Auto Healing cat" 
+7/10/25 7:17:53p •The partial name 'cat"' is ambiguous.
+7/10/25 7:17:53p •Healing the closest partial match: Cat Food.
+7/10/25 7:18:21p ZipLock turns to stone.
+7/10/25 7:19:10p •You don't quite have the training to heal Cat Food’s injuries.
+7/10/25 7:19:17p •You don't quite have the training to heal Cat Food’s injuries.
+7/10/25 7:19:18p •The player must be in the same area.
+7/10/25 7:19:43p You have 859 coins.
+7/10/25 7:23:11p \DEPART will send you to Purgatory when you are fallen and have given up hope of being rescued. Departing is traumatic, making it harder to learn for a short time afterward.
+7/10/25 7:23:11p Your spirit has departed your body 78 times.
+7/10/25 7:23:18p You have 859 coins.
+7/10/25 7:23:40p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+7/10/25 7:23:41p Captain Planet has fallen to a Crookbeak Kestrel.
+7/10/25 7:23:41p •Your wounds are severe.
+7/10/25 7:23:49p Your spirit has departed your body 79 times.
+7/10/25 7:24:22p Captain Planet says, "guess only skily and mork are allowed then"
+7/10/25 7:25:22p Captain Planet says, "c area"
+7/10/25 7:25:22p • You begin radius healing.
+7/10/25 7:26:22p • There is nobody nearby enough to continue radius healing.
+7/10/25 7:26:43p You have 859 coins.
+7/10/25 7:27:51p Smeti says, "c area"
+7/10/25 7:27:51p • You begin radius healing.
+7/10/25 7:28:28p Smeti says, "c heal ziplock"
+7/10/25 7:28:28p * Auto Healing ziplock" 
+7/10/25 7:29:34p Smeti says, "c area"
+7/10/25 7:29:35p • You begin radius healing.
+7/10/25 7:29:47p • There is nobody nearby enough to continue radius healing.
+7/10/25 7:30:19p You have 859 coins.
+7/10/25 7:30:59p Smeti says, "You show great devotion to your studies."
+7/10/25 7:30:59p * Smeti : 600-649.
+7/10/25 7:31:59p Smeti says, "c heal ziplock"
+7/10/25 7:31:59p * Auto Healing ziplock" 
+7/10/25 7:32:04p •The player must be in the same area.
+7/10/25 7:33:46p You have 859 coins.
+7/10/25 7:34:01p Captain Planet says, "c area"
+7/10/25 7:34:02p • You begin radius healing.
+7/10/25 7:35:24p Smeti is sharing experiences with you.
+7/10/25 7:35:48p You begin sharing your experiences with ZipLock.
+7/10/25 7:35:48p You are sharing experiences with ZipLock and Cat Food.
+7/10/25 7:35:51p •Your healing is blocked.
+7/10/25 7:35:57p •Your healing is blocked.
+7/10/25 7:36:04p •Your healing is blocked.
+7/10/25 7:36:11p •Your healing is blocked.
+7/10/25 7:36:17p •Your healing is blocked.
+7/10/25 7:36:24p •Your healing is blocked.
+7/10/25 7:36:31p •Your healing is blocked.
+7/10/25 7:36:37p •Your healing is blocked.
+7/10/25 7:36:44p •Your healing is blocked.
+7/10/25 7:36:50p •Your healing is blocked.
+7/10/25 7:36:57p •Your healing is blocked.
+7/10/25 7:37:04p •Your healing is blocked.
+7/10/25 7:37:10p •Your healing is blocked.
+7/10/25 7:37:10p • There is nobody nearby enough to continue radius healing.
+7/10/25 7:37:25p You have 859 coins.
+7/10/25 7:40:29p Smeti says, "c area"
+7/10/25 7:40:29p • You begin radius healing.
+7/10/25 7:40:45p •Your healing is blocked.
+7/10/25 7:40:51p •Your healing is blocked.
+7/10/25 7:40:58p •Your healing is blocked.
+7/10/25 7:41:05p •Your healing is blocked.
+7/10/25 7:41:07p You have 859 coins.
+7/10/25 7:41:11p •Your healing is blocked.
+7/10/25 7:41:18p •Your healing is blocked.
+7/10/25 7:41:25p •Your healing is blocked.
+7/10/25 7:41:31p •Your healing is blocked.
+7/10/25 7:41:38p •Your healing is blocked.
+7/10/25 7:41:44p •Your healing is blocked.
+7/10/25 7:41:51p •Your healing is blocked.
+7/10/25 7:41:58p •Your healing is blocked.
+7/10/25 7:42:04p •Your healing is blocked.
+7/10/25 7:42:11p •Your healing is blocked.
+7/10/25 7:42:17p •Your healing is blocked.
+7/10/25 7:42:24p •Your healing is blocked.
+7/10/25 7:42:31p •Your healing is blocked.
+7/10/25 7:42:37p •Your healing is blocked.
+7/10/25 7:42:44p •Your healing is blocked.
+7/10/25 7:42:51p •Your healing is blocked.
+7/10/25 7:42:57p •Your healing is blocked.
+7/10/25 7:42:59p • There is nobody nearby enough to continue radius healing.
+7/10/25 7:44:46p You have 859 coins.
+7/10/25 7:45:23p Smeti says, "c heal me"
+7/10/25 7:45:23p * Auto Healing Smeti 
+7/10/25 7:45:33p •Your healing is blocked.
+7/10/25 7:47:53p ZipLock turns to stone.
+7/10/25 7:48:04p Smeti says, "c heal me"
+7/10/25 7:48:04p * Auto Healing Smeti 
+7/10/25 7:48:05p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 7:48:12p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 7:48:18p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 7:48:25p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 7:48:26p You have 859 coins.
+7/10/25 7:48:32p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 7:48:38p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 7:48:45p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 7:48:51p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 7:48:58p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 7:49:05p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 7:49:11p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 7:49:18p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 7:49:24p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 7:49:31p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 7:49:38p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 7:49:44p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 7:49:51p •Smeti’s wounds are much more severe than you can heal.
+7/10/25 7:49:57p •Smeti’s wounds are much more severe than you can heal.
+7/10/25 7:50:04p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 7:50:11p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 7:50:17p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 7:50:24p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 7:50:27p Smeti asks, "ttwoolf you in town?"
+7/10/25 7:50:30p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 7:50:37p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 7:50:44p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 7:50:50p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 7:50:57p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 7:51:03p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 7:51:10p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 7:51:17p •Smeti’s wounds are much more severe than you can heal.
+7/10/25 7:51:21p •The player must be in the same area.
+7/10/25 7:52:05p You have 859 coins.
+7/10/25 7:52:37p ZipLock turns to stone.
+7/10/25 7:55:40p You have 859 coins.
+7/10/25 7:55:49p Smeti says, "c heal cat food"
+7/10/25 7:55:49p * Auto Healing cat 
+7/10/25 7:55:49p •The partial name 'cat' is ambiguous.
+7/10/25 7:55:49p •Healing the closest partial match: Cat Food.
+7/10/25 7:56:31p Catan is sharing experiences with you.
+7/10/25 7:56:38p Smeti asks, "you got a hit?"
+7/10/25 7:56:46p Catan says, "yes"
+7/10/25 7:57:04p Cat Food says, "hehe"
+7/10/25 7:57:21p ZipLock turns to stone.
+7/10/25 7:57:30p Catan asks, "I bring woolf?"
+7/10/25 7:57:31p Cat Food says, "c heal smeti"
+7/10/25 7:57:31p * Auto Healing smeti" 
+7/10/25 7:57:32p •Smeti’s injuries were serious.
+7/10/25 7:57:32p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 7:57:35p Cat Food says, "yeah"
+7/10/25 7:57:46p •Your healing is blocked.
+7/10/25 7:58:02p Smeti says, "c heal me"
+7/10/25 7:58:02p * Auto Healing Smeti 
+7/10/25 7:58:02p •Smeti’s injuries are a little more serious than you can heal.
+7/10/25 7:58:09p •Smeti’s injuries are a little more serious than you can heal.
+7/10/25 7:58:10p Smeti says, "q"
+7/10/25 7:58:13p Smeti says, "heh"
+7/10/25 7:58:16p •Smeti’s injuries are a little more serious than you can heal.
+7/10/25 7:58:22p Catan says, "no chain"
+7/10/25 7:58:22p Smeti says, "c heal catan"
+7/10/25 7:58:22p * Auto Healing catan" 
+7/10/25 7:58:22p •Smeti’s injuries are a little more serious than you can heal.
+7/10/25 7:58:23p Catan says, "no chain"
+7/10/25 7:58:29p Smeti says, "just bring woolf"
+7/10/25 7:58:55p Smeti says, "c heal cat"
+7/10/25 7:58:55p * Auto Healing cat" 
+7/10/25 7:58:55p •The partial name 'cat"' is ambiguous.
+7/10/25 7:58:55p •Healing the closest partial match: Cat Food.
+7/10/25 7:59:14p You have 859 coins.
+7/10/25 7:59:43p Smeti says, "c heal me"
+7/10/25 7:59:43p * Auto Healing Smeti 
+7/10/25 7:59:44p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 7:59:50p •Smeti’s injuries are a little more serious than you can heal.
+7/10/25 7:59:57p •Smeti’s wounds are much more severe than you can heal.
+7/10/25 8:00:03p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 8:00:04p Woolf says, "sms"
+7/10/25 8:00:10p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 8:00:11p Cat Food says, "hmm"
+7/10/25 8:00:15p Cat Food says, "ill right"
+7/10/25 8:00:16p Cat Food says, "ill right"
+7/10/25 8:00:17p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 8:00:23p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 8:00:28p Cat Food says, "hide next to cap"
+7/10/25 8:00:30p •Smeti’s injuries are a little more serious than you can heal.
+7/10/25 8:00:32p Cat Food's chain breaks as he tries to use it.
+7/10/25 8:00:36p Cat Food says, "bah"
+7/10/25 8:00:36p •Smeti’s wounds are much more severe than you can heal.
+7/10/25 8:00:43p •Smeti’s wounds are much more severe than you can heal.
+7/10/25 8:00:50p •Smeti’s wounds are much more severe than you can heal.
+7/10/25 8:00:56p •Smeti’s wounds are much more severe than you can heal.
+7/10/25 8:01:03p •Smeti’s wounds are much more severe than you can heal.
+7/10/25 8:01:09p Smeti says, "c heal woolf"
+7/10/25 8:01:09p * Auto Healing woolf" 
+7/10/25 8:01:09p •Smeti’s wounds are much more severe than you can heal.
+7/10/25 8:01:15p Smeti says, "go in side"
+7/10/25 8:02:05p ZipLock turns to stone.
+7/10/25 8:02:42p You have 859 coins.
+7/10/25 8:06:18p You have 859 coins.
+7/10/25 8:06:39p Smeti says, "c heal me"
+7/10/25 8:06:39p * Auto Healing Smeti 
+7/10/25 8:06:40p •Smeti was too wounded to be healed easily.
+7/10/25 8:06:49p ZipLock turns to stone.
+7/10/25 8:06:53p •Your healing is blocked.
+7/10/25 8:07:53p Smeti says, "c heal me"
+7/10/25 8:07:54p * Auto Healing Smeti 
+7/10/25 8:08:06p •Your healing is blocked.
+7/10/25 8:08:20p Smeti says, "c heal me"
+7/10/25 8:08:20p * Auto Healing Smeti 
+7/10/25 8:08:30p •Your healing is blocked.
+7/10/25 8:08:49p Smeti says, "c heal me"
+7/10/25 8:08:49p * Auto Healing Smeti 
+7/10/25 8:08:57p •Your healing is blocked.
+7/10/25 8:09:58p You have 859 coins.
+7/10/25 8:10:22p * Healing Woolf 
+7/10/25 8:10:22p •Woolf’s wounds were severe.
+7/10/25 8:10:26p Catan says, "I disn't know it lure here"
+7/10/25 8:10:27p •You learn from healing.
+7/10/25 8:10:40p Smeti says, "all snell here unsafe"
+7/10/25 8:10:48p * Healing Smeti 
+7/10/25 8:10:48p •Smeti’s injuries were grave.
+7/10/25 8:11:01p •The player must be in the same area.
+7/10/25 8:11:28p Cat Food says, "c area"
+7/10/25 8:11:29p • You begin radius healing.
+7/10/25 8:11:33p ZipLock turns to stone.
+7/10/25 8:11:36p •Your healing is blocked.
+7/10/25 8:11:43p •Your healing is blocked.
+7/10/25 8:11:49p •Your healing is blocked.
+7/10/25 8:11:56p •Your healing is blocked.
+7/10/25 8:12:02p •Your healing is blocked.
+7/10/25 8:12:09p •Your healing is blocked.
+7/10/25 8:12:16p •Your healing is blocked.
+7/10/25 8:12:19p •You sense healing energy from Cat Food.
+7/10/25 8:12:22p * Healing CatFood 
+7/10/25 8:12:35p Catan asks, "May I study theese?"
+7/10/25 8:12:39p Catan says, "boar"
+7/10/25 8:12:40p Smeti says, "sure"
+7/10/25 8:12:50p Catan says, "gimme a sec"
+7/10/25 8:13:02p Smeti says, "jsut know if it get bad im just kill anything in the way"
+7/10/25 8:13:22p You have 859 coins.
+7/10/25 8:14:58p Catan says, "? /Use /study cancel"
+7/10/25 8:15:00p Smeti yells, "c heal me"
+7/10/25 8:15:01p * Auto Healing Smeti 
+7/10/25 8:15:01p •Smeti’s injuries are a little more serious than you can heal.
+7/10/25 8:15:08p •Smeti’s injuries are a little more serious than you can heal.
+7/10/25 8:15:14p •Smeti’s injuries are a little more serious than you can heal.
+7/10/25 8:15:21p •Smeti’s injuries are a little more serious than you can heal.
+7/10/25 8:15:22p Cat Food says, "lms"
+7/10/25 8:15:28p •Smeti’s injuries are a little more serious than you can heal.
+7/10/25 8:15:34p Cat Food says, "wish a i had horus healer"
+7/10/25 8:15:34p •Smeti’s injuries are a little more serious than you can heal.
+7/10/25 8:15:41p •Smeti’s injuries are a little more serious than you can heal.
+7/10/25 8:15:47p •Smeti’s injuries are a little more serious than you can heal.
+7/10/25 8:15:54p •Smeti’s injuries are a little more serious than you can heal.
+7/10/25 8:15:57p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+7/10/25 8:15:57p •You do not have enough in you.
+7/10/25 8:15:57p •Your injuries are serious.
+7/10/25 8:15:57p Captain Planet has fallen to a Hungry Hell Boar.
+7/10/25 8:17:08p You have 859 coins.
+7/10/25 8:20:05p Cat Food starts dragging you.
+7/10/25 8:20:15p Cat Food whispers, "excuse me"
+7/10/25 8:20:24p Cat Food whispers, "excuse me"
+7/10/25 8:20:26p Cat Food whispers, "excuse me"
+7/10/25 8:20:26p •You are too wounded to be healed easily.
+7/10/25 8:20:46p You have 859 coins.
+7/10/25 8:21:27p Crius yells, "It’s 2 o’clock, and we could use a few more healers here..."
+7/10/25 8:21:31p •You gain experience.
+7/10/25 8:21:32p Crius yells, "It looks pretty quiet in the Eastern Mountains."
+7/10/25 8:21:35p ZipLock says, "squib heal me"
+7/10/25 8:22:00p •You sense healing energy from Cat Food.
+7/10/25 8:22:03p A Rat rips at your organs.
+7/10/25 8:22:11p A Rat munches on Smeti's entrails.
+7/10/25 8:22:17p Smeti says, "c heal me"
+7/10/25 8:22:17p * Auto Healing Smeti 
+7/10/25 8:22:27p •Your healing is blocked.
+7/10/25 8:22:32p Sentinel yells, "The Emperor keeps watch on all subjects."
+7/10/25 8:24:01p Koppi yells, "Salandra reports: Collecting logs, stones, and soil samples. The first two will get lugged out to the builder in Lugu's Keep. The latter will go to <mumble mumble>."
+7/10/25 8:24:30p You have 859 coins.
+7/10/25 8:25:21p Smeti says, "c area"
+7/10/25 8:25:22p • You begin radius healing.
+7/10/25 8:25:44p •Your healing is blocked.
+7/10/25 8:25:51p •Your healing is blocked.
+7/10/25 8:25:58p •Your healing is blocked.
+7/10/25 8:26:04p •Your healing is blocked.
+7/10/25 8:26:11p •Your healing is blocked.
+7/10/25 8:26:13p Smeti says, "c heal capt"
+7/10/25 8:26:14p * Auto Healing capt" 
+7/10/25 8:26:14p •You sense healing energy from Cat Food.
+7/10/25 8:26:14p •You cannot use your asklepian staff on yourself.
+7/10/25 8:26:17p •Your healing is blocked.
+7/10/25 8:26:24p •Your healing is blocked.
+7/10/25 8:26:31p •Your healing is blocked.
+7/10/25 8:26:37p * Healing ZipLock 
+7/10/25 8:27:52p You have 859 coins.
+7/10/25 8:28:22p Smeti says, "c heal me"
+7/10/25 8:28:22p * Auto Healing Smeti 
+7/10/25 8:28:23p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 8:28:28p Smeti says, "bah"
+7/10/25 8:28:30p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 8:28:36p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 8:28:43p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 8:28:46p Smeti says, "c heal catan"
+7/10/25 8:28:47p * Auto Healing catan" 
+7/10/25 8:29:25p Smeti says, "see if woolf can get me"
+7/10/25 8:29:27p Smeti says, "on q"
+7/10/25 8:29:35p Smeti says, "c heal me"
+7/10/25 8:29:36p * Auto Healing Smeti 
+7/10/25 8:29:36p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 8:29:43p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 8:29:44p •Smeti’s body was severely maimed.
+7/10/25 8:29:47p Smeti says, "yes"
+7/10/25 8:30:02p •Your healing is blocked.
+7/10/25 8:30:11p Smeti says, "c heal woolf"
+7/10/25 8:30:11p * Auto Healing woolf" 
+7/10/25 8:30:44p Smeti says, "pig"
+7/10/25 8:30:48p Smeti says, "oh"
+7/10/25 8:31:03p Smeti says, "wow"
+7/10/25 8:31:07p Smeti says, "that was a lure"
+7/10/25 8:31:10p Smeti says, "heh"
+7/10/25 8:31:24p Catan says, "complciated now"
+7/10/25 8:31:33p You have 859 coins.
+7/10/25 8:31:41p Smeti says, "c heal me"
+7/10/25 8:31:42p * Auto Healing Smeti 
+7/10/25 8:31:42p •Smeti’s injuries were grave.
+7/10/25 8:31:57p ZipLock turns to stone.
+7/10/25 8:32:00p •Your healing is blocked.
+7/10/25 8:32:03p Smeti says, "c heal catan"
+7/10/25 8:32:04p * Auto Healing catan" 
+7/10/25 8:32:11p •The player must be in the same area.
+7/10/25 8:32:11p •Catan’s injuries were serious.
+7/10/25 8:32:44p Captain Planet says, "c heal me"
+7/10/25 8:32:44p * Auto Healing Captain Planet 
+7/10/25 8:32:44p •To heal from a distance, type: \USE <person>
+7/10/25 8:32:44p •To lock your healing to someone, type: \USE /lock or \USE /lock <person>
+7/10/25 8:32:44p •To unlock your healing, heal someone else or type: \USE /unlock or \USE /lock /off
+7/10/25 8:32:44p •To stop healing, unequip this, or type: \USE /off
+7/10/25 8:32:44p •To expend all your healing strength instantly, touch someone with this.
+7/10/25 8:32:44p •To heal everyone in a radius around you, type \USE
+7/10/25 8:33:11p Woolf is sharing experiences with you.
+7/10/25 8:33:25p •The partial name 'cat' is ambiguous.
+7/10/25 8:33:25p •Healing the closest partial match: Cat Food.
+7/10/25 8:33:26p •You don't quite have the training to heal Cat Food’s injuries.
+7/10/25 8:33:32p •You don't quite have the training to heal Cat Food’s injuries.
+7/10/25 8:33:39p •You don't quite have the training to heal Cat Food’s injuries.
+7/10/25 8:33:45p •You don't quite have the training to heal Cat Food’s injuries.
+7/10/25 8:33:52p •You don't quite have the training to heal Cat Food’s injuries.
+7/10/25 8:33:57p You equip your chain.
+7/10/25 8:33:57p •The healing spell has been broken.
+7/10/25 8:34:03p Woolf says, "catan lms"
+7/10/25 8:34:11p You start dragging Cat Food.
+7/10/25 8:34:17p * Disabled chain Equiped !
+7/10/25 8:34:25p You start dragging Smeti.
+7/10/25 8:34:42p * Disabled chain Equiped !
+7/10/25 8:34:44p You have 859 coins.
+7/10/25 8:34:55p Woolf says, "quite on cat f"
+7/10/25 8:34:56p You equip your asklepian staff.
+7/10/25 8:34:58p * Healing CatFood 
+7/10/25 8:34:58p •Cat Food’s injuries were serious.
+7/10/25 8:35:08p * Healing Catan 
+7/10/25 8:35:21p Smeti says, "c area"
+7/10/25 8:35:22p • You begin radius healing.
+7/10/25 8:35:47p Woolf says, "you have made it, proud of you! : D"
+7/10/25 8:35:48p •Your healing is blocked.
+7/10/25 8:35:55p •Your healing is blocked.
+7/10/25 8:36:01p •Your healing is blocked.
+7/10/25 8:36:08p •Your healing is blocked.
+7/10/25 8:36:15p •Your healing is blocked.
+7/10/25 8:36:19p * Healing CatFood 
+7/10/25 8:36:20p •You sense healing energy from Cat Food.
+7/10/25 8:36:27p Woolf says, "but we need to stack up on chains"
+7/10/25 8:36:34p (Smeti nods)
+7/10/25 8:36:46p Woolf says, "need at least 3"
+7/10/25 8:38:03p You have 859 coins.
+7/10/25 8:38:08p Smeti says, "c heal catan"
+7/10/25 8:38:09p * Auto Healing catan" 
+7/10/25 8:38:15p Smeti asks, "rocky not comming?"
+7/10/25 8:38:25p Catan says, "no answer"
+7/10/25 8:40:12p * Healing CatFood 
+7/10/25 8:40:43p Smeti says, "c heal catan"
+7/10/25 8:40:43p * Auto Healing catan" 
+7/10/25 8:41:11p Catan asks, "strikee it please?"
+7/10/25 8:41:14p Smeti says, "i dont wanna kill it"
+7/10/25 8:41:25p ZipLock turns to stone.
+7/10/25 8:41:30p You have 859 coins.
+7/10/25 8:42:00p Smeti says, "c heal catan"
+7/10/25 8:42:00p * Auto Healing catan" 
+7/10/25 8:42:08p Smeti asks, "one more?"
+7/10/25 8:42:13p Catan says, "yes"
+7/10/25 8:42:40p Smeti says, "c heal cat"
+7/10/25 8:42:40p * Auto Healing cat" 
+7/10/25 8:42:40p •The partial name 'cat"' is ambiguous.
+7/10/25 8:42:40p •Healing the closest partial match: Cat Food.
+7/10/25 8:42:56p Smeti says, "c heal catan"
+7/10/25 8:42:56p * Auto Healing catan" 
+7/10/25 8:43:21p Smeti says, "ther borht long range"
+7/10/25 8:43:34p Smeti says, "both*"
+7/10/25 8:43:55p Smeti says, "sorry"
+7/10/25 8:43:59p Catan says, "np"
+7/10/25 8:44:50p Smeti says, "c heal me"
+7/10/25 8:44:50p * Auto Healing Smeti 
+7/10/25 8:44:51p •You don't quite have the training to heal Smeti’s injuries.
+7/10/25 8:44:56p Smeti says, "c heal catan"
+7/10/25 8:44:56p * Auto Healing catan" 
+7/10/25 8:44:57p •Catan’s injuries were serious.
+7/10/25 8:44:58p You have 859 coins.
+7/10/25 8:45:30p Smeti says, "c heal catan"
+7/10/25 8:45:30p * Auto Healing catan" 
+7/10/25 8:45:34p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+7/10/25 8:45:34p •You do not have enough in you.
+7/10/25 8:45:34p Captain Planet has fallen to a Fledgling Kestrel.
+7/10/25 8:45:34p •Your injuries are serious.
+7/10/25 8:45:47p Smeti says, "hmmm"
+7/10/25 8:46:00p •You sense healing energy from Cat Food.
+7/10/25 8:46:09p ZipLock turns to stone.
+7/10/25 8:47:00p Cat Food says, "q"
+7/10/25 8:47:15p Catan asks, "I pull ?"
+7/10/25 8:47:17p Cat Food says, "go in side"
+7/10/25 8:47:28p Cat Food starts dragging you.
+7/10/25 8:47:40p Cat Food whispers, "excuse me"
+7/10/25 8:47:48p Cat Food whispers, "excuse me"
+7/10/25 8:47:50p Cat Food whispers, "excuse me"
+7/10/25 8:47:51p Catan says, "got it"
+7/10/25 8:48:00p •You sense healing energy from Cat Food.
+7/10/25 8:48:18p Smeti says, "c heal me"
+7/10/25 8:48:19p * Auto Healing Smeti 
+7/10/25 8:48:19p •Smeti’s wounds were severe.
+7/10/25 8:48:35p •Your healing is blocked.
+7/10/25 8:48:38p You have 859 coins.
+7/10/25 8:48:39p Smeti says, "c area"
+7/10/25 8:48:39p • You begin radius healing.
+7/10/25 8:48:42p •Your healing is blocked.
+7/10/25 8:48:48p •Your healing is blocked.
+7/10/25 8:48:55p •Your healing is blocked.
+7/10/25 8:49:02p •Your healing is blocked.
+7/10/25 8:49:08p •Your healing is blocked.
+7/10/25 8:49:15p •Your healing is blocked.
+7/10/25 8:49:21p •Your healing is blocked.
+7/10/25 8:49:28p •Your healing is blocked.
+7/10/25 8:49:35p •Your healing is blocked.
+7/10/25 8:49:41p •Your healing is blocked.
+7/10/25 8:49:44p • There is nobody nearby enough to continue radius healing.
+7/10/25 8:50:53p ZipLock turns to stone.
+7/10/25 8:52:09p You have 859 coins.
+7/10/25 8:53:56p Smeti says, "c heal me"
+7/10/25 8:53:56p * Auto Healing Smeti 
+7/10/25 8:53:56p •Smeti was too wounded to be healed easily.
+7/10/25 8:54:05p •Smeti’s injuries were grave.
+7/10/25 8:54:14p •Smeti’s injuries were grave.
+7/10/25 8:54:25p •Smeti’s body has been maimed more severely than you can heal.
+7/10/25 8:54:31p •Smeti’s body has been maimed more severely than you can heal.
+7/10/25 8:54:34p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+7/10/25 8:54:34p •You do not have enough in you.
+7/10/25 8:54:34p •Your injuries are serious.
+7/10/25 8:54:34p Captain Planet has fallen to a Crookbeak Kestrel.
+7/10/25 8:55:52p You have 859 coins.
+7/10/25 8:57:29p Cat Food starts dragging you.
+7/10/25 8:57:40p Cat Food whispers, "excuse me"
+7/10/25 8:57:56p Cat Food's chain flies apart from the stress.
+7/10/25 8:59:36p You have 859 coins.
+7/10/25 9:03:23p You have 859 coins.
+7/10/25 9:05:16p Your spirit has departed your body 80 times.
+7/10/25 9:05:39p Loom'Nir says, "Greetings, Lord Captain Planet."
+7/10/25 9:05:40p Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+7/10/25 9:06:16p Captain Planet says, "c area"
+7/10/25 9:06:17p • You begin radius healing.
+7/10/25 9:07:03p You have 859 coins.
+7/10/25 9:07:12p Sentinel yells, "The Sentinel is here for your protection."
+7/10/25 9:08:58p • You gain experience from your clanmates.
+7/10/25 9:09:45p • There is nobody nearby enough to continue radius healing.
+7/10/25 9:09:45p •Your healing is blocked.
+7/10/25 9:10:15p * Healing Smeti 
+7/10/25 9:10:40p Koppi yells, "Salandra reports: Collecting logs, stones, and soil samples. The first two will get lugged out to the builder in Lugu's Keep. The latter will go to <mumble mumble>."
+7/10/25 9:10:57p You have 859 coins.
+7/10/25 9:12:56p You equip your chain.
+7/10/25 9:13:19p You start dragging Woolf.
+7/10/25 9:13:26p You slip your chain into your backpack.
+7/10/25 9:13:27p You equip your chain.
+7/10/25 9:13:46p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+7/10/25 9:13:47p Captain Planet has fallen to a Dark Recluse.
+7/10/25 9:13:47p •Your wounds are severe.
+7/10/25 9:14:01p Your spirit has departed your body 81 times.
+7/10/25 9:14:14p You have 859 coins.
+7/10/25 9:15:20p Loom'Nir says, "Greetings, Lord Captain Planet."
+7/10/25 9:15:41p M'at Mag'ond says, "Captain Planet, I can teach you to walk in peace and not skin the earth's creatures."
+7/10/25 9:15:55p * Disabled chain Equiped !
+7/10/25 9:16:04p You equip your asklepian staff.
+7/10/25 9:16:05p * Healing Woolf 
+7/10/25 9:16:05p •Woolf’s injuries are a little more serious than you can heal.
+7/10/25 9:16:12p •Woolf’s injuries are a little more serious than you can heal.
+7/10/25 9:16:19p •Woolf’s injuries are a little more serious than you can heal.
+7/10/25 9:16:25p •Woolf’s injuries are a little more serious than you can heal.
+7/10/25 9:16:29p •The healing spell has been broken.
+7/10/25 9:17:12p •The Sun sets.
+7/10/25 9:17:16p You have 859 coins.
+7/10/25 9:18:07p You gave anonymous good karma to Cat Food.
+7/10/25 9:19:51p Captain Planet says, "common man just trying to leave the game"
+7/10/25 9:20:05p Captain Planet says, "why is prug taking so long"
+7/10/25 9:20:31p You have 859 coins.
+7/10/25 9:21:36p •Woolf’s injuries are a little more serious than you can heal.
+7/10/25 9:21:36p • You begin radius healing.
+7/10/25 9:21:36p • There is nobody nearby enough to continue radius healing.
+7/10/25 9:21:37p • You begin radius healing.
+7/10/25 9:21:37p • There is nobody nearby enough to continue radius healing.
+7/10/25 9:21:42p You equip your chain.
+7/10/25 9:21:44p You start dragging Cat Food.
+7/10/25 9:21:45p You start dragging Woolf.
+7/10/25 9:22:14p * Disabled chain Equiped !
+7/10/25 9:22:20p Squib whispers, "attack"
+7/10/25 9:22:26p You equip your asklepian staff.
+7/10/25 9:22:27p * Healing CatFood 
+7/10/25 9:22:27p •Cat Food’s body has been maimed more severely than you can heal.
+7/10/25 9:22:34p •Cat Food’s body has been maimed more severely than you can heal.
+7/10/25 9:22:37p Cat Food says, "squib heal me"
+7/10/25 9:22:38p •Cat Food’s body was severely mangled.
+7/10/25 9:22:45p * Healing CatFood 
+7/10/25 9:22:51p Cat Food says, "squib heal woolf"
+7/10/25 9:23:29p • /SLEEP when you wish to begin

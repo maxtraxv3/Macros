@@ -1,0 +1,71 @@
+
+12/11/24 3:55:47a * Your pair of sixth-circle pants named “Kizmia Bay blue” is in very good condition.
+12/11/24 3:55:47a * Your seventh-circle healer's shirt named “mossy lavender” is in nearly perfect condition.
+12/11/24 3:55:47a Welcome to Clan Lord, Mimo!
+12/11/24 3:55:47a Type \HELP for a list of commands.
+12/11/24 3:55:47a • You gain experience from your recent studies.
+12/11/24 3:55:47a Type /healer for commands if you forget
+12/11/24 3:55:47a Mimo is now Clanning.
+12/11/24 3:55:47a The healing spell has started.
+12/11/24 3:55:47a You have been studying for 5 days, 2 hours, 7 minutes.
+12/11/24 3:55:50a It's 2:26pm on Terrdi, day 28 of Autumn, 639.
+12/11/24 3:55:51a Friends online: none.
+12/11/24 3:55:52a You are the only member of Black Phoenix clanning.
+12/11/24 3:55:52a • What’s New: https://deltatao.com/clanlord/news
+12/11/24 3:55:59a Koppi yells, "Shakyamuni reports: The Darshak have gotten a SpiderLady to trap the Gnomes.. Save the Gnomes! Gnomyamuni!"
+12/11/24 3:56:02a * Tip of the day: /REPORT <PERSON> <REASON> lodges a complaint against someone who is behaving offensively. Please don’t abuse it. (Use /OPTIONS to turn tips off.)
+12/11/24 3:56:06a You equip your caduceus.
+12/11/24 3:56:25a You equip your moonstone.
+12/11/24 3:56:29a Grand Master is now Clanning.
+12/11/24 3:56:57a Anemus says, "Hail, Mimo."
+12/11/24 3:56:58a Anemus says, "I keep watch for the winged ones."
+12/11/24 3:56:58a Anemus says, "The wind is too calm."
+12/11/24 3:56:59a Anemus says, "Come back another day."
+12/11/24 3:57:45a You equip your caduceus.
+12/11/24 3:57:56a Urria is sharing experiences with you.
+12/11/24 3:58:45a You equip your moonstone.
+12/11/24 3:59:21a You slip your moon manual into your backpack.
+12/11/24 3:59:37a Elenis Reyav is now Clanning.
+12/11/24 4:00:35a You equip your caduceus.
+12/11/24 4:00:36a •To heal from a distance, type: \USE <person>
+12/11/24 4:00:36a •To lock your healing to someone, type: \USE /lock or \USE /lock <person>
+12/11/24 4:00:36a •To unlock your healing, heal someone else or type: \USE /unlock or \USE /lock /off
+12/11/24 4:00:36a •To stop healing, unequip this, or type: \USE /off
+12/11/24 4:00:36a You equip your moonstone.
+12/11/24 4:00:37a •To heal yourself, type: \USE
+12/11/24 4:00:37a •To heal yourself three times, type: \USE 3
+12/11/24 4:00:40a You have no 'asklepianstaff' to equip.
+12/11/24 4:00:40a •To heal yourself, type: \USE
+12/11/24 4:00:40a •To heal yourself three times, type: \USE 3
+12/11/24 4:00:41a You equip your caduceus.
+12/11/24 4:01:52a You equip your moonstone.
+12/11/24 4:01:57a Mimo says, ":)"
+12/11/24 4:02:03a Mimo says, "need a brick"
+12/11/24 4:02:37a (Urria smiles)
+12/11/24 4:04:43a You equip your caduceus.
+12/11/24 4:04:45a •You do not have enough spiritual energy.
+12/11/24 4:04:51a •The player must be in the same area.
+12/11/24 4:05:09a Grand Master is no longer Clanning.
+12/11/24 4:05:13a You equip your moonstone.
+12/11/24 4:05:19a Cameo is now Clanning.
+12/11/24 4:06:05a You have no 'asklepianstaff' to equip.
+12/11/24 4:06:05a •To heal yourself, type: \USE
+12/11/24 4:06:05a •To heal yourself three times, type: \USE 3
+12/11/24 4:06:09a You equip your caduceus.
+12/11/24 4:06:21a Koppi yells, "Seaforth reports: https://discord.com/channels/270291133798547456/654474030023180290/1315577707215720489 Lore Tour Saturday Dec14 Fountfell Armor"
+12/11/24 4:07:28a You equip your moonstone.
+12/11/24 4:07:32a Shadowmutt scratches itself.
+12/11/24 4:07:33a Cameo is no longer Clanning.
+12/11/24 4:08:25a •You sense healing energy from Bulgatra.
+12/11/24 4:08:45a Urria is no longer Clanning.
+12/11/24 4:08:51a Buzza is now Clanning.
+12/11/24 4:08:53a Bulgatra says, "happy"
+12/11/24 4:08:57a You equip your caduceus.
+12/11/24 4:08:57a You equip your moonstone.
+12/11/24 4:08:57a •The healing spell has been broken.
+12/11/24 4:09:18a • /SLEEP when you wish to begin studying.
+12/11/24 4:09:22a Use \SLEEP again when you return.
+12/11/24 4:09:22a You are done adventuring for a while and will be staying here.
+12/11/24 4:09:23a You have been disconnected from Clan Lord.
+12/11/24 4:09:23a • You will benefit from staying here while you are off-line.
+12/11/24 4:09:24a *** We are no longer connected to the Clan Lord game server. ***

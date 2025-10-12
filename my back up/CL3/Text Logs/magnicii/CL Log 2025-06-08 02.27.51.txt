@@ -1,0 +1,33 @@
+
+6/8/25 2:27:52a * Your pair of pants named “dark grey” is in very good condition.
+6/8/25 2:27:52a * Your pair of shoes named “red” is in very good condition.
+6/8/25 2:27:52a * Your shirt named “shirt3” is in very good condition.
+6/8/25 2:27:52a Welcome to Clan Lord, Magnic II!
+6/8/25 2:27:52a Type \HELP for a list of commands.
+6/8/25 2:27:52a • You gain experience from your recent studies.
+6/8/25 2:27:52a You have been studying for 4 minutes, 9 seconds.
+6/8/25 2:27:55a It's 2:59pm on Soldi, day 40 of Autumn, 641.
+6/8/25 2:27:56a There are three members of Black Phoenix clanning: Ajahn, Warawonda and you.
+6/8/25 2:27:56a • What’s New: https://deltatao.com/clanlord/news
+6/8/25 2:27:58a Friends online: none.
+6/8/25 2:28:06a * Tip of the day: Use /DEPART while you’re NOT fallen, or /HELP DEPART when you are, to see how many times you have departed. (Use /OPTIONS to turn tips off.)
+6/8/25 2:28:12a *Auto Trade Zero ON!
+6/8/25 2:28:27a • Ajahn offers you a soil sample originally found by Warawonda in the Orga Camp on Lundi, the 38th Day of Winter 641, at 11:47 AM, for free.
+6/8/25 2:28:27a To accept, \BUY 0 Ajahn.
+6/8/25 2:28:27a * Traded: Ajahn 
+6/8/25 2:28:28a Ajahn hands you a soil sample.
+6/8/25 2:28:35a • Ajahn offers you a Rockodile leather for free.
+6/8/25 2:28:35a To accept, \BUY 0 Ajahn.
+6/8/25 2:28:35a * Traded: Ajahn 
+6/8/25 2:28:36a Ajahn hands you a Rockodile leather.
+6/8/25 2:28:43a You offer a cigar to Ajahn for free.
+6/8/25 2:28:43a \SELL /cancel to cancel the offer.
+6/8/25 2:28:44a You hand Ajahn a cigar.
+6/8/25 2:28:45a You offer a cigar to Ajahn for free.
+6/8/25 2:28:45a \SELL /cancel to cancel the offer.
+6/8/25 2:28:46a You hand Ajahn a cigar.
+6/8/25 2:28:50a Use \SLEEP again when you return.
+6/8/25 2:28:50a You are done adventuring for a while and will be staying here.
+6/8/25 2:28:51a You have been disconnected from Clan Lord.
+6/8/25 2:28:51a • You will benefit from staying here while you are off-line.
+6/8/25 2:28:51a *** We are no longer connected to the Clan Lord game se

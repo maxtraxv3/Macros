@@ -1,0 +1,81 @@
+
+6/5/25 2:27:29a * Your pair of pants named “tangleberry-dyed blue” is in very good condition.
+6/5/25 2:27:29a * Your cloak named “grey” is in nearly perfect condition.
+6/5/25 2:27:29a * Your shirt named “midnight” is in nearly perfect condition.
+6/5/25 2:27:29a Welcome to Clan Lord, Maxtrax!
+6/5/25 2:27:29a Type \HELP for a list of commands.
+6/5/25 2:27:29a • You gain experience from your recent studies.
+6/5/25 2:27:29a You have been studying for 5 hours, 44 minutes.
+6/5/25 2:27:32a It's 8:25am on Gradi, day 28 of Autumn, 641.
+6/5/25 2:27:34a There are two members of Black Phoenix clanning: Magnic and you.
+6/5/25 2:27:34a • What’s New: https://deltatao.com/clanlord/news
+6/5/25 2:27:36a Friends online: none.
+6/5/25 2:27:40a *Auto Trade Zero ON!
+6/5/25 2:27:43a * Tip of the day: A /DEPART is traumatic, making it harder to learn for a while afterward. (Use /OPTIONS to turn tips off.)
+6/5/25 2:27:46a • Magnic offers you a lump of iron ore for free.
+6/5/25 2:27:46a To accept, \BUY 0 Magnic.
+6/5/25 2:27:46a * Traded: Magnic 
+6/5/25 2:27:46a Magnic hands you a lump of iron ore.
+6/5/25 2:27:48a • Magnic offers you a lump of iron ore for free.
+6/5/25 2:27:48a To accept, \BUY 0 Magnic.
+6/5/25 2:27:48a * Traded: Magnic 
+6/5/25 2:27:48a Magnic hands you a lump of iron ore.
+6/5/25 2:28:01a Magnic hands you 400 coins.
+6/5/25 2:28:44a You equip your lump of iron ore.
+6/5/25 2:28:46a Erthor says, "Greetings, Lord Maxtrax."
+6/5/25 2:28:46a Erthor says, "For 20 coins, I can help you extract Earthpower minerals from ore."
+6/5/25 2:28:46a Erthor says, "That sample contains nothing useful, but your connection to the Earth is improved."
+6/5/25 2:28:47a Erthor says, "Greetings, Lord Maxtrax."
+6/5/25 2:28:47a Erthor says, "For 20 coins, I can help you extract Earthpower minerals from ore."
+6/5/25 2:28:48a Erthor says, "You have to show me the ore you wish me to examine, though."
+6/5/25 2:28:48a Erthor says, "Greetings, Lord Maxtrax."
+6/5/25 2:28:49a Erthor says, "For 20 coins, I can help you extract Earthpower minerals from ore."
+6/5/25 2:28:49a You equip your lump of iron ore.
+6/5/25 2:28:49a Erthor says, "You have to show me the ore you wish me to examine, though."
+6/5/25 2:28:50a Erthor says, "Greetings, Lord Maxtrax."
+6/5/25 2:28:50a Erthor says, "For 20 coins, I can help you extract Earthpower minerals from ore."
+6/5/25 2:28:51a Erthor says, "Well, you found metal. That's pretty good."
+6/5/25 2:28:51a Erthor says, "Greetings, Lord Maxtrax."
+6/5/25 2:28:59a You slip your piece of iron into your backpack.
+6/5/25 2:29:22a • /SLEEP when you wish to begin studying.
+6/5/25 2:29:38a Ajahn has been studying for 11 days, 23 hours, 41 minutes.
+6/5/25 2:29:46a • Ajahn offers you a lump of charged ore for free.
+6/5/25 2:29:46a To accept, \BUY 0 Ajahn.
+6/5/25 2:29:47a * Traded: Ajahn 
+6/5/25 2:29:47a Ajahn hands you a lump of charged ore.
+6/5/25 2:29:50a • Ajahn offers you a lump of iron ore for free.
+6/5/25 2:29:50a To accept, \BUY 0 Ajahn.
+6/5/25 2:29:51a * Traded: Ajahn 
+6/5/25 2:29:51a Ajahn hands you a lump of iron ore.
+6/5/25 2:29:54a Ajahn is done adventuring for a while and will be staying here.
+6/5/25 2:30:05a Stone-That-Think says, "Greetings, Lord Maxtrax."
+6/5/25 2:30:06a Stone-That-Think says, "Greetings, Lord Maxtrax."
+6/5/25 2:30:39a You equip your lump of iron ore.
+6/5/25 2:30:40a Erthor says, "Greetings, Lord Maxtrax."
+6/5/25 2:30:40a Erthor says, "For 20 coins, I can help you extract Earthpower minerals from ore."
+6/5/25 2:30:41a Erthor says, "That sample contains nothing useful, but your connection to the Earth is improved."
+6/5/25 2:30:41a Erthor says, "Greetings, Lord Maxtrax."
+6/5/25 2:30:42a Erthor says, "For 20 coins, I can help you extract Earthpower minerals from ore."
+6/5/25 2:30:45a You equip your lump of charged ore.
+6/5/25 2:30:47a Erthor says, "Greetings, Lord Maxtrax."
+6/5/25 2:30:47a Erthor says, "For 20 coins, I can help you extract Earthpower minerals from ore."
+6/5/25 2:30:47a Erthor says, "That sample contains nothing useful, but your connection to the Earth is improved."
+6/5/25 2:30:48a Erthor says, "Greetings, Lord Maxtrax."
+6/5/25 2:30:48a Erthor says, "For 20 coins, I can help you extract Earthpower minerals from ore."
+6/5/25 2:31:35a \SELL <price> <buyer> will offer the item selected in your Inventory window for sale.
+6/5/25 2:31:40a You have 320 coins.
+6/5/25 2:31:41a You offer a stone to Magnic for free.
+6/5/25 2:31:41a \SELL /cancel to cancel the offer.
+6/5/25 2:31:42a You hand Magnic a stone.
+6/5/25 2:31:43a You offer a stone to Magnic for free.
+6/5/25 2:31:43a \SELL /cancel to cancel the offer.
+6/5/25 2:31:44a You hand Magnic a stone.
+6/5/25 2:31:45a You offer a stone to Magnic for free.
+6/5/25 2:31:45a \SELL /cancel to cancel the offer.
+6/5/25 2:31:46a You hand Magnic a stone.
+6/5/25 2:31:55a You drop your soil sample.
+6/5/25 2:32:10a You pick up a soil sample.
+6/5/25 2:32:16a You drop your soil sample.
+6/5/25 2:32:21a • /SLEEP when you wish to begin studying.
+6/5/25 2:32:24a Use \SLEEP again when you return.
+6/5/25 2:32:25a You are done adventuring for a while and will be stayi

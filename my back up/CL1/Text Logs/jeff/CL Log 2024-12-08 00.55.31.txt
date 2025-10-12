@@ -1,0 +1,70 @@
+
+12/8/24 12:55:31a * Your shirt named “dark grey” is in nearly perfect condition.
+12/8/24 12:55:31a * Your pair of pants named “dark grey” is in nearly perfect condition.
+12/8/24 12:55:31a Welcome to Clan Lord, Jeff!
+12/8/24 12:55:31a Type \HELP for a list of commands.
+12/8/24 12:55:31a • You gain experience from your recent studies.
+12/8/24 12:55:31a Jeff is now Clanning.
+12/8/24 12:55:31a You have been studying for 15 days, 8 hours, 8 minutes.
+12/8/24 12:55:34a It's 7:36pm on Merdi, day 15 of Autumn, 639.
+12/8/24 12:55:35a Friends online: none.
+12/8/24 12:55:36a There are two members of Black Phoenix clanning: ZipLock and you.
+12/8/24 12:55:36a • What’s New: https://deltatao.com/clanlord/news
+12/8/24 12:55:46a * Tip of the day: You can start commands with either / or \. (Use /OPTIONS to turn tips off.)
+12/8/24 12:55:58a • ZipLock offers you a cloak, which  is in pretty good shape, for free.
+12/8/24 12:55:58a To accept, \BUY 0 ZipLock.
+12/8/24 12:55:58a 1  ZipLock. 
+12/8/24 12:55:58a ZipLock hands you a cloak.
+12/8/24 12:56:00a Guinness is no longer Clanning.
+12/8/24 12:56:02a • ZipLock offers you a pair of pants, which is in nearly perfect condition, for free.
+12/8/24 12:56:02a To accept, \BUY 0 ZipLock.
+12/8/24 12:56:02a 1  ZipLock. 
+12/8/24 12:56:02a ZipLock hands you a pair of pants.
+12/8/24 12:56:09a • ZipLock offers you a shirt, which  is in very good condition, for free.
+12/8/24 12:56:09a To accept, \BUY 0 ZipLock.
+12/8/24 12:56:09a 1  ZipLock. 
+12/8/24 12:56:10a ZipLock hands you a shirt.
+12/8/24 12:56:10a Wulf is now Clanning.
+12/8/24 12:56:16a • ZipLock offers you a pair of shoes, which  is starting to look a little worn, for free.
+12/8/24 12:56:16a To accept, \BUY 0 ZipLock.
+12/8/24 12:56:16a 1  ZipLock. 
+12/8/24 12:56:17a ZipLock hands you a pair of shoes.
+12/8/24 12:56:17a Snake is now Clanning.
+12/8/24 12:56:20a Wulf is no longer Clanning.
+12/8/24 12:56:24a • ZipLock offers you a pair of pants, which  is starting to look a little worn, for free.
+12/8/24 12:56:24a To accept, \BUY 0 ZipLock.
+12/8/24 12:56:24a 1  ZipLock. 
+12/8/24 12:56:24a ZipLock hands you a pair of pants.
+12/8/24 12:56:28a •Your knowledge of blacksmithing improves.
+12/8/24 12:56:37a Cecil is now Clanning.
+12/8/24 12:56:43a That pair of pants doesn't need any mending.
+12/8/24 12:56:46a This repair used 1c worth of sewing supplies.
+12/8/24 12:56:46a You have 496c worth left.
+12/8/24 12:56:46a You mend a pair of pants.
+12/8/24 12:56:49a This repair used 1c worth of sewing supplies.
+12/8/24 12:56:49a You have 495c worth left.
+12/8/24 12:56:49a You mend a pair of shoes.
+12/8/24 12:56:53a This repair used 1c worth of sewing supplies.
+12/8/24 12:56:53a You have 494c worth left.
+12/8/24 12:56:53a You mend a shirt.
+12/8/24 12:56:58a This repair used 1c worth of sewing supplies.
+12/8/24 12:56:58a You have 493c worth left.
+12/8/24 12:56:58a You mend a cloak.
+12/8/24 12:57:04a You offer a cloak named “royal purple” to ZipLock for free.
+12/8/24 12:57:04a \SELL /cancel to cancel the offer.
+12/8/24 12:57:04a You hand ZipLock a cloak.
+12/8/24 12:57:10a You offer a pair of pants named “gold” to ZipLock for free.
+12/8/24 12:57:10a \SELL /cancel to cancel the offer.
+12/8/24 12:57:11a You hand ZipLock a pair of pants.
+12/8/24 12:57:14a You offer a pair of shoes named “blue” to ZipLock for free.
+12/8/24 12:57:14a \SELL /cancel to cancel the offer.
+12/8/24 12:57:14a You hand ZipLock a pair of shoes.
+12/8/24 12:57:19a You equip your pair of pants named “muddy yellow”, which is in nearly perfect condition.
+12/8/24 12:57:34a You offer a pair of pants named “dark grey” to ZipLock for free.
+12/8/24 12:57:34a \SELL /cancel to cancel the offer.
+12/8/24 12:57:35a You hand ZipLock a pair of pants.
+12/8/24 12:57:41a Use \SLEEP again when you return.
+12/8/24 12:57:41a You are done adventuring for a while and will be staying here.
+12/8/24 12:57:42a You have been disconnected from Clan Lord.
+12/8/24 12:57:42a • You will benefit from staying here while you are off-line.
+12/8/24 12:57:43a *** We are no longer connected to the Clan Lord game server. ***

@@ -1,0 +1,495 @@
+
+5/18/25 7:42:09p * Your healer's cloak is in very good condition.
+5/18/25 7:42:09p Welcome to Clan Lord, Unholy!
+5/18/25 7:42:09p Type \HELP for a list of commands.
+5/18/25 7:42:09p • You gain experience from your recent studies.
+5/18/25 7:42:09p *Healer Mode
+5/18/25 7:42:09p *Type /hi help for more info
+5/18/25 7:42:09p The healing spell has started.
+5/18/25 7:42:09p You have been studying for 3 days, 5 hours, 38 minutes.
+5/18/25 7:42:12p It's 3:41pm on Lundi, day 47 of Summer, 641.
+5/18/25 7:42:13p Friends online: none.
+5/18/25 7:42:14p There are three members of Black Phoenix clanning: Magnic, ZipLock and you.
+5/18/25 7:42:14p • What’s New: https://deltatao.com/clanlord/news
+5/18/25 7:42:24p * Tip of the day: You can use any unique piece of a clan name in /WHOCLAN. (Use /OPTIONS to turn tips off.)
+5/18/25 7:43:32p You slip your sylphstone ring into your backpack.
+5/18/25 7:43:32p •The healing spell has ceased.
+5/18/25 7:43:32p Captain Barnac says, "Those Darshaks have been sneaking around here."
+5/18/25 7:43:43p Captain Barnac says, "Those Darshaks have been sneaking around here."
+5/18/25 7:43:58p Captain Barnac says, "Nice boats for rent! Come and get them."
+5/18/25 7:44:17p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+5/18/25 7:44:18p Unholy has fallen to a tidal surge.
+5/18/25 7:44:18p •You are easily healable.
+5/18/25 7:44:41p Poplar says, "oh"
+5/18/25 7:44:44p Poplar says, "let's just clear"
+5/18/25 7:44:44p Magnic says, "hmm"
+5/18/25 7:44:48p Poplar says, "ewasier"
+5/18/25 7:44:51p Magnic says, "yeah i didnt think about that"
+5/18/25 7:44:55p Captain Barnac asks, "Ah, Poplar. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+5/18/25 7:44:56p Poplar says, "yes"
+5/18/25 7:45:01p Magnic says, "heh"
+5/18/25 7:45:22p Captain Barnac asks, "Ah, Magnic. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+5/18/25 7:45:25p You have 239 coins.
+5/18/25 7:45:45p Poplar starts dragging you.
+5/18/25 7:45:54p Captain Barnac asks, "Ah, Poplar. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+5/18/25 7:45:55p Poplar says, "yes"
+5/18/25 7:46:02p Poplar rows through the roaring surf.
+5/18/25 7:46:10p Poplar says, "bring poplar back"
+5/18/25 7:46:11p •You sense healing energy from Yarim.
+5/18/25 7:46:29p \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+5/18/25 7:46:29p * Healing ZipLock 
+5/18/25 7:46:30p You must be holding an item in your right hand in order to /use it.
+5/18/25 7:46:30p To use an item equipped elsewhere, see the help for /useitem.
+5/18/25 7:46:34p You equip your caduceus.
+5/18/25 7:46:36p You equip your sylphstone ring.
+5/18/25 7:46:36p The healing spell has started.
+5/18/25 7:46:37p \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+5/18/25 7:46:37p * Healing ZipLock 
+5/18/25 7:46:39p * Healer Item set to caduceus 
+5/18/25 7:46:45p * Healing Magnic 
+5/18/25 7:46:56p * Healing ZipLock 
+5/18/25 7:47:02p ZipLock is sharing experiences with you.
+5/18/25 7:47:10p Ace is sharing experiences with you.
+5/18/25 7:47:26p Yula is sharing experiences with you.
+5/18/25 7:47:49p Magnic is sharing experiences with you.
+5/18/25 7:47:53p Yarim says, "share pls"
+5/18/25 7:47:58p You begin sharing your experiences with Yarim.
+5/18/25 7:48:01p •You sense healing energy from Yarim.
+5/18/25 7:48:11p •You sense healing energy from Yarim.
+5/18/25 7:48:37p You have 239 coins.
+5/18/25 7:49:28p * Healing Yula 
+5/18/25 7:49:36p Ace yells, "inc"
+5/18/25 7:50:26p Ace says, "sec"
+5/18/25 7:50:29p * Healing Yarim 
+5/18/25 7:50:56p Ace says, "luring"
+5/18/25 7:50:58p Ace says, "luring"
+5/18/25 7:51:12p •You sense healing energy from Yarim.
+5/18/25 7:51:26p * Auto Healer ON!
+5/18/25 7:51:36p Magnic says, "c heal me"
+5/18/25 7:51:36p * Auto Healing Magnic 
+5/18/25 7:51:48p You have 239 coins.
+5/18/25 7:52:04p Magnic says, "c heal me"
+5/18/25 7:52:04p * Auto Healing Magnic 
+5/18/25 7:52:21p •You do not have enough spiritual energy.
+5/18/25 7:52:35p Magnic says, "c heal me"
+5/18/25 7:52:35p * Auto Healing Magnic 
+5/18/25 7:52:53p Magnic says, "c heal yula"
+5/18/25 7:52:53p * Auto Healing yula" 
+5/18/25 7:53:19p * ZipLock recovers the Delta Toad blood, worth 29c. Your share is 5c.
+5/18/25 7:53:24p * Healing Ace 
+5/18/25 7:53:25p Ace says, "W N"
+5/18/25 7:53:26p You begin sharing your experiences with Ace.
+5/18/25 7:53:26p You are sharing experiences with Ace and Yarim.
+5/18/25 7:53:28p You are still too mentally fatigued to change spirit links.
+5/18/25 7:53:29p You begin sharing your experiences with Yula.
+5/18/25 7:53:29p You are sharing experiences with Yula, Ace and Yarim.
+5/18/25 7:53:30p Ace says, "when healed"
+5/18/25 7:53:31p You are already sharing with Yarim.
+5/18/25 7:53:31p You are sharing experiences with Yarim, Yula and Ace.
+5/18/25 7:53:39p •You sense healing energy from Yarim.
+5/18/25 7:54:19p * Healing Ace 
+5/18/25 7:54:49p * Healing Yula 
+5/18/25 7:54:59p You have 244 coins.
+5/18/25 7:55:28p * Healing ZipLock 
+5/18/25 7:56:31p * Healing Magnic 
+5/18/25 7:56:50p •You do not have enough spiritual energy.
+5/18/25 7:57:12p * Healing Magnic 
+5/18/25 7:57:21p Ace thinks, "in hut"
+5/18/25 7:58:10p You have 244 coins.
+5/18/25 7:58:58p * You need a breath of air!
+5/18/25 7:59:13p * Healing ZipLock 
+5/18/25 7:59:33p Ace says, "making coffee and breakfast, afk a few"
+5/18/25 7:59:39p (Magnic nods)
+5/18/25 7:59:46p Howlund asks, "Nothing beats the thrill of the Hunt, don’t you agree?"
+5/18/25 8:01:23p You have 244 coins.
+5/18/25 8:02:36p Howlund asks, "Nothing beats the thrill of the Hunt, don’t you agree?"
+5/18/25 8:03:07p Howlund asks, "Nothing beats the thrill of the Hunt, don’t you agree?"
+5/18/25 8:03:59p Wolf Master turns to stone.
+5/18/25 8:04:36p You have 244 coins.
+5/18/25 8:04:53p Howlund asks, "Nothing beats the thrill of the Hunt, don’t you agree?"
+5/18/25 8:05:30p Howlund asks, "Nothing beats the thrill of the Hunt, don’t you agree?"
+5/18/25 8:07:37p Howlund asks, "Nothing beats the thrill of the Hunt, don’t you agree?"
+5/18/25 8:07:51p You have 244 coins.
+5/18/25 8:08:19p Howlund asks, "Nothing beats the thrill of the Hunt, don’t you agree?"
+5/18/25 8:08:52p Ace says, "almost"
+5/18/25 8:09:05p Wolf Master turns to stone.
+5/18/25 8:09:12p Howlund asks, "Nothing beats the thrill of the Hunt, don’t you agree?"
+5/18/25 8:09:53p Ace says, "ok rdy"
+5/18/25 8:10:00p Howlund asks, "Nothing beats the thrill of the Hunt, don’t you agree?"
+5/18/25 8:10:50p Ace thinks, "n"
+5/18/25 8:11:07p You have 244 coins.
+5/18/25 8:11:13p Howlund asks, "Nothing beats the thrill of the Hunt, don’t you agree?"
+5/18/25 8:12:15p Ace says, "sry"
+5/18/25 8:12:18p * Healing Magnic 
+5/18/25 8:12:18p •Magnic’s injuries are a little more serious than you can heal.
+5/18/25 8:12:24p * Healing Ace 
+5/18/25 8:12:35p Yarim says, "sms for me"
+5/18/25 8:12:42p * Healing Magnic 
+5/18/25 8:12:43p •Magnic’s wounds are much more severe than you can heal.
+5/18/25 8:12:50p •Magnic’s wounds are much more severe than you can heal.
+5/18/25 8:12:55p * Healing Yula 
+5/18/25 8:14:19p You have 244 coins.
+5/18/25 8:14:36p * Healing Unholy 
+5/18/25 8:14:36p •You cannot use your caduceus on yourself.
+5/18/25 8:14:37p You equip your moonstone.
+5/18/25 8:14:52p * Healing Magnic 
+5/18/25 8:14:52p You equip your caduceus.
+5/18/25 8:14:52p You must equip your moonstone before it can be used.
+5/18/25 8:14:53p •Magnic’s injuries are significantly more serious than you can heal.
+5/18/25 8:14:58p Ace says, "b heal magnic"
+5/18/25 8:14:59p •Magnic’s body was severely maimed.
+5/18/25 8:16:15p Magnic whispers, "excuse me"
+5/18/25 8:17:25p * Healing Magnic 
+5/18/25 8:17:33p You have 244 coins.
+5/18/25 8:17:40p * Healing Ace 
+5/18/25 8:18:30p Magnic says, "c heal me"
+5/18/25 8:18:30p * Auto Healing Magnic 
+5/18/25 8:18:34p Ace asks, "got?"
+5/18/25 8:18:56p •You do not have enough spiritual energy.
+5/18/25 8:19:04p * Healing ZipLock 
+5/18/25 8:19:21p Yarim says, "sec"
+5/18/25 8:19:30p * Healing Unholy 
+5/18/25 8:19:30p •You cannot use your caduceus on yourself.
+5/18/25 8:19:30p You equip your moonstone.
+5/18/25 8:19:33p •To heal yourself, type: \USE
+5/18/25 8:19:33p •To heal yourself three times, type: \USE 3
+5/18/25 8:19:34p * Healing ZipLock 
+5/18/25 8:19:35p You equip your caduceus.
+5/18/25 8:19:35p You must equip your moonstone before it can be used.
+5/18/25 8:19:36p You must equip your moonstone before it can be used.
+5/18/25 8:20:46p You have 244 coins.
+5/18/25 8:20:59p Magnic says, "c hela ace"
+5/18/25 8:21:19p Magnic says, "heh"
+5/18/25 8:21:23p Magnic says, "c heal yula"
+5/18/25 8:21:23p * Auto Healing yula" 
+5/18/25 8:22:25p * Healing Unholy 
+5/18/25 8:22:25p •You cannot use your caduceus on yourself.
+5/18/25 8:22:25p You equip your moonstone.
+5/18/25 8:22:27p * Healing Magnic 
+5/18/25 8:22:27p You equip your caduceus.
+5/18/25 8:22:28p You must equip your moonstone before it can be used.
+5/18/25 8:22:32p * Healing Yarim 
+5/18/25 8:23:20p * Healing Magnic 
+5/18/25 8:23:27p The ground is scorched and pitted.
+5/18/25 8:23:58p You have 244 coins.
+5/18/25 8:24:07p * Ace recovers the Shadowcat fur, worth 5c. Your share is 1c.
+5/18/25 8:24:49p Ace says, "luring n"
+5/18/25 8:27:11p You have 245 coins.
+5/18/25 8:27:23p * Healing Magnic 
+5/18/25 8:27:32p Ace says, "luring n"
+5/18/25 8:27:37p •You do not have enough spiritual energy.
+5/18/25 8:27:41p * Healing Magnic 
+5/18/25 8:27:42p Ace says, "bad"
+5/18/25 8:27:53p •You do not have enough spiritual energy.
+5/18/25 8:28:11p * Healing Magnic 
+5/18/25 8:28:12p •You don't quite have the training to heal Magnic’s injuries.
+5/18/25 8:28:18p •You don't quite have the training to heal Magnic’s injuries.
+5/18/25 8:28:22p Magnic says, "q"
+5/18/25 8:28:25p •Magnic’s injuries were serious.
+5/18/25 8:28:59p Ace says, "luring n"
+5/18/25 8:29:06p * Healing Yarim 
+5/18/25 8:29:08p * Healing Yula 
+5/18/25 8:29:24p * Healing Ace 
+5/18/25 8:29:27p * Healing Yarim 
+5/18/25 8:29:28p * Healing Yula 
+5/18/25 8:29:59p •The healing spell has been broken.
+5/18/25 8:30:01p * Healing Ace 
+5/18/25 8:30:26p You have 245 coins.
+5/18/25 8:31:04p * Healing Magnic 
+5/18/25 8:31:26p * You recover the Lowland Hawk blood, worth 4c.
+5/18/25 8:31:30p Ace says, "n"
+5/18/25 8:32:16p Yula says, "pretty busy"
+5/18/25 8:32:23p Yula says, "move closer a bit"
+5/18/25 8:32:32p Ace plants a seedling.
+5/18/25 8:32:33p Ace plants a seedling.
+5/18/25 8:32:37p Ace plants a seedling.
+5/18/25 8:32:39p Ace plants a seedling.
+5/18/25 8:32:40p Ace plants a seedling.
+5/18/25 8:32:41p Ace plants a seedling.
+5/18/25 8:32:41p Ace plants a seedling.
+5/18/25 8:32:42p Ace plants a seedling.
+5/18/25 8:32:43p Ace plants a seedling.
+5/18/25 8:32:49p Ace says, "entrance might take us a bit"
+5/18/25 8:33:32p Yarim says, "q"
+5/18/25 8:33:33p * Healing Ace 
+5/18/25 8:33:34p •Ace’s injuries were serious.
+5/18/25 8:33:37p You have 245 coins.
+5/18/25 8:33:44p Yula says, "sorry"
+5/18/25 8:33:52p Yarim says, "lms"
+5/18/25 8:33:57p * Healing Magnic 
+5/18/25 8:33:57p •You don't quite have the training to heal Magnic’s injuries.
+5/18/25 8:34:04p •You don't quite have the training to heal Magnic’s injuries.
+5/18/25 8:34:06p Ace pours a potion down Magnic's throat.
+5/18/25 8:34:25p Magnic says, "bastion be here soon he says"
+5/18/25 8:34:30p Ace says, "ah cool"
+5/18/25 8:34:52p •You gain experience.
+5/18/25 8:35:27p * Healing Ace 
+5/18/25 8:35:28p Yarim says, "yea this place is stil tricky hehe"
+5/18/25 8:35:45p Magnic says, "c lock yarim"
+5/18/25 8:35:46p * Auto Locking yarim" 
+5/18/25 8:35:46p •You lock your healing to Yarim.
+5/18/25 8:36:15p Ace says, "clear"
+5/18/25 8:36:27p Ace says, "luring"
+5/18/25 8:36:50p You have 245 coins.
+5/18/25 8:36:58p Magnic says, "c heal me"
+5/18/25 8:36:58p * Auto Healing Magnic 
+5/18/25 8:36:58p •You unlock your caduceus healing.
+5/18/25 8:37:02p Ace says, "heh"
+5/18/25 8:37:06p Magnic says, "c hela drac"
+5/18/25 8:37:06p •The Sun sets.
+5/18/25 8:37:08p Dracula says, "thanks"
+5/18/25 8:37:11p Ace says, "but biro also logged on"
+5/18/25 8:37:14p Dracula says, "just getting to vale"
+5/18/25 8:37:19p Ace says, "qq"
+5/18/25 8:37:21p Dracula says, "but its busy 1w of op"
+5/18/25 8:37:27p Dracula says, "anton dead"
+5/18/25 8:37:29p Ace says, "you're clearly the clone"
+5/18/25 8:37:34p Ace says, "we got here without troubles"
+5/18/25 8:37:36p Dracula says, "lol"
+5/18/25 8:37:36p ZipLock turns to stone.
+5/18/25 8:37:39p Ace says, ";p"
+5/18/25 8:38:01p Chef Haricot thinks, "The high society of Puddleby eats at Chez Haricot. Why not you too?"
+5/18/25 8:38:12p Ace says, "stuff"
+5/18/25 8:39:17p * Healing AnduinLothar 
+5/18/25 8:39:39p Ace thinks, "biro come get a bear chief lasty"
+5/18/25 8:39:47p Yarim says, "q"
+5/18/25 8:39:48p Biro thinks, "yes mom"
+5/18/25 8:39:52p * Healing Magnic 
+5/18/25 8:39:52p •Magnic’s injuries were grave.
+5/18/25 8:39:57p Ace says, "omg dracula"
+5/18/25 8:39:59p Ace says, "disgraceful"
+5/18/25 8:40:02p Dracula says, "huntresses everywhere"
+5/18/25 8:40:02p You have 245 coins.
+5/18/25 8:40:08p Dracula says, "yo go kill them"
+5/18/25 8:40:28p •You do not have enough in you.
+5/18/25 8:40:29p * Healing Unholy 
+5/18/25 8:40:29p •You cannot use your caduceus on yourself.
+5/18/25 8:40:30p You equip your moonstone.
+5/18/25 8:40:42p * ZipLock recovers the Mountain Grizzly Bear fur, worth 35c. Your share is 6c.
+5/18/25 8:41:00p Ace says, "biro here soon"
+5/18/25 8:41:02p Dracula says, "yeah"
+5/18/25 8:41:10p Dracula says, "ok need to go finish cooking"
+5/18/25 8:41:12p Dracula says, "LOL"
+5/18/25 8:41:16p * Healing Magnic 
+5/18/25 8:41:16p You equip your caduceus.
+5/18/25 8:41:17p You must equip your moonstone before it can be used.
+5/18/25 8:41:21p Dracula says, "afk"
+5/18/25 8:41:27p * You recover the Mountain Bear fur, worth 4c.
+5/18/25 8:41:27p * Healing Biro 
+5/18/25 8:41:30p Ace says, "ooooops"
+5/18/25 8:41:32p Dracula says, "ceara b heal is on"
+5/18/25 8:41:33p •The player must be in the same area.
+5/18/25 8:41:33p Ace says, "sorry magnic"
+5/18/25 8:41:34p Magnic says, "eh"
+5/18/25 8:41:47p Ace says, "i usually dont kill them from yellow"
+5/18/25 8:42:04p Ace says, "the bear queen"
+5/18/25 8:42:10p Biro says, "SH YARI"
+5/18/25 8:42:15p Biro is sharing experiences with you.
+5/18/25 8:42:16p * Magnic recovers the Mountain Bear fur, worth 7c. Your share is 1c.
+5/18/25 8:42:20p ZipLock turns to stone.
+5/18/25 8:42:25p Ace says, "oh I hit 400 goss today"
+5/18/25 8:42:25p Biro yells, "beara heal biro!"
+5/18/25 8:42:28p Ace says, "6 ranks sooner than I thought"
+5/18/25 8:42:29p Biro says, "nice :D"
+5/18/25 8:42:38p Ace says, "so switched to histia"
+5/18/25 8:42:42p Ace says, "literally hitler"
+5/18/25 8:42:44p Ace says, "the worst trainer"
+5/18/25 8:42:46p Ace says, "so much slaughter"
+5/18/25 8:42:56p Biro says, "yeah that's not very spirtus pilled heen-core of you"
+5/18/25 8:43:01p Ace says, "nope"
+5/18/25 8:43:11p Ace says, "s"
+5/18/25 8:43:11p * Healing Biro 
+5/18/25 8:43:22p You have 252 coins.
+5/18/25 8:43:22p Biro ponders, "getting coffee quick"
+5/18/25 8:43:37p Ace says, "stuff s"
+5/18/25 8:43:46p •You seem to heal from further away now.
+5/18/25 8:45:21p * Healing Magnic 
+5/18/25 8:46:10p Anduin Lothar turns to stone.
+5/18/25 8:46:11p Ace says, "b heal biro"
+5/18/25 8:46:13p Ace says, "c heal biro"
+5/18/25 8:46:13p * Auto Healing biro" 
+5/18/25 8:46:17p Ace says, "that worked"
+5/18/25 8:46:31p Magnic says, "yeah"
+5/18/25 8:46:34p You have 252 coins.
+5/18/25 8:46:44p Magnic says, "heh"
+5/18/25 8:46:44p Ace says, "so"
+5/18/25 8:46:47p Ace says, "let's do a quick clear"
+5/18/25 8:46:53p Ace says, "yarim + magnic + biro"
+5/18/25 8:46:58p Ace says, "rest can wait here"
+5/18/25 8:47:04p ZipLock turns to stone.
+5/18/25 8:47:25p Magnic says, "c heal biro"
+5/18/25 8:47:25p * Auto Healing biro" 
+5/18/25 8:47:30p Biro growls, "b heal biro"
+5/18/25 8:47:35p Biro growls, "good jorb beara"
+5/18/25 8:47:46p * Yarim recovers the Mammoth Banana Arachne mandibles, worth 52c. Your share is 5c.
+5/18/25 8:47:54p Yarim says, "let's go"
+5/18/25 8:48:03p Yarim asks, "magnic?"
+5/18/25 8:49:45p You have 257 coins.
+5/18/25 8:50:54p Anduin Lothar turns to stone.
+5/18/25 8:51:48p ZipLock turns to stone.
+5/18/25 8:52:56p You have 257 coins.
+5/18/25 8:54:58p * Healing Dracula 
+5/18/25 8:55:03p Yula says, "ty"
+5/18/25 8:55:04p •You do not have enough spiritual energy.
+5/18/25 8:55:10p Dracula growls, "area"
+5/18/25 8:55:22p •You lock your healing to Ceara.
+5/18/25 8:55:38p Anduin Lothar turns to stone.
+5/18/25 8:56:08p You have 257 coins.
+5/18/25 8:56:32p ZipLock turns to stone.
+5/18/25 8:59:21p You have 257 coins.
+5/18/25 9:00:22p Anduin Lothar turns to stone.
+5/18/25 9:01:16p ZipLock turns to stone.
+5/18/25 9:02:34p You have 257 coins.
+5/18/25 9:04:41p * Healing Ace 
+5/18/25 9:04:41p •You unlock your caduceus healing.
+5/18/25 9:04:41p •Ace’s injuries are a little more serious than you can heal.
+5/18/25 9:04:45p * Healing Dracula 
+5/18/25 9:04:55p Yula says, "b heal ace"
+5/18/25 9:04:55p Dracula says, "b heal ace"
+5/18/25 9:04:58p * Healing Ace 
+5/18/25 9:04:58p Yula says, "c heal ace"
+5/18/25 9:04:59p * Auto Healing ace" 
+5/18/25 9:05:05p Dracula says, "area"
+5/18/25 9:05:06p Anduin Lothar turns to stone.
+5/18/25 9:05:07p Yula says, "wuss"
+5/18/25 9:05:44p You have 257 coins.
+5/18/25 9:06:00p ZipLock turns to stone.
+5/18/25 9:06:15p * Healing Dracula 
+5/18/25 9:07:01p Yula says, "b heal unholy"
+5/18/25 9:07:02p •You sense healing energy from Ceara.
+5/18/25 9:07:18p ZipLock says, "c lock ceara"
+5/18/25 9:07:19p * Auto Locking ceara" 
+5/18/25 9:07:19p •You lock your healing to Ceara.
+5/18/25 9:08:55p You have 257 coins.
+5/18/25 9:09:51p Anduin Lothar turns to stone.
+5/18/25 9:10:44p ZipLock turns to stone.
+5/18/25 9:12:08p You have 257 coins.
+5/18/25 9:12:36p Dracula says, "area"
+5/18/25 9:13:32p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+5/18/25 9:13:32p •You do not have enough in you.
+5/18/25 9:13:33p Unholy has fallen to a Mountain Bear.
+5/18/25 9:13:33p •You are too wounded to be healed easily.
+5/18/25 9:14:05p Dracula growls, "b heal unh"
+5/18/25 9:14:05p •You sense healing energy from Ceara.
+5/18/25 9:14:25p Dracula says, "area"
+5/18/25 9:14:26p * Dracula recovers the Mountain Bear fur, worth 45c. Your share is 5c.
+5/18/25 9:14:34p * Dracula recovers the Mountain Grizzly Bear fur, worth 48c. Your share is 5c.
+5/18/25 9:14:35p Anduin Lothar turns to stone.
+5/18/25 9:14:35p Yarim says, "ace q"
+5/18/25 9:14:37p Dracula says, "=b heal ace"
+5/18/25 9:14:38p Yarim says, "he needs tags"
+5/18/25 9:14:40p Dracula says, "b heal ace"
+5/18/25 9:14:59p ZipLock says, "c lock ceara"
+5/18/25 9:14:59p * Auto Locking ceara" 
+5/18/25 9:14:59p •You lock your healing to Ceara.
+5/18/25 9:15:08p * Dracula recovers the Mountain Bear fur, worth 52c. Your share is 6c.
+5/18/25 9:15:14p Yarim says, "nice"
+5/18/25 9:15:14p Dracula says, "area"
+5/18/25 9:15:16p * Magnic recovers the Mountain Bear fur, worth 38c. Your share is 4c.
+5/18/25 9:15:21p You have 277 coins.
+5/18/25 9:15:26p * Dracula recovers the Mountain Bear fur, worth 51c. Your share is 6c.
+5/18/25 9:15:28p ZipLock turns to stone.
+5/18/25 9:15:36p Ace says, "oop"
+5/18/25 9:15:38p * Magnic recovers the Mountain Bear fur, worth 29c. Your share is 4c.
+5/18/25 9:16:45p Dracula says, "last"
+5/18/25 9:16:50p Ace says, "whatr"
+5/18/25 9:16:52p * Yula recovers the Black Locust mandibles, worth 46c. Your share is 6c.
+5/18/25 9:16:54p You just received anonymous good karma.
+5/18/25 9:16:54p Dracula says, "hes on locust"
+5/18/25 9:16:57p Ace says, "oh"
+5/18/25 9:16:59p Ace says, "had no idea"
+5/18/25 9:16:59p Biro says, "oh"
+5/18/25 9:17:00p Dracula says, "and bear"
+5/18/25 9:17:00p Ace says, "sorry"
+5/18/25 9:17:01p Magnic says, "nvm"
+5/18/25 9:17:04p Biro says, "i thought just bear :0"
+5/18/25 9:17:05p Dracula says, "hes doing both :D"
+5/18/25 9:17:07p Magnic says, "mostly here for bear"
+5/18/25 9:17:10p Ace says, "no one told he haha"
+5/18/25 9:17:10p Biro says, "locust is really good lol"
+5/18/25 9:17:10p Dracula says, "nah get both"
+5/18/25 9:17:21p Biro says, "2600 regia is fun"
+5/18/25 9:17:23p Dracula says, "hes like 200 in already on bf"
+5/18/25 9:17:27p (Dracula nods)
+5/18/25 9:17:57p Biro says, "1157.69 b"
+5/18/25 9:17:57p Biro says, "2602.50 r"
+5/18/25 9:18:01p Biro ponders, "locust balance stats"
+5/18/25 9:18:02p Ace says, "weak balthus"
+5/18/25 9:18:15p Biro says, "it can swing 700 goss, its fiiiine ;]"
+5/18/25 9:18:38p You have 293 coins.
+5/18/25 9:18:53p * Dracula recovers the Black Mantis mandibles, worth 50c. Your share is 6c.
+5/18/25 9:18:57p Dracula growls, "b heal mag"
+5/18/25 9:19:09p * Dracula recovers the Black Mantis mandibles, worth 42c. Your share is 5c.
+5/18/25 9:19:16p Dracula says, "area"
+5/18/25 9:19:35p Ace says, "ok that was good"
+5/18/25 9:19:39p Biro says, "brb"
+5/18/25 9:19:51p Dracula says, "b heal drac"
+5/18/25 9:20:12p ZipLock turns to stone.
+5/18/25 9:20:39p Dracula says, "lol idk who was messing with what"
+5/18/25 9:20:45p Dracula says, "but bastion logged in and got 10 free cm ranks"
+5/18/25 9:20:55p Ace says, "clan exp"
+5/18/25 9:20:58p Dracula says, "2 clan exp msgs"
+5/18/25 9:21:01p Dracula says, "and drac got 4"
+5/18/25 9:21:13p Dracula says, "i have 8 crato now"
+5/18/25 9:21:17p Ace says, "noob"
+5/18/25 9:21:37p Ace says, "whiff bm"
+5/18/25 9:21:38p Ace says, "smh"
+5/18/25 9:21:45p Ace says, "clearly the clone"
+5/18/25 9:21:54p You have 304 coins.
+5/18/25 9:22:49p Dracula growls, "b heal drac"
+5/18/25 9:24:32p Magnic says, "b heal me"
+5/18/25 9:24:44p Magnic says, "oh right"
+5/18/25 9:24:46p Magnic says, "heh"
+5/18/25 9:24:56p ZipLock turns to stone.
+5/18/25 9:24:57p Magnic says, "area"
+5/18/25 9:25:10p You have 304 coins.
+5/18/25 9:25:26p Dracula says, "b heal drac"
+5/18/25 9:25:40p Ace says, "dracula hogging all the exp"
+5/18/25 9:25:47p Dracula says, "5/18/25 7:24:38p You slaughtered a Shadowcat."
+5/18/25 9:25:52p Dracula says, "mine"
+5/18/25 9:25:53p Ace exclaims, "exp for me!"
+5/18/25 9:25:55p Ace says, "and magnic"
+5/18/25 9:26:05p Dracula says, "area"
+5/18/25 9:26:09p Ace says, "i mean was a disp and kill for me"
+5/18/25 9:26:11p Ace says, "but still"
+5/18/25 9:26:18p Dracula says, "go get the krait then"
+5/18/25 9:26:20p Biro says, "a"
+5/18/25 9:26:25p Dracula says, "i was just clearing junk"
+5/18/25 9:26:29p Dracula says, "because vale soon"
+5/18/25 9:28:43p You have 304 coins.
+5/18/25 9:29:40p ZipLock turns to stone.
+5/18/25 9:29:55p Ace is no longer sharing experiences with you.
+5/18/25 9:30:41p Biro is no longer sharing experiences with you.
+5/18/25 9:30:52p Yula says, "so people gonna move to vale"
+5/18/25 9:30:58p Yula says, "can leave yarim/yula here"
+5/18/25 9:31:05p Yula says, "this snell is pretty easy to camp/rescue if you want"
+5/18/25 9:31:16p Yula says, "kinda up to you"
+5/18/25 9:31:17p Yula says, "else back to tc"
+5/18/25 9:31:33p Magnic says, "im ok here"
+5/18/25 9:31:43p Magnic says, "hmm"
+5/18/25 9:31:51p Magnic says, "unless foxwier"
+5/18/25 9:31:55p You have 304 coins.
+5/18/25 9:31:56p Yula says, "yea"
+5/18/25 9:32:44p Magnic says, "maybe i made drac drag us to tc"
+5/18/25 9:32:51p Magnic says, ":P"
+5/18/25 9:33:32p Yula says, "I can drag back to tc"
+5/18/25 9:34:00p Magnic says, "ok"
+5/18/25 9:34:24p ZipLock turns to stone.
+5/18/25 9:34:26p •The player must be in the same area.
+5/18/25 9:34:28p Yula asks, "want tc?"
+5/18/25 9:35:07p You have 304 coins.
+5/18/25 9:35:37p Dracula asks, "maybe leave yarim?"
+5/18/25 9:35:42p Dracula says, "or worth bringing"
+5/18/25 9:35:49p Yarim says, "biro says worth"
+5/18/25 9:35:52p Dracula says, "k"
+5/18/25 9:36:15p You slip your sylphstone ring into your backpack.
+5/18/25 9:36:15p •The healing spell has ceased.
+5/18/25 9:36:20p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+5/18/25 9:36:21p Unholy has fallen to a Mountain Krait.
+5/18/25 9:36:21p •Your wounds are severe.
+5/18/25 9:36:23p You equip your sylphstone ring.
+5/18/25 9:36:23p The healing spell has started.
+5/18/25 9:36:24p Yula starts dragging you.
+5/18/25 9:37:29p Phoebe says, "Hello, Yula. I can sell you a river skiff. Interested? It costs 100 coins."
+5/18/25 9:37:30p Yula says, "yes"
+5/

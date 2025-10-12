@@ -1,0 +1,836 @@
+
+5/14/25 12:49:03a * Your shirt named “muddy yellow” is in very good condition.
+5/14/25 12:49:03a * Your pair of pants named “muddy yellow” is in very good condition.
+5/14/25 12:49:03a Welcome to Clan Lord, Aldo Edward!
+5/14/25 12:49:03a Type \HELP for a list of commands.
+5/14/25 12:49:03a • You gain experience from your recent studies.
+5/14/25 12:49:03a You have been studying for 16 days, 15 hours, 18 minutes.
+5/14/25 12:49:06a It's 1:42am on Terrdi, day 28 of Summer, 641.
+5/14/25 12:49:06a Friends online: none.
+5/14/25 12:49:07a There are two members of Black Phoenix clanning: Omega Phoenix and you.
+5/14/25 12:49:07a • What’s New: https://deltatao.com/clanlord/news
+5/14/25 12:49:13a •You seem to fight more effectively now.
+5/14/25 12:49:17a * Tip of the day: Select an item in your Inventory window and type a number to assign that command key to it. (Use /OPTIONS to turn tips off.)
+5/14/25 12:49:22a Evus says, "Hail, Aldo Edward."
+5/14/25 12:49:23a Evus bows.
+5/14/25 12:49:25a Evus says, "You show great devotion to your studies."
+5/14/25 12:49:25a * Evus : 600-649.
+5/14/25 12:49:26a Evus says, "I can teach you a well-rounded combat approach."
+5/14/25 12:49:32a Honor says, "Welcome to the fighter testing area."
+5/14/25 12:49:43a You slaughtered a Captured Giant Vermine.
+5/14/25 12:49:50a You slaughtered a Captured Death Vermine.
+5/14/25 12:50:05a You slaughtered a Captured Orga Berserk.
+5/14/25 12:50:38a You slaughtered a Captured Orga Rage.
+5/14/25 12:50:38a * You recover the Captured Orga Rage bounty worth 1c.
+5/14/25 12:50:39a Honor yells, "Congratulations, Aldo Edward, you have passed!"
+5/14/25 12:50:40a Honor pats Aldo Edward on the back.
+5/14/25 12:50:41a Honor yells, "Now run along. I have work to do."
+5/14/25 12:50:41a Honor thinks, "Congratulations go out to Aldo Edward, who has just passed the third circle fighter test."
+5/14/25 12:50:43a •You seem to fight more effectively now.
+5/14/25 12:50:57a You equip your bloodblade.
+5/14/25 12:50:57a •Your blood pours uselessly down the blade.
+5/14/25 12:51:01a This weapon can be used to channel your life energies into your blows.
+5/14/25 12:51:10a You slip your bloodblade into your backpack.
+5/14/25 12:51:28a You equip your bloodblade.
+5/14/25 12:52:04a You concentrate on sending your message to Ace.
+5/14/25 12:52:04a You think to Ace, "turns out yes you can untrain it bloodblade qulitfcation"
+5/14/25 12:52:07a You slaughtered a Vermine.
+5/14/25 12:52:07a You have 1923 coins.
+5/14/25 12:52:08a You slaughtered a Vermine.
+5/14/25 12:52:13a •You seem to fight more effectively now.
+5/14/25 12:52:18a You slaughtered a Vermine.
+5/14/25 12:52:21a You slaughtered a Large Vermine.
+5/14/25 12:52:21a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/14/25 12:52:25a You slaughtered a Vermine.
+5/14/25 12:52:25a * You recover the Vermine fur, worth 1c. Your share is 1c.
+5/14/25 12:52:32a You slaughtered a Large Vermine.
+5/14/25 12:52:33a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/14/25 12:52:40a You slaughtered a Large Vermine.
+5/14/25 12:52:40a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/14/25 12:52:54a You slaughtered a Vermine.
+5/14/25 12:53:00a You vault the wall.
+5/14/25 12:53:06a You slaughtered a Rat.
+5/14/25 12:53:06a Booboo growls, "Zzzzzz."
+5/14/25 12:53:26a Regia says, "Hail, Aldo Edward. Teaching you is a challenge."
+5/14/25 12:53:27a * Regia : 200-249.
+5/14/25 12:53:28a Regia says, "I can teach you how to regain your balance after attacking."
+5/14/25 12:53:29a Regia says, "You will learn as you practice."
+5/14/25 12:53:30a Regia asks, "Are you sure you would like to train with me?"
+5/14/25 12:53:31a Aldo Edward says, "yes"
+5/14/25 12:53:31a Regia says, "Welcome aboard. Go into the world and learn what you may, while practicing our craft."
+5/14/25 12:53:43a •You notice your balance recovering more quickly.
+5/14/25 12:53:49a You slaughtered a Vermine.
+5/14/25 12:54:08a You slaughtered a Vermine.
+5/14/25 12:54:11a You slaughtered an Ona Chigger.
+5/14/25 12:54:16a You slaughtered a Large Vermine.
+5/14/25 12:54:21a You slaughtered a Scavenger Bird.
+5/14/25 12:54:30a You slaughtered a Giant Vermine.
+5/14/25 12:54:30a * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+5/14/25 12:54:33a You slaughtered a Vermine.
+5/14/25 12:54:35a You slaughtered a Vermine.
+5/14/25 12:54:44a You slaughtered a Giant Vermine.
+5/14/25 12:54:51a You slip your bloodblade into your backpack.
+5/14/25 12:55:11a You vault the wall.
+5/14/25 12:55:12a You have 1928 coins.
+5/14/25 12:55:14a •You notice your balance recovering more quickly.
+5/14/25 12:55:26a You begin sharing your experiences with Squib.
+5/14/25 12:55:30a Squib is sharing experiences with you.
+5/14/25 12:55:33a You equip your bloodstone ring.
+5/14/25 12:55:33a * You feel affixed to your current health.
+5/14/25 12:55:36a Aldo Edward says, "squib heal me"
+5/14/25 12:55:41a Aldo Edward says, "..."
+5/14/25 12:55:59a * This tool is a focus used in elementary blood magic.
+5/14/25 12:55:59a * /use to toggle the powers of the ring.
+5/14/25 12:55:59a * /use /on or /use /off to activate or deactivate the powers of the ring.
+5/14/25 12:55:59a * /set to set or reset the ring's health limit to your current health.
+5/14/25 12:55:59a * /set <number>% to set the ring's health limit to a percent of your maximum health.
+5/14/25 12:55:59a * /clear to clear your previously set health limit.
+5/14/25 12:55:59a * Note: /clear has no effect on your current health limit.
+5/14/25 12:56:06a * You set your ring's health limit to 15% of your maximum health.
+5/14/25 12:56:12a Aldo Edward says, "squib heal me"
+5/14/25 12:56:13a •You sense healing energy from Squib.
+5/14/25 12:56:20a You equip your bloodblade.
+5/14/25 12:56:20a •Your blood pours uselessly down the blade.
+5/14/25 12:56:25a You slaughtered a Rat.
+5/14/25 12:56:36a You slaughtered a Rat.
+5/14/25 12:56:39a You vault the wall.
+5/14/25 12:56:44a •You notice your balance recovering more quickly.
+5/14/25 12:57:00a You slaughtered a Large Vermine.
+5/14/25 12:57:00a You slaughtered a Large Vermine.
+5/14/25 12:57:03a • You gain insight into the nature of your bloodblade.
+5/14/25 12:57:03a You slaughtered a Vermine.
+5/14/25 12:57:03a * You recover the Vermine fur, worth 1c. Your share is 1c.
+5/14/25 12:57:11a You slaughtered a Large Vermine.
+5/14/25 12:57:11a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/14/25 12:57:23a You slaughtered a Large Vermine.
+5/14/25 12:57:23a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/14/25 12:57:28a You slaughtered an Island Locust.
+5/14/25 12:57:35a You slaughtered a Vermine.
+5/14/25 12:57:38a You slaughtered a Vermine.
+5/14/25 12:57:40a You slaughtered a Large Vermine.
+5/14/25 12:57:41a * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+5/14/25 12:57:44a You slaughtered a Rat.
+5/14/25 12:57:59a You slaughtered a Hooded Corpse.
+5/14/25 12:58:02a You slaughtered a Vermine.
+5/14/25 12:58:11a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+5/14/25 12:58:12a • Your blood pours lifelessly from your body.
+5/14/25 12:58:12a Aldo Edward has fallen to a Hooded Corpse.
+5/14/25 12:58:14a •You notice your balance recovering more quickly.
+5/14/25 12:58:22a You have 1932 coins.
+5/14/25 12:58:52a A Rat plucks at your fingertips.
+5/14/25 12:58:58a A Rat feasts upon your wounds.
+5/14/25 12:59:01a A Rat rips at your gaping mouth.
+5/14/25 12:59:02a A Scavenger Bird bites your eye sockets.
+5/14/25 12:59:08a A Rat pokes at your wounds.
+5/14/25 12:59:12a A Scavenger Bird rips at your gaping mouth.
+5/14/25 12:59:12a A Rat chews on your wounds.
+5/14/25 12:59:13a A Rat feasts upon your wounds.
+5/14/25 12:59:22a A Rat tears at your fallen body.
+5/14/25 12:59:29a A Rat feasts upon your toes.
+5/14/25 12:59:31a A Rat feasts upon your fingertips.
+5/14/25 12:59:44a •You notice your balance recovering more quickly.
+5/14/25 12:59:49a A Rat nibbles your body parts.
+5/14/25 1:00:21a A Rat bites your eye sockets.
+5/14/25 1:00:49a A Rat nibbles your gaping mouth.
+5/14/25 1:00:49a A Scavenger Bird bites your toes.
+5/14/25 1:01:02a •You sense healing energy from Unholy.
+5/14/25 1:01:04a A Scavenger Bird chews on your wounds.
+5/14/25 1:01:07a You begin sharing your experiences with Unholy.
+5/14/25 1:01:07a You are sharing experiences with Unholy and Squib.
+5/14/25 1:01:09a You slaughtered a Hooded Corpse.
+5/14/25 1:01:14a •You notice your balance recovering more quickly.
+5/14/25 1:01:16a You slaughtered a Rat.
+5/14/25 1:01:23a You slaughtered a Myrm Scout.
+5/14/25 1:01:26a You have 1932 coins.
+5/14/25 1:01:30a You slaughtered a Hooded Corpse.
+5/14/25 1:01:37a You slaughtered a Rat.
+5/14/25 1:01:40a You slaughtered a Large Vermine.
+5/14/25 1:01:43a You slaughtered a Vermine.
+5/14/25 1:01:51a You slaughtered a Rat.
+5/14/25 1:01:53a You slaughtered a Giant Vermine.
+5/14/25 1:01:53a * You recover the Giant Vermine fur, worth 2c. Your share is 1c.
+5/14/25 1:01:58a You slaughtered a Vermine.
+5/14/25 1:02:00a You slaughtered a Vermine.
+5/14/25 1:02:04a You slaughtered a Hooded Corpse.
+5/14/25 1:02:10a You slaughtered a Hooded Corpse.
+5/14/25 1:02:14a You slaughtered a Vermine.
+5/14/25 1:02:19a You slaughtered a Vermine.
+5/14/25 1:02:21a You slaughtered a Rat.
+5/14/25 1:02:24a You slaughtered a Vermine.
+5/14/25 1:02:27a You slaughtered a Vermine.
+5/14/25 1:02:34a You slaughtered a Giant Vermine.
+5/14/25 1:02:34a * You recover the Giant Vermine fur, worth 1c.
+5/14/25 1:02:38a You slaughtered a Vermine.
+5/14/25 1:02:45a •You notice your balance recovering more quickly.
+5/14/25 1:02:54a •You sense healing energy from Unholy.
+5/14/25 1:03:05a You slaughtered a Winged Snake.
+5/14/25 1:03:09a You slaughtered a Large Vermine.
+5/14/25 1:03:09a * You recover the Large Vermine fur, worth 2c. Your share is 1c.
+5/14/25 1:03:12a You slaughtered a Vermine.
+5/14/25 1:03:16a You slaughtered a Vermine.
+5/14/25 1:03:34a •You sense healing energy from Unholy.
+5/14/25 1:04:13a You slaughtered a Corpse Warrior.
+5/14/25 1:04:15a •You notice your balance recovering more quickly.
+5/14/25 1:04:21a You slaughtered a Skeletal.
+5/14/25 1:04:23a You slaughtered a Skeletal.
+5/14/25 1:04:23a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+5/14/25 1:04:23a • Your blood pours lifelessly from your body.
+5/14/25 1:04:23a Aldo Edward has fallen to a Hooded Corpse.
+5/14/25 1:04:33a You have 1934 coins.
+5/14/25 1:04:35a Aldo Edward asks, "going noth kills south?"
+5/14/25 1:04:38a Aldo Edward asks, "wut?"
+5/14/25 1:05:06a •You sense healing energy from Unholy.
+5/14/25 1:05:16a •You sense healing energy from Unholy.
+5/14/25 1:05:26a •You sense healing energy from Unholy.
+5/14/25 1:05:28a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+5/14/25 1:05:29a Aldo Edward has fallen to a Corpse Warrior.
+5/14/25 1:05:29a • Your blood pours lifelessly from your body.
+5/14/25 1:05:45a •You notice your balance recovering more quickly.
+5/14/25 1:06:31a Wraith growls, "This cavern belongs to the Undine."
+5/14/25 1:06:54a Wraith growls, "This cavern belongs to the Undine."
+5/14/25 1:07:15a •You notice your balance recovering more quickly.
+5/14/25 1:07:24a Wraith growls, "This cavern belongs to the Undine."
+5/14/25 1:07:39a You have 1934 coins.
+5/14/25 1:07:43a Wraith growls, "Approach, and I will teach you the power of the Undine."
+5/14/25 1:08:41a Wraith growls, "Approach, and I will teach you the power of the Undine."
+5/14/25 1:08:45a •You notice your balance recovering more quickly.
+5/14/25 1:09:07a Wraith growls, "This cavern belongs to the Undine."
+5/14/25 1:09:29a You helped slaughter a Hooded Corpse.
+5/14/25 1:09:43a Magnic II starts dragging you.
+5/14/25 1:10:16a •You notice your balance recovering more quickly.
+5/14/25 1:10:16a Magnic II passes through the trees.
+5/14/25 1:10:21a Magnic II vaults the wall.
+5/14/25 1:10:45a You have 1934 coins.
+5/14/25 1:10:55a Shadowmutt growls, "Grrr."
+5/14/25 1:11:22a Aldo Edward says, "squib heal me"
+5/14/25 1:11:23a •You sense healing energy from Squib.
+5/14/25 1:11:46a •You notice your balance recovering more quickly.
+5/14/25 1:11:51a You slaughtered a Rat.
+5/14/25 1:11:53a You slaughtered a Rat.
+5/14/25 1:11:54a You slaughtered a Rat.
+5/14/25 1:11:57a You slaughtered a Vermine.
+5/14/25 1:12:01a You slaughtered a Rat.
+5/14/25 1:12:04a You slaughtered a Rat.
+5/14/25 1:12:11a You slaughtered a Rat.
+5/14/25 1:12:11a You slaughtered a Rat.
+5/14/25 1:12:14a You slaughtered a Rat.
+5/14/25 1:12:17a You slaughtered a Rat.
+5/14/25 1:12:20a You slaughtered a Rat.
+5/14/25 1:12:24a You slaughtered a Rat.
+5/14/25 1:12:27a You slaughtered a Rat.
+5/14/25 1:12:31a You slaughtered a Rat.
+5/14/25 1:12:39a You slaughtered a Rat.
+5/14/25 1:12:48a You slaughtered a Rat.
+5/14/25 1:13:05a You slaughtered a Rat.
+5/14/25 1:13:14a You slaughtered a Vermine.
+5/14/25 1:13:15a You slaughtered a Rat.
+5/14/25 1:13:16a •You notice your balance recovering more quickly.
+5/14/25 1:13:17a You slaughtered a Vermine.
+5/14/25 1:13:20a You slaughtered a Vermine.
+5/14/25 1:13:24a You slaughtered a Rat.
+5/14/25 1:13:27a You slaughtered a Rat.
+5/14/25 1:13:30a You slaughtered a Vermine.
+5/14/25 1:13:39a You slaughtered a Vermine.
+5/14/25 1:13:40a You slaughtered a Vermine.
+5/14/25 1:13:42a You slaughtered a Vermine.
+5/14/25 1:13:48a You slaughtered a Rat.
+5/14/25 1:13:52a You have 1934 coins.
+5/14/25 1:14:05a You slaughtered a Rat.
+5/14/25 1:14:07a You slaughtered a Vermine.
+5/14/25 1:14:11a You slaughtered a Giant Vermine.
+5/14/25 1:14:11a * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+5/14/25 1:14:22a You slaughtered a Giant Vermine.
+5/14/25 1:14:22a * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+5/14/25 1:14:24a You slaughtered a Rat.
+5/14/25 1:14:28a You slaughtered a Rat.
+5/14/25 1:14:34a You slaughtered a Giant Vermine.
+5/14/25 1:14:34a * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+5/14/25 1:14:38a You slaughtered a Rat.
+5/14/25 1:14:46a •You notice your balance recovering more quickly.
+5/14/25 1:14:48a You rattle the old lock on the door.
+5/14/25 1:14:49a Sentinel yells, "All subjects love and obey the Emperor."
+5/14/25 1:14:53a Aldo Edward says, "squib heal me"
+5/14/25 1:14:54a •You sense healing energy from Squib.
+5/14/25 1:15:24a You slaughtered a Rat.
+5/14/25 1:15:26a You slaughtered a Rat.
+5/14/25 1:15:30a You slaughtered a Rat.
+5/14/25 1:15:34a You slaughtered a Rat.
+5/14/25 1:15:36a You slaughtered a Rat.
+5/14/25 1:15:40a You slaughtered a Rat.
+5/14/25 1:15:44a You slaughtered a Vermine.
+5/14/25 1:15:46a You slaughtered a Rat.
+5/14/25 1:15:50a You slaughtered a Rat.
+5/14/25 1:15:53a You slaughtered a Rat.
+5/14/25 1:15:56a You slaughtered a Rat.
+5/14/25 1:16:00a You slaughtered a Rat.
+5/14/25 1:16:03a You slaughtered a Rat.
+5/14/25 1:16:06a You slaughtered a Rat.
+5/14/25 1:16:10a You slaughtered a Rat.
+5/14/25 1:16:13a You slaughtered a Rat.
+5/14/25 1:16:16a •You notice your balance recovering more quickly.
+5/14/25 1:16:18a You slaughtered a Rat.
+5/14/25 1:16:20a You slaughtered a Rat.
+5/14/25 1:16:23a You slaughtered a Rat.
+5/14/25 1:16:30a You slaughtered a Skeletal.
+5/14/25 1:16:33a You slaughtered a Skeletal.
+5/14/25 1:16:38a You slaughtered a Rat.
+5/14/25 1:16:40a You slaughtered a Rat.
+5/14/25 1:16:43a You slaughtered a Rat.
+5/14/25 1:16:47a You slaughtered a Rat.
+5/14/25 1:16:50a You slaughtered a Rat.
+5/14/25 1:16:54a You slaughtered a Rat.
+5/14/25 1:16:57a You slaughtered a Rat.
+5/14/25 1:16:57a You have 1937 coins.
+5/14/25 1:17:00a You slaughtered a Rat.
+5/14/25 1:17:03a You slaughtered a Rat.
+5/14/25 1:17:07a You slaughtered a Rat.
+5/14/25 1:17:12a This weapon can be used to channel your life energies into your blows.
+5/14/25 1:17:16a You slaughtered a Rat.
+5/14/25 1:17:21a You slip your bloodblade into your backpack.
+5/14/25 1:17:22a You equip your bloodblade.
+5/14/25 1:17:33a You slaughtered a Rat.
+5/14/25 1:17:36a You slaughtered a Rat.
+5/14/25 1:17:47a •You notice your balance recovering more quickly.
+5/14/25 1:17:52a Shadowmutt growls, "Grrr."
+5/14/25 1:17:57a Aldo Edward says, "eh actuly"
+5/14/25 1:18:07a Aldo Edward says, "it say nothing about blood flow at all"
+5/14/25 1:18:11a Aldo Edward says, "wierd"
+5/14/25 1:18:15a You slip your bloodblade into your backpack.
+5/14/25 1:18:16a You equip your bloodblade.
+5/14/25 1:18:39a You are of the People, are male, are a Fighter, and are wearing the symbol of Black Phoenix.
+5/14/25 1:18:39a You are holding a bloodblade, and you are wearing a sunstone, a bloodstone ring, a shirt and a pair of pants.
+5/14/25 1:18:56a Kennod Barkle says, "I wonder what could be causing them."
+5/14/25 1:19:09a Dourin Bloodrunner says, "This place is not for such as you."
+5/14/25 1:19:14a Dourin Bloodrunner says, "This place is not for such as you."
+5/14/25 1:19:15a Dourin Bloodrunner says, "It would be best if you returned to the world above."
+5/14/25 1:19:15a Dourin Bloodrunner says, "This place is not for such as you."
+5/14/25 1:19:17a •You notice your balance recovering more quickly.
+5/14/25 1:19:20a Disciple says, "Greetings, Lord Aldo Edward."
+5/14/25 1:19:23a Disciple says, "Greetings, Lord Aldo Edward."
+5/14/25 1:19:23a Disciple says, "An infused bloodblade can store the essence a creature for the bloodpool."
+5/14/25 1:19:25a Disciple says, "The pool hungers for a certain creature, but similar creatures will please it."
+5/14/25 1:19:27a Disciple says, "The more essence within the creature, the more the bloodpool will be sated."
+5/14/25 1:19:49a You slaughtered a Rat.
+5/14/25 1:20:05a You have 1937 coins.
+5/14/25 1:20:15a You drop your bloodblade.
+5/14/25 1:20:23a Omega Phoenix picks up a bloodblade.
+5/14/25 1:20:28a You pick up a bloodblade.
+5/14/25 1:20:30a You equip your bloodblade.
+5/14/25 1:20:30a •Your blood pours uselessly down the blade.
+5/14/25 1:20:47a •You notice your balance recovering more quickly.
+5/14/25 1:21:05a You slaughtered a Rat.
+5/14/25 1:21:29a You slaughtered a Rat.
+5/14/25 1:21:31a You slaughtered a Vermine.
+5/14/25 1:21:32a You slaughtered a Rat.
+5/14/25 1:21:39a • You gain insight into the nature of your bloodblade.
+5/14/25 1:21:39a You slaughtered a Rat.
+5/14/25 1:21:40a You slaughtered a Rat.
+5/14/25 1:21:45a •The Sun rises.
+5/14/25 1:21:45a You slaughtered a Rat.
+5/14/25 1:21:46a You slaughtered a Rat.
+5/14/25 1:21:48a You slaughtered a Rat.
+5/14/25 1:21:55a You slaughtered a Rat.
+5/14/25 1:21:58a You slaughtered a Rat.
+5/14/25 1:22:01a You slaughtered a Rat.
+5/14/25 1:22:05a You slaughtered a Rat.
+5/14/25 1:22:08a You slaughtered a Rat.
+5/14/25 1:22:11a You slaughtered a Rat.
+5/14/25 1:22:17a •You notice your balance recovering more quickly.
+5/14/25 1:22:36a You slaughtered a Rat.
+5/14/25 1:22:43a Aldo Edward says, "squib heal me"
+5/14/25 1:22:44a •You sense healing energy from Squib.
+5/14/25 1:22:47a Crius yells, "It’s 4 o’clock, and all’s well."
+5/14/25 1:22:52a Crius yells, "There’s good hunting on the coast of Metzetli Island."
+5/14/25 1:23:10a You have 1937 coins.
+5/14/25 1:23:20a You slaughtered a Rat.
+5/14/25 1:23:32a You slaughtered a Vermine.
+5/14/25 1:23:39a You slaughtered a Rat.
+5/14/25 1:23:42a You slaughtered a Rat.
+5/14/25 1:23:44a You slaughtered a Rat.
+5/14/25 1:23:47a •You notice your balance recovering more quickly.
+5/14/25 1:23:51a You slaughtered a Vermine.
+5/14/25 1:23:51a * You recover the Vermine fur, worth 1c. Your share is 1c.
+5/14/25 1:23:53a You slaughtered a Rat.
+5/14/25 1:23:57a You slaughtered a Vermine.
+5/14/25 1:23:58a You slaughtered a Vermine.
+5/14/25 1:24:05a You slaughtered a Rat.
+5/14/25 1:24:07a • You gain insight into the nature of your bloodblade.
+5/14/25 1:24:07a You slaughtered a Rat.
+5/14/25 1:24:11a You slaughtered a Rat.
+5/14/25 1:24:13a You slaughtered a Vermine.
+5/14/25 1:24:17a You slaughtered a Rat.
+5/14/25 1:24:23a You slaughtered a Rat.
+5/14/25 1:24:43a You slaughtered a Vermine.
+5/14/25 1:24:48a You slaughtered a Vermine.
+5/14/25 1:24:53a You slaughtered a Rat.
+5/14/25 1:24:56a You slaughtered a Rat.
+5/14/25 1:24:59a You slaughtered a Vermine.
+5/14/25 1:25:01a You slaughtered a Rat.
+5/14/25 1:25:14a You slaughtered a Rat.
+5/14/25 1:25:16a You slaughtered a Rat.
+5/14/25 1:25:17a You slaughtered a Rat.
+5/14/25 1:25:18a •You notice your balance recovering more quickly.
+5/14/25 1:25:23a You slaughtered a Rat.
+5/14/25 1:25:26a You slaughtered a Rat.
+5/14/25 1:25:27a You slaughtered a Vermine.
+5/14/25 1:25:27a * You recover the Vermine fur, worth 1c. Your share is 1c.
+5/14/25 1:25:30a You slaughtered a Rat.
+5/14/25 1:25:34a You slaughtered a Rat.
+5/14/25 1:25:37a You slaughtered a Rat.
+5/14/25 1:25:43a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+5/14/25 1:25:43a Aldo Edward has fallen.
+5/14/25 1:25:48a You slip your bloodblade into your backpack.
+5/14/25 1:26:11a A Rat tears at your eye sockets.
+5/14/25 1:26:17a You have 1939 coins.
+5/14/25 1:26:18a A Rat feasts upon your entrails.
+5/14/25 1:26:19a A Rat pokes at your body parts.
+5/14/25 1:26:45a Magnic II starts dragging you.
+5/14/25 1:26:48a •You notice your balance recovering more quickly.
+5/14/25 1:27:23a Aldo Edward says, "squib heal me"
+5/14/25 1:27:24a •You sense healing energy from Squib.
+5/14/25 1:27:58a You equip your bloodblade.
+5/14/25 1:27:58a •Your blood pours uselessly down the blade.
+5/14/25 1:28:00a You slaughtered a Rat.
+5/14/25 1:28:05a You slaughtered a Rat.
+5/14/25 1:28:16a You slaughtered a Vermine.
+5/14/25 1:28:18a •You notice your balance recovering more quickly.
+5/14/25 1:28:23a You slaughtered a Rat.
+5/14/25 1:28:28a You slaughtered a Rat.
+5/14/25 1:28:29a You slaughtered a Rat.
+5/14/25 1:28:31a You slaughtered a Rat.
+5/14/25 1:28:35a You slaughtered a Rat.
+5/14/25 1:28:47a You slaughtered a Rat.
+5/14/25 1:28:52a You slaughtered a Vermine.
+5/14/25 1:29:05a You slaughtered a Rat.
+5/14/25 1:29:20a You slaughtered a Vermine.
+5/14/25 1:29:24a You have 1939 coins.
+5/14/25 1:29:25a You slaughtered a Rat.
+5/14/25 1:29:26a You slaughtered a Vermine.
+5/14/25 1:29:33a You slaughtered a Rat.
+5/14/25 1:29:36a You slaughtered a Rat.
+5/14/25 1:29:42a You slaughtered a Vermine.
+5/14/25 1:29:43a You slaughtered a Vermine.
+5/14/25 1:29:43a * You recover the Vermine fur, worth 1c. Your share is 1c.
+5/14/25 1:29:44a You slaughtered a Vermine.
+5/14/25 1:29:48a •You notice your balance recovering more quickly.
+5/14/25 1:29:49a You slaughtered a Vermine.
+5/14/25 1:29:52a You slaughtered a Vermine.
+5/14/25 1:29:54a You slaughtered a Rat.
+5/14/25 1:29:58a You slaughtered a Rat.
+5/14/25 1:30:00a You slaughtered a Rat.
+5/14/25 1:30:06a You slaughtered a Rat.
+5/14/25 1:30:07a You slaughtered a Rat.
+5/14/25 1:30:16a You slaughtered a Rat.
+5/14/25 1:30:19a You slaughtered a Rat.
+5/14/25 1:30:22a You slaughtered a Rat.
+5/14/25 1:30:23a You slaughtered a Rat.
+5/14/25 1:30:26a You slaughtered a Rat.
+5/14/25 1:30:42a You slaughtered a Hooded Corpse.
+5/14/25 1:31:07a Aldo Edward says, "squib heal me"
+5/14/25 1:31:08a •You sense healing energy from Squib.
+5/14/25 1:31:18a •You notice your balance recovering more quickly.
+5/14/25 1:31:29a Ghed'rakh asks, "Nothing beats the thrill of the Hunt, don’t you agree?"
+5/14/25 1:31:43a You slaughtered a Rat.
+5/14/25 1:31:45a You slaughtered a Vermine.
+5/14/25 1:31:47a You slaughtered a Rat.
+5/14/25 1:31:49a You slaughtered a Rat.
+5/14/25 1:31:53a You slaughtered a Rat.
+5/14/25 1:31:58a You slaughtered a Skeletal.
+5/14/25 1:32:04a You slaughtered a Rat.
+5/14/25 1:32:05a You slaughtered a Rat.
+5/14/25 1:32:10a You slaughtered a Rat.
+5/14/25 1:32:15a You slaughtered a Rat.
+5/14/25 1:32:18a You slaughtered a Rat.
+5/14/25 1:32:25a You slaughtered a Skeletal.
+5/14/25 1:32:26a You slaughtered a Rat.
+5/14/25 1:32:30a You have 1940 coins.
+5/14/25 1:32:33a You slaughtered a Rat.
+5/14/25 1:32:34a You slaughtered a Rat.
+5/14/25 1:32:43a You slaughtered a Vermine.
+5/14/25 1:32:44a You slaughtered a Vermine.
+5/14/25 1:32:46a You slaughtered a Vermine.
+5/14/25 1:32:49a •You notice your balance recovering more quickly.
+5/14/25 1:32:49a You slaughtered a Vermine.
+5/14/25 1:32:49a * You recover the Vermine fur, worth 1c. Your share is 1c.
+5/14/25 1:32:52a You slaughtered a Vermine.
+5/14/25 1:32:56a You slaughtered a Vermine.
+5/14/25 1:32:59a You slaughtered a Rat.
+5/14/25 1:33:02a You slaughtered a Vermine.
+5/14/25 1:33:06a You slaughtered a Rat.
+5/14/25 1:33:08a You slaughtered a Rat.
+5/14/25 1:33:12a You slaughtered a Rat.
+5/14/25 1:33:16a You slaughtered a Rat.
+5/14/25 1:33:18a You slaughtered a Rat.
+5/14/25 1:33:26a You slaughtered a Rat.
+5/14/25 1:33:27a You slaughtered a Rat.
+5/14/25 1:33:29a You slaughtered a Rat.
+5/14/25 1:33:32a You slaughtered a Rat.
+5/14/25 1:33:37a You slaughtered a Rat.
+5/14/25 1:33:44a You slaughtered a Rat.
+5/14/25 1:33:46a You slaughtered a Rat.
+5/14/25 1:33:47a You slaughtered a Rat.
+5/14/25 1:33:50a You slaughtered an Ona Chigger.
+5/14/25 1:33:53a You slaughtered a Rat.
+5/14/25 1:33:59a You slaughtered a Vermine.
+5/14/25 1:34:01a You slaughtered a Rat.
+5/14/25 1:34:03a You slaughtered a Vermine.
+5/14/25 1:34:06a You slaughtered a Vermine.
+5/14/25 1:34:09a You slaughtered a Rat.
+5/14/25 1:34:13a • You gain insight into the nature of your bloodblade.
+5/14/25 1:34:13a You slaughtered a Vermine.
+5/14/25 1:34:19a •You notice your balance recovering more quickly.
+5/14/25 1:34:21a You slip your bloodblade into your backpack.
+5/14/25 1:34:36a Aldo Edward says, "squib heal me"
+5/14/25 1:34:37a •You sense healing energy from Squib.
+5/14/25 1:34:44a You equip your bloodblade.
+5/14/25 1:34:44a •Your blood pours uselessly down the blade.
+5/14/25 1:35:02a You slaughtered a Vermine.
+5/14/25 1:35:05a You slaughtered a Rat.
+5/14/25 1:35:10a You slaughtered a Rat.
+5/14/25 1:35:12a You slaughtered a Rat.
+5/14/25 1:35:14a You slaughtered a Rat.
+5/14/25 1:35:20a You slaughtered a Rat.
+5/14/25 1:35:29a You slaughtered a Hooded Corpse.
+5/14/25 1:35:35a You have 1941 coins.
+5/14/25 1:35:43a You slaughtered a Rat.
+5/14/25 1:35:44a You slaughtered a Rat.
+5/14/25 1:35:46a You slaughtered a Rat.
+5/14/25 1:35:49a •You notice your balance recovering more quickly.
+5/14/25 1:35:56a You slaughtered a Rat.
+5/14/25 1:35:59a You slaughtered a Rat.
+5/14/25 1:36:00a You slaughtered a Rat.
+5/14/25 1:36:07a You slaughtered a Rat.
+5/14/25 1:36:08a You slaughtered a Rat.
+5/14/25 1:36:13a You slaughtered a Vermine.
+5/14/25 1:36:16a You slaughtered a Rat.
+5/14/25 1:36:19a You slaughtered a Rat.
+5/14/25 1:36:22a You slaughtered a Rat.
+5/14/25 1:36:25a You slaughtered a Vermine.
+5/14/25 1:36:30a You slaughtered a Vermine.
+5/14/25 1:36:32a You slaughtered a Vermine.
+5/14/25 1:36:35a You slaughtered a Rat.
+5/14/25 1:36:40a You slaughtered a Rat.
+5/14/25 1:36:44a You slaughtered a Vermine.
+5/14/25 1:36:45a You slaughtered a Vermine.
+5/14/25 1:36:47a You slaughtered a Vermine.
+5/14/25 1:36:50a You slaughtered a Vermine.
+5/14/25 1:36:53a You slaughtered a Vermine.
+5/14/25 1:36:53a * You recover the Vermine fur, worth 1c. Your share is 1c.
+5/14/25 1:36:56a You slaughtered a Vermine.
+5/14/25 1:37:19a •You notice your balance recovering more quickly.
+5/14/25 1:37:19a You slaughtered a Rat.
+5/14/25 1:37:23a You slaughtered a Rat.
+5/14/25 1:37:29a You slaughtered a Rat.
+5/14/25 1:37:36a You slaughtered a Rat.
+5/14/25 1:37:45a You slaughtered a Rat.
+5/14/25 1:37:48a You slaughtered a Rat.
+5/14/25 1:37:59a Aldo Edward says, "squib heal me"
+5/14/25 1:38:00a •You sense healing energy from Squib.
+5/14/25 1:38:20a You slaughtered a Rat.
+5/14/25 1:38:27a You slaughtered a Rat.
+5/14/25 1:38:30a You slaughtered a Vermine.
+5/14/25 1:38:34a You slaughtered a Rat.
+5/14/25 1:38:37a You slaughtered a Vermine.
+5/14/25 1:38:39a You have 1942 coins.
+5/14/25 1:38:39a You slaughtered a Rat.
+5/14/25 1:38:43a You slaughtered a Rat.
+5/14/25 1:38:47a You slaughtered a Rat.
+5/14/25 1:38:49a •You notice your balance recovering more quickly.
+5/14/25 1:39:06a You slaughtered a Rat.
+5/14/25 1:39:10a • You gain insight into the nature of your bloodblade.
+5/14/25 1:39:10a You slaughtered a Rat.
+5/14/25 1:39:14a You slaughtered a Rat.
+5/14/25 1:39:17a You slaughtered a Rat.
+5/14/25 1:39:20a You slaughtered a Rat.
+5/14/25 1:39:34a You slaughtered a Rat.
+5/14/25 1:39:41a You slaughtered a Rat.
+5/14/25 1:39:50a You slaughtered a Rat.
+5/14/25 1:39:50a You slaughtered a Rat.
+5/14/25 1:39:56a You slaughtered a Rat.
+5/14/25 1:40:03a You slaughtered a Rat.
+5/14/25 1:40:14a You slaughtered a Rat.
+5/14/25 1:40:18a You slaughtered a Rat.
+5/14/25 1:40:20a •You notice your balance recovering more quickly.
+5/14/25 1:40:26a You slaughtered a Rat.
+5/14/25 1:40:29a You slaughtered a Rat.
+5/14/25 1:40:35a You slaughtered a Vermine.
+5/14/25 1:40:36a You slaughtered a Vermine.
+5/14/25 1:40:44a You slaughtered a Vermine.
+5/14/25 1:40:45a * You recover the Vermine fur, worth 1c. Your share is 1c.
+5/14/25 1:40:57a Finn Orak says, "The Orga haven't been attacking as much recently."
+5/14/25 1:41:14a You slaughtered a Rat.
+5/14/25 1:41:18a You slaughtered a Rat.
+5/14/25 1:41:26a You slaughtered a Rat.
+5/14/25 1:41:27a You slaughtered a Vermine.
+5/14/25 1:41:30a You slaughtered a Rat.
+5/14/25 1:41:37a You slip your bloodblade into your backpack.
+5/14/25 1:41:43a You have 1943 coins.
+5/14/25 1:41:50a •You notice your balance recovering more quickly.
+5/14/25 1:41:59a Aldo Edward says, "squib heal me"
+5/14/25 1:42:00a •You sense healing energy from Squib.
+5/14/25 1:42:03a You equip your bloodblade.
+5/14/25 1:42:03a •Your blood pours uselessly down the blade.
+5/14/25 1:42:04a You slaughtered a Vermine.
+5/14/25 1:42:25a You slaughtered a Rat.
+5/14/25 1:42:28a You slaughtered a Rat.
+5/14/25 1:42:35a You slaughtered a Rat.
+5/14/25 1:42:36a You slaughtered a Rat.
+5/14/25 1:42:39a You slaughtered a Rat.
+5/14/25 1:42:45a You slaughtered a Vermine.
+5/14/25 1:42:51a You slaughtered a Rat.
+5/14/25 1:42:56a You slaughtered a Rat.
+5/14/25 1:43:05a You slaughtered a Rat.
+5/14/25 1:43:09a You slaughtered a Rat.
+5/14/25 1:43:11a You slaughtered a Rat.
+5/14/25 1:43:15a You slaughtered a Rat.
+5/14/25 1:43:19a You slaughtered a Rat.
+5/14/25 1:43:20a •You notice your balance recovering more quickly.
+5/14/25 1:43:23a You slaughtered a Rat.
+5/14/25 1:43:31a You slaughtered a Rat.
+5/14/25 1:43:33a You slaughtered a Rat.
+5/14/25 1:43:37a You slaughtered a Rat.
+5/14/25 1:43:38a You slaughtered a Vermine.
+5/14/25 1:43:40a You slaughtered a Vermine.
+5/14/25 1:43:46a You slaughtered a Rat.
+5/14/25 1:43:47a You slaughtered a Vermine.
+5/14/25 1:43:49a You slaughtered a Vermine.
+5/14/25 1:43:54a You slaughtered a Rat.
+5/14/25 1:43:55a You slaughtered a Rat.
+5/14/25 1:43:58a You slaughtered a Rat.
+5/14/25 1:43:58a • You discover an important combat technique.
+5/14/25 1:44:05a This weapon can be used to channel your life energies into your blows.
+5/14/25 1:44:05a Type “/use /decay” to toggle whether or not your bloodblade knowledge will decay over time.
+5/14/25 1:44:12a You slaughtered a Rat.
+5/14/25 1:44:13a You slaughtered a Rat.
+5/14/25 1:44:21a You slaughtered a Scavenger Bird.
+5/14/25 1:44:41a You slaughtered a Rat.
+5/14/25 1:44:46a Smythus says, "Greetings, Lord Aldo Edward."
+5/14/25 1:44:46a Smythus says, "I hear from others that you slay many of your opponents with a single strike."
+5/14/25 1:44:48a Smythus says, "For a price, I can make you a weapon to better control your powerful blows."
+5/14/25 1:44:48a You have 1943 coins.
+5/14/25 1:44:50a •You notice your balance recovering more quickly.
+5/14/25 1:45:15a Koppi yells, "Athl reports: I can safely report that there will be an inquest into Ranoora and his deceitful business practices within the halls of the casino. Ofcourse this is pure speculation, and I have no proof... But my whiskers are tinglin'."
+5/14/25 1:45:36a Aldo Edward says, "so confirmed the fasted way to get goss quifyed is to use a blood blade"
+5/14/25 1:45:41a You slaughtered a Rat.
+5/14/25 1:45:43a You slaughtered a Vermine.
+5/14/25 1:45:46a You slip your bloodblade into your backpack.
+5/14/25 1:45:56a Aldo Edward says, "squib heal me"
+5/14/25 1:45:57a •You sense healing energy from Squib.
+5/14/25 1:46:02a You equip your bloodblade.
+5/14/25 1:46:02a •Your blood pours uselessly down the blade.
+5/14/25 1:46:21a •You notice your balance recovering more quickly.
+5/14/25 1:46:25a You slaughtered a Vermine.
+5/14/25 1:46:29a You slaughtered a Rat.
+5/14/25 1:46:30a You slaughtered a Rat.
+5/14/25 1:46:34a You slaughtered a Rat.
+5/14/25 1:46:35a You slaughtered a Rat.
+5/14/25 1:46:38a You slaughtered a Rat.
+5/14/25 1:46:41a You slaughtered a Rat.
+5/14/25 1:47:03a You slaughtered a Vermine.
+5/14/25 1:47:04a You slaughtered a Vermine.
+5/14/25 1:47:06a You slaughtered a Vermine.
+5/14/25 1:47:09a You slaughtered a Rat.
+5/14/25 1:47:12a You slaughtered a Vermine.
+5/14/25 1:47:15a You slaughtered a Vermine.
+5/14/25 1:47:18a You slaughtered a Vermine.
+5/14/25 1:47:21a You slaughtered a Vermine.
+5/14/25 1:47:25a You slaughtered a Rat.
+5/14/25 1:47:28a •You gain experience.
+5/14/25 1:47:29a You slaughtered a Vermine.
+5/14/25 1:47:39a You slaughtered a Vermine.
+5/14/25 1:47:41a You slaughtered a Rat.
+5/14/25 1:47:46a Erham Pound says, "Greetings, Lord Aldo Edward."
+5/14/25 1:47:47a Erham Pound says, "It's looking pretty good in these towers now, but they still have a nasty vermine infestation."
+5/14/25 1:47:51a •You notice your balance recovering more quickly.
+5/14/25 1:47:56a You have 1943 coins.
+5/14/25 1:48:03a You slaughtered a Vermine.
+5/14/25 1:48:10a You slaughtered a Rat.
+5/14/25 1:48:12a You slaughtered a Rat.
+5/14/25 1:48:12a You slaughtered a Rat.
+5/14/25 1:48:17a You slaughtered a Rat.
+5/14/25 1:48:26a You slaughtered a Rat.
+5/14/25 1:48:30a You slaughtered a Rat.
+5/14/25 1:48:31a You slaughtered a Rat.
+5/14/25 1:48:35a You slaughtered a Rat.
+5/14/25 1:48:36a You slaughtered a Rat.
+5/14/25 1:48:39a You slaughtered a Rat.
+5/14/25 1:48:42a You slaughtered a Rat.
+5/14/25 1:48:45a You slaughtered a Rat.
+5/14/25 1:48:49a You slaughtered a Rat.
+5/14/25 1:48:51a You slaughtered a Rat.
+5/14/25 1:48:56a You slaughtered a Rat.
+5/14/25 1:48:59a You slaughtered a Rat.
+5/14/25 1:49:01a You slaughtered a Rat.
+5/14/25 1:49:04a You slaughtered a Rat.
+5/14/25 1:49:07a You slaughtered a Rat.
+5/14/25 1:49:13a You slaughtered a Vermine.
+5/14/25 1:49:16a You slaughtered a Rat.
+5/14/25 1:49:19a You slaughtered a Rat.
+5/14/25 1:49:21a •You notice your balance recovering more quickly.
+5/14/25 1:49:23a You slaughtered a Vermine.
+5/14/25 1:49:28a You slip your bloodblade into your backpack.
+5/14/25 1:49:49a Aldo Edward says, "squib heal me"
+5/14/25 1:49:50a •You sense healing energy from Squib.
+5/14/25 1:50:00a You equip your bloodblade.
+5/14/25 1:50:00a •Your blood pours uselessly down the blade.
+5/14/25 1:50:03a You slaughtered a Scavenger Bird.
+5/14/25 1:50:08a You slaughtered a Vermine.
+5/14/25 1:50:27a You slaughtered a Rat.
+5/14/25 1:50:30a You slaughtered a Rat.
+5/14/25 1:50:35a You slaughtered a Vermine.
+5/14/25 1:50:37a You slaughtered a Skeletal.
+5/14/25 1:50:42a You slaughtered a Rat.
+5/14/25 1:50:46a You slaughtered a Rat.
+5/14/25 1:50:48a You slaughtered a Skeletal.
+5/14/25 1:50:51a You slaughtered a Skeletal.
+5/14/25 1:50:51a •You notice your balance recovering more quickly.
+5/14/25 1:50:54a You slaughtered a Rat.
+5/14/25 1:51:00a You slaughtered a Rat.
+5/14/25 1:51:02a You have 1943 coins.
+5/14/25 1:51:05a You slaughtered a Vermine.
+5/14/25 1:51:06a You slaughtered a Vermine.
+5/14/25 1:51:08a You slaughtered a Rat.
+5/14/25 1:51:13a You slaughtered a Vermine.
+5/14/25 1:51:17a You slaughtered a Vermine.
+5/14/25 1:51:17a * You recover the Vermine fur, worth 1c. Your share is 1c.
+5/14/25 1:51:20a You slaughtered a Rat.
+5/14/25 1:51:26a You slaughtered a Rat.
+5/14/25 1:51:27a You slaughtered a Rat.
+5/14/25 1:51:38a You slaughtered a Vermine.
+5/14/25 1:51:53a You slaughtered a Rat.
+5/14/25 1:52:06a You slaughtered a Rat.
+5/14/25 1:52:21a •You notice your balance recovering more quickly.
+5/14/25 1:52:37a You slaughtered a Vermine.
+5/14/25 1:52:39a You slaughtered a Vermine.
+5/14/25 1:52:44a You slaughtered a Vermine.
+5/14/25 1:52:46a You slaughtered a Rat.
+5/14/25 1:52:47a You slaughtered a Rat.
+5/14/25 1:52:50a You slaughtered a Rat.
+5/14/25 1:52:53a You slaughtered a Vermine.
+5/14/25 1:52:58a You slaughtered a Vermine.
+5/14/25 1:53:02a You slaughtered a Rat.
+5/14/25 1:53:07a You slip your bloodblade into your backpack.
+5/14/25 1:53:19a Sentinel yells, "The Emperor keeps watch on all subjects."
+5/14/25 1:53:27a Aldo Edward says, "squib heal me"
+5/14/25 1:53:28a •You sense healing energy from Squib.
+5/14/25 1:53:32a You equip your bloodblade.
+5/14/25 1:53:32a •Your blood pours uselessly down the blade.
+5/14/25 1:53:33a • You gain insight into the nature of your bloodblade.
+5/14/25 1:53:33a You slaughtered a Vermine.
+5/14/25 1:53:50a You slaughtered a Vermine.
+5/14/25 1:53:52a •You notice your balance recovering more quickly.
+5/14/25 1:54:05a You have 1944 coins.
+5/14/25 1:54:08a You slaughtered a Vermine.
+5/14/25 1:54:10a You slaughtered a Rat.
+5/14/25 1:54:13a You slaughtered a Rat.
+5/14/25 1:54:15a You slaughtered a Rat.
+5/14/25 1:54:17a You slaughtered a Rat.
+5/14/25 1:54:20a You slaughtered a Rat.
+5/14/25 1:54:26a You slaughtered a Rat.
+5/14/25 1:54:29a You slaughtered a Rat.
+5/14/25 1:54:45a Kennod Barkle says, "We never used to have Chaos Storms before the recent wave of exiles."
+5/14/25 1:54:47a You slaughtered a Vermine.
+5/14/25 1:54:49a You slaughtered a Vermine.
+5/14/25 1:54:50a Asplica says, "Greetings, Lord Aldo Edward."
+5/14/25 1:54:51a Asplica says, "Welcome to the language school."
+5/14/25 1:54:52a Asplica says, "Languages other than the Emperor’s are forbidden in the Ascendancy."
+5/14/25 1:54:54a Frrinakin says, "Hail, Aldo Edward."
+5/14/25 1:54:54a Frrinakin says, "You have much to learn."
+5/14/25 1:54:54a * Frrinakin : 0-9.
+5/14/25 1:54:55a Frrinakin says, "I can teach you the language of the People."
+5/14/25 1:54:56a Frrinakin says, "You will learn as you practice."
+5/14/25 1:54:57a Aldo Edward says, "yes"
+5/14/25 1:54:57a Frrinakin asks, "Are you sure you would like to train with me?"
+5/14/25 1:54:59a Aldo Edward says, "yes"
+5/14/25 1:54:59a Frrinakin says, "Welcome aboard. Go into the world and learn what you may, while practicing our craft."
+5/14/25 1:55:01a Frrinakin purrs in the language of The People.
+5/14/25 1:55:06a You slaughtered a Rat.
+5/14/25 1:55:18a You discover a half-eaten fried myrm.
+5/14/25 1:55:18a You slaughtered a Rat.
+5/14/25 1:55:22a •You feel closer to understanding the language of the People.
+5/14/25 1:55:25a You slaughtered a Rat.
+5/14/25 1:55:37a You slaughtered a Vermine.
+5/14/25 1:55:43a You slaughtered a Rat.
+5/14/25 1:55:44a You slaughtered a Rat.
+5/14/25 1:55:46a You slaughtered a Rat.
+5/14/25 1:55:49a You slaughtered a Rat.
+5/14/25 1:55:52a You slaughtered a Rat.
+5/14/25 1:56:10a You slaughtered a Rat.
+5/14/25 1:56:22a You slaughtered a Vermine.
+5/14/25 1:56:25a You slaughtered a Vermine.
+5/14/25 1:56:29a You slaughtered a Rat.
+5/14/25 1:56:31a You slaughtered a Vermine.
+5/14/25 1:56:34a You slaughtered a Rat.
+5/14/25 1:56:34a You slaughtered a Rat.
+5/14/25 1:56:41a You slip your bloodblade into your backpack.
+5/14/25 1:56:52a •You feel closer to understanding the language of the People.
+5/14/25 1:57:05a Aldo Edward says, "squib heal me"
+5/14/25 1:57:06a •You sense healing energy from Squib.
+5/14/25 1:57:10a You have 1944 coins.
+5/14/25 1:57:19a You equip your bloodblade.
+5/14/25 1:57:19a •Your blood pours uselessly down the blade.
+5/14/25 1:57:21a You slaughtered a Scavenger Bird.
+5/14/25 1:57:33a You slaughtered a Vermine.
+5/14/25 1:57:33a * For recovering the fur, you gain experience.
+5/14/25 1:57:33a * You recover the Vermine fur, worth 1c. Your share is 1c.
+5/14/25 1:57:39a You slaughtered a Rat.
+5/14/25 1:57:41a You slaughtered a Rat.
+5/14/25 1:57:44a You slaughtered a Rat.
+5/14/25 1:57:47a You slaughtered a Rat.
+5/14/25 1:57:52a You slaughtered a Rat.
+5/14/25 1:57:54a You slaughtered a Rat.
+5/14/25 1:57:57a You slaughtered a Rat.
+5/14/25 1:57:59a You slaughtered a Rat.
+5/14/25 1:58:03a You slaughtered a Rat.
+5/14/25 1:58:05a You slaughtered a Rat.
+5/14/25 1:58:08a You slaughtered a Rat.
+5/14/25 1:58:11a You slaughtered a Rat.
+5/14/25 1:58:17a You slaughtered a Rat.
+5/14/25 1:58:22a •You feel closer to understanding the language of the People.
+5/14/25 1:58:26a You slaughtered a Rat.
+5/14/25 1:58:36a • You gain insight into the nature of your bloodblade.
+5/14/25 1:58:36a You slaughtered a Rat.
+5/14/25 1:58:41a You slaughtered a Vermine.
+5/14/25 1:59:00a You slaughtered a Rat.
+5/14/25 1:59:01a You slaughtered a Rat.
+5/14/25 1:59:03a You slaughtered a Rat.
+5/14/25 1:59:09a You slaughtered a Rat.
+5/14/25 1:59:10a You slaughtered a Rat.
+5/14/25 1:59:14a You slaughtered a Rat.
+5/14/25 1:59:17a You slaughtered a Rat.
+5/14/25 1:59:18a You slaughtered a Rat.
+5/14/25 1:59:32a You slaughtered a Vermine.
+5/14/25 1:59:36a You slaughtered a Rat.
+5/14/25 1:59:42a You slaughtered a Rat.
+5/14/25 1:59:51a You slaughtered a Vermine.
+5/14/25 1:59:52a •You feel closer to understanding the language of the People.
+5/14/25 2:00:06a You slaughtered a Rat.
+5/14/25 2:00:12a You slaughtered a Rat.
+5/14/25 2:00:16a You have 1945 coins.
+5/14/25 2:00:17a You slaughtered a Rat.
+5/14/25 2:00:18a You slaughtered a Rat.
+5/14/25 2:00:25a You slaughtered a Rat.
+5/14/25 2:00:26a You slaughtered a Rat.
+5/14/25 2:00:28a You slaughtered a Rat.
+5/14/25 2:00:32a You slaughtered a Rat.
+5/14/25 2:00:36a You slaughtered a Skeletal.
+5/14/25 2:00:37a You slaughtered a Rat.
+5/14/25 2:00:40a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+5/14/25 2:00:40a Aldo Edward has fallen to a Rat.
+5/14/25 2:00:41a You slip your bloodblade into your backpack.
+5/14/25 2:01:02a A Rat feasts upon your entrails.
+5/14/25 2:01:03a A Rat bites your toes.
+5/14/25 2:01:23a •You feel closer to understanding the language of the People.
+5/14/25 2:01:32a A Rat nibbles your organs.
+5/14/25 2:01:33a Magnic II starts dragging you.
+5/14/25 2:02:00a Aldo Edward says, "squib heal me"
+5/14/25 2:02:01a •You sense healing energy from Squib.
+5/14/25 2:02:11a Shadowmutt rolls on the ground.
+5/14/25 2:02:26a Shadowmutt growls, "Grrr."
+5/14/25 2:02:32a •You lose some of your grasp of blood magic.
+5/14/25 2:02:32a • You gain experience.
+5/14/25 2:02:32a You equip your bloodblade.
+5/14/25 2:02:32a •Your blood pours uselessly down the blade.
+5/14/25 2:02:35a You slaughtered a Vermine.
+5/14/25 2:02:37a Shadowmutt growls, "Grrr."
+5/14/25 2:02:47a You s

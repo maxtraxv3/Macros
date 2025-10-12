@@ -1,0 +1,1580 @@
+
+12/16/24 12:02:13p Welcome to Clan Lord, Ajahn!
+12/16/24 12:02:13p Type \HELP for a list of commands.
+12/16/24 12:02:13p Helpful Dwarf says, "Greetings, Ajahn."
+12/16/24 12:02:13p Ajahn is now Clanning.
+12/16/24 12:02:16p It's 10:30am on Merdi, day 50 of Autumn, 639.
+12/16/24 12:02:16p Helpful Dwarf says, "Welcome to Clan Lord. I am here to help you get started."
+12/16/24 12:02:17p • What’s New: https://deltatao.com/clanlord/news
+12/16/24 12:02:17p Helpful Human says, "Greetings, Ajahn."
+12/16/24 12:02:20p Helpful Human says, "Good! You can move. It takes some practice."
+12/16/24 12:02:23p Friends online: none.
+12/16/24 12:02:25p Helpful Human says, "To talk, just type what you want to say and hit Return."
+12/16/24 12:02:26p Helpful Dwarf says, "Greetings, Ajahn."
+12/16/24 12:02:27p * Tip of the day: If you want to turn off these logon tips, type “/OPTIONS tips off”.
+12/16/24 12:02:29p Helpful Dwarf says, "Other players have white under their names. Monsters don't show their names."
+12/16/24 12:02:34p Helpful Thoom says, "Greetings, Ajahn."
+12/16/24 12:02:37p Helpful Thoom says, "There are several commands you can type. Type /help or \help to see them."
+12/16/24 12:02:39p Helpful Halfling says, "Greetings, Ajahn."
+12/16/24 12:02:42p Helpful Halfling says, "These seven NPCs show you what you would look like if you chose that race."
+12/16/24 12:02:49p Helpful Halfling says, "You can make that choice in the Puddleby town hall, after you finish here."
+12/16/24 12:02:56p Helpful Halfling says, "You can also wait a while to decide."
+12/16/24 12:03:00p Helpful Halfling says, "If you're happy with your appearance, continue through the door to the right."
+12/16/24 12:03:04p Helpful Sylvan says, "Greetings, Ajahn."
+12/16/24 12:03:07p Crius yells, "All welcome exile Ajahn to the lands -- Hail, Ajahn!"
+12/16/24 12:03:20p (Aurelie waves!)
+12/16/24 12:03:27p (Ajahn waves)
+12/16/24 12:03:35p Master Bodrus says, "Hail, Ajahn. You have much to learn."
+12/16/24 12:03:37p Ajahn says, "yes"
+12/16/24 12:03:40p Master Bodrus says, "I can teach you how to improve your body."
+12/16/24 12:03:44p Master Bodrus says, "You will learn as you practice."
+12/16/24 12:03:48p Master Bodrus asks, "Are you sure you would like to train with me?"
+12/16/24 12:03:50p Master Bodrus says, "Just tell me yes or no, please."
+12/16/24 12:03:52p \OPTIONS <option> <value> to set your preference for that option. \OPTIONS LIST to list all options and their current values.  \OPTIONS ? <option> for help with that option.
+12/16/24 12:03:56p Master Bodrus says, "Hail, Ajahn. You have much to learn."
+12/16/24 12:03:57p Ajahn says, "yes"
+12/16/24 12:04:01p Master Bodrus says, "I can teach you how to improve your body."
+12/16/24 12:04:07p NPC speech speed set to zoom.
+12/16/24 12:04:10p Master Bodrus says, "Hail, Ajahn. You have much to learn."
+12/16/24 12:04:10p Master Bodrus says, "I can teach you how to improve your body."
+12/16/24 12:04:11p Master Bodrus says, "You will learn as you practice."
+12/16/24 12:04:11p Master Bodrus asks, "Are you sure you would like to train with me?"
+12/16/24 12:04:13p Ajahn says, "yes"
+12/16/24 12:04:13p Master Bodrus says, "Welcome aboard. Go into the world and learn what you may, while practicing our craft."
+12/16/24 12:04:14p Master Bodrus says, "Hail, Ajahn. You have much to learn."
+12/16/24 12:04:35p M'at Mag'ond says, "Ajahn, I can teach you to walk in peace and not skin the earth's creatures."
+12/16/24 12:04:37p M'at Mag'ond asks, "Would you like me to let others know of your ways?"
+12/16/24 12:04:39p Ajahn says, "yes"
+12/16/24 12:04:40p M'at Mag'ond says, "Very well, Ajahn; walk in peace."
+12/16/24 12:04:51p M'at Mag'ond says, "Ajahn, I can help you to participate fully in the hunt, including skinning."
+12/16/24 12:04:54p M'at Mag'ond asks, "Would you like me to let others know of your ways?"
+12/16/24 12:04:58p M'at Mag'ond asks, "Shall I help you, yes or no?"
+12/16/24 12:05:02p Ajahn says, "no"
+12/16/24 12:05:04p M'at Mag'ond says, "Very well then, come back if you change your mind."
+12/16/24 12:05:51p Arian is no longer Clanning.
+12/16/24 12:05:59p You killed a Vermine.
+12/16/24 12:06:03p You killed a Rat.
+12/16/24 12:06:15p You killed a Rat.
+12/16/24 12:06:52p You begin sharing your experiences with Squib.
+12/16/24 12:06:52p •You sense healing energy from Aurelie.
+12/16/24 12:06:52p You are already sharing with Squib.
+12/16/24 12:06:55p You are still too mentally fatigued to change spirit links.
+12/16/24 12:06:55p You begin sharing your experiences with Aurelie.
+12/16/24 12:06:55p You are sharing experiences with Aurelie and Squib.
+12/16/24 12:06:56p Squib is sharing experiences with you.
+12/16/24 12:07:02p Shadowmutt growls, "Zzzzzz."
+12/16/24 12:07:04p Ajahn says, "thanks you"
+12/16/24 12:07:09p Aurelie chirps.
+12/16/24 12:07:14p Aurelie exclaims, "Of course!"
+12/16/24 12:07:15p You killed a Rat.
+12/16/24 12:07:21p •You sense healing energy from Aurelie.
+12/16/24 12:07:40p You killed a Vermine.
+12/16/24 12:07:45p You killed a Vermine.
+12/16/24 12:07:56p You killed a Vermine.
+12/16/24 12:08:01p You killed a Vermine.
+12/16/24 12:08:39p Abox says, "Thank you Aurelie"
+12/16/24 12:08:49p You killed a Rat.
+12/16/24 12:08:53p Abox says, "Hello Ajahn"
+12/16/24 12:08:54p Thistle says, "Hello Ajahn"
+12/16/24 12:08:55p •You sense healing energy from Omega.
+12/16/24 12:08:58p (Ajahn waves)
+12/16/24 12:09:02p Shadowmutt growls, "Zzzzzz."
+12/16/24 12:09:03p Thistle says, "Welcome to Puddleby"
+12/16/24 12:09:03p Abox says, "You seem newly exiled"
+12/16/24 12:09:20p Ajahn says, ":)"
+12/16/24 12:09:28p Crius yells, "It’s 11 o’clock, and all’s well."
+12/16/24 12:09:56p You killed a Rat.
+12/16/24 12:09:57p You killed a Rat.
+12/16/24 12:10:00p You killed a Rat.
+12/16/24 12:10:06p You killed a Rat.
+12/16/24 12:10:07p You killed a Rat.
+12/16/24 12:11:25p Boostus says, "Hello Ajahn, I have a once in a lifetime opportunity for you."
+12/16/24 12:11:25p Boostus says, "My advanced, super-secret techniques will help you learn much more quickly, for a time."
+12/16/24 12:11:26p Boostus asks, "Would you like to learn my super advanced training techniques?"
+12/16/24 12:11:28p Ajahn says, "yes"
+12/16/24 12:11:28p Boostus says, "Great! There you go. You'll start applying some of my awesome techniques now."
+12/16/24 12:11:45p You killed a Rat.
+12/16/24 12:11:49p You killed a Rat.
+12/16/24 12:11:51p You killed a Rat.
+12/16/24 12:12:04p You killed a Rat.
+12/16/24 12:12:06p You killed a Rat.
+12/16/24 12:12:07p You killed a Rat.
+12/16/24 12:12:21p You killed a Rat.
+12/16/24 12:12:23p You killed a Rat.
+12/16/24 12:12:24p You killed a Rat.
+12/16/24 12:12:32p You killed a Rat.
+12/16/24 12:12:39p You killed a Vermine.
+12/16/24 12:12:48p You killed a Rat.
+12/16/24 12:12:50p You killed a Rat.
+12/16/24 12:12:54p •Your body feels stronger.
+12/16/24 12:12:54p You killed a Rat.
+12/16/24 12:12:56p You killed a Rat.
+12/16/24 12:13:01p Yagrum is now Clanning.
+12/16/24 12:13:03p You killed a Rat.
+12/16/24 12:13:04p You killed a Rat.
+12/16/24 12:13:09p You killed a Rat.
+12/16/24 12:13:10p You killed a Rat.
+12/16/24 12:13:15p You killed a Rat.
+12/16/24 12:13:17p You killed a Rat.
+12/16/24 12:13:23p You killed a Rat.
+12/16/24 12:13:24p You killed a Rat.
+12/16/24 12:13:38p You killed a Rat.
+12/16/24 12:13:48p You killed a Rat.
+12/16/24 12:14:06p You killed a Rat.
+12/16/24 12:14:06p You killed a Rat.
+12/16/24 12:14:08p You killed a Rat.
+12/16/24 12:14:09p You killed a Rat.
+12/16/24 12:14:11p You killed a Rat.
+12/16/24 12:14:16p Chex is no longer Clanning.
+12/16/24 12:14:21p You killed a Rat.
+12/16/24 12:14:25p •Your body feels stronger.
+12/16/24 12:14:27p You killed a Vermine.
+12/16/24 12:14:33p You killed a Rat.
+12/16/24 12:14:38p You killed a Rat.
+12/16/24 12:14:41p Galena is now Clanning.
+12/16/24 12:14:46p You killed a Rat.
+12/16/24 12:14:47p You killed a Rat.
+12/16/24 12:14:48p You killed a Rat.
+12/16/24 12:14:55p You killed a Rat.
+12/16/24 12:15:40p Ajahn says, "squib heal me"
+12/16/24 12:15:50p •You sense healing energy from Omega.
+12/16/24 12:15:55p •Your body feels stronger.
+12/16/24 12:15:55p You begin sharing your experiences with Omega.
+12/16/24 12:15:55p You are sharing experiences with Omega, Aurelie and Squib.
+12/16/24 12:15:56p You are already sharing with Omega.
+12/16/24 12:15:56p You are sharing experiences with Omega, Aurelie and Squib.
+12/16/24 12:16:12p Blorko is no longer Clanning.
+12/16/24 12:16:14p You killed a Rat.
+12/16/24 12:16:16p You killed a Vermine.
+12/16/24 12:16:18p You killed a Rat.
+12/16/24 12:16:21p You killed a Rat.
+12/16/24 12:16:29p You killed a Vermine.
+12/16/24 12:16:33p You killed a Rat.
+12/16/24 12:16:39p You killed a Rat.
+12/16/24 12:16:41p You killed a Rat.
+12/16/24 12:16:45p You killed a Rat.
+12/16/24 12:16:47p You killed a Rat.
+12/16/24 12:16:50p You killed a Rat.
+12/16/24 12:16:54p You killed a Rat.
+12/16/24 12:17:05p You killed a Rat.
+12/16/24 12:17:09p Firbi growls, "Zzzzzz."
+12/16/24 12:17:16p You helped vanquish a Small Arachne.
+12/16/24 12:17:19p • You are allowed to enter the Pub.
+12/16/24 12:17:26p •Your body feels stronger.
+12/16/24 12:17:27p Sun Guangxian gestures in a secret language.
+12/16/24 12:17:27p Sun Guangxian gestures in a secret language.
+12/16/24 12:18:06p Beatty says, "Greetings, Ajahn."
+12/16/24 12:18:07p Beatty says, "Be careful down there! It can be dangerous to poke around alone."
+12/16/24 12:18:16p Buck says, "Ajahn, I think you’d enjoy a glass of tasty lemonade."
+12/16/24 12:18:16p Buck asks, "What’ll you have, Ajahn?"
+12/16/24 12:18:18p Buck says, "Hmp, thanks fer wastin’ my time."
+12/16/24 12:18:20p Eli is now Clanning.
+12/16/24 12:18:24p Merchant Mendal says, "Greetings, Ajahn."
+12/16/24 12:18:24p Merchant Mendal says, "Please point out what you'd like to sell."
+12/16/24 12:18:30p Mrs. Brown says, "Greetings, Ajahn."
+12/16/24 12:18:30p Mrs. Brown asks, "Would you help me, please?"
+12/16/24 12:18:31p Mrs. Brown says, "My husband loves to eat chocolate vermine, but he gets so thirsty."
+12/16/24 12:18:31p Mrs. Brown says, "Would you mind taking him a glass of milk? He loves it when I send him milk."
+12/16/24 12:18:32p Mrs. Brown exclaims, "Thank you for helping!"
+12/16/24 12:18:47p Mrs. Brown says, "Greetings, Ajahn."
+12/16/24 12:18:47p Mrs. Brown asks, "Would you help me, please?"
+12/16/24 12:18:48p Mrs. Brown says, "My husband loves to eat chocolate vermine, but he gets so thirsty."
+12/16/24 12:18:48p Mrs. Brown says, "Would you mind taking him a glass of milk? He loves it when I send him milk."
+12/16/24 12:18:49p Mrs. Brown exclaims, "Thank you for helping!"
+12/16/24 12:18:49p Mrs. Brown says, "Greetings, Ajahn."
+12/16/24 12:18:50p Mrs. Brown asks, "Would you help me, please?"
+12/16/24 12:18:50p Ajahn says, "yes"
+12/16/24 12:18:50p Mrs. Brown says, "My husband loves to eat chocolate vermine, but he gets so thirsty."
+12/16/24 12:18:50p Mrs. Brown says, "Would you mind taking him a glass of milk? He loves it when I send him milk."
+12/16/24 12:18:51p Mrs. Brown exclaims, "Thank you for helping!"
+12/16/24 12:18:51p Mrs. Brown says, "Greetings, Ajahn."
+12/16/24 12:18:52p Mrs. Brown asks, "Would you help me, please?"
+12/16/24 12:18:52p Mrs. Brown says, "My husband loves to eat chocolate vermine, but he gets so thirsty."
+12/16/24 12:18:53p Mrs. Brown says, "Would you mind taking him a glass of milk? He loves it when I send him milk."
+12/16/24 12:18:53p Mrs. Brown exclaims, "Thank you for helping!"
+12/16/24 12:18:57p •Your body feels stronger.
+12/16/24 12:19:05p You killed a Rat.
+12/16/24 12:19:08p You killed a Rat.
+12/16/24 12:19:09p You killed a Vermine.
+12/16/24 12:19:20p You killed a Rat.
+12/16/24 12:19:27p You killed a Vermine.
+12/16/24 12:19:27p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 12:19:28p Ajahn has fallen to a Rat.
+12/16/24 12:20:04p Mimo is now Clanning.
+12/16/24 12:20:09p A Rat plucks at your eye sockets.
+12/16/24 12:20:27p •Your body feels stronger.
+12/16/24 12:20:36p •You sense healing energy from Mimo.
+12/16/24 12:20:47p You begin sharing your experiences with Mimo.
+12/16/24 12:20:47p You are sharing experiences with Mimo, Omega, Aurelie and Squib.
+12/16/24 12:20:47p You are already sharing with Mimo.
+12/16/24 12:20:47p You are sharing experiences with Mimo, Omega, Aurelie and Squib.
+12/16/24 12:20:49p You killed a Rat.
+12/16/24 12:20:56p You killed a Rat.
+12/16/24 12:20:58p You killed a Rat.
+12/16/24 12:21:01p You killed a Rat.
+12/16/24 12:21:08p You killed a Rat.
+12/16/24 12:21:29p You killed a Rat.
+12/16/24 12:21:31p You killed a Rat.
+12/16/24 12:21:31p You killed a Rat.
+12/16/24 12:21:33p You killed a Rat.
+12/16/24 12:21:36p You killed a Rat.
+12/16/24 12:21:40p You killed a Rat.
+12/16/24 12:21:44p You killed a Rat.
+12/16/24 12:21:58p •Your body feels stronger.
+12/16/24 12:22:00p You killed a Rat.
+12/16/24 12:22:01p You killed a Rat.
+12/16/24 12:22:05p You killed a Rat.
+12/16/24 12:22:07p Yagrum is no longer Clanning.
+12/16/24 12:22:07p You killed a Rat.
+12/16/24 12:22:12p You killed a Rat.
+12/16/24 12:22:33p •You sense healing energy from Mimo.
+12/16/24 12:22:45p You killed a Rat.
+12/16/24 12:22:50p You killed a Rat.
+12/16/24 12:22:53p You killed a Rat.
+12/16/24 12:22:56p You killed a Rat.
+12/16/24 12:22:57p You killed a Rat.
+12/16/24 12:23:01p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 12:23:02p Ajahn has fallen to a Detached Spirit.
+12/16/24 12:23:11p Galena is no longer Clanning.
+12/16/24 12:23:20p Mimo starts dragging you.
+12/16/24 12:23:28p •Your body feels stronger.
+12/16/24 12:23:34p •You sense healing energy from Mimo.
+12/16/24 12:24:12p You killed a Rat.
+12/16/24 12:24:16p You killed a Rat.
+12/16/24 12:24:18p You killed a Rat.
+12/16/24 12:24:20p You killed a Rat.
+12/16/24 12:24:24p You killed a Rat.
+12/16/24 12:24:32p You killed a Rat.
+12/16/24 12:24:37p You killed a Scavenger Bird.
+12/16/24 12:24:49p You killed a Rat.
+12/16/24 12:24:54p You killed a Rat.
+12/16/24 12:24:56p You killed a Rat.
+12/16/24 12:24:56p You killed a Rat.
+12/16/24 12:24:59p •Your body feels stronger.
+12/16/24 12:24:59p You killed a Rat.
+12/16/24 12:25:06p You killed a Rat.
+12/16/24 12:25:07p You killed a Rat.
+12/16/24 12:25:16p You killed a Rat.
+12/16/24 12:25:16p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 12:25:17p Ajahn has fallen to a Detached Spirit.
+12/16/24 12:25:35p A Rat munches on your flesh.
+12/16/24 12:25:37p Mimo's chain breaks as he tries to use it.
+12/16/24 12:25:41p A Rat chews on your wounds.
+12/16/24 12:25:41p A Rat tears at your entrails.
+12/16/24 12:25:48p •You sense healing energy from Mimo.
+12/16/24 12:25:54p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 12:25:54p Ajahn has fallen to a Rat.
+12/16/24 12:25:57p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 12:26:00p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 12:26:30p •Your body feels stronger.
+12/16/24 12:27:15p You killed a Rat.
+12/16/24 12:28:00p •Your body feels stronger.
+12/16/24 12:28:30p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 12:28:31p Ajahn has fallen to a Giant Slug.
+12/16/24 12:28:49p •You sense healing energy from Mimo.
+12/16/24 12:29:20p •You sense healing energy from Mimo.
+12/16/24 12:29:31p •Your body feels stronger.
+12/16/24 12:29:31p You vanquished a Giant Slug.
+12/16/24 12:30:14p You vanquished a Giant Slug.
+12/16/24 12:31:02p •Your body feels stronger.
+12/16/24 12:31:09p You killed a Rat.
+12/16/24 12:31:26p You vanquished a Giant Slug.
+12/16/24 12:31:36p You killed a Rat.
+12/16/24 12:32:17p You vanquished a Giant Slug.
+12/16/24 12:32:28p •You sense healing energy from Mimo.
+12/16/24 12:32:32p •Your body feels stronger.
+12/16/24 12:33:33p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 12:33:34p Ajahn has fallen to a Giant Slug.
+12/16/24 12:33:37p •You sense healing energy from Mimo.
+12/16/24 12:33:41p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 12:33:45p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 12:33:45p Ajahn has fallen to a Giant Slug.
+12/16/24 12:34:00p • You feel Thistle seeking you.
+12/16/24 12:34:03p •Your body feels stronger.
+12/16/24 12:34:03p You vanquished a Giant Slug.
+12/16/24 12:34:32p You killed a Rat.
+12/16/24 12:34:34p Mimo has fallen to a Giant Slug.
+12/16/24 12:35:23p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 12:35:23p Ajahn has fallen to a Giant Slug.
+12/16/24 12:35:34p •Your body feels stronger.
+12/16/24 12:35:51p Ajahn yells, "help please"
+12/16/24 12:36:11p Abox starts dragging you.
+12/16/24 12:36:20p Thistle says, "Squib was worried about you"
+12/16/24 12:36:23p * You feel mentally enhanced by Valadorei...
+12/16/24 12:36:29p Thistle says, "Squib heal Ajahn"
+12/16/24 12:36:30p Ajahn says, "thank you :)"
+12/16/24 12:36:30p •You sense healing energy from Squib.
+12/16/24 12:36:52p (Abox wonders if Ajahn knows how to yell)
+12/16/24 12:37:04p •Your body feels stronger.
+12/16/24 12:37:09p (Ajahn nods)
+12/16/24 12:37:20p Thistle purrs in the language of The People.
+12/16/24 12:37:23p Aurelie ponders, "Takin' the dog out again!"
+12/16/24 12:37:24p (Abox nods)
+12/16/24 12:37:31p • You hear Aurelie's music...
+12/16/24 12:37:32p Aurelie starts playing her vibra.
+12/16/24 12:37:32p (Aurelie): "Song for Topaz" by Coriakin
+12/16/24 12:37:33p Mimo is still fallen to a Giant Slug.
+12/16/24 12:37:40p Magnic is now Clanning.
+12/16/24 12:37:48p You helped vanquish a Giant Slug.
+12/16/24 12:38:06p (Valadorei waves)
+12/16/24 12:38:11p You have no coins.
+12/16/24 12:38:18p Magnic says, "someone have a chain mimo fallen south town"
+12/16/24 12:38:30p Lithia Akka says, "Greetings, Magnic. I am collecting building materials and coins for a beautiful fountain for town center."
+12/16/24 12:38:31p Lithia Akka says, "It’s going well; you can pretty much see the final shape now."
+12/16/24 12:38:31p Lithia Akka says, "To donate materials, hold out a piece of wood, stone or metal, or hold your money- purse to donate 500 coins."
+12/16/24 12:38:35p •Your body feels stronger.
+12/16/24 12:38:45p Crius yells, "It’s 1 o’clock, and all’s well. Good huntin’, right here in our own back yard!"
+12/16/24 12:38:49p Crius yells, "It looks pretty quiet in a Tok'Han nest."
+12/16/24 12:38:51p Mimo says, "thanks"
+12/16/24 12:38:54p Giben says, "yw"
+12/16/24 12:39:02p Mimo says, "squib heal me"
+12/16/24 12:39:04p Mimo is no longer fallen.
+12/16/24 12:39:09p Koppi yells, "Tara reports: Arr"
+12/16/24 12:39:30p You helped vanquish a Giant Slug.
+12/16/24 12:39:31p You helped kill a Giant Slug.
+12/16/24 12:39:31p You have no coins.
+12/16/24 12:39:32p You helped vanquish a Giant Slug.
+12/16/24 12:39:33p You helped vanquish a Giant Slug.
+12/16/24 12:39:35p You helped vanquish a Giant Slug.
+12/16/24 12:39:36p You helped vanquish a Giant Slug.
+12/16/24 12:39:37p You helped vanquish a Giant Slug.
+12/16/24 12:39:39p You helped vanquish a Giant Slug.
+12/16/24 12:40:05p •Your body feels stronger.
+12/16/24 12:40:27p * Your mental enhancement fades.
+12/16/24 12:40:29p * Your mental enhancement fades.
+12/16/24 12:40:51p You have no coins.
+12/16/24 12:41:36p •Your body feels stronger.
+12/16/24 12:42:12p You have no coins.
+12/16/24 12:42:22p Magnic is no longer Clanning.
+12/16/24 12:42:57p You killed a Rat.
+12/16/24 12:43:00p You killed a Rat.
+12/16/24 12:43:04p You killed a Rat.
+12/16/24 12:43:05p You killed a Rat.
+12/16/24 12:43:07p •Your body feels stronger.
+12/16/24 12:43:13p You killed a Rat.
+12/16/24 12:43:21p You killed a Rat.
+12/16/24 12:43:22p You killed a Rat.
+12/16/24 12:43:26p You killed a Rat.
+12/16/24 12:43:28p Shakyamuni is no longer Clanning.
+12/16/24 12:43:32p You killed a Rat.
+12/16/24 12:43:32p You have no coins.
+12/16/24 12:43:34p You killed a Rat.
+12/16/24 12:43:37p You killed a Rat.
+12/16/24 12:43:51p You killed a Rat.
+12/16/24 12:43:58p You killed a Rat.
+12/16/24 12:44:00p You killed a Rat.
+12/16/24 12:44:02p Shakyamuni is now Clanning.
+12/16/24 12:44:06p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 12:44:06p Ajahn has fallen to an Emerald Scorp.
+12/16/24 12:44:11p A Rat munches on your fallen body.
+12/16/24 12:44:16p A Rat nibbles your eye sockets.
+12/16/24 12:44:23p A Rat pokes at your fallen body.
+12/16/24 12:44:23p Fafnir is no longer Clanning.
+12/16/24 12:44:30p •You sense healing energy from Mimo.
+12/16/24 12:44:37p •Your body feels stronger.
+12/16/24 12:44:40p Shadowbelle is now Clanning.
+12/16/24 12:44:44p You killed an Emerald Scorp.
+12/16/24 12:44:44p Shadowbelle is no longer Clanning.
+12/16/24 12:44:48p You killed a Rat.
+12/16/24 12:44:52p You have no coins.
+12/16/24 12:44:52p Kalian is no longer Clanning.
+12/16/24 12:45:00p You killed a Rat.
+12/16/24 12:45:00p Shakyamuni is no longer Clanning.
+12/16/24 12:45:03p Farmer Gronmad is now Clanning.
+12/16/24 12:45:08p You killed a Rat.
+12/16/24 12:45:10p Blaque Smith is now Clanning.
+12/16/24 12:45:10p Katreesa is no longer Clanning.
+12/16/24 12:45:12p You killed a Rat.
+12/16/24 12:45:13p You killed a Rat.
+12/16/24 12:45:17p Shadowfire is no longer Clanning.
+12/16/24 12:45:19p You killed a Rat.
+12/16/24 12:45:20p You killed a Rat.
+12/16/24 12:45:25p Malakar is no longer Clanning.
+12/16/24 12:45:37p Markus is now Clanning.
+12/16/24 12:45:43p You killed a Bloodthorn.
+12/16/24 12:45:46p You killed a Rat.
+12/16/24 12:45:48p Nogürd nods and smiles at Ajahn.
+12/16/24 12:45:51p Nogürd nods and smiles at Ravenstorm.
+12/16/24 12:45:56p You killed a Vermine.
+12/16/24 12:45:58p Blaque Smith is no longer Clanning.
+12/16/24 12:46:00p Azerak is now Clanning.
+12/16/24 12:46:08p •Your body feels stronger.
+12/16/24 12:46:12p You have no coins.
+12/16/24 12:46:25p Farmer Gronmad is no longer Clanning.
+12/16/24 12:46:29p You killed a Rat.
+12/16/24 12:46:29p You killed a Rat.
+12/16/24 12:46:33p Sullin is no longer Clanning.
+12/16/24 12:46:35p You killed a Rat.
+12/16/24 12:46:36p Shard is no longer Clanning.
+12/16/24 12:46:36p You killed a Rat.
+12/16/24 12:46:37p You killed a Rat.
+12/16/24 12:46:38p You killed a Rat.
+12/16/24 12:46:42p You killed a Vermine.
+12/16/24 12:46:43p You killed a Vermine.
+12/16/24 12:46:44p You killed a Rat.
+12/16/24 12:46:45p You killed a Rat.
+12/16/24 12:46:49p You killed a Rat.
+12/16/24 12:46:51p Suu'ub III is no longer Clanning.
+12/16/24 12:46:53p You killed a Rat.
+12/16/24 12:46:53p You killed a Rat.
+12/16/24 12:47:01p You killed a Rat.
+12/16/24 12:47:04p You killed a Rat.
+12/16/24 12:47:15p You killed a Rat.
+12/16/24 12:47:24p You killed a Rat.
+12/16/24 12:47:28p Lilian is now Clanning.
+12/16/24 12:47:32p You have no coins.
+12/16/24 12:47:39p •Your body feels stronger.
+12/16/24 12:47:46p Azerak is no longer Clanning.
+12/16/24 12:47:52p You killed a Rat.
+12/16/24 12:47:53p You killed a Rat.
+12/16/24 12:47:56p You killed a Rat.
+12/16/24 12:48:11p You killed a Vermine.
+12/16/24 12:48:39p Thistle asks, "Hard on shoe levver. How's da Rangering?"
+12/16/24 12:48:51p Thistle asks, "Are you reading a scroll?"
+12/16/24 12:48:53p You have no coins.
+12/16/24 12:48:59p Pe Ell exclaims, "Yes!"
+12/16/24 12:49:09p Pe Ell says, "It's important to always have papers to look like you're reading"
+12/16/24 12:49:09p •Your body feels stronger.
+12/16/24 12:49:10p D'Ead is no longer Clanning.
+12/16/24 12:49:13p Pe Ell says, "It makes people think you're smart"
+12/16/24 12:49:14p (Thistle nods)
+12/16/24 12:49:23p •You sense healing energy from Omega.
+12/16/24 12:49:28p Abox purrs in the language of The People.
+12/16/24 12:49:31p Markus is no longer Clanning.
+12/16/24 12:49:31p Koppi yells, "Tara reports: Arr"
+12/16/24 12:49:33p (Thistle nods)
+12/16/24 12:49:33p (Thistle nods)
+12/16/24 12:49:38p Onya is now Clanning.
+12/16/24 12:50:11p You killed a Rat.
+12/16/24 12:50:13p You have no coins.
+12/16/24 12:50:40p •Your body feels stronger.
+12/16/24 12:50:44p •You sense healing energy from Omega.
+12/16/24 12:50:57p Shadowmutt growls, "Grrr."
+12/16/24 12:51:24p You killed a Scavenger Bird.
+12/16/24 12:51:33p You have no coins.
+12/16/24 12:51:34p Shadowmutt growls, "Grrr."
+12/16/24 12:51:44p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 12:51:45p Ajahn has fallen to a Giant Slug.
+12/16/24 12:51:52p Giben starts dragging you.
+12/16/24 12:51:53p •You sense healing energy from Omega.
+12/16/24 12:51:58p You vanquished a Giant Slug.
+12/16/24 12:52:06p Ajahn says, "thank you :)"
+12/16/24 12:52:10p •Your body feels stronger.
+12/16/24 12:52:26p You killed a Rat.
+12/16/24 12:52:32p You killed a Rat.
+12/16/24 12:52:41p You killed a Vermine.
+12/16/24 12:52:46p You killed a Rat.
+12/16/24 12:52:48p You killed a Rat.
+12/16/24 12:52:53p You have no coins.
+12/16/24 12:52:53p You killed a Rat.
+12/16/24 12:52:54p You killed a Rat.
+12/16/24 12:52:55p You killed a Rat.
+12/16/24 12:52:56p You killed a Rat.
+12/16/24 12:52:57p You killed a Rat.
+12/16/24 12:53:01p Garfield is now Clanning.
+12/16/24 12:53:01p You killed a Rat.
+12/16/24 12:53:02p You killed a Rat.
+12/16/24 12:53:06p You killed a Rat.
+12/16/24 12:53:16p You consider the titles on the bookshelf.
+12/16/24 12:53:23p Onya is no longer Clanning.
+12/16/24 12:53:33p Hieskor says, "Greetings, Ajahn."
+12/16/24 12:53:34p Hieskor says, "I'm sorry, the price is 35c for a sparkle stone."
+12/16/24 12:53:34p Haffron is now Clanning.
+12/16/24 12:53:41p •Your body feels stronger.
+12/16/24 12:53:52p You killed a Rat.
+12/16/24 12:53:54p You killed a Rat.
+12/16/24 12:53:55p You killed a Rat.
+12/16/24 12:53:56p You killed a Rat.
+12/16/24 12:54:04p You killed a Rat.
+12/16/24 12:54:05p You killed a Rat.
+12/16/24 12:54:11p You killed a Rat.
+12/16/24 12:54:13p You have no coins.
+12/16/24 12:54:14p You killed a Rat.
+12/16/24 12:54:21p You killed a Rat.
+12/16/24 12:54:32p You killed a Rat.
+12/16/24 12:54:33p You killed a Rat.
+12/16/24 12:54:36p Garfield is no longer Clanning.
+12/16/24 12:54:36p You killed a Rat.
+12/16/24 12:54:51p You killed a Vermine.
+12/16/24 12:54:52p You killed a Rat.
+12/16/24 12:54:53p You killed a Rat.
+12/16/24 12:55:00p You killed a Rat.
+12/16/24 12:55:02p You killed a Rat.
+12/16/24 12:55:05p You killed a Rat.
+12/16/24 12:55:09p You killed a Rat.
+12/16/24 12:55:11p You killed a Rat.
+12/16/24 12:55:12p •Your body feels stronger.
+12/16/24 12:55:14p •You sense healing energy from Mimo.
+12/16/24 12:55:16p SnowLion is now Clanning.
+12/16/24 12:55:20p You killed a Rat.
+12/16/24 12:55:27p You killed a Rat.
+12/16/24 12:55:34p You have no coins.
+12/16/24 12:55:51p You vault the wall.
+12/16/24 12:55:59p You killed a Rat.
+12/16/24 12:56:01p You killed a Vermine.
+12/16/24 12:56:05p You killed a Rat.
+12/16/24 12:56:08p You killed a Rat.
+12/16/24 12:56:27p You killed a Rat.
+12/16/24 12:56:36p Dakuan says, "Welcome to the monastery."
+12/16/24 12:56:36p Dakuan says, "Stay here for peace and reflection."
+12/16/24 12:56:37p Dakuan says, "Train if you wish."
+12/16/24 12:56:37p Dakuan says, "This will always be a quiet sanctuary."
+12/16/24 12:56:38p Dakuan says, "If you hear voices from the walls, please try to disregard them."
+12/16/24 12:56:42p •Your body feels stronger.
+12/16/24 12:56:54p You have no coins.
+12/16/24 12:57:08p Cecil is no longer Clanning.
+12/16/24 12:57:14p D'mitrius is now Clanning.
+12/16/24 12:57:14p Xoop is now Clanning.
+12/16/24 12:58:13p •Your body feels stronger.
+12/16/24 12:58:14p You have no coins.
+12/16/24 12:58:29p Gorvin is no longer Clanning.
+12/16/24 12:59:16p Boots begins to purr and rub against your leg.
+12/16/24 12:59:19p Lafiadem is now Clanning.
+12/16/24 12:59:19p Boots begins to purr and rub against your leg.
+12/16/24 12:59:21p D'mitrius is no longer Clanning.
+12/16/24 12:59:22p Boots begins to purr and rub against your leg.
+12/16/24 12:59:25p Boots growls, "Mrowr!"
+12/16/24 12:59:28p Boots tucks his nose under his tail and begins napping.
+12/16/24 12:59:34p You have no coins.
+12/16/24 12:59:39p Seaforth is now Clanning.
+12/16/24 12:59:43p •Your body feels stronger.
+12/16/24 12:59:55p Milly is now Clanning.
+12/16/24 12:59:58p Boots growls, "Zzzzzz."
+12/16/24 1:00:34p Boots bounds to his feet, ready for the chase!
+12/16/24 1:00:54p You have no coins.
+12/16/24 1:01:14p Milly is no longer Clanning.
+12/16/24 1:01:15p Ravenstorm is no longer Clanning.
+12/16/24 1:02:15p You have no coins.
+12/16/24 1:02:33p Boots growls, "Mrowr!"
+12/16/24 1:02:34p Boots growls, "Meeeoowww!"
+12/16/24 1:02:54p Jo Ma'ril is now Clanning.
+12/16/24 1:03:21p Boots licks his fur.
+12/16/24 1:03:35p You have no coins.
+12/16/24 1:03:37p TreeBeard is no longer Clanning.
+12/16/24 1:03:53p Boots begins to purr and rub against your leg.
+12/16/24 1:03:56p Boots begins to purr and rub against your leg.
+12/16/24 1:03:59p Boots growls, "Mrowr!"
+12/16/24 1:04:22p Boots growls, "Meeeoowww!"
+12/16/24 1:04:25p Boots growls, "Mrowr!"
+12/16/24 1:04:28p Boots licks his fur.
+12/16/24 1:04:55p You have no coins.
+12/16/24 1:05:16p Boots growls, "Mrowr!"
+12/16/24 1:06:15p You have no coins.
+12/16/24 1:06:23p Thistle is no longer Clanning.
+12/16/24 1:06:25p Xoop is no longer Clanning.
+12/16/24 1:06:35p Boots growls, "Mrowr!"
+12/16/24 1:06:55p Boots licks his fur.
+12/16/24 1:07:04p Lafiadem is no longer Clanning.
+12/16/24 1:07:35p You have no coins.
+12/16/24 1:07:50p Boots growls, "Mrowr!"
+12/16/24 1:08:53p Sylvan says, "Sylvan are the best scouts and archers"
+12/16/24 1:08:56p You have no coins.
+12/16/24 1:08:56p Human asks, "Are you sure you want to reveal to everyone that you are Human?"
+12/16/24 1:08:59p Ajahn says, "yes"
+12/16/24 1:08:59p Human says, "Indeed, a Human."
+12/16/24 1:09:00p Sauver is now Clanning.
+12/16/24 1:09:39p Eli is no longer Clanning.
+12/16/24 1:09:39p Female Human asks, "Would you like me to set your icon to match mine?"
+12/16/24 1:09:42p Ajahn says, "yes"
+12/16/24 1:09:43p Female Human says, "There you go, Ajahn."
+12/16/24 1:10:14p • Your clothing fades.
+12/16/24 1:10:16p You have no coins.
+12/16/24 1:10:23p You killed a Rat.
+12/16/24 1:10:25p You killed a Rat.
+12/16/24 1:10:31p You killed a Rat.
+12/16/24 1:10:35p You killed a Rat.
+12/16/24 1:10:36p You killed a Rat.
+12/16/24 1:10:42p You killed a Rat.
+12/16/24 1:10:45p You killed a Rat.
+12/16/24 1:11:03p You killed a Vermine.
+12/16/24 1:11:10p You killed a Rat.
+12/16/24 1:11:15p You killed a Rat.
+12/16/24 1:11:22p You killed a Rat.
+12/16/24 1:11:23p You killed a Rat.
+12/16/24 1:11:36p You have no coins.
+12/16/24 1:11:46p Smythus says, "Greetings, Ajahn."
+12/16/24 1:11:46p Smythus says, "Metal is hard to come by in these parts."
+12/16/24 1:11:47p •Your body feels stronger.
+12/16/24 1:11:47p Smythus says, "If you find some ore, show it to Rafinus."
+12/16/24 1:11:47p Smythus says, "Bindra is quite good at making chains."
+12/16/24 1:11:48p Smythus says, "Katla is learning to make weapons."
+12/16/24 1:11:48p Smythus says, "Aigus has not yet learned a craft."
+12/16/24 1:11:48p Smythus says, "Loovma Geer can teach you to care for your tools."
+12/16/24 1:11:53p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 1:11:53p Ajahn has fallen to a Young Rockodile.
+12/16/24 1:12:16p •You sense healing energy from Mimo.
+12/16/24 1:12:23p You vanquished a Young Rockodile.
+12/16/24 1:12:34p You killed a Rat.
+12/16/24 1:12:54p You killed a Rat.
+12/16/24 1:12:56p You have no coins.
+12/16/24 1:13:00p You killed a Rat.
+12/16/24 1:13:01p You killed a Rat.
+12/16/24 1:13:04p You killed a Rat.
+12/16/24 1:13:17p You killed a Rat.
+12/16/24 1:13:17p •Your body feels stronger.
+12/16/24 1:13:17p You killed a Rat.
+12/16/24 1:13:24p You killed a Rat.
+12/16/24 1:13:25p You killed a Rat.
+12/16/24 1:13:54p You killed a Rat.
+12/16/24 1:13:56p You killed a Rat.
+12/16/24 1:13:57p You killed a Rat.
+12/16/24 1:14:02p You killed a Rat.
+12/16/24 1:14:04p You killed a Rat.
+12/16/24 1:14:16p You have no coins.
+12/16/24 1:14:18p You killed a Rat.
+12/16/24 1:14:28p You killed a Rat.
+12/16/24 1:14:36p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 1:14:36p Ajahn has fallen to a Large Vermine.
+12/16/24 1:14:48p •Your body feels stronger.
+12/16/24 1:14:58p A Rat feasts upon your fallen body.
+12/16/24 1:15:10p •You sense healing energy from Mimo.
+12/16/24 1:15:15p You killed a Rat.
+12/16/24 1:15:16p You killed a Rat.
+12/16/24 1:15:17p You killed a Rat.
+12/16/24 1:15:37p You have no coins.
+12/16/24 1:15:43p You killed a Large Vermine.
+12/16/24 1:16:10p •You sense healing energy from Mimo.
+12/16/24 1:16:13p You vanquished a Large Vermine.
+12/16/24 1:16:14p * Mimo recovers the Large Vermine fur, worth 1c. Your share is 1c.
+12/16/24 1:16:18p •Your body feels stronger.
+12/16/24 1:16:43p You vanquished a Giant Slug.
+12/16/24 1:16:57p You have a single coin.
+12/16/24 1:17:04p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 1:17:04p Ajahn has fallen to a Giant Vermine.
+12/16/24 1:17:14p •You sense healing energy from Mimo.
+12/16/24 1:17:19p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 1:17:19p Ajahn has fallen to a Giant Vermine.
+12/16/24 1:17:29p You killed a Rat.
+12/16/24 1:17:31p John Arrowish says, "Greetings, Ajahn."
+12/16/24 1:17:31p John Arrowish exclaims, "I heard we now have archers!"
+12/16/24 1:17:32p John Arrowish exclaims, "Let there be rejoicing!"
+12/16/24 1:18:08p You killed a Rat.
+12/16/24 1:18:17p You have a single coin.
+12/16/24 1:18:18p You vanquished a Giant Vermine.
+12/16/24 1:18:23p You killed a Vermine.
+12/16/24 1:18:28p •You sense healing energy from Mimo.
+12/16/24 1:18:41p You vanquished a Giant Vermine.
+12/16/24 1:19:19p •Your body feels stronger.
+12/16/24 1:19:37p You have a single coin.
+12/16/24 1:20:37p You vanquished a Large Vermine.
+12/16/24 1:20:42p •You sense healing energy from Mimo.
+12/16/24 1:20:57p You have a single coin.
+12/16/24 1:21:04p You killed a Scavenger Bird.
+12/16/24 1:21:11p You killed a Rat.
+12/16/24 1:21:14p You killed a Vermine.
+12/16/24 1:21:14p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 1:21:15p Ajahn has fallen to a Detached Spirit.
+12/16/24 1:21:24p A Rat chews on your fallen body.
+12/16/24 1:21:37p Lilian is no longer Clanning.
+12/16/24 1:21:41p •You sense healing energy from Mimo.
+12/16/24 1:21:42p A Rat rips at your entrails.
+12/16/24 1:21:48p You killed a Rat.
+12/16/24 1:21:50p You killed a Rat.
+12/16/24 1:21:54p You killed a Rat.
+12/16/24 1:21:57p You killed a Rat.
+12/16/24 1:22:00p You killed a Rat.
+12/16/24 1:22:02p You killed a Rat.
+12/16/24 1:22:05p You killed a Rat.
+12/16/24 1:22:09p You killed a Rat.
+12/16/24 1:22:14p You killed a Rat.
+12/16/24 1:22:18p You have a single coin.
+12/16/24 1:22:20p You killed a Rat.
+12/16/24 1:22:20p •Your body feels stronger.
+12/16/24 1:23:38p You have a single coin.
+12/16/24 1:23:50p •Your body feels stronger.
+12/16/24 1:23:50p •You sense healing energy from Mimo.
+12/16/24 1:24:26p You killed a Rat.
+12/16/24 1:24:27p You killed a Rat.
+12/16/24 1:24:28p You killed a Rat.
+12/16/24 1:24:32p You killed a Rat.
+12/16/24 1:24:58p You have a single coin.
+12/16/24 1:25:53p You vanquished a Detached Spirit.
+12/16/24 1:26:12p You killed a Rat.
+12/16/24 1:26:13p You killed a Rat.
+12/16/24 1:26:16p You killed a Rat.
+12/16/24 1:26:18p You have a single coin.
+12/16/24 1:26:38p •You sense healing energy from Mimo.
+12/16/24 1:26:40p You killed a Rat.
+12/16/24 1:26:45p You killed a Rat.
+12/16/24 1:26:48p You killed a Rat.
+12/16/24 1:26:51p •Your body feels stronger.
+12/16/24 1:27:34p You killed a Rat.
+12/16/24 1:27:36p You killed a Vermine.
+12/16/24 1:27:38p You have a single coin.
+12/16/24 1:27:40p •The Sun sets.
+12/16/24 1:28:41p You killed a Vermine.
+12/16/24 1:28:43p You killed a Rat.
+12/16/24 1:28:48p You killed a Rat.
+12/16/24 1:28:59p You have a single coin.
+12/16/24 1:29:16p You killed a Rat.
+12/16/24 1:29:17p You killed a Rat.
+12/16/24 1:29:23p You killed a Rat.
+12/16/24 1:29:33p You killed a Rat.
+12/16/24 1:29:34p You killed a Rat.
+12/16/24 1:29:37p You killed a Rat.
+12/16/24 1:29:41p You killed a Rat.
+12/16/24 1:29:41p You discover a half-eaten fried myrm.
+12/16/24 1:29:52p •Your body feels stronger.
+12/16/24 1:29:57p You killed a Rat.
+12/16/24 1:29:58p You killed a Rat.
+12/16/24 1:30:04p You killed a Rat.
+12/16/24 1:30:05p You killed a Rat.
+12/16/24 1:30:14p You killed a Vermine.
+12/16/24 1:30:15p You killed a Vermine.
+12/16/24 1:30:18p You killed a Rat.
+12/16/24 1:30:19p You have a single coin.
+12/16/24 1:30:20p You killed a Rat.
+12/16/24 1:30:46p You killed a Rat.
+12/16/24 1:31:23p •Your body feels stronger.
+12/16/24 1:31:39p You have a single coin.
+12/16/24 1:32:22p You killed a Rat.
+12/16/24 1:32:23p You killed a Rat.
+12/16/24 1:32:24p You killed a Rat.
+12/16/24 1:32:25p You killed a Rat.
+12/16/24 1:32:25p EBow is no longer Clanning.
+12/16/24 1:32:30p You killed a Rat.
+12/16/24 1:32:32p You killed a Rat.
+12/16/24 1:32:53p •Your body feels stronger.
+12/16/24 1:32:59p You have a single coin.
+12/16/24 1:33:09p Master Bodrus says, "Hail, Ajahn. You are a good pupil of mine."
+12/16/24 1:33:09p * Master : 40-49.
+12/16/24 1:33:10p Master Bodrus says, "I can teach you how to improve your body."
+12/16/24 1:33:10p Master Bodrus says, "You will learn as you practice."
+12/16/24 1:33:21p Shadowmutt growls, "Grrr."
+12/16/24 1:33:34p Pe Ell is no longer Clanning.
+12/16/24 1:33:39p You killed a Vermine.
+12/16/24 1:33:44p You killed a Vermine.
+12/16/24 1:33:45p You killed a Rat.
+12/16/24 1:33:47p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 1:33:47p Ajahn has fallen to a Vermine.
+12/16/24 1:34:03p A Rat feasts upon your entrails.
+12/16/24 1:34:11p •You sense healing energy from Mimo.
+12/16/24 1:34:13p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 1:34:19p You have a single coin.
+12/16/24 1:34:24p •Your body feels stronger.
+12/16/24 1:34:24p You killed a Rat.
+12/16/24 1:34:25p You killed a Rat.
+12/16/24 1:34:26p You killed a Vermine.
+12/16/24 1:34:32p You killed a Rat.
+12/16/24 1:34:39p You killed a Rat.
+12/16/24 1:34:42p You killed a Vermine.
+12/16/24 1:34:48p You killed a Vermine.
+12/16/24 1:34:52p You killed a Vermine.
+12/16/24 1:35:25p You vanquished a Detached Spirit.
+12/16/24 1:35:40p You have a single coin.
+12/16/24 1:35:42p You killed a Vermine.
+12/16/24 1:35:48p You killed a Vermine.
+12/16/24 1:35:49p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 1:35:50p Ajahn has fallen to a Detached Spirit.
+12/16/24 1:35:54p •Your body feels stronger.
+12/16/24 1:36:09p •You sense healing energy from Mimo.
+12/16/24 1:36:42p You killed a Vermine.
+12/16/24 1:36:43p You killed a Rat.
+12/16/24 1:36:44p You killed a Rat.
+12/16/24 1:36:49p You killed a Rat.
+12/16/24 1:36:53p You killed a Rat.
+12/16/24 1:36:57p You killed a Vermine.
+12/16/24 1:36:58p You killed a Rat.
+12/16/24 1:37:00p You have a single coin.
+12/16/24 1:37:17p •You sense healing energy from Mimo.
+12/16/24 1:37:25p •Your body feels stronger.
+12/16/24 1:37:47p •You sense healing energy from Mimo.
+12/16/24 1:38:20p You have a single coin.
+12/16/24 1:38:30p •You sense healing energy from Mimo.
+12/16/24 1:38:55p •Your body feels stronger.
+12/16/24 1:39:08p •You sense healing energy from Mimo.
+12/16/24 1:39:23p •You sense healing energy from Mimo.
+12/16/24 1:39:40p You have a single coin.
+12/16/24 1:39:54p You killed a Rat.
+12/16/24 1:39:57p You killed a Rat.
+12/16/24 1:40:09p •You sense healing energy from Mimo.
+12/16/24 1:40:28p •You sense healing energy from Mimo.
+12/16/24 1:40:47p You vanquished a Detached Spirit.
+12/16/24 1:40:53p You killed a Rat.
+12/16/24 1:40:55p You killed a Rat.
+12/16/24 1:41:00p You have a single coin.
+12/16/24 1:41:06p You killed a Rat.
+12/16/24 1:41:07p You killed a Rat.
+12/16/24 1:41:10p You killed a Rat.
+12/16/24 1:41:14p You killed a Rat.
+12/16/24 1:41:15p You killed a Rat.
+12/16/24 1:41:18p You killed a Rat.
+12/16/24 1:41:22p You killed a Rat.
+12/16/24 1:41:29p You killed a Rat.
+12/16/24 1:41:31p You killed a Rat.
+12/16/24 1:41:44p You killed a Rat.
+12/16/24 1:41:44p You killed a Rat.
+12/16/24 1:41:56p •Your body feels stronger.
+12/16/24 1:42:03p You killed a Vermine.
+12/16/24 1:42:05p You killed a Rat.
+12/16/24 1:42:08p You killed a Vermine.
+12/16/24 1:42:14p You killed a Vermine.
+12/16/24 1:42:21p You have a single coin.
+12/16/24 1:42:31p •You sense healing energy from Mimo.
+12/16/24 1:42:46p You killed a Rat.
+12/16/24 1:42:47p You killed a Rat.
+12/16/24 1:42:55p You killed a Rat.
+12/16/24 1:43:14p You killed a Vermine.
+12/16/24 1:43:21p You killed a Rat.
+12/16/24 1:43:26p You killed a Rat.
+12/16/24 1:43:26p •Your body feels stronger.
+12/16/24 1:43:30p You killed a Rat.
+12/16/24 1:43:31p You killed a Rat.
+12/16/24 1:43:36p You killed a Rat.
+12/16/24 1:43:39p You killed a Rat.
+12/16/24 1:43:41p You have a single coin.
+12/16/24 1:43:44p You killed a Rat.
+12/16/24 1:43:51p You killed a Rat.
+12/16/24 1:44:01p You killed a Vermine.
+12/16/24 1:44:22p You killed a Rat.
+12/16/24 1:44:24p You killed a Rat.
+12/16/24 1:44:30p You killed a Rat.
+12/16/24 1:44:33p You killed a Vermine.
+12/16/24 1:44:35p You killed a Rat.
+12/16/24 1:44:41p You killed a Rat.
+12/16/24 1:44:57p •Your body feels stronger.
+12/16/24 1:44:57p You killed a Vermine.
+12/16/24 1:45:01p You have a single coin.
+12/16/24 1:45:03p You killed a Scavenger Bird.
+12/16/24 1:45:13p •You sense healing energy from Mimo.
+12/16/24 1:45:26p You killed a Rat.
+12/16/24 1:45:26p You killed a Rat.
+12/16/24 1:45:32p You killed a Vermine.
+12/16/24 1:45:33p You killed a Rat.
+12/16/24 1:45:37p You killed a Rat.
+12/16/24 1:45:43p You killed a Rat.
+12/16/24 1:45:44p You killed a Rat.
+12/16/24 1:45:59p You killed a Rat.
+12/16/24 1:46:01p You killed a Vermine.
+12/16/24 1:46:11p You killed a Rat.
+12/16/24 1:46:13p You killed a Rat.
+12/16/24 1:46:15p You killed a Rat.
+12/16/24 1:46:16p You killed a Rat.
+12/16/24 1:46:21p You have a single coin.
+12/16/24 1:46:24p •You sense healing energy from Mimo.
+12/16/24 1:46:27p •Your body feels stronger.
+12/16/24 1:46:41p You killed a Rat.
+12/16/24 1:46:43p You killed a Rat.
+12/16/24 1:46:43p You killed a Rat.
+12/16/24 1:46:44p You killed a Rat.
+12/16/24 1:46:45p You killed a Rat.
+12/16/24 1:46:48p You killed a Rat.
+12/16/24 1:46:51p You killed a Rat.
+12/16/24 1:46:53p You killed a Rat.
+12/16/24 1:47:06p You killed a Rat.
+12/16/24 1:47:12p You killed a Rat.
+12/16/24 1:47:17p You killed a Rat.
+12/16/24 1:47:22p You killed a Vermine.
+12/16/24 1:47:26p You killed a Vermine.
+12/16/24 1:47:28p You killed a Vermine.
+12/16/24 1:47:41p You have a single coin.
+12/16/24 1:47:57p You killed a Rat.
+12/16/24 1:47:57p •Your body feels stronger.
+12/16/24 1:47:59p You killed a Rat.
+12/16/24 1:48:01p You killed a Rat.
+12/16/24 1:48:05p You killed a Rat.
+12/16/24 1:48:11p You killed a Rat.
+12/16/24 1:48:13p You killed a Rat.
+12/16/24 1:48:45p You killed a Rat.
+12/16/24 1:48:48p You killed a Rat.
+12/16/24 1:48:51p You killed a Vermine.
+12/16/24 1:48:55p You killed a Vermine.
+12/16/24 1:48:57p You killed a Vermine.
+12/16/24 1:49:02p You have a single coin.
+12/16/24 1:49:04p •You sense healing energy from Mimo.
+12/16/24 1:49:11p You killed a Vermine.
+12/16/24 1:49:15p You killed a Vermine.
+12/16/24 1:49:18p You killed a Vermine.
+12/16/24 1:49:28p •Your body feels stronger.
+12/16/24 1:49:33p You killed a Rat.
+12/16/24 1:50:06p You killed a Rat.
+12/16/24 1:50:22p You have a single coin.
+12/16/24 1:50:32p You killed a Vermine.
+12/16/24 1:50:35p You killed a Vermine.
+12/16/24 1:50:38p You killed a Vermine.
+12/16/24 1:50:39p You killed a Rat.
+12/16/24 1:50:50p You killed a Vermine.
+12/16/24 1:50:52p You killed a Rat.
+12/16/24 1:50:55p You killed a Rat.
+12/16/24 1:50:57p You killed a Rat.
+12/16/24 1:50:59p •Your body feels stronger.
+12/16/24 1:51:04p You killed a Rat.
+12/16/24 1:51:09p You killed a Vermine.
+12/16/24 1:51:09p You killed a Rat.
+12/16/24 1:51:11p You killed a Rat.
+12/16/24 1:51:14p You killed a Rat.
+12/16/24 1:51:18p You killed a Rat.
+12/16/24 1:51:34p You killed a Vermine.
+12/16/24 1:51:36p You killed a Vermine.
+12/16/24 1:51:42p You have a single coin.
+12/16/24 1:51:46p You killed a Vermine.
+12/16/24 1:51:55p You killed a Vermine.
+12/16/24 1:51:57p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 1:51:57p Ajahn has fallen to a Vermine.
+12/16/24 1:52:29p •Your body feels stronger.
+12/16/24 1:52:32p •You sense healing energy from Mimo.
+12/16/24 1:52:40p You killed a Vermine.
+12/16/24 1:52:47p You killed a Vermine.
+12/16/24 1:52:51p You killed a Vermine.
+12/16/24 1:52:57p You killed a Vermine.
+12/16/24 1:52:58p You killed a Vermine.
+12/16/24 1:53:02p You have a single coin.
+12/16/24 1:53:37p • You feel Valadorei seeking you.
+12/16/24 1:53:39p You killed a Rat.
+12/16/24 1:53:42p You killed a Rat.
+12/16/24 1:53:43p You killed a Rat.
+12/16/24 1:53:47p You killed a Rat.
+12/16/24 1:53:51p You killed a Rat.
+12/16/24 1:54:00p •Your body feels stronger.
+12/16/24 1:54:01p Bashak is no longer Clanning.
+12/16/24 1:54:01p You killed a Rat.
+12/16/24 1:54:04p You killed a Vermine.
+12/16/24 1:54:16p You killed a Rat.
+12/16/24 1:54:22p You have a single coin.
+12/16/24 1:54:30p •You sense healing energy from Aurelie.
+12/16/24 1:54:32p (Ajahn waves)
+12/16/24 1:54:32p Valadorei chirps in Sylvan.
+12/16/24 1:54:39p You killed a Rat.
+12/16/24 1:54:46p You killed a Rat.
+12/16/24 1:54:52p You killed a Vermine.
+12/16/24 1:54:54p You killed a Vermine.
+12/16/24 1:54:58p You killed a Rat.
+12/16/24 1:54:59p You dispatched a Rat.
+12/16/24 1:55:03p You dispatched a Rat.
+12/16/24 1:55:05p You killed a Rat.
+12/16/24 1:55:09p You killed a Rat.
+12/16/24 1:55:12p You killed a Rat.
+12/16/24 1:55:18p You killed a Rat.
+12/16/24 1:55:26p You killed a Rat.
+12/16/24 1:55:30p •Your body feels stronger.
+12/16/24 1:55:30p You killed a Rat.
+12/16/24 1:55:32p Hieskor says, "Greetings, Ajahn."
+12/16/24 1:55:33p You killed a Rat.
+12/16/24 1:55:39p You killed a Rat.
+12/16/24 1:55:39p You killed a Rat.
+12/16/24 1:55:42p Aurelie is no longer Clanning.
+12/16/24 1:55:43p You have a single coin.
+12/16/24 1:55:49p Valadorei is no longer Clanning.
+12/16/24 1:56:00p You killed a Vermine.
+12/16/24 1:56:04p You killed a Vermine.
+12/16/24 1:56:05p You killed a Vermine.
+12/16/24 1:56:14p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 1:56:14p Ajahn has fallen to a Vermine.
+12/16/24 1:56:40p •You sense healing energy from Mimo.
+12/16/24 1:56:44p You killed a Rat.
+12/16/24 1:56:46p You killed a Vermine.
+12/16/24 1:56:53p You killed a Rat.
+12/16/24 1:56:58p You killed a Large Vermine.
+12/16/24 1:56:58p * Mimo recovers the Large Vermine fur, worth 1c. Your share is 1c.
+12/16/24 1:57:01p •Your body feels stronger.
+12/16/24 1:57:02p You killed a Vermine.
+12/16/24 1:57:03p You have 2 coins.
+12/16/24 1:57:13p You killed a Vermine.
+12/16/24 1:57:16p You killed a Vermine.
+12/16/24 1:57:16p You killed a Vermine.
+12/16/24 1:57:18p Amethyste is no longer Clanning.
+12/16/24 1:57:23p You killed a Vermine.
+12/16/24 1:57:28p Hashak is no longer Clanning.
+12/16/24 1:57:32p •You sense healing energy from Mimo.
+12/16/24 1:57:38p You killed a Vermine.
+12/16/24 1:57:39p You killed a Vermine.
+12/16/24 1:57:42p EBow is now Clanning.
+12/16/24 1:57:47p You killed a Vermine.
+12/16/24 1:57:54p You killed a Vermine.
+12/16/24 1:57:57p You killed a Vermine.
+12/16/24 1:58:00p You killed a Vermine.
+12/16/24 1:58:02p You killed a Vermine.
+12/16/24 1:58:10p You killed a Vermine.
+12/16/24 1:58:15p You killed a Rat.
+12/16/24 1:58:16p You killed a Vermine.
+12/16/24 1:58:22p You killed a Vermine.
+12/16/24 1:58:23p You have 2 coins.
+12/16/24 1:58:26p You killed a Rat.
+12/16/24 1:58:30p •You sense healing energy from Mimo.
+12/16/24 1:58:31p •Your body feels stronger.
+12/16/24 1:58:46p You killed a Vermine.
+12/16/24 1:58:48p You killed a Vermine.
+12/16/24 1:58:54p You killed a Vermine.
+12/16/24 1:59:00p Hashak is now Clanning.
+12/16/24 1:59:02p You killed a Rat.
+12/16/24 1:59:18p •You sense healing energy from Mimo.
+12/16/24 1:59:21p You killed a Vermine.
+12/16/24 1:59:22p You killed a Vermine.
+12/16/24 1:59:27p You killed a Vermine.
+12/16/24 1:59:27p You killed a Vermine.
+12/16/24 1:59:29p You killed a Vermine.
+12/16/24 1:59:31p You killed a Vermine.
+12/16/24 1:59:37p You killed a Vermine.
+12/16/24 1:59:39p You killed a Rat.
+12/16/24 1:59:41p You killed a Rat.
+12/16/24 1:59:43p You have 2 coins.
+12/16/24 1:59:45p You killed a Rat.
+12/16/24 1:59:51p You killed a Rat.
+12/16/24 1:59:56p You killed a Rat.
+12/16/24 1:59:58p You killed a Rat.
+12/16/24 2:00:01p •Your body feels stronger.
+12/16/24 2:00:07p •You sense healing energy from Mimo.
+12/16/24 2:01:03p You have 2 coins.
+12/16/24 2:01:32p •Your body feels stronger.
+12/16/24 2:01:38p •You sense healing energy from Mimo.
+12/16/24 2:01:38p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 2:01:39p Ajahn has fallen to a Giant Vermine.
+12/16/24 2:01:41p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 2:01:52p You vanquished a Giant Vermine.
+12/16/24 2:01:53p You killed a Rat.
+12/16/24 2:01:59p You dispatched a Rat.
+12/16/24 2:02:07p You killed a Rat.
+12/16/24 2:02:17p You killed a Vermine.
+12/16/24 2:02:24p You have 2 coins.
+12/16/24 2:02:24p You killed a Large Vermine.
+12/16/24 2:02:24p * Mimo recovers the Large Vermine fur, worth 1c. Your share is 1c.
+12/16/24 2:02:34p •You sense healing energy from Mimo.
+12/16/24 2:02:38p You killed a Vermine.
+12/16/24 2:02:56p You killed a Rat.
+12/16/24 2:02:59p You dispatched a Rat.
+12/16/24 2:03:02p •Your body feels stronger.
+12/16/24 2:03:03p You killed a Vermine.
+12/16/24 2:03:05p You killed a Vermine.
+12/16/24 2:03:06p You killed a Rat.
+12/16/24 2:03:08p You killed a Rat.
+12/16/24 2:03:18p You killed a Vermine.
+12/16/24 2:03:37p You killed a Rat.
+12/16/24 2:03:39p You killed a Rat.
+12/16/24 2:03:44p You have 3 coins.
+12/16/24 2:03:44p You killed a Rat.
+12/16/24 2:03:45p You killed a Rat.
+12/16/24 2:03:53p You killed a Rat.
+12/16/24 2:04:15p You killed a Rat.
+12/16/24 2:04:21p You killed a Rat.
+12/16/24 2:04:29p You killed a Vermine.
+12/16/24 2:04:30p You killed a Vermine.
+12/16/24 2:04:33p •Your body feels stronger.
+12/16/24 2:04:36p You dispatched a Rat.
+12/16/24 2:04:36p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 2:04:36p Ajahn has fallen to a Rat.
+12/16/24 2:04:52p A Rat rips at your toes.
+12/16/24 2:04:54p A Rat rips at your wounds.
+12/16/24 2:04:59p A Rat feasts upon your fingertips.
+12/16/24 2:05:03p A Rat bites your gaping mouth.
+12/16/24 2:05:04p •You sense healing energy from Mimo.
+12/16/24 2:05:04p You have 3 coins.
+12/16/24 2:05:06p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 2:05:17p You killed a Rat.
+12/16/24 2:05:17p You killed a Rat.
+12/16/24 2:05:18p You dispatched a Rat.
+12/16/24 2:05:20p Annabelle is now Clanning.
+12/16/24 2:05:23p You killed a Rat.
+12/16/24 2:05:24p You killed a Rat.
+12/16/24 2:05:29p You killed a Rat.
+12/16/24 2:05:31p Agratis Lulu is now Clanning.
+12/16/24 2:05:39p You killed a Vermine.
+12/16/24 2:05:47p You killed a Rat.
+12/16/24 2:05:55p You killed a Vermine.
+12/16/24 2:05:57p You killed a Rat.
+12/16/24 2:06:03p •Your body feels stronger.
+12/16/24 2:06:18p You killed a Rat.
+12/16/24 2:06:24p You have 3 coins.
+12/16/24 2:06:31p You killed a Vermine.
+12/16/24 2:06:32p You killed a Vermine.
+12/16/24 2:06:35p You killed a Vermine.
+12/16/24 2:06:53p You dispatched a Rat.
+12/16/24 2:06:54p You dispatched a Rat.
+12/16/24 2:06:55p Omega has fallen to a Pan Guardian Shadow.
+12/16/24 2:06:58p You killed a Rat.
+12/16/24 2:06:59p You killed a Rat.
+12/16/24 2:07:09p You killed a Rat.
+12/16/24 2:07:11p Omega is no longer fallen.
+12/16/24 2:07:18p You dispatched a Rat.
+12/16/24 2:07:21p Ghed'rakh asks, "Nothing beats the thrill of the Hunt, don’t you agree?"
+12/16/24 2:07:22p Omega has fallen to a Pan Guardian Shadow.
+12/16/24 2:07:27p You killed a Rat.
+12/16/24 2:07:29p You killed a Vermine.
+12/16/24 2:07:31p Omega is no longer fallen.
+12/16/24 2:07:31p You dispatched a Rat.
+12/16/24 2:07:33p You killed a Rat.
+12/16/24 2:07:34p •Your body feels stronger.
+12/16/24 2:07:37p You killed a Vermine.
+12/16/24 2:07:42p You killed a Vermine.
+12/16/24 2:07:44p You have 3 coins.
+12/16/24 2:08:02p You killed a Rat.
+12/16/24 2:08:04p You killed a Rat.
+12/16/24 2:08:08p You killed a Rat.
+12/16/24 2:08:10p You dispatched a Rat.
+12/16/24 2:08:13p You killed a Rat.
+12/16/24 2:08:15p You killed a Rat.
+12/16/24 2:08:16p Omega has fallen to a Pan Guardian Shadow.
+12/16/24 2:08:26p You killed a Rat.
+12/16/24 2:08:33p You killed a Rat.
+12/16/24 2:08:34p You killed a Rat.
+12/16/24 2:08:37p You killed a Rat.
+12/16/24 2:08:38p Agratis Lulu is no longer Clanning.
+12/16/24 2:08:38p You killed a Rat.
+12/16/24 2:08:39p You killed a Rat.
+12/16/24 2:08:44p You killed a Rat.
+12/16/24 2:08:49p You killed a Rat.
+12/16/24 2:09:03p You killed a Rat.
+12/16/24 2:09:04p •Your body feels stronger.
+12/16/24 2:09:05p You have 3 coins.
+12/16/24 2:09:05p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 2:09:05p Ajahn has fallen to lightning.
+12/16/24 2:09:29p •You sense healing energy from Mimo.
+12/16/24 2:09:32p A Rat feasts upon your gaping mouth.
+12/16/24 2:09:35p MrFancyPants is now Clanning.
+12/16/24 2:09:39p Rose is now Clanning.
+12/16/24 2:09:44p You dispatched a Rat.
+12/16/24 2:09:45p You killed a Rat.
+12/16/24 2:09:55p You killed a Vermine.
+12/16/24 2:09:59p You killed a Rat.
+12/16/24 2:10:00p You killed a Rat.
+12/16/24 2:10:02p You dispatched a Rat.
+12/16/24 2:10:04p You killed a Rat.
+12/16/24 2:10:05p You dispatched a Rat.
+12/16/24 2:10:07p You killed a Rat.
+12/16/24 2:10:10p You killed a Rat.
+12/16/24 2:10:12p You killed a Rat.
+12/16/24 2:10:25p You have 3 coins.
+12/16/24 2:10:28p You dispatched a Rat.
+12/16/24 2:10:28p You killed a Rat.
+12/16/24 2:10:30p You dispatched a Rat.
+12/16/24 2:10:31p You killed a Rat.
+12/16/24 2:10:34p You killed a Rat.
+12/16/24 2:10:35p •Your body feels stronger.
+12/16/24 2:10:39p You killed a Rat.
+12/16/24 2:10:42p You dispatched a Rat.
+12/16/24 2:10:47p You killed a Rat.
+12/16/24 2:10:50p Rose is no longer Clanning.
+12/16/24 2:11:05p Sauver asks, "on the gates snell?"
+12/16/24 2:11:12p Hariotte is no longer Clanning.
+12/16/24 2:11:16p Omega is still fallen to a Pan Guardian Shadow.
+12/16/24 2:11:22p You killed a Vermine.
+12/16/24 2:11:24p You killed a Vermine.
+12/16/24 2:11:29p You killed a Rat.
+12/16/24 2:11:31p You killed a Vermine.
+12/16/24 2:11:39p You killed a Rat.
+12/16/24 2:11:45p You have 3 coins.
+12/16/24 2:11:46p You killed a Vermine.
+12/16/24 2:11:47p You killed a Rat.
+12/16/24 2:11:50p Hashak is no longer Clanning.
+12/16/24 2:11:50p MrFancyPants is no longer Clanning.
+12/16/24 2:12:05p •Your body feels stronger.
+12/16/24 2:12:19p •You sense healing energy from Mimo.
+12/16/24 2:12:24p You killed a Rat.
+12/16/24 2:12:27p You killed a Rat.
+12/16/24 2:12:37p You killed a Rat.
+12/16/24 2:12:38p You killed a Rat.
+12/16/24 2:12:41p You dispatched a Rat.
+12/16/24 2:12:44p You dispatched a Rat.
+12/16/24 2:12:52p You killed a Rat.
+12/16/24 2:12:58p You killed a Rat.
+12/16/24 2:12:59p You killed a Rat.
+12/16/24 2:13:00p You killed a Rat.
+12/16/24 2:13:02p You killed a Rat.
+12/16/24 2:13:03p You killed a Rat.
+12/16/24 2:13:05p You have 3 coins.
+12/16/24 2:13:06p Annabelle is no longer Clanning.
+12/16/24 2:13:11p You dispatched a Rat.
+12/16/24 2:13:31p You dispatched a Rat.
+12/16/24 2:13:32p You killed a Rat.
+12/16/24 2:13:35p •Your body feels stronger.
+12/16/24 2:13:37p You killed a Vermine.
+12/16/24 2:13:42p You killed a Vermine.
+12/16/24 2:13:50p You killed a Rat.
+12/16/24 2:13:53p You killed a Vermine.
+12/16/24 2:13:59p You killed a Vermine.
+12/16/24 2:14:03p You killed a Rat.
+12/16/24 2:14:04p You killed a Rat.
+12/16/24 2:14:07p You killed a Rat.
+12/16/24 2:14:15p Omega has been fallen for some time because of a Pan Guardian Shadow.
+12/16/24 2:14:25p You have 3 coins.
+12/16/24 2:14:40p •You sense healing energy from Mimo.
+12/16/24 2:15:06p •Your body feels stronger.
+12/16/24 2:15:46p You have 3 coins.
+12/16/24 2:16:18p You killed a Rat.
+12/16/24 2:16:24p You dispatched a Rat.
+12/16/24 2:16:26p You dispatched a Rat.
+12/16/24 2:16:27p You dispatched a Rat.
+12/16/24 2:16:29p You killed a Rat.
+12/16/24 2:16:30p You dispatched a Rat.
+12/16/24 2:16:32p You killed a Rat.
+12/16/24 2:16:36p •Your body feels stronger.
+12/16/24 2:16:57p You dispatched a Rat.
+12/16/24 2:17:06p You have 3 coins.
+12/16/24 2:17:15p Omega has been fallen for some time because of a Pan Guardian Shadow.
+12/16/24 2:17:26p Miser is no longer Clanning.
+12/16/24 2:17:41p You killed a Rat.
+12/16/24 2:17:49p You killed a Rat.
+12/16/24 2:18:01p You killed a Myrm Farmer.
+12/16/24 2:18:07p •Your body feels stronger.
+12/16/24 2:18:14p You killed a Rat.
+12/16/24 2:18:15p You killed a Rat.
+12/16/24 2:18:16p You dispatched a Rat.
+12/16/24 2:18:18p You killed a Rat.
+12/16/24 2:18:18p You dispatched a Rat.
+12/16/24 2:18:21p You killed a Rat.
+12/16/24 2:18:26p You have 3 coins.
+12/16/24 2:18:35p You killed a Rat.
+12/16/24 2:18:35p You killed a Rat.
+12/16/24 2:18:42p You killed a Rat.
+12/16/24 2:18:48p You killed a Rat.
+12/16/24 2:18:52p You dispatched a Rat.
+12/16/24 2:18:55p You dispatched a Rat.
+12/16/24 2:18:56p You killed a Rat.
+12/16/24 2:19:02p You dispatched a Rat.
+12/16/24 2:19:04p You dispatched a Rat.
+12/16/24 2:19:07p You dispatched a Rat.
+12/16/24 2:19:12p You dispatched a Rat.
+12/16/24 2:19:19p You dispatched a Rat.
+12/16/24 2:19:34p You killed a Vermine.
+12/16/24 2:19:35p You dispatched a Rat.
+12/16/24 2:19:36p You dispatched a Rat.
+12/16/24 2:19:37p •Your body feels stronger.
+12/16/24 2:19:39p You killed a Vermine.
+12/16/24 2:19:41p You dispatched a Rat.
+12/16/24 2:19:43p You killed a Vermine.
+12/16/24 2:19:45p You killed a Rat.
+12/16/24 2:19:46p You have 3 coins.
+12/16/24 2:19:49p You killed a Rat.
+12/16/24 2:19:53p You killed a Vermine.
+12/16/24 2:19:57p You killed a Rat.
+12/16/24 2:20:09p You killed a Rat.
+12/16/24 2:20:13p You killed a Vermine.
+12/16/24 2:20:14p You killed a Vermine.
+12/16/24 2:20:15p You dispatched a Rat.
+12/16/24 2:20:16p Omega is becoming part of the scenery, since falling to a Pan Guardian Shadow.
+12/16/24 2:20:18p You killed a Rat.
+12/16/24 2:20:23p You killed a Vermine.
+12/16/24 2:20:26p You killed a Rat.
+12/16/24 2:20:28p You dispatched a Rat.
+12/16/24 2:20:32p You dispatched a Rat.
+12/16/24 2:20:56p You killed a Rat.
+12/16/24 2:21:06p You have 3 coins.
+12/16/24 2:21:06p You dispatched a Rat.
+12/16/24 2:21:07p •Your body feels stronger.
+12/16/24 2:21:26p Crius yells, "It’s 8 o’clock, and all’s well."
+12/16/24 2:21:30p You killed a Rat.
+12/16/24 2:21:31p Crius yells, "It looks pretty quiet in Puddleby."
+12/16/24 2:21:37p Master Bodrus says, "Hail, Ajahn. You are one of my better pupils."
+12/16/24 2:21:37p * Master : 50-99.
+12/16/24 2:21:38p Master Bodrus says, "I can teach you how to improve your body."
+12/16/24 2:21:38p Master Bodrus says, "You will learn as you practice."
+12/16/24 2:22:27p You have 3 coins.
+12/16/24 2:22:38p •Your body feels stronger.
+12/16/24 2:23:15p Omega is becoming part of the scenery, since falling to a Pan Guardian Shadow.
+12/16/24 2:23:47p You have 3 coins.
+12/16/24 2:23:54p You killed a Rat.
+12/16/24 2:23:55p You killed a Vermine.
+12/16/24 2:23:56p You killed a Rat.
+12/16/24 2:23:56p You killed a Rat.
+12/16/24 2:23:57p You dispatched a Rat.
+12/16/24 2:24:01p You dispatched a Rat.
+12/16/24 2:24:02p You killed a Rat.
+12/16/24 2:24:08p •Your body feels stronger.
+12/16/24 2:24:09p You killed a Vermine.
+12/16/24 2:24:10p You killed a Rat.
+12/16/24 2:24:14p You dispatched a Rat.
+12/16/24 2:24:17p •You sense healing energy from Mimo.
+12/16/24 2:24:19p You killed a Rat.
+12/16/24 2:24:20p You dispatched a Rat.
+12/16/24 2:24:24p You killed a Vermine.
+12/16/24 2:24:31p You killed a Vermine.
+12/16/24 2:24:36p You killed a Vermine.
+12/16/24 2:24:44p You killed a Rat.
+12/16/24 2:24:57p You killed a Rat.
+12/16/24 2:25:02p You dispatched a Rat.
+12/16/24 2:25:03p You dispatched a Rat.
+12/16/24 2:25:06p You killed a Rat.
+12/16/24 2:25:07p You have 3 coins.
+12/16/24 2:25:13p You dispatched a Rat.
+12/16/24 2:25:15p You killed a Rat.
+12/16/24 2:25:19p You dispatched a Rat.
+12/16/24 2:25:39p •Your body feels stronger.
+12/16/24 2:25:39p You killed a Vermine.
+12/16/24 2:25:40p You killed a Vermine.
+12/16/24 2:25:43p You killed a Vermine.
+12/16/24 2:25:46p You killed a Vermine.
+12/16/24 2:25:55p You killed a Vermine.
+12/16/24 2:25:58p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 2:25:58p Ajahn has fallen to a Large Vermine.
+12/16/24 2:26:14p •You sense healing energy from Mimo.
+12/16/24 2:26:15p Omega is becoming part of the scenery, since falling to a Pan Guardian Shadow.
+12/16/24 2:26:17p A Rat chews on your fallen body.
+12/16/24 2:26:19p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 2:26:22p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 2:26:23p Ajahn has fallen to a Vermine.
+12/16/24 2:26:24p Zokh Larverkh asks, "Nothing beats the thrill of the Hunt, don’t you agree?"
+12/16/24 2:26:27p You have 3 coins.
+12/16/24 2:26:34p You dispatched a Rat.
+12/16/24 2:26:36p You killed a Large Vermine.
+12/16/24 2:26:45p You killed a Vermine.
+12/16/24 2:26:48p You dispatched a Rat.
+12/16/24 2:26:51p You killed a Vermine.
+12/16/24 2:26:54p You killed a Vermine.
+12/16/24 2:27:09p •Your body feels stronger.
+12/16/24 2:27:12p You killed a Vermine.
+12/16/24 2:27:14p You killed a Vermine.
+12/16/24 2:27:20p You killed a Vermine.
+12/16/24 2:27:26p •You sense healing energy from Mimo.
+12/16/24 2:27:30p You killed a Vermine.
+12/16/24 2:27:31p You killed a Vermine.
+12/16/24 2:27:34p You killed a Vermine.
+12/16/24 2:27:37p You killed a Rat.
+12/16/24 2:27:42p You killed a Vermine.
+12/16/24 2:27:47p You killed a Rat.
+12/16/24 2:27:47p You have 3 coins.
+12/16/24 2:27:48p You killed a Rat.
+12/16/24 2:27:53p You killed a Vermine.
+12/16/24 2:27:59p You killed a Vermine.
+12/16/24 2:28:00p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 2:28:00p Ajahn has fallen to a Vermine.
+12/16/24 2:28:09p •You sense healing energy from Mimo.
+12/16/24 2:28:19p You killed a Vermine.
+12/16/24 2:28:26p You killed a Vermine.
+12/16/24 2:28:28p You killed a Vermine.
+12/16/24 2:28:31p You killed a Vermine.
+12/16/24 2:28:37p You killed a Vermine.
+12/16/24 2:28:39p •Your body feels stronger.
+12/16/24 2:28:44p You killed a Vermine.
+12/16/24 2:29:00p •You sense healing energy from Mimo.
+12/16/24 2:29:06p You killed a Vermine.
+12/16/24 2:29:08p You have 3 coins.
+12/16/24 2:29:16p Omega's body has been all but forgotten, having fallen to a Pan Guardian Shadow.
+12/16/24 2:29:51p •You sense healing energy from Mimo.
+12/16/24 2:29:59p You killed a Large Vermine.
+12/16/24 2:30:06p You killed a Large Vermine.
+12/16/24 2:30:10p •Your body feels stronger.
+12/16/24 2:30:11p You killed a Large Vermine.
+12/16/24 2:30:28p You have 3 coins.
+12/16/24 2:30:31p You killed a Large Vermine.
+12/16/24 2:30:31p * Mimo recovers the Large Vermine fur, worth 1c. Your share is 1c.
+12/16/24 2:30:37p You killed a Vermine.
+12/16/24 2:30:43p You killed a Large Vermine.
+12/16/24 2:30:50p You dispatched a Rat.
+12/16/24 2:30:52p You killed a Vermine.
+12/16/24 2:31:29p You killed a Vermine.
+12/16/24 2:31:35p •You sense healing energy from Mimo.
+12/16/24 2:31:40p •Your body feels stronger.
+12/16/24 2:31:48p You have 4 coins.
+12/16/24 2:31:51p You killed a Large Vermine.
+12/16/24 2:31:51p * Mimo recovers the Large Vermine fur, worth 1c. Your share is 1c.
+12/16/24 2:32:06p You killed a Large Vermine.
+12/16/24 2:32:06p * Mimo recovers the Large Vermine fur, worth 1c. Your share is 1c.
+12/16/24 2:32:14p You killed a Large Vermine.
+12/16/24 2:32:15p Omega's body has been all but forgotten, having fallen to a Pan Guardian Shadow.
+12/16/24 2:32:56p •You gain experience.
+12/16/24 2:33:08p You have 6 coins.
+12/16/24 2:33:11p •Your body feels stronger.
+12/16/24 2:33:31p You killed a Giant Slug.
+12/16/24 2:34:13p •You sense healing energy from Mimo.
+12/16/24 2:34:21p You killed a Large Vermine.
+12/16/24 2:34:21p You killed a Rat.
+12/16/24 2:34:27p You killed a Large Vermine.
+12/16/24 2:34:28p You have 6 coins.
+12/16/24 2:34:41p •Your body feels stronger.
+12/16/24 2:34:42p You killed a Vermine.
+12/16/24 2:34:47p You killed a Vermine.
+12/16/24 2:34:55p Erham Pound says, "Greetings, Ajahn."
+12/16/24 2:34:55p Erham Pound says, "It's looking pretty good in these towers now, but they still have a nasty vermine infestation."
+12/16/24 2:34:56p Erham Pound exclaims, "Be careful if you go in there!"
+12/16/24 2:35:02p You killed a Large Vermine.
+12/16/24 2:35:07p You dispatched a Rat.
+12/16/24 2:35:15p Omega's body has been all but forgotten, having fallen to a Pan Guardian Shadow.
+12/16/24 2:35:16p You killed a Vermine.
+12/16/24 2:35:23p You vanquished a Large Vermine.
+12/16/24 2:35:26p Cecil is now Clanning.
+12/16/24 2:35:29p •You sense healing energy from Mimo.
+12/16/24 2:35:49p You have 6 coins.
+12/16/24 2:36:11p •Your body feels stronger.
+12/16/24 2:36:19p You killed a Rat.
+12/16/24 2:36:21p You dispatched a Rat.
+12/16/24 2:36:26p You killed a Rat.
+12/16/24 2:36:30p You vanquished a Large Vermine.
+12/16/24 2:36:34p You killed a Vermine.
+12/16/24 2:36:35p You killed a Vermine.
+12/16/24 2:36:41p You killed a Rat.
+12/16/24 2:36:41p You killed a Rat.
+12/16/24 2:36:43p Reisa is now Clanning.
+12/16/24 2:36:44p You dispatched a Rat.
+12/16/24 2:36:50p Garfield is now Clanning.
+12/16/24 2:36:51p •You sense healing energy from Mimo.
+12/16/24 2:37:09p You have 6 coins.
+12/16/24 2:37:13p •You sense healing energy from Mimo.
+12/16/24 2:37:24p You killed a Large Vermine.
+12/16/24 2:37:34p You killed a Vermine.
+12/16/24 2:37:35p You killed a Vermine.
+12/16/24 2:37:36p You killed a Vermine.
+12/16/24 2:37:40p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 2:37:40p Ajahn has fallen to a Vermine.
+12/16/24 2:37:42p •Your body feels stronger.
+12/16/24 2:37:55p Mimo starts dragging you.
+12/16/24 2:38:05p •You sense healing energy from Mimo.
+12/16/24 2:38:14p Bastion is now Clanning.
+12/16/24 2:38:15p You killed a Vermine.
+12/16/24 2:38:16p Omega feels his spirit drifting away in a bamboo forest on Gho-Wei Island, his body fallen to a Pan Guardian Shadow.
+12/16/24 2:38:16p You killed a Vermine.
+12/16/24 2:38:18p Ceara is now Clanning.
+12/16/24 2:38:19p You killed a Vermine.
+12/16/24 2:38:27p Nuckin Futz is now Clanning.
+12/16/24 2:38:28p You killed a Vermine.
+12/16/24 2:38:29p You have 6 coins.
+12/16/24 2:38:30p You killed a Vermine.
+12/16/24 2:38:35p Deathless is now Clanning.
+12/16/24 2:38:38p You killed a Vermine.
+12/16/24 2:38:40p You killed a Vermine.
+12/16/24 2:38:41p You killed a Vermine.
+12/16/24 2:38:50p You killed a Vermine.
+12/16/24 2:38:54p You killed a Vermine.
+12/16/24 2:39:01p You killed a Vermine.
+12/16/24 2:39:04p •You sense healing energy from Mimo.
+12/16/24 2:39:12p •Your body feels stronger.
+12/16/24 2:39:49p You have 6 coins.
+12/16/24 2:40:43p •Your body feels stronger.
+12/16/24 2:40:46p You killed a Rat.
+12/16/24 2:40:47p You dispatched a Rat.
+12/16/24 2:40:48p You killed a Rat.
+12/16/24 2:40:50p You dispatched a Rat.
+12/16/24 2:40:54p You dispatched a Rat.
+12/16/24 2:41:08p You dispatched a Rat.
+12/16/24 2:41:09p You dispatched a Rat.
+12/16/24 2:41:09p You have 6 coins.
+12/16/24 2:41:14p You killed a Vermine.
+12/16/24 2:41:15p Omega feels his spirit drifting away in a bamboo forest on Gho-Wei Island, his body fallen to a Pan Guardian Shadow.
+12/16/24 2:41:15p You killed a Rat.
+12/16/24 2:41:16p You dispatched a Rat.
+12/16/24 2:41:18p You killed a Vermine.
+12/16/24 2:41:24p You killed a Vermine.
+12/16/24 2:41:40p You dispatched a Rat.
+12/16/24 2:41:44p You killed a Rat.
+12/16/24 2:41:48p You killed a Vermine.
+12/16/24 2:42:08p •You sense healing energy from Mimo.
+12/16/24 2:42:13p •Your body feels stronger.
+12/16/24 2:42:30p You have 6 coins.
+12/16/24 2:42:36p You vanquished a Giant Vermine.
+12/16/24 2:42:46p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 2:42:46p Ajahn has fallen to a Giant Vermine.
+12/16/24 2:42:51p •You sense healing energy from Mimo.
+12/16/24 2:43:00p You vanquished a Giant Vermine.
+12/16/24 2:43:12p You dispatched a Rat.
+12/16/24 2:43:18p You dispatched a Rat.
+12/16/24 2:43:18p You dispatched a Rat.
+12/16/24 2:43:20p You dispatched a Rat.
+12/16/24 2:43:25p You killed a Rat.
+12/16/24 2:43:37p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 2:43:38p Ajahn has fallen to a Giant Vermine.
+12/16/24 2:43:43p •Your body feels stronger.
+12/16/24 2:43:46p •You sense healing energy from Mimo.
+12/16/24 2:43:50p You have 6 coins.
+12/16/24 2:43:52p You dispatched a Rat.
+12/16/24 2:43:54p You killed a Rat.
+12/16/24 2:44:06p You vanquished a Giant Vermine.
+12/16/24 2:44:06p * Mimo recovers the Giant Vermine fur, worth 4c. Your share is 2c.
+12/16/24 2:44:15p Omega feels his spirit drifting away in a bamboo forest on Gho-Wei Island, his body fallen to a Pan Guardian Shadow.
+12/16/24 2:44:16p You killed a Vermine.
+12/16/24 2:44:17p You vanquished a Giant Vermine.
+12/16/24 2:44:17p * Mimo recovers the Giant Vermine fur, worth 2c. Your share is 1c.
+12/16/24 2:44:27p You dispatched a Rat.
+12/16/24 2:44:29p You dispatched a Rat.
+12/16/24 2:44:33p You dispatched a Rat.
+12/16/24 2:44:36p You dispatched a Rat.
+12/16/24 2:44:37p You dispatched a Rat.
+12/16/24 2:44:39p You dispatched a Rat.
+12/16/24 2:44:43p You killed a Rat.
+12/16/24 2:44:44p You killed a Rat.
+12/16/24 2:44:53p •You sense healing energy from Mimo.
+12/16/24 2:45:07p Omega is no longer fallen.
+12/16/24 2:45:10p You have 9 coins.
+12/16/24 2:45:14p •Your body feels stronger.
+12/16/24 2:45:28p You dispatched a Rat.
+12/16/24 2:46:30p You have 9 coins.
+12/16/24 2:46:44p •Your body feels stronger.
+12/16/24 2:46:55p You dispatched a Rat.
+12/16/24 2:46:56p You killed a Scavenger Bird.
+12/16/24 2:46:58p You dispatched a Rat.
+12/16/24 2:47:04p You dispatched a Rat.
+12/16/24 2:47:06p You dispatched a Rat.
+12/16/24 2:47:07p You dispatched a Rat.
+12/16/24 2:47:17p You killed a Vermine.
+12/16/24 2:47:18p You killed a Vermine.
+12/16/24 2:47:24p You dispatched a Rat.
+12/16/24 2:47:29p You killed a Rat.
+12/16/24 2:47:31p You dispatched a Rat.
+12/16/24 2:47:32p You dispatched a Rat.
+12/16/24 2:47:33p You dispatched a Rat.
+12/16/24 2:47:50p You have 9 coins.
+12/16/24 2:47:55p You dispatched a Rat.
+12/16/24 2:47:56p You dispatched a Rat.
+12/16/24 2:48:00p You dispatched a Rat.
+12/16/24 2:48:05p You dispatched a Rat.
+12/16/24 2:48:06p You dispatched a Rat.
+12/16/24 2:48:08p You dispatched a Rat.
+12/16/24 2:48:09p You dispatched a Rat.
+12/16/24 2:48:11p You dispatched a Rat.
+12/16/24 2:48:14p You killed a Rat.
+12/16/24 2:48:15p •Your body feels stronger.
+12/16/24 2:48:16p You dispatched a Rat.
+12/16/24 2:48:19p You killed a Rat.
+12/16/24 2:48:43p You killed a Vermine.
+12/16/24 2:48:44p You killed a Vermine.
+12/16/24 2:48:51p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+12/16/24 2:48:52p Ajahn has fallen to a Vermine.
+12/16/24 2:49:11p You have 9 coins.
+12/16/24 2:49:11p A Rat rips at your flesh.
+12/16/24 2:49:24p Curufin is now Clanning.
+12/16/24 2:49:25p A Rat plucks at your entrails.
+12/16/24 2:49:33p •You sense healing energy from Mimo.
+12/16/24 2:49:41p You killed a Vermine.
+12/16/24 2:49:45p •Your body feels stronger.
+12/16/24 2:49:47p You killed a Vermine.
+12/16/24 2:49:50p You killed a Vermine.
+12/16/24 2:49:55p You dispatched a Rat.
+12/16/24 2:50:06p You killed a Vermine.
+12/16/24 2:50:07p You killed a Vermine.
+12/16/24 2:50:14p You killed a Vermine.
+12/16/24 2:50:31p You have 9 coins.
+12/16/24 2:50:42p You dispatched a Rat.
+12/16/24 2:50:44p You killed a Vermine.
+12/16/24 2:50:44p You dispatched a Rat.
+12/16/24 2:50:46p You killed a Vermine.
+12/16/24 2:50:51p You killed a Vermine.
+12/16/24 2:50:52p Aldor is now Clanning.
+12/16/24 2:50:56p You killed a Rat.
+12/16/24 2:50:59p You killed a Vermine.
+12/16/24 2:51:04p You dispatched a Rat.
+12/16/24 2:51:06p You dispatched a Rat.
+12/16/24 2:51:09p You killed a Vermine.
+12/16/24 2:51:11p You killed a Scavenger Bird.
+12/16/24 2:51:16p •Your body feels stronger.
+12/16/24 2:51:32p You killed a Vermine.
+12/16/24 2:51:33p You dispatched a Rat.
+12/16/24 2:51:35p You dispatched a Rat.
+12/16/24 2:51:36p You dispatched a Rat.
+12/16/24 2:51:41p You dispatched a Rat.
+12/16/24 2:51:41p You killed a Rat.
+12/16/24 2:51:44p You dispatched a Rat.
+12/16/24 2:51:48p You dispatched a Rat.
+12/16/24 2:51:51p You have 9 coins.
+12/16/24 2:51:51p You dispatched a Rat.
+12/16/24 2:51:59p You killed a Vermine.
+12/16/24 2:52:06p You killed a Vermine.
+12/16/24 2:52:07p You killed a Rat.
+12/16/24 2:52:08p You dispatched a Rat.
+12/16/24 2:52:13p Salvador is now Clanning.
+12/16/24 2:52:13p You killed a Vermine.
+12/16/24 2:52:17p You killed a Vermine.
+12/16/24 2:52:22p You killed a Vermine.
+12/16/24 2:52:29p You dispatched a Rat.
+12/16/24 2:52:38p You dispatched a Rat.
+12/16/24 2:52:46p •Your body feels stronger.
+12/16/24 2:52:56p You killed a Rat.
+12/16/24 2:53:11p • /SLEEP when you wish to begin studying.
+12/16/24 2:53:11p You have 9 coins.
+12/16/24 2:53:25p Dracula is no longer Clanning.
+12/16/24 2:53:35p Bastion is no longer Clanning.
+12/16/24 2:53:37p •You sense healing energy from Mimo.
+12/16/24 2:53:50p Ceara is no longer Clanning.
+12/16/24 2:53:52p Mimo is done adventuring for a while and will be staying here.
+12/16/24 2:53:54p Mimo is no longer Clanning.
+12/16/24 2:53:57p Use \SLEEP again when you return.
+12/16/24 2:53:57p You are done adventuring for a while and will be staying here.
+12/16/24 2:53:58p You have been disconnected from Clan Lord.
+12/16/24 2:53:58p • You will benefit from staying here while you are off-line.
+12/16/24 2:53:59p *** We are no longer connected to the Clan Lord game server. ***

@@ -1,0 +1,53 @@
+
+7/30/25 6:49:42p * Your pair of pants named “dark grey” is in nearly perfect condition.
+7/30/25 6:49:42p Welcome to Clan Lord, Jesmaina!
+7/30/25 6:49:42p Type \HELP for a list of commands.
+7/30/25 6:49:42p • You gain experience from your recent studies.
+7/30/25 6:49:42p You have been studying for 3 days, 18 hours, 18 minutes.
+7/30/25 6:49:43p Friends online: none.
+7/30/25 6:49:45p It's 3:23am on Sombdi, day 76 of Spring, 642.
+7/30/25 6:49:47p • What’s New: https://deltatao.com/clanlord/news
+7/30/25 6:49:57p * Tip of the day: When you kill a creature with a fur, everybody in your party gets to try to skin it, in random order. (Use /OPTIONS to turn tips off.)
+7/30/25 6:49:58p *Auto Trade Zero ON!
+7/30/25 6:50:10p • Magnic offers you a piece of iron for free.
+7/30/25 6:50:10p To accept, \BUY 0 Magnic.
+7/30/25 6:50:11p * Accepted Item From: Magnic. 
+7/30/25 6:50:11p Magnic hands you a piece of iron.
+7/30/25 6:50:13p • Magnic offers you an ethercle for free.
+7/30/25 6:50:13p To accept, \BUY 0 Magnic.
+7/30/25 6:50:14p * Accepted Item From: Magnic. 
+7/30/25 6:50:14p Magnic hands you an ethercle.
+7/30/25 6:50:15p • Magnic offers you an ethercle for free.
+7/30/25 6:50:15p To accept, \BUY 0 Magnic.
+7/30/25 6:50:15p * Accepted Item From: Magnic. 
+7/30/25 6:50:16p Magnic hands you an ethercle.
+7/30/25 6:50:17p • Magnic offers you an ethercle for free.
+7/30/25 6:50:17p To accept, \BUY 0 Magnic.
+7/30/25 6:50:18p * Accepted Item From: Magnic. 
+7/30/25 6:50:18p Magnic hands you an ethercle.
+7/30/25 6:50:19p • Magnic offers you an ethercle for free.
+7/30/25 6:50:19p To accept, \BUY 0 Magnic.
+7/30/25 6:50:19p * Accepted Item From: Magnic. 
+7/30/25 6:50:19p Magnic hands you an ethercle.
+7/30/25 6:50:29p •Your ability to store energy from the world improves.
+7/30/25 6:50:32p You offer a stone to Magnic for free.
+7/30/25 6:50:32p \SELL /cancel to cancel the offer.
+7/30/25 6:50:33p You hand Magnic a stone.
+7/30/25 6:50:34p You offer a stone to Magnic for free.
+7/30/25 6:50:34p \SELL /cancel to cancel the offer.
+7/30/25 6:50:34p You hand Magnic a stone.
+7/30/25 6:50:35p You offer a stone to Magnic for free.
+7/30/25 6:50:35p \SELL /cancel to cancel the offer.
+7/30/25 6:50:36p You hand Magnic a stone.
+7/30/25 6:50:37p You offer a stone to Magnic for free.
+7/30/25 6:50:37p \SELL /cancel to cancel the offer.
+7/30/25 6:50:37p You hand Magnic a stone.
+7/30/25 6:50:38p You offer a stone to Magnic for free.
+7/30/25 6:50:38p \SELL /cancel to cancel the offer.
+7/30/25 6:50:38p You hand Magnic a stone.
+7/30/25 6:50:50p • /SLEEP when you wish to begin studying.
+7/30/25 6:50:54p Use \SLEEP again when you return.
+7/30/25 6:50:54p You are done adventuring for a while and will be staying here.
+7/30/25 6:50:54p You have been disconnected from Clan Lord.
+7/30/25 6:50:54p • You will benefit from staying here while you are off-line.
+7/30/25 6:50:54p *** We are no longer connected to the Clan Lord game server. ***

@@ -1,0 +1,852 @@
+
+1/2/25 12:39:30p * Your pair of shoes named “white” is in very good condition.
+1/2/25 12:39:30p * Your shirt named “Dark Red” is in very good condition.
+1/2/25 12:39:30p * Your pair of fourth-circle pants named “turquoise” is in very good condition.
+1/2/25 12:39:30p Welcome to Clan Lord, Captain Planet!
+1/2/25 12:39:30p Type \HELP for a list of commands.
+1/2/25 12:39:30p • You gain experience from your recent studies.
+1/2/25 12:39:30p Type /healer for commands if you forget
+1/2/25 12:39:30p Captain Planet is now Clanning.
+1/2/25 12:39:30p The healing spell has started.
+1/2/25 12:39:30p You have been studying for one hour, 56 minutes.
+1/2/25 12:39:33p It's 2:08am on Merdi, day 30 of Winter, 640.
+1/2/25 12:39:34p Friends online: none.
+1/2/25 12:39:35p You are the only member of Black Phoenix clanning.
+1/2/25 12:39:35p • What’s New: https://deltatao.com/clanlord/news
+1/2/25 12:39:45p * Tip of the day: A flagon is a pitcher. (Use /OPTIONS to turn tips off.)
+1/2/25 12:39:58p Mimo is now Clanning.
+1/2/25 12:39:58p Mimo has been studying for 2 hours, 9 minutes.
+1/2/25 12:40:00p Kala is now Clanning.
+1/2/25 12:40:13p Magnic II is now Clanning.
+1/2/25 12:40:13p Magnic II has been studying for 4 hours, 13 minutes.
+1/2/25 12:40:26p Maekoh thinks, "um, we are at kitty beach if anyone wants to hunt with us, 2 black black skinned cats too strong"
+1/2/25 12:40:39p Magnic II says, "c heal"
+1/2/25 12:40:39p No player named 'heal"' found in the player list.
+1/2/25 12:40:39p *Healing  
+1/2/25 12:40:40p • You begin radius healing.
+1/2/25 12:40:40p • There is nobody nearby enough to continue radius healing.
+1/2/25 12:40:44p Magnic II says, "c heal me"
+1/2/25 12:40:45p *Healing Magnic II 
+1/2/25 12:40:56p Mimo says, "c heal mag"
+1/2/25 12:40:57p *Healing Magnic II 
+1/2/25 12:41:08p Magnic II says, "c heal mimo"
+1/2/25 12:41:09p *Healing Magnic II 
+1/2/25 12:41:15p Magnic II says, "c heal imo"
+1/2/25 12:41:16p *Healing Magnic II 
+1/2/25 12:41:21p Magnic II says, "c heal cap"
+1/2/25 12:41:22p *Healing Magnic II 
+1/2/25 12:41:26p Magnic II says, "c heal alshnfdj"
+1/2/25 12:41:27p *Healing Magnic II 
+1/2/25 12:41:39p Mimo says, "c heal cap"
+1/2/25 12:41:40p *Healing  
+1/2/25 12:41:40p • You begin radius healing.
+1/2/25 12:41:40p • There is nobody nearby enough to continue radius healing.
+1/2/25 12:41:46p Mimo says, "c heal bes"
+1/2/25 12:41:47p *Healing Bessie 
+1/2/25 12:41:47p •The player must be in the same area.
+1/2/25 12:41:50p You have 591 coins.
+1/2/25 12:43:05p Kala is no longer Clanning.
+1/2/25 12:43:10p You have 591 coins.
+1/2/25 12:43:12p Valadorei is no longer Clanning.
+1/2/25 12:44:30p You have 591 coins.
+1/2/25 12:45:40p Mimo is done adventuring for a while and will be staying here.
+1/2/25 12:45:42p Mimo is no longer Clanning.
+1/2/25 12:45:50p You have 591 coins.
+1/2/25 12:45:52p Magnic II is done adventuring for a while and will be staying here.
+1/2/25 12:45:54p Magnic II is no longer Clanning.
+1/2/25 12:46:46p You concentrate on sending your message to Maekoh.
+1/2/25 12:46:46p You think to Maekoh, "still at kitty beach?"
+1/2/25 12:47:03p Maekoh thinks to you, "planet ya"
+1/2/25 12:47:10p You have 591 coins.
+1/2/25 12:47:11p Maekoh says, "hi cap"
+1/2/25 12:47:24p Kyoko is sharing experiences with you.
+1/2/25 12:47:29p Maekoh is sharing experiences with you.
+1/2/25 12:47:41p Maekoh says, "with your heals i can take down those big ones i think"
+1/2/25 12:48:05p You begin sharing your experiences with Maekoh.
+1/2/25 12:48:05p You are already sharing with Maekoh.
+1/2/25 12:48:06p You are still too mentally fatigued to change spirit links.
+1/2/25 12:48:06p You are still too mentally fatigued to change spirit links.
+1/2/25 12:48:07p You are still too mentally fatigued to change spirit links.
+1/2/25 12:48:07p You are still too mentally fatigued to change spirit links.
+1/2/25 12:48:08p You begin sharing your experiences with Kyoko.
+1/2/25 12:48:08p You are sharing experiences with Kyoko and Maekoh.
+1/2/25 12:48:09p You are already sharing with Kyoko.
+1/2/25 12:48:09p You are sharing experiences with Kyoko and Maekoh.
+1/2/25 12:48:31p You have 591 coins.
+1/2/25 12:48:37p Maekoh says, "we can walk it"
+1/2/25 12:48:53p Maekoh says, "omg"
+1/2/25 12:48:55p Maekoh says, "thank u captain"
+1/2/25 12:49:00p Maekoh says, "you can meditate if u want"
+1/2/25 12:49:03p Maekoh says, "i can lure"
+1/2/25 12:49:08p Maekoh says, "or whatever is good to you"
+1/2/25 12:49:14p Captain Planet says, ":)"
+1/2/25 12:49:20p Maekoh says, "swegnus luvin on me for real"
+1/2/25 12:49:45p Maekoh says, "c area"
+1/2/25 12:49:51p You have 591 coins.
+1/2/25 12:49:56p * Kyoko recovers the Island Panther fur, worth 1c. Your share is 1c.
+1/2/25 12:50:14p * Maekoh recovers the Bolok Cougar fur, worth 5c. Your share is 2c.
+1/2/25 12:50:45p * Maekoh recovers the Bolok Cougar fur, worth 4c. Your share is 2c.
+1/2/25 12:51:03p Maekoh says, "we found orb"
+1/2/25 12:51:07p * Kyoko recovers the Island Panther fur, worth 5c. Your share is 2c.
+1/2/25 12:51:11p Maekoh says, "and we found dragon"
+1/2/25 12:51:11p You have 598 coins.
+1/2/25 12:51:13p Maekoh says, "gave dragon wheat"
+1/2/25 12:51:21p Captain Planet asks, "oh?"
+1/2/25 12:51:52p * Kyoko recovers the Island Panther fur, worth 3c. Your share is 1c.
+1/2/25 12:51:59p • You begin radius healing.
+1/2/25 12:52:31p You have 599 coins.
+1/2/25 12:52:50p Maekoh says, "yaaaa"
+1/2/25 12:52:51p Maekoh says, "thanks captain"
+1/2/25 12:52:58p Maekoh says, "this the most fun in exile long time"
+1/2/25 12:53:00p • There is nobody nearby enough to continue radius healing.
+1/2/25 12:53:13p * Maekoh recovers the Large Vermine fur, worth 1c. Your share is 1c.
+1/2/25 12:53:25p Maekoh says, "c area"
+1/2/25 12:53:29p * You recover the Island Panther fur, worth 4c. Your share is 1c.
+1/2/25 12:53:33p Maekoh says, "c heal mae"
+1/2/25 12:53:34p *Healing  
+1/2/25 12:53:34p • You begin radius healing.
+1/2/25 12:53:51p You have 601 coins.
+1/2/25 12:54:00p • There is nobody nearby enough to continue radius healing.
+1/2/25 12:54:17p * You recover the Island Panther fur, worth 1c.
+1/2/25 12:54:46p Maekoh says, "c heal mae"
+1/2/25 12:54:47p *Healing Maekoh 
+1/2/25 12:55:02p Maekoh says, "c area"
+1/2/25 12:55:12p You have 601 coins.
+1/2/25 12:55:19p * You recover the Large Vermine fur, worth 2c.
+1/2/25 12:55:47p Maekoh says, "c heal mae"
+1/2/25 12:55:48p *Healing Maekoh 
+1/2/25 12:56:29p Maekoh says, "c heal mae"
+1/2/25 12:56:30p *Healing Maekoh 
+1/2/25 12:56:32p You have 601 coins.
+1/2/25 12:56:49p Alee is now Clanning.
+1/2/25 12:57:08p Maekoh says, "c heal mae"
+1/2/25 12:57:09p *Healing Maekoh 
+1/2/25 12:57:39p Maekoh says, "c heal mae"
+1/2/25 12:57:40p *Healing Maekoh 
+1/2/25 12:57:52p You have 601 coins.
+1/2/25 12:58:37p Maekoh says, "c heal mae"
+1/2/25 12:58:38p *Healing Maekoh 
+1/2/25 12:59:12p You have 601 coins.
+1/2/25 12:59:28p * You recover the Island Panther fur, worth 2c. Your share is 1c.
+1/2/25 12:59:41p Maekoh says, "c heal mae"
+1/2/25 12:59:41p *Healing Maekoh 
+1/2/25 12:59:52p Kyoko says, "c heal maekoh"
+1/2/25 12:59:52p *Healing Maekoh 
+1/2/25 12:59:55p Kyoko says, "c heal kyo"
+1/2/25 12:59:56p *Healing Kyoko 
+1/2/25 1:00:07p Cecil thinks, "and unimportant people"
+1/2/25 1:00:32p You have 602 coins.
+1/2/25 1:00:38p Maekoh says, "c heal mae"
+1/2/25 1:00:39p *Healing Maekoh 
+1/2/25 1:00:52p Suu'ub III thinks, "Thanks all! NNK!"
+1/2/25 1:01:10p Maekoh says, "c heal mae"
+1/2/25 1:01:10p Omega thinks, "thanks NNK!!!"
+1/2/25 1:01:15p Shakyamuni thinks, "Thanks all NNK!"
+1/2/25 1:01:24p Maekoh says, "c heal mae"
+1/2/25 1:01:24p *Healing Maekoh 
+1/2/25 1:01:47p Maekoh says, "c heal mae"
+1/2/25 1:01:47p *Healing Maekoh 
+1/2/25 1:01:53p You have 602 coins.
+1/2/25 1:01:59p Maekoh says, "c heal mae"
+1/2/25 1:02:00p *Healing Maekoh 
+1/2/25 1:02:04p Kyoko says, "c heal kyo"
+1/2/25 1:02:04p *Healing Kyoko 
+1/2/25 1:02:20p Freddy is now Clanning.
+1/2/25 1:02:22p Maekoh says, "c heal mae"
+1/2/25 1:02:23p *Healing Maekoh 
+1/2/25 1:02:33p Maekoh says, "c heal mae"
+1/2/25 1:02:33p Gustave is no longer Clanning.
+1/2/25 1:02:37p Sylune is now Clanning.
+1/2/25 1:02:37p Maekoh says, "c heal mae"
+1/2/25 1:02:38p *Healing Maekoh 
+1/2/25 1:02:41p Gorvin is no longer Clanning.
+1/2/25 1:03:04p Sullin is no longer Clanning.
+1/2/25 1:03:06p Maekoh says, "c heal mae"
+1/2/25 1:03:07p *Healing Maekoh 
+1/2/25 1:03:08p Shadowfire is no longer Clanning.
+1/2/25 1:03:09p Freddy is no longer Clanning.
+1/2/25 1:03:13p You have 602 coins.
+1/2/25 1:03:17p D'Ead is no longer Clanning.
+1/2/25 1:03:19p Katreesa is no longer Clanning.
+1/2/25 1:03:19p Maekoh says, "c heal mae"
+1/2/25 1:03:20p Suu'ub III is no longer Clanning.
+1/2/25 1:03:20p *Healing Maekoh 
+1/2/25 1:03:23p Kyoko says, "c heal kyo"
+1/2/25 1:03:24p *Healing Kyoko 
+1/2/25 1:03:37p Maekoh says, "c heal mae"
+1/2/25 1:03:38p *Healing Maekoh 
+1/2/25 1:03:40p Dr Gonzo is now Clanning.
+1/2/25 1:03:58p Maekoh says, "c heal mae"
+1/2/25 1:03:59p *Healing Maekoh 
+1/2/25 1:04:08p Kyoko says, "c heal kyo"
+1/2/25 1:04:09p *Healing Kyoko 
+1/2/25 1:04:17p Maekoh says, "c heal mae"
+1/2/25 1:04:18p *Healing Maekoh 
+1/2/25 1:04:25p Shakyamuni thinks, "Night All Thanks for the Fun!!"
+1/2/25 1:04:29p Shakyamuni is no longer Clanning.
+1/2/25 1:04:33p You have 602 coins.
+1/2/25 1:04:36p Maekoh says, "c heal mae"
+1/2/25 1:04:37p *Healing Maekoh 
+1/2/25 1:04:39p TreeBeard is no longer Clanning.
+1/2/25 1:04:39p Galadriel is no longer Clanning.
+1/2/25 1:04:45p Courier is now Clanning.
+1/2/25 1:04:55p Lexy is now Clanning.
+1/2/25 1:04:57p Maekoh says, "c heal mae"
+1/2/25 1:04:58p *Healing Maekoh 
+1/2/25 1:05:10p Lexy is no longer Clanning.
+1/2/25 1:05:15p Maekoh says, "c heal mae"
+1/2/25 1:05:16p *Healing Maekoh 
+1/2/25 1:05:18p Kryta is now Clanning.
+1/2/25 1:05:41p Courier is no longer Clanning.
+1/2/25 1:05:49p Maekoh says, "c heal mae"
+1/2/25 1:05:50p *Healing Maekoh 
+1/2/25 1:05:53p You have 602 coins.
+1/2/25 1:05:54p Kyoko says, "c heal kyo"
+1/2/25 1:05:55p *Healing Kyoko 
+1/2/25 1:06:01p Maekoh says, "c heal mae"
+1/2/25 1:06:02p *Healing Maekoh 
+1/2/25 1:06:08p Articuno is now Clanning.
+1/2/25 1:06:16p * You recover the Rodán Panther fur, worth 2c.
+1/2/25 1:06:32p Markus is now Clanning.
+1/2/25 1:06:36p * You recover the Island Panther fur, worth 3c. Your share is 1c.
+1/2/25 1:06:39p Maekoh says, "c heal mae"
+1/2/25 1:06:39p *Healing Maekoh 
+1/2/25 1:07:06p Maekoh says, "c heal mae"
+1/2/25 1:07:07p *Healing Maekoh 
+1/2/25 1:07:13p You have 603 coins.
+1/2/25 1:07:36p Maekoh says, "c heal mae"
+1/2/25 1:07:37p *Healing Maekoh 
+1/2/25 1:07:47p Kyoko says, "c heal kyo"
+1/2/25 1:07:48p *Healing Kyoko 
+1/2/25 1:07:56p * Kyoko recovers the Island Panther fur, worth 1c. Your share is 1c.
+1/2/25 1:08:10p Dr Gonzo is no longer Clanning.
+1/2/25 1:08:10p * Kyoko recovers the Rodán Panther fur, worth 3c. Your share is 1c.
+1/2/25 1:08:18p Maekoh says, "c heal mae"
+1/2/25 1:08:19p *Healing Maekoh 
+1/2/25 1:08:34p You have 605 coins.
+1/2/25 1:08:34p Markus is no longer Clanning.
+1/2/25 1:08:37p Maekoh says, "c heal mae"
+1/2/25 1:08:38p Onya is now Clanning.
+1/2/25 1:08:38p *Healing Maekoh 
+1/2/25 1:08:42p * You recover the Rodán Panther fur, worth 2c. Your share is 1c.
+1/2/25 1:09:00p Maekoh says, "c heal mae"
+1/2/25 1:09:00p *Healing Maekoh 
+1/2/25 1:09:15p Maekoh says, "c heal mae"
+1/2/25 1:09:16p *Healing Maekoh 
+1/2/25 1:09:22p Kyoko says, "c heal kyo"
+1/2/25 1:09:22p *Healing Kyoko 
+1/2/25 1:09:29p Maekoh says, "c heal mae"
+1/2/25 1:09:30p *Healing Maekoh 
+1/2/25 1:09:48p Maekoh says, "c heal mae"
+1/2/25 1:09:49p *Healing Maekoh 
+1/2/25 1:09:54p You have 606 coins.
+1/2/25 1:10:32p Kyoko says, "c heal kyo"
+1/2/25 1:10:33p *Healing Kyoko 
+1/2/25 1:10:43p Maekoh says, "c heal mae"
+1/2/25 1:10:44p *Healing Maekoh 
+1/2/25 1:10:59p Maekoh says, "c heal mae"
+1/2/25 1:10:59p *Healing Maekoh 
+1/2/25 1:11:14p You have 606 coins.
+1/2/25 1:11:24p Maekoh says, "c heal mae"
+1/2/25 1:11:25p *Healing Maekoh 
+1/2/25 1:11:38p Maekoh says, "c heal mae"
+1/2/25 1:11:39p *Healing Maekoh 
+1/2/25 1:11:56p Maekoh says, "c heal mae"
+1/2/25 1:11:57p *Healing Maekoh 
+1/2/25 1:12:01p Kyoko says, "c heal kyo"
+1/2/25 1:12:02p *Healing Kyoko 
+1/2/25 1:12:18p Maekoh says, "c heal mae"
+1/2/25 1:12:19p *Healing Maekoh 
+1/2/25 1:12:24p Onya is no longer Clanning.
+1/2/25 1:12:31p Maekoh says, "c heal mae"
+1/2/25 1:12:32p *Healing Maekoh 
+1/2/25 1:12:34p You have 606 coins.
+1/2/25 1:12:48p Maekoh says, "c heal mae"
+1/2/25 1:12:49p *Healing Maekoh 
+1/2/25 1:13:04p Kyoko says, "c heal kyo"
+1/2/25 1:13:05p *Healing Kyoko 
+1/2/25 1:13:13p Maekoh says, "c heal mae"
+1/2/25 1:13:14p *Healing Maekoh 
+1/2/25 1:13:19p Mac is now Clanning.
+1/2/25 1:13:32p Maekoh says, "c heal mae"
+1/2/25 1:13:33p *Healing Maekoh 
+1/2/25 1:13:54p You have 606 coins.
+1/2/25 1:13:55p Maekoh says, "c heal mae"
+1/2/25 1:13:56p *Healing Maekoh 
+1/2/25 1:14:03p Kyoko says, "c heal kyo"
+1/2/25 1:14:04p *Healing Kyoko 
+1/2/25 1:14:12p Maekoh says, "c heal mae"
+1/2/25 1:14:13p *Healing Maekoh 
+1/2/25 1:14:32p Salandra thinks, "green portal headed to the ocean for a second or two"
+1/2/25 1:14:38p * Maekoh recovers the Rodán Panther fur, worth 1c. Your share is 1c.
+1/2/25 1:14:56p * Maekoh recovers the Island Panther fur, worth 1c. Your share is 1c.
+1/2/25 1:14:57p Maekoh says, "c heal mae"
+1/2/25 1:14:58p *Healing Maekoh 
+1/2/25 1:15:04p Kyoko says, "c heal kyo"
+1/2/25 1:15:05p *Healing Kyoko 
+1/2/25 1:15:15p You have 608 coins.
+1/2/25 1:16:08p Maekoh says, "c heal mae"
+1/2/25 1:16:09p *Healing Maekoh 
+1/2/25 1:16:13p * You recover the Island Panther fur, worth 4c. Your share is 1c.
+1/2/25 1:16:35p You have 609 coins.
+1/2/25 1:16:39p Maekoh says, "c heal mae"
+1/2/25 1:16:40p *Healing Maekoh 
+1/2/25 1:16:54p * Kyoko recovers the Large Vermine fur, worth 2c. Your share is 1c.
+1/2/25 1:16:57p * You recover the Island Panther fur, worth 1c.
+1/2/25 1:16:58p Raul is no longer Clanning.
+1/2/25 1:17:02p Nug is now Clanning.
+1/2/25 1:17:12p * Kyoko recovers the Island Panther fur, worth 1c. Your share is 1c.
+1/2/25 1:17:18p * You recover the Artak Cougar fur, worth 2c. Your share is 1c.
+1/2/25 1:17:22p Salandra thinks, "green portal headed back"
+1/2/25 1:17:55p You have 612 coins.
+1/2/25 1:18:06p Maekoh says, "c heal mae"
+1/2/25 1:18:07p *Healing Maekoh 
+1/2/25 1:18:31p Maekoh says, "c heal mae"
+1/2/25 1:18:32p *Healing Maekoh 
+1/2/25 1:18:41p •You do not have enough spiritual energy.
+1/2/25 1:18:50p Maekoh says, "c heal mae"
+1/2/25 1:18:50p *Healing Maekoh 
+1/2/25 1:18:56p Salandra thinks, "green portal back in the hut"
+1/2/25 1:19:15p You have 612 coins.
+1/2/25 1:19:17p Maekoh says, "c heal mae"
+1/2/25 1:19:18p *Healing Maekoh 
+1/2/25 1:20:09p Mac is no longer Clanning.
+1/2/25 1:20:17p * Kyoko recovers the Artak Cougar fur, worth 2c. Your share is 1c.
+1/2/25 1:20:35p You have 613 coins.
+1/2/25 1:20:35p Maekoh says, "c heal mae"
+1/2/25 1:20:36p *Healing Maekoh 
+1/2/25 1:20:40p * You recover the Island Panther fur, worth 1c.
+1/2/25 1:21:09p Kyoko says, "c heal kyo"
+1/2/25 1:21:09p *Healing Kyoko 
+1/2/25 1:21:37p Maekoh says, "brb bio"
+1/2/25 1:21:56p You have 613 coins.
+1/2/25 1:23:16p You have 613 coins.
+1/2/25 1:23:27p * You recover the Vermine fur, worth 1c.
+1/2/25 1:23:40p Maekoh says, "c heal mae"
+1/2/25 1:23:41p *Healing Maekoh 
+1/2/25 1:24:17p Maekoh says, "c heal mae"
+1/2/25 1:24:18p *Healing Maekoh 
+1/2/25 1:24:23p * Kyoko recovers the Bolok Cougar fur, worth 10c. Your share is 3c.
+1/2/25 1:24:36p You have 616 coins.
+1/2/25 1:24:47p * Kyoko recovers the Island Panther fur, worth 4c. Your share is 2c.
+1/2/25 1:24:53p Maekoh says, "c heal mae"
+1/2/25 1:24:53p *Healing Maekoh 
+1/2/25 1:24:56p Sherrada is now Clanning.
+1/2/25 1:25:22p Kyoko says, "c heal kyo"
+1/2/25 1:25:22p *Healing Kyoko 
+1/2/25 1:25:31p * You recover the Island Panther fur, worth 3c. Your share is 1c.
+1/2/25 1:25:56p Maekoh says, "c heal mae"
+1/2/25 1:25:56p You have 619 coins.
+1/2/25 1:25:57p *Healing Maekoh 
+1/2/25 1:26:21p Maekoh says, "c heal mae"
+1/2/25 1:26:21p *Healing Maekoh 
+1/2/25 1:26:37p Kyoko says, "c heal kyo"
+1/2/25 1:26:37p *Healing Kyoko 
+1/2/25 1:26:46p * You recover the Island Panther fur, worth 2c.
+1/2/25 1:26:59p * Maekoh recovers the Giant Vermine fur, worth 1c. Your share is 1c.
+1/2/25 1:27:11p Reisa is now Clanning.
+1/2/25 1:27:16p You have 620 coins.
+1/2/25 1:27:19p * Kyoko recovers the Island Panther fur, worth 2c. Your share is 1c.
+1/2/25 1:27:55p Maekoh says, "c heal mae"
+1/2/25 1:27:56p *Healing Maekoh 
+1/2/25 1:28:01p * Kyoko recovers the Artak Cougar fur, worth 2c. Your share is 1c.
+1/2/25 1:28:08p Maekoh says, "c heal mae"
+1/2/25 1:28:09p *Healing Maekoh 
+1/2/25 1:28:09p * Kyoko recovers the Artak Cougar fur, worth 3c. Your share is 1c.
+1/2/25 1:28:18p Kyoko says, "c heal kyo"
+1/2/25 1:28:19p *Healing Kyoko 
+1/2/25 1:28:37p You have 623 coins.
+1/2/25 1:29:07p Nuckin Futz is now Clanning.
+1/2/25 1:29:10p Kyoko has fallen to an Artak Cougar.
+1/2/25 1:29:13p Maekoh says, "c heal mae"
+1/2/25 1:29:14p *Healing Maekoh 
+1/2/25 1:29:17p * Maekoh recovers the Island Panther fur, worth 3c. Your share is 1c.
+1/2/25 1:29:19p * You recover the Artak Cougar fur, worth 2c. Your share is 1c.
+1/2/25 1:29:22p Maekoh says, "c heal mae"
+1/2/25 1:29:23p *Healing Maekoh 
+1/2/25 1:29:31p * Maekoh recovers the Island Panther fur, worth 1c. Your share is 1c.
+1/2/25 1:29:31p A Rat pokes at Kyoko's gaping mouth.
+1/2/25 1:29:38p •Kyoko was too wounded to be healed easily.
+1/2/25 1:29:40p Maekoh says, "c heal mae"
+1/2/25 1:29:40p *Healing Maekoh 
+1/2/25 1:29:41p Kyoko has fallen to an Artak Cougar.
+1/2/25 1:29:51p Captain Planet says, "clean up time"
+1/2/25 1:29:53p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+1/2/25 1:29:54p Captain Planet has fallen to an Artak Cougar.
+1/2/25 1:29:54p •You are too wounded to be healed easily.
+1/2/25 1:29:57p You have 626 coins.
+1/2/25 1:30:07p Mimo is now Clanning.
+1/2/25 1:30:10p A Rat bites Kyoko's organs.
+1/2/25 1:30:33p A Rat nibbles Kyoko's flesh.
+1/2/25 1:30:57p Maekoh thinks, "kyoko and captain down in kitty beach 8x artak spawn"
+1/2/25 1:31:03p A Rat rips at your fingertips.
+1/2/25 1:31:03p A Rat plucks at Kyoko's body parts.
+1/2/25 1:31:05p Garfield is now Clanning.
+1/2/25 1:31:06p A Rat nibbles Kyoko's entrails.
+1/2/25 1:31:09p Alieshia is now Clanning.
+1/2/25 1:31:17p You have 626 coins.
+1/2/25 1:31:17p A Rat bites Kyoko's toes.
+1/2/25 1:31:23p Fortuna thinks, "any pfing healers available to rescue baby birds in ash?"
+1/2/25 1:31:26p LittlePrince thinks, "Can the fledglings talk someone into letting of out of the Ash barrnes?"
+1/2/25 1:31:28p A Rat plucks at Kyoko's eye sockets.
+1/2/25 1:31:32p A Rat feasts upon your eye sockets.
+1/2/25 1:31:43p A Rat pokes at your flesh.
+1/2/25 1:31:49p * Maekoh recovers the Artak Cougar fur, worth 6c. Your share is 1c.
+1/2/25 1:31:56p Mimo says, "out"
+1/2/25 1:32:00p Mimo starts dragging you.
+1/2/25 1:32:22p •You sense healing energy from Mimo.
+1/2/25 1:32:30p Maekoh says, "c heal mae"
+1/2/25 1:32:30p •Kyoko was too wounded to be healed easily.
+1/2/25 1:32:30p *Healing Maekoh 
+1/2/25 1:32:37p You have 627 coins.
+1/2/25 1:32:39p Kyoko is no longer fallen.
+1/2/25 1:32:40p Maekoh exclaims, "thanks mimo!"
+1/2/25 1:32:42p •You sense healing energy from Mimo.
+1/2/25 1:32:46p Maekoh says, "this is so fun, thanks for saving us"
+1/2/25 1:32:56p Fortuna thinks, "any pf at all able to open for us? we've got fallens"
+1/2/25 1:33:00p Mimo says, "its als me"
+1/2/25 1:33:11p Captain Planet thinks, "how much?"
+1/2/25 1:33:17p Shayla is now Clanning.
+1/2/25 1:33:19p Fortuna thinks, "whateer ash barrens takes"
+1/2/25 1:33:23p Kyoko says, "c heal kyo"
+1/2/25 1:33:23p *Healing Kyoko 
+1/2/25 1:33:42p Maekoh says, "c heal mae"
+1/2/25 1:33:43p *Healing Maekoh 
+1/2/25 1:33:53p •You sense healing energy from Mimo.
+1/2/25 1:33:57p Maekoh says, "c heal mae"
+1/2/25 1:33:57p You have 627 coins.
+1/2/25 1:33:58p *Healing Maekoh 
+1/2/25 1:34:19p Onya is now Clanning.
+1/2/25 1:34:56p Maekoh says, "c heal mae"
+1/2/25 1:34:57p *Healing Maekoh 
+1/2/25 1:35:13p You begin sharing your experiences with Mimo.
+1/2/25 1:35:13p You are sharing experiences with Mimo, Kyoko and Maekoh.
+1/2/25 1:35:13p You are already sharing with Mimo.
+1/2/25 1:35:13p You are sharing experiences with Mimo, Kyoko and Maekoh.
+1/2/25 1:35:15p Mimo is sharing experiences with you.
+1/2/25 1:35:16p Maekoh says, "c heal mae"
+1/2/25 1:35:17p *Healing Maekoh 
+1/2/25 1:35:18p You have 627 coins.
+1/2/25 1:35:30p Maekoh says, "c heal mae"
+1/2/25 1:35:31p *Healing Maekoh 
+1/2/25 1:35:57p Maekoh says, "c heal mae"
+1/2/25 1:35:58p Shobaffum is now Clanning.
+1/2/25 1:35:58p *Healing Maekoh 
+1/2/25 1:36:01p Dare is now Clanning.
+1/2/25 1:36:09p Gideon is now Clanning.
+1/2/25 1:36:11p Maekoh says, "c heal mae"
+1/2/25 1:36:11p *Healing Maekoh 
+1/2/25 1:36:31p * Kyoko recovers the Island Panther fur, worth 7c. Your share is 2c.
+1/2/25 1:36:38p You have 629 coins.
+1/2/25 1:37:34p Maekoh says, "c heal mae"
+1/2/25 1:37:35p *Healing Maekoh 
+1/2/25 1:37:48p Onya is no longer Clanning.
+1/2/25 1:37:51p Maekoh says, "c heal mae"
+1/2/25 1:37:51p *Healing Maekoh 
+1/2/25 1:37:58p You have 629 coins.
+1/2/25 1:38:14p Maekoh says, "c heal mae"
+1/2/25 1:38:14p *Healing Maekoh 
+1/2/25 1:38:17p * Mimo recovers the Bolok Cougar fur, worth 5c. Your share is 2c.
+1/2/25 1:38:38p Kala is now Clanning.
+1/2/25 1:38:45p * You recover the Island Panther fur, worth 1c.
+1/2/25 1:38:49p Maekoh says, "c heal mae"
+1/2/25 1:38:49p *Healing Maekoh 
+1/2/25 1:38:50p A monster growls, "Kill!"
+1/2/25 1:38:56p Lion-O is no longer Clanning.
+1/2/25 1:39:11p * Maekoh recovers the Island Panther fur, worth 2c. Your share is 1c.
+1/2/25 1:39:18p You have 632 coins.
+1/2/25 1:39:22p * Mimo recovers the Island Panther fur, worth 3c. Your share is 1c.
+1/2/25 1:39:24p Panthro is now Clanning.
+1/2/25 1:39:33p Maekoh says, "c heal mae"
+1/2/25 1:39:33p *Healing Maekoh 
+1/2/25 1:39:37p * Kyoko recovers the Island Panther fur, worth 5c. Your share is 1c.
+1/2/25 1:39:43p Maekoh says, "c heal mae"
+1/2/25 1:39:44p *Healing Maekoh 
+1/2/25 1:39:45p * Kyoko recovers the Island Panther fur, worth 3c. Your share is 1c.
+1/2/25 1:40:15p Panthro is no longer Clanning.
+1/2/25 1:40:20p Lion-O is now Clanning.
+1/2/25 1:40:28p Wolf Master is now Clanning.
+1/2/25 1:40:36p Kala is no longer Clanning.
+1/2/25 1:40:36p * Maekoh recovers the Artak Cougar fur, worth 2c. Your share is 1c.
+1/2/25 1:40:38p You have 636 coins.
+1/2/25 1:40:39p Wolf Master is no longer Clanning.
+1/2/25 1:40:42p Maekoh says, "c heal mae"
+1/2/25 1:40:43p *Healing Maekoh 
+1/2/25 1:40:47p Jiro is now Clanning.
+1/2/25 1:40:57p Chastity is now Clanning.
+1/2/25 1:40:58p Kyoko says, "c heal kyo"
+1/2/25 1:40:59p *Healing Kyoko 
+1/2/25 1:41:23p Chastity is no longer Clanning.
+1/2/25 1:41:49p * Kyoko recovers the Giant Vermine fur, worth 1c. Your share is 1c.
+1/2/25 1:41:52p Bessie is no longer Clanning.
+1/2/25 1:41:56p Maekoh says, "c heal mae"
+1/2/25 1:41:56p *Healing Maekoh 
+1/2/25 1:41:59p You have 637 coins.
+1/2/25 1:42:10p Dare is no longer Clanning.
+1/2/25 1:42:11p * You recover the Artak Cougar fur, worth 3c. Your share is 1c.
+1/2/25 1:42:12p Shayla is no longer Clanning.
+1/2/25 1:42:12p Maekoh says, "c heal mae"
+1/2/25 1:42:13p *Healing Maekoh 
+1/2/25 1:42:15p Dinsdale is now Clanning.
+1/2/25 1:42:33p * Mimo recovers the Island Panther fur, worth 3c. Your share is 1c.
+1/2/25 1:42:45p Mumbles is now Clanning.
+1/2/25 1:42:50p Alieshia is no longer Clanning.
+1/2/25 1:43:00p Maekoh says, "c heal mae"
+1/2/25 1:43:01p *Healing Maekoh 
+1/2/25 1:43:08p Maekoh says, "c heal mae"
+1/2/25 1:43:09p *Healing Maekoh 
+1/2/25 1:43:09p Mumbles is no longer Clanning.
+1/2/25 1:43:19p You have 639 coins.
+1/2/25 1:43:24p D'mitrius is now Clanning.
+1/2/25 1:43:24p Jiro is no longer Clanning.
+1/2/25 1:43:27p Wolf Master is now Clanning.
+1/2/25 1:43:44p Lion-O thinks, "Portal is not in hut!"
+1/2/25 1:43:53p Kalian thinks, "it's being moved back soon"
+1/2/25 1:44:00p D'mitrius is no longer Clanning.
+1/2/25 1:44:02p Xael is now Clanning.
+1/2/25 1:44:22p Maekoh says, "c heal mae"
+1/2/25 1:44:22p *Healing Maekoh 
+1/2/25 1:44:28p * You recover the Artak Cougar fur, worth 3c.
+1/2/25 1:44:30p Maekoh says, "c heal mae"
+1/2/25 1:44:31p *Healing Maekoh 
+1/2/25 1:44:33p Xael thinks, "fledglings camp is now wherever the portal goes"
+1/2/25 1:44:39p Kyoko says, "c heal kyo"
+1/2/25 1:44:39p You have 639 coins.
+1/2/25 1:45:07p Kala is now Clanning.
+1/2/25 1:45:16p Maekoh says, "c heal mae"
+1/2/25 1:45:17p *Healing Maekoh 
+1/2/25 1:45:18p Kala thinks, "6 dead by the portal spot"
+1/2/25 1:45:32p Grand Master is now Clanning.
+1/2/25 1:45:44p Maekoh says, "c heal mae"
+1/2/25 1:45:45p *Healing Maekoh 
+1/2/25 1:45:49p * Kyoko recovers the Artak Cougar fur, worth 1c. Your share is 1c.
+1/2/25 1:45:59p You have 640 coins.
+1/2/25 1:46:01p * Mimo recovers the Artak Cougar fur, worth 4c. Your share is 1c.
+1/2/25 1:46:01p Maekoh says, "c heal mae"
+1/2/25 1:46:02p *Healing Maekoh 
+1/2/25 1:46:09p Kyoko says, "c heal kyo"
+1/2/25 1:46:10p *Healing Kyoko 
+1/2/25 1:46:21p Kyoko says, "c heal kyo"
+1/2/25 1:46:22p *Healing Kyoko 
+1/2/25 1:46:38p Valadorei is now Clanning.
+1/2/25 1:46:38p * Maekoh recovers the Island Panther fur, worth 4c. Your share is 1c.
+1/2/25 1:47:19p You have 642 coins.
+1/2/25 1:47:35p Maekoh says, "c heal mae"
+1/2/25 1:47:36p *Healing Maekoh 
+1/2/25 1:47:38p Kyoko says, "c heal kyo"
+1/2/25 1:47:38p *Healing Kyoko 
+1/2/25 1:47:49p MysticalHealer is now Clanning.
+1/2/25 1:47:54p Sylune is no longer Clanning.
+1/2/25 1:47:57p Leanan Sidhe is now Clanning.
+1/2/25 1:48:08p * You recover the Island Panther fur, worth 2c.
+1/2/25 1:48:40p You have 642 coins.
+1/2/25 1:48:46p Maekoh says, "c heal mae"
+1/2/25 1:48:46p *Healing Maekoh 
+1/2/25 1:49:43p Gideon is no longer Clanning.
+1/2/25 1:49:59p * Kyoko recovers the Island Panther fur, worth 4c. Your share is 1c.
+1/2/25 1:50:00p You have 643 coins.
+1/2/25 1:50:01p * You recover the Island Panther fur, worth 2c. Your share is 1c.
+1/2/25 1:50:24p Kyoko says, "c heal kyo"
+1/2/25 1:50:25p *Healing Kyoko 
+1/2/25 1:50:35p Maekoh says, "c heal mae"
+1/2/25 1:50:35p *Healing Maekoh 
+1/2/25 1:50:58p Tsune is now Clanning.
+1/2/25 1:51:20p You have 644 coins.
+1/2/25 1:51:34p * You recover the Rodán Panther fur, worth 2c. Your share is 1c.
+1/2/25 1:51:52p Articuno thinks, "eps went island"
+1/2/25 1:51:56p * You recover the Rodán Panther fur, worth 1c. Your share is 1c.
+1/2/25 1:52:17p Cecil thinks, "PI?"
+1/2/25 1:52:21p Articuno thinks, "ki"
+1/2/25 1:52:34p Cecil thinks, "interiour?"
+1/2/25 1:52:38p Articuno thinks, "yes"
+1/2/25 1:52:40p You have 646 coins.
+1/2/25 1:52:49p Cecil thinks, "was it kyeum?"
+1/2/25 1:52:57p Articuno thinks, "yes"
+1/2/25 1:53:21p Agratis Krak'ha is now Clanning.
+1/2/25 1:53:53p Maekoh says, "c heal mae"
+1/2/25 1:53:54p *Healing Maekoh 
+1/2/25 1:54:00p You have 646 coins.
+1/2/25 1:54:11p Kyoko says, "c heal kyo"
+1/2/25 1:54:12p *Healing Kyoko 
+1/2/25 1:54:13p Maekoh says, "c heal mae"
+1/2/25 1:54:14p *Healing Maekoh 
+1/2/25 1:54:15p Salandra thinks, "When you all use EPS does it tell you the location it opens to?"
+1/2/25 1:54:24p Elenis Reyav thinks, "It does not."
+1/2/25 1:54:25p Articuno thinks, "no"
+1/2/25 1:54:50p Maekoh says, "c heal mae"
+1/2/25 1:54:51p *Healing Maekoh 
+1/2/25 1:54:52p * You recover the Island Panther fur, worth 4c. Your share is 1c.
+1/2/25 1:54:56p Leanan Sidhe is no longer Clanning.
+1/2/25 1:54:57p Kyoko has fallen to an Island Panther.
+1/2/25 1:54:57p * Maekoh recovers the Island Panther fur, worth 1c. Your share is 1c.
+1/2/25 1:55:00p Kyoko says, "c heal kyo"
+1/2/25 1:55:01p *Healing Kyoko 
+1/2/25 1:55:03p Kyoko is no longer fallen.
+1/2/25 1:55:05p * You recover the Artak Cougar fur, worth 1c.
+1/2/25 1:55:07p Maekoh says, "c heal mae"
+1/2/25 1:55:08p *Healing Maekoh 
+1/2/25 1:55:15p * Kyoko recovers the Artak Cougar fur, worth 3c. Your share is 1c.
+1/2/25 1:55:18p Salandra thinks, "*puts another check next to inferior*"
+1/2/25 1:55:21p You have 649 coins.
+1/2/25 1:55:39p Arianrhod is now Clanning.
+1/2/25 1:56:04p Maekoh says, "c heal mae"
+1/2/25 1:56:05p *Healing Maekoh 
+1/2/25 1:56:19p * Kyoko recovers the Island Panther fur, worth 2c. Your share is 1c.
+1/2/25 1:56:31p Agratis Krak'ha is no longer Clanning.
+1/2/25 1:56:38p Xael is no longer Clanning.
+1/2/25 1:56:41p You have 650 coins.
+1/2/25 1:57:14p Palmeri thinks, "thanks for the hunt guys! im gonna get going!"
+1/2/25 1:57:25p Fortuna is no longer Clanning.
+1/2/25 1:57:26p Reisa is no longer Clanning.
+1/2/25 1:57:47p Kyoko says, "c heal kyo"
+1/2/25 1:57:48p *Healing Kyoko 
+1/2/25 1:57:53p Palmeri is no longer Clanning.
+1/2/25 1:58:01p You have 650 coins.
+1/2/25 1:58:11p Lucero is no longer Clanning.
+1/2/25 1:58:17p Lucero is now Clanning.
+1/2/25 1:58:18p Maekoh says, "c heal mae"
+1/2/25 1:58:19p *Healing Maekoh 
+1/2/25 1:58:21p Lucero is no longer Clanning.
+1/2/25 1:58:37p Maekoh says, "c heal mae"
+1/2/25 1:58:38p *Healing Maekoh 
+1/2/25 1:58:42p Leanan Sidhe is now Clanning.
+1/2/25 1:58:55p Garfield thinks, "anyone else fallen past bridge?"
+1/2/25 1:59:10p Maekoh says, "c heal mae"
+1/2/25 1:59:11p *Healing Maekoh 
+1/2/25 1:59:21p You have 650 coins.
+1/2/25 2:00:24p * Mimo recovers the Island Panther fur, worth 3c. Your share is 1c.
+1/2/25 2:00:41p You have 651 coins.
+1/2/25 2:00:50p Maekoh says, "c heal mae"
+1/2/25 2:00:51p *Healing Maekoh 
+1/2/25 2:01:57p * You recover the Rodán Panther fur, worth 1c.
+1/2/25 2:02:02p You have 651 coins.
+1/2/25 2:02:24p * You recover the Rodán Panther fur, worth 2c.
+1/2/25 2:02:26p Salandra thinks, "Lion-o have help? down to a lowland panther"
+1/2/25 2:03:14p * Kyoko recovers the Island Panther fur, worth 1c. Your share is 1c.
+1/2/25 2:03:22p You have 652 coins.
+1/2/25 2:03:28p * Kyoko recovers the Rodán Panther fur, worth 2c. Your share is 1c.
+1/2/25 2:04:02p Omega is no longer Clanning.
+1/2/25 2:04:19p * Mimo recovers the Island Panther fur, worth 1c. Your share is 1c.
+1/2/25 2:04:37p Kyoko says, "c heal kyo"
+1/2/25 2:04:38p *Healing Kyoko 
+1/2/25 2:04:42p You have 654 coins.
+1/2/25 2:04:44p * Kyoko recovers the Large Vermine fur, worth 2c. Your share is 1c.
+1/2/25 2:04:49p Maekoh says, "c heal mae"
+1/2/25 2:04:50p *Healing Maekoh 
+1/2/25 2:04:51p Aurelie is now Clanning.
+1/2/25 2:05:22p •The Sun rises.
+1/2/25 2:06:02p You have 655 coins.
+1/2/25 2:06:35p Captain Planet asks, "you ok?"
+1/2/25 2:06:51p Maekoh says, "ya just realmzed tabbed till respawn"
+1/2/25 2:07:10p (Captain Planet nods)
+1/2/25 2:07:22p You have 655 coins.
+1/2/25 2:07:30p * You recover the Island Panther fur, worth 3c. Your share is 1c.
+1/2/25 2:07:49p Maekoh says, "c heal mae"
+1/2/25 2:07:50p *Healing Maekoh 
+1/2/25 2:07:53p * Kyoko recovers the Artak Cougar fur, worth 1c. Your share is 1c.
+1/2/25 2:07:59p Maekoh says, "c heal mae"
+1/2/25 2:08:00p *Healing Maekoh 
+1/2/25 2:08:14p MysticalHealer is no longer Clanning.
+1/2/25 2:08:14p Maekoh says, "c heal mae"
+1/2/25 2:08:15p *Healing Maekoh 
+1/2/25 2:08:22p Salandra thinks, "Portals are back in their normal spots"
+1/2/25 2:08:35p Maekoh says, "c heal mae"
+1/2/25 2:08:36p *Healing Maekoh 
+1/2/25 2:08:43p You have 657 coins.
+1/2/25 2:09:11p Maekoh says, "c heal mae"
+1/2/25 2:09:12p *Healing Maekoh 
+1/2/25 2:09:13p * Maekoh recovers the Artak Cougar fur, worth 3c. Your share is 1c.
+1/2/25 2:09:16p Grand Master is no longer Clanning.
+1/2/25 2:09:35p Asenath is now Clanning.
+1/2/25 2:09:44p Articuno is no longer Clanning.
+1/2/25 2:09:47p Lion-O is no longer Clanning.
+1/2/25 2:10:03p You have 658 coins.
+1/2/25 2:10:07p Maekoh says, "c heal mae"
+1/2/25 2:10:08p *Healing Maekoh 
+1/2/25 2:10:26p Kyoko says, "c heal kyo"
+1/2/25 2:10:27p *Healing Kyoko 
+1/2/25 2:10:38p Maekoh says, "c heal mae"
+1/2/25 2:10:39p *Healing Maekoh 
+1/2/25 2:10:55p Maekoh says, "c heal mae"
+1/2/25 2:10:56p *Healing Maekoh 
+1/2/25 2:11:03p Maekoh says, "c heal mae"
+1/2/25 2:11:04p *Healing Maekoh 
+1/2/25 2:11:23p You have 658 coins.
+1/2/25 2:12:07p Maekoh says, "c heal mae"
+1/2/25 2:12:07p *Healing Maekoh 
+1/2/25 2:12:08p * Maekoh recovers the Artak Cougar fur, worth 1c. Your share is 1c.
+1/2/25 2:12:43p You have 659 coins.
+1/2/25 2:13:42p Maekoh has fallen to a Bolok Cougar.
+1/2/25 2:13:49p Kyoko says, "c heal kyo"
+1/2/25 2:13:50p *Healing Kyoko 
+1/2/25 2:14:03p You have 659 coins.
+1/2/25 2:14:20p Kyoko says, "mae down just southwest"
+1/2/25 2:14:23p •You sense healing energy from Mimo.
+1/2/25 2:14:46p Maekoh says, "c heal mae"
+1/2/25 2:14:47p *Healing Maekoh 
+1/2/25 2:14:47p •Maekoh was too wounded to be healed easily.
+1/2/25 2:14:50p Maekoh is no longer fallen.
+1/2/25 2:15:06p Maekoh says, "c heal mae"
+1/2/25 2:15:07p *Healing Maekoh 
+1/2/25 2:15:08p Maekoh says, "c heal mae"
+1/2/25 2:15:08p *Healing Maekoh 
+1/2/25 2:15:18p * Kyoko recovers the Bolok Cougar fur, worth 1c. Your share is 1c.
+1/2/25 2:15:23p Maekoh says, "c heal mae"
+1/2/25 2:15:24p You have 660 coins.
+1/2/25 2:15:24p *Healing Maekoh 
+1/2/25 2:15:26p Kyoko says, "mae down just southwest"
+1/2/25 2:15:37p Kyoko says, "geak ne"
+1/2/25 2:15:45p Kyoko says, "c heal me"
+1/2/25 2:15:45p *Healing Kyoko 
+1/2/25 2:16:01p Maekoh says, "c heal mae"
+1/2/25 2:16:02p *Healing Maekoh 
+1/2/25 2:16:25p Maekoh says, "c heal mae"
+1/2/25 2:16:26p *Healing Maekoh 
+1/2/25 2:16:38p Grand Master is now Clanning.
+1/2/25 2:16:41p Maekoh says, "c heal mae"
+1/2/25 2:16:42p *Healing Maekoh 
+1/2/25 2:16:44p You have 660 coins.
+1/2/25 2:17:53p Maekoh says, "c heal mae"
+1/2/25 2:17:54p *Healing Maekoh 
+1/2/25 2:18:04p You have 660 coins.
+1/2/25 2:18:06p Kyoko says, "c heal me"
+1/2/25 2:18:07p *Healing Kyoko 
+1/2/25 2:18:39p Kyoko says, "c heal me"
+1/2/25 2:18:40p *Healing Kyoko 
+1/2/25 2:19:23p Maekoh says, "c heal mae"
+1/2/25 2:19:23p *Healing Maekoh 
+1/2/25 2:19:24p You have 660 coins.
+1/2/25 2:19:41p Maekoh says, "c heal mae"
+1/2/25 2:19:42p *Healing Maekoh 
+1/2/25 2:20:39p * Kyoko recovers the Island Panther fur, worth 1c. Your share is 1c.
+1/2/25 2:20:44p You have 661 coins.
+1/2/25 2:20:52p Maekoh says, "c heal mae"
+1/2/25 2:20:53p *Healing Maekoh 
+1/2/25 2:20:55p Kyoko says, "c heal me"
+1/2/25 2:20:56p *Healing Kyoko 
+1/2/25 2:21:12p Sikophit is now Clanning.
+1/2/25 2:21:48p * You recover the Island Panther fur, worth 3c.
+1/2/25 2:22:05p You have 661 coins.
+1/2/25 2:23:25p You have 661 coins.
+1/2/25 2:23:33p Kyoko says, "c heal me"
+1/2/25 2:23:34p *Healing Kyoko 
+1/2/25 2:24:15p * Mimo recovers the Island Panther fur, worth 5c. Your share is 1c.
+1/2/25 2:24:29p LittlePrince is no longer Clanning.
+1/2/25 2:24:45p You have 662 coins.
+1/2/25 2:25:24p Maekoh says, "c heal mae"
+1/2/25 2:25:25p *Healing Maekoh 
+1/2/25 2:25:28p Kyoko says, "c heal me"
+1/2/25 2:25:29p *Healing Kyoko 
+1/2/25 2:26:05p You have 662 coins.
+1/2/25 2:26:19p Asenath is no longer Clanning.
+1/2/25 2:27:06p * Kyoko recovers the Island Panther fur, worth 3c. Your share is 1c.
+1/2/25 2:27:14p Maekoh says, "c heal mae"
+1/2/25 2:27:15p *Healing Maekoh 
+1/2/25 2:27:25p You have 663 coins.
+1/2/25 2:28:41p * You recover the Vermine fur, worth 1c.
+1/2/25 2:28:46p You have 663 coins.
+1/2/25 2:29:09p * You recover the Island Panther fur, worth 3c. Your share is 1c.
+1/2/25 2:29:34p Haffron is now Clanning.
+1/2/25 2:30:01p Kyoko has fallen to an Island Panther.
+1/2/25 2:30:06p You have 664 coins.
+1/2/25 2:30:14p Kyoko says, "c heal me"
+1/2/25 2:30:15p *Healing Kyoko 
+1/2/25 2:30:16p Kyoko is no longer fallen.
+1/2/25 2:31:26p You have 664 coins.
+1/2/25 2:31:32p Sikophit is no longer Clanning.
+1/2/25 2:32:30p Kyoko says, "c heal me"
+1/2/25 2:32:31p *Healing Kyoko 
+1/2/25 2:32:33p Maekoh says, "c heal mae"
+1/2/25 2:32:34p *Healing Maekoh 
+1/2/25 2:32:46p You have 664 coins.
+1/2/25 2:33:46p Maekoh says, "c heal mae"
+1/2/25 2:33:47p *Healing Maekoh 
+1/2/25 2:33:48p * You recover the Bolok Cougar fur, worth 4c. Your share is 1c.
+1/2/25 2:34:06p You have 665 coins.
+1/2/25 2:34:45p * Maekoh recovers the Myrm Scout mandibles, worth 1c. Your share is 1c.
+1/2/25 2:35:27p You have 666 coins.
+1/2/25 2:36:08p Smithy is now Clanning.
+1/2/25 2:36:45p Kyoko says, "c heal me"
+1/2/25 2:36:46p *Healing Kyoko 
+1/2/25 2:36:47p You have 666 coins.
+1/2/25 2:37:23p Smithy is no longer Clanning.
+1/2/25 2:38:07p You have 666 coins.
+1/2/25 2:38:28p Maekoh says, "c heal mae"
+1/2/25 2:38:29p *Healing Maekoh 
+1/2/25 2:38:48p Salandra thinks, "am out"
+1/2/25 2:39:27p You have 666 coins.
+1/2/25 2:39:36p Knittens is now Clanning.
+1/2/25 2:40:07p Maekoh says, "c heal mae"
+1/2/25 2:40:08p *Healing Maekoh 
+1/2/25 2:40:47p You have 666 coins.
+1/2/25 2:40:54p Maekoh says, "c heal mae"
+1/2/25 2:40:54p *Healing Maekoh 
+1/2/25 2:41:27p Cecil is no longer Clanning.
+1/2/25 2:41:47p * You recover the Island Panther fur, worth 2c. Your share is 1c.
+1/2/25 2:41:52p Maekoh says, "c heal mae"
+1/2/25 2:41:53p *Healing Maekoh 
+1/2/25 2:42:08p You have 667 coins.
+1/2/25 2:43:28p You have 667 coins.
+1/2/25 2:43:54p * Mimo recovers the Island Panther fur, worth 3c. Your share is 1c.
+1/2/25 2:43:57p * Mimo recovers the Island Panther fur, worth 4c. Your share is 1c.
+1/2/25 2:44:05p Garfield is no longer Clanning.
+1/2/25 2:44:39p Knittens is no longer Clanning.
+1/2/25 2:44:48p You have 669 coins.
+1/2/25 2:45:15p Kyoko says, "c heal me"
+1/2/25 2:45:16p *Healing Kyoko 
+1/2/25 2:45:19p * Kyoko recovers the Island Panther fur, worth 2c. Your share is 1c.
+1/2/25 2:45:31p Maekoh says, "c heal mae"
+1/2/25 2:45:32p *Healing Maekoh 
+1/2/25 2:45:35p Ausrine is now Clanning.
+1/2/25 2:46:08p You have 670 coins.
+1/2/25 2:46:32p Maekoh says, "c heal mae"
+1/2/25 2:46:33p *Healing Maekoh 
+1/2/25 2:46:34p Salvador is now Clanning.
+1/2/25 2:46:47p Maekoh says, "c heal mae"
+1/2/25 2:46:48p *Healing Maekoh 
+1/2/25 2:46:56p * Mimo recovers the Artak Cougar fur, worth 4c. Your share is 1c.
+1/2/25 2:47:11p Maekoh says, "c heal mae"
+1/2/25 2:47:12p *Healing Maekoh 
+1/2/25 2:47:16p * Maekoh recovers the Island Panther fur, worth 5c. Your share is 2c.
+1/2/25 2:47:28p You have 673 coins.
+1/2/25 2:48:06p Aldor is now Clanning.
+1/2/25 2:48:49p You have 673 coins.
+1/2/25 2:50:09p You have 673 coins.
+1/2/25 2:50:23p * Mimo recovers the Island Panther fur, worth 2c. Your share is 1c.
+1/2/25 2:50:27p * You recover the Island Panther fur, worth 4c. Your share is 1c.
+1/2/25 2:51:19p * Mimo recovers the Island Panther fur, worth 2c. Your share is 1c.
+1/2/25 2:51:19p Arianrhod is no longer Clanning.
+1/2/25 2:51:19p Dinsdale is no longer Clanning.
+1/2/25 2:51:29p You have 676 coins.
+1/2/25 2:52:35p * Mimo recovers the Island Panther fur, worth 5c. Your share is 1c.
+1/2/25 2:52:41p Mimo says, "odd"
+1/2/25 2:52:48p Maekoh says, "hehe"
+1/2/25 2:52:49p You have 677 coins.
+1/2/25 2:52:49p Maekoh says, "thanks again"
+1/2/25 2:53:09p * You recover the Artak Cougar fur, worth 2c.
+1/2/25 2:53:30p * Kyoko recovers the Island Panther fur, worth 2c. Your share is 1c.
+1/2/25 2:53:39p * Kyoko recovers the Island Panther fur, worth 2c. Your share is 1c.
+1/2/25 2:53:56p * You recover the Island Panther fur, worth 1c.
+1/2/25 2:54:06p Maekoh says, "c heal mae"
+1/2/25 2:54:07p *Healing Maekoh 
+1/2/25 2:54:09p You have 679 coins.
+1/2/25 2:54:40p Kyoko says, "c heal kyo"
+1/2/25 2:54:41p *Healing Kyoko 
+1/2/25 2:54:54p Aurelie thinks, "tree BS"
+1/2/25 2:55:08p Kyoko says, "c heal kyo"
+1/2/25 2:55:09p *Healing Kyoko 
+1/2/25 2:55:30p You have 679 coins.
+1/2/25 2:55:53p * Maekoh recovers the Island Panther fur, worth 1c. Your share is 1c.
+1/2/25 2:55:55p * Mimo recovers the Island Panther fur, worth 3c. Your share is 1c.
+1/2/25 2:56:35p Captain Planet says, "have to be going now"
+1/2/25 2:56:37p * Maekoh recovers the Island Panther fur, worth 2c. Your share is 1c.
+1/2/25 2:56:46p Maekoh says, "okay"
+1/2/25 2:56:50p You have 682 coins.
+1/2/25 2:56:51p Maekoh says, "please let me know when you heal me again <3"
+1/2/25 2:58:10p You have 682 coins.
+1/2/25 2:58:29p • /SLEEP when you wish to begin studying.
+1/2/25 2:58:32p Use \SLEEP again when you return.
+1/2/25 2:58:32p You are done adventuring for a while and will be staying here.
+1/2/25 2:58:33p You have been disconnected from Clan Lord.
+1/2/25 2:58:33p • You will benefit from staying here while you are off-line.
+1/2/25 2:58:34p *** We are no longer connected to the Clan Lord game server. ***

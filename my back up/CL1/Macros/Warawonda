@@ -1,0 +1,4161 @@
+// This macro file will be loaded for the player it is named after. 
+
+include "Default"
+
+SETGLOBAL ANum 25
+SETGLOBAL BNum 100
+
+F1
+{
+if @my.right_item != "Staff of Ballou"
+	setglobal swaoback @my.right_item
+		"/equip staffofballou\r"
+end if
+	"/use /QUIET\r"
+		pause 2
+			if swaoback != "Nothing"
+				message "* switched:" swaoback ""
+					"/equip " swaoback " \r"
+						setglobal swaoback ""
+			else if swaoback == "Nothing"
+				"/unequip staffofballou\r"
+			end if
+}
+
+F2
+{
+if @my.right_item != "Rod of Akea"
+	setglobal swaoback @my.right_item
+		"/equip rodofakea\r"
+end if
+"/narr Atkus-Boost \r"
+"/use r" ANum "% 100% /QUIET\r"
+	pause 2
+			if swaoback != "Nothing"
+				message "* switched:" swaoback ""
+					"/equip " swaoback " \r"
+						setglobal swaoback ""
+			else if swaoback == "Nothing"
+				"/unequip rodofakea\r"
+			end if
+}
+
+F3
+{
+if @my.right_item != "Staff of Ballou"
+	setglobal swaoback @my.right_item
+		"/equip staffofballou\r"
+end if
+pause 1
+	"/narr Balance-Boost in 4 seconds\r"
+		pause 20
+			"/use r" ANum "%" BNum "%/QUIET\r"
+				message "* Boosted Range:" ANum "% Power:" BNum "%"
+				pause 2
+					if swaoback != "Nothing"
+						message "* switched:" swaoback ""
+							"/equip " swaoback " \r"
+								setglobal swaoback ""
+					else if swaoback == "Nothing"
+						"/unequip staffofballou\r"
+					end if
+}
+
+F4
+{
+if ANum == 100
+setglobal ANum 25
+message "* Range set to" ANum ""
+goto end
+end if
+if ANum == 75
+setglobal ANum 100
+message "* Range set to" ANum ""
+goto end
+end if
+if ANum == 50
+setglobal ANum 75
+message "* Range set to" ANum ""
+goto end
+end if
+if ANum == 25
+setglobal ANum 50
+message "* Range set to" ANum ""
+goto end
+end if
+label end
+}
+
+F5
+{
+if BNum == 100
+setglobal BNum 33
+message "* Power set to" BNum ""
+goto end
+end if
+if BNum == 83
+setglobal BNum 100
+message "* Power set to" BNum ""
+goto end
+end if
+if BNum == 66
+setglobal BNum 83
+message "* Power set to" BNum ""
+goto end
+end if
+if BNum == 33
+setglobal BNum 66
+message "* Power set to" BNum ""
+goto end
+end if
+label end
+}
+
+"/set"
+{
+if @text.word[0] == "range"
+	SETGLOBAL ANum @text.word[1]
+		message "* Range set to" ANum ""
+else if @text.word[0] == "power"
+	SETGLOBAL BNum @text.word[1]
+		message "* Power set to" BNum ""
+end if
+}
+
+"/sw"
+{
+call sos
+}
+
+sos
+{
+label top
+set word @env.textLog
+if word >= "vanquished a"
+call polish
+end if
+if word >= "killed a"
+call polish
+end if
+if word >= "dispatched a"
+call polish
+end if
+if word >= "slaughtered a"
+call polish
+end if
+goto top
+}
+
+polish
+{
+pause 1
+"/use /polish \r"
+call sos
+}
+
+"/guess"
+{
+message AUTO GUESS ON
+label top
+pause 1
+set wintype @env.textLog
+if wintype < "Zeta"
+call guess
+end if
+if wintype < "Erenal"
+call guess
+end if
+goto top
+}
+
+
+
+guess
+{
+random
+"/whisper 0\r"
+or
+"/whisper 1\r"
+or
+"/whisper 2\r"
+or
+"/whisper 3\r"
+or
+"/whisper 4\r"
+or
+"/whisper 5\r"
+or
+"/whisper 6\r"
+or
+"/whisper 7\r"
+or
+"/whisper 8\r"
+or
+"/whisper 9\r"
+or
+"/whisper 10\r"
+or
+"/whisper 11\r"
+or
+"/whisper 12\r"
+or
+"/whisper 13\r"
+or
+"/whisper 14\r"
+or
+"/whisper 15\r"
+or
+"/whisper 16\r"
+or
+"/whisper 17\r"
+or
+"/whisper 18\r"
+or
+"/whisper 19\r"
+or
+"/whisper 20\r"
+or
+"/whisper 21\r"
+or
+"/whisper 22\r"
+or
+"/whisper 23\r"
+or
+"/whisper 24\r"
+or
+"/whisper 25\r"
+or
+"/whisper 26\r"
+or
+"/whisper 27\r"
+or
+"/whisper 28\r"
+or
+"/whisper 29\r"
+or
+"/whisper 30\r"
+or
+"/whisper 31\r"
+or
+"/whisper 32\r"
+or
+"/whisper 33\r"
+or
+"/whisper 34\r"
+or
+"/whisper 35\r"
+or
+"/whisper 36\r"
+or
+"/whisper 37\r"
+or
+"/whisper 38\r"
+or
+"/whisper 39\r"
+or
+"/whisper 40\r"
+or
+"/whisper 41\r"
+or
+"/whisper 42\r"
+or
+"/whisper 43\r"
+or
+"/whisper 44\r"
+or
+"/whisper 45\r"
+or
+"/whisper 46\r"
+or
+"/whisper 47\r"
+or
+"/whisper 48\r"
+or
+"/whisper 49\r"
+or
+"/whisper 50\r"
+or
+"/whisper 51\r"
+or
+"/whisper 52\r"
+or
+"/whisper 53\r"
+or
+"/whisper 54\r"
+or
+"/whisper 55\r"
+or
+"/whisper 56\r"
+or
+"/whisper 57\r"
+or
+"/whisper 58\r"
+or
+"/whisper 59\r"
+or
+"/whisper 60\r"
+or
+"/whisper 61\r"
+or
+"/whisper 62\r"
+or
+"/whisper 63\r"
+or
+"/whisper 64\r"
+or
+"/whisper 65\r"
+or
+"/whisper 66\r"
+or
+"/whisper 67\r"
+or
+"/whisper 68\r"
+or
+"/whisper 69\r"
+or
+"/whisper 70\r"
+or
+"/whisper 71\r"
+or
+"/whisper 72\r"
+or
+"/whisper 73\r"
+or
+"/whisper 74\r"
+or
+"/whisper 75\r"
+or
+"/whisper 76\r"
+or
+"/whisper 77\r"
+or
+"/whisper 78\r"
+or
+"/whisper 79\r"
+or
+"/whisper 80\r"
+or
+"/whisper 81\r"
+or
+"/whisper 82\r"
+or
+"/whisper 88\r"
+or
+"/whisper 84\r"
+or
+"/whisper 85\r"
+or
+"/whisper 86\r"
+or
+"/whisper 87\r"
+or
+"/whisper 88\r"
+or
+"/whisper 89\r"
+or
+"/whisper 90\r"
+or
+"/whisper 91\r"
+or
+"/whisper 92\r"
+or
+"/whisper 93\r"
+or
+"/whisper 94\r"
+or
+"/whisper 95\r"
+or
+"/whisper 96\r"
+or
+"/whisper 97\r"
+or
+"/whisper 98\r"
+or
+"/whisper 99\r"
+or
+"/whisper 100\r"
+or
+"/whisper 101\r"
+or
+"/whisper 102\r"
+or
+"/whisper 103\r"
+or
+"/whisper 104\r"
+or
+"/whisper 105\r"
+or
+"/whisper 106\r"
+or
+"/whisper 107\r"
+or
+"/whisper 108\r"
+or
+"/whisper 109\r"
+or
+"/whisper 110\r"
+or
+"/whisper 111\r"
+or
+"/whisper 112\r"
+or
+"/whisper 113\r"
+or
+"/whisper 114\r"
+or
+"/whisper 115\r"
+or
+"/whisper 116\r"
+or
+"/whisper 117\r"
+or
+"/whisper 118\r"
+or
+"/whisper 119\r"
+or
+"/whisper 120\r"
+or
+"/whisper 121\r"
+or
+"/whisper 122\r"
+or
+"/whisper 123\r"
+or
+"/whisper 124\r"
+or
+"/whisper 125\r"
+or
+"/whisper 126\r"
+or
+"/whisper 127\r"
+or
+"/whisper 128\r"
+or
+"/whisper 129\r"
+or
+"/whisper 130\r"
+or
+"/whisper 131\r"
+or
+"/whisper 132\r"
+or
+"/whisper 133\r"
+or
+"/whisper 134\r"
+or
+"/whisper 135\r"
+or
+"/whisper 136\r"
+or
+"/whisper 137\r"
+or
+"/whisper 138\r"
+or
+"/whisper 139\r"
+or
+"/whisper 140\r"
+or
+"/whisper 141\r"
+or
+"/whisper 142\r"
+or
+"/whisper 143\r"
+or
+"/whisper 144\r"
+or
+"/whisper 145\r"
+or
+"/whisper 146\r"
+or
+"/whisper 147\r"
+or
+"/whisper 148\r"
+or
+"/whisper 149\r"
+or
+"/whisper 150\r"
+or
+"/whisper 151\r"
+or
+"/whisper 152\r"
+or
+"/whisper 153\r"
+or
+"/whisper 154\r"
+or
+"/whisper 155\r"
+or
+"/whisper 156\r"
+or
+"/whisper 157\r"
+or
+"/whisper 158\r"
+or
+"/whisper 159\r"
+or
+"/whisper 160\r"
+or
+"/whisper 161\r"
+or
+"/whisper 162\r"
+or
+"/whisper 163\r"
+or
+"/whisper 164\r"
+or
+"/whisper 165\r"
+or
+"/whisper 166\r"
+or
+"/whisper 167\r"
+or
+"/whisper 168\r"
+or
+"/whisper 169\r"
+or
+"/whisper 170\r"
+or
+"/whisper 171\r"
+or
+"/whisper 172\r"
+or
+"/whisper 173\r"
+or
+"/whisper 174\r"
+or
+"/whisper 175\r"
+or
+"/whisper 176\r"
+or
+"/whisper 177\r"
+or
+"/whisper 178\r"
+or
+"/whisper 179\r"
+or
+"/whisper 180\r"
+or
+"/whisper 181\r"
+or
+"/whisper 182\r"
+or
+"/whisper 188\r"
+or
+"/whisper 184\r"
+or
+"/whisper 185\r"
+or
+"/whisper 186\r"
+or
+"/whisper 187\r"
+or
+"/whisper 188\r"
+or
+"/whisper 189\r"
+or
+"/whisper 190\r"
+or
+"/whisper 191\r"
+or
+"/whisper 192\r"
+or
+"/whisper 193\r"
+or
+"/whisper 194\r"
+or
+"/whisper 195\r"
+or
+"/whisper 196\r"
+or
+"/whisper 197\r"
+or
+"/whisper 198\r"
+or
+"/whisper 199\r"
+or
+"/whisper 200\r"
+or
+"/whisper 201\r"
+or
+"/whisper 202\r"
+or
+"/whisper 203\r"
+or
+"/whisper 204\r"
+or
+"/whisper 205\r"
+or
+"/whisper 206\r"
+or
+"/whisper 207\r"
+or
+"/whisper 208\r"
+or
+"/whisper 209\r"
+or
+"/whisper 210\r"
+or
+"/whisper 211\r"
+or
+"/whisper 212\r"
+or
+"/whisper 213\r"
+or
+"/whisper 214\r"
+or
+"/whisper 215\r"
+or
+"/whisper 216\r"
+or
+"/whisper 217\r"
+or
+"/whisper 218\r"
+or
+"/whisper 219\r"
+or
+"/whisper 220\r"
+or
+"/whisper 221\r"
+or
+"/whisper 222\r"
+or
+"/whisper 223\r"
+or
+"/whisper 224\r"
+or
+"/whisper 225\r"
+or
+"/whisper 226\r"
+or
+"/whisper 227\r"
+or
+"/whisper 228\r"
+or
+"/whisper 229\r"
+or
+"/whisper 230\r"
+or
+"/whisper 231\r"
+or
+"/whisper 232\r"
+or
+"/whisper 233\r"
+or
+"/whisper 234\r"
+or
+"/whisper 235\r"
+or
+"/whisper 236\r"
+or
+"/whisper 237\r"
+or
+"/whisper 238\r"
+or
+"/whisper 239\r"
+or
+"/whisper 240\r"
+or
+"/whisper 241\r"
+or
+"/whisper 242\r"
+or
+"/whisper 243\r"
+or
+"/whisper 244\r"
+or
+"/whisper 245\r"
+or
+"/whisper 246\r"
+or
+"/whisper 247\r"
+or
+"/whisper 248\r"
+or
+"/whisper 249\r"
+or
+"/whisper 250\r"
+or
+"/whisper 251\r"
+or
+"/whisper 252\r"
+or
+"/whisper 253\r"
+or
+"/whisper 254\r"
+or
+"/whisper 255\r"
+or
+"/whisper 256\r"
+or
+"/whisper 257\r"
+or
+"/whisper 258\r"
+or
+"/whisper 259\r"
+or
+"/whisper 260\r"
+or
+"/whisper 261\r"
+or
+"/whisper 262\r"
+or
+"/whisper 263\r"
+or
+"/whisper 264\r"
+or
+"/whisper 265\r"
+or
+"/whisper 266\r"
+or
+"/whisper 267\r"
+or
+"/whisper 268\r"
+or
+"/whisper 269\r"
+or
+"/whisper 270\r"
+or
+"/whisper 272\r"
+or
+"/whisper 272\r"
+or
+"/whisper 273\r"
+or
+"/whisper 274\r"
+or
+"/whisper 275\r"
+or
+"/whisper 276\r"
+or
+"/whisper 277\r"
+or
+"/whisper 278\r"
+or
+"/whisper 279\r"
+or
+"/whisper 280\r"
+or
+"/whisper 281\r"
+or
+"/whisper 282\r"
+or
+"/whisper 288\r"
+or
+"/whisper 284\r"
+or
+"/whisper 285\r"
+or
+"/whisper 286\r"
+or
+"/whisper 287\r"
+or
+"/whisper 288\r"
+or
+"/whisper 289\r"
+or
+"/whisper 290\r"
+or
+"/whisper 291\r"
+or
+"/whisper 292\r"
+or
+"/whisper 293\r"
+or
+"/whisper 294\r"
+or
+"/whisper 295\r"
+or
+"/whisper 296\r"
+or
+"/whisper 297\r"
+or
+"/whisper 298\r"
+or
+"/whisper 299\r"
+or
+"/whisper 300\r"
+or
+"/whisper 400\r"
+or
+"/whisper 401\r"
+or
+"/whisper 402\r"
+or
+"/whisper 403\r"
+or
+"/whisper 404\r"
+or
+"/whisper 405\r"
+or
+"/whisper 406\r"
+or
+"/whisper 407\r"
+or
+"/whisper 408\r"
+or
+"/whisper 409\r"
+or
+"/whisper 410\r"
+or
+"/whisper 411\r"
+or
+"/whisper 412\r"
+or
+"/whisper 413\r"
+or
+"/whisper 414\r"
+or
+"/whisper 415\r"
+or
+"/whisper 416\r"
+or
+"/whisper 417\r"
+or
+"/whisper 418\r"
+or
+"/whisper 419\r"
+or
+"/whisper 420\r"
+or
+"/whisper 421\r"
+or
+"/whisper 422\r"
+or
+"/whisper 423\r"
+or
+"/whisper 424\r"
+or
+"/whisper 425\r"
+or
+"/whisper 426\r"
+or
+"/whisper 427\r"
+or
+"/whisper 428\r"
+or
+"/whisper 429\r"
+or
+"/whisper 430\r"
+or
+"/whisper 431\r"
+or
+"/whisper 432\r"
+or
+"/whisper 433\r"
+or
+"/whisper 434\r"
+or
+"/whisper 435\r"
+or
+"/whisper 436\r"
+or
+"/whisper 437\r"
+or
+"/whisper 438\r"
+or
+"/whisper 439\r"
+or
+"/whisper 440\r"
+or
+"/whisper 441\r"
+or
+"/whisper 442\r"
+or
+"/whisper 443\r"
+or
+"/whisper 444\r"
+or
+"/whisper 445\r"
+or
+"/whisper 446\r"
+or
+"/whisper 447\r"
+or
+"/whisper 448\r"
+or
+"/whisper 449\r"
+or
+"/whisper 450\r"
+or
+"/whisper 451\r"
+or
+"/whisper 452\r"
+or
+"/whisper 453\r"
+or
+"/whisper 454\r"
+or
+"/whisper 455\r"
+or
+"/whisper 456\r"
+or
+"/whisper 457\r"
+or
+"/whisper 458\r"
+or
+"/whisper 459\r"
+or
+"/whisper 460\r"
+or
+"/whisper 461\r"
+or
+"/whisper 462\r"
+or
+"/whisper 463\r"
+or
+"/whisper 464\r"
+or
+"/whisper 465\r"
+or
+"/whisper 466\r"
+or
+"/whisper 467\r"
+or
+"/whisper 468\r"
+or
+"/whisper 469\r"
+or
+"/whisper 470\r"
+or
+"/whisper 471\r"
+or
+"/whisper 472\r"
+or
+"/whisper 473\r"
+or
+"/whisper 474\r"
+or
+"/whisper 475\r"
+or
+"/whisper 476\r"
+or
+"/whisper 477\r"
+or
+"/whisper 478\r"
+or
+"/whisper 479\r"
+or
+"/whisper 480\r"
+or
+"/whisper 481\r"
+or
+"/whisper 482\r"
+or
+"/whisper 488\r"
+or
+"/whisper 484\r"
+or
+"/whisper 485\r"
+or
+"/whisper 486\r"
+or
+"/whisper 487\r"
+or
+"/whisper 488\r"
+or
+"/whisper 489\r"
+or
+"/whisper 490\r"
+or
+"/whisper 491\r"
+or
+"/whisper 492\r"
+or
+"/whisper 493\r"
+or
+"/whisper 494\r"
+or
+"/whisper 495\r"
+or
+"/whisper 496\r"
+or
+"/whisper 497\r"
+or
+"/whisper 498\r"
+or
+"/whisper 499\r"
+or
+"/whisper 500\r"
+or
+"/whisper 501\r"
+or
+"/whisper 502\r"
+or
+"/whisper 503\r"
+or
+"/whisper 504\r"
+or
+"/whisper 505\r"
+or
+"/whisper 506\r"
+or
+"/whisper 507\r"
+or
+"/whisper 508\r"
+or
+"/whisper 509\r"
+or
+"/whisper 510\r"
+or
+"/whisper 511\r"
+or
+"/whisper 512\r"
+or
+"/whisper 513\r"
+or
+"/whisper 514\r"
+or
+"/whisper 515\r"
+or
+"/whisper 516\r"
+or
+"/whisper 517\r"
+or
+"/whisper 518\r"
+or
+"/whisper 519\r"
+or
+"/whisper 520\r"
+or
+"/whisper 521\r"
+or
+"/whisper 522\r"
+or
+"/whisper 523\r"
+or
+"/whisper 524\r"
+or
+"/whisper 525\r"
+or
+"/whisper 526\r"
+or
+"/whisper 527\r"
+or
+"/whisper 528\r"
+or
+"/whisper 529\r"
+or
+"/whisper 530\r"
+or
+"/whisper 531\r"
+or
+"/whisper 532\r"
+or
+"/whisper 533\r"
+or
+"/whisper 534\r"
+or
+"/whisper 535\r"
+or
+"/whisper 536\r"
+or
+"/whisper 537\r"
+or
+"/whisper 538\r"
+or
+"/whisper 539\r"
+or
+"/whisper 540\r"
+or
+"/whisper 541\r"
+or
+"/whisper 542\r"
+or
+"/whisper 543\r"
+or
+"/whisper 544\r"
+or
+"/whisper 545\r"
+or
+"/whisper 546\r"
+or
+"/whisper 547\r"
+or
+"/whisper 548\r"
+or
+"/whisper 549\r"
+or
+"/whisper 550\r"
+or
+"/whisper 551\r"
+or
+"/whisper 552\r"
+or
+"/whisper 553\r"
+or
+"/whisper 554\r"
+or
+"/whisper 555\r"
+or
+"/whisper 556\r"
+or
+"/whisper 557\r"
+or
+"/whisper 558\r"
+or
+"/whisper 559\r"
+or
+"/whisper 560\r"
+or
+"/whisper 561\r"
+or
+"/whisper 562\r"
+or
+"/whisper 563\r"
+or
+"/whisper 564\r"
+or
+"/whisper 565\r"
+or
+"/whisper 566\r"
+or
+"/whisper 567\r"
+or
+"/whisper 568\r"
+or
+"/whisper 569\r"
+or
+"/whisper 570\r"
+or
+"/whisper 571\r"
+or
+"/whisper 572\r"
+or
+"/whisper 573\r"
+or
+"/whisper 574\r"
+or
+"/whisper 575\r"
+or
+"/whisper 576\r"
+or
+"/whisper 577\r"
+or
+"/whisper 578\r"
+or
+"/whisper 579\r"
+or
+"/whisper 580\r"
+or
+"/whisper 581\r"
+or
+"/whisper 582\r"
+or
+"/whisper 588\r"
+or
+"/whisper 584\r"
+or
+"/whisper 585\r"
+or
+"/whisper 586\r"
+or
+"/whisper 587\r"
+or
+"/whisper 588\r"
+or
+"/whisper 589\r"
+or
+"/whisper 590\r"
+or
+"/whisper 591\r"
+or
+"/whisper 592\r"
+or
+"/whisper 593\r"
+or
+"/whisper 594\r"
+or
+"/whisper 595\r"
+or
+"/whisper 596\r"
+or
+"/whisper 597\r"
+or
+"/whisper 598\r"
+or
+"/whisper 599\r"
+or
+"/whisper 200\r"
+or
+"/whisper 600\r"
+or
+"/whisper 601\r"
+or
+"/whisper 602\r"
+or
+"/whisper 603\r"
+or
+"/whisper 604\r"
+or
+"/whisper 605\r"
+or
+"/whisper 606\r"
+or
+"/whisper 607\r"
+or
+"/whisper 608\r"
+or
+"/whisper 609\r"
+or
+"/whisper 610\r"
+or
+"/whisper 611\r"
+or
+"/whisper 612\r"
+or
+"/whisper 613\r"
+or
+"/whisper 614\r"
+or
+"/whisper 615\r"
+or
+"/whisper 616\r"
+or
+"/whisper 617\r"
+or
+"/whisper 618\r"
+or
+"/whisper 619\r"
+or
+"/whisper 620\r"
+or
+"/whisper 621\r"
+or
+"/whisper 622\r"
+or
+"/whisper 623\r"
+or
+"/whisper 624\r"
+or
+"/whisper 625\r"
+or
+"/whisper 626\r"
+or
+"/whisper 627\r"
+or
+"/whisper 628\r"
+or
+"/whisper 629\r"
+or
+"/whisper 630\r"
+or
+"/whisper 631\r"
+or
+"/whisper 632\r"
+or
+"/whisper 633\r"
+or
+"/whisper 634\r"
+or
+"/whisper 635\r"
+or
+"/whisper 636\r"
+or
+"/whisper 637\r"
+or
+"/whisper 638\r"
+or
+"/whisper 639\r"
+or
+"/whisper 640\r"
+or
+"/whisper 641\r"
+or
+"/whisper 642\r"
+or
+"/whisper 643\r"
+or
+"/whisper 644\r"
+or
+"/whisper 645\r"
+or
+"/whisper 646\r"
+or
+"/whisper 647\r"
+or
+"/whisper 648\r"
+or
+"/whisper 649\r"
+or
+"/whisper 650\r"
+or
+"/whisper 651\r"
+or
+"/whisper 652\r"
+or
+"/whisper 653\r"
+or
+"/whisper 654\r"
+or
+"/whisper 655\r"
+or
+"/whisper 656\r"
+or
+"/whisper 657\r"
+or
+"/whisper 658\r"
+or
+"/whisper 659\r"
+or
+"/whisper 660\r"
+or
+"/whisper 661\r"
+or
+"/whisper 662\r"
+or
+"/whisper 663\r"
+or
+"/whisper 664\r"
+or
+"/whisper 665\r"
+or
+"/whisper 666\r"
+or
+"/whisper 667\r"
+or
+"/whisper 668\r"
+or
+"/whisper 669\r"
+or
+"/whisper 670\r"
+or
+"/whisper 671\r"
+or
+"/whisper 672\r"
+or
+"/whisper 673\r"
+or
+"/whisper 674\r"
+or
+"/whisper 675\r"
+or
+"/whisper 676\r"
+or
+"/whisper 677\r"
+or
+"/whisper 678\r"
+or
+"/whisper 679\r"
+or
+"/whisper 680\r"
+or
+"/whisper 681\r"
+or
+"/whisper 682\r"
+or
+"/whisper 688\r"
+or
+"/whisper 684\r"
+or
+"/whisper 685\r"
+or
+"/whisper 686\r"
+or
+"/whisper 687\r"
+or
+"/whisper 688\r"
+or
+"/whisper 689\r"
+or
+"/whisper 690\r"
+or
+"/whisper 691\r"
+or
+"/whisper 692\r"
+or
+"/whisper 693\r"
+or
+"/whisper 694\r"
+or
+"/whisper 695\r"
+or
+"/whisper 696\r"
+or
+"/whisper 697\r"
+or
+"/whisper 698\r"
+or
+"/whisper 699\r"
+or
+"/whisper 700\r"
+or
+"/whisper 701\r"
+or
+"/whisper 702\r"
+or
+"/whisper 703\r"
+or
+"/whisper 704\r"
+or
+"/whisper 705\r"
+or
+"/whisper 706\r"
+or
+"/whisper 707\r"
+or
+"/whisper 708\r"
+or
+"/whisper 709\r"
+or
+"/whisper 710\r"
+or
+"/whisper 711\r"
+or
+"/whisper 712\r"
+or
+"/whisper 713\r"
+or
+"/whisper 714\r"
+or
+"/whisper 715\r"
+or
+"/whisper 716\r"
+or
+"/whisper 717\r"
+or
+"/whisper 718\r"
+or
+"/whisper 719\r"
+or
+"/whisper 720\r"
+or
+"/whisper 721\r"
+or
+"/whisper 722\r"
+or
+"/whisper 723\r"
+or
+"/whisper 724\r"
+or
+"/whisper 725\r"
+or
+"/whisper 726\r"
+or
+"/whisper 727\r"
+or
+"/whisper 728\r"
+or
+"/whisper 729\r"
+or
+"/whisper 730\r"
+or
+"/whisper 731\r"
+or
+"/whisper 732\r"
+or
+"/whisper 733\r"
+or
+"/whisper 734\r"
+or
+"/whisper 735\r"
+or
+"/whisper 736\r"
+or
+"/whisper 737\r"
+or
+"/whisper 738\r"
+or
+"/whisper 739\r"
+or
+"/whisper 740\r"
+or
+"/whisper 741\r"
+or
+"/whisper 742\r"
+or
+"/whisper 743\r"
+or
+"/whisper 744\r"
+or
+"/whisper 745\r"
+or
+"/whisper 746\r"
+or
+"/whisper 747\r"
+or
+"/whisper 748\r"
+or
+"/whisper 749\r"
+or
+"/whisper 750\r"
+or
+"/whisper 751\r"
+or
+"/whisper 752\r"
+or
+"/whisper 753\r"
+or
+"/whisper 754\r"
+or
+"/whisper 755\r"
+or
+"/whisper 756\r"
+or
+"/whisper 757\r"
+or
+"/whisper 758\r"
+or
+"/whisper 759\r"
+or
+"/whisper 760\r"
+or
+"/whisper 761\r"
+or
+"/whisper 762\r"
+or
+"/whisper 763\r"
+or
+"/whisper 764\r"
+or
+"/whisper 765\r"
+or
+"/whisper 766\r"
+or
+"/whisper 767\r"
+or
+"/whisper 768\r"
+or
+"/whisper 769\r"
+or
+"/whisper 770\r"
+or
+"/whisper 771\r"
+or
+"/whisper 772\r"
+or
+"/whisper 773\r"
+or
+"/whisper 774\r"
+or
+"/whisper 775\r"
+or
+"/whisper 776\r"
+or
+"/whisper 777\r"
+or
+"/whisper 778\r"
+or
+"/whisper 779\r"
+or
+"/whisper 780\r"
+or
+"/whisper 781\r"
+or
+"/whisper 782\r"
+or
+"/whisper 788\r"
+or
+"/whisper 784\r"
+or
+"/whisper 785\r"
+or
+"/whisper 786\r"
+or
+"/whisper 787\r"
+or
+"/whisper 788\r"
+or
+"/whisper 789\r"
+or
+"/whisper 790\r"
+or
+"/whisper 791\r"
+or
+"/whisper 792\r"
+or
+"/whisper 793\r"
+or
+"/whisper 794\r"
+or
+"/whisper 795\r"
+or
+"/whisper 796\r"
+or
+"/whisper 797\r"
+or
+"/whisper 798\r"
+or
+"/whisper 799\r"
+or
+"/whisper 800\r"
+or
+"/whisper 800\r"
+or
+"/whisper 801\r"
+or
+"/whisper 802\r"
+or
+"/whisper 803\r"
+or
+"/whisper 804\r"
+or
+"/whisper 805\r"
+or
+"/whisper 806\r"
+or
+"/whisper 807\r"
+or
+"/whisper 808\r"
+or
+"/whisper 809\r"
+or
+"/whisper 810\r"
+or
+"/whisper 811\r"
+or
+"/whisper 812\r"
+or
+"/whisper 813\r"
+or
+"/whisper 814\r"
+or
+"/whisper 815\r"
+or
+"/whisper 816\r"
+or
+"/whisper 817\r"
+or
+"/whisper 818\r"
+or
+"/whisper 819\r"
+or
+"/whisper 820\r"
+or
+"/whisper 821\r"
+or
+"/whisper 822\r"
+or
+"/whisper 823\r"
+or
+"/whisper 824\r"
+or
+"/whisper 825\r"
+or
+"/whisper 826\r"
+or
+"/whisper 827\r"
+or
+"/whisper 828\r"
+or
+"/whisper 829\r"
+or
+"/whisper 830\r"
+or
+"/whisper 831\r"
+or
+"/whisper 832\r"
+or
+"/whisper 833\r"
+or
+"/whisper 834\r"
+or
+"/whisper 835\r"
+or
+"/whisper 836\r"
+or
+"/whisper 837\r"
+or
+"/whisper 838\r"
+or
+"/whisper 839\r"
+or
+"/whisper 840\r"
+or
+"/whisper 841\r"
+or
+"/whisper 842\r"
+or
+"/whisper 843\r"
+or
+"/whisper 844\r"
+or
+"/whisper 845\r"
+or
+"/whisper 846\r"
+or
+"/whisper 847\r"
+or
+"/whisper 848\r"
+or
+"/whisper 849\r"
+or
+"/whisper 850\r"
+or
+"/whisper 851\r"
+or
+"/whisper 852\r"
+or
+"/whisper 853\r"
+or
+"/whisper 854\r"
+or
+"/whisper 855\r"
+or
+"/whisper 856\r"
+or
+"/whisper 857\r"
+or
+"/whisper 858\r"
+or
+"/whisper 859\r"
+or
+"/whisper 860\r"
+or
+"/whisper 861\r"
+or
+"/whisper 862\r"
+or
+"/whisper 863\r"
+or
+"/whisper 864\r"
+or
+"/whisper 865\r"
+or
+"/whisper 866\r"
+or
+"/whisper 867\r"
+or
+"/whisper 868\r"
+or
+"/whisper 869\r"
+or
+"/whisper 870\r"
+or
+"/whisper 871\r"
+or
+"/whisper 872\r"
+or
+"/whisper 873\r"
+or
+"/whisper 874\r"
+or
+"/whisper 875\r"
+or
+"/whisper 876\r"
+or
+"/whisper 877\r"
+or
+"/whisper 878\r"
+or
+"/whisper 879\r"
+or
+"/whisper 880\r"
+or
+"/whisper 881\r"
+or
+"/whisper 882\r"
+or
+"/whisper 888\r"
+or
+"/whisper 884\r"
+or
+"/whisper 885\r"
+or
+"/whisper 886\r"
+or
+"/whisper 887\r"
+or
+"/whisper 888\r"
+or
+"/whisper 889\r"
+or
+"/whisper 890\r"
+or
+"/whisper 891\r"
+or
+"/whisper 892\r"
+or
+"/whisper 893\r"
+or
+"/whisper 894\r"
+or
+"/whisper 895\r"
+or
+"/whisper 896\r"
+or
+"/whisper 897\r"
+or
+"/whisper 898\r"
+or
+"/whisper 899\r"
+or
+"/whisper 900\r"
+or
+"/whisper 901\r"
+or
+"/whisper 902\r"
+or
+"/whisper 903\r"
+or
+"/whisper 904\r"
+or
+"/whisper 905\r"
+or
+"/whisper 906\r"
+or
+"/whisper 907\r"
+or
+"/whisper 908\r"
+or
+"/whisper 909\r"
+or
+"/whisper 910\r"
+or
+"/whisper 911\r"
+or
+"/whisper 912\r"
+or
+"/whisper 913\r"
+or
+"/whisper 914\r"
+or
+"/whisper 915\r"
+or
+"/whisper 916\r"
+or
+"/whisper 917\r"
+or
+"/whisper 918\r"
+or
+"/whisper 919\r"
+or
+"/whisper 920\r"
+or
+"/whisper 921\r"
+or
+"/whisper 922\r"
+or
+"/whisper 923\r"
+or
+"/whisper 924\r"
+or
+"/whisper 925\r"
+or
+"/whisper 926\r"
+or
+"/whisper 927\r"
+or
+"/whisper 928\r"
+or
+"/whisper 929\r"
+or
+"/whisper 930\r"
+or
+"/whisper 931\r"
+or
+"/whisper 932\r"
+or
+"/whisper 933\r"
+or
+"/whisper 934\r"
+or
+"/whisper 935\r"
+or
+"/whisper 936\r"
+or
+"/whisper 937\r"
+or
+"/whisper 938\r"
+or
+"/whisper 939\r"
+or
+"/whisper 940\r"
+or
+"/whisper 941\r"
+or
+"/whisper 942\r"
+or
+"/whisper 943\r"
+or
+"/whisper 944\r"
+or
+"/whisper 945\r"
+or
+"/whisper 946\r"
+or
+"/whisper 947\r"
+or
+"/whisper 948\r"
+or
+"/whisper 949\r"
+or
+"/whisper 950\r"
+or
+"/whisper 951\r"
+or
+"/whisper 952\r"
+or
+"/whisper 953\r"
+or
+"/whisper 954\r"
+or
+"/whisper 955\r"
+or
+"/whisper 956\r"
+or
+"/whisper 957\r"
+or
+"/whisper 958\r"
+or
+"/whisper 959\r"
+or
+"/whisper 960\r"
+or
+"/whisper 961\r"
+or
+"/whisper 962\r"
+or
+"/whisper 963\r"
+or
+"/whisper 964\r"
+or
+"/whisper 965\r"
+or
+"/whisper 966\r"
+or
+"/whisper 967\r"
+or
+"/whisper 968\r"
+or
+"/whisper 969\r"
+or
+"/whisper 970\r"
+or
+"/whisper 971\r"
+or
+"/whisper 972\r"
+or
+"/whisper 973\r"
+or
+"/whisper 974\r"
+or
+"/whisper 975\r"
+or
+"/whisper 976\r"
+or
+"/whisper 977\r"
+or
+"/whisper 978\r"
+or
+"/whisper 979\r"
+or
+"/whisper 980\r"
+or
+"/whisper 981\r"
+or
+"/whisper 982\r"
+or
+"/whisper 988\r"
+or
+"/whisper 984\r"
+or
+"/whisper 985\r"
+or
+"/whisper 986\r"
+or
+"/whisper 987\r"
+or
+"/whisper 988\r"
+or
+"/whisper 989\r"
+or
+"/whisper 990\r"
+or
+"/whisper 991\r"
+or
+"/whisper 992\r"
+or
+"/whisper 993\r"
+or
+"/whisper 994\r"
+or
+"/whisper 995\r"
+or
+"/whisper 996\r"
+or
+"/whisper 997\r"
+or
+"/whisper 998\r"
+or
+"/whisper 999\r"
+end random
+end if
+}
+
+"/ab"
+{
+message "*Auto Boost On!"
+label top
+set @env.click_interrupts true
+"/ponder zzZ balance boosting Zz ..5 secons \r"
+pause 25
+"/use /QUIET\r"
+pause 655
+goto top
+end if
+}
+
+
+setglobal guessme 0
+
+
+
+"/gm"
+{
+label top
+set listen @env.textlog
+if listen >= "number"
+setglobal guessme 1
+"/move stop\r"
+end if
+if listen >= "Give it up"
+setglobal guessme 0
+"/move west run\r"
+end if
+goto top
+}
+
+"/go"
+{
+label top
+pause 2
+if guessme == 1
+random
+"/whisper 000\r"
+or
+"/whisper 001\r"
+or
+"/whisper 002\r"
+or
+"/whisper 003\r"
+or
+"/whisper 004\r"
+or
+"/whisper 005\r"
+or
+"/whisper 006\r"
+or
+"/whisper 007\r"
+or
+"/whisper 008\r"
+or
+"/whisper 009\r"
+or
+"/whisper 010\r"
+or
+"/whisper 011\r"
+or
+"/whisper 012\r"
+or
+"/whisper 013\r"
+or
+"/whisper 014\r"
+or
+"/whisper 015\r"
+or
+"/whisper 016\r"
+or
+"/whisper 017\r"
+or
+"/whisper 018\r"
+or
+"/whisper 019\r"
+or
+"/whisper 020\r"
+or
+"/whisper 021\r"
+or
+"/whisper 022\r"
+or
+"/whisper 023\r"
+or
+"/whisper 024\r"
+or
+"/whisper 025\r"
+or
+"/whisper 026\r"
+or
+"/whisper 027\r"
+or
+"/whisper 028\r"
+or
+"/whisper 029\r"
+or
+"/whisper 030\r"
+or
+"/whisper 031\r"
+or
+"/whisper 032\r"
+or
+"/whisper 033\r"
+or
+"/whisper 034\r"
+or
+"/whisper 035\r"
+or
+"/whisper 036\r"
+or
+"/whisper 037\r"
+or
+"/whisper 038\r"
+or
+"/whisper 039\r"
+or
+"/whisper 040\r"
+or
+"/whisper 041\r"
+or
+"/whisper 042\r"
+or
+"/whisper 043\r"
+or
+"/whisper 044\r"
+or
+"/whisper 045\r"
+or
+"/whisper 046\r"
+or
+"/whisper 047\r"
+or
+"/whisper 048\r"
+or
+"/whisper 049\r"
+or
+"/whisper 050\r"
+or
+"/whisper 051\r"
+or
+"/whisper 052\r"
+or
+"/whisper 053\r"
+or
+"/whisper 054\r"
+or
+"/whisper 055\r"
+or
+"/whisper 056\r"
+or
+"/whisper 057\r"
+or
+"/whisper 058\r"
+or
+"/whisper 059\r"
+or
+"/whisper 060\r"
+or
+"/whisper 061\r"
+or
+"/whisper 062\r"
+or
+"/whisper 063\r"
+or
+"/whisper 064\r"
+or
+"/whisper 065\r"
+or
+"/whisper 066\r"
+or
+"/whisper 067\r"
+or
+"/whisper 068\r"
+or
+"/whisper 069\r"
+or
+"/whisper 070\r"
+or
+"/whisper 071\r"
+or
+"/whisper 072\r"
+or
+"/whisper 073\r"
+or
+"/whisper 074\r"
+or
+"/whisper 075\r"
+or
+"/whisper 076\r"
+or
+"/whisper 077\r"
+or
+"/whisper 078\r"
+or
+"/whisper 079\r"
+or
+"/whisper 080\r"
+or
+"/whisper 081\r"
+or
+"/whisper 082\r"
+or
+"/whisper 088\r"
+or
+"/whisper 084\r"
+or
+"/whisper 085\r"
+or
+"/whisper 086\r"
+or
+"/whisper 087\r"
+or
+"/whisper 088\r"
+or
+"/whisper 089\r"
+or
+"/whisper 090\r"
+or
+"/whisper 091\r"
+or
+"/whisper 092\r"
+or
+"/whisper 093\r"
+or
+"/whisper 094\r"
+or
+"/whisper 095\r"
+or
+"/whisper 096\r"
+or
+"/whisper 097\r"
+or
+"/whisper 098\r"
+or
+"/whisper 099\r"
+or
+"/whisper 100\r"
+or
+"/whisper 101\r"
+or
+"/whisper 102\r"
+or
+"/whisper 103\r"
+or
+"/whisper 104\r"
+or
+"/whisper 105\r"
+or
+"/whisper 106\r"
+or
+"/whisper 107\r"
+or
+"/whisper 108\r"
+or
+"/whisper 109\r"
+or
+"/whisper 110\r"
+or
+"/whisper 111\r"
+or
+"/whisper 112\r"
+or
+"/whisper 113\r"
+or
+"/whisper 114\r"
+or
+"/whisper 115\r"
+or
+"/whisper 116\r"
+or
+"/whisper 117\r"
+or
+"/whisper 118\r"
+or
+"/whisper 119\r"
+or
+"/whisper 120\r"
+or
+"/whisper 121\r"
+or
+"/whisper 122\r"
+or
+"/whisper 123\r"
+or
+"/whisper 124\r"
+or
+"/whisper 125\r"
+or
+"/whisper 126\r"
+or
+"/whisper 127\r"
+or
+"/whisper 128\r"
+or
+"/whisper 129\r"
+or
+"/whisper 130\r"
+or
+"/whisper 131\r"
+or
+"/whisper 132\r"
+or
+"/whisper 133\r"
+or
+"/whisper 134\r"
+or
+"/whisper 135\r"
+or
+"/whisper 136\r"
+or
+"/whisper 137\r"
+or
+"/whisper 138\r"
+or
+"/whisper 139\r"
+or
+"/whisper 140\r"
+or
+"/whisper 141\r"
+or
+"/whisper 142\r"
+or
+"/whisper 143\r"
+or
+"/whisper 144\r"
+or
+"/whisper 145\r"
+or
+"/whisper 146\r"
+or
+"/whisper 147\r"
+or
+"/whisper 148\r"
+or
+"/whisper 149\r"
+or
+"/whisper 150\r"
+or
+"/whisper 151\r"
+or
+"/whisper 152\r"
+or
+"/whisper 153\r"
+or
+"/whisper 154\r"
+or
+"/whisper 155\r"
+or
+"/whisper 156\r"
+or
+"/whisper 157\r"
+or
+"/whisper 158\r"
+or
+"/whisper 159\r"
+or
+"/whisper 160\r"
+or
+"/whisper 161\r"
+or
+"/whisper 162\r"
+or
+"/whisper 163\r"
+or
+"/whisper 164\r"
+or
+"/whisper 165\r"
+or
+"/whisper 166\r"
+or
+"/whisper 167\r"
+or
+"/whisper 168\r"
+or
+"/whisper 169\r"
+or
+"/whisper 170\r"
+or
+"/whisper 171\r"
+or
+"/whisper 172\r"
+or
+"/whisper 173\r"
+or
+"/whisper 174\r"
+or
+"/whisper 175\r"
+or
+"/whisper 176\r"
+or
+"/whisper 177\r"
+or
+"/whisper 178\r"
+or
+"/whisper 179\r"
+or
+"/whisper 180\r"
+or
+"/whisper 181\r"
+or
+"/whisper 182\r"
+or
+"/whisper 188\r"
+or
+"/whisper 184\r"
+or
+"/whisper 185\r"
+or
+"/whisper 186\r"
+or
+"/whisper 187\r"
+or
+"/whisper 188\r"
+or
+"/whisper 189\r"
+or
+"/whisper 190\r"
+or
+"/whisper 191\r"
+or
+"/whisper 192\r"
+or
+"/whisper 193\r"
+or
+"/whisper 194\r"
+or
+"/whisper 195\r"
+or
+"/whisper 196\r"
+or
+"/whisper 197\r"
+or
+"/whisper 198\r"
+or
+"/whisper 199\r"
+or
+"/whisper 200\r"
+or
+"/whisper 201\r"
+or
+"/whisper 202\r"
+or
+"/whisper 203\r"
+or
+"/whisper 204\r"
+or
+"/whisper 205\r"
+or
+"/whisper 206\r"
+or
+"/whisper 207\r"
+or
+"/whisper 208\r"
+or
+"/whisper 209\r"
+or
+"/whisper 210\r"
+or
+"/whisper 211\r"
+or
+"/whisper 212\r"
+or
+"/whisper 213\r"
+or
+"/whisper 214\r"
+or
+"/whisper 215\r"
+or
+"/whisper 216\r"
+or
+"/whisper 217\r"
+or
+"/whisper 218\r"
+or
+"/whisper 219\r"
+or
+"/whisper 220\r"
+or
+"/whisper 221\r"
+or
+"/whisper 222\r"
+or
+"/whisper 223\r"
+or
+"/whisper 224\r"
+or
+"/whisper 225\r"
+or
+"/whisper 226\r"
+or
+"/whisper 227\r"
+or
+"/whisper 228\r"
+or
+"/whisper 229\r"
+or
+"/whisper 230\r"
+or
+"/whisper 231\r"
+or
+"/whisper 232\r"
+or
+"/whisper 233\r"
+or
+"/whisper 234\r"
+or
+"/whisper 235\r"
+or
+"/whisper 236\r"
+or
+"/whisper 237\r"
+or
+"/whisper 238\r"
+or
+"/whisper 239\r"
+or
+"/whisper 240\r"
+or
+"/whisper 241\r"
+or
+"/whisper 242\r"
+or
+"/whisper 243\r"
+or
+"/whisper 244\r"
+or
+"/whisper 245\r"
+or
+"/whisper 246\r"
+or
+"/whisper 247\r"
+or
+"/whisper 248\r"
+or
+"/whisper 249\r"
+or
+"/whisper 250\r"
+or
+"/whisper 251\r"
+or
+"/whisper 252\r"
+or
+"/whisper 253\r"
+or
+"/whisper 254\r"
+or
+"/whisper 255\r"
+or
+"/whisper 256\r"
+or
+"/whisper 257\r"
+or
+"/whisper 258\r"
+or
+"/whisper 259\r"
+or
+"/whisper 260\r"
+or
+"/whisper 261\r"
+or
+"/whisper 262\r"
+or
+"/whisper 263\r"
+or
+"/whisper 264\r"
+or
+"/whisper 265\r"
+or
+"/whisper 266\r"
+or
+"/whisper 267\r"
+or
+"/whisper 268\r"
+or
+"/whisper 269\r"
+or
+"/whisper 270\r"
+or
+"/whisper 272\r"
+or
+"/whisper 272\r"
+or
+"/whisper 273\r"
+or
+"/whisper 274\r"
+or
+"/whisper 275\r"
+or
+"/whisper 276\r"
+or
+"/whisper 277\r"
+or
+"/whisper 278\r"
+or
+"/whisper 279\r"
+or
+"/whisper 280\r"
+or
+"/whisper 281\r"
+or
+"/whisper 282\r"
+or
+"/whisper 288\r"
+or
+"/whisper 284\r"
+or
+"/whisper 285\r"
+or
+"/whisper 286\r"
+or
+"/whisper 287\r"
+or
+"/whisper 288\r"
+or
+"/whisper 289\r"
+or
+"/whisper 290\r"
+or
+"/whisper 291\r"
+or
+"/whisper 292\r"
+or
+"/whisper 293\r"
+or
+"/whisper 294\r"
+or
+"/whisper 295\r"
+or
+"/whisper 296\r"
+or
+"/whisper 297\r"
+or
+"/whisper 298\r"
+or
+"/whisper 299\r"
+or
+"/whisper 300\r"
+or
+"/whisper 400\r"
+or
+"/whisper 401\r"
+or
+"/whisper 402\r"
+or
+"/whisper 403\r"
+or
+"/whisper 404\r"
+or
+"/whisper 405\r"
+or
+"/whisper 406\r"
+or
+"/whisper 407\r"
+or
+"/whisper 408\r"
+or
+"/whisper 409\r"
+or
+"/whisper 410\r"
+or
+"/whisper 411\r"
+or
+"/whisper 412\r"
+or
+"/whisper 413\r"
+or
+"/whisper 414\r"
+or
+"/whisper 415\r"
+or
+"/whisper 416\r"
+or
+"/whisper 417\r"
+or
+"/whisper 418\r"
+or
+"/whisper 419\r"
+or
+"/whisper 420\r"
+or
+"/whisper 421\r"
+or
+"/whisper 422\r"
+or
+"/whisper 423\r"
+or
+"/whisper 424\r"
+or
+"/whisper 425\r"
+or
+"/whisper 426\r"
+or
+"/whisper 427\r"
+or
+"/whisper 428\r"
+or
+"/whisper 429\r"
+or
+"/whisper 430\r"
+or
+"/whisper 431\r"
+or
+"/whisper 432\r"
+or
+"/whisper 433\r"
+or
+"/whisper 434\r"
+or
+"/whisper 435\r"
+or
+"/whisper 436\r"
+or
+"/whisper 437\r"
+or
+"/whisper 438\r"
+or
+"/whisper 439\r"
+or
+"/whisper 440\r"
+or
+"/whisper 441\r"
+or
+"/whisper 442\r"
+or
+"/whisper 443\r"
+or
+"/whisper 444\r"
+or
+"/whisper 445\r"
+or
+"/whisper 446\r"
+or
+"/whisper 447\r"
+or
+"/whisper 448\r"
+or
+"/whisper 449\r"
+or
+"/whisper 450\r"
+or
+"/whisper 451\r"
+or
+"/whisper 452\r"
+or
+"/whisper 453\r"
+or
+"/whisper 454\r"
+or
+"/whisper 455\r"
+or
+"/whisper 456\r"
+or
+"/whisper 457\r"
+or
+"/whisper 458\r"
+or
+"/whisper 459\r"
+or
+"/whisper 460\r"
+or
+"/whisper 461\r"
+or
+"/whisper 462\r"
+or
+"/whisper 463\r"
+or
+"/whisper 464\r"
+or
+"/whisper 465\r"
+or
+"/whisper 466\r"
+or
+"/whisper 467\r"
+or
+"/whisper 468\r"
+or
+"/whisper 469\r"
+or
+"/whisper 470\r"
+or
+"/whisper 471\r"
+or
+"/whisper 472\r"
+or
+"/whisper 473\r"
+or
+"/whisper 474\r"
+or
+"/whisper 475\r"
+or
+"/whisper 476\r"
+or
+"/whisper 477\r"
+or
+"/whisper 478\r"
+or
+"/whisper 479\r"
+or
+"/whisper 480\r"
+or
+"/whisper 481\r"
+or
+"/whisper 482\r"
+or
+"/whisper 488\r"
+or
+"/whisper 484\r"
+or
+"/whisper 485\r"
+or
+"/whisper 486\r"
+or
+"/whisper 487\r"
+or
+"/whisper 488\r"
+or
+"/whisper 489\r"
+or
+"/whisper 490\r"
+or
+"/whisper 491\r"
+or
+"/whisper 492\r"
+or
+"/whisper 493\r"
+or
+"/whisper 494\r"
+or
+"/whisper 495\r"
+or
+"/whisper 496\r"
+or
+"/whisper 497\r"
+or
+"/whisper 498\r"
+or
+"/whisper 499\r"
+or
+"/whisper 500\r"
+or
+"/whisper 501\r"
+or
+"/whisper 502\r"
+or
+"/whisper 503\r"
+or
+"/whisper 504\r"
+or
+"/whisper 505\r"
+or
+"/whisper 506\r"
+or
+"/whisper 507\r"
+or
+"/whisper 508\r"
+or
+"/whisper 509\r"
+or
+"/whisper 510\r"
+or
+"/whisper 511\r"
+or
+"/whisper 512\r"
+or
+"/whisper 513\r"
+or
+"/whisper 514\r"
+or
+"/whisper 515\r"
+or
+"/whisper 516\r"
+or
+"/whisper 517\r"
+or
+"/whisper 518\r"
+or
+"/whisper 519\r"
+or
+"/whisper 520\r"
+or
+"/whisper 521\r"
+or
+"/whisper 522\r"
+or
+"/whisper 523\r"
+or
+"/whisper 524\r"
+or
+"/whisper 525\r"
+or
+"/whisper 526\r"
+or
+"/whisper 527\r"
+or
+"/whisper 528\r"
+or
+"/whisper 529\r"
+or
+"/whisper 530\r"
+or
+"/whisper 531\r"
+or
+"/whisper 532\r"
+or
+"/whisper 533\r"
+or
+"/whisper 534\r"
+or
+"/whisper 535\r"
+or
+"/whisper 536\r"
+or
+"/whisper 537\r"
+or
+"/whisper 538\r"
+or
+"/whisper 539\r"
+or
+"/whisper 540\r"
+or
+"/whisper 541\r"
+or
+"/whisper 542\r"
+or
+"/whisper 543\r"
+or
+"/whisper 544\r"
+or
+"/whisper 545\r"
+or
+"/whisper 546\r"
+or
+"/whisper 547\r"
+or
+"/whisper 548\r"
+or
+"/whisper 549\r"
+or
+"/whisper 550\r"
+or
+"/whisper 551\r"
+or
+"/whisper 552\r"
+or
+"/whisper 553\r"
+or
+"/whisper 554\r"
+or
+"/whisper 555\r"
+or
+"/whisper 556\r"
+or
+"/whisper 557\r"
+or
+"/whisper 558\r"
+or
+"/whisper 559\r"
+or
+"/whisper 560\r"
+or
+"/whisper 561\r"
+or
+"/whisper 562\r"
+or
+"/whisper 563\r"
+or
+"/whisper 564\r"
+or
+"/whisper 565\r"
+or
+"/whisper 566\r"
+or
+"/whisper 567\r"
+or
+"/whisper 568\r"
+or
+"/whisper 569\r"
+or
+"/whisper 570\r"
+or
+"/whisper 571\r"
+or
+"/whisper 572\r"
+or
+"/whisper 573\r"
+or
+"/whisper 574\r"
+or
+"/whisper 575\r"
+or
+"/whisper 576\r"
+or
+"/whisper 577\r"
+or
+"/whisper 578\r"
+or
+"/whisper 579\r"
+or
+"/whisper 580\r"
+or
+"/whisper 581\r"
+or
+"/whisper 582\r"
+or
+"/whisper 588\r"
+or
+"/whisper 584\r"
+or
+"/whisper 585\r"
+or
+"/whisper 586\r"
+or
+"/whisper 587\r"
+or
+"/whisper 588\r"
+or
+"/whisper 589\r"
+or
+"/whisper 590\r"
+or
+"/whisper 591\r"
+or
+"/whisper 592\r"
+or
+"/whisper 593\r"
+or
+"/whisper 594\r"
+or
+"/whisper 595\r"
+or
+"/whisper 596\r"
+or
+"/whisper 597\r"
+or
+"/whisper 598\r"
+or
+"/whisper 599\r"
+or
+"/whisper 200\r"
+or
+"/whisper 600\r"
+or
+"/whisper 601\r"
+or
+"/whisper 602\r"
+or
+"/whisper 603\r"
+or
+"/whisper 604\r"
+or
+"/whisper 605\r"
+or
+"/whisper 606\r"
+or
+"/whisper 607\r"
+or
+"/whisper 608\r"
+or
+"/whisper 609\r"
+or
+"/whisper 610\r"
+or
+"/whisper 611\r"
+or
+"/whisper 612\r"
+or
+"/whisper 613\r"
+or
+"/whisper 614\r"
+or
+"/whisper 615\r"
+or
+"/whisper 616\r"
+or
+"/whisper 617\r"
+or
+"/whisper 618\r"
+or
+"/whisper 619\r"
+or
+"/whisper 620\r"
+or
+"/whisper 621\r"
+or
+"/whisper 622\r"
+or
+"/whisper 623\r"
+or
+"/whisper 624\r"
+or
+"/whisper 625\r"
+or
+"/whisper 626\r"
+or
+"/whisper 627\r"
+or
+"/whisper 628\r"
+or
+"/whisper 629\r"
+or
+"/whisper 630\r"
+or
+"/whisper 631\r"
+or
+"/whisper 632\r"
+or
+"/whisper 633\r"
+or
+"/whisper 634\r"
+or
+"/whisper 635\r"
+or
+"/whisper 636\r"
+or
+"/whisper 637\r"
+or
+"/whisper 638\r"
+or
+"/whisper 639\r"
+or
+"/whisper 640\r"
+or
+"/whisper 641\r"
+or
+"/whisper 642\r"
+or
+"/whisper 643\r"
+or
+"/whisper 644\r"
+or
+"/whisper 645\r"
+or
+"/whisper 646\r"
+or
+"/whisper 647\r"
+or
+"/whisper 648\r"
+or
+"/whisper 649\r"
+or
+"/whisper 650\r"
+or
+"/whisper 651\r"
+or
+"/whisper 652\r"
+or
+"/whisper 653\r"
+or
+"/whisper 654\r"
+or
+"/whisper 655\r"
+or
+"/whisper 656\r"
+or
+"/whisper 657\r"
+or
+"/whisper 658\r"
+or
+"/whisper 659\r"
+or
+"/whisper 660\r"
+or
+"/whisper 661\r"
+or
+"/whisper 662\r"
+or
+"/whisper 663\r"
+or
+"/whisper 664\r"
+or
+"/whisper 665\r"
+or
+"/whisper 666\r"
+or
+"/whisper 667\r"
+or
+"/whisper 668\r"
+or
+"/whisper 669\r"
+or
+"/whisper 670\r"
+or
+"/whisper 671\r"
+or
+"/whisper 672\r"
+or
+"/whisper 673\r"
+or
+"/whisper 674\r"
+or
+"/whisper 675\r"
+or
+"/whisper 676\r"
+or
+"/whisper 677\r"
+or
+"/whisper 678\r"
+or
+"/whisper 679\r"
+or
+"/whisper 680\r"
+or
+"/whisper 681\r"
+or
+"/whisper 682\r"
+or
+"/whisper 688\r"
+or
+"/whisper 684\r"
+or
+"/whisper 685\r"
+or
+"/whisper 686\r"
+or
+"/whisper 687\r"
+or
+"/whisper 688\r"
+or
+"/whisper 689\r"
+or
+"/whisper 690\r"
+or
+"/whisper 691\r"
+or
+"/whisper 692\r"
+or
+"/whisper 693\r"
+or
+"/whisper 694\r"
+or
+"/whisper 695\r"
+or
+"/whisper 696\r"
+or
+"/whisper 697\r"
+or
+"/whisper 698\r"
+or
+"/whisper 699\r"
+or
+"/whisper 700\r"
+or
+"/whisper 701\r"
+or
+"/whisper 702\r"
+or
+"/whisper 703\r"
+or
+"/whisper 704\r"
+or
+"/whisper 705\r"
+or
+"/whisper 706\r"
+or
+"/whisper 707\r"
+or
+"/whisper 708\r"
+or
+"/whisper 709\r"
+or
+"/whisper 710\r"
+or
+"/whisper 711\r"
+or
+"/whisper 712\r"
+or
+"/whisper 713\r"
+or
+"/whisper 714\r"
+or
+"/whisper 715\r"
+or
+"/whisper 716\r"
+or
+"/whisper 717\r"
+or
+"/whisper 718\r"
+or
+"/whisper 719\r"
+or
+"/whisper 720\r"
+or
+"/whisper 721\r"
+or
+"/whisper 722\r"
+or
+"/whisper 723\r"
+or
+"/whisper 724\r"
+or
+"/whisper 725\r"
+or
+"/whisper 726\r"
+or
+"/whisper 727\r"
+or
+"/whisper 728\r"
+or
+"/whisper 729\r"
+or
+"/whisper 730\r"
+or
+"/whisper 731\r"
+or
+"/whisper 732\r"
+or
+"/whisper 733\r"
+or
+"/whisper 734\r"
+or
+"/whisper 735\r"
+or
+"/whisper 736\r"
+or
+"/whisper 737\r"
+or
+"/whisper 738\r"
+or
+"/whisper 739\r"
+or
+"/whisper 740\r"
+or
+"/whisper 741\r"
+or
+"/whisper 742\r"
+or
+"/whisper 743\r"
+or
+"/whisper 744\r"
+or
+"/whisper 745\r"
+or
+"/whisper 746\r"
+or
+"/whisper 747\r"
+or
+"/whisper 748\r"
+or
+"/whisper 749\r"
+or
+"/whisper 750\r"
+or
+"/whisper 751\r"
+or
+"/whisper 752\r"
+or
+"/whisper 753\r"
+or
+"/whisper 754\r"
+or
+"/whisper 755\r"
+or
+"/whisper 756\r"
+or
+"/whisper 757\r"
+or
+"/whisper 758\r"
+or
+"/whisper 759\r"
+or
+"/whisper 760\r"
+or
+"/whisper 761\r"
+or
+"/whisper 762\r"
+or
+"/whisper 763\r"
+or
+"/whisper 764\r"
+or
+"/whisper 765\r"
+or
+"/whisper 766\r"
+or
+"/whisper 767\r"
+or
+"/whisper 768\r"
+or
+"/whisper 769\r"
+or
+"/whisper 770\r"
+or
+"/whisper 771\r"
+or
+"/whisper 772\r"
+or
+"/whisper 773\r"
+or
+"/whisper 774\r"
+or
+"/whisper 775\r"
+or
+"/whisper 776\r"
+or
+"/whisper 777\r"
+or
+"/whisper 778\r"
+or
+"/whisper 779\r"
+or
+"/whisper 780\r"
+or
+"/whisper 781\r"
+or
+"/whisper 782\r"
+or
+"/whisper 788\r"
+or
+"/whisper 784\r"
+or
+"/whisper 785\r"
+or
+"/whisper 786\r"
+or
+"/whisper 787\r"
+or
+"/whisper 788\r"
+or
+"/whisper 789\r"
+or
+"/whisper 790\r"
+or
+"/whisper 791\r"
+or
+"/whisper 792\r"
+or
+"/whisper 793\r"
+or
+"/whisper 794\r"
+or
+"/whisper 795\r"
+or
+"/whisper 796\r"
+or
+"/whisper 797\r"
+or
+"/whisper 798\r"
+or
+"/whisper 799\r"
+or
+"/whisper 800\r"
+or
+"/whisper 800\r"
+or
+"/whisper 801\r"
+or
+"/whisper 802\r"
+or
+"/whisper 803\r"
+or
+"/whisper 804\r"
+or
+"/whisper 805\r"
+or
+"/whisper 806\r"
+or
+"/whisper 807\r"
+or
+"/whisper 808\r"
+or
+"/whisper 809\r"
+or
+"/whisper 810\r"
+or
+"/whisper 811\r"
+or
+"/whisper 812\r"
+or
+"/whisper 813\r"
+or
+"/whisper 814\r"
+or
+"/whisper 815\r"
+or
+"/whisper 816\r"
+or
+"/whisper 817\r"
+or
+"/whisper 818\r"
+or
+"/whisper 819\r"
+or
+"/whisper 820\r"
+or
+"/whisper 821\r"
+or
+"/whisper 822\r"
+or
+"/whisper 823\r"
+or
+"/whisper 824\r"
+or
+"/whisper 825\r"
+or
+"/whisper 826\r"
+or
+"/whisper 827\r"
+or
+"/whisper 828\r"
+or
+"/whisper 829\r"
+or
+"/whisper 830\r"
+or
+"/whisper 831\r"
+or
+"/whisper 832\r"
+or
+"/whisper 833\r"
+or
+"/whisper 834\r"
+or
+"/whisper 835\r"
+or
+"/whisper 836\r"
+or
+"/whisper 837\r"
+or
+"/whisper 838\r"
+or
+"/whisper 839\r"
+or
+"/whisper 840\r"
+or
+"/whisper 841\r"
+or
+"/whisper 842\r"
+or
+"/whisper 843\r"
+or
+"/whisper 844\r"
+or
+"/whisper 845\r"
+or
+"/whisper 846\r"
+or
+"/whisper 847\r"
+or
+"/whisper 848\r"
+or
+"/whisper 849\r"
+or
+"/whisper 850\r"
+or
+"/whisper 851\r"
+or
+"/whisper 852\r"
+or
+"/whisper 853\r"
+or
+"/whisper 854\r"
+or
+"/whisper 855\r"
+or
+"/whisper 856\r"
+or
+"/whisper 857\r"
+or
+"/whisper 858\r"
+or
+"/whisper 859\r"
+or
+"/whisper 860\r"
+or
+"/whisper 861\r"
+or
+"/whisper 862\r"
+or
+"/whisper 863\r"
+or
+"/whisper 864\r"
+or
+"/whisper 865\r"
+or
+"/whisper 866\r"
+or
+"/whisper 867\r"
+or
+"/whisper 868\r"
+or
+"/whisper 869\r"
+or
+"/whisper 870\r"
+or
+"/whisper 871\r"
+or
+"/whisper 872\r"
+or
+"/whisper 873\r"
+or
+"/whisper 874\r"
+or
+"/whisper 875\r"
+or
+"/whisper 876\r"
+or
+"/whisper 877\r"
+or
+"/whisper 878\r"
+or
+"/whisper 879\r"
+or
+"/whisper 880\r"
+or
+"/whisper 881\r"
+or
+"/whisper 882\r"
+or
+"/whisper 888\r"
+or
+"/whisper 884\r"
+or
+"/whisper 885\r"
+or
+"/whisper 886\r"
+or
+"/whisper 887\r"
+or
+"/whisper 888\r"
+or
+"/whisper 889\r"
+or
+"/whisper 890\r"
+or
+"/whisper 891\r"
+or
+"/whisper 892\r"
+or
+"/whisper 893\r"
+or
+"/whisper 894\r"
+or
+"/whisper 895\r"
+or
+"/whisper 896\r"
+or
+"/whisper 897\r"
+or
+"/whisper 898\r"
+or
+"/whisper 899\r"
+or
+"/whisper 900\r"
+or
+"/whisper 901\r"
+or
+"/whisper 902\r"
+or
+"/whisper 903\r"
+or
+"/whisper 904\r"
+or
+"/whisper 905\r"
+or
+"/whisper 906\r"
+or
+"/whisper 907\r"
+or
+"/whisper 908\r"
+or
+"/whisper 909\r"
+or
+"/whisper 910\r"
+or
+"/whisper 911\r"
+or
+"/whisper 912\r"
+or
+"/whisper 913\r"
+or
+"/whisper 914\r"
+or
+"/whisper 915\r"
+or
+"/whisper 916\r"
+or
+"/whisper 917\r"
+or
+"/whisper 918\r"
+or
+"/whisper 919\r"
+or
+"/whisper 920\r"
+or
+"/whisper 921\r"
+or
+"/whisper 922\r"
+or
+"/whisper 923\r"
+or
+"/whisper 924\r"
+or
+"/whisper 925\r"
+or
+"/whisper 926\r"
+or
+"/whisper 927\r"
+or
+"/whisper 928\r"
+or
+"/whisper 929\r"
+or
+"/whisper 930\r"
+or
+"/whisper 931\r"
+or
+"/whisper 932\r"
+or
+"/whisper 933\r"
+or
+"/whisper 934\r"
+or
+"/whisper 935\r"
+or
+"/whisper 936\r"
+or
+"/whisper 937\r"
+or
+"/whisper 938\r"
+or
+"/whisper 939\r"
+or
+"/whisper 940\r"
+or
+"/whisper 941\r"
+or
+"/whisper 942\r"
+or
+"/whisper 943\r"
+or
+"/whisper 944\r"
+or
+"/whisper 945\r"
+or
+"/whisper 946\r"
+or
+"/whisper 947\r"
+or
+"/whisper 948\r"
+or
+"/whisper 949\r"
+or
+"/whisper 950\r"
+or
+"/whisper 951\r"
+or
+"/whisper 952\r"
+or
+"/whisper 953\r"
+or
+"/whisper 954\r"
+or
+"/whisper 955\r"
+or
+"/whisper 956\r"
+or
+"/whisper 957\r"
+or
+"/whisper 958\r"
+or
+"/whisper 959\r"
+or
+"/whisper 960\r"
+or
+"/whisper 961\r"
+or
+"/whisper 962\r"
+or
+"/whisper 963\r"
+or
+"/whisper 964\r"
+or
+"/whisper 965\r"
+or
+"/whisper 966\r"
+or
+"/whisper 967\r"
+or
+"/whisper 968\r"
+or
+"/whisper 969\r"
+or
+"/whisper 970\r"
+or
+"/whisper 971\r"
+or
+"/whisper 972\r"
+or
+"/whisper 973\r"
+or
+"/whisper 974\r"
+or
+"/whisper 975\r"
+or
+"/whisper 976\r"
+or
+"/whisper 977\r"
+or
+"/whisper 978\r"
+or
+"/whisper 979\r"
+or
+"/whisper 980\r"
+or
+"/whisper 981\r"
+or
+"/whisper 982\r"
+or
+"/whisper 988\r"
+or
+"/whisper 984\r"
+or
+"/whisper 985\r"
+or
+"/whisper 986\r"
+or
+"/whisper 987\r"
+or
+"/whisper 988\r"
+or
+"/whisper 989\r"
+or
+"/whisper 990\r"
+or
+"/whisper 991\r"
+or
+"/whisper 992\r"
+or
+"/whisper 993\r"
+or
+"/whisper 994\r"
+or
+"/whisper 995\r"
+or
+"/whisper 996\r"
+or
+"/whisper 997\r"
+or
+"/whisper 998\r"
+or
+"/whisper 999\r"
+end random
+end if
+goto top
+}
+
+setglobal salt1 none
+setglobal salt2 none
+setglobal salt3 none
+
+"/insalt"
+{
+call word1
+call word2
+call word3
+pause 3
+" " salt1 " " salt2 " " salt3 " \r"
+setglobal salt1 none
+setglobal salt2 none
+setglobal salt3 none
+}
+
+word1
+{
+random
+setglobal salt1 artless
+or
+setglobal salt1 bawdy
+or
+setglobal salt1 beslubbering
+or
+setglobal salt1 bootless
+or
+setglobal salt1 churlish
+or
+setglobal salt1 cockered
+or
+setglobal salt1 clouted
+or
+setglobal salt1 craven
+or
+setglobal salt1 currish
+or
+setglobal salt1 dankish
+or
+setglobal salt1 dissembling
+or
+setglobal salt1 droning
+or
+setglobal salt1 errant
+or
+setglobal salt1 fawning
+or
+setglobal salt1 fobbing
+or
+setglobal salt1 froward
+or
+setglobal salt1 frothy
+or
+setglobal salt1 gleeking
+or
+setglobal salt1 goatish
+or
+setglobal salt1 gorbellied
+or
+setglobal salt1 imperinent
+or
+setglobal salt1 infectious
+or
+setglobal salt1 jarring
+or
+setglobal salt1 loggerheaded
+or
+setglobal salt1 lumpish
+or
+setglobal salt1 mammering
+or
+setglobal salt1 mangled
+or
+setglobal salt1 newling
+or
+setglobal salt1 paunchy
+or
+setglobal salt1 pribbling
+or
+setglobal salt1 puking
+or
+setglobal salt1 puny
+or
+setglobal salt1 gualling
+or
+setglobal salt1 rank
+or
+setglobal salt1 reeky
+or
+setglobal salt1 roguish
+or
+setglobal salt1 ruttish
+or
+setglobal salt1 saucy
+or
+setglobal salt1 spleeny
+or
+setglobal salt1 spongy
+or
+setglobal salt1 surly
+or
+setglobal salt1 tottering
+or
+setglobal salt1 unmuzzled
+or
+setglobal salt1 vain
+or
+setglobal salt1 venomed
+or
+setglobal salt1 villainous
+or
+setglobal salt1 warped
+or
+setglobal salt1 wayward
+or
+setglobal salt1 weedy
+or
+setglobal salt1 yeasty
+end random
+}
+
+word2
+{
+random
+setglobal salt2 base-court
+or
+setglobal salt2 bat-fowling
+or
+setglobal salt2 beef-witted
+or
+setglobal salt2 beetle-headed
+or
+setglobal salt2 boil-brained
+or
+setglobal salt2 clapper-clawed
+or
+setglobal salt2 clay-brained
+or
+setglobal salt2 common-kissing
+or
+setglobal salt2 crook-pated
+or
+setglobal salt2 dismal-dreaming
+or
+setglobal salt2 dizzy-eyed
+or
+setglobal salt2 dog-hearted
+or
+setglobal salt2 dread-bolted
+or
+setglobal salt2 earth-vexing
+or
+setglobal salt2 elf-skinned
+or
+setglobal salt2 fat-kidneyed
+or
+setglobal salt2 fen-sucked
+or
+setglobal salt2 flap-mouthed
+or
+setglobal salt2 fly-bitten
+or
+setglobal salt2 folly-fallen
+or
+setglobal salt2 fool-born
+or
+setglobal salt2 full-gorged
+or
+setglobal salt2 guts-griping
+or
+setglobal salt2 half-faced
+or
+setglobal salt2 hasty-witted
+or
+setglobal salt2 hedge-born
+or
+setglobal salt2 hell-hated
+or
+setglobal salt2 idle-headed
+or
+setglobal salt2 ill-breeding
+or
+setglobal salt2 ill-nurtured
+or
+setglobal salt2 knotty-pated
+or
+setglobal salt2 milk-livered
+or
+setglobal salt2 onion-eyed
+or
+setglobal salt2 plume-plucked
+or
+setglobal salt2 pottle-deep
+or
+setglobal salt2 pox-marked
+or
+setglobal salt2 reeling-ripe
+or
+setglobal salt2 rough-hewn
+or
+setglobal salt2 rude-growing
+or
+setglobal salt2 rump-fed
+or
+setglobal salt2 shard-brone
+or
+setglobal salt2 sheep-biting
+or
+setglobal salt2 spur-galled
+or
+setglobal salt2 swag-bellied
+or
+setglobal salt2 tardy-gaited
+or
+setglobal salt2 tickle-brained
+or
+setglobal salt2 toad-spotted
+or
+setglobal salt2 unchin-snouted
+or
+setglobal salt2 weather-bitten
+end random
+}
+
+word3
+{
+random
+setglobal salt3 apple-john
+or
+setglobal salt3 baggage
+or
+setglobal salt3 barnacle
+or
+setglobal salt3 bladder
+or
+setglobal salt3 boar-pig
+or
+setglobal salt3 bugbear
+or
+setglobal salt3 bum-baily
+or
+setglobal salt3 canker-blossom
+or
+setglobal salt3 clack-dish
+or
+setglobal salt3 clotpole
+or
+setglobal salt3 coxcomb
+or
+setglobal salt3 codpiece
+or
+setglobal salt3 death-token
+or
+setglobal salt3 dewberry
+or
+setglobal salt3 flap-dragon
+or
+setglobal salt3 flax-wench
+or
+setglobal salt3 flirt-gill
+or
+setglobal salt3 foot-licker
+or
+setglobal salt3 flustilarian
+or
+setglobal salt3 giglet
+or
+setglobal salt3 gudgeon
+or
+setglobal salt3 haggerd
+or
+setglobal salt3 harpy
+or
+setglobal salt3 hedge-pig
+or
+setglobal salt3 horn-beast
+or
+setglobal salt3 hugger-mugger
+or
+setglobal salt3 joithead
+or
+setglobal salt3 lewdster
+or
+setglobal salt3 lout
+or
+setglobal salt3 maggot-pie
+or
+setglobal salt3 malt-worm
+or
+setglobal salt3 mammet
+or
+setglobal salt3 measle
+or
+setglobal salt3 minnow
+or
+setglobal salt3 miscreant
+or
+setglobal salt3 moldwarp
+or
+setglobal salt3 mumble-news
+or
+setglobal salt3 nut-hook
+or
+setglobal salt3 pigeon-egg
+or
+setglobal salt3 pignut
+or
+setglobal salt3 puttock
+or
+setglobal salt3 pumpion
+or
+setglobal salt3 ratsbane
+or
+setglobal salt3 scut
+or
+setglobal salt3 skainsmate
+or
+setglobal salt3 strumpet
+or
+setglobal salt3 varlot
+or
+setglobal salt3 vassal
+or
+setglobal salt3 whey-face
+or
+setglobal salt3 wagtail
+end random
+}

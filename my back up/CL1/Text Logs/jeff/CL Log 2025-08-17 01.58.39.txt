@@ -1,0 +1,78 @@
+
+8/17/25 1:58:40a * Your shirt named “dark grey” is in nearly perfect condition.
+8/17/25 1:58:40a * Your pair of pants named “muddy yellow” is in nearly perfect condition.
+8/17/25 1:58:40a Welcome to Clan Lord, Jeff!
+8/17/25 1:58:40a Type \HELP for a list of commands.
+8/17/25 1:58:40a • You gain experience from your recent studies.
+8/17/25 1:58:40a Jeff is now Clanning.
+8/17/25 1:58:40a You have been studying for 48 days, 23 hours, 3 minutes.
+8/17/25 1:58:43a It's 9:43pm on Sombdi, day 56 of Summer, 642.
+8/17/25 1:58:43a Friends online: none.
+8/17/25 1:58:44a There are two members of Black Phoenix clanning: Cassius and you.
+8/17/25 1:58:44a • What’s New: https://deltatao.com/clanlord/news
+8/17/25 1:58:48a •Your knowledge of blacksmithing improves.
+8/17/25 1:58:54a * Tip of the day: You can lock a share into your list with /SHARE /LOCK. (Use /OPTIONS to turn tips off.)
+8/17/25 1:58:59a You equip your sewing kit named “477”.
+8/17/25 1:59:03a *Auto Trade Zero ON!
+8/17/25 1:59:10a • Cassius offers you a cloak, which  is in very good condition, for free.
+8/17/25 1:59:10a To accept, \BUY 0 Cassius.
+8/17/25 1:59:11a * Accepted Item From: Cassius. 
+8/17/25 1:59:11a Cassius hands you a cloak.
+8/17/25 1:59:16a • Cassius offers you a pair of pants, which  is starting to look a little worn, for free.
+8/17/25 1:59:16a To accept, \BUY 0 Cassius.
+8/17/25 1:59:16a * Accepted Item From: Cassius. 
+8/17/25 1:59:16a Cassius hands you a pair of pants.
+8/17/25 1:59:17a Cassius whispers, "yes"
+8/17/25 1:59:21a • Cassius offers you a pair of shoes, which  is starting to look a little worn, for free.
+8/17/25 1:59:21a To accept, \BUY 0 Cassius.
+8/17/25 1:59:22a * Accepted Item From: Cassius. 
+8/17/25 1:59:22a Cassius hands you a pair of shoes.
+8/17/25 1:59:24a Cassius whispers, "yes"
+8/17/25 1:59:28a You have 17 coins.
+8/17/25 1:59:30a Cassius whispers, "yes"
+8/17/25 1:59:43a • Cassius offers you a shirt, which  is starting to look a little worn, for free.
+8/17/25 1:59:43a To accept, \BUY 0 Cassius.
+8/17/25 1:59:43a * Accepted Item From: Cassius. 
+8/17/25 1:59:43a Cassius hands you a shirt.
+8/17/25 2:00:07a This repair used 1c worth of sewing supplies.
+8/17/25 2:00:07a You have 476c worth left.
+8/17/25 2:00:07a You mend a pair of shoes.
+8/17/25 2:00:10a This repair used 1c worth of sewing supplies.
+8/17/25 2:00:10a You have 475c worth left.
+8/17/25 2:00:10a You mend a cloak.
+8/17/25 2:00:18a •Your knowledge of blacksmithing improves.
+8/17/25 2:00:18a This repair used 1c worth of sewing supplies.
+8/17/25 2:00:18a You have 474c worth left.
+8/17/25 2:00:18a You mend a shirt.
+8/17/25 2:00:19a You have 17 coins.
+8/17/25 2:00:34a This repair used 1c worth of sewing supplies.
+8/17/25 2:00:34a You have 473c worth left.
+8/17/25 2:00:34a You mend a pair of pants.
+8/17/25 2:00:40a You offer a pair of pants named “gold” to Cassius for free.
+8/17/25 2:00:40a \SELL /cancel to cancel the offer.
+8/17/25 2:00:41a You hand Cassius a pair of pants.
+8/17/25 2:00:44a You offer a shirt named “Midsummer Maha” to Cassius for free.
+8/17/25 2:00:44a \SELL /cancel to cancel the offer.
+8/17/25 2:00:45a You hand Cassius a shirt.
+8/17/25 2:00:47a You offer a cloak named “silk” to Cassius for free.
+8/17/25 2:00:47a \SELL /cancel to cancel the offer.
+8/17/25 2:00:48a You hand Cassius a cloak.
+8/17/25 2:00:56a You offer a pair of shoes named “glossy white” to Cassius for free.
+8/17/25 2:00:56a \SELL /cancel to cancel the offer.
+8/17/25 2:00:57a You hand Cassius a pair of shoes.
+8/17/25 2:01:05a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+8/17/25 2:01:06a Aitnos asks, "Would you like to apply some of your learning to Forgus’s lessons?"
+8/17/25 2:01:06a Jeff whispers, "yes"
+8/17/25 2:01:07a Aitnos says, "Congratulations, Jeff. You should now understand more of Forgus’s teachings."
+8/17/25 2:01:07a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+8/17/25 2:01:08a Aitnos says, "You have not yet learned enough for Forgus’s lesson."
+8/17/25 2:01:08a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+8/17/25 2:01:09a Aitnos says, "You have not yet learned enough for Forgus’s lesson."
+8/17/25 2:01:09a You have 17 coins.
+8/17/25 2:01:10a Asterru says, "Jeff, you are making progress. Forgus will be pleased."
+8/17/25 2:01:10a * |▰▰▰▰▰═════| 38%-62%
+8/17/25 2:01:13a Use \SLEEP again when you return.
+8/17/25 2:01:14a You are done adventuring for a while and will be staying here.
+8/17/25 2:01:14a You have been disconnected from Clan Lord.
+8/17/25 2:01:15a • You will benefit from staying here while you are off-line.
+8/17/25 2:01:15a *** We are no longer connected to the Clan Lord game server. ***

@@ -1,0 +1,308 @@
+
+4/29/25 7:20:31a * Your healer's cloak is in very good condition.
+4/29/25 7:20:31a Welcome to Clan Lord, Mimo!
+4/29/25 7:20:31a Type \HELP for a list of commands.
+4/29/25 7:20:31a • You gain experience from your recent studies.
+4/29/25 7:20:31a *Healer Mode
+4/29/25 7:20:31a *Type /hi help for more info
+4/29/25 7:20:31a The healing spell has started.
+4/29/25 7:20:31a You have been studying for 20 days, 14 hours, 40 minutes.
+4/29/25 7:20:34a It's 7:40pm on Fordi, day 57 of Spring, 641.
+4/29/25 7:20:35a You have 21 coins.
+4/29/25 7:20:35a There are two members of Black Phoenix clanning: Magnic II and you.
+4/29/25 7:20:35a • What’s New: https://deltatao.com/clanlord/news
+4/29/25 7:20:38a Friends online: none.
+4/29/25 7:20:45a * Tip of the day: You can choose a different icon for your character in the hut in the west fairgrounds. (Use /OPTIONS to turn tips off.)
+4/29/25 7:21:02a Captain Barnac asks, "Ah, Mimo. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+4/29/25 7:21:02a Mimo whispers, "yes"
+4/29/25 7:21:17a \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+4/29/25 7:21:17a * Healing Woolf 
+4/29/25 7:21:25a Woolf is sharing experiences with you.
+4/29/25 7:21:25a \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+4/29/25 7:21:25a * Healing Catan 
+4/29/25 7:21:32a •You do not have enough spiritual energy.
+4/29/25 7:21:33a Catan is sharing experiences with you.
+4/29/25 7:21:35a \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+4/29/25 7:21:35a * Healing Catan 
+4/29/25 7:21:42a \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+4/29/25 7:21:42a * Healing MagnicII 
+4/29/25 7:21:49a \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+4/29/25 7:21:49a * Healing Woolf 
+4/29/25 7:21:57a Catan says, "brb"
+4/29/25 7:22:00a •You seem to heal people closer to death now.
+4/29/25 7:22:32a Magnic II says, "brb 2 ima get coffee"
+4/29/25 7:23:40a You have 16 coins.
+4/29/25 7:23:54a •The Sun sets.
+4/29/25 7:24:10a Catan says, "back"
+4/29/25 7:26:51a You have 16 coins.
+4/29/25 7:30:03a You have 16 coins.
+4/29/25 7:32:27a \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+4/29/25 7:32:27a * Healing Catan 
+4/29/25 7:32:37a Magnic II is sharing experiences with you.
+4/29/25 7:32:39a \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+4/29/25 7:32:39a * Healing MagnicII 
+4/29/25 7:32:49a \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+4/29/25 7:32:49a * Healing Woolf 
+4/29/25 7:33:14a You have 16 coins.
+4/29/25 7:35:53a \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+4/29/25 7:35:53a * Healing Catan 
+4/29/25 7:35:54a •Catan was too wounded to be healed easily.
+4/29/25 7:36:28a You have 16 coins.
+4/29/25 7:36:29a \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+4/29/25 7:36:29a * Healing MagnicII 
+4/29/25 7:36:38a Woolf asks, "We clear yard and conf room landing then e park the healrs in conf room?"
+4/29/25 7:36:51a Magnic II says, "if ya want"
+4/29/25 7:36:58a \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+4/29/25 7:36:58a * Healing Woolf 
+4/29/25 7:39:48a You have 16 coins.
+4/29/25 7:40:03a \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+4/29/25 7:40:03a * Healing Catan 
+4/29/25 7:40:09a Magnic II says, "turn it off :P"
+4/29/25 7:40:22a Magnic II says, "waste ya spirit"
+4/29/25 7:40:34a \EQUIP <ITEM> will ready the item for use. \EQUIP <ITEM> <NUMBER> will ready that individual item. See also \UNEQUIP.
+4/29/25 7:40:34a * Healing MagnicII 
+4/29/25 7:40:37a Catan says, "I still must equip beforehand"
+4/29/25 7:40:45a Catan says, "the haetwood charù"
+4/29/25 7:40:50a * Healer Item set to asklepian staff 
+4/29/25 7:41:06a Magnic II says, "odd"
+4/29/25 7:41:10a Catan says, "the macros does not switch to heartwood"
+4/29/25 7:41:36a Catan says, "f6"
+4/29/25 7:41:36a Catan says, "{"
+4/29/25 7:41:36a Catan says, "if @my.left_item != "Heartwood Charm""
+4/29/25 7:41:37a Catan says, ""/equip heartwood\r""
+4/29/25 7:41:37a Catan says, "end if"
+4/29/25 7:41:37a Catan says, ""/useitem left\r""
+4/29/25 7:41:37a Catan says, "}"
+4/29/25 7:41:43a Catan says, "is what i've got"
+4/29/25 7:42:50a Magnic II says, "yeah that what im using"
+4/29/25 7:42:55a Magnic II says, "just checked"
+4/29/25 7:43:09a You have 16 coins.
+4/29/25 7:44:00a Catan says, "nevermind"
+4/29/25 7:46:23a You have 16 coins.
+4/29/25 7:46:32a •You gain experience.
+4/29/25 7:48:05a * Healing Woolf 
+4/29/25 7:48:10a Catan says, "already twom g"
+4/29/25 7:48:14a Magnic II says, "heh"
+4/29/25 7:49:33a * Healing Catan 
+4/29/25 7:49:38a You have 16 coins.
+4/29/25 7:49:49a * Healing MagnicII 
+4/29/25 7:50:28a * Healing Woolf 
+4/29/25 7:51:02a Bach thinks, "Out, thx for the hunt=)"
+4/29/25 7:51:24a * Healing MagnicII 
+4/29/25 7:51:28a Magnic II says, "ill get him"
+4/29/25 7:51:57a •The player must be in the same area.
+4/29/25 7:52:04a * Healing Catan 
+4/29/25 7:52:05a •Catan’s injuries are a little more serious than you can heal.
+4/29/25 7:52:11a •You don't quite have the training to heal Catan’s injuries.
+4/29/25 7:52:13a Magnic II says, "bah"
+4/29/25 7:52:14a Woolf says, "quite"
+4/29/25 7:52:18a •You don't quite have the training to heal Catan’s injuries.
+4/29/25 7:52:18a Woolf says, "shit"
+4/29/25 7:52:24a •You don't quite have the training to heal Catan’s injuries.
+4/29/25 7:52:28a Magnic II says, "ill get cat food"
+4/29/25 7:52:31a •You don't quite have the training to heal Catan’s injuries.
+4/29/25 7:52:38a •You don't quite have the training to heal Catan’s injuries.
+4/29/25 7:52:38a Magnic II says, "hes got 250 horus"
+4/29/25 7:52:44a Woolf says, "oh great"
+4/29/25 7:52:44a •You don't quite have the training to heal Catan’s injuries.
+4/29/25 7:52:51a •Catan’s injuries are a little more serious than you can heal.
+4/29/25 7:52:57a •Catan’s injuries are a little more serious than you can heal.
+4/29/25 7:53:04a •Catan’s injuries are a little more serious than you can heal.
+4/29/25 7:53:06a You have 16 coins.
+4/29/25 7:53:11a •Catan’s injuries are a little more serious than you can heal.
+4/29/25 7:53:17a •Catan’s injuries are a little more serious than you can heal.
+4/29/25 7:53:22a Woolf says, "5 mgs in tha yard now"
+4/29/25 7:53:24a •Catan’s injuries are a little more serious than you can heal.
+4/29/25 7:53:30a •Catan’s injuries are a little more serious than you can heal.
+4/29/25 7:53:37a •Catan’s injuries are a little more serious than you can heal.
+4/29/25 7:53:44a •Catan’s injuries are a little more serious than you can heal.
+4/29/25 7:53:50a •Catan’s injuries are a little more serious than you can heal.
+4/29/25 7:53:57a •Catan’s injuries are a little more serious than you can heal.
+4/29/25 7:54:03a •Catan’s injuries are a little more serious than you can heal.
+4/29/25 7:54:10a •Catan’s injuries are a little more serious than you can heal.
+4/29/25 7:54:17a •Catan’s injuries are a little more serious than you can heal.
+4/29/25 7:54:23a •Catan’s injuries are a little more serious than you can heal.
+4/29/25 7:54:30a •Catan’s injuries are a little more serious than you can heal.
+4/29/25 7:54:36a •Catan’s injuries are a little more serious than you can heal.
+4/29/25 7:54:43a •Catan’s injuries are a little more serious than you can heal.
+4/29/25 7:54:47a •Catan’s injuries were serious.
+4/29/25 7:55:10a Catan says, "Nice"
+4/29/25 7:55:17a * Healing Woolf 
+4/29/25 7:55:22a * Healing MagnicII 
+4/29/25 7:56:13a * Healing Catan 
+4/29/25 7:56:25a * Healing MagnicII 
+4/29/25 7:56:34a •You sense healing energy from Cat Food.
+4/29/25 7:56:35a Woolf says, "water brb"
+4/29/25 7:56:42a Magnic II says, "ok"
+4/29/25 7:57:23a You have 16 coins.
+4/29/25 7:57:29a Catan says, "back"
+4/29/25 7:59:14a Catan asks, "back?"
+4/29/25 8:01:22a * Healing Catan 
+4/29/25 8:01:22a •Catan’s injuries are a little more serious than you can heal.
+4/29/25 8:01:24a •Catan’s injuries were grave.
+4/29/25 8:01:43a You have 16 coins.
+4/29/25 8:01:43a * Healing MagnicII 
+4/29/25 8:02:12a * Healing Woolf 
+4/29/25 8:02:16a •You sense healing energy from Cat Food.
+4/29/25 8:02:25a •You sense healing energy from Cat Food.
+4/29/25 8:03:52a * Healing MagnicII 
+4/29/25 8:04:26a * Healing Catan 
+4/29/25 8:04:27a * Healing Woolf 
+4/29/25 8:04:30a •You sense healing energy from Cat Food.
+4/29/25 8:06:02a You have 16 coins.
+4/29/25 8:07:33a * Healing Catan 
+4/29/25 8:08:13a * Healing Woolf 
+4/29/25 8:10:32a You have 16 coins.
+4/29/25 8:12:26a * Healing MagnicII 
+4/29/25 8:12:38a Magnic II says, "lets try the tower"
+4/29/25 8:12:49a Magnic II says, "1 mg in there"
+4/29/25 8:12:53a Catan says, "We haven't tried th eedaie parts"
+4/29/25 8:13:02a Catan says, "there are esaier parts"
+4/29/25 8:13:05a Magnic II asks, "?"
+4/29/25 8:13:09a Magnic II asks, "what ones?"
+4/29/25 8:13:19a Catan asks, "uostairs?"
+4/29/25 8:13:30a Magnic II asks, "how do we go there again?"
+4/29/25 8:14:58a You have 16 coins.
+4/29/25 8:15:16a * Healing Catan 
+4/29/25 8:15:17a •Catan was too wounded to be healed easily.
+4/29/25 8:15:21a Brooke Britney thinks, "If I don’t get more materials for The Puddleby Civic Beautification Society soon, I’m gonna be fired! Please help!"
+4/29/25 8:15:27a Catan says, "tbh I don't thni we can do thr tower"
+4/29/25 8:15:37a Catan says, "to do it we need a healer on hand"
+4/29/25 8:15:42a Magnic II says, "not with attuide"
+4/29/25 8:15:46a Magnic II says, ":P"
+4/29/25 8:15:49a Catan says, "it is cramped"
+4/29/25 8:15:50a * Healing MagnicII 
+4/29/25 8:16:06a Catan says, "guards trap you"
+4/29/25 8:16:11a Catan says, "mGs"
+4/29/25 8:16:15a Magnic II says, "lets go top"
+4/29/25 8:16:16a Catan says, "mudball you"
+4/29/25 8:19:20a You have 16 coins.
+4/29/25 8:21:43a * Healing MagnicII 
+4/29/25 8:22:49a * Healing Catan 
+4/29/25 8:22:55a Catan says, "bastrad was waitng for us"
+4/29/25 8:23:00a * Healing MagnicII 
+4/29/25 8:23:42a You have 16 coins.
+4/29/25 8:24:07a • It’s Midnight on Sombdi, the 58th day of Spring in the 641st year of the Ascendancy, and all’s well.
+4/29/25 8:26:07a * Healing Catan 
+4/29/25 8:26:38a Woolf says, "never seen one shed a gem"
+4/29/25 8:26:39a * Healing MagnicII 
+4/29/25 8:26:53a Magnic II says, "they do"
+4/29/25 8:27:02a Woolf says, "I bemeive it"
+4/29/25 8:27:15a Magnic II says, "that npc we saw the stone looks like that one on the table"
+4/29/25 8:27:16a Woolf says, "but I'd like to see it for once"
+4/29/25 8:28:06a You have 16 coins.
+4/29/25 8:31:12a * Healing Catan 
+4/29/25 8:31:49a * Healing Woolf 
+4/29/25 8:31:51a •You sense healing energy from Cat Food.
+4/29/25 8:32:23a You have 16 coins.
+4/29/25 8:36:06a * Healing MagnicII 
+4/29/25 8:36:07a •Magnic II was too wounded to be healed easily.
+4/29/25 8:36:49a •You sense healing energy from Cat Food.
+4/29/25 8:36:49a You have 16 coins.
+4/29/25 8:36:50a * Healing Woolf 
+4/29/25 8:37:16a Magnic II says, "top"
+4/29/25 8:37:17a Catan says, "let's check yard and MI"
+4/29/25 8:37:26a Magnic II says, "nar its fine"
+4/29/25 8:37:28a Magnic II says, ":P"
+4/29/25 8:37:38a Catan says, "ok"
+4/29/25 8:37:39a Magnic II says, "if we kill top safer less rocks"
+4/29/25 8:40:51a •••
+4/29/25 8:40:51a You have been idle for too long.
+4/29/25 8:40:51a Please do something to avoid being disconnected.
+4/29/25 8:40:51a •••
+4/29/25 8:41:11a You have 16 coins.
+4/29/25 8:42:16a * Healing MagnicII 
+4/29/25 8:42:54a * Healing Woolf 
+4/29/25 8:42:55a •You sense healing energy from Cat Food.
+4/29/25 8:43:07a Magnic II asks, "yard?"
+4/29/25 8:45:32a You have 16 coins.
+4/29/25 8:45:35a * Healing Catan 
+4/29/25 8:46:25a Catan says, "let's clear MI to fee waty for ourh ealers"
+4/29/25 8:48:33a * Healing MagnicII 
+4/29/25 8:48:44a Woolf says, "that was to be forseen"
+4/29/25 8:48:49a Magnic II says, "2 AMS"
+4/29/25 8:48:57a Woolf exclaims, "2!!!"
+4/29/25 8:49:16a Woolf asks, "call for jhelp?"
+4/29/25 8:49:20a Magnic II says, "this might be tricky"
+4/29/25 8:49:51a Woolf asks, "we call for help?"
+4/29/25 8:49:51a Magnic II says, "nar if its 2 hard there nother way out"
+4/29/25 8:49:54a You have 16 coins.
+4/29/25 8:49:54a Magnic II says, "for healers"
+4/29/25 8:50:54a Catan says, "let's clear MI to free the yiu have the pass? way for ourh ealers"
+4/29/25 8:50:55a Magnic II says, "we can exit via ti"
+4/29/25 8:51:01a Magnic II says, "catsle"
+4/29/25 8:51:07a Catan asks, "via TI?"
+4/29/25 8:51:17a Magnic II says, "via ep over there"
+4/29/25 8:51:25a * Healing Catan 
+4/29/25 8:51:26a •You don't quite have the training to heal Catan’s injuries.
+4/29/25 8:51:28a •Catan’s injuries were serious.
+4/29/25 8:51:34a Woolf says, "Woolf has not ehtreeal stuff"
+4/29/25 8:51:42a Magnic II says, "ok"
+4/29/25 8:51:43a Woolf says, "Woolf has no ehtreeal stuff"
+4/29/25 8:51:44a Magnic II asks, "?"
+4/29/25 8:51:59a Magnic II says, "ep is in ne corner here"
+4/29/25 8:52:01a Woolf asks, "you need some kind of ethreal shard?"
+4/29/25 8:52:07a Magnic II says, "nw*"
+4/29/25 8:52:12a Magnic II says, "no"
+4/29/25 8:52:39a Catan says, "ok we need to focus"
+4/29/25 8:54:02a * Healing Catan 
+4/29/25 8:54:06a You have 16 coins.
+4/29/25 8:54:42a Magnic II says, "if there nothing in the tulle on TI castle exi shoud be easy exit"
+4/29/25 8:54:47a Magnic II asks, "wanna try?"
+4/29/25 8:54:55a Catan says, "if there notihgin"
+4/29/25 8:55:01a Catan says, "I can't double click"
+4/29/25 8:55:11a Magnic II says, "nor can i"
+4/29/25 8:55:20a Magnic II says, "just follow me"
+4/29/25 8:58:07a •••
+4/29/25 8:58:07a You have been idle for too long.
+4/29/25 8:58:07a Please do something to avoid being disconnected.
+4/29/25 8:58:07a •••
+4/29/25 8:58:19a You have 16 coins.
+4/29/25 9:02:20a •••
+4/29/25 9:02:20a You have been idle for too long.
+4/29/25 9:02:20a Please do something to avoid being disconnected.
+4/29/25 9:02:20a •••
+4/29/25 9:02:32a You have 16 coins.
+4/29/25 9:06:32a •••
+4/29/25 9:06:32a You have been idle for too long.
+4/29/25 9:06:32a Please do something to avoid being disconnected.
+4/29/25 9:06:32a •••
+4/29/25 9:06:48a You have 16 coins.
+4/29/25 9:10:48a •••
+4/29/25 9:10:48a You have been idle for too long.
+4/29/25 9:10:48a Please do something to avoid being disconnected.
+4/29/25 9:10:48a •••
+4/29/25 9:10:56a You have 16 coins.
+4/29/25 9:13:18a • You gain experience from your clanmates.
+4/29/25 9:14:56a •••
+4/29/25 9:14:56a You have been idle for too long.
+4/29/25 9:14:56a Please do something to avoid being disconnected.
+4/29/25 9:14:56a •••
+4/29/25 9:15:10a You have 16 coins.
+4/29/25 9:16:50a •You gain experience.
+4/29/25 9:19:11a •••
+4/29/25 9:19:11a You have been idle for too long.
+4/29/25 9:19:11a Please do something to avoid being disconnected.
+4/29/25 9:19:11a •••
+4/29/25 9:19:23a You have 16 coins.
+4/29/25 9:23:23a •••
+4/29/25 9:23:23a You have been idle for too long.
+4/29/25 9:23:23a Please do something to avoid being disconnected.
+4/29/25 9:23:23a •••
+4/29/25 9:23:38a •The Sun rises.
+4/29/25 9:23:42a You have 16 coins.
+4/29/25 9:27:42a •••
+4/29/25 9:27:42a You have been idle for too long.
+4/29/25 9:27:42a Please do something to avoid being disconnected.
+4/29/25 9:27:42a •••
+4/29/25 9:27:45a * Healing MagnicII 
+4/29/25 9:28:00a You have 16 coins.
+4/29/25 9:30:16a * Healing MagnicII 
+4/29/25 9:30:52a * Healing Catan 
+4/29/25 9:31:05a Catan says, "one on threshold"
+4/29/25 9:31:24a * Healing Catan 
+4/29/25 9:32:13a You have 16 coins.
+4/29/25 9:35:03a * Healing MagnicII 
+4/29/25 9:35:22a Woolf says, "two sasses south pass"
+4/29/25 9:36:12a You have 16 coins.
+4/29/25 9:37:00a Magnic II says,

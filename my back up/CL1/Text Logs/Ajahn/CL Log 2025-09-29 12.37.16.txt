@@ -1,0 +1,474 @@
+
+9/29/25 12:37:16p * Your pair of shoes named “purple” is in nearly perfect condition.
+9/29/25 12:37:16p * Your shirt named “dark grey” is in pretty good shape.
+9/29/25 12:37:16p * Your pair of pants named “dark grey” is in very good condition.
+9/29/25 12:37:16p Welcome to Clan Lord, Ajahn!
+9/29/25 12:37:16p Type \HELP for a list of commands.
+9/29/25 12:37:16p • You have been charged 43 coins for advanced studies.
+9/29/25 12:37:16p • You gain experience from your recent studies.
+9/29/25 12:37:16p Ajahn is now Clanning.
+9/29/25 12:37:16p You have been studying for one day, 10 hours, 14 minutes.
+9/29/25 12:37:19p It's 3:05pm on Gradi, day 54 of Winter, 643.
+9/29/25 12:37:21p You are the only member of Black Phoenix clanning.
+9/29/25 12:37:21p • What’s New: https://deltatao.com/clanlord/news
+9/29/25 12:37:23p Friends online: none.
+9/29/25 12:37:31p * Tip of the day: If you tell people where you’ll be, they’ll be able to help you if you need it. (Use /OPTIONS to turn tips off.)
+9/29/25 12:37:43p You slaughtered a Rat.
+9/29/25 12:37:44p You slaughtered a Rat.
+9/29/25 12:37:46p You slaughtered a Rat.
+9/29/25 12:37:50p You discover a half-eaten fried myrm.
+9/29/25 12:37:51p You slaughtered a Vermine.
+9/29/25 12:37:57p You slaughtered a Rat.
+9/29/25 12:37:58p You slaughtered a Rat.
+9/29/25 12:37:59p You slaughtered a Rat.
+9/29/25 12:38:03p You slaughtered a Rat.
+9/29/25 12:38:05p You slaughtered a Rat.
+9/29/25 12:38:08p You discover a half-eaten fried myrm.
+9/29/25 12:38:09p You slaughtered a Rat.
+9/29/25 12:38:12p You slaughtered a Rat.
+9/29/25 12:38:15p You slaughtered a Rat.
+9/29/25 12:38:36p You slaughtered a Vermine.
+9/29/25 12:38:41p You slaughtered a Vermine.
+9/29/25 12:38:43p You slaughtered a Vermine.
+9/29/25 12:38:47p You slaughtered a Rat.
+9/29/25 12:38:50p You slaughtered a Rat.
+9/29/25 12:38:54p You slaughtered a Rat.
+9/29/25 12:38:55p You slaughtered a Vermine.
+9/29/25 12:39:03p You slaughtered a Vermine.
+9/29/25 12:39:04p You slaughtered a Rat.
+9/29/25 12:39:07p You slaughtered a Rat.
+9/29/25 12:39:14p You slaughtered a Rat.
+9/29/25 12:39:20p You slaughtered a Vermine.
+9/29/25 12:39:48p You slaughtered a Rat.
+9/29/25 12:39:50p You slaughtered a Rat.
+9/29/25 12:39:51p You slaughtered a Rat.
+9/29/25 12:39:53p You slaughtered a Rat.
+9/29/25 12:39:55p You slaughtered a Rat.
+9/29/25 12:40:00p You slaughtered a Rat.
+9/29/25 12:40:02p You slaughtered a Rat.
+9/29/25 12:40:10p You slaughtered a Vermine.
+9/29/25 12:40:10p You have 31509 coins.
+9/29/25 12:40:10p You slaughtered a Vermine.
+9/29/25 12:40:11p You slaughtered a Vermine.
+9/29/25 12:40:13p You slaughtered a Rat.
+9/29/25 12:40:15p You slaughtered a Vermine.
+9/29/25 12:40:32p You slaughtered a Rat.
+9/29/25 12:40:48p You slaughtered a Rat.
+9/29/25 12:40:49p You slaughtered a Rat.
+9/29/25 12:40:50p You slaughtered a Rat.
+9/29/25 12:40:54p You slaughtered a Rat.
+9/29/25 12:40:56p You slaughtered a Rat.
+9/29/25 12:41:02p You slaughtered an Ona Chigger.
+9/29/25 12:41:08p You slaughtered a Rat.
+9/29/25 12:41:10p You slaughtered a Rat.
+9/29/25 12:41:13p You slaughtered a Vermine.
+9/29/25 12:41:14p You slaughtered a Rat.
+9/29/25 12:41:16p You slaughtered a Rat.
+9/29/25 12:41:21p You slaughtered a Rat.
+9/29/25 12:41:21p Alee is no longer Clanning.
+9/29/25 12:41:22p You slaughtered a Rat.
+9/29/25 12:41:23p You slaughtered a Rat.
+9/29/25 12:41:28p You slaughtered a Rat.
+9/29/25 12:41:32p You slaughtered a Rat.
+9/29/25 12:41:32p Catan is no longer Clanning.
+9/29/25 12:41:33p You slaughtered a Rat.
+9/29/25 12:41:36p You slaughtered a Rat.
+9/29/25 12:41:39p Woolf is no longer Clanning.
+9/29/25 12:41:42p You slaughtered a Rat.
+9/29/25 12:41:42p * You recover the Rat fur, worth 1c. Your share is 1c.
+9/29/25 12:41:55p You slaughtered a Vermine.
+9/29/25 12:41:56p You slaughtered a Vermine.
+9/29/25 12:41:57p You slaughtered an Emerald Scorp.
+9/29/25 12:42:00p You slaughtered a Rat.
+9/29/25 12:42:03p You slaughtered a Rat.
+9/29/25 12:42:05p You slaughtered a Scavenger Bird.
+9/29/25 12:42:10p You slaughtered a Rat.
+9/29/25 12:42:13p You slaughtered a Scavenger Bird.
+9/29/25 12:42:17p You slaughtered a Vermine.
+9/29/25 12:42:18p You slaughtered a Rat.
+9/29/25 12:42:20p Galric is no longer Clanning.
+9/29/25 12:42:21p You slaughtered a Vermine.
+9/29/25 12:42:24p You slaughtered a Vermine.
+9/29/25 12:42:24p You slaughtered a Vermine.
+9/29/25 12:42:55p You slaughtered a Rat.
+9/29/25 12:43:02p You have 31510 coins.
+9/29/25 12:43:03p You slaughtered a Rat.
+9/29/25 12:43:04p You slaughtered a Rat.
+9/29/25 12:43:08p You slaughtered a Rat.
+9/29/25 12:43:14p You slaughtered a Rat.
+9/29/25 12:43:15p You slaughtered a Rat.
+9/29/25 12:43:16p You slaughtered a Rat.
+9/29/25 12:43:19p You slaughtered a Rat.
+9/29/25 12:43:27p You slaughtered a Vermine.
+9/29/25 12:43:28p You slaughtered a Vermine.
+9/29/25 12:43:29p You slaughtered a Rat.
+9/29/25 12:43:31p You slaughtered a Rat.
+9/29/25 12:43:34p You slaughtered a Rat.
+9/29/25 12:43:36p You slaughtered a Rat.
+9/29/25 12:43:38p You slaughtered a Rat.
+9/29/25 12:43:42p You slaughtered a Rat.
+9/29/25 12:43:45p You slaughtered a Rat.
+9/29/25 12:43:57p You slaughtered a Rat.
+9/29/25 12:44:05p You slaughtered a Vermine.
+9/29/25 12:44:06p You slaughtered a Vermine.
+9/29/25 12:44:07p You slaughtered a Rat.
+9/29/25 12:44:11p You slaughtered a Rat.
+9/29/25 12:44:12p You slaughtered a Rat.
+9/29/25 12:44:14p You slaughtered a Rat.
+9/29/25 12:44:20p You slaughtered a Rat.
+9/29/25 12:44:21p You slaughtered a Rat.
+9/29/25 12:44:24p You slaughtered a Rat.
+9/29/25 12:44:27p You slaughtered a Rat.
+9/29/25 12:44:29p You slaughtered a Rat.
+9/29/25 12:44:31p You slaughtered a Rat.
+9/29/25 12:44:34p You slaughtered a Rat.
+9/29/25 12:44:39p You slaughtered a Rat.
+9/29/25 12:44:42p You slaughtered a Rat.
+9/29/25 12:44:43p You slaughtered a Rat.
+9/29/25 12:44:44p You slaughtered a Rat.
+9/29/25 12:44:48p You slaughtered a Rat.
+9/29/25 12:44:49p You slaughtered a Rat.
+9/29/25 12:44:51p You slaughtered a Rat.
+9/29/25 12:44:56p You slaughtered a Vermine.
+9/29/25 12:44:57p You slaughtered a Rat.
+9/29/25 12:44:58p You slaughtered a Rat.
+9/29/25 12:45:05p You slaughtered a Rat.
+9/29/25 12:45:06p You slaughtered a Rat.
+9/29/25 12:45:07p You slaughtered a Rat.
+9/29/25 12:45:08p You slaughtered a Rat.
+9/29/25 12:45:13p You slaughtered a Rat.
+9/29/25 12:45:14p You slaughtered a Rat.
+9/29/25 12:45:16p You slaughtered a Rat.
+9/29/25 12:45:19p You slaughtered a Rat.
+9/29/25 12:45:20p You slaughtered a Rat.
+9/29/25 12:45:23p You slaughtered a Rat.
+9/29/25 12:45:25p You slaughtered a Rat.
+9/29/25 12:45:31p You slaughtered a Rat.
+9/29/25 12:45:37p You slaughtered a Rat.
+9/29/25 12:45:39p You slaughtered a Rat.
+9/29/25 12:45:45p You slaughtered a Rat.
+9/29/25 12:45:49p You slaughtered a Rat.
+9/29/25 12:45:59p You slaughtered a Scavenger Bird.
+9/29/25 12:46:09p You have 31510 coins.
+9/29/25 12:46:11p You slaughtered a Rat.
+9/29/25 12:46:13p You slaughtered a Rat.
+9/29/25 12:46:22p You slaughtered a Rat.
+9/29/25 12:46:23p You slaughtered a Rat.
+9/29/25 12:46:36p You slaughtered a Vermine.
+9/29/25 12:46:38p You slaughtered a Vermine.
+9/29/25 12:46:41p You slaughtered a Vermine.
+9/29/25 12:46:42p You slaughtered a Vermine.
+9/29/25 12:46:43p You slaughtered a Vermine.
+9/29/25 12:46:45p You slaughtered a Vermine.
+9/29/25 12:47:04p • You are not allowed to enter the Pub.
+9/29/25 12:47:12p You slaughtered a Rat.
+9/29/25 12:47:16p You slaughtered a Vermine.
+9/29/25 12:47:16p You slaughtered a Vermine.
+9/29/25 12:47:37p You slaughtered a Rat.
+9/29/25 12:47:44p You slaughtered a Rat.
+9/29/25 12:47:45p You slaughtered a Rat.
+9/29/25 12:47:50p You slaughtered a Rat.
+9/29/25 12:47:52p You slaughtered a Rat.
+9/29/25 12:48:10p You slaughtered a Rat.
+9/29/25 12:48:16p You slaughtered a Rat.
+9/29/25 12:48:17p You slaughtered a Rat.
+9/29/25 12:48:18p You slaughtered a Rat.
+9/29/25 12:48:19p You slaughtered a Rat.
+9/29/25 12:48:23p You slaughtered a Rat.
+9/29/25 12:48:24p You slaughtered a Rat.
+9/29/25 12:48:31p You slaughtered a Rat.
+9/29/25 12:49:03p You slaughtered a Rat.
+9/29/25 12:49:05p You have 31510 coins.
+9/29/25 12:49:10p You slaughtered a Rat.
+9/29/25 12:49:11p You slaughtered a Rat.
+9/29/25 12:49:14p You slaughtered a Rat.
+9/29/25 12:49:16p You slaughtered a Rat.
+9/29/25 12:49:21p You slaughtered a Rat.
+9/29/25 12:49:23p You slaughtered a Vermine.
+9/29/25 12:49:31p You slaughtered a Rat.
+9/29/25 12:49:33p You slaughtered a Rat.
+9/29/25 12:49:34p You slaughtered a Rat.
+9/29/25 12:49:37p You slaughtered a Rat.
+9/29/25 12:49:43p You slaughtered a Rat.
+9/29/25 12:49:57p You slaughtered a Rat.
+9/29/25 12:49:58p You slaughtered a Rat.
+9/29/25 12:50:03p You slaughtered a Rat.
+9/29/25 12:50:05p You slaughtered a Rat.
+9/29/25 12:50:12p You slaughtered a Rat.
+9/29/25 12:50:16p You slaughtered a Rat.
+9/29/25 12:50:20p You slaughtered a Rat.
+9/29/25 12:50:21p You slaughtered a Rat.
+9/29/25 12:50:23p You slaughtered a Rat.
+9/29/25 12:50:33p You slaughtered a Rat.
+9/29/25 12:51:00p You slaughtered a Scavenger Bird.
+9/29/25 12:51:07p You slaughtered a Rat.
+9/29/25 12:51:11p You slaughtered a Rat.
+9/29/25 12:51:12p You slaughtered a Vermine.
+9/29/25 12:51:15p You slaughtered a Rat.
+9/29/25 12:51:19p You slaughtered a Vermine.
+9/29/25 12:51:20p You slaughtered a Rat.
+9/29/25 12:51:21p You slaughtered a Vermine.
+9/29/25 12:51:22p Barry is now Clanning.
+9/29/25 12:51:31p Barry is no longer Clanning.
+9/29/25 12:51:34p You slaughtered a Large Vermine.
+9/29/25 12:51:37p You slaughtered a Rat.
+9/29/25 12:51:40p You slaughtered a Rat.
+9/29/25 12:51:41p You slaughtered a Rat.
+9/29/25 12:51:47p You slaughtered a Rat.
+9/29/25 12:51:49p You slaughtered a Rat.
+9/29/25 12:51:53p You slaughtered a Rat.
+9/29/25 12:51:54p You slaughtered a Rat.
+9/29/25 12:51:59p You slaughtered a Rat.
+9/29/25 12:52:00p You have 31510 coins.
+9/29/25 12:52:23p You slaughtered a Rat.
+9/29/25 12:52:26p Dozer is now Clanning.
+9/29/25 12:52:27p You slaughtered a Vermine.
+9/29/25 12:52:28p You slaughtered a Vermine.
+9/29/25 12:52:28p You slaughtered a Vermine.
+9/29/25 12:52:33p You slaughtered a Rat.
+9/29/25 12:52:51p You slaughtered a Rat.
+9/29/25 12:52:54p You slaughtered a Rat.
+9/29/25 12:52:57p You slaughtered a Rat.
+9/29/25 12:52:58p Dozer is no longer Clanning.
+9/29/25 12:53:01p You slaughtered a Rat.
+9/29/25 12:53:06p You slaughtered a Rat.
+9/29/25 12:53:09p You slaughtered a Rat.
+9/29/25 12:53:26p You slaughtered a Rat.
+9/29/25 12:53:31p You slaughtered a Rat.
+9/29/25 12:53:33p You slaughtered a Rat.
+9/29/25 12:53:38p You slaughtered a Rat.
+9/29/25 12:53:40p You slaughtered a Rat.
+9/29/25 12:53:41p You slaughtered a Rat.
+9/29/25 12:53:52p You slaughtered a Rat.
+9/29/25 12:54:19p You slaughtered a Rat.
+9/29/25 12:54:21p You slaughtered a Rat.
+9/29/25 12:54:25p You slaughtered a Rat.
+9/29/25 12:54:29p You slaughtered a Rat.
+9/29/25 12:54:34p You slaughtered a Vermine.
+9/29/25 12:54:48p You slaughtered a Myrm Farmer.
+9/29/25 12:54:53p You have 31510 coins.
+9/29/25 12:54:59p You slaughtered a Vermine.
+9/29/25 12:55:07p You slaughtered a Rat.
+9/29/25 12:55:07p You slaughtered a Rat.
+9/29/25 12:55:09p You slaughtered a Rat.
+9/29/25 12:55:11p You slaughtered a Rat.
+9/29/25 12:55:15p You slaughtered a Rat.
+9/29/25 12:55:17p You slaughtered a Rat.
+9/29/25 12:55:26p You slaughtered a Vermine.
+9/29/25 12:55:36p Kennod Barkle says, "We never used to have Chaos Storms before the recent wave of exiles."
+9/29/25 12:55:43p You slaughtered a Rat.
+9/29/25 12:55:45p You slaughtered a Rat.
+9/29/25 12:55:51p You slaughtered a Rat.
+9/29/25 12:56:06p You slaughtered an Ona Chigger.
+9/29/25 12:56:07p You slaughtered a Rat.
+9/29/25 12:56:12p You slaughtered a Rat.
+9/29/25 12:56:26p You slaughtered a Rat.
+9/29/25 12:56:44p You slaughtered a Vermine.
+9/29/25 12:56:45p You slaughtered a Vermine.
+9/29/25 12:56:46p You slaughtered a Rat.
+9/29/25 12:56:48p Arlana is no longer Clanning.
+9/29/25 12:56:49p You slaughtered a Rat.
+9/29/25 12:56:50p You slaughtered a Rat.
+9/29/25 12:57:11p You slaughtered a Rat.
+9/29/25 12:57:13p You slaughtered a Rat.
+9/29/25 12:57:13p You slaughtered a Rat.
+9/29/25 12:57:16p You slaughtered a Rat.
+9/29/25 12:57:32p You slaughtered a Vermine.
+9/29/25 12:57:33p You slaughtered a Vermine.
+9/29/25 12:57:34p You slaughtered a Vermine.
+9/29/25 12:57:38p You slaughtered a Rat.
+9/29/25 12:57:48p You have 31510 coins.
+9/29/25 12:57:53p You slaughtered a Rat.
+9/29/25 12:58:27p You slaughtered a Rat.
+9/29/25 12:58:30p You slaughtered a Rat.
+9/29/25 12:58:34p You slaughtered a Rat.
+9/29/25 12:58:36p You slaughtered a Rat.
+9/29/25 12:58:44p Galric is now Clanning.
+9/29/25 12:58:47p Howard is now Clanning.
+9/29/25 12:58:49p You slaughtered a Rat.
+9/29/25 12:58:53p Howard is no longer Clanning.
+9/29/25 12:58:56p You slaughtered a Rat.
+9/29/25 12:58:57p You slaughtered a Rat.
+9/29/25 12:59:02p You slaughtered a Rat.
+9/29/25 12:59:03p You slaughtered a Rat.
+9/29/25 12:59:05p Galric is no longer Clanning.
+9/29/25 12:59:07p You slaughtered a Rat.
+9/29/25 12:59:12p Orehelian is now Clanning.
+9/29/25 12:59:12p You slaughtered a Rat.
+9/29/25 12:59:14p You slaughtered a Rat.
+9/29/25 12:59:16p Herman is now Clanning.
+9/29/25 12:59:17p You slaughtered a Rat.
+9/29/25 12:59:30p Orehelian is no longer Clanning.
+9/29/25 12:59:42p Botania is now Clanning.
+9/29/25 12:59:44p You slaughtered a Rat.
+9/29/25 12:59:48p You slaughtered a Rat.
+9/29/25 12:59:50p You slaughtered a Rat.
+9/29/25 1:00:02p Botania is no longer Clanning.
+9/29/25 1:00:08p Botanica is now Clanning.
+9/29/25 1:00:13p You slaughtered a Rat.
+9/29/25 1:00:17p Herman is no longer Clanning.
+9/29/25 1:00:21p You slaughtered a Rat.
+9/29/25 1:00:23p You slaughtered a Rat.
+9/29/25 1:00:29p Botanica is no longer Clanning.
+9/29/25 1:00:31p You slaughtered a Rat.
+9/29/25 1:00:33p You slaughtered a Rat.
+9/29/25 1:00:34p You slaughtered a Rat.
+9/29/25 1:00:36p You slaughtered a Rat.
+9/29/25 1:00:36p Alloy is now Clanning.
+9/29/25 1:00:42p You have 31510 coins.
+9/29/25 1:00:43p You slaughtered a Scavenger Bird.
+9/29/25 1:00:52p You slaughtered a Vermine.
+9/29/25 1:00:56p Alloy is no longer Clanning.
+9/29/25 1:01:27p You slaughtered a Rat.
+9/29/25 1:01:40p Zokh Larverkh asks, "Nothing beats the thrill of the Hunt, don’t you agree?"
+9/29/25 1:01:51p You slaughtered a Vermine.
+9/29/25 1:01:55p You slaughtered a Rat.
+9/29/25 1:01:58p You slaughtered a Rat.
+9/29/25 1:02:14p You slaughtered a Rat.
+9/29/25 1:02:16p You slaughtered a Rat.
+9/29/25 1:02:20p You slaughtered a Rat.
+9/29/25 1:02:21p You slaughtered a Rat.
+9/29/25 1:02:26p You slaughtered a Rat.
+9/29/25 1:02:27p •The Sun sets.
+9/29/25 1:02:51p You slaughtered a Rat.
+9/29/25 1:02:52p You slaughtered a Rat.
+9/29/25 1:02:57p You slaughtered a Rat.
+9/29/25 1:03:02p You slaughtered a Rat.
+9/29/25 1:03:03p You slaughtered a Rat.
+9/29/25 1:03:04p You slaughtered a Rat.
+9/29/25 1:03:18p You slaughtered a Rat.
+9/29/25 1:03:21p You slaughtered a Rat.
+9/29/25 1:03:23p You slaughtered a Rat.
+9/29/25 1:03:25p You slaughtered a Rat.
+9/29/25 1:03:26p You slaughtered a Rat.
+9/29/25 1:03:32p You slaughtered a Rat.
+9/29/25 1:03:34p You slaughtered a Rat.
+9/29/25 1:03:36p You have 31510 coins.
+9/29/25 1:03:38p You slaughtered a Rat.
+9/29/25 1:03:45p You slaughtered a Vermine.
+9/29/25 1:04:01p You slaughtered a Vermine.
+9/29/25 1:04:05p You slaughtered a Rat.
+9/29/25 1:04:07p You slaughtered a Rat.
+9/29/25 1:04:13p You slaughtered a Rat.
+9/29/25 1:04:14p You slaughtered a Rat.
+9/29/25 1:04:32p You slaughtered a Rat.
+9/29/25 1:04:36p You slaughtered a Rat.
+9/29/25 1:04:40p You slaughtered a Vermine.
+9/29/25 1:04:41p You slaughtered a Rat.
+9/29/25 1:04:44p You slaughtered a Rat.
+9/29/25 1:04:45p You slaughtered a Rat.
+9/29/25 1:04:46p You slaughtered a Rat.
+9/29/25 1:04:49p You slaughtered a Rat.
+9/29/25 1:04:55p You slaughtered a Rat.
+9/29/25 1:04:56p Alcolyte is now Clanning.
+9/29/25 1:04:57p You slaughtered a Rat.
+9/29/25 1:05:13p You slaughtered a Rat.
+9/29/25 1:05:16p You slaughtered a Vermine.
+9/29/25 1:05:18p You slaughtered a Rat.
+9/29/25 1:05:19p You slaughtered a Rat.
+9/29/25 1:05:21p You slaughtered a Rat.
+9/29/25 1:05:25p You slaughtered a Rat.
+9/29/25 1:05:31p You slaughtered a Rat.
+9/29/25 1:06:07p You slaughtered a Rat.
+9/29/25 1:06:12p Alcolyte is no longer Clanning.
+9/29/25 1:06:19p You slaughtered a Rat.
+9/29/25 1:06:20p You slaughtered a Rat.
+9/29/25 1:06:24p You slaughtered a Rat.
+9/29/25 1:06:25p You slaughtered a Rat.
+9/29/25 1:06:26p You slaughtered a Rat.
+9/29/25 1:06:28p You slaughtered a Rat.
+9/29/25 1:06:31p You slaughtered a Rat.
+9/29/25 1:06:32p You have 31510 coins.
+9/29/25 1:06:36p You slaughtered a Rat.
+9/29/25 1:06:52p You slaughtered a Rat.
+9/29/25 1:06:54p You slaughtered a Rat.
+9/29/25 1:06:59p You slaughtered a Rat.
+9/29/25 1:07:00p You slaughtered a Rat.
+9/29/25 1:07:01p You slaughtered a Rat.
+9/29/25 1:07:05p You slaughtered a Rat.
+9/29/25 1:07:11p You slaughtered a Rat.
+9/29/25 1:07:12p You slaughtered a Vermine.
+9/29/25 1:07:35p You slaughtered a Vermine.
+9/29/25 1:07:36p You slaughtered a Vermine.
+9/29/25 1:07:38p You slaughtered a Rat.
+9/29/25 1:07:41p You slaughtered a Vermine.
+9/29/25 1:07:46p You slaughtered a Rat.
+9/29/25 1:07:50p You slaughtered a Vermine.
+9/29/25 1:07:51p You slaughtered a Rat.
+9/29/25 1:08:08p You slaughtered a Rat.
+9/29/25 1:08:10p You slaughtered a Rat.
+9/29/25 1:08:11p You slaughtered a Rat.
+9/29/25 1:08:16p You slaughtered a Rat.
+9/29/25 1:08:18p You slaughtered a Rat.
+9/29/25 1:08:18p You slaughtered a Rat.
+9/29/25 1:08:20p You slaughtered a Rat.
+9/29/25 1:08:22p You slaughtered a Rat.
+9/29/25 1:08:44p You slaughtered a Rat.
+9/29/25 1:08:47p You slaughtered a Rat.
+9/29/25 1:08:53p You slaughtered a Rat.
+9/29/25 1:08:54p You slaughtered a Rat.
+9/29/25 1:08:55p You slaughtered a Rat.
+9/29/25 1:08:58p You slaughtered a Rat.
+9/29/25 1:09:00p You slaughtered a Rat.
+9/29/25 1:09:03p You slaughtered a Rat.
+9/29/25 1:09:07p You slaughtered a Rat.
+9/29/25 1:09:10p You slaughtered a Rat.
+9/29/25 1:09:11p You slaughtered a Rat.
+9/29/25 1:09:12p You slaughtered a Rat.
+9/29/25 1:09:15p Splinters is now Clanning.
+9/29/25 1:09:16p You slaughtered a Rat.
+9/29/25 1:09:18p You slaughtered a Rat.
+9/29/25 1:09:20p You slaughtered a Rat.
+9/29/25 1:09:27p You slaughtered a Large Vermine.
+9/29/25 1:09:31p You have 31510 coins.
+9/29/25 1:09:36p You slaughtered a Rat.
+9/29/25 1:09:36p • You discover an important combat technique.
+9/29/25 1:09:37p You slaughtered a Rat.
+9/29/25 1:09:47p Splinters is no longer Clanning.
+9/29/25 1:10:10p Smythus says, "Greetings, Lady Ajahn."
+9/29/25 1:10:10p Smythus says, "I hear from others that you slay many of your opponents with a single strike."
+9/29/25 1:10:10p Smythus says, "For a price, I can make you a weapon to better control your powerful blows."
+9/29/25 1:10:11p Smythus asks, "Lady Ajahn, will you pay 5000 coins to cover my expenses?"
+9/29/25 1:10:17p Smythus asks, "Lady Ajahn, will you pay 5000 coins to cover my expenses, yes or no?"
+9/29/25 1:10:19p Ajahn says, "yes"
+9/29/25 1:10:19p Smythus says, "Good."
+9/29/25 1:10:23p Smythus says, "Use this well."
+9/29/25 1:10:23p Smythus says, "Metal is hard to come by in these parts."
+9/29/25 1:10:24p Smythus says, "If you find some ore, show it to Rafinus."
+9/29/25 1:10:24p Smythus says, "Bindra is quite good at making chains."
+9/29/25 1:10:25p Smythus says, "Katla is learning to make weapons."
+9/29/25 1:10:25p Smythus says, "Aigus has not yet learned a craft."
+9/29/25 1:10:25p Smythus says, "Loovma Geer can teach you to care for your tools."
+9/29/25 1:10:27p You equip your gossamer.
+9/29/25 1:10:56p • You must specify a player in the game.
+9/29/25 1:11:11p You show your gossamer to everyone.
+9/29/25 1:11:13p Ajahn says, "bahahaha"
+9/29/25 1:11:15p You slaughtered a Rat.
+9/29/25 1:11:17p You slaughtered a Rat.
+9/29/25 1:11:18p You slaughtered a Rat.
+9/29/25 1:11:24p You slaughtered a Rat.
+9/29/25 1:11:28p You slaughtered a Scavenger Bird.
+9/29/25 1:11:39p This weapon helps to better control powerful blows.
+9/29/25 1:11:39p Type “/use /reflect” to check your training with this tool.
+9/29/25 1:11:39p Type “/use /practice” to train yourself to better use this tool.
+9/29/25 1:11:39p Type “/use /decay” to toggle whether or not your gossamer skills decay over time.
+9/29/25 1:11:59p Captain Barnac asks, "Ah, Ajahn. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+9/29/25 1:12:00p Ajahn whispers, "yes"
+9/29/25 1:12:21p You slaughtered an Island Panther.
+9/29/25 1:12:24p You slaughtered an Island Panther.
+9/29/25 1:12:24p * You recover the Island Panther fur, worth 1c. Your share is 1c.
+9/29/25 1:12:28p You slaughtered an Island Panther.
+9/29/25 1:12:31p You have 26506 coins.
+9/29/25 1:12:43p Ma Tota ponders, "Oh dear. I must be going..."
+9/29/25 1:12:44p You slaughtered an Island Panther.
+9/29/25 1:12:55p You slaughtered a Large Vermine.
+9/29/25 1:12:55p * You recover the Large Vermine fur, worth 1c. Your share is 1c.
+9/29/25 1:13:12p You slaughtered a Giant Vermine.
+9/29/25 1:13:13p * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+9/29/25 1:13:13p You slaughtered a Giant Vermine.
+9/29/25 1:13:13p * You recover the Giant Vermine fur, worth 1c. Your share is 1c.
+9/29/25 1:13:24p Fortuna is now Clanning.
+9/29/25 1:13:48p Ajahn whispers, "cabus"
+9/29/25 1:13:48p Something whispers, "Welcome to our outpost, friend. Please enter."
+9/29/25 1:14:01p Garre Verminebane says, "Greetings, Ajahn. I can teach you to become a Ranger."
+9/29/25 1:14:05p Garre Verminebane says, "Y

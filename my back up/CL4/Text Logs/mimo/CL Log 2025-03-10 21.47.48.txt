@@ -1,0 +1,133 @@
+
+3/10/25 9:47:48p Welcome back, Mimo!
+3/10/25 9:47:48p Type /healer for commands if you forget
+3/10/25 9:47:49p Friends online: none.
+3/10/25 9:48:16p Woolf asks, "Could you please move to the center of the room?"
+3/10/25 9:48:31p Mimo says, "mimo walk n"
+3/10/25 9:48:40p Mimo says, "hmm"
+3/10/25 9:48:41p Woolf says, "hhm no you can't birck"
+3/10/25 9:48:55p Woolf says, "better if you radisu heal us"
+3/10/25 9:49:10p Mimo says, "doesnt have raidum"
+3/10/25 9:49:26p You have 29 coins.
+3/10/25 9:50:46p You have 29 coins.
+3/10/25 9:51:08p Catan asks, "too far for radisu heal Mimo?"
+3/10/25 9:51:59p You just received anonymous good karma.
+3/10/25 9:52:03p Mimo says, "radium need training"
+3/10/25 9:52:05p • It’s Sombdi night, and the Coliseum will open soon.
+3/10/25 9:52:07p You have 29 coins.
+3/10/25 9:52:14p Mimo says, "i dont have the training"
+3/10/25 9:52:29p Catan says, "Ok"
+3/10/25 9:53:27p You have 29 coins.
+3/10/25 9:54:47p You have 29 coins.
+3/10/25 9:56:07p You have 29 coins.
+3/10/25 9:57:27p You have 29 coins.
+3/10/25 9:58:05p Catan says, "brb"
+3/10/25 9:58:48p You have 29 coins.
+3/10/25 9:59:13p Type /healer for commands if you forget
+3/10/25 9:59:33p Mimo says, "mimo walk s"
+3/10/25 9:59:33p • MACRO Syntax Error
+set <value> <operation> <value>
+"mimo is not a number.
+3/10/25 9:59:33p • MACRO set badnam - "
+3/10/25 9:59:33p • MACRO Syntax Error
+set <value> <operation> <value>
+set is not a number.
+3/10/25 9:59:33p • MACRO set badnam - s
+3/10/25 9:59:48p Mimo says, "heh"
+3/10/25 10:00:47p You have 29 coins.
+3/10/25 10:02:07p You have 29 coins.
+3/10/25 10:03:27p You have 29 coins.
+3/10/25 10:04:47p You have 29 coins.
+3/10/25 10:05:03p Type /healer for commands if you forget
+3/10/25 10:05:24p Mimo says, "mimo walk s"
+3/10/25 10:05:24p You equip your moonstone.
+3/10/25 10:05:38p Mimo says, "walk s"
+3/10/25 10:05:43p Mimo says, "fixed"
+3/10/25 10:06:06p Mimo says, "now to finsh the fixes :P"
+3/10/25 10:06:28p You have 29 coins.
+3/10/25 10:06:41p • The Coliseum is now open. Win fabulous prizes!
+3/10/25 10:07:48p You have 29 coins.
+3/10/25 10:08:38p You equip your asklepian staff.
+3/10/25 10:09:08p You have 29 coins.
+3/10/25 10:10:28p You have 29 coins.
+3/10/25 10:11:48p You have 29 coins.
+3/10/25 10:13:03p •You do not have enough in you.
+3/10/25 10:13:09p You have 29 coins.
+3/10/25 10:13:17p •You do not have enough in you.
+3/10/25 10:13:18p •You do not have enough in you.
+3/10/25 10:13:20p •You do not have enough in you.
+3/10/25 10:14:29p You have 29 coins.
+3/10/25 10:15:49p You have 29 coins.
+3/10/25 10:17:09p You have 29 coins.
+3/10/25 10:18:29p You have 29 coins.
+3/10/25 10:18:40p Catan says, "brb"
+3/10/25 10:19:50p You have 29 coins.
+3/10/25 10:21:10p You have 29 coins.
+3/10/25 10:22:27p Type /healer for commands if you forget
+3/10/25 10:23:08p Mimo says, "mimo walk e"
+3/10/25 10:23:08p You equip your moonstone.
+3/10/25 10:23:23p Mimo says, "mimo walk east"
+3/10/25 10:23:35p Mimo says, "mimo walk east"
+3/10/25 10:23:47p Mimo says, "mimo walk w"
+3/10/25 10:23:50p You have 29 coins.
+3/10/25 10:23:50p • MACRO Syntax Error
+set <value> <operation> <value>
+ is not a number.
+3/10/25 10:23:50p • MACRO set nama + 
+3/10/25 10:23:50p • MACRO Syntax Error
+set <value> <operation> <value>
+ is not a number.
+3/10/25 10:23:50p • MACRO set nama + 
+3/10/25 10:23:51p • MACRO Syntax Error
+set <value> <operation> <value>
+ is not a number.
+3/10/25 10:23:51p • MACRO set nama + 
+3/10/25 10:23:51p • MACRO Syntax Error
+set <value> <operation> <value>
+ is not a number.
+3/10/25 10:23:51p • MACRO set nama + 
+3/10/25 10:23:51p • MACRO Syntax Error
+set <value> <operation> <value>
+ is not a number.
+3/10/25 10:23:51p • MACRO set nama + 
+3/10/25 10:23:51p • MACRO Syntax Error
+set <value> <operation> <value>
+ is not a number.
+3/10/25 10:23:51p • MACRO set nama + 
+3/10/25 10:23:51p • MACRO Syntax Error
+set <value> <operation> <value>
+ is not a number.
+3/10/25 10:23:51p • MACRO set nama + 
+3/10/25 10:23:52p • MACRO Syntax Error
+set <value> <operation> <value>
+ is not a number.
+3/10/25 10:23:52p • MACRO set nama + 
+3/10/25 10:23:52p • MACRO Syntax Error
+set <value> <operation> <value>
+ is not a number.
+3/10/25 10:23:52p • MACRO set nama + 
+3/10/25 10:23:52p • MACRO Syntax Error
+set <value> <operation> <value>
+ is not a number.
+3/10/25 10:23:52p • MACRO set nama + 
+3/10/25 10:23:52p • MACRO Syntax Error
+set <value> <operation> <value>
+ is not a number.
+3/10/25 10:23:52p • MACRO set nama + 
+3/10/25 10:23:52p • MACRO Syntax Error
+set <value> <operation> <value>
+ is not a number.
+3/10/25 10:23:52p • MACRO set nama + 
+3/10/25 10:23:53p • MACRO Syntax Error
+set <value> <operation> <value>
+ is not a number.
+3/10/25 10:23:53p • MACRO set nama + 
+3/10/25 10:25:10p You have 29 coins.
+3/10/25 10:26:31p You have 29 coins.
+3/10/25 10:26:54p You equip your asklepian staff.
+3/10/25 10:27:51p You have 29 coins.
+3/10/25 10:28:38p •You do not have enough spiritual energy.
+3/10/25 10:28:39p Mimo ponders, "out of spirt"
+3/10/25 10:28:52p Catan says, "ok"
+3/10/25 10:29:11p You have 29 coins.
+3/10/25 10:2

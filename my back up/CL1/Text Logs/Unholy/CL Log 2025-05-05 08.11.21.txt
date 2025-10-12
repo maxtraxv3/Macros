@@ -1,0 +1,459 @@
+
+5/5/25 8:11:21a * Your healer's cloak is in very good condition.
+5/5/25 8:11:21a Welcome to Clan Lord, Unholy!
+5/5/25 8:11:21a Type \HELP for a list of commands.
+5/5/25 8:11:21a • You have been charged 467 coins for advanced studies.
+5/5/25 8:11:21a • You gain experience from your recent studies.
+5/5/25 8:11:21a *Healer Mode
+5/5/25 8:11:21a *Type /hi help for more info
+5/5/25 8:11:22a Unholy is now Clanning.
+5/5/25 8:11:22a The healing spell has started.
+5/5/25 8:11:22a You have been studying for 15 days, 6 hours, 48 minutes.
+5/5/25 8:11:24a It's 12:13pm on Gradi, day 82 of Spring, 641.
+5/5/25 8:11:25a Shard is no longer Clanning.
+5/5/25 8:11:25a Friends online: none.
+5/5/25 8:11:26a There are two members of Black Phoenix clanning: Mimo and you.
+5/5/25 8:11:26a • What’s New: https://deltatao.com/clanlord/news
+5/5/25 8:11:38a * Healer Item set to caduceus 
+5/5/25 8:11:48a Mimo says, "c heal me"
+5/5/25 8:11:57a Mimo says, "c heal mimo"
+5/5/25 8:12:50a •You seem to heal from further away now.
+5/5/25 8:13:15a *Healer Mode
+5/5/25 8:13:15a *Type /hi help for more info
+5/5/25 8:13:18a * Healer Item set to caduceus 
+5/5/25 8:13:24a  nope 
+5/5/25 8:13:30a Mimo says, "c heal mimo"
+5/5/25 8:13:33a  nope 
+5/5/25 8:13:36a Mimo says, "c heal me"
+5/5/25 8:13:39a  nope 
+5/5/25 8:14:08a Articuno is now Clanning.
+5/5/25 8:14:20a •You seem to heal from further away now.
+5/5/25 8:14:33a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+5/5/25 8:14:33a Aitnos says, "You have not yet learned enough for Splash O'Sul’s lesson."
+5/5/25 8:14:34a Aitnos says, "I can help you put the knowledge you have gained while studying to use more quickly."
+5/5/25 8:14:34a Aitnos says, "You have not yet learned enough for Splash O'Sul’s lesson."
+5/5/25 8:14:35a Asterru says, "Articuno, you are making progress. Splash O'Sul will be pleased."
+5/5/25 8:14:35a * |▰▰▰▰▰═════| 38%-62%
+5/5/25 8:14:47a *Healer Mode
+5/5/25 8:14:47a *Type /hi help for more info
+5/5/25 8:15:09a Pyre is now Clanning.
+5/5/25 8:15:09a Pyre has been studying for 23 days, 10 hours, one minute.
+5/5/25 8:15:19a *Healer Mode
+5/5/25 8:15:19a *Type /hi help for more info
+5/5/25 8:15:22a * Healer Item set to caduceus 
+5/5/25 8:15:25a Chef Haricot thinks, "Bonjour my good friends! Did you forget to eat today? I cure famishment."
+5/5/25 8:15:26a on
+5/5/25 8:15:31a Mimo says, "c heal me"
+5/5/25 8:15:35a  Mimo 
+5/5/25 8:15:44a Mimo says, "c heal unholy"
+5/5/25 8:15:49a  Mimo 
+5/5/25 8:15:57a Mimo says, "c heal sup"
+5/5/25 8:15:59a  Mimo 
+5/5/25 8:16:31a Pyre is done adventuring for a while and will be staying here.
+5/5/25 8:16:33a Pyre is no longer Clanning.
+5/5/25 8:16:38a *Healer Mode
+5/5/25 8:16:38a *Type /hi help for more info
+5/5/25 8:16:40a * Healer Item set to caduceus 
+5/5/25 8:16:42a on
+5/5/25 8:16:44a  nope 
+5/5/25 8:16:49a Mimo says, "c heal sup"
+5/5/25 8:16:51a  nope 
+5/5/25 8:16:57a Mimo says, "c heal me"
+5/5/25 8:16:59a  nope 
+5/5/25 8:17:00a  nope 
+5/5/25 8:17:37a Satris is no longer Clanning.
+5/5/25 8:18:37a Mimo says, "c heal me"
+5/5/25 8:18:39a  nope 
+5/5/25 8:18:43a Mimo says, "c heal sup"
+5/5/25 8:18:44a  nope 
+5/5/25 8:18:52a Mimo says, "c heal"
+5/5/25 8:18:54a  nope 
+5/5/25 8:19:35a •••
+5/5/25 8:19:35a You have been idle for too long.
+5/5/25 8:19:35a Please do something to avoid being disconnected.
+5/5/25 8:19:35a •••
+5/5/25 8:19:40a You have 1513 coins.
+5/5/25 8:20:11a You have 1513 coins.
+5/5/25 8:20:40a *Healer Mode
+5/5/25 8:20:40a *Type /hi help for more info
+5/5/25 8:20:43a * Healer Item set to caduceus 
+5/5/25 8:20:45a on
+5/5/25 8:20:45a • MACRO Syntax Error
+set <variable> <value> OR set <variable> <operation> <value>
+5/5/25 8:20:45a • MACRO set mew
+5/5/25 8:20:46a • MACRO Syntax Error
+set <variable> <value> OR set <variable> <operation> <value>
+5/5/25 8:20:46a • MACRO set mew
+5/5/25 8:20:46a • MACRO Syntax Error
+set <variable> <value> OR set <variable> <operation> <value>
+5/5/25 8:20:46a • MACRO set mew
+5/5/25 8:20:47a • MACRO Syntax Error
+set <variable> <value> OR set <variable> <operation> <value>
+5/5/25 8:20:47a • MACRO set mew
+5/5/25 8:20:47a • MACRO Syntax Error
+set <variable> <value> OR set <variable> <operation> <value>
+5/5/25 8:20:47a • MACRO set mew
+5/5/25 8:20:47a • MACRO Syntax Error
+set <variable> <value> OR set <variable> <operation> <value>
+5/5/25 8:20:47a • MACRO set mew
+5/5/25 8:20:48a • MACRO Syntax Error
+set <variable> <value> OR set <variable> <operation> <value>
+5/5/25 8:20:48a • MACRO set mew
+5/5/25 8:20:48a • MACRO Syntax Error
+set <variable> <value> OR set <variable> <operation> <value>
+5/5/25 8:20:48a • MACRO set mew
+5/5/25 8:20:49a • MACRO Syntax Error
+set <variable> <value> OR set <variable> <operation> <value>
+5/5/25 8:20:49a • MACRO set mew
+5/5/25 8:20:49a • MACRO Syntax Error
+set <variable> <value> OR set <variable> <operation> <value>
+5/5/25 8:20:49a • MACRO set mew
+5/5/25 8:20:49a • MACRO Syntax Error
+set <variable> <value> OR set <variable> <operation> <value>
+5/5/25 8:20:49a • MACRO set mew
+5/5/25 8:20:50a • MACRO Syntax Error
+set <variable> <value> OR set <variable> <operation> <value>
+5/5/25 8:20:50a • MACRO set mew
+5/5/25 8:20:50a • MACRO Syntax Error
+set <variable> <value> OR set <variable> <operation> <value>
+5/5/25 8:20:50a • MACRO set mew
+5/5/25 8:20:51a • MACRO Syntax Error
+set <variable> <value> OR set <variable> <operation> <value>
+5/5/25 8:20:51a • MACRO set mew
+5/5/25 8:20:51a • MACRO Syntax Error
+set <variable> <value> OR set <variable> <operation> <value>
+5/5/25 8:20:51a • MACRO set mew
+5/5/25 8:20:51a • MACRO Syntax Error
+set <variable> <value> OR set <variable> <operation> <value>
+5/5/25 8:20:51a • MACRO set mew
+5/5/25 8:20:52a • MACRO Syntax Error
+set <variable> <value> OR set <variable> <operation> <value>
+5/5/25 8:20:52a • MACRO set mew
+5/5/25 8:20:52a • MACRO Syntax Error
+set <variable> <value> OR set <variable> <operation> <value>
+5/5/25 8:20:52a • MACRO set mew
+5/5/25 8:20:52a *Healer Mode
+5/5/25 8:20:52a *Type /hi help for more info
+5/5/25 8:21:37a *Healer Mode
+5/5/25 8:21:37a *Type /hi help for more info
+5/5/25 8:21:39a * Healer Item set to caduceus 
+5/5/25 8:21:40a on
+5/5/25 8:21:45a  nope 
+5/5/25 8:21:45a   
+5/5/25 8:21:49a Mimo says, "c heal"
+5/5/25 8:21:51a  nope 
+5/5/25 8:21:51a   
+5/5/25 8:21:55a Mimo says, "c heal sup"
+5/5/25 8:21:56a  nope 
+5/5/25 8:21:56a  sup" 
+5/5/25 8:23:58a Articuno is no longer Clanning.
+5/5/25 8:24:11a •••
+5/5/25 8:24:11a You have been idle for too long.
+5/5/25 8:24:11a Please do something to avoid being disconnected.
+5/5/25 8:24:11a •••
+5/5/25 8:24:16a You have 1513 coins.
+5/5/25 8:24:44a *Healer Mode
+5/5/25 8:24:44a *Type /hi help for more info
+5/5/25 8:24:47a on
+5/5/25 8:24:50a * Healer Item set to caduceus 
+5/5/25 8:24:52a  nope 
+5/5/25 8:24:52a  to 
+5/5/25 8:24:57a Mimo says, "c heal sup"
+5/5/25 8:24:58a  Mimo 
+5/5/25 8:24:58a  sup" 
+5/5/25 8:25:07a Mimo says, "c heal me"
+5/5/25 8:25:09a  Mimo 
+5/5/25 8:25:09a  me" 
+5/5/25 8:26:16a *Healer Mode
+5/5/25 8:26:16a *Type /hi help for more info
+5/5/25 8:26:18a * Healer Item set to caduceus 
+5/5/25 8:26:20a  nope 
+5/5/25 8:26:20a  to 
+5/5/25 8:26:24a on
+5/5/25 8:26:26a  nope 
+5/5/25 8:26:26a   
+5/5/25 8:26:30a Mimo says, "c heal me"
+5/5/25 8:26:33a  Mimo 
+5/5/25 8:26:33a  me" 
+5/5/25 8:26:38a Mimo says, "c heal sup"
+5/5/25 8:26:38a •You must specify a player in the game.
+5/5/25 8:27:44a  sup" 
+5/5/25 8:27:44a  player 
+5/5/25 8:29:59a You have 1513 coins.
+5/5/25 8:31:45a EBow is no longer Clanning.
+5/5/25 8:31:55a •You gain experience.
+5/5/25 8:33:44a You have 1513 coins.
+5/5/25 8:35:08a Omega is now Clanning.
+5/5/25 8:35:20a Omega is no longer Clanning.
+5/5/25 8:37:44a •••
+5/5/25 8:37:44a You have been idle for too long.
+5/5/25 8:37:44a Please do something to avoid being disconnected.
+5/5/25 8:37:44a •••
+5/5/25 8:37:46a You have 1513 coins.
+5/5/25 8:38:11a Mimo is done adventuring for a while and will be staying here.
+5/5/25 8:38:12a Mimo is no longer Clanning.
+5/5/25 8:38:56a *Healer Mode
+5/5/25 8:38:56a *Type /hi help for more info
+5/5/25 8:39:00a * Healer Item set to caduceus 
+5/5/25 8:39:08a  nope 
+5/5/25 8:39:08a  to 
+5/5/25 8:41:30a Panthro is sharing experiences with you.
+5/5/25 8:42:12a You have 1513 coins.
+5/5/25 8:42:30a Koppi yells, "Slyph reports: Love on! Act now, and my 16 visionstone series is yours for the low price of 20k."
+5/5/25 8:43:08a Panthro has fallen to a Horseshoe Crawler.
+5/5/25 8:43:16a Panthro is no longer sharing experiences with you.
+5/5/25 8:43:19a Panthro is sharing experiences with you.
+5/5/25 8:43:28a Brandon thinks, "Panthro alone?"
+5/5/25 8:44:05a Katreesa thinks, "coming for you Panthro. Might take a few minutes to get there"
+5/5/25 8:45:30a You have 1513 coins.
+5/5/25 8:45:35a Unholy thinks, "i dont have the pf to to enter."
+5/5/25 8:45:44a Katreesa thinks, "headed there"
+5/5/25 8:45:55a Hiemal is now Clanning.
+5/5/25 8:46:02a Hiemal is no longer Clanning.
+5/5/25 8:46:02a * Healing Unholy 
+5/5/25 8:46:02a •You cannot use your caduceus on yourself.
+5/5/25 8:46:03a You equip your moonstone.
+5/5/25 8:46:06a Sleet is now Clanning.
+5/5/25 8:46:07a Panthro is still fallen to a Horseshoe Crawler.
+5/5/25 8:46:19a Icy is now Clanning.
+5/5/25 8:47:09a Sleet is no longer Clanning.
+5/5/25 8:47:40a Katreesa slides into a sandy crevice.
+5/5/25 8:47:45a * Healing Panthro 
+5/5/25 8:47:45a You equip your caduceus.
+5/5/25 8:47:46a Panthro is no longer fallen.
+5/5/25 8:47:46a You must equip your moonstone before it can be used.
+5/5/25 8:48:01a * Healing Katreesa 
+5/5/25 8:48:02a Omega is now Clanning.
+5/5/25 8:48:08a * Healing Catan 
+5/5/25 8:48:12a •You sense healing energy from Katreesa.
+5/5/25 8:48:14a * Healing Katreesa 
+5/5/25 8:48:24a •You sense healing energy from Katreesa.
+5/5/25 8:48:24a Catan is sharing experiences with you.
+5/5/25 8:48:27a You concentrate on sending your message to Panthro.
+5/5/25 8:48:27a You think to Panthro, "wake up"
+5/5/25 8:48:30a * Healing Panthro 
+5/5/25 8:48:33a * Panthro recovers the Horseshoe Crawler mandibles, worth 6c. Your share is 1c.
+5/5/25 8:48:35a •You sense healing energy from Katreesa.
+5/5/25 8:48:41a * Healing Unholy 
+5/5/25 8:48:41a •You cannot use your caduceus on yourself.
+5/5/25 8:48:41a Panthro has fallen to a Horseshoe Crawler.
+5/5/25 8:48:41a •Panthro’s injuries were serious.
+5/5/25 8:48:41a You equip your moonstone.
+5/5/25 8:48:41a •The healing spell has been broken.
+5/5/25 8:48:45a Panthro is no longer fallen.
+5/5/25 8:48:47a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+5/5/25 8:48:48a You slip your moonstone into your backpack.
+5/5/25 8:48:48a Unholy has fallen to a Horseshoe Crawler.
+5/5/25 8:48:48a •You are too wounded to be healed easily.
+5/5/25 8:48:48a Your moonstone is already unequipped.
+5/5/25 8:49:00a Catan has fallen to a Horseshoe Crawler.
+5/5/25 8:49:02a * Panthro recovers the Horseshoe Crawler mandibles, worth 9c. Your share is 2c.
+5/5/25 8:49:02a •You sense healing energy from Katreesa.
+5/5/25 8:49:04a You have 1516 coins.
+5/5/25 8:49:04a Panthro has fallen to a Horseshoe Crawler.
+5/5/25 8:49:06a You equip your caduceus.
+5/5/25 8:49:06a * Healing Katreesa 
+5/5/25 8:49:10a Panthro yells, "doing great"
+5/5/25 8:49:11a •You do not have enough spiritual energy.
+5/5/25 8:49:26a * Healing Panthro 
+5/5/25 8:49:26a Katreesa slides into a sandy crevice.
+5/5/25 8:49:28a Panthro is no longer fallen.
+5/5/25 8:49:28a Panthro exclaims, "wow that got crazy!"
+5/5/25 8:49:31a * Healing Unholy 
+5/5/25 8:49:31a •You cannot use your caduceus on yourself.
+5/5/25 8:49:32a You equip your moonstone.
+5/5/25 8:49:32a •The healing spell has been broken.
+5/5/25 8:49:34a * Healing Catan 
+5/5/25 8:49:34a You equip your caduceus.
+5/5/25 8:49:35a You must equip your moonstone before it can be used.
+5/5/25 8:49:36a Panthro exclaims, "haha!"
+5/5/25 8:49:37a Catan is no longer fallen.
+5/5/25 8:49:38a Panthro exclaims, "whoah!"
+5/5/25 8:49:44a * Healing Panthro 
+5/5/25 8:49:45a Panthro says, "hi guys"
+5/5/25 8:49:48a Brandon says, "hello"
+5/5/25 8:49:49a Katreesa says, "hi"
+5/5/25 8:49:51a * Healing Catan 
+5/5/25 8:49:51a Catan says, "Hello"
+5/5/25 8:49:54a Panthro exclaims, "thx for rescue Panfro!"
+5/5/25 8:50:01a Panthro exclaims, "yer doing great!"
+5/5/25 8:50:02a * Healing Unholy 
+5/5/25 8:50:02a •You cannot use your caduceus on yourself.
+5/5/25 8:50:03a You equip your moonstone.
+5/5/25 8:50:03a •The healing spell has been broken.
+5/5/25 8:50:05a Brandon says, "Ofcourse"
+5/5/25 8:50:05a •To heal yourself, type: \USE
+5/5/25 8:50:05a •To heal yourself three times, type: \USE 3
+5/5/25 8:50:06a * Healing Brandon 
+5/5/25 8:50:06a You equip your caduceus.
+5/5/25 8:50:07a You must equip your moonstone before it can be used.
+5/5/25 8:50:08a You must equip your moonstone before it can be used.
+5/5/25 8:50:08a * Healing Brandon 
+5/5/25 8:50:10a •You do not have enough spiritual energy.
+5/5/25 8:50:10a Katreesa says, "welcome"
+5/5/25 8:50:12a Brandon is sharing experiences with you.
+5/5/25 8:50:13a * Healing Brandon 
+5/5/25 8:50:16a Panthro says, "well um"
+5/5/25 8:50:19a •You sense healing energy from Katreesa.
+5/5/25 8:50:20a * Healing Unholy 
+5/5/25 8:50:20a •You cannot use your caduceus on yourself.
+5/5/25 8:50:20a You equip your moonstone.
+5/5/25 8:50:24a * Healing Katreesa 
+5/5/25 8:50:24a You equip your caduceus.
+5/5/25 8:50:25a You must equip your moonstone before it can be used.
+5/5/25 8:50:28a Katreesa says, "well, bye"
+5/5/25 8:50:28a Panthro exclaims, "Im gonna clear that snell!"
+5/5/25 8:50:32a Panthro exclaims, "bye !"
+5/5/25 8:50:35a Panthro slides into a sandy crevice.
+5/5/25 8:50:51a * You recover the Large Vermine fur, worth 1c.
+5/5/25 8:51:06a Panthro thinks, "Thansk for rescue Panfro!"
+5/5/25 8:51:19a •The healing spell has been broken.
+5/5/25 8:51:24a Katreesa thinks, "welcome"
+5/5/25 8:51:28a Sylvan Scout says, "Watch out -- there are many dangerous beasts to the south."
+5/5/25 8:51:58a •The healing spell has been broken.
+5/5/25 8:52:00a * Healing Panthro 
+5/5/25 8:52:02a •The player must be in the same area.
+5/5/25 8:52:03a * Healing Panthro 
+5/5/25 8:52:07a Crius yells, "It’s 3 o’clock, and all’s well."
+5/5/25 8:52:11a Katreesa says, "oh, he didn't go back in"
+5/5/25 8:52:11a Panthro exclaims, "hi guys!"
+5/5/25 8:52:12a Crius yells, "It looks pretty quiet in a Windspinner Monastery."
+5/5/25 8:52:16a Katreesa says, "hi"
+5/5/25 8:52:17a •The healing spell has been broken.
+5/5/25 8:52:18a * Healing Unholy 
+5/5/25 8:52:18a •You cannot use your caduceus on yourself.
+5/5/25 8:52:18a You equip your moonstone.
+5/5/25 8:52:20a Katreesa says, "surprising"
+5/5/25 8:52:21a You have 1516 coins.
+5/5/25 8:52:24a * Healing Panthro 
+5/5/25 8:52:24a You equip your caduceus.
+5/5/25 8:52:24a You must equip your moonstone before it can be used.
+5/5/25 8:52:25a (Omega waves)
+5/5/25 8:52:25a You must equip your moonstone before it can be used.
+5/5/25 8:52:26a Panthro exclaims, "I did go back in but I was quick like BAM BAM BOOM!"
+5/5/25 8:52:32a Katreesa says, "hehe"
+5/5/25 8:52:38a Katreesa says, "hiya Omega"
+5/5/25 8:52:40a Brooke Britney says, "Greetings, Icy. I am collecting building materials and coins for The Puddleby Civic Beautification Society."
+5/5/25 8:52:40a Brooke Britney says, "We’re pretty much just getting started here."
+5/5/25 8:52:40a Lithia Akka says, "Greetings, Icy. I am collecting building materials and coins for a beautiful fountain for town center."
+5/5/25 8:52:41a Lithia Akka says, "It looks like we’re pretty close to done. We’ll just add the finishing touches, and then we should be ready to open up."
+5/5/25 8:52:41a Lithia Akka says, "To donate materials, hold out a piece of wood, stone or metal, or hold your money- purse to donate 500 coins."
+5/5/25 8:52:44a Panthro says, "what you guys soing"
+5/5/25 8:52:49a Panthro says, "what you guys doing"
+5/5/25 8:52:51a Koppi yells, "Kyoko reports: Two moons ago, a portal was opened in south forest over the face of the land, and squib emerged saying "ah, my kingdom" and such it was in the tempest lands of puddleby,"
+5/5/25 8:52:52a Panthro says, "what you guys doeing"
+5/5/25 8:52:53a (Squib's eyes light up hopefully)
+5/5/25 8:52:56a Panthro says, "what are you guys doeing"
+5/5/25 8:52:57a Catan asks, "Aren't we strong enough to do OP now?"
+5/5/25 8:53:00a Panthro says, "what are you guys doing"
+5/5/25 8:53:03a Icy says, "so many collecting npcs now"
+5/5/25 8:53:04a Catan asks, "Omega?"
+5/5/25 8:53:12a (Katreesa nods)
+5/5/25 8:53:17a Brandon says, "we can probably do OP carefully yeah, we have our ranger studies"
+5/5/25 8:53:19a Unholy says, "still need a brick and heavy hiter"
+5/5/25 8:53:20a Icy says, "town soon to be all npcs"
+5/5/25 8:53:21a Catan asks, "Icy?"
+5/5/25 8:53:25a Katreesa says, "yep"
+5/5/25 8:53:30a Katreesa says, "so many npcs"
+5/5/25 8:53:33a Icy exclaims, "thats my name!"
+5/5/25 8:53:34a Brooke Britney says, "Greetings, Brandon. I am collecting building materials and coins for The Puddleby Civic Beautification Society."
+5/5/25 8:53:34a Brooke Britney says, "We’re pretty much just getting started here."
+5/5/25 8:53:35a Brooke Britney says, "To donate materials, hold out a piece of wood, stone or metal, or hold your money- purse to donate 500 coins."
+5/5/25 8:53:36a Panthro is no longer Clanning.
+5/5/25 8:53:36a Loom'Nir says, "Greetings, Lord Brandon."
+5/5/25 8:53:37a Loom'Nir says, "If you're looking for Loom'Bir, you can find him in Lugubrion's Keep."
+5/5/25 8:53:38a Yigdal says, "I'm collecting crystals for Lithia Akka's fountain."
+5/5/25 8:53:39a Yigdal ponders, "She has such grandiose plans."
+5/5/25 8:53:39a Katreesa says, "brb"
+5/5/25 8:53:39a Yigdal says, "I still need several selenite crystals."
+5/5/25 8:53:40a Seaforth is now Clanning.
+5/5/25 8:53:45a Omega says, "half afl for another 15"
+5/5/25 8:53:55a Icy growls, "thats my name!"
+5/5/25 8:53:56a Catan says, "Seaforth is our brick"
+5/5/25 8:54:00a Catan asks, "Icy?"
+5/5/25 8:54:05a Icy growls, "thats my name!"
+5/5/25 8:54:07a Catan asks, "OP?"
+5/5/25 8:54:11a Unholy ponders, "horcy"
+5/5/25 8:54:12a Seaforth says, "Hey Icy"
+5/5/25 8:54:13a Omega ponders, "brb"
+5/5/25 8:54:18a Icy growls, "I am rather OP, but don't tell anyone"
+5/5/25 8:54:21a Seaforth says, "a question for you"
+5/5/25 8:54:34a Icy growls, "My answer is neigh"
+5/5/25 8:54:35a Seaforth asks, "Is it, like, wrong to do it with a Centaur?"
+5/5/25 8:54:40a Seaforth says, "ethically"
+5/5/25 8:54:45a Catan says, "lol"
+5/5/25 8:54:52a Seaforth says, "I mean"
+5/5/25 8:54:59a Seaforth says, "they ARE human... ish"
+5/5/25 8:55:17a Seaforth asks, "whats your opinion, pal?"
+5/5/25 8:55:18a Icy growls, "ethics are a societal construct so it depends on which circles you run"
+5/5/25 8:55:21a Catan says, "Icy's dong. to big for a centaur"
+5/5/25 8:55:37a You have 1516 coins.
+5/5/25 8:55:42a (Seaforth marks Icy down as a centaur fetishist)
+5/5/25 8:55:55a Icy growls, "a furry as well apparently!"
+5/5/25 8:56:04a Seaforth says, "right. moving on."
+5/5/25 8:56:13a Seaforth is sharing experiences with you.
+5/5/25 8:56:16a Catan asks, "Op guys?"
+5/5/25 8:56:19a Icy says, "y'see im a fen"
+5/5/25 8:56:23a Seaforth says, "I see that"
+5/5/25 8:56:54a Catan asks, "Kat?"
+5/5/25 8:56:59a Catan asks, "Unhily?"
+5/5/25 8:57:04a Catan asks, "Unholy?"
+5/5/25 8:57:17a Unholy says, "sure"
+5/5/25 8:57:27a (Icy gives a high five to Catan)
+5/5/25 8:57:28a Brandon says, "I have some stuff i need to take care of but i'll try to come back for 5pm hunt"
+5/5/25 8:57:32a Icy exclaims, "good luck!"
+5/5/25 8:57:32a Seaforth thinks, "action is in OP"
+5/5/25 8:57:37a Brandon says, "cya"
+5/5/25 8:57:42a Icy is no longer Clanning.
+5/5/25 8:57:46a Brandon is no longer Clanning.
+5/5/25 8:58:02a Unholy ponders, "i need to make in game time convertor"
+5/5/25 8:58:02a Koppi yells, "Naferu reports: "Never attribute to malice that which is adequately explained by stupidity." - Hanlon's Razor"
+5/5/25 8:58:26a Seaforth has fallen to a Shadowcat Huntress.
+5/5/25 8:58:35a Catan says, "Rescue Seaforth"
+5/5/25 8:58:43a Unholy says, "seaforth seem to be in op"
+5/5/25 8:58:52a Catan says, "indeed but why alone"
+5/5/25 8:58:54a You have 1516 coins.
+5/5/25 8:59:00a Catan says, "healerless"
+5/5/25 8:59:11a Catan asks, "Kat?"
+5/5/25 8:59:16a Unholy says, "he doesnt wait around"
+5/5/25 8:59:27a Unholy says, "to do thingsd"
+5/5/25 9:00:07a * Healing Unholy 
+5/5/25 9:00:07a You equip your moonstone.
+5/5/25 9:00:08a Catan says, "I won't be of any help"
+5/5/25 9:00:48a * Healing Seaforth 
+5/5/25 9:00:48a You equip your caduceus.
+5/5/25 9:00:48a You must equip your moonstone before it can be used.
+5/5/25 9:00:49a •Seaforth was too wounded to be healed easily.
+5/5/25 9:00:52a Seaforth is no longer fallen.
+5/5/25 9:00:57a Seaforth says, "hello"
+5/5/25 9:01:07a Seaforth asks, "home?"
+5/5/25 9:01:08a Unholy says, "hi"
+5/5/25 9:01:18a Catan says, "2 fighters left so yes"
+5/5/25 9:01:22a •The player must be in the same area.
+5/5/25 9:01:27a * Healing Seaforth 
+5/5/25 9:01:34a •You do not have enough in you.
+5/5/25 9:01:50a * Healing Seaforth 
+5/5/25 9:01:54a •You do not have enough spiritual energy.
+5/5/25 9:01:59a * Healing Unholy 
+5/5/25 9:01:59a •You cannot use your caduceus on yourself.
+5/5/25 9:02:00a You equip your moonstone.
+5/5/25 9:02:07a Shadowmutt growls, "Woof!"
+5/5/25 9:02:08a Shadowmutt growls, "Grrr."
+5/5/25 9:02:17a * Healing Seaforth 
+5/5/25 9:02:17a You equip your caduceus.
+5/5/25 9:02:18a You must equip your moonstone before it can be used.
+5/5/25 9:02:21a You have 1516 coins.
+5/5/25 9:02:26a •You do not have enough spiritual energy.
+5/5/25 9:02:30a * Healing Seaforth 
+5/5/25 9:02:35a Unholy asks, "larbys?"
+5/5/25 9:02:40a (Seaforth nods)
+5/5/25 9:02:50a * Healing Unholy 
+5/5/25 9:02:50a •You cannot use your caduceus on yourself.
+5/5/25 9:02:51a You equip your moonstone.
+5/5/25 9:03:05a Seaforth whispers, "..."
+5/5/25 9:03:13a Koppi yells, "Talin reports: please stop bringing big monsters to where younger players travel. you ruin the fun not just for the few you might want to mess with, but many more."
+5/5/25 9:03:36a Seaforth is no longer Clanning.
+5/5/25 9:03:36a • /SLEEP when you wish to begin studying.
+5/5/25 9:03:41a • /SLEEP when you wish to begin studying.
+5/5/25 9:03:46a Use \SLEEP again when you return.
+5/5/25 9:03:46a You are done adventu

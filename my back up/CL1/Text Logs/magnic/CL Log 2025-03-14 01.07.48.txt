@@ -1,0 +1,931 @@
+
+3/14/25 1:07:49a * Your pair of shoes named “red” is starting to look a little worn.
+3/14/25 1:07:49a * Your shirt named “dark grey” is in pretty good shape.
+3/14/25 1:07:49a * Your pair of pants named “dark grey” is in pretty good shape.
+3/14/25 1:07:49a Welcome to Clan Lord, Magnic!
+3/14/25 1:07:49a Type \HELP for a list of commands.
+3/14/25 1:07:49a • You have been charged 11 coins for advanced studies.
+3/14/25 1:07:49a • You gain experience from your recent studies.
+3/14/25 1:07:49a Magnic is now Clanning.
+3/14/25 1:07:49a You have been studying for 8 hours, 39 minutes.
+3/14/25 1:07:52a It's 1:53pm on Fordi, day 48 of Autumn, 640.
+3/14/25 1:07:52a Magnic exclaims, "!"
+3/14/25 1:07:52a Friends online: none.
+3/14/25 1:07:53a You are the only member of Black Phoenix clanning.
+3/14/25 1:07:53a • What’s New: https://deltatao.com/clanlord/news
+3/14/25 1:08:03a * Tip of the day: The /OPTIONS command controls NPC speech speed, tips, skinning, and other game preferences. (Use /OPTIONS to turn tips off.)
+3/14/25 1:08:27a Magnic says, "s"
+3/14/25 1:08:33a Magnic ponders, "l"
+3/14/25 1:09:16a (Magnic ;)
+3/14/25 1:09:17a Dinsdale is now Clanning.
+3/14/25 1:09:22a \NARRATE <TEXT> puts the text in a narration bubble.
+3/14/25 1:09:24a (Magnic): 2
+3/14/25 1:11:10a You have 4148 coins.
+3/14/25 1:11:14a Arianrhod is now Clanning.
+3/14/25 1:12:33a Icy is now Clanning.
+3/14/25 1:12:34a Shadrock is no longer Clanning.
+3/14/25 1:14:35a You have 4148 coins.
+3/14/25 1:15:32a Catan is now Clanning.
+3/14/25 1:15:32a Catan has been studying for 2 days, 14 hours, 41 minutes.
+3/14/25 1:15:50a Catan exclaims, "Hello!!"
+3/14/25 1:15:59a Magnic says, "hi"
+3/14/25 1:16:02a Jeepers says, "hi"
+3/14/25 1:16:08a Catan exclaims, "Hello!!"
+3/14/25 1:16:25a (Catan Jeeper's groovy today)
+3/14/25 1:16:41a Jeepers says, "ready to kill things"
+3/14/25 1:16:45a Catan asks, "Magnic?"
+3/14/25 1:16:48a Catan asks, "Ace?"
+3/14/25 1:17:01a Magnic asks, "?"
+3/14/25 1:17:07a Magnic says, "sorry modifying macros"
+3/14/25 1:17:12a Catan asks, "A hunt with Jeepers?"
+3/14/25 1:17:18a Catan says, "AH macros"
+3/14/25 1:17:19a Glacial is now Clanning.
+3/14/25 1:17:29a Magnic asks, "where to?"
+3/14/25 1:17:31a Glacial yells, "oh hey"
+3/14/25 1:17:49a Catan says, "They work now Magnic"
+3/14/25 1:18:00a You have 4148 coins.
+3/14/25 1:18:14a Magnic asks, "what does?"
+3/14/25 1:18:18a Catan says, "My weapon toggling one, the chzining one, the anti"
+3/14/25 1:18:26a (Magnic nods)
+3/14/25 1:18:28a Catan says, "the anti disconnection one"
+3/14/25 1:18:37a Koppi yells, "Bashak reports: Don't forget to catch the boat to PEACETON later this month for The First Annual LA™ Spring Break In PEACETON, brought to you by the Laughing Academy™"
+3/14/25 1:18:48a Catan says, "Thanks a lot again for the guidance and the correction"
+3/14/25 1:18:56a Catan says, "very much appreciated"
+3/14/25 1:19:04a Catan asks, "Ace?"
+3/14/25 1:19:08a Magnic says, "making a filter for text log so it wont trigger thing when people say them"
+3/14/25 1:19:18a Catan says, "wow"
+3/14/25 1:19:26a Catan says, "out of my league"
+3/14/25 1:19:43a Magnic says, "eh it was simple once i thought it though"
+3/14/25 1:20:01a Icy thinks, "lol 3/13/25 10:19:45a You vanquished a Frozen Abyssal Hunter."
+3/14/25 1:20:26a Magnic says, "i have no refance to understand this"
+3/14/25 1:20:29a Catan asks, "What is Frozen Abyssal Hunter and why does it make Icy lugh?"
+3/14/25 1:20:39a Catan asks, "refance?"
+3/14/25 1:20:59a Magnic says, "reference"
+3/14/25 1:21:08a Catan says, "ok was unsure"
+3/14/25 1:21:22a You have 4148 coins.
+3/14/25 1:21:26a Catan says, "YOu meant cy's ss message, or the macros,"
+3/14/25 1:21:31a Catan asks, "YOu meant cy's ss message, or the macros?"
+3/14/25 1:21:38a Catan asks, "YOu meant Icy's ss message, or the macros?"
+3/14/25 1:22:00a Magnic says, "icy"
+3/14/25 1:22:10a Catan says, "Me neither yes"
+3/14/25 1:22:49a Shobaffum is now Clanning.
+3/14/25 1:23:26a Wolf Master is now Clanning.
+3/14/25 1:23:35a Shadowmutt curls up and takes a nap.
+3/14/25 1:23:48a Jiro is now Clanning.
+3/14/25 1:23:48a Koppi yells, "Palmeri reports: Fledglings apologize for Lion-O multitude of scams. Scammer Anon has reached out to no avail. We are not responsible for lost coins to his scheme"
+3/14/25 1:24:03a Crius yells, "It’s 3 o’clock, and all’s well."
+3/14/25 1:24:10a Crius yells, "There’s good hunting in the north eastern foothills."
+3/14/25 1:24:25a Shadowmutt growls, "Zzzzzz."
+3/14/25 1:24:33a Grand Master is now Clanning.
+3/14/25 1:24:50a Snake is now Clanning.
+3/14/25 1:24:50a You have 4148 coins.
+3/14/25 1:25:07a Misha is now Clanning.
+3/14/25 1:25:24a Magnic asks, "?"
+3/14/25 1:25:30a Catan says, "Jeepers"
+3/14/25 1:25:50a Catan asks, "What 's the issue Magnic?"
+3/14/25 1:25:57a Magnic says, "none"
+3/14/25 1:26:02a Catan says, "You looked puzzled"
+3/14/25 1:26:25a Shadowmutt growls, "Zzzzzz."
+3/14/25 1:26:25a Catan asks, "Jeepers?"
+3/14/25 1:26:54a Jeepers says, "ya"
+3/14/25 1:27:20a Dinsdale is no longer Clanning.
+3/14/25 1:28:20a You have 4148 coins.
+3/14/25 1:28:25a Shadowmutt growls, "Zzzzzz."
+3/14/25 1:28:29a Catan asks, "A hunt? gguy?"
+3/14/25 1:28:29a Magnic says, "k"
+3/14/25 1:28:39a Magnic asks, "?"
+3/14/25 1:28:48a Magnic asks, "did jeepers ran away?"
+3/14/25 1:28:53a Magnic says, "heh"
+3/14/25 1:28:59a Koppi yells, "Ramandu reports: Join LA! We definitely won't get you killed in the ethereal plane like those Fledglings will. We'll get you killed somewhere far less convenient!"
+3/14/25 1:29:02a Catan says, "Hmm Be availabel only in 10 minutes"
+3/14/25 1:29:27a Catan says, "See you in 10 minutes"
+3/14/25 1:29:36a Catan says, "for Wetalnds if you want"
+3/14/25 1:29:40a Jeepers says, "ok"
+3/14/25 1:29:42a Magnic says, "cya"
+3/14/25 1:29:51a Magnic says, "heh"
+3/14/25 1:30:02a Catan exclaims, "Good luck with thr macros!"
+3/14/25 1:30:25a Shadowmutt growls, "Zzzzzz."
+3/14/25 1:31:49a You have 4148 coins.
+3/14/25 1:32:25a Shadowmutt growls, "Zzzzzz."
+3/14/25 1:34:10a Koppi yells, "Ramandu reports: Join LA! We definitely won't get you killed in the ethereal plane like those Fledglings will. We'll get you killed somewhere far less convenient!"
+3/14/25 1:34:19a Unagi is no longer Clanning.
+3/14/25 1:34:25a Shadowmutt growls, "Zzzzzz."
+3/14/25 1:35:18a You have 4148 coins.
+3/14/25 1:36:25a Shadowmutt growls, "Zzzzzz."
+3/14/25 1:38:10a Kahn St'ple nods and smiles at Magnic.
+3/14/25 1:38:25a Shadowmutt awakens, yawning.
+3/14/25 1:38:43a Crius yells, "It’s 4 o’clock, and all’s well."
+3/14/25 1:38:46a You have 4148 coins.
+3/14/25 1:38:48a Crius yells, "There’s good hunting in the north eastern foothills."
+3/14/25 1:39:21a Koppi yells, "Ramandu reports: Join LA! We definitely won't get you killed in the ethereal plane like those Fledglings will. We'll get you killed somewhere far less convenient!"
+3/14/25 1:41:59a Ace is no longer Clanning.
+3/14/25 1:42:25a You have 4148 coins.
+3/14/25 1:42:46a Magnic asks, "?"
+3/14/25 1:42:51a Magnic says, "missed one"
+3/14/25 1:44:32a Koppi yells, "Palmeri reports: Fledglings apologize for Lion-O multitude of scams. Scammer Anon has reached out to no avail. We are not responsible for lost coins to his scheme"
+3/14/25 1:44:34a •The Sun sets.
+3/14/25 1:45:54a You have 4148 coins.
+3/14/25 1:46:20a Captain Barnac asks, "Ah, Magnic. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+3/14/25 1:46:21a Magnic whispers, "yes"
+3/14/25 1:46:38a You slaughtered a Scavenger Bird.
+3/14/25 1:46:40a •You assume the shape of a Giant Carnivorous Plankton.
+3/14/25 1:46:40a You equip your heartwood charm.
+3/14/25 1:46:40a • You gather your energy.
+3/14/25 1:46:43a • You speed up.
+3/14/25 1:46:58a • You return to your normal form.
+3/14/25 1:46:58a • You slow down to normal speed.
+3/14/25 1:46:59a You slip your heartwood charm into your backpack.
+3/14/25 1:47:00a Yarim is no longer Clanning.
+3/14/25 1:49:18a You have 4143 coins.
+3/14/25 1:49:43a Koppi yells, "Ramandu reports: Join LA! We definitely won't get you killed in the ethereal plane like those Fledglings will. We'll get you killed somewhere far less convenient!"
+3/14/25 1:50:54a Slyph is now Clanning.
+3/14/25 1:51:31a Jeepers says, "rdy/"
+3/14/25 1:51:56a Elenis Reyav is now Clanning.
+3/14/25 1:51:56a Magnic asks, "whats that one?"
+3/14/25 1:52:13a Haffron says, "some shak"
+3/14/25 1:52:23a Magnic asks, "the bleeder?"
+3/14/25 1:52:29a Haffron says, "scientist"
+3/14/25 1:52:34a Magnic says, "oh"
+3/14/25 1:52:42a You have 4143 coins.
+3/14/25 1:53:27a Crius yells, "It’s 5 o’clock, and all’s well."
+3/14/25 1:53:32a Crius yells, "There’s good hunting in the snagglewood."
+3/14/25 1:53:36a Jeepers says, "free salve"
+3/14/25 1:53:54a You drop your cluster of mutated spores.
+3/14/25 1:54:01a Magnic says, "free spore"
+3/14/25 1:54:05a Jeepers picks up a red healing salve.
+3/14/25 1:54:12a Jeepers says, "have no room heh"
+3/14/25 1:54:22a You pick up a cluster of mutated spores.
+3/14/25 1:54:37a Magnic says, "i think i have about 7 about"
+3/14/25 1:54:54a Koppi yells, "Bashak reports: Don't forget to catch the boat to PEACETON later this month for The First Annual LA™ Spring Break In PEACETON, brought to you by the Laughing Academy™"
+3/14/25 1:55:00a Jeepers exclaims, "catan!"
+3/14/25 1:55:02a Magnic says, "normaly just donate them to kat"
+3/14/25 1:55:14a Magnic whispers, "excuse me"
+3/14/25 1:55:42a Jeepers says, "haffrom fell"
+3/14/25 1:55:49a Magnic says, "heh"
+3/14/25 1:56:00a Magnic asks, "what to?"
+3/14/25 1:56:04a You have 4143 coins.
+3/14/25 1:56:05a Jeepers says, "enchanted peg leg"
+3/14/25 1:56:11a Magnic says, "heh"
+3/14/25 1:56:16a Magnic says, "no idea what that is"
+3/14/25 1:56:36a Magnic says, "sounds like a d2 refrence"
+3/14/25 1:57:10a Sentinel yells, "There is the Emperor's law, or there is oblivion."
+3/14/25 1:58:27a Catan says, "Hello"
+3/14/25 1:58:41a Catan says, "I'll be ready in less than 5 min"
+3/14/25 1:58:41a You begin sharing your experiences with Catan.
+3/14/25 1:58:55a Catan is sharing experiences with you.
+3/14/25 1:58:56a Magnic says, "lori hunt will start when hes ready :P"
+3/14/25 1:59:07a Catan asks, "oh lori hunt ison?"
+3/14/25 1:59:14a Magnic says, "45mins"
+3/14/25 1:59:27a You have 4143 coins.
+3/14/25 1:59:30a Jeepers says, "i might just come back fo rthat then"
+3/14/25 1:59:33a Catan asks, "Where do we go?"
+3/14/25 1:59:44a Catan asks, "if we go now?"
+3/14/25 2:00:05a Koppi yells, "Coriakin reports: The next concert will be Mar. 30th at 11 am Pacific Time. Hope to see you there!"
+3/14/25 2:00:20a Jeepers says, "need ab reak if doing lori hunt"
+3/14/25 2:00:22a Catan asks, "Where do you get exp MAgnic?"
+3/14/25 2:00:31a Magnic says, "lori hunts"
+3/14/25 2:00:39a Catan says, "AH ok"
+3/14/25 2:00:44a Magnic says, "normaly if bear cave"
+3/14/25 2:00:46a Catan asks, "so we go nowhere now then?"
+3/14/25 2:00:56a Magnic says, "but snowy 2 hard without studys"
+3/14/25 2:01:11a Magnic says, "unless i use this morph"
+3/14/25 2:01:12a •You assume the shape of a Giant Carnivorous Plankton.
+3/14/25 2:01:15a Catan says, "Jeepers might you accept to sit at Unidine hut"
+3/14/25 2:01:18a Magnic growls, "for luck hits"
+3/14/25 2:01:21a • You return to your normal form.
+3/14/25 2:01:23a Shadowmutt growls, "Grrr."
+3/14/25 2:01:24a Vivo Ladi is now Clanning.
+3/14/25 2:01:31a Magnic says, "he needs a break"
+3/14/25 2:01:32a Catan asks, "while I rankwhore my healer?"
+3/14/25 2:01:40a Catan says, "He won't need to be thre"
+3/14/25 2:01:48a Catan says, "Undine won't do him anthing"
+3/14/25 2:02:12a Catan asks, "you can self heal Jeepers?"
+3/14/25 2:02:23a Catan asks, "you can self heal on loop Jeepers?"
+3/14/25 2:02:25a Magnic says, "he probbly afk"
+3/14/25 2:02:31a (Catan sighs)
+3/14/25 2:02:45a Catan says, "Not sure I can make for Lori's hunt"
+3/14/25 2:02:51a You have 4143 coins.
+3/14/25 2:02:53a Catan says, "Not sure I can make it for Lori's hunt"
+3/14/25 2:03:21a (Elenis Reyav smiles.)
+3/14/25 2:03:29a Catan says, "Hello Eleins"
+3/14/25 2:03:30a Magnic asks, "?"
+3/14/25 2:04:03a Magnic asks, "oh did you find your healer a sunstone?"
+3/14/25 2:04:09a Catan says, "Yep"
+3/14/25 2:04:13a Magnic says, "nice"
+3/14/25 2:04:15a Catan says, "I was even given a SUngem"
+3/14/25 2:04:28a Magnic says, "yeah i have one as well"
+3/14/25 2:04:44a Catan says, "I dunno when I use the full capabilities"
+3/14/25 2:04:47a Catan says, "as I have no clan"
+3/14/25 2:05:16a Koppi yells, "Ramandu reports: Join LA! We definitely won't get you killed in the ethereal plane like those Fledglings will. We'll get you killed somewhere far less convenient!"
+3/14/25 2:05:19a Magnic says, "its just dull slower"
+3/14/25 2:05:24a Magnic says, "dulls*"
+3/14/25 2:05:31a Magnic says, "breaks slower"
+3/14/25 2:05:46a Catan says, "My healer firend Woolf passed 2nd circle yesterday (ooc)"
+3/14/25 2:05:54a Magnic says, "oh nice"
+3/14/25 2:06:01a Magnic says, "3rd is much harder"
+3/14/25 2:06:11a Catan asks, "Ah is it?"
+3/14/25 2:06:14a You have 4143 coins.
+3/14/25 2:06:30a Magnic says, "well depening on training :P"
+3/14/25 2:06:43a Catan says, "A bit confused"
+3/14/25 2:07:03a Catan says, "Some people swear on SPrite, another healer said do Respia"
+3/14/25 2:07:20a Magnic says, "to pass the test just higgy"
+3/14/25 2:07:36a Magnic says, "300 fastus and respia"
+3/14/25 2:07:42a Magnic says, "heh"
+3/14/25 2:07:43a Catan says, "it's digfficult to make a decision when you have such differrent advice"
+3/14/25 2:07:49a Magnic says, "but dont train for the tests"
+3/14/25 2:08:06a Catan says, "don't worry I don't trian for the test"
+3/14/25 2:08:06a Crius yells, "It’s 6 o’clock on Fordi, the 48th day of Autumn in the 640th year of the Ascendancy, and all’s well."
+3/14/25 2:08:11a Crius yells, "It looks pretty quiet in a hut."
+3/14/25 2:08:21a Magnic says, "good, becuase i did :P"
+3/14/25 2:08:23a Catan says, "but I was told that training my healer for double clicking was a hard"
+3/14/25 2:08:36a Magnic says, "make for a tanky healer who cant heal any one :P"
+3/14/25 2:08:57a Catan asks, "this is your healer?"
+3/14/25 2:09:02a Catan asks, "this is your healer you mean?"
+3/14/25 2:09:04a Cecil is now Clanning.
+3/14/25 2:09:07a Magnic says, "eh its not, if you know what macro to look for, but i cant tell you thta"
+3/14/25 2:09:13a Catan ponders, "can't rember tehir name"
+3/14/25 2:09:21a Lifesaver is now Clanning.
+3/14/25 2:09:32a Magnic says, "no"
+3/14/25 2:09:37a Azerak is now Clanning.
+3/14/25 2:09:40a You have 4143 coins.
+3/14/25 2:09:40a Magnic says, "jeepers is jeepers"
+3/14/25 2:09:53a Magnic says, "i have 6 healers"
+3/14/25 2:09:59a Catan says, "wow"
+3/14/25 2:10:00a Magnic says, "or 7 maybe"
+3/14/25 2:10:08a Magnic says, "all trained badly :P"
+3/14/25 2:10:11a Magnic says, "expect 2"
+3/14/25 2:10:11a Catan says, "we are confused here"
+3/14/25 2:10:24a Catan says, "I nefver meant to say Jeepers was you"
+3/14/25 2:10:27a Koppi yells, "Ramandu reports: Join LA! We definitely won't get you killed in the ethereal plane like those Fledglings will. We'll get you killed somewhere far less convenient!"
+3/14/25 2:10:30a Catan says, "I know you're both different"
+3/14/25 2:10:47a Catan ponders, "Or feign to be , you never know"
+3/14/25 2:10:50a Lifesaver is no longer Clanning.
+3/14/25 2:10:55a Elenis Reyav ponders, "Completely the same, no doubt."
+3/14/25 2:11:28a Sentinel yells, "The Emperor is watching you."
+3/14/25 2:11:36a Unholy is now Clanning.
+3/14/25 2:11:42a Elenis Reyav asks, "How's the ranger qualification going, Catan?"
+3/14/25 2:11:50a Snake says, "Squib heal me"
+3/14/25 2:11:52a Catan says, "I am gainig Evus ranks"
+3/14/25 2:11:58a (Elenis Reyav nods.)
+3/14/25 2:12:01a Catan says, "but no real progress"
+3/14/25 2:12:07a Catan says, "Ranger wise I think"
+3/14/25 2:12:13a Catan asks, "can you assess me?"
+3/14/25 2:12:17a Catan is making progress towards becoming a Ranger.
+3/14/25 2:12:27a Magnic says, "Catan is making progress towards becoming a Ranger."
+3/14/25 2:12:30a Catan says, "I thik I am still at the half way mark"
+3/14/25 2:12:33a (Elenis Reyav nods.)
+3/14/25 2:12:38a Catan says, "exactly"
+3/14/25 2:12:44a Catan says, "I need to do Night Wenides"
+3/14/25 2:12:48a (Elenis Reyav nods.)
+3/14/25 2:12:56a Catan says, "but I need to gather firends to help me prepare that"
+3/14/25 2:13:00a (Elenis Reyav nods.)
+3/14/25 2:13:04a You have 4143 coins.
+3/14/25 2:13:06a (Squib looks a bit worried for Haffron)
+3/14/25 2:13:12a Elenis Reyav says, "Yeah. Priming the passes can help a lot."
+3/14/25 2:13:18a Elenis Reyav says, "And gathering whatever is in GMV together."
+3/14/25 2:13:19a Catan says, "ther'e's another challenge In ened to do"
+3/14/25 2:13:36a Elenis Reyav says, "Similarly with the Plains Maha Ruknee"
+3/14/25 2:13:47a Elenis Reyav asks, "Did you get the Giant Crawler?"
+3/14/25 2:14:16a Magnic says, "unholy run ne"
+3/14/25 2:14:16a Unholy says, "dirnum6/equip moonstone"
+3/14/25 2:14:19a Botania is now Clanning.
+3/14/25 2:14:25a Magnic says, "heh"
+3/14/25 2:14:33a Azerak is no longer Clanning.
+3/14/25 2:14:51a Magnic says, "unholy run northeast"
+3/14/25 2:14:54a Cecil is no longer Clanning.
+3/14/25 2:15:01a Magnic says, "hmm"
+3/14/25 2:15:38a Koppi yells, "Bashak reports: Don't forget to catch the boat to PEACETON later this month for The First Annual LA™ Spring Break In PEACETON, brought to you by the Laughing Academy™"
+3/14/25 2:15:54a Haffron is no longer Clanning.
+3/14/25 2:16:29a Catan says, "I failed th egiant crawler"
+3/14/25 2:16:42a You have 4143 coins.
+3/14/25 2:17:30a Catan says, "did south beaches again and again witohut haing cleared before hand and very few GCrawlers"
+3/14/25 2:17:36a Magnic says, "unholy run northeast"
+3/14/25 2:17:38a Catan says, "so was a nightmare"
+3/14/25 2:17:44a Haffron is now Clanning.
+3/14/25 2:18:02a Botania is no longer Clanning.
+3/14/25 2:18:10a Catan says, "was waylaid"
+3/14/25 2:18:26a Elenis Reyav says, "I'm free to help with things for ~30m, if you'd like ^_^"
+3/14/25 2:18:26a Catan says, "by rockos and other crawlers"
+3/14/25 2:18:33a (Elenis Reyav nods.)
+3/14/25 2:18:42a Elenis Reyav says, "That can get painful."
+3/14/25 2:19:27a • /SLEEP when you wish to begin studying.
+3/14/25 2:19:29a • /SLEEP when you wish to begin studying.
+3/14/25 2:19:30a Magnic says, "unholy run northeast"
+3/14/25 2:20:21a You have 4143 coins.
+3/14/25 2:21:50a Magnic says, "unholy run northeast"
+3/14/25 2:23:45a Magnic says, "unholy run northeast"
+3/14/25 2:23:59a Elenis Reyav ponders, "Looks like Lori hunt is in 20 minutes or so."
+3/14/25 2:24:04a Kahn St'ple nods and smiles at Elenis Reyav.
+3/14/25 2:24:18a Unholy is no longer Clanning.
+3/14/25 2:24:20a You have 4143 coins.
+3/14/25 2:26:00a Koppi yells, "Coriakin reports: The next concert will be Mar. 30th at 11 am Pacific Time. Hope to see you there!"
+3/14/25 2:26:09a Catan exclaims, "Thx got the discord link!"
+3/14/25 2:27:47a You have 4143 coins.
+3/14/25 2:31:11a Koppi yells, "Coriakin reports: The next concert will be Mar. 30th at 11 am Pacific Time. Hope to see you there!"
+3/14/25 2:31:19a You have 4143 coins.
+3/14/25 2:34:49a You have 4143 coins.
+3/14/25 2:36:00a (Elenis Reyav smiles.)
+3/14/25 2:36:22a Koppi yells, "Bashak reports: Don't forget to catch the boat to PEACETON later this month for The First Annual LA™ Spring Break In PEACETON, brought to you by the Laughing Academy™"
+3/14/25 2:37:28a Crius yells, "It’s 8 o’clock, and all’s well."
+3/14/25 2:37:32a Crius yells, "There’s good hunting in the snagglewood."
+3/14/25 2:37:54a Donk is now Clanning.
+3/14/25 2:38:15a Donk says, "beep beep"
+3/14/25 2:38:27a You have 4143 coins.
+3/14/25 2:38:56a Donk thinks, "beer"
+3/14/25 2:41:33a Koppi yells, "Ramandu reports: Join LA! We definitely won't get you killed in the ethereal plane like those Fledglings will. We'll get you killed somewhere far less convenient!"
+3/14/25 2:41:45a Kalian is now Clanning.
+3/14/25 2:41:47a Lorikeet is now Clanning.
+3/14/25 2:42:03a You have 4143 coins.
+3/14/25 2:42:10a You begin sharing your experiences with Lorikeet.
+3/14/25 2:42:10a You are sharing experiences with Lorikeet and Catan.
+3/14/25 2:42:14a You begin sharing your experiences with Jeepers.
+3/14/25 2:42:14a You are sharing experiences with Jeepers, Lorikeet and Catan.
+3/14/25 2:43:02a Deathless is now Clanning.
+3/14/25 2:44:32a Chmee is now Clanning.
+3/14/25 2:44:47a Catan asks, "We're waitng for other people to shiw up?"
+3/14/25 2:44:51a Donk says, "ooc not onl did. I get a free wifi router, but also a 5G portal."
+3/14/25 2:45:12a Taryn is now Clanning.
+3/14/25 2:45:13a Lorikeet says, "Always wait until 9:45 for sure, usually a couple minutes after. Taryn will probably come"
+3/14/25 2:45:15a Lorikeet ponders, "aha"
+3/14/25 2:45:25a Kahn St'ple nods and smiles at Donk.
+3/14/25 2:45:43a You have 4143 coins.
+3/14/25 2:45:44a Icy exclaims, "cheers!"
+3/14/25 2:45:48a Lorikeet says, "=)"
+3/14/25 2:45:49a Donk says, "beer"
+3/14/25 2:45:53a Icy says, "I got ate by a wooden leg"
+3/14/25 2:45:57a Deathless asks, "what healers besides T and Lori are coming?"
+3/14/25 2:46:00a Donk says, "arrrr"
+3/14/25 2:46:00a Icy ponders, "what an odd statement"
+3/14/25 2:46:00a Chmee ponders, "that's a bar in Boston"
+3/14/25 2:46:01a You begin sharing your experiences with Taryn.
+3/14/25 2:46:01a You are sharing experiences with Taryn, Jeepers, Lorikeet and Catan.
+3/14/25 2:46:07a Jeepers says, "thoom"
+3/14/25 2:46:15a Noivad is now Clanning.
+3/14/25 2:46:19a (Lorikeet points to the thoom)
+3/14/25 2:46:21a Donk says, "ooo"
+3/14/25 2:46:25a Donk exclaims, "snow crew!"
+3/14/25 2:46:26a (Jeepers thooms)
+3/14/25 2:46:37a Lorikeet says, "Start out at OP"
+3/14/25 2:46:41a Lorikeet says, "portal"
+3/14/25 2:46:44a Koppi yells, "Ramandu reports: Join LA! We definitely won't get you killed in the ethereal plane like those Fledglings will. We'll get you killed somewhere far less convenient!"
+3/14/25 2:46:48a You equip your heartwood charm.
+3/14/25 2:46:49a •You assume the shape of a Giant Carnivorous Plankton.
+3/14/25 2:46:49a • You gather your energy.
+3/14/25 2:46:52a • You speed up.
+3/14/25 2:46:58a Noivad says, "tuska"
+3/14/25 2:47:11a • You slow down to normal speed.
+3/14/25 2:47:11a You slip your heartwood charm into your backpack.
+3/14/25 2:47:24a Lazoom thinks, "Help us with a lighthouse. Best prices given for your construction materials!"
+3/14/25 2:47:33a • You return to your normal form.
+3/14/25 2:47:42a Glacial is no longer Clanning.
+3/14/25 2:47:54a Icy is no longer Clanning.
+3/14/25 2:48:22a Deathless says, "SB/pig if bridge, Goat/toice if snowy"
+3/14/25 2:48:25a Catan says, "Sooryy was afk missed your words"
+3/14/25 2:48:32a Donk growls, "3 heals and 2 cw?"
+3/14/25 2:48:38a Lorikeet says, "That's what the text log is for"
+3/14/25 2:48:41a Deathless says, "noi and donk imo"
+3/14/25 2:48:42a Catan asks, "I share Donk?"
+3/14/25 2:48:43a Lorikeet asks, "Do you have it open?"
+3/14/25 2:48:44a Noivad is sharing experiences with you.
+3/14/25 2:48:53a Lorikeet says, "sounds good"
+3/14/25 2:49:02a Deathless says, "and then chmee noi and donk can share each other"
+3/14/25 2:49:03a Lorikeet says, "taryn, jeepers, me, donk and noivad"
+3/14/25 2:49:05a Noivad says, "dock share DL and Chmee"
+3/14/25 2:49:06a You have 4143 coins.
+3/14/25 2:49:07a Lorikeet says, "oh"
+3/14/25 2:49:13a Lorikeet says, "there are three of htem"
+3/14/25 2:49:18a Lorikeet ponders, "hrmm"
+3/14/25 2:49:20a Magnic says, "lastie tan bear if we see any"
+3/14/25 2:49:22a Noivad says, "I'm just doing circle"
+3/14/25 2:49:28a Lorikeet says, "yeah circle is okay then"
+3/14/25 2:49:29a Chmee growls, "I'm not fussed"
+3/14/25 2:49:29a You begin sharing your experiences with Donk.
+3/14/25 2:49:29a You are sharing experiences with Donk, Taryn, Jeepers, Lorikeet and Catan.
+3/14/25 2:49:39a Noivad says, "set"
+3/14/25 2:49:41a Deathless says, "k, set"
+3/14/25 2:49:44a Catan says, "Sorry am lost"
+3/14/25 2:49:49a Noivad says, "we circle share"
+3/14/25 2:49:51a Catan asks, "I share DOnk and deathless?"
+3/14/25 2:49:56a Taryn thinks to a group, "lots trees"
+3/14/25 2:49:56a Chmee is sharing experiences with you.
+3/14/25 2:49:59a Noivad says, "share 2 people to your clockwise direction"
+3/14/25 2:50:04a Noivad says, "2 fighters that is"
+3/14/25 2:50:12a Noivad says, "so Donk and Deathless"
+3/14/25 2:50:16a Catan is no longer sharing experiences with you.
+3/14/25 2:50:20a Noivad says, "so Donk and Deathless for you"
+3/14/25 2:50:21a Chmee has fallen to a twig.
+3/14/25 2:50:29a Noivad says, "CW2 means clokwise 2 people"
+3/14/25 2:50:32a Catan says, "Thanks"
+3/14/25 2:50:35a Noivad says, "CW2 means clockwise 2 people"
+3/14/25 2:50:45a Noivad says, "I came up with it decades ago"
+3/14/25 2:50:45a Deathless says, "a twig came out of right field heh"
+3/14/25 2:50:54a Taryn says, "Noivad, need you to get Chmee on ledge, might be crowded"
+3/14/25 2:50:55a •You sense healing energy from Jeepers.
+3/14/25 2:51:15a Chmee says, "oops :-)"
+3/14/25 2:51:26a Catan says, "no point in me going down that ladder"
+3/14/25 2:51:32a (Donk grins.)
+3/14/25 2:51:34a Chmee is no longer fallen.
+3/14/25 2:51:44a Taryn says, "suggest just the top fighters and get the trees, we'll ss for the others."
+3/14/25 2:51:59a Catan says, "no need to suggest"
+3/14/25 2:52:00a •You sense healing energy from Jeepers.
+3/14/25 2:52:11a Catan says, "ssseing them chained was enough of a warning for me"
+3/14/25 2:52:22a Noivad thinks, "all"
+3/14/25 2:52:31a You have 4143 coins.
+3/14/25 2:52:36a * You recover the Fleet Foxweir fur, worth 1c.
+3/14/25 2:52:52a You helped vanquish a Wild Stallion.
+3/14/25 2:53:09a Taryn yells, "twigged"
+3/14/25 2:53:11a Misha is no longer Clanning.
+3/14/25 2:53:17a Lorikeet says, "must be a tree"
+3/14/25 2:53:23a Eirian Caldwell is now Clanning.
+3/14/25 2:53:38a Deathless asks, "anyone else on things?"
+3/14/25 2:53:45a Chmee growls, "ddnot here"
+3/14/25 2:53:52a Noivad yells, "SB, Tan Bear lasts"
+3/14/25 2:53:59a You helped vanquish a Wild Stallion.
+3/14/25 2:53:59a * Catan recovers the Wild Stallion fur, worth 2c. Your share is 1c.
+3/14/25 2:54:11a Noivad yells, "what else are lasts here?"
+3/14/25 2:54:11a Lorikeet yells, "one sb here. rest other stuff"
+3/14/25 2:54:23a Jeepers says, "Do the freedom birb pose donk"
+3/14/25 2:54:29a Taryn yells, "inc"
+3/14/25 2:54:34a You helped vanquish a Sky Bison.
+3/14/25 2:54:34a * You recover the Sky Bison fur, worth 40c. Your share is 4c.
+3/14/25 2:54:35a Catan says, "lag"
+3/14/25 2:54:37a You helped vanquish a Fickle Foxweir.
+3/14/25 2:54:46a You helped vanquish a Wild Stallion.
+3/14/25 2:54:47a * Donk recovers the Wild Stallion fur, worth 27c. Your share is 3c.
+3/14/25 2:54:49a Catan has fallen to a Fickle Foxweir.
+3/14/25 2:54:49a * Donk recovers the Fickle Foxweir fur, worth 23c. Your share is 3c.
+3/14/25 2:54:54a * Taryn recovers the Mountain Bison fur, worth 16c. Your share is 2c.
+3/14/25 2:55:03a Catan is no longer fallen.
+3/14/25 2:55:03a (Donk waves.)
+3/14/25 2:55:09a (Eirian Caldwell waves)
+3/14/25 2:55:10a Taryn yells, "one person at a time can go up to get healing"
+3/14/25 2:55:12a (Noivad notices eirian sneaking in)
+3/14/25 2:55:17a Taryn says, "f"
+3/14/25 2:55:18a You gave signed good karma to Jeepers, :).
+3/14/25 2:55:27a Eirian Caldwell says, "sharessh jeep"
+3/14/25 2:55:30a •You sense healing energy from Taryn.
+3/14/25 2:55:31a •You sense healing energy from Taryn.
+3/14/25 2:55:49a You helped vanquish a Wild Stallion.
+3/14/25 2:55:53a You have 4156 coins.
+3/14/25 2:55:55a Deathless asks, "SB, tan bear, anyhting Eirian?"
+3/14/25 2:56:01a Eirian Caldwell asks, "which fighters?"
+3/14/25 2:56:08a Eirian Caldwell says, "not here"
+3/14/25 2:56:10a Taryn thinks to a group, "sky ledge"
+3/14/25 2:56:19a Lorikeet says, "3 sky ledg3e"
+3/14/25 2:56:21a Catan has fallen to a Mountain Bison.
+3/14/25 2:56:24a You helped vanquish a Shadowcat Huntress.
+3/14/25 2:56:24a * Lorikeet recovers the Shadowcat Huntress fur, worth 11c. Your share is 1c.
+3/14/25 2:56:27a Catan is no longer fallen.
+3/14/25 2:56:32a Chmee growls, "share donk and noi, eirian"
+3/14/25 2:56:41a You helped vanquish a Fickle Foxweir.
+3/14/25 2:56:41a * You recover the Fickle Foxweir fur, worth 4c.
+3/14/25 2:56:42a Catan has fallen to a Sky Bison.
+3/14/25 2:56:52a Catan is no longer fallen.
+3/14/25 2:56:54a Shobaffum is no longer Clanning.
+3/14/25 2:56:55a You helped vanquish a Sky Bison.
+3/14/25 2:56:56a Donk has fallen to a Sky Bison.
+3/14/25 2:56:57a Wolf Master is no longer Clanning.
+3/14/25 2:57:00a Jiro is no longer Clanning.
+3/14/25 2:57:03a You helped vanquish a Sky Bison.
+3/14/25 2:57:05a You helped vanquish a Mountain Bison.
+3/14/25 2:57:05a * Taryn recovers the Mountain Bison fur, worth 123c. Your share is 14c.
+3/14/25 2:57:09a Donk is no longer fallen.
+3/14/25 2:57:09a Lorikeet yells, "one more on ledge"
+3/14/25 2:57:10a Donk says, "thanks"
+3/14/25 2:57:19a Taryn asks, "who is on sky again?"
+3/14/25 2:57:24a Noivad says, "dl"
+3/14/25 2:57:25a Lorikeet says, "Deathless"
+3/14/25 2:57:43a Deathless says, "wasnt sure if folks got their tags in"
+3/14/25 2:57:49a Catan says, "I ddint"
+3/14/25 2:57:55a Donk says, "dont wry about tags"
+3/14/25 2:58:05a Wolf Master is now Clanning.
+3/14/25 2:58:08a Taryn yells, "inc"
+3/14/25 2:58:18a Catan has fallen to a Shadowcat Huntress.
+3/14/25 2:58:19a * Donk recovers the Wild Stallion fur, worth 32c. Your share is 3c.
+3/14/25 2:58:21a * Donk recovers the Shadowcat Huntress fur, worth 21c. Your share is 2c.
+3/14/25 2:58:24a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/14/25 2:58:24a You helped vanquish a Mountain Bison.
+3/14/25 2:58:25a * Donk recovers the Mountain Bison fur, worth 8c. Your share is 1c.
+3/14/25 2:58:25a Magnic has fallen to a Gitoise.
+3/14/25 2:58:41a Eirian Caldwell says, "nice lure :)"
+3/14/25 2:58:46a •You sense healing energy from Taryn.
+3/14/25 2:58:49a Catan is no longer fallen.
+3/14/25 2:58:52a You helped vanquish a Mountain Bison.
+3/14/25 2:58:52a * Chmee recovers the Mountain Bison fur, worth 15c. Your share is 2c.
+3/14/25 2:58:54a Donk has fallen to a Mountain Bear.
+3/14/25 2:58:56a Noivad yells, "last"
+3/14/25 2:59:01a Donk is no longer fallen.
+3/14/25 2:59:13a •You sense healing energy from Taryn.
+3/14/25 2:59:15a Deathless says, "hard to not worru about tagd after being trained in the ways of a champ he"
+3/14/25 2:59:16a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/14/25 2:59:16a Magnic has fallen to a Mountain Bison.
+3/14/25 2:59:16a You have 4179 coins.
+3/14/25 2:59:22a •You sense healing energy from Jeepers.
+3/14/25 2:59:22a Wolf Master is no longer Clanning.
+3/14/25 2:59:26a Jiro is now Clanning.
+3/14/25 2:59:26a •You sense healing energy from Taryn.
+3/14/25 2:59:26a Catan has fallen to a Shadowcat Huntress.
+3/14/25 2:59:26a Noivad asks, "woh is lating Tan Bears?"
+3/14/25 2:59:28a (Donk grins.)
+3/14/25 2:59:29a You helped vanquish a Mountain Bear.
+3/14/25 2:59:36a You helped vanquish a Shadowcat Huntress.
+3/14/25 2:59:36a * Noivad recovers the Shadowcat Huntress fur, worth 47c. Your share is 6c.
+3/14/25 2:59:41a You helped vanquish a Mountain Bison.
+3/14/25 2:59:42a * Chmee recovers the Mountain Bison fur, worth 8c. Your share is 1c.
+3/14/25 2:59:49a * Your share in the 1c Hickory Giant bounty is 1c.
+3/14/25 2:59:51a Catan is no longer fallen.
+3/14/25 2:59:58a Jeepers ponders, "laggy"
+3/14/25 2:59:59a You helped vanquish a Wild Stallion.
+3/14/25 3:00:01a Deathless says, "sam"
+3/14/25 3:00:02a Deathless says, "ee"
+3/14/25 3:00:04a Deathless says, "same"
+3/14/25 3:00:12a •You sense healing energy from Jeepers.
+3/14/25 3:00:14a Donk says, "afk a moment"
+3/14/25 3:00:25a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/14/25 3:00:26a Magnic has fallen to a Mountain Bison.
+3/14/25 3:00:41a Jiro is no longer Clanning.
+3/14/25 3:00:44a Jeepers says, "nice"
+3/14/25 3:00:45a Lorikeet says, "nice"
+3/14/25 3:00:50a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/14/25 3:00:50a Magnic has fallen to a Starstag.
+3/14/25 3:00:50a You helped vanquish a Mountain Bison.
+3/14/25 3:00:50a * Noivad recovers the Mountain Bison fur, worth 17c. Your share is 2c.
+3/14/25 3:00:58a Noivad has fallen to a Shadowcat Huntress.
+3/14/25 3:00:59a Catan has fallen to a Swarm of Bees.
+3/14/25 3:01:02a Jeepers has fallen to a Sky Bison.
+3/14/25 3:01:03a Noivad says, "oof"
+3/14/25 3:01:05a Chmee has fallen to a Lowland Hawk.
+3/14/25 3:01:06a Lorikeet starts dragging you.
+3/14/25 3:01:11a Chmee says, "meh"
+3/14/25 3:01:16a Lorikeet's chain breaks as she tries to use it.
+3/14/25 3:01:18a Donk has fallen to a Lowland Hawk.
+3/14/25 3:01:20a Noivad says, "help me Taynwankenobi"
+3/14/25 3:01:27a Catan says, "wow"
+3/14/25 3:01:49a Lorikeet starts dragging you.
+3/14/25 3:02:01a Donk is no longer fallen.
+3/14/25 3:02:09a Jeepers is no longer fallen.
+3/14/25 3:02:29a Chmee is no longer fallen.
+3/14/25 3:02:38a You have 4189 coins.
+3/14/25 3:02:38a Deathless says, "we are all Bms"
+3/14/25 3:02:42a Catan is no longer fallen.
+3/14/25 3:02:44a (Eirian Caldwell chuckles.)
+3/14/25 3:02:44a Lorikeet says, "Looks like noivad also fallen"
+3/14/25 3:02:57a Lorikeet says, "SOrry I couldn't chain you Catan"
+3/14/25 3:03:02a Catan says, "Np"
+3/14/25 3:03:03a Catan says, "Np"
+3/14/25 3:03:03a Deathless says, "he was under a tree to the left of stairs"
+3/14/25 3:03:05a Lorikeet says, "I just pushed the chain macro"
+3/14/25 3:03:09a Catan says, "Incredible you survived"
+3/14/25 3:03:15a Lorikeet says, "and whoever got chained got chained :D"
+3/14/25 3:03:19a Catan says, "I tohught we were doomed"
+3/14/25 3:03:23a Lorikeet says, "Nah"
+3/14/25 3:03:28a Chmee has fallen to a Sky Bison.
+3/14/25 3:03:32a Lorikeet says, "But breaking a chain didn't help"
+3/14/25 3:03:39a Taryn says, "easier for us healers, sky don't stick"
+3/14/25 3:03:41a Lorikeet says, "Neither did Taryn and I running into each other :D"
+3/14/25 3:03:41a Catan says, "quite exciting tbh"
+3/14/25 3:03:43a Donk says, "Ok, back."
+3/14/25 3:03:49a Donk says, "sorry about that"
+3/14/25 3:03:50a Lorikeet says, "=)"
+3/14/25 3:03:56a Lorikeet says, "I always go the same way"
+3/14/25 3:03:58a Noivad is still fallen to a Shadowcat Huntress.
+3/14/25 3:04:04a Taryn says, "ok, I'll try for the fallens first"
+3/14/25 3:04:05a Lorikeet says, "so I can see the ledge from the west side"
+3/14/25 3:04:07a Deathless says, "I found out one of the twins coworkers is named Taryn"
+3/14/25 3:04:17a Lorikeet says, "heh"
+3/14/25 3:04:31a Lorikeet says, "Did her parents play Clanlord? :D"
+3/14/25 3:04:43a Deathless says, "heh"
+3/14/25 3:04:44a Catan says, "Meshara up stairs sorry"
+3/14/25 3:04:55a Deathless says, "she told me because she is native american like us"
+3/14/25 3:04:59a Deathless says, "she told me because she is native american like us"
+3/14/25 3:05:08a Chmee is no longer fallen.
+3/14/25 3:05:10a Catan has fallen to a Shadowcat Huntress.
+3/14/25 3:05:10a Catan is no longer fallen.
+3/14/25 3:05:11a Catan has fallen to a Shadowcat Huntress.
+3/14/25 3:05:17a Chmee has fallen to a Delta Toad.
+3/14/25 3:05:22a Noivad yells, "Hello?"
+3/14/25 3:05:25a Catan is no longer fallen.
+3/14/25 3:05:37a Noivad is no longer fallen.
+3/14/25 3:05:47a Noivad says, "I got pushed behind that tree"
+3/14/25 3:05:47a Lorikeet asks, "what happened to CHmee?"
+3/14/25 3:05:55a Taryn says, "um"
+3/14/25 3:05:58a Noivad says, "he ran past me a few times"
+3/14/25 3:05:58a Taryn says, "good question"
+3/14/25 3:06:01a You have 4189 coins.
+3/14/25 3:06:08a Lorikeet says, "oh"
+3/14/25 3:06:19a You helped kill a Flotsam Meshra.
+3/14/25 3:06:20a Chmee is no longer fallen.
+3/14/25 3:06:36a Donk yells, "sb\"
+3/14/25 3:06:45a Taryn thinks to a group, "down"
+3/14/25 3:07:08a You helped vanquish a Mountain Bison.
+3/14/25 3:07:12a You helped vanquish a Sky Bison.
+3/14/25 3:07:15a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/14/25 3:07:15a Magnic has fallen to a Sky Bison.
+3/14/25 3:07:16a Catan has fallen to a Sky Bison.
+3/14/25 3:07:25a * Donk recovers the Sky Bison fur, worth 20c. Your share is 2c.
+3/14/25 3:07:30a You helped vanquish a Sky Bison.
+3/14/25 3:07:34a Deathless says, "wee"
+3/14/25 3:07:35a Deathless says, "thnx"
+3/14/25 3:07:59a Deathless says, "worth it"
+3/14/25 3:08:04a Catan is no longer fallen.
+3/14/25 3:08:16a Slyph is no longer Clanning.
+3/14/25 3:08:32a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/14/25 3:08:33a Magnic has fallen to a Sky Bison.
+3/14/25 3:08:33a You helped vanquish a Sky Bison.
+3/14/25 3:08:36a Catan has fallen to a Sky Bison.
+3/14/25 3:09:01a Deathless says, "I need more swengus after farly"
+3/14/25 3:09:05a •You sense healing energy from Taryn.
+3/14/25 3:09:10a Catan is no longer fallen.
+3/14/25 3:09:18a Eirian Caldwell says, "I need more after bangus"
+3/14/25 3:09:23a You have 4191 coins.
+3/14/25 3:09:37a Donk says, "1 k bangus here, working on farly now\"
+3/14/25 3:09:47a Sazerac!
+3/14/25 3:09:51a Lorikeet says, "I think I will just train REspia forever"
+3/14/25 3:09:54a Magnic says, "1125 BANGUS"
+3/14/25 3:09:56a (Donk grins.)
+3/14/25 3:09:56a (Eirian Caldwell chuckles.)
+3/14/25 3:10:00a Magnic ponders, "caps"
+3/14/25 3:10:30a You helped vanquish a Shadowcat Huntress.
+3/14/25 3:10:30a * Lorikeet recovers the Shadowcat Huntress fur, worth 63c. Your share is 7c.
+3/14/25 3:10:36a You helped vanquish a Mountain Bison.
+3/14/25 3:10:36a * Lorikeet recovers the Mountain Bison fur, worth 57c. Your share is 6c.
+3/14/25 3:10:39a You helped vanquish a Mountain Bison.
+3/14/25 3:10:48a Taryn thinks to a group, "s"
+3/14/25 3:10:51a Deathless says, "I forget wich msg I have for Bangus, but I am essentially all bangus after I Rangered"
+3/14/25 3:11:16a You helped vanquish a Deadly Hornet.
+3/14/25 3:11:19a Catan has fallen to a Wild Stallion.
+3/14/25 3:11:25a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/14/25 3:11:26a Magnic has fallen to a Sky Bison.
+3/14/25 3:11:30a Catan is no longer fallen.
+3/14/25 3:11:33a •You sense healing energy from Jeepers.
+3/14/25 3:11:34a Lorikeet says, "As long as you all have Rodnus"
+3/14/25 3:11:42a You helped vanquish a Sky Bison.
+3/14/25 3:11:42a * Chmee recovers the Sky Bison fur, worth 28c. Your share is 3c.
+3/14/25 3:11:50a Eirian Caldwell says, "my lag got really bad"
+3/14/25 3:11:51a Catan has fallen to a Sky Bison.
+3/14/25 3:11:59a * Noivad recovers the Sky Bison fur, worth 14c. Your share is 2c.
+3/14/25 3:12:01a Deathless says, "last"
+3/14/25 3:12:02a Catan is no longer fallen.
+3/14/25 3:12:04a Eirian Caldwell says, "crap"
+3/14/25 3:12:05a Donk growls, "I have full rodnus and some spiritus"
+3/14/25 3:12:07a Chmee growls, "I have 250 trained Bangus, 905 by msg, 238 trained farly, 614 by msg. working on farly now."
+3/14/25 3:12:16a Deathless says, "I finished Rodnus this week"
+3/14/25 3:12:25a Noivad says, "working on angus for quite a while"
+3/14/25 3:12:27a Lorikeet asks, "Do you notice the difference?"
+3/14/25 3:12:32a Chmee growls, "50 rodnus, 10 spiritus"
+3/14/25 3:12:33a Deathless says, "heck yea"
+3/14/25 3:12:34a Noivad says, "working on Bangus for quite a while"
+3/14/25 3:12:46a You have 4209 coins.
+3/14/25 3:12:52a Lorikeet asks, "It's fourth circle right?"
+3/14/25 3:12:55a Chmee growls, "goss is next"
+3/14/25 3:12:56a Deathless says, "I'm on farly until I hit 500 histia , hoping to hit 250 troil during that too"
+3/14/25 3:12:59a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/14/25 3:12:59a Magnic has fallen to a Shadowcat Huntress.
+3/14/25 3:13:00a You helped vanquish a Sky Bison.
+3/14/25 3:13:04a You helped vanquish a Shadowcat Huntress.
+3/14/25 3:13:05a •You sense healing energy from Jeepers.
+3/14/25 3:13:07a * Donk recovers the Wild Stallion fur, worth 10c. Your share is 1c.
+3/14/25 3:13:10a Catan has fallen to a Swarm of Bees.
+3/14/25 3:13:19a Chmee growls, "I have 409 troilus now"
+3/14/25 3:13:20a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/14/25 3:13:21a Magnic has fallen to a Mountain Bison.
+3/14/25 3:13:23a You helped vanquish a Mountain Bison.
+3/14/25 3:13:41a Catan is no longer fallen.
+3/14/25 3:13:51a •You sense healing energy from Jeepers.
+3/14/25 3:14:08a Deathless asks, "how much troil needed to max SB and kin?"
+3/14/25 3:14:11a Rei Healingone is no longer Clanning.
+3/14/25 3:14:13a Haffron is no longer Clanning.
+3/14/25 3:14:14a Catan has fallen to a Shadowcat Huntress.
+3/14/25 3:14:21a Catan is no longer fallen.
+3/14/25 3:14:27a •You sense healing energy from Taryn.
+3/14/25 3:14:28a Chmee growls, "1200 balthus, 1322 regia, 507 histia, 265 detha, 411 darkus"
+3/14/25 3:14:29a •You sense healing energy from Taryn.
+3/14/25 3:14:39a Vivo Ladi is no longer Clanning.
+3/14/25 3:15:10a Shobaffum is now Clanning.
+3/14/25 3:15:16a Haffron is now Clanning.
+3/14/25 3:15:21a Vivo Ladi is now Clanning.
+3/14/25 3:15:23a Rei Healingone is now Clanning.
+3/14/25 3:16:00a •You assume the shape of a Giant Carnivorous Plankton.
+3/14/25 3:16:01a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/14/25 3:16:02a • You return to your normal form.
+3/14/25 3:16:02a Taryn thinks to a group, "anyone on wasp today?"
+3/14/25 3:16:08a You have 4210 coins.
+3/14/25 3:16:09a You helped vanquish a Hickory Giant.
+3/14/25 3:16:11a You helped vanquish a Shadowcat Huntress.
+3/14/25 3:16:21a Taryn thinks to a group, "south then"
+3/14/25 3:16:34a Catan yells, "?"
+3/14/25 3:16:39a You slaughtered a Hellebore.
+3/14/25 3:16:40a Shobaffum is no longer Clanning.
+3/14/25 3:16:42a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/14/25 3:16:42a Magnic has fallen to a Mountain Wasp.
+3/14/25 3:16:42a Taryn yells, "flower then gather south"
+3/14/25 3:16:43a (Chmee chuckles)
+3/14/25 3:16:47a Catan has fallen to a Mountain Wasp.
+3/14/25 3:16:47a •You sense healing energy from Jeepers.
+3/14/25 3:16:47a Catan is no longer fallen.
+3/14/25 3:16:51a Grand Master is no longer Clanning.
+3/14/25 3:17:02a Jeepers exclaims, "get in there maggot!"
+3/14/25 3:17:12a * Chmee recovers the Wild Stallion fur, worth 20c. Your share is 3c.
+3/14/25 3:17:22a You helped vanquish a Mountain Wasp.
+3/14/25 3:17:26a You helped vanquish a Shadowcat Huntress.
+3/14/25 3:17:26a * Donk recovers the Shadowcat Huntress fur, worth 14c. Your share is 1c.
+3/14/25 3:17:38a Deathless says, "its unsettling that Catan keeps making me think Cecil is here"
+3/14/25 3:17:46a (Donk grins.)
+3/14/25 3:17:47a Deathless says, "glad Cecil has that cloak now, tho"
+3/14/25 3:17:53a Catan ponders, "making fn of me?"
+3/14/25 3:17:55a Jeepers says, "catan is gurgi or something"
+3/14/25 3:18:00a Catan has fallen to a Mountain Wasp.
+3/14/25 3:18:06a Donk has fallen to a Crookbeak Kestrel.
+3/14/25 3:18:06a You helped vanquish a Mountain Wasp.
+3/14/25 3:18:10a You helped vanquish a Wild Stallion.
+3/14/25 3:18:13a You helped vanquish a Crookbeak Kestrel.
+3/14/25 3:18:36a You helped vanquish a Sky Bison.
+3/14/25 3:18:38a Deathless says, "ty"
+3/14/25 3:18:44a Donk is no longer fallen.
+3/14/25 3:18:46a Catan is no longer fallen.
+3/14/25 3:19:01a Deathless says, "Catan, some people might think being called Cecil is a compliment, noone here though, unfortunately"
+3/14/25 3:19:01a Donk says, "thank you"
+3/14/25 3:19:09a (Eirian Caldwell laughs.)
+3/14/25 3:19:11a Chmee growls, "dlol"
+3/14/25 3:19:16a Taryn thinks to a group, "south"
+3/14/25 3:19:23a Donk has fallen to a Wild Stallion.
+3/14/25 3:19:24a * Chmee recovers the Wild Stallion fur, worth 19c. Your share is 2c.
+3/14/25 3:19:35a Donk is no longer fallen.
+3/14/25 3:19:37a You have 4216 coins.
+3/14/25 3:19:40a * Your share in the 1c Hickory Giant bounty is 1c.
+3/14/25 3:19:49a Noivad yells, "catan kill the flowers"
+3/14/25 3:19:54a Catan has fallen to a Mountain Wasp.
+3/14/25 3:20:01a Catan is no longer fallen.
+3/14/25 3:20:02a Catan is grabbed by a thorny root!
+3/14/25 3:20:03a You helped vanquish a Mountain Wasp.
+3/14/25 3:20:03a Catan has fallen to a thorny root.
+3/14/25 3:20:03a Catan is grabbed by a thorny root!
+3/14/25 3:20:04a Catan slips out of the thorny root's grasp.
+3/14/25 3:20:08a You helped slaughter a Hellebore.
+3/14/25 3:20:10a Catan is no longer fallen.
+3/14/25 3:20:16a Snake is no longer Clanning.
+3/14/25 3:20:20a Noivad yells, "catan kill the flower"
+3/14/25 3:20:23a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/14/25 3:20:23a Magnic has fallen to a Mountain Wasp.
+3/14/25 3:20:29a Catan has fallen to a Swarm of Bees.
+3/14/25 3:20:31a Rei Healingone is no longer Clanning.
+3/14/25 3:20:34a Catan yells, "too late"
+3/14/25 3:20:36a Catan is no longer fallen.
+3/14/25 3:20:42a Vivo Ladi is no longer Clanning.
+3/14/25 3:20:58a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/14/25 3:21:05a •You sense healing energy from Taryn.
+3/14/25 3:21:07a Taryn yells, "1"
+3/14/25 3:21:17a Noivad yells, "everyone let Catan tag the flowers. He gets exp from them"
+3/14/25 3:21:22a •You sense healing energy from Taryn.
+3/14/25 3:21:32a Chmee yells, "there are flowers?"
+3/14/25 3:22:12a •You sense healing energy from Jeepers.
+3/14/25 3:22:26a Eirian Caldwell says, "snowstag"
+3/14/25 3:22:28a Donk growls, "surface lasties are?"
+3/14/25 3:22:38a Deathless says, "I only have cave"
+3/14/25 3:22:41a Noivad asks, "only nowstag?"
+3/14/25 3:22:45a Chmee growls, "me toi"
+3/14/25 3:22:46a Noivad asks, "only snowstag?"
+3/14/25 3:22:48a Chmee growls, "me to"
+3/14/25 3:22:48a Donk growls, "cave for me too"
+3/14/25 3:22:55a Donk growls, "snowstag it is"
+3/14/25 3:22:57a Deathless asks, "I am on toice and goat, you guys?"
+3/14/25 3:22:59a Catan asks, "Cave what?"
+3/14/25 3:23:00a You have 4217 coins.
+3/14/25 3:23:11a * Chmee recovers the Alpine Timber Feral fur, worth 16c. Your share is 2c.
+3/14/25 3:23:12a Lorikeet says, "chmee on toise forever"
+3/14/25 3:23:15a •You assume the shape of a Giant Carnivorous Plankton.
+3/14/25 3:23:15a * Eirian Caldwell recovers the Frost Foxweir fur, worth 78c. Your share is 8c.
+3/14/25 3:23:19a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/14/25 3:23:19a • You return to your normal form.
+3/14/25 3:23:21a •You assume the shape of a Giant Carnivorous Plankton.
+3/14/25 3:23:23a You helped vanquish a Blizzard Greymyr.
+3/14/25 3:23:24a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/14/25 3:23:24a • You return to your normal form.
+3/14/25 3:23:29a •You assume the shape of a Giant Carnivorous Plankton.
+3/14/25 3:23:30a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/14/25 3:23:30a Taryn says, "who on snowstag"
+3/14/25 3:23:30a • You return to your normal form.
+3/14/25 3:23:30a Magnic has fallen to a Frost Foxweir.
+3/14/25 3:23:33a Chmee growls, "54 I think"
+3/14/25 3:23:35a Lorikeet says, "eirian"
+3/14/25 3:23:35a Donk has fallen to an Alpine Timber Feral.
+3/14/25 3:23:40a Donk is no longer fallen.
+3/14/25 3:23:41a You helped vanquish an Alpine Timber Feral.
+3/14/25 3:23:42a Donk has fallen to a Glacier Bear.
+3/14/25 3:23:47a Donk is no longer fallen.
+3/14/25 3:23:50a Taryn yells, "call when ready for sta"
+3/14/25 3:23:51a * Chmee recovers the Glacier Bear fur, worth 14c. Your share is 2c.
+3/14/25 3:23:52a Donk says, "at many on goatz"
+3/14/25 3:23:52a Lorikeet asks, "what else are you on Deathless?"
+3/14/25 3:23:53a * Deathless recovers the Snowstag fur, worth 54c. Your share is 6c.
+3/14/25 3:23:59a •You sense healing energy from Jeepers.
+3/14/25 3:24:03a Donk growls, "at many on goatz"
+3/14/25 3:24:04a Catan has fallen to an Alpine Timber Feral.
+3/14/25 3:24:06a Deathless asks, "k, so no one on goat but me?"
+3/14/25 3:24:09a Deathless says, "oh"
+3/14/25 3:24:12a Lorikeet says, "donk is"
+3/14/25 3:24:13a Catan is no longer fallen.
+3/14/25 3:24:14a (Chmee laughs)
+3/14/25 3:24:16a Deathless says, "k, you guys can have em all"
+3/14/25 3:24:21a Deathless says, "I can get em in foggy"
+3/14/25 3:24:28a Chmee growls, "and me, but I'm on vast, so you go ahead"
+3/14/25 3:24:28a Catan says, "Ok abt the Cecil comparison"
+3/14/25 3:24:43a Lorikeet says, "It's just the clothes :D"
+3/14/25 3:24:44a Haffron is no longer Clanning.
+3/14/25 3:24:50a Catan says, "If there is sth of a criticism I am open to lear nand improve"
+3/14/25 3:24:57a Lorikeet says, "No no"
+3/14/25 3:25:02a Lorikeet says, "Cecil is very strong"
+3/14/25 3:25:09a Deathless says, "dont worry, you will never suck as much as Cecil"
+3/14/25 3:25:10a Lorikeet says, "so it's odd if you think it's Cecil and he falls"
+3/14/25 3:25:15a Deathless says, "that took 30 years to accomplish"
+3/14/25 3:25:20a Jeepers yells, "ready-ish"
+3/14/25 3:25:29a * Taryn recovers the Snowstag fur, worth 11c. Your share is 1c.
+3/14/25 3:25:30a •You assume the shape of a Giant Carnivorous Plankton.
+3/14/25 3:25:36a * Donk recovers the Frost Foxweir fur, worth 47c. Your share is 5c.
+3/14/25 3:25:37a • You return to your normal form.
+3/14/25 3:25:38a Catan says, "lol"
+3/14/25 3:26:08a Deathless says, "3/13/25 10:25:02a Lorikeet says, "Cecil is very strong""
+3/14/25 3:26:10a Deathless says, "saving that"
+3/14/25 3:26:14a Jeepers says, "heh"
+3/14/25 3:26:20a Catan has fallen to a Snowstag.
+3/14/25 3:26:26a You have 4241 coins.
+3/14/25 3:26:30a Lorikeet says, "Did you put in the context of comparing him to Catan? :D"
+3/14/25 3:26:35a Catan is no longer fallen.
+3/14/25 3:26:40a Catan has fallen to a Snowstag.
+3/14/25 3:26:42a Deathless says, "aaaand Lori brought me back doen to earth heh"
+3/14/25 3:26:43a •You assume the shape of a Giant Carnivorous Plankton.
+3/14/25 3:26:47a Donk has fallen to a Snowstag.
+3/14/25 3:26:56a Eirian Caldwell says, "grrr"
+3/14/25 3:26:59a • You return to your normal form.
+3/14/25 3:27:04a (Donk grins.)
+3/14/25 3:27:06a Catan is no longer fallen.
+3/14/25 3:27:13a Donk is no longer fallen.
+3/14/25 3:27:16a You helped vanquish a Snowstag.
+3/14/25 3:27:21a Donk has fallen to a Snowstag.
+3/14/25 3:27:29a * Noivad recovers the Snowstag fur, worth 17c. Your share is 2c.
+3/14/25 3:27:32a Donk is no longer fallen.
+3/14/25 3:27:33a Noivad growls, "once you hit you get exp catan so you only have to hit once"
+3/14/25 3:27:42a Noivad growls, "on lasts, try to do that"
+3/14/25 3:27:46a Catan says, "sorry smetimes not sure"
+3/14/25 3:27:59a Noivad growls, "you can tell from the bloodsplatter"
+3/14/25 3:28:00a Chmee says, "it can be hard to tell"
+3/14/25 3:28:01a Lorikeet says, "I don't think you will steal a last yet anyway"
+3/14/25 3:28:08a •You assume the shape of a Giant Carnivorous Plankton.
+3/14/25 3:28:15a Chmee says, "especially when 43 fighters are trying to tag"
+3/14/25 3:28:15a • You return to your normal form.
+3/14/25 3:28:18a Lorikeet says, "that was not you"
+3/14/25 3:28:19a Noivad growls, "you didn't tag that one"
+3/14/25 3:28:25a Deathless says, "usually when a last is yellow, no one else tags"
+3/14/25 3:28:25a Lorikeet says, "that was"
+3/14/25 3:28:25a You helped vanquish a Snowstag.
+3/14/25 3:28:26a Noivad growls, "noew you did"
+3/14/25 3:28:31a Deathless says, "unless they are a champion"
+3/14/25 3:28:38a (Eirian Caldwell chuckles.)
+3/14/25 3:28:42a Lorikeet says, "Have to see where the blood spatter goes"
+3/14/25 3:28:43a Noivad growls, "the bloodsplatter is 180degrees away from you on the creature"
+3/14/25 3:28:51a Catan says, "yes I know"
+3/14/25 3:28:52a Catan says, "yes I know"
+3/14/25 3:28:53a Chmee says, "If I tag stuff on yellow it usually dies, so I don't"
+3/14/25 3:28:54a Noivad growls, "ok"
+3/14/25 3:28:59a •You assume the shape of a Giant Carnivorous Plankton.
+3/14/25 3:28:59a Catan says, "but sopmetimes it's not on the critterr"
+3/14/25 3:29:02a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/14/25 3:29:03a • You return to your normal form.
+3/14/25 3:29:06a * Chmee recovers the Frost Foxweir fur, worth 31c. Your share is 3c.
+3/14/25 3:29:21a * Chmee recovers the Snowstag fur, worth 21c. Your share is 2c.
+3/14/25 3:29:29a •You assume the shape of a Giant Carnivorous Plankton.
+3/14/25 3:29:34a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/14/25 3:29:35a • You return to your normal form.
+3/14/25 3:29:59a You have 4248 coins.
+3/14/25 3:29:59a •You assume the shape of a Giant Carnivorous Plankton.
+3/14/25 3:30:00a You equip your heartwood charm.
+3/14/25 3:30:00a • You gather your energy.
+3/14/25 3:30:03a • You speed up.
+3/14/25 3:30:08a •You do not have enough balance to take full advantage of your gossamer training.
+3/14/25 3:30:08a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/14/25 3:30:08a You slip your heartwood charm into your backpack.
+3/14/25 3:30:08a • You return to your normal form.
+3/14/25 3:30:08a • You slow down to normal speed.
+3/14/25 3:30:09a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+3/14/25 3:30:10a Magnic has fallen to a Mountain Bison.
+3/14/25 3:30:14a Your spirit has departed your body 447 times.
+3/14/25 3:31:06a Donk has fallen to a Snowstag.
+3/14/25 3:31:12a Catan has fallen to a Snowstag.
+3/14/25 3:31:17a Donk is no longer fallen.
+3/14/25 3:31:27a Catan is no longer fallen.
+3/14/25 3:31:40a You slaughtered a Hooded Corpse.
+3/14/25 3:31:53a You equip your heartwood charm.
+3/14/25 3:31:53a • You gather your energy.
+3/14/25 3:31:56a • You speed up.
+3/14/25 3:31:58a •You assume the shape of a Giant Carnivorous Plankton.
+3/14/25 3:32:08a Melisande is now Clanning.
+3/14/25 3:32:20a Taryn thinks to a group, "w"
+3/14/25 3:33:11a • You return to your normal form.
+3/14/25 3:33:12a • You slow down to normal speed.
+3/14/25 3:33:12a You slip your heartwood charm into your backpack.
+3/14/25 3:33:12a • /SLEEP when you wish to begin studying.
+3/14/25 3:33:15a • /SLEEP when you wish to begin studying.
+3/14/25 3:33:17a Use \SLEEP again when you return.
+3/14/25 3:33:17a You are done adventuring for a while and will be studying here.
+3/14/25 3:33:18a You have been disconnected from Clan Lord.
+3/14/25 3:33:18a • You will benefi

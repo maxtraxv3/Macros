@@ -1,0 +1,811 @@
+
+5/11/25 4:44:25p * Your healer's shirt is in very good condition.
+5/11/25 4:44:25p * Your pair of second-circle pants named “white” is in very good condition.
+5/11/25 4:44:25p Welcome to Clan Lord, Cat Food!
+5/11/25 4:44:25p Type \HELP for a list of commands.
+5/11/25 4:44:25p • You gain experience from your recent studies.
+5/11/25 4:44:25p *Healer Mode
+5/11/25 4:44:25p *Type /hi help for more info
+5/11/25 4:44:25p The healing spell has started.
+5/11/25 4:44:25p You have been studying for 3 days, 2 hours, 42 minutes.
+5/11/25 4:44:28p It's 12:18pm on Soldi, day 18 of Summer, 641.
+5/11/25 4:44:30p There are four members of Black Phoenix clanning: Ceara, Magnic, ZipLock and you.
+5/11/25 4:44:30p • What’s New: https://deltatao.com/clanlord/news
+5/11/25 4:44:32p Friends online: none.
+5/11/25 4:44:40p * Tip of the day: If you don’t like this tip, see another by typing /TIP. (Use /OPTIONS to turn tips off.)
+5/11/25 4:44:50p You slip your sylphstone ring into your backpack.
+5/11/25 4:44:50p •The healing spell has ceased.
+5/11/25 4:45:57p •The healing spell has been broken.
+5/11/25 4:46:26p Dracula is sharing experiences with you.
+5/11/25 4:46:50p A Scavenger Bird rips at ZipLock's body parts.
+5/11/25 4:46:58p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+5/11/25 4:46:58p Cat Food has fallen to a tidal surge.
+5/11/25 4:46:58p •You are easily healable.
+5/11/25 4:46:59p Dracula starts dragging you.
+5/11/25 4:47:00p Captain Barnac asks, "Ah, Dracula. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+5/11/25 4:47:01p Dracula says, "yes"
+5/11/25 4:47:06p Dracula rows through the roaring surf.
+5/11/25 4:47:23p You begin sharing your experiences with Ceara.
+5/11/25 4:47:44p Anduin Lothar is grabbed by a thorny root!
+5/11/25 4:47:49p You have 67 coins.
+5/11/25 4:47:53p ZipLock is grabbed by a thorny root!
+5/11/25 4:47:53p ZipLock slips out of the thorny root's grasp.
+5/11/25 4:48:23p * Healer Item set to asklepian 
+5/11/25 4:48:26p * Auto Healer ON!
+5/11/25 4:48:29p You equip your sylphstone ring.
+5/11/25 4:48:29p The healing spell has started.
+5/11/25 4:48:49p The ground is scorched and pitted.
+5/11/25 4:49:55p * Healing CatFood 
+5/11/25 4:49:56p You cannot possibly use anything in your current condition.
+5/11/25 4:49:56p You equip your moonstone.
+5/11/25 4:49:56p You cannot possibly use anything in your current condition.
+5/11/25 4:49:57p You slip your moonstone into your backpack.
+5/11/25 4:49:57p Your moonstone is already unequipped.
+5/11/25 4:49:59p You equip your asklepian.
+5/11/25 4:49:59p * Healing ZipLock 
+5/11/25 4:50:00p You cannot possibly use anything in your current condition.
+5/11/25 4:50:05p * Healing CatFood 
+5/11/25 4:50:05p You cannot possibly use anything in your current condition.
+5/11/25 4:50:06p You equip your moonstone.
+5/11/25 4:50:06p You cannot possibly use anything in your current condition.
+5/11/25 4:50:07p You slip your moonstone into your backpack.
+5/11/25 4:50:07p Your moonstone is already unequipped.
+5/11/25 4:50:14p You equip your asklepian.
+5/11/25 4:50:14p * Healing ZipLock 
+5/11/25 4:50:14p You cannot possibly use anything in your current condition.
+5/11/25 4:50:19p * Healing CatFood 
+5/11/25 4:50:20p You cannot possibly use anything in your current condition.
+5/11/25 4:50:20p You equip your moonstone.
+5/11/25 4:50:21p You cannot possibly use anything in your current condition.
+5/11/25 4:50:21p You slip your moonstone into your backpack.
+5/11/25 4:50:21p Your moonstone is already unequipped.
+5/11/25 4:50:30p You equip your asklepian.
+5/11/25 4:50:30p * Healing ZipLock 
+5/11/25 4:50:30p You cannot possibly use anything in your current condition.
+5/11/25 4:51:28p You have 67 coins.
+5/11/25 4:52:17p Magnic is sharing experiences with you.
+5/11/25 4:52:25p ZipLock is sharing experiences with you.
+5/11/25 4:55:24p You have 67 coins.
+5/11/25 4:59:24p •••
+5/11/25 4:59:24p You have been idle for too long.
+5/11/25 4:59:24p Please do something to avoid being disconnected.
+5/11/25 4:59:24p •••
+5/11/25 4:59:32p You have 67 coins.
+5/11/25 4:59:45p Anduin Lothar turns to stone.
+5/11/25 4:59:53p •You sense healing energy from Ceara.
+5/11/25 5:00:00p * Healing ZipLock 
+5/11/25 5:00:01p •You learn from healing.
+5/11/25 5:00:03p * Healing Magnic 
+5/11/25 5:00:06p * Healing Bastion 
+5/11/25 5:00:07p •Bastion’s injuries were serious.
+5/11/25 5:00:13p * Healing CatFood 
+5/11/25 5:00:13p •You cannot use your asklepian on yourself.
+5/11/25 5:00:14p You equip your moonstone.
+5/11/25 5:00:14p •The healing spell has been broken.
+5/11/25 5:00:17p * Healing ZipLock 
+5/11/25 5:00:17p You equip your asklepian.
+5/11/25 5:00:17p You must equip your moonstone before it can be used.
+5/11/25 5:00:19p •You don't quite have the training to heal ZipLock’s injuries.
+5/11/25 5:00:25p * Healing Ceara 
+5/11/25 5:00:45p * Dracula recovers the Mountain Grizzly Bear fur, worth 38c. Your share is 7c.
+5/11/25 5:00:49p * Dracula recovers the Albino Flying Foxweir fur, worth 3c. Your share is 1c.
+5/11/25 5:00:54p * Healing ZipLock 
+5/11/25 5:00:55p * Dracula recovers the Mountain Grizzly Bear fur, worth 34c. Your share is 6c.
+5/11/25 5:00:55p •You don't quite have the training to heal ZipLock’s injuries.
+5/11/25 5:00:57p * Healing Magnic 
+5/11/25 5:00:59p * Dracula recovers the Mountain Grizzly Bear fur, worth 53c. Your share is 11c.
+5/11/25 5:01:12p * Dracula recovers the Mountain Grizzly Bear fur, worth 46c. Your share is 9c.
+5/11/25 5:01:14p * Healing Ceara 
+5/11/25 5:01:16p Dracula growls, "wtf"
+5/11/25 5:01:18p Shobaffum says, "shows off my brickyness"
+5/11/25 5:01:27p •You do not have enough in you.
+5/11/25 5:01:46p * Healing CatFood 
+5/11/25 5:01:46p •You cannot use your asklepian on yourself.
+5/11/25 5:01:46p You equip your moonstone.
+5/11/25 5:01:51p * Healing ZipLock 
+5/11/25 5:01:51p You equip your asklepian.
+5/11/25 5:01:51p You must equip your moonstone before it can be used.
+5/11/25 5:01:52p •You don't quite have the training to heal ZipLock’s injuries.
+5/11/25 5:01:53p Bastion says, "i didnt even see it"
+5/11/25 5:01:54p Shobaffum says, "heh sorry Bastion"
+5/11/25 5:01:57p Bastion says, "but i can labrys them heh"
+5/11/25 5:01:58p * Healing Bastion 
+5/11/25 5:01:58p Shobaffum says, "8^)"
+5/11/25 5:02:06p Shobaffum exclaims, "not anymore!"
+5/11/25 5:02:14p * Healing ZipLock 
+5/11/25 5:02:20p Ceara says, "now its outta the way ;)"
+5/11/25 5:02:32p Bastion is sharing experiences with you.
+5/11/25 5:02:47p Shobaffum says, "well that was fun best go back to help Fort when she is ready"
+5/11/25 5:02:52p You have 101 coins.
+5/11/25 5:02:56p Shobaffum says, "you rock"
+5/11/25 5:03:05p Dracula growls, "al;righty"
+5/11/25 5:03:11p •You gain experience.
+5/11/25 5:03:45p * Healing Ceara 
+5/11/25 5:04:11p •You sense healing energy from Ceara.
+5/11/25 5:04:14p ZipLock turns to stone.
+5/11/25 5:04:33p •You must specify a player in the game.
+5/11/25 5:04:34p Cat Food ponders, "i can not find this person"
+5/11/25 5:04:56p •You lock your healing to Ceara.
+5/11/25 5:05:17p Anduin Lothar turns to stone.
+5/11/25 5:06:20p You have 101 coins.
+5/11/25 5:06:40p You just received anonymous good karma.
+5/11/25 5:07:29p Katreesa thinks, "hiyas"
+5/11/25 5:07:35p Magnic says, "c heal me"
+5/11/25 5:07:36p * Auto Healing  Magnic 
+5/11/25 5:07:36p •You unlock your caduceus healing.
+5/11/25 5:07:36p •You don't quite have the training to heal Magnic’s injuries.
+5/11/25 5:07:43p •You don't quite have the training to heal Magnic’s injuries.
+5/11/25 5:07:49p •You don't quite have the training to heal Magnic’s injuries.
+5/11/25 5:07:56p •You don't quite have the training to heal Magnic’s injuries.
+5/11/25 5:08:03p •You don't quite have the training to heal Magnic’s injuries.
+5/11/25 5:08:06p •Magnic’s injuries were grave.
+5/11/25 5:08:23p * Ceara recovers the Black Locust mandibles, worth 104c. Your share is 35c.
+5/11/25 5:08:58p ZipLock turns to stone.
+5/11/25 5:09:55p Magnic says, "c heal me"
+5/11/25 5:09:55p * Auto Healing  Magnic 
+5/11/25 5:10:01p Anduin Lothar turns to stone.
+5/11/25 5:10:26p You have 136 coins.
+5/11/25 5:12:51p * Healing Ceara 
+5/11/25 5:12:52p •You don't quite have the training to heal Ceara’s injuries.
+5/11/25 5:12:54p Bastion says, "c heal ceara"
+5/11/25 5:12:54p * Auto Healing  ceara" 
+5/11/25 5:12:59p •You don't quite have the training to heal Ceara’s injuries.
+5/11/25 5:13:05p •You don't quite have the training to heal Ceara’s injuries.
+5/11/25 5:13:12p •You don't quite have the training to heal Ceara’s injuries.
+5/11/25 5:13:19p •You don't quite have the training to heal Ceara’s injuries.
+5/11/25 5:13:25p •You don't quite have the training to heal Ceara’s injuries.
+5/11/25 5:13:31p * Healing Bastion 
+5/11/25 5:13:32p •You don't quite have the training to heal Ceara’s injuries.
+5/11/25 5:13:41p * Healing Magnic 
+5/11/25 5:13:42p •You don't quite have the training to heal Magnic’s injuries.
+5/11/25 5:13:45p ZipLock turns to stone.
+5/11/25 5:13:48p •You don't quite have the training to heal Magnic’s injuries.
+5/11/25 5:13:49p * Healing Ceara 
+5/11/25 5:13:54p •The player must be in the same area.
+5/11/25 5:14:18p You have 136 coins.
+5/11/25 5:14:48p Anduin Lothar turns to stone.
+5/11/25 5:15:55p * Healing CatFood 
+5/11/25 5:15:55p •You cannot use your asklepian on yourself.
+5/11/25 5:15:55p You equip your moonstone.
+5/11/25 5:16:10p * Healing Ceara 
+5/11/25 5:16:10p You equip your asklepian.
+5/11/25 5:16:11p You must equip your moonstone before it can be used.
+5/11/25 5:16:23p * Healing Magnic 
+5/11/25 5:16:24p •You don't quite have the training to heal Magnic’s injuries.
+5/11/25 5:16:27p Magnic says, "c heal me"
+5/11/25 5:16:27p * Auto Healing  Magnic 
+5/11/25 5:16:30p •You don't quite have the training to heal Magnic’s injuries.
+5/11/25 5:16:37p •You don't quite have the training to heal Magnic’s injuries.
+5/11/25 5:16:44p •You don't quite have the training to heal Magnic’s injuries.
+5/11/25 5:16:50p •You don't quite have the training to heal Magnic’s injuries.
+5/11/25 5:16:57p •You don't quite have the training to heal Magnic’s injuries.
+5/11/25 5:17:03p •You don't quite have the training to heal Magnic’s injuries.
+5/11/25 5:17:10p •You don't quite have the training to heal Magnic’s injuries.
+5/11/25 5:17:17p •You don't quite have the training to heal Magnic’s injuries.
+5/11/25 5:17:19p * Ceara recovers the Albino Flying Foxweir fur, worth 1c. Your share is 1c.
+5/11/25 5:17:23p •You don't quite have the training to heal Magnic’s injuries.
+5/11/25 5:17:30p •You don't quite have the training to heal Magnic’s injuries.
+5/11/25 5:17:36p •You don't quite have the training to heal Magnic’s injuries.
+5/11/25 5:17:42p * Healing Bastion 
+5/11/25 5:17:50p You have 137 coins.
+5/11/25 5:18:06p Magnic says, "c heal me"
+5/11/25 5:18:06p * Auto Healing  Magnic 
+5/11/25 5:18:07p •You don't quite have the training to heal Magnic’s injuries.
+5/11/25 5:18:14p •You don't quite have the training to heal Magnic’s injuries.
+5/11/25 5:18:20p •You don't quite have the training to heal Magnic’s injuries.
+5/11/25 5:18:27p •You don't quite have the training to heal Magnic’s injuries.
+5/11/25 5:18:29p ZipLock turns to stone.
+5/11/25 5:18:34p •You don't quite have the training to heal Magnic’s injuries.
+5/11/25 5:18:34p Magnic says, "c heal me"
+5/11/25 5:18:34p * Auto Healing  Magnic 
+5/11/25 5:18:40p •You don't quite have the training to heal Magnic’s injuries.
+5/11/25 5:18:47p •You don't quite have the training to heal Magnic’s injuries.
+5/11/25 5:18:48p Magnic says, "c heal me"
+5/11/25 5:18:49p * Auto Healing  Magnic 
+5/11/25 5:18:53p •You don't quite have the training to heal Magnic’s injuries.
+5/11/25 5:18:57p Magnic says, "c heal me"
+5/11/25 5:18:57p * Auto Healing  Magnic 
+5/11/25 5:18:58p •Magnic’s wounds were severe.
+5/11/25 5:19:23p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+5/11/25 5:19:23p •You do not have enough in you.
+5/11/25 5:19:23p Cat Food has fallen to a Mountain Grizzly Bear.
+5/11/25 5:19:23p •You are too wounded to be healed easily.
+5/11/25 5:19:32p Anduin Lothar turns to stone.
+5/11/25 5:19:52p Bastion says, "c heal cat"
+5/11/25 5:19:52p * Auto Healing  cat" 
+5/11/25 5:19:53p You cannot possibly use anything in your current condition.
+5/11/25 5:19:53p •You sense healing energy from Ceara.
+5/11/25 5:20:23p * Healing Ceara 
+5/11/25 5:20:52p Magnic says, "c heal me"
+5/11/25 5:20:52p * Auto Healing  Magnic 
+5/11/25 5:20:53p Bastion says, "c healc areacat"
+5/11/25 5:20:53p * Auto Healing  areacat" 
+5/11/25 5:20:54p •You must specify a player in the game.
+5/11/25 5:20:54p Cat Food ponders, "i can not find this person"
+5/11/25 5:21:00p Bastion says, "c area"
+5/11/25 5:21:23p Bastion says, "c heal magnic"
+5/11/25 5:21:23p * Auto Healing  magnic" 
+5/11/25 5:21:45p You have 137 coins.
+5/11/25 5:22:10p •You lock your healing to Ceara.
+5/11/25 5:22:16p Magnic says, "c area"
+5/11/25 5:22:42p Magnic says, "c heal me"
+5/11/25 5:22:42p * Auto Healing  Magnic 
+5/11/25 5:22:42p •You unlock your caduceus healing.
+5/11/25 5:22:43p •Magnic’s injuries were grave.
+5/11/25 5:23:14p ZipLock turns to stone.
+5/11/25 5:23:20p Bastion says, "c heal me"
+5/11/25 5:23:20p * Auto Healing  Bastion 
+5/11/25 5:24:17p Anduin Lothar turns to stone.
+5/11/25 5:24:27p Bastion says, "c area"
+5/11/25 5:24:33p Bastion says, "c heal ceara"
+5/11/25 5:24:33p * Auto Healing  ceara" 
+5/11/25 5:24:47p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+5/11/25 5:24:48p •You do not have enough in you.
+5/11/25 5:24:48p Cat Food has fallen to an Albino Flying Foxweir.
+5/11/25 5:24:48p •Your injuries are grave.
+5/11/25 5:24:54p Bastion says, "c heal mag"
+5/11/25 5:24:54p * Auto Healing  mag" 
+5/11/25 5:24:54p You cannot possibly use anything in your current condition.
+5/11/25 5:25:56p •You sense healing energy from Ceara.
+5/11/25 5:25:59p You have 137 coins.
+5/11/25 5:26:09p •You lock your healing to Ceara.
+5/11/25 5:26:35p Dracula plants a seedling.
+5/11/25 5:26:37p Dracula plants a seedling.
+5/11/25 5:26:38p Dracula plants a seedling.
+5/11/25 5:26:43p Dracula plants a seedling.
+5/11/25 5:26:46p Dracula plants a seedling.
+5/11/25 5:26:54p Magnic picks up a sack of kudzu seedlings.
+5/11/25 5:27:58p ZipLock turns to stone.
+5/11/25 5:29:01p Anduin Lothar turns to stone.
+5/11/25 5:29:03p Loom'Bir thinks, "We’re working hard on the restoration of Lugubrion's Keep. Anything you could contribute would be great!"
+5/11/25 5:30:01p You have 137 coins.
+5/11/25 5:32:42p ZipLock turns to stone.
+5/11/25 5:33:44p Magnic says, "ui left /add"
+5/11/25 5:33:45p Anduin Lothar turns to stone.
+5/11/25 5:34:01p •••
+5/11/25 5:34:01p You have been idle for too long.
+5/11/25 5:34:01p Please do something to avoid being disconnected.
+5/11/25 5:34:01p •••
+5/11/25 5:34:07p You have 137 coins.
+5/11/25 5:36:04p •You must specify a player in the game.
+5/11/25 5:36:05p Cat Food ponders, "i can not find this person"
+5/11/25 5:37:10p Ceara is sharing experiences with you.
+5/11/25 5:37:18p Magnic plants a seedling.
+5/11/25 5:37:24p Ceara says, "should be set now"
+5/11/25 5:37:27p ZipLock turns to stone.
+5/11/25 5:37:34p Bastion says, "gotta fix shares"
+5/11/25 5:37:36p •You lock your healing to Ceara.
+5/11/25 5:37:50p You begin sharing your experiences with Ceara.
+5/11/25 5:37:53p You begin sharing your experiences with Bastion.
+5/11/25 5:37:53p You are sharing experiences with Bastion and Ceara.
+5/11/25 5:38:08p You have 137 coins.
+5/11/25 5:38:29p Anduin Lothar turns to stone.
+5/11/25 5:39:01p Magnic plants a seedling.
+5/11/25 5:39:16p * Ceara recovers the Mountain Bear fur, worth 55c. Your share is 14c.
+5/11/25 5:41:22p Magnic says, "c heal me"
+5/11/25 5:41:22p * Auto Healing  Magnic 
+5/11/25 5:41:23p •You unlock your caduceus healing.
+5/11/25 5:41:55p Magnic plants a seedling.
+5/11/25 5:42:11p ZipLock turns to stone.
+5/11/25 5:42:13p You have 151 coins.
+5/11/25 5:42:46p •Magnic’s injuries were serious.
+5/11/25 5:43:13p Anduin Lothar turns to stone.
+5/11/25 5:43:19p •Magnic’s injuries were serious.
+5/11/25 5:43:28p •Magnic’s injuries were serious.
+5/11/25 5:43:57p * Magnic recovers the Albino Flying Foxweir fur, worth 5c. Your share is 1c.
+5/11/25 5:44:42p * Magnic recovers the Albino Flying Foxweir fur, worth 1c. Your share is 1c.
+5/11/25 5:45:01p * Ceara recovers the Black Locust mandibles, worth 8c. Your share is 2c.
+5/11/25 5:45:47p Magnic says, "c area"
+5/11/25 5:46:13p •••
+5/11/25 5:46:13p You have been idle for too long.
+5/11/25 5:46:13p Please do something to avoid being disconnected.
+5/11/25 5:46:13p •••
+5/11/25 5:46:18p You have 155 coins.
+5/11/25 5:46:56p ZipLock turns to stone.
+5/11/25 5:47:16p * Magnic recovers the Mountain Bear fur, worth 3c. Your share is 1c.
+5/11/25 5:47:58p Anduin Lothar turns to stone.
+5/11/25 5:48:21p Magnic yells, "c heal me"
+5/11/25 5:48:42p ZipLock says, "c heal mag"
+5/11/25 5:48:42p * Auto Healing  mag" 
+5/11/25 5:48:43p •Magnic was too wounded to be healed easily.
+5/11/25 5:49:18p * Ceara recovers the Black Locust mandibles, worth 4c. Your share is 1c.
+5/11/25 5:50:16p Magnic says, "• You have a lot to learn about the ways of the Mountain Bear."
+5/11/25 5:50:16p Cat Food ponders, "A lot to learn! 510-700 to go!"
+5/11/25 5:50:16p Magnic ponders, "A lot to learn! 510-700 to go!"
+5/11/25 5:50:16p ZipLock ponders, "A lot to learn! 510-700 to go!"
+5/11/25 5:50:18p You have 157 coins.
+5/11/25 5:50:22p Magnic says, "heh"
+5/11/25 5:51:15p Magnic says, "c area"
+5/11/25 5:51:40p ZipLock turns to stone.
+5/11/25 5:52:17p Magnic plants a seedling.
+5/11/25 5:52:42p Anduin Lothar turns to stone.
+5/11/25 5:54:15p Magnic plants a seedling.
+5/11/25 5:54:18p •••
+5/11/25 5:54:18p You have been idle for too long.
+5/11/25 5:54:18p Please do something to avoid being disconnected.
+5/11/25 5:54:18p •••
+5/11/25 5:54:25p You have 157 coins.
+5/11/25 5:55:11p Katreesa thinks, "oops, lost"
+5/11/25 5:55:16p Shobaffum thinks, "hut"
+5/11/25 5:55:17p Magnic says, "c heal me"
+5/11/25 5:55:17p * Auto Healing  Magnic 
+5/11/25 5:55:28p •You lock your healing to Ceara.
+5/11/25 5:56:24p ZipLock turns to stone.
+5/11/25 5:56:36p Magnic plants a seedling.
+5/11/25 5:57:03p Magnic says, "c area"
+5/11/25 5:57:26p Anduin Lothar turns to stone.
+5/11/25 5:58:28p You have 157 coins.
+5/11/25 6:00:19p Bastion says, "setup working well now"
+5/11/25 6:00:21p Bastion asks, ">?"
+5/11/25 6:00:24p Shobaffum thinks, "1 on jiro"
+5/11/25 6:00:25p Magnic says, "yeah"
+5/11/25 6:00:28p Bastion says, "nice"
+5/11/25 6:01:09p ZipLock turns to stone.
+5/11/25 6:01:12p Magnic says, "c heal me"
+5/11/25 6:01:12p * Auto Healing  Magnic 
+5/11/25 6:01:12p •You unlock your caduceus healing.
+5/11/25 6:01:12p •Magnic’s injuries were grave.
+5/11/25 6:01:20p •You learn from healing.
+5/11/25 6:01:56p * Magnic recovers the Albino Flying Foxweir fur, worth 3c. Your share is 1c.
+5/11/25 6:02:06p •You lock your healing to Ceara.
+5/11/25 6:02:10p Anduin Lothar turns to stone.
+5/11/25 6:02:11p Magnic says, "c area"
+5/11/25 6:02:33p You have 158 coins.
+5/11/25 6:05:31p * You recover the Albino Flying Foxweir fur, worth 2c.
+5/11/25 6:05:53p ZipLock turns to stone.
+5/11/25 6:06:21p Magnic plants a seedling.
+5/11/25 6:06:34p •••
+5/11/25 6:06:34p You have been idle for too long.
+5/11/25 6:06:34p Please do something to avoid being disconnected.
+5/11/25 6:06:34p •••
+5/11/25 6:06:41p You have 158 coins.
+5/11/25 6:06:54p Anduin Lothar turns to stone.
+5/11/25 6:07:02p Magnic plants a seedling.
+5/11/25 6:07:09p Magnic plants a seedling.
+5/11/25 6:10:38p ZipLock turns to stone.
+5/11/25 6:10:41p •••
+5/11/25 6:10:41p You have been idle for too long.
+5/11/25 6:10:41p Please do something to avoid being disconnected.
+5/11/25 6:10:41p •••
+5/11/25 6:10:46p You have 158 coins.
+5/11/25 6:11:30p ZipLock says, "c heal mag"
+5/11/25 6:11:30p * Auto Healing  mag" 
+5/11/25 6:11:30p •You unlock your caduceus healing.
+5/11/25 6:11:30p •Magnic’s injuries were grave.
+5/11/25 6:11:39p Anduin Lothar turns to stone.
+5/11/25 6:11:48p •Magnic’s injuries were grave.
+5/11/25 6:12:08p •You lock your healing to Ceara.
+5/11/25 6:14:13p * Bastion recovers the Dire Bear fur, worth 18c. Your share is 5c.
+5/11/25 6:14:48p You have 163 coins.
+5/11/25 6:15:07p Magnic says, "c area"
+5/11/25 6:15:22p ZipLock turns to stone.
+5/11/25 6:16:23p Anduin Lothar turns to stone.
+5/11/25 6:18:22p Magnic plants a seedling.
+5/11/25 6:18:48p •••
+5/11/25 6:18:48p You have been idle for too long.
+5/11/25 6:18:48p Please do something to avoid being disconnected.
+5/11/25 6:18:48p •••
+5/11/25 6:18:52p You have 163 coins.
+5/11/25 6:19:41p * You recover the Albino Flying Foxweir fur, worth 2c.
+5/11/25 6:19:48p Magnic plants a seedling.
+5/11/25 6:20:05p Magnic says, "c area"
+5/11/25 6:20:06p ZipLock turns to stone.
+5/11/25 6:20:10p Magnic says, "c heal me"
+5/11/25 6:20:10p * Auto Healing  Magnic 
+5/11/25 6:20:10p •You unlock your caduceus healing.
+5/11/25 6:20:30p •You lock your healing to Ceara.
+5/11/25 6:20:32p Magnic says, "c area"
+5/11/25 6:21:07p Anduin Lothar turns to stone.
+5/11/25 6:22:52p Magnic plants a seedling.
+5/11/25 6:23:01p You have 163 coins.
+5/11/25 6:24:31p Magnic says, "c heal me"
+5/11/25 6:24:31p * Auto Healing  Magnic 
+5/11/25 6:24:31p •You unlock your caduceus healing.
+5/11/25 6:24:32p •Magnic’s injuries were serious.
+5/11/25 6:24:39p •Magnic’s injuries were grave.
+5/11/25 6:24:51p ZipLock turns to stone.
+5/11/25 6:25:01p •Magnic’s injuries were serious.
+5/11/25 6:25:10p •You lock your healing to Ceara.
+5/11/25 6:25:41p * Magnic recovers the Smoky Bear fur, worth 73c. Your share is 19c.
+5/11/25 6:25:51p Anduin Lothar turns to stone.
+5/11/25 6:27:04p You have 182 coins.
+5/11/25 6:27:11p •You have more purgatory pendant knowledge.
+5/11/25 6:27:27p Magnic ponders, "SO CLOSE! 2-12 to go!"
+5/11/25 6:27:57p Magnic plants a seedling.
+5/11/25 6:28:13p •Your healing is already locked to Ceara.
+5/11/25 6:28:17p Magnic says, "c area"
+5/11/25 6:29:09p * Magnic recovers the Mountain Bear fur, worth 5c. Your share is 2c.
+5/11/25 6:29:19p Magnic plants a seedling.
+5/11/25 6:29:35p ZipLock turns to stone.
+5/11/25 6:29:44p Magnic ponders, "brb"
+5/11/25 6:30:35p Anduin Lothar turns to stone.
+5/11/25 6:31:12p You have 184 coins.
+5/11/25 6:33:16p Anduin Lothar says, "c heal mag"
+5/11/25 6:33:24p Bastion says, "c heal magnic"
+5/11/25 6:33:24p * Auto Healing  magnic" 
+5/11/25 6:33:25p •You unlock your caduceus healing.
+5/11/25 6:33:25p •Magnic was too wounded to be healed easily.
+5/11/25 6:34:07p •Magnic’s injuries were serious.
+5/11/25 6:34:20p ZipLock turns to stone.
+5/11/25 6:35:16p You have 184 coins.
+5/11/25 6:35:20p Anduin Lothar turns to stone.
+5/11/25 6:37:19p Bastion says, "c heal magnic"
+5/11/25 6:37:19p * Auto Healing  magnic" 
+5/11/25 6:37:20p •Magnic’s wounds were severe.
+5/11/25 6:37:20p •You don't quite have the training to heal Magnic’s injuries.
+5/11/25 6:39:02p * Magnic recovers the Mountain Grizzly Bear fur, worth 55c. Your share is 13c.
+5/11/25 6:39:04p ZipLock turns to stone.
+5/11/25 6:39:23p You have 197 coins.
+5/11/25 6:40:04p Anduin Lothar turns to stone.
+5/11/25 6:41:34p Magnic plants a seedling.
+5/11/25 6:41:44p Magnic plants a seedling.
+5/11/25 6:41:48p Bastion says, "b heal bas"
+5/11/25 6:43:15p •The Sun sets.
+5/11/25 6:43:24p •••
+5/11/25 6:43:24p You have been idle for too long.
+5/11/25 6:43:24p Please do something to avoid being disconnected.
+5/11/25 6:43:24p •••
+5/11/25 6:43:25p You have 197 coins.
+5/11/25 6:43:48p ZipLock turns to stone.
+5/11/25 6:44:21p Bastion says, "b heal bas"
+5/11/25 6:44:26p Bastion says, "bheal mag"
+5/11/25 6:44:30p Bastion says, "b heal bas"
+5/11/25 6:44:48p Anduin Lothar turns to stone.
+5/11/25 6:45:03p Anduin Lothar says, "b heal bas"
+5/11/25 6:46:58p Ceara says, "bheal"
+5/11/25 6:47:25p •••
+5/11/25 6:47:25p You have been idle for too long.
+5/11/25 6:47:25p Please do something to avoid being disconnected.
+5/11/25 6:47:25p •••
+5/11/25 6:47:27p You have 197 coins.
+5/11/25 6:47:38p Magnic says, "c heal bast"
+5/11/25 6:47:38p * Auto Healing  bast" 
+5/11/25 6:47:39p •Bastion was too wounded to be healed easily.
+5/11/25 6:47:50p Magnic says, "b heal me"
+5/11/25 6:47:54p Magnic says, "b heal mag"
+5/11/25 6:48:30p Anduin Lothar says, "b heal bas"
+5/11/25 6:48:33p ZipLock turns to stone.
+5/11/25 6:48:36p Anduin Lothar says, "b heal mag"
+5/11/25 6:49:32p Anduin Lothar turns to stone.
+5/11/25 6:50:53p •You lock your healing to Ceara.
+5/11/25 6:51:32p You have 197 coins.
+5/11/25 6:52:15p Magnic says, "b heal mag"
+5/11/25 6:52:32p Magnic says, "c arrea"
+5/11/25 6:52:36p Magnic says, "c area"
+5/11/25 6:53:17p ZipLock turns to stone.
+5/11/25 6:53:21p Ceara says, "area"
+5/11/25 6:53:33p Bastion says, "area"
+5/11/25 6:53:41p Magnic says, "heh"
+5/11/25 6:54:51p Anduin Lothar turns to stone.
+5/11/25 6:55:32p •••
+5/11/25 6:55:32p You have been idle for too long.
+5/11/25 6:55:32p Please do something to avoid being disconnected.
+5/11/25 6:55:32p •••
+5/11/25 6:55:40p You have 197 coins.
+5/11/25 6:55:40p Magnic plants a seedling.
+5/11/25 6:57:06p Bastion says, "b heal cat"
+5/11/25 6:58:02p ZipLock turns to stone.
+5/11/25 6:59:35p Anduin Lothar turns to stone.
+5/11/25 6:59:40p •••
+5/11/25 6:59:40p You have been idle for too long.
+5/11/25 6:59:40p Please do something to avoid being disconnected.
+5/11/25 6:59:40p •••
+5/11/25 6:59:46p * Magnic recovers the Mountain Bear fur, worth 7c. Your share is 2c.
+5/11/25 6:59:49p You have 199 coins.
+5/11/25 7:00:06p Bastion says, "b heal bas"
+5/11/25 7:00:27p Magnic plants a seedling.
+5/11/25 7:00:33p Bastion says, "b heal bas"
+5/11/25 7:00:36p Magnic plants a seedling.
+5/11/25 7:01:39p Bastion says, "b heal bas"
+5/11/25 7:02:20p Bastion says, "b heal bas"
+5/11/25 7:02:25p Bastion says, "b heal bastion"
+5/11/25 7:02:46p ZipLock turns to stone.
+5/11/25 7:02:53p Bastion says, "b heal bas"
+5/11/25 7:03:11p Magnic picks up a kudzu seedling.
+5/11/25 7:03:18p Magnic picks up a kudzu seedling.
+5/11/25 7:03:30p Magnic picks up a kudzu seedling.
+5/11/25 7:03:31p Magnic picks up a kudzu seedling.
+5/11/25 7:03:49p •••
+5/11/25 7:03:49p You have been idle for too long.
+5/11/25 7:03:49p Please do something to avoid being disconnected.
+5/11/25 7:03:49p •••
+5/11/25 7:03:56p You have 199 coins.
+5/11/25 7:03:59p Magnic says, "c heal me"
+5/11/25 7:03:59p * Auto Healing  Magnic 
+5/11/25 7:03:59p •You unlock your caduceus healing.
+5/11/25 7:04:18p Bastion says, "b heal bas"
+5/11/25 7:04:19p Anduin Lothar turns to stone.
+5/11/25 7:05:35p Bastion says, "b heal bastion"
+5/11/25 7:07:30p ZipLock turns to stone.
+5/11/25 7:07:32p Magnic says, "c heal me"
+5/11/25 7:07:32p * Auto Healing  Magnic 
+5/11/25 7:07:47p Bastion says, "b heal me"
+5/11/25 7:08:03p You have 199 coins.
+5/11/25 7:09:04p Anduin Lothar turns to stone.
+5/11/25 7:09:06p Bastion says, "self"
+5/11/25 7:09:11p Bastion says, "b heal bas"
+5/11/25 7:09:29p Magnic plants a seedling.
+5/11/25 7:09:50p Magnic says, "c heal bas"
+5/11/25 7:09:50p * Auto Healing  bas" 
+5/11/25 7:10:24p Bastion says, "b heal bas"
+5/11/25 7:10:30p * Bastion recovers the Mountain Grizzly Bear fur, worth 19c. Your share is 4c.
+5/11/25 7:10:34p Magnic says, "c heal me"
+5/11/25 7:10:34p * Auto Healing  Magnic 
+5/11/25 7:10:35p •Magnic was too wounded to be healed easily.
+5/11/25 7:10:47p Bastion says, "b heal bas"
+5/11/25 7:12:01p Ceara says, "b heal bas"
+5/11/25 7:12:09p You have 203 coins.
+5/11/25 7:12:15p ZipLock turns to stone.
+5/11/25 7:13:48p Anduin Lothar turns to stone.
+5/11/25 7:14:16p Bastion says, "b heal bas"
+5/11/25 7:15:01p •You gain experience.
+5/11/25 7:15:09p Bastion says, "area"
+5/11/25 7:15:14p Bastion says, "pet"
+5/11/25 7:15:20p Bastion says, "area"
+5/11/25 7:15:24p Bastion says, "b heal bas"
+5/11/25 7:16:10p •••
+5/11/25 7:16:10p You have been idle for too long.
+5/11/25 7:16:10p Please do something to avoid being disconnected.
+5/11/25 7:16:10p •••
+5/11/25 7:16:13p You have 203 coins.
+5/11/25 7:16:47p Shobaffum growls, "just before i could get ehre"
+5/11/25 7:16:54p Bastion says, "haha"
+5/11/25 7:16:55p Magnic asks, "?"
+5/11/25 7:16:57p Bastion says, "its so nice now"
+5/11/25 7:16:59p ZipLock turns to stone.
+5/11/25 7:17:01p Bastion says, "b heal zip"
+5/11/25 7:17:27p Bastion says, "area"
+5/11/25 7:17:50p * Shobaffum recovers the Mountain Bear fur, worth 8c. Your share is 2c.
+5/11/25 7:17:58p Shobaffum asks, "how much area Ceara got?"
+5/11/25 7:18:05p Bastion asks, "200ish?"
+5/11/25 7:18:09p Shobaffum says, "Nice"
+5/11/25 7:18:13p Bastion says, "enough for more or less whole screen"
+5/11/25 7:18:19p Bastion says, "and similar proxi"
+5/11/25 7:18:19p Shobaffum says, "sweet"
+5/11/25 7:18:32p Anduin Lothar turns to stone.
+5/11/25 7:18:35p Bastion says, "shes on sprite for now"
+5/11/25 7:18:41p Bastion says, "but maybe ill get 50 more of each one day"
+5/11/25 7:18:45p Shobaffum says, "okay.... well i was headed to bed"
+5/11/25 7:18:46p Bastion says, "just to fill the corner gaps"
+5/11/25 7:18:48p Magnic plants a seedling.
+5/11/25 7:18:51p Bastion says, "ah"
+5/11/25 7:18:51p Shobaffum says, "then someone needed help"
+5/11/25 7:18:55p Bastion says, "heh"
+5/11/25 7:18:56p Shobaffum says, "8^)"
+5/11/25 7:18:57p Bastion says, ":D"
+5/11/25 7:19:03p Bastion says, "thanks alot"
+5/11/25 7:19:10p Magnic plants a seedling.
+5/11/25 7:19:13p Shobaffum says, "imma run back out"
+5/11/25 7:19:25p Shobaffum growls, "b heal Shobaffum"
+5/11/25 7:19:32p Bastion says, ";)"
+5/11/25 7:19:47p Shobaffum growls, "area"
+5/11/25 7:19:55p Shobaffum growls, "have fun"
+5/11/25 7:19:57p Bastion says, "alright"
+5/11/25 7:19:59p Bastion says, "you too"
+5/11/25 7:20:14p •••
+5/11/25 7:20:14p You have been idle for too long.
+5/11/25 7:20:14p Please do something to avoid being disconnected.
+5/11/25 7:20:14p •••
+5/11/25 7:20:21p You have 205 coins.
+5/11/25 7:20:26p * You recover the Albino Flying Foxweir fur, worth 1c.
+5/11/25 7:20:35p •You lock your healing to Ceara.
+5/11/25 7:21:43p ZipLock turns to stone.
+5/11/25 7:22:10p Magnic says, "b heal me"
+5/11/25 7:22:27p Magnic says, "b heal magnic"
+5/11/25 7:22:43p Magnic says, "b heal magnic"
+5/11/25 7:22:56p * Magnic recovers the Mountain Bear fur, worth 46c. Your share is 12c.
+5/11/25 7:23:16p Anduin Lothar turns to stone.
+5/11/25 7:23:29p * You pick up a kudzu seedling.
+5/11/25 7:24:27p You have 217 coins.
+5/11/25 7:26:01p Magnic says, "area"
+5/11/25 7:26:28p ZipLock turns to stone.
+5/11/25 7:27:16p Bastion says, "b heal ma"
+5/11/25 7:27:52p * Ceara recovers the Mountain Bear fur, worth 27c. Your share is 7c.
+5/11/25 7:27:56p * Magnic recovers the Mountain Grizzly Bear fur, worth 11c. Your share is 2c.
+5/11/25 7:28:00p Anduin Lothar turns to stone.
+5/11/25 7:28:27p •••
+5/11/25 7:28:27p You have been idle for too long.
+5/11/25 7:28:27p Please do something to avoid being disconnected.
+5/11/25 7:28:27p •••
+5/11/25 7:28:33p You have 226 coins.
+5/11/25 7:30:02p Bastion says, "area"
+5/11/25 7:31:12p ZipLock turns to stone.
+5/11/25 7:32:33p •••
+5/11/25 7:32:33p You have been idle for too long.
+5/11/25 7:32:33p Please do something to avoid being disconnected.
+5/11/25 7:32:33p •••
+5/11/25 7:32:36p You have 226 coins.
+5/11/25 7:32:44p Anduin Lothar turns to stone.
+5/11/25 7:33:03p Magnic says, "b heal me"
+5/11/25 7:33:07p Magnic says, "b heal mag"
+5/11/25 7:33:34p * Ceara recovers the Mammoth Banana Arachne mandibles, worth 71c. Your share is 18c.
+5/11/25 7:34:21p Magnic plants a seedling.
+5/11/25 7:35:06p Magnic says, "area"
+5/11/25 7:35:57p ZipLock turns to stone.
+5/11/25 7:36:07p • It’s Midnight on Lundi, the 19th day of Summer in the 641st year of the Ascendancy, and all’s well.
+5/11/25 7:36:36p •••
+5/11/25 7:36:36p You have been idle for too long.
+5/11/25 7:36:36p Please do something to avoid being disconnected.
+5/11/25 7:36:36p •••
+5/11/25 7:36:42p You have 244 coins.
+5/11/25 7:37:29p Anduin Lothar turns to stone.
+5/11/25 7:38:38p * Magnic recovers the Black Mantis mandibles, worth 2c. Your share is 1c.
+5/11/25 7:39:10p Magnic says, "b heal mag"
+5/11/25 7:40:39p Magnic plants a seedling.
+5/11/25 7:40:41p ZipLock turns to stone.
+5/11/25 7:40:42p •••
+5/11/25 7:40:42p You have been idle for too long.
+5/11/25 7:40:42p Please do something to avoid being disconnected.
+5/11/25 7:40:42p •••
+5/11/25 7:40:50p You have 245 coins.
+5/11/25 7:40:54p Magnic plants a seedling.
+5/11/25 7:41:21p Magnic says, "area"
+5/11/25 7:42:13p Anduin Lothar turns to stone.
+5/11/25 7:42:23p Magnic says, "b heal mag"
+5/11/25 7:43:26p Magnic says, "area"
+5/11/25 7:44:50p •••
+5/11/25 7:44:50p You have been idle for too long.
+5/11/25 7:44:50p Please do something to avoid being disconnected.
+5/11/25 7:44:50p •••
+5/11/25 7:44:59p You have 245 coins.
+5/11/25 7:45:25p ZipLock turns to stone.
+5/11/25 7:45:43p Magnic says, "b heal mag"
+5/11/25 7:46:57p Anduin Lothar turns to stone.
+5/11/25 7:47:10p * Magnic recovers the Mountain Bear fur, worth 11c. Your share is 3c.
+5/11/25 7:47:16p Magnic says, "b heal mag"
+5/11/25 7:48:58p Magnic plants a seedling.
+5/11/25 7:48:59p •••
+5/11/25 7:48:59p You have been idle for too long.
+5/11/25 7:48:59p Please do something to avoid being disconnected.
+5/11/25 7:48:59p •••
+5/11/25 7:49:09p You have 248 coins.
+5/11/25 7:49:17p * You recover the Black Locust mandibles, worth 72c. Your share is 18c.
+5/11/25 7:49:22p Magnic says, "b heal mag"
+5/11/25 7:50:10p ZipLock turns to stone.
+5/11/25 7:51:38p Magnic says, "b heal mag"
+5/11/25 7:51:41p Anduin Lothar turns to stone.
+5/11/25 7:51:57p * Magnic recovers the Dire Bear fur, worth 7c. Your share is 1c.
+5/11/25 7:53:09p •••
+5/11/25 7:53:09p You have been idle for too long.
+5/11/25 7:53:09p Please do something to avoid being disconnected.
+5/11/25 7:53:09p •••
+5/11/25 7:53:12p Bastion says, "area"
+5/11/25 7:53:18p You have 267 coins.
+5/11/25 7:54:09p Bastion says, "b heal mag"
+5/11/25 7:54:54p ZipLock turns to stone.
+5/11/25 7:56:09p Magnic says, "area"
+5/11/25 7:56:25p Anduin Lothar turns to stone.
+5/11/25 7:57:18p •••
+5/11/25 7:57:18p You have been idle for too long.
+5/11/25 7:57:18p Please do something to avoid being disconnected.
+5/11/25 7:57:18p •••
+5/11/25 7:57:23p You have 267 coins.
+5/11/25 7:59:39p ZipLock turns to stone.
+5/11/25 8:01:10p Anduin Lothar turns to stone.
+5/11/25 8:01:14p ZipLock says, "mag dead"
+5/11/25 8:01:23p •••
+5/11/25 8:01:23p You have been idle for too long.
+5/11/25 8:01:23p Please do something to avoid being disconnected.
+5/11/25 8:01:23p •••
+5/11/25 8:01:29p You have 267 coins.
+5/11/25 8:02:12p Magnic says, "b heal mag"
+5/11/25 8:02:43p Magnic says, "area"
+5/11/25 8:03:25p * Bastion recovers the Mountain Bear fur, worth 10c. Your share is 2c.
+5/11/25 8:03:32p Bastion says, "b heal ma"
+5/11/25 8:03:40p Bastion says, "area"
+5/11/25 8:04:11p Magnic plants a seedling.
+5/11/25 8:04:23p ZipLock turns to stone.
+5/11/25 8:05:29p •••
+5/11/25 8:05:29p You have been idle for too long.
+5/11/25 8:05:29p Please do something to avoid being disconnected.
+5/11/25 8:05:29p •••
+5/11/25 8:05:35p You have 269 coins.
+5/11/25 8:05:54p Anduin Lothar turns to stone.
+5/11/25 8:07:38p * Magnic recovers the Mountain Bear fur, worth 7c. Your share is 2c.
+5/11/25 8:07:48p * Magnic recovers the Mountain Bear fur, worth 8c. Your share is 2c.
+5/11/25 8:09:07p ZipLock turns to stone.
+5/11/25 8:09:36p •••
+5/11/25 8:09:36p You have been idle for too long.
+5/11/25 8:09:36p Please do something to avoid being disconnected.
+5/11/25 8:09:36p •••
+5/11/25 8:09:46p You have 273 coins.
+5/11/25 8:10:38p Anduin Lothar turns to stone.
+5/11/25 8:11:57p * Ceara recovers the Albino Flying Foxweir fur, worth 2c. Your share is 1c.
+5/11/25 8:13:47p •••
+5/11/25 8:13:47p You have been idle for too long.
+5/11/25 8:13:47p Please do something to avoid being disconnected.
+5/11/25 8:13:47p •••
+5/11/25 8:13:52p You have 274 coins.
+5/11/25 8:13:52p ZipLock turns to stone.
+5/11/25 8:15:22p Anduin Lothar turns to stone.
+5/11/25 8:17:24p •Ceara’s injuries were grave.
+5/11/25 8:17:30p •Ceara’s injuries were serious.
+5/11/25 8:17:48p You have 274 coins.
+5/11/25 8:18:14p Magnic says, "b heal mag"
+5/11/25 8:18:36p ZipLock turns to stone.
+5/11/25 8:19:02p Magnic says, "c heal bastion"
+5/11/25 8:19:02p * Auto Healing  bastion" 
+5/11/25 8:19:02p •You unlock your caduceus healing.
+5/11/25 8:19:02p •Bastion’s injuries were grave.
+5/11/25 8:19:20p •Bastion’s injuries were serious.
+5/11/25 8:19:27p * Dracula recovers the Mountain Grizzly Bear fur, worth 21c. Your share is 5c.
+5/11/25 8:19:33p •You learn from healing.
+5/11/25 8:19:47p * Dracula recovers the Mountain Grizzly Bear fur, worth 18c. Your share is 4c.
+5/11/25 8:19:59p * Dracula recovers the Mountain Grizzly Bear fur, worth 30c. Your share is 6c.
+5/11/25 8:20:06p Anduin Lothar turns to stone.
+5/11/25 8:20:10p * Dracula recovers the Mountain Grizzly Bear fur, worth 82c. Your share is 17c.
+5/11/25 8:20:23p * Dracula recovers the Mountain Grizzly Bear fur, worth 57c. Your share is 11c.
+5/11/25 8:21:09p •The player must be in the same area.
+5/11/25 8:21:17p Bastion says, "b heal drac"
+5/11/25 8:21:29p Magnic plants a seedling.
+5/11/25 8:21:29p Dracula is sharing experiences with you.
+5/11/25 8:21:56p Magnic plants a seedling.
+5/11/25 8:21:59p You have 317 coins.
+5/11/25 8:22:13p Magnic plants a seedling.
+5/11/25 8:22:20p Magnic plants a seedling.
+5/11/25 8:22:23p Dracula says, "area"
+5/11/25 8:23:21p ZipLock turns to stone.
+5/11/25 8:23:32p Dracula says, "b heal drac"
+5/11/25 8:23:37p Dracula says, "c heal drac"
+5/11/25 8:23:38p * Auto Healing  drac" 
+5/11/25 8:24:10p Dracula says, "area"
+5/11/25 8:24:12p •The player must be in the same area.
+5/11/25 8:24:17p * Bastion recovers the Black Mantis mandibles, worth 44c. Your share is 11c.
+5/11/25 8:24:38p •You lock your healing to Ceara.
+5/11/25 8:24:51p Anduin Lothar turns to stone.
+5/11/25 8:25:48p Dracula says, "b heal drac"
+5/11/25 8:26:03p You have 328 coins.
+5/11/25 8:26:52p Magnic says, "area"
+5/11/25 8:28:05p ZipLock turns to stone.
+5/11/25 8:28:18p Dracula says, "area"
+5/11/25 8:28:20p Dracula says, "area"
+5/11/25 8:28:49p * Dracula recovers the Mountain Grizzly Bear fur, worth 12c. Your share is 2c.
+5/11/25 8:29:21p •The Sun rises.
+5/11/25 8:29:35p Anduin Lothar turns to stone.
+5/11/25 8:30:04p •••
+5/11/25 8:30:04p You have been idle for too long.
+5/11/25 8:30:04p Please do something to avoid being disconnected.
+5/11/25 8:30:04p •••
+5/11/25 8:30:16p You have 330 coins.
+5/11/25 8:32:38p Magnic says, "b heal drac"
+5/11/25 8:32:49p ZipLock turns to stone.
+5/11/25 8:34:17p •••
+5/11/25 8:34:17p You have been idle for too long.
+5/11/25 8:34:17p Please do something to avoid being disconnected.
+5/11/25 8:34:17p •••
+5/11/25 8:34:19p Anduin Lothar turns to stone.
+5/11/25 8:34:36p You have 330 coins.
+5/11/25 8:34:40p Magnic plants a seedling.
+5/11/25 8:34:46p Magnic plants a seedling.
+5/11/25 8:34:51p Bastion says, "area"
+5/11/25 8:36:54p Magnic says, "b heal mag"
+5/11/25 8:37:10p Magnic says, "area"
+5/11/25 8:37:34p ZipLock turns to stone.
+5/11/25 8:38:21p Magnic says, "b heal drac"
+5/11/25 8:38:22p Bastion says, "b heal drac"
+5/11/25 8:38:37p •••
+5/11/25 8:38:37p You have been idle for too long.
+5/11/25 8:38:37p Please do something to avoid being disconnected.
+5/11/25 8:38:37p •••
+5/11/25 8:38:53p You have 330 coins.
+5/11/25 8:39:03p Anduin Lothar turns to stone.
+5/11/25 8:39:27p Bastion says, "area"
+5/11/25 8:42:18p ZipLock turns to stone.
+5/11/25 8:42:34p Dracula picks up a sack of kudzu seedlings.
+5/11/25 8:42:53p •••
+5/11/25 8:42:53p You have been idle for too long.
+5/11/25 8:42:53p Please do something to avoid being disconnected.
+5/11/25 8:42:53p •••
+5/11/25 8:43:03p You have 330 coins.
+5/11/25 8:43:07p Dracula picks up a kudzu seedling.
+5/11/25 8:43:31p •The player must be in the same area.
+5/11/25 8:46:37p •The healing spell has been broken.
+5/11/25 8:46:40p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+5/11/25 8:46:41p Cat Food has fallen to a Reedcat Stalker.
+5/11/25 8:46:41p •Your injuries are serious.
+5/11/25 8:47:05p You have 330 coins.
+5/11/25 8:48:08p Dracula yells, "/"
+5/11/25 8:48:18p Dracula starts dragging you.
+5/11/25 8:49:19p Dracula says, "yes"
+5/11/25 8:51:11p You have 330 coins.
+5/11/25 8:52:14p •

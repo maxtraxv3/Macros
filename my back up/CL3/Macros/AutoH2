@@ -1,0 +1,266 @@
+// C heal 2.1
+// /hi to set what evers in your right hand to the healer item the macro will use to heal people with
+// c heal <name> heals person wiht that name
+// c heal me heals you
+// c pet heals your pet or the pet closest to you
+// c self self heal
+// c lock <name> lock healing to that person
+// c area Radium heal
+// c farea Radium + self heal loop witch will keep going untill you give it another command
+// /frames <number> how long radium heals for, before switching to self heal.
+// /usetime <number> for how many time you self heal before going back to radium healing.
+
+//change "C" to whatever trigger word you like 
+//I.E for it to act like squibs one: setglobal trigger_W @my.name 
+//or just "j" would be j heal <name> to heal someone
+// if you set this to "" it will skip the trigger word B, so insted of saying "b heal <name>" you would say "heal <name>"
+setglobal trigger_W "B"
+// the trigger word for area heals
+setglobal trigger_A "area"
+// the trigger word for pet heals
+setglobal trigger_P "pet"
+// the trigger word for self heal
+setglobal trigger_S "self"
+// the trigger word for area loop healing
+setglobal trigger_AF "farea"
+// the trigger word for lock healing (both "me" command and other names)
+setglobal trigger_L "lock"
+// the trigger word for healing (both "me" command and other names)
+setglobal trigger_H "heal"
+
+setglobal Right_H "asklepian staff"
+SETGLOBAL Timysampsw0 0
+SETGLOBAL Timysampsw1 1
+SETGLOBAL Timysampsw2 2
+SETGLOBAL Timysampsw3 3
+SETGLOBAL Timysampsw4 4
+SETGLOBAL Timysampsw5 5
+SETGLOBAL Timysampsw6 6
+SETGLOBAL Timysampsw7 7
+SETGLOBAL TimysampsT4 4
+SETGLOBAL TimysampsT5 5
+SETGLOBAL TimysampsT6 6
+setglobal frame 27
+setglobal useses 3
+
+@login
+{
+call sethealeritem
+}
+
+"/usetime"
+{
+if @text.word[0] != ""
+	setglobal useses @text.word[0]
+end if
+}
+
+"/frames"
+{
+if @text.word[0] != ""
+	setglobal frame @text.word[0]
+end if
+}
+
+"/hi"
+{
+call sethealeritem
+}
+
+sethealeritem
+{
+set Right_H @my.right_item
+message "* Healer Item set to" Right_H ""
+if Right_H >= asklepian
+	SETGLOBAL Rad 1
+end if
+}
+
+"/ah"
+{
+// heh, there gotta be a better way to do this part xD
+set logck @env.textlog
+message "* C Heal Online"
+if logck.word[0] >= "*"
+SETGLOBAL Timysampsw0 + 2
+	SETGLOBAL Timysampsw1 + 2
+		SETGLOBAL Timysampsw2 + 2
+			SETGLOBAL Timysampsw3 + 2
+				SETGLOBAL Timysampsw4 + 2
+					SETGLOBAL Timysampsw5 + 2
+						SETGLOBAL Timysampsw6 + 2
+							SETGLOBAL Timysampsw7 + 2
+								SETGLOBAL TimysampsT4 - 2
+									SETGLOBAL TimysampsT5 - 2
+										SETGLOBAL TimysampsT6 - 2
+end if
+label top
+set logck @env.textlog
+if logck >= "says,"
+	call sayit
+else if logck >= "growls,"
+	call sayit
+else if logck >= "yells,"
+	call sayit
+end if
+goto top
+}
+
+sayit
+{
+SET HealM trigger_H
+SET HealM + " "
+SET HealM + "me"
+SET lockM trigger_L
+SET lockM + " "
+SET lockM + "me"
+if trigger_W != ""
+set logck @env.textlog
+	if logck.word[TimysampsT4] >= trigger_W
+		set correctme 1
+		setglobal guy logck.word[Timysampsw0]
+		setglobal guy2 logck.word[Timysampsw4]
+	else if logck.word[TimysampsT5] >= trigger_W
+		set correctme 1
+		setglobal guy logck.word[Timysampsw2]
+		setglobal guy + "" logck.word[Timysampsw3] ""
+		setglobal guy2 logck.word[Timysampsw7]
+	else if logck.word[TimysampswT6] >= trigger_W
+		set correctme 1
+		setglobal guy logck.word[Timysampsw0]
+		setglobal guy + "" logck.word[Timysampsw1] ""
+		setglobal guy + "" logck.word[Timysampsw2] ""
+		setglobal guy2 logck.word[Timysampsw6]
+	end if
+end if
+set logck @env.textlog
+	if logck >= HealM
+		if trigger_W == ""
+			set cName HealM
+				call Nguy
+		end if
+			set guyH guy
+				call autoH
+	else if logck >= trigger_H
+		if trigger_W == ""
+			set cName trigger_H
+				call Nguy
+		end if
+		setglobal guyH guy2
+				call autoH
+	else if logck >= trigger_S
+			call autoS
+	else if logck >= trigger_P
+			call autoP
+	else if logck >= trigger_A
+			call autoA
+	else if logck >= lockM
+		if trigger_W == ""
+			set cName lockM
+				call Nguy
+		end if
+		setglobal guyH guy
+				call autoL
+	else if logck >= trigger_L
+		if trigger_W == ""
+			set cName trigger_L
+				call Nguy
+		end if
+		setglobal guyH guy2
+				call autoL
+	else if logck >= trigger_AF
+			call autoAF
+	end if
+end if
+}
+
+Nguy
+{
+if logck.word[TimysampswT5] >= cName.word[0]
+	setglobal guy logck.word[Timysampsw0]
+	setglobal guy2 logck.word[Timysampsw4]
+else if logck.word[TimysampswT6] >= cName.word[0]
+	setglobal guy logck.word[Timysampsw2]
+	setglobal guy + "" logck.word[Timysampsw3] ""
+	setglobal guy2 logck.word[Timysampsw7]
+else if logck.word[TimysampswT7] >= cName.word[0]
+	setglobal guy logck.word[Timysampsw0]
+	setglobal guy + "" logck.word[Timysampsw1] ""
+	setglobal guy + "" logck.word[Timysampsw2] ""
+	setglobal guy2 logck.word[Timysampsw6]
+end if
+}
+
+autoH
+{
+if @my.right_item != Right_H
+	"/equip " Right_H " \r"
+end if
+	"/use " guyH " \r"
+message "* Auto Healing" guy ""
+pause 3
+}
+
+autoA
+{
+if Rad == 1
+if @my.right_item != Right_H
+	"/equip " Right_H " \r"
+end if
+	"/use \r"
+else if Rad == 0
+	message "* Sorry Dave, i cannot let you do that."
+end if
+}
+
+autoP
+{
+if @my.right_item != Right_H
+	"/equip " Right_H " \r"
+end if
+	"/use /pet \r"
+message "* Auto Healing Pet"
+}
+
+autoS
+{
+if @my.right_item != moonstone
+	"/equip moonstone \r"
+end if
+message "* self healing mode"
+label loopmoon
+	"/use \r"
+pause 1
+goto loopmoon
+}
+
+autoL
+{
+if @my.right_item != Right_H
+	"/equip " Right_H " \r"
+end if
+	"/use /lock " guyH " \r"
+message "* Auto Locking" guy ""
+}
+
+autoAF
+{
+label area
+set usemetimes useses
+if @my.right_item != Right_H
+	"/equip " Right_H " \r"
+end if
+"/use \r"
+pause frame
+if @my.right_item == Right_H
+	"/equip moonstone \r"
+end if
+label usemeloop
+	if usemetimes < 1
+		"/use \r"
+			goto usemeloop
+				setglobal usemetimes - 1
+	else
+			goto area
+	end if
+}

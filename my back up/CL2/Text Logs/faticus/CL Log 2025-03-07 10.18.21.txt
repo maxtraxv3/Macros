@@ -1,0 +1,33 @@
+
+3/7/25 10:18:22a * Your cloak named “orange” is in pretty good shape.
+3/7/25 10:18:22a * Your pair of pants named “forest green” is in nearly perfect condition.
+3/7/25 10:18:22a * Your shirt named “royal purple” is in nearly perfect condition.
+3/7/25 10:18:22a Welcome to Clan Lord, Faticus!
+3/7/25 10:18:22a Type \HELP for a list of commands.
+3/7/25 10:18:22a • You gain experience from your recent studies.
+3/7/25 10:18:22a Type /healer for commands if you forget
+3/7/25 10:18:22a You have been studying for 22 days, 6 hours, 40 minutes.
+3/7/25 10:18:25a It's 12:09pm on Sombdi, day 21 of Autumn, 640.
+3/7/25 10:18:25a Friends online: none.
+3/7/25 10:18:26a There are two members of Black Phoenix clanning: Warawonda and you.
+3/7/25 10:18:26a • What’s New: https://deltatao.com/clanlord/news
+3/7/25 10:18:36a * Tip of the day: When you disconnect outside a library, your body will remain where you were for a few minutes. (Use /OPTIONS to turn tips off.)
+3/7/25 10:18:37a •You seem to recover spiritual energy faster.
+3/7/25 10:20:03a • Warawonda offers you a parachute, which is in nearly perfect condition, for free.
+3/7/25 10:20:03a To accept, \BUY 0 Warawonda.
+3/7/25 10:20:03a 1  Warawonda. 
+3/7/25 10:20:04a Warawonda hands you a parachute.
+3/7/25 10:20:07a •You seem to recover spiritual energy faster.
+3/7/25 10:20:07a • Warawonda offers you a parachute, which is in nearly perfect condition, for free.
+3/7/25 10:20:07a To accept, \BUY 0 Warawonda.
+3/7/25 10:20:07a 1  Warawonda. 
+3/7/25 10:20:08a Warawonda hands you a parachute.
+3/7/25 10:20:14a • Warawonda offers you a parachute, which  is looking rather worn, for free.
+3/7/25 10:20:14a To accept, \BUY 0 Warawonda.
+3/7/25 10:20:14a 1  Warawonda. 
+3/7/25 10:20:14a Warawonda hands you a parachute.
+3/7/25 10:20:25a • /SLEEP when you wish to begin studying.
+3/7/25 10:20:31a Use \SLEEP again when you return.
+3/7/25 10:20:31a You are done adventuring for a while and will be staying here.
+3/7/25 10:20:32a You have been disconnected from Clan Lord.
+3/7/

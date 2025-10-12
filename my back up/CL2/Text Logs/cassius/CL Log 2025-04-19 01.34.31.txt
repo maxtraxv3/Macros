@@ -1,0 +1,51 @@
+
+4/19/25 1:34:32a * Your pair of pants named “dark grey” is in very good condition.
+4/19/25 1:34:32a * Your shirt named “midnight” is in nearly perfect condition.
+4/19/25 1:34:32a Welcome to Clan Lord, Cassius!
+4/19/25 1:34:32a Type \HELP for a list of commands.
+4/19/25 1:34:32a • You gain experience from your recent studies.
+4/19/25 1:34:32a You have been studying for 17 hours, 20 minutes.
+4/19/25 1:34:35a It's 10:15pm on Fordi, day 15 of Spring, 641.
+4/19/25 1:34:35a Friends online: none.
+4/19/25 1:34:36a There are four members of Black Phoenix clanning: Bastion, Ceara, Magnic and you.
+4/19/25 1:34:36a • What’s New: https://deltatao.com/clanlord/news
+4/19/25 1:34:46a * Tip of the day: If you don’t like this tip, suggest a better one using /BUG TIP ... . (Use /OPTIONS to turn tips off.)
+4/19/25 1:34:47a • Magnic offers you a darkstone shard for free.
+4/19/25 1:34:47a To accept, \BUY 0 Magnic.
+4/19/25 1:34:47a 1  Magnic. 
+4/19/25 1:34:47a You cannot hold a darkstone shard.
+4/19/25 1:35:11a • Time has expired on Magnic's offer.
+4/19/25 1:35:12a Shadowmutt growls, "Grrr."
+4/19/25 1:35:16a You drop your purse.
+4/19/25 1:35:24a • Magnic offers you a darkstone shard for free.
+4/19/25 1:35:24a To accept, \BUY 0 Magnic.
+4/19/25 1:35:24a 1  Magnic. 
+4/19/25 1:35:25a Magnic hands you a darkstone shard.
+4/19/25 1:35:42a You have 477 coins.
+4/19/25 1:36:15a 'SPIN' is not a recognized command.
+4/19/25 1:36:20a 'SWAP' is not a recognized command.
+4/19/25 1:37:02a Catan says, "Hello"
+4/19/25 1:37:14a Warawonda ponders, "nom nom nom darkstone shards"
+4/19/25 1:37:17a Warawonda exclaims, "hi!"
+4/19/25 1:37:32a Warawonda juggles her lump of tin ore from one hand to the other.
+4/19/25 1:37:32a Koppi yells, "Sir Didymus reports: Where is Ambrosius? Ambrosius?!!"
+4/19/25 1:37:43a You offer a darkstone shard to Warawonda for free.
+4/19/25 1:37:43a \SELL /cancel to cancel the offer.
+4/19/25 1:37:44a You hand Warawonda a darkstone shard.
+4/19/25 1:37:46a You offer a darkstone shard to Warawonda for free.
+4/19/25 1:37:46a \SELL /cancel to cancel the offer.
+4/19/25 1:37:47a You hand Warawonda a darkstone shard.
+4/19/25 1:37:49a You offer a darkstone shard to Warawonda for free.
+4/19/25 1:37:49a \SELL /cancel to cancel the offer.
+4/19/25 1:37:50a You hand Warawonda a darkstone shard.
+4/19/25 1:37:52a You offer a darkstone shard to Warawonda for free.
+4/19/25 1:37:52a \SELL /cancel to cancel the offer.
+4/19/25 1:37:53a You hand Warawonda a darkstone shard.
+4/19/25 1:37:55a You offer a cigar to Warawonda for free.
+4/19/25 1:37:55a \SELL /cancel to cancel the offer.
+4/19/25 1:37:56a You hand Warawonda a cigar.
+4/19/25 1:38:06a • Warawonda offers you a soil sample originally found by Tomair in the East Field on Merdi, the 55th Day of Summer 616, at 1:34 PM, for free.
+4/19/25 1:38:06a To accept, \BUY 0 Warawonda.
+4/19/25 1:38:06a 1  Warawonda. 
+4/19/25 1:38:07a Warawonda hands you a soil sample.
+4/19/25 1:38:11a • Warawonda offers you a soil sample originally found by Fredor near the North Lake on Terrdi, the 89th Day of 

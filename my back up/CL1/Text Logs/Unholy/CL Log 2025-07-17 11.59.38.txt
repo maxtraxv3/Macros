@@ -1,0 +1,1521 @@
+
+7/17/25 11:59:38a \USEITEM <ITEM> <TEXT> will use the item if it is equipped. \USEITEM left <TEXT> will use whatever you are holding in your left hand.  Other equipment locations work too. Many items give help with \USEITEM <ITEM> ?
+7/17/25 11:59:38a Welcome back, Unholy!
+7/17/25 11:59:38a *Healer Mode
+7/17/25 11:59:38a * Healer Item set to moonstone 
+7/17/25 11:59:41a Captain Barnac asks, "Ah, Unholy. My fine boats cost 5 copper pennies. Would you like to rent one now?"
+7/17/25 11:59:41a Unholy whispers, "yes"
+7/17/25 11:59:42a Unholy whispers, "yes"
+7/17/25 11:59:43a Friends online: none.
+7/17/25 11:59:51a You equip your asklepian staff.
+7/17/25 11:59:51a You must equip your moonstone before it can be used.
+7/17/25 11:59:51a You must equip your moonstone before it can be used.
+7/17/25 11:59:52a You must equip your moonstone before it can be used.
+7/17/25 11:59:52a You must equip your moonstone before it can be used.
+7/17/25 11:59:53a You must equip your moonstone before it can be used.
+7/17/25 11:59:53a You must equip your moonstone before it can be used.
+7/17/25 11:59:54a * Healer Item set to asklepian staff 
+7/17/25 12:00:26p You begin sharing your experiences with Fortuna.
+7/17/25 12:00:26p You are sharing experiences with Fortuna, Asklepios and Aurelie.
+7/17/25 12:00:27p You are still too mentally fatigued to change spirit links.
+7/17/25 12:00:27p Beado is now Clanning.
+7/17/25 12:00:30p You begin sharing your experiences with Vylarian.
+7/17/25 12:00:30p You are sharing experiences with Vylarian, Fortuna, Asklepios and Aurelie.
+7/17/25 12:00:34p You begin sharing your experiences with Purrfect.
+7/17/25 12:00:34p You are sharing experiences with Purrfect, Vylarian, Fortuna, Asklepios and Aurelie.
+7/17/25 12:00:50p Unholy says, "big kit"
+7/17/25 12:00:55p Fortuna says, "so now we know, village is a bit of a stretch"
+7/17/25 12:00:55p Aurelie yells, "Halloooo?"
+7/17/25 12:01:03p Fortuna yells, "cove"
+7/17/25 12:01:13p Vylarian ponders, "i have one ooc cat that seems to have an incurable objection to being a normal cat"
+7/17/25 12:01:18p Unholy says, "full size tigger here"
+7/17/25 12:01:39p Aurelie thinks, "Did I go the wrong way?"
+7/17/25 12:01:51p Giben says, "got dc'd. had to reset my wifi."
+7/17/25 12:01:58p Vylarian thinks, "did you go into metz?"
+7/17/25 12:02:21p •The healing spell has been broken.
+7/17/25 12:02:29p • You begin radius healing.
+7/17/25 12:02:31p * Healing Giben 
+7/17/25 12:02:34p You have 2450 coins.
+7/17/25 12:02:39p * Healing Fortuna 
+7/17/25 12:02:44p Giben turns to stone.
+7/17/25 12:03:01p * Healing Aurelie 
+7/17/25 12:03:09p •You sense healing energy from Aurelie.
+7/17/25 12:03:11p Unholy says, "what a strages spawn"
+7/17/25 12:03:13p * Healing Aurelie 
+7/17/25 12:03:17p * Aurelie recovers the Haremau Kitten fur, worth 8c. Your share is 2c.
+7/17/25 12:03:22p Vylarian has fallen to a Haremau.
+7/17/25 12:03:28p * Healing Vylarian 
+7/17/25 12:03:29p •Vylarian’s injuries are significantly more serious than you can heal.
+7/17/25 12:03:32p * Healing Giben 
+7/17/25 12:03:40p •You do not have enough spiritual energy.
+7/17/25 12:03:42p Vylarian says, "dont see yors much"
+7/17/25 12:03:43p * Healing Fortuna 
+7/17/25 12:03:47p •You do not have enough spiritual energy.
+7/17/25 12:03:48p * Healing Vylarian 
+7/17/25 12:03:49p •Vylarian’s injuries are significantly more serious than you can heal.
+7/17/25 12:03:56p •Vylarian’s injuries are significantly more serious than you can heal.
+7/17/25 12:04:00p * Healing Aurelie 
+7/17/25 12:04:05p * Healing Unholy 
+7/17/25 12:04:05p •You cannot use your asklepian staff on yourself.
+7/17/25 12:04:05p You equip your moonstone.
+7/17/25 12:04:05p •The healing spell has been broken.
+7/17/25 12:04:07p * Healing Vylarian 
+7/17/25 12:04:07p You equip your asklepian staff.
+7/17/25 12:04:08p You must equip your moonstone before it can be used.
+7/17/25 12:04:08p •You don't quite have the training to heal Vylarian’s injuries.
+7/17/25 12:04:13p Unholy says, "q"
+7/17/25 12:04:15p •You don't quite have the training to heal Vylarian’s injuries.
+7/17/25 12:04:21p •You don't quite have the training to heal Vylarian’s injuries.
+7/17/25 12:04:26p •The healing spell has been broken.
+7/17/25 12:04:27p * Healing Giben 
+7/17/25 12:04:34p Aurelie exclaims, "Wakey wakey!"
+7/17/25 12:04:42p * Healing Vylarian 
+7/17/25 12:04:43p •You don't quite have the training to heal Vylarian’s injuries.
+7/17/25 12:04:49p * Healing Giben 
+7/17/25 12:04:49p •You don't quite have the training to heal Vylarian’s injuries.
+7/17/25 12:04:59p Aurelie starts playing her tuborn.
+7/17/25 12:05:00p Unholy says, "b heal vyl"
+7/17/25 12:05:07p * Healing Vylarian 
+7/17/25 12:05:07p •You don't quite have the training to heal Vylarian’s injuries.
+7/17/25 12:05:11p Unholy says, ":/"
+7/17/25 12:05:14p •You don't quite have the training to heal Vylarian’s injuries.
+7/17/25 12:05:16p •The healing spell has been broken.
+7/17/25 12:05:24p * Healing Giben 
+7/17/25 12:05:29p You have 2452 coins.
+7/17/25 12:05:31p Giben has fallen to a Haremau Kitten.
+7/17/25 12:05:31p •Giben was too wounded to be healed easily.
+7/17/25 12:05:32p •You do not have enough spiritual energy.
+7/17/25 12:05:38p •The healing spell has been broken.
+7/17/25 12:05:39p •The healing spell has been broken.
+7/17/25 12:05:40p •The healing spell has been broken.
+7/17/25 12:05:42p •The healing spell has been broken.
+7/17/25 12:05:44p * Healing Aurelie 
+7/17/25 12:05:49p * Healing Giben 
+7/17/25 12:05:50p Aurelie exclaims, "Busy!"
+7/17/25 12:05:51p Giben is no longer fallen.
+7/17/25 12:05:59p * Healing Unholy 
+7/17/25 12:05:59p •You cannot use your asklepian staff on yourself.
+7/17/25 12:06:00p You equip your moonstone.
+7/17/25 12:06:00p •The healing spell has been broken.
+7/17/25 12:06:03p * Healing Aurelie 
+7/17/25 12:06:03p You equip your asklepian staff.
+7/17/25 12:06:04p You must equip your moonstone before it can be used.
+7/17/25 12:06:17p * Healing Giben 
+7/17/25 12:06:20p * Healing Unholy 
+7/17/25 12:06:20p •You cannot use your asklepian staff on yourself.
+7/17/25 12:06:21p You equip your moonstone.
+7/17/25 12:06:21p •The healing spell has been broken.
+7/17/25 12:06:22p Vylarian is still fallen to a Haremau.
+7/17/25 12:06:24p * Healing Giben 
+7/17/25 12:06:24p You equip your asklepian staff.
+7/17/25 12:06:25p You must equip your moonstone before it can be used.
+7/17/25 12:06:30p * Healing Fortuna 
+7/17/25 12:06:38p • You hear Aurelie's music...
+7/17/25 12:06:38p Aurelie starts playing her torjo.
+7/17/25 12:06:38p (Aurelie): Escaping Metzetli
+7/17/25 12:06:44p * Healing Unholy 
+7/17/25 12:06:44p •You cannot use your asklepian staff on yourself.
+7/17/25 12:06:44p You equip your moonstone.
+7/17/25 12:06:46p Aurelie says, "Oops"
+7/17/25 12:06:47p Aurelie stops playing her torjo.
+7/17/25 12:06:51p • You hear Aurelie's music...
+7/17/25 12:06:51p Aurelie starts playing her torjo.
+7/17/25 12:06:51p (Aurelie): Escaping Metzetli
+7/17/25 12:06:52p * Healing Vylarian 
+7/17/25 12:06:53p Aurelie says, "There we go"
+7/17/25 12:06:53p You equip your asklepian staff.
+7/17/25 12:06:54p You must equip your moonstone before it can be used.
+7/17/25 12:06:54p •Vylarian’s injuries are significantly more serious than you can heal.
+7/17/25 12:07:00p •Vylarian’s injuries are significantly more serious than you can heal.
+7/17/25 12:07:07p •You don't quite have the training to heal Vylarian’s injuries.
+7/17/25 12:07:14p •You don't quite have the training to heal Vylarian’s injuries.
+7/17/25 12:07:18p •Vylarian’s injuries were grave.
+7/17/25 12:07:18p Aurelie pours a potion down Vylarian's throat.
+7/17/25 12:07:21p •You learn from healing.
+7/17/25 12:07:21p Vylarian is no longer fallen.
+7/17/25 12:07:23p Asklepios says, "nooo"
+7/17/25 12:07:29p Aurelie exclaims, "More pack space!"
+7/17/25 12:07:30p Asklepios says, "1K horus here"
+7/17/25 12:07:30p Unholy says, "•You learn from healing."
+7/17/25 12:07:34p Unholy says, "hehe"
+7/17/25 12:07:37p * Healing Vylarian 
+7/17/25 12:07:38p Aurelie says, "Also you were both sleepin'."
+7/17/25 12:07:41p * Healing Purrfect 
+7/17/25 12:07:44p •The healing spell has been broken.
+7/17/25 12:07:48p * Healing Vylarian 
+7/17/25 12:07:49p Vylarian has fallen to a Yorilla.
+7/17/25 12:07:49p •Vylarian’s injuries are significantly more serious than you can heal.
+7/17/25 12:07:51p * Healing Vylarian 
+7/17/25 12:07:52p •The healing spell has been broken.
+7/17/25 12:07:53p * Healing Vylarian 
+7/17/25 12:07:53p •Vylarian’s wounds were severe.
+7/17/25 12:07:53p * You recover the Vile Cricket mandibles, worth 1c.
+7/17/25 12:07:54p * Healing Asklepios 
+7/17/25 12:07:55p * Healing Vylarian 
+7/17/25 12:07:59p •The healing spell has been broken.
+7/17/25 12:08:00p •The healing spell has been broken.
+7/17/25 12:08:01p * Healing Purrfect 
+7/17/25 12:08:02p Purrfect has fallen to a Flying Foxweir.
+7/17/25 12:08:04p Purrfect is no longer fallen.
+7/17/25 12:08:04p •The healing spell has been broken.
+7/17/25 12:08:04p •You don't quite have the training to heal Purrfect’s injuries.
+7/17/25 12:08:10p Vylarian is no longer fallen.
+7/17/25 12:08:17p Fortuna has fallen to a Flying Foxweir.
+7/17/25 12:08:18p Vylarian has fallen to a Haremau Kitten.
+7/17/25 12:08:19p •You don't quite have the training to heal Purrfect’s injuries.
+7/17/25 12:08:20p You are still fatigued from the effort of your last push.
+7/17/25 12:08:21p * Healing Unholy 
+7/17/25 12:08:21p •You cannot use your asklepian staff on yourself.
+7/17/25 12:08:21p You equip your moonstone.
+7/17/25 12:08:25p Vylarian ponders, "that was dumb"
+7/17/25 12:08:26p •You don't quite have the training to heal Purrfect’s injuries.
+7/17/25 12:08:26p Fortuna is no longer fallen.
+7/17/25 12:08:28p Purrfect is too far away for you to reach.
+7/17/25 12:08:28p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+7/17/25 12:08:28p •You sense healing energy from Asklepios.
+7/17/25 12:08:28p You cannot possibly use anything in your current condition.
+7/17/25 12:08:28p •Your injuries are serious.
+7/17/25 12:08:28p Unholy has fallen to a Flying Foxweir.
+7/17/25 12:08:29p You cannot possibly use anything in your current condition.
+7/17/25 12:08:30p You cannot possibly use anything in your current condition.
+7/17/25 12:08:30p You slip your moonstone into your backpack.
+7/17/25 12:08:31p You cannot possibly use anything in your current condition.
+7/17/25 12:08:31p You cannot possibly use anything in your current condition.
+7/17/25 12:08:32p You cannot possibly use anything in your current condition.
+7/17/25 12:08:32p Your moonstone is already unequipped.
+7/17/25 12:08:32p Your moonstone is already unequipped.
+7/17/25 12:08:33p Your moonstone is already unequipped.
+7/17/25 12:08:33p Your moonstone is already unequipped.
+7/17/25 12:08:33p A Scavenger Bird chews on Vylarian's wounds.
+7/17/25 12:08:34p Your moonstone is already unequipped.
+7/17/25 12:08:34p Your moonstone is already unequipped.
+7/17/25 12:08:34p You have 2452 coins.
+7/17/25 12:08:35p Ace is no longer Clanning.
+7/17/25 12:08:38p Ace is now Clanning.
+7/17/25 12:08:39p Hashak is now Clanning.
+7/17/25 12:08:45p Ace is no longer Clanning.
+7/17/25 12:08:46p Purrfect is no longer fallen.
+7/17/25 12:08:47p Yarim is now Clanning.
+7/17/25 12:08:57p Fortuna thinks, "fledglings at metz cove"
+7/17/25 12:09:10p Aurelie exclaims, "Squawk!"
+7/17/25 12:09:10p Hashak thinks, "row row row my boat"
+7/17/25 12:09:17p •You sense healing energy from Aurelie.
+7/17/25 12:09:22p You equip your asklepian staff.
+7/17/25 12:09:22p * Healing Unholy 
+7/17/25 12:09:23p •You cannot use your asklepian staff on yourself.
+7/17/25 12:09:23p You equip your moonstone.
+7/17/25 12:09:27p Vylarian is no longer fallen.
+7/17/25 12:09:27p You equip your asklepian staff.
+7/17/25 12:09:28p •The healing spell has been broken.
+7/17/25 12:09:28p You must equip your moonstone before it can be used.
+7/17/25 12:09:29p • You begin radius healing.
+7/17/25 12:09:37p Aurelie exclaims, "Second-circle radius healing!"
+7/17/25 12:09:39p (Fortuna smiles)
+7/17/25 12:09:42p Aurelie says, "wum wum wum wum"
+7/17/25 12:09:45p (Asklepios laughs)
+7/17/25 12:09:53p •You sense healing energy from Asklepios.
+7/17/25 12:10:02p Yarim says, "Hello"
+7/17/25 12:10:04p • There is nobody nearby enough to continue radius healing.
+7/17/25 12:10:06p Hashak yells, "I like the beast!"
+7/17/25 12:10:10p Unholy says, "hi"
+7/17/25 12:10:11p Yarim says, "oh"
+7/17/25 12:10:12p Unholy yells, "!"
+7/17/25 12:10:15p Fortuna yells, "here"
+7/17/25 12:10:16p Yarim says, "the horus woke up hehe"
+7/17/25 12:10:16p Purrfect yells, "hi"
+7/17/25 12:10:19p Hashak says, "I crashed me boat"
+7/17/25 12:10:19p Aurelie says, "Speaking of the beast."
+7/17/25 12:10:23p • You hear Aurelie's music...
+7/17/25 12:10:23p Aurelie starts playing her bagpipe.
+7/17/25 12:10:29p Yarim asks, "Do you guys want heals or some more pew pew?"
+7/17/25 12:10:34p Vylarian says, "now we have healerage"
+7/17/25 12:10:43p Fortuna says, "honestly heals are nice to have"
+7/17/25 12:10:44p Aurelie says, "I'm not a healer. I'm a bard"
+7/17/25 12:10:55p Hashak says, "I woulda been here sooner, but step dog decided to pee on the doormat"
+7/17/25 12:10:58p Fortuna says, "unless you prefer to fight, you pick your vibe"
+7/17/25 12:11:01p Vylarian says, "you do music therapy"
+7/17/25 12:11:07p Fortuna says, "ok let's fight the things"
+7/17/25 12:11:13p * Healing Vylarian 
+7/17/25 12:11:18p •You do not have enough spiritual energy.
+7/17/25 12:11:20p Vylarian has fallen to a Haremau Kitten.
+7/17/25 12:11:22p * Healing Vylarian 
+7/17/25 12:11:23p •Vylarian’s injuries are a little more serious than you can heal.
+7/17/25 12:11:24p * Healing Fortuna 
+7/17/25 12:11:28p You have 2452 coins.
+7/17/25 12:11:31p * Healing Unholy 
+7/17/25 12:11:31p •You cannot use your asklepian staff on yourself.
+7/17/25 12:11:32p You equip your moonstone.
+7/17/25 12:11:35p * Healing Unholy 
+7/17/25 12:11:35p You equip your asklepian staff.
+7/17/25 12:11:35p Purrfect has fallen to a Haremau Kitten.
+7/17/25 12:11:36p •You cannot use your asklepian staff on yourself.
+7/17/25 12:11:36p You must equip your moonstone before it can be used.
+7/17/25 12:11:36p You equip your moonstone.
+7/17/25 12:11:38p * Healing Purrfect 
+7/17/25 12:11:38p You equip your asklepian staff.
+7/17/25 12:11:39p You must equip your moonstone before it can be used.
+7/17/25 12:11:39p •Purrfect was too wounded to be healed easily.
+7/17/25 12:11:41p Purrfect is no longer fallen.
+7/17/25 12:11:43p Vylarian is no longer fallen.
+7/17/25 12:11:48p •The healing spell has been broken.
+7/17/25 12:11:49p •The healing spell has been broken.
+7/17/25 12:11:50p * Healing Unholy 
+7/17/25 12:11:50p •You cannot use your asklepian staff on yourself.
+7/17/25 12:11:50p You equip your moonstone.
+7/17/25 12:11:56p * Fortuna recovers the Haremau Kitten fur, worth 5c. Your share is 1c.
+7/17/25 12:11:57p * Healing Hashak 
+7/17/25 12:11:58p You equip your asklepian staff.
+7/17/25 12:11:58p You must equip your moonstone before it can be used.
+7/17/25 12:12:00p •You sense healing energy from Asklepios.
+7/17/25 12:12:01p * Healing Vylarian 
+7/17/25 12:12:02p * Healing Vylarian 
+7/17/25 12:12:03p Hashak is sharing experiences with you.
+7/17/25 12:12:08p * Healing Fortuna 
+7/17/25 12:12:15p * Healing Vylarian 
+7/17/25 12:12:23p Fortuna says, "anyone doubling that doesn't want to can feel free to drop one"
+7/17/25 12:12:24p You are no longer sharing experiences with Vylarian.
+7/17/25 12:12:24p You are sharing experiences with Purrfect, Fortuna, Asklepios and Aurelie.
+7/17/25 12:12:25p Hashak says, "wew hot in that cloak"
+7/17/25 12:12:30p Fortuna says, "it's time to roam"
+7/17/25 12:12:30p You begin sharing your experiences with Hashak.
+7/17/25 12:12:30p You are sharing experiences with Hashak, Purrfect, Fortuna, Asklepios and Aurelie.
+7/17/25 12:12:42p Fortuna yells, "For the Fledgling!"
+7/17/25 12:12:56p * Healing Hashak 
+7/17/25 12:12:57p * Healing Vylarian 
+7/17/25 12:13:05p * You recover the Large Vermine fur, worth 2c.
+7/17/25 12:13:07p •You sense healing energy from Hashak.
+7/17/25 12:13:09p * Fortuna recovers the Haremau Kitten fur, worth 19c. Your share is 3c.
+7/17/25 12:13:13p * Healing Fortuna 
+7/17/25 12:13:19p * Purrfect recovers the Flying Foxweir fur, worth 6c. Your share is 1c.
+7/17/25 12:13:21p * Healing Giben 
+7/17/25 12:13:23p •You sense healing energy from Hashak.
+7/17/25 12:13:27p * Healing Hashak 
+7/17/25 12:13:34p •The healing spell has been broken.
+7/17/25 12:13:41p •The healing spell has been broken.
+7/17/25 12:13:43p Fortuna yells, "For the Fledgling!"
+7/17/25 12:14:00p Aurelie asks, "Should I try asking one more time?"
+7/17/25 12:14:04p Fortuna asks, "asking what?"
+7/17/25 12:14:07p (Aurelie giggles.)
+7/17/25 12:14:13p Giben says, "big yor"
+7/17/25 12:14:13p Aurelie asks, "Purrfect! How goes the bloodmagery?"
+7/17/25 12:14:14p Purrfect says, "oops"
+7/17/25 12:14:14p * Healing Fortuna 
+7/17/25 12:14:25p Purrfect says, "progressing slowly"
+7/17/25 12:14:26p * Healing Vylarian 
+7/17/25 12:14:27p You have 2457 coins.
+7/17/25 12:14:34p * Healing Giben 
+7/17/25 12:14:35p * Purrfect recovers the Madzume Yorilla fur, worth 25c. Your share is 3c.
+7/17/25 12:14:43p •You sense healing energy from Hashak.
+7/17/25 12:14:46p Aurelie asks, "Whatcha trainin'?"
+7/17/25 12:14:47p Fortuna exclaims, "wes!"
+7/17/25 12:14:47p * Healing Yarim 
+7/17/25 12:14:48p * Healing Vylarian 
+7/17/25 12:14:51p Hashak yells, "Let's get AWESOME!"
+7/17/25 12:14:58p Fortuna yells, "For the Fledgling!"
+7/17/25 12:14:59p * Yarim recovers the Vile Cricket mandibles, worth 1c. Your share is 1c.
+7/17/25 12:15:09p * Healing Giben 
+7/17/25 12:15:09p Fortuna yells, "For honor and glory!"
+7/17/25 12:15:09p * Healing Vylarian 
+7/17/25 12:15:13p •You sense healing energy from Hashak.
+7/17/25 12:15:14p * Healing Yarim 
+7/17/25 12:15:17p * Healing Vylarian 
+7/17/25 12:15:21p Fortuna yells, "?"
+7/17/25 12:15:22p •The healing spell has been broken.
+7/17/25 12:15:22p * Healing Yarim 
+7/17/25 12:15:29p * Healing Vylarian 
+7/17/25 12:15:35p Vylarian has fallen to a Haremau Kitten.
+7/17/25 12:15:35p * Fortuna recovers the Haremau Kitten fur, worth 5c. Your share is 1c.
+7/17/25 12:15:35p •You don't quite have the training to heal Vylarian’s injuries.
+7/17/25 12:15:35p •Vylarian’s injuries were serious.
+7/17/25 12:15:37p •The healing spell has been broken.
+7/17/25 12:15:38p * Healing Yarim 
+7/17/25 12:15:40p Vylarian is no longer fallen.
+7/17/25 12:15:40p Purrfect has fallen to a Haremau Kitten.
+7/17/25 12:15:42p * Healing Purrfect 
+7/17/25 12:15:42p •You don't quite have the training to heal Purrfect’s injuries.
+7/17/25 12:15:44p * Healing Unholy 
+7/17/25 12:15:44p •You cannot use your asklepian staff on yourself.
+7/17/25 12:15:44p You equip your moonstone.
+7/17/25 12:15:44p •The healing spell has been broken.
+7/17/25 12:15:45p * Healing Vylarian 
+7/17/25 12:15:45p You equip your asklepian staff.
+7/17/25 12:15:46p You must equip your moonstone before it can be used.
+7/17/25 12:15:49p * Healing Hashak 
+7/17/25 12:15:51p Hashak has fallen to an Utsanna Haremau.
+7/17/25 12:15:51p •Hashak’s injuries are a little more serious than you can heal.
+7/17/25 12:15:51p Fortuna growls, "geeze busy day"
+7/17/25 12:15:55p Vylarian has fallen to a Haremau Kitten.
+7/17/25 12:15:58p •Hashak’s injuries are a little more serious than you can heal.
+7/17/25 12:15:58p * Healing Fortuna 
+7/17/25 12:16:02p •You do not have enough spiritual energy.
+7/17/25 12:16:05p * Healing Fortuna 
+7/17/25 12:16:06p Kwan'Yin thinks, "Thanks all NNK!"
+7/17/25 12:16:07p Mehan thinks, "Thanks all!"
+7/17/25 12:16:08p Asklepios has fallen to a Giant Carnivorous Plankton.
+7/17/25 12:16:08p TreeBeard thinks, "thanks all!!!"
+7/17/25 12:16:09p * Healing Aurelie 
+7/17/25 12:16:10p Fortuna yells, "east"
+7/17/25 12:16:10p A Common Vulture chews on Hashak's fingertips.
+7/17/25 12:16:12p Katreesa thinks, "thanks NNK and friends <3"
+7/17/25 12:16:13p Whirl wind thinks, "Thanks all!"
+7/17/25 12:16:19p •You do not have enough spiritual energy.
+7/17/25 12:16:21p Suu'ub III thinks, "Thanks all! NNK!"
+7/17/25 12:16:27p * Healing Unholy 
+7/17/25 12:16:27p •You cannot use your asklepian staff on yourself.
+7/17/25 12:16:27p You equip your moonstone.
+7/17/25 12:16:51p HarborSloth is now Clanning.
+7/17/25 12:16:58p * Healing Fortuna 
+7/17/25 12:16:58p Fortuna yells, "come back"
+7/17/25 12:16:58p You equip your asklepian staff.
+7/17/25 12:16:59p You must equip your moonstone before it can be used.
+7/17/25 12:17:00p * Healing Fortuna 
+7/17/25 12:17:01p Aurelie says, "I can hold that long enough for you to kill it, Fort"
+7/17/25 12:17:05p Mehan is no longer Clanning.
+7/17/25 12:17:06p Fortuna thinks, "yarim come back"
+7/17/25 12:17:13p Purrfect is no longer fallen.
+7/17/25 12:17:13p Asklepios says, "gcp death"
+7/17/25 12:17:15p Vylarian is no longer fallen.
+7/17/25 12:17:15p * Healing Asklepios 
+7/17/25 12:17:16p Fortuna says, "yep"
+7/17/25 12:17:16p •Asklepios was too wounded to be healed easily.
+7/17/25 12:17:17p Asklepios is no longer fallen.
+7/17/25 12:17:19p HarborSloth is no longer Clanning.
+7/17/25 12:17:19p Fortuna says, "crazy here today"
+7/17/25 12:17:23p •You sense healing energy from Asklepios.
+7/17/25 12:17:28p * Healing Fortuna 
+7/17/25 12:17:29p Whirl wind is no longer Clanning.
+7/17/25 12:17:29p You have 2462 coins.
+7/17/25 12:17:31p * Healing Asklepios 
+7/17/25 12:17:33p * Healing Giben 
+7/17/25 12:17:39p * Healing Hashak 
+7/17/25 12:17:40p •Hashak’s injuries were grave.
+7/17/25 12:17:41p Gustave is no longer Clanning.
+7/17/25 12:17:41p Yarim says, "I was comitted"
+7/17/25 12:17:42p Hashak is no longer fallen.
+7/17/25 12:17:44p (Fortuna smiles)
+7/17/25 12:17:44p Purrfect has fallen to a Giant Carnivorous Plankton.
+7/17/25 12:17:50p Fortuna asks, "where is purr?"
+7/17/25 12:17:50p Yarim says, "uuhas"
+7/17/25 12:17:55p Yarim says, "he just died"
+7/17/25 12:17:57p Vylarian has fallen to a Giant Carnivorous Plankton.
+7/17/25 12:18:02p Yarim says, "I raised them both in w metz"
+7/17/25 12:18:06p Yarim says, "but they died outside on ocean"
+7/17/25 12:18:08p Asklepios says, "outide 2 fallen"
+7/17/25 12:18:22p Fortuna thinks, "regroup in cove :)"
+7/17/25 12:18:35p Vylarian is no longer fallen.
+7/17/25 12:18:38p Blaque Smith is now Clanning.
+7/17/25 12:18:40p * Healing Purrfect 
+7/17/25 12:18:40p Purrfect is no longer fallen.
+7/17/25 12:18:45p Vylarian ponders, "how did i end up out there"
+7/17/25 12:18:48p Vylarian ponders, "how did i end up out there?"
+7/17/25 12:18:50p Unholy says, "did someone turn the spawn rate up to 11"
+7/17/25 12:18:55p Fortuna says, "hah"
+7/17/25 12:19:00p •The healing spell has been broken.
+7/17/25 12:19:02p Fortuna says, "seems like it"
+7/17/25 12:19:09p Articuno is no longer Clanning.
+7/17/25 12:19:14p * Healing Vylarian 
+7/17/25 12:19:18p Dr Gonzo is no longer Clanning.
+7/17/25 12:19:27p Sullin is no longer Clanning.
+7/17/25 12:19:30p Blaque Smith is no longer Clanning.
+7/17/25 12:19:33p Farmer Gronmad is now Clanning.
+7/17/25 12:19:33p * Healing Aurelie 
+7/17/25 12:19:34p * Healing Hashak 
+7/17/25 12:19:34p Kwan'Yin is no longer Clanning.
+7/17/25 12:19:37p Fortuna yells, "going west"
+7/17/25 12:19:41p •The healing spell has been broken.
+7/17/25 12:19:49p Mahapajapati is no longer Clanning.
+7/17/25 12:19:50p * Healing Vylarian 
+7/17/25 12:19:53p * Healing Vylarian 
+7/17/25 12:19:55p * Healing Giben 
+7/17/25 12:19:57p * Healing Aurelie 
+7/17/25 12:20:02p * Healing Giben 
+7/17/25 12:20:07p * Healing Vylarian 
+7/17/25 12:20:08p * Healing Giben 
+7/17/25 12:20:09p Vylarian says, "tagged"
+7/17/25 12:20:13p Fortuna growls, "brb stuffing this"
+7/17/25 12:20:18p Unholy says, "hehe"
+7/17/25 12:20:20p Gorvin is no longer Clanning.
+7/17/25 12:20:22p Yarim says, "cobras"
+7/17/25 12:20:27p You have 2462 coins.
+7/17/25 12:20:28p •The player must be in the same area.
+7/17/25 12:20:35p Yarim thinks, "did I miss the kitty"
+7/17/25 12:20:44p * Healing Vylarian 
+7/17/25 12:20:44p Vylarian has fallen to a Forest Cobra.
+7/17/25 12:20:44p •Vylarian’s injuries were serious.
+7/17/25 12:20:49p Vylarian is no longer fallen.
+7/17/25 12:20:55p •You do not have enough spiritual energy.
+7/17/25 12:20:59p * Healing Vylarian 
+7/17/25 12:21:01p * Healing Giben 
+7/17/25 12:21:01p •You sense healing energy from Aurelie.
+7/17/25 12:21:03p •You do not have enough spiritual energy.
+7/17/25 12:21:04p * Healing Unholy 
+7/17/25 12:21:04p •You cannot use your asklepian staff on yourself.
+7/17/25 12:21:05p You equip your moonstone.
+7/17/25 12:21:06p * Healing Aurelie 
+7/17/25 12:21:06p You equip your asklepian staff.
+7/17/25 12:21:07p You must equip your moonstone before it can be used.
+7/17/25 12:21:10p Cecil is no longer Clanning.
+7/17/25 12:21:15p Phroon is no longer Clanning.
+7/17/25 12:21:15p • You begin radius healing.
+7/17/25 12:21:21p Farmer Gronmad is no longer Clanning.
+7/17/25 12:21:21p * Healing Hashak 
+7/17/25 12:21:25p Giben says, "Fort went to get the big kitty stuffed for a trophy. :)"
+7/17/25 12:21:30p Hashak says, "nice"
+7/17/25 12:21:38p Hashak asks, "Fledgling clubhouse?"
+7/17/25 12:21:44p Giben says, "yep"
+7/17/25 12:21:46p Aurelie exclaims, "The clan house!"
+7/17/25 12:21:46p Vylarian yells, "i am cured of poison"
+7/17/25 12:21:50p Yarim asks, "y'all are hiring?"
+7/17/25 12:21:52p * Healing Vylarian 
+7/17/25 12:21:58p Yarim says, "dedicated chainer without horus"
+7/17/25 12:21:58p Hashak ponders, "we need an LA clubhouse"
+7/17/25 12:22:05p Aurelie exclaims, "Ask Fortuna!"
+7/17/25 12:22:10p Aurelie exclaims, "I think she'd probably say yes!"
+7/17/25 12:22:22p Vylarian says, "we're always "hiring""
+7/17/25 12:22:28p Giben says, "we can always use more healers in our clan"
+7/17/25 12:22:43p Aurelie exclaims, "I'm not even a healer!"
+7/17/25 12:22:49p Giben says, "esp since Aure is only 2nd circle. :)"
+7/17/25 12:22:50p Vylarian says, ""clan" is euphamism"
+7/17/25 12:22:56p Aurelie exclaims, "Yup!"
+7/17/25 12:22:59p Aurelie exclaims, "Only second circle!"
+7/17/25 12:23:01p Galadriel is no longer Clanning.
+7/17/25 12:23:05p Eirian Caldwell is no longer Clanning.
+7/17/25 12:23:11p Fortuna thinks, "where'd you all go"
+7/17/25 12:23:14p Vylarian ponders, "we go "hunting""
+7/17/25 12:23:18p Yarim thinks, "cove"
+7/17/25 12:23:25p You have 2462 coins.
+7/17/25 12:23:28p * Healing Unholy 
+7/17/25 12:23:28p •You cannot use your asklepian staff on yourself.
+7/17/25 12:23:28p You equip your moonstone.
+7/17/25 12:23:29p •You sense healing energy from Asklepios.
+7/17/25 12:23:33p You equip your asklepian staff.
+7/17/25 12:23:33p •The healing spell has been broken.
+7/17/25 12:23:33p You must equip your moonstone before it can be used.
+7/17/25 12:23:35p * Healing Hashak 
+7/17/25 12:23:40p Omega is now Clanning.
+7/17/25 12:23:45p •The healing spell has been broken.
+7/17/25 12:23:57p Fortuna yells, "For the Fledgling!"
+7/17/25 12:24:03p * Healing Vylarian 
+7/17/25 12:24:06p * Healing Vylarian 
+7/17/25 12:24:08p * Healing Aurelie 
+7/17/25 12:24:13p •The healing spell has been broken.
+7/17/25 12:24:14p * Healing Fortuna 
+7/17/25 12:24:18p •The healing spell has been broken.
+7/17/25 12:24:20p * Purrfect recovers the Haremau Kitten fur, worth 8c. Your share is 1c.
+7/17/25 12:24:23p Vylarian thinks, "Join our "clan" and go on "hunts""
+7/17/25 12:24:34p Fortuna thinks, "it's "fun"!"
+7/17/25 12:24:43p •The healing spell has been broken.
+7/17/25 12:24:43p * Healing Fortuna 
+7/17/25 12:24:48p * Vylarian recovers the Haremau Kitten fur, worth 14c. Your share is 2c.
+7/17/25 12:24:54p Fortuna yells, "To the death!"
+7/17/25 12:24:55p * Healing Vylarian 
+7/17/25 12:25:17p * Healing Vylarian 
+7/17/25 12:25:20p Farmer Gronmad is now Clanning.
+7/17/25 12:25:23p •You sense healing energy from Aurelie.
+7/17/25 12:25:23p Purrfect says, "brb"
+7/17/25 12:25:31p * Healing Purrfect 
+7/17/25 12:25:32p Purrfect says, "bs"
+7/17/25 12:25:36p Aurelie exclaims, "Purr!"
+7/17/25 12:25:39p * Purrfect recovers the Rudremau fur, worth 11c. Your share is 1c.
+7/17/25 12:25:40p * Healing Fortuna 
+7/17/25 12:25:41p Purrfect has fallen to a Haremau Kitten.
+7/17/25 12:25:43p •The healing spell has been broken.
+7/17/25 12:25:45p * Healing Purrfect 
+7/17/25 12:25:45p •Purrfect was too wounded to be healed easily.
+7/17/25 12:25:46p •You sense healing energy from Hashak.
+7/17/25 12:25:48p Aurelie says, "Ohh, you meant...yeah"
+7/17/25 12:25:50p Purrfect is no longer fallen.
+7/17/25 12:25:51p Vylarian has fallen to a Haremau Kitten.
+7/17/25 12:25:54p Aurelie says, "I thought you were just purrin' at me"
+7/17/25 12:25:54p * Healing Vylarian 
+7/17/25 12:25:55p * You recover the Smoky Bog Amedon blood, worth 8c. Your share is 1c.
+7/17/25 12:25:57p Fortuna growls, "hehe"
+7/17/25 12:25:58p Vylarian is no longer fallen.
+7/17/25 12:26:01p • You begin radius healing.
+7/17/25 12:26:01p * Purrfect recovers the Haremau Kitten fur, worth 17c. Your share is 2c.
+7/17/25 12:26:02p (Fortuna): bzzzzt
+7/17/25 12:26:04p * Hashak recovers the Smoky Bog Amedon blood, worth 24c. Your share is 3c.
+7/17/25 12:26:15p Yarim says, "I should get some radium"
+7/17/25 12:26:23p You have 2472 coins.
+7/17/25 12:26:25p Yarim says, "lazy-um"
+7/17/25 12:26:26p Unholy says, "i mean i have 0"
+7/17/25 12:26:28p Vylarian says, "Yarim was making inquiries about joining our "clan""
+7/17/25 12:26:34p * Healing Aurelie 
+7/17/25 12:26:35p Yarim says, "no no"
+7/17/25 12:26:39p Yarim says, "I asked if y'all are hiring"
+7/17/25 12:26:42p Hashak says, "I also have 0"
+7/17/25 12:26:42p Aurelie exclaims, "I don't even have access to Radia 'cause I'm only second circle!"
+7/17/25 12:26:53p Fortuna says, "we need so much healing"
+7/17/25 12:26:55p •The healing spell has been broken.
+7/17/25 12:26:57p Vylarian says, "we're "always" hiring"
+7/17/25 12:26:59p * Healing Fortuna 
+7/17/25 12:27:00p * Healing Fortuna 
+7/17/25 12:27:05p * Healing Purrfect 
+7/17/25 12:27:10p * Healing Fortuna 
+7/17/25 12:27:12p * Yarim recovers the Burning Reed Amedon blood, worth 13c. Your share is 2c.
+7/17/25 12:27:12p * Healing Fortuna 
+7/17/25 12:27:14p * Healing Vylarian 
+7/17/25 12:27:16p Fortuna yells, "For the King!"
+7/17/25 12:27:25p * Healing Vylarian 
+7/17/25 12:27:26p Giben yells, "For the Fledgelings!"
+7/17/25 12:27:26p * Healing Vylarian 
+7/17/25 12:27:30p Vylarian yells, "to gloams"
+7/17/25 12:27:34p * Healing Vylarian 
+7/17/25 12:27:37p Farmer Gronmad is no longer Clanning.
+7/17/25 12:27:40p * Healing Giben 
+7/17/25 12:27:43p * Healing Vylarian 
+7/17/25 12:27:57p Suu'ub III is no longer Clanning.
+7/17/25 12:27:57p * Healing Fortuna 
+7/17/25 12:27:58p Fortuna growls, "west!"
+7/17/25 12:28:05p Shard is no longer Clanning.
+7/17/25 12:28:07p * Healing Fortuna 
+7/17/25 12:28:07p * Fortuna recovers the Valley Panther fur, worth 15c. Your share is 2c.
+7/17/25 12:28:11p Yarim says, "right"
+7/17/25 12:28:13p Yarim yells, "I gotta bounce"
+7/17/25 12:28:15p * Healing Vylarian 
+7/17/25 12:28:17p Fortuna growls, "byee"
+7/17/25 12:28:18p Yarim says, "thanks y'all"
+7/17/25 12:28:21p Yarim attempts to project into another plane.
+7/17/25 12:28:22p * Healing Fortuna 
+7/17/25 12:28:26p •You do not have enough spiritual energy.
+7/17/25 12:28:28p * Healing Fortuna 
+7/17/25 12:28:30p •The healing spell has been broken.
+7/17/25 12:28:31p * Healing Vylarian 
+7/17/25 12:28:39p •The healing spell has been broken.
+7/17/25 12:28:39p * Healing Vylarian 
+7/17/25 12:28:40p * Healing Hashak 
+7/17/25 12:28:42p * Purrfect recovers the Haremau Kitten fur, worth 15c. Your share is 2c.
+7/17/25 12:28:44p * Purrfect recovers the Burning Reed Amedon blood, worth 11c. Your share is 1c.
+7/17/25 12:28:45p * Healing Vylarian 
+7/17/25 12:28:48p * Healing Fortuna 
+7/17/25 12:28:52p Vylarian says, "he got scared of our "clan""
+7/17/25 12:29:03p •You sense healing energy from Hashak.
+7/17/25 12:29:04p * Healing Unholy 
+7/17/25 12:29:04p •You cannot use your asklepian staff on yourself.
+7/17/25 12:29:04p Fortuna growls, "it's a great clan!"
+7/17/25 12:29:05p You equip your moonstone.
+7/17/25 12:29:07p * Purrfect recovers the Haremau Kitten fur, worth 14c. Your share is 2c.
+7/17/25 12:29:07p * Healing Hashak 
+7/17/25 12:29:08p You equip your asklepian staff.
+7/17/25 12:29:08p You must equip your moonstone before it can be used.
+7/17/25 12:29:08p * Healing Purrfect 
+7/17/25 12:29:09p Yarim is no longer Clanning.
+7/17/25 12:29:09p * Healing Vylarian 
+7/17/25 12:29:10p Vylarian says, "it is"
+7/17/25 12:29:19p * Healing Vylarian 
+7/17/25 12:29:20p You have 2481 coins.
+7/17/25 12:29:27p * You recover the Vile Cricket mandibles, worth 1c.
+7/17/25 12:29:30p * Healing Vylarian 
+7/17/25 12:29:32p * Aurelie recovers the Vile Cricket mandibles, worth 2c. Your share is 1c.
+7/17/25 12:29:42p * Healing Vylarian 
+7/17/25 12:29:46p Vylarian has fallen to a Haremau Kitten.
+7/17/25 12:29:46p •Vylarian was too wounded to be healed easily.
+7/17/25 12:29:47p Purrfect has fallen to a Haremau Kitten.
+7/17/25 12:29:49p •Vylarian was too wounded to be healed easily.
+7/17/25 12:29:49p Vylarian has fallen to a Bolok Cougar.
+7/17/25 12:29:50p •The healing spell has been broken.
+7/17/25 12:29:50p Vylarian is no longer fallen.
+7/17/25 12:29:51p Vylarian has fallen to a Bolok Cougar.
+7/17/25 12:29:52p •The healing spell has been broken.
+7/17/25 12:29:53p * Healing Giben 
+7/17/25 12:29:57p * Hashak recovers the Island Mantis mandibles, worth 4c. Your share is 1c.
+7/17/25 12:29:59p * Fortuna recovers the Bolok Cougar fur, worth 6c. Your share is 1c.
+7/17/25 12:30:02p •You sense healing energy from Aurelie.
+7/17/25 12:30:03p •You don't quite have the training to heal Vylarian’s injuries.
+7/17/25 12:30:07p * Healing Fortuna 
+7/17/25 12:30:09p •You do not have enough spiritual energy.
+7/17/25 12:30:09p * Fortuna recovers the Haremau Kitten fur, worth 9c. Your share is 2c.
+7/17/25 12:30:12p * Healing Purrfect 
+7/17/25 12:30:13p Purrfect is no longer fallen.
+7/17/25 12:30:13p Pun'isher is now Clanning.
+7/17/25 12:30:16p * Healing Vylarian 
+7/17/25 12:30:16p •Vylarian’s injuries were serious.
+7/17/25 12:30:16p •You don't quite have the training to heal Vylarian’s injuries.
+7/17/25 12:30:17p •Vylarian’s injuries were serious.
+7/17/25 12:30:21p Vylarian is no longer fallen.
+7/17/25 12:30:23p * Fortuna recovers the Haremau Kitten fur, worth 7c. Your share is 1c.
+7/17/25 12:30:23p • You begin radius healing.
+7/17/25 12:30:31p •You sense healing energy from Hashak.
+7/17/25 12:30:31p * Fortuna recovers the Bolok Cougar fur, worth 7c. Your share is 2c.
+7/17/25 12:30:33p * Vylarian recovers the Haremau Kitten fur, worth 2c. Your share is 1c.
+7/17/25 12:30:34p * Fortuna recovers the Haremau Kitten fur, worth 11c. Your share is 3c.
+7/17/25 12:30:34p * Healing Fortuna 
+7/17/25 12:30:36p * Healing Purrfect 
+7/17/25 12:30:37p Katreesa thinks, "who is hunting that I may join?"
+7/17/25 12:30:38p •The healing spell has been broken.
+7/17/25 12:30:39p •The healing spell has been broken.
+7/17/25 12:30:40p * Healing Vylarian 
+7/17/25 12:30:44p Vylarian has fallen to a Haremau Kitten.
+7/17/25 12:30:44p •Vylarian was too wounded to be healed easily.
+7/17/25 12:30:45p * Healing Vylarian 
+7/17/25 12:30:46p * You recover the Haremau Kitten fur, worth 2c.
+7/17/25 12:30:48p Vylarian is no longer fallen.
+7/17/25 12:30:53p • You begin radius healing.
+7/17/25 12:30:53p Fortuna growls, "what if there were 1000 crickets and 200 cats"
+7/17/25 12:30:55p Vylarian says, "big kitten spawn"
+7/17/25 12:30:58p Hashak asks, "I'll swap for Kat and bring Bash?"
+7/17/25 12:30:59p * Healing Unholy 
+7/17/25 12:30:59p •You cannot use your asklepian staff on yourself.
+7/17/25 12:30:59p You equip your moonstone.
+7/17/25 12:30:59p • You stop radius healing.
+7/17/25 12:31:02p You equip your asklepian staff.
+7/17/25 12:31:02p You must equip your moonstone before it can be used.
+7/17/25 12:31:03p •The healing spell has been broken.
+7/17/25 12:31:03p • You begin radius healing.
+7/17/25 12:31:05p Fortuna growls, "up to you, 30min left"
+7/17/25 12:31:07p * Healing Fortuna 
+7/17/25 12:31:10p * Healing Giben 
+7/17/25 12:31:12p Fortuna thinks, "fledglings on metz"
+7/17/25 12:31:14p Hashak thinks, "fledlings on metx"
+7/17/25 12:31:16p Hashak exclaims, "See ya!"
+7/17/25 12:31:17p Hashak attempts to project into another plane.
+7/17/25 12:31:21p * Healing Fortuna 
+7/17/25 12:31:23p Katreesa thinks, "brt metz"
+7/17/25 12:31:27p * Healing Unholy 
+7/17/25 12:31:27p •You cannot use your asklepian staff on yourself.
+7/17/25 12:31:28p You equip your moonstone.
+7/17/25 12:31:31p You equip your asklepian staff.
+7/17/25 12:31:31p You must equip your moonstone before it can be used.
+7/17/25 12:31:31p •The healing spell has been broken.
+7/17/25 12:31:44p Vylarian thinks, "2w 1n 2w (i think)"
+7/17/25 12:31:45p Hashak is no longer Clanning.
+7/17/25 12:31:47p Bashak is now Clanning.
+7/17/25 12:31:50p Katreesa thinks, "and thanks"
+7/17/25 12:32:00p Vylarian thinks, "going further w"
+7/17/25 12:32:02p * Healing Aurelie 
+7/17/25 12:32:06p Ephraim is now Clanning.
+7/17/25 12:32:07p Kyoko is now Clanning.
+7/17/25 12:32:08p Daedralia is now Clanning.
+7/17/25 12:32:08p Kazah is now Clanning.
+7/17/25 12:32:11p * Healing Fortuna 
+7/17/25 12:32:14p * Healing Aurelie 
+7/17/25 12:32:14p * You recover the Large Vermine fur, worth 1c.
+7/17/25 12:32:18p •The healing spell has been broken.
+7/17/25 12:32:19p You have 2493 coins.
+7/17/25 12:32:21p * Healing Vylarian 
+7/17/25 12:32:25p * Healing Fortuna 
+7/17/25 12:32:34p Aurelie says, "Oh wait, music is a thing."
+7/17/25 12:32:35p Unholy asks, "lure?"
+7/17/25 12:32:36p * Fortuna recovers the Bolok Cougar fur, worth 2c. Your share is 1c.
+7/17/25 12:32:37p Unholy says, "nvm"
+7/17/25 12:32:38p * Healing Fortuna 
+7/17/25 12:32:41p •You sense healing energy from Aurelie.
+7/17/25 12:32:49p * Healing Aurelie 
+7/17/25 12:32:50p • You hear Aurelie's music...
+7/17/25 12:32:50p Aurelie starts playing her gitor.
+7/17/25 12:32:50p (Aurelie): "Sutai’s Journey" by Xel
+7/17/25 12:32:51p Fortuna asks, "give us a lure s?"
+7/17/25 12:33:07p Vylarian says, "while we wait on stragglers"
+7/17/25 12:33:13p * Healing Giben 
+7/17/25 12:33:13p * Vylarian recovers the Rudremau fur, worth 19c. Your share is 3c.
+7/17/25 12:33:17p * You recover the Valley Rat fur, worth 2c.
+7/17/25 12:33:26p * Healing Vylarian 
+7/17/25 12:33:35p * Healing Fortuna 
+7/17/25 12:33:38p * Purrfect recovers the Haremau Kitten fur, worth 11c. Your share is 3c.
+7/17/25 12:33:40p * Healing Unholy 
+7/17/25 12:33:40p •You cannot use your asklepian staff on yourself.
+7/17/25 12:33:40p You equip your moonstone.
+7/17/25 12:33:40p •The healing spell has been broken.
+7/17/25 12:33:46p * Healing Giben 
+7/17/25 12:33:46p You equip your asklepian staff.
+7/17/25 12:33:47p You must equip your moonstone before it can be used.
+7/17/25 12:33:57p * Healing Aurelie 
+7/17/25 12:33:58p * Healing Fortuna 
+7/17/25 12:33:58p Fortuna says, "nice lure"
+7/17/25 12:33:59p * Healing Aurelie 
+7/17/25 12:34:00p Fortuna asks, "one more?"
+7/17/25 12:34:03p (Aurelie giggles!)
+7/17/25 12:34:07p •The healing spell has been broken.
+7/17/25 12:34:09p Vylarian asks, "is uber-bears good exp for follks?"
+7/17/25 12:34:10p * Healing Fortuna 
+7/17/25 12:34:15p You begin sharing your experiences with Katreesa.
+7/17/25 12:34:15p You are sharing experiences with Katreesa, Purrfect, Fortuna, Asklepios and Aurelie.
+7/17/25 12:34:17p * Healing Vylarian 
+7/17/25 12:34:18p * Fortuna recovers the Haremau Kitten fur, worth 18c. Your share is 2c.
+7/17/25 12:34:19p Katreesa says, "hiya s"
+7/17/25 12:34:24p Fortuna asks, "you mean bears off of hte mountain?"
+7/17/25 12:34:24p Unholy says, "hi kat"
+7/17/25 12:34:27p Unholy says, ":)"
+7/17/25 12:34:28p Katreesa is sharing experiences with you.
+7/17/25 12:34:28p Aurelie exclaims, "H'lo, Kaaaat!"
+7/17/25 12:34:29p * Purrfect recovers the Valley Panther fur, worth 41c. Your share is 6c.
+7/17/25 12:34:29p * Healing Vylarian 
+7/17/25 12:34:31p Katreesa says, ":)"
+7/17/25 12:34:35p * Aurelie recovers the Valley Rat fur, worth 2c. Your share is 1c.
+7/17/25 12:34:36p Vylarian says, "yeah'"
+7/17/25 12:34:38p * Healing Giben 
+7/17/25 12:34:39p Katreesa exclaims, "Hiya lovely!"
+7/17/25 12:34:43p •The healing spell has been broken.
+7/17/25 12:34:43p Fortuna says, "it's a great spot for exp for all of us yea"
+7/17/25 12:34:44p * Healing Vylarian 
+7/17/25 12:34:48p Fortuna says, "hard to get to"
+7/17/25 12:34:50p * Healing Katreesa 
+7/17/25 12:34:59p * Healing Vylarian 
+7/17/25 12:35:01p * Healing Giben 
+7/17/25 12:35:01p • You hear Aurelie's music...
+7/17/25 12:35:01p Aurelie starts playing her starbuck harp.
+7/17/25 12:35:01p (Aurelie): Wistful Thinking
+7/17/25 12:35:02p * Healing Fortuna 
+7/17/25 12:35:03p •The healing spell has been broken.
+7/17/25 12:35:04p * Healing Fortuna 
+7/17/25 12:35:05p * Healing Giben 
+7/17/25 12:35:05p Fortuna says, "need pf and to hunt through like 9 snells of estuary/mountain"
+7/17/25 12:35:11p Katreesa says, "oh, wonder if I was supposed to wait for Punny and Bash"
+7/17/25 12:35:11p * Fortuna recovers the Haremau Kitten fur, worth 15c. Your share is 3c.
+7/17/25 12:35:14p You have 2512 coins.
+7/17/25 12:35:14p Bashak thinks, "me n punny are lost"
+7/17/25 12:35:14p Fortuna yells, "south!"
+7/17/25 12:35:20p * Healing Unholy 
+7/17/25 12:35:20p •You cannot use your asklepian staff on yourself.
+7/17/25 12:35:21p You equip your moonstone.
+7/17/25 12:35:21p •You sense healing energy from Aurelie.
+7/17/25 12:35:21p Fortuna thinks, "go like you're going gloamings"
+7/17/25 12:35:22p Vylarian says, "we need multiple max pf'ers in clan soon-ish"
+7/17/25 12:35:22p Katreesa says, "go <<<"
+7/17/25 12:35:32p Pun'isher thinks, "when the gloamings get tough"
+7/17/25 12:35:33p * Healing Fortuna 
+7/17/25 12:35:33p You equip your asklepian staff.
+7/17/25 12:35:34p You feel suddenly queasy.
+7/17/25 12:35:34p You must equip your moonstone before it can be used.
+7/17/25 12:35:36p Pun'isher yells, "hell"
+7/17/25 12:35:36p Bashak yells, "It's Dwarfin' Time!"
+7/17/25 12:35:38p * You recover the Island Mantis mandibles, worth 16c. Your share is 2c.
+7/17/25 12:35:40p Pun'isher says, "o"
+7/17/25 12:35:40p Vylarian has fallen to a Smoky Bog Amedon.
+7/17/25 12:35:42p * Healing Vylarian 
+7/17/25 12:35:42p •You don't quite have the training to heal Vylarian’s injuries.
+7/17/25 12:35:44p Pun'isher asks, "lasties?"
+7/17/25 12:35:44p * Healing Bashak 
+7/17/25 12:35:44p Bashak is sharing experiences with you.
+7/17/25 12:35:47p •The healing spell has been broken.
+7/17/25 12:35:47p •The healing spell has been broken.
+7/17/25 12:35:49p Vylarian says, "thats a lot of toads"
+7/17/25 12:35:49p * Healing Vylarian 
+7/17/25 12:35:50p •You don't quite have the training to heal Vylarian’s injuries.
+7/17/25 12:35:50p * Healing Purrfect 
+7/17/25 12:35:50p Katreesa says, "sheesh I can't even manage to think instead of say"
+7/17/25 12:35:51p (Fortuna waves)
+7/17/25 12:35:52p Giben turns to stone.
+7/17/25 12:35:56p Vylarian is no longer fallen.
+7/17/25 12:35:57p * Healing Vylarian 
+7/17/25 12:36:00p • You begin radius healing.
+7/17/25 12:36:01p * Purrfect recovers the Rudremau fur, worth 30c. Your share is 5c.
+7/17/25 12:36:02p Pun'isher yells, "lasties?"
+7/17/25 12:36:04p Katreesa says, "hi guys"
+7/17/25 12:36:05p Fortuna growls, "none"
+7/17/25 12:36:10p (Purrfect flicks his ears)
+7/17/25 12:36:11p Kazah thinks to you, "hi :) you in Magnic's clan? me too, may i please ask 2 things"
+7/17/25 12:36:11p * Healing Unholy 
+7/17/25 12:36:11p •You cannot use your asklepian staff on yourself.
+7/17/25 12:36:12p You equip your moonstone.
+7/17/25 12:36:12p • You stop radius healing.
+7/17/25 12:36:13p •You sense healing energy from Aurelie.
+7/17/25 12:36:16p Katreesa says, "sorry, I shoulda waited and ran with yas"
+7/17/25 12:36:28p Bashak says, "frickin drunk"
+7/17/25 12:36:31p Bashak has fallen to a Smoky Bog Amedon.
+7/17/25 12:36:33p Vylarian has fallen to a Smoky Bog Amedon.
+7/17/25 12:36:35p You equip your asklepian staff.
+7/17/25 12:36:35p You must equip your moonstone before it can be used.
+7/17/25 12:36:36p Fortuna growls, "toadally"
+7/17/25 12:36:36p •The healing spell has been broken.
+7/17/25 12:36:36p Bashak is no longer fallen.
+7/17/25 12:36:36p You must equip your moonstone before it can be used.
+7/17/25 12:36:37p * You recover the Large Vermine fur, worth 1c.
+7/17/25 12:36:37p • You begin radius healing.
+7/17/25 12:36:39p (Aurelie giggles.)
+7/17/25 12:36:39p * Katreesa recovers the Smoky Bog Amedon blood, worth 33c. Your share is 5c.
+7/17/25 12:36:41p Purrfect says, "Hic."
+7/17/25 12:36:46p Pun'isher is sharing experiences with you.
+7/17/25 12:36:48p Vylarian says, "i have had one too many..."
+7/17/25 12:36:49p Vylarian is no longer fallen.
+7/17/25 12:36:53p Vylarian says, "toads"
+7/17/25 12:36:55p Pun'isher exclaims, "howdy!"
+7/17/25 12:36:57p kazzah is not in the lands.
+7/17/25 12:36:59p Bashak says, "I'm lizardwasted"
+7/17/25 12:37:07p Pun'isher says, "look what the Kat and Bash dragged in"
+7/17/25 12:37:09p • You hear Aurelie's music...
+7/17/25 12:37:09p Aurelie starts playing her starbuck harp.
+7/17/25 12:37:09p (Aurelie): After we met... (Before we Met - Revised)
+7/17/25 12:37:10p You concentrate on sending your message to Kazah.
+7/17/25 12:37:10p You think to Kazah, "sure"
+7/17/25 12:37:13p Katreesa says, "hehe"
+7/17/25 12:37:13p Bashak says, ":D"
+7/17/25 12:37:18p Fortuna says, "missed it"
+7/17/25 12:37:19p Purrfect picks up a scavenger bird feather.
+7/17/25 12:37:22p Fortuna yells, "south!"
+7/17/25 12:37:23p Aurelie stops playing her starbuck harp.
+7/17/25 12:37:23p * Healing Giben 
+7/17/25 12:37:28p Vylarian says, "c'mon folks, to gloams"
+7/17/25 12:37:30p •The player must be in the same area.
+7/17/25 12:37:32p * Healing Unholy 
+7/17/25 12:37:32p •You cannot use your asklepian staff on yourself.
+7/17/25 12:37:33p You equip your moonstone.
+7/17/25 12:37:35p You equip your asklepian staff.
+7/17/25 12:37:35p You must equip your moonstone before it can be used.
+7/17/25 12:37:35p •The healing spell has been broken.
+7/17/25 12:37:38p * Healing Fortuna 
+7/17/25 12:37:42p •You sense healing energy from Katreesa.
+7/17/25 12:37:44p * Healing Giben 
+7/17/25 12:37:45p Bashak yells, "what's gloaming on??"
+7/17/25 12:37:48p Kazah thinks to you, "i was getting really good ranks from my first pet at undine my pet soloing but now no exp"
+7/17/25 12:37:52p * You are cured of the poison.
+7/17/25 12:37:53p Fortuna yells, "gee that is a neat pit"
+7/17/25 12:37:56p Pun'isher yells, "just monkeying around"
+7/17/25 12:37:57p • You hear Aurelie's music...
+7/17/25 12:37:57p Aurelie starts playing her starbuck harp.
+7/17/25 12:37:57p (Aurelie): After we met... (Before we Met - Revised)
+7/17/25 12:38:02p •The healing spell has been broken.
+7/17/25 12:38:03p * Healing Punisher 
+7/17/25 12:38:08p Pun'isher yells, "save pun!"
+7/17/25 12:38:10p Katreesa says, "hmm, not hearing it"
+7/17/25 12:38:10p (Fortuna waits for palmeri to jump in)
+7/17/25 12:38:12p Kazah thinks to you, "so i got my second new pet out but still no exp, someone might have been sharing me though"
+7/17/25 12:38:14p Vylarian asks, "can you fall in that?"
+7/17/25 12:38:18p You have 2524 coins.
+7/17/25 12:38:20p Katreesa says, "yes, but don't"
+7/17/25 12:38:21p Aurelie says, "Yes, it's not usually a good idea."
+7/17/25 12:38:22p * Healing Bashak 
+7/17/25 12:38:24p •You sense healing energy from Katreesa.
+7/17/25 12:38:24p (Aurelie giggles.)
+7/17/25 12:38:29p Pun'isher says, "yes but its death and depart i think"
+7/17/25 12:38:29p Vylarian says, "wasn't gonna"
+7/17/25 12:38:31p Bashak says, "Hic."
+7/17/25 12:38:31p Kazah thinks to you, "would a single high powered share give me levels like early undine?"
+7/17/25 12:38:31p Fortuna says, "we will probably depart if we do"
+7/17/25 12:38:35p Fortuna yells, "south!"
+7/17/25 12:38:36p Katreesa says, "I mean, you can, but I'm not saving ya"
+7/17/25 12:38:40p You concentrate on sending your message to Kazah.
+7/17/25 12:38:40p You think to Kazah, "south farms there a tree should be ok exp"
+7/17/25 12:38:40p Bashak ponders, "he was drunk he was drunk in a bush"
+7/17/25 12:38:42p Aurelie exclaims, "Sorry Kat!"
+7/17/25 12:38:45p (Purrfect flicks his ears)
+7/17/25 12:38:48p Vylarian says, "but Kat i thought you could save anyone anywhere"
+7/17/25 12:38:49p •You sense healing energy from Aurelie.
+7/17/25 12:38:51p Fortuna yells, "hey look a kitten"
+7/17/25 12:38:55p Katreesa says, "lol I wish"
+7/17/25 12:39:05p * Healing Vylarian 
+7/17/25 12:39:06p * Fortuna recovers the Haremau Kitten fur, worth 16c. Your share is 1c.
+7/17/25 12:39:08p Kazah thinks to you, "okay thanks, have fun"
+7/17/25 12:39:16p * Bashak recovers the Bolok Cougar fur, worth 7c. Your share is 2c.
+7/17/25 12:39:18p * Bashak recovers the Bolok Cougar fur, worth 11c. Your share is 2c.
+7/17/25 12:39:24p * You recover the Bolok Cougar fur, worth 2c.
+7/17/25 12:39:30p You concentrate on sending your message to Kazah.
+7/17/25 12:39:30p You think to Kazah, "also try rouming north area"
+7/17/25 12:39:31p * You recover the Bolok Cougar fur, worth 3c.
+7/17/25 12:39:32p * Healing Bashak 
+7/17/25 12:39:34p * Bashak recovers the Haremau Kitten fur, worth 9c. Your share is 1c.
+7/17/25 12:39:35p * Fortuna recovers the Bolok Cougar fur, worth 11c. Your share is 2c.
+7/17/25 12:39:36p Bashak has fallen to a Flying Foxweir.
+7/17/25 12:39:36p •You don't quite have the training to heal Bashak’s injuries.
+7/17/25 12:39:36p •You sense healing energy from Katreesa.
+7/17/25 12:39:38p •You sense healing energy from Aurelie.
+7/17/25 12:39:40p * Healing Bashak 
+7/17/25 12:39:41p Purrfect has fallen to an Island Mantis.
+7/17/25 12:39:42p * Healing Unholy 
+7/17/25 12:39:42p •You cannot use your asklepian staff on yourself.
+7/17/25 12:39:42p •You don't quite have the training to heal Bashak’s injuries.
+7/17/25 12:39:43p You equip your moonstone.
+7/17/25 12:39:43p •The healing spell has been broken.
+7/17/25 12:39:44p A Co'Acha feasts upon Bashak's body parts.
+7/17/25 12:39:46p * Healing Bashak 
+7/17/25 12:39:46p You equip your asklepian staff.
+7/17/25 12:39:47p You must equip your moonstone before it can be used.
+7/17/25 12:39:47p * Healing Purrfect 
+7/17/25 12:39:48p •Purrfect was too wounded to be healed easily.
+7/17/25 12:39:48p Vylarian has fallen to a flame.
+7/17/25 12:39:49p * Healing Vylarian 
+7/17/25 12:39:49p •Vylarian was too wounded to be healed easily.
+7/17/25 12:39:52p * Fortuna recovers the Haremau Kitten fur, worth 10c. Your share is 2c.
+7/17/25 12:39:52p Vylarian is no longer fallen.
+7/17/25 12:39:52p A Rat rips at Bashak's fallen body.
+7/17/25 12:39:52p A Co'Acha rips at Bashak's toes.
+7/17/25 12:39:53p Purrfect yells, "ret"
+7/17/25 12:39:55p Purrfect is no longer fallen.
+7/17/25 12:39:57p Purrfect has fallen to a Flying Foxweir.
+7/17/25 12:39:58p A Co'Acha tears at Bashak's toes.
+7/17/25 12:39:58p •You don't quite have the training to heal Purrfect’s injuries.
+7/17/25 12:40:00p * Healing Purrfect 
+7/17/25 12:40:00p •Purrfect’s injuries were serious.
+7/17/25 12:40:01p Vylarian has fallen to a Haremau.
+7/17/25 12:40:02p Purrfect is no longer fallen.
+7/17/25 12:40:03p * Healing Bashak 
+7/17/25 12:40:04p * Katreesa recovers the Bolok Cougar fur, worth 4c. Your share is 1c.
+7/17/25 12:40:05p * Healing Unholy 
+7/17/25 12:40:05p •You cannot use your asklepian staff on yourself.
+7/17/25 12:40:06p You equip your moonstone.
+7/17/25 12:40:06p •The healing spell has been broken.
+7/17/25 12:40:07p Fortuna is no longer fallen.
+7/17/25 12:40:08p * Healing Bashak 
+7/17/25 12:40:09p You equip your asklepian staff.
+7/17/25 12:40:09p You must equip your moonstone before it can be used.
+7/17/25 12:40:10p * Healing Fortuna 
+7/17/25 12:40:14p * Purrfect recovers the Flying Foxweir fur, worth 3c. Your share is 1c.
+7/17/25 12:40:15p Bashak is no longer fallen.
+7/17/25 12:40:15p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+7/17/25 12:40:15p •You do not have enough in you.
+7/17/25 12:40:16p Unholy has fallen to a flame.
+7/17/25 12:40:16p •You are easily healable.
+7/17/25 12:40:16p You cannot possibly use anything in your current condition.
+7/17/25 12:40:18p * Healing Unholy 
+7/17/25 12:40:18p •You cannot use your asklepian staff on yourself.
+7/17/25 12:40:18p Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+7/17/25 12:40:18p You equip your moonstone.
+7/17/25 12:40:18p •Your injuries are serious.
+7/17/25 12:40:18p Unholy has fallen to an Island Mantis.
+7/17/25 12:40:19p Giben has fallen to a Flying Foxweir.
+7/17/25 12:40:19p You cannot possibly use anything in your current condition.
+7/17/25 12:40:19p You slip your moonstone into your backpack.
+7/17/25 12:40:20p Your moonstone is already unequipped.
+7/17/25 12:40:21p Purrfect has fallen to a Flying Foxweir.
+7/17/25 12:40:21p •You sense healing energy from Katreesa.
+7/17/25 12:40:22p •You sense healing energy from Aurelie.
+7/17/25 12:40:23p You equip your asklepian staff.
+7/17/25 12:40:23p * Healing Unholy 
+7/17/25 12:40:24p * Fortuna recovers the Island Mantis mandibles, worth 6c. Your share is 1c.
+7/17/25 12:40:24p •You cannot use your asklepian staff on yourself.
+7/17/25 12:40:24p * Katreesa recovers the Bolok Cougar fur, worth 3c. Your share is 1c.
+7/17/25 12:40:24p You equip your moonstone.
+7/17/25 12:40:25p * Healing Unholy 
+7/17/25 12:40:26p You equip your asklepian staff.
+7/17/25 12:40:26p •You cannot use your asklepian staff on yourself.
+7/17/25 12:40:26p Bashak has fallen to a Flying Foxweir.
+7/17/25 12:40:27p You must equip your moonstone before it can be used.
+7/17/25 12:40:27p You equip your moonstone.
+7/17/25 12:40:28p Purrfect is no longer fallen.
+7/17/25 12:40:29p * Healing Katreesa 
+7/17/25 12:40:30p You equip your asklepian staff.
+7/17/25 12:40:31p You must equip your moonstone before it can be used.
+7/17/25 12:40:31p Aurelie says, "We're fiiiiine we've got Kat"
+7/17/25 12:40:32p * Fortuna recovers the Bolok Cougar fur, worth 5c. Your share is 1c.
+7/17/25 12:40:35p * Healing Giben 
+7/17/25 12:40:36p Giben is no longer fallen.
+7/17/25 12:40:39p • You begin radius healing.
+7/17/25 12:40:42p Bashak is no longer fallen.
+7/17/25 12:40:46p A Rat tears at Vylarian's organs.
+7/17/25 12:40:48p * Bashak recovers the Flying Foxweir fur, worth 6c. Your share is 1c.
+7/17/25 12:40:55p Katreesa says, "we're fine we've got Aurelie"
+7/17/25 12:40:57p Aurelie stops playing her starbuck harp.
+7/17/25 12:40:59p Vylarian is no longer fallen.
+7/17/25 12:40:59p (Aurelie giggles.)
+7/17/25 12:41:03p Unholy says, "hehe"
+7/17/25 12:41:03p Fortuna says, "remember that time we didn't retreat and it was fine"
+7/17/25 12:41:04p • You hear Aurelie's music...
+7/17/25 12:41:04p Aurelie starts playing her starbuck harp.
+7/17/25 12:41:04p (Aurelie): Learning the Steps - For Giben
+7/17/25 12:41:10p Katreesa says, "oh there we go"
+7/17/25 12:41:13p Purrfect says, "that's a solid body wall"
+7/17/25 12:41:16p You have 2540 coins.
+7/17/25 12:41:17p Giben says, ":)"
+7/17/25 12:41:21p * Healing Unholy 
+7/17/25 12:41:21p •You cannot use your asklepian staff on yourself.
+7/17/25 12:41:21p Katreesa says, "had my volume for that way down"
+7/17/25 12:41:21p You equip your moonstone.
+7/17/25 12:41:21p • You stop radius healing.
+7/17/25 12:41:24p Giben says, "best song"
+7/17/25 12:41:24p * Healing Fortuna 
+7/17/25 12:41:24p You equip your asklepian staff.
+7/17/25 12:41:25p You must equip your moonstone before it can be used.
+7/17/25 12:41:28p * Healing Giben 
+7/17/25 12:41:32p Fortuna yells, "south!"
+7/17/25 12:41:32p Aurelie says, "Kat and I together are greater than the sum of our parts."
+7/17/25 12:41:35p * Healing Unholy 
+7/17/25 12:41:36p •You cannot use your asklepian staff on yourself.
+7/17/25 12:41:36p You equip your moonstone.
+7/17/25 12:41:36p •The healing spell has been broken.
+7/17/25 12:41:39p * Healing Punisher 
+7/17/25 12:41:39p You equip your asklepian staff.
+7/17/25 12:41:39p You must equip your moonstone before it can be used.
+7/17/25 12:41:45p Bashak says, "b heal Giben"
+7/17/25 12:41:48p Aurelie says, "Also I'm fairly certain Unholy has more Faustus than me."
+7/17/25 12:41:50p • You begin radius healing.
+7/17/25 12:41:51p Katreesa asks, "and greater than the part in our sums?"
+7/17/25 12:41:54p • There is nobody nearby enough to continue radius healing.
+7/17/25 12:41:55p Bashak is no longer fallen.
+7/17/25 12:41:57p •You sense healing energy from Katreesa.
+7/17/25 12:41:58p * Fortuna recovers the Bolok Cougar fur, worth 5c. Your share is 1c.
+7/17/25 12:41:58p • You begin radius healing.
+7/17/25 12:42:00p • You stop radius healing.
+7/17/25 12:42:02p • You begin radius healing.
+7/17/25 12:42:02p Aurelie says, "Unless I'm in burstin' range"
+7/17/25 12:42:06p * Purrfect recovers the Smoky Bog Amedon blood, worth 4c. Your share is 1c.
+7/17/25 12:42:08p * Fortuna recovers the Flying Foxweir fur, worth 3c. Your share is 1c.
+7/17/25 12:42:08p Katreesa says, "don't ask, I don't know either"
+7/17/25 12:42:09p Omega is no longer Clanning.
+7/17/25 12:42:11p •Your healing is blocked.
+7/17/25 12:42:16p Giben says, "Hic."
+7/17/25 12:42:18p * Healing Fortuna 
+7/17/25 12:42:27p * Healing Punisher 
+7/17/25 12:42:28p (Aurelie bonks Fortuna with her staff, repeatedly.)
+7/17/25 12:42:34p * Healing Giben 
+7/17/25 12:42:37p Fortuna says, "ok we're going to enter gloamings and then head back via the -> pf route"
+7/17/25 12:42:52p Fortuna yells, "giben give us a lure"
+7/17/25 12:43:01p •Your healing is blocked.
+7/17/25 12:43:05p * Healing Unholy 
+7/17/25 12:43:05p •You cannot use your asklepian staff on yourself.
+7/17/25 12:43:05p You equip your moonstone.
+7/17/25 12:43:07p You equip your asklepian staff.
+7/17/25 12:43:07p You must equip your moonstone before it can be used.
+7/17/25 12:43:08p •The healing spell has been broken.
+7/17/25 12:43:10p Katreesa says, "was a great question during NNK hunt for a mystic"
+7/17/25 12:43:17p * Purrfect recovers the Flying Foxweir fur, worth 4c. Your share is 1c.
+7/17/25 12:43:19p Aurelie asks, "Ohh?"
+7/17/25 12:43:22p (Aurelie missed the question.)
+7/17/25 12:43:22p Katreesa asks, "how do you break your staff?"
+7/17/25 12:43:25p Aurelie says, "Ahh"
+7/17/25 12:43:35p Aurelie asks, "Too much bonking?"
+7/17/25 12:43:35p Katreesa says, "I told them "ride it hard""
+7/17/25 12:43:40p (Aurelie blushes!)
+7/17/25 12:43:41p Katreesa says, ":P"
+7/17/25 12:43:41p Fortuna asks, "don't give them enough time off?"
+7/17/25 12:43:49p Fortuna yells, "west!"
+7/17/25 12:43:57p * Healing Bashak 
+7/17/25 12:44:00p Katreesa says, "I'm horrible"
+7/17/25 12:44:04p * Fortuna recovers the Flying Foxweir fur, worth 4c. Your share is 1c.
+7/17/25 12:44:10p * Pun'isher recovers the Gloaming Wendecka fur, worth 12c. Your share is 2c.
+7/17/25 12:44:14p You have 2547 coins.
+7/17/25 12:44:16p Pun'isher yells, "bigun"
+7/17/25 12:44:18p * Healing Aurelie 
+7/17/25 12:44:33p Aurelie yells, "Rawrelie!"
+7/17/25 12:44:33p * Healing Giben 
+7/17/25 12:44:39p Katreesa says, "so cute"
+7/17/25 12:44:39p Fortuna asks, "everyone got?"
+7/17/25 12:44:40p •The healing spell has been broken.
+7/17/25 12:44:40p * Healing Bashak 
+7/17/25 12:44:40p Pun'isher yells, "clear to here"
+7/17/25 12:44:48p Bashak says, "no :("
+7/17/25 12:44:56p Fortuna says, "those guys are tough"
+7/17/25 12:44:59p Bashak says, "yea"
+7/17/25 12:45:00p TreeBeard is no longer Clanning.
+7/17/25 12:45:00p Fortuna says, "try to let everyone tag"
+7/17/25 12:45:02p Bashak says, "mega tough"
+7/17/25 12:45:04p Pun'isher growls, "the beasts must be hiding from the otf"
+7/17/25 12:45:15p •You sense healing energy from Katreesa.
+7/17/25 12:45:20p * Giben recovers the Stone Arachne mandibles, worth 3c. Your share is 1c.
+7/17/25 12:45:21p •You sense healing energy from Katreesa.
+7/17/25 12:45:21p * Healing Unholy 
+7/17/25 12:45:21p •You cannot use your asklepian staff on yourself.
+7/17/25 12:45:22p You equip your moonstone.
+7/17/25 12:45:22p Aurelie exclaims, "Florese!"
+7/17/25 12:45:28p * Healing Bashak 
+7/17/25 12:45:28p You equip your asklepian staff.
+7/17/25 12:45:29p You must equip your moonstone before it can be used.
+7/17/25 12:45:29p * Purrfect recovers the Florese Vermine fur, worth 25c. Your share is 3c.
+7/17/25 12:45:36p •You sense healing energy from Katreesa.
+7/17/25 12:45:39p * Healing Vylarian 
+7/17/25 12:45:42p * Healing Unholy 
+7/17/25 12:45:42p * Purrfect recovers the Gloaming Wendecka fur, worth 19c. Your share is 2c.
+7/17/25 12:45:42p •You cannot use your asklepian staff on yourself.
+7/17/25 12:45:43p You equip your moonstone.
+7/17/25 12:45:45p Aurelie says, "Don't see many of those up here."
+7/17/25 12:45:45p * Healing Vylarian 
+7/17/25 12:45:46p You equip your asklepian staff.
+7/17/25 12:45:46p You must equip your moonstone before it can be used.
+7/17/25 12:45:59p * Healing Bashak 
+7/17/25 12:46:01p Bashak says, "so that's a gloaming, huh"
+7/17/25 12:46:02p Fortuna thinks, "n"
+7/17/25 12:46:13p * Healing Giben 
+7/17/25 12:46:14p * Purrfect recovers the Gloaming Wendecka fur, worth 13c. Your share is 3c.
+7/17/25 12:46:16p * Healing Aurelie 
+7/17/25 12:46:18p * Purrfect recovers the Gloaming Wendecka fur, worth 16c. Your share is 2c.
+7/17/25 12:46:20p * Healing Bashak 
+7/17/25 12:46:21p * Healing Bashak 
+7/17/25 12:46:25p Pun'isher growls, "im dear zu"
+7/17/25 12:46:26p * Healing Purrfect 
+7/17/25 12:46:29p * Healing Bashak 
+7/17/25 12:46:31p Pun'isher growls, "kind of"
+7/17/25 12:46:31p (Aurelie giggles.)
+7/17/25 12:46:32p Vylarian has fallen to a pebble.
+7/17/25 12:46:33p • You begin radius healing.
+7/17/25 12:46:36p •The healing spell has been broken.
+7/17/25 12:46:36p Vylarian is no longer fallen.
+7/17/25 12:46:37p * Purrfect recovers the Gloaming Wendecka fur, worth 29c. Your share is 4c.
+7/17/25 12:46:37p * Healing Purrfect 
+7/17/25 12:46:40p • You begin radius healing.
+7/17/25 12:46:40p Purrfect has fallen to a Gloaming Wendecka.
+7/17/25 12:46:47p • There is nobody nearby enough to continue radius healing.
+7/17/25 12:46:47p * Healing Purrfect 
+7/17/25 12:46:49p Purrfect is no longer fallen.
+7/17/25 12:46:50p • You begin radius healing.
+7/17/25 12:46:51p • There is nobody nearby enough to continue radius healing.
+7/17/25 12:46:55p • You begin radius healing.
+7/17/25 12:46:58p (Aurelie hums a tune.)
+7/17/25 12:46:59p * Fortuna recovers the Gloaming Wendecka fur, worth 4c. Your share is 1c.
+7/17/25 12:47:02p • You hear Aurelie's music...
+7/17/25 12:47:02p Aurelie starts playing her gitor.
+7/17/25 12:47:02p (Aurelie): Not Yet, Perhaps Never
+7/17/25 12:47:07p Katreesa says, ":)"
+7/17/25 12:47:08p Vylarian has fallen to a Ripper.
+7/17/25 12:47:09p * Healing Vylarian 
+7/17/25 12:47:11p Vylarian is no longer fallen.
+7/17/25 12:47:13p You have 2563 coins.
+7/17/25 12:47:19p •You sense healing energy from Katreesa.
+7/17/25 12:47:24p •The healing spell has been broken.
+7/17/25 12:47:24p Fortuna says, "ok maybe we just take the river pf home in a bit"
+7/17/25 12:47:25p •The healing spell has been broken.
+7/17/25 12:47:25p * Healing Bashak 
+7/17/25 12:47:30p * Purrfect recovers the Gloaming Wendecka fur, worth 4c. Your share is 1c.
+7/17/25 12:47:32p * Healing Purrfect 
+7/17/25 12:47:35p * Healing Fortuna 
+7/17/25 12:47:39p Aurelie exclaims, "Sounds good!"
+7/17/25 12:47:46p * Healing Fortuna 
+7/17/25 12:47:51p * Healing Bashak 
+7/17/25 12:47:53p Bashak has fallen to a Ripper.
+7/17/25 12:47:54p Bashak is no longer fallen.
+7/17/25 12:48:00p * Purrfect recovers the Gloaming Wendecka fur, worth 34c. Your share is 5c.
+7/17/25 12:48:09p * Healing Giben 
+7/17/25 12:48:13p Fortuna asks, "rippers exp or no?"
+7/17/25 12:48:17p (Pun'isher kind of bricks)
+7/17/25 12:48:20p Vylarian says, "kills"
+7/17/25 12:48:23p Fortuna exclaims, "oh!"
+7/17/25 12:48:25p Purrfect says, "the rippers are slaughters"
+7/17/25 12:48:30p Bashak says, "disps sometimes"
+7/17/25 12:48:43p Bashak says, "but mostly slaughter"
+7/17/25 12:48:51p * Healing Fortuna 
+7/17/25 12:48:53p * Healing Vylarian 
+7/17/25 12:48:56p * Healing Fortuna 
+7/17/25 12:48:59p * Healing Bashak 
+7/17/25 12:49:03p •The healing spell has been broken.
+7/17/25 12:49:08p * Healing Bashak 
+7/17/25 12:49:08p * Vylarian recovers the Gloaming Wendecka fur, worth 5c. Your share is 1c.
+7/17/25 12:49:09p * Healing Vylarian 
+7/17/25 12:49:11p (Aurelie lazyheals)
+7/17/25 12:49:15p Purrfect has fallen to a Ripper.
+7/17/25 12:49:18p * Healing Purrfect 
+7/17/25 12:49:20p Purrfect is no longer fallen.
+7/17/25 12:49:23p * Healing Vylarian 
+7/17/25 12:49:24p * Healing Bashak 
+7/17/25 12:49:32p Aurelie asks, "Any requests?"
+7/17/25 12:49:34p Vylarian says, "mama ripper laid a lot of eggs"
+7/17/25 12:49:37p * Healing Unholy 
+7/17/25 12:49:37p •You cannot use your asklepian staff on yourself.
+7/17/25 12:49:37p You equip your moonstone.
+7/17/25 12:49:40p You equip your asklepian staff.
+7/17/25 12:49:40p You must equip your moonstone before it can be used.
+7/17/25 12:49:40p •The healing spell has been broken.
+7/17/25 12:49:41p Katreesa says, "something funky"
+7/17/25 12:49:44p Fortuna asks, "giben lure n?"
+7/17/25 12:49:46p * Healing Fortuna 
+7/17/25 12:49:49p Fortuna says, "or pun"
+7/17/25 12:49:56p Aurelie says, "Hmmmm"
+7/17/25 12:50:00p • You hear Aurelie's music...
+7/17/25 12:50:00p Aurelie starts playing her gitor.
+7/17/25 12:50:00p (Aurelie): Turning Pages
+7/17/25 12:50:09p Katreesa says, "hmmm"
+7/17/25 12:50:09p •The healing spell has been broken.
+7/17/25 12:50:10p Purrfect has fallen to a Ripper.
+7/17/25 12:50:10p •The healing spell has been broken.
+7/17/25 12:50:10p You have 2570 coins.
+7/17/25 12:50:10p * Healing Purrfect 
+7/17/25 12:50:11p •You don't quite have the training to heal Purrfect’s injuries.
+7/17/25 12:50:13p •The healing spell has been broken.
+7/17/25 12:50:14p * Healing Giben 
+7/17/25 12:50:14p Katreesa says, "utterly not funky"
+7/17/25 12:50:17p * Healing Bashak 
+7/17/25 12:50:17p * Giben recovers the Lith Bat fur, worth 1c. Your share is 1c.
+7/17/25 12:50:20p Purrfect is no longer fallen.
+7/17/25 12:50:22p Aurelie says, "Not a funky song at all"
+7/17/25 12:50:26p (Katreesa giggles)
+7/17/25 12:50:30p Fortuna yells, "n"
+7/17/25 12:50:39p * Healing Punisher 
+7/17/25 12:50:42p Vylarian has fallen to a Black Mamba.
+7/17/25 12:50:42p * Healing Vylarian 
+7/17/25 12:50:43p •Vylarian’s wounds are much more severe than you can heal.
+7/17/25 12:50:48p •The healing spell has been broken.
+7/17/25 12:50:48p * Healing Bashak 
+7/17/25 12:50:54p •You do not have enough spiritual energy.
+7/17/25 12:50:57p * Healing Vylarian 
+7/17/25 12:50:57p * Healing Vylarian 
+7/17/25 12:50:58p •Vylarian’s wounds are much more severe than you can heal.
+7/17/25 12:51:00p Katreesa says, "seems like good music for folks to walk to their seats to"
+7/17/25 12:51:03p •Vylarian’s body was severely maimed.
+7/17/25 12:51:05p Bashak has fallen to a Vermine Arachne.
+7/17/25 12:51:07p (Aurelie giggles.)
+7/17/25 12:51:08p * Healing Vylarian 
+7/17/25 12:51:09p Vylarian is no longer fallen.
+7/17/25 12:51:14p Bashak says, "whoa that things stronger than it looks"
+7/17/25 12:51:16p * Healing Bashak 
+7/17/25 12:51:16p •Bashak’s injuries were grave.
+7/17/25 12:51:20p Bashak is no longer fallen.
+7/17/25 12:51:23p •The healing spell has been broken.
+7/17/25 12:51:23p •The healing spell has been broken.
+7/17/25 12:51:25p * Healing Vylarian 
+7/17/25 12:51:25p Pun'isher growls, "the bat?"
+7/17/25 12:51:26p Aurelie exclaims, "Vermine!"
+7/17/25 12:51:28p Katreesa says, "secret title: "sit yer bunz down""
+7/17/25 12:51:33p • You begin radius healing.
+7/17/25 12:51:38p •You sense healing energy from Katreesa.
+7/17/25 12:51:42p * Healing Giben 
+7/17/25 12:51:48p * Healing Vylarian 
+7/17/25 12:51:53p •You sense healing energy from Katreesa.
+7/17/25 12:51:53p •The healing spell has been broken.
+7/17/25 12:51:55p •The healing spell has been broken.
+7/17/25 12:51:56p * Healing Bashak 
+7/17/25 12:52:02p * Healing Giben 
+7/17/25 12:52:03p Pun'isher yells, "there is pf here"
+7/17/25 12:52:05p * Healing Fortuna 
+7/17/25 12:52:05p Vylarian exclaims, "kill it!"
+7/17/25 12:52:06p •The healing spell has been broken.
+7/17/25 12:52:07p •The healing spell has been broken.
+7/17/25 12:52:09p * Healing Bashak 
+7/17/25 12:52:13p * Healing Vylarian 
+7/17/25 12:52:17p Aurelie yells, "Yes but maybe not the best idea with our lil' group"
+7/17/25 12:52:21p * Healing Vylarian 
+7/17/25 12:52:22p * Healing Vylarian 
+7/17/25 12:52:30p •You sense healing energy from Katreesa.
+7/17/25 12:52:33p Aurelie says, "We don't need to try anything fancy"
+7/17/25 12:52:34p Pun'isher growls, "good to know"
+7/17/25 12:52:36p * Healing Giben 
+7/17/25 12:52:36p Vylarian asks, "is it the pf of death?"
+7/17/25 12:52:37p •You sense healing energy from Katreesa.
+7/17/25 12:52:38p •The healing spell has been broken.
+7/17/25 12:52:41p * Healing Bashak 
+7/17/25 12:52:42p Purrfect has fallen to a Flying Foxweir.
+7/17/25 12:52:42p Aurelie says, "The regular paths are challenge enough"
+7/17/25 12:52:42p Pun'isher growls, "dont know if I have been through that yet"
+7/17/25 12:52:46p * Katreesa recovers the Flying Foxweir fur, worth 3c. Your share is 1c.
+7/17/25 12:52:49p Purrfect is no longer fallen.
+7/17/25 12:52:50p Kazah is no longer Clanning.
+7/17/25 12:52:57p * Healing Vylarian 
+7/17/25 12:53:00p Pun'isher growls, "kat do you know what is north of the pf?"
+7/17/25 12:53:04p You have 2572 coins.
+7/17/25 12:53:05p •The healing spell has been broken.
+7/17/25 12:53:06p * Healing Bashak 
+7/17/25 12:53:06p Vylarian says, "once i get 300 goss, boosting atkus to 400"
+7/17/25 12:53:11p Aurelie says, "It's workin' towards the pit we avoided up top"
+7/17/25 12:53:15p * Healing Giben 
+7/17/25 12:53:22p Kyoko is no longer Clanning.
+7/17/25 12:53:23p Pun'isher growls, "ah"
+7/17/25 12:53:24p Fortuna says, "by the time you have 300 goss you may not care about atkus so much"
+7/17/25 12:53:24p Aurelie says, "I mean, this way also goes that way"
+7/17/25 12:53:26p Aurelie says, "Just takes longer"
+7/17/25 12:53:28p •You do not have enough spiritual energy.
+7/17/25 12:53:29p Daedralia is no longer Clanning.
+7/17/25 12:53:34p * Healing Unholy 
+7/17/25 12:53:34p •You cannot use your asklepian staff on yourself.
+7/17/25 12:53:35p You equip your moonstone.
+7/17/25 12:53:35p Ephraim is no longer Clanning.
+7/17/25 12:53:41p Katreesa asks, "does that lure?"
+7/17/25 12:53:42p * Healing Giben 
+7/17/25 12:53:42p You equip your asklepian staff.
+7/17/25 12:53:43p Aurelie says, "But that PF is a bit of a tight space"
+7/17/25 12:53:43p You must equip your moonstone before it can be used.
+7/17/25 12:53:45p Bashak says, "I got 219 goss"
+7/17/25 12:53:52p Katreesa says, "nice, it lures"
+7/17/25 12:53:52p * Healing Fortuna 
+7/17/25 12:53:53p Aurelie says, "This lures, it's the one in there to the east that doesn't"
+7/17/25 12:53:55p * Healing Vylarian 
+7/17/25 12:53:58p * Bashak recovers the Gloaming Wendecka fur, worth 15c. Your share is 2c.
+7/17/25 12:54:01p Katreesa says, "ah ok"
+7/17/25 12:54:02p Pun'isher growls, "have you been through the maze at undine?"
+7/17/25 12:54:04p * Healing Vylarian 
+7/17/25 12:54:06p * Healing Bashak 
+7/17/25 12:54:11p •You sense healing energy from Katreesa.
+7/17/25 12:54:13p Aurelie asks, "Alchemist's folly?"
+7/17/25 12:54:21p Pun'isher growls, "sure"
+7/17/25 12:54:25p Pun'isher growls, "its dark"
+7/17/25 12:54:26p Fortuna thinks, "come on down"
+7/17/25 12:54:31p •You sense healing energy from Katreesa.
+7/17/25 12:54:31p * Healing Unholy 
+7/17/25 12:54:31p •You cannot use your asklepian staff on yourself.
+7/17/25 12:54:31p •You sense healing energy from Aurelie.
+7/17/25 12:54:32p You equip your moonstone.
+7/17/25 12:54:33p Bashak says, "I'm not an alchemist so I'll be ok"
+7/17/25 12:54:35p You equip your asklepian staff.
+7/17/25 12:54:36p •The healing spell has been broken.
+7/17/25 12:54:36p You must equip your moonstone before it can be used.
+7/17/25 12:54:39p • You begin radius healing.
+7/17/25 12:54:39p • There is nobody nearby enough to continue radius healing.
+7/17/25 12:54:43p • You begin radius healing.
+7/17/25 12:54:43p Pun'isher growls, "fally is right!"
+7/17/25 12:54:45p • There is nobody nearby enough to continue radius healing.
+7/17/25 12:54:48p * Healing Giben 
+7/17/25 12:55:00p * Healing Bashak 
+7/17/25 12:55:03p Fortuna growls, "east is next"
+7/17/25 12:55:06p Fortuna growls, "and then we turn around"
+7/17/25 12:55:06p Katreesa asks, "sooooo, we don't do pfs?"
+7/17/25 12:55:20p Vylarian has fallen to a Black Mamba.
+7/17/25 12:55:20p * Healing Fortuna 
+7/17/25 12:55:20p Bashak has fallen to a Ripper.
+7/17/25 12:55:21p Pun'isher exclaims, "sneks!"
+7/17/25 12:55:23p Fortuna growls, "mambas"
+7/17/25 12:55:27p Unholy asks, "doesnt lure?"
+7/17/25 12:55:29p Fortuna growls, "pun go chain em?"
+7/17/25 12:55:30p Katreesa says, "I got bored in the middle of the night and changed my look"
+7/17/25 12:55:31p Aurelie says, "Nope"
+7/17/25 12:55:33p Aurelie says, "Doesn't lure"
+7/17/25 12:55:38p * Healing Purrfect 
+7/17/25 12:55:39p •The healing spell has been broken.
+7/17/25 12:55:41p (Purrfect purrs)
+7/17/25 12:55:44p * Healing Bashak 
+7/17/25 12:55:45p •You don't quite have the training to heal Bashak’s injuries.
+7/17/25 12:55:48p Bashak says, "ow"
+7/17/25 12:55:49p Aurelie says, "Fort and I spent... looots of time here."
+7/17/25 12:55:49p •Bashak’s injuries were serious.
+7/17/25 12:55:52p Bashak is no longer fallen.
+7/17/25 12:55:54p * Healing Vylarian 
+7/17/25 12:55:54p •Vylarian’s wounds are much more severe than you can heal.
+7/17/25 12:55:55p •Vylarian’s body was severely maimed.
+7/17/25 12:55:56p Fortuna says, "we did"
+7/17/25 12:56:00p You have 2574 coins.
+7/17/25 12:56:02p Vylarian is no longer fallen.
+7/17/25 12:56:04p Fortuna says, "it's a decent place to live"
+7/17/25 12:56:08p Purrfect yells, "yes, let your hate flow through you!"
+7/17/25 12:56:08p Katreesa says, "I have too, but don't remember most of it"
+7/17/25 12:56:09p Aurelie exclaims, "Cozy!"
+7/17/25 12:56:10p * Healing Bashak 
+7/17/25 12:56:12p Aurelie says, "With a good water supply."
+7/17/25 12:56:21p Fortuna says, "ok let's charge once more"
+7/17/25 12:56:23p Fortuna growls, "ok let's charge once more"
+7/17/25 12:56:24p Aurelie says, "The selenate cave is the other way, to the Southeast from the entrance."
+7/17/25 12:56:29p * Healing Unholy 
+7/17/25 12:56:29p •You cannot use your asklepian staff on yourself.
+7/17/25 12:56:29p You equip your moonstone.
+7/17/25 12:56:32p •You sense healing energy from Aurelie.
+7/17/25 12:56:32p * Healing Vylarian 
+7/17/25 12:56:32p You equip your asklepian staff.
+7/17/25 12:56:33p You must equip your moonstone before it can be used.
+7/17/25 12:56:33p * Healing Giben 
+7/17/25 12:56:35p * Healing Fortuna 
+7/17/25 12:56:37p Fortuna is no longer fallen.
+7/17/25 12:56:39p Fortuna has fallen to a Gloaming Wendecka.
+7/17/25 12:56:39p •Fortuna was too wounded to be healed easily.
+7/17/25 12:56:40p •You sense healing energy from Katreesa.
+7/17/25 12:56:41p Fortuna is no longer fallen.
+7/17/25 12:56:43p Giben has fallen to a Black Mamba.
+7/17/25 12:56:46p Fortuna has fallen to a Black Mamba.
+7/17/25 12:56:46p •Fortuna’s injuries were grave.
+7/17/25 12:56:46p * Purrfect recovers the Gloaming Wendecka fur, worth 26c. Your share is 3c.
+7/17/25 12:56:48p * Healing Purrfect 
+7/17/25 12:56:50p * Healing Purrfect 
+7/17/25 12:56:50p * Healing Vylarian 
+7/17/25 12:56:53p * Healing Fortuna 
+7/17/25 12:56:55p Purrfect has fallen to a Black Mamba.
+7/17/25 12:56:55p Fortuna is no longer fallen.
+7/17/25 12:56:59p * Pun'isher recovers the Gloaming Wendecka fur, worth 14c. Your share is 3c.
+7/17/25 12:57:06p Bashak has fallen to a Black Mamba.
+7/17/25 12:57:10p •You sense healing energy from Aurelie.
+7/17/25 12:57:12p Pun'isher says, "gettin low"
+7/17/25 12:57:14p * Healing Punisher 
+7/17/25 12:57:16p Purrfect says, "pull me"
+7/17/25 12:57:17p Vylarian yells, "save yourselves!"
+7/17/25 12:57:18p •The healing spell has been broken.
+7/17/25 12:57:21p * Healing Unholy 
+7/17/25 12:57:22p •You cannot use your asklepian staff on yourself.
+7/17/25 12:57:22p You equip your moonstone.
+7/17/25 12:57:23p Purrfect says, "pull me"
+7/17/25 12:57:26p * Healing Unholy 
+7/17/25 12:57:26p You equip your asklepian staff.
+7/17/25 12:57:27p You must equip your moonstone before it can be used.
+7/17/25 12:57:27p •You cannot use your asklepian staff on yourself.
+7/17/25 12:57:27p You equip your moonstone.
+7/17/25 12:57:28p * Healing Purrfect 
+7/17/25 12:57:29p You equip your asklepian staff.
+7/17/25 12:57:30p You must equip your moonstone before it can be used.
+7/17/25 12:57:30p Purrfect is no longer fallen.
+7/17/25 12:57:34p * Healing Bashak 
+7/17/25 12:57:35p •You don't quite have the training to heal Bashak’s injuries.
+7/17/25 12:57:37p Fortuna says, "ok time to turn around"
+7/17/25 12:57:41p •You don't quite have the training to heal Bashak’s injuries.
+7/17/25 12:57:42p •Bashak’s wounds were severe.
+7/17/25 12:57:43p Vylarian exclaims, "NO!"
+7/17/25 12:57:44p Purrfect says, "ok"
+7/17/25 12:57:46p Bashak is no longer fallen.
+7/17/25 12:57:51p Aurelie says, "This is mostly a dead end for our group anyway"
+7/17/25 12:57:55p * Healing Giben 
+7/17/25 12:57:56p •Giben’s injuries are significantly more serious than you can heal.
+7/17/25 12:57:56p Aurelie says, "Any deeper and we're towards the Pit"
+7/17/25 12:58:00p You just received good karma from Bashak, !
+7/17/25 12:58:02p •Giben’s injuries are a little more serious than you can heal.
+7/17/25 12:58:06p Fortuna asks, "giben too dead?"
+7/17/25 12:58:08p Unholy says, "lms"
+7/17/25 12:58:09p •Giben’s injuries are a little more serious than you can heal.
+7/17/25 12:58:10p Unholy says, "on gibs"
+7/17/25 12:58:11p Aurelie says, "quite with all"
+7/17/25 12:58:16p •Giben’s injuries are a little more serious than you can heal.
+7/17/25 12:58:16p Fortuna yells, "homewards"
+7/17/25 12:58:20p •The player must be in the same area.
+7/17/25 12:58:23p * Healing Bashak 
+7/17/25 12:58:25p Giben says, "free ride home. :)"
+7/17/25 12:58:29p Fortuna growls, ":)"
+7/17/25 12:58:31p * Healing Giben 
+7/17/25 12:58:34p Katreesa says, "https://www.youtube.com/watch?v=amVhJIF2Avk"
+7/17/25 12:58:36p Giben is no longer fallen.
+7/17/25 12:58:41p Unholy says, "almost :P"
+7/17/25 12:58:41p * Fortuna recovers the Gloaming Wendecka fur, worth 16c. Your share is 2c.
+7/17/25 12:58:42p Katreesa says, "because Punny said getting low"
+7/17/25 12:58:45p •You sense healing energy from Katreesa.
+7/17/25 12:58:49p •The player must be in the same area.
+7/17/25 12:58:54p * Healing Giben 
+7/17/25 12:58:55p * Healing Giben 
+7/17/25 12:58:55p Fortuna yells, "bzzzzzt!"
+7/17/25 12:58:59p You have 2582 coins.
+7/17/25 12:59:15p •The healing spell has been broken.
+7/17/25 12:59:17p Fortuna yells, "get ready to follow kat"
+7/17/25 12:59:19p •The healing spell has been broken.
+7/17/25 12:59:27p * Healing Fortuna 
+7/17/25 12:59:27p Katreesa asks, "that's all?"
+7/17/25 12:59:28p Aurelie says, "Oooo shortcut, yay"
+7/17/25 12:59:30p • You begin radius healing.
+7/17/25 12:59:30p Purrfect yells, "come here"
+7/17/25 12:59:30p Fortuna asks, "who went e?"
+7/17/25 12:59:32p Katreesa asks, "really?"
+7/17/25 12:59:35p Katreesa says, "Pun"
+7/17/25 12:59:38p •You sense healing energy from Katreesa.
+7/17/25 12:59:39p • There is nobody nearby enough to continue radius healing.
+7/17/25 12:59:45p * Healing Fortuna 
+7/17/25 12:59:46p Fortuna says, "ok this is a one way"
+7/17/25 12:59:48p Fortuna says, "and we have one pf"
+7/17/25 1:00:01p •You seem to be able to take more damage now.
+7/17/25 1:00:02p •You sense healing energy from Katreesa.
+7/17/25 1:00:05p * Healing Vylarian 
+7/17/25 1:00:06p Katreesa squeezes between the stalagmites.
+7/17/25 1:00:06p * Healing Vylarian 
+7/17/25 1:00:08p •The player must be in the same area.
+7/17/25 1:00:13p Bashak yells, "Verb the Noun!"
+7/17/25 1:00:17p Fortuna yells, "thanks all"
+7/17/25 1:00:22p Fortuna thinks, "OOF!"
+7/17/25 1:00:23p •The healing spell has been broken.
+7/17/25 1:00:25p Vylarian thinks, "thanks all"
+7/17/25 1:00:26p Pun'isher yells, "thanks for letting me crash!"
+7/17/25 1:00:33p Purrfect yells, "welcome anytime"
+7/17/25 1:00:34p Lion-O is now Clanning.
+7/17/25 1:00:48p Pun'isher says, "sorry i didnt pun much"
+7/17/25 1:00:55p •The healing spell has been broken.
+7/17/25 1:01:18p Bashak shows a squire's shield bearing the arms of the Order of Misadventure to Aurelie.
+7/17/25 1:01:22p Unholy says, "late-o"
+7/17/25 1:01:22p Lion-O says, "hi guys"
+7/17/25 1:01:28p Fortuna shows a knight's shield bearing the arms of the Order of Misadventure to Bashak.
+7/17/25 1:01:29p (Unholy waves)
+7/17/25 1:01:31p Unholy says, ":P"
+7/17/25 1:01:31p Aurelie says, "Might be about time to make Bashak a knight..."
+7/17/25 1:01:34p Lion-O asks, "Did we win?"
+7/17/25 1:01:38p Vylarian says, "we did"
+7/17/25 1:01:40p Bashak says, ":o"
+7/17/25 1:01:42p Katreesa says, "Punny, because you said gettin low earlier: https://www.youtube.com/watch?v=amVhJIF2Avk"
+7/17/25 1:01:43p Aurelie exclaims, "Fortuna, you haven't picked a coat of arms yet!"
+7/17/25 1:01:54p Aurelie shows a knight's shield bearing the arms of the Harvest Moon, of the Order of Misadventure, to everyone.
+7/17/25 1:01:54p Fortuna says, "no, not yet"
+7/17/25 1:01:56p You have 2582 coins.
+7/17/25 1:02:01p Pun'isher exclaims, "haha nice!"
+7/17/25 1:02:09p Aurelie says, "Maybe I should go back to the Golden Myrm"
+7/17/25 1:02:09p Katreesa says, ":)"
+7/17/25 1:02:15p Lion-O says, "Sorry Ive been otherwise occupied for the last few weeks"
+7/17/25 1:02:21p Fortuna exclaims, "it happens!"
+7/17/25 1:02:21p Pun'isher exclaims, "to the wall!"
+7/17/25 1:02:27p Katreesa says, "hehe"
+7/17/25 1:02:27p Fortuna says, "thanks everyone"
+7/17/25 1:02:32p Unholy says, ":)"
+7/17/25 1:02:36p • You hear Aurelie's music...
+7/17/25 1:02:36p Aurelie starts playing her gitor.
+7/17/25 1:02:36p (Aurelie): Following Fledglings
+7/17/25 1:02:37p Fortuna says, "grand adventures as always"
+7/17/25 1:02:41p Unholy says, "was fun"
+7/17/25 1:02:41p Katreesa says, "someone has far too much time on their hands, and I'm glad of it"
+7/17/25 1:02:52p (Aurelie plays our song.)
+7/17/25 1:02:56p (Fortuna beams)
+7/17/25 1:02:56p Katreesa says, "thanks all"
+7/17/25 1:03:01p Aurelie exclaims, "Thanks Kat!"
+7/17/25 1:03:06p Vylarian says, "thanks Kat"
+7/17/25 1:03:35p You concentrate on sending your message to Katreesa.
+7/17/25 1:03:35p You think to Katreesa, "do you need any barley or rocko leather?"
+7/17/25 1:03:40p Fortuna says, "oh i h

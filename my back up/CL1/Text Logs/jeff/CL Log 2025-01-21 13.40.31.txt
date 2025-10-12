@@ -1,0 +1,109 @@
+
+1/21/25 1:40:32p * Your shirt named “dark grey” is in nearly perfect condition.
+1/21/25 1:40:32p * Your pair of pants named “muddy yellow” is in nearly perfect condition.
+1/21/25 1:40:32p Welcome to Clan Lord, Jeff!
+1/21/25 1:40:32p Type \HELP for a list of commands.
+1/21/25 1:40:32p • You gain experience from your recent studies.
+1/21/25 1:40:32p Jeff is now Clanning.
+1/21/25 1:40:32p You have been studying for 24 days, 16 hours, 21 minutes.
+1/21/25 1:40:35p It's 11:45pm on Merdi, day 17 of Spring, 640.
+1/21/25 1:40:35p Friends online: none.
+1/21/25 1:40:36p There are two members of Black Phoenix clanning: Cassius and you.
+1/21/25 1:40:36p • What’s New: https://deltatao.com/clanlord/news
+1/21/25 1:40:47p * Tip of the day: A phial is a vial. (Use /OPTIONS to turn tips off.)
+1/21/25 1:40:54p • Cassius offers you a pair of pants, which  is starting to look a little worn, for free.
+1/21/25 1:40:54p To accept, \BUY 0 Cassius.
+1/21/25 1:40:54p Cassius hands you a pair of pants.
+1/21/25 1:40:56p • Cassius offers you a pair of shoes, which  is in pretty good shape, for free.
+1/21/25 1:40:56p To accept, \BUY 0 Cassius.
+1/21/25 1:40:57p Cassius hands you a pair of shoes.
+1/21/25 1:40:59p • Cassius offers you a cloak, which  is in pretty good shape, for free.
+1/21/25 1:40:59p To accept, \BUY 0 Cassius.
+1/21/25 1:40:59p Cassius hands you a cloak.
+1/21/25 1:41:06p • Cassius offers you a shirt, which  is in pretty good shape, for free.
+1/21/25 1:41:06p To accept, \BUY 0 Cassius.
+1/21/25 1:41:06p Cassius hands you a shirt.
+1/21/25 1:41:07p •Your knowledge of blacksmithing improves.
+1/21/25 1:41:22p You equip your sewing kit named “487”.
+1/21/25 1:41:27p This repair used 1c worth of sewing supplies.
+1/21/25 1:41:27p You have 486c worth left.
+1/21/25 1:41:27p You mend a shirt.
+1/21/25 1:41:31p This repair used 1c worth of sewing supplies.
+1/21/25 1:41:31p You have 485c worth left.
+1/21/25 1:41:31p You mend a pair of pants.
+1/21/25 1:41:35p This repair used 1c worth of sewing supplies.
+1/21/25 1:41:35p You have 484c worth left.
+1/21/25 1:41:35p You mend a cloak.
+1/21/25 1:41:39p This repair used 1c worth of sewing supplies.
+1/21/25 1:41:39p You have 483c worth left.
+1/21/25 1:41:39p You mend a pair of shoes.
+1/21/25 1:41:44p You offer a pair of shoes named “glossy white” to Cassius for free.
+1/21/25 1:41:44p \SELL /cancel to cancel the offer.
+1/21/25 1:41:44p You hand Cassius a pair of shoes.
+1/21/25 1:41:46p You offer a pair of pants named “gold” to Cassius for free.
+1/21/25 1:41:46p \SELL /cancel to cancel the offer.
+1/21/25 1:41:47p You hand Cassius a pair of pants.
+1/21/25 1:41:50p You offer a shirt named “midnight” to Cassius for free.
+1/21/25 1:41:50p \SELL /cancel to cancel the offer.
+1/21/25 1:41:50p You hand Cassius a shirt.
+1/21/25 1:41:52p You offer a cloak named “royal purple” to Cassius for free.
+1/21/25 1:41:52p \SELL /cancel to cancel the offer.
+1/21/25 1:41:53p You hand Cassius a cloak.
+1/21/25 1:42:12p Eli's cloak is in very good condition. You would need 1c worth of sewing supplies to mend it. Her pair of pants is looking rather worn. You would need 1c worth of sewing supplies to mend it. Her pair of shoes is in very good condition. You would need 1c worth of sewing supplies to mend it. 
+1/21/25 1:42:37p •Your knowledge of blacksmithing improves.
+1/21/25 1:42:40p Jeff asks, "clothing repairs any one?"
+1/21/25 1:42:58p Nug says, "yes"
+1/21/25 1:43:03p Agrehk is no longer Clanning.
+1/21/25 1:43:15p Nug's shirt is in very good condition. You would need 1c worth of sewing supplies to mend it. His pair of pants is in pretty good shape. You would need 1c worth of sewing supplies to mend it. 
+1/21/25 1:43:18p Omega asks, "yes they can or yes clothing repairs?"
+1/21/25 1:43:26p Nug says, "yes they can"
+1/21/25 1:43:32p Omega says, "oh cool."
+1/21/25 1:43:32p Omega says, "oh cool."
+1/21/25 1:43:36p Koppi yells, "Coriakin reports: Bard concert at 11am Pacific on Jan. 25th. Entries for Azriels' contest will be played, so come enjoy the new music!"
+1/21/25 1:43:37p Nug says, "seen mystic tell someone to move before"
+1/21/25 1:43:43p Eli asks, "can fix these plz?"
+1/21/25 1:43:48p Jeff says, "sure"
+1/21/25 1:43:49p • Eli offers you the pair of pants she's wearing, which  is looking rather worn, for free.
+1/21/25 1:43:49p To accept, \BUY 0 Eli.
+1/21/25 1:43:49p Eli hands you a pair of pants.
+1/21/25 1:43:58p This repair used 1c worth of sewing supplies.
+1/21/25 1:43:58p You have 482c worth left.
+1/21/25 1:43:58p You mend a pair of pants.
+1/21/25 1:44:02p You offer a pair of pants named “Black” to Eli for free.
+1/21/25 1:44:02p \SELL /cancel to cancel the offer.
+1/21/25 1:44:02p Crius yells, "It’s Midnight on Fordi, the 18th day of Spring in the 640th year of the Ascendancy, and all’s well."
+1/21/25 1:44:02p • It’s Midnight on Fordi, the 18th day of Spring in the 640th year of the Ascendancy, and all’s well.
+1/21/25 1:44:07p •Your knowledge of blacksmithing improves.
+1/21/25 1:44:07p Crius yells, "There’s good hunting in the Southern Savannah."
+1/21/25 1:44:07p You hand Eli a pair of pants.
+1/21/25 1:44:11p Eli says, "thnx"
+1/21/25 1:44:14p Jeff says, "np"
+1/21/25 1:44:32p Omega's cloak is in very good condition. You would need 1c worth of sewing supplies to mend it. His shirt isn't too badly worn yet. You would need 1c worth of sewing supplies to mend it. His pair of pants is in very good condition. You would need 1c worth of sewing supplies to mend it. 
+1/21/25 1:44:43p Eli says, "cant find another fighter for the life of me"
+1/21/25 1:44:45p Omega asks, "Do you know what ot says when someone falls to the lightning? Is it different msg than the orga bols?"
+1/21/25 1:45:16p Eli says, "cirnhal would join and salandra ready but"
+1/21/25 1:45:34p Cirnahl is now Clanning.
+1/21/25 1:45:37p •Your knowledge of blacksmithing improves.
+1/21/25 1:45:54p Omega says, "oh well. Gonna hed out in 15 if no one comes around... I am east coast here fwiw )"
+1/21/25 1:46:06p Eli says, "yeah same"
+1/21/25 1:46:11p Omega says, "√"
+1/21/25 1:46:35p Jeff asks, "omega may i see your shirt?"
+1/21/25 1:46:37p Eli says, "kal doing mystical things. literally cannot find anyone else"
+1/21/25 1:46:52p Eli says, "gk cirn if you can hes stuck in purg"
+1/21/25 1:47:07p Omega says, "√"
+1/21/25 1:47:26p • You gain experience from your clanmate.
+1/21/25 1:47:34p Lithia Akka says, "Greetings, Giben. I am collecting building materials and coins for a beautiful fountain for town center."
+1/21/25 1:47:34p Lithia Akka says, "It’s going well; you can pretty much see the final shape now."
+1/21/25 1:47:35p Lithia Akka says, "To donate materials, hold out a piece of wood, stone or metal, or hold your money- purse to donate 500 coins."
+1/21/25 1:47:35p Lithia Akka asks, "Are you sure you want to donate your stone?"
+1/21/25 1:47:38p Lithia Akka gives Giben a coin for the stone.
+1/21/25 1:47:38p Lithia Akka says, "Excellent! This will help our building efforts along."
+1/21/25 1:47:39p Lithia Akka says, "Any more help you could provide would be greatly appreciated."
+1/21/25 1:47:52p Giben's shirt isn't too badly worn yet. You would need 1c worth of sewing supplies to mend it. His pair of pants is in very good condition. You would need 1c worth of sewing supplies to mend it. His pair of shoes is in very good condition. You would need 1c worth of sewing supplies to mend it. 
+1/21/25 1:48:02p Omega ponders, "testing"
+1/21/25 1:48:17p • /SLEEP when you wish to begin studying.
+1/21/25 1:48:22p Use \SLEEP again when you return.
+1/21/25 1:48:23p You are done adventuring for a while and will be staying here.
+1/21/25 1:48:23p You have been disconnected from Clan Lord.
+1/21/25 1:48:24p • You will benefit from staying here while you are off-line.
+1/21/25 1:48:24p *** We are no longer connected to the Clan Lord game server. ***

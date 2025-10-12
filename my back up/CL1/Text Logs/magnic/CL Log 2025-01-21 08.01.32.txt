@@ -1,0 +1,962 @@
+
+1/21/25 8:01:33a * Your shirt named “Lime Green” is in very good condition.
+1/21/25 8:01:33a * Your pair of pants named “Lime Green” is in very good condition.
+1/21/25 8:01:33a * Your pair of shoes named “red” is in very good condition.
+1/21/25 8:01:33a Welcome to Clan Lord, Magnic!
+1/21/25 8:01:33a Type \HELP for a list of commands.
+1/21/25 8:01:33a • You have been charged 37 coins for advanced studies.
+1/21/25 8:01:33a • You gain experience from your recent studies.
+1/21/25 8:01:33a Type /ranger for commands if you forget
+1/21/25 8:01:33a Magnic is now Clanning.
+1/21/25 8:01:33a You have been studying for one day, 5 hours, 40 minutes.
+1/21/25 8:01:36a It's 12:39am on Merdi, day 17 of Spring, 640.
+1/21/25 8:01:37a You are the only member of Black Phoenix clanning.
+1/21/25 8:01:37a • What’s New: https://deltatao.com/clanlord/news
+1/21/25 8:01:39a Friends online: none.
+1/21/25 8:01:47a * Tip of the day: If you change your macros while playing, use Reload Macros from the Options menu. (Use /OPTIONS to turn tips off.)
+1/21/25 8:02:00a Telsa says, "We won't have enough crops for the winter."
+1/21/25 8:02:00a You slaughtered an Orga Warlock.
+1/21/25 8:02:07a You slaughtered an Orga Zealot.
+1/21/25 8:02:07a * You recover the Orga Zealot bounty worth 3c.
+1/21/25 8:02:10a You slaughtered an Orga Warlock.
+1/21/25 8:02:19a You slaughtered an Orga.
+1/21/25 8:02:22a You equip your heartwood charm.
+1/21/25 8:02:22a • You gather your energy.
+1/21/25 8:02:23a Dae Fenris yells, "Heavens to Murgatroyd!"
+1/21/25 8:02:24a •You assume the shape of a Giant Carnivorous Plankton.
+1/21/25 8:02:25a • You speed up.
+1/21/25 8:02:28a You slip your heartwood charm into your backpack.
+1/21/25 8:02:28a • You slow down to normal speed.
+1/21/25 8:02:29a • You return to your normal form.
+1/21/25 8:02:30a Momo is no longer Clanning.
+1/21/25 8:02:37a * You pick up 7 coins.
+1/21/25 8:02:37a * You gain experience.
+1/21/25 8:02:39a You equip your heartwood charm.
+1/21/25 8:02:40a • You gather your energy.
+1/21/25 8:02:42a • You speed up.
+1/21/25 8:02:48a You slaughtered an Orga Hemlock.
+1/21/25 8:02:50a * You pick up 6 coins.
+1/21/25 8:02:50a * You gain experience.
+1/21/25 8:02:50a You slaughtered an Orga Warlock.
+1/21/25 8:02:55a You slaughtered an Orga.
+1/21/25 8:03:01a You slip your heartwood charm into your backpack.
+1/21/25 8:03:01a • You slow down to normal speed.
+1/21/25 8:03:10a You begin sharing your experiences with Sauver.
+1/21/25 8:03:43a Cat Food is now Clanning.
+1/21/25 8:03:49a Tia is now Clanning.
+1/21/25 8:04:07a •You sense healing energy from Cat Food.
+1/21/25 8:04:09a You begin sharing your experiences with Cat Food.
+1/21/25 8:04:09a You are sharing experiences with Cat Food and Sauver.
+1/21/25 8:04:18a Yes is now Clanning.
+1/21/25 8:04:18a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+1/21/25 8:04:18a Magnic has fallen to a lightning bolt.
+1/21/25 8:04:39a A Rat nibbles your entrails.
+1/21/25 8:04:48a Aye'Cha thinks, "lightning town"
+1/21/25 8:04:49a Dae Fenris starts dragging you.
+1/21/25 8:04:52a Shelka exclaims, "Ick! We need this well water to drink!"
+1/21/25 8:04:57a •You sense healing energy from Sauver.
+1/21/25 8:05:01a Cat Food is no longer Clanning.
+1/21/25 8:05:07a Eli yells, "here"
+1/21/25 8:05:14a Ulric is now Clanning.
+1/21/25 8:05:18a Sauver says, "lmk kin"
+1/21/25 8:05:27a * Sharecads is now on.
+1/21/25 8:05:30a •You sense healing energy from Kin.
+1/21/25 8:05:30a You begin sharing your experiences with Kin.
+1/21/25 8:05:30a You are sharing experiences with Kin and Sauver.
+1/21/25 8:05:42a Aki is no longer Clanning.
+1/21/25 8:05:47a Sauver says, "on sat now"
+1/21/25 8:05:53a You equip your heartwood charm.
+1/21/25 8:05:53a • You gather your energy.
+1/21/25 8:05:56a • You speed up.
+1/21/25 8:05:57a Telsa yells, "Shoo! Vermine!"
+1/21/25 8:05:59a You helped vanquish an Orga Callock.
+1/21/25 8:06:00a * You pick up 5 coins.
+1/21/25 8:06:00a * You gain experience.
+1/21/25 8:06:09a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+1/21/25 8:06:09a • You slow down to normal speed.
+1/21/25 8:06:09a Magnic has fallen to a lightning bolt.
+1/21/25 8:06:29a A Rat rips at your entrails.
+1/21/25 8:06:33a Mimo is now Clanning.
+1/21/25 8:06:38a Eli thinks, "some of us in east farms"
+1/21/25 8:06:52a Dae Fenris starts dragging you.
+1/21/25 8:06:53a Helja is now Clanning.
+1/21/25 8:07:01a Sativa says, "yes orga dont see dreds"
+1/21/25 8:07:11a Dae Fenris thinks, "Coming TC"
+1/21/25 8:07:25a Biro thinks, "I think you are all just intruding on a date between Silky and Bartok"
+1/21/25 8:07:31a Yes is no longer Clanning.
+1/21/25 8:07:32a •You sense healing energy from Chi.
+1/21/25 8:07:33a You begin sharing your experiences with Chi.
+1/21/25 8:07:33a You are sharing experiences with Chi, Kin and Sauver.
+1/21/25 8:07:40a Articuno thinks, "is bartok in town?"
+1/21/25 8:07:41a TorcherBaby thinks, "oops"
+1/21/25 8:07:54a •You sense healing energy from Chi.
+1/21/25 8:07:58a Eli thinks, "orga in town real invasion but pretty light so far"
+1/21/25 8:08:15a Sativa says, "warlocks only I see"
+1/21/25 8:08:52a You slaughtered an Orga.
+1/21/25 8:08:53a You slaughtered an Orga.
+1/21/25 8:09:02a You helped vanquish an Orga Hatred.
+1/21/25 8:09:03a * You pick up 160 coins.
+1/21/25 8:09:03a * You gain experience.
+1/21/25 8:09:08a You slaughtered an Orga Warrior.
+1/21/25 8:09:21a You slaughtered an Orga Warlock.
+1/21/25 8:09:33a * You pick up 3 coins.
+1/21/25 8:09:33a * You gain experience.
+1/21/25 8:09:34a * You pick up 3 coins.
+1/21/25 8:09:34a * You gain experience.
+1/21/25 8:09:35a Chi is no longer Clanning.
+1/21/25 8:09:35a * You pick up 4 coins.
+1/21/25 8:09:35a * You gain experience.
+1/21/25 8:09:37a You slaughtered an Orga Warlock.
+1/21/25 8:09:42a Eli yells, "n here busy"
+1/21/25 8:09:44a You slaughtered a Myrm Scout.
+1/21/25 8:09:47a Kennod Barkle says, "We never used to have Chaos Storms before the recent wave of exiles."
+1/21/25 8:09:47a The Orga Warlock smiles.
+1/21/25 8:09:51a You slaughtered an Orga Warlock.
+1/21/25 8:09:54a * You pick up 1 coin.
+1/21/25 8:09:54a * You gain experience.
+1/21/25 8:10:01a You slaughtered an Orga.
+1/21/25 8:10:04a • You gather your energy.
+1/21/25 8:10:05a You slaughtered an Orga Hemlock.
+1/21/25 8:10:06a • You speed up.
+1/21/25 8:10:08a The Orga Hemlock smiles.
+1/21/25 8:10:08a You slaughtered a Large Vermine.
+1/21/25 8:10:14a •You assume the shape of a Giant Carnivorous Plankton.
+1/21/25 8:10:14a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+1/21/25 8:10:14a • You slow down to normal speed.
+1/21/25 8:10:15a • You return to your normal form.
+1/21/25 8:10:24a •You sense healing energy from Helja.
+1/21/25 8:10:25a You begin sharing your experiences with Helja.
+1/21/25 8:10:25a You are sharing experiences with Helja, Kin and Sauver.
+1/21/25 8:10:28a Sativa says, "e town still a lil hairy"
+1/21/25 8:10:48a Sativa thinks, "holy s*** nfield"
+1/21/25 8:10:54a Sativa says, "nfield full"
+1/21/25 8:11:00a Kennod Barkle says, "I wonder what could be causing them."
+1/21/25 8:11:01a Eli thinks, "roger"
+1/21/25 8:11:02a Dig is now Clanning.
+1/21/25 8:11:09a Kennod Barkle says, "We never used to have Chaos Storms before the recent wave of exiles."
+1/21/25 8:11:36a You slaughtered a Giant Slug.
+1/21/25 8:11:41a Kennod Barkle says, "We never used to have Chaos Storms before the recent wave of exiles."
+1/21/25 8:12:05a • You gather your energy.
+1/21/25 8:12:08a You slaughtered an Orga.
+1/21/25 8:12:08a • You speed up.
+1/21/25 8:12:25a You slaughtered a Giant Slug.
+1/21/25 8:12:41a You slaughtered an Orga Warrior.
+1/21/25 8:12:55a The Orga Warlock glares at Klur.
+1/21/25 8:12:56a You slaughtered an Orga.
+1/21/25 8:12:57a Murrim is now Clanning.
+1/21/25 8:12:57a You slaughtered an Orga.
+1/21/25 8:12:59a You slaughtered an Orga.
+1/21/25 8:13:02a You slip your heartwood charm into your backpack.
+1/21/25 8:13:02a • You slow down to normal speed.
+1/21/25 8:13:03a Aye'Cha growls, "thanks!"
+1/21/25 8:13:08a (Klur smiles)
+1/21/25 8:13:40a You equip your heartwood charm.
+1/21/25 8:13:40a • You gather your energy.
+1/21/25 8:13:42a • You speed up.
+1/21/25 8:13:44a You slaughtered an Orga.
+1/21/25 8:13:45a You slaughtered an Orga.
+1/21/25 8:13:48a You slaughtered a Vermine.
+1/21/25 8:13:48a Dae Fenris yells, "Where?"
+1/21/25 8:13:52a Aye'Cha yells, "rawr"
+1/21/25 8:13:52a You slaughtered an Orga Warlock.
+1/21/25 8:13:52a You slaughtered an Orga.
+1/21/25 8:13:53a You slaughtered an Orga.
+1/21/25 8:13:53a * You pick up 2 coins.
+1/21/25 8:13:53a * You gain experience.
+1/21/25 8:13:53a You slaughtered a Vermine.
+1/21/25 8:13:54a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+1/21/25 8:13:54a • You slow down to normal speed.
+1/21/25 8:13:54a Magnic has fallen to a lightning bolt.
+1/21/25 8:13:55a Klur yells, "p"
+1/21/25 8:13:57a A monster growls, "Die!"
+1/21/25 8:14:06a Helja has fallen to a lightning bolt.
+1/21/25 8:14:07a Klur yells, "p"
+1/21/25 8:14:16a Helja yells, "Argh."
+1/21/25 8:14:18a Klur yells, "p"
+1/21/25 8:14:20a A monster growls, "Die!"
+1/21/25 8:14:24a Magnic yells, "heh"
+1/21/25 8:14:24a Aye'Cha yells, "Hel fell w"
+1/21/25 8:14:32a A monster growls, "Die!"
+1/21/25 8:14:35a Klur yells, "out"
+1/21/25 8:14:37a A monster growls, "Die!"
+1/21/25 8:14:38a A monster growls, "Kill!"
+1/21/25 8:14:38a A monster growls, "Kill!"
+1/21/25 8:14:39a Aye'Cha yells, "kk"
+1/21/25 8:15:01a Eli thinks, "still e field?"
+1/21/25 8:15:10a A monster growls, "Die!"
+1/21/25 8:15:12a A monster growls, "Die!"
+1/21/25 8:15:22a A monster growls, "Die!"
+1/21/25 8:15:22a Eli yells, "?"
+1/21/25 8:15:24a Dae Fenris yells, "Heavens to Murgatroyd!"
+1/21/25 8:15:27a Helja yells, "here"
+1/21/25 8:15:35a A monster growls, "Die!"
+1/21/25 8:15:35a Aye'Cha yells, "Rawr! Fell while fogged"
+1/21/25 8:16:00a A monster growls, "Die!"
+1/21/25 8:16:03a Klur yells, "p"
+1/21/25 8:16:06a Dae Fenris yells, "Yip yip yip yip!"
+1/21/25 8:16:08a Aye'Cha yells, "Rawr! Fell while fogged"
+1/21/25 8:16:10a A monster growls, "Kill!"
+1/21/25 8:16:14a A monster growls, "Die!"
+1/21/25 8:16:18a Klur yells, "p"
+1/21/25 8:16:19a A monster growls, "Kill!"
+1/21/25 8:16:20a Helja yells, "here"
+1/21/25 8:16:21a Dae Fenris yells, "Mew!"
+1/21/25 8:16:30a Kin has fallen to a flame.
+1/21/25 8:16:39a Klur yells, "out"
+1/21/25 8:16:43a A monster growls, "Kill!"
+1/21/25 8:16:52a A monster growls, "Die!"
+1/21/25 8:17:06a Helja is still fallen to a lightning bolt.
+1/21/25 8:17:08a A Rat nibbles your entrails.
+1/21/25 8:17:12a Ulric is no longer Clanning.
+1/21/25 8:17:24a A Rat tears at your fallen body.
+1/21/25 8:17:32a A Rat nibbles your eye sockets.
+1/21/25 8:17:40a Dig is no longer Clanning.
+1/21/25 8:17:44a A Rat pokes at your organs.
+1/21/25 8:17:49a A monster growls, "Die!"
+1/21/25 8:18:02a A monster growls, "Die!"
+1/21/25 8:18:10a Mimo starts dragging you.
+1/21/25 8:18:11a A monster growls, "Die!"
+1/21/25 8:18:11a A monster growls, "Kill!"
+1/21/25 8:18:13a A Rat chews on your wounds.
+1/21/25 8:18:24a •••
+1/21/25 8:18:24a You have been idle for too long.
+1/21/25 8:18:24a Please do something to avoid being disconnected.
+1/21/25 8:18:24a •••
+1/21/25 8:18:27a Clemence is now Clanning.
+1/21/25 8:18:37a You have 4557 coins.
+1/21/25 8:18:54a Baker's Man is now Clanning.
+1/21/25 8:19:05a Baker's Man says, "nu"
+1/21/25 8:19:07a •You sense healing energy from Baker's Man.
+1/21/25 8:19:08a You begin sharing your experiences with Baker's Man.
+1/21/25 8:19:08a You are sharing experiences with Baker's Man, Helja, Kin and Sauver.
+1/21/25 8:19:08a Sauver says, "ftm"
+1/21/25 8:19:13a •You sense healing energy from Sauver.
+1/21/25 8:19:16a Clemence says, "mms"
+1/21/25 8:19:16a Ulric is now Clanning.
+1/21/25 8:19:18a •You sense healing energy from Tia.
+1/21/25 8:19:19a You begin sharing your experiences with Tia.
+1/21/25 8:19:19a You are sharing experiences with Tia, Baker's Man, Helja, Kin and Sauver.
+1/21/25 8:19:21a Kin is no longer fallen.
+1/21/25 8:19:24a Clemence asks, "all on magnic?"
+1/21/25 8:19:32a •You sense healing energy from Sauver.
+1/21/25 8:19:37a Clemence says, "quite"
+1/21/25 8:19:40a Helja is no longer fallen.
+1/21/25 8:19:44a Ge'do is no longer Clanning.
+1/21/25 8:19:45a •You sense healing energy from Mimo.
+1/21/25 8:19:46a You are no longer sharing experiences with Sauver.
+1/21/25 8:19:46a You begin sharing your experiences with Mimo.
+1/21/25 8:19:46a You are sharing experiences with Mimo, Tia, Baker's Man, Helja and Kin.
+1/21/25 8:19:46a Mimi is now Clanning.
+1/21/25 8:19:55a •You sense healing energy from Sauver.
+1/21/25 8:19:56a You are no longer sharing experiences with Kin.
+1/21/25 8:19:56a You begin sharing your experiences with Sauver.
+1/21/25 8:19:56a You are sharing experiences with Sauver, Mimo, Tia, Baker's Man and Helja.
+1/21/25 8:19:58a Luber is now Clanning.
+1/21/25 8:20:06a This bench provided by The Puddleby Civic Beautification Society.
+1/21/25 8:20:14a Clemence says, "goodness what happened"
+1/21/25 8:20:23a Aye'Cha says, "The answer to all things. Orga."
+1/21/25 8:20:23a Clemence says, "det"
+1/21/25 8:20:24a Mimo says, "there alot of lightinging"
+1/21/25 8:20:26a Eli says, "ongoing invasion"
+1/21/25 8:20:31a Clemence says, "oooohhhh"
+1/21/25 8:20:33a Aye'Cha exclaims, "Thanks all!"
+1/21/25 8:20:33a Lightbringer is now Clanning.
+1/21/25 8:20:36a Leinis is no longer Clanning.
+1/21/25 8:20:36a Pendarric is now Clanning.
+1/21/25 8:20:53a (Sativa waves)
+1/21/25 8:20:56a Luber is no longer Clanning.
+1/21/25 8:20:56a Baker's Man is no longer Clanning.
+1/21/25 8:21:00a (Tia waves)
+1/21/25 8:21:09a Aye'Cha ponders, "ahhhhhhhhh! I need cadshare"
+1/21/25 8:21:10a Tia is no longer Clanning.
+1/21/25 8:21:11a Mimi is no longer Clanning.
+1/21/25 8:21:13a Clemence asks, "is the invasion over?"
+1/21/25 8:21:18a Sativa thinks, "unless is was killed already, be warned there is an Orga Loathing running around town or nearby.. seems to be crossing snells"
+1/21/25 8:21:20a Aye'Cha says, "no, its just cleared TC"
+1/21/25 8:21:24a Crius yells, "It’s 2 o’clock, and all’s well."
+1/21/25 8:21:26a Eli thinks, "killed it"
+1/21/25 8:21:43a Sativa thinks, "well thats that! crisis averted"
+1/21/25 8:21:43a Aye'Cha thinks, "Sorry to the healers I couldn't share fast enough. Hands are still slow from studying in library too long."
+1/21/25 8:22:04a Sativa is no longer Clanning.
+1/21/25 8:22:23a You slaughtered an Orga Warlock.
+1/21/25 8:22:25a Helja has fallen to a lightning bolt.
+1/21/25 8:22:27a • You gather your energy.
+1/21/25 8:22:29a • You speed up.
+1/21/25 8:22:30a Aye'Cha yells, "Rawr!"
+1/21/25 8:22:32a Dae Fenris yells, "Yip yip yip yip!"
+1/21/25 8:22:35a You slaughtered an Orga Warlock.
+1/21/25 8:22:35a Clemence yells, "here"
+1/21/25 8:22:35a You slaughtered an Orga.
+1/21/25 8:22:41a Klur yells, "out"
+1/21/25 8:22:49a Eli yells, "dead here"
+1/21/25 8:22:52a You slaughtered a Rat.
+1/21/25 8:22:53a * You pick up 5 coins.
+1/21/25 8:22:53a * You gain experience.
+1/21/25 8:22:55a You equip your chain.
+1/21/25 8:22:56a You start dragging the Rat.
+1/21/25 8:23:03a You equip your gossamer.
+1/21/25 8:23:06a You slip your heartwood charm into your backpack.
+1/21/25 8:23:06a • You slow down to normal speed.
+1/21/25 8:23:07a You equip your heartwood charm.
+1/21/25 8:23:07a You slaughtered an Orga.
+1/21/25 8:23:09a •You assume the shape of a Giant Carnivorous Plankton.
+1/21/25 8:23:17a • You gather your energy.
+1/21/25 8:23:18a • You return to your normal form.
+1/21/25 8:23:20a • You speed up.
+1/21/25 8:23:25a You slip your heartwood charm into your backpack.
+1/21/25 8:23:25a • You slow down to normal speed.
+1/21/25 8:23:25a You slaughtered a Rat.
+1/21/25 8:23:30a You slaughtered a Rat.
+1/21/25 8:23:32a You examine the patch of ground where Romanus once stood.
+1/21/25 8:23:34a You slaughtered a Rat.
+1/21/25 8:23:34a Aye'Cha thinks, "Got a dead Dae and Helja in East Town, where are we meeting?"
+1/21/25 8:23:50a Clemence thinks, "east farm snell currently"
+1/21/25 8:23:52a Aye'Cha growls, "Asking for directions, I'm a woman. sorry."
+1/21/25 8:23:57a (Dae Fenris chuckles.)
+1/21/25 8:24:02a •You sense healing energy from Mimo.
+1/21/25 8:24:13a Eitri is now Clanning.
+1/21/25 8:24:28a Helja is no longer fallen.
+1/21/25 8:24:41a Murrim is no longer Clanning.
+1/21/25 8:24:41a You begin sharing your experiences with Clemence.
+1/21/25 8:24:41a You are sharing experiences with Clemence, Sauver, Mimo and Helja.
+1/21/25 8:24:44a You are still too mentally fatigued to change spirit links.
+1/21/25 8:24:44a •You sense healing energy from Sauver.
+1/21/25 8:24:47a •You sense healing energy from Kin.
+1/21/25 8:24:48a You begin sharing your experiences with Kin.
+1/21/25 8:24:48a You are sharing experiences with Kin, Clemence, Sauver, Mimo and Helja.
+1/21/25 8:24:50a •You sense healing energy from Mimo.
+1/21/25 8:25:13a You equip your heartwood charm.
+1/21/25 8:25:13a • You gather your energy.
+1/21/25 8:25:15a You slaughtered an Orga.
+1/21/25 8:25:16a • You speed up.
+1/21/25 8:25:22a You slaughtered an Orga.
+1/21/25 8:25:28a You helped kill an Orga Hatred.
+1/21/25 8:25:30a You slaughtered a Large Vermine.
+1/21/25 8:25:32a •You sense healing energy from Helja.
+1/21/25 8:25:36a Clemence has fallen to a lightning bolt.
+1/21/25 8:25:42a Clemence yells, "i died"
+1/21/25 8:25:46a You slaughtered an Orga Mudang.
+1/21/25 8:25:56a You slip your heartwood charm into your backpack.
+1/21/25 8:25:56a • You slow down to normal speed.
+1/21/25 8:26:04a Clemence says, "thank ye"
+1/21/25 8:26:09a Clemence says, "i am pretty dead"
+1/21/25 8:26:11a Helja says, "mms"
+1/21/25 8:26:34a Clemence is no longer fallen.
+1/21/25 8:26:50a •You sense healing energy from Sauver.
+1/21/25 8:27:31a Magnic asks, "uuthey dead or?"
+1/21/25 8:27:42a Eli yells, "going to heal"
+1/21/25 8:27:42a You slaughtered a Large Vermine.
+1/21/25 8:27:43a * You recover the Large Vermine fur, worth 1c.
+1/21/25 8:27:49a You slaughtered an Orga.
+1/21/25 8:27:51a You equip your heartwood charm.
+1/21/25 8:27:51a • You gather your energy.
+1/21/25 8:27:54a • You speed up.
+1/21/25 8:27:55a Clemence yells, "any dead?"
+1/21/25 8:27:55a You slaughtered an Orga Mudang.
+1/21/25 8:27:56a * Your share in the 3c Orga Mudang bounty is 1c.
+1/21/25 8:27:57a A monster growls, "Die!"
+1/21/25 8:27:57a You slaughtered an Orga.
+1/21/25 8:28:10a You slaughtered an Orga Mudang.
+1/21/25 8:28:18a Clemence yells, "heading out"
+1/21/25 8:28:20a You slaughtered an Orga Mudang.
+1/21/25 8:28:20a * Your share in the 5c Orga Mudang bounty is 2c.
+1/21/25 8:28:26a You slaughtered an Orga Warlock.
+1/21/25 8:28:29a * You pick up 6 coins.
+1/21/25 8:28:29a * You gain experience.
+1/21/25 8:28:33a You slaughtered an Orga Warrior.
+1/21/25 8:28:42a You slaughtered an Orga.
+1/21/25 8:28:51a You slaughtered an Orga Fury.
+1/21/25 8:28:59a Dae Fenris yells, "Yip yip yip yip!"
+1/21/25 8:29:02a Klur yells, "p"
+1/21/25 8:29:05a You slaughtered a Rat.
+1/21/25 8:29:07a You slip your heartwood charm into your backpack.
+1/21/25 8:29:07a • You slow down to normal speed.
+1/21/25 8:29:23a •You sense healing energy from Mimo.
+1/21/25 8:29:51a You slaughtered an Orga.
+1/21/25 8:30:18a You slaughtered an Orga.
+1/21/25 8:30:34a Palmeri is now Clanning.
+1/21/25 8:30:37a You slaughtered an Orga Anger.
+1/21/25 8:30:39a Sauver thinks, "regroup n field to fight into ne field"
+1/21/25 8:30:49a You slaughtered an Orga.
+1/21/25 8:30:51a A monster growls, "Die!"
+1/21/25 8:30:56a You slaughtered an Orga.
+1/21/25 8:31:01a You equip your heartwood charm.
+1/21/25 8:31:01a • You gather your energy.
+1/21/25 8:31:02a You slaughtered an Orga.
+1/21/25 8:31:03a You slaughtered an Orga.
+1/21/25 8:31:04a • You speed up.
+1/21/25 8:31:05a You helped slaughter an Orga Fury.
+1/21/25 8:31:07a * You pick up 4 coins.
+1/21/25 8:31:07a * You gain experience.
+1/21/25 8:31:12a You slaughtered an Orga.
+1/21/25 8:31:23a You vanquished an Orga Callock.
+1/21/25 8:31:25a You slaughtered an Orga.
+1/21/25 8:31:25a You slaughtered a Small Arachne.
+1/21/25 8:31:25a * You pick up 20 coins.
+1/21/25 8:31:25a * You gain experience.
+1/21/25 8:31:53a The Orga Warlock smiles.
+1/21/25 8:31:54a You slaughtered an Orga Warlock.
+1/21/25 8:31:55a Tani is now Clanning.
+1/21/25 8:32:13a You slip your heartwood charm into your backpack.
+1/21/25 8:32:13a • You slow down to normal speed.
+1/21/25 8:32:16a You slaughtered a Large Vermine.
+1/21/25 8:32:16a * Kin recovers the Large Vermine fur, worth 1c. Your share is 1c.
+1/21/25 8:32:19a You slaughtered a Large Vermine.
+1/21/25 8:32:19a * You recover the Large Vermine fur, worth 1c.
+1/21/25 8:32:24a Aye'Cha says, "Thanks~"
+1/21/25 8:32:26a (Klur smiles)
+1/21/25 8:32:28a You slaughtered a Large Vermine.
+1/21/25 8:32:33a Aye'Cha growls, "Thanks~"
+1/21/25 8:32:38a You are no longer sharing experiences with Helja.
+1/21/25 8:32:38a You begin sharing your experiences with Klur.
+1/21/25 8:32:38a You are sharing experiences with Klur, Kin, Clemence, Sauver and Mimo.
+1/21/25 8:32:54a You are no longer sharing experiences with Mimo.
+1/21/25 8:32:54a You begin sharing your experiences with Dae Fenris.
+1/21/25 8:32:54a You are sharing experiences with Dae Fenris, Klur, Kin, Clemence and Sauver.
+1/21/25 8:33:03a You slaughtered a Large Vermine.
+1/21/25 8:33:03a * You recover the Large Vermine fur, worth 1c.
+1/21/25 8:33:07a Yum is no longer Clanning.
+1/21/25 8:33:10a Tani is no longer Clanning.
+1/21/25 8:33:36a You slaughtered an Orga.
+1/21/25 8:33:39a You equip your heartwood charm.
+1/21/25 8:33:40a • You gather your energy.
+1/21/25 8:33:42a • You speed up.
+1/21/25 8:33:43a You slaughtered a Large Vermine.
+1/21/25 8:33:45a You helped slaughter an Orga Fury.
+1/21/25 8:33:48a You helped slaughter an Orga Fury.
+1/21/25 8:33:49a * Your share in the 2c Orga Fury bounty is 1c.
+1/21/25 8:33:55a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+1/21/25 8:33:56a • You slow down to normal speed.
+1/21/25 8:33:56a Magnic has fallen to a lightning bolt.
+1/21/25 8:33:56a Aye'Cha starts dragging you.
+1/21/25 8:33:58a Eli yells, "?"
+1/21/25 8:34:00a Dae Fenris yells, "Heavens to Murgatroyd!"
+1/21/25 8:34:02a Aye'Cha growls, "shout form"
+1/21/25 8:34:02a Naferu thinks, "muster stations?"
+1/21/25 8:34:03a Silky yells, "."
+1/21/25 8:34:04a A monster growls, "Kill!"
+1/21/25 8:34:19a Cinderella is no longer Clanning.
+1/21/25 8:34:26a Eli yells, "?"
+1/21/25 8:34:29a Bungleyed Grok is now Clanning.
+1/21/25 8:34:29a Dae Fenris yells, "Heavens to Murgatroyd!"
+1/21/25 8:34:38a Aye'Cha yells, "you up?"
+1/21/25 8:34:48a A monster growls, "Die!"
+1/21/25 8:34:52a A monster growls, "Kill!"
+1/21/25 8:34:59a Dae Fenris yells, "Crossed bridge"
+1/21/25 8:35:03a Biro yells, "ababa?"
+1/21/25 8:35:07a Palmeri thinks, "where are we now?"
+1/21/25 8:35:07a Aye'Cha yells, "rawr"
+1/21/25 8:35:09a A Rat chews on your body parts.
+1/21/25 8:35:21a Kin has fallen to a lightning bolt.
+1/21/25 8:35:24a Klur's chain flies apart from the stress.
+1/21/25 8:35:27a Aye'Cha thinks, "NE Fields?"
+1/21/25 8:35:30a A monster growls, "Kill!"
+1/21/25 8:35:32a Aye'Cha starts dragging you.
+1/21/25 8:35:37a Palmeri yells, "hello"
+1/21/25 8:35:51a Kin is no longer fallen.
+1/21/25 8:35:54a Dae Fenris thinks, "Recovering in undine hut"
+1/21/25 8:36:05a Aye'Cha thinks, "brt with a fallen magnic"
+1/21/25 8:36:11a Helja is no longer Clanning.
+1/21/25 8:36:13a •You sense healing energy from Sauver.
+1/21/25 8:36:18a Ryno is now Clanning.
+1/21/25 8:36:21a (Bungleyed Grok waves)
+1/21/25 8:36:23a Eli says, "Hey"
+1/21/25 8:36:24a Silky says, "Hiu"
+1/21/25 8:36:25a (Dae Fenris waves.)
+1/21/25 8:37:16a Palmeri says, "sorry, my macros are all messed up"
+1/21/25 8:37:21a Kin picks up a cluster of mutated spores.
+1/21/25 8:37:57a Palmeri says, "damn that was a big guy"
+1/21/25 8:38:05a You slaughtered an Orga Warrior.
+1/21/25 8:38:11a You helped kill an Orga Dredlock.
+1/21/25 8:38:11a * You pick up 9 coins.
+1/21/25 8:38:11a * You gain experience.
+1/21/25 8:38:12a * Your share in the 2c Orga Dredlock bounty is 1c.
+1/21/25 8:38:12a * You pick up 10 coins.
+1/21/25 8:38:12a * You gain experience.
+1/21/25 8:38:13a You helped kill an Orga Dredlock.
+1/21/25 8:38:13a * Your share in the 4c Orga Dredlock bounty is 1c.
+1/21/25 8:38:15a * You pick up 5 coins.
+1/21/25 8:38:15a * You gain experience.
+1/21/25 8:38:16a You slaughtered an Orga Envy.
+1/21/25 8:38:17a You helped kill an Orga Dredlock.
+1/21/25 8:38:18a * You pick up 11 coins.
+1/21/25 8:38:18a * You gain experience.
+1/21/25 8:38:19a You helped slaughter an Orga Envy.
+1/21/25 8:38:23a You slaughtered an Orga Envy.
+1/21/25 8:38:23a You slaughtered an Orga Envy.
+1/21/25 8:38:25a You slip your heartwood charm into your backpack.
+1/21/25 8:38:41a Aye'Cha growls, "yea, but i dont think cats lick faces"
+1/21/25 8:38:45a Biro says, "mine does"
+1/21/25 8:38:51a Aye'Cha growls, "hehe"
+1/21/25 8:38:52a You slaughtered an Orga.
+1/21/25 8:38:55a Biro says, "very obsessed with licking noses"
+1/21/25 8:39:08a Aye'Cha growls, "Yea, I wasn't going for cute. Was going for annoying and sloppy"
+1/21/25 8:39:19a Aye'Cha growls, "x)"
+1/21/25 8:39:31a Biro ponders, "it turns into that when its 5am :D"
+1/21/25 8:40:10a Biro ponders, "i think a bit more wubs are better :]"
+1/21/25 8:40:20a Eli yells, "?"
+1/21/25 8:40:24a Aye'Cha thinks, "Where's the front line atm?"
+1/21/25 8:40:38a •You sense healing energy from Ryno.
+1/21/25 8:40:38a Bungleyed Grok says, "ty ty"
+1/21/25 8:40:52a You are no longer sharing experiences with Sauver.
+1/21/25 8:40:52a You begin sharing your experiences with Ryno.
+1/21/25 8:40:52a You are sharing experiences with Ryno, Dae Fenris, Klur, Kin and Clemence.
+1/21/25 8:41:01a Biro is no longer Clanning.
+1/21/25 8:41:08a You slaughtered an Orga.
+1/21/25 8:41:14a The Orga Hemlock glares at Magnic.
+1/21/25 8:41:15a Ponyo thinks, "NAFERU WHERE ARE YOU"
+1/21/25 8:41:16a You slaughtered an Orga Hemlock.
+1/21/25 8:41:20a You slaughtered an Orga Hemlock.
+1/21/25 8:41:21a * You pick up 10 coins.
+1/21/25 8:41:21a * You gain experience.
+1/21/25 8:41:23a * You pick up 55 coins.
+1/21/25 8:41:23a * You gain experience.
+1/21/25 8:41:34a You slaughtered an Orga Warlock.
+1/21/25 8:41:45a You slaughtered an Orga Warlock.
+1/21/25 8:41:46a Eli yells, "?"
+1/21/25 8:41:50a Klur yells, "p"
+1/21/25 8:42:05a Silky says, "seems clm"
+1/21/25 8:42:07a Silky says, "calm"
+1/21/25 8:42:10a Eli says, "ya"
+1/21/25 8:42:25a * You pick up 2 coins.
+1/21/25 8:42:25a * You gain experience.
+1/21/25 8:42:28a * You pick up 5 coins.
+1/21/25 8:42:28a * You gain experience.
+1/21/25 8:42:35a You equip your chain.
+1/21/25 8:42:37a You start dragging the Orga Loathing.
+1/21/25 8:42:48a Aye'Cha thinks, "I am meandering scouting"
+1/21/25 8:43:09a You equip your heartwood charm.
+1/21/25 8:43:09a • You gather your energy.
+1/21/25 8:43:11a • You speed up.
+1/21/25 8:43:29a You vault the wall.
+1/21/25 8:43:36a You slip your heartwood charm into your backpack.
+1/21/25 8:43:36a • You slow down to normal speed.
+1/21/25 8:43:40a Phillip Peltkeeper says, "Ah, this Orga Loathing carcass seems to be in good condition."
+1/21/25 8:43:41a Phillip Peltkeeper says, "For 740 coins, I could make it into a trophy for you."
+1/21/25 8:43:41a Phillip Peltkeeper asks, "Would you like me to do that?"
+1/21/25 8:43:43a Magnic says, "yes"
+1/21/25 8:43:44a Phillip Peltkeeper asks, "How would you like this animal posed? Standing, or attacking?"
+1/21/25 8:43:50a Magnic says, "attacking"
+1/21/25 8:43:50a Phillip Peltkeeper exclaims, "Alright, here's your trophy!"
+1/21/25 8:43:51a Phillip Peltkeeper says, "I practice the art of preserving dead creatures."
+1/21/25 8:43:51a Phillip Peltkeeper says, "If you bring me an animal, I could make it into a trophy for you."
+1/21/25 8:43:52a Phillip Peltkeeper says, "I practice the art of preserving dead creatures."
+1/21/25 8:43:57a You equip your heartwood charm.
+1/21/25 8:43:57a • You gather your energy.
+1/21/25 8:44:00a • You speed up.
+1/21/25 8:44:01a You equip your gossamer.
+1/21/25 8:44:04a You vault the wall.
+1/21/25 8:44:27a Dae Fenris thinks, "Seems quiet now. Toggle if you are fallen somewhere without companions."
+1/21/25 8:44:28a You slaughtered a Vermine.
+1/21/25 8:44:29a You slaughtered a Vermine.
+1/21/25 8:45:20a You slaughtered an Orga Warlock.
+1/21/25 8:45:21a A monster growls, "Die!"
+1/21/25 8:45:22a You slaughtered a Large Death Vermine.
+1/21/25 8:45:22a * You recover the Large Death Vermine fur, worth 2c. Your share is 2c.
+1/21/25 8:45:23a You slaughtered a Large Death Vermine.
+1/21/25 8:45:23a * You recover the Large Death Vermine fur, worth 6c. Your share is 6c.
+1/21/25 8:45:23a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+1/21/25 8:45:24a • You slow down to normal speed.
+1/21/25 8:45:24a Magnic has fallen to a lightning bolt.
+1/21/25 8:45:34a Magnic says, "heh"
+1/21/25 8:45:36a A Rat tears at your toes.
+1/21/25 8:45:36a A Rat nibbles your flesh.
+1/21/25 8:45:57a A Rat rips at your fingertips.
+1/21/25 8:46:05a A Rat feasts upon your toes.
+1/21/25 8:46:05a A monster growls, "Kill!"
+1/21/25 8:46:07a A Rat chews on your fallen body.
+1/21/25 8:46:14a A monster growls, "Kill!"
+1/21/25 8:46:21a Dae Fenris thinks, "Does someone have Magnic?"
+1/21/25 8:46:35a A Rat munches on your gaping mouth.
+1/21/25 8:46:38a Mimo thinks, "tw5"
+1/21/25 8:46:38a A monster growls, "Kill!"
+1/21/25 8:46:40a A monster growls, "Kill!"
+1/21/25 8:46:54a A Scavenger Bird feasts upon your entrails.
+1/21/25 8:46:55a A Rat munches on your eye sockets.
+1/21/25 8:46:56a Magnic yells, "!"
+1/21/25 8:46:56a Lightbringer thinks, "N of orchard is bad"
+1/21/25 8:46:57a Ponyo thinks, "I found more! tanglewoods I think"
+1/21/25 8:47:03a A monster growls, "Kill!"
+1/21/25 8:47:21a A Rat bites your eye sockets.
+1/21/25 8:47:22a Palmeri thinks, "so where do we want to focus? TW or north of orchard?"
+1/21/25 8:47:27a Eli thinks, "ponyo fell"
+1/21/25 8:47:30a The Orga Warlock glares at Lightbringer.
+1/21/25 8:47:36a A Scavenger Bird chews on your fallen body.
+1/21/25 8:47:39a A Scavenger Bird tears at your body parts.
+1/21/25 8:47:39a A Rat plucks at your wounds.
+1/21/25 8:47:39a A Rat chews on your gaping mouth.
+1/21/25 8:47:39a A monster growls, "Die!"
+1/21/25 8:47:39a A monster growls, "Kill!"
+1/21/25 8:47:40a Silky thinks, "save Ponya"
+1/21/25 8:47:41a A Rat plucks at your gaping mouth.
+1/21/25 8:47:43a A Rat munches on your eye sockets.
+1/21/25 8:47:49a A monster growls, "Kill!"
+1/21/25 8:47:51a Palmeri thinks, "where?"
+1/21/25 8:47:55a Ponyo yells, "can you NOT talk about eating me, creepy orga?"
+1/21/25 8:48:00a A monster growls, "Die!"
+1/21/25 8:48:01a Lightbringer yells, "Eek"
+1/21/25 8:48:03a A monster growls, "Die!"
+1/21/25 8:48:08a A Scavenger Bird munches on your organs.
+1/21/25 8:48:08a Magnic yells, "heh"
+1/21/25 8:48:14a A monster growls, "Kill!"
+1/21/25 8:48:27a Ponyo yells, "....why is a feral talking like the orga?"
+1/21/25 8:48:30a A Rat nibbles your organs.
+1/21/25 8:48:35a A monster growls, "Die!"
+1/21/25 8:48:44a A Rat munches on your flesh.
+1/21/25 8:48:44a Magnic yells, "there learning"
+1/21/25 8:48:45a A monster growls, "Kill!"
+1/21/25 8:48:46a Bungleyed Grok is no longer Clanning.
+1/21/25 8:48:46a A Rat pokes at your eye sockets.
+1/21/25 8:48:50a Silky thinks, "where is ponyo?"
+1/21/25 8:48:58a A Rat bites your fingertips.
+1/21/25 8:49:00a A monster growls, "Kill!"
+1/21/25 8:49:04a Ryno thinks, "assuming TW"
+1/21/25 8:49:13a A monster growls, "Kill!"
+1/21/25 8:49:13a Ponyo yells, "hi!"
+1/21/25 8:49:22a A monster growls, "Die!"
+1/21/25 8:49:22a Naferu yells, "?"
+1/21/25 8:49:25a Ponyo yells, "aaaa"
+1/21/25 8:49:26a A Rat tears at your organs.
+1/21/25 8:49:30a A monster growls, "Kill!"
+1/21/25 8:49:37a A Rat feasts upon your flesh.
+1/21/25 8:49:38a A Scavenger Bird chews on your entrails.
+1/21/25 8:49:44a A Rat pokes at your body parts.
+1/21/25 8:49:46a A Rat chews on your entrails.
+1/21/25 8:49:54a A Rat pokes at your fallen body.
+1/21/25 8:49:54a Aye'Cha thinks, "Atleast I wasn't the only one who saw "Orchard" and did not think Meadow :)"
+1/21/25 8:49:56a A Rat tears at your eye sockets.
+1/21/25 8:49:57a Ryno has fallen to an Orga Callock.
+1/21/25 8:49:58a Palmeri thinks, "with klur s on tw"
+1/21/25 8:49:58a Naferu thinks, "chained meadow"
+1/21/25 8:50:02a Ryno yells, "Hi naf!"
+1/21/25 8:50:03a A Rat rips at your toes.
+1/21/25 8:50:09a A Rat plucks at your organs.
+1/21/25 8:50:11a A monster growls, "Die!"
+1/21/25 8:50:15a A Rat plucks at your fallen body.
+1/21/25 8:50:18a A Rat tears at your eye sockets.
+1/21/25 8:50:22a Naferu thinks, "oops sorry I missed you"
+1/21/25 8:50:24a Palmeri thinks, "oh yeah orchard means orchard haah"
+1/21/25 8:50:34a A Rat bites your fallen body.
+1/21/25 8:50:38a A Rat plucks at your toes.
+1/21/25 8:50:40a Pendarric thinks, "Woof! LB "whiffs" again :P"
+1/21/25 8:50:43a Naferu thinks, "2 fallen in meadow"
+1/21/25 8:50:43a A monster growls, "Die!"
+1/21/25 8:50:44a A Rat pokes at your gaping mouth.
+1/21/25 8:50:45a A Scavenger Bird rips at your fallen body.
+1/21/25 8:50:46a •You sense healing energy from Mimo.
+1/21/25 8:50:46a You are no longer sharing experiences with Clemence.
+1/21/25 8:50:46a You begin sharing your experiences with Mimo.
+1/21/25 8:50:46a You are sharing experiences with Mimo, Ryno, Dae Fenris, Klur and Kin.
+1/21/25 8:50:47a A monster growls, "Kill!"
+1/21/25 8:50:47a A Rat chews on your flesh.
+1/21/25 8:50:49a A Rat munches on your toes.
+1/21/25 8:50:51a A monster growls, "Die!"
+1/21/25 8:50:54a Mimo has fallen to a flame.
+1/21/25 8:50:56a A monster growls, "Kill!"
+1/21/25 8:51:00a Palmeri thinks, "i can send clem to meadow but she needs a guide"
+1/21/25 8:51:02a A Rat chews on your gaping mouth.
+1/21/25 8:51:08a A Rat pokes at your eye sockets.
+1/21/25 8:51:23a A monster growls, "Kill!"
+1/21/25 8:51:33a A Rat chews on your toes.
+1/21/25 8:51:34a A Rat feasts upon your gaping mouth.
+1/21/25 8:51:35a A Rat feasts upon your fingertips.
+1/21/25 8:51:36a Naferu thinks, "can pf from s farms to meadow"
+1/21/25 8:51:36a The Orga Warlock glares at Silky.
+1/21/25 8:51:38a Palmeri says, "well"
+1/21/25 8:51:39a A Rat plucks at your organs.
+1/21/25 8:51:40a Palmeri says, "i killed one"
+1/21/25 8:51:47a A Rat chews on your gaping mouth.
+1/21/25 8:51:52a A Rat feasts upon your entrails.
+1/21/25 8:51:55a A Rat chews on your eye sockets.
+1/21/25 8:51:55a A Rat rips at your fingertips.
+1/21/25 8:52:00a A monster growls, "Die!"
+1/21/25 8:52:01a Clemence yells, "i tried"
+1/21/25 8:52:02a A Rat nibbles your body parts.
+1/21/25 8:52:05a A monster growls, "Die!"
+1/21/25 8:52:10a A monster growls, "Kill!"
+1/21/25 8:52:11a Magnic says, ":)"
+1/21/25 8:52:11a A Rat bites your fingertips.
+1/21/25 8:52:13a Magnic says, "heh"
+1/21/25 8:52:15a A Rat plucks at your flesh.
+1/21/25 8:52:21a You slip your heartwood charm into your backpack.
+1/21/25 8:52:23a A Rat chews on your wounds.
+1/21/25 8:52:28a A Rat tears at your fallen body.
+1/21/25 8:52:31a You have 3974 coins.
+1/21/25 8:52:33a A Scavenger Bird plucks at your flesh.
+1/21/25 8:52:35a A Rat tears at your flesh.
+1/21/25 8:52:56a Ryno is still fallen to an Orga Callock.
+1/21/25 8:52:59a A Rat bites your eye sockets.
+1/21/25 8:52:59a Alieshia is no longer Clanning.
+1/21/25 8:53:01a A monster growls, "Die!"
+1/21/25 8:53:08a A Scavenger Bird plucks at your organs.
+1/21/25 8:53:12a A monster growls, "Die!"
+1/21/25 8:53:20a A Rat munches on Clemence's fallen body.
+1/21/25 8:53:22a A Rat tears at your toes.
+1/21/25 8:53:24a A Rat tears at Clemence's fallen body.
+1/21/25 8:53:27a A Rat rips at Clemence's fallen body.
+1/21/25 8:53:31a Shtabula is no longer Clanning.
+1/21/25 8:53:51a A monster growls, "Die!"
+1/21/25 8:53:51a You have 3974 coins.
+1/21/25 8:53:52a A monster growls, "Kill!"
+1/21/25 8:53:53a Mimo is still fallen to a flame.
+1/21/25 8:54:10a A Rat rips at your fingertips.
+1/21/25 8:54:11a A Rat chews on Mimo's wounds.
+1/21/25 8:54:12a A Rat tears at Mimo's fallen body.
+1/21/25 8:54:20a Magnic yells, "woo"
+1/21/25 8:54:25a A Rat rips at your flesh.
+1/21/25 8:54:26a A Scavenger Bird munches on Palmeri's fingertips.
+1/21/25 8:54:27a Aye'Cha starts dragging you.
+1/21/25 8:54:39a •You sense healing energy from Sauver.
+1/21/25 8:54:39a You are no longer sharing experiences with Kin.
+1/21/25 8:54:39a You begin sharing your experiences with Sauver.
+1/21/25 8:54:39a You are sharing experiences with Sauver, Mimo, Ryno, Dae Fenris and Klur.
+1/21/25 8:54:43a Aye'Cha says, "There's you some more"
+1/21/25 8:54:48a •You sense healing energy from Pendarric.
+1/21/25 8:54:48a You are no longer sharing experiences with Klur.
+1/21/25 8:54:48a You begin sharing your experiences with Pendarric.
+1/21/25 8:54:48a You are sharing experiences with Pendarric, Sauver, Mimo, Ryno and Dae Fenris.
+1/21/25 8:54:54a Sauver says, "quite pon"
+1/21/25 8:54:58a You are no longer sharing experiences with Dae Fenris.
+1/21/25 8:54:58a You begin sharing your experiences with Klur.
+1/21/25 8:54:58a You are sharing experiences with Klur, Pendarric, Sauver, Mimo and Ryno.
+1/21/25 8:54:59a Sauver says, "can get ponyo with clem"
+1/21/25 8:54:59a Pendarric says, "on pon"
+1/21/25 8:55:10a Pendarric says, "Mim NU"
+1/21/25 8:55:12a You have 3974 coins.
+1/21/25 8:55:16a Aye'Cha says, "sorry mag, didn't know i still had you chianed"
+1/21/25 8:55:19a Mimo is no longer fallen.
+1/21/25 8:55:23a Magnic says, ":P"
+1/21/25 8:55:26a Ryno is no longer fallen.
+1/21/25 8:55:31a •You sense healing energy from Sauver.
+1/21/25 8:55:31a Aye'Cha says, "I just pulled you away from a healer ;p sorry"
+1/21/25 8:55:38a Clemence says, "I am going to stay in Meadow for horus needs"
+1/21/25 8:55:48a •You sense healing energy from Pendarric.
+1/21/25 8:55:52a •You sense healing energy from Sauver.
+1/21/25 8:55:52a •You sense healing energy from Mimo.
+1/21/25 8:55:54a •You sense healing energy from Ponyo.
+1/21/25 8:55:54a You are no longer sharing experiences with Ryno.
+1/21/25 8:55:54a You begin sharing your experiences with Ponyo.
+1/21/25 8:55:54a You are sharing experiences with Ponyo, Klur, Pendarric, Sauver and Mimo.
+1/21/25 8:55:55a •You sense healing energy from Kin.
+1/21/25 8:55:57a You are no longer sharing experiences with Mimo.
+1/21/25 8:55:57a You begin sharing your experiences with Kin.
+1/21/25 8:55:57a You are sharing experiences with Kin, Ponyo, Klur, Pendarric and Sauver.
+1/21/25 8:55:58a Pendarric says, "Oh, yay"
+1/21/25 8:56:01a You are no longer sharing experiences with Sauver.
+1/21/25 8:56:01a You begin sharing your experiences with Mimo.
+1/21/25 8:56:01a You are sharing experiences with Mimo, Kin, Ponyo, Klur and Pendarric.
+1/21/25 8:56:04a You are no longer sharing experiences with Pendarric.
+1/21/25 8:56:04a You begin sharing your experiences with Sauver.
+1/21/25 8:56:04a You are sharing experiences with Sauver, Mimo, Kin, Ponyo and Klur.
+1/21/25 8:56:05a Silky says, "nice"
+1/21/25 8:56:07a You are no longer sharing experiences with Klur.
+1/21/25 8:56:07a You begin sharing your experiences with Pendarric.
+1/21/25 8:56:07a You are sharing experiences with Pendarric, Sauver, Mimo, Kin and Ponyo.
+1/21/25 8:56:14a Magnic says, "heh"
+1/21/25 8:56:23a Articuno is no longer Clanning.
+1/21/25 8:56:28a Ulric is no longer Clanning.
+1/21/25 8:56:32a You have 3974 coins.
+1/21/25 8:56:32a Lightbringer says, "I flickered E from N a bit, and they lure thre"
+1/21/25 8:56:33a Palmeri says, "alright someone lead me"
+1/21/25 8:56:33a Sikophit is no longer Clanning.
+1/21/25 8:57:04a TorcherBaby is no longer Clanning.
+1/21/25 8:57:04a You slaughtered an Orga.
+1/21/25 8:57:04a You equip your heartwood charm.
+1/21/25 8:57:05a • You gather your energy.
+1/21/25 8:57:07a • You speed up.
+1/21/25 8:57:07a Saffron is no longer Clanning.
+1/21/25 8:57:08a You helped slaughter an Orga Mudang.
+1/21/25 8:57:11a You slaughtered an Orga Hemlock.
+1/21/25 8:57:12a * You pick up 3 coins.
+1/21/25 8:57:12a * You gain experience.
+1/21/25 8:57:12a You slaughtered a Large Vermine.
+1/21/25 8:57:12a * You recover the Large Vermine fur, worth 1c.
+1/21/25 8:57:14a You helped slaughter an Orga Hemlock.
+1/21/25 8:57:15a * You pick up 2 coins.
+1/21/25 8:57:15a * You gain experience.
+1/21/25 8:57:17a * You pick up 1 coin.
+1/21/25 8:57:17a * You gain experience.
+1/21/25 8:57:20a Lightbringer yells, "?"
+1/21/25 8:57:24a * You pick up 12 coins.
+1/21/25 8:57:24a * You gain experience.
+1/21/25 8:57:24a Eli thinks, "n safeish"
+1/21/25 8:57:28a You slaughtered an Orga Warlock.
+1/21/25 8:57:37a Palmeri yells, "safe ish hahahaha"
+1/21/25 8:57:38a You helped dispatch an Orga Frenzy.
+1/21/25 8:57:39a * You pick up 7 coins.
+1/21/25 8:57:39a * You gain experience.
+1/21/25 8:57:52a You have 3999 coins.
+1/21/25 8:57:58a You slaughtered a Large Death Vermine.
+1/21/25 8:57:58a * You recover the Large Death Vermine fur, worth 1c.
+1/21/25 8:58:00a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+1/21/25 8:58:00a • You slow down to normal speed.
+1/21/25 8:58:00a Magnic has fallen to a lightning bolt.
+1/21/25 8:58:02a Kin has fallen to an Orga Direlock.
+1/21/25 8:58:02a * You pick up 4 coins.
+1/21/25 8:58:02a * You gain experience.
+1/21/25 8:58:02a A monster growls, "Kill!"
+1/21/25 8:58:03a Silky starts dragging you.
+1/21/25 8:58:03a Magnic says, "hmm"
+1/21/25 8:58:03a The Orga Warlock smiles.
+1/21/25 8:58:08a A monster growls, "Die!"
+1/21/25 8:58:09a Magnic says, "bad idea :P"
+1/21/25 8:58:17a Katreesa is now Clanning.
+1/21/25 8:58:48a •You sense healing energy from Pendarric.
+1/21/25 8:58:49a •You sense healing energy from Mimo.
+1/21/25 8:58:52a •You sense healing energy from Sauver.
+1/21/25 8:58:53a •You sense healing energy from Mimo.
+1/21/25 8:59:09a Palmeri says, "hold on i gotta fix my macro really quick"
+1/21/25 8:59:12a You have 4003 coins.
+1/21/25 8:59:16a You are no longer sharing experiences with Ponyo.
+1/21/25 8:59:16a You begin sharing your experiences with Klur.
+1/21/25 8:59:16a You are sharing experiences with Klur, Pendarric, Sauver, Mimo and Kin.
+1/21/25 8:59:40a Silky asks, "where are the other fallen Magnix? Just east of here?"
+1/21/25 8:59:48a Pendarric says, "3 fallen directly E"
+1/21/25 8:59:52a Pendarric says, "lots there"
+1/21/25 9:00:00a Silky asks, "what's the way back?"
+1/21/25 9:00:10a Pendarric says, "That's the right question :D"
+1/21/25 9:00:14a Silky says, "^^"
+1/21/25 9:00:21a Silky says, "forgot to navigate here"
+1/21/25 9:00:32a You have 4003 coins.
+1/21/25 9:00:41a Magnic says, "e 1 n 1 w 1 e1"
+1/21/25 9:00:47a Magnic says, "then south"
+1/21/25 9:00:52a Magnic says, "i think"
+1/21/25 9:01:02a Kin is still fallen to an Orga Direlock.
+1/21/25 9:01:18a Magnic says, "exit form here sw sw"
+1/21/25 9:01:29a The Orga Warlock glares at Magnic.
+1/21/25 9:01:30a You slaughtered a Large Death Vermine.
+1/21/25 9:01:35a You slaughtered a Large Death Vermine.
+1/21/25 9:01:35a * You recover the Large Death Vermine fur, worth 3c. Your share is 1c.
+1/21/25 9:01:35a You slaughtered a Large Death Vermine.
+1/21/25 9:01:36a * You recover the Large Death Vermine fur, worth 5c. Your share is 2c.
+1/21/25 9:01:36a Aye'Cha yells, "rawr"
+1/21/25 9:01:40a You slaughtered an Orga Envy.
+1/21/25 9:01:42a Naferu yells, "?"
+1/21/25 9:01:43a • You gather your energy.
+1/21/25 9:01:45a • You speed up.
+1/21/25 9:01:46a You slaughtered an Orga Warrior.
+1/21/25 9:01:51a A monster growls, "Kill!"
+1/21/25 9:01:53a You have 4006 coins.
+1/21/25 9:01:53a You slaughtered a Large Vermine.
+1/21/25 9:01:53a * You recover the Large Vermine fur, worth 2c. Your share is 1c.
+1/21/25 9:01:58a A monster growls, "Kill!"
+1/21/25 9:01:59a You slaughtered an Orga Warrior.
+1/21/25 9:02:00a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+1/21/25 9:02:00a • You slow down to normal speed.
+1/21/25 9:02:00a Magnic has fallen to a lightning bolt.
+1/21/25 9:02:17a Kin is no longer fallen.
+1/21/25 9:02:35a A monster growls, "Die!"
+1/21/25 9:02:39a A Rat pokes at your wounds.
+1/21/25 9:02:58a A Rat pokes at your wounds.
+1/21/25 9:03:01a A Rat pokes at your flesh.
+1/21/25 9:03:03a You helped slaughter an Orga Envy.
+1/21/25 9:03:10a Magnic yells, ":P"
+1/21/25 9:03:11a The Orga Warlock smiles.
+1/21/25 9:03:13a You have 4007 coins.
+1/21/25 9:03:21a A Rat nibbles your wounds.
+1/21/25 9:03:23a Silky starts dragging you.
+1/21/25 9:03:30a Naferu growls, "waiting for silky"
+1/21/25 9:03:32a Ponyo says, "allo kat :]"
+1/21/25 9:03:34a •You sense healing energy from Ponyo.
+1/21/25 9:03:34a •You sense healing energy from Katreesa.
+1/21/25 9:03:35a •You sense healing energy from Pendarric.
+1/21/25 9:03:35a You are no longer sharing experiences with Kin.
+1/21/25 9:03:35a You begin sharing your experiences with Ponyo.
+1/21/25 9:03:35a You are sharing experiences with Ponyo, Klur, Pendarric, Sauver and Mimo.
+1/21/25 9:03:37a Katreesa says, "hiyas"
+1/21/25 9:03:40a •You sense healing energy from Mimo.
+1/21/25 9:03:40a Palmeri exclaims, "ah Kat!!"
+1/21/25 9:03:42a Naferu growls, "maytnbe try a push together e"
+1/21/25 9:03:43a Palmeri exclaims, "hello =!"
+1/21/25 9:03:58a Silky says, "focus on ldv :)"
+1/21/25 9:04:19a A monster growls, "Kill!"
+1/21/25 9:04:20a You helped vanquish an Orga Direlock.
+1/21/25 9:04:22a You slaughtered a Vermine.
+1/21/25 9:04:25a You slaughtered an Orga.
+1/21/25 9:04:33a You have 4007 coins.
+1/21/25 9:04:34a • You gather your energy.
+1/21/25 9:04:35a You slaughtered an Orga Warrior.
+1/21/25 9:04:35a Using /SHARE to create a spirit link to another exile may improve your chances of rescue. If you have given up all hope, use /DEPART.
+1/21/25 9:04:35a • You slow down to normal speed.
+1/21/25 9:04:35a Magnic has fallen to a lightning bolt.
+1/21/25 9:05:03a A Rat munches on your flesh.
+1/21/25 9:05:11a A Rat chews on your fallen body.
+1/21/25 9:05:15a A Rat feasts upon your entrails.
+1/21/25 9:05:17a A Rat tears at your fingertips.
+1/21/25 9:05:18a A monster growls, "Die!"
+1/21/25 9:05:22a A Rat tears at your organs.
+1/21/25 9:05:25a A Rat plucks at your entrails.
+1/21/25 9:05:27a A Rat chews on your gaping mouth.
+1/21/25 9:05:39a A monster growls, "Kill!"
+1/21/25 9:05:43a Ponyo thinks, "N is fun too"
+1/21/25 9:05:44a A Rat rips at your eye sockets.
+1/21/25 9:05:45a Ponyo has fallen to a lightning bolt.
+1/21/25 9:05:48a A Rat pokes at your toes.
+1/21/25 9:05:49a A Rat bites your fallen body.
+1/21/25 9:05:53a You have 4007 coins.
+1/21/25 9:05:56a Magnic yells, "?"
+1/21/25 9:06:01a A Rat feasts upon your fingertips.
+1/21/25 9:06:02a Klur has fallen to a lightning bolt.
+1/21/25 9:06:18a The Orga Hemlock smiles.
+1/21/25 9:06:21a The Orga Warlock smiles.
+1/21/25 9:06:29a A Rat feasts upon your body parts.
+1/21/25 9:06:47a A Rat munches on your toes.
+1/21/25 9:06:48a A monster growls, "Die!"
+1/21/25 9:06:57a Mimo starts dragging you.
+1/21/25 9:06:58a A monster growls, "Die!"
+1/21/25 9:07:12a •You sense healing energy from Mimo.
+1/21/25 9:07:13a You have 4007 coins.
+1/21/25 9:08:10a •You sense healing energy from Rose.
+1/21/25 9:08:11a You are no longer sharing experiences with Mimo.
+1/21/25 9:08:11a You begin sharing your experiences with Rose.
+1/21/25 9:08:11a You are sharing experiences with Rose, Ponyo, Klur, Pendarric and Sauver.
+1/21/25 9:08:14a •You sense healing energy from Katreesa.
+1/21/25 9:08:14a You are no longer sharing experiences with Sauver.
+1/21/25 9:08:14a You begin sharing your experiences with Katreesa.
+1/21/25 9:08:14a You are sharing experiences with Katreesa, Rose, Ponyo, Klur and Pendarric.
+1/21/25 9:08:22a Pendarric says, "N is bad again"
+1/21/25 9:08:29a Ponyo is no longer fallen.
+1/21/25 9:08:34a You have 4007 coins.
+1/21/25 9:08:35a Palmeri says, "so uh, clem is in a snell with Master Mandrake"
+1/21/25 9:08:37a Ponyo says, "klur mms"
+1/21/25 9:08:49a Klur is no longer fallen.
+1/21/25 9:08:50a Palmeri says, "there are rats and some orga but its not bad"
+1/21/25 9:08:50a •You sense healing energy from Rose.
+1/21/25 9:08:54a •You sense healing energy from Katreesa.
+1/21/25 9:08:55a •You sense healing energy from Kin.
+1/21/25 9:08:55a You are no longer sharing experiences with Pendarric.
+1/21/25 9:08:55a You begin sharing your experiences with Kin.
+1/21/25 9:08:55a You are sharing experiences with Kin, Katreesa, Rose, Ponyo and Klur.
+1/21/25 9:08:58a •You sense healing energy from Pendarric.
+1/21/25 9:08:58a Ponyo says, "sms palmeri"
+1/21/25 9:08:59a •You sense healing energy from Mimo.
+1/21/25 9:08:59a You are no longer sharing experiences with Klur.
+1/21/25 9:08:59a You begin sharing your experiences with Pendarric.
+1/21/25 9:08:59a You are sharing experiences with Pendarric, Kin, Katreesa, Rose and Ponyo.
+1/21/25 9:09:07a Aye'Cha exclaims, "thanks!"
+1/21/25 9:09:09a Palmeri says, "thank ye healers"
+1/21/25 9:09:12a Eli thinks, "waiting where we were whereever that is"
+1/21/25 9:09:19a Pendarric says, "We might want to clear N again"
+1/21/25 9:09:25a Pendarric says, "before pressing on"
+1/21/25 9:09:26a Naferu says, "it is pretty clear now"
+1/21/25 9:09:27a Ponyo thinks, "tanglewoods! swswswsw"
+1/21/25 9:09:29a Pendarric says, "ah good"
+1/21/25 9:09:30a Naferu says, "think silky is getting the last"
+1/21/25 9:09:34a Palmeri thinks, "in meadow, probably going N from here it sounds like"
+1/21/25 9:09:41a Magnic says, "gtg, have fun"
+1/21/25 9:09:54a You have 4007 coins.
+1/21/25 9:10:18a • You gather your energy.
+1/21/25 9:10:20a • You speed up.
+1/21/25 9:10:34a You slaughtered a Large Vermine.
+1/21/25 9:10:54a You vault the wall.
+1/21/25 9:11:06a You slaughtered a Rat.
+1/21/25 9:11:07a You slip your heartwood charm into your backpack.
+1/21/25 9:11:07a • You slow down to normal speed.
+1/21/25 9:11:11a • /SLEEP when you wish to begin studying.
+1/21/25 9:11:13a • /SLEEP when you wish to begin studying.
+1/21/25 9:11:14a You have 4007 coins.
+1/21/25 9:11:15a Use \SLEEP again when you return.
+1/21/25 9:11:15a You are done adventuring for a while and will be studying here.
+1/21/25 9:11:16a You have been disconnected from Clan Lord.
+1/21/25 9:11:16a • You will benefit from studying here while you are off-line.
+1/21/25 9:11:17a *** We are no longer connected to the Clan Lord game server. ***

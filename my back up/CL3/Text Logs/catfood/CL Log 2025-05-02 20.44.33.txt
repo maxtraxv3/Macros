@@ -1,0 +1,142 @@
+
+5/2/25 8:44:34p * Your healer's shirt is in very good condition.
+5/2/25 8:44:34p * Your pair of second-circle pants named “white” is in very good condition.
+5/2/25 8:44:34p Welcome to Clan Lord, Cat Food!
+5/2/25 8:44:34p Type \HELP for a list of commands.
+5/2/25 8:44:34p • You gain experience from your recent studies.
+5/2/25 8:44:34p *Healer Mode
+5/2/25 8:44:34p *Type /hi help for more info
+5/2/25 8:44:34p The healing spell has started.
+5/2/25 8:44:34p You have been studying for one day, 7 hours, 16 minutes.
+5/2/25 8:44:37p It's 9:02am on Sombdi, day 72 of Spring, 641.
+5/2/25 8:44:37p Friends online: none.
+5/2/25 8:44:38p There are three members of Black Phoenix clanning: Grando, Mimo and you.
+5/2/25 8:44:38p • What’s New: https://deltatao.com/clanlord/news
+5/2/25 8:44:48p * Tip of the day: Most important buildings are within the town’s walls. (Use /OPTIONS to turn tips off.)
+5/2/25 8:45:44p * You need a breath of air!
+5/2/25 8:45:50p •The healing spell has been broken.
+5/2/25 8:45:52p * You need a breath of air!
+5/2/25 8:45:54p •You seem to recover spiritual energy faster.
+5/2/25 8:46:52p * Healer Item set to asklepian 
+5/2/25 8:47:09p Grando says, "c heal grando"
+5/2/25 8:47:09p No player named 'asklepian' found in the player list.
+5/2/25 8:47:09p * Auto Healing  
+5/2/25 8:47:09p • You begin radius healing.
+5/2/25 8:47:09p • There is nobody nearby enough to continue radius healing.
+5/2/25 8:47:21p Grando is sharing experiences with you.
+5/2/25 8:47:24p Grando says, "c heal grando"
+5/2/25 8:47:24p * Auto Healing  
+5/2/25 8:47:24p • You begin radius healing.
+5/2/25 8:47:30p * Healing Grando 
+5/2/25 8:47:50p Grando says, "c heal grando"
+5/2/25 8:47:50p * Auto Healing Grando 
+5/2/25 8:47:57p You have 128 coins.
+5/2/25 8:48:26p Grando says, "c heal grando"
+5/2/25 8:48:26p * Auto Healing Grando 
+5/2/25 8:48:59p * Healing Mimo 
+5/2/25 8:49:14p Grando says, "c heal grando"
+5/2/25 8:49:14p * Auto Healing Grando 
+5/2/25 8:49:53p * Healing Mimo 
+5/2/25 8:50:05p Grando says, "c heal grando"
+5/2/25 8:50:05p * Auto Healing Grando 
+5/2/25 8:50:46p Grando says, "c heal grando"
+5/2/25 8:50:46p * Auto Healing Grando 
+5/2/25 8:51:14p You have 128 coins.
+5/2/25 8:51:56p * Healing Mimo 
+5/2/25 8:52:07p Grando says, "c heal grando"
+5/2/25 8:52:07p * Auto Healing Grando 
+5/2/25 8:52:33p * Healing Mimo 
+5/2/25 8:52:51p Grando says, "c heal grando"
+5/2/25 8:52:51p * Auto Healing Grando 
+5/2/25 8:53:33p Grando says, "c heal grando"
+5/2/25 8:53:33p No player named 'heal' found in the player list.
+5/2/25 8:53:33p * Auto Healing  
+5/2/25 8:53:34p • You begin radius healing.
+5/2/25 8:53:38p * Healing Grando 
+5/2/25 8:54:29p You have 128 coins.
+5/2/25 8:55:01p Grando says, "c heal grando"
+5/2/25 8:55:01p * Auto Healing Grando 
+5/2/25 8:56:47p Grando says, "c heal grando"
+5/2/25 8:56:48p * Auto Healing Grando 
+5/2/25 8:57:45p You have 128 coins.
+5/2/25 8:57:54p Grando says, "c heal grando"
+5/2/25 8:57:54p No player named 'heal' found in the player list.
+5/2/25 8:57:54p * Auto Healing  
+5/2/25 8:57:54p • You begin radius healing.
+5/2/25 8:58:02p * Healing Grando 
+5/2/25 8:58:41p Grando says, "c heal grando"
+5/2/25 8:58:41p * Auto Healing Grando 
+5/2/25 8:59:29p Grando says, "c heal grando"
+5/2/25 8:59:29p No player named 'heal' found in the player list.
+5/2/25 8:59:29p * Auto Healing  
+5/2/25 8:59:30p • You begin radius healing.
+5/2/25 8:59:34p * Healing Grando 
+5/2/25 9:00:18p Grando says, "c heal grando"
+5/2/25 9:00:19p * Auto Healing Grando 
+5/2/25 9:00:48p * Healing Mimo 
+5/2/25 9:01:01p You have 128 coins.
+5/2/25 9:01:33p Grando says, "c heal grando"
+5/2/25 9:01:33p No player named 'coins.' found in the player list.
+5/2/25 9:01:34p * Auto Healing  
+5/2/25 9:01:34p • You begin radius healing.
+5/2/25 9:01:39p * Healing Grando 
+5/2/25 9:03:04p Grando says, "c heal grando"
+5/2/25 9:03:04p * Auto Healing Grando 
+5/2/25 9:04:10p Grando says, "c heal grando"
+5/2/25 9:04:10p No player named 'heal' found in the player list.
+5/2/25 9:04:11p * Auto Healing  
+5/2/25 9:04:11p • You begin radius healing.
+5/2/25 9:04:18p * Healing Grando 
+5/2/25 9:04:20p You have 128 coins.
+5/2/25 9:05:00p Grando says, "c heal grando"
+5/2/25 9:05:00p No player named 'heal' found in the player list.
+5/2/25 9:05:01p * Auto Healing  
+5/2/25 9:05:01p • You begin radius healing.
+5/2/25 9:05:25p • There is nobody nearby enough to continue radius healing.
+5/2/25 9:06:25p Grando says, "c heal grando"
+5/2/25 9:06:26p * Auto Healing Grando 
+5/2/25 9:07:05p Grando says, "c heal grando"
+5/2/25 9:07:05p No player named 'heal' found in the player list.
+5/2/25 9:07:05p * Auto Healing  
+5/2/25 9:07:05p • You begin radius healing.
+5/2/25 9:07:15p * Healing Grando 
+5/2/25 9:07:36p You have 128 coins.
+5/2/25 9:08:39p Grando says, "c heal grando"
+5/2/25 9:08:40p * Auto Healing Grando 
+5/2/25 9:10:52p You have 128 coins.
+5/2/25 9:14:04p You have 128 coins.
+5/2/25 9:14:47p • /SLEEP when you wish to begin studying.
+5/2/25 9:14:52p Use \SLEEP again when you return.
+5/2/25 9:14:52p You are done adventuring for a while and will be staying here.
+5/2/25 9:14:53p You have been disconnected from Clan Lord.
+5/2/25 9:14:53p • You will benefit from staying here while you are off-line.
+5/2/25 9:14:54p *** We are no longer connected to the Clan Lord game server. ***
+5/2/25 9:15:00p * Your healer's shirt is in very good condition.
+5/2/25 9:15:00p * Your pair of second-circle pants named “white” is in very good condition.
+5/2/25 9:15:00p Welcome to Clan Lord, Cat Food!
+5/2/25 9:15:00p Type \HELP for a list of commands.
+5/2/25 9:15:00p *Healer Mode
+5/2/25 9:15:00p *Type /hi help for more info
+5/2/25 9:15:01p The healing spell has started.
+5/2/25 9:15:01p You have been studying for 32 seconds.
+5/2/25 9:15:01p Friends online: none.
+5/2/25 9:15:03p It's 11:07am on Sombdi, day 72 of Spring, 641.
+5/2/25 9:15:05p You are the only member of Black Phoenix clanning.
+5/2/25 9:15:05p • What’s New: https://deltatao.com/clanlord/news
+5/2/25 9:15:16p * Tip of the day: Listening doesn’t put any wear on a sunstone. (Use /OPTIONS to turn tips off.)
+5/2/25 9:15:48p Virgil says, "Hail, Cat Food. You have much to learn."
+5/2/25 9:15:48p * Virgil : 0-9.
+5/2/25 9:15:49p Virgil says, "I can teach you to use the purgatory pendant."
+5/2/25 9:15:52p Virgil says, "Hail, Cat Food. You have much to learn."
+5/2/25 9:15:52p * Virgil : 0-9.
+5/2/25 9:15:52p Virgil says, "I can teach you to use the purgatory pendant."
+5/2/25 9:15:53p Virgil says, "You will learn as you practice."
+5/2/25 9:15:53p Virgil asks, "Are you sure you would like to train with me?"
+5/2/25 9:15:54p Cat Food says, "yes"
+5/2/25 9:15:55p Virgil says, "Welcome aboard. Go into the world and learn what you may, while practicing our craft."
+5/2/25 9:15:55p Virgil says, "Hail, Cat Food. You have much to learn."
+5/2/25 9:15:56p * Virgil : 0-9.
+5/2/25 9:16:20p Koppi yells, "Talin reports: please stop bringing big monsters to where younger players travel. you ruin the fun not just for the few you might want to mess with, but many more."
+5/2/25 9:16:21p • /SLEEP when you wish to begin studying.
+5/2/25 9:16:48p Use \SLEEP again when you return.
+5

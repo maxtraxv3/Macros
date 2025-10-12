@@ -1,0 +1,53 @@
+
+5/4/25 1:49:56p * Your shirt named “dark grey” is in pretty good shape.
+5/4/25 1:49:56p * Your pair of pants named “dark grey” is in nearly perfect condition.
+5/4/25 1:49:56p Welcome to Clan Lord, Ajahn!
+5/4/25 1:49:56p Type \HELP for a list of commands.
+5/4/25 1:49:56p • You gain experience from your recent studies.
+5/4/25 1:49:56p You have been studying for 13 days, 19 hours, 40 minutes.
+5/4/25 1:49:59p It's 9:08am on Sombdi, day 79 of Spring, 641.
+5/4/25 1:50:00p Friends online: none.
+5/4/25 1:50:01p There are two members of Black Phoenix clanning: Magnic and you.
+5/4/25 1:50:01p • What’s New: https://deltatao.com/clanlord/news
+5/4/25 1:50:10p You slaughtered a Rat.
+5/4/25 1:50:11p * Tip of the day: A tureen is a large, deep dish or pot. (Use /OPTIONS to turn tips off.)
+5/4/25 1:50:15p *Auto Trade Zero ON!
+5/4/25 1:50:24p •You notice yourself dealing more damage.
+5/4/25 1:50:35p • Magnic offers you an average book in poor condition for free.
+5/4/25 1:50:35p To accept, \BUY 0 Magnic.
+5/4/25 1:50:35p * Traded: Magnic 
+5/4/25 1:50:36p Magnic hands you a book.
+5/4/25 1:50:41p • Magnic offers you a thick book in good condition for free.
+5/4/25 1:50:41p To accept, \BUY 0 Magnic.
+5/4/25 1:50:42p * Traded: Magnic 
+5/4/25 1:50:42p Magnic hands you a book.
+5/4/25 1:50:44p • Magnic offers you a thin book in bad condition for free.
+5/4/25 1:50:44p To accept, \BUY 0 Magnic.
+5/4/25 1:50:44p * Traded: Magnic 
+5/4/25 1:50:45p Magnic hands you a book.
+5/4/25 1:51:03p • /SLEEP when you wish to begin studying.
+5/4/25 1:51:07p Use \SLEEP again when you return.
+5/4/25 1:51:07p You are done adventuring for a while and will be staying here.
+5/4/25 1:51:08p You have been disconnected from Clan Lord.
+5/4/25 1:51:08p • You will benefit from staying here while you are off-line.
+5/4/25 1:51:09p *** We are no longer connected to the Clan Lord game server. ***
+5/4/25 1:56:38p * Your shirt named “dark grey” is in pretty good shape.
+5/4/25 1:56:38p * Your pair of pants named “dark grey” is in nearly perfect condition.
+5/4/25 1:56:38p Welcome to Clan Lord, Ajahn!
+5/4/25 1:56:38p Type \HELP for a list of commands.
+5/4/25 1:56:38p • You gain experience from your recent studies.
+5/4/25 1:56:38p You have been studying for 22 minutes.
+5/4/25 1:56:38p Friends online: none.
+5/4/25 1:56:41p It's 9:35am on Sombdi, day 79 of Spring, 641.
+5/4/25 1:56:43p There are two members of Black Phoenix clanning: Warawonda and you.
+5/4/25 1:56:43p • What’s New: https://deltatao.com/clanlord/news
+5/4/25 1:56:50p *Auto Trade Zero ON!
+5/4/25 1:56:53p * Tip of the day: You can /EQUIP and /UNEQUIP an item using its custom name, if it has one. (Use /OPTIONS to turn tips off.)
+5/4/25 1:57:16p You offer a book to Warawonda for free.
+5/4/25 1:57:16p \SELL /cancel to cancel the offer.
+5/4/25 1:57:17p You hand Warawonda a book.
+5/4/25 1:57:19p You offer a book to Warawonda for free.
+5/4/25 1:57:19p \SELL /cancel to cancel the offer.
+5/4/25 1:57:20p You hand Warawonda a book.
+5/4/25 1:57:22p You offer a book to Warawonda for free.
+5/4/25 1

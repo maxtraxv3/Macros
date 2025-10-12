@@ -1,0 +1,160 @@
+///////////////////////////////////////////////////////////////////////////
+// Globals & Setup
+///////////////////////////////////////////////////////////////////////////
+setglobal trigger_W "C"               // your trigger word
+setglobal HealerItem "asklepian staff"// default staff (will be cached)
+setglobal healLock ""                 // locked target name
+
+@login
+{
+  call cacheHealer
+}
+
+"/hi"
+{
+  call cacheHealer
+}
+
+cacheHealer
+{
+set log @env.textlog
+  set HealerItem @my.right_item
+  message "* Healer item set to" HealerItem ""
+	if logck.word[0] >= "*"
+		setglobal idx 2
+	else
+		setglobal idx 4
+		message "" idx ""
+	end if
+}
+
+///////////////////////////////////////////////////////////////////////////
+// Main “catch‐all” chat watcher
+///////////////////////////////////////////////////////////////////////////
+"/error"
+{
+	set log @env.textlog
+		setglobal idx 4
+	// only process says/growls/yells
+label top
+set log @env.textlog
+if log >= "says,"
+	goto findTrigger
+else if log >= "growls,"
+	goto findTrigger
+else if log >= "yells,"
+	goto findTrigger
+end if
+goto top
+
+	// find your trigger in first 10 words
+
+label findTrigger
+	if log.word[idx] == trigger_W
+		goto gotTrigger
+	end if 
+	set idx + 1
+		if idx <= 10
+			goto findTrigger
+		end if
+goto top
+
+label gotTrigger
+	// next word decides heal vs lock
+	if log.word[idx+1] == "heal"
+		call dispatchHeal
+	end if
+  
+	if log.word[idx+1] == "lock"
+		call dispatchLock
+	end if
+}
+
+///////////////////////////////////////////////////////////////////////////
+// Dispatch routines (idx = position of your trigger in `log.word[]`)
+///////////////////////////////////////////////////////////////////////////
+dispatchHeal
+{
+	// target always two words after trigger: C [heal|lock] <target>
+	set tgt log.word[idx+2]
+  
+	if tgt == "me"
+		call autoS
+	end if
+  
+	if tgt == "pet"
+		call autoP
+	end if
+  
+	if tgt == "area"
+		call autoA
+	end if
+  
+  // anything else is a player name
+	if tgt != "me"
+		if tgt != "pet"
+			if tgt != "area"
+				call autoH
+			end if
+		end if
+	end if
+}
+
+dispatchLock
+{
+	set healLock log.word[idx+2]
+		message "* Healing locked to" healLock ""
+}
+
+///////////////////////////////////////////////////////////////////////////
+// Helper routines
+///////////////////////////////////////////////////////////////////////////
+autoH
+{
+	// respect existing lock
+	if healLock != ""
+		set tgt healLock
+	end if
+
+	if @my.right_item != HealerItem
+		"/equip " HealerItem " \r"
+	end if
+
+	"/use " tgt " \r"
+		message "* Healing" tgt ""
+	pause 3
+}
+
+autoP
+{
+	if @my.right_item != HealerItem
+		"/equip " HealerItem " \r"
+	end if
+
+	"/use /pet \r"
+		message "* Healing pet"
+	pause 2
+}
+
+autoS
+{
+	if @my.right_item != moonstone
+		"/equip moonstone \r"
+	end if
+
+	message "* Entering self-heal mode"
+label selfLoop
+	"/use \r"
+		pause 1
+			goto selfLoop
+}
+
+autoA
+{
+	if @my.right_item != HealerItem
+	"/equip " HealerItem " \r"
+	end if
+
+	"/use \r"
+	message "* Area healing"
+}
