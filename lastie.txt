@@ -8,33 +8,39 @@ setgloabal creature_repeater ""
 
 "/last"
 {
-set chklistnum 1
+set Mname @text.word[1]
+set Pname @text.word[0]
+set chklistnum 0
 if @text.num_words < 1
 	goto usage
 end if
 // if monster always on list, add the name
-if @text.word[1] >= last_index_creature
+if Mname >= last_index_creature
 	label monster_index_finder
 	if last_index_creature.word[chklistnum] != ""
-		if last_index_creature.word[chklistnum] == @text.word[1]
+		if last_index_creature.word[chklistnum] == Mname
 			setgloabal name_repeater last_index_name
-				@textsel "/setlsname "name_repeater" "@text.word[0]"[chklistnum]" \r
-					goto added
-		else if last_index_creature.word[chklistnum] != @text.word[1]
+				@textsel "/setlsname "name_repeater" "Pname"[chklistnum]" \r
+					set chklistnum 0
+						goto added
+		else if last_index_creature.word[chklistnum] != Mname
 			set chklistnum + 1
 				goto monster_index_finder
 		end if
 	end if
 else
-	@textsel "/setlscreature "creature_repeater" "@text.word[1]" \r
-		@textsel "/setlsname "name_repeater" "@text.word[0]" \r
-			goto added
+	setgloabal creature_repeater last_index_creature
+		@textsel "/setlscreature "creature_repeater" "Mname" \r
+			set new_index_number last_index_creature.num_words
+				set new_index_number +1
+					@textsel "/setlsname "name_repeater" "Pname"[new_index_number] \r
+						goto added
 end if
 label usage
 	Message "Usage: /last <name> <monster>"
 		goto ender
 label added
-message "@text.word[0]" "@text.word[1]" added\r"
+message "Pname" "Mname" added\r"
 label end
 }
 
@@ -53,5 +59,5 @@ setgloabal last_index_name @text
 //set names last_index_name
 //set monsters last_index_creature
 //if monsters 
-"/narrator " last_index_name "
+"/narrator "" last_index_name "\r"
 }
