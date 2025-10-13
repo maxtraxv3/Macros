@@ -8,6 +8,7 @@ setgloabal creature_repeater ""
 
 "/last"
 {
+set chklistnum 1
 if @text.num_words < 1
 	goto usage
 end if
