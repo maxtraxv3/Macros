@@ -56,8 +56,23 @@ setgloabal last_index_name @text
 
 "/lasts"
 {
-//set names last_index_name
-//set monsters last_index_creature
-//if monsters 
+set names last_index_name
+set monsters last_index_creature
+set limitn names.num_words
+set limitm monsters.num_words
+set listnumb 0
+set monslist 0
+//if names.word[listnumb] != ""
+//	set myguy names.word[listnumb]
+//		set myguysnumber myguy.num_letters
+//			if myguysnumber.letter[myguysnumber.num_letters-1] == monsters.word[monslist]
+//				"/narrator "myguy" "monsters.word[monslist]"
+//			else
+//				if monslist > limitm
+//					goto end
+//				end if
+//				monslist + 1
+//			end if
+//end if
 "/narrator "" last_index_name "\r"
 }
