@@ -33,7 +33,7 @@ else
 		@textsel "/setlscreature "creature_repeater" "Mname" \r
 			set new_index_number last_index_creature.num_words
 				set new_index_number +1
-					@textsel "/setlsname "name_repeater" "Pname"[new_index_number] \r
+					@textsel "/setlsname "name_repeater" "Pname"[new_index_number]" \r
 						goto added
 end if
 label usage
