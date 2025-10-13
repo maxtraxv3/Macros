@@ -26,7 +26,7 @@ if @text.word[1] >= last_index_creature
 		end if
 	end if
 else
-	@textsel "/setlscreature "creature_repeater""@text.word[1]" \r
+	@textsel "/setlscreature "creature_repeater" "@text.word[1]" \r
 		@textsel "/setlsname "name_repeater" "@text.word[0]" \r
 			goto added
 end if
