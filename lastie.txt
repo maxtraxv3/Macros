@@ -20,9 +20,10 @@ if Mname >= last_index_creature
 	if last_index_creature.word[chklistnum] != ""
 		if last_index_creature.word[chklistnum] == Mname
 			setgloabal name_repeater last_index_name
-				@textsel "/setlsname "name_repeater" "Pname"[chklistnum]" \r
-					set chklistnum 0
-						goto added
+				@textsel "/setlsname "name_repeater" "Pname"[chklistnum]" 
+					"\r"
+						set chklistnum 0
+							goto added
 		else if last_index_creature.word[chklistnum] != Mname
 			set chklistnum + 1
 				goto monster_index_finder
@@ -30,11 +31,13 @@ if Mname >= last_index_creature
 	end if
 else
 	setgloabal creature_repeater last_index_creature
-		@textsel "/setlscreature "creature_repeater" "Mname" \r
-			set new_index_number last_index_creature.num_words
-				set new_index_number +1
-					@textsel "/setlsname "name_repeater" "Pname"[new_index_number]" \r
-						goto added
+		@textsel "/setlscreature "creature_repeater" "Mname" 
+			"\r"
+				set new_index_number last_index_creature.num_words
+					set new_index_number +1
+						@textsel "/setlsname "name_repeater" "Pname"[new_index_number]" 
+							"\r"
+								goto added
 end if
 label usage
 	Message "Usage: /last <name> <monster>"
@@ -66,7 +69,7 @@ set monslist 0
 //	set myguy names.word[listnumb]
 //		set myguysnumber myguy.num_letters
 //			if myguysnumber.letter[myguysnumber.num_letters-1] == monsters.word[monslist]
-//				"/narrator "myguy" "monsters.word[monslist]"
+//				"/narrator "myguy" "monsters.word[monslist] \r"
 //			else
 //				if monslist > limitm
 //					goto end
