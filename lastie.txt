@@ -1,5 +1,7 @@
-// lastie beta 0.2
+// lastie beta 0.3
 // by Magnic
+// doesnt fuction, @telsel wont accept infromation for setgloabal it just put in as plain text of the setgloabal's name
+// this will require, a 2 part macro.
 
 setgloabal last_index_name ""
 setgloabal last_index_creature ""
@@ -8,6 +10,7 @@ setgloabal creature_repeater ""
 
 "/last"
 {
+set logck @env.textlog
 set Mname @text.word[1]
 set Pname @text.word[0]
 set chklistnum 0
@@ -20,7 +23,7 @@ if Mname >= last_index_creature
 	if last_index_creature.word[chklistnum] != ""
 		if last_index_creature.word[chklistnum] == Mname
 			setgloabal name_repeater last_index_name
-				@textsel "/setlsname "name_repeater" "Pname"[chklistnum]" 
+				@textsel "/setlsname " name_repeater " " Pname "[chklistnum]" 
 					"\r"
 						set chklistnum 0
 							goto added
@@ -31,29 +34,31 @@ if Mname >= last_index_creature
 	end if
 else
 	setgloabal creature_repeater last_index_creature
-		@textsel "/setlscreature "creature_repeater" "Mname" 
+		@textsel "/setlscreature " creature_repeater " " Mname ""
 			"\r"
 				set new_index_number last_index_creature.num_words
 					set new_index_number +1
-						@textsel "/setlsname "name_repeater" "Pname"[new_index_number]" 
+						@textsel "/setlsname " name_repeater " " Pname "[new_index_number]" 
 							"\r"
 								goto added
 end if
 label usage
 	Message "Usage: /last <name> <monster>"
-		goto end
+		goto ender
 label added
-message "Pname" "Mname" added\r"
+message " Pname " " Mname " added\r"
 label end
 }
 
 "/setlscreature"
 {
+message ping
 setgloabal last_index_creature @text
 }
 
 "/setlsname"
 {
+message ping2
 setgloabal last_index_name @text
 }
 
