@@ -1,4 +1,4 @@
-// lastie beta 0.1
+// lastie beta 0.2
 // by Magnic
 
 setgloabal last_index_name ""
@@ -41,7 +41,7 @@ else
 end if
 label usage
 	Message "Usage: /last <name> <monster>"
-		goto ender
+		goto end
 label added
 message "Pname" "Mname" added\r"
 label end
@@ -65,17 +65,24 @@ set limitn names.num_words
 set limitm monsters.num_words
 set listnumb 0
 set monslist 0
-//if names.word[listnumb] != ""
-//	set myguy names.word[listnumb]
-//		set myguysnumber myguy.num_letters
-//			if myguysnumber.letter[myguysnumber.num_letters-1] == monsters.word[monslist]
-//				"/narrator "myguy" "monsters.word[monslist] \r"
-//			else
-//				if monslist > limitm
-//					goto end
-//				end if
-//				monslist + 1
-//			end if
-//end if
-"/narrator "" last_index_name "\r"
+label spittingnames
+if names.word[listnumb] != ""
+	set myguy names.word[listnumb]
+		set myguysnumber myguy.num_letters
+			if myguysnumber.letter[myguysnumber.num_letters-1] == monsters.word[monslist]
+				"/narrator "myguy" "monsters.word[monslist] \r"
+			else
+				if monslist > limitm
+					goto end
+				end if
+				monslist + 1
+					if listnumb > limitn
+						goto spittingnames
+					else
+						goto end
+					end if
+			end if
+end if
+//"/narrator "" last_index_name "\r"
+label end
 }
