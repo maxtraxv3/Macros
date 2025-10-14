@@ -1,0 +1,1464 @@
+// ==========================
+// Clan Lord Beast Macros
+// ==========================
+
+// ==========================
+// Clan Lord Beast Macros
+// Darshak Category
+// ==========================
+
+DarshakBeasts 
+{
+  "Darshak Sailor"
+  "Darshak Acolyte"
+  "Darshak Thug"
+  "Darshak Scout"
+  "Darshak Swabbie"
+  "Darshak Marine"
+  "Darshak Priest"
+  "Darshak Blade"
+  "Darshak Clipper"
+  "Necromancer"
+  "Darshak Brute"
+  "Darshak Sentry"
+  "Darshak Veteran"
+  "High Priest"
+  "Darshak Woodsman"
+  "Darshak Tracker"
+  "Darshak Bodysnatcher"
+  "Darshak Rebel Roustabout"
+  "Darshak Harrier"
+  "Darshak Skirmisher"
+  "Elite Darshak Skirmisher"
+  "Darshak Senior Officer"
+  "Darshak Petty Officer"
+  "Darshak Warship"
+  "Darshak Guard"
+  "Darshak Slaver"
+  "Veteran Darshak Captain"
+  "Experienced Darshak Captain"
+  "Bodyguard"
+  "Darshak Pillager"
+  "Darshak Ruffian"
+  "Darshak Raider"
+  "Darshak Punk"
+  "Darshak Rebel Swordsman"
+  "Chosen Host"
+  "Darshak Guardian"
+  "Darshak Assassin"
+  "Darshak Houndsman"
+  "Darshak Brawler"
+  "Darshak Brava"
+  "Darshak Carouser"
+  "Darshak Bloodwrath"
+  "Darshak Ravager"
+  "Darshak Defender"
+  "Darshak Necromancer"
+  "Darshak Marauder"
+  "Darshak Mercenary"
+  "Darshak Slave Master"
+  "Darshak Pyromancer"
+  "Darshak Rebel Swashbuckler"
+  "Darshak Rebel Commander"
+  "Darshak Seamstress"
+  "Bespeckled Bloodblader"
+  "Darshak Overseer"
+  "Darshak Pumpkomancer"
+}
+
+
+// ==========================
+// Clan Lord Beast Macros
+// Insects & Related
+// ==========================
+
+InsectBeasts 
+{
+  "Butterfly"
+  "Co'Acha"
+  "Ona Chigger"
+  "Myrm Farmer"
+  "Emerald Scorp"
+  "Myrm Worker"
+  "Island Locust"
+  "Myrm Scout"
+  "Dragonfly"
+  "Red Dragonfly"
+  "Myrm Protector"
+  "Ebon Scorp"
+  "Deadly Wasp"
+  "Venomous Chigger"
+  "Warrior Myrm"
+  "Vile Cricket"
+  "Male Myrm"
+  "Noble Myrm"
+  "Royal Myrm"
+  "Scarab Beetle"
+  "Forest Chamelopod"
+  "Vile Locust"
+  "Ona Warrior"
+  "Cave Chamelopod"
+  "Queen Myrm"
+  "Fire Beetle"
+  "Lava Beetle"
+  "Stinging Beetle"
+  "Myrm Gatherer"
+  "Ona Berserker"
+  "Island Mantis"
+  "Myrm Patrician"
+  "Myrm Defender"
+  "Myrm Vagabond"
+  "Leafcutter Myrm"
+  "Myrm Tunneler"
+  "Myrm Marquis"
+  "Fire Myrm"
+  "Myrm Chevalier"
+  "Deadly Hornet"
+  "Carrion Beetle"
+  "Green Sea Beetle"
+  "Black Locust"
+  "Mountain Wasp"
+  "Black Mantis"
+  "Prismatic Patrician Myrm"
+  "Swarm of Bees"
+  "Bamboo Mantis"
+  "Terrabite"
+  "Myrm Matriarch"
+  "Migrating Myrm Matriarch"
+  "Juliosaur"
+  "Gho Shadow"
+  "Dreamdrinker"
+}
+
+
+// ==========================
+// Clan Lord Beast Macros
+// Felines
+// ==========================
+
+FelineBeasts
+{
+  "Rodán Panther"
+  "Pumace"
+  "Island Panther"
+  "Summer Artak"
+  "Artak Cougar"
+  "Maha Ruknee"
+  "Snow Cougar"
+  "Bolok Cougar"
+  "Savannah Maha"
+  "Cloud Maha"
+  "Sky Maha"
+  "Sand Tiger"
+  "Plains Maha Ruknee"
+  "Midsummer Maha Ruknee"
+  "Cave Maha Ruknee"
+  "Cave Maha Rukness"
+  "Ice Maha Ruknee"
+  "Valley Cougar"
+  "Albino Maha"
+  "Puma"
+  "Valley Panther"
+  "Haremau Kitten"
+  "Snowcat"
+  "Rudremau"
+  "Reedcat"
+  "Snow Haremau Kitten"
+  "Reedcat Stalker"
+  "Snow Rudremau"
+  "Spectral Haremau Kitten"
+  "Shadowcat"
+  "Haremau"
+  "Spectral Rudremau"
+  "Shadowcat Huntress"
+  "Utsanna Haremau"
+  "Lowland Panther"
+  "Shadowcat Warqueen"
+  "Utsanna Shadowmau"
+  "Cumulus Maha"
+  "Bamboo Wildcat"
+  "Cirrus Maha"
+  "Mountain Panther"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Shadows, Spirits & Undine
+// ==========================
+
+/macro add SpiritBeasts {
+  "Shadow Exile"
+  "Detached Spirit"
+  "Tortured Soul"
+  "Faithless"
+  "Greater Guardian"
+  "Wraith"
+  "Lesser Spectre"
+  "Wailing Spirit"
+  "Greater Wraith"
+  "Hooded Shadow"
+  "Banshee"
+  "Greater Spectre"
+  "The Curator"
+  "Curate"
+  "Whispering Horror"
+  "Darshak Spirit"
+  "Su Monk Shadow"
+  "Anguished Spirit"
+  "Blight Shade"
+  "Ghastly Presence"
+  "Dar'kin Shadow"
+  "Fang Warrior Shadow"
+  "Haunting Shade"
+  "Ebon Wraith"
+  "Pan Guardian Shadow"
+  "Fuu Nomad Shadow"
+  "Dank Presence"
+  "Baked Presence"
+  "Damaged Spirit"
+  "Gho-Wei Ghoulish"
+  "Library Horus"
+  "Lost Exile"
+  "Crushing Spirit"
+  "Trainer Spirit"
+  "Gho-Wei Inkling"
+  "Withering Priestess"
+  "Gho-Wei Carnivant"
+  "High Priestess Shadow"
+  "Mr. T"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Reptiles & Snakes
+// ==========================
+
+ReptileBeasts
+{
+  "Winged Snake"
+  "Boma Winder"
+  "Tok'Han Spawn"
+  "Crota Winder"
+  "Venomous Boma Winder"
+  "Venomous Crota Winder"
+  "Raste Winder"
+  "Venomous Deadly Adder"
+  "Venomous Raste Winder"
+  "Deadly Adder"
+  "Carin Viper"
+  "Venomous Carin Viper"
+  "Repens Winder"
+  "Venomous Repens Winder"
+  "Chami Cobra"
+  "Venomous Chami Cobra"
+  "Forest Cobra"
+  "Grey Tok'Han"
+  "Venomous Forest Cobra"
+  "Acid Cobra"
+  "Tok'Han Shaman"
+  "Venomous Cave Cobra"
+  "Cave Cobra"
+  "Olive Tok'Han"
+  "Russet Tok'Han"
+  "Nocens Winder"
+  "Black Mamba"
+  "Green Tok'Han"
+  "Viper Tok'Han"
+  "Mountain Krait"
+  "Crypt Mamba"
+  "Lime Tok'Han"
+  "Emerald Tok'Han"
+  "Otissa Snake"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Avians
+// ==========================
+
+AvianBeasts
+{
+  "Cloudlifter Agronox"
+  "Tanglebird"
+  "Scavenger Bird"
+  "Bloodhawk"
+  "Saber Owl"
+  "Parrot"
+  "Common Vulture"
+  "Uncommon Vulture"
+  "Rare Vulture"
+  "Eagle Owl"
+  "Ghost Vulture"
+  "Foil Vulture"
+  "Lowland Hawk"
+  "Agronox"
+  "Gorged Gull"
+  "Happy Lil' Fledgling"
+  "Blird"
+  "Indigo Crowlet"
+  "Crookbeak Kestrel"
+  "Fledgling Kestrel"
+  "Indigo Ravenhawk"
+  "Mistral Kestrel"
+  "Origami Deathhawk"
+  "(Super) Crookbeak Kestrel"
+  "Bowie Owl"
+  "Crimsonhawk"
+  "Raven"
+  "Clucking Cavalry"
+  "Deathhawk"
+  "Moonlight Messenger"
+  "Pir-Ta Owl"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Orga
+// ==========================
+
+OrgaBeasts
+{
+  "Orga"
+  "Orga Warrior"
+  "Orga Anger"
+  "Orga Shaman"
+  "Frost Orga"
+  "Orga Berserker"
+  "Orga Berserk"
+  "Orga Spite"
+  "Orga Magician"
+  "Orga Warlock"
+  "Orga Rage"
+  "Orga Zealot"
+  "Orga Hemlock"
+  "Orga Fury"
+  "Orga Petulant"
+  "Orga Razzia"
+  "Orga Envy"
+  "Orga Mudang"
+  "Orga Wrath"
+  "Orga Mallock"
+  "Orga Traylock"
+  "Orga Frenzy"
+  "Orga Dredlock"
+  "Orga Hatred"
+  "Orga Callock"
+  "Orga Malice"
+  "Orga Direlock"
+  "Fellock"
+  "Orga Loathing"
+  "Conjugant Agro"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Canines (Foxweir & Ferals)
+// ==========================
+
+CanineBeasts
+{
+  "Foxweir Pup"
+  "Foxweir"
+  "Feral"
+  "Grey Feral"
+  "Vixen"
+  "Brown Feral"
+  "Large Feral"
+  "Giant Feral"
+  "Umber Foxweir"
+  "Giant Foxweir"
+  "Dire Feral"
+  "Swamp Feral"
+  "Guard Dog"
+  "Snow Feral"
+  "Feral Pup"
+  "Bog Feral"
+  "Timber Feral"
+  "Rabid Timber Feral"
+  "Mange Feral"
+  "Blight Feral"
+  "Barrens Feral"
+  "Starved Blight Feral"
+  "Trained Barrens Feral"
+  "Fickle Foxweir"
+  "Fleet Foxweir"
+  "Alpine Timber Feral"
+  "Frost Foxweir"
+  "Flint Foxweir"
+  "White Winter Foxrein"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Arachne & Scorpions
+// ==========================
+
+ArachneBeasts
+{
+  "Carrion Arachne"
+  "Deadly Arachne"
+  "Small Arachne"
+  "Arachne"
+  "Mammoth Arachne"
+  "Cave Arachne"
+  "Dust Arachne"
+  "Web Arachne"
+  "Vagrant Arachne"
+  "Stone Arachne"
+  "Wall Arachne"
+  "Recluse Arachne"
+  "Violène Arachne"
+  "Banana Arachne"
+  "Vermine Arachne"
+  "Mammoth Recluse Arachne"
+  "Mammoth Stone Arachne"
+  "Mammoth Banana Arachne"
+  "Moss Scorp"
+  "Mammoth Violène Arachne"
+  "Ore Weaver Arachne"
+  "Shadow Spinner"
+  "Ctenizidae"
+  "Bark Scorp"
+  "Dark Recluse"
+  "Azul Scorp"
+  "Mobius Scorp"
+  "Dour Dowager"
+  "Boss Scorp"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Adumbrations, Shadows & Penumbryx
+// ==========================
+
+AdumbrationBeasts
+{
+  "Minor Adumbration"
+  "Shadow Strand"
+  "Oniska"
+  "Shadow Steed"
+  "Penumbryx Shard"
+  "Tracer Ray"
+  "Gnasher"
+  "Seasylvan"
+  "Shadowbug"
+  "Blind Adumbration"
+  "Fragile Penumbryx"
+  "Tanglestrike"
+  "Visionary Adumbration"
+  "Oneiromantic Grub"
+  "Shadow Mantis"
+  "Ill Cub"
+  "Longwalker"
+  "Lesser Penumbryx"
+  "Shadow Hunter"
+  "Animus Agro"
+  "Turbulent Adumbration"
+  "Eye Agro"
+  "Fumehorn Colossus"
+  "Darklight Beacon"
+  "Turbulent Manifestation"
+  "Grasping Horror"
+  "Penumbryx"
+  "Shadowmau Stalker"
+  "Zesserakh"
+  "Devouring Darkness"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Bears
+// ==========================
+
+BearBeasts
+{
+  "Brown Bear"
+  "Grizzly Bear"
+  "Honey Bear"
+  "Chestnut Bear"
+  "Chocolate Bear"
+  "Cinder Bear"
+  "Polar Bear"
+  "Mountain Bear Cub"
+  "Mountain Bear"
+  "Hungry Mountain Bear"
+  "Mountain Grizzly Bear"
+  "Smoky Bear"
+  "Dire Bear"
+  "Solar Bear"
+  "Glacier Bear Cub"
+  "Berenstain Bear"
+  "Lunar Bear Guardian"
+  "Berenstein Bear"
+  "Glacier Bear"
+  "Mauling Spirit"
+  "Lost Bear"
+  "Mountain Bear Momma"
+  "Mountain Bear Chieftain"
+  "Kolar Bear"
+  "Burrowing Bear"
+  "Pan-Dai Bear"
+  "Shadow Bear"
+  "Shadowclaw Cleric"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Vermine, Rats & Bats
+// ==========================
+
+VermineBeasts
+{
+  "Rat"
+  "Vermine"
+  "Large Vermine"
+  "Bat"
+  "Fire Rat"
+  "Fire Vermine"
+  "Snow Vermine"
+  "Giant Vermine"
+  "Cavern Rat"
+  "Lith Bat"
+  "Dark Vermine"
+  "Valley Rat"
+  "Death Vermine"
+  "Demonic Vermine"
+  "Mountain Rat"
+  "Large Death Vermine"
+  "Cereb Vermine"
+  "Large Cereb Vermine"
+  "Flying Foxweir"
+  "Florese Vermine"
+  "Crypt Rat"
+  "Albino Flying Foxweir"
+  "Blephat"
+  "Dark Myotis"
+  "Miasmic Myotis"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Wendecka & Sasquatch
+// ==========================
+
+/macro add WendeckaBeasts {
+  "Baby Wendecka"
+  "Baby Night Wendecka"
+  "Wendecka"
+  "Night Wendecka"
+  "Elder Wendecka"
+  "Elder Night Wendecka"
+  "Dawn Wendecka"
+  "Mama Wendecka"
+  "Day Wendecka"
+  "Mama Night Wendecka"
+  "Silverback Wendecka"
+  "Dusk Wendecka"
+  "Silverback Night Wendecka"
+  "Midnight Wendecka"
+  "Young Sasquatch"
+  "Large Midnight Wendecka"
+  "Twilight Wendecka"
+  "Gloaming Wendecka"
+  "Angry Mother Sasquatch"
+  "Large Twilight Wendecka"
+  "Large Gloaming Wendecka"
+  "Nocturne Wendecka"
+  "Aurora Wendecka"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Wendecka & Sasquatch
+// ==========================
+
+WendeckaBeasts
+{
+  "Baby Wendecka"
+  "Baby Night Wendecka"
+  "Wendecka"
+  "Night Wendecka"
+  "Elder Wendecka"
+  "Elder Night Wendecka"
+  "Dawn Wendecka"
+  "Mama Wendecka"
+  "Day Wendecka"
+  "Mama Night Wendecka"
+  "Silverback Wendecka"
+  "Dusk Wendecka"
+  "Silverback Night Wendecka"
+  "Midnight Wendecka"
+  "Young Sasquatch"
+  "Large Midnight Wendecka"
+  "Twilight Wendecka"
+  "Gloaming Wendecka"
+  "Angry Mother Sasquatch"
+  "Large Twilight Wendecka"
+  "Large Gloaming Wendecka"
+  "Nocturne Wendecka"
+  "Aurora Wendecka"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Plants, Pumpkins, Zu
+// ==========================
+
+PlantBeasts
+{
+  "Sun-zu"
+  "Moon-zu"
+  "Bluli"
+  "Nightli"
+  "Earth-zu"
+  "Angry Moon-Zu"
+  "Angry Kudzu"
+  "Pumpkin"
+  "Nutritious Pumpkin"
+  "Kudzu"
+  "Starflower"
+  "Wake Me Up"
+  "Vicious Starflower"
+  "Paradise Butterfly"
+  "Exploding Pumpkin"
+  "Jack-o-Lantern"
+  "Corsica"
+  "Pumpkin Bomb"
+  "Hellebore"
+  "Hungry Hungry Hellebore"
+  "Spooky Pumpkin"
+  "Haunted Pumpkin"
+  "Angry Earth-Zu"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Greymyr & Golems
+// ==========================
+
+GreymyrBeasts
+{
+  "Hardened Mud Golem"
+  "Greymyr"
+  "Mud Golem"
+  "Mossy Greymyr"
+  "Ice Greymyr"
+  "Basalt Greymyr"
+  "Glacial Greymyr"
+  "Ancient Greymyr"
+  "Blizzard Greymyr"
+  "Spectral Greymyr"
+  "Overgrown Greymyr"
+  "Augite Greymyr"
+  "Silvercrag Greymyr"
+  "Igneous Greymyr"
+  "Greymyr Pusher"
+  "Greymyr Shover"
+  "Greisen Greymyr"
+  "Mirkmyr Mechanic"
+  "Granite Greymyr"
+  "Gilded Greymyr"
+  "Mountain Greymyr"
+  "Moltenmyr"
+  "Magmyr"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Tree Giants & Colossi
+// ==========================
+
+GiantBeasts
+{
+  "Tree Giant"
+  "Willow Giant"
+  "Oak Giant"
+  "Ash Giant"
+  "Tree Giant Wight"
+  "Frost Giant"
+  "Sturdy Oak Giant"
+  "Redwood Giant"
+  "Ice Giant"
+  "Ironwood Giant"
+  "Silverfir Scion"
+  "Arboreal Fervor"
+  "Hickory Giant"
+  "Tangleberry Colossus"
+  "Silverfir Colossus"
+  "Zu Skyant"
+  "Thornwood Colossus"
+  "Tree Colossus"
+  "Bawkmas Colossus"
+  "Cedar Colossus"
+  "Heartwood Hierophant"
+  "Father Silversnag"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Aquatic & Sea Creatures
+// ==========================
+
+AquaticBeasts
+{
+  "Red Herring"
+  "Jellyfish"
+  "Pink Jellyfish"
+  "Giant Carnivorous Plankton"
+  "Cod"
+  "Shredder"
+  "Sand Ray"
+  "Sea Snake"
+  "Tae-Su"
+  "Barracuda"
+  "Baltoise"
+  "Megamouth"
+  "Striped Seasteed"
+  "Royal Seahorse"
+  "Megabite"
+  "Culcan"
+  "Nakika"
+  "Elder Tae-Su"
+  "Mako Mouth"
+  "Seasteed Automaton"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Wyrms, Drakes & Sarra’don
+// ==========================
+
+WyrmBeasts
+{
+  "Dra'ryx"
+  "Fire Dra'ryx"
+  "Grey Wyrm"
+  "Ripper"
+  "Whipper Wyrm"
+  "Blood Wyrm"
+  "Ember Wyrm"
+  "Sun Wyrm"
+  "Baby Plesio'don"
+  "Serac Wyrm"
+  "Tearer"
+  "Lesser Sarra'don"
+  "Komodo Drakewyrm"
+  "Sarra'don"
+  "Sazaja"
+  "Earth Wyrm"
+  "Rifter"
+  "Lesser Sarra'yrm"
+  "Spectral Sazaja"
+  "Sarra'yrm"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Meshra & Guardians
+// ==========================
+
+MeshraBeasts
+{
+  "Infant Meshra"
+  "Green Meshra"
+  "Mottled Meshra"
+  "Infant Ebb Meshra"
+  "Lair Guardian"
+  "Elder Guardian"
+  "Deep Meshra"
+  "Blood Meshra"
+  "Glacier Meshra"
+  "Frostbite Meshra"
+  "Flood Meshra"
+  "Flotsam Meshra"
+  "Blind Meshra"
+  "Ebb Meshra"
+  "Riptide Meshra"
+  "Avalanche Meshra"
+  "Ebb Meshra Warden"
+  "Riptide Reaver"
+  "Lord of the Undermarsh"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Arachnoids
+// ==========================
+
+ArachnoidBeasts
+{
+  "Grey Arachnoid"
+  "Purple Arachnoid"
+  "Striped Arachnoid"
+  "Blue Arachnoid"
+  "Green Arachnoid"
+  "Jade Arachnoid"
+  "Olive Arachnoid"
+  "Black Widow"
+  "Malachite Arachnoid"
+  "Azurite Arachnoid"
+  "Emerald Arachnoid"
+  "Striped Jade Arachnoid"
+  "Striped Azurite Arachnoid"
+  "Crimson Arachnoid"
+  "Pitch Arachnoid"
+  "Albino Arachnoid"
+  "Escaping Arachnoid"
+  "Slate Arachnoid"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Rockodiles, Lizards & Andvari
+// ==========================
+
+LizardBeasts
+{
+  "Lil' Gnashy"
+  "Young Rockodile"
+  "Herpetad"
+  "Water Lizard"
+  "Herpetid"
+  "Adult Rockodile"
+  "Great Rockodile"
+  "Magnum Herpetid"
+  "Seta Lizard"
+  "Young Andvari"
+  "River Lizard"
+  "Nyrm"
+  "Andvari"
+  "Utsanna Andvari"
+  "Giant River Lizard"
+  "Madzume Andvari"
+  "O'Gnashy"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Ethereal Creatures
+// ==========================
+
+/macro add EtherealBeasts {
+  "Ethereal Slug"
+  "Ethereal Walker"
+  "Sparse Ethereal Spume"
+  "Thin Ethereal Spume"
+  "Ethereal Stalker"
+  "Massed Ethereal Spume"
+  "Guardian of the Item"
+  "Ethereal Golem"
+  "Cloud of Ether"
+  "Ethereal Wurm"
+  "Dense Ethereal Spume"
+  "Ethereal Chamelopod"
+  "Ethereal Skeletal"
+  "Ethereal Scarmis Warrior"
+  "Ethereal Hunter"
+  "Ethereal Sailor"
+  "Ethereal Darshak Captain"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Orcs, Kin & T'rools
+// ==========================
+
+OrcBeasts
+{
+  "Orc"
+  "T'rool"
+  "Ko'Kin"
+  "Gob'Kin"
+  "Hob'Kin"
+  "Vol'Kin"
+  "Jun'Kin"
+  "Bar'Kin"
+  "Orf'Kin"
+  "Deth'Kin"
+  "Gaw'Kin"
+  "Kil'Kin"
+  "Dar'kin Thrall"
+  "Dar'kin"
+  "Ice'kin"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Yorilla & Samahee
+// ==========================
+
+YorillaBeasts
+{
+  "Yorilla"
+  "Confused Yorilla"
+  "Raja-Yorilla"
+  "Snow Yorilla"
+  "Madzume Yorilla"
+  "Utsanna Raja-Yorilla"
+  "Sezuma Yorilla"
+  "Frost Yorilla"
+  "Tawny Yorilla"
+  "Abominable Snow Yorilla"
+  "Spectral Yorilla"
+  "Escaping Yorilla"
+  "Utsanna Tawny Yorilla"
+  "Samahee Thornriders"
+  "Samahee Raider"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Lyfelidae
+// ==========================
+
+LyfelidaeBeasts
+{
+  "Harvest Lyfelidae"
+  "Snow Lyfelidae"
+  "Blue Lyfelidae"
+  "Wyrm Lyfelidae"
+  "Hunter's Lyfelidae"
+  "Pink Lyfelidae"
+  "Thunder Lyfelidae"
+  "Flower Lyfelidae"
+  "Tae-Su Lyfelidae"
+  "Orgaberry Lyfelidae"
+  "Starbuck Lyfelidae"
+  "Cold Lyfelidae"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Noth
+// ==========================
+
+NothBeasts
+{
+  "Dal'Noth"
+  "Kal'Noth"
+  "Zol'Noth"
+  "Vel'Noth"
+  "Gar'Noth"
+  "Sar'Noth"
+  "Xar'Noth"
+  "Hel'Noth"
+  "Tuz'Noth"
+  "Hek'Noth"
+  "Garr'Noth"
+  "Zu'Noth"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Goats, Bison & Mantuan
+// ==========================
+
+GoatBeasts
+{
+  "Goat"
+  "Sky Bison"
+  "Mountain Bison"
+  "Mountain Goat"
+  "Gruff Mountain Goat"
+  "Bluff Billy Goat"
+  "Alpine Goat"
+  "Mantuan"
+  "Shadow Raider"
+  "Rampaging Bison"
+  "Turbo Goat"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Corpses & Undead
+// ==========================
+
+CorpseBeasts 
+{
+  "Hooded Corpse"
+  "Underwater Corpse"
+  "Corpse Warrior"
+  "Hooded Guardian"
+  "Shambling Corpse"
+  "Walking Corpse"
+  "Death Furie"
+  "Corpse Knight"
+  "Corrosive Corpse"
+  "Library Dweller"
+  "Rotting Corpse"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Skeletal & Abyssal
+// ==========================
+
+SkeletalBeasts
+{
+  "Skeletal"
+  "Giant Skeletal"
+  "Skeletal Guardian"
+  "Skeletal Rage"
+  "Revour"
+  "Abyssal Hunter"
+  "Scary Skeletal"
+  "Frozen Abyssal Hunter"
+  "Skeletal Hunger"
+  "Skeletal Monk"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Crawlers
+// ==========================
+
+CrawlerBeasts
+{
+  "Crawler"
+  "Giant Crawler"
+  "Deadly Crawler"
+  "Green Crawler"
+  "River Crawler"
+  "Horseshoe Crawler"
+  "Mazarine Crawler"
+  "Booty Crawler"
+  "Eolith Crawler"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Castle Guards & Knights
+// ==========================
+
+CastleGuardBeasts
+{
+  "Castle Guard"
+  "Guard Veteran"
+  "Honor Guard"
+  "Honor Guard Veteran"
+  "Guard Commander"
+  "Guard Tosser"
+  "Honor Guard Commander"
+  "Dark Knight"
+  "Honor Knight"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Slugs & Wurms
+// ==========================
+
+WurmBeasts
+{
+  "Scavenger Wurm"
+  "Giant Slug"
+  "Cave Wurm"
+  "Tahxis Wurm"
+  "Carnivorous Wurm"
+  "Large Tahxis Wurm"
+  "Cavern Wurm"
+  "Lava Wurm"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Scarmis
+// ==========================
+
+ScarmisBeasts
+{
+  "Scarmis Larva"
+  "Scarmis Harvester"
+  "Scarmis Forager"
+  "Scarmis Tunneler"
+  "Scarmis Warrior"
+  "Scarmis Attendant"
+  "Scarmis Queen"
+  "Scarmis Eunuch"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Starbuck, Stags & Stallions
+// ==========================
+
+StagBeasts
+{
+  "Starbuck"
+  "Fellbuck"
+  "Starstag"
+  "Wild Stallion"
+  "Snowstag"
+  "Sao-La Starfawn"
+  "Sao-La Starstag"
+  "Shadowstag"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Frogs, Amphibia & Amedon
+// ==========================
+
+FrogBeasts
+{
+  "Frog"
+  "Poison Arrow Frog"
+  "Poison Dart Frog"
+  "Blind Amphibia"
+  "Burning Reed Amedon"
+  "Smoky Bog Amedon"
+  "Delta Toad"
+  "Spectral Amedon"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Darshak Liches & Greater Undead
+// ==========================
+
+LicheBeasts
+{
+  "Darshak Liche"
+  "Ancient Darshak Liche"
+  "Darshak Ancient"
+  "Greater Liche"
+  "Greater Death"
+  "Rotting Stare"
+  "Jack o' Liche"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Drakes, Wyverns & Astrals
+// ==========================
+
+DrakeBeasts
+{
+  "Lesser Astral Drake"
+  "Forest Drake"
+  "Wyvern"
+  "Astral Wyrm"
+  "Fire Drake"
+  "Frozen Drake"
+  "Monsoon Drake"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Sand Wurms, Ohwi & Amakua
+// ==========================
+
+SandWurmBeasts
+{
+  "Sand Wurm"
+  "Razu-Ohwi"
+  "Pazu-Ohwi"
+  "Large Sand Wurm"
+  "Lesser Sand Wurm"
+  "Possessed Amakua"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Manders
+// ==========================
+
+ManderBeasts
+{
+  "Tuder Mander"
+  "Mild Mander"
+  "Solstimander"
+  "Spicy Mander"
+  "Smoky Mander"
+  "Reaper Mander"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Gan Vara & Sulran
+// ==========================
+
+GanVaraSulranBeasts
+{
+  "Gan Vara Soldier"
+  "Sulran Soldier"
+  "Gan Vara Warrior"
+  "Gan Vara Elite"
+  "Sulran Warrior"
+  "Sulran Elite"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Exotic Beasts
+// ==========================
+
+ExoticBeasts
+{
+  "Rime Waspyx"
+  "Burrowing Catbear"
+  "Crevyrn"
+  "Tamazaja"
+  "Frostquill"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Elementals (Wind, Storm, Gas, Fog)
+// ==========================
+
+ElementalBeasts 
+{
+  "Swamp Gas"
+  "Windswept Fervor"
+  "Electrified Fogbank"
+  "Wind Elemental"
+  "Storm Incarnate"
+  "Ravening Wind"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Blymoids
+// ==========================
+
+BlymoidBeasts
+{
+  "Blymoid"
+  "Blymoid Blocker"
+  "Blymoid Breaker"
+  "Greater Blymoid"
+  "Rust Blymoid"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Stones & Shambling
+// ==========================
+
+StoneBeasts
+{
+  "Precarious Pebble"
+  "Shambling Silver"
+  "Shambling Stone"
+  "Charged Chunk"
+  "Sundering Stone"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Dew Creatures
+// ==========================
+
+DewBeasts
+{
+  "Neodew"
+  "Mildew"
+  "Pallidew"
+  "Landew"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Lava & Fire Elementals
+// ==========================
+
+LavaBeasts
+{
+  "Fiery Bubble"
+  "Lava Walker"
+  "Lava Elemental"
+  "Torched Fervor"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Tors & Toises
+// ==========================
+
+TorToiseBeasts
+{
+  "Carnivorous Tor"
+  "Sortoise"
+  "Gitoise"
+  "Toisicle"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Boars
+// ==========================
+
+BoarBeasts
+{
+  "Wild Boar"
+  "Hell Boar"
+  "Hovering Hell Boar"
+  "Hungry Hell Boar"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Rai-Koon, Bandits & Badgers
+// ==========================
+
+RaiKoonBeasts
+{
+  "Rai-Koon"
+  "Rocky Rai-Koon"
+  "Red Bandit"
+  "Badger"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Frost & Ice Elementals
+// ==========================
+
+FrostBeasts
+{
+  "Frost Elemental"
+  "Klarik"
+  "Shattering Frost"
+  "Primal Frostlight"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Eukaryids
+// ==========================
+
+EukaryidBeasts
+{
+  "Small Eukaryid"
+  "Large Eukaryid"
+  "Elite Eukaryid"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Orgs
+// ==========================
+
+OrgBeasts
+{
+  "Young Org"
+  "Org"
+  "Mammoth Org"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Leeches
+// ==========================
+
+LeechBeasts
+{
+  "Leech"
+  "Tesla"
+  "Brackwater Leech"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Mushrooms
+// ==========================
+
+MushroomBeasts
+{
+  "Mushroom (Purple)"
+  "Mushroom (Brown)"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Spriggin & Mushroom Types
+// ==========================
+
+SprigginBeasts
+{
+  "Blue-Brim Bonnet"
+  "Spriggin Parasol"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Stitchlings
+// ==========================
+
+StitchlingBeasts
+{
+  "Unstable Stitchling"
+  "Lesser Stitchling"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Guardians
+// ==========================
+
+GuardianBeasts
+{
+  "Grove Guardian"
+  "Glacial Guardian"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Water Elementals & Guardians
+// ==========================
+
+WaterBeasts
+{
+  "Water Burst"
+  "Watery Guardian"
+}
+
+// ==========================
+// Clan Lord Beast Macros
+// Special / Unique / Oddities
+// ==========================
+
+SpecialBeasts
+{
+  "Milk Golem"
+  "Uberbloodgossaxe"
+  "Bloodthorn"
+  "Stone Wall"
+  "Spriggin"
+  "Voolcon"
+  "Beehive"
+  "Slime Monster"
+  "Turmoil"
+  "Astral Guardian"
+  "Lost Dream"
+  "Moolah Minion"
+  "Wasted Guardian"
+  "Feral Moon Manual"
+  "Thirsty Knowledge"
+  "Dankyssal Hunter"
+  "Shadowguild Master Balloonist"
+  "Grasper"
+  "Mimic"
+  "Foxweir Friend"
+  "Dwarven Miner"
+  "Malevolent Milkman"
+  "Money Balloon"
+  "Scarewan"
+  "Dark Rift"
+  "Jerk Knight"
+  "Coin Golem"
+  "Giayl"
+  "Orion"
+  "Enchanted Peg-Leg"
+  "Tipulid"
+  "Skålcrusher"
+  "Lord Pumpkin"
+  "Beer Golem"
+  "Arachnoid Rider"
+  "Snowy Maiden"
+  "Evil Noble King"
+  "Angry Kudzu Giant"
+  "Ramandu"
+  "Wizard Q'vynn"
+}

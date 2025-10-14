@@ -1,93 +1,54 @@
-// lastie beta 0.3
+// Lastie Beta 2.0
 // by Magnic
-// doesnt fuction, @telsel wont accept infromation for setgloabal it just put in as plain text of the setgloabal's name
-// this will require, a 2 part macro.
 
-setgloabal last_index_name ""
-setgloabal last_index_creature ""
-setgloabal name_repeater ""
-setgloabal creature_repeater ""
+setglobal last_names ""
+setglobal last_monsters ""
 
 "/last"
 {
-set logck @env.textlog
-set Mname @text.word[1]
-set Pname @text.word[0]
-set chklistnum 0
-if @text.num_words < 1
-	goto usage
-end if
-// if monster always on list, add the name
-if Mname >= last_index_creature
-	label monster_index_finder
-	if last_index_creature.word[chklistnum] != ""
-		if last_index_creature.word[chklistnum] == Mname
-			setgloabal name_repeater last_index_name
-				@textsel "/setlsname " name_repeater " " Pname "[chklistnum]" 
-					"\r"
-						set chklistnum 0
-							goto added
-		else if last_index_creature.word[chklistnum] != Mname
-			set chklistnum + 1
-				goto monster_index_finder
-		end if
+	if @text.num_words < 2
+		message "Usage: /last <name> <monster>"
+			goto end
 	end if
-else
-	setgloabal creature_repeater last_index_creature
-		@textsel "/setlscreature " creature_repeater " " Mname ""
-			"\r"
-				set new_index_number last_index_creature.num_words
-					set new_index_number +1
-						@textsel "/setlsname " name_repeater " " Pname "[new_index_number]" 
-							"\r"
-								goto added
-end if
-label usage
-	Message "Usage: /last <name> <monster>"
-		goto ender
-label added
-message " Pname " " Mname " added\r"
+
+	// monster = last word
+	set Mname @text.word[@text.num_words-1]
+
+	// build name from all words before last
+	set Pname @text.word[0]
+		set i 1
+label buildname
+	if i < @text.num_words-1
+		set Pname + " "
+			set Pname + @text.word[i]
+				set i + 1
+					goto buildname
+	end if
+
+	// append each as one entry
+	setglobal last_names + Pname
+	setglobal last_monsters + Mname
+		message "" Pname " Lastie:" Mname ""
 label end
-}
-
-"/setlscreature"
-{
-message ping
-setgloabal last_index_creature @text
-}
-
-"/setlsname"
-{
-message ping2
-setgloabal last_index_name @text
 }
 
 "/lasts"
 {
-set names last_index_name
-set monsters last_index_creature
-set limitn names.num_words
-set limitm monsters.num_words
-set listnumb 0
-set monslist 0
-label spittingnames
-if names.word[listnumb] != ""
-	set myguy names.word[listnumb]
-		set myguysnumber myguy.num_letters
-			if myguysnumber.letter[myguysnumber.num_letters-1] == monsters.word[monslist]
-				"/narrator "myguy" "monsters.word[monslist] \r"
-			else
-				if monslist > limitm
-					goto end
-				end if
-				monslist + 1
-					if listnumb > limitn
-						goto spittingnames
-					else
-						goto end
-					end if
-			end if
-end if
-//"/narrator "" last_index_name "\r"
-label end
+	set names last_names
+	set monsters last_monsters
+	set limit names.num_words
+	set i 0
+label loop
+	if i < limit
+		"/NARRATE " names.word[i] " Lastie:" monsters.word[i] "\r"
+			set i + 1
+				goto loop
+	end if
+}
+
+"/lastclear"
+{
+setglobal last_names ""
+	setglobal last_monsters ""
+		message "Lastie cleared."
 }
