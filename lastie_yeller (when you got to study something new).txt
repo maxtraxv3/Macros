@@ -1,0 +1,91 @@
+// Lastie Yeller v0.4
+// by Magnic
+// its not finshed yet.
+
+"/ly"
+{
+message "* Lastie Yeller ON!"
+label top
+set logck @env.textlog
+if logck >= "Strike a monster to begin studying it."
+	if logck.word[0] == "Strike"
+		SETGLOBAL findnumb1 3
+		SETGLOBAL findnumb2 4
+		SETGLOBAL findnumb3 5
+		SETGLOBAL findnumb4 0
+		SETGLOBAL findnumb5 1
+	else if logck.word[2] == "Strike"
+	message ping5
+		SETGLOBAL findnumb1 5
+		SETGLOBAL findnumb2 6
+		SETGLOBAL findnumb3 7
+		SETGLOBAL findnumb4 2
+		SETGLOBAL findnumb5 3
+	else
+		pause 3
+			goto top
+	end if
+	call findname
+		"/narr NEW LASTIE: " Nfirstname " " Nsecondname " " Nthirdname "\r"
+end if
+pause 3
+goto top
+}
+
+findname
+{
+message "" findnumb1 "" findnumb2 "" findnumb3 "" findnumb4 ""
+label top
+set logck @env.textlog
+if logck.word[findnumb3] == "helped"
+	SETGLOBAL findnumb1 + 1
+	SETGLOBAL findnumb2 + 1
+	SETGLOBAL findnumb3 + 1
+	SETGLOBAL findnumb4 + 1
+	SETGLOBAL findnumb5 + 1
+end if
+if logck.word[findnumb5] == "Vanquish"
+	call findit
+		goto stop
+else if logck.word[findnumb5] == "Kill"
+	call findit
+		goto stop
+else if logck.word[findnumb5] == "Dispatch"
+	call findit
+		goto stop
+else if logck.word[findnumb5] == "slaughtered"
+message ping1
+	call findit
+		goto stop
+end if
+goto top
+label stop
+message ping3
+}
+
+findit
+{
+set firstname logck.word[findnumb1]
+set secondname logck.word[findnumb2]
+set thirdname logck.word[findnumb3]
+if firstname != ""
+	if firstname >= "."
+		SETGLOBAL Nfirstname firstname
+			message "" Nfirstname ""
+			goto end
+	end if
+else if secondname != ""
+	if secondname >= "."
+		SETGLOBAL Nsecondname secondname
+			goto end
+	end if
+else if thirdname != ""
+	if thirdname >= "."
+		SETGLOBAL Nthirdname thirdname
+			goto end
+	end if
+else
+	goto end
+end if
+label end
+}
