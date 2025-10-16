@@ -38,10 +38,6 @@ findname
 label top
 set logck @env.textlog
 if logck.word[findnumb3] == "helped"
-	SETGLOBAL findnumb1 + 1
-	SETGLOBAL findnumb2 + 1
-	SETGLOBAL findnumb3 + 1
-	SETGLOBAL findnumb4 + 1
 	SETGLOBAL findnumb5 + 1
 end if
 if logck.word[findnumb5] == "Vanquish"
