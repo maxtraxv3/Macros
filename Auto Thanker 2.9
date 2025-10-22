@@ -1,0 +1,238 @@
+// Auto Thanker by Magnic 2.9 (WIP)
+// can only add 5 people to a thank list for now.
+// /thanks enables it and disabled it
+// Ctrl + Shift + Right click on someone to add them to list
+// Ctrl + Shift + Right (x2) to remove them from the list
+// /thm <message> to set the auto thank message
+// /thw to show the people who are on the thank list
+// /thn <name> to add a person manualy to the list
+// /thn <name> <name> <name> <name> <name> <-- if you want add multiple people at the same time manualy (only works upto 5 names)
+
+setglobal name[1] ""
+setglobal name[2] ""
+setglobal name[3] ""
+setglobal name[4] ""
+setglobal name[5] ""
+setglobal namel 1
+setglobal thnka 1
+setglobal Athank 0
+setglobal tell ""
+setglobal failname 0
+
+
+control-shift-click2
+{
+setglobal exlie @click.simple_name
+setglobal exlieR @click.name //will add pretty names later.
+call nameadd
+}
+
+errorck
+{
+set rname name[thnka]
+pause 3
+set logck @env.textlog
+if logck.word[2] == "You"
+	if logck >= "You have given"
+		message "*" rname "is unable to recive karma, removing name."
+			setglobal name[thnka] ""
+				setglobal thnka + 1
+					call nextthk
+	else if logck >= "have no karma"
+		message "* Auto Thanker re-doing last"
+			setglobal thnka - 1
+				goto wait
+	end if
+else if logck.word[3] == "is"
+	if logck >= "not in the lands."
+		message "*" rname "is no longer clanning, removing."
+				setglobal name[thnka] ""
+					setglobal thnka + 1
+						call nextthk
+	end if
+else if logck >= "Feeling mighty pleased"
+		message "* mistakes where made, removing your name."
+			setglobal name[thnka] ""
+				setglobal thnka + 1
+					call nextthk
+end if
+if thnka > 5
+	setglobal thnka 1
+else if thnka < 1
+	setglobal thnka 1
+else
+	setglobal thnka + 1
+end if
+label wait
+pause 1800
+if Athank == 0
+	goto end
+end if
+call nextthk
+label end
+}
+
+thanker
+{
+if thnka > 5
+	setglobal thnka 1
+else if thnka < 1
+	setglobal thnka 1
+end if
+if name[thnka] != ""
+	"/thank " name[thnka] " " tell "\r"
+else if name[thnka] == ""
+	if thnka > 5
+		setglobal thnka 1
+	else if thnka < 1
+		setglobal thnka 1
+	else
+		setglobal thnka + 1
+	end if
+			call nextthk
+	end if
+end if
+call errorck
+}
+
+nextthk
+{
+if Athank == 1
+	call thanker
+else if Athank == 0
+	goto end
+end if
+label end
+}
+
+thnck
+{
+if name[1] == exlie
+setglobal delck 1
+call ende
+else if name[2] == exlie
+setglobal delck 2
+call ende
+else if name[3] == exlie
+setglobal delck 3
+call ende
+else if name[4] == exlie
+setglobal delck 4
+call ende
+else if name[5] == exlie
+setglobal delck 5
+call ende
+end if
+}
+ 
+ende
+{
+if exlie == rmck
+	setglobal name[delck] ""
+		message "Removed" rmck "from list"
+			setglobal rmck ""
+				goto exit
+end if
+setglobal rmck exlie
+	message "*" exlie "is already on the Karma list."
+		message "click them again to remove them."
+label exit
+setglobal failname 1
+}
+
+nameadd
+{
+call thnck
+	if failname == 1
+		goto end
+	end if
+	setglobal name[namel] exlie
+		message "" name[namel] "added to Karma list" //this my break for no reason
+			if namel > 5
+				setglobal namel 1
+			else
+				setglobal namel + 1
+			end if
+				goto end
+	end if
+label end
+setglobal failname 0
+}
+
+"/thn"
+{
+set witchword 0
+set limit @text.num_words
+if @text.num_words < 1
+	goto usage
+else if @text.num_words > 6
+	goto usage
+end if
+if @text.num_words < 6
+	label nextw
+		if @text.word[witchword] != ""
+			"/select @text.word[witchword] \r"
+				setglobal exlie @selplayer.name
+					call nameadd
+						"/select \r"
+							set witchword + 1
+								if @text.word[witchword] != ""
+									goto nextw
+								else
+									goto ledone
+								end if
+		end if
+end if
+label usage
+	message "how to use command: /thn <name> <name> <name> <name> <name> (only work upto 5 names)"
+label ledone
+}
+
+"/thanks"
+{
+if Athank == 0
+	setglobal Athank 1
+		message "* Auto Thanker Online!"
+			call nextthk
+else if Athank == 1
+	setglobal Athank 0
+		message "* Auto Thanker Offline!"
+end if
+}
+ 
+"/thm"
+{
+if @text.word[0] != ""
+	setglobal tell @text
+		message "* Karma Message set to" tell ""
+else if @text.word[0] == ""
+	setglobal tell ""
+		message "* Karma Message will be anonymous"
+end if
+}
+
+"/thw"
+{
+set nameck 1
+message "* Karma List:"
+label top
+if nameck < 6
+	if name[nameck] != "Nothing"
+		if name[nameck] != ""
+			message "" name[nameck] ""
+				set nameck + 1
+		else
+			set nameck + 1
+				goto top
+		end if
+	else
+		set nameck + 1
+			goto top
+	end if
+goto top
+else if nameck > 6
+		goto end
+end if
+label end
+	message "* ------end------ *"
+}
