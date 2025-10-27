@@ -11,5 +11,5 @@ F3
 if @my.waist_item != "belt of the wild"
 	"/equip beltofthewild\r"
 end if
-"/useitem beltofthewild /return\r \r"
+"/useitem beltofthewild /return \r"
 }
