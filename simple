@@ -1,0 +1,15 @@
+F1
+{
+if @my.waist_item != "belt of the wild"
+	"/equip beltofthewild\r"
+end if
+"/useitem beltofthewild /shape haremau kitten \r"
+}
+
+F3
+{
+if @my.waist_item != "belt of the wild"
+	"/equip beltofthewild\r"
+end if
+"/useitem beltofthewild /return\r \r"
+}
