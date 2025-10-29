@@ -168,8 +168,10 @@ if swaobackL != "Heartwood Charm"
 		message "* swapping left hand back to" swaobackL " "
 			"/equip " swaobackL " \r"
 				SETGLOBAL swaobackL ""
-	else 
-		"/unequip heartwood \r"
+	else
+		if @my.left_item == "Heartwood Charm"
+			"/unequip heartwood \r"
+		end if
 	end if
 end if
 }
