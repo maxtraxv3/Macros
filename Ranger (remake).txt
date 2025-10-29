@@ -43,15 +43,14 @@ else
 			SETGLOBAL whatShape 1
 				SETGLOBAL isMorphed 1
 					"/useitem beltofthewild /shape " FirstMorphName " \r"
+		end if
+	end if
 else
 	if isMorphed == 1
 		if whatShape == 1
 			"/useitem beltofthewild /return\r"
 				SETGLOBAL whatShape 0
 					SETGLOBAL isMorphed 0
-					end if
-				end if
-			end if
 		end if
 	end if
 end if
@@ -72,15 +71,14 @@ else
 			"/useitem beltofthewild /shape " SecondMorphName " \r"
 				SETGLOBAL whatShape 2
 					SETGLOBAL isMorphed 1
+		end if
+	end if
 else
 	if isMorphed == 1
 		if whatShape == 2
 			"/useitem beltofthewild /return\r"
 				SETGLOBAL whatShape 0
 					SETGLOBAL isMorphed 0
-					end if
-				end if
-			end if
 		end if
 	end if
 end if
@@ -98,17 +96,15 @@ if speeding == 0
 	if @my.left_item != "Heartwood Charm"
 		"/equip heartwood\r"
 	end if
-			SETGLOBAL speeding 1		
-				"/useitem left\r"
+		SETGLOBAL speeding 1		
+			"/useitem left\r"
 else
 	if speeding == 1
 		SETGLOBAL speeding 0
 			if @my.left_item == "Heartwood Charm"
 				"/useitem heartwood /slow \r"
 					call uneq
-				end if
 			end if
-		end if
 	end if
 end if
 }
@@ -126,15 +122,11 @@ if logck >= "You return"
 end if
 if logck >= "Using /SHARE to create a spirit link"
 	if isMorphed == 1
-		SETGLOBAL keepspeed 1
-			SETGLOBAL isMorphed 0
-				SETGLOBAL whatShape 0
-	end if
-	if keepspeed == 0
-		if speeding == 1
-			SETGLOBAL speeding 0
-				goto uneq
-		end if
+		SETGLOBAL isMorphed 0
+			SETGLOBAL whatShape 0
+	else if isMorphed == 0
+		SETGLOBAL speeding 0
+			goto uneq
 	end if
 end if
 if logck >= "You are already in"
@@ -153,15 +145,11 @@ if logck >= "cannot possibly use"
 end if
 if logck >= hasfallen
 	if isMorphed == 1
-		SETGLOBAL keepspeed 1
-			SETGLOBAL isMorphed 0
-				SETGLOBAL whatShape 0
-	end if
-	if keepspeed == 0
-		if speeding == 1
-			SETGLOBAL speeding 0
-				goto uneq
-		end if
+		SETGLOBAL isMorphed 0
+			SETGLOBAL whatShape 0
+	else if isMorphed == 0
+		SETGLOBAL speeding 0
+			goto uneq
 	end if
 end if
 if logck >= "You slow down"
@@ -180,10 +168,8 @@ if swaobackL != "Heartwood Charm"
 		message "* swapping left hand back to" swaobackL " "
 			"/equip " swaobackL " \r"
 				SETGLOBAL swaobackL ""
-					setglobal keepspeed 0
 	else 
 		"/unequip heartwood \r"
-			setglobal keepspeed 0
 	end if
 end if
 }
@@ -196,5 +182,4 @@ SETGLOBAL speeding 0
 SETGLOBAL isMorphed 0
 SETGLOBAL whatShape 0
 SETGLOBAL swaobackL ""
-SETGLOBAL keepspeed 0
 }
