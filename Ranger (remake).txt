@@ -37,22 +37,19 @@ if isMorphed == 0
 	SETGLOBAL whatShape 1
 		SETGLOBAL isMorphed 1
 			"/useitem beltofthewild /shape " FirstMorphName " \r"
-else 
-	if isMorphed == 1
-		if whatShape != 1
-			SETGLOBAL whatShape 1
-				SETGLOBAL isMorphed 1
-					"/useitem beltofthewild /shape " FirstMorphName " \r"
-		end if
+					goto end
+end if
+if isMorphed == 1
+	if whatShape == 1
+		"/useitem beltofthewild /return\r"
+			SETGLOBAL whatShape 0
+				SETGLOBAL isMorphed 0
+	else if whatShape != 1
+		SETGLOBAL whatShape 1
+			SETGLOBAL isMorphed 1
+				"/useitem beltofthewild /shape " FirstMorphName " \r"
 	end if
-else
-	if isMorphed == 1
-		if whatShape == 1
-			"/useitem beltofthewild /return\r"
-				SETGLOBAL whatShape 0
-					SETGLOBAL isMorphed 0
-		end if
-	end if
+label end
 end if
 }
 
@@ -65,22 +62,19 @@ if isMorphed == 0
 		"/useitem beltofthewild /shape " SecondMorphName " \r"
 			SETGLOBAL whatShape 2
 				SETGLOBAL isMorphed 1
-else 
-	if isMorphed == 1
-		if whatShape != 2
-			"/useitem beltofthewild /shape " SecondMorphName " \r"
-				SETGLOBAL whatShape 2
-					SETGLOBAL isMorphed 1
-		end if
+						goto end
+end if
+if isMorphed == 1
+	if whatShape == 2
+		"/useitem beltofthewild /return\r"
+			SETGLOBAL whatShape 0
+				SETGLOBAL isMorphed 0
+	else if whatShape != 2
+		"/useitem beltofthewild /shape " SecondMorphName " \r"
+			SETGLOBAL whatShape 2
+				SETGLOBAL isMorphed 1
 	end if
-else
-	if isMorphed == 1
-		if whatShape == 2
-			"/useitem beltofthewild /return\r"
-				SETGLOBAL whatShape 0
-					SETGLOBAL isMorphed 0
-		end if
-	end if
+label end
 end if
 }
 
