@@ -14,6 +14,7 @@ else
 				goto lestart
 end if
 label lestart
+set nameck @my.name
 set logck @env.textLog
 if @env.textLog.word[wordnumb] >= nameck
 	set nameck @my.right_item
