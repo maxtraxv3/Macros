@@ -53,20 +53,19 @@ else
 	if click2ck != ""
 		if @my.right_item != Right_H
 			"/equip " Right_H "\r" 
-	end if
-		"/use " click2ck " \r"
-			message "* Healing" playrealname ""
+		end if
+			"/use " click2ck " \r"
+				message "* Healing" playrealname ""
 	else 
-	if @my.right_item != Right_H
-		"/equip " Right_H "\r" 
-	end if
-		"/use /off \r"
+		if @my.right_item != Right_H
+			"/equip " Right_H "\r" 
+		end if
+			"/use /off \r"
 	end if
 	if click2ck == @my.simple_name
 		"/equip moonstone\r"
 	end if
 label end
-	end if
 end if
 }
 
@@ -95,10 +94,10 @@ if @my.right_item >= "chain"
 	message "* Disabled chain Equiped !" 
 		goto end
 else
-if @my.right_item != Right_H
-"/equip " Right_H "\r"
-end if
-"/use /pet \r"
+	if @my.right_item != Right_H
+		"/equip " Right_H "\r"
+	end if
+		"/use /pet \r"
 label end
 end if
 }
