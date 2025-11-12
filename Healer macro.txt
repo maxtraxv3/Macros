@@ -44,7 +44,7 @@ end if
 click2
 {
 $any_click
-set click2ck @clicksplayer
+set click2ck @click.simple_name
 set playrealname @click.name
 if @my.right_item >= "chain"
 	message "* Disabled chain Equiped !" 
