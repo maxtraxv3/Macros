@@ -1,0 +1,25 @@
+setglobal modesetter1 0
+
+control-shift-F1
+{
+if modesetter1 <= 5
+	setglobal modesetter1 + 1
+else
+	setglobal modesetter1 0
+end if
+}
+
+numpad1
+{
+if modesetter1 == 0
+	message "* mode set to 1"
+else if modesetter1 == 2
+	message "* mode set to 2"
+else if modesetter1 == 3
+	message "* mode set to 3"
+else if modesetter1 == 4
+	message "* mode set to 4"
+else if modesetter1 == 5
+	message "* mode set to 5"
+end if
+}
