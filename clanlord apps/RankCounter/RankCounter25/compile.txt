@@ -1,0 +1,1 @@
+pyinstaller --onefile rc25.py --noconsole --icon portal.png --add-data "rankmessages.txt;." --add-data "trainers.txt;." --add-data "specialphrases.txt;."
