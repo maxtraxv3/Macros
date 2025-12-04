@@ -1,0 +1,31 @@
+"/meh"
+{
+if stmehan == 1
+	setglobal stmehan 0
+		setglobal trigger 1
+			goto end
+else
+	message "* Mehan Toggle ON!"
+	set logck @env.textlog
+	setglobal stmehan 1
+		label start
+		if stmehan == 0
+			goto end
+				setglobal trigger + 1
+		else
+			if logck >= "mehan is now Clanning."
+				"/share mehan \r"
+			pause 5
+				"/unshare mehan \r"
+					goto end
+			end if
+		end if
+	goto start
+end if
+label end
+	setglobal stmehan 0
+		if trigger > 1
+			message "* Mehan Toggle OFF!"
+				setglobal trigger 0
+		end if
+}
