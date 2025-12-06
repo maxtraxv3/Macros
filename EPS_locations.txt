@@ -4,6 +4,7 @@ setglobal tetherednum 18
 
 "/eps"
 {
+set logck @env.textlog
 message "* EPS locations Started"
 if logck.word[2] >= "*"
 	setglobal portalloc 8
