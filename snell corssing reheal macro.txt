@@ -1,0 +1,17 @@
+"/carryon"
+{
+message "* carry on healing!"
+label top
+set logck @env.textlog
+if logck >= "The player must be in the same area."
+	pause 5
+		if click2ck != ""
+			if @my.right_item != Right_H
+				"/equip " Right_H "\r" 
+			end if
+				"/use " click2ck " \r"
+					message "* Retrying to Heal" playrealname ""
+		end if
+end if
+goto top
+}	
