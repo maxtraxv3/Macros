@@ -1,17 +1,110 @@
+SETGLOBAL Right_H ""
+SETGLOBAL Rad 1
+SETGLOBAL reheal 0
+
+@login
+{
+call sethealeritem
+}
+
+"/hi" // incase you where not holding your main healing item when you loged in.
+{
+call sethealeritem
+}
+
+sethealeritem
+{
+setglobal Right_H @my.right_item
+message "* Healer Item set to" Right_H ""
+if Right_H >= asklepian
+	SETGLOBAL Rad 1
+end if
+}
+
+
+click2
+{
+$any_click
+setglobal click2ck @click.simple_name
+setglobal playrealname @click.name
+if @my.right_item >= "chain"
+	message "* Disabled chain Equiped !" 
+		goto end
+else
+	if click2ck != ""
+		if @my.right_item != Right_H
+			"/equip " Right_H "\r" 
+		end if
+			"/use " click2ck " \r"
+				message "* Healing" playrealname ""
+	else 
+		if @my.right_item != Right_H
+			"/equip " Right_H "\r" 
+		end if
+			"/use /off \r"
+	end if
+	if click2ck == @my.simple_name
+		"/equip moonstone\r"
+	end if
+label end
+end if
+}
+
+F1
+{
+if @my.right_item >= "chain"
+	message "* Disabled chain Equiped !" 
+		goto end
+else
+	if Rad == 1
+		if @my.right_item != Right_H
+			"/equip " Right_H "\r"
+		end if
+	"/use \r"
+		message "*Radium Mode"
+	else
+		message "* your Healer Item isnt capble of that"
+	end if
+label end
+end if
+}
+
+
 "/carryon"
 {
-message "* carry on healing!"
+if reheal == 0
+		setglobal reheal 1
+			message "* carry on healing!"
+				goto top
+else
+	setglobal reheal 0
+		goto endr
 label top
-set logck @env.textlog
-if logck >= "The player must be in the same area."
-	pause 5
-		if click2ck != ""
-			if @my.right_item != Right_H
-				"/equip " Right_H "\r" 
-			end if
-				"/use " click2ck " \r"
-					message "* Retrying to Heal" playrealname ""
-		end if
+if reheal == 1
+	set logck @env.textlog
+	if logck >= "The player must be in the same area."
+		pause 5
+			call rehealer
+	else if logck >= "is too far away" // might need full message for this one + name of exile
+		pause 5
+			call rehealer
+	end if
+else 
+	goto end
 end if
 goto top
+label end
+	message "* carry on without healing!"
+label endr
 }	
+
+rehealer
+{
+if click2ck != ""
+	if @my.right_item != Right_H
+		"/equip " Right_H "\r" 
+	end if
+		"/use " click2ck " \r"
+			message "* Retrying to Heal" playrealname ""
+end if
+}
