@@ -46,7 +46,7 @@ else
 	end if
 	if click2ck == @my.simple_name
 		"/equip moonstone\r"
-			"/use moonstone " moontimes "\r
+			"/use moonstone " moontimes "\r"
 	end if
 label end
 end if
