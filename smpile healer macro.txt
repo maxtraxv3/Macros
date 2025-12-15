@@ -6,6 +6,7 @@
 
 
 SETGLOBAL moontimes 1
+SETGLOBAL Right_H "" //dont change this.
 
 @login
 {
