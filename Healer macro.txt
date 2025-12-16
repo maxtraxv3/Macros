@@ -40,7 +40,6 @@ if Right_H >= asklepian
 end if
 }
 
-
 click2
 {
 $any_click
