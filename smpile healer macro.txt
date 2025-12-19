@@ -1,4 +1,4 @@
-// change moontimes number to how meny time you would like to heal your self
+// change moontimes number to how many time you would like to heal your self
 // "/hi" will set what evers in your right hand to your healer item, it will set it at login as well
 // right click a player to heal them
 // right click your seld to heal your self with your moon stone
