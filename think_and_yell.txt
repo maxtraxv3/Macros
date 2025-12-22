@@ -1,0 +1,46 @@
+"/ty"
+{
+set thinkitem @my.forehead_item
+	if thinkitem == "Sungem"
+		goto next
+	else if thinkitem == "Suncrystal"
+		goto next
+	else if thinkitem == "Sunstone"
+		goto next
+	else if thinkitem == "Worn Sunstone"
+		goto next
+	else if thinkitem == "Sunpebble"
+		// wont be able to "/think"
+		goto next
+	else
+		"/equip sun\r"
+label next
+if @text.word[0] == "n"
+	"/think North \r"
+	"/yell North \r"
+else if @text.word[0] == "nw"
+	"/think North West \r"
+	"/yell North West \r"
+else if @text.word[0] == "ne"
+	"/think North East \r"
+	"/yell North East \r"
+else if @text.word[0] == "s"
+	"/think South \r"
+	"/yell South \r"
+else if @text.word[0] == "sw"
+	"/think South West \r"
+	"/yell South West \r"
+else if @text.word[0] == "se"
+	"/think South East \r"
+	"/yell South East \r"
+else if @text.word[0] == "e"
+	"/think East \r"
+	"/yell East \r"
+else if @text.word[0] == "w"
+	"/think West \r"
+	"/yell West \r"
+else
+	"/think " @text " \r"
+	"/yell " @text " \r"
+end if
+}
