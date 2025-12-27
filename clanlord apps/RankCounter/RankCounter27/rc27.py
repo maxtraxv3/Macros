@@ -13,28 +13,6 @@ CHAR_FILE = "characters.json"
 character_ranks = {}
 character_creatures = {}
 
-def save_characters():
-    data = {}
-    for name in character_folders:
-        data[name] = {
-            "folders": character_folders.get(name, []),
-            "ranks": character_ranks.get(name, {}),
-            "creatures": character_creatures.get(name, {})
-        }
-    with open(CHAR_FILE, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=4)
-
-def load_characters():
-    if not os.path.exists(CHAR_FILE):
-        return
-    with open(CHAR_FILE, "r", encoding="utf-8") as f:
-        data = json.load(f)
-
-    for name, info in data.items():
-        character_folders[name] = info.get("folders", [])
-        character_ranks[name] = info.get("ranks", {})
-        character_creatures[name] = info.get("creatures", {})
-
 def resource_path(relative_path):
     """ Get absolute path to resource, works for dev and for PyInstaller """
     base_path = getattr(sys, '_MEIPASS', os.path.dirname(os.path.abspath(__file__)))
@@ -64,15 +42,45 @@ def smart_read_file(path, encodings=('utf-8', 'mac_roman')):
     raise last_exc
 
 # -- Paths & Globals ---------------------------------------------------------
-
 words_file_path       = resource_path('rankmessages.txt')
 replacement_file_path = resource_path('trainers.txt')
 special_file_path     = resource_path('specialphrases.txt')
 
 merged_counts      = {}
-character_folders = {}
+merged_creatures   = {}
+character_folders  = {}
+character_ranks    = {}     # Stores rank data
+character_creatures= {}     # Stores creature data
+character_ignored  = {}     # <--- NEW: Stores ignored creatures
 current_folder_name= None
 executor           = concurrent.futures.ThreadPoolExecutor(max_workers=4)
+
+def save_characters():
+    data = {}
+    for name in character_folders:
+        data[name] = {
+            "folders": character_folders.get(name, []),
+            "ranks": character_ranks.get(name, {}),
+            "creatures": character_creatures.get(name, {}),
+            "ignored": character_ignored.get(name, [])
+        }
+    with open(CHAR_FILE, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=4)
+
+def load_characters():
+    if not os.path.exists(CHAR_FILE):
+        return
+    try:
+        with open(CHAR_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+
+        for name, info in data.items():
+            character_folders[name] = info.get("folders", [])
+            character_ranks[name] = info.get("ranks", {})
+            character_creatures[name] = info.get("creatures", {})
+            character_ignored[name] = info.get("ignored", []) # <--- Load ignored list
+    except Exception as e:
+        print(f"Error loading JSON: {e}")
 
 # -- Shared Exclusion Helper -------------------------------------------------
 
@@ -379,40 +387,61 @@ def scan_and_aggregate(folder_path):
 
 # -- UI Callbacks & GUI Setup -----------------------------------------------
 
+def parse_creature_count(count_str):
+    """Helper to split '5 (1)' into base=5, bonus=1"""
+    import re
+    # Remove any non-numeric/paren characters just in case
+    clean = str(count_str).strip()
+    match = re.match(r'(\d+)(?:\s*\((\d+)\))?', clean)
+    if match:
+        base = int(match.group(1))
+        bonus = int(match.group(2)) if match.group(2) else 0
+        return base, bonus
+    return 0, 0
+
 def on_scan_done(fut):
     try:
-        normal_ranks, special_creatures, new_folder = fut.result()
+        normal_ranks, special_creatures_data, new_folder = fut.result()
     except Exception as e:
         messagebox.showerror("Scan Error", str(e))
         return
 
-    global merged_counts, current_folder_name
-    if new_folder != current_folder_name:
-        merged_counts.clear()
-        current_folder_name = new_folder
+    global merged_counts, merged_creatures
+
+    for name, count in normal_ranks.items():
+        merged_counts[name] = merged_counts.get(name, 0) + count
+
+    for name, count_str in special_creatures_data.items():
+        new_base, new_bonus = parse_creature_count(count_str)
+        if name in merged_creatures:
+            cur_base, cur_bonus = parse_creature_count(merged_creatures[name])
+            tot_base = cur_base + new_base
+            tot_bonus = cur_bonus + new_bonus
+        else:
+            tot_base = new_base
+            tot_bonus = new_bonus
+        
+        merged_creatures[name] = f"{tot_base} ({tot_bonus})" if tot_bonus else str(tot_base)
+    
+    char_name = get_selected_character()
+    if char_name:
+        character_ranks[char_name] = merged_counts
+        character_creatures[char_name] = merged_creatures
+        save_characters()
 
     for item in table.get_children():
         table.delete(item)
-        
     for name, cnt in merged_counts.items():
         table.insert("", "end", values=(name, cnt))
 
     for item in creature_table.get_children():
         creature_table.delete(item)
 
-    # Fill ranks table
-    for name, cnt in normal_ranks.items():
-        table.insert("", "end", values=(name, cnt))
+    ignored_list = character_ignored.get(char_name, [])
 
-    # Fill creatures table
-    for name, cnt in special_creatures.items():
-        creature_table.insert("", "end", values=(name, cnt))
-    
-    # Save results to character
-    name = get_selected_character()
-    character_ranks[name] = normal_ranks
-    character_creatures[name] = special_creatures
-    save_characters()
+    for name, cnt in merged_creatures.items():
+        if name not in ignored_list: 
+            creature_table.insert("", "end", values=(name, cnt))
 
 def load_files_and_count_words():
     name = get_selected_character()
@@ -424,11 +453,10 @@ def load_files_and_count_words():
         messagebox.showerror("Error", "This character has no folders assigned.")
         return
 
-    # Clear previous results
-    global merged_counts
+    global merged_counts, merged_creatures
     merged_counts.clear()
+    merged_creatures.clear()
 
-    # Scan each folder assigned to the character
     for folder in character_folders[name]:
         if not os.path.isdir(folder):
             continue
@@ -468,6 +496,75 @@ def save_output():
         messagebox.showinfo("Success", f"Saved to {path}")
     except Exception as e:
         messagebox.showerror("Error", f"Failed to save:\n{e}")
+
+def ignore_selected_creature():
+    """Adds selected creature to ignore list and refreshes table."""
+    selected_item = creature_table.selection()
+    if not selected_item:
+        return
+    
+    # Get the creature name from the selected row
+    creature_name = creature_table.item(selected_item)['values'][0]
+    char_name = get_selected_character()
+    
+    if not char_name:
+        return
+
+    # Add to ignored list
+    if char_name not in character_ignored:
+        character_ignored[char_name] = []
+    
+    if creature_name not in character_ignored[char_name]:
+        character_ignored[char_name].append(creature_name)
+        save_characters() # Save to JSON
+        
+        # Remove from UI immediately
+        creature_table.delete(selected_item)
+        print(f"Ignored: {creature_name}")
+
+def open_ignore_manager():
+    """Opens a popup to see and restore ignored items."""
+    char_name = get_selected_character()
+    if not char_name:
+        messagebox.showerror("Error", "Select a character first.")
+        return
+
+    # Create Popup Window
+    win = tk.Toplevel(root)
+    win.title(f"Ignored Items for {char_name}")
+    win.geometry("400x300")
+
+    lbl = tk.Label(win, text="Select items to restore:")
+    lbl.pack(pady=5)
+
+    # Listbox
+    lb = tk.Listbox(win, selectmode=tk.MULTIPLE)
+    lb.pack(fill="both", expand=True, padx=10, pady=5)
+
+    # Fill Listbox
+    ignored = character_ignored.get(char_name, [])
+    for item in ignored:
+        lb.insert(tk.END, item)
+
+    def restore_selected():
+        selections = lb.curselection()
+        if not selections:
+            return
+        
+        # Get items to remove from ignore list
+        to_restore = [lb.get(i) for i in selections]
+        
+        # Remove them
+        for item in to_restore:
+            if item in character_ignored[char_name]:
+                character_ignored[char_name].remove(item)
+        
+        save_characters()
+        win.destroy()
+        on_character_selected() # Refresh main table
+
+    btn = tk.Button(win, text="Restore Selected", command=restore_selected)
+    btn.pack(pady=10)
 
 # ----------------------------------------------------------------------
 # ------------------------- NEW GUI SECTION -----------------------------
@@ -576,7 +673,6 @@ def on_character_selected(event=None):
     
     for item in table.get_children():
         table.delete(item)
-        
     if name in character_ranks:
         for r_name, r_cnt in character_ranks[name].items():
             table.insert("", "end", values=(r_name, r_cnt))
@@ -584,11 +680,12 @@ def on_character_selected(event=None):
     for item in creature_table.get_children():
         creature_table.delete(item)
 
+    ignored_list = character_ignored.get(name, []) 
+
     if name in character_creatures:
         for c_name, c_cnt in character_creatures[name].items():
-            creature_table.insert("", "end", values=(c_name, c_cnt))
-
-character_list.bind("<<ListboxSelect>>", on_character_selected)
+            if c_name not in ignored_list:
+                creature_table.insert("", "end", values=(c_name, c_cnt))
 
 def add_folder():
     folder = filedialog.askdirectory()
@@ -635,6 +732,21 @@ creature_table.heading("Count", text="Count")
 creature_table.column("Creature", width=300, stretch=True)
 creature_table.column("Count", width=80, stretch=False)
 creature_table.pack(pady=10, fill="both", expand=True)
+creature_context_menu = tk.Menu(root, tearoff=0)
+creature_context_menu.add_command(label="Ignore Creature", command=ignore_selected_creature)
+
+def show_creature_menu(event):
+    item = creature_table.identify_row(event.y)
+    if item:
+        creature_table.selection_set(item)
+        creature_context_menu.post(event.x_root, event.y_root)
+
+# Bind Right Click (Button-3 on Windows, Button-2 on Mac sometimes)
+creature_table.bind("<Button-3>", show_creature_menu) 
+creature_table.bind("<Button-2>", show_creature_menu) # MacOS support
+
+tk.Button(frame_creatures, text="Manage Ignored List", command=open_ignore_manager)\
+    .pack(pady=5)
 
 # ---------------- LOG SEARCH TAB (Search ALL character folders) ----------------
 
