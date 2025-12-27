@@ -1,0 +1,24 @@
+{
+    "magnic": {
+        "folders": [
+            "D:/ClanLord.win32/data/Text Logs/magnic",
+            "D:/ClanLord.bottled/data/Text Logs/magnic",
+            "D:/ClanLord3/data/Text Logs/magnic",
+            "D:/ClanLord.foth/data/Text Logs/magnic"
+        ],
+        "ranks": {
+            "Swengus": 81,
+            "Gossamer": 39,
+            "Duvin Beastlore": 35,
+            "Respin Verminebane": 84,
+            "Spleisha'Sul": 24
+        },
+        "creatures": {
+            "a vast amount to Sky Bison (ways)": "4",
+            "almost nothing left to Myrm Defender (movements)": "1",
+            "almost nothing left to Hickory Giant (movements)": "1",
+            "many things to learn Hungry Mountain Bear (ways)": "5",
+            "a lot to learn Black Locust (ways)": "6"
+        }
+    }
+}

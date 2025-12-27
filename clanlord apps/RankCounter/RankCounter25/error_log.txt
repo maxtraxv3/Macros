@@ -1,0 +1,21 @@
+Unhandled exception:
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Macros\clanlord apps\RankCounter\RankCounter25\rc26.py", line 414, in <module>
+    tk.Label(frame_logsearch, text="Folder:").grid(row=0, column=0, padx=5, pady=5, sticky="w")
+             ^^^^^^^^^^^^^^^
+NameError: name 'frame_logsearch' is not defined
+
+Unhandled exception:
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Macros\clanlord apps\RankCounter\RankCounter25\rc26.py", line 436, in <module>
+    root = tk.TTk()
+           ^^^^^^
+AttributeError: module 'tkinter' has no attribute 'TTk'. Did you mean: 'Tk'?
+
+Unhandled exception:
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Macros\clanlord apps\RankCounter\RankCounter25\rc27.py", line 689, in <module>
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\tkinter\__init__.py", line 1505, in mainloop
+    self.tk.mainloop(n)
+KeyboardInterrupt
+
