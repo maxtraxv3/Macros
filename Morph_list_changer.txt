@@ -25,9 +25,10 @@ setglobal index[18] "Lowland Hawk"
 setglobal index[19] "Fledgling Kestrel"
 setglobal index[20] "Electrified Fogbank"
 
-setglobal findex 1
-setglobal MorphName ""
+SETGLOBAL findex 1
+SETGLOBAL MorphName ""
 SETGLOBAL isMorphed 0
+SETGLOBAL savMorphName ""
 
 F1
 {
@@ -49,9 +50,15 @@ end if
 if isMorphed == 0
 SETGLOBAL isMorphed 1
 	"/useitem beltofthewild /shape " MorphName " \r"
+		setglobal savMorphName MorphName
 end if
 if isMorphed == 1
-	"/useitem beltofthewild /return\r"
+	if savMorphName == MorphName
+		"/useitem beltofthewild /return\r"
+	else
+		"/useitem beltofthewild /shape " MorphName " \r"
+			setglobal savMorphName MorphName
+	end if
 end if
 }
 
