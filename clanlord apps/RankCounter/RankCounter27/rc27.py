@@ -415,7 +415,7 @@ def on_scan_done(fut):
         new_base, new_bonus = parse_creature_count(count_str)
         if name in merged_creatures:
             cur_base, cur_bonus = parse_creature_count(merged_creatures[name])
-            tot_base = cur_base + new_base
+            tot_base = new_base
             tot_bonus = cur_bonus + new_bonus
         else:
             tot_base = new_base
