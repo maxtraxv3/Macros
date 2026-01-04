@@ -1,4 +1,4 @@
-// Morph Selector v0.1
+// Morph Selector v0.2
 // By Magnic
 // F1 = move up the list (IE from 1 it will select 2 on the list)
 // F2 toggle morph on / off
