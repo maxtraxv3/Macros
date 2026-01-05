@@ -5,7 +5,7 @@ a = Analysis(
     ['rc27.py'],
     pathex=[],
     binaries=[],
-    datas=[('rankmessages.txt', '.'), ('trainers.txt', '.'), ('specialphrases.txt', '.')],
+    datas=[('phoenix.png', '.'), ('rankmessages.txt', '.'), ('trainers.txt', '.'), ('specialphrases.txt', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
@@ -35,5 +35,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=['portal.png'],
+    icon=['phoenix.png'],
 )

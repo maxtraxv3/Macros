@@ -8,6 +8,7 @@ import concurrent.futures
 import re
 import threading
 import json
+import time
 
 CHAR_FILE = "characters.json"
 character_ranks = {}
@@ -51,9 +52,13 @@ merged_creatures   = {}
 character_folders  = {}
 character_ranks    = {}     # Stores rank data
 character_creatures= {}     # Stores creature data
-character_ignored  = {}     # <--- NEW: Stores ignored creatures
+character_ignored  = {}     # Stores ignored creatures
 current_folder_name= None
 executor           = concurrent.futures.ThreadPoolExecutor(max_workers=4)
+#-- coins counter ------------------------------------------------------------
+merged_skinned = 0
+merged_share = 0
+merged_coin_events = []
 
 def save_characters():
     data = {}
@@ -125,6 +130,23 @@ def open_file_with_default_app(file_path):
             Popen(['xdg-open', file_path])
     except Exception as e:
         messagebox.showerror("Error", f"Failed to open file: {e}")
+        
+
+def get_min_time_from_filter(filter_value):
+    now = time.time()
+    mapping = {
+        "Last 5 minutes": 5 * 60,
+        "Last 10 minutes": 10 * 60,
+        "Last 30 minutes": 30 * 60,
+        "Last 1 hour": 60 * 60,
+        "Last 3 hours": 3 * 60 * 60,
+        "Last 6 hours": 6 * 60 * 60,
+        "Last 12 hours": 12 * 60 * 60,
+        "Last 24 hours": 24 * 60 * 60
+    }
+    if filter_value in mapping:
+        return now - mapping[filter_value]
+    return None  # "All logs" or unknown
 
 
 # -- File / Folder Readers ---------------------------------------------------
@@ -132,23 +154,35 @@ def open_file_with_default_app(file_path):
 def read_words_from_file(file_path):
     if not os.path.exists(file_path):
         raise FileNotFoundError(f"File not found: {file_path}")
-    return [line.strip() for line in smart_read_file(file_path).splitlines() if line.strip()]
+    # This filters out any empty lines or lines that are just whitespace
+    lines = [line.strip() for line in smart_read_file(file_path).splitlines()]
+    return [l for l in lines if l]
 
 def read_text_files(folder_path):
     texts = []
-    for fname in os.listdir(folder_path):
+
+    files = sorted(
+        os.listdir(folder_path),
+        key=lambda f: os.path.getmtime(os.path.join(folder_path, f))
+    )
+
+    for fname in files:
         fpath = os.path.join(folder_path, fname)
         if not os.path.isfile(fpath):
             continue
+
         try:
-            texts.append(smart_read_file(fpath))
+            content = smart_read_file(fpath)
+            file_time = os.path.getmtime(fpath)
+            texts.append((content, file_time))
         except UnicodeDecodeError:
             continue
+
     return texts
 
 def count_word_occurrences(texts, words):
     counts = {w: 0 for w in words}
-    for content in texts:
+    for content, _ in texts:  # Unpack the tuple here
         for line in content.splitlines():
             if is_excluded(line):
                 continue
@@ -188,7 +222,7 @@ def count_special_lines(texts):
         s = re.sub(r'[^\w\s\'-]', '', s)
         return s.lower()
 
-    for content in texts:
+    for content, _ in texts:  # Unpack the tuple here
         for raw_line in content.splitlines():
             line = ts_strip.sub('', raw_line.strip())
             if is_excluded(line):
@@ -293,7 +327,13 @@ def count_special_lines(texts):
                     continue
 
             # --- Phrase-based fallback ---
-            after = line[low.index('you have ') + len('you have '):].strip()
+            try:
+                # Find the index safely
+                idx = low.index('you have ')
+                after = line[idx + len('you have '):].strip()
+            except ValueError:
+                # If 'you have' is missing or the line is too short, skip it
+                continue
 
             for idx, phrase_lc in enumerate(phrases_lc):
                 if after.lower().startswith(phrase_lc):
@@ -353,37 +393,85 @@ def filter_finished_studies(special, exclude):
                 continue  # skip if study was finished
         filtered[trainer] = data
     return filtered
+    
+# -- Coin Scanning ---------------------------------------------------------    
+def count_coins(texts, character_name, min_time=None):
+    skinned_total = 0
+    share_total = 0
+    events = []
+
+    coin_rx = re.compile(
+        r"\*\s*(You|.+?) recover[s]? the (.+?) fur, worth (\d+)c\. Your share is (\d+)c",
+        re.IGNORECASE
+    )
+
+    for content, file_time in texts:
+        if min_time and file_time < min_time:
+            continue
+
+        for line in content.splitlines():
+            m = coin_rx.search(line)
+            if not m:
+                continue
+
+            groups = m.groups()
+            if len(groups) != 4:
+                continue
+            player, monster, worth, share = groups
+            did_skin = (player == "You" or player == character_name)
+
+            worth = int(worth)
+            share = int(share)
+
+            if did_skin:
+                skinned_total += worth
+            share_total += share
+
+            events.append({
+                "monster": monster,
+                "worth": worth,
+                "share": share,
+                "skinned": did_skin,
+                "file_time": file_time
+            })
+
+    return skinned_total, share_total, events
 
 # -- Background Task ---------------------------------------------------------
-
-def scan_and_aggregate(folder_path):
+def scan_and_aggregate(folder_path, character_name):
     words        = read_words_from_file(words_file_path)
     replacements = read_words_from_file(replacement_file_path)
+    
     if len(words) != len(replacements):
-        raise ValueError("rankmessages.txt and trainers.txt lengths differ")
+        # Improved error message to help you debug
+        raise ValueError(f"File Alignment Error: rankmessages.txt ({len(words)} lines) and "
+                         f"trainers.txt ({len(replacements)} lines) must match exactly.")
 
     mapping     = dict(zip(words, replacements))
     texts       = read_text_files(folder_path)
     word_occ    = count_word_occurrences(texts, words)
     special_occ, exclude = count_special_lines(texts)
     filtered_special = filter_finished_studies(special_occ, exclude)
+    
+    filter_value = time_filter_var.get()
+    min_time = get_min_time_from_filter(filter_value)
+
+    skinned, share, coin_events = count_coins(texts, character_name, min_time)
 
     normal_ranks = {}
     special_creatures = {}
 
-    # normal word counts
     for w, c in word_occ.items():
         if c:
-            t = mapping[w]
+            t = mapping.get(w, "Unknown")
             normal_ranks[t] = normal_ranks.get(t, 0) + c
 
-    # special counts (ways / movements / essence)
     for trainer, info in filtered_special.items():
         label = info["label"]
         cnt   = info.get("count_str", str(info["count"]))
         special_creatures[label] = cnt
 
-    return normal_ranks, special_creatures, os.path.basename(folder_path)
+    return normal_ranks, special_creatures, skinned, share, coin_events, os.path.basename(folder_path)
 
 # -- UI Callbacks & GUI Setup -----------------------------------------------
 
@@ -398,19 +486,44 @@ def parse_creature_count(count_str):
         bonus = int(match.group(2)) if match.group(2) else 0
         return base, bonus
     return 0, 0
+    
+def summarize_coin_events(events):
+    summary = {}
+    for ev in events:
+        monster = ev["monster"]
+        if monster not in summary:
+            summary[monster] = {
+                "total_worth": 0,
+                "total_share": 0,
+                "your_skins": 0
+            }
+        summary[monster]["total_worth"] += ev["worth"]
+        summary[monster]["total_share"] += ev["share"]
+        if ev["skinned"]:
+            summary[monster]["your_skins"] += 1
+    return summary
 
 def on_scan_done(fut):
     try:
-        normal_ranks, special_creatures_data, new_folder = fut.result()
+        normal_ranks, special_creatures_data, skinned, share, coin_events, new_folder = fut.result()
     except Exception as e:
         messagebox.showerror("Scan Error", str(e))
         return
 
-    global merged_counts, merged_creatures
+    global merged_counts, merged_creatures, merged_skinned, merged_share, merged_coin_events
 
+    # Merge coin totals
+    merged_skinned += skinned
+    merged_share += share
+
+    # Merge detailed coin events
+    merged_coin_events.extend(coin_events)
+
+    # Merge normal ranks
     for name, count in normal_ranks.items():
         merged_counts[name] = merged_counts.get(name, 0) + count
 
+    # Merge special creatures
     for name, count_str in special_creatures_data.items():
         new_base, new_bonus = parse_creature_count(count_str)
         if name in merged_creatures:
@@ -423,17 +536,20 @@ def on_scan_done(fut):
         
         merged_creatures[name] = f"{tot_base} ({tot_bonus})" if tot_bonus else str(tot_base)
     
+    # Save to character
     char_name = get_selected_character()
     if char_name:
         character_ranks[char_name] = merged_counts
         character_creatures[char_name] = merged_creatures
         save_characters()
 
+    # Update ranks table
     for item in table.get_children():
         table.delete(item)
     for name, cnt in merged_counts.items():
         table.insert("", "end", values=(name, cnt))
 
+    # Update creatures table
     for item in creature_table.get_children():
         creature_table.delete(item)
 
@@ -442,6 +558,25 @@ def on_scan_done(fut):
     for name, cnt in merged_creatures.items():
         if name not in ignored_list: 
             creature_table.insert("", "end", values=(name, cnt))
+            
+    # Update coins table
+    for item in coins_table.get_children():
+        coins_table.delete(item)
+
+    coins_table.insert("", "end", values=("Total Skinned", merged_skinned))
+    coins_table.insert("", "end", values=("Total Share", merged_share))
+    coins_table.insert("", "end", values=("Total Coins", merged_skinned + merged_share))
+    coins_table.insert("", "end", values=("", ""))  # spacer
+    coins_table.insert("", "end", values=("Monster", "Details"))
+
+    # Summarize by monster
+    summary = summarize_coin_events(merged_coin_events)
+
+    # Add summary rows
+    for monster, data in summary.items():
+        label = monster
+        details = f"Total {data['total_worth']}c, share {data['total_share']}c, you skinned {data['your_skins']}"
+        coins_table.insert("", "end", values=(label, details))
 
 def load_files_and_count_words():
     name = get_selected_character()
@@ -461,8 +596,9 @@ def load_files_and_count_words():
         if not os.path.isdir(folder):
             continue
 
-        fut = executor.submit(scan_and_aggregate, folder)
+        fut = executor.submit(scan_and_aggregate, folder, name)
         fut.add_done_callback(lambda f: root.after(0, on_scan_done, f))
+
         
 def rescan_all_logs():
     name = get_selected_character()
@@ -571,7 +707,14 @@ def open_ignore_manager():
 # ----------------------------------------------------------------------
 
 root = tk.Tk()
-root.title("Textlog Rank Counter")
+root.title("Rank Counter 27.6")
+try:
+    icon_path = resource_path('phoenix.png')
+    icon_img = tk.PhotoImage(file=icon_path)
+    # Set the icon (False means it applies to this window only)
+    root.iconphoto(True, icon_img)
+except Exception as e:
+    print(f"Could not load icon: {e}")
 
 # ---------------- Buttons (Horizontal Layout) ----------------
 button_frame = ttk.Frame(root)
@@ -595,12 +738,75 @@ frame_folders = ttk.Frame(notebook)
 frame_ranks = ttk.Frame(notebook)
 frame_creatures = ttk.Frame(notebook)
 frame_logsearch = ttk.Frame(notebook)
+frame_coins = ttk.Frame(notebook)
+
+# --- Time Filter UI inside Coins tab ---
+time_filter_var = tk.StringVar()
+time_filter_var.set("All logs")
+time_filter_box = ttk.Combobox(
+    frame_coins,
+    textvariable=time_filter_var,
+    values=[
+        "All logs",
+        "Last 5 minutes",
+        "Last 10 minutes",
+        "Last 30 minutes",
+        "Last 1 hour",
+        "Last 3 hours",
+        "Last 6 hours",
+        "Last 12 hours",
+        "Last 24 hours"
+    ],
+    state="readonly"
+)
+time_filter_box.pack(pady=5)
+def refresh_coins_table():
+    name = get_selected_character()
+    if not name:
+        messagebox.showerror("Error", "Select a character first.")
+        return
+
+    global merged_skinned, merged_share, merged_coin_events
+    merged_skinned = 0
+    merged_share = 0
+    merged_coin_events = []
+
+    all_texts = []
+    for folder in character_folders.get(name, []):
+        if os.path.isdir(folder):
+            all_texts.extend(read_text_files(folder))
+
+    min_time = get_min_time_from_filter(time_filter_var.get())
+    skinned, share, coin_events = count_coins(all_texts, name, min_time)
+    merged_skinned = skinned
+    merged_share = share
+    merged_coin_events = coin_events
+
+    # Update table
+    for item in coins_table.get_children():
+        coins_table.delete(item)
+
+    coins_table.insert("", "end", values=("Total Skinned", merged_skinned))
+    coins_table.insert("", "end", values=("Total Share", merged_share))
+    coins_table.insert("", "end", values=("Total Coins", merged_skinned + merged_share))
+    coins_table.insert("", "end", values=("", ""))  # spacer
+    coins_table.insert("", "end", values=("Monster", "Details"))
+
+    summary = summarize_coin_events(merged_coin_events)
+    for monster, data in summary.items():
+        label = monster
+        details = f"Total {data['total_worth']}c, share {data['total_share']}c, you skinned {data['your_skins']}"
+        coins_table.insert("", "end", values=(label, details))
+
+tk.Button(frame_coins, text="Refresh Coins", command=refresh_coins_table).pack(pady=5)
 
 notebook.add(frame_characters, text="Characters")
 notebook.add(frame_folders, text="Folders")
 notebook.add(frame_ranks, text="Ranks")
 notebook.add(frame_creatures, text="Creatures")
 notebook.add(frame_logsearch, text="Log Search")
+notebook.add(frame_coins, text="Coins")
+
 
 # ---------------- Characters Tab ----------------
 load_characters()
@@ -687,6 +893,8 @@ def on_character_selected(event=None):
             if c_name not in ignored_list:
                 creature_table.insert("", "end", values=(c_name, c_cnt))
 
+character_list.bind("<<ListboxSelect>>", on_character_selected)
+
 def add_folder():
     folder = filedialog.askdirectory()
     if folder:
@@ -694,7 +902,13 @@ def add_folder():
         if not name:
             messagebox.showerror("Error", "Select a character first.")
             return
-        character_folders.setdefault(name, []).append(folder)
+
+        # Prevent duplicates
+        if folder in character_folders.setdefault(name, []):
+            messagebox.showinfo("Duplicate Folder", "This folder is already assigned to this character.")
+            return
+
+        character_folders[name].append(folder)
         update_folder_list()
         save_characters()
 
@@ -734,6 +948,15 @@ creature_table.column("Count", width=80, stretch=False)
 creature_table.pack(pady=10, fill="both", expand=True)
 creature_context_menu = tk.Menu(root, tearoff=0)
 creature_context_menu.add_command(label="Ignore Creature", command=ignore_selected_creature)
+
+# ---------------- Coins Table ----------------
+coins_table = ttk.Treeview(frame_coins, columns=("Event", "Details"), show="headings")
+coins_table.heading("Event", text="Event")
+coins_table.heading("Details", text="Details")
+coins_table.column("Event", width=300)
+coins_table.column("Details", width=200)
+coins_table.pack(fill="both", expand=True, pady=10)
+
 
 def show_creature_menu(event):
     item = creature_table.identify_row(event.y)
