@@ -1,0 +1,26 @@
+this expect you to know how to open your terminal and have pyinstaller installed on your system
+
+copy and paste the WHOLE thing FROM " to the other " but do not inclue the "'s
+and have the files listed in the same folder
+and make sure your terminal is in the folder.
+
+this make one app on mac or exe on windows.
+
+mac:
+"pyinstaller --noconsole --onefile --icon=phoenix.png \
+  --add-data "phoenix.png:." \
+  --add-data "rankmessages.txt:." \
+  --add-data "trainers.txt:." \
+  --add-data "specialphrases.txt:." \
+  rc27.py"
+
+linux:
+"pyinstaller --noconsole --onefile --icon=phoenix.png \
+  --add-data "phoenix.png:." \
+  --add-data "rankmessages.txt:." \
+  --add-data "trainers.txt:." \
+  --add-data "specialphrases.txt:." \
+  rc27.py"
+  
+windows via terminal(win key + x): 
+"pyinstaller --noconsole --onefile --icon=phoenix.png --add-data "phoenix.png;." --add-data "rankmessages.txt;." --add-data "trainers.txt;." --add-data "specialphrases.txt;." rc27.py"
