@@ -1,0 +1,12 @@
+"/fall"
+{
+message "* Auto Find me yeller"
+label ystart
+set logck @env.textlog
+if logck >= "given 1 coin"
+	"/yell here!\r"
+		pause 100
+			goto ystart
+end if
+goto ystart
+}

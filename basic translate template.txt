@@ -1,0 +1,41 @@
+// /tr <english phrase> -> outputs French
+
+"/tr"
+{
+	//Single‑word translations
+	if @text.word[0] == "hello"
+		"Bonjour \r"
+	else if @text.word[0] == "goodbye"
+		"Au revoir \r"
+	else if @text.word[0] == "thanks"
+		"Merci \r"
+	else if @text.word[0] == "please"
+		"S’il vous plaît \r"
+	else if @text.word[0] == "yes"
+		"Oui \r"
+	else if @text.word[0] == "no"
+		"Non \r"
+
+	//Multi‑word phrases:
+	else if @text.word[0] == "follow"
+		if @text.word[1] == "me"
+			"Suivez-moi \r"
+		end if
+	else if @text.word[0] == "heal"
+		if @text.word[1] == "me"
+			"Soignez-moi \r"
+		end if
+	else if @text.word[0] == "attack"
+			if @text.word[1] == "now"
+				"Attaquez maintenant \r"
+			end if
+	else if @text.word[0] == "where"
+		if @text.word[1] == "are"
+			if @text.word[2] == "you"
+				"Où êtes-vous ? \r"
+			end if
+		end if
+	else
+		message "* [No French translation defined for " @text.word[0] "]"
+	end if
+}
