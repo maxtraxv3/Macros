@@ -1,0 +1,121 @@
+Gossamer:
+Type “/use /reflect” to check your training with this tool.
+Type “/use /practice” to train yourself to better use this tool.
+Type “/use /study” to begin studying the next creature you hit.
+Type “/use /study /cancel <creaturename>” to abandon studies of that creature.
+Type “/use /nerf” to toggle a proposed new version of this item.
+
+belt of the wild:
+The belt of the wild allows Rangers to change shape & befriend creatures.
+Type “/use /reflect” to check your knowledge of creatures.
+Type “/use /befriend” to befriend a creature you have studied in depth.
+Type “/use /call” to call a friendly creature to return to you.
+Type “/use /control” to directly control your friend.
+Type “/use /dismiss” to dismiss a creature back to the wild.
+Type “/use /shape <name>” to assume the shape of a creature you have studied extensively.Type “/use /return” to return to your normal form.
+Type “/use /judge <player>” to judge another's progress along the path to becoming a Ranger.
+Type “/use /track <name>” to track a nearby creature which you have studied.
+
+heartwood charm:
+This heartwood charm allows you to move quickly.
+Type '/use /slow' to slow down to normal speed.
+
+Bloodblade:
+This weapon can be used to channel your life energies into your blows.
+Type “/use /reflect” to check your training with this tool.
+Type “/use /practice” to train yourself to better use this tool.
+Type “/use /control” to start controlling the powers of your bloodblade. Type “/use /control” again to unleash the blade’s full power.
+Type “/use /hamstring” to hamstring the next opponent you hit.
+Type “/use /cripple” to cripple the next opponent you hit.
+Type “/use /disable” to disable the next opponent you hit.
+Add “/cancel” to the end of a command to cancel a toggled ability, or “/on” to activate it.
+Type “/use /absorb” to absorb the essence of a creature.
+Type “/use /absorb /report” to review what creatures you have absorbed.
+Type “/use /purge <creature name>” to purge your blade of the essence of <creature name>.
+Or just “/use /purge all” to purge all creatures you have absorbed.
+
+Bloodstone ring:
+* This tool is a focus used in elementary blood magic.
+* /use to toggle the powers of the ring.
+* /use /on or /use /off to activate or deactivate the powers of the ring.
+* /set to set or reset the ring's health limit to your current health.
+* /set <number>% to set the ring's health limit to a percent of your maximum health.
+* /clear to clear your previously set health limit.
+* Note: /clear has no effect on your current health limit.
+* /use /dead to feign death.
+* Unequip the ring or say the magic word to cease feigning death.
+* The current magic word is ''.
+* Type '/use /magicword' followed by the magic word to change it. For example, /use /magicword Thoom
+
+Fell blade:
+This weapon is best used to attack from behind.
+Type “/use /reflect” to check your training with this tool.
+Type “/use /practice” to train yourself to better use this tool.
+Type “/use /charge” to charge where your mouse cursor is.
+
+Tell blade:
+* This weapon is best used to conserve your balance.
+* Type “/use /reflect” to check your training with this tool.
+* Type “/use /practice” to train yourself to better use this tool.
+* Type “/use /charge” to charge where your mouse cursor is.
+
+Labrys:
+This weapon is best used to attack many enemies.
+Type “/use /reflect” to check your training with this tool.
+Type “/use /practice” to train yourself to better use this tool.
+Type “/use /spin” unleash a powerful spin attack.
+Type “/use /charge” to charge where your mouse cursor is.
+
+Stonegirdle:
+\USEITEM "stonegirdle" will turn you to stone, improving your defense.
+
+Pauldron:
+Your -ite Pauldron can be used to channel Earthpower into stance and balance.
+Type “/use” to focus your Earthpower into your Balthite Pauldron.
+
+Sword of Shadows:
+To keep the Sword of Shadows in good condition, type /use /polish.
+
+Sword of souls: //not sure of exactwording but uses the same command as Sword of Shadows
+type /use /polish. 
+
+Asklepian:
+•To heal from a distance, type: \USE <person>
+•To lock your healing to someone, type: \USE /lock or \USE /lock <person>
+•To unlock your healing, heal someone else or type: \USE /unlock or \USE /lock /off
+•To stop healing, unequip this, or type: \USE /off
+•To heal everyone in a radius around you, type \USE
+
+Moonstone:
+•To heal yourself, type: \USE
+•To heal yourself three times, type: \USE 3
+
+Caduceus:
+•To heal from a distance, type: \USE <person>
+•To lock your healing to someone, type: \USE /lock or \USE /lock <person>
+•To unlock your healing, heal someone else or type: \USE /unlock or \USE /lock /off
+•To stop healing, unequip this, or type: \USE /off
+
+Sungem:
+Your sunstone allows you to think messages to others telepathically.
+/THINK <msg> to broadcast a message to everyone
+/THINKTO <name> <msg> to send a private message to one person
+Do not include spaces or punctuation in the <name>.
+For example: "hermajesty", not "her majesty"
+/THINKCLAN <msg> to broadcast a message to everyone in your clan
+/THINKGROUP <msg> to broadcast a message to everyone you have added to your group
+/useitem sungem /group ? to see how to set up your group
+/useitem sungem /inspect to check the condition of your sungem
+
+Fishing Cooler:
+/useitem "fishing cooler" /remove : remove an item and place it in your pack.
+/useitem "fishing cooler" /add : add an item if you’re carrying one.
+/examine : examine the contents of your fishing cooler.
+
+Darkstone:
+• //USE swap <dead target> to swap their dead body with an Undine underneath Ash.
+* Select the item and type \EXAMINE to inspect the condition of the Darkstone.
+
+fishing rod:
+/USE: Cast your line. /USE again to reel in the line when your bobber sinks.
+
