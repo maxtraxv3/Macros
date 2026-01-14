@@ -1,0 +1,161 @@
+//made by Magnic
+//Champion's basic version 0.1 (not tested)
+// right click for charging
+// middle click to spin larbys
+// F1 to boost with your pauldon
+// F2 to boost with your held "ite"
+// F3 quick swap pauldons
+// F4 quick swap held "ite"'s
+// F5 - F8 for swaping spefic pauldon 
+// F9 - F12 for swaping held "ite"'s
+// order: Atkite, Dethite, Darkite, Balthite fo every F Key fuction
+
+
+click3
+{
+if @my.right_item == "Larbys"
+	"/use /spin \r"
+else
+	message "* this weapon doesnt swing like that"
+end if
+}
+
+click2
+{
+$any_click
+if @my.right_item == "chain"
+    goto end
+else
+if @my.right_item == "Fell Blade"
+        "/use /charge \r"
+else
+if @my.right_item == "Tell Blade"
+        "/use /charge \r"
+else
+if @my.right_item == "Labrys"
+        "/use /charge \r"
+else
+"/equip fellblade\r"
+    "/use /charge \r"
+            end if
+        end if
+    end if
+end if
+label end
+}
+
+f1
+{
+if @my.shoulders_item >= "Pauldron"
+	"/useitem " @my.shoulders_item " \r"
+end if
+}
+
+f2 
+{
+if @my.left_item >= "ite"
+	"/useitem " @my.left_item " \r"
+end if
+}
+
+f3
+{
+if @my.shoulders_item == "Atkite Pauldron"
+	"/equip Dethite Pauldron \r"
+else if @my.shoulders_item == "Dethite Pauldron"
+	"/equip Darkite Pauldron \r"
+else if @my.shoulders_item == "Darkite Pauldron"
+	"/equip Balthite Pauldron \r"
+else if @my.shoulders_item == "Balthite Pauldron"
+	"/equip Atkite Pauldron \r"
+else if @my.shoulders_item == ""
+	"/equip Atkite Pauldron \r"
+end if
+}
+
+f4
+{
+if @my.left_item == "Atkite"
+	"/equip Dethite \r"
+else if @my.left_item == "Dethite"
+	"/equip Darkite \r"
+else if @my.left_item == "Darkite"
+	"/equip Balthite \r"
+else if @my.left_item == "Balthite"
+	"/equip Atkite \r"
+else if @my.left_item == ""
+	"/equip Atkite \r"
+end if
+
+
+f5
+{
+if @my.shoulders_item != "Atkite Pauldron"
+	"/equip Atkite Pauldron \r"
+else
+message "Already equiped Atkite Pauldron"
+end if
+}
+
+f6
+{
+if @my.shoulders_item != "Dethite Pauldron"
+	"/equip Dethite Pauldron \r"
+else
+message "Already equiped Dethite Pauldron"
+end if
+}
+
+f7
+{
+if @my.shoulders_item != "Darkite Pauldron"
+	"/equip Darkite Pauldron \r"
+else
+message "Already equiped Darkite Pauldron"
+end if
+}
+
+f8
+{
+if @my.shoulders_item != "Balthite Pauldron"
+	"/equip Balthite Pauldron \r"
+else
+message "Already equiped Balthite Pauldron"
+end if
+}
+
+f9
+{
+if @my.left_item != "Atkite"
+	"/equip Atkite \r"
+else
+message "Already equiped Atkite"
+end if
+}
+
+f10
+{
+if @my.left_item != "Dethite"
+	"/equip Dethite \r"
+else
+message "Already equiped Dethite"
+end if
+}
+
+f11
+{
+if @my.left_item != "Darkite"
+	"/equip Darkite \r"
+else
+message "Already equiped Darkite"
+end if
+}
+
+f12
+{
+if @my.left_item != "Balthite"
+	"/equip Balthite \r"
+else
+message "Already equiped Balthite"
+end if
+}
