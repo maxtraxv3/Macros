@@ -1,5 +1,6 @@
 //made by Magnic
-//Champion's basic version 0.1 (not tested)
+//Champion's basic version 0.2 (not tested)
+// Shift-right-click to use your stone girdle
 // right click for charging
 // middle click to spin larbys
 // F1 to boost with your pauldon
@@ -10,6 +11,13 @@
 // F9 - F12 for swaping held "ite"'s
 // order: Atkite, Dethite, Darkite, Balthite fo every F Key fuction
 
+Shift-right-click
+{
+if @my.waist_item != "Stonegirdle"
+	"/equip Stonegirdle \r"
+end if
+"/useitem waist \r"
+}
 
 click3
 {
