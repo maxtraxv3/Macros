@@ -25,11 +25,17 @@ end if
 label rocktime
 	pause 900
 		"/money \r"
-			pause 518 //<<--- ajust this number ---
+			if @my.waist_item == "Stonegirdle"
+				pause 518 //<<--- ajust this number ---
+			else
+				goto end
+			end if
+			if @my.waist == "Stonegirdle"
 				message "* rock n' rolling again"
 					"/pose stand \r"
 						"/useitem waist \r"
 							goto rocktime
+			end if
 end if
 label end
 }
