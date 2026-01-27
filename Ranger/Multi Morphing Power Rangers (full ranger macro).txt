@@ -58,11 +58,11 @@ message "F10 = reset macro"
 F1
 {
 setglobal findex + 1
-if index[findex] == ""
-	setglobal findex + 1
-else if index[findex] != ""
+if index[findex] != ""
 	setglobal MorphName index[findex]
 		message "* Morph set to " MorphName " morph number " findex ""
+else if index[findex] == ""
+	setglobal findex + 1
 else if index[findex] == Nothing
 	setglobal findex 1
 end if
@@ -91,13 +91,13 @@ end if
 F3
 {
 setglobal findex - 1
-if index[findex] == ""
+if index[findex] != ""
+	setglobal MorphName index[findex]
+		message "* Morph set to " MorphName " morph number " findex ""
+else if index[findex] == ""
 	setglobal findex - 1
 else if index[findex] == Nothing
 	setglobal findex 1
-else if index[findex] != ""
-	setglobal MorphName index[findex]
-		message "* Morph set to " MorphName " morph number " findex ""
 end if
 }
 
