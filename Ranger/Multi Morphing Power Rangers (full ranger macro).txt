@@ -1,4 +1,4 @@
-// Ranger v1.9.9
+// Ranger v1.2.0
 // By Magnic
 // inbetween the "" type int your morphs name, 
 // you can leave the name spaces blank it will skip over them
@@ -62,7 +62,8 @@ if index[findex] != ""
 	setglobal MorphName index[findex]
 		message "* Morph set to " MorphName " morph number " findex ""
 else if index[findex] == ""
-	setglobal findex + 1
+	setglobal lsck 1
+		call checkls
 else if index[findex] == Nothing
 	setglobal findex 1
 end if
@@ -95,34 +96,27 @@ if index[findex] != ""
 	setglobal MorphName index[findex]
 		message "* Morph set to " MorphName " morph number " findex ""
 else if index[findex] == ""
-	setglobal findex - 1
+	setglobal lsck 0
+		call checkls
 else if index[findex] == Nothing
 	setglobal findex 1
 end if
 }
 
-F3
+checkls
 {
-if speeding == 0
-	if @my.left_item != "Nothing"
-		if @my.left_item != "Heartwood Charm"
-			setglobal swaobackL @my.left_item
-		end if
-	end if
-	if @my.left_item != "Heartwood Charm"
-		"/equip heartwood\r"
-	end if
-		SETGLOBAL speeding 1		
-			"/useitem left\r"
-else
-	if speeding == 1
-		SETGLOBAL speeding 0
-			if @my.left_item == "Heartwood Charm"
-				"/useitem heartwood /slow \r"
-					call uneq
-			end if
-	end if
+label tryagain
+if lsck == 1
+	setglobal findex + 1
+else if lsck == 0
+	setglobal findex - 1
 end if
+pause 1
+if index[findex] == ""
+	goto tryagain
+else
+	message "* Morph set to " MorphName " morph number " findex ""
+end if	
 }
 
 F4
@@ -295,3 +289,4 @@ else if logck >= "has chosen another path and cannot become a Ranger."
 	"/ponder " theJudged " has chosen another path and cannot become a Ranger.\r"
 end if
 }
+

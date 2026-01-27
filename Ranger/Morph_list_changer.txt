@@ -1,4 +1,4 @@
-// Morph Selector v0.2
+// Morph Selector v0.4
 // By Magnic
 // F1 = move up the list (IE from 1 it will select 2 on the list)
 // F2 toggle morph on / off
@@ -18,26 +18,29 @@ setglobal index[11] "Black Locust"
 setglobal index[12] "Deadly Hornet"
 setglobal index[13] "Mountain Wasp"
 setglobal index[14] "Shadowcat"
-setglobal index[15] "Small Eukaryid"
-setglobal index[16] "Large Eukaryid"
-setglobal index[17] "Snowstag"
-setglobal index[18] "Lowland Hawk"
-setglobal index[19] "Fledgling Kestrel"
-setglobal index[20] "Electrified Fogbank"
+setglobal index[15] ""
+setglobal index[16] ""
+setglobal index[17] ""
+setglobal index[18] ""
+setglobal index[19] ""
+setglobal index[20] ""
 
 SETGLOBAL findex 1
 SETGLOBAL MorphName ""
 SETGLOBAL isMorphed 0
 SETGLOBAL savMorphName ""
 
+
+
 F1
 {
 setglobal findex + 1
-if index[findex] == ""
-	setglobal findex + 1
-else if index[findex] != ""
+if index[findex] != ""
 	setglobal MorphName index[findex]
-		message "* Morph set to" MorphName "morph number" findex ""
+		message "* Morph set to " MorphName " morph number " findex ""
+else if index[findex] == ""
+	setglobal lsck 1
+		call checkls
 else if index[findex] == Nothing
 	setglobal findex 1
 end if
@@ -66,12 +69,29 @@ end if
 F3
 {
 setglobal findex - 1
-if index[findex] == ""
-	setglobal findex - 1
+if index[findex] != ""
+	setglobal MorphName index[findex]
+		message "* Morph set to " MorphName " morph number " findex ""
+else if index[findex] == ""
+	setglobal lsck 0
+		call checkls
 else if index[findex] == Nothing
 	setglobal findex 1
-else if index[findex] != ""
-	setglobal MorphName index[findex]
-		message "* Morph set to" MorphName "morph number" findex ""
 end if
+}
+
+checkls
+{
+label tryagain
+if lsck == 1
+	setglobal findex + 1
+else if lsck == 0
+	setglobal findex - 1
+end if
+pause 1
+if index[findex] == ""
+	goto tryagain
+else
+	message "* Morph set to " MorphName " morph number " findex ""
+end if	
 }
