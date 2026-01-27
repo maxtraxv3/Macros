@@ -1,22 +1,46 @@
-//change "Giant Carnivorous Plankton" to whatever creature you can morph into 
-//note you need to have " at the end and begining of the creatures name as you can see below
+// Ranger v1.9.9
+// By Magnic
+// inbetween the "" type int your morphs name, 
+// you can leave the name spaces blank it will skip over them
+// type /ranger to find out all the commands and keys.
 
-SETGLOBAL FirstMorphName "Giant Carnivorous Plankton"
-SETGLOBAL SecondMorphName "Young Sasquatch"
+setglobal index[1] "Whipper Wyrm"
+setglobal index[2] "Lesser Sarra'don"
+setglobal index[3] "Albino Flying Foxweir"
+setglobal index[4] "Hungry Mountain Bear"
+setglobal index[5] "Glacier Bear"
+setglobal index[6] "Dire Bear"
+setglobal index[7] "Skeletal"
+setglobal index[8] "Ebb Meshra"
+setglobal index[9] "Banshee"
+setglobal index[10] "Detached Spirit"
+setglobal index[11] "Black Locust"
+setglobal index[12] "Deadly Hornet"
+setglobal index[13] "Mountain Wasp"
+setglobal index[14] "Shadowcat"
+setglobal index[15] ""
+setglobal index[16] ""
+setglobal index[17] ""
+setglobal index[18] ""
+setglobal index[19] ""
+setglobal index[20] ""
 
-//dont change this
-SETGLOBAL speeding 0
+SETGLOBAL findex 1
+SETGLOBAL MorphName ""
 SETGLOBAL isMorphed 0
-SETGLOBAL whatShape 0
+SETGLOBAL savMorphName ""
+SETGLOBAL speeding 0
 SETGLOBAL swaobackL ""
 
 "/ranger"
 {
-message "F1 = First morph (toggle-able)"
+message "F1 = move up the Morph list"
 pause 1
-message "F2 = second morph (toggle-able)"
+message "F2 = toggle morph (on / off)"
 pause 1
-message "F3 = HeartWood Charm (toggle-able)"
+message "F3 = move down the Morph list"
+pause 1
+message "F4 = HeartWood Charm (on / off)"
 pause 1
 message "F5 = Befriend"
 pause 1
@@ -26,31 +50,19 @@ message "F7 = Dismiss Friend"
 pause 1
 message "/reflect = Use's Belt to reflect what you have learned"
 pause 1
-message "F10 = Return and reset macro numbers"
+message "F10 = reset macro"
 }
 
 F1
 {
-if @my.waist_item != "belt of the wild"
-	"/equip beltofthewild\r"
-end if 
-if isMorphed == 0
-	SETGLOBAL whatShape 1
-		SETGLOBAL isMorphed 1
-			"/useitem beltofthewild /shape " FirstMorphName " \r"
-					goto end
-end if
-if isMorphed == 1
-	if whatShape == 1
-		"/useitem beltofthewild /return\r"
-			SETGLOBAL whatShape 0
-				SETGLOBAL isMorphed 0
-	else if whatShape != 1
-		SETGLOBAL whatShape 1
-			SETGLOBAL isMorphed 1
-				"/useitem beltofthewild /shape " FirstMorphName " \r"
-	end if
-label end
+setglobal findex + 1
+if index[findex] == ""
+	setglobal findex + 1
+else if index[findex] != ""
+	setglobal MorphName index[findex]
+		message "* Morph set to" MorphName "morph number" findex ""
+else if index[findex] == Nothing
+	setglobal findex 1
 end if
 }
 
@@ -60,27 +72,58 @@ if @my.waist_item != "belt of the wild"
 	"/equip beltofthewild\r"
 end if
 if isMorphed == 0
-		"/useitem beltofthewild /shape " SecondMorphName " \r"
-			SETGLOBAL whatShape 2
-				SETGLOBAL isMorphed 1
-						goto end
+SETGLOBAL isMorphed 1
+	"/useitem beltofthewild /shape " MorphName " \r"
+		setglobal savMorphName MorphName
 end if
 if isMorphed == 1
-	if whatShape == 2
+	if savMorphName == MorphName
 		"/useitem beltofthewild /return\r"
-			SETGLOBAL whatShape 0
-				SETGLOBAL isMorphed 0
-	else if whatShape != 2
-		"/useitem beltofthewild /shape " SecondMorphName " \r"
-			SETGLOBAL whatShape 2
-				SETGLOBAL isMorphed 1
+	else
+		"/useitem beltofthewild /shape " MorphName " \r"
+			setglobal savMorphName MorphName
 	end if
-label end
 end if
 }
 
+F3
+{
+setglobal findex - 1
+if index[findex] == ""
+	setglobal findex - 1
+else if index[findex] == Nothing
+	setglobal findex 1
+else if index[findex] != ""
+	setglobal MorphName index[findex]
+		message "* Morph set to" MorphName "morph number" findex ""
+end if
+}
 
 F3
+{
+if speeding == 0
+	if @my.left_item != "Nothing"
+		if @my.left_item != "Heartwood Charm"
+			setglobal swaobackL @my.left_item
+		end if
+	end if
+	if @my.left_item != "Heartwood Charm"
+		"/equip heartwood\r"
+	end if
+		SETGLOBAL speeding 1		
+			"/useitem left\r"
+else
+	if speeding == 1
+		SETGLOBAL speeding 0
+			if @my.left_item == "Heartwood Charm"
+				"/useitem heartwood /slow \r"
+					call uneq
+			end if
+	end if
+end if
+}
+
+F4
 {
 if speeding == 0
 	if @my.left_item != "Nothing"
@@ -141,7 +184,6 @@ end if
 if logck >= "Using /SHARE to create a spirit link"
 	if isMorphed == 1
 		SETGLOBAL isMorphed 0
-			SETGLOBAL whatShape 0
 	else if isMorphed == 0
 		SETGLOBAL speeding 0
 			goto uneq
@@ -149,12 +191,10 @@ if logck >= "Using /SHARE to create a spirit link"
 end if
 if logck >= "You are already in"
 	SETGLOBAL isMorphed 0
-		SETGLOBAL whatShape 0
 end if
 if logck >= "cannot possibly use"
 	if isMorphed == 1
 		SETGLOBAL isMorphed 0
-			SETGLOBAL whatShape 0
 	end if
 	if speeding == 1
 		SETGLOBAL speeding 0
@@ -164,7 +204,6 @@ end if
 if logck >= hasfallen
 	if isMorphed == 1
 		SETGLOBAL isMorphed 0
-			SETGLOBAL whatShape 0
 	else if isMorphed == 0
 		SETGLOBAL speeding 0
 			goto uneq
@@ -199,7 +238,9 @@ F10
 "/useitem beltofthewild /return\r"
 "/unequip heartwood \r"
 SETGLOBAL speeding 0
+SETGLOBAL MorphName ""
 SETGLOBAL isMorphed 0
-SETGLOBAL whatShape 0
+SETGLOBAL savMorphName ""
+SETGLOBAL findex 1
 SETGLOBAL swaobackL ""
 }
