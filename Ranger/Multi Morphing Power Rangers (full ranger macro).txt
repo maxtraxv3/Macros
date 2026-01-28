@@ -58,14 +58,16 @@ message "F10 = reset macro"
 F1
 {
 setglobal findex + 1
-if index[findex] != ""
-	setglobal MorphName index[findex]
-		message "* Morph set to " MorphName " morph number " findex ""
+if index[findex] != "index[findex]"
+	if index[findex] != ""
+		setglobal MorphName index[findex]
+			message "* Morph set to " MorphName " morph number " findex ""
+	end if
+else if index[findex] == "index[findex]"
+	setglobal findex 1
 else if index[findex] == ""
 	setglobal lsck 1
 		call checkls
-else if index[findex] == Nothing
-	setglobal findex 1
 end if
 }
 
@@ -93,12 +95,14 @@ F3
 {
 setglobal findex - 1
 if index[findex] != ""
-	setglobal MorphName index[findex]
-		message "* Morph set to " MorphName " morph number " findex ""
+	if index[findex] != "index[findex]"
+		setglobal MorphName index[findex]
+			message "* Morph set to " MorphName " morph number " findex ""
+	end if
 else if index[findex] == ""
 	setglobal lsck 0
 		call checkls
-else if index[findex] == Nothing
+else if index[findex] == "index[findex]"
 	setglobal findex 1
 end if
 }
@@ -114,8 +118,19 @@ end if
 pause 1
 if index[findex] == ""
 	goto tryagain
+else if index[findex] == "index[findex]"
+	setglobal findex 1
+		goto returnme
+else 
+label returnme
+if index[findex] != ""
+	if index[findex] != "index[findex]"
+		message "* Morph set to " MorphName " morph number " findex ""
+	else
+		goto tryagain
+	end if
 else
-	message "* Morph set to " MorphName " morph number " findex ""
+	goto tryagain
 end if	
 }
 
