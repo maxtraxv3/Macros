@@ -1,0 +1,7 @@
+"/afk"
+{
+label start
+"/money \r"
+pause 1350
+goto start
+}
