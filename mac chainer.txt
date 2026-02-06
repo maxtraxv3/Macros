@@ -1,0 +1,10 @@
+right-click
+{
+if @my.rightitem != "chain"
+	"/equip chain \r"
+		pause 1 
+			"/use \r"
+else if @my.rightitem >= "chain"
+	"/use \r"
+end if
+}
