@@ -17,7 +17,5 @@ $any_click
 if @click.name != ""
 "/whisper excuse me " @click.name " \r"
 "/push " @click.simple_name " \r"
-else
-"/push /critter\r"
 end if
 }
