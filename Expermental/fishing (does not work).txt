@@ -1,0 +1,70 @@
+"/fish"
+{
+label top
+set logck @env.textlog
+if @my.right_item != "fishing rod"
+	goto end
+end if
+pause 3
+if logck >= "You reel in an empty hook."
+	pause 20
+end if
+"/use \r"
+message "casting"
+random
+set timz 5
+or
+set timz 10
+or
+set timz 15
+or
+set timz 20
+or
+set timz 25
+or
+set timz 30
+or
+set timz 35
+or
+set timz 40
+or
+set timz 45
+or
+set timz 50
+or
+set timz 55
+or
+set timz 60
+or
+set timz 65
+or
+set timz 70
+or
+set timz 75
+or
+set timz 80
+or
+set timz 85
+or
+set timz 90
+or
+set timz 95
+end random
+pause 3
+if logck >= "You feel a tug on your line, but the fish slips free."
+	pause 10
+		goto top
+end if
+pause timz
+if @my.right_item != "fishing rod"
+	goto end
+end if
+"/use \r"
+message "reeling"
+pause 3
+if logck >= "You reel in an empty hook."
+	pause 20
+end if
+goto top
+label end
+}
