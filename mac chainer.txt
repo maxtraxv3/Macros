@@ -1,10 +1,10 @@
 right-click
 {
-if @my.rightitem != "chain"
+if @my.right_item != "chain"
 	"/equip chain \r"
 		pause 1 
-			"/use \r"
-else if @my.rightitem >= "chain"
-	"/use \r"
+			"/use " @click.simple_name " \r"
+else if @my.right_item >= "chain"
+	"/use " @click.simple_name " \r"
 end if
 }
