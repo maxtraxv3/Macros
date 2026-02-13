@@ -2,7 +2,8 @@
 
 // C heal 1.9
 // /hi to set what evers in your right hand to the healer item the macro will use to heal people with
-// c heal <name> heals person wiht that name
+// /ah enables C heal
+// c heal <name> heals person with that name
 // c heal me heals you
 // c pet heals your pet or the pet closest to you
 // c self self heal
@@ -43,7 +44,6 @@ ahealck
 {
 message "* Auto Healer ON!"
 label quickloop
-set mew nope
 set logck @env.textLog
 
 if logck.word[1] == "says,"

@@ -1,0 +1,30 @@
+"/sw"
+{
+call sos
+}
+
+sos
+{
+label top
+set word @env.textLog
+if word >= "vanquished a"
+call polish
+end if
+if word >= "killed a"
+call polish
+end if
+if word >= "dispatched a"
+call polish
+end if
+if word >= "slaughtered a"
+call polish
+end if
+goto top
+}
+
+polish
+{
+pause 1
+"/use /polish \r"
+call sos
+}
