@@ -1,4 +1,4 @@
-// real rock'n roller by Magnic 1.3
+// real rock'n roller by Magnic 1.4 (untested)
 // toggleable stoneform
 // F1 on and off.
 
@@ -25,17 +25,17 @@ end if
 label rocktime
 	pause 900
 		"/money \r"
-			if @my.waist_item == "Stonegirdle"
-				pause 518 //<<--- ajust this number ---
+			if rockon == 1
+				pause 516 //<<--- ajust this number ---
 			else
 				goto end
 			end if
-			if @my.waist == "Stonegirdle"
-				message "* rock n' rolling again"
-					"/pose stand \r"
-						"/useitem waist \r"
-							goto rocktime
-			end if
+			message "* rock n' rolling again"
+				"/pose stand \r"
+					"/useitem waist \r"
+					if rockon == 1
+						goto rocktime
+					end if
 end if
 label end
 }

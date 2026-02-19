@@ -1,0 +1,17 @@
+F1
+{
+if @my.waist_item != stonegirdle
+	"/equip Stonegirdle \r"
+end if
+	message "* Lets ROCK!"
+		"/useitem waist \r"
+label rocktime
+	pause 900
+		"/money \r"
+		message ping1
+			pause 518 //<<--- ajust this number ---
+				message "* rock n' rolling again"
+					"/pose stand \r"
+						"/useitem waist \r"
+							goto rocktime
+}
