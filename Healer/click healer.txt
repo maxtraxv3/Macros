@@ -1,4 +1,5 @@
 // Magnics clicker healer 0.1 (not tested)
+// will atemped to re try to heal people when switching snells.
 // change moontimes number to how many time you would like to heal your self
 // "/hi" will set what evers in your right hand to your healer item, it will set it at login as well
 // right click a player to heal them
@@ -6,6 +7,7 @@
 // right click the ground to stop healing.
 // middle click for radium
 // shift right click will pull person or pet.
+// control right click change shift click mode to chain mode
 
 
 SETGLOBAL moontimes 1
