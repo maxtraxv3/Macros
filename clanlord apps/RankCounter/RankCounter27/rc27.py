@@ -92,7 +92,7 @@ def load_characters():
 def is_excluded(line: str) -> bool:
     """Return True if the line should be skipped."""
     low = line.lower().strip()
-    excluded = ["says,", "growls,", "yells,", "ponders,"]
+    excluded = ["says,", "growls,", "yells,", "ponders,", "thinks,"]
     if any(exc in low for exc in excluded):
         return True
     if low.startswith("(") and low.endswith(")"):
