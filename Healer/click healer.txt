@@ -1,0 +1,150 @@
+// Magnics clicker healer 0.1 (not tested)
+// change moontimes number to how many time you would like to heal your self
+// "/hi" will set what evers in your right hand to your healer item, it will set it at login as well
+// right click a player to heal them
+// right click your self to heal your self with your moon stone
+// right click the ground to stop healing.
+// middle click for radium
+// shift right click will pull person or pet.
+
+
+SETGLOBAL moontimes 1
+SETGLOBAL Right_H "" //dont change this.
+SETGLOBAL shiftclicker 0
+
+@login
+{
+call sethealeritem
+arealeaveloop
+set logck @env.textlog
+if logck >= "The player must be in the same area."
+	set savedname click2ck
+	pause 15
+		if savedname == click2ck
+			call rehealer
+		end if
+	else if logck >= "is too far away"
+	set savedname click2ck
+		pause 15
+			if savedname == click2ck
+				call rehealer
+			end if
+	else if logck >= "A link in your chain shatters."
+		call newchain
+	else if logck >= "Your chain breaks as you try to use it."
+		call newchain
+	else if logck >= "Your chain flies apart from the stress."
+		call newchain
+	else if logck >= "You have no"
+		"/bag /remove /exact chain \r"
+	else if logck >= "* Could not find"
+		message "* NO CHAINS!"
+end if
+goto arealeaveloop
+}
+
+"/hi" // incase you where not holding your main healing item when you loged in.
+{
+call sethealeritem
+}
+
+sethealeritem
+{
+setglobal Right_H @my.right_item
+message "* Healer Item set to" Right_H ""
+end if
+}
+
+click2
+{
+$any_click
+setglobal click2ck @click.simple_name
+setglobal playrealname @click.name
+if @my.right_item >= "chain"
+	message "* Disabled chain Equiped !" 
+		goto end
+else
+	if click2ck != ""
+		if @my.right_item != Right_H
+			"/equip " Right_H "\r" 
+		end if
+			"/use " click2ck " \r"
+				message "* Healing" playrealname ""
+	else 
+		if @my.right_item == Right_H
+			"/use /off \r"
+		end if
+	end if
+	if click2ck == @my.simple_name
+		"/equip moonstone\r"
+			"/use " moontimes "\r"
+	end if
+label end
+end if
+}
+
+click3
+{
+if @my.right_item >= "chain"
+	message "* Disabled chain Equiped !" 
+		goto end
+else
+	if @my.right_item != Right_H
+		"/equip " Right_H "\r"
+	end if
+		"/use \r"
+			message "*Radium Mode"
+label end
+end if
+}
+
+rehealer
+{
+if click2ck != ""
+	if @my.right_item != Right_H
+		"/equip " Right_H "\r" 
+	end if
+		"/use " click2ck " \r"
+			message "* Retrying to Heal: " playrealname ""
+end if
+}
+
+shift-click2
+{
+setglobal click2ck @click.simple_name
+setglobal playrealname @click.name
+if shiftclicker == 0
+	$any_click
+	if click2ck != ""
+		"/pull " click2ck " \r"
+			"/whisper excuse me " playrealname " \r"
+	else
+		"/pull /critter\r"
+	end if
+else if shiftclicker == 1
+	if @my.right_item >= "chain"
+		setglobal swapbackR @my.right_item
+			message "item saved: " swapbackR " "
+	end if
+		"/equip " chain "\r"
+			"/use " click2ck " \r"
+end if
+}
+
+control-click2
+{
+if shiftclicker == 0
+	setglobal shiftclicker 1
+		message "shift-right-click: chain mode"
+else if shiftclicker == 1
+	setglobal shiftclicker 0
+		message "shift-right-click: pull mode"
+end if
+}
+
+newchain
+{
+message "* New Chain"
+"/equip " chain "\r"
+	"/use \r"
+}
