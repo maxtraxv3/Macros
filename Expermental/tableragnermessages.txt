@@ -1,0 +1,54 @@
+1 	You have almost nothing left to learn about the <function> of the <creature>. 	2 	2
+2 	You have almost nothing left to learn about the <function> of the <creature>. 	2 	4
+3 	You have almost nothing left to learn about the <function> of the <creature>. 	2 	6
+4 	You have almost nothing left to learn about the <function> of the <creature>. 	2 	8
+5 	You have almost nothing left to learn about the <function> of the <creature>. 	4 	12
+"a few" (13–27)
+6 	You have a few things to learn about the <function> of the <creature>. 	3 	15
+7 	You have a few things to learn about the <function> of the <creature>. 	3 	18
+8 	You have a few things to learn about the <function> of the <creature>. 	3 	21
+9 	You have a few things to learn about the <function> of the <creature>. 	3 	24
+10 	You have a few things to learn about the <function> of the <creature>. 	3 	27
+"more than a few" (28–63)
+11 	You have more than a few things to learn about the <function> of the <creature>. 	8 	35
+12 	You have more than a few things to learn about the <function> of the <creature>. 	7 	42
+13 	You have more than a few things to learn about the <function> of the <creature>. 	7 	49
+14 	You have more than a few things to learn about the <function> of the <creature>. 	7 	56
+15 	You have more than a few things to learn about the <function> of the <creature>. 	7 	63
+"some things" (64–144)
+16 	You have some things to learn about the <function> of the <creature>. 	9 	72
+17 	You have some things to learn about the <function> of the <creature>. 	12 	84
+18 	You have some things to learn about the <function> of the <creature>. 	12 	96
+19 	You have some things to learn about the <function> of the <creature>. 	12 	108
+20 	You have some things to learn about the <function> of the <creature>. 	12 	120
+21 	You have some things to learn about the <function> of the <creature>. 	12 	132
+23 	You have some things to learn about the <function> of the <creature>. 	12 	144
+"many things" (145–280)
+24 	You have many things to learn about the <function> of the <creature>. 	16 	160
+25 	You have many things to learn about the <function> of the <creature>. 	20 	180
+26 	You have many things to learn about the <function> of the <creature>. 	20 	200
+27 	You have many things to learn about the <function> of the <creature>. 	20 	220
+28 	You have many things to learn about the <function> of the <creature>. 	20 	240
+29 	You have many things to learn about the <function> of the <creature>. 	20 	260
+30 	You have many things to learn about the <function> of the <creature>. 	20 	280
+"much to learn" (281–480)
+31 	You have much to learn about the <function> of the <creature>. 	20 	300
+32 	You have much to learn about the <function> of the <creature>. 	30 	330
+33 	You have much to learn about the <function> of the <creature>. 	30 	360
+34 	You have much to learn about the <function> of the <creature>. 	30 	390
+35 	You have much to learn about the <function> of the <creature>. 	30 	420
+36 	You have much to learn about the <function> of the <creature>. 	30 	450
+37 	You have much to learn about the <function> of the <creature>. 	30 	480
+"a lot to learn" (481–700)
+38 	You have a lot to learn about the <function> of the <creature>. 	30 	510
+39 	You have a lot to learn about the <function> of the <creature>. 	30 	540
+40 	You have a lot to learn about the <function> of the <creature>. 	30 	570
+41 	You have a lot to learn about the <function> of the <creature>. 	30 	600
+42 	You have a lot to learn about the <function> of the <creature>. 	100 	700
+"a vast amount to learn" (701–1300)
+43 	You have a vast amount to learn about the <function> of the <creature>. 	100 	800
+44 	You have a vast amount to learn about the <function> of the <creature>. 	100 	900
+45 	You have a vast amount to learn about the <function> of the <creature>. 	100 	1000
+46 	You have a vast amount to learn about the <function> of the <creature>. 	100 	1100
+47 	You have a vast amount to learn about the <function> of the <creature>. 	100 	1200
+48 	You have a vast amount to learn about the <function> of the <creature>. 	100 	1300 

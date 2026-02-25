@@ -1,0 +1,97 @@
+// Magnics
+// share checker v0.01 (unfinshed)
+
+setglobal name[1] ""
+setglobal name[2] ""
+setglobal name[3] ""
+setglobal name[4] ""
+setglobal name[5] ""
+setglobal namel 1
+
+"/openloop"
+{
+label top
+set logck @env.textlog
+if logck >= "is sharing experiences with you."
+	set namelen logck.num_words
+		if namelen > 7
+			if logck.word != "sharing"
+				set namck logck.word[2]
+			else
+				set namck logck.word[0]
+			end if
+		else if namelen > 8
+			if logck.word != "sharing"
+				set namck logck.word[2]
+				set namck + " "
+				set namck + logck.word[3]
+			else
+				set namck logck.word[0]
+				set namck + " "
+				set namck + logck.word[1]
+			end if
+		else if namelen > 9
+			if logck.word != "sharing"
+				set namck logck.word[2]
+				set namck + " "
+				set namck + logck.word[3]
+				set namck + " "
+				set namck + logck.word[4]
+			else
+				set namck logck.word[0]
+				set namck + " "
+				set namck + logck.word[1]
+				set namck + " "
+				set namck + logck.word[2]
+			end if
+		end if
+end if
+	setglobal nameshare namck
+		call shareback
+			goto top
+}
+
+shareback
+{
+"/share " nameshare " \r"
+	call nameadd
+}
+
+nameadd
+{
+call listck
+	if pass == 0
+		goto end
+	end if
+	setglobal name[namel] nameshare
+		message "" name[namel] " is on the list"
+			if namel > 5
+				setglobal namel 1
+			else
+				setglobal namel + 1
+			end if
+				goto end
+	end if
+label end
+setglobal pass 0
+}
+
+listck
+{
+if name[1] == nameshare
+setglobal pass 1
+call ende
+else if name[2] == nameshare
+setglobal pass 1
+call ende
+else if name[3] == nameshare
+setglobal pass 1
+call ende
+else if name[4] == nameshare
+setglobal pass 1
+call ende
+else if name[5] == nameshare
+setglobal pass 1
+call ende
+end if
+}
