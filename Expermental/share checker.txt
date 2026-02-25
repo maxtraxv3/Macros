@@ -8,7 +8,7 @@ setglobal name[4] ""
 setglobal name[5] ""
 setglobal namel 1
 
-"/openloop"
+"/shck" // needs check for timestamps
 {
 label top
 set logck @env.textlog
@@ -51,7 +51,7 @@ end if
 			goto top
 }
 
-shareback
+shareback //needs re-wright (back log for multi sares are the same time)
 {
 "/share " nameshare " \r"
 	call nameadd
@@ -76,7 +76,7 @@ label end
 setglobal pass 0
 }
 
-listck
+listck //needs re-wright (theres a faster way to do this)
 {
 if name[1] == nameshare
 setglobal pass 1
