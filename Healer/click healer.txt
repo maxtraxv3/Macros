@@ -1,4 +1,4 @@
-// Magnics clicker healer 0.1 (not tested)
+// Magnics clicker healer 0.2 (not tested)
 // will atemped to re try to heal people when switching snells.
 // change moontimes number to how many time you would like to heal your self
 // "/hi" will set what evers in your right hand to your healer item, it will set it at login as well
@@ -17,7 +17,7 @@ SETGLOBAL shiftclicker 0
 @login
 {
 call sethealeritem
-arealeaveloop
+label loop
 set logck @env.textlog
 if logck >= "The player must be in the same area."
 	set savedname click2ck
@@ -42,7 +42,11 @@ if logck >= "The player must be in the same area."
 	else if logck >= "* Could not find"
 		message "* NO CHAINS!"
 end if
-goto arealeaveloop
+if @my.right_item >= "moonstone"
+	/use " numbermoon " \r"
+		pause 4
+end if
+goto loop
 }
 
 "/hi" // incase you where not holding your main healing item when you loged in.
