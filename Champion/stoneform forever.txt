@@ -18,7 +18,7 @@ if rockon == 0
 else 
 	if rockon == 1
 		SETGLOBAL rockon 0
-			"/unequip waist \r"
+			"/useitem waist /cancel \r"
 				goto end
 	end if
 end if
