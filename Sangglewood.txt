@@ -1,0 +1,14 @@
+"/sw"
+{
+message "* Sangglewood:"
+pause 1
+message "******************************"
+pause 1
+message "* Entrance: e,s,e,n,w,s,s,e,n"
+pause 1
+message "******************************"
+pause 1
+message "* Exit: n,n,e,s,e,n,w"
+pause 1
+message "******************************"
+}
