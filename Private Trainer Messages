@@ -169,9 +169,9 @@ if chklog == 1
 	if logck >= "You know the deepest secrets of our craft."
 		message "*" nameck ": 9000-9999."
 	end if
-	if logck >= "You know the deepest secrets of our craft."
-		message "*" nameck ": 10000-????."
-	end if
+	//if logck >= "You know the deepest secrets of our craft." //oops hmm
+	//	message "*" nameck ": 10000-????."
+	//end if
 	if logck >= "There is nothing I can teach you."
 		message "*" nameck ": MAXED."
 	end if
@@ -203,6 +203,9 @@ if chklog == 1
 	if logck >= "You are becoming an expert."
 		message "*" nameck ": 300-349"
 	end if
+	if logck >= "You have attained tremendous skill."
+		message "*" nameck ": 350-399"
+	end if
 	if logck >= "You are close to attaining mastery."
 		message "*" nameck ": 400-449"
 	end if
@@ -211,9 +214,6 @@ if chklog == 1
 	end if
 	if logck >= "You are a credit to your craft."
 		message "*" nameck ": 650-699"
-	end if
-	if logck >= "Your devotion to your craft is exemplary."
-		message "*" nameck ": 750-799"
 	end if
 	if logck >= "Your devotion to your craft is exemplary."
 		message "*" nameck ": 750-799"
