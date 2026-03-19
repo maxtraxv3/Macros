@@ -93,13 +93,13 @@ set nameck3 @env.textLog.word[5]
  
 //log checking automation
 if AT == 1
-if timefix >= 25
+if timefix >= 15 // change this to 10 if you have lag
 	set wordtime + 1
 		set atimek + 1
 			set timefix 0
 end if 
 if IDLE == 1
-	if atimek >= 7200
+	if atimek >= 6800
 		"/money \r"
 			set atimek 0
 	end if
@@ -441,28 +441,28 @@ if  wordtime >= 15
 		message "*" nameck ": MAXED."
 	end if
 	if logck >= "is becoming frustrated with your lack of progress"
-		message "* |══════════| -0%"
+		message "* |==========| -0%"
 	end if
 	if logck >= "you have a difficult task ahead of you"
-		message "* |══════════| 0%"
+		message "* |==========| 0%"
 	end if
 	if logck >= "you have just begun to"
-		message "* |▰═════════| 0%-13%"
+		message "* |#=========| 0%-13%"
 	end if
 	if logck >= "you are starting to learn, but"
-		message "* |▰▰▰═══════| 13%-38%"
+		message "* |###======| 13%-38%"
 	end if
 	if logck >= "you are making progress."
-		message "* |▰▰▰▰▰═════| 38%-62%"
+		message "* |#####=====| 38%-62%"
 	end if
 	if logck >= "you are well on your way to enlightenment"
-		message "* |▰▰▰▰▰▰════ | 62%-75%"
+		message "* |######====| 62%-75%"
 	end if
 	if logck >= "you are close to mastering"
-		message "* |▰▰▰▰▰▰▰═══| 75%-88%"
+		message "* |#######===| 75%-88%"
 	end if
 	if logck >= "you are almost ready for a breakthrough"
-		message "* |▰▰▰▰▰▰▰▰▰═| 88%-100%"
+		message "* |#########=| 88%-100%"
 	end if
 	if logck >= "You feel you have much to learn."
 		message "*" nameck ": 0-9"
@@ -661,8 +661,7 @@ else
 		message "*Auto Mate OFF!"
 end if
 }
- 
- 
+
 "/atz"
 {
 if trademe == 0
@@ -834,8 +833,8 @@ numpad-9
 "/pose celebrate \r"
 }
 
-setglobal name[0] "fail0"
-setglobal name[6] "fail6"
+setglobal name[0] "fail0" //dev checks dont worry about them
+setglobal name[6] "fail6" //dev checks dont worry about them
 setglobal name[1] ""
 setglobal name[2] ""
 setglobal name[3] ""
