@@ -1,0 +1,150 @@
+// Tab Target For Healing
+// By Magnic 0.0.1
+
+// this is test macro, expect it to fail.
+// there is no healing added yet just taregting system
+// it will add any one who shares you automatically
+// and remove any one who stops sharing you up to 11 exlies at a time
+// "/tto" to turn on
+// "/ttf" tp turn off
+// tab to change target
+
+setglobal target[0] ""
+setglobal target[1] ""
+setglobal target[2] ""
+setglobal target[3] ""
+setglobal target[4] ""
+setglobal target[5] ""
+setglobal target[6] ""
+setglobal target[7] ""
+setglobal target[8] ""
+setglobal target[9] ""
+setglobal target[10] ""
+setglobal isname 0
+setglobal lastname ""
+
+
+
+"/tto"
+{
+setglobal tabme 1
+	message "* Tab Targeting ON!"
+		call addloop
+}
+
+"/ttf"
+setglobal tabme 0
+	message "* Tab Targeting OFFLINE!"
+}
+
+tab
+{
+if tabme == 1
+	label check
+		if target[itsname] != "target[itsname]"
+			if target[itsname] == ""
+				call next
+					goto check
+			else if target[itsname] == lastname
+				call next
+					goto check
+			end if
+				"/select " target[itsname] " \r"
+					set prettyname @selplayer.name
+						message "TT: " prettyname " "
+							setglobal lastname target[itsname]
+		end if
+end if
+}
+
+next
+{
+if itsname < 10
+	setglobal itsname + 1
+else
+	setglobal itsname 0
+end if
+}
+
+addloop
+{
+label shareloop
+if tabme == 1
+	set logck @env.textlog
+		if logck >= "is sharing experiences with you."
+			if logck.word[3] == "is"
+				setglobal sharename logck.word[3]
+					call addname
+						if failname == 1
+							goto errormessage
+						end if
+			else if logck.word[1] == "is"
+				setglobal sharename logck.word[0]
+					call addname
+						if failname == 1
+							goto errormessage
+						end if
+			// more fail safe needed for longer then one word names
+			end if
+		else if logck >= "is no longer"
+			if logck.word[3] == "is"
+				setglobal canceled logck.word[3]
+					call rmname
+			else if logck.word[1] == "is"
+				setglobal canceled logck.word[0]
+					call rmname
+			// more fail safe needed for longer then one word names
+			end if
+		end if
+	goto shareloop
+else
+	goto endish
+end if
+label errormessage
+	message "*** name failed to added. ***"
+		setglobal failname 0
+label endish
+}
+
+addname
+{
+set checks 0
+label checker
+if target[itsname] != ""
+	call next
+		if checks < 11
+			set checks + 1
+				goto checker
+		else
+			setglobal failname 1
+				goto end
+		end if
+end if
+	setglobal target[itsname] sharename
+		message "" target[itsname] "added to share list"
+			call next
+	end if
+label end
+}
+
+rmname
+{
+set nameck 0
+set removename canceled
+label top
+	if target[nameck] != "Nothing"
+		if target[nameck] != ""
+			if target[nameck] != removename
+				if nameck < 10
+					set nameck + 1
+				else
+					set nameck 0
+				end if
+					goto top
+			else if removename == target[nameck]
+				setglobal target[nameck] ""
+					message "* removed: " removename " "
+			end if
+		end if
+	end if
+}
