@@ -1,5 +1,5 @@
 // Tab Target For Healing
-// By Magnic 0.0.1
+// By Magnic 0.0.2
 
 // this is test macro, expect it to fail.
 // there is no healing added yet just taregting system
@@ -33,6 +33,7 @@ setglobal tabme 1
 }
 
 "/ttf"
+{
 setglobal tabme 0
 	message "* Tab Targeting OFFLINE!"
 }
@@ -73,7 +74,7 @@ if tabme == 1
 	set logck @env.textlog
 		if logck >= "is sharing experiences with you."
 			if logck.word[3] == "is"
-				setglobal sharename logck.word[3]
+				setglobal sharename logck.word[2]
 					call addname
 						if failname == 1
 							goto errormessage
