@@ -1,5 +1,5 @@
 // Tab Target For Healing
-// By Magnic 0.0.2
+// By Magnic 0.0.3
 
 // this is test macro, expect it to fail.
 // there is no healing added yet just taregting system
@@ -89,7 +89,7 @@ if tabme == 1
 			end if
 		else if logck >= "is no longer"
 			if logck.word[3] == "is"
-				setglobal canceled logck.word[3]
+				setglobal canceled logck.word[2]
 					call rmname
 			else if logck.word[1] == "is"
 				setglobal canceled logck.word[0]
@@ -102,7 +102,7 @@ else
 	goto endish
 end if
 label errormessage
-	message "*** name failed to added. ***"
+	message "*** name failed to be added. ***"
 		setglobal failname 0
 label endish
 }
