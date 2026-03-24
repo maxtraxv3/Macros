@@ -1,0 +1,60 @@
+fBelt_watcher
+{
+set hasfallen @my.name 
+set hasfallen + " has fallen to a"
+    label BELTWATCHER
+	set logck @env.textLog
+        if gFF_on == 0
+            if gGCP_on == 0
+                setglobal gBelt_watch 0
+                goto "BELTWATCHEROUT"
+            end if
+        end if
+        if logck >= "You return to your normal form"
+                setglobal gFF_on 0
+                setglobal gGCP_on 0
+                setglobal gBelt_watch 0
+                message "* Belt shape expired — reset."
+                goto "BELTWATCHEROUT"
+            end if
+        end if
+		if logck >= "Using /SHARE to create a spirit link"
+                setglobal gFF_on 0
+                setglobal gGCP_on 0
+                setglobal gBelt_watch 0
+                message "* Belt shape expired — reset."
+                goto "BELTWATCHEROUT"
+			end if
+		end if
+		if logck >= "You are already in"
+			if gFF_on == 1
+                setglobal gFF_on 0
+                setglobal gBelt_watch 0
+                message "* Belt shape expired — reset."
+                goto "BELTWATCHEROUT"
+			end if
+			if gGCP_on == 1
+                setglobal gGCP_on 0
+                setglobal gBelt_watch 0
+                message "* Belt shape expired — reset."
+                goto "BELTWATCHEROUT"
+			end if
+		end if
+		if logck >= "cannot possibly use"
+                setglobal gFF_on 0
+                setglobal gGCP_on 0
+                setglobal gBelt_watch 0
+                message "* Belt shape expired — reset."
+                goto "BELTWATCHEROUT"
+		end if
+		if logck >= hasfallen
+                setglobal gFF_on 0
+                setglobal gGCP_on 0
+                setglobal gBelt_watch 0
+                message "* Belt shape expired — reset."
+                goto "BELTWATCHEROUT"
+		end if
+        pause 1
+        goto "BELTWATCHER"
+    label BELTWATCHEROUT
+}
