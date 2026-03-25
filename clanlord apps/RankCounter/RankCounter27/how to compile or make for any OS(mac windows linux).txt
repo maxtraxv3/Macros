@@ -6,8 +6,14 @@ and make sure your terminal is in the folder.
 
 this make one app on mac or exe on windows.
 
+you also need to install pyinstaller (about 2mb)
+"python -m pip install pyinstaller"
+
+and pillow (about 8mb)
+"python -m pip install pillow"
+
 mac:
-"pyinstaller --noconsole --onefile --icon=phoenix.png \
+"python -m pyinstaller --noconsole --onefile --icon=phoenix.png \
   --add-data "phoenix.png:." \
   --add-data "rankmessages.txt:." \
   --add-data "trainers.txt:." \
@@ -15,7 +21,7 @@ mac:
   rc27.py"
 
 linux:
-"pyinstaller --noconsole --onefile --icon=phoenix.png \
+"python -m pyinstaller --noconsole --onefile --icon=phoenix.png \
   --add-data "phoenix.png:." \
   --add-data "rankmessages.txt:." \
   --add-data "trainers.txt:." \
@@ -23,4 +29,4 @@ linux:
   rc27.py"
   
 windows via terminal(win key + x): 
-"pyinstaller --noconsole --onefile --icon=phoenix.png --add-data "phoenix.png;." --add-data "rankmessages.txt;." --add-data "trainers.txt;." --add-data "specialphrases.txt;." rc27.py"
+"python -m pyinstaller --noconsole --onefile --icon=phoenix.png --add-data "phoenix.png;." --add-data "rankmessages.txt;." --add-data "trainers.txt;." --add-data "specialphrases.txt;." rc27.py"
