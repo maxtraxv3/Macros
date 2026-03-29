@@ -1,5 +1,5 @@
 // Tab Target For Healing
-// By Magnic 0.0.4
+// By Magnic 0.0.5
 
 // this is test macro, expect it to fail.
 // there is no healing added yet just taregting system
@@ -8,6 +8,26 @@
 // "/tto" to turn on
 // "/ttf" tp turn off
 // tab to change target
+// press escape to heal the person your selected.
+
+"/hi" // incase you where not holding your main healing item when you loged in.
+{
+call sethealeritem
+}
+
+@login
+{
+call sethealeritem
+}
+
+sethealeritem
+{
+setglobal Right_H @my.right_item
+message "* Healer Item set to" Right_H ""
+if Right_H >= asklepian
+	SETGLOBAL Rad 1
+end if
+}
 
 setglobal target[0] ""
 setglobal target[1] ""
@@ -172,4 +192,19 @@ label top
 			end if
 		end if
 	end if
+}
+
+escape
+{
+if target[nameck] != "Nothing"
+	if target[nameck] != ""
+		if target[nameck] != "target[nameck]"
+			if @my.right_item != Right_H
+				"/equip " Right_H " \r"
+			end if
+				"/use " @selplayer.name " \r"
+					message "TT: Healing " target[nameck] ""
+		end if
+	end if
+end if
 }
