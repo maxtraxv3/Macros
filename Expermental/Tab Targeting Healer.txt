@@ -1,5 +1,5 @@
 // Tab Target For Healing
-// By Magnic 0.0.5
+// By Magnic 0.0.6
 
 // this is test macro, expect it to fail.
 // there is no healing added yet just taregting system
@@ -43,11 +43,12 @@ setglobal target[10] ""
 setglobal isname 0
 setglobal lastname ""
 setglobal wordname1 3
-setglobal wordname1 4
-setglobal wordname1 5
+setglobal wordname2 4
+setglobal wordname3 5
 setglobal rname1 2
 setglobal rname2 3
 setglobal rname3 4
+
 
 "/tto"
 {
@@ -108,10 +109,12 @@ if tabme == 1
 		if logck >= "is sharing experiences with you."
 			if logck.word[wordname1] == "is"
 				setglobal sharename logck.word[rname1]
+					call addname
 			else if logck.word[wordname2] == "is"
 				setglobal sharename logck.word[rname1]
 				setglobal sharename + " "
 				setglobal sharename + logck.word[rname2]
+					call addname
 			else if logck.word[wordname3] == "is"
 				setglobal sharename logck.word[rname1]
 				setglobal sharename + " "
@@ -124,21 +127,21 @@ if tabme == 1
 						end if
 			end if
 		else if logck >= "is no longer"
-			if logck.word[3] == "is"
-				if logck.word[wordname1] == "is"
-					setglobal canceled logck.word[rname1]
-				else if logck.word[wordname2] == "is"
-					setglobal canceled logck.word[rname1]
-					setglobal canceled + " "
-					setglobal canceled + logck.word[rname2]
-				else if logck.word[wordname3] == "is"
-					setglobal canceled logck.word[rname1]
-					setglobal canceled + " "
-					setglobal canceled + logck.word[rname2]
-					setglobal canceled + " "
-					setglobal canceled + logck.word[rname3]
-						call rmname
-				end if
+			if logck.word[wordname1] == "is"
+				setglobal canceled logck.word[rname1]
+					call rmname
+			else if logck.word[wordname2] == "is"
+				setglobal canceled logck.word[rname1]
+				setglobal canceled + " "
+				setglobal canceled + logck.word[rname2]
+					call rmname
+			else if logck.word[wordname3] == "is"
+				setglobal canceled logck.word[rname1]
+				setglobal canceled + " "
+				setglobal canceled + logck.word[rname2]
+				setglobal canceled + " "
+				setglobal canceled + logck.word[rname3]
+					call rmname
 			end if
 		end if
 	goto shareloop
@@ -188,7 +191,7 @@ label top
 					goto top
 			else if removename == target[nameck]
 				setglobal target[nameck] ""
-					message "* removed: " removename " "
+					message "* TT removed: " removename " "
 			end if
 		end if
 	end if
@@ -196,14 +199,14 @@ label top
 
 escape
 {
-if target[nameck] != "Nothing"
-	if target[nameck] != ""
-		if target[nameck] != "target[nameck]"
+if target[itsname] != "Nothing"
+	if target[itsname] != ""
+		if target[itsname] != "target[itsname]"
 			if @my.right_item != Right_H
 				"/equip " Right_H " \r"
 			end if
-				"/use " @selplayer.name " \r"
-					message "TT: Healing " target[nameck] ""
+				"/use " @selplayer.simple_name " \r"
+					message "TT: Healing " target[itsname] ""
 		end if
 	end if
 end if
