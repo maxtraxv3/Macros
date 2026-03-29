@@ -1,5 +1,5 @@
 // Tab Target For Healing
-// By Magnic 0.0.3
+// By Magnic 0.0.4
 
 // this is test macro, expect it to fail.
 // there is no healing added yet just taregting system
@@ -22,14 +22,27 @@ setglobal target[9] ""
 setglobal target[10] ""
 setglobal isname 0
 setglobal lastname ""
-
-
+setglobal wordname1 3
+setglobal wordname1 4
+setglobal wordname1 5
+setglobal rname1 2
+setglobal rname2 3
+setglobal rname3 4
 
 "/tto"
 {
+set logck @env.textlog
 setglobal tabme 1
 	message "* Tab Targeting ON!"
-		call addloop
+		if logck.word[0] == "*"
+			setglobal wordname1 1
+			setglobal wordname2 2
+			setglobal wordname3 3
+			setglobal rname1 0
+			setglobal rname2 1
+			setglobal rname3 2
+		end if
+			call addloop
 }
 
 "/ttf"
@@ -73,28 +86,39 @@ label shareloop
 if tabme == 1
 	set logck @env.textlog
 		if logck >= "is sharing experiences with you."
-			if logck.word[3] == "is"
-				setglobal sharename logck.word[2]
+			if logck.word[wordname1] == "is"
+				setglobal sharename logck.word[rname1]
+			else if logck.word[wordname2] == "is"
+				setglobal sharename logck.word[rname1]
+				setglobal sharename + " "
+				setglobal sharename + logck.word[rname2]
+			else if logck.word[wordname3] == "is"
+				setglobal sharename logck.word[rname1]
+				setglobal sharename + " "
+				setglobal sharename + logck.word[rname2]
+				setglobal sharename + " "
+				setglobal sharename + logck.word[rname3]
 					call addname
 						if failname == 1
 							goto errormessage
 						end if
-			else if logck.word[1] == "is"
-				setglobal sharename logck.word[0]
-					call addname
-						if failname == 1
-							goto errormessage
-						end if
-			// more fail safe needed for longer then one word names
 			end if
 		else if logck >= "is no longer"
 			if logck.word[3] == "is"
-				setglobal canceled logck.word[2]
-					call rmname
-			else if logck.word[1] == "is"
-				setglobal canceled logck.word[0]
-					call rmname
-			// more fail safe needed for longer then one word names
+				if logck.word[wordname1] == "is"
+					setglobal canceled logck.word[rname1]
+				else if logck.word[wordname2] == "is"
+					setglobal canceled logck.word[rname1]
+					setglobal canceled + " "
+					setglobal canceled + logck.word[rname2]
+				else if logck.word[wordname3] == "is"
+					setglobal canceled logck.word[rname1]
+					setglobal canceled + " "
+					setglobal canceled + logck.word[rname2]
+					setglobal canceled + " "
+					setglobal canceled + logck.word[rname3]
+						call rmname
+				end if
 			end if
 		end if
 	goto shareloop
