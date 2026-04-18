@@ -1,13 +1,13 @@
-setglobal portalloc 13
-setglobal tetheredloc 14
-setglobal tetherednum 18
+setglobal portalloc 11
+setglobal tetheredloc 10
+setglobal tetherednum 14
 
 "/eps"
 {
 set logck @env.textlog
 message "* EPS locations Started"
 if logck.word[2] >= "*"
-	setglobal portalloc 11
+	setglobal portalloc 13
 	setglobal tetheredloc 12
 	setglobal tetherednum 16
 end if
