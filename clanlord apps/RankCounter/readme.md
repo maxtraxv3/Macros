@@ -1,5 +1,6 @@
 ### RankCounter
-## rank counter is a program to help keep track of things from saved textlogs fromt he game [Clanlord](https://www.deltatao.com/clanlord/ "Clanlord")
+## rank counter is a program to help keep track of things 
+## from saved textlogs from the game [Clanlord](https://www.deltatao.com/clanlord/ "Clanlord")
 
 ### Screenshots:
 
