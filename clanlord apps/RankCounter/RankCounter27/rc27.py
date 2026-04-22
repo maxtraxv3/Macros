@@ -707,7 +707,7 @@ def open_ignore_manager():
 # ----------------------------------------------------------------------
 
 root = tk.Tk()
-root.title("Rank Counter 27.6")
+root.title("Rank Counter 27.8")
 try:
     icon_path = resource_path('phoenix.png')
     icon_img = tk.PhotoImage(file=icon_path)
