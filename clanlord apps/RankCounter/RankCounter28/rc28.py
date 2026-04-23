@@ -47,7 +47,6 @@ def smart_read_file(path, encodings=('utf-8', 'mac_roman')):
 words_file_path       = resource_path('rankmessages.txt')
 replacement_file_path = resource_path('trainers.txt')
 special_file_path     = resource_path('specialphrases.txt')
-kills_txt_path        = resource_path('special_kills.txt')
 
 merged_counts      = {}
 merged_creatures   = {}
@@ -85,81 +84,9 @@ def load_characters():
             character_folders[name] = info.get("folders", [])
             character_ranks[name] = info.get("ranks", {})
             character_creatures[name] = info.get("creatures", {})
-            character_ignored[name] = info.get("ignored", []) # <--- Load ignored list
+            character_ignored[name] = info.get("ignored", [])
     except Exception as e:
         print(f"Error loading JSON: {e}")
-        
-def load_kills_from_tsv(path):
-    """
-    Load a tab-separated file with columns:
-      index<TAB>phrase<TAB>kills_to_next<TAB>kills_left
-    Returns:
-      exact_map: { phrase_lower: kills_left_or_tuple }
-      patterns: [(compiled_regex, kills_left_or_tuple), ...]
-    """
-    exact = {}
-    if not os.path.exists(path):
-        return exact, []
-
-    def parse_kills(val):
-        val = val.strip()
-        if not val:
-            return None
-        if '-' in val:
-            parts = val.split('-', 1)
-            try:
-                return (int(parts[0]), int(parts[1]))
-            except:
-                return None
-        try:
-            return int(float(val))
-        except:
-            return None
-
-    try:
-        with open(path, 'r', encoding='utf-8') as f:
-            for raw in f:
-                line = raw.strip()
-                if not line:
-                    continue
-                parts = line.split('\t')
-                # tolerate lines with extra spaces or missing index
-                if len(parts) < 2:
-                    continue
-                # phrase is the second column in your example
-                phrase = parts[1].strip()
-                # kills_left is the last column in your example
-                kills_val = parts[-1].strip() if len(parts) >= 3 else ''
-                kills = parse_kills(kills_val)
-                if phrase:
-                    exact[phrase.lower()] = kills
-    except Exception:
-        return {}, []
-
-    # compile patterns from exact map
-    patterns = []
-    for phrase, kills in exact.items():
-        # escape regex metacharacters except placeholders
-        p = re.escape(phrase)
-        p = p.replace(re.escape("<function>"), "<function>")
-        p = p.replace(re.escape("<creature>"), "<creature>")
-        # match only the known function words (ways|movements|essence)
-        p = p.replace("<function>", r"(?:ways|movements|essence)")
-        # creature can be any name (non-greedy)
-        p = p.replace("<creature>", r".+?")
-        p = r"^\s*" + p + r"\s*\.?\s*$"
-        try:
-            patterns.append((re.compile(p, re.IGNORECASE), kills))
-        except re.error:
-            continue
-
-    return exact, patterns
-
-# load at startup
-kills_exact_map, kills_patterns = load_kills_from_tsv(kills_txt_path)
-print("DEBUG: kills_txt_path ->", kills_txt_path)
-print("DEBUG: kills_exact_map keys (sample):", list(kills_exact_map.keys())[:8])
-print("DEBUG: kills_patterns count:", len(kills_patterns))
 
 # -- Shared Exclusion Helper -------------------------------------------------
 
@@ -222,7 +149,6 @@ def get_min_time_from_filter(filter_value):
         return now - mapping[filter_value]
     return None  # "All logs" or unknown
 
-
 # -- File / Folder Readers ---------------------------------------------------
 
 def read_words_from_file(file_path):
@@ -265,29 +191,107 @@ def count_word_occurrences(texts, words):
     return counts
 
 # -- Special-Line Counter (nested dict: last phrase + count) -----------------
-
 def count_special_lines(texts):
     import re
 
+    # Load phrases
     raw = [p.rstrip('.') for p in read_words_from_file(special_file_path)]
     phrases = sorted(raw, key=len, reverse=True)
     phrases_lc = [p.lower() for p in phrases]
     types = ('ways', 'movements', 'essence')
 
+    # Strip timestamps
     ts_strip = re.compile(r'^\[?\d{1,2}:\d{2}:\d{2}\w?\]?\s*[•>:-]*\s*')
 
+    # Progression regex
     prog_rx = re.compile(
         r'you have .*? about the (ways|movements|essence) of the (.+?)\.\s*$',
         re.IGNORECASE
     )
 
+    # Kill message regex
+    KILL_RX = re.compile(
+        r"(?:you|you helped)\s+(?:slaughtered|dispatched|killed|vanquished)\s+the\s+(.+?)\.",
+        re.IGNORECASE
+    )
+
+    # Count kills per creature
+    kill_counts = {}
+    for content, _ in texts:
+        for line in content.splitlines():
+            m = KILL_RX.search(line)
+            if m:
+                creature = m.group(1).strip().lower()
+                kill_counts[creature] = kill_counts.get(creature, 0) + 1
+
+    # Embedded kills_to_next table
+    kills_to_next = {
+        "almost nothing left to learn about the movements of the": {
+            1: 4, 2: 2, 3: 2, 4: 2, 5: 2
+        },
+        "almost nothing left to learn about the ways of the": {
+            1: 4, 2: 2, 3: 2, 4: 2, 5: 2
+        },
+        "almost nothing left to learn about the essence of the": {
+            1: 4, 2: 2, 3: 2, 4: 2, 5: 2
+        },
+
+        "a few things to learn about the movements of the": {
+            1: 3, 2: 3, 3: 3, 4: 3, 5: 3
+        },
+        "a few things to learn about the ways of the": {
+            1: 3, 2: 3, 3: 3, 4: 3, 5: 3
+        },
+        "a few things to learn about the essence of the": {
+            1: 3, 2: 3, 3: 3, 4: 3, 5: 3
+        },
+
+        "more than a few things to learn about the ways of the": {
+            1: 7, 2: 7, 3: 7, 4: 7, 5: 8
+        },
+        "more than a few things to learn about the essence of the": {
+            1: 7, 2: 7, 3: 7, 4: 7, 5: 8
+        },
+
+        "some things to learn about the ways of the": {
+            1: 12, 2: 12, 3: 12, 4: 12, 5: 12, 6: 12, 7: 9
+        },
+        "some things to learn about the essence of the": {
+            1: 12, 2: 12, 3: 12, 4: 12, 5: 12, 6: 12, 7: 9
+        },
+
+        "many things to learn about the ways of the": {
+            1: 20, 2: 20, 3: 20, 4: 20, 5: 20, 6: 20, 7: 16
+        },
+        "many things to learn about the essence of the": {
+            1: 20, 2: 20, 3: 20, 4: 20, 5: 20, 6: 20, 7: 16
+        },
+
+        "much to learn about the ways of the": {
+            1: 30, 2: 30, 3: 30, 4: 30, 5: 30, 6: 30, 7: 20
+        },
+        "much to learn about the essence of the": {
+            1: 30, 2: 30, 3: 30, 4: 30, 5: 30, 6: 30, 7: 20
+        },
+
+        "a lot to learn about the ways of the": {
+            1: 100, 2: 30, 3: 30, 4: 30, 5: 30
+        },
+        "a lot to learn about the essence of the": {
+            1: 100, 2: 30, 3: 30, 4: 30, 5: 30
+        },
+
+        "a vast amount to learn about the ways of the": {
+            1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100
+        },
+        "a vast amount to learn about the essence of the": {
+            1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100
+        }
+    }
+
     special = {}
     exclude = {"ways": set(), "movements": set(), "essence": set()}
-
-    # Track study state
     study_state = {}
-
-    # Track apply-learning sequences
     pending_apply = {}
     bonus_ranks = {}
 
@@ -296,95 +300,79 @@ def count_special_lines(texts):
         s = re.sub(r'[^\w\s\'-]', '', s)
         return s.lower()
 
-    for content, _ in texts:  # Unpack the tuple here
+    # MAIN LOOP
+    for content, _ in texts:
         for raw_line in content.splitlines():
             line = ts_strip.sub('', raw_line.strip())
             if is_excluded(line):
                 continue
             low = line.lower()
 
-            # --- Apply learning start ---
-            if "would you like to apply some of your learning to" in low and "’s lessons" in low:
+            # Apply-learning start
+            if "would you like to apply some of your learning to" in low:
                 m = re.search(r"apply some of your learning to (.+?)’s lessons", line)
                 if m:
-                    trainer = norm(m.group(1))
-                    pending_apply[trainer] = True
-                    print(f"Apply-learning started for {trainer}")
+                    pending_apply[norm(m.group(1))] = True
                 continue
 
-            # --- Apply learning confirmation ---
-            if "congratulations" in low and "you should now understand much more of" in low:
+            # Apply-learning confirmation
+            if "you should now understand much more of" in low:
                 m = re.search(r"much more of (.+?)’s teachings", line)
                 if m:
-                    trainer = norm(m.group(1))
-                    if pending_apply.get(trainer):
-                        bonus_ranks[trainer] = bonus_ranks.get(trainer, 0) + 1
-                        pending_apply[trainer] = False
-                        print(f"Bonus rank added for {trainer}")
+                    t = norm(m.group(1))
+                    if pending_apply.get(t):
+                        bonus_ranks[t] = bonus_ranks.get(t, 0) + 1
+                        pending_apply[t] = False
                 continue
 
-            # --- Abandon / begin study logic (from earlier) ---
+            # Study begin/abandon
             if "you abandon your study of the" in low:
                 m = re.search(r"you abandon your study of the (.+?)\.", low)
                 if m:
-                    monster = norm(m.group(1))
-                    study_state[monster] = False
-                    print(f"Marked {monster} as abandoned")
+                    study_state[norm(m.group(1))] = False
                 continue
 
             if "you begin studying the ways of the" in low:
                 m = re.search(r"you begin studying the ways of the (.+?)\.", low)
                 if m:
-                    monster = norm(m.group(1))
-                    study_state[monster] = True
-                    print(f"Marked {monster} as active (ways)")
+                    study_state[norm(m.group(1))] = True
                 continue
 
             if "you begin studying the movements of the" in low:
                 m = re.search(r"you begin studying the movements of the (.+?)\.", low)
                 if m:
-                    monster = norm(m.group(1))
-                    study_state[monster] = True
-                    print(f"Marked {monster} as active (movements)")
+                    study_state[norm(m.group(1))] = True
                 continue
 
             if "you begin studying the essence of the" in low:
                 m = re.search(r"you begin studying the essence of the (.+?)\.", low)
                 if m:
-                    monster = norm(m.group(1))
-                    study_state[monster] = True
-                    print(f"Marked {monster} as active (essence)")
+                    study_state[norm(m.group(1))] = True
                 continue
 
-            # --- Training exclusions ---
+            # Training exclusions
             if "you learn to fight the" in low and "more effectively" in low:
                 m = re.search(r"you learn to fight the (.+?) more effectively", low)
                 if m:
-                    monster = norm(m.group(1))
-                    print(f"Excluding {monster} from movements")
-                    exclude["movements"].add(monster)
+                    exclude["movements"].add(norm(m.group(1)))
                 continue
 
             if "you learn to befriend the" in low:
                 m = re.search(r"you learn to befriend the (.+?)\.", low)
                 if m:
-                    monster = norm(m.group(1))
-                    print(f"Excluding {monster} from ways")
-                    exclude["ways"].add(monster)
+                    exclude["ways"].add(norm(m.group(1)))
                 continue
 
             if "you learn to assume the form of the" in low:
                 m = re.search(r"you learn to assume the form of the (.+?)\.", low)
                 if m:
-                    monster = norm(m.group(1))
-                    print(f"Excluding {monster} from essence")
-                    exclude["essence"].add(monster)
+                    exclude["essence"].add(norm(m.group(1)))
                 continue
 
-            if 'you have ' not in low:
+            if "you have " not in low:
                 continue
 
-            # --- Regex-based progression parsing ---
+            # Regex-based progression
             pm = prog_rx.search(low)
             parsed_category = None
             parsed_monster = None
@@ -393,25 +381,22 @@ def count_special_lines(texts):
                 parsed_monster = norm(pm.group(2))
 
                 if study_state.get(parsed_monster) is False:
-                    print(f"Skipping {parsed_monster} ({parsed_category}) because study abandoned")
                     continue
-
                 if parsed_monster in exclude.get(parsed_category, set()):
-                    print(f"Skipping {parsed_monster} from {parsed_category} (regex match)")
                     continue
 
-            # --- Phrase-based fallback ---
+            # Phrase-based fallback
             try:
-                # Find the index safely
                 idx = low.index('you have ')
                 after = line[idx + len('you have '):].strip()
             except ValueError:
-                # If 'you have' is missing or the line is too short, skip it
                 continue
 
             for idx, phrase_lc in enumerate(phrases_lc):
                 if after.lower().startswith(phrase_lc):
                     orig_phrase = phrases[idx]
+                    phrase_key = orig_phrase.lower()
+
                     rest = after[len(phrase_lc):].lstrip()
                     trainer = rest.split('.', 1)[0].strip()
                     trainer_clean = norm(trainer)
@@ -419,76 +404,40 @@ def count_special_lines(texts):
                     if not trainer_clean:
                         break
 
-                    first4 = ' '.join(orig_phrase.split()[:4])
                     found = next((t for t in types if t in orig_phrase.lower()), None)
+                    first4 = ' '.join(orig_phrase.split()[:4])
 
-                    category_for_check = parsed_category or found
-                    monster_for_check = parsed_monster or trainer_clean
+                    # Count message number
+                    if trainer_clean not in special:
+                        special[trainer_clean] = {
+                            "label": "",
+                            "display_label": "",
+                            "count": 1,
+                            "kills_left": None
+                        }
+                    else:
+                        special[trainer_clean]["count"] += 1
 
-                    if study_state.get(monster_for_check) is False:
-                        print(f"Skipping {trainer_clean} from {category_for_check} (abandoned)")
-                        break
+                    phrase_key = orig_phrase.lower()
+                    msg_num = special[trainer_clean]["count"]
 
-                    if category_for_check and monster_for_check in exclude[category_for_check]:
-                        print(f"Skipping {trainer_clean} from {category_for_check} (phrase match)")
-                        break
+                    kills_required = kills_to_next.get(phrase_key, {}).get(msg_num)
+                    kills_since_last = kill_counts.get(trainer_clean, 0)
 
-                    # --- tolerant kills lookup: exact, substring, then patterns; prefer smallest numeric value ---
-                    phrase_key = orig_phrase.strip().lower()
-                    kills_for_phrase = None
+                    if kills_required is not None:
+                        kills_left = max(kills_required - kills_since_last, 0)
+                    else:
+                        kills_left = None
 
-                    def _prefer_k(existing, candidate):
-                        if candidate is None:
-                            return existing
-                        if existing is None:
-                            return candidate
-                        # both ints
-                        if isinstance(existing, int) and isinstance(candidate, int):
-                            return candidate if candidate < existing else existing
-                        # both ranges (tuples): prefer smaller min
-                        if isinstance(existing, tuple) and isinstance(candidate, tuple):
-                            return candidate if candidate[0] < existing[0] else existing
-                        # int vs tuple: compare int to tuple min
-                        if isinstance(existing, int) and isinstance(candidate, tuple):
-                            return candidate if candidate[0] < existing else existing
-                        if isinstance(existing, tuple) and isinstance(candidate, int):
-                            return candidate if candidate < existing[0] else existing
-                        return existing
+                    special[trainer_clean]["kills_left"] = kills_left
 
-                    # 1) exact lookup
-                    try:
-                        kills_for_phrase = kills_exact_map.get(phrase_key)
-                    except NameError:
-                        kills_for_phrase = None
+                    # Build display label
+                    display_map = {
+                        "ways": "ways (befriend)",
+                        "essence": "essence (morph)",
+                        "movements": "movements"
+                    }
 
-                    # 2) substring tolerant lookups (try keys that contain phrase_key or vice versa)
-                    if kills_for_phrase is None:
-                        try:
-                            for kphrase, kval in kills_exact_map.items():
-                                if not kphrase:
-                                    continue
-                                lk = kphrase.lower()
-                                # if phrase_key is contained in the kills key OR kills key contained in phrase_key
-                                if phrase_key in lk or lk in phrase_key:
-                                    kills_for_phrase = _prefer_k(kills_for_phrase, kval)
-                        except NameError:
-                            pass
-
-                    # 3) pattern fallback (match raw_line and templates)
-                    if kills_for_phrase is None:
-                        try:
-                            for rx, k in kills_patterns:
-                                if rx.search(raw_line) or rx.search(orig_phrase) or rx.search("you have " + orig_phrase):
-                                    kills_for_phrase = _prefer_k(kills_for_phrase, k)
-                        except NameError:
-                            pass
-                    print(f"DEBUG: matched template='{orig_phrase}' trainer='{trainer}' found='{found}' kills_for_phrase={kills_for_phrase}")
-
-                    # friendly display mapping for UI
-                    display_map = { "ways": "ways (befriend)", "essence": "essence (morph)", "movements": "movements" }
-
-
-                    # build internal label (kept for filtering) and user-facing display_label
                     if found:
                         label = f"{first4} {trainer} ({found})"
                         display_label = f"{first4} {trainer} ({display_map.get(found, found)})"
@@ -496,70 +445,36 @@ def count_special_lines(texts):
                         label = f"{first4} {trainer}"
                         display_label = label
 
-                    # append kills info to display_label if available
-                    if kills_for_phrase is not None:
-                        if isinstance(kills_for_phrase, tuple):
-                            display_label = f"{display_label} — ~{kills_for_phrase[0]}–{kills_for_phrase[1]} kills left"
-                        else:
-                            display_label = f"{display_label} — {kills_for_phrase} kills left"
-                            
-                            
-                    print(f"DEBUG: built display_label='{display_label}' trainer='{trainer}' kills_for_phrase={kills_for_phrase}")
+                    if kills_left is not None:
+                        display_label = f"{display_label} — {kills_left} kills left"
 
-                    # store or update trainer entry; keep the minimum kills_left seen
-                    if trainer not in special:
-                        special[trainer] = {
-                            "label": label,
-                            "display_label": display_label,
-                            "count": 1,
-                            "kills_left": kills_for_phrase
-                        }
-                    else:
-                        # update label/display_label and count
-                        special[trainer]["label"] = label
-                        special[trainer]["display_label"] = display_label
-                        special[trainer]["count"] += 1
+                    special[trainer_clean]["label"] = label
+                    special[trainer_clean]["display_label"] = display_label
 
-                        # update kills_left to the closest (smallest) value if numeric/range
-                        existing_k = special[trainer].get("kills_left")
-                        if kills_for_phrase is not None:
-                            if existing_k is None:
-                                special[trainer]["kills_left"] = kills_for_phrase
-                            else:
-                                # compare numeric vs tuple cases and keep the closest
-                                if isinstance(kills_for_phrase, int) and isinstance(existing_k, int):
-                                    if kills_for_phrase < existing_k:
-                                        special[trainer]["kills_left"] = kills_for_phrase
-                                        # update display_label base (strip previous suffix) then append new
-                                        base = special[trainer]["display_label"].split(" — ")[0]
-                                        special[trainer]["display_label"] = f"{base} — {kills_for_phrase} kills left"
-                                elif isinstance(kills_for_phrase, tuple) and isinstance(existing_k, tuple):
-                                    if kills_for_phrase[0] < existing_k[0]:
-                                        special[trainer]["kills_left"] = kills_for_phrase
-                                        base = special[trainer]["display_label"].split(" — ")[0]
-                                        special[trainer]["display_label"] = f"{base} — ~{kills_for_phrase[0]}–{kills_for_phrase[1]} kills left"
-                                elif isinstance(kills_for_phrase, int) and isinstance(existing_k, tuple):
-                                    if kills_for_phrase < existing_k[0]:
-                                        special[trainer]["kills_left"] = kills_for_phrase
-                                        base = special[trainer]["display_label"].split(" — ")[0]
-                                        special[trainer]["display_label"] = f"{base} — {kills_for_phrase} kills left"
-                                elif isinstance(kills_for_phrase, tuple) and isinstance(existing_k, int):
-                                    if kills_for_phrase[0] < existing_k:
-                                        special[trainer]["kills_left"] = kills_for_phrase
-                                        base = special[trainer]["display_label"].split(" — ")[0]
-                                        special[trainer]["display_label"] = f"{base} — ~{kills_for_phrase[0]}–{kills_for_phrase[1]} kills left"
                     break
 
-    # Attach bonus ranks to labels
+    # Attach bonus ranks
     for trainer, info in special.items():
-        bonus = bonus_ranks.get(norm(trainer), 0)
+        bonus = bonus_ranks.get(trainer, 0)
         if bonus:
             info["count_str"] = f"{info['count']} ({bonus})"
         else:
             info["count_str"] = str(info["count"])
 
     return special, exclude
-    
+
+def count_kills(texts):
+    """Return dict: { creature_name: total_kills }"""
+    kills = {}
+    for content, _ in texts:
+        for line in content.splitlines():
+            m = KILL_RX.search(line)
+            if not m:
+                continue
+            creature = m.group(1).strip().lower()
+            kills[creature] = kills.get(creature, 0) + 1
+    return kills
+   
 def filter_finished_studies(special, exclude):
     filtered = {}
     for trainer, data in special.items():
@@ -615,6 +530,7 @@ def count_coins(texts, character_name, min_time=None):
             })
 
     return skinned_total, share_total, events
+    
 
 # -- Background Task ---------------------------------------------------------
 def scan_and_aggregate(folder_path, character_name):
@@ -770,14 +686,14 @@ def on_scan_done(fut):
     for name, data in merged_creatures.items():
         if name in ignored_list:
             continue
-        # support legacy string entries
+
         if isinstance(data, dict):
             count_val = data.get("count", "")
             kills_val = data.get("kills", "")
         else:
             count_val = str(data)
             kills_val = ""
-        # Message Number column shows the count string; Kills Till Next Message shows kills
+
         creature_table.insert("", "end", values=(name, count_val, kills_val))
             
     # Update coins table
@@ -924,6 +840,66 @@ def open_ignore_manager():
 
     btn = tk.Button(win, text="Restore Selected", command=restore_selected)
     btn.pack(pady=10)
+    
+def open_kills_to_next_table():
+    """Open a window showing the embedded kills_to_next table."""
+    # Use the same kills_to_next dict from count_special_lines
+    kills_to_next = {
+        "almost nothing left to learn about the movements of the <creature>.": {1:4,2:2,3:2,4:2,5:2},
+        "almost nothing left to learn about the ways of the <creature>.": {1:4,2:2,3:2,4:2,5:2},
+        "almost nothing left to learn about the essence of the <creature>.": {1:4,2:2,3:2,4:2,5:2},
+
+        "a few things to learn about the movements of the <creature>.": {1:3,2:3,3:3,4:3,5:3},
+        "a few things to learn about the ways of the <creature>.": {1:3,2:3,3:3,4:3,5:3},
+        "a few things to learn about the essence of the <creature>.": {1:3,2:3,3:3,4:3,5:3},
+
+        "more than a few things to learn about the ways of the <creature>.": {1:7,2:7,3:7,4:7,5:8},
+        "more than a few things to learn about the essence of the <creature>.": {1:7,2:7,3:7,4:7,5:8},
+
+        "some things to learn about the ways of the <creature>.": {1:12,2:12,3:12,4:12,5:12,6:12,7:9},
+        "some things to learn about the essence of the <creature>.": {1:12,2:12,3:12,4:12,5:12,6:12,7:9},
+
+        "many things to learn about the ways of the <creature>.": {1:20,2:20,3:20,4:20,5:20,6:20,7:16},
+        "many things to learn about the essence of the <creature>.": {1:20,2:20,3:20,4:20,5:20,6:20,7:16},
+
+        "much to learn about the ways of the <creature>.": {1:30,2:30,3:30,4:30,5:30,6:30,7:20},
+        "much to learn about the essence of the <creature>.": {1:30,2:30,3:30,4:30,5:30,6:30,7:20},
+
+        "a lot to learn about the ways of the <creature>.": {1:100,2:30,3:30,4:30,5:30},
+        "a lot to learn about the essence of the <creature>.": {1:100,2:30,3:30,4:30,5:30},
+
+        "a vast amount to learn about the ways of the <creature>.": {1:100,2:100,3:100,4:100,5:100,6:100},
+        "a vast amount to learn about the essence of the <creature>.": {1:100,2:100,3:100,4:100,5:100,6:100}
+    }
+
+    win = tk.Toplevel(root)
+    win.title("Kills Required Table")
+    win.geometry("900x500")
+
+    frame = ttk.Frame(win)
+    frame.pack(fill="both", expand=True, padx=8, pady=8)
+
+    cols = ("Phrase", "Message #", "Kills to Next")
+    tv = ttk.Treeview(frame, columns=cols, show="headings")
+
+    for c in cols:
+        tv.heading(c, text=c)
+
+    tv.column("Phrase", width=600, anchor="w")
+    tv.column("Message #", width=100, anchor="center")
+    tv.column("Kills to Next", width=120, anchor="center")
+
+    tv.pack(fill="both", expand=True, side="left")
+
+    vsb = ttk.Scrollbar(frame, orient="vertical", command=tv.yview)
+    tv.configure(yscrollcommand=vsb.set)
+    vsb.pack(side="right", fill="y")
+
+    # Populate table
+    for phrase, mapping in kills_to_next.items():
+        for msg_num, kills_needed in mapping.items():
+            tv.insert("", "end", values=(phrase, msg_num, kills_needed))
+
     
 def open_special_kills_table():
     """Open a Toplevel window showing special_kills.txt as a table."""
@@ -1253,8 +1229,13 @@ creature_table.pack(pady=10, fill="both", expand=True)
 creature_context_menu = tk.Menu(root, tearoff=0)
 creature_context_menu.add_command(label="Ignore Creature", command=ignore_selected_creature)
 
-btn_special_kills = ttk.Button(frame_creatures, text="View special_kills.txt", command=open_special_kills_table)
+btn_special_kills = ttk.Button(
+    frame_creatures,
+    text="View Message Table",
+    command=open_kills_to_next_table
+)
 btn_special_kills.pack(padx=6, pady=4, side="right", anchor="ne")
+
 # ---------------- Coins Table ----------------
 coins_table = ttk.Treeview(frame_coins, columns=("Event", "Details"), show="headings")
 coins_table.heading("Event", text="Event")
