@@ -22,7 +22,6 @@ have the files listed in the same folder
     trainers.txt
     phoenix.png
     rcXX.py (XX = version number)
-    special_kills.txt (for verson 28+ only)
 
 and make sure your terminal is in the folder.
 ## you will need python installed
