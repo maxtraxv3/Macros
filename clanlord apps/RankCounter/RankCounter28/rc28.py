@@ -11,6 +11,35 @@ import json
 import time
 import csv
 
+kills_to_next = {
+    "almost nothing left to learn about the movements of the": {1:4,2:2,3:2,4:2,5:2},
+    "almost nothing left to learn about the ways of the": {1:4,2:2,3:2,4:2,5:2},
+    "almost nothing left to learn about the essence of the": {1:4,2:2,3:2,4:2,5:2},
+
+    "a few things to learn about the movements of the": {1:3,2:3,3:3,4:3,5:3},
+    "a few things to learn about the ways of the": {1:3,2:3,3:3,4:3,5:3},
+    "a few things to learn about the essence of the": {1:3,2:3,3:3,4:3,5:3},
+
+    "more than a few things to learn about the ways of the": {1:7,2:7,3:7,4:7,5:8},
+    "more than a few things to learn about the essence of the": {1:7,2:7,3:7,4:7,5:8},
+
+    "some things to learn about the ways of the": {1:12,2:12,3:12,4:12,5:12,6:12,7:9},
+    "some things to learn about the essence of the": {1:12,2:12,3:12,4:12,5:12,6:12,7:9},
+
+    "many things to learn about the ways of the": {1:20,2:20,3:20,4:20,5:20,6:20,7:16},
+    "many things to learn about the essence of the": {1:20,2:20,3:20,4:20,5:20,6:20,7:16},
+
+    "much to learn about the ways of the": {1:30,2:30,3:30,4:30,5:30,6:30,7:20},
+    "much to learn about the essence of the": {1:30,2:30,3:30,4:30,5:30,6:30,7:20},
+
+    "a lot to learn about the ways of the": {1:100,2:30,3:30,4:30,5:30},
+    "a lot to learn about the essence of the": {1:100,2:30,3:30,4:30,5:30},
+
+    "a vast amount to learn about the ways of the": {1:100,2:100,3:100,4:100,5:100,6:100},
+    "a vast amount to learn about the essence of the": {1:100,2:100,3:100,4:100,5:100,6:100}
+}
+
+
 CHAR_FILE = "characters.json"
 character_ranks = {}
 character_creatures = {}
@@ -68,7 +97,9 @@ def save_characters():
             "folders": character_folders.get(name, []),
             "ranks": character_ranks.get(name, {}),
             "creatures": character_creatures.get(name, {}),
-            "ignored": character_ignored.get(name, [])
+            "ignored": character_ignored.get(name, []),
+            "kills_table": kills_to_next,  
+            "last_scan_time": time.time(),
         }
     with open(CHAR_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4)
@@ -223,71 +254,6 @@ def count_special_lines(texts):
             if m:
                 creature = m.group(1).strip().lower()
                 kill_counts[creature] = kill_counts.get(creature, 0) + 1
-
-    # Embedded kills_to_next table
-    kills_to_next = {
-        "almost nothing left to learn about the movements of the": {
-            1: 4, 2: 2, 3: 2, 4: 2, 5: 2
-        },
-        "almost nothing left to learn about the ways of the": {
-            1: 4, 2: 2, 3: 2, 4: 2, 5: 2
-        },
-        "almost nothing left to learn about the essence of the": {
-            1: 4, 2: 2, 3: 2, 4: 2, 5: 2
-        },
-
-        "a few things to learn about the movements of the": {
-            1: 3, 2: 3, 3: 3, 4: 3, 5: 3
-        },
-        "a few things to learn about the ways of the": {
-            1: 3, 2: 3, 3: 3, 4: 3, 5: 3
-        },
-        "a few things to learn about the essence of the": {
-            1: 3, 2: 3, 3: 3, 4: 3, 5: 3
-        },
-
-        "more than a few things to learn about the ways of the": {
-            1: 7, 2: 7, 3: 7, 4: 7, 5: 8
-        },
-        "more than a few things to learn about the essence of the": {
-            1: 7, 2: 7, 3: 7, 4: 7, 5: 8
-        },
-
-        "some things to learn about the ways of the": {
-            1: 12, 2: 12, 3: 12, 4: 12, 5: 12, 6: 12, 7: 9
-        },
-        "some things to learn about the essence of the": {
-            1: 12, 2: 12, 3: 12, 4: 12, 5: 12, 6: 12, 7: 9
-        },
-
-        "many things to learn about the ways of the": {
-            1: 20, 2: 20, 3: 20, 4: 20, 5: 20, 6: 20, 7: 16
-        },
-        "many things to learn about the essence of the": {
-            1: 20, 2: 20, 3: 20, 4: 20, 5: 20, 6: 20, 7: 16
-        },
-
-        "much to learn about the ways of the": {
-            1: 30, 2: 30, 3: 30, 4: 30, 5: 30, 6: 30, 7: 20
-        },
-        "much to learn about the essence of the": {
-            1: 30, 2: 30, 3: 30, 4: 30, 5: 30, 6: 30, 7: 20
-        },
-
-        "a lot to learn about the ways of the": {
-            1: 100, 2: 30, 3: 30, 4: 30, 5: 30
-        },
-        "a lot to learn about the essence of the": {
-            1: 100, 2: 30, 3: 30, 4: 30, 5: 30
-        },
-
-        "a vast amount to learn about the ways of the": {
-            1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100
-        },
-        "a vast amount to learn about the essence of the": {
-            1: 100, 2: 100, 3: 100, 4: 100, 5: 100, 6: 100
-        }
-    }
 
     special = {}
     exclude = {"ways": set(), "movements": set(), "essence": set()}
@@ -804,10 +770,10 @@ def open_ignore_manager():
 
     # Create Popup Window
     win = tk.Toplevel(root)
-    win.title(f"Ignored Items for {char_name}")
+    win.title(f"Ignored Creatures for {char_name}")
     win.geometry("400x300")
 
-    lbl = tk.Label(win, text="Select items to restore:")
+    lbl = tk.Label(win, text="Select Creatures to restore:")
     lbl.pack(pady=5)
 
     # Listbox
@@ -836,10 +802,12 @@ def open_ignore_manager():
         win.destroy()
         on_character_selected() # Refresh main table
     
-    
-
-    btn = tk.Button(win, text="Restore Selected", command=restore_selected)
-    btn.pack(pady=10)
+    btn_restore_selected = ttk.Button(
+    frame_creatures,
+    text="Restore Selected",
+    command=restore_selected
+    )
+    btn_restore_selected.pack(pady=10)
     
 def open_kills_to_next_table():
     """Open a window showing the embedded kills_to_next table."""
@@ -1229,6 +1197,13 @@ creature_table.pack(pady=10, fill="both", expand=True)
 creature_context_menu = tk.Menu(root, tearoff=0)
 creature_context_menu.add_command(label="Ignore Creature", command=ignore_selected_creature)
 
+btn_ignore_creature = ttk.Button(
+    frame_creatures,
+    text="Manage Ignored List",
+    command=open_ignore_manager
+)
+btn_ignore_creature.pack(padx=6, pady=4, side="left", anchor="nw")
+
 btn_special_kills = ttk.Button(
     frame_creatures,
     text="View Message Table",
@@ -1254,9 +1229,6 @@ def show_creature_menu(event):
 # Bind Right Click (Button-3 on Windows, Button-2 on Mac sometimes)
 creature_table.bind("<Button-3>", show_creature_menu) 
 creature_table.bind("<Button-2>", show_creature_menu) # MacOS support
-
-tk.Button(frame_creatures, text="Manage Ignored List", command=open_ignore_manager)\
-    .pack(pady=5)
 
 # ---------------- LOG SEARCH TAB (Search ALL character folders) ----------------
 
