@@ -762,10 +762,8 @@ shift-click2
 {
 $any_click
 if shiftc2 == 0
-message ping1
 	"/share " @clicksplayer " \r"
 else if shiftc2 == 1
-message ping2
 	if @click.name != ""
 		"/whisper excuse me " @click.name " \r"
 			"/pull " @click.simple_name " \r"
@@ -773,7 +771,6 @@ message ping2
 		"/pull /critter \r"
 	end if
 else if shiftc2 == 2
-message ping3
 	if @click.name != ""
 		"/whisper excuse me " @click.name " \r"
 			"/push " @click.simple_name " \r"

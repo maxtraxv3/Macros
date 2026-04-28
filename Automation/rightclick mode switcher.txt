@@ -1,0 +1,59 @@
+// right click action swapper by magnic
+// click your 4th button on your mouse to witch what happends with your mouses right click
+// switch between |PULL mode|PUSH mode|SHARE mode|CHAIN mode|
+// switch from chain mode will switch you right hand item to a chain if dont have one equiped when switching modes
+
+
+SETGLOBAL clicker2 0
+setglobal swapbackitem ""
+
+click4
+{
+if clicker2 == 0
+	if swapbackitem != ""
+		"/equip " swapbackitem " /r"
+	end if
+		setglobal clicker2 1
+			message "click2: PULL mode"
+else if clicker2 == 1
+	setglobal clicker2 2
+		message "click2: PUSH mode"
+else if clicker2 == 2
+	setglobal clicker2 3
+		message "click2: SHARE mode"
+else if clicker2 == 3
+	setglobal clicker2 0
+		message "click2: CHAIN mode"
+end if
+}
+
+click2
+{
+$any_click
+if clicker2 == 0
+	"/share " @clicksplayer " \r"
+else if clicker2 == 1
+	if @click.name != ""
+		"/whisper excuse me " @click.name " \r"
+			"/pull " @click.simple_name " \r"
+	else
+		"/pull /critter \r"
+	end if
+else if clicker2 == 2
+	if @click.name != ""
+		"/whisper excuse me " @click.name " \r"
+			"/push " @click.simple_name " \r"
+	end if
+else if clicker2 == 2
+	if @my.right_item != "chain"
+		if @my.right_item != ""
+			setglobal swapbackitem @my.right_item
+		end if
+			"/equip chain\r"
+	end if
+	//pause 2 remove the "//" for mac
+	if @click.name != ""
+		"/use " @click.simple_name " \r"	
+	end if
+end if
+}
