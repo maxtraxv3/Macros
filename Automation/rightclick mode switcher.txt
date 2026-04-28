@@ -44,7 +44,7 @@ else if clicker2 == 2
 		"/whisper excuse me " @click.name " \r"
 			"/push " @click.simple_name " \r"
 	end if
-else if clicker2 == 2
+else if clicker2 == 3
 	if @my.right_item != "chain"
 		if @my.right_item != ""
 			setglobal swapbackitem @my.right_item
