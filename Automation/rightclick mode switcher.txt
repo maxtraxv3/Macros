@@ -51,7 +51,8 @@ else if clicker2 == 3
 		end if
 			"/equip chain\r"
 	end if
-	//pause 2 remove the "//" for mac
+	//remove the "//" from the "pause" for mac
+	//pause 2 
 	if @click.name != ""
 		"/use " @click.simple_name " \r"	
 	end if
