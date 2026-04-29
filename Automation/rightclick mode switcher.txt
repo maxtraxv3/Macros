@@ -48,11 +48,12 @@ else if clicker2 == 3
 	if @my.right_item != "chain"
 		if @my.right_item != ""
 			setglobal swapbackitem @my.right_item
-		end if
-			"/equip chain\r"
+				"/equip chain\r"
+		else
+			"/equip chain\r" 
+		end if	
+			pause 1
 	end if
-	//remove the "//" from the "pause" for mac
-	//pause 2 
 	if @click.name != ""
 		"/use " @click.simple_name " \r"	
 	end if
