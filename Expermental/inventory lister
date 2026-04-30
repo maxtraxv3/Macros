@@ -79,7 +79,6 @@ if logck != "No item"
 			set matchnum nls
 				call findagain
 					if matchnum == nls
-					message ping1
 						if nls < 32
 							setglobal nls + 1
 								goto gonext

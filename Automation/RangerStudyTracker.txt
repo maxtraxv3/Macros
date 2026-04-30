@@ -1,0 +1,335 @@
+// ranger study tracker, by Magnic
+// this is work in progress, remake of old ingame ranger study tracker.
+// incomplete functions!!!! do not use yet.
+
+"/ttt"
+{
+message "" dataset[1] ""
+message "" dataset[2] ""
+message "" dataset[3] ""
+message "" dataset[4] ""
+}
+
+setglobal dataset[1] ""
+setglobal dataset[2] ""
+setglobal dataset[3] ""
+setglobal dataset[4] ""
+setglobal cknum 1
+
+"/sm"
+{
+set logck @env.textlog
+message "loading whatzits..."
+label reload
+// the extra "\" here is required so selectitem command know it use both words
+// normaly excudes anything after first word
+"/selectitem \"whatzit <#" cknum "\" \r"
+	pause 2
+		if logck >= "no item"
+			message "* no whatzit found skipping"
+				goto skipper
+		else if @my.selected_item == "Nothing"
+			message "* something went wrong with item selection"
+				goto ender
+		else
+			message "* loading " @my.selected_item ""
+				call loader
+					label skipper
+					setglobal cknum + 1
+						if cknum < 5
+							goto reload
+						else
+							setglobal cknum 1
+								call messwatch
+						end if
+		end if
+label ender
+}
+
+loader
+{
+// This check length of text to tell how many "name's" the creature has
+// longest creater name is 4 words
+if @my.selected_item.word[5] == ".>"
+	set logicnumber 5
+else if @my.selected_item.word[6] == ".>"
+	set logicnumber 6
+else if @my.selected_item.word[7] == ".>"
+	set logicnumber 7
+else if @my.selected_item.word[8] == ".>"
+	set logicnumber 8
+end if
+// Save data into temp memory
+if logicnumber == 5
+	setglobal dataset[cknum] @my.selected_item.word[2]
+	setglobal dataset[cknum] + " "
+	setglobal dataset[cknum] + @my.selected_item.word[3]
+	setglobal dataset[cknum] + " "
+	setglobal dataset[cknum] + @my.selected_item.word[4]
+else if logicnumber == 6
+	setglobal dataset[cknum] @my.selected_item.word[2]
+	setglobal dataset[cknum] + " "
+	setglobal dataset[cknum] + @my.selected_item.word[3]
+	setglobal dataset[cknum] + " "
+	setglobal dataset[cknum] + @my.selected_item.word[4]
+	setglobal dataset[cknum] + " "
+	setglobal dataset[cknum] + @my.selected_item.word[5]
+else if logicnumber == 7
+	setglobal dataset[cknum] @my.selected_item.word[2]
+	setglobal dataset[cknum] + " "
+	setglobal dataset[cknum] + @my.selected_item.word[3]
+	setglobal dataset[cknum] + " "
+	setglobal dataset[cknum] + @my.selected_item.word[4]
+	setglobal dataset[cknum] + " "
+	setglobal dataset[cknum] + @my.selected_item.word[5]
+	setglobal dataset[cknum] + " "
+	setglobal dataset[cknum] + @my.selected_item.word[6]
+else if logicnumber == 8
+	setglobal dataset[cknum] @my.selected_item.word[2]
+	setglobal dataset[cknum] + " "
+	setglobal dataset[cknum] + @my.selected_item.word[3]
+	setglobal dataset[cknum] + " "
+	setglobal dataset[cknum] + @my.selected_item.word[4]
+	setglobal dataset[cknum] + " "
+	setglobal dataset[cknum] + @my.selected_item.word[5]
+	setglobal dataset[cknum] + " "
+	setglobal dataset[cknum] + @my.selected_item.word[6]
+	setglobal dataset[cknum] + " "
+	setglobal dataset[cknum] + @my.selected_item.word[7]
+else if logicnumber == 8
+	setglobal dataset[cknum] @my.selected_item.word[2]
+	setglobal dataset[cknum] + " "
+	setglobal dataset[cknum] + @my.selected_item.word[3]
+	setglobal dataset[cknum] + " "
+	setglobal dataset[cknum] + @my.selected_item.word[4]
+	setglobal dataset[cknum] + " "
+	setglobal dataset[cknum] + @my.selected_item.word[5]
+	setglobal dataset[cknum] + " "
+	setglobal dataset[cknum] + @my.selected_item.word[6]
+	setglobal dataset[cknum] + " "
+	setglobal dataset[cknum] + @my.selected_item.word[7]
+	setglobal dataset[cknum] + " "
+	setglobal dataset[cknum] + @my.selected_item.word[8]
+end if
+//convert the save data into temp readable information for .word and .word.letter commands to work
+// dataset[cknum].word[1] is invaild.
+// "message:" not setup yet.
+set checkname dataset[cknum]
+if logicnumber == 5
+	message "Loaded Creature:" checkname.word[0] "Last hits:" checkname.word[1] " message: message number:" checkname.word[2].letter[1] " "
+else if logicnumber == 6
+	message "Loaded Creature: " checkname.word[0] " " checkname.word[1] " Last hits: " checkname.word[2] " message: message number: " checkname.word[3].letter[1] ""
+else if logicnumber == 7
+	message "Loaded Creature: " checkname.word[0] " " checkname.word[1] " " checkname.word[2] " Last hits: " checkname.word[3] " message: message number: " checkname.word[4].letter[1] ""
+else if logicnumber == 8
+	message "Loaded Creature: " checkname.word[0] " " checkname.word[1] " " checkname.word[2] " " dataset[cknum].word[3] " Last hits: " checkname.word[4] " message: message number: " checkname.word[5].letter[1] ""
+end if
+}
+
+// mess watch needs a filter check, ill added later.
+// "says,", "growls,", "yells,", "ponders,", "thinks,"
+// startswith "(", endswith ")"
+// should also include the names of creatures
+messwatch
+{
+label top
+set logck @env.textlog
+if logck >= "•You begin studying the"
+		call filter
+			if fitler == 0
+				setglobal savedlog logck
+					call adder
+			end if
+else if logck >= "almost nothing left to learn about the"
+	call filter
+		if fitler == 0
+			call plusck
+		end if
+else if logck >= "a few things to learn about the"
+	call filter
+		if fitler == 0
+			call plusck
+		end if
+else if logck >= "more than a few things to learn about the"
+	call filter
+		if fitler == 0
+			call plusck
+		end if
+else if logck >= "some things to learn about the"
+	call filter
+		if fitler == 0
+			call plusck
+		end if
+else if logck >= "much to learn about the"
+	call filter
+		if fitler == 0
+			call plusck
+		end if
+else if logck >= "a lot to learn about the"
+	call filter
+		if fitler == 0
+			call plusck
+		end if
+else if logck >= "a vast amount to learn about the"
+	call filter
+		if fitler == 0
+			call plusck
+		end if
+else if logck >= "vanquished a"
+	call filter
+		if fitler == 0
+			call plusit
+		end if
+else if logck >= "killed a"
+	call filter
+		if fitler == 0
+			call plusit
+		end if
+else if logck >= "dispatched a"
+	call filter
+		if fitler == 0
+			call plusit
+		end if
+else if logck >= "slaughtered a"
+	call filter
+		if fitler == 0
+			call plusit
+		end if
+else if logck >= "vanquish a"
+	call filter
+		if fitler == 0
+			call plusit
+		end if
+else if logck >= "kill a"
+	call filter
+		if fitler == 0
+			call plusit
+		end if
+else if logck >= "dispatch a"
+	call filter
+		if fitler == 0
+			call plusit
+		end if
+else if logck >= "slaughter a"
+	call filter
+		if fitler == 0
+			call plusit
+		end if
+goto top
+}
+
+adder
+{
+// check how many words there are, helps to know how many words the creature name is.
+// we also have to check for time stamps for this to work. for now we aussume timestamps are on.
+// we have to remove the "." in the dot in the name also for textlog scanning
+set wordcount savedlog.num_words
+if wordcount == ts1 // 9 words
+	setglobal badnam savedlog.word[9]
+		call scramble
+			setglobal newsave nama
+else if wordcount == ts2 // 10 words
+	setglobal badnam savedlog.word[10]
+		call scramble
+			setglobal newsave savedlog.word[9]
+			setglobal newsave + " "
+			setglobal newsave + nama
+else if wordcount == ts2 // 11 words
+	setglobal badnam savedlog.word[11]
+		call scramble
+			setglobal newsave savedlog.word[9]
+			setglobal newsave + " "
+			setglobal newsave + savedlog.word[10]
+			setglobal newsave + " "
+			setglobal newsave + nama
+else if wordcount == ts2 // 12 words
+	setglobal badnam savedlog.word[12]
+		call scramble
+			setglobal newsave savedlog.word[9]
+			setglobal newsave + " "
+			setglobal newsave + savedlog.word[10]
+			setglobal newsave + " "
+			setglobal newsave + savedlog.word[11]
+			setglobal newsave + " "
+			setglobal newsave + nama
+end if
+//addnew study
+
+}
+
+
+// Scramble goes though each letter and re-add's it to a local set name til it finds a "." then ends
+// checks up to 14 letters for creatures
+scramble
+{
+if badnam.letter[1] != ""
+	if badnam.letter[1] != "."
+		set nama badnam.letter[1]
+	end if
+end if
+if badnam.letter[2] != ""
+	if badnam.letter[2] != "."
+		set nama + badnam.letter[2]
+	end if
+end if
+if badnam.letter[3] != ""
+	if badnam.letter[3] != "."
+		set nama + badnam.letter[3]
+	end if
+end if
+if badnam.letter[4] != ""
+	if badnam.letter[4] != "."
+		set nama + badnam.letter[4]
+	end if
+end if
+if badnam.letter[5] != ""
+	if badnam.letter[5] != "."
+		set nama + badnam.letter[5]
+	end if
+end if
+if badnam.letter[6] != ""
+	if badnam.letter[6] != "."
+		set nama + badnam.letter[6]
+	end if
+end if
+if badnam.letter[7] != ""
+	if badnam.letter[7] != "."
+		set nama + badnam.letter[7]
+	end if
+end if
+if badnam.letter[8] != ""
+	if badnam.letter[8] != "."
+		set nama + badnam.letter[8]
+	end if
+end if
+if badnam.letter[9] != ""
+	if badnam.letter[9] != "."
+		set nama + badnam.letter[9]
+	end if
+end if
+if badnam.letter[10] != ""
+	if badnam.letter[10] != "."
+		set nama + badnam.letter[10]
+	end if
+end if
+if badnam.letter[11] != ""
+	if badnam.letter[11] != "."
+		set nama + badnam.letter[11]
+	end if
+end if
+if badnam.letter[12] != ""
+	if badnam.letter[12] != "."
+		set nama + badnam.letter[12]
+	end if
+end if
+if badnam.letter[13] != ""
+	if badnam.letter[13] != "."
+		set nama + badnam.letter[13]
+	end if
+end if
+if badnam.letter[14] != ""
+	if badnam.letter[14] != "."
+		set nama + badnam.letter[14]
+	end if
+end if
+}
