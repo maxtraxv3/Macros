@@ -15,13 +15,6 @@ setglobal dataset[2] ""
 setglobal dataset[3] ""
 setglobal dataset[4] ""
 setglobal cknum 1
-setglobal selectitemts2 2
-setglobal selectitemts3 3
-setglobal selectitemts4 4
-setglobal selectitemts5 5
-setglobal selectitemts6 6
-setglobal selectitemts7 7
-setglobal selectitemts8 8
 setglobal ts1 9
 setglobal ts2 10
 setglobal ts3 11
@@ -174,6 +167,11 @@ else if logck >= "some things to learn about the"
 		if fitler == 0
 			call plusck
 		end if
+else if logck >= "many things to learn about the"
+	call filter
+		if fitler == 0
+			call plusck
+		end if
 else if logck >= "much to learn about the"
 	call filter
 		if fitler == 0
@@ -235,7 +233,7 @@ goto top
 filter
 {
 // needs timestamp check.
-// need creature name filter
+// creature name filter needs name number checks incase of same first name
 set checklastword logck.num_words
 set checklastletter checklastword.num_letters
 if logck.word[2] == "says,"
@@ -254,9 +252,244 @@ else if logck.word[checklastword].letter[checklastletter] == ")"
 	setglobal fitler 1
 else if logck.word[2].letter[0] == "("
 	setglobal fitler 1
+else if logck.word[15] == dataset[1].word[0]
+	setglobal fitler 0
+else if logck.word[14] == dataset[1].word[0]
+	setglobal fitler 0
+else if logck.word[13] == dataset[1].word[0]
+	setglobal fitler 0
+else if logck.word[12] == dataset[1].word[0]
+	setglobal fitler 0
+else if logck.word[6] == dataset[1].word[0]
+	setglobal fitler 0
+else if logck.word[15] == dataset[2].word[0]
+	setglobal fitler 0
+else if logck.word[14] == dataset[2].word[0]
+	setglobal fitler 0
+else if logck.word[13] == dataset[2].word[0]
+	setglobal fitler 0
+else if logck.word[12] == dataset[2].word[0]
+	setglobal fitler 0
+else if logck.word[6] == dataset[2].word[0]
+	setglobal fitler 0
+else if logck.word[15] == dataset[3].word[0]
+	setglobal fitler 0
+else if logck.word[14] == dataset[3].word[0]
+	setglobal fitler 0
+else if logck.word[13] == dataset[3].word[0]
+	setglobal fitler 0
+else if logck.word[12] == dataset[3].word[0]
+	setglobal fitler 0
+else if logck.word[6] == dataset[3].word[0]
+	setglobal fitler 0
+else if logck.word[15] == dataset[4].word[0]
+	setglobal fitler 0
+else if logck.word[14] == dataset[4].word[0]
+	setglobal fitler 0
+else if logck.word[13] == dataset[4].word[0]
+	setglobal fitler 0
+else if logck.word[12] == dataset[4].word[0]
+	setglobal fitler 0
+else if logck.word[6] == dataset[4].word[0]
+	setglobal fitler 0
 else
 	setglobal fitler 0
 end if
+}
+
+// needs kill correcter patcher
+// not finshed yet
+plusck
+{
+set checknumber 1
+set Rdata dataset[checknumber]
+set msgmess Rdata.word[3].letter[0]
+set msgnum Rdata.word[3].letter[1]
+if dataset[checknumber] != ""
+	if logck.word[6] == Rdata.word[3].letter[0]
+		setglobal dataset[checknumber]
+if logck >= "a vast amount to learn about the"
+	if msgmess == "1"
+		if msgnum == "0"
+			set Rdata.word[3].letter[1] 1
+				message "Vast amount to learn: 1300 to go!"
+					goto Rdataout
+		else if msgnum == "1"
+			set Rdata.word[3].letter[1] 2
+				message "Vast amount to learn: 1200 to go!"
+					goto Rdataout
+		else if msgnum == "2"
+			set Rdata.word[3].letter[1] 3
+				message "Vast amount to learn: 1100 to go!"
+					goto Rdataout
+		else if msgnum == "3"
+			set Rdata.word[3].letter[1] 4
+				message "Vast amount to learn: 1000 to go!"
+					goto Rdataout
+		else if msgnum == "4"
+			set Rdata.word[3].letter[1] 5
+				message "Vast amount to learn: 900 to go!"
+					goto Rdataout
+		else if msgnum == "5"
+			set Rdata.word[3].letter[1] 6
+				message "Vast amount to learn: 800 to go!"
+					goto Rdataout
+		else
+			message "something has gone wrong"
+		end if
+	end if
+end if
+if logck >= "a lot to learn about the"
+	if msgmess != "2"
+		if msgmess == "1"
+			set Rdata.word[3].letter[0] 2
+			set Rdata.word[3].letter[1] 0
+				message "A lot to learn: 700 to go!"
+					goto Rdataout
+		end if
+	if msgmess == "2"
+		if msgnum == "0"
+			set Rdata.word[3].letter[1] 1
+				message "A lot to learn: 600 to go!"
+					goto Rdataout
+		else if msgnum == "1"
+			set Rdata.word[3].letter[1] 2
+				message "A lot to learn: 570 to go!"
+					goto Rdataout
+		else if msgnum == "2"
+			set Rdata.word[3].letter[1] 3
+				message "A lot to learn: 540 to go!"
+					goto Rdataout
+		else if msgnum == "3"
+			set Rdata.word[3].letter[1] 4
+				message "A lot to learn: 510 to go!"
+					goto Rdataout
+		else
+			message "something has gone wrong"
+		end if
+	end if
+end if
+if logck >= "much to learn about the"
+	if msgmess == "3"
+		if msgnum == "0"
+			set Rdata.word[3].letter[1] 1
+				goto Rdataout
+		else if msgnum == "1"
+			set Rdata.word[3].letter[1] 2
+				goto Rdataout
+		else if msgnum == "2"
+			set Rdata.word[3].letter[1] 3
+				goto Rdataout
+		else if msgnum == "3"
+			set Rdata.word[3].letter[1] 4
+				goto Rdataout
+		else if msgnum == "4"
+			set Rdata.word[3].letter[1] 5
+				goto Rdataout
+		else if msgnum == "5"
+			set Rdata.word[3].letter[1] 6
+				goto Rdataout
+		else if msgnum == "5"
+			set Rdata.word[3].letter[1] 7
+				goto Rdataout
+		else
+			message "something has gone wrong"
+		end if
+	end if
+end if
+	else if msgmess == "4"
+		if msgnum == "0"
+			set Rdata.word[3].letter[1] 1
+				goto Rdataout
+		else if msgnum == "1"
+			set Rdata.word[3].letter[1] 2
+				goto Rdataout
+		else if msgnum == "2"
+			set Rdata.word[3].letter[1] 3
+				goto Rdataout
+		else if msgnum == "3"
+			set Rdata.word[3].letter[1] 4
+				goto Rdataout
+		else if msgnum == "4"
+			set Rdata.word[3].letter[1] 5
+				goto Rdataout
+		else if msgnum == "5"
+			set Rdata.word[3].letter[1] 6
+				goto Rdataout
+		else if msgnum == "5"
+			set Rdata.word[3].letter[1] 7
+				goto Rdataout
+	else if msgmess == "5"
+		if msgnum == "0"
+			set Rdata.word[3].letter[1] 1
+				goto Rdataout
+		else if msgnum == "1"
+			set Rdata.word[3].letter[1] 2
+				goto Rdataout
+		else if msgnum == "2"
+			set Rdata.word[3].letter[1] 3
+				goto Rdataout
+		else if msgnum == "3"
+			set Rdata.word[3].letter[1] 4
+				goto Rdataout
+		else if msgnum == "4"
+			set Rdata.word[3].letter[1] 5
+				goto Rdataout
+		else if msgnum == "5"
+			set Rdata.word[3].letter[1] 6
+				goto Rdataout
+		else if msgnum == "5"
+			set Rdata.word[3].letter[1] 7
+				goto Rdataout
+	else if msgmess == "6"
+		if msgnum == "0"
+			set Rdata.word[3].letter[1] 1
+				goto Rdataout
+		else if msgnum == "1"
+			set Rdata.word[3].letter[1] 2
+				goto Rdataout
+		else if msgnum == "2"
+			set Rdata.word[3].letter[1] 3
+				goto Rdataout
+		else if msgnum == "3"
+			set Rdata.word[3].letter[1] 4
+				goto Rdataout
+		else if msgnum == "4"
+			set Rdata.word[3].letter[1] 5
+				goto Rdataout
+	else if msgmess == "7"
+		if msgnum == "0"
+			set Rdata.word[3].letter[1] 1
+				goto Rdataout
+		else if msgnum == "1"
+			set Rdata.word[3].letter[1] 2
+				goto Rdataout
+		else if msgnum == "2"
+			set Rdata.word[3].letter[1] 3
+				goto Rdataout
+		else if msgnum == "3"
+			set Rdata.word[3].letter[1] 4
+				goto Rdataout
+		else if msgnum == "4"
+			set Rdata.word[3].letter[1] 5
+				goto Rdataout
+	else if msgmess == "8"
+		if msgnum == "0"
+			set Rdata.word[3].letter[1] 1
+				goto Rdataout
+		else if msgnum == "1"
+			set Rdata.word[3].letter[1] 2
+				goto Rdataout
+		else if msgnum == "2"
+			set Rdata.word[3].letter[1] 3
+				goto Rdataout
+		else if msgnum == "3"
+			set Rdata.word[3].letter[1] 4
+				goto Rdataout
+		else if msgnum == "4"
+			set Rdata.word[3].letter[1] 5
+				goto Rdataout
+	end if
 }
 
 adder
