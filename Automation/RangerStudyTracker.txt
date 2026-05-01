@@ -332,6 +332,7 @@ label done
 // needs testing, might need to change some stuff to "else if"
 plusck
 {
+// needs to check for the right dataset, might neednew fucntion for this.
 set checknumber 1
 set Rdata dataset[checknumber]
 set msgmess Rdata.word[3].letter[0]
