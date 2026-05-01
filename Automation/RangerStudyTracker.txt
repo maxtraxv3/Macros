@@ -2,7 +2,7 @@
 // this is work in progress, remake of old ingame ranger study tracker.
 // incomplete functions!!!! do not use yet.
 
-//mising functions "plusit" and "Rdataout"
+//mising functions "plusit", "Rdataout" and "remover"
 
 "/ttt"
 {
