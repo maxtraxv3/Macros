@@ -2,7 +2,8 @@
 // this is work in progress, remake of old ingame ranger study tracker.
 // incomplete functions!!!! do not use yet.
 
-//mising functions "plusit", "Rdataout" and "remover"
+// mising functions "Rdataout" and "remover"
+// plusck needs rewirght.
 
 "/ttt"
 {
@@ -28,28 +29,32 @@ setglobal ts4 12
 set logck @env.textlog
 message "loading whatzits..."
 label reload
-// the extra "\" here is required so selectitem command know it use both words
-// normaly excudes anything after first word
-"/selectitem \"whatzit <#" cknum "\" \r"
-	pause 2
-		if logck >= "no item"
-			message "* no whatzit found skipping"
-				goto skipper
-		else if @my.selected_item == "Nothing"
-			message "* something went wrong with item selection"
-				goto ender
-		else
-			message "* loading " @my.selected_item ""
-				call loader
-					label skipper
-					setglobal cknum + 1
-						if cknum < 5
-							goto reload
-						else
-							setglobal cknum 1
-								call messwatch
-						end if
-		end if
+if cknum < 4
+	// the extra "\" here is required so selectitem command know it use both words
+	// normaly excudes anything after first word
+	"/selectitem \"whatzit <#" cknum "\" \r"
+		pause 2
+			if logck >= "no item"
+				message "* no whatzit found skipping"
+					goto skipper
+			else if @my.selected_item == "Nothing"
+				message "* something went wrong with item selection"
+					goto skipper
+			else
+				message "* loading " @my.selected_item ""
+					call loader
+						label skipper
+						setglobal cknum + 1
+							if cknum < 5
+								goto reload
+							else
+								setglobal cknum 1
+									call messwatch
+							end if
+			end if
+else
+call messwatch
+end if
 label ender
 }
 
@@ -133,6 +138,8 @@ else if logicnumber == 8
 end if
 }
 
+// key: 0 = false, 1 = true
+// IE if fitler == 0, means if the filter fuction has found nothing then do next line.
 messwatch
 {
 label top
@@ -189,54 +196,54 @@ else if logck >= "a vast amount to learn about the"
 		if fitler == 0
 			call plusck
 		end if
+// you killed a <creature name> and you helped kill a <creature name> filter
 else if logck >= "vanquished a"
 	call filter
 		if fitler == 0
-			call plusit
+			call dswordfilter
 		end if
 else if logck >= "killed a"
 	call filter
 		if fitler == 0
-			call plusit
+			call dswordfilter
 		end if
 else if logck >= "dispatched a"
 	call filter
 		if fitler == 0
-			call plusit
+			call dswordfilter
 		end if
 else if logck >= "slaughtered a"
 	call filter
 		if fitler == 0
-			call plusit
+			call dswordfilter
 		end if
 else if logck >= "vanquish a"
 	call filter
 		if fitler == 0
-			call plusit
+			call dswordfilter
 		end if
 else if logck >= "kill a"
 	call filter
 		if fitler == 0
-			call plusit
+			call dswordfilter
 		end if
 else if logck >= "dispatch a"
 	call filter
 		if fitler == 0
-			call plusit
+			call dswordfilter
 		end if
 else if logck >= "slaughter a"
 	call filter
 		if fitler == 0
-			call plusit
+			call dswordfilter
 		end if
 goto top
 }
 
 filter
 {
+// filters for non server messages, so people can say the message without changing the data.
 // needs timestamp check.
-// creature name filter needs name number checks incase of same first name
-// witch i think i might move to plusit fuction since it will only really be needed there.
 set checklastword logck.num_words
 set checklastletter checklastword.num_letters
 if logck.word[2] == "says,"
@@ -263,73 +270,112 @@ else if logck.word[checklastword].letter[checklastletter] == ")"
 else if logck.word[2].letter[0] == "("
 	setglobal fitler 1
 		goto done
-else if logck.word[15] == dataset[1].word[0]
-	setglobal fitler 0
-		goto done
-else if logck.word[14] == dataset[1].word[0]
-	setglobal fitler 0
-		goto done
-else if logck.word[13] == dataset[1].word[0]
-	setglobal fitler 0
-		goto done
-else if logck.word[12] == dataset[1].word[0]
-	setglobal fitler 0
-		goto done
-else if logck.word[6] == dataset[1].word[0]
-	setglobal fitler 0
-		goto done
-else if logck.word[15] == dataset[2].word[0]
-	setglobal fitler 0
-		goto done
-else if logck.word[14] == dataset[2].word[0]
-	setglobal fitler 0
-		goto done
-else if logck.word[13] == dataset[2].word[0]
-	setglobal fitler 0
-		goto done
-else if logck.word[12] == dataset[2].word[0]
-	setglobal fitler 0
-		goto done
-else if logck.word[6] == dataset[2].word[0]
-	setglobal fitler 0
-		goto done
-else if logck.word[15] == dataset[3].word[0]
-	setglobal fitler 0
-		goto done
-else if logck.word[14] == dataset[3].word[0]
-	setglobal fitler 0
-		goto done
-else if logck.word[13] == dataset[3].word[0]
-	setglobal fitler 0
-		goto done
-else if logck.word[12] == dataset[3].word[0]
-	setglobal fitler 0
-		goto done
-else if logck.word[6] == dataset[3].word[0]
-	setglobal fitler 0
-		goto done
-else if logck.word[15] == dataset[4].word[0]
-	setglobal fitler 0
-		goto done
-else if logck.word[14] == dataset[4].word[0]
-	setglobal fitler 0
-		goto done
-else if logck.word[13] == dataset[4].word[0]
-	setglobal fitler 0
-		goto done
-else if logck.word[12] == dataset[4].word[0]
-	setglobal fitler 0
-		goto done
-else if logck.word[6] == dataset[4].word[0]
-	setglobal fitler 0
-		goto done
 else
 	setglobal fitler 0
 end if
 label done
 }
 
-// needs testing, might need to change some stuff to "else if"
+// finds if any dataset maches the first word at any part of the dataset, if it does check again for exact match.
+// might call scambler for better mach, becuase of the "." at the end of the senance will fail exact match.
+// this will also add to kill number no point adding exta fuction atm.
+// dev messages will be removed later
+dswordfilterkill
+{
+set nameck 1
+message "scan check"
+label top
+if dataset[nameck] != "Nothing"
+	if dataset[nameck] != ""
+		if dataset[nameck] < logck
+			message "matched: " dataset[nameck] ""
+				set addone dataset[nameck]
+				if addone.num_words == 3
+					if addone.word[0] >= logck.word[5]
+						message "Confirmed name match"
+						set addone.word[1] + 1
+							setglobal dataset[nameck] addone
+					else if addone.word[0] >= logck.word[6]
+						message "Confirmed name match"
+						set addone.word[1] + 1
+							setglobal dataset[nameck] addone
+					end if
+				else if addone.num_words == 4
+					if addone.word[0] == logck.word[5]
+						if addone.word[1] >= logck.word[6]
+							message "Confirmed name match"
+							set addone.word[2] + 1
+								setglobal dataset[nameck] addone
+					else if addone.word[0] == logck.word[6]
+						if addone.word[1] >= logck.word[7]
+							message "Confirmed name match"
+							set addone.word[2] + 1
+								setglobal dataset[nameck] addone
+						end if
+					end if
+				else if addone.num_words == 5
+					if addone.word[0] == logck.word[5]
+						if addone.word[1] == logck.word[6]
+							if addone.word[2] >= logck.word[7]
+								message "Confirmed name match"
+								set addone.word[3] + 1
+									setglobal dataset[nameck] addone
+					else if addone.word[0] == logck.word[6]
+						if addone.word[1] == logck.word[7]
+							if addone.word[2] >= logck.word[8]
+								message "Confirmed name match"
+								set addone.word[3] + 1
+									setglobal dataset[nameck] addone
+							end if
+						end if
+					end if
+				else if addone.num_words == 6
+					if addone.word[0] == logck.word[5]
+						if addone.word[1] == logck.word[6]
+							if addone.word[3] == logck.word[7]
+								if addone.word[4] >= logck.word[8]
+									message "Confirmed name match"
+									set addone.word[5] + 1
+										setglobal dataset[nameck] addone
+					else if addone.word[0] == logck.word[6]
+						if addone.word[1] == logck.word[7]
+							if addone.word[3] == logck.word[8]
+								if addone.word[4] >= logck.word[9]
+									message "Confirmed name match"
+									set addone.word[5] + 1
+										setglobal dataset[nameck] addone
+								end if
+							end if
+						end if
+					end if
+				end if
+		else
+			if nameck > 4
+				goto end
+			end if
+			set nameck + 1
+				goto top
+		end if
+	else
+		if nameck > 4
+			goto end
+		end if
+		set nameck + 1
+			goto top
+	end if
+else
+	if nameck > 4
+		goto end
+	end if
+	set nameck + 1
+		goto top
+end if
+label end
+	message "added"
+}
+
+// this is wrong need to be redone.
+// making macro while half alseep not a good idea.
 plusck
 {
 // needs to check for the right dataset, might neednew fucntion for this.
