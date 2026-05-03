@@ -2,8 +2,8 @@
 // this is work in progress, remake of old ingame ranger study tracker.
 // incomplete functions!!!! do not use yet.
 
-// mising functions "Rdataout" and "remover"
-// plusck needs rewirght.
+// missing functions "Rdataout" and "remover"
+// "plusck" needs rewirght.
 
 "/ttt"
 {
@@ -276,7 +276,7 @@ end if
 label done
 }
 
-// finds if any dataset maches the first word at any part of the dataset, if it does check again for exact match.
+// finds if any dataset maches the words from text log (logck) at any part of the dataset, if it does check again for exact match.
 // might call scambler for better mach, becuase of the "." at the end of the senance will fail exact match.
 // this will also add to kill number no point adding exta fuction atm.
 // dev messages will be removed later
@@ -694,6 +694,8 @@ if dataset[Wdata] == ""
 	setglobal dataset[Wdata] + "0"
 	setglobal dataset[Wdata] + " "
 	setglobal dataset[Wdata] + "10"
+	setglobal dataset[Wdata] + " "
+	setglobal dataset[Wdata] + "."
 else
 	if Wdata < 5
 		set Wdata + 1
