@@ -237,6 +237,7 @@ else if logck >= "slaughter a"
 		if fitler == 0
 			call dswordfilter
 		end if
+end if
 goto top
 }
 
@@ -280,7 +281,7 @@ label done
 // might call scambler for better mach, becuase of the "." at the end of the senance will fail exact match.
 // this will also add to kill number no point adding exta fuction atm.
 // dev messages will be removed later
-dswordfilterkill
+dswordfilter
 {
 set nameck 1
 message "scan check"
