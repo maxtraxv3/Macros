@@ -2,8 +2,8 @@
 // this is work in progress, remake of old ingame ranger study tracker.
 // incomplete functions!!!! do not use yet.
 
-// missing functions "Rdataout" and "remover"
-// "plusck" needs rewirght.
+// mising functions "Rdataout" and "remover"
+// plusck needs rewirght.
 
 "/ttt"
 {
@@ -142,6 +142,7 @@ end if
 // IE if fitler == 0, means if the filter fuction has found nothing then do next line.
 messwatch
 {
+message "scanning"
 label top
 set logck @env.textlog
 if logck >= "•You begin studying the"
@@ -213,6 +214,7 @@ else if logck >= "dispatched a"
 			call dswordfilter
 		end if
 else if logck >= "slaughtered a"
+message "trigger"
 	call filter
 		if fitler == 0
 			call dswordfilter
@@ -277,10 +279,13 @@ end if
 label done
 }
 
-// finds if any dataset maches the words from text log (logck) at any part of the dataset, if it does check again for exact match.
+// 5/4/26 6:55:51a You slaughtered a Rat. a s s
+// finds if any dataset maches the first word at any part of the dataset, if it does check again for exact match.
 // might call scambler for better mach, becuase of the "." at the end of the senance will fail exact match.
 // this will also add to kill number no point adding exta fuction atm.
 // dev messages will be removed later
+// forgot there are hidden words and letter in in kills lines will have to make macro to test, this whould of been easy.
+// if logck.word[checklastword].letter[checklastletter] == "." wont works becuase on "You slaughtered a Vermine." there area hidden words at the end.
 dswordfilter
 {
 set nameck 1
@@ -288,27 +293,64 @@ message "scan check"
 label top
 if dataset[nameck] != "Nothing"
 	if dataset[nameck] != ""
-		if dataset[nameck] < logck
-			message "matched: " dataset[nameck] ""
-				set addone dataset[nameck]
+	message "" logck.word[5] "!" dataset[nameck] ""
+		set addone dataset[nameck]
+		if logck.word[checklastword].letter[checklastletter] == "."
+			setglobal badnam logck.word[checklastword]
+				call scramble
+			message "" nama " " addone.word[0] ""
+				if nama == addone.word[1]
+					goto matched
+				else if nama == addone.word[2]
+					goto matched
+				else if nama == addone.word[3]
+					goto matched
+				else if nama == addone.word[4]
+					goto matched
+				else
+					if nameck > 4
+						goto end
+					end if
+					set nameck + 1
+						goto top
+				end if
+		end if
+		label matched
+		message ping3
+			message "matched: " nama " with: " addone.word[0] ""
 				if addone.num_words == 3
-					if addone.word[0] >= logck.word[5]
+					if addone.word[0] == nama
 						message "Confirmed name match"
-						set addone.word[1] + 1
+						set killnum addone.word[1]
+						message "" killnum ""
+						set killnum + 1
+						message "" killnum ""
+						set updatedata addone.word[0]
+						set updatedata + " "
+						set updatedata + " killnum "
+						set updatedata + addone.word[3]
 							setglobal dataset[nameck] addone
+							message "" addone " " dataset[nameck] ""
 					else if addone.word[0] >= logck.word[6]
 						message "Confirmed name match"
-						set addone.word[1] + 1
+						set killnum addone.word[1]
+						set killnum + 1
+						set updatedata addone.word[0]
+						set updatedata + " "
+						set updatedata + killnum
+						set updatedata + addone.word[3]
 							setglobal dataset[nameck] addone
+							message "" addone " " dataset[nameck] ""
 					end if
 				else if addone.num_words == 4
 					if addone.word[0] == logck.word[5]
-						if addone.word[1] >= logck.word[6]
+						if addone.word[1] == nama
 							message "Confirmed name match"
 							set addone.word[2] + 1
 								setglobal dataset[nameck] addone
+						end if
 					else if addone.word[0] == logck.word[6]
-						if addone.word[1] >= logck.word[7]
+						if addone.word[1] == nama
 							message "Confirmed name match"
 							set addone.word[2] + 1
 								setglobal dataset[nameck] addone
@@ -317,13 +359,16 @@ if dataset[nameck] != "Nothing"
 				else if addone.num_words == 5
 					if addone.word[0] == logck.word[5]
 						if addone.word[1] == logck.word[6]
-							if addone.word[2] >= logck.word[7]
+							if addone.word[2] == nama
 								message "Confirmed name match"
 								set addone.word[3] + 1
 									setglobal dataset[nameck] addone
+							end if
+						end if
+					end if
 					else if addone.word[0] == logck.word[6]
 						if addone.word[1] == logck.word[7]
-							if addone.word[2] >= logck.word[8]
+							if addone.word[2] == nama
 								message "Confirmed name match"
 								set addone.word[3] + 1
 									setglobal dataset[nameck] addone
@@ -334,14 +379,17 @@ if dataset[nameck] != "Nothing"
 					if addone.word[0] == logck.word[5]
 						if addone.word[1] == logck.word[6]
 							if addone.word[3] == logck.word[7]
-								if addone.word[4] >= logck.word[8]
+								if addone.word[4] == nama
 									message "Confirmed name match"
 									set addone.word[5] + 1
 										setglobal dataset[nameck] addone
+								end if
+							end if
+						end if
 					else if addone.word[0] == logck.word[6]
 						if addone.word[1] == logck.word[7]
 							if addone.word[3] == logck.word[8]
-								if addone.word[4] >= logck.word[9]
+								if addone.word[4] == nama
 									message "Confirmed name match"
 									set addone.word[5] + 1
 										setglobal dataset[nameck] addone
@@ -350,13 +398,6 @@ if dataset[nameck] != "Nothing"
 						end if
 					end if
 				end if
-		else
-			if nameck > 4
-				goto end
-			end if
-			set nameck + 1
-				goto top
-		end if
 	else
 		if nameck > 4
 			goto end
@@ -695,8 +736,6 @@ if dataset[Wdata] == ""
 	setglobal dataset[Wdata] + "0"
 	setglobal dataset[Wdata] + " "
 	setglobal dataset[Wdata] + "10"
-	setglobal dataset[Wdata] + " "
-	setglobal dataset[Wdata] + "."
 else
 	if Wdata < 5
 		set Wdata + 1
@@ -713,74 +752,75 @@ label endish
 // checks up to 14 letters for creatures
 scramble
 {
+message ping4
 if badnam.letter[1] != ""
 	if badnam.letter[1] != "."
-		set nama badnam.letter[1]
+		setglobal nama badnam.letter[1]
 	end if
 end if
 if badnam.letter[2] != ""
 	if badnam.letter[2] != "."
-		set nama + badnam.letter[2]
+		setglobal nama + badnam.letter[2]
 	end if
 end if
 if badnam.letter[3] != ""
 	if badnam.letter[3] != "."
-		set nama + badnam.letter[3]
+		setglobal nama + badnam.letter[3]
 	end if
 end if
 if badnam.letter[4] != ""
 	if badnam.letter[4] != "."
-		set nama + badnam.letter[4]
+		setglobal nama + badnam.letter[4]
 	end if
 end if
 if badnam.letter[5] != ""
 	if badnam.letter[5] != "."
-		set nama + badnam.letter[5]
+		setglobal nama + badnam.letter[5]
 	end if
 end if
 if badnam.letter[6] != ""
 	if badnam.letter[6] != "."
-		set nama + badnam.letter[6]
+		setglobal nama + badnam.letter[6]
 	end if
 end if
 if badnam.letter[7] != ""
 	if badnam.letter[7] != "."
-		set nama + badnam.letter[7]
+		setglobal nama + badnam.letter[7]
 	end if
 end if
 if badnam.letter[8] != ""
 	if badnam.letter[8] != "."
-		set nama + badnam.letter[8]
+		setglobal nama + badnam.letter[8]
 	end if
 end if
 if badnam.letter[9] != ""
 	if badnam.letter[9] != "."
-		set nama + badnam.letter[9]
+		setglobal nama + badnam.letter[9]
 	end if
 end if
 if badnam.letter[10] != ""
 	if badnam.letter[10] != "."
-		set nama + badnam.letter[10]
+		setglobal nama + badnam.letter[10]
 	end if
 end if
 if badnam.letter[11] != ""
 	if badnam.letter[11] != "."
-		set nama + badnam.letter[11]
+		setglobal nama + badnam.letter[11]
 	end if
 end if
 if badnam.letter[12] != ""
 	if badnam.letter[12] != "."
-		set nama + badnam.letter[12]
+		setglobal nama + badnam.letter[12]
 	end if
 end if
 if badnam.letter[13] != ""
 	if badnam.letter[13] != "."
-		set nama + badnam.letter[13]
+		setglobal nama + badnam.letter[13]
 	end if
 end if
 if badnam.letter[14] != ""
 	if badnam.letter[14] != "."
-		set nama + badnam.letter[14]
+		setglobal nama + badnam.letter[14]
 	end if
 end if
 }
