@@ -128,7 +128,10 @@ end if
 // "message:" not setup yet.
 set checkname dataset[cknum]
 if logicnumber == 5
-	message "Loaded Creature:" checkname.word[0] "Last hits:" checkname.word[1] " message: message number:" checkname.word[2].letter[1] " "
+	message "Loaded Creature:" checkname.word[0] ""
+	message "Last hits:" checkname.word[1] ""
+	message "message: "
+	message "message number:" checkname.word[2].letter[1] " "
 else if logicnumber == 6
 	message "Loaded Creature: " checkname.word[0] " " checkname.word[1] " Last hits: " checkname.word[2] " message: message number: " checkname.word[3].letter[1] ""
 else if logicnumber == 7
@@ -279,13 +282,11 @@ end if
 label done
 }
 
-// 5/4/26 6:55:51a You slaughtered a Rat. a s s
+
+// "5/4/26 6:55:51a You slaughtered a Rat./ /" <-- full line, this might be a bug from the client.
 // finds if any dataset maches the first word at any part of the dataset, if it does check again for exact match.
-// might call scambler for better mach, becuase of the "." at the end of the senance will fail exact match.
-// this will also add to kill number no point adding exta fuction atm.
+// this will also add to kill number in temp memory. this is not working atm.
 // dev messages will be removed later
-// forgot there are hidden words and letter in in kills lines will have to make macro to test, this whould of been easy.
-// if logck.word[checklastword].letter[checklastletter] == "." wont works becuase on "You slaughtered a Vermine." there area hidden words at the end.
 dswordfilter
 {
 set nameck 1
@@ -293,44 +294,48 @@ message "scan check"
 label top
 if dataset[nameck] != "Nothing"
 	if dataset[nameck] != ""
-	message "" logck.word[5] "!" dataset[nameck] ""
+	message "textlog: " logck.word[5] " ! dataset: " dataset[nameck] ""
 		set addone dataset[nameck]
-		if logck.word[checklastword].letter[checklastletter] == "."
-			setglobal badnam logck.word[checklastword]
-				call scramble
-			message "" nama " " addone.word[0] ""
-				if nama == addone.word[1]
-					goto matched
-				else if nama == addone.word[2]
-					goto matched
-				else if nama == addone.word[3]
-					goto matched
-				else if nama == addone.word[4]
-					goto matched
-				else
-					if nameck > 4
-						goto end
+		set secondlastword checklastword
+		set secondlastword - 1
+			if logck.word[secondlastword] >= "."
+				setglobal badnam logck.word[secondlastword]
+					call scramble
+					message "recall from scramble:" nama "!!! name one resaved data:" addone.word[0] " "
+					if nama == addone.word[0]
+						goto matched
+					else if nama == addone.word[1]
+						goto matched
+					else if nama == addone.word[2]
+						goto matched
+					else if nama == addone.word[3]
+						goto matched
+					else
+						message "no match; next!"
+						if nameck > 4
+							goto end
+						end if
+						set nameck + 1
+							goto top
 					end if
-					set nameck + 1
-						goto top
-				end if
-		end if
+			else
+				message "failed " secondlastletternum " " secondlastword " " logck.word[secondlastword] " " logck.word[secondlastword].letter[secondlastletternum] ""
+					goto end
+			end if
 		label matched
-		message ping3
 			message "matched: " nama " with: " addone.word[0] ""
 				if addone.num_words == 3
 					if addone.word[0] == nama
 						message "Confirmed name match"
 						set killnum addone.word[1]
-						message "" killnum ""
 						set killnum + 1
-						message "" killnum ""
 						set updatedata addone.word[0]
 						set updatedata + " "
-						set updatedata + " killnum "
-						set updatedata + addone.word[3]
-							setglobal dataset[nameck] addone
-							message "" addone " " dataset[nameck] ""
+						set updatedata + killnum
+						set updatedata + " "
+						set updatedata + addone.word[2]
+							setglobal dataset[nameck] updatedata
+							message "Oringal data: " dataset[nameck] " dataset selected: " nameck " Saved data: " addone " Updated data: " updatedata ""
 					else if addone.word[0] >= logck.word[6]
 						message "Confirmed name match"
 						set killnum addone.word[1]
@@ -338,9 +343,10 @@ if dataset[nameck] != "Nothing"
 						set updatedata addone.word[0]
 						set updatedata + " "
 						set updatedata + killnum
-						set updatedata + addone.word[3]
-							setglobal dataset[nameck] addone
-							message "" addone " " dataset[nameck] ""
+						set updatedata + " "
+						set updatedata + addone.word[2]
+							setglobal dataset[nameck] updatedata
+							message "Oringal data: " dataset[nameck] " dataset selected: " nameck " Saved data: " addone " Updated data: " updatedata ""
 					end if
 				else if addone.num_words == 4
 					if addone.word[0] == logck.word[5]
@@ -365,7 +371,6 @@ if dataset[nameck] != "Nothing"
 									setglobal dataset[nameck] addone
 							end if
 						end if
-					end if
 					else if addone.word[0] == logck.word[6]
 						if addone.word[1] == logck.word[7]
 							if addone.word[2] == nama
@@ -399,6 +404,7 @@ if dataset[nameck] != "Nothing"
 					end if
 				end if
 	else
+		message "no match; next!"
 		if nameck > 4
 			goto end
 		end if
@@ -406,6 +412,7 @@ if dataset[nameck] != "Nothing"
 			goto top
 	end if
 else
+	message "no match; next!"
 	if nameck > 4
 		goto end
 	end if
@@ -413,7 +420,7 @@ else
 		goto top
 end if
 label end
-	message "added"
+	message "done"
 }
 
 // this is wrong need to be redone.
@@ -749,13 +756,18 @@ label endish
 
 
 // Scramble goes though each letter and re-add's it to a local set name til it finds a "." then ends
-// checks up to 14 letters for creatures
+// checks up to 15 letters for creatures
 scramble
 {
-message ping4
+message "removing dot"
+if badnam.letter[0] != ""
+	if badnam.letter[0] != "."
+		setglobal nama badnam.letter[0]
+	end if
+end if
 if badnam.letter[1] != ""
 	if badnam.letter[1] != "."
-		setglobal nama badnam.letter[1]
+		setglobal nama + badnam.letter[1]
 	end if
 end if
 if badnam.letter[2] != ""
