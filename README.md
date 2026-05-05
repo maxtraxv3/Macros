@@ -1,12 +1,9 @@
-20/03/2026: New: Tab Targetinhg for Healers in "expermental"
-__________________________________________________________________________________________
-19/03/2026: modifyed: Default; in "Automation"
-_____________________________ fix for new server slow down on frame times.
-__________________________________________________________________________________________
+| being worked on:  |
+| ------------- |
+| Tab Targeting for Hrealers |
+| Share Auto Thanker |
+| new toggle macro for champions, with timeouts |
+| Ranger Study Tracker |
 
-old: added new toggle macro for champions:  still working on one with time out messages
-__________________________________________________________________________________________
-being worked on:
-________________Share Auto Thanker
-________________Tab Targetinhg for Hrealers 
-__________________________________________________________________________________________
+| New:  |
+| toggle macro for champions |
