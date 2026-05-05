@@ -6,4 +6,5 @@
 | Ranger Study Tracker |
 
 | New:  |
+| ------------- |
 | toggle macro for champions |
