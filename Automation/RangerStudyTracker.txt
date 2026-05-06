@@ -282,10 +282,10 @@ end if
 label done
 }
 
-
-// "5/4/26 6:55:51a You slaughtered a Rat./ /" <-- full line, this might be a bug from the client.
+// "5/4/26 6:55:51a You slaughtered a Rat. \ \" <-- full line, this might be a bug from the client. 
+// "Rat. \" is one word might be bigger then this. there are 6 words, you can only see 5
 // finds if any dataset maches the first word at any part of the dataset, if it does check again for exact match.
-// this will also add to kill number in temp memory. this is not working atm.
+// this will also add to kill number no point adding exta fuction atm, at lest in temp memory.
 // dev messages will be removed later
 dswordfilter
 {
@@ -294,124 +294,127 @@ message "scan check"
 label top
 if dataset[nameck] != "Nothing"
 	if dataset[nameck] != ""
-	message "textlog: " logck.word[5] " ! dataset: " dataset[nameck] ""
+	message "checking"
 		set addone dataset[nameck]
 		set secondlastword checklastword
 		set secondlastword - 1
 			if logck.word[secondlastword] >= "."
-				setglobal badnam logck.word[secondlastword]
-					call scramble
-					message "recall from scramble:" nama "!!! name one resaved data:" addone.word[0] " "
-					if nama == addone.word[0]
-						goto matched
-					else if nama == addone.word[1]
-						goto matched
-					else if nama == addone.word[2]
-						goto matched
-					else if nama == addone.word[3]
-						goto matched
-					else
-						message "no match; next!"
-						if nameck > 4
-							goto end
+				set allbutoneword logck.num_words
+					setglobal badnam logck.word[secondlastword]
+						call scramble
+						message "recall from scramble:" nama "!!! name one resaved data: " addone.word[0] ""
+						if allbutoneword == 6
+							if nama == addone.word[0]
+								set matchedname addone.word[0]
+								goto matched
+							else
+								goto cknext
+							end if
+						else if allbutoneword == 7
+							if nama == addone.word[1]
+								set matchedname addone.word[1]
+								goto matched
+							else
+								goto cknext
+							end if
+						else if allbutoneword == 8
+							if nama == addone.word[2]
+								set matchedname addone.word[2]
+								goto matched
+							else
+								goto cknext
+							end if
+						else if allbutoneword == 9
+							if nama == addone.word[3]
+								set matchedname addone.word[3]
+								goto matched
+							else
+								goto cknext
+							end if
+						else
+							goto cknext
 						end if
-						set nameck + 1
-							goto top
-					end if
 			else
 				message "failed " secondlastletternum " " secondlastword " " logck.word[secondlastword] " " logck.word[secondlastword].letter[secondlastletternum] ""
 					goto end
 			end if
 		label matched
-			message "matched: " nama " with: " addone.word[0] ""
-				if addone.num_words == 3
+		// becuase the the whole thing is aved as a "string" IE it think its saves as words(yes even the numbers)
+		// we have pull out the number save it, add to it, resave the string in the same way.
+		// this is when save it to the waszit its easyer to do. 
+			message "matched: " nama " with: " matchedname ""
+				if allbutoneword == 6
 					if addone.word[0] == nama
 						message "Confirmed name match"
-						set killnum addone.word[1]
+							set killnum addone.word[1]
+							set killnum + 1
+								setglobal dataseat addone.word[0]
+								setglobal dataseat + " "
+								setglobal dataseat + killnum
+								setglobal dataseat + " "
+								setglobal dataseat + addone.word[2]
+									call updater
+					else
+						message "how in the chicken duck. 6"
+					end if
+				else if allbutoneword == 7
+					if addone.word[1] == nama
+						set killnum addone.word[2]
 						set killnum + 1
-						set updatedata addone.word[0]
-						set updatedata + " "
-						set updatedata + killnum
-						set updatedata + " "
-						set updatedata + addone.word[2]
-							setglobal dataset[nameck] updatedata
-							message "Oringal data: " dataset[nameck] " dataset selected: " nameck " Saved data: " addone " Updated data: " updatedata ""
-					else if addone.word[0] >= logck.word[6]
-						message "Confirmed name match"
-						set killnum addone.word[1]
+							setglobal dataseat addone.word[0]
+							setglobal dataseat + " "
+							setglobal dataseat addone.word[1]
+							setglobal dataseat + " "
+							setglobal dataseat + killnum
+							setglobal dataseat + " "
+							setglobal dataseat + addone.word[3]
+								call updater
+					else
+						message "how in the chicken duck. 7"
+					end if
+				else if allbutoneword == 8
+					if addone.word[2] == nama
+						set killnum addone.word[3]
 						set killnum + 1
-						set updatedata addone.word[0]
-						set updatedata + " "
-						set updatedata + killnum
-						set updatedata + " "
-						set updatedata + addone.word[2]
-							setglobal dataset[nameck] updatedata
-							message "Oringal data: " dataset[nameck] " dataset selected: " nameck " Saved data: " addone " Updated data: " updatedata ""
+							setglobal dataseat addone.word[0]
+							setglobal dataseat + " "
+							setglobal dataseat addone.word[1]
+							setglobal dataseat + " "
+							setglobal dataseat addone.word[2]
+							setglobal dataseat + " "
+							setglobal dataseat + killnum
+							setglobal dataseat + " "
+							setglobal dataseat + addone.word[4]
+								call updater
+					else
+						message "how in the chicken duck."
 					end if
-				else if addone.num_words == 4
-					if addone.word[0] == logck.word[5]
-						if addone.word[1] == nama
-							message "Confirmed name match"
-							set addone.word[2] + 1
-								setglobal dataset[nameck] addone
-						end if
-					else if addone.word[0] == logck.word[6]
-						if addone.word[1] == nama
-							message "Confirmed name match"
-							set addone.word[2] + 1
-								setglobal dataset[nameck] addone
-						end if
+				else if allbutoneword == 9
+					if addone.word[3] == nama
+						set killnum addone.word[4]
+						set killnum + 1
+							setglobal dataseat addone.word[0]
+							setglobal dataseat + " "
+							setglobal dataseat addone.word[1]
+							setglobal dataseat + " "
+							setglobal dataseat addone.word[2]
+							setglobal dataseat + " "
+							setglobal dataseat addone.word[3]
+							setglobal dataseat + " "
+							setglobal dataseat + killnum
+							setglobal dataseat + " "
+							setglobal dataseat + addone.word[5]
+								call updater
+					else
+						message "how in the chicken duck."
 					end if
-				else if addone.num_words == 5
-					if addone.word[0] == logck.word[5]
-						if addone.word[1] == logck.word[6]
-							if addone.word[2] == nama
-								message "Confirmed name match"
-								set addone.word[3] + 1
-									setglobal dataset[nameck] addone
-							end if
-						end if
-					else if addone.word[0] == logck.word[6]
-						if addone.word[1] == logck.word[7]
-							if addone.word[2] == nama
-								message "Confirmed name match"
-								set addone.word[3] + 1
-									setglobal dataset[nameck] addone
-							end if
-						end if
-					end if
-				else if addone.num_words == 6
-					if addone.word[0] == logck.word[5]
-						if addone.word[1] == logck.word[6]
-							if addone.word[3] == logck.word[7]
-								if addone.word[4] == nama
-									message "Confirmed name match"
-									set addone.word[5] + 1
-										setglobal dataset[nameck] addone
-								end if
-							end if
-						end if
-					else if addone.word[0] == logck.word[6]
-						if addone.word[1] == logck.word[7]
-							if addone.word[3] == logck.word[8]
-								if addone.word[4] == nama
-									message "Confirmed name match"
-									set addone.word[5] + 1
-										setglobal dataset[nameck] addone
-								end if
-							end if
-						end if
-					end if
+				else
+					message "we dun fudged up som'tink"
 				end if
 	else
-		message "no match; next!"
-		if nameck > 4
-			goto end
-		end if
-		set nameck + 1
-			goto top
-	end if
+		goto cknext
 else
+	label cknext
 	message "no match; next!"
 	if nameck > 4
 		goto end
@@ -752,6 +755,21 @@ else
 	end if
 end if
 label endish
+}
+
+// for some reson you cant just save the info with "setglobal dataset[numberchanger] dataseat" needs the raw name.
+updater
+{
+if nameck == 1
+	setglobal dataset[1] dataseat
+else if nameck == 2
+	setglobal dataset[2] dataseat
+else if nameck == 3
+	setglobal dataset[3] dataseat
+else if nameck == 4
+	setglobal dataset[4] dataseat
+end if
+	message "data updated: " dataset[nameck] ""
 }
 
 
