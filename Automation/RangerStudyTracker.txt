@@ -60,6 +60,7 @@ label ender
 
 loader
 {
+// might need more error checks
 // This check length of text to tell how many "name's" the creature has
 // longest creater name is 4 words
 if @my.selected_item.word[5] == ".>"
@@ -73,11 +74,15 @@ else if @my.selected_item.word[8] == ".>"
 end if
 // Save data into temp memory
 if logicnumber == 5
-	setglobal dataset[cknum] @my.selected_item.word[2]
-	setglobal dataset[cknum] + " "
-	setglobal dataset[cknum] + @my.selected_item.word[3]
-	setglobal dataset[cknum] + " "
-	setglobal dataset[cknum] + @my.selected_item.word[4]
+	if @my.selected_item.word[2] != ""
+		setglobal dataset[cknum] @my.selected_item.word[2]
+		setglobal dataset[cknum] + " "
+		setglobal dataset[cknum] + @my.selected_item.word[3]
+		setglobal dataset[cknum] + " "
+		setglobal dataset[cknum] + @my.selected_item.word[4]
+	else
+		goto stopL
+	end if
 else if logicnumber == 6
 	setglobal dataset[cknum] @my.selected_item.word[2]
 	setglobal dataset[cknum] + " "
@@ -139,6 +144,8 @@ else if logicnumber == 7
 else if logicnumber == 8
 	message "Loaded Creature: " checkname.word[0] " " checkname.word[1] " " checkname.word[2] " " dataset[cknum].word[3] " Last hits: " checkname.word[4] " message: message number: " checkname.word[5].letter[1] ""
 end if
+label stopL
+	message "No or incomplete data on:" @my.selected_item ""
 }
 
 // key: 0 = false, 1 = true
