@@ -71,6 +71,8 @@ else if @my.selected_item.word[7] == ".>"
 	set logicnumber 7
 else if @my.selected_item.word[8] == ".>"
 	set logicnumber 8
+else
+	goto stopL
 end if
 // Save data into temp memory
 if logicnumber == 5
