@@ -1,8 +1,8 @@
 // ranger study tracker, by Magnic
-// this is work in progress, remake of old ingame ranger study tracker.
+// this is work in progress, remake of my old ingame ranger study tracker.
 // incomplete functions!!!! do not use yet.
 
-// mising functions "Rdataout" and "remover"
+// mising functions "remover"
 // plusck needs rewirght.
 
 "/ttt"
@@ -58,6 +58,7 @@ end if
 label ender
 }
 
+//might need to conver selected item into saved data, so can show correct error messages
 loader
 {
 // might need more error checks
@@ -140,11 +141,20 @@ if logicnumber == 5
 	message "message: "
 	message "message number:" checkname.word[2].letter[1] " "
 else if logicnumber == 6
-	message "Loaded Creature: " checkname.word[0] " " checkname.word[1] " Last hits: " checkname.word[2] " message: message number: " checkname.word[3].letter[1] ""
+	message "Loaded Creature: " checkname.word[0] " " checkname.word[1] ""
+	message "Last hits: " checkname.word[2] ""
+	message "message: "
+	message "message number: " checkname.word[3].letter[1] ""
 else if logicnumber == 7
-	message "Loaded Creature: " checkname.word[0] " " checkname.word[1] " " checkname.word[2] " Last hits: " checkname.word[3] " message: message number: " checkname.word[4].letter[1] ""
+	message "Loaded Creature: " checkname.word[0] " " checkname.word[1] " " checkname.word[2] ""
+	message "Last hits: " checkname.word[3] ""
+	message "message: "
+	message "message number: " checkname.word[4].letter[1] ""
 else if logicnumber == 8
-	message "Loaded Creature: " checkname.word[0] " " checkname.word[1] " " checkname.word[2] " " dataset[cknum].word[3] " Last hits: " checkname.word[4] " message: message number: " checkname.word[5].letter[1] ""
+	message "Loaded Creature: " checkname.word[0] " " checkname.word[1] " " checkname.word[2] " " dataset[cknum].word[3] ""
+	message "Last hits: " checkname.word[4] ""
+	message "message: "
+	message "message number: " checkname.word[5].letter[1] ""
 end if
 label stopL
 	message "No or incomplete data on:" @my.selected_item ""
@@ -155,6 +165,7 @@ label stopL
 messwatch
 {
 message "scanning"
+set timesupwrightout 0
 label top
 set logck @env.textlog
 if logck >= "•You begin studying the"
@@ -251,7 +262,26 @@ else if logck >= "slaughter a"
 		if fitler == 0
 			call dswordfilter
 		end if
+// save to whatzits every 5 mins(?)
+else if timesupwrightout == 9000
+	message "hardsave commenced"
+		setglobal cknum 1
+			label nextW
+			if cknum < 4
+				"/selectitem \"whatzit <#" cknum "\" \r"
+					set savename dataset[cknum]
+						"/name " savename " . \r"
+							if cknum < 5
+								setglobal cknum + 1
+									goto nextW
+							else
+								set timesupwrightout 0
+							end if
+			else
+				set timesupwrightout 0
+			end if
 end if
+set timesupwrightout + 1
 goto top
 }
 
