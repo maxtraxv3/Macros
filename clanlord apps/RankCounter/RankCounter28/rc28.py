@@ -11,6 +11,41 @@ import json
 import time
 import csv
 
+# ----------------------------------------------------------------------
+# ---------------------- GLOBAL DATA / CONSTANTS -----------------------
+# ----------------------------------------------------------------------
+
+# Stage helpers (module scope)
+STAGE_PHRASES = ["movements", "ways", "essence"]
+
+def _build_stage_index():
+    idx = {}
+    for phrase in STAGE_PHRASES:
+        if "movements" in phrase:
+            idx[phrase] = 0
+        elif "ways" in phrase:
+            idx[phrase] = 1
+        elif "essence" in phrase:
+            idx[phrase] = 2
+        else:
+            idx[phrase] = 0
+    return idx
+
+_STAGE_INDEX = _build_stage_index()
+
+def _get_stage_index_for_template(template_text: str) -> int:
+    t = template_text.lower()
+    if "movements" in t:
+        return 0
+    if "ways" in t:
+        return 1
+    if "essence" in t:
+        return 2
+    for phrase, i in _STAGE_INDEX.items():
+        if phrase in t:
+            return i
+    return 0
+
 kills_to_next = {
     "almost nothing left to learn about the movements of the": {1:4,2:2,3:2,4:2,5:2},
     "almost nothing left to learn about the ways of the": {1:4,2:2,3:2,4:2,5:2},
@@ -39,10 +74,8 @@ kills_to_next = {
     "a vast amount to learn about the essence of the": {1:100,2:100,3:100,4:100,5:100,6:100}
 }
 
-
 CHAR_FILE = "characters.json"
 character_ranks = {}
-character_creatures = {}
 
 def resource_path(relative_path):
     """ Get absolute path to resource, works for dev and for PyInstaller """
@@ -73,6 +106,7 @@ def smart_read_file(path, encodings=('utf-8', 'mac_roman')):
     raise last_exc
 
 # -- Paths & Globals ---------------------------------------------------------
+
 words_file_path       = resource_path('rankmessages.txt')
 replacement_file_path = resource_path('trainers.txt')
 special_file_path     = resource_path('specialphrases.txt')
@@ -85,7 +119,9 @@ character_creatures= {}     # Stores creature data
 character_ignored  = {}     # Stores ignored creatures
 current_folder_name= None
 executor           = concurrent.futures.ThreadPoolExecutor(max_workers=4)
-#-- coins counter ------------------------------------------------------------
+
+# -- Coins counter -----------------------------------------------------------
+
 merged_skinned = 0
 merged_share = 0
 merged_coin_events = []
@@ -98,7 +134,7 @@ def save_characters():
             "ranks": character_ranks.get(name, {}),
             "creatures": character_creatures.get(name, {}),
             "ignored": character_ignored.get(name, []),
-            "kills_table": kills_to_next,  
+            "kills_table": kills_to_next,
             "last_scan_time": time.time(),
         }
     with open(CHAR_FILE, "w", encoding="utf-8") as f:
@@ -162,7 +198,6 @@ def open_file_with_default_app(file_path):
             Popen(['xdg-open', file_path])
     except Exception as e:
         messagebox.showerror("Error", f"Failed to open file: {e}")
-        
 
 def get_min_time_from_filter(filter_value):
     now = time.time()
@@ -185,13 +220,11 @@ def get_min_time_from_filter(filter_value):
 def read_words_from_file(file_path):
     if not os.path.exists(file_path):
         raise FileNotFoundError(f"File not found: {file_path}")
-    # This filters out any empty lines or lines that are just whitespace
     lines = [line.strip() for line in smart_read_file(file_path).splitlines()]
     return [l for l in lines if l]
 
 def read_text_files(folder_path):
     texts = []
-
     files = sorted(
         os.listdir(folder_path),
         key=lambda f: os.path.getmtime(os.path.join(folder_path, f))
@@ -213,15 +246,17 @@ def read_text_files(folder_path):
 
 def count_word_occurrences(texts, words):
     counts = {w: 0 for w in words}
-    for content, _ in texts:  # Unpack the tuple here
+    for content, _ in texts:
         for line in content.splitlines():
             if is_excluded(line):
                 continue
             for w in words:
                 counts[w] += line.count(w)
     return counts
+# ----------------------------------------------------------------------
+# ---------------------- CORE PARSING / COUNTS ------------------------
+# ----------------------------------------------------------------------
 
-# -- Special-Line Counter (nested dict: last phrase + count) -----------------
 def count_special_lines(texts):
     import re
 
@@ -234,17 +269,14 @@ def count_special_lines(texts):
     # Strip timestamps
     ts_strip = re.compile(r'^\[?\d{1,2}:\d{2}:\d{2}\w?\]?\s*[•>:-]*\s*')
 
-    # Progression regex
-    prog_rx = re.compile(
-        r'you have .*? about the (ways|movements|essence) of the (.+?)\.\s*$',
-        re.IGNORECASE
-    )
-
     # Kill message regex
     KILL_RX = re.compile(
         r"(?:you|you helped)\s+(?:slaughtered|dispatched|killed|vanquished)\s+the\s+(.+?)\.",
         re.IGNORECASE
     )
+
+    # Stage ordering for filtering (used earlier in the function)
+    stage_order = {"movements": 1, "ways": 2, "essence": 3}
 
     # Count kills per creature
     kill_counts = {}
@@ -256,182 +288,191 @@ def count_special_lines(texts):
                 kill_counts[creature] = kill_counts.get(creature, 0) + 1
 
     special = {}
-    exclude = {"ways": set(), "movements": set(), "essence": set()}
     study_state = {}
-    pending_apply = {}
-    bonus_ranks = {}
+    current_stage = {}
 
     def norm(s: str) -> str:
-        s = s.strip()
-        s = re.sub(r'[^\w\s\'-]', '', s)
+        s = re.sub(r'[^\w\s\'-]', '', s.strip())
         return s.lower()
 
     # MAIN LOOP
     for content, _ in texts:
         for raw_line in content.splitlines():
             line = ts_strip.sub('', raw_line.strip())
-            if is_excluded(line):
-                continue
             low = line.lower()
 
-            # Apply-learning start
-            if "would you like to apply some of your learning to" in low:
-                m = re.search(r"apply some of your learning to (.+?)’s lessons", line)
-                if m:
-                    pending_apply[norm(m.group(1))] = True
-                continue
-
-            # Apply-learning confirmation
-            if "you should now understand much more of" in low:
-                m = re.search(r"much more of (.+?)’s teachings", line)
-                if m:
-                    t = norm(m.group(1))
-                    if pending_apply.get(t):
-                        bonus_ranks[t] = bonus_ranks.get(t, 0) + 1
-                        pending_apply[t] = False
+            if is_excluded(line):
                 continue
 
             # Study begin/abandon
             if "you abandon your study of the" in low:
                 m = re.search(r"you abandon your study of the (.+?)\.", low)
                 if m:
-                    study_state[norm(m.group(1))] = False
-                continue
-
-            if "you begin studying the ways of the" in low:
-                m = re.search(r"you begin studying the ways of the (.+?)\.", low)
-                if m:
-                    study_state[norm(m.group(1))] = True
+                    creature = norm(m.group(1))
+                    study_state[creature] = False
+                    current_stage[creature] = 0
                 continue
 
             if "you begin studying the movements of the" in low:
                 m = re.search(r"you begin studying the movements of the (.+?)\.", low)
                 if m:
-                    study_state[norm(m.group(1))] = True
+                    c = norm(m.group(1))
+                    study_state[c] = True
+                    current_stage[c] = stage_order["movements"]
+                continue
+
+            if "you begin studying the ways of the" in low:
+                m = re.search(r"you begin studying the ways of the (.+?)\.", low)
+                if m:
+                    c = norm(m.group(1))
+                    study_state[c] = True
+                    current_stage[c] = stage_order["ways"]
                 continue
 
             if "you begin studying the essence of the" in low:
                 m = re.search(r"you begin studying the essence of the (.+?)\.", low)
                 if m:
-                    study_state[norm(m.group(1))] = True
-                continue
-
-            # Training exclusions
-            if "you learn to fight the" in low and "more effectively" in low:
-                m = re.search(r"you learn to fight the (.+?) more effectively", low)
-                if m:
-                    exclude["movements"].add(norm(m.group(1)))
-                continue
-
-            if "you learn to befriend the" in low:
-                m = re.search(r"you learn to befriend the (.+?)\.", low)
-                if m:
-                    exclude["ways"].add(norm(m.group(1)))
-                continue
-
-            if "you learn to assume the form of the" in low:
-                m = re.search(r"you learn to assume the form of the (.+?)\.", low)
-                if m:
-                    exclude["essence"].add(norm(m.group(1)))
+                    c = norm(m.group(1))
+                    study_state[c] = True
+                    current_stage[c] = stage_order["essence"]
                 continue
 
             if "you have " not in low:
                 continue
 
-            # Regex-based progression
-            pm = prog_rx.search(low)
-            parsed_category = None
-            parsed_monster = None
-            if pm:
-                parsed_category = pm.group(1).lower()
-                parsed_monster = norm(pm.group(2))
-
-                if study_state.get(parsed_monster) is False:
-                    continue
-                if parsed_monster in exclude.get(parsed_category, set()):
-                    continue
-
             # Phrase-based fallback
             try:
-                idx = low.index('you have ')
-                after = line[idx + len('you have '):].strip()
+                idx = low.index("you have ")
+                after = line[idx + len("you have "):].strip()
             except ValueError:
                 continue
 
-            for idx, phrase_lc in enumerate(phrases_lc):
+            for pidx, phrase_lc in enumerate(phrases_lc):
                 if after.lower().startswith(phrase_lc):
-                    orig_phrase = phrases[idx]
-                    phrase_key = orig_phrase.lower()
-
+                    orig_phrase = phrases[pidx]
                     rest = after[len(phrase_lc):].lstrip()
                     trainer = rest.split('.', 1)[0].strip()
                     trainer_clean = norm(trainer)
-
                     if not trainer_clean:
                         break
 
+                    full_phrase = f"{phrase_lc} {trainer_clean}"
+                    if not after.lower().startswith(full_phrase):
+                        continue
+
                     found = next((t for t in types if t in orig_phrase.lower()), None)
-                    first4 = ' '.join(orig_phrase.split()[:4])
 
-                    # Count message number
-                    if trainer_clean not in special:
-                        special[trainer_clean] = {
-                            "label": "",
-                            "display_label": "",
-                            "count": 1,
-                            "kills_left": None
-                        }
+                    # Stage filtering (ignore messages from earlier stages)
+                    if found:
+                        creature_stage = current_stage.get(trainer_clean, 1)
+                        message_stage = stage_order[found]
+                        if message_stage < creature_stage:
+                            continue
+
+                    template = orig_phrase.lower().strip()
+
+                    trainer_bucket = special.setdefault(trainer_clean, {})
+                    creature_bucket = trainer_bucket.setdefault(found, {"stage": None, "counts": {}})
+
+                    incoming_stage = _get_stage_index_for_template(template)
+
+                    if creature_bucket["stage"] is None:
+                        creature_bucket["stage"] = incoming_stage
+                        creature_bucket["counts"][template] = creature_bucket["counts"].get(template, 0) + 1
                     else:
-                        special[trainer_clean]["count"] += 1
+                        current_stage_val = creature_bucket["stage"]
+                        if incoming_stage < current_stage_val:
+                            # Older stage message — ignore
+                            pass
+                        elif incoming_stage > current_stage_val:
+                            # Newer stage reached — promote and reset counts to only this template
+                            creature_bucket["stage"] = incoming_stage
+                            creature_bucket["counts"] = {template: 1}
+                        else:
+                            # Same stage — accumulate
+                            creature_bucket["counts"][template] = creature_bucket["counts"].get(template, 0) + 1
 
-                    phrase_key = orig_phrase.lower()
-                    msg_num = special[trainer_clean]["count"]
+                    # msg_num is the count for this template (after stage logic)
+                    msg_num = creature_bucket["counts"].get(template, 0)
 
-                    kills_required = kills_to_next.get(phrase_key, {}).get(msg_num)
+                    # Kills left
+                    kills_required = kills_to_next.get(template, {}).get(msg_num)
                     kills_since_last = kill_counts.get(trainer_clean, 0)
-
-                    if kills_required is not None:
-                        kills_left = max(kills_required - kills_since_last, 0)
-                    else:
-                        kills_left = None
-
-                    special[trainer_clean]["kills_left"] = kills_left
+                    kills_left = (
+                        max(kills_required - kills_since_last, 0)
+                        if kills_required is not None
+                        else None
+                    )
 
                     # Build display label
+                    first4 = " ".join(orig_phrase.split()[:4])
                     display_map = {
                         "ways": "ways (befriend)",
                         "essence": "essence (morph)",
-                        "movements": "movements"
+                        "movements": "movements",
                     }
 
                     if found:
-                        label = f"{first4} {trainer} ({found})"
-                        display_label = f"{first4} {trainer} ({display_map.get(found, found)})"
+                        display_label = f"{first4} {trainer} ({display_map[found]})"
                     else:
-                        label = f"{first4} {trainer}"
-                        display_label = label
+                        display_label = f"{first4} {trainer}"
 
                     if kills_left is not None:
-                        display_label = f"{display_label} — {kills_left} kills left"
+                        display_label += f" — {kills_left} kills left"
 
-                    special[trainer_clean]["label"] = label
-                    special[trainer_clean]["display_label"] = display_label
+                    # Store the final info dict (template -> info)
+                    special[trainer_clean][found][template] = {
+                        "count": msg_num,
+                        "display_label": display_label,
+                        "kills_left": kills_left,
+                    }
 
                     break
 
-    # Attach bonus ranks
-    for trainer, info in special.items():
-        bonus = bonus_ranks.get(trainer, 0)
-        if bonus:
-            info["count_str"] = f"{info['count']} ({bonus})"
-        else:
-            info["count_str"] = str(info["count"])
+    # Flatten (skip unwanted "stage"/"counts" artifacts)
+    flat = {}
+    for creature, stages in special.items():
+        for stage, templates in stages.items():
+            for template, info in templates.items():
+                t_low = str(template).strip().lower()
 
-    return special, exclude
+                # Skip obvious artifact templates like "stage" or "counts"
+                if t_low == "stage" or t_low == "counts" or t_low.startswith("stage ") or t_low.startswith("counts "):
+                    # print where these came from once while testing
+                    print("DEBUG: skipping artifact template for", creature, "template:", repr(template))
+                    continue
+
+                # Normal info is a dict with display_label/count/kills_left
+                if isinstance(info, dict):
+                    lbl = info.get("display_label")
+                    cnt = info.get("count", 0)
+                    kl  = info.get("kills_left")
+                    if lbl:
+                        flat[lbl] = {"count": cnt, "kills_left": kl}
+                    else:
+                        # fallback if display_label missing
+                        display_label = f"{' '.join(template.split()[:4])} {creature}"
+                        flat[display_label] = {"count": cnt, "kills_left": kl}
+                else:
+                    # info is an int (count) — convert and add
+                    try:
+                        cnt = int(info)
+                    except Exception:
+                        cnt = 0
+                    display_label = f"{' '.join(template.split()[:4])} {creature}"
+                    print("WARNING: legacy special entry (int) found for", creature, template, "-> converting to info dict")
+                    flat[display_label] = {"count": cnt, "kills_left": None}
+                    
+    return flat, {}
+
 
 def count_kills(texts):
     """Return dict: { creature_name: total_kills }"""
     kills = {}
+    KILL_RX = re.compile(
+        r"(?:you|you helped)\s+(?:slaughtered|dispatched|killed|vanquished)\s+the\s+(.+?)\.",
+        re.IGNORECASE
+    )
     for content, _ in texts:
         for line in content.splitlines():
             m = KILL_RX.search(line)
@@ -440,21 +481,14 @@ def count_kills(texts):
             creature = m.group(1).strip().lower()
             kills[creature] = kills.get(creature, 0) + 1
     return kills
-   
+
 def filter_finished_studies(special, exclude):
-    filtered = {}
-    for trainer, data in special.items():
-        # Try to extract category from label
-        match = re.search(r'\((ways|movements|essence)\)$', data["label"])
-        if match:
-            category = match.group(1)
-            monster = trainer.strip().lower()
-            if monster in exclude.get(category, set()):
-                continue  # skip if study was finished
-        filtered[trainer] = data
-    return filtered
-    
-# -- Coin Scanning ---------------------------------------------------------    
+    # After flattening, we cannot detect finished studies reliably.
+    # So we simply return the flat dict unchanged.
+    return special
+
+# -- Coin Scanning -----------------------------------------------------------
+
 def count_coins(texts, character_name, min_time=None):
     skinned_total = 0
     share_total = 0
@@ -496,24 +530,41 @@ def count_coins(texts, character_name, min_time=None):
             })
 
     return skinned_total, share_total, events
-    
 
 # -- Background Task ---------------------------------------------------------
+
 def scan_and_aggregate(folder_path, character_name):
     words        = read_words_from_file(words_file_path)
     replacements = read_words_from_file(replacement_file_path)
-    
-    if len(words) != len(replacements):
-        # Improved error message to help you debug
-        raise ValueError(f"File Alignment Error: rankmessages.txt ({len(words)} lines) and "
-                         f"trainers.txt ({len(replacements)} lines) must match exactly.")
 
-    mapping     = dict(zip(words, replacements))
-    texts       = read_text_files(folder_path)
+    if len(words) != len(replacements):
+        raise ValueError(
+            f"File Alignment Error: rankmessages.txt ({len(words)} lines) and "
+            f"trainers.txt ({len(replacements)} lines) must match exactly."
+        )
+
+    # Wrap mapping so any future assignment is logged with a stack trace
+    class LoggingDict(dict):
+        def __setitem__(self, key, value):
+            import traceback
+            print("LOGGING: mapping assignment detected")
+            print("  key:", repr(key), "value type:", type(value), "value repr:", repr(value)[:200])
+            traceback.print_stack(limit=8)
+            super().__setitem__(key, value)
+
+        def update(self, *args, **kwargs):
+            for k, v in dict(*args, **kwargs).items():
+                self.__setitem__(k, v)
+
+    # Create mapping using the logging wrapper so any later mutation is caught
+    mapping = LoggingDict(zip(words, replacements))
+    print("DEBUG: mapping created; sample values:", list(mapping.items())[:8])
+
+    texts = read_text_files(folder_path)
     word_occ    = count_word_occurrences(texts, words)
     special_occ, exclude = count_special_lines(texts)
     filtered_special = filter_finished_studies(special_occ, exclude)
-    
+
     filter_value = time_filter_var.get()
     min_time = get_min_time_from_filter(filter_value)
 
@@ -521,38 +572,86 @@ def scan_and_aggregate(folder_path, character_name):
 
     normal_ranks = {}
     special_creatures = {}
+    
+    bad = [(k, type(v), repr(v)) for k, v in mapping.items() if not isinstance(v, str)]
+    if bad:
+        print("ERROR: mapping contains non-string values right after creation:")
+        for k, t, v in bad[:20]:
+            print("  key:", repr(k), "value type:", t, "value repr:", v)
+        import traceback
+        traceback.print_stack()
+        raise RuntimeError("mapping contains non-string values after creation")
 
+    # Build normal_ranks with defensive logging to catch dict+int issues
     for w, c in word_occ.items():
-        if c:
-            t = mapping.get(w, "Unknown")
-            normal_ranks[t] = normal_ranks.get(t, 0) + c
+        if not c:
+            continue
 
-    for trainer, info in filtered_special.items():
+        t = mapping.get(w, "Unknown")
+
+        # print only when something unexpected appears
+        if not isinstance(t, str) or not isinstance(c, int):
+            print("DEBUG: suspicious mapping entry detected")
+            print("  word (w):", repr(w))
+            print("  mapped value (t):", repr(t), "type:", type(t))
+            print("  count (c):", repr(c), "type:", type(c))
+            # Dump a small slice of mapping to help locate collisions
+            sample_keys = list(mapping.keys())[:20]
+            print("  mapping sample keys:", sample_keys)
+            # Write full context to a file for later inspection
+            try:
+                with open("debug_mapping_dump.json", "a", encoding="utf-8") as df:
+                    json.dump({"word": w, "mapped": t, "mapped_type": str(type(t)), "count": c}, df)
+                    df.write("\n")
+            except Exception as _:
+                pass
+
+        # try/except to capture stack trace if it still fails
+        try:
+            if not isinstance(t, str):
+                # skip invalid trainer keys (they cannot be used as dict keys reliably)
+                continue
+            if not isinstance(c, int):
+                # coerce numeric-like strings to int if possible
+                try:
+                    c = int(c)
+                except Exception:
+                    continue
+            normal_ranks[t] = normal_ranks.get(t, 0) + c
+        except Exception as ex:
+            import traceback as _tb
+            print("FATAL: exception while merging normal_ranks")
+            print("  word:", repr(w))
+            print("  mapped value:", repr(t), "type:", type(t))
+            print("  count:", repr(c), "type:", type(c))
+            print("  exception:", ex)
+            _tb.print_exc()
+            # re-raise so you still see the crash if you want to stop here
+            raise
+
+    for label, info in filtered_special.items():
         print("DEBUG: filtered_special sample:", list(filtered_special.items())[:8])
         print("DEBUG: special_creatures built:", list(special_creatures.items())[:12])
-        label = info.get("display_label", info["label"])
-        cnt   = info.get("count_str", str(info["count"]))
+        cnt   = info.get("count", 0)
         kills = info.get("kills_left")
-        # normalize kills to a short string for the UI
         if isinstance(kills, tuple):
             kills_str = f"~{kills[0]}–{kills[1]}"
         elif isinstance(kills, int):
             kills_str = str(kills)
         else:
             kills_str = ""
-        # store tuple: (count_str, kills_str)
+        #special_creatures[label] = (str(cnt), kills_str)
         special_creatures[label] = (cnt, kills_str)
-    
+
     print("DEBUG: special_creatures sample:", list(special_creatures.items())[:12])
 
     return normal_ranks, special_creatures, skinned, share, coin_events, os.path.basename(folder_path)
 
-# -- UI Callbacks & GUI Setup -----------------------------------------------
+# -- Helpers for merging / parsing counts ------------------------------------
 
 def parse_creature_count(count_str):
     """Helper to split '5 (1)' into base=5, bonus=1"""
     import re
-    # Remove any non-numeric/paren characters just in case
     clean = str(count_str).strip()
     match = re.match(r'(\d+)(?:\s*\((\d+)\))?', clean)
     if match:
@@ -560,7 +659,7 @@ def parse_creature_count(count_str):
         bonus = int(match.group(2)) if match.group(2) else 0
         return base, bonus
     return 0, 0
-    
+
 def summarize_coin_events(events):
     summary = {}
     for ev in events:
@@ -576,59 +675,123 @@ def summarize_coin_events(events):
         if ev["skinned"]:
             summary[monster]["your_skins"] += 1
     return summary
+# ----------------------------------------------------------------------
+# ------------------------- GUI / CALLBACKS ----------------------------
+# ----------------------------------------------------------------------
+
+    import traceback as _tb
+    print("DIAG: on_scan_done entered")
+    print("  merged_skinned type/value:", type(merged_skinned), repr(merged_skinned)[:200])
+    print("  merged_share type/value:", type(merged_share), repr(merged_share)[:200])
+    print("  returned skinned type/value:", type(skinned), repr(skinned)[:200])
+    print("  returned share type/value:", type(share), repr(share)[:200])
+    print("  normal_ranks sample:", list(normal_ranks.items())[:8])
+    print("  merged_counts sample:", list(merged_counts.items())[:8])
 
 def on_scan_done(fut):
     try:
         normal_ranks, special_creatures_data, skinned, share, coin_events, new_folder = fut.result()
         print("DEBUG: on_scan_done special_creatures_data sample:", list(special_creatures_data.items())[:12])
     except Exception as e:
+        import traceback
+        print("FUTURE EXCEPTION (on_scan_done):", repr(e))
+        traceback.print_exc()
+        # Also try to print the future's exception object if available
+        try:
+            exc = fut.exception()
+            if exc is not None:
+                print("fut.exception():", repr(exc))
+        except Exception:
+            pass
+        # Show the same messagebox so UI behavior is unchanged
         messagebox.showerror("Scan Error", str(e))
         return
 
     global merged_counts, merged_creatures, merged_skinned, merged_share, merged_coin_events
 
-    # Merge coin totals
-    merged_skinned += skinned
-    merged_share += share
+    # Merge coin totals with diagnostics
+    try:
+        if not isinstance(skinned, int):
+            print("DIAG: skinned is not int:", repr(skinned)[:200], type(skinned))
+        if not isinstance(merged_skinned, int):
+            print("DIAG: merged_skinned is not int before add:", repr(merged_skinned)[:200], type(merged_skinned))
+        merged_skinned += skinned
+    except Exception:
+        print("FATAL: exception merging skinned")
+        _tb.print_exc()
+        raise
+
+    try:
+        if not isinstance(share, int):
+            print("DIAG: share is not int:", repr(share)[:200], type(share))
+        if not isinstance(merged_share, int):
+            print("DIAG: merged_share is not int before add:", repr(merged_share)[:200], type(merged_share))
+        merged_share += share
+    except Exception:
+        print("FATAL: exception merging share")
+        _tb.print_exc()
+        raise
 
     # Merge detailed coin events
     merged_coin_events.extend(coin_events)
 
-    # Merge normal ranks
+    # Merge normal ranks (defensive: log types and stack trace on unexpected types)
+    import traceback as _tb
     for name, count in normal_ranks.items():
-        merged_counts[name] = merged_counts.get(name, 0) + count
+        try:
+            # Print types before attempting arithmetic
+            cur_val = merged_counts.get(name, 0)
+            if not isinstance(cur_val, int) or not isinstance(count, int):
+                print("DIAGNOSTIC: about to add values for:", repr(name))
+                print("  merged_counts.get(name):", repr(cur_val), "type:", type(cur_val))
+                print("  normal_ranks[name]:", repr(count), "type:", type(count))
+                _tb.print_stack(limit=8)
 
-    # Merge special creatures 
+            # Try to coerce numeric-like strings
+            if not isinstance(count, int):
+                try:
+                    count = int(count)
+                    print("DIAGNOSTIC: coerced count to int for", repr(name), "->", count)
+                except Exception:
+                    print("DIAGNOSTIC: cannot coerce count to int, skipping:", repr(name), repr(count), type(count))
+                    continue
+
+            if not isinstance(cur_val, int):
+                print("DIAGNOSTIC: merged_counts has non-int for", repr(name), "resetting to 0 (was type: {})".format(type(cur_val)))
+                _tb.print_stack(limit=8)
+                cur_val = 0
+
+            merged_counts[name] = cur_val + count
+
+        except Exception as ex:
+            print("FATAL: exception while merging normal_ranks for", repr(name))
+            print("  count:", repr(count), "type:", type(count))
+            print("  merged_counts.get(name):", repr(merged_counts.get(name)), "type:", type(merged_counts.get(name)))
+            _tb.print_exc()
+            raise
+
+    # Merge special creatures (no arithmetic on dicts)
     for name, count_kills in special_creatures_data.items():
-        # count_kills may be a tuple (count_str, kills_str) or (legacy) a plain string
+        # count_kills may be:
+        #   - tuple: (count, kills_str)
+        #   - dict:  {"count": ..., "kills": ...}
+        #   - legacy: plain string/int
         if isinstance(count_kills, tuple):
-            count_str, kills_str = count_kills
+            count_val, kills_str = count_kills
+        elif isinstance(count_kills, dict):
+            count_val = count_kills.get("count", 0)
+            kills_str = count_kills.get("kills", "")
         else:
-            count_str = str(count_kills)
+            count_val = count_kills
             kills_str = ""
 
-        new_base, new_bonus = parse_creature_count(count_str)
-
-        if name in merged_creatures:
-            cur_entry = merged_creatures[name]
-            # support legacy stored string or new dict
-            if isinstance(cur_entry, dict):
-                cur_count_str = cur_entry.get("count", str(cur_entry))
-            else:
-                cur_count_str = str(cur_entry)
-            cur_base, cur_bonus = parse_creature_count(cur_count_str)
-            tot_base = new_base
-            tot_bonus = cur_bonus + new_bonus
-        else:
-            tot_base = new_base
-            tot_bonus = new_bonus
-
         merged_creatures[name] = {
-            "count": f"{tot_base} ({tot_bonus})" if tot_bonus else str(tot_base),
-            "kills": kills_str
+            "count": str(count_val),
+            "kills": str(kills_str),
         }
-        print("DEBUG: merged_creatures keys:", list(merged_creatures.keys())[:12])
-    
+
+    print("DEBUG: merged_creatures keys:", list(merged_creatures.keys())[:12])
+
     # Save to character
     char_name = get_selected_character()
     if char_name:
@@ -648,7 +811,6 @@ def on_scan_done(fut):
 
     ignored_list = character_ignored.get(char_name, [])
 
-    # Insert rows into the creatures table (use new column names)
     for name, data in merged_creatures.items():
         if name in ignored_list:
             continue
@@ -661,10 +823,21 @@ def on_scan_done(fut):
             kills_val = ""
 
         creature_table.insert("", "end", values=(name, count_val, kills_val))
-            
+
     # Update coins table
     for item in coins_table.get_children():
         coins_table.delete(item)
+    
+    # Diagnostic before computing total coins
+    try:
+        print("DIAG: before total coins: merged_skinned type/value:", type(merged_skinned), repr(merged_skinned)[:200])
+        print("DIAG: before total coins: merged_share type/value:", type(merged_share), repr(merged_share)[:200])
+        total_coins = merged_skinned + merged_share
+        print("DIAG: computed total_coins:", total_coins, type(total_coins))
+    except Exception:
+        print("FATAL: exception computing total_coins")
+        _tb.print_exc()
+        raise
 
     coins_table.insert("", "end", values=("Total Skinned", merged_skinned))
     coins_table.insert("", "end", values=("Total Share", merged_share))
@@ -672,14 +845,12 @@ def on_scan_done(fut):
     coins_table.insert("", "end", values=("", ""))  # spacer
     coins_table.insert("", "end", values=("Monster", "Details"))
 
-    # Summarize by monster
     summary = summarize_coin_events(merged_coin_events)
-
-    # Add summary rows
     for monster, data in summary.items():
         label = monster
         details = f"Total {data['total_worth']}c, share {data['total_share']}c, you skinned {data['your_skins']}"
         coins_table.insert("", "end", values=(label, details))
+
 
 def load_files_and_count_words():
     name = get_selected_character()
@@ -691,9 +862,12 @@ def load_files_and_count_words():
         messagebox.showerror("Error", "This character has no folders assigned.")
         return
 
-    global merged_counts, merged_creatures
+    global merged_counts, merged_creatures, merged_skinned, merged_share, merged_coin_events
     merged_counts.clear()
     merged_creatures.clear()
+    merged_skinned = 0
+    merged_share = 0
+    merged_coin_events = []
 
     for folder in character_folders[name]:
         if not os.path.isdir(folder):
@@ -702,13 +876,12 @@ def load_files_and_count_words():
         fut = executor.submit(scan_and_aggregate, folder, name)
         fut.add_done_callback(lambda f: root.after(0, on_scan_done, f))
 
-        
+
 def rescan_all_logs():
     name = get_selected_character()
     if not name:
         messagebox.showerror("Error", "Select a character first.")
         return
-    merged_counts.clear()
     load_files_and_count_words()
 
 
@@ -731,44 +904,67 @@ def save_output():
         with open(path, 'w', encoding='utf-8') as f:
             f.write("Trainer,Ranks\n")
             for n, c in merged_counts.items():
-                f.write(f"{n},{c}\n")  # c already includes "(bonus)" if present
+                f.write(f"{n},{c}\n")
         messagebox.showinfo("Success", f"Saved to {path}")
     except Exception as e:
         messagebox.showerror("Error", f"Failed to save:\n{e}")
 
+
 def ignore_selected_creature():
-    """Adds selected creature to ignore list and refreshes table."""
     selected_item = creature_table.selection()
     if not selected_item:
         return
-    
-    # Get the creature name from the selected row
+
     creature_name = creature_table.item(selected_item)['values'][0]
     char_name = get_selected_character()
-    
+
     if not char_name:
         return
 
-    # Add to ignored list
     if char_name not in character_ignored:
         character_ignored[char_name] = []
-    
+
     if creature_name not in character_ignored[char_name]:
         character_ignored[char_name].append(creature_name)
-        save_characters() # Save to JSON
-        
-        # Remove from UI immediately
+        save_characters()
         creature_table.delete(selected_item)
         print(f"Ignored: {creature_name}")
 
+
+def on_character_selected_simple():
+    """Refresh tables from saved character data (used after ignore restore)."""
+    name = get_selected_character()
+    if not name:
+        return
+
+    # Ranks
+    for item in table.get_children():
+        table.delete(item)
+    for n, c in character_ranks.get(name, {}).items():
+        table.insert("", "end", values=(n, c))
+
+    # Creatures
+    for item in creature_table.get_children():
+        creature_table.delete(item)
+    ignored = character_ignored.get(name, [])
+    for n, data in character_creatures.get(name, {}).items():
+        if n in ignored:
+            continue
+        if isinstance(data, dict):
+            count_val = data.get("count", "")
+            kills_val = data.get("kills", "")
+        else:
+            count_val = str(data)
+            kills_val = ""
+        creature_table.insert("", "end", values=(n, count_val, kills_val))
+
+
 def open_ignore_manager():
-    """Opens a popup to see and restore ignored items."""
     char_name = get_selected_character()
     if not char_name:
         messagebox.showerror("Error", "Select a character first.")
         return
 
-    # Create Popup Window
     win = tk.Toplevel(root)
     win.title(f"Ignored Creatures for {char_name}")
     win.geometry("400x300")
@@ -776,11 +972,9 @@ def open_ignore_manager():
     lbl = tk.Label(win, text="Select Creatures to restore:")
     lbl.pack(pady=5)
 
-    # Listbox
     lb = tk.Listbox(win, selectmode=tk.MULTIPLE)
     lb.pack(fill="both", expand=True, padx=10, pady=5)
 
-    # Fill Listbox
     ignored = character_ignored.get(char_name, [])
     for item in ignored:
         lb.insert(tk.END, item)
@@ -789,30 +983,28 @@ def open_ignore_manager():
         selections = lb.curselection()
         if not selections:
             return
-        
-        # Get items to remove from ignore list
+
         to_restore = [lb.get(i) for i in selections]
-        
-        # Remove them
+
         for item in to_restore:
             if item in character_ignored[char_name]:
                 character_ignored[char_name].remove(item)
-        
+
         save_characters()
         win.destroy()
-        on_character_selected() # Refresh main table
-    
+        on_character_selected_simple()
+
     btn_restore_selected = ttk.Button(
-    frame_creatures,
-    text="Restore Selected",
-    command=restore_selected
+        win,
+        text="Restore Selected",
+        command=restore_selected
     )
     btn_restore_selected.pack(pady=10)
-    
+
+
 def open_kills_to_next_table():
     """Open a window showing the embedded kills_to_next table."""
-    # Use the same kills_to_next dict from count_special_lines
-    kills_to_next = {
+    kills_to_next_local = {
         "almost nothing left to learn about the movements of the <creature>.": {1:4,2:2,3:2,4:2,5:2},
         "almost nothing left to learn about the ways of the <creature>.": {1:4,2:2,3:2,4:2,5:2},
         "almost nothing left to learn about the essence of the <creature>.": {1:4,2:2,3:2,4:2,5:2},
@@ -863,20 +1055,18 @@ def open_kills_to_next_table():
     tv.configure(yscrollcommand=vsb.set)
     vsb.pack(side="right", fill="y")
 
-    # Populate table
-    for phrase, mapping in kills_to_next.items():
+    for phrase, mapping in kills_to_next_local.items():
         for msg_num, kills_needed in mapping.items():
             tv.insert("", "end", values=(phrase, msg_num, kills_needed))
 
-    
+
 def open_special_kills_table():
     """Open a Toplevel window showing special_kills.txt as a table."""
-    path = kills_txt_path  # uses your existing path variable
+    path = kills_txt_path  # define kills_txt_path globally
     if not os.path.exists(path):
         messagebox.showerror("File not found", f"special_kills.txt not found at {path}")
         return
 
-    # parse TSV: expect columns like index, phrase, kills_min, kills_max (or last two numeric)
     rows = []
     try:
         with open(path, 'r', encoding='utf-8', errors='ignore') as f:
@@ -884,10 +1074,8 @@ def open_special_kills_table():
             for r in reader:
                 if not r:
                     continue
-                # normalize to at least 4 columns: index, phrase, kills_min, kills_max
                 idx = r[0].strip() if len(r) > 0 else ""
                 phrase = r[1].strip() if len(r) > 1 else ""
-                # last two columns may be numeric; try to parse them
                 kills_min = r[2].strip() if len(r) > 2 else ""
                 kills_max = r[3].strip() if len(r) > 3 else ""
                 rows.append((idx, phrase, kills_min, kills_max))
@@ -895,7 +1083,6 @@ def open_special_kills_table():
         messagebox.showerror("Error", f"Failed to read special_kills.txt: {e}")
         return
 
-    # create window
     win = tk.Toplevel(root)
     win.title("Special Kills Table")
     win.geometry("900x500")
@@ -913,17 +1100,16 @@ def open_special_kills_table():
     tv.column("KillsMax", width=100, anchor="center")
     tv.pack(fill="both", expand=True, side="left")
 
-    # vertical scrollbar
     vsb = ttk.Scrollbar(frame, orient="vertical", command=tv.yview)
     tv.configure(yscrollcommand=vsb.set)
     vsb.pack(side="right", fill="y")
 
-    # populate
     for r in rows:
         tv.insert("", "end", values=r)
 
+
 # ----------------------------------------------------------------------
-# ------------------------- NEW GUI SECTION -----------------------------
+# ------------------------- MAIN GUI SETUP -----------------------------
 # ----------------------------------------------------------------------
 
 root = tk.Tk()
@@ -931,33 +1117,36 @@ root.title("Rank Counter 28")
 try:
     icon_path = resource_path('phoenix.png')
     icon_img = tk.PhotoImage(file=icon_path)
-    # Set the icon (False means it applies to this window only)
     root.iconphoto(True, icon_img)
 except Exception as e:
     print(f"Could not load icon: {e}")
 
-# ---------------- Buttons (Horizontal Layout) ----------------
+# Buttons
 button_frame = ttk.Frame(root)
 button_frame.pack(pady=10)
 
 ttk.Button(button_frame, text="Scan New Logs", command=load_files_and_count_words)\
     .pack(side="left", padx=5)
-
 ttk.Button(button_frame, text="Rescan All Logs", command=rescan_all_logs)\
     .pack(side="left", padx=5)
-    
-# ---------------- Tabbed Notebook ----------------
+
+# Notebook
 notebook = ttk.Notebook(root)
 notebook.pack(fill="both", expand=True)
 
 frame_characters = ttk.Frame(notebook)
-frame_folders = ttk.Frame(notebook)
 frame_ranks = ttk.Frame(notebook)
 frame_creatures = ttk.Frame(notebook)
 frame_logsearch = ttk.Frame(notebook)
 frame_coins = ttk.Frame(notebook)
 
-# --- Time Filter UI inside Coins tab ---
+notebook.add(frame_characters, text="Characters")
+notebook.add(frame_ranks, text="Ranks")
+notebook.add(frame_creatures, text="Creatures")
+notebook.add(frame_logsearch, text="Log Search")
+notebook.add(frame_coins, text="Coins")
+
+# Time filter in Coins tab
 time_filter_var = tk.StringVar()
 time_filter_var.set("All logs")
 time_filter_box = ttk.Combobox(
@@ -977,6 +1166,7 @@ time_filter_box = ttk.Combobox(
     state="readonly"
 )
 time_filter_box.pack(pady=5)
+
 def refresh_coins_table():
     name = get_selected_character()
     if not name:
@@ -999,14 +1189,13 @@ def refresh_coins_table():
     merged_share = share
     merged_coin_events = coin_events
 
-    # Update table
     for item in coins_table.get_children():
         coins_table.delete(item)
 
     coins_table.insert("", "end", values=("Total Skinned", merged_skinned))
     coins_table.insert("", "end", values=("Total Share", merged_share))
     coins_table.insert("", "end", values=("Total Coins", merged_skinned + merged_share))
-    coins_table.insert("", "end", values=("", ""))  # spacer
+    coins_table.insert("", "end", values=("", ""))
     coins_table.insert("", "end", values=("Monster", "Details"))
 
     summary = summarize_coin_events(merged_coin_events)
@@ -1017,21 +1206,12 @@ def refresh_coins_table():
 
 tk.Button(frame_coins, text="Refresh Coins", command=refresh_coins_table).pack(pady=5)
 
-notebook.add(frame_characters, text="Characters")
-#notebook.add(frame_folders, text="Folders")
-notebook.add(frame_ranks, text="Ranks")
-notebook.add(frame_creatures, text="Creatures")
-notebook.add(frame_logsearch, text="Log Search")
-notebook.add(frame_coins, text="Coins")
-
-# ---------------- Characters Tab ----------------
+# Characters tab
 load_characters()
 
-# Main container for the Characters area
 char_area = ttk.Frame(frame_characters)
 char_area.pack(fill="both", expand=True, pady=5)
 
-# Create the character_list inside char_area (master set correctly)
 character_list = tk.Listbox(char_area, height=10, width=40, exportselection=False)
 character_list.pack(pady=10, fill="both", expand=True)
 
@@ -1040,40 +1220,41 @@ def on_character_selected(event):
     if not sel:
         return
     name = event.widget.get(sel[0])
-    # clear merged data so UI shows fresh results
+
     merged_counts.clear()
     merged_creatures.clear()
-    # optionally auto-scan assigned folders (comment if you don't want auto-scan)
-    # load_files_and_count_words()
-    # or just refresh UI from saved character data:
+
     if name in character_ranks:
-        # update ranks table
         for item in table.get_children():
             table.delete(item)
         for n, c in character_ranks[name].items():
             table.insert("", "end", values=(n, c))
+
     if name in character_creatures:
         for item in creature_table.get_children():
             creature_table.delete(item)
         ignored = character_ignored.get(name, [])
-        for n, c in character_creatures[name].items():
-            if n not in ignored:
-                creature_table.insert("", "end", values=(n, c))
+        for n, data in character_creatures[name].items():
+            if n in ignored:
+                continue
+            if isinstance(data, dict):
+                count_val = data.get("count", "")
+                kills_val = data.get("kills", "")
+            else:
+                count_val = str(data)
+                kills_val = ""
+            creature_table.insert("", "end", values=(n, count_val, kills_val))
 
-
-# Populate list
 for name in character_folders.keys():
     character_list.insert(tk.END, name)
 character_list.bind("<<ListboxSelect>>", on_character_selected)
 
-# Helper to get selected character
 def get_selected_character():
     sel = character_list.curselection()
     if not sel:
         return None
     return character_list.get(sel[0])
 
-# Define character helper functions BEFORE creating buttons
 def add_character():
     new_name = tk.simpledialog.askstring("Add Character", "Enter new character name:")
     if new_name:
@@ -1097,7 +1278,6 @@ def remove_character():
         character_ignored.pop(name, None)
         save_characters()
 
-# Character area buttons
 char_buttons_frame = ttk.Frame(char_area)
 char_buttons_frame.pack(pady=5)
 
@@ -1107,20 +1287,15 @@ add_char_btn.pack(side="left", padx=5)
 remove_char_btn = ttk.Button(char_buttons_frame, text="Remove Character", command=remove_character)
 remove_char_btn.pack(side="left", padx=5)
 
-manage_folders_btn = ttk.Button(char_buttons_frame, text="Folders", command=lambda: open_folder_manager())
-manage_folders_btn.pack(side="left", padx=5)
-
-# Folder manager frame (hidden initially)
+# Folder manager
 folder_manager_frame = ttk.Frame(frame_characters)
 
 fm_label = ttk.Label(folder_manager_frame, text="Folders for selected character:")
 fm_label.pack(pady=5)
 
-# New Listbox for folder manager (created inside folder_manager_frame)
 fm_folder_list = tk.Listbox(folder_manager_frame, width=60, height=12)
 fm_folder_list.pack(pady=5, fill="both", expand=True)
 
-# Buttons for folder manager
 fm_button_frame = ttk.Frame(folder_manager_frame)
 fm_button_frame.pack(pady=10)
 
@@ -1161,9 +1336,6 @@ add_folder_btn.pack(side="left", padx=5)
 remove_folder_btn = ttk.Button(fm_button_frame, text="Remove Selected", command=remove_folder_in_manager)
 remove_folder_btn.pack(side="left", padx=5)
 
-back_btn = ttk.Button(fm_button_frame, text="Back", command=lambda: close_folder_manager())
-back_btn.pack(side="left", padx=5)
-
 def open_folder_manager():
     name = get_selected_character()
     if not name:
@@ -1177,7 +1349,13 @@ def close_folder_manager():
     folder_manager_frame.pack_forget()
     char_area.pack(fill="both", expand=True, pady=5)
 
-# ---------------- Ranks Table ----------------
+back_btn = ttk.Button(fm_button_frame, text="Back", command=close_folder_manager)
+back_btn.pack(side="left", padx=5)
+
+manage_folders_btn = ttk.Button(char_buttons_frame, text="Folders", command=open_folder_manager)
+manage_folders_btn.pack(side="left", padx=5)
+
+# Ranks table
 table = ttk.Treeview(frame_ranks, columns=("Trainer", "Ranks"), show="headings")
 table.heading("Trainer", text="Trainer")
 table.heading("Ranks", text="Ranks")
@@ -1185,7 +1363,7 @@ table.column("Trainer", width=300, stretch=True)
 table.column("Ranks", width=80, stretch=False)
 table.pack(pady=10, fill="both", expand=True)
 
-# ---------------- Creatures Table ----------------
+# Creatures table
 creature_table = ttk.Treeview(frame_creatures, columns=("Creature", "MessageNumber", "KillsTillNext"), show="headings")
 creature_table.heading("Creature", text="Creature")
 creature_table.heading("MessageNumber", text="Message Number")
@@ -1194,6 +1372,7 @@ creature_table.column("Creature", width=420, anchor="w", stretch=True)
 creature_table.column("MessageNumber", width=120, anchor="center", stretch=False)
 creature_table.column("KillsTillNext", width=160, anchor="center", stretch=False)
 creature_table.pack(pady=10, fill="both", expand=True)
+
 creature_context_menu = tk.Menu(root, tearoff=0)
 creature_context_menu.add_command(label="Ignore Creature", command=ignore_selected_creature)
 
@@ -1211,7 +1390,7 @@ btn_special_kills = ttk.Button(
 )
 btn_special_kills.pack(padx=6, pady=4, side="right", anchor="ne")
 
-# ---------------- Coins Table ----------------
+# Coins table
 coins_table = ttk.Treeview(frame_coins, columns=("Event", "Details"), show="headings")
 coins_table.heading("Event", text="Event")
 coins_table.heading("Details", text="Details")
@@ -1219,23 +1398,45 @@ coins_table.column("Event", width=300)
 coins_table.column("Details", width=200)
 coins_table.pack(fill="both", expand=True, pady=10)
 
-
 def show_creature_menu(event):
     item = creature_table.identify_row(event.y)
     if item:
         creature_table.selection_set(item)
         creature_context_menu.post(event.x_root, event.y_root)
 
-# Bind Right Click (Button-3 on Windows, Button-2 on Mac sometimes)
-creature_table.bind("<Button-3>", show_creature_menu) 
-creature_table.bind("<Button-2>", show_creature_menu) # MacOS support
+creature_table.bind("<Button-3>", show_creature_menu)
+creature_table.bind("<Button-2>", show_creature_menu)
 
-# ---------------- LOG SEARCH TAB (Search ALL character folders) ----------------
-
+# Log search tab
 tk.Label(frame_logsearch, text="Search word:").grid(row=0, column=0, padx=5, pady=5, sticky="w")
 
 ls_word_var = tk.StringVar()
 tk.Entry(frame_logsearch, textvariable=ls_word_var, width=50).grid(row=0, column=1, padx=5, pady=5)
+
+def ls_run_scan(name, word):
+    found_files = []
+    for folder in character_folders.get(name, []):
+        if os.path.isdir(folder):
+            found_files.extend(scan_directory(folder, word))
+    ls_results_list.after(0, ls_update_results, found_files, word)
+
+def ls_update_results(found_files, word):
+    ls_results_list.delete(0, tk.END)
+    if found_files:
+        ls_results_list.insert(tk.END, f"Found '{word}' in:")
+        ls_results_list.insert(tk.END, "--------------------------------")
+        for f in found_files:
+            ls_results_list.insert(tk.END, f)
+    else:
+        ls_results_list.insert(tk.END, f"No files found containing '{word}'.")
+
+def ls_open_selected_file(event=None):
+    sel = ls_results_list.curselection()
+    if not sel:
+        return
+    file_path = ls_results_list.get(sel[0])
+    if os.path.isfile(file_path):
+        open_file_with_default_app(file_path)
 
 def ls_start_search():
     name = get_selected_character()
@@ -1269,31 +1470,6 @@ scrollbar = tk.Scrollbar(frame_logsearch)
 scrollbar.grid(row=2, column=3, sticky="ns")
 ls_results_list.config(yscrollcommand=scrollbar.set)
 scrollbar.config(command=ls_results_list.yview)
-
-def ls_run_scan(name, word):
-    found_files = []
-    for folder in character_folders[name]:
-        if os.path.isdir(folder):
-            found_files.extend(scan_directory(folder, word))
-    ls_results_list.after(0, ls_update_results, found_files, word)
-
-def ls_update_results(found_files, word):
-    ls_results_list.delete(0, tk.END)
-    if found_files:
-        ls_results_list.insert(tk.END, f"Found '{word}' in:")
-        ls_results_list.insert(tk.END, "--------------------------------")
-        for f in found_files:
-            ls_results_list.insert(tk.END, f)
-    else:
-        ls_results_list.insert(tk.END, f"No files found containing '{word}'.")
-
-def ls_open_selected_file(event=None):
-    sel = ls_results_list.curselection()
-    if not sel:
-        return
-    file_path = ls_results_list.get(sel[0])
-    if os.path.isfile(file_path):
-        open_file_with_default_app(file_path)
 
 ls_results_list.bind("<Double-Button-1>", ls_open_selected_file)
 
