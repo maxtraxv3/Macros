@@ -156,6 +156,8 @@ else if logicnumber == 8
 	message "message: "
 	message "message number: " checkname.word[5].letter[1] ""
 end if
+// this may read prevus seleted item.
+// may need to set item on witch it error'ed
 label stopL
 	message "No or incomplete data on:" @my.selected_item ""
 }
@@ -324,7 +326,7 @@ label done
 // "5/4/26 6:55:51a You slaughtered a Rat. \ \" <-- full line, this might be a bug from the client. 
 // "Rat. \" is one word might be bigger then this. there are 6 words, you can only see 5
 // finds if any dataset maches the first word at any part of the dataset, if it does check again for exact match.
-// this will also add to kill number no point adding exta fuction atm, at lest in temp memory.
+// this will also add to kill number, into temp memory.
 // dev messages will be removed later
 dswordfilter
 {
@@ -378,9 +380,8 @@ if dataset[nameck] != "Nothing"
 					goto end
 			end if
 		label matched
-		// becuase the the whole thing is aved as a "string" IE it think its saves as words(yes even the numbers)
-		// we have pull out the number save it, add to it, resave the string in the same way.
-		// this is when save it to the waszit its easyer to do. 
+		// becuase the the whole thing is saved as a "string" IE its saves as word(s)(yes even the numbers)
+		// we have pull out the number, assing it to a new temp save, add to it, resave it to the whole "string".
 			message "matched: " nama " with: " matchedname ""
 				if allbutoneword == 6
 					if addone.word[0] == nama
