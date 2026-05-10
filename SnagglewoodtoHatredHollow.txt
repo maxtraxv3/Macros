@@ -1,0 +1,13 @@
+// Sangglewood to Hatred Hollow by Magnic
+// (from first Snaggle wood snell)
+// it looks better ingame then does here.
+
+"/sw"
+{
+message " -,-'-@ Snaggle Wood  @-'-,-"
+message " .____________________."
+message " |Endter: e,s,e,n,w,s,s,e,n_|"
+message " |===============|"
+message " |Exit: w,e,n,e,s,e,n,w____|"
+message " '================'"
+}
