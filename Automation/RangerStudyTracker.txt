@@ -2,6 +2,8 @@
 // this is work in progress, remake of my old ingame ranger study tracker.
 // incomplete functions!!!! do not use yet.
 
+// whatzit <# Rat 0 10 .>
+// for manual data: "/name creaturenameinfullwithspaces 0 10 ." is how to save for first message with no kills.
 // mising functions "remover"
 // plusck needs rewirght.
 
@@ -31,7 +33,7 @@ message "loading whatzits..."
 label reload
 if cknum < 4
 	// the extra "\" here is required so selectitem command know it use both words
-	// normaly excudes anything after first word
+	// normaly doesn't excudes anything after first word
 	"/selectitem \"whatzit <#" cknum "\" \r"
 		pause 2
 			if logck >= "no item"
@@ -58,7 +60,7 @@ end if
 label ender
 }
 
-//might need to conver selected item into saved data, so can show correct error messages
+//might need to convert selected item into saved data, so can show correct error messages
 loader
 {
 // might need more error checks
@@ -163,25 +165,28 @@ label stopL
 }
 
 // key: 0 = false, 1 = true
-// IE if fitler == 0, means if the filter fuction has found nothing then do next line.
+// IE if fitler == 0, means if the filter fuction has found nothing to filter out, then do next line.
 messwatch
 {
 message "scanning"
 set timesupwrightout 0
 label top
 set logck @env.textlog
+// Begin Study filter
 if logck >= "•You begin studying the"
 		call filter
 			if fitler == 0
 				setglobal savedlog logck
 					call adder
 			end if
+// cancel study filter
 else if logck >= "You abandon your study of the"
 		call filter
 			if fitler == 0
 				setglobal savedlog logck
 					call remover
 			end if
+// messages filter
 else if logck >= "almost nothing left to learn about the"
 	call filter
 		if fitler == 0
@@ -788,7 +793,7 @@ if dataset[Wdata] == ""
 	setglobal dataset[Wdata] + " "
 	setglobal dataset[Wdata] + "0"
 	setglobal dataset[Wdata] + " "
-	setglobal dataset[Wdata] + "10"
+	setglobal dataset[Wdata] + "10"	
 else
 	if Wdata < 5
 		set Wdata + 1
