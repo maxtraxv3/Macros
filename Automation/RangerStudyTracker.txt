@@ -296,6 +296,9 @@ set checklastletter checklastword.num_letters
 if logck.word[2] == "says,"
 	setglobal fitler 1
 		goto done
+else if logck.word[2] == "says" // "says in people,"
+	setglobal fitler 1
+		goto done
 else if logck.word[2] == "growls,"
 	setglobal fitler 1
 		goto done

@@ -6,7 +6,7 @@
 {
 message " -,-'-@ Snaggle Wood  @-'-,-"
 message " .____________________."
-message " |Endter: e,s,e,n,w,s,s,e,n_|"
+message " |Enter: e,s,e,n,w,s,s,e,n__|"
 message " |===============|"
 message " |Exit: w,e,n,e,s,e,n,w____|"
 message " '================'"

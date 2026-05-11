@@ -123,34 +123,51 @@ set logck @env.textlog
 set itemname iteml[nls]
 	if itemname.word[0] >= "<#"
 		goto exit
+	else if itemname.word[0] >= ">"
+		goto exit
+	else if itemname.word[0] >= ""
+		goto exit
 	else
 		set actulthing itemname.word[0]
 	end if
 	if itemname.word[1] >= "<#"
 		goto skip
+	//else if itemname.word[1] >= ">"
+	//	goto skip
+	else if itemname.word[1] >= ""
+		goto skip
 	else
 		set actulthing + " "
 		set actulthing + itemname.word[1]
 	end if
-	if iteml[nls].word[2] >= "<#"
+	if itemname.word[2] >= "<#"
+		goto skip
+	//else if itemname.word[2] >= ">"
+	//	goto skip
+	else if itemname.word[2] >= ""
 		goto skip
 	else
 		set actulthing + " "
 		set actulthing + itemname.word[2]
 	end if
-	if iteml[nls].word[3] >= "<#"
+	if itemname.word[3] >= "<#"
+		goto skip
+	//else if itemname.word[3] >= ">"
+	//	goto skip
+	else if itemname.word[3] >= ""
 		goto skip
 	else
 		set actulthing + " "
 		set actulthing + itemname.word[2]
 	end if
 label skip
+// need change to modify string, insted of adding exta items
 set actulthing + " "
 set actulthing + <#
 set actulthing + whatnumb
 pause 1
 "/selectitem "\" actulthing "\" \r"
-	pause 3
+	pause 2
 		if logck >= "No item"
 			goto exit
 		else
@@ -167,6 +184,7 @@ label exit
 printlist
 {
 set numby 1
+message "* " @my.name ":"
 message "* Inventory List:"
 label top
 if numby < 32
