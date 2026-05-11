@@ -123,8 +123,8 @@ set logck @env.textlog
 set itemname iteml[nls]
 	if itemname.word[0] >= "<#"
 		goto exit
-	else if itemname.word[0] >= ">"
-		goto exit
+	//else if itemname.word[0] >= ">"
+	//	goto exit
 	else if itemname.word[0] >= ""
 		goto exit
 	else
