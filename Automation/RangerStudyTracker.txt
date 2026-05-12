@@ -480,6 +480,7 @@ label end
 }
 
 // needs testing.
+// still need "kills number to be corrected" added.
 plusck
 {
 set checknumber 1
