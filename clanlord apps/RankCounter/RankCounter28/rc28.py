@@ -336,6 +336,43 @@ def count_special_lines(texts):
                     study_state[c] = True
                     current_stage[c] = stage_order["essence"]
                 continue
+                
+            m = None
+
+            # finished movements: "You learn to fight the <creature> more effectively."
+            m = re.search(r'you learn to fight the (.+?) more effectively', low, re.IGNORECASE)
+            if m:
+                c = norm(m.group(1))
+                # remove any existing special entries for earlier stages so they won't show
+                if c in special:
+                    special.pop(c, None)
+                study_state[c] = False
+                # promote stage to ways (if you want to treat completion as starting next stage)
+                current_stage[c] = stage_order.get("ways", current_stage.get(c, 0))
+                continue
+
+            # finished ways: "You learn to befriend the <creature>."
+            m = re.search(r'you learn to befriend the (.+?)\.', low, re.IGNORECASE)
+            if m:
+                c = norm(m.group(1))
+                if c in special:
+                    special.pop(c, None)
+                study_state[c] = False
+                # promote stage to essence
+                current_stage[c] = stage_order.get("essence", current_stage.get(c, 0))
+                continue
+
+            # finished essence: "You learn to assume the form of the <creature>."
+            m = re.search(r'you learn to assume the form of the (.+?)\.', low, re.IGNORECASE)
+            if m:
+                c = norm(m.group(1))
+                # final completion: remove any tracked entries and mark finished
+                if c in special:
+                    special.pop(c, None)
+                study_state[c] = False
+                # set to highest stage index (optional)
+                current_stage[c] = stage_order.get("essence", current_stage.get(c, 0))
+                continue
 
             if "you have " not in low:
                 continue
@@ -352,6 +389,7 @@ def count_special_lines(texts):
                     orig_phrase = phrases[pidx]
                     rest = after[len(phrase_lc):].lstrip()
                     trainer = rest.split('.', 1)[0].strip()
+                    trainer = re.sub(r'\s*\(.*\)\s*$', '', trainer).strip()
                     trainer_clean = norm(trainer)
                     if not trainer_clean:
                         break
@@ -395,14 +433,22 @@ def count_special_lines(texts):
                     # msg_num is the count for this template (after stage logic)
                     msg_num = creature_bucket["counts"].get(template, 0)
 
-                    # Kills left
-                    kills_required = kills_to_next.get(template, {}).get(msg_num)
-                    kills_since_last = kill_counts.get(trainer_clean, 0)
-                    kills_left = (
-                        max(kills_required - kills_since_last, 0)
-                        if kills_required is not None
-                        else None
-                    )
+                    # Get total kills done for this creature
+                    kills_done = kill_counts.get(trainer_clean, 0)
+
+                    # Get the TOTAL kills required for this stage (your msg[] table)
+                    # summing all kills_to_next values for this template.
+                    stage_table = kills_to_next.get(template, {})
+                    total_required = sum(stage_table.values()) if stage_table else None
+
+                    # kills to go
+                    if total_required is not None:
+                        kills_left = max(total_required - kills_done, 0)
+                    else:
+                        kills_left = None
+                        
+                    if isinstance(kills_left, int) and kills_left <= 0:
+                        continue
 
                     # Build display label
                     first4 = " ".join(orig_phrase.split()[:4])
@@ -429,41 +475,43 @@ def count_special_lines(texts):
 
                     break
 
-    # Flatten (skip unwanted "stage"/"counts" artifacts)
-    flat = {}
-    for creature, stages in special.items():
-        for stage, templates in stages.items():
+    # Flatten into a canonical structure keyed by trainer_clean
+    flat = {}   # { trainer_clean: [ { "stage_idx": int, "template": str, "count": int, "kills_left": int|None, "display_label": str } ] }
+
+    for trainer_clean, stages in special.items():
+        for stage_name, templates in stages.items():
             for template, info in templates.items():
                 t_low = str(template).strip().lower()
-
-                # Skip obvious artifact templates like "stage" or "counts"
                 if t_low == "stage" or t_low == "counts" or t_low.startswith("stage ") or t_low.startswith("counts "):
-                    # print where these came from once while testing
-                    print("DEBUG: skipping artifact template for", creature, "template:", repr(template))
+                    print("DEBUG: skipping artifact template for", trainer_clean, "template:", repr(template))
                     continue
 
-                # Normal info is a dict with display_label/count/kills_left
+                # info should be dict with display_label/count/kills_left
                 if isinstance(info, dict):
                     lbl = info.get("display_label")
                     cnt = info.get("count", 0)
                     kl  = info.get("kills_left")
-                    if lbl:
-                        flat[lbl] = {"count": cnt, "kills_left": kl}
-                    else:
-                        # fallback if display_label missing
-                        display_label = f"{' '.join(template.split()[:4])} {creature}"
-                        flat[display_label] = {"count": cnt, "kills_left": kl}
                 else:
-                    # info is an int (count) — convert and add
                     try:
                         cnt = int(info)
                     except Exception:
                         cnt = 0
-                    display_label = f"{' '.join(template.split()[:4])} {creature}"
-                    print("WARNING: legacy special entry (int) found for", creature, template, "-> converting to info dict")
-                    flat[display_label] = {"count": cnt, "kills_left": None}
-                    
+                    lbl = f"{' '.join(template.split()[:4])} {trainer_clean}"
+                    kl = None
+
+                stage_idx = _get_stage_index_for_template(str(stage_name or ""))
+                entry = {
+                    "stage_idx": stage_idx,
+                    "template": t_low,
+                    "count": int(cnt) if isinstance(cnt, (int, str)) and str(cnt).isdigit() else cnt,
+                    "kills_left": kl,
+                    "display_label": lbl or f"{' '.join(template.split()[:4])} {trainer_clean}"
+                }
+
+                flat.setdefault(trainer_clean, []).append(entry)
+
     return flat, {}
+
 
 
 def count_kills(texts):
@@ -534,6 +582,8 @@ def count_coins(texts, character_name, min_time=None):
 # -- Background Task ---------------------------------------------------------
 
 def scan_and_aggregate(folder_path, character_name):
+    import re
+
     words        = read_words_from_file(words_file_path)
     replacements = read_words_from_file(replacement_file_path)
 
@@ -572,7 +622,7 @@ def scan_and_aggregate(folder_path, character_name):
 
     normal_ranks = {}
     special_creatures = {}
-    
+
     bad = [(k, type(v), repr(v)) for k, v in mapping.items() if not isinstance(v, str)]
     if bad:
         print("ERROR: mapping contains non-string values right after creation:")
@@ -595,24 +645,19 @@ def scan_and_aggregate(folder_path, character_name):
             print("  word (w):", repr(w))
             print("  mapped value (t):", repr(t), "type:", type(t))
             print("  count (c):", repr(c), "type:", type(c))
-            # Dump a small slice of mapping to help locate collisions
             sample_keys = list(mapping.keys())[:20]
             print("  mapping sample keys:", sample_keys)
-            # Write full context to a file for later inspection
             try:
                 with open("debug_mapping_dump.json", "a", encoding="utf-8") as df:
                     json.dump({"word": w, "mapped": t, "mapped_type": str(type(t)), "count": c}, df)
                     df.write("\n")
-            except Exception as _:
+            except Exception:
                 pass
 
-        # try/except to capture stack trace if it still fails
         try:
             if not isinstance(t, str):
-                # skip invalid trainer keys (they cannot be used as dict keys reliably)
                 continue
             if not isinstance(c, int):
-                # coerce numeric-like strings to int if possible
                 try:
                     c = int(c)
                 except Exception:
@@ -626,23 +671,155 @@ def scan_and_aggregate(folder_path, character_name):
             print("  count:", repr(c), "type:", type(c))
             print("  exception:", ex)
             _tb.print_exc()
-            # re-raise so you still see the crash if you want to stop here
             raise
 
-    for label, info in filtered_special.items():
-        print("DEBUG: filtered_special sample:", list(filtered_special.items())[:8])
-        print("DEBUG: special_creatures built:", list(special_creatures.items())[:12])
-        cnt   = info.get("count", 0)
-        kills = info.get("kills_left")
-        if isinstance(kills, tuple):
-            kills_str = f"~{kills[0]}–{kills[1]}"
-        elif isinstance(kills, int):
-            kills_str = str(kills)
-        else:
-            kills_str = ""
-        #special_creatures[label] = (str(cnt), kills_str)
-        special_creatures[label] = (cnt, kills_str)
+    # ------------------------------------------------------------------
+    # Normalize special_occ into canonical structure:
+    #   canonical_special: { trainer_clean: [ {stage_idx, template, count, kills_left, display_label}, ... ] }
+    # Accept both shapes:
+    #   - If count_special_lines already returned trainer_clean -> list(entries) use it
+    #   - If it returned display_label -> {"count":..., "kills_left":...} convert into trainer_clean groups
+    # ------------------------------------------------------------------
+    canonical_special = {}
 
+    def _normalize_kills_left(val):
+        if isinstance(val, int):
+            return val
+        if isinstance(val, str):
+            try:
+                return int(re.sub(r'[^\d-]', '', val))
+            except Exception:
+                return None
+        return None
+
+    # If filtered_special looks like trainer_clean -> list, detect by checking first value type
+    if isinstance(filtered_special, dict):
+        sample_vals = list(filtered_special.values())[:3]
+        # Heuristic: if values are lists of dicts, assume already normalized
+        already_normalized = False
+        if sample_vals:
+            first = sample_vals[0]
+            if isinstance(first, list):
+                # check element shape
+                if first and isinstance(first[0], dict) and "stage_idx" in first[0]:
+                    already_normalized = True
+
+        if already_normalized:
+            canonical_special = filtered_special.copy()
+        else:
+            # filtered_special is likely display_label -> {"count":..., "kills_left":...}
+            # Convert each display_label into trainer_clean and an entry
+            for display_label, info in filtered_special.items():
+                lbl = str(display_label)
+
+                # Extract trainer_clean robustly: everything after the first four words up to '(' or ' — ' or end
+                m = re.match(r'^(?:\S+\s+){4}(.+?)(?:\s*\(|\s+—\s+|$)', lbl)
+                if m:
+                    trainer_clean = m.group(1).strip().lower()
+                else:
+                    clean = lbl.split("(", 1)[0].strip()
+                    trainer_clean = " ".join(clean.split()[-3:]).lower()
+
+                # stage index from the label/template text
+                stage_idx = _get_stage_index_for_template(lbl)
+
+                # info may be dict with count/kills_left
+                if isinstance(info, dict):
+                    cnt = info.get("count", 0)
+                    kl  = _normalize_kills_left(info.get("kills_left"))
+                else:
+                    # legacy: info might be tuple (count, kills_str) or int
+                    if isinstance(info, (list, tuple)) and len(info) >= 1:
+                        try:
+                            cnt = int(info[0])
+                        except Exception:
+                            cnt = 0
+                        kl = _normalize_kills_left(info[1]) if len(info) > 1 else None
+                    else:
+                        try:
+                            cnt = int(info)
+                        except Exception:
+                            cnt = 0
+                        kl = None
+
+                entry = {
+                    "stage_idx": stage_idx,
+                    "template": lbl.lower(),
+                    "count": int(cnt) if isinstance(cnt, (int, str)) and str(cnt).isdigit() else cnt,
+                    "kills_left": kl,
+                    "display_label": lbl
+                }
+                canonical_special.setdefault(trainer_clean, []).append(entry)
+    else:
+        # Unexpected shape: leave canonical_special empty
+        canonical_special = {}
+
+    # ------------------------------------------------------------------
+    # Now for each trainer_clean pick:
+    #   - highest stage seen
+    #   - within that stage, the entry with highest count
+    #   - skip entries that are finished (numeric kills_left <= 0)
+    # ------------------------------------------------------------------
+    latest_per_creature = {}
+
+    for trainer_clean, entries in canonical_special.items():
+        if not entries:
+            continue
+
+        # determine highest stage index seen
+        max_stage = max(e.get("stage_idx", 0) for e in entries)
+
+        # keep only entries from that stage
+        stage_entries = [e for e in entries if e.get("stage_idx", 0) == max_stage]
+        if not stage_entries:
+            continue
+
+        # normalize kills_left and filter finished entries (treat only numeric <=0 as finished)
+        candidates = []
+        for e in stage_entries:
+            kl = e.get("kills_left")
+            if isinstance(kl, str):
+                try:
+                    kl = int(re.sub(r'[^\d-]', '', kl))
+                except Exception:
+                    kl = None
+            e["kills_left"] = kl
+
+            # keep unknown (None) as not finished; only numeric <=0 is finished
+            if isinstance(kl, int) and kl <= 0:
+                continue
+            candidates.append(e)
+
+        if not candidates:
+            # nothing unfinished in this stage; skip creature entirely
+            continue
+
+        # pick the candidate with the highest count (coerce to int where possible)
+        def _count_key(x):
+            v = x.get("count", 0)
+            try:
+                return int(v)
+            except Exception:
+                return 0
+
+        best = max(candidates, key=_count_key)
+
+        # store the display label and values for downstream UI
+        display_label = best.get("display_label") or trainer_clean
+        latest_per_creature[display_label] = {
+            "count": best.get("count", 0),
+            "kills_left": best.get("kills_left")
+        }
+
+    # Build special_creatures in the same shape the rest of the code expects:
+    # { display_label: (count, kills_str) }
+    for lbl, v in latest_per_creature.items():
+        cnt = v.get("count", 0)
+        kl  = v.get("kills_left")
+        kl_str = str(kl) if isinstance(kl, int) else (str(kl) if kl is not None else "")
+        special_creatures[lbl] = (cnt, kl_str)
+
+    # Debug output (optional)
     print("DEBUG: special_creatures sample:", list(special_creatures.items())[:12])
 
     return normal_ranks, special_creatures, skinned, share, coin_events, os.path.basename(folder_path)
@@ -1408,10 +1585,18 @@ creature_table.bind("<Button-3>", show_creature_menu)
 creature_table.bind("<Button-2>", show_creature_menu)
 
 # Log search tab
-tk.Label(frame_logsearch, text="Search word:").grid(row=0, column=0, padx=5, pady=5, sticky="w")
+# Make the frame itself resizable inside the notebook
+frame_logsearch.grid_rowconfigure(2, weight=1)      # Listbox row expands vertically
+frame_logsearch.grid_columnconfigure(1, weight=1)   # Entry expands horizontally
+frame_logsearch.grid_columnconfigure(0, weight=0)
+frame_logsearch.grid_columnconfigure(2, weight=0)
+
+tk.Label(frame_logsearch, text="Search word:")\
+    .grid(row=0, column=0, padx=5, pady=5, sticky="w")
 
 ls_word_var = tk.StringVar()
-tk.Entry(frame_logsearch, textvariable=ls_word_var, width=50).grid(row=0, column=1, padx=5, pady=5)
+tk.Entry(frame_logsearch, textvariable=ls_word_var, width=50)\
+    .grid(row=0, column=1, padx=5, pady=5, sticky="ew")   # <-- stretches horizontal
 
 def ls_run_scan(name, word):
     found_files = []
@@ -1459,13 +1644,20 @@ def ls_start_search():
     threading.Thread(target=ls_run_scan, args=(name, word), daemon=True).start()
 
 tk.Button(frame_logsearch, text="Search", command=ls_start_search)\
-    .grid(row=0, column=2, padx=5, pady=5)
+    .grid(row=0, column=2, padx=5, pady=5, sticky="e")
 
-tk.Label(frame_logsearch, text="Matching Files:").grid(row=1, column=0, padx=5, pady=5, sticky="w")
+tk.Label(frame_logsearch, text="Matching Files:")\
+    .grid(row=1, column=0, padx=5, pady=5, sticky="w")
 
+# Listbox expands in BOTH directions
 ls_results_list = tk.Listbox(frame_logsearch, width=90, height=20)
-ls_results_list.grid(row=2, column=0, columnspan=3, padx=5, pady=5)
+ls_results_list.grid(
+    row=2, column=0, columnspan=3,
+    padx=5, pady=5,
+    sticky="nsew"   # <-- expands both ways
+)
 
+# Scrollbar stays aligned to the right
 scrollbar = tk.Scrollbar(frame_logsearch)
 scrollbar.grid(row=2, column=3, sticky="ns")
 ls_results_list.config(yscrollcommand=scrollbar.set)
