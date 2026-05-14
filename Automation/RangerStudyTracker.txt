@@ -356,7 +356,7 @@ if dataset[nameck] != "Nothing"
 				set allbutoneword logck.num_words
 					setglobal badnam logck.word[secondlastword]
 						call scramble
-						message "recall from scramble:" nama "!!! name one resaved data: " addone.word[0] ""
+						//message "recall from scramble:" nama "!!! name one resaved data: " addone.word[0] ""
 						if allbutoneword == 6
 							if nama == addone.word[0]
 								set matchedname addone.word[0]
@@ -468,7 +468,7 @@ if dataset[nameck] != "Nothing"
 		goto cknext
 else
 	label cknext
-	message "no match; next!"
+	message "no match; next!" // Very spammy dev message
 	if nameck > 4
 		goto end
 	end if
@@ -483,8 +483,9 @@ label end
 // still need "kills number to be corrected" added.
 plusck
 {
+set nextset 0
 set checknumber 1
-topper
+label topper
 set Rdata dataset[checknumber]
 if Rdata.word[0] >= logck.word[16]
 	goto plusme
@@ -495,7 +496,7 @@ else if Rdata.word[0] >= logck.word[13]
 else if Rdata.word[0] >= logck.word[12]
 	goto plusme
 else
-	message "no match; next?"
+	message "no match; next?" // Very spammy dev message
 	if nameck > 4
 		goto exitclaim
 	end if
@@ -508,81 +509,60 @@ if Rdata.num_words == 3
 	set msgmess Rdata.word[2].letter[0]
 	set msgnum Rdata.word[2].letter[1]
 else if Rdata.num_words == 4
+	set wordtoccheck 3
 	set msgmess Rdata.word[3].letter[0]
 	set msgnum Rdata.word[3].letter[1]
 else if Rdata.num_words == 5
+	set wordtoccheck 4
 	set msgmess Rdata.word[4].letter[0]
 	set msgnum Rdata.word[4].letter[1]
 else if Rdata.num_words == 6
+	set wordtoccheck 5
 	set msgmess Rdata.word[5].letter[0]
 	set msgnum Rdata.word[5].letter[1]
+else
+	message "failed plusme"
 end if
-set numberfind 1
-if Rdata.word[wordtoccheck].letter[0] == numberfind
-	if numberfind == 1
-		if Rdata.word[wordtoccheck].letter[1] != "6"
-				goto addit1
-		else if Rdata.word[wordtoccheck].letter[1] == "6"
-				goto addit2
-		end if
-	else if numberfind == 2
-		if Rdata.word[wordtoccheck].letter[1] != "5"
-				goto addit1
-		else if Rdata.word[wordtoccheck].letter[1] == "5"
-				goto addit2
-		end if
-	else if numberfind == 3
-		if Rdata.word[wordtoccheck].letter[1] != "7"
-				goto addit1
-		else if Rdata.word[wordtoccheck].letter[1] == "7"
-				goto addit2
-		end if
-	else if numberfind == 4
-		if Rdata.word[wordtoccheck].letter[1] != "7"
-				goto addit1
-		else if Rdata.word[wordtoccheck].letter[1] == "7"
-				goto addit2
-		end if
-	else if numberfind == 5
-		if Rdata.word[wordtoccheck].letter[1] != "7"
-				goto addit1
-		else if Rdata.word[wordtoccheck].letter[1] == "7"
-				goto addit2
-		end if
-	else if numberfind == 6
-		if Rdata.word[wordtoccheck].letter[1] != "5"
-				goto addit1
-		else if Rdata.word[wordtoccheck].letter[1] == "5"
-				goto addit2
-		end if
-	else if numberfind == 7
-		if Rdata.word[wordtoccheck].letter[1] != "5"
-				goto addit1
-		else if Rdata.word[wordtoccheck].letter[1] == "5"
-				goto addit2
-		end if
-	else if numberfind == 8
-		if Rdata.word[wordtoccheck].letter[1] != "5"
-				goto addit1
-		else if Rdata.word[wordtoccheck].letter[1] == "5"
-				goto addit2
-		end if
-	end if
+if msgmess == 1
+	set nextnum 6
+else if msgmess == 2
+	set nextnum 5
+else if msgmess == 3
+	set nextnum 7
+else if msgmess == 4
+	set nextnum 7
+else if msgmess == 5
+	set nextnum 7
+else if msgmess == 6
+	set nextnum 5
+else if msgmess == 7
+	set nextnum 5
+else if msgmess == 8
+	set nextnum 5
+else
+	message "failed message letter 1"
 end if
-label addit1
-set msgnum + 1
-	set msgchange msgmess
-	set msgchange + msgnum
-		call setmsgdata
-			goto exitclaim
-label addit2
-set msgmess + 1
-set msgnum + 1
-	set msgchange msgmess
-	set msgchange + msgnum
-		call setmsgdata
-			goto exitclaim
+if msgnum != nextnum
+	call addit
+else if msgnum == nextnum
+	set nextset 1
+		call addit
+else
+	message "failed message letter 2"
+end if
+end if
 label exitclaim
+}
+
+addit
+}
+if nextset == 1
+	set msgmess + 1
+end if
+	set msgnum + 1
+		set msgchange msgmess
+		set msgchange + msgnum
+			call setmsgdata
 }
 
 setmsgdata
@@ -622,7 +602,9 @@ else if wordtoccheck == 5
 	setglobal dataseat + " "
 	setglobal dataseat + Rdata.word[4]
 	setglobal dataseat + " "
-	setglobal dataseat + msgchange		
+	setglobal dataseat + msgchange	
+else
+	message "failed dataseat on plusck"
 end if
 call updater
 }
@@ -661,6 +643,8 @@ else if wordcount == ts4 // 12 words
 			setglobal newsave + savedlog.word[ts3]
 			setglobal newsave + " "
 			setglobal newsave + nama
+else
+	message "Failed adder wordcount"
 end if
 // addnew study
 // might need to add check for how much whatzits you have
@@ -672,9 +656,9 @@ if dataset[Wdata] == ""
 	setglobal dataset[Wdata] + " "
 	setglobal dataset[Wdata] + "10"	
 else
-	if Wdata < 5
+	if Wdata < 5 // Change to checked whatzitnumber + 1, later 
 		set Wdata + 1
-	else if Wdata > 4
+	else if Wdata > 4 // Change to checked whatzitnumber, later
 		set Wdata 1
 			goto endish
 	end if
