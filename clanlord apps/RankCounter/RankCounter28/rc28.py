@@ -1178,64 +1178,121 @@ def open_ignore_manager():
     )
     btn_restore_selected.pack(pady=10)
 
-
 def open_kills_to_next_table():
-    """Open a window showing the embedded kills_to_next table."""
-    kills_to_next_local = {
-        "almost nothing left to learn about the movements of the <creature>.": {1:4,2:2,3:2,4:2,5:2},
-        "almost nothing left to learn about the ways of the <creature>.": {1:4,2:2,3:2,4:2,5:2},
-        "almost nothing left to learn about the essence of the <creature>.": {1:4,2:2,3:2,4:2,5:2},
-
-        "a few things to learn about the movements of the <creature>.": {1:3,2:3,3:3,4:3,5:3},
-        "a few things to learn about the ways of the <creature>.": {1:3,2:3,3:3,4:3,5:3},
-        "a few things to learn about the essence of the <creature>.": {1:3,2:3,3:3,4:3,5:3},
-
-        "more than a few things to learn about the ways of the <creature>.": {1:7,2:7,3:7,4:7,5:8},
-        "more than a few things to learn about the essence of the <creature>.": {1:7,2:7,3:7,4:7,5:8},
-
-        "some things to learn about the ways of the <creature>.": {1:12,2:12,3:12,4:12,5:12,6:12,7:9},
-        "some things to learn about the essence of the <creature>.": {1:12,2:12,3:12,4:12,5:12,6:12,7:9},
-
-        "many things to learn about the ways of the <creature>.": {1:20,2:20,3:20,4:20,5:20,6:20,7:16},
-        "many things to learn about the essence of the <creature>.": {1:20,2:20,3:20,4:20,5:20,6:20,7:16},
-
-        "much to learn about the ways of the <creature>.": {1:30,2:30,3:30,4:30,5:30,6:30,7:20},
-        "much to learn about the essence of the <creature>.": {1:30,2:30,3:30,4:30,5:30,6:30,7:20},
-
-        "a lot to learn about the ways of the <creature>.": {1:100,2:30,3:30,4:30,5:30},
-        "a lot to learn about the essence of the <creature>.": {1:100,2:30,3:30,4:30,5:30},
-
-        "a vast amount to learn about the ways of the <creature>.": {1:100,2:100,3:100,4:100,5:100,6:100},
-        "a vast amount to learn about the essence of the <creature>.": {1:100,2:100,3:100,4:100,5:100,6:100}
-    }
-
-    win = tk.Toplevel(root)
-    win.title("Kills Required Table")
-    win.geometry("900x500")
+    """Display the full kills-to-next table (48 messages) in a spreadsheet-like window."""
+    win = tk.Toplevel()
+    win.title("Kills‑to‑Next Message Table")
+    win.geometry("1000x650")
 
     frame = ttk.Frame(win)
-    frame.pack(fill="both", expand=True, padx=8, pady=8)
+    frame.pack(fill="both", expand=True)
 
-    cols = ("Phrase", "Message #", "Kills to Next")
-    tv = ttk.Treeview(frame, columns=cols, show="headings")
+    # Scrollbars
+    yscroll = ttk.Scrollbar(frame, orient="vertical")
+    xscroll = ttk.Scrollbar(frame, orient="horizontal")
 
-    for c in cols:
-        tv.heading(c, text=c)
+    cols = ("msg_num", "message", "kills_to_next", "kills_left")
+    tree = ttk.Treeview(
+        frame,
+        columns=cols,
+        show="headings",
+        yscrollcommand=yscroll.set,
+        xscrollcommand=xscroll.set,
+    )
 
-    tv.column("Phrase", width=600, anchor="w")
-    tv.column("Message #", width=100, anchor="center")
-    tv.column("Kills to Next", width=120, anchor="center")
+    tree.heading("msg_num", text="Message #")
+    tree.heading("message", text="Message")
+    tree.heading("kills_to_next", text="Kills to Next")
+    tree.heading("kills_left", text="Kills Left")
 
-    tv.pack(fill="both", expand=True, side="left")
+    tree.column("msg_num", width=80, anchor="center")
+    tree.column("message", width=600, anchor="w")
+    tree.column("kills_to_next", width=120, anchor="center")
+    tree.column("kills_left", width=120, anchor="center")
 
-    vsb = ttk.Scrollbar(frame, orient="vertical", command=tv.yview)
-    tv.configure(yscrollcommand=vsb.set)
-    vsb.pack(side="right", fill="y")
+    yscroll.config(command=tree.yview)
+    xscroll.config(command=tree.xview)
 
-    for phrase, mapping in kills_to_next_local.items():
-        for msg_num, kills_needed in mapping.items():
-            tv.insert("", "end", values=(phrase, msg_num, kills_needed))
+    tree.grid(row=0, column=0, sticky="nsew")
+    yscroll.grid(row=0, column=1, sticky="ns")
+    xscroll.grid(row=1, column=0, sticky="ew")
 
+    frame.grid_rowconfigure(0, weight=1)
+    frame.grid_columnconfigure(0, weight=1)
+
+    # ------------------------------------------------------------------
+    # FULL DATASET FROM YOUR SPREADSHEET (48 messages)
+    # ------------------------------------------------------------------
+    kills_table = [
+        (1,  "almost nothing", 2),
+        (2,  "almost nothing", 2),
+        (3,  "almost nothing", 2),
+        (4,  "almost nothing", 2),
+        (5,  "almost nothing", 4),
+
+        (6,  "a few", 3),
+        (7,  "a few", 3),
+        (8,  "a few", 3),
+        (9,  "a few", 3),
+        (10, "a few", 3),
+
+        (11, "more than a few", 8),
+        (12, "more than a few", 7),
+        (13, "more than a few", 7),
+        (14, "more than a few", 7),
+        (15, "more than a few", 7),
+
+        (16, "some things", 9),
+        (17, "some things", 12),
+        (18, "some things", 12),
+        (19, "some things", 12),
+        (20, "some things", 12),
+        (21, "some things", 12),
+        (23, "some things", 12),
+
+        (24, "many things", 16),
+        (25, "many things", 20),
+        (26, "many things", 20),
+        (27, "many things", 20),
+        (28, "many things", 20),
+        (29, "many things", 20),
+        (30, "many things", 20),
+
+        (31, "much to learn", 20),
+        (32, "much to learn", 30),
+        (33, "much to learn", 30),
+        (34, "much to learn", 30),
+        (35, "much to learn", 30),
+        (36, "much to learn", 30),
+        (37, "much to learn", 30),
+
+        (38, "a lot to learn", 30),
+        (39, "a lot to learn", 30),
+        (40, "a lot to learn", 30),
+        (41, "a lot to learn", 30),
+        (42, "a lot to learn", 100),
+
+        (43, "a vast amount", 100),
+        (44, "a vast amount", 100),
+        (45, "a vast amount", 100),
+        (46, "a vast amount", 100),
+        (47, "a vast amount", 100),
+        (48, "a vast amount", 100),
+    ]
+
+    # Stage totals
+    stage_totals = {}
+    for _, stage, ktn in kills_table:
+        stage_totals.setdefault(stage, 0)
+        stage_totals[stage] += ktn
+
+    # Insert rows
+    for msg_num, stage, ktn in kills_table:
+        msg = f"You have {stage} left to learn about the <function> of the <creature>."
+        kills_left = stage_totals[stage]
+        tree.insert("", "end", values=(msg_num, msg, ktn, kills_left))
+
+    return win
 
 def open_special_kills_table():
     """Open a Toplevel window showing special_kills.txt as a table."""
@@ -1283,7 +1340,6 @@ def open_special_kills_table():
 
     for r in rows:
         tv.insert("", "end", values=r)
-
 
 # ----------------------------------------------------------------------
 # ------------------------- MAIN GUI SETUP -----------------------------
@@ -1584,10 +1640,13 @@ def show_creature_menu(event):
 creature_table.bind("<Button-3>", show_creature_menu)
 creature_table.bind("<Button-2>", show_creature_menu)
 
-# Log search tab
+# ----------------------------------------------------------------------
+# LOG SEARCH TAB — sentence-level search, file path hidden
+# ----------------------------------------------------------------------
+
 # Make the frame itself resizable inside the notebook
-frame_logsearch.grid_rowconfigure(2, weight=1)      # Listbox row expands vertically
-frame_logsearch.grid_columnconfigure(1, weight=1)   # Entry expands horizontally
+frame_logsearch.grid_rowconfigure(2, weight=1)
+frame_logsearch.grid_columnconfigure(1, weight=1)
 frame_logsearch.grid_columnconfigure(0, weight=0)
 frame_logsearch.grid_columnconfigure(2, weight=0)
 
@@ -1596,33 +1655,82 @@ tk.Label(frame_logsearch, text="Search word:")\
 
 ls_word_var = tk.StringVar()
 tk.Entry(frame_logsearch, textvariable=ls_word_var, width=50)\
-    .grid(row=0, column=1, padx=5, pady=5, sticky="ew")   # <-- stretches horizontal
+    .grid(row=0, column=1, padx=5, pady=5, sticky="ew")
 
+# Hidden storage for file paths (parallel to Listbox)
+ls_hidden_paths = []
+
+
+# --- Sentence extractor ------------------------------------------------
+def ls_extract_sentences(file_path, word):
+    """Return list of (full_line, file_path) for each match."""
+    results = []
+    try:
+        with open(file_path, "r", encoding="utf-8", errors="ignore") as f:
+            for raw_line in f:
+                line = raw_line.rstrip("\r\n")
+                if word.lower() in line.lower():
+                    results.append((line, file_path))
+    except:
+        pass
+
+    return results
+
+
+# --- UPDATED: Background thread search -------------------------------------
 def ls_run_scan(name, word):
-    found_files = []
+    results = []
+
     for folder in character_folders.get(name, []):
-        if os.path.isdir(folder):
-            found_files.extend(scan_directory(folder, word))
-    ls_results_list.after(0, ls_update_results, found_files, word)
+        if not os.path.isdir(folder):
+            continue
 
-def ls_update_results(found_files, word):
+        for root, dirs, files in os.walk(folder):
+            for filename in files:
+                if not filename.lower().endswith(".txt"):
+                    continue
+
+                full_path = os.path.join(root, filename)
+                matches = ls_extract_sentences(full_path, word)
+                results.extend(matches)
+
+    ls_results_list.after(0, ls_update_results, results, word)
+
+
+# --- UPDATED: Show sentences only ------------------------------------------
+def ls_update_results(results, word):
     ls_results_list.delete(0, tk.END)
-    if found_files:
-        ls_results_list.insert(tk.END, f"Found '{word}' in:")
-        ls_results_list.insert(tk.END, "--------------------------------")
-        for f in found_files:
-            ls_results_list.insert(tk.END, f)
-    else:
-        ls_results_list.insert(tk.END, f"No files found containing '{word}'.")
+    ls_hidden_paths.clear()
 
+    if not results:
+        ls_results_list.insert(tk.END, f"No sentences found containing '{word}'.")
+        return
+
+    ls_results_list.insert(tk.END, f"Sentences containing '{word}':")
+    ls_hidden_paths.append(None)  # placeholder for header
+
+    ls_results_list.insert(tk.END, "--------------------------------")
+    ls_hidden_paths.append(None)
+
+    for sentence, file_path in results:
+        ls_results_list.insert(tk.END, sentence)
+        ls_hidden_paths.append(file_path)  # store file path invisibly
+
+
+# --- UPDATED: Double-click opens file using hidden list ---------------------
 def ls_open_selected_file(event=None):
     sel = ls_results_list.curselection()
     if not sel:
         return
-    file_path = ls_results_list.get(sel[0])
-    if os.path.isfile(file_path):
+
+    index = sel[0]
+    file_path = ls_hidden_paths[index]
+
+    if file_path and os.path.isfile(file_path):
         open_file_with_default_app(file_path)
 
+
+# --- Search button handler --------------------------------------------------
 def ls_start_search():
     name = get_selected_character()
     if not name:
@@ -1633,31 +1741,34 @@ def ls_start_search():
         messagebox.showerror("Error", "This character has no folders assigned.")
         return
 
-    word = ls_word_var.get()
+    word = ls_word_var.get().strip()
     if not word:
         messagebox.showerror("Error", "Please enter a word to search for.")
         return
 
     ls_results_list.delete(0, tk.END)
     ls_results_list.insert(tk.END, "Scanning all folders... Please wait.")
+    ls_hidden_paths.clear()
 
     threading.Thread(target=ls_run_scan, args=(name, word), daemon=True).start()
 
+
+# --- Search button ----------------------------------------------------------
 tk.Button(frame_logsearch, text="Search", command=ls_start_search)\
     .grid(row=0, column=2, padx=5, pady=5, sticky="e")
 
-tk.Label(frame_logsearch, text="Matching Files:")\
+tk.Label(frame_logsearch, text="Matching Sentences:")\
     .grid(row=1, column=0, padx=5, pady=5, sticky="w")
 
-# Listbox expands in BOTH directions
+
+# --- Listbox expands in BOTH directions ------------------------------------
 ls_results_list = tk.Listbox(frame_logsearch, width=90, height=20)
 ls_results_list.grid(
     row=2, column=0, columnspan=3,
     padx=5, pady=5,
-    sticky="nsew"   # <-- expands both ways
+    sticky="nsew"
 )
 
-# Scrollbar stays aligned to the right
 scrollbar = tk.Scrollbar(frame_logsearch)
 scrollbar.grid(row=2, column=3, sticky="ns")
 ls_results_list.config(yscrollcommand=scrollbar.set)
