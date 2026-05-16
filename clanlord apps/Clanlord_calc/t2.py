@@ -56,29 +56,37 @@ weapon_data = {
 }
 
 left_hand_data = {
-    "None": 0,
-    "Main Gauche": 1,
-    "Wooden Shield": 2,
-    "Atkite": 101,
-    "Darkite": 102,
-    "Balthite": 103,
-    "Dethite": 104,
-    "Atkite (Boosted)": 105,
-    "Darkite (Boosted)": 106,
-    "Balthite (Boosted)": 107,
-    "Dethite (Boosted)": 108
+    "None": {},
+    "Main Gauche": {"Defense": 1},
+    "Wooden Shield": {"Defense": 2},
+
+    # Mineral shields (normal)
+    "Atkite": {"AtkiteStr": 1},
+    "Darkite": {"DarkiteStr": 1},
+    "Balthite": {"BalthiteStr": 1},
+    "Dethite": {"DethiteStr": 1},
+
+    # Mineral shields (boosted)
+    "Atkite (Boosted)": {"AtkiteStr": 1.5},
+    "Darkite (Boosted)": {"DarkiteStr": 1.5},
+    "Balthite (Boosted)": {"BalthiteStr": 1.5},
+    "Dethite (Boosted)": {"DethiteStr": 1.5}
 }
 
 shoulder_data = {
-    "None": 0,
-    "Atkite": 101,
-    "Darkite": 102,
-    "Balthite": 103,
-    "Dethite": 104,
-    "Atkite (Boosted)": 105,
-    "Darkite (Boosted)": 106,
-    "Balthite (Boosted)": 107,
-    "Dethite (Boosted)": 108
+    "None": {},
+
+    # Mineral pauldrons (normal)
+    "Atkite": {"AtkiteStr": 1},
+    "Darkite": {"DarkiteStr": 1},
+    "Balthite": {"BalthiteStr": 1},
+    "Dethite": {"DethiteStr": 1},
+
+    # Mineral pauldrons (boosted)
+    "Atkite (Boosted)": {"AtkiteStr": 1.5},
+    "Darkite (Boosted)": {"DarkiteStr": 1.5},
+    "Balthite (Boosted)": {"BalthiteStr": 1.5},
+    "Dethite (Boosted)": {"DethiteStr": 1.5}
 }
 
 trainer_data = {
@@ -333,7 +341,7 @@ trainer_groups = {
     "Subclasses": [
         "Atkite", "Darkite", "Balthite", "Dethite", "Fell", "Bloodblade", 
         "Gossamer", "Tracking", "Cryptus", "Disabla", "Dantus", 
-        "Champion Weapon", "Channel Master"
+        "Fell", "Channel Master"
     ]
 }
 

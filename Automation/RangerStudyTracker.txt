@@ -555,7 +555,7 @@ label exitclaim
 }
 
 addit
-}
+{
 if nextset == 1
 	set msgmess + 1
 end if
