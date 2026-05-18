@@ -484,6 +484,9 @@ def count_coins(texts, character_name, min_time=None):
 def scan_and_aggregate(folder_path, character_name):
     import re
 
+    # --------------------------------------------------------------
+    # Load mapping for normal ranks
+    # --------------------------------------------------------------
     words        = read_words_from_file(words_file_path)
     replacements = read_words_from_file(replacement_file_path)
 
@@ -493,24 +496,27 @@ def scan_and_aggregate(folder_path, character_name):
             f"trainers.txt ({len(replacements)} lines) must match exactly."
         )
 
-    # Create mapping
     mapping = dict(zip(words, replacements))
 
+    # --------------------------------------------------------------
+    # Load text logs
+    # --------------------------------------------------------------
     texts = read_text_files(folder_path)
-    word_occ    = count_word_occurrences(texts, words)
+    word_occ = count_word_occurrences(texts, words)
 
-    # NEW: special study extraction
+    # NEW: extract study messages
     special_occ, exclude = count_special_lines(texts)
 
-    # No more filter_finished_studies()
-    filtered_special = special_occ
-
+    # --------------------------------------------------------------
+    # Coin counting
+    # --------------------------------------------------------------
     filter_value = time_filter_var.get()
     min_time = get_min_time_from_filter(filter_value)
-
     skinned, share, coin_events = count_coins(texts, character_name, min_time)
 
-    # Build normal ranks
+    # --------------------------------------------------------------
+    # NORMAL RANKS
+    # --------------------------------------------------------------
     normal_ranks = {}
     for w, c in word_occ.items():
         if c:
@@ -519,12 +525,11 @@ def scan_and_aggregate(folder_path, character_name):
                 normal_ranks[t] = normal_ranks.get(t, 0) + c
 
     # --------------------------------------------------------------
-    # SPECIAL CREATURE PROCESSING (NEW SYSTEM)
+    # SPECIAL CREATURE PROCESSING (MOST RECENT STAGE)
     # --------------------------------------------------------------
-
     latest_per_creature = {}
 
-    for trainer_clean, entries in filtered_special.items():
+    for trainer_clean, entries in special_occ.items():
         if not entries:
             continue
 
@@ -537,27 +542,37 @@ def scan_and_aggregate(folder_path, character_name):
             else:
                 e["msg_num"] = None
 
-        known   = [e for e in entries if e["msg_num"] is not None]
-        unknown = [e for e in entries if e["msg_num"] is None]
+        # ----------------------------------------------------------
+        # Determine current stage using MOST RECENT message
+        # ----------------------------------------------------------
+        entries_sorted = sorted(
+            entries,
+            key=lambda e: (e["timestamp"] is None, e["timestamp"])
+        )
+        current_stage = entries_sorted[-1]["function"]
 
-        if known:
-            # A: lowest message number
-            best = min(known, key=lambda e: e["msg_num"])
-        else:
-            # B: latest timestamp
-            best = max(unknown, key=lambda e: e["timestamp"])
+        # Filter to only messages of the current stage
+        stage_entries = [e for e in entries if e["function"] == current_stage]
+
+        # ----------------------------------------------------------
+        # Pick the most recent message WITHIN the current stage
+        # ----------------------------------------------------------
+        stage_entries_sorted = sorted(
+            stage_entries,
+            key=lambda e: (e["timestamp"] is None, e["timestamp"])
+        )
+        best = stage_entries_sorted[-1]
 
         latest_per_creature[trainer_clean] = best
 
     # --------------------------------------------------------------
     # Convert to UI format
     # --------------------------------------------------------------
-
     special_creatures = {}
 
     for trainer_clean, e in latest_per_creature.items():
         lbl = e["display_label"]
-        cnt = e["count"]
+        msg_num = e["msg_num"]
         kl  = e["kills_left"]
 
         if isinstance(kl, int):
@@ -567,7 +582,7 @@ def scan_and_aggregate(folder_path, character_name):
         else:
             kl_str = str(kl)
 
-        special_creatures[lbl] = (cnt, kl_str)
+        special_creatures[lbl] = (msg_num, kl_str)
 
     return normal_ranks, special_creatures, skinned, share, coin_events, os.path.basename(folder_path)
 
