@@ -74,6 +74,67 @@ kills_to_next = {
     "a vast amount to learn about the essence of the": {1:100,2:100,3:100,4:100,5:100,6:100}
 }
 
+kills_table = [
+    (1,  "almost nothing", 2),
+    (2,  "almost nothing", 2),
+    (3,  "almost nothing", 2),
+    (4,  "almost nothing", 2),
+    (5,  "almost nothing", 4),
+
+    (6,  "a few", 3),
+    (7,  "a few", 3),
+    (8,  "a few", 3),
+    (9,  "a few", 3),
+    (10, "a few", 3),
+
+    (11, "more than a few", 8),
+    (12, "more than a few", 7),
+    (13, "more than a few", 7),
+    (14, "more than a few", 7),
+    (15, "more than a few", 7),
+
+    (16, "some things", 9),
+    (17, "some things", 12),
+    (18, "some things", 12),
+    (19, "some things", 12),
+    (20, "some things", 12),
+    (21, "some things", 12),
+    (23, "some things", 12),
+
+    (24, "many things", 16),
+    (25, "many things", 20),
+    (26, "many things", 20),
+    (27, "many things", 20),
+    (28, "many things", 20),
+    (29, "many things", 20),
+    (30, "many things", 20),
+
+    (31, "much to learn", 20),
+    (32, "much to learn", 30),
+    (33, "much to learn", 30),
+    (34, "much to learn", 30),
+    (35, "much to learn", 30),
+    (36, "much to learn", 30),
+    (37, "much to learn", 30),
+
+    (38, "a lot to learn", 30),
+    (39, "a lot to learn", 30),
+    (40, "a lot to learn", 30),
+    (41, "a lot to learn", 30),
+    (42, "a lot to learn", 100),
+
+    (43, "a vast amount", 100),
+    (44, "a vast amount", 100),
+    (45, "a vast amount", 100),
+    (46, "a vast amount", 100),
+    (47, "a vast amount", 100),
+    (48, "a vast amount", 100),
+]
+
+phrase_to_msgnums = {}
+for msg_num, phrase_group, _kills_required in kills_table:
+    phrase_to_msgnums.setdefault(phrase_group, []).append(msg_num)
+
 CHAR_FILE = "characters.json"
 character_ranks = {}
 
@@ -258,282 +319,121 @@ def count_word_occurrences(texts, words):
 # ----------------------------------------------------------------------
 
 def count_special_lines(texts):
+    """
+    Extracts all study-related lines and returns:
+        special_occ: { trainer_clean: [entry, entry, ...] }
+        exclude: set()   (kept for compatibility)
+
+    Each entry contains:
+        phrase_group, function, timestamp, kills_left, count, display_label
+    """
     import re
+    from datetime import datetime
 
-    # Load phrases
-    raw = [p.rstrip('.') for p in read_words_from_file(special_file_path)]
-    phrases = sorted(raw, key=len, reverse=True)
-    phrases_lc = [p.lower() for p in phrases]
-    types = ('ways', 'movements', 'essence')
+    special_occ = {}
+    exclude = set()
 
-    # Strip timestamps
-    ts_strip = re.compile(r'^\[?\d{1,2}:\d{2}:\d{2}\w?\]?\s*[•>:-]*\s*')
+    # Timestamp format: 5/10/26 8:35:19a • You have many things...
+    ts_re = re.compile(r"^(\d+/\d+/\d+ \d+:\d+:\d+[ap])\s*[•>:-]*\s*(.*)$")
 
-    # Kill message regex
-    KILL_RX = re.compile(
-        r"(?:you|you helped)\s+(?:slaughtered|dispatched|killed|vanquished)\s+the\s+(.+?)\.",
+    # Study message regex
+    study_re = re.compile(
+        r"You have (almost nothing|a few|more than a few|some things|many things|much to learn|a lot to learn|a vast amount)"
+        r" to learn about the (movements|ways|essence) of the (.+?)\.",
         re.IGNORECASE
     )
 
-    # Stage ordering for filtering (used earlier in the function)
-    stage_order = {"movements": 1, "ways": 2, "essence": 3}
+    # Kill message regex
+    kill_re = re.compile(
+        r"(?:you|you helped)\s+(?:slaughtered|dispatched|killed|vanquished)\s+the\s+(.+?)\.",
+        re.IGNORECASE
+    )
 
     # Count kills per creature
     kill_counts = {}
     for content, _ in texts:
         for line in content.splitlines():
-            m = KILL_RX.search(line)
+            m = kill_re.search(line)
             if m:
                 creature = m.group(1).strip().lower()
                 kill_counts[creature] = kill_counts.get(creature, 0) + 1
 
-    special = {}
-    study_state = {}
-    current_stage = {}
-
-    def norm(s: str) -> str:
-        s = re.sub(r'[^\w\s\'-]', '', s.strip())
-        return s.lower()
-
     # MAIN LOOP
     for content, _ in texts:
         for raw_line in content.splitlines():
-            line = ts_strip.sub('', raw_line.strip())
-            low = line.lower()
-
-            if is_excluded(line):
+            raw_line = raw_line.strip()
+            if not raw_line:
                 continue
 
-            # Study begin/abandon
-            if "you abandon your study of the" in low:
-                m = re.search(r"you abandon your study of the (.+?)\.", low)
-                if m:
-                    creature = norm(m.group(1))
-                    study_state[creature] = False
-                    current_stage[creature] = 0
-                continue
-
-            if "you begin studying the movements of the" in low:
-                m = re.search(r"you begin studying the movements of the (.+?)\.", low)
-                if m:
-                    c = norm(m.group(1))
-                    study_state[c] = True
-                    current_stage[c] = stage_order["movements"]
-                continue
-
-            if "you begin studying the ways of the" in low:
-                m = re.search(r"you begin studying the ways of the (.+?)\.", low)
-                if m:
-                    c = norm(m.group(1))
-                    study_state[c] = True
-                    current_stage[c] = stage_order["ways"]
-                continue
-
-            if "you begin studying the essence of the" in low:
-                m = re.search(r"you begin studying the essence of the (.+?)\.", low)
-                if m:
-                    c = norm(m.group(1))
-                    study_state[c] = True
-                    current_stage[c] = stage_order["essence"]
-                continue
-                
-            m = None
-
-            # finished movements: "You learn to fight the <creature> more effectively."
-            m = re.search(r'you learn to fight the (.+?) more effectively', low, re.IGNORECASE)
-            if m:
-                c = norm(m.group(1))
-                # remove any existing special entries for earlier stages so they won't show
-                if c in special:
-                    special.pop(c, None)
-                study_state[c] = False
-                # promote stage to ways (if you want to treat completion as starting next stage)
-                current_stage[c] = stage_order.get("ways", current_stage.get(c, 0))
-                continue
-
-            # finished ways: "You learn to befriend the <creature>."
-            m = re.search(r'you learn to befriend the (.+?)\.', low, re.IGNORECASE)
-            if m:
-                c = norm(m.group(1))
-                if c in special:
-                    special.pop(c, None)
-                study_state[c] = False
-                # promote stage to essence
-                current_stage[c] = stage_order.get("essence", current_stage.get(c, 0))
-                continue
-
-            # finished essence: "You learn to assume the form of the <creature>."
-            m = re.search(r'you learn to assume the form of the (.+?)\.', low, re.IGNORECASE)
-            if m:
-                c = norm(m.group(1))
-                # final completion: remove any tracked entries and mark finished
-                if c in special:
-                    special.pop(c, None)
-                study_state[c] = False
-                # set to highest stage index (optional)
-                current_stage[c] = stage_order.get("essence", current_stage.get(c, 0))
-                continue
-
-            if "you have " not in low:
-                continue
-
-            # Phrase-based fallback
-            try:
-                idx = low.index("you have ")
-                after = line[idx + len("you have "):].strip()
-            except ValueError:
-                continue
-
-            for pidx, phrase_lc in enumerate(phrases_lc):
-                if after.lower().startswith(phrase_lc):
-                    orig_phrase = phrases[pidx]
-                    rest = after[len(phrase_lc):].lstrip()
-                    trainer = rest.split('.', 1)[0].strip()
-                    trainer = re.sub(r'\s*\(.*\)\s*$', '', trainer).strip()
-                    trainer_clean = norm(trainer)
-                    if not trainer_clean:
-                        break
-
-                    full_phrase = f"{phrase_lc} {trainer_clean}"
-                    if not after.lower().startswith(full_phrase):
-                        continue
-
-                    found = next((t for t in types if t in orig_phrase.lower()), None)
-
-                    # Stage filtering (ignore messages from earlier stages)
-                    if found:
-                        creature_stage = current_stage.get(trainer_clean, 1)
-                        message_stage = stage_order[found]
-                        if message_stage < creature_stage:
-                            continue
-
-                    template = orig_phrase.lower().strip()
-
-                    trainer_bucket = special.setdefault(trainer_clean, {})
-                    creature_bucket = trainer_bucket.setdefault(found, {"stage": None, "counts": {}})
-
-                    incoming_stage = _get_stage_index_for_template(template)
-
-                    if creature_bucket["stage"] is None:
-                        creature_bucket["stage"] = incoming_stage
-                        creature_bucket["counts"][template] = creature_bucket["counts"].get(template, 0) + 1
-                    else:
-                        current_stage_val = creature_bucket["stage"]
-                        if incoming_stage < current_stage_val:
-                            # Older stage message — ignore
-                            pass
-                        elif incoming_stage > current_stage_val:
-                            # Newer stage reached — promote and reset counts to only this template
-                            creature_bucket["stage"] = incoming_stage
-                            creature_bucket["counts"] = {template: 1}
-                        else:
-                            # Same stage — accumulate
-                            creature_bucket["counts"][template] = creature_bucket["counts"].get(template, 0) + 1
-
-                    # msg_num is the count for this template (after stage logic)
-                    msg_num = creature_bucket["counts"].get(template, 0)
-
-                    # Get total kills done for this creature
-                    kills_done = kill_counts.get(trainer_clean, 0)
-
-                    # Get the TOTAL kills required for this stage (your msg[] table)
-                    # summing all kills_to_next values for this template.
-                    stage_table = kills_to_next.get(template, {})
-                    total_required = sum(stage_table.values()) if stage_table else None
-
-                    # kills to go
-                    if total_required is not None:
-                        kills_left = max(total_required - kills_done, 0)
-                    else:
-                        kills_left = None
-                        
-                    if isinstance(kills_left, int) and kills_left <= 0:
-                        continue
-
-                    # Build display label
-                    first4 = " ".join(orig_phrase.split()[:4])
-                    display_map = {
-                        "ways": "ways (befriend)",
-                        "essence": "essence (morph)",
-                        "movements": "movements",
-                    }
-
-                    if found:
-                        display_label = f"{first4} {trainer} ({display_map[found]})"
-                    else:
-                        display_label = f"{first4} {trainer}"
-
-                    if kills_left is not None:
-                        display_label += f" — {kills_left} kills left"
-
-                    # Store the final info dict (template -> info)
-                    special[trainer_clean][found][template] = {
-                        "count": msg_num,
-                        "display_label": display_label,
-                        "kills_left": kills_left,
-                    }
-
-                    break
-
-    # Flatten into a canonical structure keyed by trainer_clean
-    flat = {}   # { trainer_clean: [ { "stage_idx": int, "template": str, "count": int, "kills_left": int|None, "display_label": str } ] }
-
-    for trainer_clean, stages in special.items():
-        for stage_name, templates in stages.items():
-            for template, info in templates.items():
-                t_low = str(template).strip().lower()
-                if t_low == "stage" or t_low == "counts" or t_low.startswith("stage ") or t_low.startswith("counts "):
-                    print("DEBUG: skipping artifact template for", trainer_clean, "template:", repr(template))
-                    continue
-
-                # info should be dict with display_label/count/kills_left
-                if isinstance(info, dict):
-                    lbl = info.get("display_label")
-                    cnt = info.get("count", 0)
-                    kl  = info.get("kills_left")
-                else:
-                    try:
-                        cnt = int(info)
-                    except Exception:
-                        cnt = 0
-                    lbl = f"{' '.join(template.split()[:4])} {trainer_clean}"
-                    kl = None
-
-                stage_idx = _get_stage_index_for_template(str(stage_name or ""))
-                entry = {
-                    "stage_idx": stage_idx,
-                    "template": t_low,
-                    "count": int(cnt) if isinstance(cnt, (int, str)) and str(cnt).isdigit() else cnt,
-                    "kills_left": kl,
-                    "display_label": lbl or f"{' '.join(template.split()[:4])} {trainer_clean}"
-                }
-
-                flat.setdefault(trainer_clean, []).append(entry)
-
-    return flat, {}
-
-
-
-def count_kills(texts):
-    """Return dict: { creature_name: total_kills }"""
-    kills = {}
-    KILL_RX = re.compile(
-        r"(?:you|you helped)\s+(?:slaughtered|dispatched|killed|vanquished)\s+the\s+(.+?)\.",
-        re.IGNORECASE
-    )
-    for content, _ in texts:
-        for line in content.splitlines():
-            m = KILL_RX.search(line)
+            # Extract timestamp + message
+            m = ts_re.match(raw_line)
             if not m:
                 continue
-            creature = m.group(1).strip().lower()
-            kills[creature] = kills.get(creature, 0) + 1
-    return kills
 
-def filter_finished_studies(special, exclude):
-    # After flattening, we cannot detect finished studies reliably.
-    # So we simply return the flat dict unchanged.
-    return special
+            ts_raw, msg = m.groups()
+
+            # Convert timestamp
+            try:
+                timestamp = datetime.strptime(ts_raw, "%m/%d/%y %I:%M:%S%p")
+            except Exception:
+                timestamp = None
+
+            low = msg.lower()
+
+            # ---------------------------------------------------------
+            # Abandon study (this is the ONLY old rule we keep)
+            # ---------------------------------------------------------
+            if "you abandon your study of the" in low:
+                m_ab = re.search(r"you abandon your study of the (.+?)\.", low)
+                if m_ab:
+                    creature = m_ab.group(1).strip().lower()
+                    special_occ.pop(creature, None)
+                continue
+
+            # ---------------------------------------------------------
+            # Study progression message
+            # ---------------------------------------------------------
+            m2 = study_re.search(msg)
+            if not m2:
+                continue
+
+            phrase_group = m2.group(1).lower()
+            function     = m2.group(2).lower()
+            creature     = m2.group(3).strip().lower()
+
+            trainer_clean = creature
+
+            # Build kills_to_next lookup key
+            kt_key = f"{phrase_group} to learn about the {function} of the"
+
+            # Determine kills_left
+            kills_done = kill_counts.get(trainer_clean, 0)
+            stage_table = kills_to_next.get(kt_key, {})
+
+            if stage_table:
+                total_required = sum(stage_table.values())
+                kills_left = max(total_required - kills_done, 0)
+            else:
+                kills_left = None
+
+            # Build display label
+            display_label = f"You have {phrase_group} to learn about the {function} of the {creature}."
+            if kills_left is not None:
+                display_label += f" — {kills_left} kills left"
+
+            # Build entry
+            entry = {
+                "phrase_group": phrase_group,
+                "function": function,
+                "timestamp": timestamp,
+                "kills_left": kills_left,
+                "count": 1,
+                "display_label": display_label,
+            }
+
+            special_occ.setdefault(trainer_clean, []).append(entry)
+
+    return special_occ, exclude
 
 # -- Coin Scanning -----------------------------------------------------------
 
@@ -593,234 +493,81 @@ def scan_and_aggregate(folder_path, character_name):
             f"trainers.txt ({len(replacements)} lines) must match exactly."
         )
 
-    # Wrap mapping so any future assignment is logged with a stack trace
-    class LoggingDict(dict):
-        def __setitem__(self, key, value):
-            import traceback
-            print("LOGGING: mapping assignment detected")
-            print("  key:", repr(key), "value type:", type(value), "value repr:", repr(value)[:200])
-            traceback.print_stack(limit=8)
-            super().__setitem__(key, value)
-
-        def update(self, *args, **kwargs):
-            for k, v in dict(*args, **kwargs).items():
-                self.__setitem__(k, v)
-
-    # Create mapping using the logging wrapper so any later mutation is caught
-    mapping = LoggingDict(zip(words, replacements))
-    print("DEBUG: mapping created; sample values:", list(mapping.items())[:8])
+    # Create mapping
+    mapping = dict(zip(words, replacements))
 
     texts = read_text_files(folder_path)
     word_occ    = count_word_occurrences(texts, words)
+
+    # NEW: special study extraction
     special_occ, exclude = count_special_lines(texts)
-    filtered_special = filter_finished_studies(special_occ, exclude)
+
+    # No more filter_finished_studies()
+    filtered_special = special_occ
 
     filter_value = time_filter_var.get()
     min_time = get_min_time_from_filter(filter_value)
 
     skinned, share, coin_events = count_coins(texts, character_name, min_time)
 
+    # Build normal ranks
     normal_ranks = {}
-    special_creatures = {}
-
-    bad = [(k, type(v), repr(v)) for k, v in mapping.items() if not isinstance(v, str)]
-    if bad:
-        print("ERROR: mapping contains non-string values right after creation:")
-        for k, t, v in bad[:20]:
-            print("  key:", repr(k), "value type:", t, "value repr:", v)
-        import traceback
-        traceback.print_stack()
-        raise RuntimeError("mapping contains non-string values after creation")
-
-    # Build normal_ranks with defensive logging to catch dict+int issues
     for w, c in word_occ.items():
-        if not c:
-            continue
+        if c:
+            t = mapping.get(w, "Unknown")
+            if isinstance(t, str):
+                normal_ranks[t] = normal_ranks.get(t, 0) + c
 
-        t = mapping.get(w, "Unknown")
+    # --------------------------------------------------------------
+    # SPECIAL CREATURE PROCESSING (NEW SYSTEM)
+    # --------------------------------------------------------------
 
-        # print only when something unexpected appears
-        if not isinstance(t, str) or not isinstance(c, int):
-            print("DEBUG: suspicious mapping entry detected")
-            print("  word (w):", repr(w))
-            print("  mapped value (t):", repr(t), "type:", type(t))
-            print("  count (c):", repr(c), "type:", type(c))
-            sample_keys = list(mapping.keys())[:20]
-            print("  mapping sample keys:", sample_keys)
-            try:
-                with open("debug_mapping_dump.json", "a", encoding="utf-8") as df:
-                    json.dump({"word": w, "mapped": t, "mapped_type": str(type(t)), "count": c}, df)
-                    df.write("\n")
-            except Exception:
-                pass
-
-        try:
-            if not isinstance(t, str):
-                continue
-            if not isinstance(c, int):
-                try:
-                    c = int(c)
-                except Exception:
-                    continue
-            normal_ranks[t] = normal_ranks.get(t, 0) + c
-        except Exception as ex:
-            import traceback as _tb
-            print("FATAL: exception while merging normal_ranks")
-            print("  word:", repr(w))
-            print("  mapped value:", repr(t), "type:", type(t))
-            print("  count:", repr(c), "type:", type(c))
-            print("  exception:", ex)
-            _tb.print_exc()
-            raise
-
-    # ------------------------------------------------------------------
-    # Normalize special_occ into canonical structure:
-    #   canonical_special: { trainer_clean: [ {stage_idx, template, count, kills_left, display_label}, ... ] }
-    # Accept both shapes:
-    #   - If count_special_lines already returned trainer_clean -> list(entries) use it
-    #   - If it returned display_label -> {"count":..., "kills_left":...} convert into trainer_clean groups
-    # ------------------------------------------------------------------
-    canonical_special = {}
-
-    def _normalize_kills_left(val):
-        if isinstance(val, int):
-            return val
-        if isinstance(val, str):
-            try:
-                return int(re.sub(r'[^\d-]', '', val))
-            except Exception:
-                return None
-        return None
-
-    # If filtered_special looks like trainer_clean -> list, detect by checking first value type
-    if isinstance(filtered_special, dict):
-        sample_vals = list(filtered_special.values())[:3]
-        # Heuristic: if values are lists of dicts, assume already normalized
-        already_normalized = False
-        if sample_vals:
-            first = sample_vals[0]
-            if isinstance(first, list):
-                # check element shape
-                if first and isinstance(first[0], dict) and "stage_idx" in first[0]:
-                    already_normalized = True
-
-        if already_normalized:
-            canonical_special = filtered_special.copy()
-        else:
-            # filtered_special is likely display_label -> {"count":..., "kills_left":...}
-            # Convert each display_label into trainer_clean and an entry
-            for display_label, info in filtered_special.items():
-                lbl = str(display_label)
-
-                # Extract trainer_clean robustly: everything after the first four words up to '(' or ' — ' or end
-                m = re.match(r'^(?:\S+\s+){4}(.+?)(?:\s*\(|\s+—\s+|$)', lbl)
-                if m:
-                    trainer_clean = m.group(1).strip().lower()
-                else:
-                    clean = lbl.split("(", 1)[0].strip()
-                    trainer_clean = " ".join(clean.split()[-3:]).lower()
-
-                # stage index from the label/template text
-                stage_idx = _get_stage_index_for_template(lbl)
-
-                # info may be dict with count/kills_left
-                if isinstance(info, dict):
-                    cnt = info.get("count", 0)
-                    kl  = _normalize_kills_left(info.get("kills_left"))
-                else:
-                    # legacy: info might be tuple (count, kills_str) or int
-                    if isinstance(info, (list, tuple)) and len(info) >= 1:
-                        try:
-                            cnt = int(info[0])
-                        except Exception:
-                            cnt = 0
-                        kl = _normalize_kills_left(info[1]) if len(info) > 1 else None
-                    else:
-                        try:
-                            cnt = int(info)
-                        except Exception:
-                            cnt = 0
-                        kl = None
-
-                entry = {
-                    "stage_idx": stage_idx,
-                    "template": lbl.lower(),
-                    "count": int(cnt) if isinstance(cnt, (int, str)) and str(cnt).isdigit() else cnt,
-                    "kills_left": kl,
-                    "display_label": lbl
-                }
-                canonical_special.setdefault(trainer_clean, []).append(entry)
-    else:
-        # Unexpected shape: leave canonical_special empty
-        canonical_special = {}
-
-    # ------------------------------------------------------------------
-    # Now for each trainer_clean pick:
-    #   - highest stage seen
-    #   - within that stage, the entry with highest count
-    #   - skip entries that are finished (numeric kills_left <= 0)
-    # ------------------------------------------------------------------
     latest_per_creature = {}
 
-    for trainer_clean, entries in canonical_special.items():
+    for trainer_clean, entries in filtered_special.items():
         if not entries:
             continue
 
-        # determine highest stage index seen
-        max_stage = max(e.get("stage_idx", 0) for e in entries)
+        # Attach msg_num to each entry
+        for e in entries:
+            phrase_group = e["phrase_group"]
+            msgnums = phrase_to_msgnums.get(phrase_group)
+            if msgnums:
+                e["msg_num"] = min(msgnums)
+            else:
+                e["msg_num"] = None
 
-        # keep only entries from that stage
-        stage_entries = [e for e in entries if e.get("stage_idx", 0) == max_stage]
-        if not stage_entries:
-            continue
+        known   = [e for e in entries if e["msg_num"] is not None]
+        unknown = [e for e in entries if e["msg_num"] is None]
 
-        # normalize kills_left and filter finished entries (treat only numeric <=0 as finished)
-        candidates = []
-        for e in stage_entries:
-            kl = e.get("kills_left")
-            if isinstance(kl, str):
-                try:
-                    kl = int(re.sub(r'[^\d-]', '', kl))
-                except Exception:
-                    kl = None
-            e["kills_left"] = kl
+        if known:
+            # A: lowest message number
+            best = min(known, key=lambda e: e["msg_num"])
+        else:
+            # B: latest timestamp
+            best = max(unknown, key=lambda e: e["timestamp"])
 
-            # keep unknown (None) as not finished; only numeric <=0 is finished
-            if isinstance(kl, int) and kl <= 0:
-                continue
-            candidates.append(e)
+        latest_per_creature[trainer_clean] = best
 
-        if not candidates:
-            # nothing unfinished in this stage; skip creature entirely
-            continue
+    # --------------------------------------------------------------
+    # Convert to UI format
+    # --------------------------------------------------------------
 
-        # pick the candidate with the highest count (coerce to int where possible)
-        def _count_key(x):
-            v = x.get("count", 0)
-            try:
-                return int(v)
-            except Exception:
-                return 0
+    special_creatures = {}
 
-        best = max(candidates, key=_count_key)
+    for trainer_clean, e in latest_per_creature.items():
+        lbl = e["display_label"]
+        cnt = e["count"]
+        kl  = e["kills_left"]
 
-        # store the display label and values for downstream UI
-        display_label = best.get("display_label") or trainer_clean
-        latest_per_creature[display_label] = {
-            "count": best.get("count", 0),
-            "kills_left": best.get("kills_left")
-        }
+        if isinstance(kl, int):
+            kl_str = str(kl)
+        elif kl is None:
+            kl_str = ""
+        else:
+            kl_str = str(kl)
 
-    # Build special_creatures in the same shape the rest of the code expects:
-    # { display_label: (count, kills_str) }
-    for lbl, v in latest_per_creature.items():
-        cnt = v.get("count", 0)
-        kl  = v.get("kills_left")
-        kl_str = str(kl) if isinstance(kl, int) else (str(kl) if kl is not None else "")
         special_creatures[lbl] = (cnt, kl_str)
-
-    # Debug output (optional)
-    print("DEBUG: special_creatures sample:", list(special_creatures.items())[:12])
 
     return normal_ranks, special_creatures, skinned, share, coin_events, os.path.basename(folder_path)
 
@@ -1004,7 +751,7 @@ def on_scan_done(fut):
     # Update coins table
     for item in coins_table.get_children():
         coins_table.delete(item)
-    
+
     # Diagnostic before computing total coins
     try:
         print("DIAG: before total coins: merged_skinned type/value:", type(merged_skinned), repr(merged_skinned)[:200])
@@ -1035,9 +782,42 @@ def load_files_and_count_words():
         messagebox.showerror("Error", "Select a character first.")
         return
 
+    # Character has no folders at all
     if name not in character_folders or not character_folders[name]:
         messagebox.showerror("Error", "This character has no folders assigned.")
         return
+
+    # --- NEW: Normalize and validate folders safely ---
+    valid_folders = []
+    invalid_folders = []
+
+    for folder in character_folders[name]:
+        # Normalize path (handles spaces, slashes, unicode, symlinks)
+        norm = os.path.normpath(os.path.expanduser(folder.strip()))
+
+        # If the normalized path exists, accept it
+        if os.path.isdir(norm):
+            valid_folders.append(norm)
+            continue
+
+        # If the original path exists exactly as stored, accept it
+        if os.path.isdir(folder):
+            valid_folders.append(folder)
+            continue
+
+        # Otherwise mark as invalid
+        invalid_folders.append(folder)
+
+    if invalid_folders:
+        messagebox.showerror(
+            "Invalid Folder",
+            "These folders could not be accessed:\n\n" +
+            "\n".join(invalid_folders) +
+            "\n\nCheck spelling, case, or mount point."
+        )
+        return
+
+    character_folders[name] = valid_folders
 
     global merged_counts, merged_creatures, merged_skinned, merged_share, merged_coin_events
     merged_counts.clear()
