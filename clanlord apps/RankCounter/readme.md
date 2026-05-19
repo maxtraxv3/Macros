@@ -42,20 +42,20 @@ windows via terminal(win key + x):
 `python -m pyinstaller --noconsole --onefile --icon=phoenix.png --add-data "phoenix.png;." --add-data "rankmessages.txt;." --add-data "trainers.txt;." --add-data "specialphrases.txt;." rcXX.py`
 
 mac:
-`python -m pyinstaller --noconsole --onefile --icon=phoenix.png \
+```python -m pyinstaller --noconsole --onefile --icon=phoenix.png \
   --add-data "phoenix.png:." \
   --add-data "rankmessages.txt:." \
   --add-data "trainers.txt:." \
   --add-data "specialphrases.txt:." \
-  rcXX.py`
+  rcXX.py```
 
 linux:
-`python -m pyinstaller --noconsole --onefile --icon=phoenix.png \
+```python -m pyinstaller --noconsole --onefile --icon=phoenix.png \
   --add-data "phoenix.png:." \
   --add-data "rankmessages.txt:." \
   --add-data "trainers.txt:." \
   --add-data "specialphrases.txt:." \
-  rcXX.py`
+  rcXX.py```
 
   
 for arch Linux:
@@ -72,12 +72,12 @@ for arch Linux:
 `yay -S appimagetool`
 
 
-`pyinstaller --noconsole --onefile --icon=phoenix.png \
+```pyinstaller --noconsole --onefile --icon=phoenix.png \
   --add-data "phoenix.png:." \
   --add-data "rankmessages.txt:." \
   --add-data "trainers.txt:." \
   --add-data "specialphrases.txt:." \
-  rcXX.py`
+  rcXX.py```
   
 `./appimager.sh` 
 
