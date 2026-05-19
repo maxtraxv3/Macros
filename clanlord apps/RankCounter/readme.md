@@ -38,6 +38,9 @@ and pillow (about 8mb)
 COPY AND PASTE THE WHOLE THE THING
 REPLACE XX WITH VERSION NUMVER (IE rc28.py)
 
+windows via terminal(win key + x): 
+`python -m pyinstaller --noconsole --onefile --icon=phoenix.png --add-data "phoenix.png;." --add-data "rankmessages.txt;." --add-data "trainers.txt;." --add-data "specialphrases.txt;." rcXX.py`
+
 mac:
 `python -m pyinstaller --noconsole --onefile --icon=phoenix.png \
   --add-data "phoenix.png:." \
@@ -54,5 +57,28 @@ linux:
   --add-data "specialphrases.txt:." \
   rcXX.py`
 
-windows via terminal(win key + x): 
-`python -m pyinstaller --noconsole --onefile --icon=phoenix.png --add-data "phoenix.png;." --add-data "rankmessages.txt;." --add-data "trainers.txt;." --add-data "specialphrases.txt;." rcXX.py`
+  
+for arch Linux:
+`sudo pacman -S python-pip`
+`sudo pacman -S python-pillow`
+`sudo pacman -S tk tcl`
+
+`paru -S pyinstaller` (enter: 1 then 1 then q then y then y)
+-------- OR ------ (OS Dependent)
+`yay -S pyinstaller` (enter: 1 then 1 then q then y then y)
+
+`paru -S appimagetool`
+-------- OR ------ (OS Dependent)
+`yay -S appimagetool`
+
+
+`pyinstaller --noconsole --onefile --icon=phoenix.png \
+  --add-data "phoenix.png:." \
+  --add-data "rankmessages.txt:." \
+  --add-data "trainers.txt:." \
+  --add-data "specialphrases.txt:." \
+  rcXX.py`
+  
+`./appimager.sh` 
+
+
