@@ -1,7 +1,6 @@
 "/duv"
 {
 label top
-label top
 set logck @env.textlog
 if logck.word[2] == "Garre"
 	if logck.word[4] == "says,"
