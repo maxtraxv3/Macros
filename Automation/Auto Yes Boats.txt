@@ -1,3 +1,7 @@
+// Auto "Yes" boats
+// by Magnic v3
+
+// needs to be redone, can be made smaller.
 
 setglobal dotname @my.name
 setglobal dotname + "."
@@ -141,6 +145,82 @@ if logck.word[3] >= "Ah,"
 		end if
 	else if logck.word[4] >= "Hello,"
 		if logck >= "river skiff. Interested?"
+			if namenum == 1
+				if logck.word[5] == dotname
+					"/whisper yes \r"
+				end if
+			else if namenum == 2
+				set Bname logck.word[5]
+				set Bname + " "
+				set Bname + logck.word[6]
+					if Bname == dotname
+						"/whisper yes \r"
+					end if
+			else if namenum == 3
+				set Bname logck.word[5]
+				set Bname + " "
+				set Bname + logck.word[6]
+				set Bname + " "
+				set Bname + logck.word[7]
+					if Bname == dotname
+						"/whisper yes \r"
+					end if
+			end if
+		pause 3
+		end if
+// borrow one
+    if logck.word[2] >= "Hello,"
+		if logck >= "boats. Interested?"
+			if namenum == 1
+				if logck.word[3] == dotname
+					"/whisper yes \r"
+				end if
+			else if namenum == 2
+				set Bname logck.word[3]
+				set Bname + " "
+				set Bname + logck.word[4]
+					if Bname == dotname
+						"/whisper yes \r"
+					end if
+			else if namenum == 3
+				set Bname logck.word[3]
+				set Bname + " "
+				set Bname + logck.word[4]
+				set Bname + " "
+				set Bname + logck.word[5]
+					if Bname == dotname
+						"/whisper yes \r"
+					end if
+			end if
+		pause 3
+		end if
+	else if logck.word[3] >= "Hello,"
+		if logck >= "boats. Interested?"
+			if namenum == 1
+				if logck.word[4] == dotname
+					"/whisper yes \r"
+				end if
+			else if namenum == 2
+				set Bname logck.word[4]
+				set Bname + " "
+				set Bname + logck.word[5]
+					if Bname == dotname
+						"/whisper yes \r"
+					end if
+			else if namenum == 3
+				set Bname logck.word[4]
+				set Bname + " "
+				set Bname + logck.word[5]
+				set Bname + " "
+				set Bname + logck.word[6]
+					if Bname == dotname
+						"/whisper yes \r"
+					end if
+			end if
+		pause 3
+		end if
+	else if logck.word[4] >= "Hello,"
+		if logck >= "boats. Interested?"
 			if namenum == 1
 				if logck.word[5] == dotname
 					"/whisper yes \r"
