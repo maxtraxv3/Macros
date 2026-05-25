@@ -75,6 +75,7 @@ then:
       --add-data "rankmessages.txt:." \
       --add-data "trainers.txt:." \
       --add-data "specialphrases.txt:." \
+      --add-data "KIN668.ttf:." \
       rc29.1.py
 
 
@@ -113,22 +114,25 @@ then:
 
     ./appimager.sh
 
-  
+
 ### Linux (ARCH):
 python 3.14+:
-`sudo pacman -S python-pip`
-`sudo pacman -S pyinstaller`
-`sudo pacman -S tk tcl`
-`sudo pacman -S python-pillow`
+
+    sudo pacman -S python-pip
+    sudo pacman -S pyinstaller
+    sudo pacman -S tk tcl
+    sudo pacman -S python-pillow
 
 
 `paru -S pyinstaller` (enter: 1 then 1 then q then y then y)
 -------- OR ------ (OS Dependent)
 `yay -S pyinstaller` (enter: 1 then 1 then q then y then y)
 
-`paru -S appimagetool`
+    paru -S appimagetool
+
 -------- OR ------ (OS Dependent)
-`yay -S appimagetool`
+
+    yay -S appimagetool
 
 
     pyinstaller --noconsole --onefile --icon=phoenix.png \
