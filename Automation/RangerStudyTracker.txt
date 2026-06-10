@@ -33,9 +33,13 @@ set logck @env.textlog
 message "loading whatzits..."
 label reload
 if cknum < 4
-	// the extra "\" here is required so selectitem command know it use both words
+	// the extra "\" here is required so selectitem command knows to use both words
 	// normaly doesn't excudes anything after first word
 	"/selectitem \"whatzit <#" cknum "\" \r"
+	set lastwordinselec @my.selected_item.num_words
+	set lastwordinselec - 1
+	set checkbeforedot @my.selected_item.num_words
+	set checkbeforedot - 2
 		pause 2
 			if logck >= "no item"
 				message "* no whatzit found skipping"
@@ -43,8 +47,18 @@ if cknum < 4
 			else if @my.selected_item == "Nothing"
 				message "* something went wrong with item selection"
 					goto skipper
+			else if @my.selected_item.word[2] == ""
+				message "* not data skipping_1"
+					goto skipper
+			else if @my.selected_item.word[lastwordinselec] != ".>"
+				message "* not data skipping_2"
+					goto skipper
+			else if @my.selected_item.word[lastwordinselec] == ".>"
+				if @my.selected_item.word[checkbeforedot] >= "<#"
+					message "* not data skipping_3"
+						goto skipper
 			else
-				message "* loading " @my.selected_item ""
+				message "* loading " @my.selected_item.word[1].letter[1] "" @my.selected_item.word[1].letter[2] ""
 					call loader
 						label skipper
 						setglobal cknum + 1
@@ -54,6 +68,7 @@ if cknum < 4
 								setglobal cknum 1
 									call messwatch
 							end if
+				end if
 			end if
 else
 call messwatch
@@ -67,72 +82,37 @@ loader
 // might need more error checks
 // This check length of text to tell how many "name's" the creature has
 // longest creater name is 4 words
-if @my.selected_item.word[5] == ".>"
-	set logicnumber 5
-else if @my.selected_item.word[6] == ".>"
-	set logicnumber 6
-else if @my.selected_item.word[7] == ".>"
-	set logicnumber 7
-else if @my.selected_item.word[8] == ".>"
-	set logicnumber 8
+if @my.selected_item.word[lastwordinselec] == ".>" // fail safe check
+	set logicnumber lastwordinselec
+	set checksave @my.selected_item
 else
 	goto stopL
 end if
 // Save data into temp memory
-if logicnumber == 5
-	if @my.selected_item.word[2] != ""
-		setglobal dataset[cknum] @my.selected_item.word[2]
+if checksave.word[2] != "" // fail safe check
+	setglobal dataset[cknum] @my.selected_item.word[2]
+	setglobal dataset[cknum] + " "
+	setglobal dataset[cknum] + checksave.word[3]
+	setglobal dataset[cknum] + " "
+	setglobal dataset[cknum] + checksave.word[4]
+	if logicnumber > 5 // 6
 		setglobal dataset[cknum] + " "
-		setglobal dataset[cknum] + @my.selected_item.word[3]
-		setglobal dataset[cknum] + " "
-		setglobal dataset[cknum] + @my.selected_item.word[4]
-	else
-		goto stopL
+		setglobal dataset[cknum] + checksave.word[5]
 	end if
-else if logicnumber == 6
-	setglobal dataset[cknum] @my.selected_item.word[2]
-	setglobal dataset[cknum] + " "
-	setglobal dataset[cknum] + @my.selected_item.word[3]
-	setglobal dataset[cknum] + " "
-	setglobal dataset[cknum] + @my.selected_item.word[4]
-	setglobal dataset[cknum] + " "
-	setglobal dataset[cknum] + @my.selected_item.word[5]
-else if logicnumber == 7
-	setglobal dataset[cknum] @my.selected_item.word[2]
-	setglobal dataset[cknum] + " "
-	setglobal dataset[cknum] + @my.selected_item.word[3]
-	setglobal dataset[cknum] + " "
-	setglobal dataset[cknum] + @my.selected_item.word[4]
-	setglobal dataset[cknum] + " "
-	setglobal dataset[cknum] + @my.selected_item.word[5]
-	setglobal dataset[cknum] + " "
-	setglobal dataset[cknum] + @my.selected_item.word[6]
-else if logicnumber == 8
-	setglobal dataset[cknum] @my.selected_item.word[2]
-	setglobal dataset[cknum] + " "
-	setglobal dataset[cknum] + @my.selected_item.word[3]
-	setglobal dataset[cknum] + " "
-	setglobal dataset[cknum] + @my.selected_item.word[4]
-	setglobal dataset[cknum] + " "
-	setglobal dataset[cknum] + @my.selected_item.word[5]
-	setglobal dataset[cknum] + " "
-	setglobal dataset[cknum] + @my.selected_item.word[6]
-	setglobal dataset[cknum] + " "
-	setglobal dataset[cknum] + @my.selected_item.word[7]
-else if logicnumber == 8
-	setglobal dataset[cknum] @my.selected_item.word[2]
-	setglobal dataset[cknum] + " "
-	setglobal dataset[cknum] + @my.selected_item.word[3]
-	setglobal dataset[cknum] + " "
-	setglobal dataset[cknum] + @my.selected_item.word[4]
-	setglobal dataset[cknum] + " "
-	setglobal dataset[cknum] + @my.selected_item.word[5]
-	setglobal dataset[cknum] + " "
-	setglobal dataset[cknum] + @my.selected_item.word[6]
-	setglobal dataset[cknum] + " "
-	setglobal dataset[cknum] + @my.selected_item.word[7]
-	setglobal dataset[cknum] + " "
-	setglobal dataset[cknum] + @my.selected_item.word[8]
+	if logicnumber > 6 // 7
+		setglobal dataset[cknum] + " "
+		setglobal dataset[cknum] + checksave.word[6]
+	end if
+	if logicnumber > 7 // 8
+		setglobal dataset[cknum] + " "
+		setglobal dataset[cknum] + checksave.word[7]
+	end if
+	if logicnumber > 8 // 9
+		setglobal dataset[cknum] + " "
+		setglobal dataset[cknum] + checksave.word[8]
+	end if
+else
+	goto stopL
 end if
 //convert the save data into temp readable information for .word and .word.letter commands to work
 // dataset[cknum].word[1] is invaild.
@@ -140,33 +120,29 @@ end if
 set checkname dataset[cknum]
 if logicnumber == 5
 	set nummsger checkname.word[2]
-	message "Loaded Creature:" checkname.word[0] ""
+	message "Creature:" checkname.word[0] ""
 	message "Last hits:" checkname.word[1] ""
-	message "message:" msg[nummsger] " "
-	message "message number:" checkname.word[2].letter[1] " "
+	message "" msg[nummsger] ""
 else if logicnumber == 6
 	set nummsger checkname.word[3]
-	message "Loaded Creature: " checkname.word[0] " " checkname.word[1] ""
+	message "Creature: " checkname.word[0] " " checkname.word[1] ""
 	message "Last hits:" checkname.word[2]"
-	message "message:" msg[nummsger] " "
-	message "message number: " checkname.word[3].letter[1] ""
+	message "" msg[nummsger] ""
 else if logicnumber == 7
 	set nummsger checkname.word[4]
-	message "Loaded Creature: " checkname.word[0] " " checkname.word[1] " " checkname.word[2] ""
+	message "Creature: " checkname.word[0] " " checkname.word[1] " " checkname.word[2] ""
 	message "Last hits: " checkname.word[3] ""
-	message "message:" msg[nummsger] " "
-	message "message number: " checkname.word[4].letter[1] ""
+	message "" msg[nummsger] ""
 else if logicnumber == 8
 	set nummsger checkname.word[5]
-	message "Loaded Creature: " checkname.word[0] " " checkname.word[1] " " checkname.word[2] " " dataset[cknum].word[3] ""
+	message "Creature: " checkname.word[0] " " checkname.word[1] " " checkname.word[2] " " dataset[cknum].word[3] ""
 	message "Last hits: " checkname.word[4] ""
-	message "message:" msg[nummsger] " "
-	message "message number: " checkname.word[5].letter[1] ""
+	message "" msg[nummsger] ""
 end if
-// this may read prevus seleted item.
-// may need to set item on witch it error'ed
+goto endLoad
 label stopL
-	message "No or incomplete data on:" @my.selected_item ""
+	message "No or incomplete data on:" checksave ""
+label endLoad
 }
 
 // key: 0 = false, 1 = true
@@ -249,7 +225,6 @@ else if logck >= "dispatched a"
 			call dswordfilter
 		end if
 else if logck >= "slaughtered a"
-message "trigger"
 	call filter
 		if fitler == 0
 			call dswordfilter
@@ -280,15 +255,24 @@ else if timesupwrightout == 300000
 		setglobal cknum 1
 			label nextW
 			if cknum < 4
-				"/selectitem \"whatzit <#" cknum "\" \r"
-					set savename dataset[cknum]
-						"/name " savename " . \r"
-							if cknum < 5
-								setglobal cknum + 1
-									goto nextW
-							else
-								set timesupwrightout 0
-							end if
+				if dataset[cknum] != ""
+					"/selectitem \"whatzit <#" cknum "\" \r"
+						set savename dataset[cknum]
+							"/name " savename " . \r"
+								if cknum < 5
+									setglobal cknum + 1
+										goto nextW
+								else
+									set timesupwrightout 0
+								end if
+				else if dataset[cknum] == ""
+					if cknum < 5
+						setglobal cknum + 1
+							goto nextW
+					else
+						set timesupwrightout 0
+					end if
+				end if
 			else
 				set timesupwrightout 0
 			end if
@@ -336,7 +320,7 @@ end if
 label done
 }
 
-// "5/4/26 6:55:51a You slaughtered a Rat. \ \" <-- full line, this might be a bug from the client. 
+// "5/4/26 6:55:51a You slaughtered a Rat. \ \" <-- full line, this might be a bug from the client.
 // "Rat. \" is one word might be bigger then this. there are 6 words, you can only see 5
 // finds if any dataset maches the first word at any part of the dataset, if it does check again for exact match.
 // this will also add to kill number, into temp memory.
@@ -344,11 +328,11 @@ label done
 dswordfilter
 {
 set nameck 1
-message "scan check"
+//message "scan check"
 label top
 if dataset[nameck] != "Nothing"
 	if dataset[nameck] != ""
-	message "checking"
+	//message "checking"
 		set addone dataset[nameck]
 		set secondlastword checklastword
 		set secondlastword - 1
@@ -395,10 +379,10 @@ if dataset[nameck] != "Nothing"
 		label matched
 		// becuase the the whole thing is saved as a "string" IE its saves as word(s)(yes even the numbers)
 		// we have pull out the number, assing it to a new temp save, add to it, resave it to the whole "string".
-			message "matched: " nama " with: " matchedname ""
+			//message "matched: " nama " with: " matchedname ""
 				if allbutoneword == 6
 					if addone.word[0] == nama
-						message "Confirmed name match"
+						//message "Confirmed name match"
 							set killnum addone.word[1]
 							set killnum + 1
 								setglobal dataseat addone.word[0]
@@ -468,7 +452,7 @@ if dataset[nameck] != "Nothing"
 		goto cknext
 else
 	label cknext
-	message "no match; next!" // Very spammy dev message
+	//message "no match; next!" // Very spammy dev message
 	if nameck > 4
 		goto end
 	end if
@@ -476,53 +460,90 @@ else
 		goto top
 end if
 label end
-	message "done"
+	//message "done"
 }
 
 // needs testing.
 // still need "kills number to be corrected" added.
 plusck
 {
-set nextset 0
+set nameck 1
 set checknumber 1
 label topper
 set Rdata dataset[checknumber]
-if Rdata.word[0] >= logck.word[16]
-	goto plusme
-else if Rdata.word[0] >= logck.word[14]
-	goto plusme
-else if Rdata.word[0] >= logck.word[13]
-	goto plusme
-else if Rdata.word[0] >= logck.word[12]
-	goto plusme
-else
-	message "no match; next?" // Very spammy dev message
-	if nameck > 4
-		goto exitclaim
+if dataset[nameck] != "Nothing"
+	if dataset[nameck] != ""
+		if Rdata.word[0] >= logck.word[16]
+			goto next_check
+		else if Rdata.word[0] >= logck.word[14]
+			goto next_check
+		else if Rdata.word[0] >= logck.word[13]
+			goto next_check
+		else if Rdata.word[0] >= logck.word[12]
+			goto next_check
+		else
+			message "no match; next?" // Very spammy dev message
+		goto nextone
+		end if
+	else
+		goto nextone
 	end if
-	set nameck + 1
-		goto topper
+else
+	goto nextone
 end if
-label plusme
+label next_check
+	message "what what about second check!"
+		set secondlastword checklastword
+		set secondlastword - 1
+		message "" secondlastword ""
+			if logck.word[secondlastword] >= "."
+				set allbutoneword logck.num_words
+					setglobal badnam logck.word[secondlastword]
+						call scramble
+						if allbutoneword == 6
+							if nama == Rdata.word[0]
+								set matchedname Rdata.word[0]
+								goto clearedck
+							else
+								goto nextone
+							end if
+						else if allbutoneword == 7
+							if nama == Rdata.word[1]
+								set matchedname Rdata.word[1]
+								goto clearedck
+							else
+								goto nextone
+							end if
+						else if allbutoneword == 8
+							if nama == Rdata.word[2]
+								set matchedname Rdata.word[2]
+								goto clearedck
+							else
+								goto nextone
+							end if
+						else if allbutoneword == 9
+							if nama == Rdata.word[3]
+								set matchedname Rdata.word[3]
+								goto clearedck
+							else
+								goto nextone
+							end if
+						end if
+			end if
+label clearedck
 if Rdata.num_words == 3
 	set wordtoccheck 2
-	set msgmess Rdata.word[2].letter[0]
-	set msgnum Rdata.word[2].letter[1]
 else if Rdata.num_words == 4
 	set wordtoccheck 3
-	set msgmess Rdata.word[3].letter[0]
-	set msgnum Rdata.word[3].letter[1]
 else if Rdata.num_words == 5
 	set wordtoccheck 4
-	set msgmess Rdata.word[4].letter[0]
-	set msgnum Rdata.word[4].letter[1]
 else if Rdata.num_words == 6
 	set wordtoccheck 5
-	set msgmess Rdata.word[5].letter[0]
-	set msgnum Rdata.word[5].letter[1]
 else
 	message "failed plusme"
 end if
+set msgmess Rdata.word[wordtoccheck].letter[0]
+set msgnum Rdata.word[wordtoccheck].letter[1]
 if msgmess == 1
 	set nextnum 6
 else if msgmess == 2
@@ -551,6 +572,14 @@ else
 	message "failed message letter 2"
 end if
 end if
+goto exitclaim
+label nextone
+	if nameck > 4
+		goto exitclaim
+	end if
+	set nameck + 1
+		goto topper
+end if
 label exitclaim
 }
 
@@ -562,6 +591,15 @@ end if
 	set msgnum + 1
 		set msgchange msgmess
 		set msgchange + msgnum
+		set numbercor Rdata.num_words
+		set numbercor - 1
+		if nummsg[msgchange] < Rdata.word[numbercor]
+			set updatenum nummsg[msgchange]
+		else if nummsg[msgchange] > Rdata.word[numbercor]
+			set updatenum nummsg[msgchange]
+		else
+			set updatenum Rdata.word[numbercor]
+		end if
 			call setmsgdata
 }
 
@@ -570,7 +608,7 @@ setmsgdata
 if wordtoccheck == 2
 	setglobal dataseat Rdata.word[0]
 	setglobal dataseat + " "
-	setglobal dataseat + Rdata.word[1]
+	setglobal dataseat + updatenum
 	setglobal dataseat + " "
 	setglobal dataseat + msgchange
 else if wordtoccheck == 3
@@ -578,7 +616,7 @@ else if wordtoccheck == 3
 	setglobal dataseat + " "
 	setglobal dataseat + Rdata.word[1]
 	setglobal dataseat + " "
-	setglobal dataseat + Rdata.word[2]
+	setglobal dataseat + updatenum
 	setglobal dataseat + " "
 	setglobal dataseat + msgchange
 else if wordtoccheck == 4
@@ -588,7 +626,7 @@ else if wordtoccheck == 4
 	setglobal dataseat + " "
 	setglobal dataseat + Rdata.word[2]
 	setglobal dataseat + " "
-	setglobal dataseat + Rdata.word[3]
+	setglobal dataseat + updatenum
 	setglobal dataseat + " "
 	setglobal dataseat + msgchange
 else if wordtoccheck == 5
@@ -600,9 +638,9 @@ else if wordtoccheck == 5
 	setglobal dataseat + " "
 	setglobal dataseat + Rdata.word[3]
 	setglobal dataseat + " "
-	setglobal dataseat + Rdata.word[4]
+	setglobal dataseat + updatenum
 	setglobal dataseat + " "
-	setglobal dataseat + msgchange	
+	setglobal dataseat + msgchange
 else
 	message "failed dataseat on plusck"
 end if
@@ -615,6 +653,7 @@ adder
 // we also have to check for time stamps for this to work. for now we aussume timestamps are on.
 // we have to remove the "." in the dot in the name also for textlog scanning
 set wordcount savedlog.num_words
+set wordcount - 1
 if wordcount == ts1 // 9 words
 	setglobal badnam savedlog.word[ts1]
 		call scramble
@@ -643,26 +682,36 @@ else if wordcount == ts4 // 12 words
 			setglobal newsave + savedlog.word[ts3]
 			setglobal newsave + " "
 			setglobal newsave + nama
+			message "" newsave ""
 else
 	message "Failed adder wordcount"
 end if
 // addnew study
 // might need to add check for how much whatzits you have
 set Wdata 1
+label saveloop
 if dataset[Wdata] == ""
-	setglobal dataset[Wdata] newsave
-	setglobal dataset[Wdata] + " "
-	setglobal dataset[Wdata] + "0"
-	setglobal dataset[Wdata] + " "
-	setglobal dataset[Wdata] + "10"	
+	setglobal dataseat newsave
+	setglobal dataseat + " "
+	setglobal dataseat + "0"
+	setglobal dataseat + " "
+	setglobal dataseat + "11"
+		"/selectitem \"whatzit <#" Wdata "\" \r"
+				"/name " dataseat " . \r"
+					setglobal nameck Wdata
+						call updater
+								goto endish
 else
-	if Wdata < 5 // Change to checked whatzitnumber + 1, later 
+	if Wdata < 4 // Change to checked whatzitnumber + 1, later
 		set Wdata + 1
+		 goto saveloop
 	else if Wdata > 4 // Change to checked whatzitnumber, later
-		set Wdata 1
-			goto endish
+		goto failed_end
 	end if
 end if
+goto endish
+label failed_end
+	message "failed to save new study"
 label endish
 }
 
@@ -679,6 +728,7 @@ else if nameck == 4
 	setglobal dataset[4] dataseat
 end if
 	message "data updated: " dataset[nameck] ""
+pause 1
 }
 
 
@@ -686,7 +736,7 @@ end if
 // checks up to 15 letters for creatures
 scramble
 {
-message "removing dot"
+//message "removing dot"
 if badnam.letter[0] != ""
 	if badnam.letter[0] != "."
 		setglobal nama badnam.letter[0]
@@ -763,7 +813,7 @@ if badnam.letter[14] != ""
 	end if
 end if
 }
-
+// Messages
 setglobal msg[11] "Vast amount to learn: 1300 to go!"
 setglobal msg[12] "Vast amount to learn: 1200 to go!"
 setglobal msg[13] "Vast amount to learn: 1100 to go!"
@@ -811,3 +861,51 @@ setglobal msg[82] "almost nothing left to learn: 8 to go!"
 setglobal msg[83] "almost nothing left to learn: 6 to go!"
 setglobal msg[84] "almost nothing left to learn: 4 to go!"
 setglobal msg[85] "almost nothing left to learn: 2 to go!"
+// raw message numbers
+setglobal nummsg[11] 1300
+setglobal nummsg[12] 1200
+setglobal nummsg[13] 1100
+setglobal nummsg[14] 1000
+setglobal nummsg[15] 900
+setglobal nummsg[16] 800
+setglobal nummsg[21] 700
+setglobal nummsg[22] 600
+setglobal nummsg[23] 570
+setglobal nummsg[24] 540
+setglobal nummsg[25] 510
+setglobal nummsg[31] 480
+setglobal nummsg[32] 450
+setglobal nummsg[33] 420
+setglobal nummsg[34] 390
+setglobal nummsg[35] 360
+setglobal nummsg[36] 330
+setglobal nummsg[37] 300
+setglobal nummsg[41] 280
+setglobal nummsg[42] 260
+setglobal nummsg[43] 240
+setglobal nummsg[44] 220
+setglobal nummsg[45] 200
+setglobal nummsg[46] 180
+setglobal nummsg[47] 160
+setglobal nummsg[51] 144
+setglobal nummsg[52] 132
+setglobal nummsg[53] 120
+setglobal nummsg[54] 108
+setglobal nummsg[55] 96
+setglobal nummsg[56] 84
+setglobal nummsg[57] 72
+setglobal nummsg[61] 63
+setglobal nummsg[62] 56
+setglobal nummsg[63] 49
+setglobal nummsg[64] 42
+setglobal nummsg[65] 35
+setglobal nummsg[71] 27
+setglobal nummsg[72] 24
+setglobal nummsg[73] 21
+setglobal nummsg[74] 18
+setglobal nummsg[75] 15
+setglobal nummsg[81] 12
+setglobal nummsg[82] 8
+setglobal nummsg[83] 6
+setglobal nummsg[84] 4
+setglobal nummsg[85] 2
