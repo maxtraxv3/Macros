@@ -152,6 +152,7 @@ messwatch
 message "scanning"
 set timesupwrightout 0
 label top
+pause 1 //need testing
 set logck @env.textlog
 // Begin Study filter
 if logck >= "•You begin studying the"
@@ -700,7 +701,7 @@ if dataset[Wdata] == ""
 				"/name " dataseat " . \r"
 					setglobal nameck Wdata
 						call updater
-								goto endish
+							goto endish
 else
 	if Wdata < 4 // Change to checked whatzitnumber + 1, later
 		set Wdata + 1
@@ -726,9 +727,12 @@ else if nameck == 3
 	setglobal dataset[3] dataseat
 else if nameck == 4
 	setglobal dataset[4] dataseat
+else if nameck < 4
+	message "*** Error Data Number Incorrect ***"
+else if nameck > 1
+	message "*** Error Data Number Incorrect ***"
 end if
 	message "data updated: " dataset[nameck] ""
-pause 1
 }
 
 
