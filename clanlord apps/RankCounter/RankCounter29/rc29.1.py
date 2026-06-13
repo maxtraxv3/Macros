@@ -1,3 +1,4 @@
+from __future__ import annotations
 import os
 import sys
 import traceback
@@ -12,6 +13,8 @@ import json
 import time
 import csv
 from datetime import datetime, timezone, timedelta
+from dataclasses import dataclass
+from typing import Tuple
 
 # ----------------------------------------------------------------------
 # ---------------------- GLOBAL DATA / CONSTANTS -----------------------
@@ -183,6 +186,12 @@ character_ignored  = {}     # Stores ignored creatures
 current_folder_name= None
 executor           = concurrent.futures.ThreadPoolExecutor(max_workers=4)
 
+moon_icons = {
+    "New Moon": "img/nm.gif",
+    "Full Moon": "img/fm.gif",
+    "Last Quarter": "img/lq.gif",
+    "First Quarter": "img/fq.gif",
+}
 # -- Coins counter -----------------------------------------------------------
 
 merged_skinned = 0
@@ -318,21 +327,31 @@ def count_word_occurrences(texts, words):
     return counts
 
 # -----------------------------
-# Time Engine
+# Clan Lord Time Engine
 # -----------------------------
-from datetime import datetime, timezone, timedelta
+from dataclasses import dataclass
+from datetime import datetime, timezone
+from typing import Tuple
 
-# 256-day CL year, 4 seasons of 64 days
-CL_DAYS_PER_YEAR = 256
-CL_SECONDS_PER_DAY = 86400
+CL_EPOCH_UNIX = 912470400  # 1998-11-28 00:00:00 UTC
+IC_SPEED_MULTIPLIER = 4
 
-CL_SEASONS = ["Spring", "Summer", "Fall", "Winter"]
+IC_SECONDS_PER_DAY = 86400
+IC_DAYS_PER_YEAR = 360
+IC_DAYS_PER_SEASON = 90
+IC_DAYS_PER_WEEK = 7
+IC_MOON_CYCLE_DAYS = 28
+IC_ZODIAC_SIGN_DAYS = 30
+IC_ZODIAC_SIGNS_COUNT = 12
 
+SEASONS = ["Spring", "Summer", "Fall", "Winter"]
+WEEKDAYS = ["Sombdi", "Gradi", "Tridi", "Quartidi", "Quintidi", "Sixdi", "Sevdi"]
+
+#placeholder i only i am missing 2 and im not sure of the order yet.
 ZODIAC_SIGNS = [
     "Arilon", "Balthus", "Camilon", "Darian",
     "Erilon", "Fenthus", "Gamilon", "Harian",
     "Irilon", "Jenthus", "Kamilon", "Larian",
-    "Mirilon", "Nenthus", "Oamilon", "Parian",
 ]
 
 MOON_PHASE_NAMES = [
@@ -340,87 +359,117 @@ MOON_PHASE_NAMES = [
     "Full Moon", "Waning Gibbous", "Last Quarter", "Waning Crescent",
 ]
 
-# Clepsia epoch: 1998-01-01 00:00:00 UTC
-CL_EPOCH = datetime(1998, 1, 1, 0, 0, 0, tzinfo=timezone.utc)
+
+@dataclass
+class CLTimeStruct:
+    ic_seconds: int
+    ic_day: int
+    ic_hour: int
+    ic_minute: int
+    ic_second: int
+    year: int
+    day_of_year: int
+    season_index: int
+    season_day: int
+    weekday_index: int
+    lunar_day: int
+    zodiac_day: int
+    zodiac_index: int
+
+    @property
+    def season_name(self) -> str:
+        return SEASONS[self.season_index]
+
+    @property
+    def weekday_name(self) -> str:
+        return WEEKDAYS[self.weekday_index]
+
+    @property
+    def zodiac_name(self) -> str:
+        return ZODIAC_SIGNS[self.zodiac_index]
+
+    @property
+    def moon_phase_name(self) -> str:
+        idx = (self.lunar_day * len(MOON_PHASE_NAMES)) // IC_MOON_CYCLE_DAYS
+        return MOON_PHASE_NAMES[idx]
 
 
-def _unix_ts(dt: datetime) -> int:
-    """Return integer Unix timestamp (UTC)."""
-    return int(dt.astimezone(timezone.utc).timestamp())
-
-def real_to_cl(now: datetime | None = None) -> dict:
-    if now is None:
-        now = datetime.now(timezone.utc)
-
-    real_ts = _unix_ts(now)
-    epoch_ts = _unix_ts(CL_EPOCH)
-
-    # Delta in whole seconds (Perl time() style)
-    delta = real_ts - epoch_ts
-
-    # Clan Lord seconds: 3x real time
-    cl_seconds = delta * 3
-
-    cl_days = cl_seconds // CL_SECONDS_PER_DAY
-    cl_seconds_today = cl_seconds % CL_SECONDS_PER_DAY
-
-    hour = cl_seconds_today // 3600
-    minute = (cl_seconds_today % 3600) // 60
-    second = cl_seconds_today % 60
-
-    cl_day_of_year = cl_days % CL_DAYS_PER_YEAR
-    cl_year = cl_days // CL_DAYS_PER_YEAR
-
-    season_index = cl_day_of_year // 64
-    season_day = cl_day_of_year % 64
-    season = CL_SEASONS[season_index]
-
-    return {
-        "cl_days": cl_days,
-        "cl_day_of_year": cl_day_of_year,
-        "year": cl_year,
-        "season": season,
-        "season_day": season_day,
-        "hour": int(hour),
-        "minute": int(minute),
-        "second": int(second),
-    }
+def _to_unix(dt_or_unix) -> int:
+    if isinstance(dt_or_unix, (int, float)):
+        return int(dt_or_unix)
+    if isinstance(dt_or_unix, datetime):
+        return int(dt_or_unix.astimezone(timezone.utc).timestamp())
+    raise TypeError("real_to_cl expects datetime or unix timestamp")
 
 
-def cl_to_real(cl_days: int, hour: int = 0, minute: int = 0, second: int = 0) -> datetime:
-    cl_seconds = cl_days * CL_SECONDS_PER_DAY + hour * 3600 + minute * 60 + second
-    real_seconds = cl_seconds // 3  # integer division to mirror Perl
-    return CL_EPOCH + timedelta(seconds=real_seconds)
+def real_to_cl(dt_or_unix) -> CLTimeStruct:
+    unix_time = _to_unix(dt_or_unix)
+    ic_seconds = int((unix_time - CL_EPOCH_UNIX) * IC_SPEED_MULTIPLIER)
+
+    ic_second = ic_seconds % 60
+    ic_minute = (ic_seconds // 60) % 60
+    ic_hour = (ic_seconds // 3600) % 24
+
+    ic_day = ic_seconds // IC_SECONDS_PER_DAY
+
+    year = ic_day // IC_DAYS_PER_YEAR
+    day_of_year = ic_day % IC_DAYS_PER_YEAR
+    season_index = day_of_year // IC_DAYS_PER_SEASON
+    season_day = day_of_year % IC_DAYS_PER_SEASON
+    weekday_index = ic_day % IC_DAYS_PER_WEEK
+
+    lunar_day = ic_day % IC_MOON_CYCLE_DAYS
+    zodiac_day = ic_day % IC_ZODIAC_SIGN_DAYS
+    zodiac_index = (ic_day // IC_ZODIAC_SIGN_DAYS) % IC_ZODIAC_SIGNS_COUNT
+
+    return CLTimeStruct(
+        ic_seconds=ic_seconds,
+        ic_day=ic_day,
+        ic_hour=ic_hour,
+        ic_minute=ic_minute,
+        ic_second=ic_second,
+        year=year,
+        day_of_year=day_of_year,
+        season_index=season_index,
+        season_day=season_day,
+        weekday_index=weekday_index,
+        lunar_day=lunar_day,
+        zodiac_day=zodiac_day,
+        zodiac_index=zodiac_index,
+    )
 
 
-# -----------------------------
-# Cycles
-# -----------------------------
-def moon_phase(cl_day_of_year: int) -> tuple[int, str]:
-    phase_day = cl_day_of_year % 32
-    idx = (phase_day * 8) // 32
-    return phase_day, MOON_PHASE_NAMES[idx]
+def cl_to_real(ic_day: int, hour: int = 0, minute: int = 0, second: int = 0) -> datetime:
+    ic_seconds = ic_day * IC_SECONDS_PER_DAY + hour * 3600 + minute * 60 + second
+    real_seconds = ic_seconds // IC_SPEED_MULTIPLIER
+    unix_time = CL_EPOCH_UNIX + real_seconds
+    return datetime.fromtimestamp(unix_time, tz=timezone.utc)
 
 
-def zodiac_sign(cl_day_of_year: int) -> tuple[str, int, int]:
-    idx = (cl_day_of_year // 16) % 16
-    sign = ZODIAC_SIGNS[idx]
-    day_in_sign = cl_day_of_year % 16
-    days_until_next = 16 - day_in_sign
-    return sign, day_in_sign, days_until_next
+def moon_phase_for_day(ic_day: int) -> Tuple[int, str]:
+    lunar_day = ic_day % IC_MOON_CYCLE_DAYS
+    idx = (lunar_day * len(MOON_PHASE_NAMES)) // IC_MOON_CYCLE_DAYS
+    return lunar_day, MOON_PHASE_NAMES[idx]
 
 
-def dawn_dusk_for_day(cl_days: int) -> tuple[datetime, datetime]:
-    sunrise = cl_to_real(cl_days, 6, 0, 0)
-    sunset = cl_to_real(cl_days, 18, 0, 0)
+def zodiac_for_day(ic_day: int) -> Tuple[str, int, int]:
+    zodiac_day = ic_day % IC_ZODIAC_SIGN_DAYS
+    zodiac_index = (ic_day // IC_ZODIAC_SIGN_DAYS) % IC_ZODIAC_SIGNS_COUNT
+    sign = ZODIAC_SIGNS[zodiac_index]
+    days_until_next = IC_ZODIAC_SIGN_DAYS - zodiac_day
+    return sign, zodiac_day, days_until_next
+
+
+def dawn_dusk_for_day(ic_day: int) -> Tuple[datetime, datetime]:
+    sunrise = cl_to_real(ic_day, 6, 0, 0)
+    sunset = cl_to_real(ic_day, 18, 0, 0)
     return sunrise, sunset
 
 
-def next_full_moon_times(cl_days: int) -> tuple[int | None, datetime | None, datetime | None, datetime | None]:
-    for offset in range(0, CL_DAYS_PER_YEAR * 3):
-        test_day = cl_days + offset
-        cl_day_of_year = test_day % CL_DAYS_PER_YEAR
-        phase_day, phase_name = moon_phase(cl_day_of_year)
+def next_full_moon(ic_day: int, search_days: int = IC_DAYS_PER_YEAR * 3):
+    for offset in range(search_days):
+        test_day = ic_day + offset
+        lunar_day, phase_name = moon_phase_for_day(test_day)
         if phase_name == "Full Moon":
             start = cl_to_real(test_day, 0, 0, 0)
             noon = cl_to_real(test_day, 12, 0, 0)
@@ -429,195 +478,26 @@ def next_full_moon_times(cl_days: int) -> tuple[int | None, datetime | None, dat
     return None, None, None, None
 
 
-# -----------------------------
-# Formatting helpers
-# -----------------------------
 def fmt_real(dt: datetime) -> str:
-    """Format real-world datetime similar to Clepsia output."""
     return dt.astimezone().strftime("%a %b %d %H:%M:%S %Y")
 
 
-def fmt_cl_header(cl: dict) -> str:
-    """
-    Format the main CL header line:
-    Gradi 11:52:00 PM, day 37 of Autumn, day 307 of the year 645
-    """
-    hour_12 = ((cl["hour"] + 11) % 12) + 1
-    ampm = "AM" if cl["hour"] < 12 else "PM"
+def fmt_cl_header(cl: CLTimeStruct) -> str:
+    hour_12 = ((cl.ic_hour + 11) % 12) + 1
+    ampm = "AM" if cl.ic_hour < 12 else "PM"
     return (
-        f"Gradi {hour_12}:{cl['minute']:02d}:{cl['second']:02d} {ampm}, "
-        f"day {cl['season_day'] + 1} of {cl['season']}, "
-        f"day {cl['cl_day_of_year'] + 1} of the year {cl['year']}"
+        f"{cl.weekday_name} {hour_12}:{cl.ic_minute:02d}:{cl.ic_second:02d} {ampm}, "
+        f"day {cl.season_day + 1} of {cl.season_name}, "
+        f"day {cl.day_of_year + 1} of the year {cl.year}"
     )
 
-# -- clock / time ---------------------------------------------------
 
-class CLTime:
-    def __init__(self, parent):
-        self.parent = parent
-
-        # -----------------------------
-        # Main container
-        # -----------------------------
-        self.main = ttk.Frame(parent, padding=10)
-        self.main.grid(row=0, column=0, sticky="nsew")
-
-        parent.columnconfigure(0, weight=1)
-        parent.rowconfigure(0, weight=1)
-
-        # Styles
-        style = ttk.Style()
-        style.configure("Header.TLabel", font=("KIN668", 14, "bold"))
-        style.configure("Body.TLabel", font=("KIN668", 11))
-
-        self.build_layout()
-        self.update_all()
-
-    # -----------------------------
-    # Helpers
-    # -----------------------------
-    def header(self, text):
-        return ttk.Label(self.main, text=text, style="Header.TLabel")
-
-    def body(self, text):
-        return ttk.Label(self.main, text=text, style="Body.TLabel", justify="left")
-
-    # -----------------------------
-    # Layout
-    # -----------------------------
-    def build_layout(self):
-        # Top header (full width)
-        self.lbl_header = self.header("")
-        self.lbl_header.grid(row=0, column=0, columnspan=2, pady=(0, 20), sticky="n")
-
-        # Dawn/Dusk (left)
-        self.header("Dawn/Dusk").grid(row=1, column=0, sticky="n")
-        self.lbl_dawn = self.body("")
-        self.lbl_dawn.grid(row=2, column=0, sticky="n", pady=(0, 20))
-
-        # Lunar Cycle (right)
-        self.header("Lunar cycle").grid(row=1, column=1, sticky="n")
-        self.lbl_lunar = self.body("")
-        self.lbl_lunar.grid(row=2, column=1, sticky="n", pady=(0, 20))
-
-        # Zodiac (left)
-        self.header("Zodiac cycle").grid(row=3, column=0, sticky="n")
-        self.lbl_zodiac = self.body("")
-        self.lbl_zodiac.grid(row=4, column=0, sticky="n", pady=(0, 20))
-
-        # Coliseum (right)
-        self.header("Coliseum").grid(row=3, column=1, sticky="n")
-        self.lbl_coliseum = self.body("")
-        self.lbl_coliseum.grid(row=4, column=1, sticky="n", pady=(0, 20))
-
-        # OOC → IC (left)
-        self.header("ooc --> ic").grid(row=5, column=0, sticky="n")
-        frame1 = ttk.Frame(self.main)
-        frame1.grid(row=6, column=0, sticky="n", pady=(0, 5))
-        self.entry_ooc = ttk.Entry(frame1, width=30)
-        self.entry_ooc.pack(side="left", padx=(0, 5))
-        ttk.Button(frame1, text="Convert", command=self.convert_ooc_to_ic).pack(side="left")
-        self.lbl_ooc_result = self.body("")
-        self.lbl_ooc_result.grid(row=7, column=0, sticky="n", pady=(0, 20))
-
-        # IC → OOC (right)
-        self.header("ic --> ooc").grid(row=5, column=1, sticky="n")
-        frame2 = ttk.Frame(self.main)
-        frame2.grid(row=6, column=1, sticky="n", pady=(0, 5))
-        self.entry_ic = ttk.Entry(frame2, width=30)
-        self.entry_ic.pack(side="left", padx=(0, 5))
-        ttk.Button(frame2, text="Convert", command=self.convert_ic_to_ooc).pack(side="left")
-        self.lbl_ic_result = self.body("")
-        self.lbl_ic_result.grid(row=7, column=1, sticky="n", pady=(0, 20))
-
-        # Expand columns evenly
-        self.main.columnconfigure(0, weight=1)
-        self.main.columnconfigure(1, weight=1)
-
-    # -----------------------------
-    # Update Loop
-    # -----------------------------
-    def update_all(self):
-        now = datetime.now(timezone.utc)
-        cl = real_to_cl(now)
-
-        self.lbl_header.config(text=fmt_cl_header(cl))
-
-        # Dawn/Dusk
-        sunrise, sunset = dawn_dusk_for_day(cl["cl_days"])
-        sunrise2, sunset2 = dawn_dusk_for_day(cl["cl_days"] + 1)
-        self.lbl_dawn.config(text=(
-            "Today:\n"
-            f"  Sunrise at: {fmt_real(sunrise)}\n"
-            f"  Sunset at:  {fmt_real(sunset)}\n\n"
-            "Tomorrow:\n"
-            f"  Next sunrise at: {fmt_real(sunrise2)}\n"
-            f"  Next sunset at:  {fmt_real(sunset2)}"
-        ))
-
-        # Lunar
-        moon_day, moon_name = moon_phase(cl["cl_day_of_year"])
-        next_day, start, noon, end = next_full_moon_times(cl["cl_days"])
-        lunar = f"{moon_name}, day {moon_day}\n\n"
-        if start:
-            lunar += (
-                "Next Full Moon:\n"
-                f"  Starts at: {fmt_real(start)}\n"
-                f"  Noon is at: {fmt_real(noon)}\n"
-                f"  Ends at:   {fmt_real(end)}"
-            )
-        self.lbl_lunar.config(text=lunar)
-
-        # Zodiac
-        sign, day_in_sign, days_until_next = zodiac_sign(cl["cl_day_of_year"])
-        self.lbl_zodiac.config(text=(
-            f"Day {day_in_sign} of {sign}\n"
-            f"Next sign rises in {days_until_next} days"
-        ))
-
-        # Coliseum
-        next_col = cl_to_real(cl["cl_days"] + 1, 23, 10)
-        self.lbl_coliseum.config(text=f"Coliseum opens at {fmt_real(next_col)}")
-
-        self.parent.after(1000, self.update_all)
-
-    # -----------------------------
-    # Converters
-    # -----------------------------
-    def convert_ooc_to_ic(self):
-        try:
-            dt = datetime.strptime(self.entry_ooc.get(), "%H:%M %m-%d-%Y").replace(tzinfo=timezone.utc)
-        except:
-            messagebox.showerror("Error", "Format must be: HH:MM M-D-YYYY")
-            return
-
-        cl = real_to_cl(dt)
-        result = (
-            f"{cl['hour']:02d}:{cl['minute']:02d} "
-            f"{cl['season']}-{cl['season_day'] + 1}-{cl['year']}"
-        )
-        self.lbl_ooc_result.config(text=result)
-
-    def convert_ic_to_ooc(self):
-        try:
-            time_part, date_part = self.entry_ic.get().split()
-            hour, minute = map(int, time_part.split(":"))
-            season, day, year = date_part.split("-")
-            season = season.capitalize()
-            day = int(day)
-            year = int(year)
-            season_index = CL_SEASONS.index(season)
-        except:
-            messagebox.showerror("Error", "Format must be: HH:MM Season-day-year")
-            return
-
-        cl_day_of_year = season_index * 64 + (day - 1)
-        cl_days = year * CL_DAYS_PER_YEAR + cl_day_of_year
-        dt = cl_to_real(cl_days, hour, minute)
-        self.lbl_ic_result.config(text=fmt_real(dt))
+def cl_now() -> CLTimeStruct:
+    return real_to_cl(datetime.now(timezone.utc))
 # ----------------------------------------------------------------------
 # ---------------------- CORE PARSING / COUNTS ------------------------
 # ----------------------------------------------------------------------
+
 
 def count_special_lines(texts):
     """
@@ -915,6 +795,9 @@ def summarize_coin_events(events):
         if ev["skinned"]:
             summary[monster]["your_skins"] += 1
     return summary
+
+
+
 # ----------------------------------------------------------------------
 # ------------------------- GUI / CALLBACKS ----------------------------
 # ----------------------------------------------------------------------
@@ -1437,6 +1320,166 @@ def open_special_kills_table():
     for r in rows:
         tv.insert("", "end", values=r)
 
+class CLTime:
+    def __init__(self, parent):
+        self.parent = parent
+
+        # Main container
+        self.main = ttk.Frame(parent, padding=10)
+        self.main.grid(row=0, column=0, sticky="nsew")
+
+        parent.columnconfigure(0, weight=1)
+        parent.rowconfigure(0, weight=1)
+
+        # Styles
+        style = ttk.Style()
+        style.configure("Header.TLabel", font=("KIN668", 14, "bold"))
+        style.configure("Body.TLabel", font=("KIN668", 11))
+
+        self.build_layout()
+        self.update_all()
+
+    # -----------------------------
+    # Helpers
+    # -----------------------------
+    def header(self, text):
+        return ttk.Label(self.main, text=text, style="Header.TLabel")
+
+    def body(self, text):
+        return ttk.Label(self.main, text=text, style="Body.TLabel", justify="left")
+
+    # -----------------------------
+    # Layout
+    # -----------------------------
+    def build_layout(self):
+        # Top header
+        self.lbl_header = self.header("")
+        self.lbl_header.grid(row=0, column=0, columnspan=2, pady=(0, 20), sticky="n")
+
+        # Dawn/Dusk
+        self.header("Dawn/Dusk").grid(row=1, column=0, sticky="n")
+        self.lbl_dawn = self.body("")
+        self.lbl_dawn.grid(row=2, column=0, sticky="n", pady=(0, 20))
+
+        # Lunar
+        self.header("Lunar cycle").grid(row=1, column=1, sticky="n")
+        self.lbl_lunar = self.body("")
+        self.lbl_lunar.grid(row=2, column=1, sticky="n", pady=(0, 20))
+
+        # Zodiac
+        self.header("Zodiac cycle").grid(row=3, column=0, sticky="n")
+        self.lbl_zodiac = self.body("")
+        self.lbl_zodiac.grid(row=4, column=0, sticky="n", pady=(0, 20))
+
+        # Coliseum
+        self.header("Coliseum").grid(row=3, column=1, sticky="n")
+        self.lbl_coliseum = self.body("")
+        self.lbl_coliseum.grid(row=4, column=1, sticky="n", pady=(0, 20))
+
+        # OOC → IC
+        self.header("ooc → ic").grid(row=5, column=0, sticky="n")
+        frame1 = ttk.Frame(self.main)
+        frame1.grid(row=6, column=0, sticky="n", pady=(0, 5))
+        self.entry_ooc = ttk.Entry(frame1, width=30)
+        self.entry_ooc.pack(side="left", padx=(0, 5))
+        ttk.Button(frame1, text="Convert", command=self.convert_ooc_to_ic).pack(side="left")
+        self.lbl_ooc_result = self.body("")
+        self.lbl_ooc_result.grid(row=7, column=0, sticky="n", pady=(0, 20))
+
+        # IC → OOC
+        self.header("ic → ooc").grid(row=5, column=1, sticky="n")
+        frame2 = ttk.Frame(self.main)
+        frame2.grid(row=6, column=1, sticky="n", pady=(0, 5))
+        self.entry_ic = ttk.Entry(frame2, width=30)
+        self.entry_ic.pack(side="left", padx=(0, 5))
+        ttk.Button(frame2, text="Convert", command=self.convert_ic_to_ooc).pack(side="left")
+        self.lbl_ic_result = self.body("")
+        self.lbl_ic_result.grid(row=7, column=1, sticky="n", pady=(0, 20))
+
+        self.main.columnconfigure(0, weight=1)
+        self.main.columnconfigure(1, weight=1)
+
+    # -----------------------------
+    # Update Loop
+    # -----------------------------
+    def update_all(self):
+        cl = cl_now()
+
+        # Header
+        self.lbl_header.config(text=fmt_cl_header(cl))
+
+        # Dawn/Dusk
+        sunrise, sunset = dawn_dusk_for_day(cl.ic_day)
+        sunrise2, sunset2 = dawn_dusk_for_day(cl.ic_day + 1)
+        self.lbl_dawn.config(text=(
+            "Today:\n"
+            f"  Sunrise at: {fmt_real(sunrise)}\n"
+            f"  Sunset at:  {fmt_real(sunset)}\n\n"
+            "Tomorrow:\n"
+            f"  Next sunrise at: {fmt_real(sunrise2)}\n"
+            f"  Next sunset at:  {fmt_real(sunset2)}"
+        ))
+
+        # Lunar
+        moon_day, moon_name = moon_phase_for_day(cl.ic_day)
+        next_day, start, noon, end = next_full_moon(cl.ic_day)
+        lunar = f"{moon_name}, day {moon_day}\n\n"
+        if start:
+            lunar += (
+                "Next Full Moon:\n"
+                f"  Starts at: {fmt_real(start)}\n"
+                f"  Noon is at: {fmt_real(noon)}\n"
+                f"  Ends at:   {fmt_real(end)}"
+            )
+        self.lbl_lunar.config(text=lunar)
+
+        # Zodiac
+        sign, day_in_sign, days_until_next = zodiac_for_day(cl.ic_day)
+        self.lbl_zodiac.config(text=(
+            f"Day {day_in_sign} of {sign}\n"
+            f"Next sign rises in {days_until_next} days"
+        ))
+
+        # Coliseum (simple example)
+        next_col = cl_to_real(cl.ic_day + 1, 23, 10)
+        self.lbl_coliseum.config(text=f"Coliseum opens at {fmt_real(next_col)}")
+
+        self.parent.after(1000, self.update_all)
+
+    # -----------------------------
+    # Converters
+    # -----------------------------
+    def convert_ooc_to_ic(self):
+        try:
+            dt = datetime.strptime(self.entry_ooc.get(), "%H:%M %m-%d-%Y").replace(tzinfo=timezone.utc)
+        except:
+            messagebox.showerror("Error", "Format must be: HH:MM M-D-YYYY")
+            return
+
+        cl = real_to_cl(dt)
+        result = (
+            f"{cl.ic_hour:02d}:{cl.ic_minute:02d} "
+            f"{cl.season_name}-{cl.season_day + 1}-{cl.year}"
+        )
+        self.lbl_ooc_result.config(text=result)
+
+    def convert_ic_to_ooc(self):
+        try:
+            time_part, date_part = self.entry_ic.get().split()
+            hour, minute = map(int, time_part.split(":"))
+            season, day, year = date_part.split("-")
+            season = season.capitalize()
+            day = int(day)
+            year = int(year)
+            season_index = SEASONS.index(season)
+        except:
+            messagebox.showerror("Error", "Format must be: HH:MM Season-day-year")
+            return
+
+        ic_day = year * IC_DAYS_PER_YEAR + season_index * IC_DAYS_PER_SEASON + (day - 1)
+        dt = cl_to_real(ic_day, hour, minute)
+        self.lbl_ic_result.config(text=fmt_real(dt))
+
 # ----------------------------------------------------------------------
 # ------------------------- MAIN GUI SETUP -----------------------------
 # ----------------------------------------------------------------------
@@ -1447,6 +1490,9 @@ root.title("Rank Counter 29")
 # Global Font Override (KIN668.TTF)
 # -----------------------------
 font_path = os.path.join(os.path.dirname(__file__), "KIN668.TTF")
+IMG_DIR = os.path.join(os.path.dirname(__file__), "img")
+from tkinter.font import Font
+custom_font = ("KIN668", 10)
 
 try:
     root.tk.call("font", "create", "KIN668", "-family", "KIN668",
@@ -1484,6 +1530,7 @@ frame_creatures = ttk.Frame(notebook)
 frame_logsearch = ttk.Frame(notebook)
 frame_coins = ttk.Frame(notebook)
 frame_CLTime = ttk.Frame(notebook)
+frame_moon = ttk.Frame(notebook)
 
 notebook.add(frame_characters, text="Characters")
 notebook.add(frame_ranks, text="Ranks")
@@ -1491,6 +1538,7 @@ notebook.add(frame_creatures, text="Creatures")
 notebook.add(frame_logsearch, text="Log Search")
 notebook.add(frame_coins, text="Coins")
 notebook.add(frame_CLTime, text="Time")
+notebook.add(frame_moon, text="Moon Calendar")
 
 CLTime(frame_CLTime)
 
@@ -1514,6 +1562,20 @@ time_filter_box = ttk.Combobox(
     state="readonly"
 )
 time_filter_box.pack(pady=5)
+
+def get_moon_icon(phase_name):
+    # Mapping phase names to your filenames (update if your names differ)
+    mapping = {
+        "New Moon": "new.gif",
+        "Full Moon": "full.gif",
+        "Last Quarter": "lq.gif",
+        # Add the rest of your 8 phases here
+    }
+    filename = mapping.get(phase_name, "default.gif")
+    path = os.path.join(IMG_DIR, filename)
+    if os.path.exists(path):
+        return tk.PhotoImage(file=path)
+    return None
 
 def refresh_coins_table():
     name = get_selected_character()
@@ -1754,6 +1816,185 @@ def show_creature_menu(event):
 
 creature_table.bind("<Button-3>", show_creature_menu)
 creature_table.bind("<Button-2>", show_creature_menu)
+
+# ---------------------------------------------------------
+#  PIXEL‑PERFECT MOON CALENDAR (Matches Screenshot Exactly)
+# ---------------------------------------------------------
+
+moon_container = ttk.Frame(frame_moon)
+moon_container.pack(fill="both", expand=True, padx=20, pady=20)
+
+# -------------------------------
+# Current Time — ONE LINE
+# -------------------------------
+stats_frame = ttk.LabelFrame(moon_container, text="Current Time")
+stats_frame.pack(fill="x", pady=(0, 10))
+
+stats_labels = {}
+fields = ["Year", "Season", "Zodiac", "Moon Phase", "Time"]
+
+for col, field in enumerate(fields):
+    ttk.Label(stats_frame, text=f"{field}:", font=("KIN668", 10, "bold")).grid(row=0, column=col*2, padx=4)
+    stats_labels[field] = ttk.Label(stats_frame, text="---", font=("KIN668", 10))
+    stats_labels[field].grid(row=0, column=col*2 + 1, padx=4)
+
+# -------------------------------
+# Year Selector
+# -------------------------------
+year_frame = ttk.Frame(moon_container)
+year_frame.pack(pady=(0, 10))
+
+year_var = tk.IntVar()
+
+def submit_year():
+    build_moon_calendar(year_var.get())
+
+# -------------------------------
+# Exact Screenshot Colors
+# -------------------------------
+season_colors = {
+    "Winter": "#C7DDF9",
+    "Spring": "#C9F7C9",
+    "Summer": "#FFF4C2",
+    "Autumn": "#FFD2A6"
+}
+
+moon_bg = "#EDEDED"  # moon phase cell background
+
+# -------------------------------
+# Calendar Container (VERTICAL)
+# -------------------------------
+calendar_frame = ttk.Frame(moon_container)
+calendar_frame.pack(fill="both", expand=True)
+
+seasons = ["Winter", "Spring", "Summer", "Autumn"]
+season_frames = {}
+
+for s in seasons:
+    outer = tk.Frame(calendar_frame, bg=season_colors[s], bd=1, relief="solid")
+    outer.pack(fill="x", pady=4)
+    season_frames[s] = outer
+
+    # Season header
+    tk.Label(
+        outer,
+        text=s.upper(),
+        font=("KIN668", 12, "bold"),
+        bg=season_colors[s],
+        anchor="center"
+    ).pack(fill="x", pady=(3, 3))
+
+# -------------------------------
+# Preload icons
+# -------------------------------
+icon_cache = {}
+for name, img_file in moon_icons.items():
+    path = os.path.join(os.path.dirname(__file__), img_file)
+    icon_cache[name] = tk.PhotoImage(file=path)
+
+# -------------------------------
+# Moon phase for any IC day
+# -------------------------------
+def moon_phase_for_day(day_of_year):
+    lunar_day = day_of_year % 28
+    if lunar_day == 0:
+        return lunar_day, "New Moon"
+    elif lunar_day == 7:
+        return lunar_day, "First Quarter"
+    elif lunar_day == 14:
+        return lunar_day, "Full Moon"
+    elif lunar_day == 21:
+        return lunar_day, "Last Quarter"
+    else:
+        return lunar_day, None  # normal day
+
+# -------------------------------
+# Build the 360‑day calendar
+# -------------------------------
+day_cells = []
+
+def build_moon_calendar(year):
+    global day_cells
+    day_cells = []
+
+    day = 0
+    for season in seasons:
+        outer = season_frames[season]
+
+        grid = tk.Frame(outer, bg=season_colors[season])
+        grid.pack(padx=4, pady=(0, 6))
+
+        for r in range(2):        # 9 rows
+            for c in range(30):   # 10 columns
+                day += 1
+                lunar_day, phase = moon_phase_for_day(day)
+
+                bg = moon_bg if phase else season_colors[season]
+
+                cell = tk.Frame(
+                    grid,
+                    bg=bg,
+                    width=32,
+                    height=32,
+                    bd=1,
+                    relief="solid"
+                )
+                cell.grid(row=r, column=c, padx=1, pady=1)
+                cell.grid_propagate(False)
+
+                if phase:
+                    icon = icon_cache.get(phase)
+                    tk.Label(cell, image=icon, bg=bg).pack()
+                else:
+                    tk.Label(cell, bg=bg).pack()
+
+                tk.Label(cell, text=str(day), font=("KIN668", 8), bg=bg).pack()
+
+                day_cells.append(cell)
+
+# -------------------------------
+# Legend (matches screenshot)
+# -------------------------------
+legend = tk.Frame(moon_container)
+legend.pack(pady=5)
+
+for phase in ["New Moon", "First Quarter", "Full Moon", "Last Quarter"]:
+    icon = icon_cache.get(phase)
+    box = tk.Frame(legend)
+    box.pack(side="left", padx=10)
+
+    tk.Label(box, image=icon).pack()
+    tk.Label(box, text=phase, font=("KIN668", 9)).pack()
+
+# -------------------------------
+# Update loop
+# -------------------------------
+def update_moon_calendar():
+    cl_time = real_to_cl(datetime.now())
+
+    stats_labels["Year"].config(text=str(cl_time.year + 1))
+    stats_labels["Season"].config(text=cl_time.season_name)
+    stats_labels["Zodiac"].config(text=cl_time.zodiac_name)
+    stats_labels["Moon Phase"].config(text=cl_time.moon_phase_name)
+    stats_labels["Time"].config(text=f"{cl_time.ic_hour:02}:{cl_time.ic_minute:02}")
+
+    current_day = cl_time.day_of_year - 1
+
+    for i, cell in enumerate(day_cells):
+        if i == current_day:
+            cell.config(bd=2, relief="solid")
+        else:
+            cell.config(bd=1, relief="solid")
+
+    frame_moon.after(60000, update_moon_calendar)
+
+# -------------------------------
+# Initial build
+# -------------------------------
+cl_time = real_to_cl(datetime.now())
+year_var.set(cl_time.year)
+build_moon_calendar(cl_time.year)
+update_moon_calendar()
 
 # ----------------------------------------------------------------------
 # LOG SEARCH TAB — sentence-level search, file path hidden

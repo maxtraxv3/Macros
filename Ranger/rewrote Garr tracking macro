@@ -1,0 +1,127 @@
+// rewrote Garr tracking macro
+// why? no reason.
+// also can unmoprh via pressing same combo button for the morph now.
+// Magnic
+
+shift-f1    setglobal track_target track_presettargets[0] call mightytracker
+shift-f2    setglobal track_target track_presettargets[1] call mightytracker
+shift-f3    setglobal track_target track_presettargets[2] call mightytracker
+shift-f4   	setglobal track_target track_presettargets[3] call mightytracker
+shift-f5   	setglobal track_target track_presettargets[4] call mightytracker
+shift-f6   	setglobal morph_target morph_presettargets[0] call mightymoprher
+shift-f7   	setglobal morph_target morph_presettargets[1] call mightymoprher
+shift-f8   	setglobal morph_target morph_presettargets[2] call mightymoprher
+shift-f9   	setglobal morph_target morph_presettargets[3] call mightymoprher
+shift-f10  	setglobal morph_target morph_presettargets[4] call mightymoprher
+control-f1  	call ???
+control-f2      call ???
+control-f3  	call ???
+control-f4  	call ???
+control-f5  	call ranger_release
+control-f6  	call ???
+control-f7  	call ???
+control-f8  	call ???
+control-f9  	call ???
+control-f10  	call ranger_befriend
+escape		call shieldstone_toggle
+
+"/setmorph"
+{
+    setglobal morph_index 0
+    label morph_targets_top
+    if morph_index < @text.num_words
+        message setting @text.word[morph_index] at morph target morph_index
+            setglobal morph_presettargets[morph_index] @text.word[morph_index]
+        end if
+        setglobal morph_index + 1
+            pause 1
+                goto morph_targets_top
+    end if
+}
+
+"/settrack"
+{
+    setglobal track_index 0
+    label track_targets_top
+    if track_index < @text.num_words
+        message setting @text.word[track_index] at tracking target track_index
+            setglobal track_presettargets[track_index] @text.word[track_index]
+        end if
+        setglobal track_index + 1
+            pause 1
+                goto track_targets_top
+    end if
+}
+
+No_index_name
+{
+message "* target not set"
+}
+
+mightymoprher
+{
+if morph_target != ""
+    if morph_target == lasttarget
+        "/useitem belt /return" "\r"
+            set lasttarget ""
+                goto end
+    end if
+	if @my.waist_item != "Belt of the Wild"
+		"/equip beltofthewild\r"
+            pause 1
+	end if
+	"/useitem waist /track " morph_target "\r"
+        set lasttarget morph_target
+else
+    call No_index_name
+end if
+label end
+}
+
+mightytracker
+{
+if track_target != ""
+	if @my.waist_item != "Belt of the Wild"
+		"/equip beltofthewild\r"
+            pause 1
+	end if
+	"/useitem waist /track " track_target "\r"
+else
+    call No_index_name
+end if
+}
+
+ranger_befriend
+{
+if @my.waist_item != "Belt of the Wild"
+    "/equip beltofthewild\r"
+        pause 1
+end if
+"/useitem belt /befriend" "\r"
+    pause 1
+        "/useitem belt /control" "\r"
+}
+
+ranger_release
+{
+"/useitem belt /dismiss" "\r"
+}
+
+shieldstone_toggle
+{
+if @my.finger_item == "Shieldstone"
+    goto ON
+end if
+label equip
+    "/equip shieldstone\r"
+        pause 1
+label ON
+if @my.finger_item == "Shieldstone"
+    "/useitem shieldstone\r"
+emd if
+label CHECK
+if @env.textLog >= "Your Shieldstone goes inert"
+    pause 2
+        goto equip
+end if
+}
