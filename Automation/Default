@@ -234,9 +234,31 @@ if  wordtime >= 15
 			end if
 		end if
 	end if
-//skiff
+//skiff + borrow one
 	if logck.word[2] >= "Hello,"
 		if logck >= "river skiff. Interested?"
+			if namenum == 1
+				if logck.word[3] == dotname
+					"/whisper yes \r"
+				end if
+			else if namenum == 2
+				set Bname logck.word[3]
+				set Bname + " "
+				set Bname + logck.word[4]
+					if Bname == dotname
+						"/whisper yes \r"
+					end if
+			else if namenum == 3
+				set Bname logck.word[3]
+				set Bname + " "
+				set Bname + logck.word[4]
+				set Bname + " "
+				set Bname + logck.word[5]
+					if Bname == dotname
+						"/whisper yes \r"
+					end if
+			end if
+		else if logck >= "boats. Interested?"
 			if namenum == 1
 				if logck.word[3] == dotname
 					"/whisper yes \r"
@@ -281,6 +303,27 @@ if  wordtime >= 15
 					if Bname == dotname
 						"/whisper yes \r"
 					end if
+			end if
+		else if logck >= "boats. Interested?"
+			if namenum == 1
+				if logck.word[5] == dotname
+					"/whisper yes \r"
+				end if
+			else if namenum == 2
+				set Bname logck.word[5]
+				set Bname + " "
+				set Bname + logck.word[6]
+					if Bname == dotname
+						"/whisper yes \r"
+					end if
+			else if namenum == 3
+				set Bname logck.word[5]
+				set Bname + " "
+				set Bname + logck.word[6]
+				set Bname + " "
+				set Bname + logck.word[7]
+					if Bname == dotname
+						"/whisper yes \r"
 			end if
 		end if
 	end if
@@ -642,13 +685,14 @@ label une
 			message "* swapping left hand back to" swaobackL " "
 				"/equip " swaobackL " \r"
 					SETGLOBAL swaobackL ""
-			else 
+		else
 			if @my.left_item == "Heartwood Charm"
 				"/unequip heartwood \r"
 			end if
+		end if
 	end if
-end if
 goto top
+end if
 }
  
 "/am"
