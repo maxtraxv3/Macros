@@ -159,7 +159,7 @@ label buyish
 		end if
 	end if
 end if
-if  wordtime >= 15
+if wordtime >= 15
 //boat
 	if logck.word[3] >= "Ah,"
 		if logck >= "My fine boats"
@@ -540,7 +540,7 @@ if  wordtime >= 15
 	if logck >= "You are becoming a master of your art."
 		message "*" nameck ": 500-549"
 	end if
-		if logck >= "You are a credit to your craft."
+	if logck >= "You are a credit to your craft."
 		message "*" nameck ": 650-699"
 	end if
 	if logck >= "Your devotion to your craft is exemplary."
@@ -713,7 +713,7 @@ if trademe == 0
 		message "*Auto Trade Zero ON!"
 			if AT == 0
 				message "* Auto Mate is OFF, Auto Trade Zero will not work with it turned off."
-	end if
+			end if
 else
 	setglobal trademe 0
 		message "*Auto Trade Zero OFF!"
@@ -793,9 +793,7 @@ else if conc2 == 1
 		setglobal CHAINING 1
 			"/equip " chain "\r"
 				"/use " @click.simple_name " \r"
-	end if
-	else
-	if @my.right_item == chain
+	else if @my.right_item == chain
 		setglobal CHAINING 1
 			"/use " @click.simple_name " \r"
 	end if
@@ -953,7 +951,6 @@ else if name[thnka] == ""
 		setglobal thnka + 1
 	end if
 			call nextthk
-	end if
 end if
 call errorck
 }
@@ -1017,7 +1014,6 @@ call thnck
 				setglobal namel + 1
 			end if
 				goto end
-	end if
 label end
 setglobal failname 0
 }
