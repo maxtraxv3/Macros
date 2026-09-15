@@ -16,6 +16,7 @@ message "" dataset[3] ""
 message "" dataset[4] ""
 }
 
+setglobal totalwhats 4
 setglobal dataset[1] ""
 setglobal dataset[2] ""
 setglobal dataset[3] ""
@@ -25,12 +26,20 @@ setglobal ts1 9
 setglobal ts2 10
 setglobal ts3 11
 setglobal ts4 12
-
+setglobal tsFilter 2
 
 "/sm"
 {
 set logck @env.textlog
 message "loading whatzits..."
+// time stamp check
+if logck.word[2] == "loading"
+	setglobal ts1 - 2
+	setglobal ts2 - 2
+	setglobal ts3 - 2
+	setglobal ts4 - 2
+	setglobal tsFilter - 1
+end if
 label reload
 if cknum < 4
 	// the extra "\" here is required so selectitem command knows to use both words
@@ -43,50 +52,54 @@ if cknum < 4
 		pause 2
 			if logck >= "no item"
 				message "* no whatzit found skipping"
-					goto skipper
+					setglobal totalwhats - 1
+						goto skipper
 			else if @my.selected_item == "Nothing"
 				message "* something went wrong with item selection"
-					goto skipper
+					setglobal totalwhats - 1
+						goto skipper
 			else if @my.selected_item.word[2] == ""
 				message "* not data skipping_1"
-					goto skipper
+					setglobal totalwhats - 1
+						goto skipper
 			else if @my.selected_item.word[lastwordinselec] != ".>"
 				message "* not data skipping_2"
-					goto skipper
+					setglobal totalwhats - 1
+						goto skipper
 			else if @my.selected_item.word[lastwordinselec] == ".>"
 				if @my.selected_item.word[checkbeforedot] >= "<#"
 					message "* not data skipping_3"
-						goto skipper
+						setglobal totalwhats - 1
+							goto skipper
+				end if
 			else
 				message "* loading " @my.selected_item.word[1].letter[1] "" @my.selected_item.word[1].letter[2] ""
 					call loader
 						label skipper
-						setglobal cknum + 1
-							if cknum < 5
-								goto reload
-							else
-								setglobal cknum 1
-									call messwatch
-							end if
-				end if
+							setglobal cknum + 1
+								if cknum < 5
+									goto reload
+								else
+									setglobal cknum 1
+										call messwatch
+								end if
 			end if
 else
-call messwatch
+	call messwatch
 end if
 label ender
 }
 
-//might need to convert selected item into saved data, so can show correct error messages
 loader
 {
-// might need more error checks
 // This check length of text to tell how many "name's" the creature has
 // longest creater name is 4 words
 if @my.selected_item.word[lastwordinselec] == ".>" // fail safe check
 	set logicnumber lastwordinselec
 	set checksave @my.selected_item
 else
-	goto stopL
+	message "checksave failed"
+		goto stopL
 end if
 // Save data into temp memory
 if checksave.word[2] != "" // fail safe check
@@ -112,9 +125,10 @@ if checksave.word[2] != "" // fail safe check
 		setglobal dataset[cknum] + checksave.word[8]
 	end if
 else
-	goto stopL
+	message "temp memory failed to save"
+		goto stopL
 end if
-//convert the save data into temp readable information for .word and .word.letter commands to work
+// convert the save data into temp readable information for .word and .word.letter commands to work
 // dataset[cknum].word[1] is invaild.
 // setting nummsger becuase you cant use checkname.word directly for messages " msg[checkname.word[2]] " is invailed
 set checkname dataset[cknum]
@@ -147,12 +161,13 @@ label endLoad
 
 // key: 0 = false, 1 = true
 // IE if fitler == 0, means if the filter fuction has found nothing to filter out, then do next line.
+// this maybe hard for the macro to catch becuase of the way the server sends messages so it maybe not work everytime
+// for studys it best to turn off coin messages
 messwatch
 {
 message "scanning"
 set timesupwrightout 0
 label top
-pause 1 //need testing
 set logck @env.textlog
 // Begin Study filter
 if logck >= "•You begin studying the"
@@ -169,87 +184,41 @@ else if logck >= "You abandon your study of the"
 					call remover
 			end if
 // messages filter
+// needs to save cratures name to avoid multi add problems
+// otherwise it will scan the log 5-8 times re-adding the same line mutiable times
 else if logck >= "almost nothing left to learn about the"
-	call filter
-		if fitler == 0
-			call plusck
-		end if
+	call msgfiltercheck
 else if logck >= "a few things to learn about the"
-	call filter
-		if fitler == 0
-			call plusck
-		end if
+	call msgfiltercheck
 else if logck >= "more than a few things to learn about the"
-	call filter
-		if fitler == 0
-			call plusck
-		end if
+	call msgfiltercheck
 else if logck >= "some things to learn about the"
-	call filter
-		if fitler == 0
-			call plusck
-		end if
+	call msgfiltercheck
 else if logck >= "many things to learn about the"
-	call filter
-		if fitler == 0
-			call plusck
-		end if
+	call msgfiltercheck
 else if logck >= "much to learn about the"
-	call filter
-		if fitler == 0
-			call plusck
-		end if
+	call msgfiltercheck
 else if logck >= "a lot to learn about the"
-	call filter
-		if fitler == 0
-			call plusck
-		end if
+	call msgfiltercheck
 else if logck >= "a vast amount to learn about the"
-	call filter
-		if fitler == 0
-			call plusck
-		end if
+	call msgfiltercheck
 // "you killed a <creature name>" and "you helped kill a <creature name>" filter
 else if logck >= "vanquished a"
-	call filter
-		if fitler == 0
-			call dswordfilter
-		end if
+	call killfiltercheck
 else if logck >= "killed a"
-	call filter
-		if fitler == 0
-			call dswordfilter
-		end if
+	call killfiltercheck
 else if logck >= "dispatched a"
-	call filter
-		if fitler == 0
-			call dswordfilter
-		end if
+	call killfiltercheck
 else if logck >= "slaughtered a"
-	call filter
-		if fitler == 0
-			call dswordfilter
-		end if
+	call killfiltercheck
 else if logck >= "vanquish a"
-	call filter
-		if fitler == 0
-			call dswordfilter
-		end if
+	call killfiltercheck
 else if logck >= "kill a"
-	call filter
-		if fitler == 0
-			call dswordfilter
-		end if
+	call killfiltercheck
 else if logck >= "dispatch a"
-	call filter
-		if fitler == 0
-			call dswordfilter
-		end if
+	call killfiltercheck
 else if logck >= "slaughter a"
-	call filter
-		if fitler == 0
-			call dswordfilter
-		end if
+	call killfiltercheck
 // save to whatzits every 5 mins(?)
 else if timesupwrightout == 300000
 	message "hardsave commenced"
@@ -282,37 +251,52 @@ set timesupwrightout + 1
 goto top
 }
 
+killfiltercheck
+{
+call filter
+	if fitler == 0
+		call dswordfilter
+	end if
+}
+
+msgfiltercheck
+{
+call filter
+	if fitler == 0
+		call plusck
+	end if
+}
+
 filter
 {
 // filters for non server messages, so people can say the message without changing the data.
-// needs timestamp check.
 set checklastword logck.num_words
 set checklastletter checklastword.num_letters
 if logck.word[2] == "says,"
 	setglobal fitler 1
 		goto done
-else if logck.word[2] == "says" // "says in people,"
+else if logck.word[tsFilter] == "says" // "says in people,"
 	setglobal fitler 1
 		goto done
-else if logck.word[2] == "growls,"
+else if logck.word[tsFilter] == "growls,"
 	setglobal fitler 1
 		goto done
-else if logck.word[2] == "yells,"
+else if logck.word[tsFilter] == "yells,"
 	setglobal fitler 1
 		goto done
-else if logck.word[2] == "ponders,"
+else if logck.word[tsFilter] == "ponders,"
 	setglobal fitler 1
 		goto done
-else if logck.word[2] == "thinks,"
+else if logck.word[tsFilter] == "thinks,"
 	setglobal fitler 1
 		goto done
-else if logck.word[2] == "thinks" // "thinks to you,"
+else if logck.word[tsFilter] == "thinks" // "thinks to you,"
 	setglobal fitler 1
 		goto done
 else if logck.word[checklastword].letter[checklastletter] == ")"
 	setglobal fitler 1
 		goto done
-else if logck.word[2].letter[0] == "("
+else if logck.word[tsFilter].letter[0] == "("
 	setglobal fitler 1
 		goto done
 else
@@ -374,12 +358,13 @@ if dataset[nameck] != "Nothing"
 							goto cknext
 						end if
 			else
-				message "failed " secondlastletternum " " secondlastword " " logck.word[secondlastword] " " logck.word[secondlastword].letter[secondlastletternum] ""
+				message "failed match check " secondlastletternum " " secondlastword " " logck.word[secondlastword] " " logck.word[secondlastword].letter[secondlastletternum] ""
 					goto end
 			end if
 		label matched
 		// becuase the the whole thing is saved as a "string" IE its saves as word(s)(yes even the numbers)
-		// we have pull out the number, assing it to a new temp save, add to it, resave it to the whole "string".
+		// we have take the number from the string, add it, then create a new string with the updated number,
+		// then replace the old string via "updater"
 			//message "matched: " nama " with: " matchedname ""
 				if allbutoneword == 6
 					if addone.word[0] == nama
@@ -454,7 +439,7 @@ if dataset[nameck] != "Nothing"
 else
 	label cknext
 	//message "no match; next!" // Very spammy dev message
-	if nameck > 4
+	if nameck > totalwhats
 		goto end
 	end if
 	set nameck + 1
@@ -462,6 +447,7 @@ else
 end if
 label end
 	//message "done"
+end if
 }
 
 // needs testing.
@@ -542,6 +528,7 @@ else if Rdata.num_words == 6
 	set wordtoccheck 5
 else
 	message "failed plusme"
+		goto exitclaim
 end if
 set msgmess Rdata.word[wordtoccheck].letter[0]
 set msgnum Rdata.word[wordtoccheck].letter[1]
@@ -563,6 +550,7 @@ else if msgmess == 8
 	set nextnum 5
 else
 	message "failed message letter 1"
+		goto exitclaim
 end if
 if msgnum != nextnum
 	call addit
@@ -571,16 +559,15 @@ else if msgnum == nextnum
 		call addit
 else
 	message "failed message letter 2"
-end if
+		goto exitclaim
 end if
 goto exitclaim
 label nextone
-	if nameck > 4
+	if nameck > totalwhats
 		goto exitclaim
 	end if
 	set nameck + 1
 		goto topper
-end if
 label exitclaim
 }
 
@@ -654,7 +641,7 @@ adder
 // we also have to check for time stamps for this to work. for now we aussume timestamps are on.
 // we have to remove the "." in the dot in the name also for textlog scanning
 set wordcount savedlog.num_words
-set wordcount - 1
+set wordcount - 1 //removes the hidden 0 or / in the lines raw string
 if wordcount == ts1 // 9 words
 	setglobal badnam savedlog.word[ts1]
 		call scramble
@@ -701,7 +688,7 @@ if dataset[Wdata] == ""
 				"/name " dataseat " . \r"
 					setglobal nameck Wdata
 						call updater
-							goto endish
+								goto endish
 else
 	if Wdata < 4 // Change to checked whatzitnumber + 1, later
 		set Wdata + 1
@@ -727,96 +714,36 @@ else if nameck == 3
 	setglobal dataset[3] dataseat
 else if nameck == 4
 	setglobal dataset[4] dataseat
-else if nameck < 4
-	message "*** Error Data Number Incorrect ***"
-else if nameck > 1
-	message "*** Error Data Number Incorrect ***"
 end if
 	message "data updated: " dataset[nameck] ""
+pause 1
 }
 
 
-// Scramble goes though each letter and re-add's it to a local set name til it finds a "." then ends
-// checks up to 15 letters for creatures
+// Scramble goes though each letter and re-add's it to a local set name til it finds a "." then returns
 scramble
 {
-//message "removing dot"
-if badnam.letter[0] != ""
-	if badnam.letter[0] != "."
-		setglobal nama badnam.letter[0]
+// message "removing dot"
+set letternnn 0
+label nextLETT
+if badnam.letter[letternnn] != ""
+	if badnam.letter[letternnn] != "."
+		if letternnn == 0
+			setglobal nama badnam.letter[letternnn]
+				set letternnn + 1
+					goto nextLETT
+		else
+			setglobal nama + badnam.letter[letternnn]
+				set letternnn + 1
+					goto nextLETT
+		end if
+	else
+		goto crackedegg
 	end if
 end if
-if badnam.letter[1] != ""
-	if badnam.letter[1] != "."
-		setglobal nama + badnam.letter[1]
-	end if
-end if
-if badnam.letter[2] != ""
-	if badnam.letter[2] != "."
-		setglobal nama + badnam.letter[2]
-	end if
-end if
-if badnam.letter[3] != ""
-	if badnam.letter[3] != "."
-		setglobal nama + badnam.letter[3]
-	end if
-end if
-if badnam.letter[4] != ""
-	if badnam.letter[4] != "."
-		setglobal nama + badnam.letter[4]
-	end if
-end if
-if badnam.letter[5] != ""
-	if badnam.letter[5] != "."
-		setglobal nama + badnam.letter[5]
-	end if
-end if
-if badnam.letter[6] != ""
-	if badnam.letter[6] != "."
-		setglobal nama + badnam.letter[6]
-	end if
-end if
-if badnam.letter[7] != ""
-	if badnam.letter[7] != "."
-		setglobal nama + badnam.letter[7]
-	end if
-end if
-if badnam.letter[8] != ""
-	if badnam.letter[8] != "."
-		setglobal nama + badnam.letter[8]
-	end if
-end if
-if badnam.letter[9] != ""
-	if badnam.letter[9] != "."
-		setglobal nama + badnam.letter[9]
-	end if
-end if
-if badnam.letter[10] != ""
-	if badnam.letter[10] != "."
-		setglobal nama + badnam.letter[10]
-	end if
-end if
-if badnam.letter[11] != ""
-	if badnam.letter[11] != "."
-		setglobal nama + badnam.letter[11]
-	end if
-end if
-if badnam.letter[12] != ""
-	if badnam.letter[12] != "."
-		setglobal nama + badnam.letter[12]
-	end if
-end if
-if badnam.letter[13] != ""
-	if badnam.letter[13] != "."
-		setglobal nama + badnam.letter[13]
-	end if
-end if
-if badnam.letter[14] != ""
-	if badnam.letter[14] != "."
-		setglobal nama + badnam.letter[14]
-	end if
-end if
+label crackedegg
 }
+
 // Messages
 setglobal msg[11] "Vast amount to learn: 1300 to go!"
 setglobal msg[12] "Vast amount to learn: 1200 to go!"
