@@ -166,9 +166,17 @@ label endLoad
 messwatch
 {
 message "scanning"
-set timesupwrightout 0
+
 label top
 set logck @env.textlog
+
+// ingore if the same line
+if logck == lastlog
+	goto top
+end if
+// might move the filter here next before checking for kill lines
+set lastlog logck
+set timesupwrightout 0
 // Begin Study filter
 if logck >= "•You begin studying the"
 		call filter
