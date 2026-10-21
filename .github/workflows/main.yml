@@ -24,18 +24,18 @@ jobs:
         run: |
           cd "clanlord apps/RankCounter/RankCounter31"
           pyinstaller --noconfirm --onefile --windowed --name RankCounter ^
-            --add-data "rankmessages.txt;." ^
-            --add-data "trainers.txt;." ^
-            --add-data "specialphrases.txt;." ^
-            --add-data "KIN668.TTF;." ^
-            --add-data "phoenix.png;." ^
-            --add-data "img;img" ^
-            --add-data "Bestiary_2026_07_06_Dump.xml;." ^
-            --add-data "weapons_data.json;." ^
-            --add-data "offhand_data.json;." ^
-            --add-data "shoulder_data.json;." ^
-            --add-data "armor_data.json;." ^
-            --add-data "bestiary_levels.json;." ^
+            --add-data="rankmessages.txt;." ^
+            --add-data="trainers.txt;." ^
+            --add-data="specialphrases.txt;." ^
+            --add-data="KIN668.TTF;." ^
+            --add-data="phoenix.png;." ^
+            --add-data="img;img" ^
+            --add-data="Bestiary_2026_07_06_Dump.xml;." ^
+            --add-data="weapons_data.json;." ^
+            --add-data="offhand_data.json;." ^
+            --add-data="shoulder_data.json;." ^
+            --add-data="armor_data.json;." ^
+            --add-data="bestiary_levels.json;." ^
             main.py
       - uses: actions/upload-artifact@v4
         with:
@@ -60,18 +60,18 @@ jobs:
         run: |
           cd "clanlord apps/RankCounter/RankCounter31"
           pyinstaller --noconfirm --windowed --name RankCounter \
-            --add-data "rankmessages.txt:." \
-            --add-data "trainers.txt:." \
-            --add-data "specialphrases.txt:." \
-            --add-data "KIN668.TTF:." \
-            --add-data "phoenix.png:." \
-            --add-data "img:img" \
-            --add-data "Bestiary_2026_07_06_Dump.xml:." \
-            --add-data "weapons_data.json:." \
-            --add-data "offhand_data.json:." \
-            --add-data "shoulder_data.json:." \
-            --add-data "armor_data.json:." \
-            --add-data "bestiary_levels.json;." \
+            --add-data="rankmessages.txt:." \
+            --add-data="trainers.txt:." \
+            --add-data="specialphrases.txt:." \
+            --add-data="KIN668.TTF:." \
+            --add-data="phoenix.png:." \
+            --add-data="img:img" \
+            --add-data="Bestiary_2026_07_06_Dump.xml:." \
+            --add-data="weapons_data.json:." \
+            --add-data="offhand_data.json:." \
+            --add-data="shoulder_data.json:." \
+            --add-data="armor_data.json:." \
+            --add-data="bestiary_levels.json:." \
             main.py
       - uses: actions/upload-artifact@v4
         with:
@@ -98,18 +98,18 @@ jobs:
         run: |
           cd "clanlord apps/RankCounter/RankCounter31"
           pyinstaller --noconfirm --onefile --name RankCounter \
-            --add-data "rankmessages.txt:." \
-            --add-data "trainers.txt:." \
-            --add-data "specialphrases.txt:." \
-            --add-data "KIN668.TTF:." \
-            --add-data "phoenix.png:." \
-            --add-data "img:img" \
-            --add-data "Bestiary_2026_07_06_Dump.xml:." \
-            --add-data "weapons_data.json:." \
-            --add-data "offhand_data.json:." \
-            --add-data "shoulder_data.json:." \
-            --add-data "armor_data.json:." \
-            --add-data "bestiary_levels.json;." \
+            --add-data="rankmessages.txt:." \
+            --add-data="trainers.txt:." \
+            --add-data="specialphrases.txt:." \
+            --add-data="KIN668.TTF:." \
+            --add-data="phoenix.png:." \
+            --add-data="img:img" \
+            --add-data="Bestiary_2026_07_06_Dump.xml:." \
+            --add-data="weapons_data.json:." \
+            --add-data="offhand_data.json:." \
+            --add-data="shoulder_data.json:." \
+            --add-data="armor_data.json:." \
+            --add-data="bestiary_levels.json:." \
             main.py
       - name: Prepare AppDir
         run: |
