@@ -4,15 +4,29 @@
 
 ### Screenshots:
 
-[![](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/coins.png)](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/coins.png)
+[![](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot_20261021_104147.png)](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot_20261021_104147.png)
 
-[![](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot%202026-04-22%20175442.png)](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot%202026-04-22%20175442.png)
+[![](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot_20261021_104202.png)](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot_20261021_104202.png)
 
-[![](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot%202026-04-22%20175453.png)](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot%202026-04-22%20175453.png)
+[![](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot_20261021_104211.png)](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot_20261021_104211.png)
 
-[![](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot%202026-04-22%20175501.png)](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot%202026-04-22%20175501.png)
+[![](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot_20261021_104249.png)](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot_20261021_104249.png)
 
-[![](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot%202026-04-22%20175511.png)](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot%202026-04-22%20175511.png)
+[![](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot_20261021_104414.png)](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot_20261021_104414.png)
+
+[![](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot_20261021_104458.png)](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot_20261021_104458.png)
+
+[![](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot_20261021_104510.png)](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot_20261021_104510.png)
+
+[![](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot_20261021_104520.png)](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot_20261021_104520.png)
+
+[![](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot_20261021_104529.png)](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot_20261021_104529.png)
+
+[![](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot_20261021_104620.png)](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot_20261021_104620.png)
+
+[![](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot_20261021_104719.png)](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot_20261021_104719.png)
+
+[![](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot_20261021_104736.png)](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot_20261021_104736.png)
 
 ## Downloads (releases):
 ### Windows:
@@ -146,3 +160,41 @@ then:
 
     ./appimager.sh
 
+
+## Licenses & Credits
+
+- Gorvin (gorvin.50webs.com) - Healer/Fighter calculator math and formulas.
+- Org du Lac - Bestiary images and calculations (bestiary.clanlord.net).
+- Noivad - Clumps Ranger information (clump.clanlord.net).
+- Delta Tao Software (deltatao.com/clanlord) - holds rights to Clan Lord images.
+
+Third-party licenses:
+- Python - PSF License
+- Tkinter - PSF License
+- Pillow (PIL) - HPND License
+- PyInstaller - GPL v2 with Bootloader Exception
+
+
+## Build Information (RankCounter31)
+
+Required files in the same folder:
+
+- Bestiary_2026_07_06_Dump.xml
+- KIN668.TTF
+- armor_data.json
+- cl_time.py
+- constants.py
+- main.py
+- offhand_data.json
+- parser.py
+- phoenix.png
+- rankmessages.txt
+- shoulder_data.json
+- specialphrases.txt
+- storage.py
+- trainers.txt
+- ui_components.py
+- weapons_data.json
+- img/ (folder with moon icons and creatures_static images)
+
+Build via GitHub Actions release.yml or compile locally with PyInstaller.
