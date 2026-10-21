@@ -1,7 +1,7 @@
 from __future__ import annotations
 from dataclasses import dataclass
 from datetime import datetime, timezone
-from typing import Tuple
+from typing import Tuple, TypedDict, Optional, List, TypedDict
 import time
 
 # The game time multiplier is exactly 45.0 / 11.0 (time passes faster in-game)
@@ -27,6 +27,151 @@ ZODIAC_SIGNS = [
     "Ancients", "Centaur", "Fox", "Rat",
     "Rooster", "Runkee", "Shredder", "Cat",
     "Healer", "Mystic", "Orcipus the Pig", "Warrior",
+]
+
+class ZodiacData(TypedDict):
+    name: str
+    short_name: str
+    gilded_sprite_id: int
+    star_icon_id: int
+
+ZODIAC_SIGNS_METADATA: list[ZodiacData] = [
+    {
+        "name": "Awjus & Hamusa the Shredders",
+        "short_name": "Shredders",
+        "gilded_sprite_id": 1908,
+        "star_icon_id": 2378
+    },
+    {
+        "name": "Ma'Taline the Mystic",
+        "short_name": "Mystic",
+        "gilded_sprite_id": 1911,
+        "star_icon_id": 2379
+    },
+    {
+        "name": "Josephus the Ancient",
+        "short_name": "Josephus",
+        "gilded_sprite_id": 1911,
+        "star_icon_id": 2380
+    },
+    {
+        "name": "Mump the Vermine",
+        "short_name": "Mump",
+        "gilded_sprite_id": 1909,
+        "star_icon_id": 2381
+    },
+    {
+        "name": "Elixus the Cat",
+        "short_name": "Elixus",
+        "gilded_sprite_id": 1910,
+        "star_icon_id": 2382
+    },
+    {
+        "name": "Sybill the Fox",
+        "short_name": "Sybill",
+        "gilded_sprite_id": 1912,
+        "star_icon_id": 2383
+    },
+    {
+        "name": "Eghorus the Rooster",
+        "short_name": "Eghorus",
+        "gilded_sprite_id": 1913,
+        "star_icon_id": 2384
+    },
+    {
+        "name": "Bgrr the Ogre",
+        "short_name": "Bgrr",
+        "gilded_sprite_id": 1914,
+        "star_icon_id": 2385
+    },
+    {
+        "name": "Boh the Pig",
+        "short_name": "Boh",
+        "gilded_sprite_id": 1915,
+        "star_icon_id": 2386
+    },
+    {
+        "name": "Detros the Ruknee",
+        "short_name": "Detros",
+        "gilded_sprite_id": 1916,
+        "star_icon_id": 2387
+    },
+    {
+        "name": "T’Karr the Monument",
+        "short_name": "T’Karr",
+        "gilded_sprite_id": 1917,
+        "star_icon_id": 2388
+    },
+    {
+        "name": "Nip the Dog",
+        "short_name": "Nip",
+        "gilded_sprite_id": 1918,
+        "star_icon_id": 2389
+    },
+]
+
+CELESTIAL_SKY_CATALOG = {
+    "zodiacs": [
+        {"name": "Awjus & Hamusa the Shredders", "sprite_id": 1908, "star_icon_id": 2378},
+        {"name": "Ma'Taline the Mystic",      "sprite_id": 1911, "star_icon_id": 2379},
+        {"name": "Josephus the Ancient",      "sprite_id": 1911, "star_icon_id": 2380},
+        {"name": "Mump the Vermine",          "sprite_id": 1909, "star_icon_id": 2381},
+        {"name": "Elixus the Cat",            "sprite_id": 1910, "star_icon_id": 2382},
+        {"name": "Sybill the Fox",            "sprite_id": 1912, "star_icon_id": 2383},
+        {"name": "Eghorus the Rooster",       "sprite_id": 1913, "star_icon_id": 2384},
+        {"name": "Bgrr the Ogre",              "sprite_id": 1914, "star_icon_id": 2385},
+        {"name": "Boh the Pig",               "sprite_id": 1915, "star_icon_id": 2386},
+        {"name": "Detros the Ruknee",          "sprite_id": 1916, "star_icon_id": 2387},
+        {"name": "T’Karr the Monument",        "sprite_id": 1917, "star_icon_id": 2388},
+        {"name": "Nip the Dog",               "sprite_id": 1918, "star_icon_id": 2389},
+    ],
+    "extra_features": [
+        {"name": "Fyr the Fish",     "sprite_id": 1919, "star_icon_id": 2390, "type": "Auxiliary Zodiac"},
+        {"name": "D’moth the Egg",   "sprite_id": 1920, "star_icon_id": 2391, "type": "Auxiliary Zodiac"},
+        {"name": "The Comet",        "sprite_id": None, "star_icon_id": 2392, "type": "Celestial Object"},
+        {"name": "The Pole Star",    "sprite_id": None, "star_icon_id": 2393, "type": "Fixed Star"},
+        {"name": "The Serpent",      "sprite_id": None, "star_icon_id": 2394, "type": "Sky Formation"},
+    ]
+}
+
+class SkyFeatureData(TypedDict):
+    name: str
+    sprite_id: Optional[int]
+    star_icon_id: int
+    type: str
+
+
+CELESTIAL_EXTRA_FEATURES: list[SkyFeatureData] = [
+    {
+        "name": "Fyr the Fish",
+        "sprite_id": 1919,
+        "star_icon_id": 2390,
+        "type": "Auxiliary Zodiac",
+    },
+    {
+        "name": "D'moth the Egg",
+        "sprite_id": 1920,
+        "star_icon_id": 2391,
+        "type": "Auxiliary Zodiac",
+    },
+    {
+        "name": "The Comet",
+        "sprite_id": None,
+        "star_icon_id": 2392,
+        "type": "Celestial Object",
+    },
+    {
+        "name": "The Pole Star",
+        "sprite_id": None,
+        "star_icon_id": 2393,
+        "type": "Fixed Star",
+    },
+    {
+        "name": "The Serpent",
+        "sprite_id": None,
+        "star_icon_id": 2394,
+        "type": "Sky Formation",
+    },
 ]
 
 MOON_PHASE_NAMES = [
@@ -59,8 +204,35 @@ class CLTimeStruct:
         return WEEKDAYS[self.weekday_index]
 
     @property
+    def zodiac_info(self) -> ZodiacData:
+        return ZODIAC_SIGNS_METADATA[self.zodiac_index]
+
+    @property
     def zodiac_name(self) -> str:
-        return ZODIAC_SIGNS[self.zodiac_index]
+        return self.zodiac_info["name"]
+
+    @property
+    def zodiac_sprite_filename(self) -> str:
+        """Returns image filename for the Gilded Sprite, e.g. '1909.png'"""
+        return f"{self.zodiac_info['gilded_sprite_id']}.png"
+
+    @property
+    def zodiac_stars_filename(self) -> str:
+        """Returns image filename for the Constellation Icon, e.g. '2381.png'"""
+        return f"{self.zodiac_info['star_icon_id']}.png"
+
+    @property
+    def is_night(self) -> bool:
+        """True if the in-game hour is during nighttime (before 6 AM or after 6 PM)."""
+        return self.ic_hour < 6 or self.ic_hour >= 18
+
+    @property
+    def visible_night_features(self) -> List[SkyFeatureData]:
+        """Returns additional sky objects visible during night hours."""
+        if not self.is_night:
+            return []
+        visible = [f for f in CELESTIAL_EXTRA_FEATURES if f["name"] == "The Pole Star"]
+        return visible
 
     @property
     def moon_phase_name(self) -> str:
@@ -145,7 +317,7 @@ def moon_phase_for_day(ic_day: int) -> Tuple[int, str]:
 def zodiac_for_day(ic_day: int) -> Tuple[str, int, int]:
     zodiac_day = ic_day % IC_ZODIAC_SIGN_DAYS
     zodiac_index = (ic_day // IC_ZODIAC_SIGN_DAYS) % IC_ZODIAC_SIGNS_COUNT
-    sign = ZODIAC_SIGNS[zodiac_index]
+    sign = ZODIAC_SIGNS_METADATA[zodiac_index]["name"]
     days_until_next = IC_ZODIAC_SIGN_DAYS - zodiac_day
     return sign, zodiac_day, days_until_next
 
@@ -180,6 +352,14 @@ def fmt_cl_header(cl: CLTimeStruct) -> str:
         f"day {cl.season_day + 1} of {cl.season_name}, "
         f"day {cl.day_of_year + 1} of the year {cl.year}"
     )
+
+
+def get_extra_feature_by_name(name: str) -> Optional[SkyFeatureData]:
+    """Helper to fetch image IDs for auxiliary features (Fyr, D'moth, Comet, etc.)"""
+    for feat in CELESTIAL_EXTRA_FEATURES:
+        if feat["name"].lower() == name.lower():
+            return feat
+    return None
 
 
 def cl_now() -> CLTimeStruct:

@@ -1,3 +1,4 @@
+import os
 import tkinter as tk
 from tkinter import ttk, messagebox
 from datetime import datetime, timezone
@@ -41,8 +42,16 @@ class CLTime:
         self.lbl_lunar.grid(row=2, column=1, sticky="n", pady=(0, 20))
 
         self.header("Zodiac cycle").grid(row=3, column=0, sticky="n")
-        self.lbl_zodiac = self.body("")
-        self.lbl_zodiac.grid(row=4, column=0, sticky="n", pady=(0, 20))
+        zodiac_frame = ttk.Frame(self.main)
+        zodiac_frame.grid(row=4, column=0, sticky="n", pady=(0, 20))
+        self.lbl_zodiac = ttk.Label(zodiac_frame, text="", style="Body.TLabel", justify="left")
+        self.lbl_zodiac.pack(pady=(0, 5))
+        img_row = ttk.Frame(zodiac_frame)
+        img_row.pack()
+        self.zodiac_image_label = ttk.Label(img_row)
+        self.zodiac_image_label.pack(side="left", padx=5)
+        self.zodiac_star_label = ttk.Label(img_row)
+        self.zodiac_star_label.pack(side="left", padx=5)
 
         self.header("Coliseum").grid(row=3, column=1, sticky="n")
         self.lbl_coliseum = self.body("")
@@ -98,10 +107,39 @@ class CLTime:
         self.lbl_lunar.config(text=lunar)
 
         sign, day_in_sign, days_until_next = zodiac_for_day(cl.ic_day)
+        night_txt = ""
+        if cl.is_night:
+            feats = cl.visible_night_features
+            if feats:
+                night_txt = "\nNight: " + ", ".join(f["name"] for f in feats)
         self.lbl_zodiac.config(text=(
             f"Day {day_in_sign} of {sign}\n"
             f"Next sign rises in {days_until_next} days"
+            f"{night_txt}"
         ))
+
+        # Zodiac images
+        info = cl.zodiac_info
+        sprite_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "img", info["gilded_sprite_id"] and f"{info['gilded_sprite_id']}.png" or "")
+        star_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "img", f"{info['star_icon_id']}.png")
+        try:
+            from PIL import Image, ImageTk
+            if os.path.exists(sprite_path):
+                img = Image.open(sprite_path)
+                img.thumbnail((64, 64))
+                self._zodiac_photo = ImageTk.PhotoImage(img)
+                self.zodiac_image_label.config(image=self._zodiac_photo, text="")
+            else:
+                self.zodiac_image_label.config(image="", text="")
+            if os.path.exists(star_path):
+                img = Image.open(star_path)
+                img.thumbnail((64, 64))
+                self._zodiac_star_photo = ImageTk.PhotoImage(img)
+                self.zodiac_star_label.config(image=self._zodiac_star_photo, text="")
+            else:
+                self.zodiac_star_label.config(image="", text="")
+        except Exception as e:
+            print("Zodiac image load failed:", e)
 
         next_col = cl_to_real(cl.ic_day + 1, 23, 10)
         self.lbl_coliseum.config(text=f"Coliseum opens at {fmt_real(next_col)}")

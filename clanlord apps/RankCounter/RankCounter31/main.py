@@ -25,6 +25,7 @@ except Exception:
 # Shared modules
 from constants import *
 from storage import *
+import storage
 from cl_time import *
 from parser import *
 from ui_components import CLTime
@@ -187,6 +188,11 @@ def on_scan_done(fut):
         details = f"Total {data['total_worth']}c, share {data['total_share']}c, you skinned {data['your_skins']}"
         coins_table.insert("", "end", values=(label, details))
 
+    try:
+        update_cv_display()
+    except Exception:
+        pass
+
 
 def load_files_and_count_words():
     name = get_selected_character()
@@ -319,6 +325,14 @@ def on_character_selected_simple():
             count_val = str(data)
             kills_val = ""
         creature_table.insert("", "end", values=(n, count_val, kills_val))
+
+    # Load healer/fighter calc data
+    hdata = character_healer.get(name, {})
+    for key, var in healer_entries.items():
+        var.set(hdata.get(key, "0"))
+    fdata = character_fighter.get(name, {})
+    for key, var in fighter_entries.items():
+        var.set(fdata.get(key, "0"))
 
 
 def open_ignore_manager():
@@ -555,7 +569,7 @@ This application is for personal use. Game data and images belong to their respe
 # ----------------------------------------------------------------------
 
 root = tk.Tk()
-root.title("Rank Counter 31")
+root.title("Rank Counter 31.1")
 
 font_path = os.path.join(os.path.dirname(__file__), "KIN668.TTF")
 IMG_DIR = os.path.join(os.path.dirname(__file__), "img")
@@ -607,11 +621,12 @@ notebook.add(frame_creatures, text="Creatures")
 notebook.add(frame_logsearch, text="Log Search")
 notebook.add(frame_coins, text="Coins")
 notebook.add(frame_CLTime, text="Time")
-notebook.add(frame_moon, text="Moon Calendar")
 notebook.add(frame_healer, text="Healer Calc")
 notebook.add(frame_fighter, text="Fighter Calc")
 
 CLTime(frame_CLTime)
+frame_CLTime.rowconfigure(1, weight=1)
+frame_CLTime.columnconfigure(0, weight=1)
 
 # --- Coin time filter controls -------------------------------------------
 coin_filter_mode_var = tk.StringVar(value="All time")
@@ -694,10 +709,133 @@ def refresh_coins_table():
         details = f"Total {data['total_worth']}c, share {data['total_share']}c, you skinned {data['your_skins']}"
         coins_table.insert("", "end", values=(label, details))
 
+    try:
+        update_cv_display()
+    except Exception:
+        pass
+
 tk.Button(frame_coins, text="Refresh Coins", command=refresh_coins_table).pack(pady=5)
 
 load_characters()
+load_data_sources()
 load_bestiary()
+
+def merge_duplicate_characters():
+    # Merge characters whose normalized names match (case/space insensitive)
+    merged = {}
+    for name, folders in list(character_folders.items()):
+        key = "".join(name.split()).lower()
+        if key not in merged:
+            merged[key] = name
+        else:
+            canon = merged[key]
+            # merge folders
+            for f in folders:
+                if os.path.normpath(f) not in [os.path.normpath(p) for p in character_folders[canon]]:
+                    character_folders[canon].append(f)
+            # merge ranks (sum)
+            for r, c in character_ranks.get(name, {}).items():
+                character_ranks[canon][r] = character_ranks[canon].get(r, 0) + c
+            # merge creatures
+            for c, d in character_creatures.get(name, {}).items():
+                if c not in character_creatures[canon]:
+                    character_creatures[canon][c] = d
+            # merge ignored
+            for ig in character_ignored.get(name, []):
+                if ig not in character_ignored[canon]:
+                    character_ignored[canon].append(ig)
+            # merge removed folders
+            for rf in character_removed_folders.get(name, []):
+                if rf not in character_removed_folders[canon]:
+                    character_removed_folders[canon].append(rf)
+            # merge healer/fighter (keep existing if empty)
+            if not character_healer.get(canon):
+                character_healer[canon] = character_healer.get(name, {})
+            if not character_fighter.get(canon):
+                character_fighter[canon] = character_fighter.get(name, {})
+            # remove duplicate
+            del character_folders[name]
+            character_ranks.pop(name, None)
+            character_creatures.pop(name, None)
+            character_ignored.pop(name, None)
+            character_removed_folders.pop(name, None)
+            character_healer.pop(name, None)
+            character_fighter.pop(name, None)
+
+merge_duplicate_characters()
+
+def discover_characters():
+    for src in list(data_sources):
+        if not os.path.isdir(src):
+            continue
+        try:
+            for entry in os.listdir(src):
+                path = os.path.join(src, entry)
+                if not os.path.isdir(path):
+                    continue
+                # Skip folders that are clearly not character logs
+                low_name = entry.lower()
+                if any(tok in low_name for tok in ("move", "movie", "macro", "clump", "cl_move")):
+                    continue
+
+                # Validate: folder must contain at least one .txt log with typical log content
+                has_log = False
+                for _root, _dirs, files in os.walk(path):
+                    for fn in files:
+                        if not fn.lower().endswith(".txt"):
+                            continue
+                        fpath = os.path.join(_root, fn)
+                        try:
+                            with open(fpath, encoding="utf-8", errors="ignore") as f:
+                                for line in f:
+                                    if re.search(r"\\d+/\\d+/\\d+", line) or "You " in line or "slaughtered" in line or "killed" in line:
+                                        has_log = True
+                                        break
+                            if has_log:
+                                break
+                        except Exception:
+                            pass
+                    if has_log:
+                        break
+                if not has_log:
+                    continue
+                # Normalize name: ignore case and spaces so "Cat Food", "catfood", "catFood" merge
+                def _norm(n):
+                    return "".join(n.split()).lower()
+                existing = None
+                for name in character_folders:
+                    if _norm(name) == _norm(entry):
+                        existing = name
+                        break
+                char_name = existing if existing else entry
+                if char_name not in character_folders:
+                    character_folders[char_name] = []
+                    character_ranks[char_name] = {}
+                    character_creatures[char_name] = {}
+                    character_ignored[char_name] = []
+                    character_healer[char_name] = {}
+                    character_fighter[char_name] = {}
+                # Respect manually removed folders
+                removed = character_removed_folders.get(char_name, [])
+                if path in removed:
+                    continue
+                norm_path = os.path.normpath(path)
+                existing_norms = [os.path.normpath(p) for p in character_folders[char_name]]
+                if norm_path not in existing_norms:
+                    character_folders[char_name].append(path)
+        except Exception as e:
+            print("Discover error:", e)
+    refresh_character_list()
+
+def refresh_character_list():
+    character_list.delete(0, tk.END)
+    seen = set()
+    for name in character_folders.keys():
+        key = "".join(name.split()).lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        character_list.insert(tk.END, name)
 try:
     with open(resource_path("weapons_data.json"), encoding="utf-8") as f:
         weapons_data = json.load(f)
@@ -732,6 +870,7 @@ char_area.pack(fill="both", expand=True, pady=5)
 character_list = tk.Listbox(char_area, height=10, width=40, exportselection=False)
 character_list.pack(pady=10, fill="both", expand=True)
 constants.character_list = character_list
+discover_characters()
 
 def on_character_selected(event):
     sel = event.widget.curselection()
@@ -763,6 +902,16 @@ def on_character_selected(event):
                 kills_val = ""
             creature_table.insert("", "end", values=(n, count_val, kills_val))
 
+    update_cv_display() if 'update_cv_display' in globals() else None
+
+    # Load healer/fighter calc data
+    hdata = character_healer.get(name, {})
+    for key, var in healer_entries.items():
+        var.set(hdata.get(key, "0"))
+    fdata = character_fighter.get(name, {})
+    for key, var in fighter_entries.items():
+        var.set(fdata.get(key, "0"))
+
 for name in character_folders.keys():
     character_list.insert(tk.END, name)
 character_list.bind("<<ListboxSelect>>", on_character_selected)
@@ -775,12 +924,23 @@ def get_selected_character():
 
 def add_character():
     new_name = tk.simpledialog.askstring("Add Character", "Enter new character name:")
-    if new_name:
-        character_list.insert(tk.END, new_name)
-        character_folders[new_name] = []
-        character_ranks[new_name] = {}
-        character_creatures[new_name] = {}
-        save_characters()
+    if not new_name:
+        return
+    existing = None
+    for name in character_folders:
+        if "".join(name.split()).lower() == "".join(new_name.split()).lower():
+            existing = name
+            break
+    if existing:
+        messagebox.showinfo("Existing Character", f"Character '{existing}' already exists. Using existing entry.")
+        return
+    character_list.insert(tk.END, new_name)
+    character_folders[new_name] = []
+    character_ranks[new_name] = {}
+    character_creatures[new_name] = {}
+    character_healer[new_name] = {}
+    character_fighter[new_name] = {}
+    save_characters()
 
 def remove_character():
     sel = character_list.curselection()
@@ -794,6 +954,8 @@ def remove_character():
         character_ranks.pop(name, None)
         character_creatures.pop(name, None)
         character_ignored.pop(name, None)
+        character_healer.pop(name, None)
+        character_fighter.pop(name, None)
         save_characters()
 
 char_buttons_frame = ttk.Frame(char_area)
@@ -844,6 +1006,9 @@ def remove_folder_in_manager():
         name = get_selected_character()
         if name and folder in character_folders.get(name, []):
             character_folders[name].remove(folder)
+            character_removed_folders.setdefault(name, [])
+            if folder not in character_removed_folders[name]:
+                character_removed_folders[name].append(folder)
             update_folder_list_in_manager()
             save_characters()
 
@@ -872,6 +1037,42 @@ back_btn.pack(side="left", padx=5)
 manage_folders_btn = ttk.Button(char_buttons_frame, text="Folders", command=open_folder_manager)
 manage_folders_btn.pack(side="left", padx=5)
 
+def open_data_sources_manager():
+    win = tk.Toplevel(root)
+    win.title("Data Sources")
+    win.geometry("500x300")
+    lb = tk.Listbox(win)
+    lb.pack(fill="both", expand=True, padx=10, pady=5)
+    for src in data_sources:
+        lb.insert(tk.END, src)
+
+    def add_src():
+        d = filedialog.askdirectory()
+        if d and d not in data_sources:
+            data_sources.append(d)
+            save_data_sources()
+            lb.insert(tk.END, d)
+            discover_characters()
+
+    def remove_src():
+        sel = lb.curselection()
+        if not sel:
+            return
+        src = lb.get(sel[0])
+        if src in data_sources:
+            data_sources.remove(src)
+            save_data_sources()
+        lb.delete(sel[0])
+        discover_characters()
+
+    btn_frame = ttk.Frame(win)
+    btn_frame.pack(pady=5)
+    ttk.Button(btn_frame, text="Add Source", command=add_src).pack(side="left", padx=5)
+    ttk.Button(btn_frame, text="Remove Selected", command=remove_src).pack(side="left", padx=5)
+
+data_sources_btn = ttk.Button(char_buttons_frame, text="Data Sources", command=open_data_sources_manager)
+data_sources_btn.pack(side="left", padx=5)
+
 # Ranks table
 table = ttk.Treeview(frame_ranks, columns=("Trainer", "Ranks"), show="headings")
 table.heading("Trainer", text="Trainer")
@@ -895,6 +1096,15 @@ constants.creature_table = creature_table
 # Creature image preview (bestiary)
 creature_preview_frame = ttk.LabelFrame(frame_creatures, text="Creature Preview")
 creature_preview_frame.pack(fill="x", padx=10, pady=5)
+
+cv_label = ttk.Label(frame_creatures, text="CV: -", font=("KIN668", 11, "bold"))
+cv_label.pack(pady=5)
+
+# compute_cv_level is now provided by storage (imported)
+def update_cv_display():
+    name = get_selected_character() if 'get_selected_character' in globals() else None
+    lvl = compute_cv_level(name)
+    cv_label.config(text=f"CV: {lvl}" if lvl is not None else "CV: -")
 
 creature_name_label = ttk.Label(creature_preview_frame, text="Select a creature", font=("KIN668", 11, "bold"))
 creature_name_label.pack(pady=2)
@@ -1053,7 +1263,7 @@ def show_creature_info():
 
     # Preferred order
     preferred = [
-        "name", "family", "rarity", "location", "information", "worth",
+        "name", "family", "level", "rarity", "location", "information", "worth",
         "worth_range", "exp_taxidermy", "spawns_per_hour", "attack",
         "defense", "damage", "health", "framesperswing", "difficulty",
         "luck_hits", "is_seasonal", "last_update",
@@ -1115,8 +1325,8 @@ creature_table.bind("<Button-2>", show_creature_menu)
 # PIXEL-PERFECT MOON CALENDAR
 # ---------------------------------------------------------
 
-moon_container = ttk.Frame(frame_moon)
-moon_container.pack(fill="both", expand=True, padx=20, pady=20)
+moon_container = ttk.Frame(frame_CLTime)
+moon_container.grid(row=1, column=0, sticky="nsew", padx=20, pady=20)
 
 stats_frame = ttk.LabelFrame(moon_container, text="Current Time")
 stats_frame.pack(fill="x", pady=(0, 10))
@@ -1263,7 +1473,7 @@ def update_moon_calendar():
         else:
             cell.config(bd=1, relief="solid")
 
-    frame_moon.after(60000, update_moon_calendar)
+    frame_CLTime.after(60000, update_moon_calendar)
 
 cl_time = real_to_cl(datetime.now())
 year_var.set(cl_time.year)
@@ -2045,5 +2255,22 @@ def calc_fighter():
         fighter_results.insert("end", f"{rt} results...\n")
 
 calc_fighter()
+
+def sync_calc_data():
+    name = get_selected_character() if 'get_selected_character' in globals() else None
+    if not name:
+        return
+    try:
+        character_healer[name] = {k: v.get() for k, v in healer_entries.items()}
+    except Exception:
+        pass
+    try:
+        character_fighter[name] = {k: v.get() for k, v in fighter_entries.items()}
+    except Exception:
+        pass
+
+def save_characters():
+    sync_calc_data()
+    storage.save_characters()
 
 root.mainloop()

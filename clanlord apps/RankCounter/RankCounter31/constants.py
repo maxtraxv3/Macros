@@ -165,6 +165,9 @@ character_folders  = {}
 character_ranks    = {}     # Stores rank data
 character_creatures= {}     # Stores creature data
 character_ignored  = {}     # Stores ignored creatures
+character_healer   = {}     # Stores healer calc data
+character_fighter  = {}     # Stores fighter calc data
+character_removed_folders = {}  # Stores manually removed folders per character
 current_folder_name= None
 executor           = concurrent.futures.ThreadPoolExecutor(max_workers=4)
 
@@ -193,6 +196,9 @@ ls_results_list = None
 ls_hidden_paths = []
 kills_txt_path = None
 BESTIARY_FILE = resource_path('Bestiary_2026_07_06_Dump.xml')
+BESTIARY_LEVELS_FILE = resource_path('bestiary_levels.json')
+DATA_SOURCES_FILE = "datasources.json"
+data_sources = []
 bestiary_data = {}
 IMG_DIR = None
 font_path = None

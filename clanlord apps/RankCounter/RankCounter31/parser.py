@@ -5,7 +5,7 @@ from datetime import datetime
 
 import constants
 from constants import *
-from storage import read_words_from_file, read_text_files, get_min_time_from_filter, is_excluded
+from storage import read_words_from_file, read_text_files, get_min_time_from_filter, is_excluded, count_word_occurrences
 
 # -----------------------------
 # Core Parsing / Counts

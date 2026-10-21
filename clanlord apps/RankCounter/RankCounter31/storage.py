@@ -1,4 +1,5 @@
 import os
+import re
 import codecs
 import xml.etree.ElementTree as ET
 import json
@@ -148,6 +149,9 @@ def save_characters():
             "ranks": character_ranks.get(name, {}),
             "creatures": character_creatures.get(name, {}),
             "ignored": character_ignored.get(name, []),
+            "removed_folders": character_removed_folders.get(name, []),
+            "healer": character_healer.get(name, {}),
+            "fighter": character_fighter.get(name, {}),
             "kills_table": kills_to_next,
             "last_scan_time": time.time(),
         }
@@ -166,10 +170,32 @@ def load_characters():
             character_ranks[name] = info.get("ranks", {})
             character_creatures[name] = info.get("creatures", {})
             character_ignored[name] = info.get("ignored", [])
+            character_removed_folders[name] = info.get("removed_folders", [])
+            character_healer[name] = info.get("healer", {})
+            character_fighter[name] = info.get("fighter", {})
     except Exception as e:
         print(f"Error loading JSON: {e}")
 
 # -- Bestiary (XML) ----------------------------------------------------------
+
+def load_data_sources():
+    if not os.path.exists(DATA_SOURCES_FILE):
+        return
+    try:
+        with open(DATA_SOURCES_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        if isinstance(data, list):
+            data_sources.clear()
+            data_sources.extend(data)
+    except Exception as e:
+        print(f"Error loading data sources: {e}")
+
+def save_data_sources():
+    try:
+        with open(DATA_SOURCES_FILE, "w", encoding="utf-8") as f:
+            json.dump(data_sources, f, indent=4)
+    except Exception as e:
+        print(f"Error saving data sources: {e}")
 
 def load_bestiary(path=None):
     if path is None:
@@ -188,11 +214,68 @@ def load_bestiary(path=None):
             name = cols.get("name")
             if name:
                 data[name] = cols
+        # Merge scraped levels if available
+        levels_path = None
+        try:
+            levels_path = BESTIARY_LEVELS_FILE
+        except NameError:
+            levels_path = None
+        if not levels_path:
+            levels_path = os.path.join(os.path.dirname(BESTIARY_FILE), "bestiary_levels.json")
+        if os.path.exists(levels_path):
+            try:
+                with open(levels_path, encoding="utf-8") as f:
+                    levels = json.load(f)
+                for name, info in data.items():
+                    if name in levels:
+                        info["level"] = str(levels[name])
+            except Exception as e:
+                print("Could not load levels:", e)
         bestiary_data.clear()
         bestiary_data.update(data)
         print(f"Loaded bestiary: {len(bestiary_data)} creatures")
     except Exception as e:
         print(f"Error loading bestiary: {e}")
+
+def compute_cv_level(name):
+    if not name:
+        return None
+    # Precompute lowercase level map
+    lvl_map = {}
+    try:
+        if not bestiary_data:
+            load_bestiary()
+        for k, v in bestiary_data.items():
+            if v.get("level"):
+                try:
+                    lvl_map[k.strip().lower()] = int(v["level"])
+                except ValueError:
+                    pass
+    except Exception:
+        pass
+    max_level = 0
+    for folder in character_folders.get(name, []):
+        if not os.path.isdir(folder):
+            continue
+        for root, _, files in os.walk(folder):
+            for fn in files:
+                if not fn.lower().endswith(".txt"):
+                    continue
+                path = os.path.join(root, fn)
+                try:
+                    with open(path, encoding="utf-8", errors="ignore") as f:
+                        for line in f:
+                            if "killed" not in line.lower():
+                                continue
+                            m = re.search(r"(?:you|you helped)\s+killed\s+(?:a |an |the )?(.+?)\.", line, re.I)
+                            if m:
+                                cname = m.group(1).strip().lower()
+                                lvl = lvl_map.get(cname)
+                                if lvl and lvl > max_level:
+                                    max_level = lvl
+                except Exception:
+                    pass
+    return max_level if max_level > 0 else None
 
 def lookup_bestiary(name):
     if not bestiary_data:
