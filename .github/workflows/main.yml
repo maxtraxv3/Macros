@@ -12,9 +12,6 @@ permissions:
 jobs:
   build-windows:
     runs-on: windows-latest
-    defaults:
-      run:
-        working-directory: clanlord apps/RankCounter/RankCounter31
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -24,6 +21,7 @@ jobs:
         run: pip install pyinstaller pillow
       - name: Build Windows exe
         run: |
+          cd "clanlord apps/RankCounter/RankCounter31"
           pyinstaller --noconfirm --onefile --windowed --name RankCounter ^
             --add-data "rankmessages.txt;." ^
             --add-data "trainers.txt;." ^
@@ -49,9 +47,6 @@ jobs:
 
   build-macos:
     runs-on: macos-latest
-    defaults:
-      run:
-        working-directory: clanlord apps/RankCounter/RankCounter31
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -61,6 +56,7 @@ jobs:
         run: pip install pyinstaller pillow
       - name: Build macOS app
         run: |
+          cd "clanlord apps/RankCounter/RankCounter31"
           pyinstaller --noconfirm --windowed --name RankCounter \
             --add-data "rankmessages.txt:." \
             --add-data "trainers.txt:." \
@@ -86,9 +82,6 @@ jobs:
 
   build-linux:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: clanlord apps/RankCounter/RankCounter31
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -100,6 +93,7 @@ jobs:
         run: pip install pyinstaller pillow
       - name: Build Linux binary
         run: |
+          cd "clanlord apps/RankCounter/RankCounter31"
           pyinstaller --noconfirm --onefile --name RankCounter \
             --add-data "rankmessages.txt:." \
             --add-data "trainers.txt:." \
@@ -115,6 +109,7 @@ jobs:
             main.py
       - name: Prepare AppDir
         run: |
+          cd "clanlord apps/RankCounter/RankCounter31"
           mkdir -p AppDir/usr/bin AppDir/usr/share/applications
           cp dist/RankCounter AppDir/usr/bin/
           ln -s usr/bin/RankCounter AppDir/AppRun
@@ -129,10 +124,12 @@ jobs:
           cp phoenix.png AppDir/RankCounter.png
       - name: Download appimagetool
         run: |
+          cd "clanlord apps/RankCounter/RankCounter31"
           wget -q https://github.com/AppImage/AppImageKit/releases/download/continuous/appimagetool-x86_64.AppImage
           chmod +x appimagetool-x86_64.AppImage
       - name: Build AppImage
         run: |
+          cd "clanlord apps/RankCounter/RankCounter31"
           APPIMAGE_EXTRACT_AND_RUN=1 ./appimagetool-x86_64.AppImage AppDir RankCounter-x86_64.AppImage
       - uses: actions/upload-artifact@v4
         with:
