@@ -4,7 +4,7 @@
 
 ### Screenshots:
 
-[![](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/coins.png)](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/coins.png)
+[![](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot_20261021_104147.png)](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot_20261021_104147.png)
 
 [![](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot%202026-04-22%20175442.png)](https://github.com/maxtraxv3/Macros/blob/main/clanlord%20apps/RankCounter/screenshots/Screenshot%202026-04-22%20175442.png)
 
