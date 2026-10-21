@@ -35,6 +35,7 @@ jobs:
             --add-data "offhand_data.json;." ^
             --add-data "shoulder_data.json;." ^
             --add-data "armor_data.json;." ^
+            --add-data "bestiary_levels.json;." ^
             main.py
       - uses: actions/upload-artifact@v4
         with:
@@ -70,6 +71,7 @@ jobs:
             --add-data "offhand_data.json:." \
             --add-data "shoulder_data.json:." \
             --add-data "armor_data.json:." \
+            --add-data "bestiary_levels.json;." \
             main.py
       - uses: actions/upload-artifact@v4
         with:
@@ -107,6 +109,7 @@ jobs:
             --add-data "offhand_data.json:." \
             --add-data "shoulder_data.json:." \
             --add-data "armor_data.json:." \
+            --add-data "bestiary_levels.json;." \
             main.py
       - name: Prepare AppDir
         run: |
