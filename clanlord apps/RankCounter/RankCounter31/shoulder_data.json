@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Nothing",
+    "index": 0,
+    "stats": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "slot": "Shoulder"
+  },
+  {
+    "name": "Atkite Pauldron",
+    "index": 101,
+    "stats": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "slot": "Shoulder"
+  },
+  {
+    "name": "Darkite Pauldron",
+    "index": 102,
+    "stats": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "slot": "Shoulder"
+  },
+  {
+    "name": "Balthite Pauldron",
+    "index": 103,
+    "stats": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "slot": "Shoulder"
+  },
+  {
+    "name": "Dethite Pauldron",
+    "index": 104,
+    "stats": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "slot": "Shoulder"
+  },
+  {
+    "name": "Atkite Pauldron (Boosted)",
+    "index": 105,
+    "stats": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "slot": "Shoulder"
+  },
+  {
+    "name": "Darkite Pauldron (Boosted)",
+    "index": 106,
+    "stats": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "slot": "Shoulder"
+  },
+  {
+    "name": "Balthite Pauldron (Boosted)",
+    "index": 107,
+    "stats": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "slot": "Shoulder"
+  },
+  {
+    "name": "Dethite Pauldron (Boosted)",
+    "index": 108,
+    "stats": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "slot": "Shoulder"
+  }
+]

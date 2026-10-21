@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Bronze Helmet",
+    "slot": "Head",
+    "type": "Bronze",
+    "protection": "3%",
+    "move_speed": "0",
+    "move_speed_champ": "0"
+  },
+  {
+    "name": "Iron Helmet",
+    "slot": "Head",
+    "type": "Iron",
+    "protection": "5%",
+    "move_speed": "0",
+    "move_speed_champ": "0"
+  },
+  {
+    "name": "Bronze Shield",
+    "slot": "Off-Hand",
+    "type": "Bronze",
+    "protection": "7%",
+    "move_speed": "-1",
+    "move_speed_champ": "0"
+  },
+  {
+    "name": "Iron Shield",
+    "slot": "Off-Hand",
+    "type": "Iron",
+    "protection": "8%",
+    "move_speed": "-1",
+    "move_speed_champ": "0"
+  },
+  {
+    "name": "Rockodile Breastplate",
+    "slot": "Torso",
+    "type": "Rockodile",
+    "protection": "4%",
+    "move_speed": "-1",
+    "move_speed_champ": "0"
+  },
+  {
+    "name": "Silksteel Breastplate",
+    "slot": "Torso",
+    "type": "Silksteel",
+    "protection": "5%",
+    "move_speed": "-1",
+    "move_speed_champ": "0"
+  },
+  {
+    "name": "Imperial Chain Mail Vest",
+    "slot": "Torso",
+    "type": "Chain",
+    "protection": "8%",
+    "move_speed": "-1",
+    "move_speed_champ": "0"
+  },
+  {
+    "name": "Bronze Breastplate",
+    "slot": "Torso",
+    "type": "Bronze",
+    "protection": "9%",
+    "move_speed": "-2",
+    "move_speed_champ": "0"
+  },
+  {
+    "name": "Iron Breastplate",
+    "slot": "Torso",
+    "type": "Iron",
+    "protection": "11%",
+    "move_speed": "-2",
+    "move_speed_champ": "0"
+  },
+  {
+    "name": "Gilded Breastplate",
+    "slot": "Torso",
+    "type": "Gilded",
+    "protection": "11%",
+    "move_speed": "-2",
+    "move_speed_champ": "0"
+  },
+  {
+    "name": "Lead Boots",
+    "slot": "Feet",
+    "type": "Lead",
+    "protection": "3%",
+    "move_speed": "-6",
+    "move_speed_champ": "-4"
+  }
+]
