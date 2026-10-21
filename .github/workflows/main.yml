@@ -20,6 +20,7 @@ jobs:
       - name: Install dependencies
         run: pip install pyinstaller pillow
       - name: Build Windows exe
+        shell: cmd
         run: |
           cd "clanlord apps/RankCounter/RankCounter31"
           pyinstaller --noconfirm --onefile --windowed --name RankCounter ^
